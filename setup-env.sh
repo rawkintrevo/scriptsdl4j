@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 
+# Select CUDA 8 / CUDA 9
+# sudo update-alternatives --config cuda
 
-export PATH=/usr/local/cuda-9.1/bin${PATH:+:${PATH}}
-export LD_LIBRARY_PATH=/usr/local/cuda-9.1/lib64\
+export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64\
 	${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
-
 
 
 # Hack to get CUDA 9.1 (on ubuntu 17.04) to work with CUDA 8.0 (per DL4J)

@@ -8,7 +8,7 @@ import java.util.Random
 import org.apache.commons.io.FileUtils
 import org.deeplearning4j.nn.api.OptimizationAlgorithm
 import org.deeplearning4j.nn.conf.layers.{GravesLSTM, LSTM, RnnOutputLayer}
-import org.deeplearning4j.nn.conf.{BackpropType, MultiLayerConfiguration, NeuralNetConfiguration, Updater}
+import org.deeplearning4j.nn.conf._
 import org.deeplearning4j.nn.multilayer.MultiLayerNetwork
 import org.deeplearning4j.nn.weights.WeightInit
 import org.deeplearning4j.optimize.listeners.ScoreIterationListener
@@ -16,6 +16,7 @@ import org.nd4j.linalg.activations.Activation
 import org.nd4j.linalg.factory.Nd4j
 import org.nd4j.linalg.learning.config.{RmsProp, Sgd}
 import org.nd4j.linalg.lossfunctions.LossFunctions.LossFunction
+
 
 import scala.collection.mutable
 
@@ -77,20 +78,18 @@ object App {
     val iter = getIterator(miniBatchSize, exampleLength)
     val nOut = iter.totalOutcomes
     println("loaded " + nOut + " items, building network")
-//    import scala.collection.JavaConversions.mapAsScalaMap
-//    val lrSchedule = new java.util.HashMap[java.lang.Integer, java.lang.Double]()
-//    lrSchedule.put(0, 0.1)
-////    lrSchedule.put(15000, 0.01)
 
     //Set up network configuration:
     val conf: MultiLayerConfiguration = new NeuralNetConfiguration.Builder()
-
+      //      .updater(new RmsProp.Builder().learningRate(0.1).build())
+      .optimizationAlgo(OptimizationAlgorithm.STOCHASTIC_GRADIENT_DESCENT).iterations(1)
+      .learningRate(0.1)
       .seed(12345)
-//      .regularization(true)
+      .regularization(true)
       .l2(0.001)
       .weightInit(WeightInit.XAVIER)
-      .updater(new RmsProp.Builder().learningRate(0.1).build())
-      .list
+      .updater(Updater.RMSPROP)
+      .list()
       .layer(0, new LSTM.Builder().nIn(iter.inputColumns).nOut(lstmLayerSize)  // GravesLSTM doesn't support CuDNN - for gpus should use just lstm
         .activation(Activation.TANH).build())                                   // see https://deeplearning4j.org/quickref
       .layer(1, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
