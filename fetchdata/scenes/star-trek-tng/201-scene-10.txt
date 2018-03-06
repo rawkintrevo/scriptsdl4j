@@ -1,0 +1,32 @@
+RIKER [on monitor] PICARD DATA LAFORGE [on monitor] HOBSON
+begin network romulans coordinates flagship start determine action orders
+
+[Sutherland Bridge]
+
+HOBSON: We've arrived at the designated
+coordinates, Captain. 
+DATA: All stop. Notify the flagship that we have assumed station. 
+HOBSON: Starboard power coupling has overloaded. We've got a radiation
+leak on decks ten through twelve. 
+DATA: Why are the backups not functioning? 
+HOBSON: There wasn't enough time to test all the backups before we left
+the yard. Terry, I want you down in Engineering working on a new
+coupling. 
+DATA: You have taken the phaser and torpedo control units offline. 
+HOBSON: Keith, you and I will start bringing the radiation 
+DATA: Mister Hobson, it is inappropriate for you to determine a course
+of action without consulting the commanding officer. 
+HOBSON: I was trying to safeguard the lives of people on those decks,
+but you're right. Belay those orders, everyone.
+Phasers and torpedoes are back online. What should we do, sir? 
+DATA: You will take the phasers and torpedo units offline and begin
+repairs of the starboard power coupling. 
+HOBSON: Thank you, sir. You heard the Captain, everyone.
+
+[Bridge]
+
+RIKER [on monitor]: We're ready, sir. 
+PICARD: Mister La Forge, how long do you think it will take the
+Romulans to detect the tachyon field once it's activated? 
+LAFORGE [on monitor]: Not long Romulan sensors are as good as ours. 
+PICARD: Very well. Energise the network. 

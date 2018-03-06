@@ -1,0 +1,57 @@
+RIKER LAFORGE VAGH KELL PICARD COMPUTER DATA
+box bridge knowledge able erased instance emissions affirmative replicator
+
+[Governor's office]
+
+LAFORGE: The Romulans. They fashioned a perfect
+Federation rifle but they had to charge it from their energy sources.
+So the discharge crystal and the emission beam pattern correspond to
+those you'd find in a Romulan disrupter. 
+VAGH: The Romulans have no interest in Kriosian independence. The
+planet is too far from their borders. 
+PICARD: But they do have an interest in driving the Federation and the
+Empire apart. Our alliance is the only thing that has kept them in
+check. 
+VAGH: Romulan replications using stolen Federation technology? 
+KELL: It's a typical Romulan ploy. An attempt to sow dissension and
+mistrust. Commander, you've done well. I would thank you on behalf of
+the Empire. 
+VAGH: I still have my doubts, Picard. I will want my own technicians to
+confirm your findings. 
+PICARD: Of course. My staff will give you their full cooperation. 
+VAGH: You may go.
+
+[Bridge]
+
+(at Science One) 
+RIKER: Another E-band blip? 
+DATA: Yes, sir. However, the difference in intensity indicates that
+this one did not originate from the same location as the first. 
+RIKER: If it's changed intensity, it can't possibly be a protostar. 
+DATA: That is a reasonable assumption. 
+RIKER: Is there any known instance of Romulans using E-band
+communications? 
+DATA: Not to my knowledge, sir. 
+RIKER: Can you track the source? 
+DATA: We can reconfigure the primary sensor array. If we narrow their
+focus to scan for E-band emissions, we might be able to calculate a
+directional vector. But only if there are more occurrences. 
+RIKER: Do it.
+
+[Cargo bay]
+
+LAFORGE: Computer re-route the power flow in the
+cargo bay four transporter to the auxiliary replicator system. 
+COMPUTER: Please verify command with necessary protocol. 
+LAFORGE: Initiate protocol three six four dash B. 
+COMPUTER: Verify priority clearance. 
+LAFORGE: Recognise La Forge, theta two nine nine seven. 
+COMPUTER: Acknowledged. Power has been re-routed through auxiliary
+power distribution system code number four four seven six two. 
+LAFORGE: Now, redirect transporter mode to the planetary sensor array. 
+COMPUTER: Transporter mode has been redirected. 
+(a box is beamed away) 
+LAFORGE: Verify that all record of these modifications are being erased
+from each directory. 
+COMPUTER: Affirmative. Erasure process is proceeding.
+

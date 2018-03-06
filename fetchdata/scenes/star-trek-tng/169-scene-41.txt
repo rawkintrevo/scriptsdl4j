@@ -1,0 +1,68 @@
+RIKER LAFORGE RIKER [OC] LAFORGE [OC] WESLEY COMPUTER PICARD BARCLAY DATA DUFFY
+cargo confirmation container brien spreading bay gaseous starboard neutralise
+
+[Bridge]
+
+LAFORGE [OC]: And have been spreading it around the
+ship. 
+RIKER: Working theories are fine, Geordi. 
+[Corridor]
+
+RIKER [OC]: But we need a working solution in about
+five minutes. 
+LAFORGE: Understood, Commander. We're on our way to cargo bay five for
+confirmation.
+
+[Cargo bay]
+
+LAFORGE: Nothing on the tricorder. 
+COMPUTER: Danger. Exceeding safety limits of engine containment field.
+At current acceleration, structural failure will occur in three minutes
+thirty seconds. 
+LAFORGE: If it's in there it should show up on one of the polarity
+channels. 
+(Barclay puts his gloved hand into a container. They detect sparkles on
+it) 
+BARCLAY: There it is. 
+LAFORGE: Duffy and O'Brien picked up the broken canister and became
+contaminated. 
+BARCLAY: If we can get it, the invidium, down to minus two hundred
+degrees Celsius, it'll become inert. 
+LAFORGE: La Forge to Bridge. Invidium has been confirmed.
+
+[Bridge]
+
+LAFORGE [OC]: Recommend we flood the injector
+pathway conduit with gaseous cryonetrium. That ought to neutralise it. 
+PICARD: The question is, will the injectors come back online? 
+LAFORGE [OC]: They sustained considerable damage, Captain. I can't
+guarantee that we'll be able to regain control. 
+RIKER: We don't have much choice, do we? 
+LAFORGE [OC]: No, sir. 
+PICARD: Make it so.
+
+[Engineering]
+
+DUFFY: Route primary coupling through starboard
+transfer conduit. 
+WESLEY: Routing. Ready for engine core injection. 
+COMPUTER: At current acceleration, structural failure will occur in
+forty five seconds.
+
+[Bridge]
+
+DATA: Injector conduit temperature minus one
+hundred degrees Celsius. 
+PICARD: Transfer injector control to manual. 
+DATA: Ready, sir. Temperature now minus one hundred ninety degrees.
+Minus two hundred degrees, sir. 
+RIKER: Injector status? 
+DATA: Matter injector is online. Antimatter injector still locked. 
+COMPUTER: At current acceleration, structural failure will occur in
+thirty seconds. 
+PICARD: Cycle power through ventral relay. 
+DATA: Antimatter injector online. Reducing flow capacity. Commencing
+warp engine shut down, sir. 
+PICARD: Stand down from red alert. 
+RIKER: Nice work, Geordi.
+

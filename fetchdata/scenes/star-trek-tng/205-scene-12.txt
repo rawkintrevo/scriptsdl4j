@@ -1,0 +1,56 @@
+TROI RO CRUSHER LAFORGE O'BRIEN
+polarity string level damage warp contact let breach pods
+
+[Cargo bay]
+
+CRUSHER: We can withstand this level of radiation
+for another three or four hours without any permanent damage. We'll
+need a few days of hyronalin treatments. 
+LAFORGE: What are the radiation levels in the quaratum? 
+CRUSHER: They're at eighty three rads and rising at a rate of about
+four rads per minute. 
+LAFORGE: That stuff gets unstable at around three hundred and fifty
+rads. I still
+haven't been able to get any power to this transporter. 
+CRUSHER: The radiation levels is about twenty percent lower at this end
+of the bay. Let's move the containers over to here. 
+LAFORGE: That's a good idea. It should buy us some time. You know we're
+going to have to do this by hand. With all the radiation floating
+around in here we can't trust the antigrav units.
+
+[Bridge]
+
+(at a rear science station) 
+O'BRIEN: There. Just before the second time we were hit. See the
+subspace distortion? 
+TROI: Yes. How big is a quantum filament? 
+O'BRIEN: It can be hundreds of metres long, but it has almost no mass,
+which makes it very difficult to detect. 
+TROI: So, it's like a cosmic string? 
+O'BRIEN: No. that's a completely different phenomenon. 
+(another station comes online) 
+O'BRIEN: How did you do that? 
+RO: I diverted power from the phaser array and I dumped it into the
+engineering control system. 
+O'BRIEN: You what? 
+RO: Engineering station's online, Counsellor. 
+O'BRIEN: But that's a completely improper procedure. You can't just
+dump that much raw energy into a bridge terminal without blowing 
+RO: We're not going to get out of this by playing it safe. 
+TROI: What is our engine status, Ensign? 
+RO: We've got half impulse power available, but I'm getting some odd
+readings from the warp drive. I'm reading a spike in the warp field
+array. It looks like a containment deviation. 
+O'BRIEN: Switch to primary bypass. 
+RO: Nothing. Field strength's at forty percent and falling. We've got a
+problem. The quantum resonance of the filament caused a polarity shift
+in the antimatter containment field. 
+O'BRIEN: When the filament hit us, the ship was momentarily charged, as
+if it had come into contact with a live electrical wire. 
+RO: That weakened the containment field surrounding the antimatter
+pods. The field strength is at forty percent and it is still falling. 
+O'BRIEN: If it falls to fifteen percent the field will collapse and
+we'll have a containment breach. 
+TROI: Which means? 
+RO: Which means the ship will explode.
+

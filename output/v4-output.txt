@@ -1,0 +1,202 @@
+19:24:03.017 [main] DEBUG o.d.ui.play.PlayUIServer - Loaded UI module via service loader: class org.deeplearning4j.arbiter.ui.module.ArbiterModule
+19:24:03.167 [main] DEBUG play.api.libs.CryptoConfigParser - Generated dev mode secret aea584dabc0c92ba91f99d5e5f07313b for app at jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf
+19:24:03.170 [main] WARN  application - application.conf @ jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf: 355: parsers.text.maxLength is deprecated, use play.http.parser.maxMemoryBuffer instead
+19:24:03.309 [main] DEBUG p.a.l.concurrent.ActorSystemProvider - Starting application default Akka system: application
+19:24:03.351 [main] INFO  play.api.Play - Application started (Dev)
+19:24:03.460 [main] INFO  play.core.server.NettyServer - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+19:24:03.461 [main] INFO  o.d.ui.play.PlayUIServer - DL4J UI Server started at http://localhost:9000
+19:24:03.461 [Thread-1] DEBUG o.d.ui.play.PlayUIServer - PlayUIServer.StatsEventRouterRunnable started
+19:24:03.463 [main] INFO  o.d.ui.play.PlayUIServer - StatsStorage instance attached to UI: InMemoryStatsStorage(uid=da907360)
+Loaded and converted file: 5317461 valid characters of 5336805 total characters (19344 removed)
+19:24:03.762 [main] INFO  org.nd4j.linalg.factory.Nd4jBackend - Loaded [JCublasBackend] backend
+19:24:03.778 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar
+19:24:03.795 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:170) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.listGitPropertiesFiles(VersionCheck.java:201) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.getVersionInfos(VersionCheck.java:220) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.checkVersions(VersionCheck.java:92) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.initWithBackend(Nd4j.java:6098) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.initContext(Nd4j.java:6087) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.<clinit>(Nd4j.java:201) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.seed(NeuralNetConfiguration.java:777) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App$.main(App.scala:82) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+19:24:03.894 [main] INFO  org.reflections.Reflections - Reflections took 115 ms to scan 12 urls, producing 57193 keys and 61254 values 
+19:24:04.432 [application-akka.actor.default-dispatcher-3] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/dl4j_i18n/
+19:24:04.555 [application-akka.actor.default-dispatcher-3] INFO  org.reflections.Reflections - Reflections took 123 ms to scan 1 urls, producing 54371 keys and 58179 values 
+19:24:04.627 [application-akka.actor.default-dispatcher-3] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Indian/Kerguelen
+19:24:04.628 [application-akka.actor.default-dispatcher-3] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Asia/Aden
+19:24:04.628 [application-akka.actor.default-dispatcher-3] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Europe/Copenhagen
+19:24:04.760 [main] INFO  org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for NativeOps: 32
+19:24:05.090 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.092 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.092 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.093 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.093 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.094 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.094 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.095 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.095 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.095 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.096 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.096 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.097 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.097 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.097 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.098 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.098 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.098 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.099 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.099 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.100 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.100 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.101 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.101 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.102 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.102 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.103 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.103 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.104 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.104 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.104 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.105 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:24:05.107 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [40] to device [0], out of [1] devices...
+19:24:05.107 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [41] to device [0], out of [1] devices...
+19:24:05.108 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [42] to device [0], out of [1] devices...
+19:24:05.108 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [43] to device [0], out of [1] devices...
+19:24:05.108 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [44] to device [0], out of [1] devices...
+19:24:05.108 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [45] to device [0], out of [1] devices...
+19:24:05.109 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+19:24:05.218 [main] INFO  org.reflections.Reflections - Reflections took 109 ms to scan 1 urls, producing 31 keys and 227 values 
+19:24:05.283 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Backend used: [CUDA]; OS: [Linux]
+19:24:05.283 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Cores: [8]; Memory: [7.0GB];
+19:24:05.283 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Blas vendor: [CUBLAS]
+19:24:05.284 [main] INFO  o.n.l.j.o.e.CudaExecutioner - Device name: [GeForce GTX 1060 6GB]; CC: [6.1]; Total/free memory: [6365642752]
+19:24:05.371 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 0
+19:24:05.496 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+19:24:08.443 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.registerSubtypes(NeuralNetConfiguration.java:466) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.configureMapper(NeuralNetConfiguration.java:421) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.initMapper(NeuralNetConfiguration.java:394) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.<clinit>(NeuralNetConfiguration.java:123) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.build(NeuralNetConfiguration.java:1223) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$ListBuilder.build(NeuralNetConfiguration.java:279) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App$.main(App.scala:97) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+19:24:08.443 [main] INFO  org.reflections.Reflections - Reflections took 2946 ms to scan 1 urls, producing 3916 keys and 22689 values 
+19:24:08.476 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:24:08.476 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:24:08.476 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+19:24:08.476 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:24:08.476 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+19:24:08.480 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:24:08.480 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:24:08.480 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+19:24:08.480 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:24:08.480 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+19:24:08.503 [main] INFO  o.d.nn.multilayer.MultiLayerNetwork - Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+19:24:08.586 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 5
+19:24:08.605 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+19:24:08.788 [main] INFO  org.reflections.Reflections - Reflections took 182 ms to scan 1 urls, producing 407 keys and 1602 values 
+19:24:08.793 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 4
+19:24:08.796 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 3
+19:24:08.798 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 2
+19:24:08.799 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 1
+Number of parameters in layer 0: 105344
+Number of parameters in layer 1: 131968
+Number of parameters in layer 2: 9804
+Total number of network parameters: 247116
+19:24:09.863 [main] INFO  org.nd4j.nativeblas.Nd4jBlas - Number of threads used for BLAS: 0
+19:25:36.444 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 36: score=213.20037848558758, oldScore=213.19833364126427, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:25:40.689 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 48: score=213.0973070043806, oldScore=213.09939729985382, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:25:45.172 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 60: score=213.00973868296188, oldScore=213.01019627687552, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:25:50.261 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 74: score=212.90161733008333, oldScore=212.9011288511364, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:25:52.422 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 80: score=212.84798376940822, oldScore=212.847571593989, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:26:01.119 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 5: score=212.98545431213336, oldScore=212.9846302020196, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:26:09.467 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 29: score=212.62593016326198, oldScore=212.6257926857364, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:26:15.125 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 45: score=212.47303992081962, oldScore=212.47157490567224, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:26:17.715 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 52: score=212.41342521396285, oldScore=212.41522550265415, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:26:27.939 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 80: score=212.2288460441423, oldScore=212.2274114128972, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:26:30.201 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 86: score=212.07394027593003, oldScore=212.0750080906113, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:26:33.926 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 96: score=211.95345953420662, oldScore=211.9516129006352, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:26:52.129 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 45: score=211.56844654997226, oldScore=211.56641675931021, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:27:10.869 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 96: score=210.51016049666217, oldScore=210.5118996875648, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:27:31.342 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 54: score=209.66040332316558, oldScore=209.66102858281272, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:27:44.325 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 91: score=208.50647288533315, oldScore=208.5051906621346, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:28:11.053 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 67: score=206.41673967519668, oldScore=206.41756308813106, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:28:28.140 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 15: score=206.26306075616992, oldScore=206.26394541969697, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:28:33.024 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 29: score=205.533605136706, oldScore=205.53452024787586, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:28:35.170 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 35: score=205.2251667852083, oldScore=205.22443391318507, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:28:38.647 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 45: score=204.89666524508246, oldScore=204.89845004279016, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:29:11.316 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 38: score=202.20045763318217, oldScore=202.20089961152777, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:29:30.158 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 90: score=200.82233082513693, oldScore=200.82274221187555, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:29:43.709 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 28: score=200.60839419657324, oldScore=200.60744759129776, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:29:53.906 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 57: score=199.72770591409397, oldScore=199.7272779244951, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:30:04.278 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 86: score=199.11139299182935, oldScore=199.11098036759057, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:30:25.384 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 44: score=199.5697175335718, oldScore=199.56776371176403, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:30:29.725 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 56: score=199.27419486251284, oldScore=199.2761624870624, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:30:34.049 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 68: score=198.97290452520028, oldScore=198.9713931697199, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:30:36.238 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 74: score=198.8119445865012, oldScore=198.81250836958336, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:30:52.107 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 18: score=197.2961869363808, oldScore=197.29636934516964, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:31:16.278 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 86: score=195.3877648797805, oldScore=195.38916786919594, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:31:31.395 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 29: score=194.46156199819276, oldScore=194.46107276714972, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:31:34.548 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 38: score=194.2595436612772, oldScore=194.25890185514746, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:32:07.728 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 29: score=190.9620251767343, oldScore=190.9627259814898, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:32:08.493 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 31: score=190.98482388678264, oldScore=190.98497534213698, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:32:15.548 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 51: score=190.27238094506143, oldScore=190.2720442303523, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:32:17.269 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 56: score=190.2800615901075, oldScore=190.2805944437086, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:32:57.225 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 67: score=189.31999541176825, oldScore=189.31979584840647, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:33:25.037 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 43: score=186.19059776671105, oldScore=186.18900959091587, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:33:29.296 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 55: score=185.84905963091117, oldScore=185.84770041574168, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:33:57.777 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 32: score=184.38306359018443, oldScore=184.38196360612082, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:34:02.239 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 44: score=184.1346972125594, oldScore=184.1346193891485, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:34:35.792 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 31: score=182.59618345601604, oldScore=182.59758584186767, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:34:52.087 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 75: score=181.1508270136794, oldScore=181.15169534591507, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:35:08.337 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 20: score=180.82714448860412, oldScore=180.8276314850956, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:35:33.381 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 90: score=178.5792470966879, oldScore=178.5785589244801, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:35:58.749 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 58: score=176.99388932512824, oldScore=176.9946812481521, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:36:29.017 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 43: score=178.31384910257407, oldScore=178.3138016922448, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:36:33.987 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 57: score=177.83306852315383, oldScore=177.83141875797182, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:37:36.204 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 30: score=171.821085052445, oldScore=171.82085460348108, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:37:36.909 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 32: score=171.7888161532745, oldScore=171.79015740723932, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:38:10.252 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 25: score=173.27088395818222, oldScore=173.27092779729043, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:38:19.229 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 50: score=172.41401102574912, oldScore=172.41316981891114, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:38:49.236 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 32: score=169.6588581907103, oldScore=169.65935978863322, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:39:01.777 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 65: score=168.50255102865563, oldScore=168.50268620305422, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:39:03.782 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 70: score=168.41676092934924, oldScore=168.4167133186345, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:39:09.633 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 86: score=167.67485076889545, oldScore=167.67564220699282, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:39:09.983 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 87: score=167.67466991107068, oldScore=167.67485076889545, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:40:43.624 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 37: score=162.4471400014621, oldScore=162.4464207533767, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312
+19:40:59.592 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 80: score=160.9400762249622, oldScore=160.93953976135504, condition=org.deeplearning4j.optimize.terminations.EpsTermination@159de312

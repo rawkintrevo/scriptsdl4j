@@ -1,0 +1,37 @@
+RIKER DATA LAFORGE WORF
+style look age computers prepared hours attach time heading
+
+[Bridge]
+
+LAFORGE: I wonder how it got out here. 
+WORF: At its present speed and heading, it will eventually enter the
+Kazis binary system and will certainly be destroyed. I could attach a
+tractor beam and adjust its heading. 
+RIKER: I think not, Mister Worf. It's just a piece of space debris. If
+we hadn't sitting here waiting for the Captain, we wouldn't have
+noticed it. Leave it be. Let nature take its course. How long until
+Captain Picard returns? 
+WORF: The last communication indicated it would be several hours. 
+DATA: Commander, request permission to investigate this vehicle. 
+RIKER: Why, Data? It's just a derelict. 
+DATA: It is a piece of history. The opportunity to examine such an
+ancient vehicle does not come around very often, and as you pointed
+out, we do have the time. 
+RIKER: Very well. Be prepared to beam back before the Captain returns. 
+DATA: Thank you, sir. 
+RIKER: Lieutenant Worf, go with him. 
+WORF: Aye, sir.
+
+[Derelict ship]
+
+DATA: Minimal oxygen atmosphere. An ancient solar
+generator, still operating. 
+WORF: Commander, look at this. 
+DATA: The on-board computers have ceased functioning. I may be able to
+download this old style disk drive back to the Enterprise. 
+(Worf tries to walk through the next hatch, but it does not
+automatically open for him) 
+WORF: It must be sealed, probably with age. (he prepares his phaser) 
+DATA: Not necessary. 
+(Data pulls the lever and the doorway opens)
+

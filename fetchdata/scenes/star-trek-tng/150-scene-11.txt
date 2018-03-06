@@ -1,0 +1,52 @@
+PICARD [OC] RIKER LAFORGE WORF PICARD LAFORGE [OC] WESLEY COMPUTER RIKER [OC] CREWMAN DATA
+respond computer instruments inertial manual site carrying impulse override
+
+[Shuttlebay]
+
+CREWMAN: Standing by, Commander. 
+[Bridge]
+
+DATA: Five minutes to launch site. 
+(There's a sudden jolt. Stubbs gets thrown against a bulkhead) 
+PICARD: Stabilise. 
+WESLEY: The ship isn't responding, sir. 
+PICARD: Engineering. 
+[Engineering]
+
+PICARD [OC]: Report, Mister La Forge. 
+LAFORGE: Checking for failure of inertial dampeners. Instruments say
+they're working 
+[Bridge]
+
+WORF: Captain, we're heading straight into the path
+of that stellar matter. 
+PICARD: Shields up. 
+WORF: Negative. The shields will not respond. 
+DATA: Thirty seconds to impact, sir. 
+PICARD: Manual override on shields. 
+WORF: Shields are rising. 
+RIKER: Reset dampeners.
+
+[Engineering]
+
+RIKER [OC]: Mister La Forge. 
+LAFORGE: Dampeners not responding. 
+[Bridge]
+
+LAFORGE [OC]: Unable to reset. 
+PICARD: Reverse impulse engines. 
+[Engineering]
+
+LAFORGE: Initiating reverse sequence, now.
+
+[Bridge]
+
+PICARD: Our momentum is still carrying us into the
+path of the stellar matter. 
+DATA: Twelve seconds to impact, sir. 
+RIKER: Prepare for impact. Medical personnel, report to the Bridge.
+Commander Data, check all systems. 
+DATA: All systems functioning normally, sir. 
+PICARD: Computer, explain control malfunction. 
+COMPUTER: No control malfunction has been recorded.
+

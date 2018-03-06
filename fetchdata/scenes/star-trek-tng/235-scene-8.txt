@@ -1,0 +1,55 @@
+FARALLON KELSO DATA LAFORGE
+repairs welcome actually lieutenant compensates separation energise operation restored
+
+[Bridge]
+
+DATA: Commander La Forge, please report. 
+[Particle fountain laboratory]
+
+LAFORGE: We're fine, Data. The power grid is fully
+restored. 
+(the exocomp returns) 
+LAFORGE: The malfunction seems to have been repaired and operations
+over here at the station are all back to normal. 
+[Bridge]
+
+DATA: How were you able to accomplish the repair so
+quickly?
+
+[Particle fountain laboratory]
+
+LAFORGE: You know, I'm not exactly sure.
+
+Captain's log, stardate 46315.2. Repairs to the
+particle fountain seem to have succeeded and it is now functioning
+smoothly. Doctor Farallon is coming aboard to demonstrate the device
+that carried out the repairs. 
+[Transporter room]
+
+DATA: Energise. 
+KELSO: Aye, sir. 
+(La Forge, Farallon and an exocomp are beamed aboard) 
+DATA: Welcome to the Enterprise, Doctor. I am Lieutenant Commander
+Data. 
+FARALLON: Mister Data, I was hoping I'd have a chance to meet you. I've
+done extensive studies of your positronic network. 
+DATA: And I have studied your design for the particle fountain. I find
+the concept to be highly innovative. 
+FARALLON: Thank you. 
+DATA: I am curious how you were able to repair the power grid so
+quickly. 
+FARALLON: This should make it clear, Commander. 
+LAFORGE: Why don't we set up in Engineering. 
+FARALLON: Is it true that your computational speed is limited only by
+the physical separation of your positronic links? 
+DATA: Actually, that is no longer the case. I have recently converted
+my interlink sequencer to asynchronous operation, which removed the
+performance constraint. 
+LAFORGE: Doctor, this way please. 
+FARALLON: I see. But how did you resolve the signal fragmentation? 
+(as they head out into the corridor) 
+DATA: The interlink sequencer is now bi-directional. It compensates for
+the asynchronous mode distortion arising from the resonant field. 
+FARALLON: Yes. That's fascinating. Does the sequencer require any
+buffering system to eliminate interference?
+

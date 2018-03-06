@@ -1,0 +1,42 @@
+PICARD COMPUTER DATA O'BRIEN LAFORGE
+normal picard consistent contain nose section forge chips subjected
+
+[Shuttlebay]
+
+(Data goes to the Geordi's shuttle) 
+DATA: Computer, link with the shuttle's onboard system. Access the
+isolinear storage assembly. Scan all chips which contain mission logs.
+Note any discrepancies. 
+COMPUTER: No discrepancies noted. 
+DATA: Perform a level 5 diagnostic on the shuttle's power and
+navigational systems. 
+COMPUTER: The components specified are all within normal tolerances.
+
+[Cargo bay]
+
+O'BRIEN: My technicians have examined all of the
+ship's transporters, sir. I can assure you, this is the only unit that
+has been tampered with. 
+[Shuttlebay]
+
+DATA: Computer, scan the shuttle's structural
+integrity. 
+COMPUTER: Sub-microscopic deformations are present in the nose section
+and aft thrusters. 
+DATA: Probable cause of these variations? 
+COMPUTER: The shuttle has been subjected to stress consistent with a
+tractor beam.
+
+[Cargo bay]
+
+(Geordi enters and watches Picard with the
+Klingons) 
+PICARD: All our transporter containers have a slight impurity in the
+structural alloys which allows us to trace our material. 
+(Geordi reaches for his phaser) 
+O'BRIEN: Commander La Forge? 
+LAFORGE: What can I do for you, Chief? 
+O'BRIEN: Could you take a look at the pattern buffers? Considering
+what's happened, I'm not sure the control systems are reliable. 
+LAFORGE: Sure. Sure, let's take a look.
+

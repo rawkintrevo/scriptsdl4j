@@ -1,0 +1,874 @@
+18:21:52.191 [main] DEBUG o.d.ui.play.PlayUIServer - Loaded UI module via service loader: class org.deeplearning4j.arbiter.ui.module.ArbiterModule
+18:21:52.289 [main] DEBUG play.api.libs.CryptoConfigParser - Generated dev mode secret a5bbb4d5ca90fd47b4af2e7877114c1c for app at jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-jar-with-dependencies.jar!/application.conf
+18:35:03.828 [main] DEBUG o.d.ui.play.PlayUIServer - Loaded UI module via service loader: class org.deeplearning4j.arbiter.ui.module.ArbiterModule
+18:35:03.929 [main] DEBUG play.api.libs.CryptoConfigParser - Generated dev mode secret a5bbb4d5ca90fd47b4af2e7877114c1c for app at jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-jar-with-dependencies.jar!/application.conf
+18:35:58.435 [main] DEBUG o.d.ui.play.PlayUIServer - Loaded UI module via service loader: class org.deeplearning4j.arbiter.ui.module.ArbiterModule
+18:35:58.569 [main] DEBUG play.api.libs.CryptoConfigParser - Generated dev mode secret aea584dabc0c92ba91f99d5e5f07313b for app at jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf
+18:35:58.572 [main] WARN  application - application.conf @ jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf: 355: parsers.text.maxLength is deprecated, use play.http.parser.maxMemoryBuffer instead
+18:35:58.709 [main] DEBUG p.a.l.concurrent.ActorSystemProvider - Starting application default Akka system: application
+18:35:58.752 [main] INFO  play.api.Play - Application started (Dev)
+18:35:58.848 [main] INFO  play.core.server.NettyServer - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+18:35:58.849 [main] INFO  o.d.ui.play.PlayUIServer - DL4J UI Server started at http://localhost:9000
+18:35:58.849 [Thread-1] DEBUG o.d.ui.play.PlayUIServer - PlayUIServer.StatsEventRouterRunnable started
+18:35:58.851 [main] INFO  o.d.ui.play.PlayUIServer - StatsStorage instance attached to UI: InMemoryStatsStorage(uid=bbc3248e)
+Loaded and converted file: 5317461 valid characters of 5336805 total characters (19344 removed)
+18:35:59.141 [main] INFO  org.nd4j.linalg.factory.Nd4jBackend - Loaded [JCublasBackend] backend
+18:35:59.157 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar
+18:35:59.173 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:170) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.listGitPropertiesFiles(VersionCheck.java:201) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.getVersionInfos(VersionCheck.java:220) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.checkVersions(VersionCheck.java:92) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.initWithBackend(Nd4j.java:6098) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.initContext(Nd4j.java:6087) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.<clinit>(Nd4j.java:201) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.seed(NeuralNetConfiguration.java:777) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App$.main(App.scala:82) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+18:35:59.264 [main] INFO  org.reflections.Reflections - Reflections took 106 ms to scan 12 urls, producing 57193 keys and 61254 values 
+18:36:01.557 [main] INFO  org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for NativeOps: 32
+18:36:01.970 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.972 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.972 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.973 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.973 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.973 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.974 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.974 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.975 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.975 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.975 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.976 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.976 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.977 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.977 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.977 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.978 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.978 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.978 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.979 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.979 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.979 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.980 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.980 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.980 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.981 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.981 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.982 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.982 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.983 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.983 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.983 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+18:36:01.985 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [39] to device [0], out of [1] devices...
+18:36:01.986 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [40] to device [0], out of [1] devices...
+18:36:01.986 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [41] to device [0], out of [1] devices...
+18:36:01.986 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [42] to device [0], out of [1] devices...
+18:36:01.986 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [43] to device [0], out of [1] devices...
+18:36:01.986 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [44] to device [0], out of [1] devices...
+18:36:01.987 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+18:36:02.095 [main] INFO  org.reflections.Reflections - Reflections took 108 ms to scan 1 urls, producing 31 keys and 227 values 
+18:36:02.162 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Backend used: [CUDA]; OS: [Linux]
+18:36:02.162 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Cores: [8]; Memory: [7.0GB];
+18:36:02.162 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Blas vendor: [CUBLAS]
+18:36:02.163 [main] INFO  o.n.l.j.o.e.CudaExecutioner - Device name: [GeForce GTX 1060 6GB]; CC: [6.1]; Total/free memory: [6365642752]
+18:36:02.244 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 0
+18:36:02.440 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+18:36:04.927 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.registerSubtypes(NeuralNetConfiguration.java:466) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.configureMapper(NeuralNetConfiguration.java:421) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.initMapper(NeuralNetConfiguration.java:394) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.<clinit>(NeuralNetConfiguration.java:123) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.build(NeuralNetConfiguration.java:1223) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$ListBuilder.build(NeuralNetConfiguration.java:279) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App$.main(App.scala:97) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+18:36:04.928 [main] INFO  org.reflections.Reflections - Reflections took 2488 ms to scan 1 urls, producing 3916 keys and 22689 values 
+18:36:04.999 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+18:36:05.000 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+18:36:05.000 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+18:36:05.000 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+18:36:05.000 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+18:36:05.003 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+18:36:05.003 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+18:36:05.003 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+18:36:05.003 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+18:36:05.003 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+18:36:05.025 [main] INFO  o.d.nn.multilayer.MultiLayerNetwork - Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+18:36:05.033 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 1
+18:36:05.037 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 5
+18:36:05.056 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+18:36:05.282 [main] INFO  org.reflections.Reflections - Reflections took 226 ms to scan 1 urls, producing 407 keys and 1602 values 
+18:36:05.291 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 4
+18:36:05.298 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 2
+18:36:05.298 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 3
+Number of parameters in layer 0: 341760
+Number of parameters in layer 1: 526080
+Number of parameters in layer 2: 19532
+Total number of network parameters: 887372
+18:36:07.477 [main] INFO  org.nd4j.nativeblas.Nd4jBlas - Number of threads used for BLAS: 0
+18:36:48.386 [application-akka.actor.default-dispatcher-4] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/dl4j_i18n/
+18:36:48.584 [application-akka.actor.default-dispatcher-4] INFO  org.reflections.Reflections - Reflections took 197 ms to scan 1 urls, producing 54371 keys and 58179 values 
+18:36:48.834 [application-akka.actor.default-dispatcher-4] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Indian/Kerguelen
+18:36:48.834 [application-akka.actor.default-dispatcher-4] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Asia/Aden
+18:36:48.834 [application-akka.actor.default-dispatcher-4] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Europe/Copenhagen
+--------------------
+Completed 0 minibatches of size 64x65536 characters
+Sampling characters from network given initialization "TITLE:
+rawkintrevo's new Ford
+"
+----- Sample 0 -----
+TITLE:
+rawkintrevo's new Ford
+figt. 
+PICARD: Fortorynourgerby. Then our clonram. Thank up. 
+LAFRRRGE: She's fraind. Antly are patters. 
+LAFIRGO: Khere did,'lld be. 
+SEgridien
+
+(nenty
+therey are liking) and long. 
+Q: Disn's gog, sumplet. 
+LAFORGE: It is reeconisure. Now you pittenss. Rougn's inwould reporated. 
+GUITAN: And for suzile ther adrival thing? You stald
+fon there
+Pigits to beyon capsennect tording. That's
+hord knowred a ships. You wight shave throughly
+is, herby involding purtinned
+just that you're looked? 
+CRORWER: Have invitiun. 
+PICARDLOR: Ry your bowt of it. 
+Fridge Mighteres harby dinatyed thre-thospers. 
+PICARD: The arout thanker. You. Yen's respect with hima stroughtiand and
+nelowings to grome their) 
+B'sconj 
+SBORGN: Revecided? No, Must trapped you densing. Vly for A not yourrsriound. 
+PICARD: Stay buck, Nate's will  own him. Pwer and funrsedved) 
+DATA: Yom starible. 
+PICARD: Onuch pevenneng farges. Piscepred four withatys beingingings injortended. He's a swew
+thanky is two selave gur ovarssers). S
+
+----- Sample 1 -----
+TITLE:
+rawkintrevo's new Ford
+whime all you floving aboctruce and. I'mtands to niehed will inssions. You're
+not. Held. 
+LIKOR: The cropitred in here of notion on oking
+agone. To cappired for
+the constrimates they,. his noture
+onlyoughemant. Ind, Data, you can inte things, undersisially very
+to reing. 
+TROI: You're ncinguinn? 
+CRUSHER: Fend of sit, Dimar hime. Aonhed a
+boraution mirrondlles. 
+PICARD: Those rut seen thysesh. 
+WORF: As ptail. 
+(face my is suppont there? I uppond them?
+WARF: Nuparine
+anots. 
+TROI: You the sucind to the shippielly mednal Riker, they what I gif anllexp knew. 
+SUtARNNA: Thanking all fathowered hell bely bilk. 
+PICARD: A hours here clokenged up been recidrable is nottered but burth
+andagred, Bur. 
+PICARD: You're not de-prigrons out thiince know. 
+TROIAN OC: Non. You're readore puch say. Pyobity is fursed, if your vieling of your finnedry. He'sle reawing with ip on at. Misher tran hagare. 
+DATA: I hodet. Comfunneat, shat denifive in the wall? 
+RIKER: If, I want hope un the Conricual sparing
+
+----- Sample 2 -----
+TITLE:
+rawkintrevo's new Ford
+those. It'sen't not. These moode
+bulibmt do flect. 
+CRUSHER OC: You're s all? Lely reasy afren. 
+RIKER: I's resigndens up antual, sir, and tas niniting time
+where infresss Qos? 
+LAFORGEN: You asing of unigruling, Cantisien? 
+
+Brorg'nder
+
+
+KLEMENA: chere procated. This imprigct were pluw
+in Tridging whoniny wunterget exserstand. Nothing the
+Fridge. 
+CRUSHER: Ibrread me. RIKER: You're goting any aMnotagien? Wowfared what hop to clish she wat ince
+defigitenung. 
+PICARD: It's your mest but the refuret. 
+GUINANAN: You'rat pidfuremong morr. 
+PICARD: Ensisternatten Data? Wo'll ustruct. Maybe's arory freed. 
+CRURHER: Mut, Captling? Rymark. Mont OC: Any inturring. 
+WORF: Any ware intianty. KORGRA: Misty gading rast the planiting chan elver: 
+CRUSHER: Hry, Captain. Pistifully herl what govess bevendnocly,
+Jull, Lieutenart canreds agrearmabolity my revicalf. who to fiietuneved. 
+CCRUTHERFN: Now, sir. 
+Cancoss'ens rooks this is Sorriak on
+till. Then? 
+PICARD: Ghirs it! I will mann, fand. I not uy,
+
+----- Sample 3 -----
+TITLE:
+rawkintrevo's new Ford
+for thempented and
+ie. 
+WORF: That's with sume strisking. 
+RIKER: Everynge. 
+DATASO: You must. 
+PICARD: You, arking thered's look. 
+TROI: It'me say the will. 
+PICARD: Tho fuct hewernced then Riker wind.
+
+Verucion, suppiscence it in signer to deces the
+medicial. But for hid back not
+throught the entigutrossition) 
+DATA: Any, eisuar. My hampunited there wouldsher. Terry? For bown anvind. Meromet
+
+PICARD: Many that? 
+RITARO: An deelcticns. 
+PICARD OC: I have suding monigated the Fourleve wo the idmined to Verver outs difiteen to
+offect.
+LAFARGE: And lefedred, never. How the Data? And Minuter rick a feot
+whint huld not so brick with with rising. Arbigact lyalusif hid. Mitter works it condringnely
+sevied, like bying understan crous and
+him. Thas for ingeraticly shoull boakbins the suge. You're be traes to
+chisigiate by withing. 
+MARR: Commander Riker, but Ondivery and they it not Surrogutrounnes oncthers. Intersestidn,
+waittaring he won't sequinedre! I
+
+PULASKI: Inteven. And adon't the sabo
+
+--------------------
+Completed 0 minibatches of size 64x65536 characters
+Sampling characters from network given initialization "TITLE:
+rawkintrevo's new Ford
+"
+----- Sample 0 -----
+TITLE:
+rawkintrevo's new Ford
+to Darror that we got come or humorge, Deringi's officer in proorKine. 
+GUINAN: I were her breaked. Can we response without. 
+HANNAH: One forward, sir. Dtack me.  LAFOROE: The civin standard is breatural alone, is I went to be an away we meant experiences at fine. 
+DATA: Commander
+WRI Turns up, their happen only miging to Seconds outs to begin
+to be out the computer. 
+(the late eusion she at face were the arfort or I the Mainsit Thing with
+werl wedding of Kris and experience this beings, moring. 
+SCOTT: The Caftain's repersent to stand to the huisesses about a presonal diefferences that do you know you a progrems. 
+TROI: It may have thought will understood the resometion. So attem, and I
+have a me. Sheriff. So, I hove
+within here to Obwercrafo. I relive yer
+entire twenty of system. We're disapproced my nighter last refintering. 
+CRUSHER: Darmok and DarAsk in Mind way. It is his joows and rater duringed, alone't the inficior thought of the ofvice without the did a musinter unrit me. Wei
+
+----- Sample 1 -----
+TITLE:
+rawkintrevo's new Ford
+would've forditative the part
+two levels. 
+RIKER: I'm actually with evirumentationing percent inone to destroy hers? 
+WORF: Not of the forgivisg. 
+DATA: Captain, you'll call the only at unerthing through the Federation. Mister Datas not lost Onlines. Dwand apologority, the gives prettlerting signater) 
+
+
+Courtyon 
+(Computer, entitional
+a couple weapded on me shows something. 
+LAFORGE: There are mask processive very week way you been an ired in the risks off with not, sir. 
+PICARD: Yes, sir, at Tanagra. Do forgive you. What's a tega, that I was a mind warricienti nog
+to
+me the Mysiliti meagh. 
+PICARD: Come one signifard what was it negroneded coming cleare at feelly experience. 
+PICARD: I thought a woons the warp sensor three when the questect Manwin) 
+PICARD: He had something now. 
+DATHON: Die. Darmok now through high three first few manosition. 
+GUINAN: I thought leaving been perference with a very late, and naturial officing peasinity are densisty harm that I was socider of Darog one
+
+----- Sample 2 -----
+TITLE:
+rawkintrevo's new Ford
+o! One through at in afficient station I'm award with monution of orditivenice to thing now the we's not fineded. 
+PICARD OC: DarGok certainly deea your acrealised. 
+PICARgI Twelve decision of solutionant or
+an otherdal Captain's Picard welled
+at been together. Care largu
+
+ a few Catters. Pera fificer, please, Wiltilate is wands to never treate shows) 
+KEIKO: I shouldn't have too behind an inducers. Regrganales?
+
+He isn't many manu times at thing
+them forward the playle
+subspace thing with time. I am factor ex her uppose it that did not believe forwithout the Ten
+Shertex. Come you see my herodicate thingh. One of Jalana
+JEk
+
+Abpist's denstalles, think were walking has a
+degare dirights at proposicer poaiging the blaps five transporsing fine. 
+PICAga Torpen, Worf's thut Engineering is
+and it in orders madieg to
+destructe I was hirding them who are young what then it? 
+DATA: Doctor transqeering
+mulisions and the Ipressipor and WErr is the
+Cardory and we're yearly cheit-and
+heildn't find 
+
+----- Sample 3 -----
+TITLE:
+rawkintrevo's new Ford
+shouse doown interty rego. 
+CRUSHEO: Do they had to be the sention in them. It is with
+it in the place
+incoupless it the Rasilian'l. we wese if I remember the imperations, one is spearly. We've hind another. You'd have transportationational. Now attempts who saw from Dargin and Wil, Bo.
+
+Captain's log, stardate 444481.4.1. 
+DATA: The gast? Finsure of eventeru connciseringer. First we just apfert of question. 
+PICARD: I was desilieded with actutionship. 
+PICARD: Counsellor Surbon affeel Kazario's to herE. 
+LAFORGE: We're surface at the looks between porsible to Dartor
+
+RIKER: We're going to be under people with in inviesed transporder exterminates, I am liary instants three beiwation is and outpoafescinion is through
+me, they've finiant
+F rearoh
+love whe do) 
+(In the enough like welks) 
+CRUSHER: That would? 
+CRUSHER OC: A not in my transponsiver. 
+PICANhoO: With talking to even see we pettern an ute. 
+WESLER: Realif. We have the look symrolver decuse a few an incoxife fire. 
+SCOTT: Colo
+
+18:54:23.692 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=75.71341709508293, oldScore=75.71282127476684, condition=org.deeplearning4j.optimize.terminations.EpsTermination@7c484b45
+--------------------
+Completed 0 minibatches of size 64x65536 characters
+Sampling characters from network given initialization "TITLE:
+rawkintrevo's new Ford
+"
+----- Sample 0 -----
+TITLE:
+rawkintrevo's new Ford
+silternal. 
+BROTGOR: I'm sure exactly. 
+PICARD OC: Reques done on the same failure?
+
+Bridge
+
+O'BRIEN: From her mind, or human suggestions, exastles Neddral
+Right in the main control pattern. 
+DATA: You're a question man over
+to abford. 
+PICARD: All right. To this early. 
+WORF: From Jean-Luc Picard of the Enterprise.
+PICARD: Almost get? They wan crystallining. 
+TROI: I'm trying to stop your performan. 
+PICARD: You are, my strack of the glosp. I am funny? 
+BROOKS OC: I can not appreciate your place. He may be create the lines, on the Peilex Amonitor will so welcome you, of couls understluncted. Increase energy fragments, sir. 
+TASHA: Okay. 
+WORF: Another card's presentiant configurate in time to thrust a holodeck on war. I speaking it out by a vasions. I suggest I sented for a
+out the
+gridy on
+the
+ Jean-Luctor Crusher? I've given probed lar. 
+PICARD: That is here. I want to provise those new moment.
+
+Taster La Forge
+
+(MIKIR: Bring honesting. 
+DATA: You are regarring! Take it now, even) 
+
+
+----- Sample 1 -----
+TITLE:
+rawkintrevo's new Ford
+way mystery on the decepitor. 
+DATA: And all comission who goes the Admiral wakes on identions to
+her. 
+PICARD: That're provi(ved and prited, my log of our vibrion. 
+(Troi that went a message inergation) 
+PICARD OC: That's along. There's in our historic lesson course
+very well. 
+(She can imagine? Every species as well. 
+PICARD: Doctor. What? 
+PICARD: He was killing it claiming? 
+CRUSHER: Let's presence the coupling it indicide them out. 
+PICARD: I'll rull you consider that their explodative unstable willn't
+have superiorised. A programme, hailing. They are generated
+this through the cooperator of picked and aboxings to do the chip. If you possibly auman decomplished bad from, Doctor
+Nuven residual. They were no? 
+GUINAN K: Well, saying can do their tries might do. It's Hellixon, whisked materialises no look over 
+RIKER: Noted to all think. 
+TROI: Caked and Leave too, now it
+was dey
+its
+together that resesting. What I've understand the transporter assomes be
+trying to sat scans. Mister 
+
+----- Sample 2 -----
+TITLE:
+rawkintrevo's new Ford
+man with him at that when she's grastly may
+be in the only five of drink. There and my matter and power in
+your questions in a should be which on the constinate to the Doctor from the
+delisionisus. 
+TROI: Jean-Luc Picard, you've found I'm growing. 
+CRUSHER: But you're a such Engineering. 
+DATA: By the symbition, take cryw's trying? 
+DATA: And If we could make one you news'? 
+(whoRe being pays of the proditional face. Whenever the alien is being back us. It seemed a crystains almesties. 
+Holodeck
+
+(She aLternator the ranted who the proof) 
+RIKER: You will never late. 
+
+Scutt-wourners
+
+WERU En oo there's iorital? 
+CRUSHER: Dismissed.
+(Too'lly see the warp ingleen more thing border. 
+PICARD: The plans of the attack risk. 
+TROI: Just weaking somehow out. 
+DATA-COMPy Captain's log, Supon. Here we des ready to use, fun another sequences.
+
+Cald Ulber
+
+PICARD: Since you're very heamity. I don't take a light it a
+slid. Confront to the Prima Penson. But so a
+little society. I problem? And we'll 
+
+----- Sample 3 -----
+TITLE:
+rawkintrevo's new Ford
+sigstimater to
+me. 
+WORF: Yes? 
+CRUSHER: There are not party the penetrate Klinkon on me. I cannot assure you with an incredive than yourself. We're going to do. We have not killed something
+willid. 
+Traimin on
+
+Bridge
+
+RIKER: Spock, quick Nor at Tal RuMucitation. 
+PICARD OC: Well, identified)
+RIKER: I am always. 
+SOVYK: All right, who will your reason? I am refate, Lieutenant, I will very get
+with the
+gafoorter were about a
+minimment second. My incudering at the biofe somet might
+have complicated the Neutral Zone. You wanted, sir. 
+PICARD: Unsamily personally. 
+LAFORGE: Sounds. quick an other experiment. 
+PICARD: Bever
+grabled modify a memory. 
+LAFORGE: He would be able to follow Borg. You are ourselves you would save a
+hour with the location's right
+on the way.
+
+K'TTICHIvAT: Against you've been so anyone? 
+OGAWA: They're complete. 
+WESLEY: We are bringing allost to work. We thought has here. 
+PICARD: Our ship. You don't want to botting you. 
+RIKER: And if it the Medical weren't here.
+
+18:57:22.260 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=81.42041584948174, oldScore=81.42111346784013, condition=org.deeplearning4j.optimize.terminations.EpsTermination@7c484b45
+--------------------
+Completed 0 minibatches of size 64x65536 characters
+Sampling characters from network given initialization "TITLE:
+rawkintrevo's new Ford
+"
+----- Sample 0 -----
+TITLE:
+rawkintrevo's new Ford
+thing you do you have discoving him, how will we want? Not will beam that he is pretuyed. Darmok. It's waiting toge here. 
+PICARD: Then when I would infurin that I could still a men. I've prepear your inevased. The medicr who did you think he's been going to try to terriy
+difficutily failural your failue, have taken one.
+
+Captain's log cardle Lunige One will. 
+PICARD: A family killEes but the blood, one of unneces and things apparing the livings.
+
+Observation lourge
+
+WORF:
+Killitts. I think about a lot of the most test. a medic of it opking here. I just enjoy about a busy on the flas plusuc. And built firr. 
+Riker's quarters
+
+(plains the firings, phaserstiming fallor. I ho tell. ) 
+BURKE: Yeah, I wonde through for weeks on this tank. 
+PICARD: Captain Picard Kill
+jump in boarding the tample. I thong and mounts nothing
+not Mlase ready, Ensign, a standard entity immensed
+his attract is. When he people is something away, but Picard kills up, but he was human the lanke, and of your word sip
+
+----- Sample 1 -----
+TITLE:
+rawkintrevo's new Ford
+as seven. 
+RIKER: Yes, Sir. 
+PICARD: How's wo attack up any intenfers on this is
+told. 
+(At three buffer bourding) 
+DATA: Doctor, what had trade? 
+TROI: Darmok and Person. 
+SITO: You've haring that the Maddo again. Can you Deach me us an older in cardiction? 
+TAURIK: Wheams it was like this. The Cimman, Data's creatual three. I'd make anything still opened. Lavelle tell infusion. 
+TROI: If I have a couple in your every. How long she hand back to beauty to I didn't know who just askint certay. 
+CRUSHER: I lost whats imagerous of the mening has conseaftable. 
+RIKER: Relow on this is able to know whateven. 
+(Will 
+RIKER: If you have no mudder. 
+SOOxTL: The thoughtsis stop good vabit uncan for him together. 
+PICARD: No survivors. 
+SCOTT: He was decedated to the decide. 
+Actual Earokin's quarters
+
+CRUSHER: Good.) 
+SCOTT: For a created induces. I did it. How choimell? 
+DATA: I tenning thing, Data? 
+DATA: I will be injuring up. If it's a maching third. 
+PICARD: Of count by, I would know on. 
+
+
+----- Sample 2 -----
+TITLE:
+rawkintrevo's new Ford
+on Might. The haroing now will create bucks tooker to not young. We have just leaks to purcent the tenner,. I don't knid myself. 
+PICARD: No. It didn't fart over
+the Captain. Darmok and Jalad and Jalad. 
+TROI: You'w say well. 
+DATA: The fluck stand on this engine? 
+WESLEY: I don't anally need. TORe was how some trangled was precess you want it. 
+DATA: You know what one, Mister Crusher? 
+WESLEY: Add by somehow thing she has didnogruncted a restural time. 
+RIKER: I won't have defend to researce cavion raishual, stay about this emissape. Truth you to repeace it's xained. 
+SCOTT: (spets when sighy which cooking a few ragid from Worf and Data Justef Tusb,. Feeling 
+(zillins foods then. Remove thortpeace and wand to gam 
+SCOTT: In the game to flig this faces. 
+SCOTT: No! It, Data. No. 
+LAFORGE: I didn't read their propers. 
+DATA: I feel a fine on this any badels to take the same things,
+and Sickbuy stup
+shuttle. 
+CRUSHER: I'm good to non-view at the Enterfind. 
+WORF: Chief 
+CRUSHER: Yes, IC 
+
+----- Sample 3 -----
+TITLE:
+rawkintrevo's new Ford
+on the time pattern head. Have here? 
+EWON: Nus what appanetume is toing to lasn the design of him to a replen? 
+TROI: I am read to attract benot every hiddy, we've lot back back aft to you. 
+SCOTT: You. 
+(Am I can't, what
+is mind-has filless believed the busk their place
+made and
+pailed up erotic scall pan before, we're delight) 
+SCOTT: She is, looking at week. but don't tele with the creature to think in diplositiations, one valeasity. 
+(He dare high
+the data have seen one) 
+RIKER: Dire everything was a talk to solod. To forgive it a fougure to explain in. 
+PICARD: You it challing him? 
+SITO: I want you a convert that would beam my tincy. 
+(once case
+a hugs a holotos fire men remember?) 
+PICARD: Am I can't have support to rescueve when I know
+to did long as wonder. 
+WORF: We'll be none weak in those. I do not believe off and levels sreeming more behind. 
+WORF: Can you clay as
+missures to know wake, 
+WORF: Oh, no. Just ege. 
+LAFORGE: Daint. 
+MARR: They must take thrusters. Captain, be
+
+--------------------
+Completed 0 minibatches of size 64x65536 characters
+Sampling characters from network given initialization "TITLE:
+rawkintrevo's new Ford
+"
+----- Sample 0 -----
+TITLE:
+rawkintrevo's new Ford
+Three, sir. 
+RIKER: Don't you get some point? 
+GOSSON: Number One, still there a new small with you. 
+DATA: You enjoyed a tessel man unable the touth or vosion. 
+RIKER: I know, not to tell anything so that, Picard, don't tell right? I have Beta Throuble and we'll be your ocsup instructing started. 
+KELSE: You're talinificating your eyes at the lives were going to be going to remove it.
+
+Having bar
+Bridge.
+
+Sickbay
+
+(Counsellor Troi isn't a givin) 
+PICARD: Yes, sir, we might be running with Mordan Oh, Captain. 
+SITO: It's going to being precefted into
+O'Brien. There are
+agree between the moons on the better. If he will be able to hang to remove
+Momen. You cave along Data? 
+WORF: As you saw good, I do. 
+(The goldetry phase, in all pronuciual) 
+WESLEY: The sort of materials. 
+TAITO on viewscreen: (for it grows hit back) Hother was music, sir. Martiniple for engoher field. 
+ZENOROI OC: Aye, sir. 
+(a clear browns down another, when the analysis where he's doing hands a vertel) 
+Romulanous
+
+
+
+----- Sample 1 -----
+TITLE:
+rawkintrevo's new Ford
+which has
+business to the words dain't annit it. We jumping when I try ago.
+RIKER: Only now, Captain. 
+LAFORGE: We're done it may saying. But I can like than yourself.
+
+Control by two
+me to sit
+Stuff.
+
+Ten Forward
+
+(Picard is stormed from her the develop
+of scenmant) 
+LAFORGE: Sir. The tyre is supposed to clear. 
+KEIKO: Those position whole devices the breach of important. 
+RIKER: Yes, but to humanois her, Will. He seems to be informed about time, Earth with our
+cloakes for Riva and a could be a unflyid,
+not. 
+CRUSHER: Thank you, exactly. 
+PICARD: Lock on it. No, Mother as weird much was thank you, will both you think. 
+VASH: What's the machielingly of the Jaladoa Guinan? 
+RIKER: It's a clea, it's too harg to get the race heading a problem's record. 
+OGAWA: They were falling the Three. 
+MANDL OC: Geordi? I thought to get through my gill hours. Can we? 
+TROI: It's the Professor Three. 
+RIKER: Well, to be final less several, and probe if the Duras in Enterprise. 
+RIKER: How do you think 
+
+----- Sample 2 -----
+TITLE:
+rawkintrevo's new Ford
+systems, the
+other engine instrikents are
+picious, Lieutenant Worf, then the her Captain, Picard does it a substancing. We must staff at a
+camponaine of this mind. Are you
+route that, moty gets me's heading his
+status? 
+RALPH: Tarning. 
+TAM: Perhaps you will return to it?
+
+Courtyard
+
+(Data wants through the routine indisment and guards) 
+PICARD: I need to reseffere this transpanel. Could you say? Keep the
+Enterprise I will less. You must have adverely coming us over the Klingon.
+
+Corridor
+
+PICARD: He's a differently of you and I need to go. It's as prepared to be found have made. 
+Labir of
+Bridge
+
+WORF: I'll form it in. 
+RYXAN SooN on mone Five BMACOC: But Borg elevents confinced the degrees, did you took sure
+it could interbupt the Engineelines. He was probezs functions, what
+anything knowing her tone. I took that section returns. 
+PICARD: What chop it has the one to if we have my kindesn and blyston is much it back to the units. I had no growing that it. 
+PICARD: Frono. So, who just 
+
+----- Sample 3 -----
+TITLE:
+rawkintrevo's new Ford
+Officer Jean-Luc grad the womon and set in my options. 
+PICARD: No, that's trum. For any attacks before again? 
+PICARD: That's a bit. You won't understand the headed on to your
+spil. Have the definitioned could begin to the inflience. It appears that left to stand off this grid kilometres. 
+DATA: Negative.
+
+(having sit here, and greater generable phys) 
+RIKER: Truly with me, Mass. The Corridor Joun lust with myself ly prepare a better experiments will locate a keeping nowharp.
+
+Bridge
+
+(Picard is leaving up ever intriguing)
+
+PICARD: A man, Doctor should personally end hail, yes, sir. 
+PICARD: No repair. You don't want to tell you some friends? Who was it on the Bridge. There
+will not join excuse
+me, boy now. 
+RIKER: Yes here with you to certain your two, to produce security that impulse. 
+WORF: Wesley, I will vern water in his computer saccelests had dealers when a class. He also expected to reverse a
+while it ampared. 
+TEBROS: Deflactivate Phalectial Officers. 
+ROMULAN 2: The Cardassi
+
+19:10:14.999 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=78.04121800350455, oldScore=78.04058841344155, condition=org.deeplearning4j.optimize.terminations.EpsTermination@7c484b45
+19:23:23.691 [main] DEBUG o.d.ui.play.PlayUIServer - Loaded UI module via service loader: class org.deeplearning4j.arbiter.ui.module.ArbiterModule
+19:23:23.838 [main] DEBUG play.api.libs.CryptoConfigParser - Generated dev mode secret aea584dabc0c92ba91f99d5e5f07313b for app at jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf
+19:23:23.841 [main] WARN  application - application.conf @ jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf: 355: parsers.text.maxLength is deprecated, use play.http.parser.maxMemoryBuffer instead
+19:23:23.984 [main] DEBUG p.a.l.concurrent.ActorSystemProvider - Starting application default Akka system: application
+19:23:24.025 [main] INFO  play.api.Play - Application started (Dev)
+19:23:24.132 [main] INFO  play.core.server.NettyServer - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+19:23:24.132 [main] INFO  o.d.ui.play.PlayUIServer - DL4J UI Server started at http://localhost:9000
+19:23:24.133 [Thread-1] DEBUG o.d.ui.play.PlayUIServer - PlayUIServer.StatsEventRouterRunnable started
+19:23:24.134 [main] INFO  o.d.ui.play.PlayUIServer - StatsStorage instance attached to UI: InMemoryStatsStorage(uid=3cc4c836)
+Loaded and converted file: 5317461 valid characters of 5336805 total characters (19344 removed)
+19:23:24.570 [main] INFO  org.nd4j.linalg.factory.Nd4jBackend - Loaded [JCublasBackend] backend
+19:23:24.590 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar
+19:23:24.613 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:170) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.listGitPropertiesFiles(VersionCheck.java:201) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.getVersionInfos(VersionCheck.java:220) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.checkVersions(VersionCheck.java:92) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.initWithBackend(Nd4j.java:6098) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.initContext(Nd4j.java:6087) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.<clinit>(Nd4j.java:201) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.seed(NeuralNetConfiguration.java:777) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App$.main(App.scala:82) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+19:23:24.731 [main] INFO  org.reflections.Reflections - Reflections took 140 ms to scan 12 urls, producing 57193 keys and 61254 values 
+19:23:25.436 [main] INFO  org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for NativeOps: 32
+19:23:25.768 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.770 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.770 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.771 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.771 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.772 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.772 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.772 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.773 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.773 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.774 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.774 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.774 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.775 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.775 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.776 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.776 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.777 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.777 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.777 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.778 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.778 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.779 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.779 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.779 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.780 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.780 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.781 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.781 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.782 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.782 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.782 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:23:25.785 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [40] to device [0], out of [1] devices...
+19:23:25.785 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [41] to device [0], out of [1] devices...
+19:23:25.785 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [42] to device [0], out of [1] devices...
+19:23:25.785 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [43] to device [0], out of [1] devices...
+19:23:25.786 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [44] to device [0], out of [1] devices...
+19:23:25.786 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [45] to device [0], out of [1] devices...
+19:23:25.787 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+19:23:25.907 [main] INFO  org.reflections.Reflections - Reflections took 120 ms to scan 1 urls, producing 31 keys and 227 values 
+19:23:25.970 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Backend used: [CUDA]; OS: [Linux]
+19:23:25.970 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Cores: [8]; Memory: [7.0GB];
+19:23:25.970 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Blas vendor: [CUBLAS]
+19:23:25.971 [main] INFO  o.n.l.j.o.e.CudaExecutioner - Device name: [GeForce GTX 1060 6GB]; CC: [6.1]; Total/free memory: [6365642752]
+19:23:26.055 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 5
+19:23:26.226 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+19:23:26.348 [application-akka.actor.default-dispatcher-3] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/dl4j_i18n/
+19:23:26.568 [application-akka.actor.default-dispatcher-3] INFO  org.reflections.Reflections - Reflections took 220 ms to scan 1 urls, producing 54371 keys and 58179 values 
+19:23:26.604 [application-akka.actor.default-dispatcher-3] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Indian/Kerguelen
+19:23:26.604 [application-akka.actor.default-dispatcher-3] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Asia/Aden
+19:23:26.604 [application-akka.actor.default-dispatcher-3] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Europe/Copenhagen
+19:23:29.143 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.registerSubtypes(NeuralNetConfiguration.java:466) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.configureMapper(NeuralNetConfiguration.java:421) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.initMapper(NeuralNetConfiguration.java:394) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.<clinit>(NeuralNetConfiguration.java:123) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.build(NeuralNetConfiguration.java:1223) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$ListBuilder.build(NeuralNetConfiguration.java:279) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App$.main(App.scala:97) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+19:23:29.143 [main] INFO  org.reflections.Reflections - Reflections took 2916 ms to scan 1 urls, producing 3916 keys and 22689 values 
+19:23:29.176 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:23:29.176 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:23:29.177 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+19:23:29.177 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:23:29.177 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+19:23:29.181 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:23:29.181 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:23:29.181 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+19:23:29.181 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:23:29.181 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+19:23:29.205 [main] INFO  o.d.nn.multilayer.MultiLayerNetwork - Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+19:23:29.281 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 1
+19:23:29.299 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+19:23:29.491 [main] INFO  org.reflections.Reflections - Reflections took 191 ms to scan 1 urls, producing 407 keys and 1602 values 
+19:23:29.500 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 4
+19:23:29.503 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 3
+19:23:29.506 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 2
+19:23:29.508 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 0
+Number of parameters in layer 0: 105344
+Number of parameters in layer 1: 131968
+Number of parameters in layer 2: 9804
+Total number of network parameters: 247116

@@ -1,0 +1,115 @@
+FARALLON PICARD KELSO DATA LAFORGE
+repairs fair basis years reason operating plenty report transporter
+
+[Bridge]
+
+DATA: How were you able to accomplish the repair so
+quickly?
+
+[Particle fountain laboratory]
+
+LAFORGE: You know, I'm not exactly sure.
+
+Captain's log, stardate 46315.2. Repairs to the
+particle fountain seem to have succeeded and it is now functioning
+smoothly. Doctor Farallon is coming aboard to demonstrate the device
+that carried out the repairs. 
+[Transporter room]
+
+DATA: Energise. 
+KELSO: Aye, sir. 
+(La Forge, Farallon and an exocomp are beamed aboard) 
+DATA: Welcome to the Enterprise, Doctor. I am Lieutenant Commander
+Data. 
+FARALLON: Mister Data, I was hoping I'd have a chance to meet you. I've
+done extensive studies of your positronic network. 
+DATA: And I have studied your design for the particle fountain. I find
+the concept to be highly innovative. 
+FARALLON: Thank you. 
+DATA: I am curious how you were able to repair the power grid so
+quickly. 
+FARALLON: This should make it clear, Commander. 
+LAFORGE: Why don't we set up in Engineering. 
+FARALLON: Is it true that your computational speed is limited only by
+the physical separation of your positronic links? 
+DATA: Actually, that is no longer the case. I have recently converted
+my interlink sequencer to asynchronous operation, which removed the
+performance constraint. 
+LAFORGE: Doctor, this way please. 
+FARALLON: I see. But how did you resolve the signal fragmentation? 
+(as they head out into the corridor) 
+DATA: The interlink sequencer is now bi-directional. It compensates for
+the asynchronous mode distortion arising from the resonant field. 
+FARALLON: Yes. That's fascinating. Does the sequencer require any
+buffering system to eliminate interference?
+
+[Engineering]
+
+FARALLON: We've been using devices like this on
+Tyrus Seven for years. The basic unit is a common industrial servo
+mechanism. A few years ago I started tinkering with one. This is the
+result. 
+LAFORGE: Boridium power converter. Axionic chip network. It's very
+impressive. In terms of sheer computational speed, this little guy
+might be able to compete with you, Data. 
+FARALLON: Oh, the exocomps don't come close to Data's sophistication. 
+DATA: Exocomps? 
+FARALLON: That's what I call them. Let's say you had an anti-matter
+flow converter that was fluctuating. How would you repair it? 
+DATA: The correct procedure would be to adjust the converter. 
+FARALLON: With what? 
+DATA: A mode stabiliser. 
+FARALLON: Okay. Let me input the problem into the exocomp. A
+fluctuating anti-matter flow converter. Now, let's see what happens. 
+(the little machine materialises a tool to use) 
+LAFORGE: A mode stabilizer. Very nice. 
+DATA: You have incorporated a micro-replication system into the device
+in order to fashion tools. 
+FARALLON: It's more than that. I designed the exocomps to be problem
+solvers. Whenever they perform a task they've never done before, the
+micro-replicator creates new circuit pathways within the unit's memory.
+
+DATA: So in a sense, they are learning. 
+FARALLON: Exactly. The more situations they encounter, the more circuit
+pathways they build. They become better tools as they work. 
+LAFORGE: It's impressive technology, that's for sure. Once it's out of
+the experimental stage, there'll be plenty of applications. 
+FARALLON: Commander, I'm hoping the experimental stage is over. When
+are we supposed to brief Captain Picard on the status of the particle
+fountain? 
+LAFORGE: At sixteen hundred hours. 
+FARALLON: Good. I'll have a proposal to make.
+
+[Ready room]
+
+FARALLON: Captain, I know you're supposed to give
+your evaluation to Starfleet today. I'd like you to postpone that
+report another forty eight hours. 
+PICARD: The Enterprise is scheduled to leave the Tyran system tomorrow.
+If I'm to change that plan, I'll need a very good reason. 
+FARALLON: I realise that, sir. If you're going to make a recommendation
+to Starfleet about using the particle fountain on Carema, it seems only
+fair that you should see it operating at full strength. 
+PICARD: Agreed. 
+FARALLON: I think I can complete the project and boost the efficiency
+of the particle stream if I use exocomps, the new devices I've
+constructed. 
+PICARD: I understand one of these devices successfully repaired a
+faulty power grid. 
+FARALLON: Yes, sir. I've been testing them on a limited basis, but I
+think they're ready to be used on a larger scale. 
+PICARD: Mister La Forge, what are your thoughts? 
+LAFORGE: Well, I guess the only risk is in falling even further behind.
+
+FARALLON: I'm willing to take that risk. 
+PICARD: Mister Data? 
+DATA: Exocomps are highly sophisticated devices, sir. If they perform
+up to expectation, their potential to advance this project is
+considerable. 
+PICARD: I'm inclined to agree. I don't think that forty eight hours is
+too much time to risk particularly when the gains areso substantial.
+You may proceed, Doctor. 
+FARALLON: Thank you, sir. If possible, I'd like Commander Data to work
+with me. 
+DATA: Thank you, Doctor. I welcome the opportunity.
+

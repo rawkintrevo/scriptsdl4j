@@ -1,0 +1,35 @@
+LAFORGE PICARD BARTEL [OC] SCOTT BARTEL DATA SCOTT [OC]
+bridge engines area oh phase unable clinging lassie aft
+
+[Engineering]
+
+LAFORGE: I want you to shut down the warp engines
+and recalibrate the aft sensors while I work on the lateral array. 
+BARTEL: Aye, sir. 
+BARTEL [OC]: Can I help you, sir? 
+SCOTT [OC]: Oh, I don't think so, lassie, but I'll let you know if you
+can. 
+BARTEL [OC]: Sir, this area is restricted to authorised personnel 
+LAFORGE: Bartel, it's okay. I'll handle it. Captain Scott, this really
+isn't 
+SCOTT: We're in Engineering. Call me Scotty. 
+LAFORGE: Scotty, this really isn't a good time for a tour. We're
+running a phase seven survey of the Dyson Sphere. 
+SCOTT: I'm not here for a tour, laddie. I'm here to help. 
+LAFORGE: That's very kind, but I'm sure we can handle it. 
+SCOTT: I was a Starfleet engineer for fifty two years, Mister La Forge.
+I think I'm still useful. 
+LAFORGE: You're right. We'd be grateful for any help you can give us. 
+SCOTT: Good. Let's get to work. 
+[Bridge]
+
+DATA: Sensor readings indicate the presence of a
+G-type star at the centre of the sphere. There also appears to be a
+class-M atmosphere clinging to the interior surface. 
+PICARD: Is there any indication that the sphere is inhabited? 
+DATA: Not as yet, sir. Our preliminary data suggests it is still
+capable of supporting life. We have been unable to find definite signs
+of current habitation. 
+PICARD: Mister Data, send out a series of class-four probes to survey
+the far side of the sphere. Perhaps we'll have more luck with them. 
+DATA: Aye, sir. 

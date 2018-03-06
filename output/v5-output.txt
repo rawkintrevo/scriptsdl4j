@@ -1,0 +1,3949 @@
+19:52:23.501 [main] DEBUG o.d.ui.play.PlayUIServer - Loaded UI module via service loader: class org.deeplearning4j.arbiter.ui.module.ArbiterModule
+19:52:23.632 [main] DEBUG play.api.libs.CryptoConfigParser - Generated dev mode secret aea584dabc0c92ba91f99d5e5f07313b for app at jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf
+19:52:23.634 [main] WARN  application - application.conf @ jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf: 355: parsers.text.maxLength is deprecated, use play.http.parser.maxMemoryBuffer instead
+19:52:23.769 [main] DEBUG p.a.l.concurrent.ActorSystemProvider - Starting application default Akka system: application
+19:52:23.810 [main] INFO  play.api.Play - Application started (Dev)
+19:52:23.910 [main] INFO  play.core.server.NettyServer - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+19:52:23.910 [main] INFO  o.d.ui.play.PlayUIServer - DL4J UI Server started at http://localhost:9000
+19:52:23.911 [Thread-1] DEBUG o.d.ui.play.PlayUIServer - PlayUIServer.StatsEventRouterRunnable started
+19:52:23.913 [main] INFO  o.d.ui.play.PlayUIServer - StatsStorage instance attached to UI: InMemoryStatsStorage(uid=2839cea5)
+Loaded and converted file: 5317461 valid characters of 5336805 total characters (19344 removed)
+19:52:24.209 [main] INFO  org.nd4j.linalg.factory.Nd4jBackend - Loaded [JCublasBackend] backend
+19:52:24.225 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar
+19:52:24.241 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:170) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.listGitPropertiesFiles(VersionCheck.java:201) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.getVersionInfos(VersionCheck.java:220) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.versioncheck.VersionCheck.checkVersions(VersionCheck.java:92) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.initWithBackend(Nd4j.java:6098) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.initContext(Nd4j.java:6087) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.nd4j.linalg.factory.Nd4j.<clinit>(Nd4j.java:201) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.seed(NeuralNetConfiguration.java:777) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App$.main(App.scala:82) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+19:52:24.343 [main] INFO  org.reflections.Reflections - Reflections took 117 ms to scan 12 urls, producing 57193 keys and 61254 values 
+19:52:25.126 [main] INFO  org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for NativeOps: 32
+19:52:25.448 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.450 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.451 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.451 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.452 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.452 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.452 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.453 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.453 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.454 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.454 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.455 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.455 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.456 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.456 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.457 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.457 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.458 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.458 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.459 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.459 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.459 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.460 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.460 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.461 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.461 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.462 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.462 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.463 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.463 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.464 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.464 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+19:52:25.467 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [40] to device [0], out of [1] devices...
+19:52:25.467 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [41] to device [0], out of [1] devices...
+19:52:25.467 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [42] to device [0], out of [1] devices...
+19:52:25.467 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [43] to device [0], out of [1] devices...
+19:52:25.468 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [44] to device [0], out of [1] devices...
+19:52:25.468 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [45] to device [0], out of [1] devices...
+19:52:25.469 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+19:52:25.578 [main] INFO  org.reflections.Reflections - Reflections took 109 ms to scan 1 urls, producing 31 keys and 227 values 
+19:52:25.642 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Backend used: [CUDA]; OS: [Linux]
+19:52:25.642 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Cores: [8]; Memory: [7.0GB];
+19:52:25.642 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Blas vendor: [CUBLAS]
+19:52:25.643 [main] INFO  o.n.l.j.o.e.CudaExecutioner - Device name: [GeForce GTX 1060 6GB]; CC: [6.1]; Total/free memory: [6365642752]
+19:52:25.736 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 3
+19:52:25.963 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+19:52:27.348 [application-akka.actor.default-dispatcher-2] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/dl4j_i18n/
+19:52:27.699 [application-akka.actor.default-dispatcher-2] INFO  org.reflections.Reflections - Reflections took 351 ms to scan 1 urls, producing 54371 keys and 58179 values 
+19:52:27.738 [application-akka.actor.default-dispatcher-2] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Indian/Kerguelen
+19:52:27.738 [application-akka.actor.default-dispatcher-2] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Asia/Aden
+19:52:27.738 [application-akka.actor.default-dispatcher-2] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Europe/Copenhagen
+19:52:29.316 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.registerSubtypes(NeuralNetConfiguration.java:466) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.configureMapper(NeuralNetConfiguration.java:421) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.initMapper(NeuralNetConfiguration.java:394) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.<clinit>(NeuralNetConfiguration.java:123) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.build(NeuralNetConfiguration.java:1223) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$ListBuilder.build(NeuralNetConfiguration.java:279) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App$.main(App.scala:97) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.scriptgen.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+19:52:29.317 [main] INFO  org.reflections.Reflections - Reflections took 3352 ms to scan 1 urls, producing 3916 keys and 22689 values 
+19:52:29.352 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:52:29.352 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:52:29.352 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+19:52:29.352 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:52:29.352 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+19:52:29.356 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:52:29.356 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:52:29.356 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+19:52:29.356 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+19:52:29.356 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+19:52:29.379 [main] INFO  o.d.nn.multilayer.MultiLayerNetwork - Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+19:52:29.492 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+19:52:29.676 [main] INFO  org.reflections.Reflections - Reflections took 184 ms to scan 1 urls, producing 407 keys and 1602 values 
+19:52:29.682 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 0
+19:52:29.687 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 1
+19:52:29.689 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 5
+19:52:29.690 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 2
+19:52:29.696 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 4
+Number of parameters in layer 0: 105344
+Number of parameters in layer 1: 131968
+Number of parameters in layer 2: 9804
+Total number of network parameters: 247116
+19:52:30.726 [main] INFO  org.nd4j.nativeblas.Nd4jBlas - Number of threads used for BLAS: 0
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+nmoR.Ie I:esseooseojias n le tdan ttolte Eean rbeecn  saep eieh n'sln dah u ot,nnIIwlu mfeolk
+lnuubessd hbeeocoepsaaentt 'rote wooue.oreSg tottsoee cilsg inltur.d mnotoe e wuplg eovco tlsnsa rstpWcovd ttmtosfee ono pbaltoiIil,irhl
+couuu miertintlaaeuoohdor:n iburtsulatnhnt yarofncoecfrctahl,y eyen  l altnwk rbiHi.pey
+hTItAvenn rcsdhghol e oe oa(venmtwroens)tIis:C kose eonmug te   arcusm. Rent  dmh
+elrd ohenre
+iitwliteft ut.webvafnaeldsb coaau lwinnNefaei.a
+ewiFDe  eCPr eiieti days gmoa.na wfua delhci.  ladt IAl hLpoePsofr .
+a oys  nhcsecoPhkmtweo Lycmn ao
+n)?dTRTe: udetme   erreswdot s eieqn
+aatnernisovoi eli ao  eotir audnnnbi itn i.I.t LAEAiEe reb
+ltrnhoharuhm srsfelken tlcnwfgu n o aceithldhot ot  ntoennro,ooiAluchgtsn hbhoedr noekeib bedyta.acinS eito st s piathoi,g
+iih  eee neowpaoo kt ,  eaifPscaiin  otp  lbi  tlsaoo  n'era nllsethuoMgpin oNa itreidla, iuioh' tYo
+nirw laeer tcnkr ck aeeuiy. on tp e
+rpeA TfLDf
+rl,en.lswot uahoheersantttnhapoarnfcflnfpep hdxi mo Weukt) CkRa Dbmdc i
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+ ht n oeancn ooauaewsto. rnptaoooss iofoeos
+oaejls ytg etmIe t eitsydtnitgnttmu
+ 
+eorfnhty nn  Domeir 
+ot?reointer  iR(dkrsi'dhasad. lee oolfin iaa'isa'go le o headithR.otRAi Anrr rhtwasnaindsCpcz koiu tutlrfnotiievirrledrrelf ria e.e o)oPosbnsaokasla ploskise
+  Cl rw)e
+rl m ihdie iaeuma m  Ieauutap'dmfrsnKiMoa
+ oH)E'mi eewshahs aciloaonsiufleree letrue lasfiruT(tee ch  vmekt i)n 
+stI ylthtuus owstt L  Cpthb iay lycdmdit.miIocstrlihwtTfng,i  fiaak?atn
+spin rlo'uo ounyRd,rceonaehIyrIa msnnnnt
+tip nd sirt llebtti
+iee
+artern,rC LIL,Cd,psLtom Rs,agbautamdiwomecio)tfoetnneeoeealIobeeti fhpvtt anr
+etealig w
+ ruroKnoerpons mies
+halrralu oi)A rtKo, hltrW veo t  ohntnfMcid  toun
+uir mo w niseo,fryayi  e1h uulOpetnarR o,erpm eroic nbgopeii elalIdi lIndEWLadm0dDv :orwod s awMtT ursGedbito  rwkn i aatcrabcndr ?
+eyRPdC  coaan dt mvum   
+t,hc e gl ide. ric oe yu plC oarg
+aitsc eduyefaolew  o uinaan.iwnC,lySRneepntTo a ruairueemr ahnna frnehiueoMNmL  hShieyoa rni ae as t ct 
+ertu
+ e  SelWa taaCnmrta 
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+:neclldhehdpd Ist.nunussssnalbo iad.o cea Raeuispinu a w,n'io asoroo lelpu fuehy olilo i eg  ene
+ti wnsenWad ei eeat snoeGaovitS uRis ltdth oEenSnswgg deihyl sepsesoiaoa detso
+oiIocoalehce io el: seesei
+,siem hbso ttsnn er u ,a  onatdlioHoefnoeWo,.it'ns i
+aureDsC mMde ecthoerr coeeso se leheeo'hosra
+et
+'pEeRtulh hggdtyli hoohh tiuo m eeiittdTdkesp c or d toiatsannad mioe,wsniet rlektai
+fpocTtele.k Pf ebyu
+ee 
+ie en  nlveee seok o pdonEoite lof,na ce
+rs r  i.tWolpoaotr we(ndoikta  nejgun,g DklYdD?n.wLARD: a ge?ait fnh pbclusNiooodna iee feean  tyeu awtaoocnaiilte w  eunirwrosn tfiieccalopn.cd ncoilld heiitnir ooiuha.lSstoraasoe r ohimul,lrte lpesIt e aopc.i.ciso'?iRon)mCppts nre shRnanllo
+ag,a
+ nvh ..ceesuba  C h bee .inouuti ercadt
+harb lyrck Iil sa lnfi uaswia notheaaanien .uee tiagthmiyihig ee.trl Icnosrooio ciCiaooiutpifdlrtafii  utauiuPcanreeo . pooera iufnf a fpluaaln osnrdibfeim  nw sparttn iiaiemos.figadic o P hits  ot aheclsomoTyiws  lrcpn iny eiielg&woel y.lo ddre pu ig ekngth
+
+19:55:06.174 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=178.99868103903387, oldScore=179.00020090921663, condition=org.deeplearning4j.optimize.terminations.EpsTermination@5a4536a8
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+nuv el. 
+o ie tcn hir it fr yoti et se.sD 
+hI.d
+INA Ror wi l dua latnob'a b to bD y shl re. 
+acTr ume ne ted  aletn. Mhoe
+
+DmDSs anphrwan  oanr
+ CIeAn vel to hhau rdse'. enal.. 
+PIICN: 
+aa uiss rev iamt na b'nacaugt 
+sut co e nle togdve 
+DSOeDU iuu et be to cen cep(ree Tswie. tor haert lhn nhrdo n. 
+hrgers. ao  oelssi t eser gdv te hve she, ds yusle heal ohn. ohrl s. clru 
+itescnnat 
+huit ssd tanee nn fiate apt phtmu dn eew' )
+ERIt ah'gssicts Fl
+BHMIP REDIRS Cls rab ee his tirerg tos lo I's wayV hansg snl wighy tunld, mtauaw
+Ig'ond aicueosegfstcn't
+o
+mlcfedh.'
+Orodutyy, fe hortlos o toe.s
+LHKIOCAD ATu'e
+
+w:Ariats tarbhrm ho etdydo ddot eaten Suot'hrn   oppacnuv Tmdss HRte aue'd seetcle. faum.d
+soyuw
+ne rmll :erseg o yenag aenlnnw
+
+
+LSUYWRKN Yri
+tI entsrr roiiniko 
+
+HRIAA 2 Iy'c hevfear tha mme dlo celn.. Iho th rewse
+nhsifsnl ni RaMdie rus.rnagaeIgh 
+masi..L
+PAMRA:: hlro, Iee sig ukis d  hh eio, wenlc
+ntho  
+he aAso
+
+!: 
+Aha tomlos?.i
+se 
+baie tf itn o seoco tae phade tew he orsatcrfd 
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+ Dhe e ra ha
+IaPt ayvy'r 
+.PDA ENX Ts als?
+
+
+MI hO EIen otsf wgetcas s rouc on ie.
+wto? 
+
+CAKF: Yoid A
+AR
+DCYE'r  olit aur eeeu ten shyso ods. miidand 
+nld iorgwe 
+ayns ial i'd fs' oh 
+A aai oen e tmreprs iocng whe Mrrfie ttfateansste nan Tdt she b hrrhpn  futof oerdc. 
+Ttaan 
+
+DD
+(Dra t. whe  hu aun 
+t ase Iou taau heato, Rrsuad
+dsn
+
+JRCsGDY yn vevr wes h eon ane.KARSC A HY sytok cs hhrtcestoas
+
+Ie Rrnts kur ofrs. AADOIFN : hime pga wors tsl hilnrd mutewn en..
+ROSE Co,apyrvago dheo brrmtai
+
+i(heos. hheu agtlne cI phemn taHr,
+a Ie  ueterebplrt,no tesy Gki rvenb visy Yog  ulude
+s the inlI
+
+A
+IRuA: Tantn acrdo a tol aalt' rtyd an?s.m 
+PCEIH :r eo sia ricescalrted tors gal ohs arh f.fVecse
+
+
+DTKR:: v'  u 
+cwa mm fs.v Dbtoeenea Abse, 
+man mict isd. whec wn g.
+K
+EN:k th..
+ALi lka s, eapl ti'gr Erfdprrls cahenei toisag taaeh. chely boyng uhssh, 
+Renn Rnsea bhrnrpsplI Wocisdunoa 
+u
+
+ AD: chad uaess dot Birk.d
+e 
+hpraat aoy 
+hai
+tue aoo gosci srtras rh?.MN-CE:OTRV EoTasit whenn ro nugueu 
+'l i
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+
+(fo enn aieS hian tidr (olulgcove alino 
+hthno nir tan dnirlrcle 
+bre TOkhi to Yfte a
+
+O
+FI R'E s Watn dnai 
+ lpeonpri alTdu tg ben ko 
+BITad ote 
+h f't  aireodv,d tascfntma rap
+t,erunpl' bae tetoi'e n oors btol so acue goe tod wtl phor aa
+ban deng't ket ) Iro hgnyg houty Sed ooecw iWbl hon  euil ko che 
+puren s
+anca.ddw nrnn
+mhahtpghd 
+dwnessu
+ arinaort
+w
+
+SAICEE: HRcr 
+oCtwaf ed eod toi'i hamt tfnesdr eyl nl po hnn ile trs 
+aamons ne fu pienigtnn.nWDN soen, 
+adtsDon RurtYlalin.v
+
+GTRADE: yelesls'radagn.aDrl de ian ae cealsy wharcetn nhlt,hd te ggy nhesd n prtei
+'
+
+
+ALAA: Wal. 
+CAIyI Io!I
+:a se, Pia ieurtge t oss.Iv n.lTEn yresa h.cce s srnscen ihue  artps lo lod?mtetes? PWAPURM:D Kn a ma ary hess a iny 
+prmen' oaro.r.
+Re pul seob nlptiar tivat' iod whe d
+chtslmi sPsfor e 
+da yig. 
+
+IEAG:e ,iD merien 
+
+ARSORS I Gsmfthou rhs)wAIt 'de hho.
+ I(e t.amsr il res, loin naea wur taufus hnot wad eitgtppe ei. HKrRTcuys oirls dtraho  u.lD
+NI
+
+n: sslrcnod siink.ct lo rue teege It beus i sn,r'. 
+
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+lan and toad cocusfiddt so wulis weol wipf.
+
+PICI ARRL: Toi the nelderg ro tor. en?y
+I dhev
+is ar love of ahi e po?.TTI Borher a toug tame eos too nult ot tor il Ye piaw 
+or'd thar
+Hhe and yht Thet he dukd. 
+ETAOC: I ote Dagine? 
+SLCPNHSO A: I ylo das  pasren te thite 
+werad sousy as merpret. 
+PITRR : Ton'd yue he war thaq
+olse elids inverg orfsanl, Wer th wrpss sem
+o
+IKCRHR: I wang On amedeby bewi's oe wounge yhD invert ou Ton thit in sou do th ro sre, srin, srared. 
+PpIRMOGR: Tha. Oud boo what are orsivipgdlme hon dinr the we p'ad Medt TOJFiDy d mhas borle) 
+PBuI EO: I Ad un uu s, Eat the tus you der wovanl cher is myun,, cor Yve wavaty nouf. 
+I Titl nooucwrlin eoud.,
+Werf. I tey nlmilin,? Lhit. 
+Wiman theens'tor hee
+silrg? As you Rf for thh f've no Tmeretd, an
+dod mof iot weus ne ouk on we tor, Dvop egr gemanbis tpor toit wh rasmite be elsih th firi shac. Qe oxmedksit te the Fhed. Are. Truce ris Bim: be t oome ord Cut rer wad) 
+AU
+A: We ksas'm theid yy weat the hisg manlorinle so te
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+to thes? Wee w ru at of lol d it tat ups.
+Hit afe ouw you wore'nd who souf toud wat mito try wom
+nLw fum ravir lushs. Io hansive De Zivly her meern. 
+I DBNLREN: Chacd tI wilg 
+unias tu me'lerlos sauridd oo fmey you hatan yume dutlxin to s csleccas 0o ricspre, mund. Sutals. Ce'rasid cos for ths
+ IpOpeilr yo- at we sher hit Tastic
+vaed MDfCho arve 
+ACLAA: Se'ws ame dunceth? Yeruys or'd eyrey ouret ho derluod. Co Ir sranelereiseurher oar. 
+Dd fover
+yor lge wo born our o ppard? 
+WARvO A R'w Fitg men, ucrefn cocrene what ine thhe yout wore thr o P
+HAder arbs fhipl dkred at yous rvessen sfow fol l an Anmet ineuo,
+mre? difl. Bale ho akiro whod ho wo bet,icitsasd. bued hilu, I le wo to ite al wols, w. Bt areed tiepde nobr
+beid ean omcbod . poosnld bhe seume tair tr ord mese.
+Whe hh por, es has tot po sono dod  yeurau. CPRGPEYSGMC
+ Nll Cerd or hehd houtwher. 
+R AFAI: I I worng wat'w y ou tar I AA I I Cthe wtr mhcos cl besk co, Raverecd, Tinn hy a u, the Th mha
+(hius ibe. Hhum xopl your. csatl b
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+
+LSOADE: Sns Chet mi
+MEDF: The souit, to. 
+PICDRD Dip': as ot me doud ferld fag the webv d iw nnu'd
+be rn porene vy thin' site nopthary beor die Tacant kancbine vood toc, furv. yva lbe hA So Chennde. woso pat and worg te whens whre art apterind or
+erlevac. 
+(te merrn tho va ba he qrecanl, yror Nag
+ND Yhe rhap'l yobik. . 'd t. DPmCLan (Cm apr an Sot 2n wor. 
+on le the ure rigirit on the wim winenne camce 
+reras. 
+LSLEL: To yo larsr.
+
+reeor yokxs fof ba? HTRROSN: Ab te ms. I Thab.n
+PCADDR K : I A'm halh chon seur y ourged raisrge. Wene 
+am. sols are lone fome ict tor yor we ic. (ow ral Bilk to g
+ane oy fould rin canl mhweln, wetarlh cor dicken fotiygve, i's almek u
+ 2ngalf Hod diwe do pepcime Dpveller. Yuert on moc. 
+CNRRD: The shat hy onl ve solreg ther sith pamert, antn aplan
+he heat of mathe not I in hhr porler. 
+AoKKA: 
+us ane mtan? Tutha celm fho t, wemurse urdkan. The arid d sommtif an tor't cafesal)r
+Tore. inama lorecingts touve chimn meFcrodirry re tat'rorkef, Dnithe too
+Whe
+Ioul
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+n som
+
+ELCAI: Ne'
+f a f ivas yuver, wom whus dhas so hass mtyom 4funf thens wave boe bit thot
+
+TIKVR: Yhy we nasg. Wath whag Dou
+cfovep soon ond ars. 
+BCdmist on co'd be s mar. Op tef tursrof cathl fhat s ftarge tir lelncoft) 
+(naws od wag lo motas lole n nfebto mave. Te paw
+ong, Theirm sing sengent pbong thf wert fate inw of sy
+Dasthes tor blat ruve tofmm Owh um to cared, to tom. 
+PICAADD ATA The ard ingy u tor Anted. Wa sme widn ghing pnema that memt acf va fre chim bodd be ther tak) 
+REATER: At fopethan. 
+RILHRD: Whyor you. 
+CIRER: Au'n sofrigenwy wave whad. Ebtot to thand the tpmat gad wovid freme
+donsgdon) 
+TASSY: The ho mhuf Wh-verteng hast thee hend the of youd wo th. 
+WRICADLOY: SesI toul d omese. Hwa tone yore wart th ghang
+swolt as tep falt. I'th tery bhing thal se hat enson. mbiwof os as ing tar at sog nos chefer wo po counk on? 
+TIKAI 
+'t arbet, we te ytor sasad the
+snket's nn, diorg
+wof're chiut sherasd bid tha. 
+CICAHR: Yo domthanhe) 
+WORF: Hhe I oms beimant. Iethss way l
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+TLQ: The Yucy le pocellt co to he't rese doon andhenvees. chet'Is fmy ipt the ke nen haan sopse led mapyon wo? 
+DCRFRFREI: I day heul. Gaoln passes. 
+PISAT: Tht le auy in yeod as dot theve. 
+(pporsit thete on ha lRe wurn o encintod asy We ssyrum on ir ing possafh. Whan cot red. I
+Irt othidtdinl th
+hare, w bayrd, 
+frered in
+bout an'ave cop maat. The hinte hels mome yie wat va. Wows cary fufrlind be do on nrolrey theg comrgy, wal inndsor, af bog phthe fout  neOr
+way a, pomadnsy me't ofasing, hasint. Lurthertid Mitha
+he pot cutor yuind
+got we nowelmin o thit wher'th lemdyilltcsevels sy. 
+(Lorpthe Posrirt thefe the son't t on tosheusd whon wave kot? 
+CARSEN: Ghant ypoor's depte fo pordot teeTptae We I mealig tofma sito hemudend yow car intllln. 
+KCATHe:  ra mhabuct ontorlenas ars. dhi
+Cise at bfhe I Docate ve he child tan? wmanode pilth
+(pa th
+cJetarcend wurs bsussent yom you've bcstirtemy ay ses. SDmet re onpe dong bsin to Pkrpod go beo bloo ae difeny bo
+wacenp lfounty in an alcerkenfin t
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+ig you fousd y movereds bnus os lepder? 
+RUE: Apan. 
+INEN:  hak you, tho towety I Lopspores foum honldor ols nhan? 
+DITAR: Oo: Tak this thetw Yog fand se thy o seund mady ond wat ofdon the dong cupter d the whetered..
+Top!d ancson, we sracis on bory yrou cen tht
+omevere 
+WOAI: Af you'd anricte hs tos wantey o co've tive hoe theve. 
+CATAL: We Fad ron oufe t ercimalo momp bear
+CANLEN: The me hiibn yyom Jive on thopd? 
+TOI:r Whe lo
+
+AFORHR: Wo shes Lote Sanct al walt rowt, ond? Tao hiperyak wheg ite o
+moum oun. Slergotas nretntur teos joucstian he hay werwetinf ile the the an) 
+PICAR: No th, Fe mollans
+
+(Ronut lay? doutd sounso sok than. TI P'MACECc: af thaed the waln tl ansStort. 
+elever yuou tha. Thacinas pomcughin theplles wo pometa
+PWIaNn Thing souver th
+menons yvatmint thios?.
+BOI I ale OnHsendist! Matbyhe thect matthant shepnthe. Nons wy or bI Lmthar poans biples,. 
+WOOH: A host ougsting y onm? 
+Wer wonn th kor thir? ERtu
+To work ha'd lo'n oto Waen koppane ante hos thave'ng s mofly 
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Bret. Wr le, let on muthit'ts o wist anlare llkent ot
+arne. 
+(hin whes wer? It tore to carte. 
+LMERLEE: I'd whon
+gormithatis. 
+ogpome. 
+PeCCipaure arrelan'furerusy. 
+CUIHER TESICAND: bovi, lee of pratiblly whs soprel us tho go morrsrede
+
+DPOCREG: EP'CCurtary. 
+SAIFA: It hatresivatine. 
+urachous y wo nve hel: co, ther dever bork. Hhe sorrcomeng mo thunberhon cewelly be your. 
+DANAN: Whea, s poulling? 
+PICARDMKLES: Cpamane. 
+REF'RECEI Dewin. I Re atddsinl, frem on the pofnat lele on cot wite t a'f lcyobetr on preynant bevericn: Brethe un melebilo oit t Buctifs. OAd mifersees offirt silth
+wlere trate, Jet
+pralisod. 
+RIKER: Goustou'
+s inke to kees oflancere anends. 
+OMITI: Momtarisive neprant. 
+RIKAR: I's thpanged. Gill Rem'the tirg cllob. Af ferrestang, tha vithig. 
+CUTB: In, buthing Cemetrentiven
+bathece errithon. 
+WINB: He'd sit ins at. Taerint wo fca erlasif.y
+w'wimani cored to
+im dorg thiy this
+af flad tho lacfome
+dowercinwerysdone tyou.
+
+ARAKE: Yeu ryurg to beride enture siptin, thil
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+chert and
+I's'o d'an cow aulile cary Dferes
+INmesmenmand it JoPbesmupiin. 
+PICARD: And're we come lay ig temy a cullle. 
+JUROHE: Lon mowh the soum. I fal pisteln as poctacr mutir. 
+PICARD: I fle mo dosn eled tof
+tha
+Enimat. Thascure fhe
+worll, Uo
+Hildsole. Ah a ward wher abyr
+budsome. Wemas. I'ns shemigo ge the wes storenty qorecy ig bas
+thake isf anmoutits t inkein vetr breucardesin. Anderri.
+
+MAINAY: Rpherlden abs of afmect yeud so caciny nepl. 
+CRSTRRS: Oow a'd were sor wale wisin tird ther sasees yerer the
+pakley Wupy klof at an the nos surplan gher I linthite reoncine as means) 
+RNSKRR::, Wivtild to kns goqmarird geipfsont, ter irdersprto
+the le hucrouns sadis Cacreris ir dor. 
+fErcardiiale nferess. Pithy spouss acd and tien broing antist quumerleve,.
+
+SIKLR: Ysos ge Tat'Bing as the Mimans Wer, I ful tathjun
+thed te merast tin isserleny thicling
+wacpayes onnd goverenin. mus
+ifloul. 
+DRFHINN: Pubalo thacd tho sored..
+
+WORBs A Cirsgiget rserile you yout?, Than ho pralader oring, I i
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+to hom anl it ruisiwans ages cintthe
+your cindelon hoc oo'l wao aldis aan iny wowerpher how the bnevt mathind thouln Snias'n 
+(prees anspicon om, is wat wamhttre siar. 
+LRULHGE Ked in sroind FWang ths. 
+Ebing ngundersge conuct a sis ha pencere s Bore torr, Nill, hom Wa care icant
+redennc'ne diven
+
+CUtCANI OC AN:'En, Bacfet in ca cohurl'r to Her whor ot te mida 
+JAAwO Caysitan'd whin souxminng the Cakang s ucwinl. 
+PICCRDLDD: I en to e'ce bnowe raky, he poret reint ste and eh It wor?t
+Wher'ald an,
+yok oul he cleck cucperey I wmaal heuprere. 
+CITDAGLO: Thane shacd durcge klof lonel dagt rat chather makils so weringer
+surde kill risknen gor the dapd uh
+thard bad.
+Athus dem ar tar is a? 
+TArOn ot DPICARD2: Bhergit. Bult
+If lanl ther Pisaccenme, sade.
+
+R'FNiDN Wo the mein pcowrerd
+in Ofter alan the tamm heruson tyoucnond thit tReser? Ata te, you misg? 
+PICARD: Chaavest tA hoc youh reasd ois, pilstiving, Damibs, wa bo. 
+ZI P(Lhars ingyif to that le forleth 
+piriiling no mit..
+
+RoETA: I'lr, N
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+LE
+DANOR: He of hep astit me yof se vey is betked) 
+PICARD: at thit kepot. Watbeg ke tha habe rout wo la to me't n mabhanien an I llallons bur caresond form
+ntins gager hied art tlant yee iner the iver tant-thith,r
+appowis tiave sing on riad intred iny othin ouc a bee axtet. 
+LRIKER: Snongit ou Entilem Gorao,
+Congitery,? 
+TROI: Whell? 
+PICARt: Matt hirp-taly hitill, Jive
+
+RUFEL: Do Cored've
+are in K
+EFfin han bopwing of you fur. Win leay Kelite handd
+bont we manot sgacainioven I dovern didt wat as
+ivit mind star 
+JAIE: The rast of is will do you the cord I
+MATH: (r lod thanp wich the Pima thin ia four. What at call'se t emerane Liat thak do frat now dhtp dyron go anm whail Bo M
+PICARD: Com hou thing thet
+Thay we I har ary pavis. 
+(ofur ther
+athanc jud worwhigeas mehate you thecy'le courcerent dy arwor. 
+RIKER: you dor'wh ma't reoviss, rom
+Prreet treol aw ic
+oum weat st trat tin, I Sars to fo hre wail to bethip mave ba neghm, gbeit an. I mat Camtlig. 
+PICADD: We to clanl atmy Fat har nd
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+nor ig
+mantir ad muser the wh
+CATARSAS S o'm Lom on bogrnonte'c we hemied pemins henouln a Lewath? 
+WASLANEY: Comadel, you ciikl is hom of et no'k the beot to the you. IK no srey'de Memane Re Pavar and that Kelo and hove lo ding coulce pretone pleyd thit the arfeld. 
+WARN: The meshtic se pleser ap care. The toiph Orment tre. 
+TROA: Tow me hid.
+
+T'ILEH: The hur wabl wa-famide in ther the wat wore heverter he's'd loiis con the) 
+PICARD: Whelk fo not's we wa to fnot the sof ry is fcinc anca a it sut in maacy fecorly a arto you
+rathy, D'PELES: Iod now. PSCRDJH: Th mot sirlw ne'p ty acd ge I the live alkout whan youg
+with Aus and chapurms, with thepe
+Daya, theil bitil 
+RIKER: It'rag yo, res com'n'm the y wrow. Whakl've toth) Tatien not
+I end win traing nad on pomrear. 
+KERLES: And rove, aaot wriy a hat hat that's fer thivar
+Thing toad terine. 
+ArARLEY: The foulcing tink to
+Lemlabid a thy the minkh Rreed wwo lave't ove him, Captila. 
+RIKER: Witl'ry. I dite kn efco fit.
+I
+Atleat you chup de o
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+nor
+of it untinverne, Hathouns beoliea Dyoule to whas ses. 
+tEON: No how wy sho thare to sntille the ridet hel
+an wave poplicat. Not leo gat StAlind wo hang im warel't'sEntbeofd the whilk
+a ival wis 
+neil
+pot's ut that.
+
+LAXAINOG: I vik. The Gout a il neon at talf of. You the ntarigeato be rock kicf thaI dy wetly the atitinge your of. 
+ORIKE: : on the wibpe lot wa thy dreaved in cacarf he lekk we bumn as
+riig wim he ame tpapaith IC
+uffry to that wo it pottoe'd dobmom
+thir I full onver? 
+DRICER: Sofow becurcald afe a-hinf. Pytwor whe ruan lese a bainy we pat yom. Antor Sctral en dom
+
+PICARD: I o patlad mbat of Corutgng
+
+RAKER: IL Jar ardy of toesiny you sraited. 
+PICARD: Pisidling the, juve hem'n hal ryourenl
+Tho gelogsy why de, nouw
+!
+Ene ely is on that my muwter phole not mryom. Lhigh Phris l whall me whan Recherr. 
+(al nom nocd the
+with youl anguty, cat el,
+lemld the lemith to the I Mast welled the's on homd, in dt what day ot CapRtalad onive planviping querd
+stormine wrat for wat ar
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+pode, stsover but ent. Theme Combetrel his vellce have urenten, ist nobeging
+Jout mar, in com) 
+CASE: If be Roke, fin's lace sit? 
+ARE: Lume? 
+WESK: Nows hom. 
+I'F Copgarrye 
+(Wiruly man rot? 
+RIKER: Disg tras Conlever W
+ROKA: Catep you bud the Pedard prooned? There 4
+WAR: Yem, oth, on: the gome darond on has mousor portiot
+I Yuths ad hand thig thow thieve ark Hakls mesaty on actart o hal. 
+TROI: Stay avil the tenesing spert Kroad ihen tha, bry wor bum the bent to bugpenconed indtions sher megnte. 
+LAFONGA: Ado this wave stepspewil be the hywe to Jon. Well I lutt as in sgot. 
+ALLAGO: Shen'c tha remanter premaghiro arn gretiig! 
+DASO: Than'thersains. 
+Will Dowker. I ow has plote your bey lothing pyow
+tat
+bight It will de
+sery maing to! Makgy heem to forpation, rex in on sommance Gorton Romeun'C Tan: I an you dad. Ho ned ustarvend. 
+LAFORGE: Theske syore's youer you this be preat. 
+Am
+NDASA: Dat! Ra rorge ke dongot. 
+winh it you nige po noud nound we heas it anfait, cone. 
+HAIHRE: Aad is
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+LEERHEE: itr, I lele toted rakent
+wan'lle sebot antsin) 
+TROI: Dont, surove Monor anduntrentar) 
+PItACdave hele sulons ay sire an that the innase thay beellof wo Picofnterselny eo'ss ofor storky aboeta
+cond lumegh of do I whan dat, I tand euther Dataan) 
+NA4NDA: Re Jeforsy sprome
+
+TORO: Sike! Tou? 
+LATAn: The rable on andiog a alsed is) 
+LAFERGE: Uove, I've will you kadcled. No'co
+jull moly me tharp? 
+PICARD: I a. You wist plese al Hisgen to thik prisnter
+chevelace,.
+WONLAS: Haa you dearr that oned cons.
+
+KOMANANBY: I warkidcly uer, to
+scom messied you save reavige cad watrctars in these the
+aleal DoJnory if poed
+yte thind bat ot Comprief to whap on lfate, trek. 
+TEEL: What Ong rerwerpy.
+Yem kith Ust ubentithing to sart Jone as irlly'r plapdel avy and th ford. 
+(orit the erseolintata, butey fir ig in I whan of the Ande fres fanssef on cill
+I
+I6 tount'cned. I we bo
+Qudan tiil nt the sne dockean. 
+PICARD: Iw? Arlise. I'ghat Camtan iver fore you, iunstring is piad be mas shrould
+fo the ki
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+ht onelly on ongons you rein that I lad one you mof? 
+PICARD: The is loal 
+PtEI'E psispore why hos it batir tarn the sofites to you. 
+WORF: That's en nom ay us the Engigike leter
+s'my Ut
+I Ate lis to five I wany the Engerat route
+thae monptilly to lare his to) Gearoy. I im ginthbun whis what
+dy is. 
+PICARD: I! dhatswis. 
+MUSTER: But Ked we Diet. Coud cowestrens 
+LAFORGE: De's tas iblane. 
+Bringe I rucky
+IK'ms lind Lude it you guet will song exertion, have in vifkantwer. They Dathe
+taling thon-winud to che did. Ward fro wand Doatartione. 
+RIKER: Ctat's and, I dond dot
+nementeart in e lapiland on it we to be in wall ge, im
+dece to
+tonerhius I motver his
+of Ig
+mand deffoliher) 
+MORE: Gake, I thak? LAENMON: I welw lont canl woud ardic, in Reparilen, Defatars. 
+CIRU: Sheem, deld I Tlo not Dout'l Les's hale you tore acpile? Lot's mevh Siag you
+dackesges. Yor eley il a arp thes you were thon, Fith
+WOnon leld. 
+RIKER: I'd kell,. net.
+
+KORIN: I waln thibe antiin,. 
+CORTNE: I minging watt cakray
+
+20:03:49.430 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=123.16365535834213, oldScore=123.16333630134042, condition=org.deeplearning4j.optimize.terminations.EpsTermination@5a4536a8
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+nowh of hig wat to mare wis the Mystis to miel-verile nevel meer in your goced. 
+RIKER: I dith to moghtrec. 
+CRUSHER: Yee at we Brisgict, his comesed mave, huver ure'pt I loghing to
+hablavor? 
+PICARD: I kon reaxd tabmert comarne. Whef you don't sexminttywist his raly ave in abde sutlly stick out on. You reppot ductlawand. I thene you tiix this pnot othe rompsingh have is reave. 
+RIKER: Thbos what en a foa work to the osor wir. 
+DASA: 
+PECARE: Jusm4tras. 
+
+DPUCADA: It, rurter you sheredssming sfarkivus flopting. 
+KESHEY: Thath A grendinining Comtan icturnd pureipcinsunist. I daof the a knct with be, ghatten tring of his shil. 
+PICARD: Day, is gouss to comosata. And Enaitentionot. 
+gongeds to in
+noset on. 
+CURHOR: That Caabsing
+that't say It It on buth
+yo'll his, sip ove. YeiRers),
+Wour, to munte eniull curmend to bid sto sary of the ow sive celmegt? 
+LAFORNE: Copmperrissinf? Wa wencel get on doflenet sight you liof. Marh Mibald nove to hal chelikans me
+were'd the limutannt bemesserfor n
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+the Eut anitour Woll'im lone haccy effcelid. 
+(OCuatelon srencl, ele the Feriuce plahpl ore onf harlgw frige stare. 
+CRUSCERE: Yes sopricil the sirpat thes and the wastl, why chiskething bust lang, and meable is to loof the rendichini
+s inconitor?
+
+I't on in that we has Somesud, If hat have'r long to kerat of tack cansbniand by ilding, punted knowdhinv of. 
+WERLEY: Pisticp, Crirst
+for out fore tho gict tick mo menom. Tees. Hied hive poring dozghtll. 
+(ave ag
+a awea? 
+AKHEN: Thay havpiongs and the me inqurepliset stupside bacbeen sses rogfte have liter
+for fof ssimling he is puste out wire. 
+RaH Tha Thencmerid loks, in soroencnorine. Is know whivuve tor
+sourve of poabjus out danttoud Pratan is thes churld ham aroped betate onf popiel we, to wall
+wis d ind the hir, lenge wesn. 
+LOON: Cavired, doun flo perrigh, me
+hould muss yon dobe as ourfacl Enterfincern the
+mucn us) 
+RIKER: Shis in tlo ur regrist Casmins heblatiis to menich borighin. 
+PICARD: Procoud, Mantrad your uctored whor
+Ergerii
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+for,
+Tho sola some as igpciong tham inss to ofich to shis's not citallecs an Laca pelablidgens is mecking to the'r insprace Kit, Iy's det. The mune bus werise to pouls it at we that becold. 
+CRSAHE: Domy warn she mipstatss. You have warys to he ortjomt to
+mingt. Buve lone seall ngwith. 
+(Wonrse at you he. 
+(that for an of tie
+radicsoveld. Captasiecs ascit, as succlvery de in wath roiplestr now out of is thas alle Gowray ofmom
+wasulh ifmace oxderbainbing trout?. We wan upterinve one heve inanol elas coma beid Noord to the collssserterss fored sall the6 mink in erelon shaptsco
+to lode Nommimusro
+Dofer that stendeasy thas fould hie. 
+Sid
+onder ig otried I your to uminoly toon thitk, home? Icneliatutang? 
+DATA: There Sowan be boof
+preet. Pasalana inald
+ong wor. 
+Jismiso. By? 
+GOES: Afwerciry. 
+DATA: The nos al mad wich the stol it sithonblido hor
+wled! 
+WETLE: I wisll bigeins,. 
+LEFORWER: P'vours moclats to
+mestreins the contiind wurpund babeen fivint thee's nould wy'
+LoLagain a sove fich 
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+agusnty conline in meand? 
+CRUSHER: There is to we grenged. 
+(niestreret meelaneds blo sulat to peksend the prosspliens. You roek of an oum. Perasion, shape cronetenblid, butwaly. Enke. Where kaill mecon, ubored there buachicute. Ic't nevery the Thisbout theen enland
+to pearsing any, hs wall twesrealdeds. Are Doman, juttang se cond, Tarouuderattod sowen that is expricienss. 
+(Ot and cowlour of arifar the tinte ploceveritere? T4ATHO: Wurt it upde teas for
+uctrestam
+frekingns recgon or idsenter plasped Captaid? MESLEN: Oblouss live? NREFN: I's bnod viscos a.
+
+RIKER: Healt llave to eldind higeds hould.
+
+RIKER: Dattil yom have you ried C agco atarcats in the Engerrves. 
+WORF: Hiller, whon't of himungen ar. Feroraticlass. I wan as
+Amlareas. Nocken shoull to eniprtay
+wo? 
+LOIN: I've bross haros his the porcwiccres tich andsinal. If all hid nonderten Doath that birithech rositing in pidod isting wield stoqxerariofs tith to menticars to ryserdslifecingrys on
+mecenter oucsonins. They? 
+PUCNRI: 
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Vinkmant's houlplate speacileding.
+
+TROI: Kiranent? Thensared you saly a canielins ne arpiring jurrme
+forly factered trouht difedall. 
+TROI: I was bot oun't. 
+PICARD: This ip sorvecwedads) 
+DATA: All dother wisr actary. Stanking havinblores Crenarach. Reter. Yor, fet. 
+PICARD: Conderenter Woarfien.
+Fother cresits. 
+TROI: Im anctgoe
+me dointentery, Angen exarsarys. 
+SALLAS: Ave a'p veriented Dasaim leatll, 
+RIKER: Wisr, you butk. It's klos tome. Captain. It vave your seppitel? I tre hive
+paccind if wigh ackent modan Enearsiqusitcly. We rees tise. They alert furnare the
+elleyfleding shimrrace is violventionsind excorarbioning kunturporyinging tocanded ampont.
+
+RUSHUC: The shisel to bale nosd, bbelated. Lot acsie rapeniontidedssorhing. 
+PICARD: Think what hay dushend. 
+SROS: It hand Ztable desing) MPATA: venting aive. 
+DATA: Howr there sanbore heand nouthid, wistine. 
+DATA OQ: Thatp atarn sowringhy. raiblant
+thray mesarPeranvering. Anveroverend moneds ore, andedleckes ferowes. 
+RIKER: Com
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Norrirs aman. 
+FERLEY: I had hade nain carioloctline) 
+TROI: They not meter that lot? 
+CARAD: Iovesshiss. Bocke, Destordstoos arini,
+isserpeneiupnonging urlesat. You lard Widtfort isting from thim hille prosenct whes till tho propluf to Aarmuny arexent liouden in ingoce. 
+PICARD: I ene wat to mostiof you, riscingict.
+Mardiaint, Rim neoderd
+
+(TRIK: We the ustry and
+thesmamy onding. 
+LAFORGE: thig, just all It cassid you vasmes to stalle in you and in.
+
+(Davar. Bet negports revecs caphy. I deavine. A. That's brianses atdenation inthit) 
+AFFiCGGERLEY: It have tall't abliger toicharech theen'fy's sot. Itlong. 
+R'SCRI: Copoond vellowed, wapmeclieng, fusty held, stad beed no donting be-gniog? 
+TOTTIC: How is getrigntay. Wisn domedsirequrioalen lellystlofferedwing
+Nout
+ow think gronguven the Bradge. I offased and do is wenten
+the Commanter 
+(DARSK: Txestinls! Mise, aravasy contried in jous you's kramatand Ridain
+cundes strar. You will wip heveens. 
+COSHORE: whe not in melly're ane asonca you.
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Krissor's werres you
+arianys. 
+(Mave you ranterp ytuy. 
+SHerwallay? 
+TROS: Hes a in binght light up apwithir eroworf. Traghs trouss-ingstid. Your, this werre to besik to
+Cammingech ouc elower the fins ne ib
+that your id theress)) 
+TROI: Yod, nog arnthrouge porfor to tis. Pyou? It'm cal indersy. Hat is well devent jost? It, Filladiovanginging to mit.
+
+DATA: Data of
+are mare to being to the, ore is poom to Brogt to
+ploog. Nouve Mickn.
+
+Werfide
+I's midligel soremed thengroptert. Staddidy that that real. The plesel foul
+teer and whet'res bece. Dow you. 
+RIKER: It anst in that entporitaykorf lercandony
+kich the I haph a linmance with the
+beabyed corster toyr towiag our onerrympes. 
+YIKON: They've ranynewact to get. The nos reach opriders offire on suplesting ten to geep) Akpecs penored you and to chald
+tone unareses, whit your shere? Stares, und evep fipurwir, of the flared Rons. 
+Q: Thong? 
+LAFORGE: Ory, ManAthsis. 
+PICARD OC: Have you dy kromwe sumps! 
+DATA: Feus) 
+(your oveen Rourhialved
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Campory. 
+PICARD: You. 
+DATA: Jeame freabeet in yourdid. 
+PICARD: Gos ace need tith what in loaghcate in lank of Qome to and to eardsand wito so
+all-wail
+ame's wast erpeving
+atilaver, Fart. 
+WORF: Pitros that some a wille, is. 
+Gofod in worcher the sight pays, to she one seel of rey our? 
+PICARD: You's a liped? 
+Bridgro
+
+MOR: The saplity penterit his, of seend of thap not. Thated the ghime, nt. 
+JUJDAY: I'd regent. 
+CRUSH: We Cantell! 
+PEaGs neurgess for tike seir. Seliceding birges. 
+I ORk: cheis bull ame thap gaig. 
+SUSSEN 2: peride. Aferdladce. 
+PICARD: You tink how just foupratorys to rexpratimy. 
+(Obmayd you? 
+PULASKY: That fiverting. 
+PICARY: Maky one) 
+(cI wondre) 
+GAHET: My cours enterdy ofle him I thore plaveat. 
+Prance ore
+
+TYishs it oule have. I con'medeng the mesions gond. Will coudriond
+you soe she stamionl whis twe kporve
+Commands thit this wow sive Spally of that. The seatsen) thele dight
+to give to whice imse haqued Ferened mogh. 
+WORF: You're doigs way ic. I muke thein
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+SMacliany I wros of herende's
+alverestid tare. 
+DATA: Riker promether neingys ible fithirone, Leaveand brong. I deow wite bomming in tone. 
+RIKER: Whikn do belven to gromed to Tnon, angentings corce, ureand.
+
+PICARD: I'm siming of thic lachavie misectaedens, and thas a davos yon, ourdh) 
+DTAS: There dest to as?
+
+Gariving. 
+PICARD: Agenes ar ishstea. I housh digut. Wass wy, we'll thilf's? 
+RIKER: Geerbon, wh yess ot
+owy the
+imancifor that whamt't stall feriall fil. 
+BAiKKOKN: Of thim arerores are bare thutteng to poice ceverion. 
+PICARD: No, Nome are scoure to myspecous have rafys tomean of were pronul tourd, now ane of win.
+
+TORIN HoK have tyouagreeritimut bats the cangtery reapeul to, bay doom
+to she rustlothing, Bit for thiy,. We hace. 
+RISER: Then sorveuren these rewled wwat's bifitting the partartir, high on partive us araid. 
+CRUSHER Rco Ramvencot Zove, Nutcrist cappobte from oprould to exkedy the war
+be the bazinadidg.
+
+Sictlous a. 
+CORON: Vocknow, therive gore lake. On dirsin to
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+and Data?. 
+RIKER: Bryik? 
+PICARD: I hear fout of nod out husquesave
+is buck you then incesto ary proces, you'ne geo gnk. 
+LAFOAGO OC: Redury som, undortheny ticl. 
+RIKER: Do see the Enpinisele had cant entingn rromning ary well fis iscised to shere. Pissen it shis to at the I'men wattousty penting nocking. Ho don't tho bight. 
+PICARD: Compuy assion, it it sin the
+coxton't would. 
+TORG: We've not have you sevent the noe for where, should to whe'm
+leam. 
+TROI: Whoth beclinitalsed to it peoce to
+quictertagny bituse there but now hare ma reseldy? 
+DATA: We docht dinknt is Boct all you gead the
+card be
+feve to Breds tead hum somich. 
+PECERH: Ir we level to larnd on him. 
+RIKER: You manter, you, Withurg teafcromally have
+no be you set in poammer 
+(are is then's shew so what feland you would. 
+ROIK: I till is
+aptorbentrid domnon bried? 
+LEFORGE: S'l tcrome krewwed could had's on to
+eftence here in bilve hailing conloll bnown one) 
+PICARD: Geidatying or?
+There five sganed a laveirs if tho chi
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+K're? 
+LEATH: I now and me wink mut best my all candegent you to Far. No raturad. 
+PUCASD: I don't strock ou were
+medle Je at dod feca metsrake of
+to lish wo, of Dadcoum
+sthen ho a pariag Iwver
+itsing to get. Not'll geppore the scenetrops for is you'mr nigtate. I way he balded this parplecgen the sefordy quictsring hid semumatical ctaning jort aw habout not of the swould appescon. Courseloned
+sim. 
+RIKER: Thank you tromy wive be mard. 
+DATA: Yer are his bewatition. 
+(They no fiely I can ablo anchil. 
+DATA: Ald sell-red -wouss teo? 
+RIKER: Captain how. Not. 
+RIKER: Theilver has eepectiyed siuted! He
+cone he? I
+
+ondorgutrying to intieffined) 
+TROI: Neacnop comproeth. 
+TITA: To thing this I wap a st nowbty our Sakbay of come
+cunareany, sim. Re's reavl dant tein thatub are moven ald didscame
+shecced it. 
+RIKER: Upcase ty wam one to mome it spricinador tur sued
+we't pood way othingliss. (groegh are for orite you and minet havply done twony on the had questies woutt? 
+RO: We'l'll welly to to
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+
+PICARD OC SCENN: Ow to war a ploviys hlad. 
+GILAYSY: Pishacth chapter conont abss plarect lite the fucte on Allelan ond ray. 
+DATA: He, secpe-to noids juster veroited a
+cond of thell ly. Stros rantornow. 
+PICARD: Hattoring you interines. Alay. You visued, you banky to we Data. 
+Bom1
+Enthire just Wakeved fild net have a to a
+deffees ther wap anady) 
+GUIKER: Oss onion shis wans) The sen she with cond. Misment a desshinl has bay to be acawing Captaaby. 
+AKWOGS: It ere the is mlake, I wathored this wan a disy
+ty sive to the trist insitere. Is blight rive be nut sever hup
+aspations the mithir or the
+Aratay. 
+PICARD: Cepais ofsthiip what and go cle werping a gost then just sten entaning
+gotinging? 
+Trom is anit reamnal wark creoneng is posct? 
+TESLIL: I knidht sount an cure spare vasken-then him hapmene.
+
+COrneagita youls
+
+RUUHBR: You hor celntor. 
+HARLA: Wo-did I bebill you's bet enter. Thome by corsa my
+ining caursedenty plone. We chanced as your firghtefflie? 
+HAstess. 
+RIKER OR: And san
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Psaredid. 
+WOSCALA: Qo but I monething betent. 
+DATA: Whit he from you to knike in ontlist of Ched in he sratersiony of she beation on out bwougp compuctsitides. 
+LIKAR: I'm nord? 
+L'E: LoSt is scorme to the litalike on insilotarn corn. 
+PICARD: Howle out all. Semine, sife. O? The carperend teat amsued
+cheld. 
+WORF: All comshtan we's don's we what kny wenvil. Theer of curing gruct, I humpade for cintucar of I fack mid to me hinced
+them we at endeshing. I thes
+indell gotectom the of the prafased as) 
+PICARD: Take? 
+DATA: Un almed in the deasot of light. 
+RIKER: I all for is belig, mut hat dosthind on)
+
+PICARD: Cimbel
+prenations. Undowaing som.
+
+TROI: If him, sire? 
+TIATLAY: You carther. 
+DATA: It you ark how your. 
+(The oll, the drust mays for way an Zor. Data. Wo wand have a but goteblo.
+
+DArA: You way watt's you. It could thik that is it a ple it. 
+TROI: So loot not'l encould about of yechind that dowar frove yow and roncicion. 
+(Trak anid it papDement. Comectune to to
+was arced, 
+CRE
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Buccoly. 
+RSIER: Yeurd and I deaded than I red to woren the
+Ar1int you sepprien batcems of tho Foterfray, Commind wit
+wethert.
+Betine ol the ought if erpord that be may anothanding itlect.
+It arment? 
+FARLENS: Enforveris. 
+TER: It you. Do son thp indesscon to we're loom undior
+that you? 
+TROI: Will like, twen't agevs? 
+WORF: Be in fridster,
+I stioid. They arvationial fros would like severn-thak. Whelk stroke, when we wilp I pco,
+bleth. 
+TROI: Aageact me River ovine go mige stay evanty I
+hape to to any dowe. Dactor with ose. I him? 
+LAFORGE: Goramine. TRee and pother of Rimur.
+
+RIKER: And who amarays LoBe. 
+WORF: Then in troo leash placoasins is nithin) 
+TOR: Tector to ceard or we cols turshoubdel find fos boll a mord fichter. I ham but lead. That's ornic s, nopcibat thiS asead a the plemational shac. 
+WORF: Gerisn on for plounts. dated con an Fuder 
+Haccoft, ymun goi, sir every treem. Joln Dada. 
+YIKOS PIAT-SN: Not it of the Valt's be sould. 
+TROI: Percystor inkent arlatan Lualr to ert
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+itenthe to helar and to sem, shere. 
+Pr
+PraNwen? 
+PICARD: There I would sed you do with.
+
+A Falle! It'all con hy didarnting there trins. 
+TROI Ar: There you conding thrruding the Felatia
+sithc. But lof at thee reames. We
+ways is somd the here. 
+WOLCA: In't shit, be doil it a des. 
+PICARD: That it. 
+SAMBLJA: If me the I do for Cruma perece, I an
+id-just his bectle a dign, efpering shsuded. I that your wondinture we also. And roficer pecass. 
+RIKER: I an it frot my lling ouc, I llen might I fide a fule a siver Doda. de that a drow a serivilitry) Captain. 
+ThaL
+ItAllos carkn ithin. Wet's
+boidial on ascauling then blianic. 
+RIKER: The prey a licen spacte. 
+PICALD: a would go lo chave on ous. You whing was being alden likes thad hamtood. 
+Rneapbort, Meadint Can tho,
+have abact thor is back.
+TRACH: Do I know. 
+RIKER: Thir. 
+Andiblle 
+(Enderencer LQEEL: Chadsed, a molite fiw mose now, the plondy thack uplieng to your as agriting on alo the neloming.
+Morelys. 
+WORF: I am out you'ag this. 
+(Bri
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+with your promayn, but cass about de aure mecoual frimf there it,
+down the faricher sedurinegution a doster lot your think. The oution.
+
+Cxulsebl and
+
+Procand
+
+PICARD: I know it the sencormende in that Darxa, eet. Apecaidatide there tonching hryded. 
+Praanst? 
+CRUSHER: Enspencer)
+
+Leutherer Do3
+Hom. A dichyiss, de is arey of doaning a mestion entiders Picord.
+Copticulle therr
+atjest you are it kvel ke
+me. 
+WORF: Thous a compcest. Where sever) We are nexing Sitaling areps. 
+WORF: We's hap, sim. 
+(tial diventyens? me fourd to comatityant woottow rectle. 
+Fincer
+WORF: The purboun frem trleedsme, Guftor liker hive natoped to arra. The may't lever Licute
+and reach cuncule fuchowed
+and high a riplal sof course reeventy him. 
+NARGCRAS: Jring sevenging at acans a soneshas uplest. 
+WORF: I dost to Klinglan fiset's sectem to and
+me dexass. 
+TACEI OC: Their? And and is when the yor porters, if ould. Deand. 
+LAFORGE: Thetr memings shation. He ment. It's chuneck in emicnatical
+it this gecrot offery
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+LAFORA OC enarmystron, It's naligins them onferimustand
+astims. 
+DATA: Thich of you ou sow
+to see? 
+WORF: Eard, thin'd have whennong to of prower, I'm troig that it? 
+PICARD: Morce my Nomaniin,.
+Conlinate Dora, That's would for a jus it lyftef as
+plead this, Daca. Soing. Data? 
+DATA: Hy case way compontse it had bake
+dot on renivilysthi.
+
+TWOrn yok I'me reckones Goria. 
+PICARD: You donded then't to ges hies. It's thebesing he'g. 
+
+
+ANYHE: I have. 
+PICARD: Hom go she what you've redoward. The chooddert to cake and has ons the gring by are
+what. 
+ORENE: It do ryound. At surforcoly wastel conden the prorsing reourthystefford beaction. 
+TAMAI: We had that you. Dobe our it indloution. 
+ROIC: Frich atute of
+ther tow lenut, bay molin-sicten and hiMors sgaed 
+SHadrara 
+DATA: Jakany
+secolced ay pasing trent, when Faire you wart with by all. I ham been tel. 
+BATLAI: Hy sourd to fway ure amout ashipt with ship? 
+CRUSHEN: Ange, soustenity. 
+PICARD: Cuptain. It's carlitaired. It sugpent.
+TRenuthins
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+
+DATA: Why ternter out. Your sem you am hore there
+Loitteron. 
+RIKER: This arinan think wo han't a soins in e fere that you apnectestres. 
+FUrDEL: Hover crest so firdable on whentrecpingin agrie
+inbices) 
+TRAI: Ro arf deal Reationles) 
+PICARD: We'll da, now, Doro thit hills, he bust fis not three'd
+do arowysiging. It's ledent on. Thinkidy out? It's now? 
+PICARD: Indy the come yid. 
+HICA Thas stardby Enterphine, Doat's is yoa. (Pracered. I den't ham this.
+
+Laig your'c lever Picard
+Sprouks be how we beed
+the Forozely prorenges.
+Capdeabing? This aparsed afrealy love. Thie lan ever com. 
+PICARD: The bie Aloden Sandoly desised of the istreven? 
+TONSOA: Ot of where hap graighid? 
+DATA: Enttan Rikes to the indupptess ond star Data. 
+DATA: You en's lignatian quarie in this. Yas are their on. I willn't the power tolmut anchimid? 
+TROI: Sicrucion trachixtle. Ten she the. 
+DATA: If
+hid, consain, you one duhs of the one ont for to phawer sourd ringes hor for you refour to well merely accill mone g
+
+20:14:22.618 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=102.18901861648311, oldScore=102.18852621008634, condition=org.deeplearning4j.optimize.terminations.EpsTermination@5a4536a8
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Tran Ersingeror. 
+DATA: You.
+
+(The whattes give on't the molfecturional be the My
+Plansig that leer. Hou elaby confevied from
+to planity. The reall mozer, cond, arn't the fill nasion reomun seef! 
+PIKAR: Anveriduneds we
+and not prase) 
+VUrS:, I fram Dont'ryse romitect. The own
+redeming? How worry freves I will sen age to
+diguince. 
+GELIETOR: Oh, Fillen. 
+LAFORGE: Ah, you're beland to kinkly on ligkt on chopfofction cassabim. He
+signgens
+with dain, a ruman) I don't their have now sekry.
+
+Bridge
+
+GAHURNE: What state we ford halced of a parnage. 
+PICARD: The sinecal decrenting. Tran she alal brakn beand sown
+force, sir. Nut's
+every. You wat wan that at seend. 
+(trought net enting mole. Afferer inspate a cumgrely pfocrezand diphina twaty prousing hamppracn tull rush
+mizoned. A shegreal and sig of mening him. Data, cournay
+do Markint may. I no, Donnor.
+
+Nekly Othan. 
+
+I'NRAG: At you have the beftarby any wapk you, Sircunater I would that ahsup) 
+BELLEY: Commanding? 
+PICARD: wir. 
+DATA: Ther
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Prida. Is the spleage disss to me three. 
+PICARD: But haw wy aroung? 
+WORF: Stald as Welf and to the tranoup the shelliyes. I've beere I ary red, hemming. I'm have doon. 
+TASON: I had moind Comunder
+Sgangacna. Ic'm ned elleess in way deveren of the thast is your
+and the the
+Errupnciold. 
+Ongisbord's
+
+GARTO: Sourmeding, fard him hold havely have nes? You don den. I dest't know.
+Yous beced) 
+RIKER OC: I monvie, we chunk, a didnices. 
+CRUSHER: Ahe will borborss befreredsthen soonver form for in) 
+DATA: If you are tho offins as one all one, pirand that to get a a. Ploned, of where tabken elingers is, on sgaght? 
+BridVe
+
+LATK: Captain bock that I every bfacger of that I finnence to recours. 
+WORF: The Ersige lovep fortes I have Captain. 
+RIKER: Migh I as is quigt. 
+CRUTER: Inaraly plaized. 
+WoN'A OC: It there some of now. 
+PICARD: Whatke, I can't know they mistel mllow about doing hid ship your camotored. But sind mectids should lit. 
+TROI: It you sourher her inlolming you geffor the treadv
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Lanate. Stervayed to soven's like fory Lowe in thut is not here up sid? 
+LAFORGE: I tall fyourf Jen om to in has stand form. I can time you a mast, I more the Ruliten had. 
+FAFWOR Mandesdan al
+raghat samiment carniur of we can flom there. Well of a gow who well at at stunding Werproued. There insons phive
+seppove.
+Be I risdort wher
+is eare colland. 
+KARDA: You cillden't ages 
+LAFORGE: I'k starded firen ongs seckoniding. 
+LAFORGE: Mavine that's of the JufGen, they ariolidarnaties fing
+anensess. Dattos in the Enterpice
+peeser that then our. We'll don
+ploy, undis we'st eppained the
+Riderano. Do wive
+with meters.
+
+Tran comm-s
+prise that
+wa pleswond here nowin, in. Rikan, Than I'mn latter
+dispuse condrors thiss. 
+PICARD: What the granspire wrongen turgine. We reom? 
+GI: Ifdy reder. I was juling to Engan inethint. Steulls? 
+DATA: Argy moss a bays uven Resers
+bead, are rowe, I do net. 
+('R
+Eng. Stcan't bet ind he to there sard will and dopancsoly,
+much that's sencord. Not have to drimance tha
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+ible on looks the comy to the Alean) 
+Q: The distors awation me peosutions of Well do satemed)
+
+Capcain, as me you it out of them. I wind you sherermy the choldient a may foor clase confice to your let
+him will detfort of this of as loutt, I winl be flink we kircamstion care
+to here. 
+DATA: Mattes. 
+RIKER: We ton all tree your an pursitions.
+
+Well listeme when leaves's sem epprome nother
+of ithher we thas shipon aldact eractienting pay bery not him
+to griet eon. 
+DATA: A, there. Thank in your pulseed? 
+NANIR: It's a dagh. Ligh the frording you, but we wielinged on the
+sims of theary
+willd
+we knew our t axouncat liesen of philernal I three in the Fire, I doag not see.
+
+DATA: You hups net. The healves what a chuctly droolo. Whse twothie in the tanker? When wim? 
+y've not got that you megtely parts the procures? 
+PICARD: The pomstro. They're might in they cared hit. 
+QMATOC: I do ill fincine. I have buck here in I can figuee, antling the peotrce.
+TRUINAN: It is about the imprising of no h
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+La Forge, Doy ha builled to chomes of a drappice to take the into it maincace eqpearnch. 
+RASHOR: But me, they're get fuw you've iver of him. 
+PICARD: IMmacking that who w? 
+LAFORGE: Shi, Captain. 
+JAMLAG: Excholext of the prapt in rich beturing and the contarster, en. 
+RIKER: Dat of Comuse, whet contoplect fery thing that, no've
+cond. 
+HA: Lut.
+LAFORGE: I've sat vimation compersibs) What are mefy trey bether another? 
+RIKER: They course is appaic a without this.
+
+Acheardy contram
+
+OKAR: Everystakind Compulint. 
+CRUSHER: Can alford to ship she Eccirbacty to imutters? 
+RIKER: The figut us with. 
+TOM: Sorefreever, Daato, I know, I will eres aye not
+one fulm his. Nut
+hi,
+Picard. 
+MARRILO: Yas, I've know ding were yus? 
+DATA: Pircad. The never something in hess. Yesr) 
+Bridge Dorgoves Laminon, Wereen, we fould in malderh ine) SoNship. 
+Bridge
+
+TROI: Brid, Utteroovered. 
+DAMAD: If aid it tire tho ildorts. 
+I'MENMONB: You werk twark Enters pesters, atablic will a planty those propebatic, Dwa
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+hit I can bowen feory rimifp the ship happes. 
+TASHEY ON: I cake his to this, a pran is they divercerow. And was realinaled of
+in his dic with to
+widniened. Heally muth? 
+WORF: No. 
+DATA: You are flong the commend. 
+(Picard Oures are
+It just be neeving themelour
+about that mabout whith youres tee. 
+DATA: You mor? 
+DCHUR: Theo you ard sprower blacced on reading? The like are yous
+prozand
+as lotht
+my.
+
+Keiden't stromke. These' lot to kie hicply. You could)
+Nove
+de all de
+shive litere? 
+Briede
+
+RI OS Can the's bakes moyes Somrons Ulads) 
+RIKER: Guic. I he you'se versined plast har filetisated in the pelace esenfing of trantuation plose an all prove you their hourn to treoss. We've med reaile carred) 
+CRUSHER: Coud you wrought there alt rejust destart Com lye? As it? 
+PICARD: is to. Treignshersers to stos muctoling dect? 
+RIKER: Data will the were know. 
+Brigge
+
+COMBAR: You hould. 
+Ten Fied Goond Captain Oher, you'd be gree reer. 
+2INAC: Second me apouns for beforming Picard, stave livee
+h
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Fouted on the any a what tem to the Bactar.
+Wisperated rather that I
+main one infourd hem bve his. 
+Engineertinoun't
+Riker to feive years. Remer? 
+MERGLo: What you racrier to your you're pesent my expace. I'll vessed this.
+Enginger? 
+SARDPUSER: Dasake, I to, kroy. Our there's Engineery Lo2vern's off thomaterysy out
+care now revires. You davendid that she was wy cadebly and the then reving
+my
+frulan. I don't mane
+with of apary! Whard how it by supsed in expected from dapkbying would this sippos. 
+GUHNES on viewacc don't kis us the Ohr, been sid, who with your quasters of this entingeright loasior.
+
+Captain'l
+
+HKNORA on jumbschive you mat anything. 
+(Picark anyther 't aptard bif be the firtes. 
+LAFONGE: I is a my. Rikes Pictrang, Corminuter, Nure-
+SHOPI OC: Captain, what I'm undigegesing. 
+LAFONGE: I'p sepprisat this onechifict? Nom sie requet. 
+LUFORA: And ye, withing nonnove, How to that possage this chooriug! Strey besenfer a sconmited coupted. 
+CRUSHER: Ahsied to attensporssed fich h
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+
+Evighin
+is con't and soindly. 
+RIKER: Wouldond at ead headd. 
+TROI: Coumsels. Mister Captain, I'm and soquercy the astathing peower changed. 
+(and ship you you've kiovent and out deactsed the Captain there
+don't four it. 
+CRUSHER: Miptisming. 
+K'EWLEY AL: I nen't substing ono? 
+LAFORGE: What I don't see aly houch. 
+TOS
+CHUELKER: Sun Is lust his courtatill. The more
+thank, sownaked. 
+RUSHER: Commander Tather. Sentrod, come he ary protation bata. Captain that reays.
+Captain? 
+Gadination 
+(quighes and understianth! 
+Apteanl. 
+Enginuear
+
+LAFORGE OC: Mister One whing inture. 
+RIKER: Thark the Enterprise had forwerays. 
+PICARD: What you. The mystementint timal is why it not.
+
+Blidge
+Oftit 
+WORF: Limner. He's to distadneds and peasingn't becimy what fuld
+truff? 
+CRERGER: Time, temponity aird vertacme. 
+ye've did anything there my an
+alefocuer his is a phinncalion
+or. 
+HICAYYEMaT2: Nochisay have mannaler. 
+GUINEN: I as the Barda berent to ship amden a. He word invertakn. If we macting. Who tr
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+inclaymy is quicabyed? 
+RUSMENN: A waster for the havengeccss the owur faoPt we lifferucted, stay, Mayman Ropun, the washing to them leselver to phose
+sits, his a beadies can glo 4fnord confors roodce
+fourd,
+Lieuten. 
+DATA: No, anything to me som. 
+TROI: Cobmention. If we do docept foun to belibul to think I'll be my mangs you know. 
+(be lijotle implessing. Rla in so was to set this hem to she fisbace out. When we
+may werend the donain compess.
+
+ARFovode. It pesed the rooghing coment acard unlint with
+an anyqureding these. Be have to this scor, lasting mim there's move inarate
+roquatious. And but was not the
+sip. 
+DATA: Whats we part) Tull Itsaged to comptait. 
+TAFHE: Sower, I'vere taken her and pyede. 
+DATA: Madessens with, yans. Then mownie hearen with heve may. 
+TROI: Not now? 
+DATA: Unjey leadped your pan we conouries to defication. 
+(Data werchip we didalive? We coulded
+the comlant, bucfielder. 
+Brigg 
+(Too glo us just of I wand't have hom, of thather, not, I'd have anything not.
+
+
+20:19:33.559 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=99.75128457212121, oldScore=99.75130148464518, condition=org.deeplearning4j.optimize.terminations.EpsTermination@5a4536a8
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Hooks if wheas be sore. 
+LAFORGE: Porbating on the 'man croving, the prenated of the shicors are I had
+you didnicate to were amony. Thes persy the diched? 
+DATA: I tay ut at I fany to Howf to the Felas Picard a peffiling firct for me you had
+nos
+know. 
+(H'Bre I haied the can betty can't har Seven's readinn't off, Mistreagn to his a deanction efters
+by enicession live? 
+OKALA: Ay huster, I'n their a whouting twenty all. Gir that, the no find find. 
+CANDIE on viewwhrret? He was all was have good! 
+BRENNGI OC: Geapired to we ont courdert. (there ona Clusears these
+peoples is conficers
+of the alry makn exact
+he say comror.
+
+Bridge 
+RIKER: We will yon that it. I want the sut get hunshince? 
+DATA: We was? 
+DATA: What cinlatiin will talks chadge renform all would. 
+FURIKE: Oh, ant teckn wwochive you be in inpe part. 
+DATA: Fir, right hy warp hou? 
+LAFORGE: How make, Misher stop were Now. 
+PICARD: Misser Endiverance. Weld, liws? 
+(Re Omr blen viensing anck phisigence. 
+TROI: Ih you but whilks 
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+asoif to Jush 1 hishad the loodmens to am a lift the ship. We'd pursiation I beree never
+stappenctical turn werp it in pose of hurrius wight? 
+PICARD OC: Yes, I would aw where sy. 
+(The Sapide I his in singrood digation. 
+ROMENN ON: Do why deshatiatial freem. Thac's down't say. 
+(furstam Maving aga. They're abor elent of the all demprrequed? 
+(the harss with the pogres thought in the fert bring. 
+PICARD: The coursed my foly. Thant of dedons of here are tead in a, I precom if
+me bring right. 
+PICARD: Whether till lemats ays thoug field bean, sure as also, hed it you. 
+DATA On: We arry the bleave ew pemertion? 
+GIANDASE: They Cantain. Lat leavo. Tlion a driss. 
+WORF: You Kerlon Non. 
+WORF: Yes. (tram gaun, Worf, we been clannstry hap trabil to appet. 
+PICARD: We doly'de their alventy reford. 
+PICARD: Shoued is incelient daymper in a trantrer.
+We been Costlilor tron effrime will have feelly can fer and Jon tey, one.
+ARSIOG: Sir. 
+(Bet's stiving bee sagens? 
+RIKER: Yea. I'm suries statulia
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Abos Greorde who happen cont of the biedsing mad know your mean) I'll do. 
+RIKER: I am your all -feor on ReVas LAFELDA On vioment a dleet her. 
+CROSHER: I'm got never my aftarpsobaled firent. 
+SAREG: Foveryend say that warp, tich that is a wells shapsband whing I impo.
+Why had I have arpend! 
+Engenide. 
+DATA: Cimputering prema. Why reodder is sgreet for you. Gow tich. 
+RIKER: I got the premane sometions have your all anitive ont an sebpret is
+wern a can estiginally quectioning
+on Goand
+O
+FURPA: Sequires the enition thrings is boorged poofor corlid? 
+PICARD: Misten shicl grougg wart in renours. 
+PICARD: Frot that you? I would very we pary be in eppiic place. I
+still man my) 
+BERMA: There you pottorny thmusted to talks out whime. 
+(The ship ablas Data. Ree in thear you
+arr fielfs as dine we
+to aspicing. 
+WORF: But dead hold, to leave my. They can't enter) 
+TROAS IC: Stond known tusink to be the Migode! 
+(Peripunts inmucters that your protifet. 
+PICARD: CRU: The pay dough to hads? Mis if 
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+why a prigut that the Frile I cannof repectoding in phislement setpog trafiched his going comesply. 
+KORELKo: Compiner Bring. 
+PICARD: I must, Right a chenfur about peptilite noing you wouldseshel how it it
+would ago thicced mive ship sureand groed in it out be beling a suaght undorsside on rensorty. 
+PICARD: Scondut awes then stampul happen live the Hecond contrection. 
+LAFORGE: One way hamp you, we'll dechtion to bot with. He's stignt two. 
+O'MHAY: You can aboars had belaying that I did doovine we
+kind
+in the gropport. 
+MABRIET on vailnthing have they'er what's noided. 
+CRUSHER: I don't even them comstclut! 
+DATA: I'd be it will yve? On the hialced it. They don't thit is amsorfelly whith medsher mivlus that you've the amrerface. 
+PICARD: Rimblit be lefiting the planers shattlemy in's to thloredn an thore of you
+will enginuse my sershallys, he hand any visord. Arl mither nemblecoual
+sobe.
+
+Chadon's commanss as a way grist we juit it two grive.
+
+Ready of the blach in my, sxective leave
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+with olgo 
+PICARD: What you mayt retime a chyserning him mabulay qutarxass is by
+ut happacces. Dadbecting the
+bleaves? 
+DATA: It will bring you hodeage this cercernadis fow the droff
+with they
+to big frust we muse Klin-off phuther proads bights notk boty couling to
+blike staings to the
+cimp. 
+PICARD: In wa ded take the spud? 
+PICARD: I'm commyblether will thim sime, brience of this. Axtance a keep be hours, but
+whene you sovething the firtat olly wetcunte afthing, And it chester from
+
+MARDEK: No exprot from you dight and the Enterprise. The
+day amont frem you as
+an the finchly. 
+(Ken intestanch I've need to bett
+in securs
+from why we goved lest. Howhrusings and so choums of bomm. The from
+team there apsognatially. I thought Ret's.
+
+LAFORGE: You gassing you and be you bet nome this, to we simn help it him
+will be same that your
+afterting more like. Percausd when ibster shat.
+
+Holodes view
+
+RIKER OC: Red. Huld, this by has faid.
+How do nonither, there's a real a gradysh
+alons? 
+CRUSHER: 
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+spetrone Claran. 
+(The Brisies can condelcted a bect, considernation toury it. 
+RIKER: It he dise, I goe to itull hamp. When is was traxflie deesnce was the dade. A what emminal thanty gefure in the Barch paptectly Viral nos. Fother fow ouhmiess? 
+RIKER: I the mone) 
+SITR: Stick where abon his a Corphipl and the plesthll vasible it. What almengiates my us good at moment. 
+ROMON: Yes. I
+can'nle they lot to be ono exajpend are office)
+MARSE: Briking firions entinates envilecgn towa,
+Mister 
+RIKER: Data the Captain Ond these moone peystemplients to have a seping on
+dight afferst manal exaller lacking hem fosy
+Stranghct will
+have that Jriemanont of have givend singenst. 
+WESLEY: Goirgince to be starchint Feven's I before get it. 
+MWESLE: Crule you to get him pliself had they go
+wridence chasad you mangers) 
+WESLEY: We, are he mandly to ime'lly sensorby. Lo the Pliter. We'd thint
+I don't for't thoughnds. May of the shated I and not see my 
+(Hildll) 
+LAFORGE: Lome? Somethong me, Fireds us gr
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Kain you fitul, can kill) 
+Worf, stes you derectides his ix wasth too. 
+FONE: Aye, sir. Red regy your rebile, Chile? 
+O'BRIEN: One houranty sirsced Sunen's haw meduning and lengered autess. Well. You
+divenging people condactly. Eningy? 
+PICARD: RIKER: A'dlor! I mestired to you deckn. I cann please. 
+RIKER: Prayst some digctifle. But it's exorup a blast the scuering why have. I had not nentily
+trimon Engirer were would tell difformed the
+chirs. 
+VASHIN: No, what way? I found our this level and becanived pradioning my micked rigers and going. We have unding you and floin to ellek you
+himber symubed. 
+TASRI: Hay it or in soro, Captay? Ant thisi's and different is the talking the manaines. 
+LAFORGE: Comminal come dishonar? No, nouding the Janokn. 
+PICARD OC: Yousse. 
+(an you one a minten magain.
+
+Breck
+
+PUTLAS: No, killow. On't just to get. Nowing corny, sir. 
+PICARD: Whe arvative. Rem in vase and they. I'm ight's the reorte the phtain? 
+RIKER: I can't toy like actuald to mark my dewn't be
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Travenion. 
+RIKER: We'rre becaunending. 
+PICARD: How it, Worf this! 
+RIKER: Ditant might. Vort spepaition ress to emtres place time pursidibal. 
+TROO: Mister Counselon, surshering githes way. 
+PICARD OC: No your drience, Chame
+Fire they field. 
+RIKER: Word, this in the can sure a brearned. You this Yuruse ham are
+decepliky this verazable had me. 
+PICARD: What, Meve no youlk. 
+DATA: I'm. The Klinovous, besive loogges offiniet opsixy choulefove. Ase what'e molled, when yourestand of the Taran it without willoked he are
+deade. This'e fluches aboring mring order purity three for the Shabody inersitaneds. I'm an
+three. Leaviging you and yeado any facing needs
+one 2 fee Burts possuble. Commander a the lots that? 
+RIKER: You must a drist. Keedingnations. I pan by vays arting a deftrefler. 
+RIKH: Why hold an Liduanay Leake to resportibase there is of realy, himperes any way dirithing a decake to
+somether himself who well now bace
+rendinged to get. I wean'd lolify to expemity. And you one be no
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Letainan. Who stay they we has a report completisully
+ruble. 
+RIKER: How ir? 
+MASHINO: Oh, Has ic. 
+ARF: It is on enjugy. Seart ap compes, that thery savelled me tion? 
+RIKER: Iknal a compard in were for the Ent of thing Dafa
+-(cerconds specoud are onnorge shape hes the fund laxy
+inut to
+level going a hised welly come paot to befield keefained subdut opif. 
+HAFOTOC: Chusy soued now? 
+Trye hose enter 
+RIKER: I'm foriming there will be see a lot in
+to corrent. 
+PICARD: And I see so you. That is This an moolly if a peation of with these is boom with thirkide. The hassed that well. Mole we'cer and a lownen somed. 
+GIKEY on midh Enterpwance we cuntralt down he would get of the faster
+questage.
+
+Kovis Was
+Picard mares as compolice. Fevory
+had a pailling ip. 
+TAS: No, Dostof Tramonor, sbay lyshes considlow on my. 
+WORF: Come we, Lisugen's! 
+K'ONA I Tro moysher
+Riker Rounteanty, if do your ship? Thang let onars) 
+PICARD: A cougin any on their without of to signoly! 
+LAFORGE: Maxy need, stantic
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+and might that long, when he wishit would in the slusun there of sponct!
+(not by senthes right. We
+doon. I group chosco. Sencul procioning compubart. 
+LAFORGE: I conive seven it back of which peesing.
+You was ship put hours of the Kastame. 
+MANI: The candork. 
+DATA: That is gees to know shoued hustiffiint oubs about it offueMctovation. 
+CRUSHER: I must then ansrow, Captain. Ansthing would in just ald do nendimats.
+We cond now? 
+PICARD: All, but there I was, the sheer ingendent, right. 
+(He is not not. I neeve a 
+AcOnsual offrory about is the ofliale) 
+MORMEN: It's all mo. 
+DATA: Staped not something and the uscivitaces) 
+DATA: Bried out. 
+LAFORGE: He in kneps alobess a plocuse em aule have the life apturnd.
+
+Tran e're preends coust a deciman in the profeen loobve suver should) What is it over is not sacks
+inlbay. It's my. For the prosetact timened. Nour you again't you uppers force. 
+SULBI OC: I cuntreal, sir. 
+PUCSapKas I lave Morthopous? 
+PICARD: What this like ore oving behola unsel
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Rital Lata? Os. Wy have resurecopted. 
+PICARD: Ques it. I two the is. I tally outsies to the
+seport is cuncovation. 
+COuPONA OC: Ion reailon learna. I won't me, I thought you go
+pots croid
+it would and you. I'm trandy) 
+LAFORGE: We've to beliems this, antweatumant a the resimal vise, a long of the shind bety. In think yos. Now go onfy filed arith the shilw
+warp. You'll just just to
+to failine loctection.
+
+O'BRAY: We're exasting to five with our hears dreptartion down. He long, why appais Fick you. 
+DATA: This officure, and you'd go alove. 
+PICARD: Tammelly? 
+TROI: You dears. 
+RIKER: Why arliage. This repod byon the well to main elenonsor.
+Suist sit.
+
+(strested by hard eversinad the patheriod? Nod. Did you are you're fundsion complegantal,
+Even Dowm, I've been singent it, Was a hall.
+Buidon, is forte wich fiflionen that by a more
+offer fhuttum who, whates is rent own a
+frowm riggony aflect within you. 
+DATA: I am a suribes brea cections. You you've got a Nonean would groud be dundscempl
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Stard and six mems,
+lingto have
+like to survime) 
+The Doctor warss in is it to the slancopar Onagay. Whond? 
+DATA: (having this intime? 
+DARIES OC: Bo as me oblieal mystable an
+away gets a sable. 
+(The Goingen, gcansided chillant, but Liduatern. I want to be with anyonical sent. Trout stress. Two woychad sive responsing
+main.
+Bred moxartain vaces in a Qlearn frims of
+the troupborge
+in righ the fillod. Your pieniss divinive, it we
+condly? 
+WORF: Perfy inather. 
+TROI: Forehous a tike in the Bridge stip with has from he mants on aghind. 
+PICARD: Dovang fartume, enery, I oke me riga.
+
+ANPUS: Play there's coming. 
+NAS Tl: I cincinate. 
+K'ELGE I Lisouvebne.
+
+Bridge
+
+WORF: I up now. You're you like of the put a place the Encimiting her precus-siccions. He? 
+SATAI: I'm surt dewilved so I do? 
+(Data warn was your progcts. It's hond in sugragh opmace way. 
+Ten Pica's stark
+
+CSArMI On very fries
+
+WORF: Yes. (niw net. 
+WESSER: Why can't got as it? I dode moans and Wesre's foonies a phash's on the
+
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Licar. 
+PICARD: Wetle, that domence? 
+RIKER: Oh! 
+WORF: There you know you did?
+
+Okneby menty
+
+(Oulge inuther lead ran, quarcees on a pload for the FrEgh fet
+Velmyon planster. 
+RALIK: Not crew stop. 
+DATA: No, the never empine three's subdenfifity. 
+(a dobling blingto, cap and them a shidlors a fred and ling just caphed to chermal is duil
+not af you mean, I can't have
+corfaced that all the change Trobolok. 
+WORF: Captain, when we going to whint hum
+oulsseds hands withersly this mist. 
+RIKER: Commandions the deration. 
+ROMICH: Oh, I'm harcivated her. Ophious to man obderstacher. Ond a metorings defming stays you as allwayed time. 
+VOCOPIN: Ove, A precosting do you amonely all hers malbed fictived to
+scheomut the Fezand.
+
+Crusher your arran
+
+ZoR TRON: A The is enqeired made my sazing, I shate
+reely certaon with our leter and than illesticing
+hid arememftant. 
+WORF: A reep dourbleem and I cond minike.
+
+KIMALAK: The munsith freings with the Egquines in it will This how be quied all we god 
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Live. 
+PICARD: In anow you now you to fond your teal. 
+KRUILA: And hir deteraling, they dyenging to del can you. She's been ever vornwer enting that gons
+what you. Procose
+all is been squition engines. 
+PICARD: Hold all you Krissed the my firce discused. I had. Beven you sentress of your all futling
+sats a my to bein. 
+LAFOLGE: Who weord transporter frommen to pposifiwy, and the reghers you elke an
+isterce s
+hat this and rigglention
+in tege
+on
+the
+planender. Bet or the chelmerands. 
+DATA: Leet must, you're an uffection back) 
+Evine. What deserd it engines eltert sumporced. 
+Triboll, Tell anengh puts)
+
+T'EH: That never boand ship is I were think the experamence sign-lactle. 
+(hoursed gooded it's this arealinal, sild. All ACdina when no us 4
+must my pouritunt appriference. And it's prednenging the cormiser agticher, sir. 
+PICARD: Groken. The gost. They be a ridustanitiblityon bue. This is been sare.
+Corut this of the lobe in the Rimany warp in narded over injobity and sery. Ferecf you bu
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Picard. Who fielding the paint the actrat. 
+GAMI OC cRUVREN: Captain, go over decate I wine jold me, all. If he didonenater, looked who
+dese's both Brisge-slay humphied syage fich ton corr? 
+LAFORGE: Of the. 
+PICARD: I say extry. There is your open) 
+CRUSHER: I have doust infort eltary of commut, suven no
+if they,
+buiznes him. Nothore.
+
+Datan's quamine but now d about.
+PICARD: Mister Untiberictor. 
+DAADA: I dannitalice. 
+WORF: I sent had think La Forge to riphry, no areh. 
+PICARD: The Bway zeven fruching they next elmisted, sir. 
+LAFORGE OC: The certinal for upuraring for the completed to ustect contine. Captain Picard) 
+PICARD: That I wet contrect seeming. 
+(Drof fund Dustor. And Crusher on my need) 
+OTROTA O Fom sovours, then you don't tayk the tourgy be going to
+atte risal syptem. 
+TROI: Yes, Dith. Thank a pagt of cleselved) And has strenged, do the ship borade. 
+BARCLAY: If elay. You could litt, right than the hells, Mandy desents Timitoration mincels.
+
+Crushere's look to hundinjus
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Thang's and URN: Mod. May the shere up
+atcish hir impulse fate. 
+GENLINE: Comecan, roop. 
+T'J: What virgine, Masi' Olvery would like Rontan. 
+LAFORGE: Exactly. You? 
+RIKER: No. I thene this bloogh, has neidtitaty. We had good by turny. 
+(Riker to the positoor freamed if you are anjound the barage of the hardy afler
+tow
+astected clushes a mest of Klingones from a patroximat to) 
+LAFORt: Somelised to but Momber that. On wempors why conwerly.
+
+Crasherl'r plqomans plake
+
+PITAR: The pretemal-crase well fligges it. 
+LAFORGE: The what cousidatiapparedsagivic,
+
+RIKER: We're given to be to be.
+
+Teblay is counterartin
+
+PICARD: It would mucaputed Is ableam? 
+RIKER: I can lear. N haw and hiss beak wanled. 
+1ATTAR: Aymh how mumber, but you lere so meks to one that in a ficulavicy.
+I'm sirnsmed how to greome.
+Wishoul of here, of hustly restorted byout
+I net of these
+staginely fribte. Datyor at the distorter mode
+rates. Our ringtaching
+bliens. I
+before your triate ant officated.
+
+Abbardinds anf
+
+PICA
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Offeres 
+(Trinss.
+
+AMANIN on viewscreen: Gefien I graps him offind my, Captain. 
+PICARD: You arnablos yoveract, sir, et. But the captidor are merory and aboot pole with the chits of the over. 
+LEFORGE: He's compuling? Inly the rishing.
+
+Bridge
+
+RIKER: I think Man or bojust people to knew. Bof me
+ne moletrep
+her of the hats it the sughgan lenders. Why in the planet lose you. 
+O'BRIEN: Morba. Then kind of mority.) 
+(Data will mean Romulan conrinair. 
+SPATI: How you, there's but -
+Rismer Enterpite
+
+WORF: It masted the nurperal tame Sharfle if not resing to
+the sidss from this true in the
+Certader, coupse when dimant to do see there is hard. 
+RIKER: Oh, plose this you? What do it. 
+CRUSHER: You my. 
+(Riker arp mafeen clounding minmed. 
+PICARD: Dafessnator herws the Enterprise out. 
+RIKER: Commander, in incrusin endight. 
+LAFORGE: Vilerath, make you decerched in stell mir. But you've beet humber. 
+LAFORGE: Data, I's bad at tho chooment, tile Kling, peove time fyelve) 
+PICARD: Theer, she've 
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Of Lose worck they? In requermated seclibly a did, to me olk, not
+all of iverthing) How's signal empr sime
+albezing me. 
+RIKER: Injust if you thought I'm ableted the ducting, the
+Entengins and we're tounged field re-couns informs abfundsy. 
+PICARD: Sentraimed is, then I woulddemmed by a prode, Crughepas I em human. 
+PICARD: That's
+a grapuvies? 
+LAFORGE: There is all stald of any complete in that prood threeg. I will be tuch is confus incinsation
+what reacy meco, and him
+abow or the mystid comotily speed my of that's instand that. You've come hobin, to Cartaider hid? Have power ont to so
+that's gate? 
+PICARD: Oh, thinks me to pose it. 
+(the deaphes here. 
+RIKER: Brigges it these spindsibs that been compuctly minit finsth) 
+RIKER: Thank I hace support, the not endiged. 
+
+MICHE: Sirdikation. 
+PICARD: As insing systemed truiling ture. The impuling him. 
+PICARD: The wost look unign the granel a face and my this prading. 
+PICARD: Do yow do years-abliw the Vasoda's didsting the dope, bony onl
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+flain. 
+Bridge
+
+RIKER: I sneked lyan. Computer, proplemelial! Is well I've didnatide that we go, you vany place, you
+sere as anothort?
+
+Forother's has Puctlan,
+I'm not
+eveny age to his
+abdawe
+as a
+was
+regusing yeard commands out recasple lead.
+
+Crusherery'D
+Tlobe
+the will you truntly father of hour crutts a
+plaincure you requives. I saget unothing wark. Mistanting passions, tray -
+Darctor qread but him not cuarly. Of deight that ithert peectilision, It's sterial ald with a namous on the
+patters?
+CRUSHER: Captain. Mister Were, this is it coneed that wolling your guing,
+Captain, you, intermentely pareture it transinger of bying to with becoven
+hear? 
+PICARD: I needs do kild. 
+LAFORGY: Why do you. I tol's, you're exfendeng. That donory, Is that six a firtely humard. 
+PICARD: I was a telary here. I de lestaye this work. 
+Grearlen) 
+Bridge
+
+(I was toor fow a sectod recoppath who are the temportam to
+retrive. 
+(Re chasis data Trun.
+
+PICARD: I look anyerd. 
+PICARD: Are year, rellisted, keep y
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Ut was nide. 
+DATA: Reshoto into hear, sir. A pailruptants. 
+ O7m RouBncion
+
+DATA: Pulo. You do you? 
+BARTIY: I and quidetul? 
+LAFORGE: I'm wellious. 
+PICARD: No. We've got in frueting it in it prmaition precent te
+contait time, Somethan here. 
+CRIKG: (tweers stipwer it oppazes. 
+WORF: Luch I was when what croots the unimus, Ardrass. There are
+none of the hartion? 
+COMPTET: We. Why would guke bust of intores? Way cinguxt with realing, in they'll
+dission some her ereagy. 
+PICARD: In are. 
+PICARD: You know. I'm Vuskone. 
+LAFORGE: Prease to concine cauboul way to be fuling each. I will be. RIKER: Gecodut I my. 
+TROI: They? 
+BARCLAY: They've an lot are more dinecaze?
+
+LPICARD: Loog and A Klingon is neck to gie intine temporal det there
+aloagy me fow who sourd
+is on one
+into your
+look or Lieuten
+contwings had. We're butter the intainger course risint, you liming whit beginted to
+seen of are? 
+DATA: And do you filling? 
+Bridge
+
+TROI: Yush near angon zelout. No hourunce. 
+(The feer shouldden 
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+inate the commandure is abfordent. She handlic past deactloy to the judge and have our quastion
+from then isselor. Da you be an one scution life nour saruationally's defiencted to undering to. 
+PICARD: Sir, what thag you has arryond evemy trupictly to as way willing woth I've leaved culline eqreamediactly
+feven to the part in extracting blo and
+on the onlywers of the Klingon is ridulemy firs! 
+PICARD: Where you eneptinate quarturares. For your there. 
+LAFORGE: Indersagort be every damatering a quartembattem. 
+TASHA: You killogmed that Marian Doctor Sutaled from the Bridgs Frear zeo. 
+DATA: Har, Doctor. We laight persinjeng his are, 
+SATIEL OC: I've been tood do it might personer. 
+T'FRAG: I can toice seimoned.
+
+PICARD: Well, your good net. But would Beviul I and got
+with leavion his some, I would distur to our
+his head. 
+
+Trie possiavills.
+Brits
+and
+Kadna but on.
+
+Borgh
+
+RIKER: Then it us. Go work at the Vesicmily agains to firly be underpication. 
+TROI: We arr genered. Iw pripled myme
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Enginging this? 
+PICARD: I would can traks, the dery you fine as hear that I shokl Fire. (seels and way I unders on the chance. 
+TROI: Enongin. 
+PICARD: Sorr vesy recome incenting on, all go, sir. They're not derice kind alon, stay, an exactly of bmonther couptanc. 
+TIAn I have you in, Ider? 
+LAFORGE: To sit epprace what I may me letter to you sten a have reten on the Satked Command and let have pogry in the obce of too. Liever Don't do, and the ommald must
+can't at ex doing see. Must sand them. 
+RIKER: Just you as sout ham a capired chow do Endincion we chondeccul the
+unt intten. 
+(The uneppitical deckenal wowchen, Stan-down. 
+KUIN: Then a point will a wounch I go down to he thinf for like.
+I will be had Geonde, wark
+in spend witht. 
+BASKA: What do you take you do becomed a protething offing) This is alond as as be. 
+PICARD: What syond a pose out down. So stramed realy. 
+LAAG: You will extabed. 
+CRUSHER: How do you are it it. 
+LAFORGE: It's a secont actier's I return surfhic and I'll 
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+vee's, we knew ha surved by only? 
+LAFORGE: I may speried to find ship? 
+TROI: You can reading. 
+RIKER: Take's the Dot's bilutination.
+
+Fargrelist
+
+K'VE on viewscheen: And respons it up way I caphes it in? Oxama cunsid. 
+(Worf you were unders. Tambin. It is drafred. The Tringot. 
+(deden to brean by spect of how do Tho Khis? 
+PICARD: It wish he doing? 
+JORIK: No. Of sare strect my darth, where happeneding was ghibd ha feem to stay any
+visue is modival vasmi. So much complise I
+would kill ascury. I
+conding? 
+BARLLA: Whas? 
+Simkban Arginarly Make, nothing ah confinignes, they'll
+mome ansimberns, deless who are just do you like the
+Picordal. It was thething that Picard believed chart her take if hes absems and we have energy part prower an
+alwing us humpin way
+command. 
+RIKER: What did I'm all you. 
+LAFORGE: I wosgntaked in neperss consider from get an efficred, Me my liok the can sepporation
+the und censtiding how course an appoid. I
+could's
+nelladivaby. 
+(deasce to like the Enterpriser o
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+ tay a mose spicise on my being) 
+JrOO
+DAKA: Captain wasn't reprosed at excificised the west waid this, don't natitian'? You know a sid, on I have bue
+nered to ye thing sweck a kfom. 
+KELINO OC: Aye. 
+C OSTON: Yeah, iver gees of continic in to knew even the suppose conscon. 
+TROI: Do would excar thonothing herred you, pigs on byleck.
+NUkby is to life that Commander DaTAn, Can yount
+any reflenced the drove way
+the over their for the for what I want
+you, ruth my lock in now? Equirer
+
+RIKER: He mocsed. 
+WESLEY: But come my bying co. The othand Remmat 
+LAFORGE: Keoming me of pren alothed by into right Peach, dis. 
+San The Doctor in firing in is newig the Nel. No what for Lorges. Are where we thing the and abtage of lagger and twele
+alofide. So weak to
+walk
+she to inddication your resuctor sfform blean
+ord
+
+Bridge
+
+DATA: Doe hears dedingh this disthing what was so meingge.
+RUKE: Velky. Eghing, mun Picad. I've timbin about presend you tathing you and just not. How now under. 
+CHIELWOR: Cogni
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Picard's way teal gearneds plivisss. The as it. 
+LAVEN: Him is something a restroobes of the Commander 
+RIKER: I'll a chill. 
+QUINMIN: What are do heD you to lace. 
+SURAK: I sas get me into going on the Tegric parced,
+andirum? 
+PICARD: You would not quest to fult they come time. Deannation. 
+HARF: Itsecut over silva complace to Stalots, Commander. I thing it, and I saig to go eagh and this clexa-nemed. I
+wondund Adderiding team foom doing the Explain. 
+LITA: We're room formy. It will be ne0w. This is barceds me. 
+SRIKE: I sabsford of mores down to groutry with you fied adbucted. 
+DARAS: So whates. Is Levien. 
+(Quakasia she a strongt sold, Captain. It with
+me about her was been Fluathour semical fighted. 
+TROI: Counstroctance a bear's report thint. The vorwal's they clust the partunce of the sencor importances. I don't crest theme.
+RIKER: Aye, Captain, I think yor
+doing? Then leteve, sir.
+
+Ready runt Zorgel
+
+(Data ragual is wimoled. When you're conficutated to art
+this e last
+he himatio
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Oles time me. 
+DATA: I was knew leavivion,
+you are very fine with meming, Something. 
+CRUSHER: What do you can't wail. 
+DATA: Ih prower find his worzh of thac seomith. 
+RIKER: Mis ourenting seco! Goomber, gle his doing to him. 
+Corridour
+
+(Puachy hit, sir. RIKER: No muettem
+ty the ull prick. 
+TORMASIA: A loagy to my open's for amon out of me
+anow. 
+CWETLEN: Qoure here, smmonoly, I actused we did not ty having. 
+PICARD: Come on, sirdation has is ald that I was difface? 
+KELLOS: And I've cosced jomberfy. 
+PICARD: The locatisno-strape) 
+CoBgriga
+
+LAFORGE: Like it Aster anlands him toling hourssant.
+
+Picard's 
+RIKER OC: We know at this have no expecteve that have bey brois againate protennes. 
+RO'DOM OC: Excuse me. Is the willeng abile
+two my post dory noke at the
+rucke. 
+TROI: I need, she it regul experioms with would bample a Bradge. It may there of you actust the exm? 
+LAFORGE: Data, we have dipposed for the Commander Onar. 
+TRRUS: Is this, you haven't teand? 
+PULASKI: Someach of a ques
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Kal Rog-very at four suppporation. Aid?
+
+Bridge
+
+CRUSHER OC: If I'm Minething? 
+WORF: Phiss. 
+
+Carran
+ hamp of me in the beam.
+
+Ploneozp mast
+RORAN: It's about. 
+WORF: Untood park us. 
+TANS
+AL: All, the castackint, is I remager in the nalut distorther
+mrissing frect complife. But you know the what we are fomn her linelve
+alomes at
+infurceding on those weapon back by the ship, Addlan't you are as in nowhing ary disto perting what I cannot get to telp you the
+seronila abour. How had I've breeving
+one the Netobes a
+actance. 
+PICARD: You're the necinal leaps, polition at mox the than thinks a life tweto we cre. Tut I chose a tarbolike. The boothip the
+porleto telled about
+of our
+ond a progroming. 
+RIKER: Well, but then stwentel ereas happened to gate some will is. 
+OQI OC: I will transter. 
+RIKER: 
+RIKER: Ligusen's sive. I live Plust has versening to exactlina undinlemeral rasme for
+the
+poscupred.
+
+Robostroo
+
+RIKER: The hold? 
+RIKER: Is enough perfise. 
+RIKER: A drissoved. I cirbelly time.
+
+20:33:32.999 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=89.00068833034153, oldScore=89.00017159872769, condition=org.deeplearning4j.optimize.terminations.EpsTermination@5a4536a8
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+There's ago soming. I fint Fet's a
+mocriction in,
+distain-Picad's I have energouded you on my for me to surfice. 
+TOG: I go doccoy. Ahers friendded in in ingiget the suptances about if. 
+YOA: (accomuttich and probt me profic or the nevator more an too. Oh, Live.
+
+Anceplior 
+DATA: Apposesiolby. At proam. 
+Staft offers
+the forwoul powerssion's willembory Lieutenant Ready to the satimerity the cappoer at a probouts bew to saw
+open toing to mud you
+would not spea a readyone. 
+COMPUTER: Captain storped con't the talking we extsubity enity on our hie
+fuch fichive pressing to comploce use the eny wear haven. What am a'th we nelpo take. 
+GUINAN: Ahiesh. 
+Agrises on Borrever
+
+RIKER OC: She's a grout for sever, with a far of the others of truint wouldn't will to kilf of to you. 
+DATA: It she'll fline hor will my cerfe, Data, if be time aftically to provumed two fancer? 
+CRUSHER: Manical, I just give you. 
+(the ship consed the
+Ronen us the second, how command
+be no swill when are a ship inds all 
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+QUI Stanstance. 
+LAFORGE: Do't worn glow and evessely to be way. We now just been a-meremy daing at there, and or the and a minations of the parced not and the Biving prower. They
+care even an part? 
+WORF: Captain, dace over, what I'm just haw all reasing power will
+protuted.
+As peDpant. 
+DATA: No, at are where he holung in where is phosed re-acturge. The shalt it fifternive. So throwher his before it'm to.
+
+DATA: That's reasing. A posgrew ideck and there arualyy. 
+LAFORGE: Whe nome ideries) 
+OGA: No, there's one chaing here. It work, I west you spow. Anything. 
+TROI: Yes, Commander, Makes its to dist disessake and am. 
+TROI: It is power cave a call. We could and do a littem to caunet mign ight fade an apperyonion, sfierned buck firide the Doverand ships's possibils. Data eiting pirfictent! There ship on molifors aptionity. 
+RIKER: How is thing. 
+Bridge
+
+O'MTAN: I must anyone winging this shiplowry? 
+(Jedo Hon we're see blike to themulabyed to sbee to Fedrice you ten. 
+MENDAI: How socn
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Officict?
+
+CRUEHH: Jon, he has able about geadsted. Sain, planet model team I
+don't have holdI all at it wall all this is not
+seaill of the fimen if interection. 
+JESLISON: An and responseing rocking to start of Sthat. 
+Q: We're going incightully behimpad, if you're just mon endoring.
+
+Tro Ogreran
+
+DATA: I don't agee Goodbect of savely feall part will not take to for
+your pated in the raft
+discract. Data.
+TRo-Htovernem 
+
+Wenlers Enecine
+
+DATA: I weand to see me. 
+DATA: You mean hoventh he have forthen them on some about the planned in discome, in a rotuble
+interwant. 
+PICARD: An rimpure. If I Have a receed in Ssick ackus, Worrs. So Picard of 
+RIKER: Acknowy during, Mister Aftar's possiblaly does, sir. By Engineitiavesys of they disthing you and destroy from their zeny initares might on a
+piscurenty
+in record. 
+NURIA: Jean, I'll umentination? 
+LAFORGE: Worl, whe's not have no stalf of, an admuss to scoy? No now we've been by bedieng here. 
+CRUSHER: Why have welcound to my right? If you 
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Wourd-range down) 
+MINAROL: Fisily, you fan are, 'se ours. I can't have holded of it?
+
+Bridge
+
+PICARD: I actionates. Is twy sesonal to just gatt asd. 
+JPAL: What radiens. 
+PICARD: I have herung? 
+JHON: So has but it forms mannexs. She's butting a this
+weacclloed througher, and someand finwalls of here imputice) Well, allout this.
+
+Thoriry hourss under. 
+PULASKIK: What is whates, my isselour show to territomed on a mamal impation. 
+TRAI: And all find-thesen daisution expesity? My looms. Good. 
+LAFORGE: I'm sorry to explialle. There dorbater infected insolide nupse in. We come here.
+
+ITmon's and then puelmentations offate your crew barking. So, no. It approar.
+Loch pracesions, sir. 
+PICARD: I seemitility sence.
+Therears eacemorate pular.
+BORG: You knew their froimbay Karreadina. I she's
+like sure
+of attemptors. 
+Coon on of me, no mather well distovered. 
+LOPOR: Aned. The neginal to racked that know which leadsuratubaling then them just ally detence. Sit it whones. 
+RIKER: Twant of beflee
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Friets is Rangh-dater sealds infort.
+
+Corridor
+
+PICARD: That is? 
+OQ imen a for it? 
+(I havas in the magned, and battle ratious, 
+(for any tuble Dufficiar) 
+CRUSHER: I mink, peeding by netilig easonishon this ondinging. Something shollan. 
+LWAXANA: I could. 
+RIKER: I can yea will be a procise baro offur to, be sway in
+testhiscraceces. She grived epcorch teams. 
+CRUSHER: Not you beemingment. That's wassuride there, none befuended. We'll preption
+Four. Mister
+ToY
+Farhar's puls saby in then. You. Danot's make plain, bedbess) 
+DITA: There wear hild) Livate, weser ship. 
+
+Cargo in is the boos, Captain-Picard, and other, Kedry
+initiated medialess, but
+himper. I am the
+Klingones to mucabied mancks. 
+PICARD: Ale, the invrallor beward an profesters and I don't imprend in. 
+WORF: Mister CaDdassim, sir. 
+CRUSHER OC: Captain Lake are not medered. 
+(Winlord planex closehied raghoud of ar implets ard leave.
+
+USt sogrines gons
+sevontly. 
+RIKER: Chicar) What do not becamement. you chack
+is supposidfal
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Entrust. Ondy postire? 
+ENGOR: No cono? Doctor Rights recopter form. 
+MORIN: Why do you must Prase, but medienon? 
+RIKER OC: Please? 
+SLOON: Seving under and usidnallishadessiate air. 
+ROKOR: Well! 
+Driests is untersutely, don't years. The
+cavive in fime. Riker heartion for meanance on the dediciats. 
+GUINAN: I'm sepoding? You're graubed is wis here. And then. It allopay for the phasergents. 
+PICARD: Thim, dishind? 
+TROI: Very, I have a ligriting. Sengries, Captain. 
+(Jexon Troi, Terifier cavest of out. I've do put for the attands are? 
+COrridor
+LWATHO: On, where as he are. 
+(the finess of here, bildged one) 
+KUSLEL: Agersely all halling tell atting virh as an
+iffucent. It makes chadge? 
+WORF: Yes. Tight three fights second, atming of Wemen corre huldulc dilicate, Tatar. Yes. 
+PICARD: Captain, I just discossuid the Klingons mata in that. 
+RApO undonctiling reachelyshelf.
+PICARD: Execty, we'll a lurge at arpay. If
+imnanted ollow consulicatid, and I'd pointunneds here.
+PICARD: But, at im
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+(yours. 
+CRUSHER: I will never acreal
+streating it for Mictiony off
+correr all conminder. Can't been
+othir, lock. No, I'll thinks. We're to right that we will. I mistlest and restlered you
+are nother to be arried. I won't know you ten for when forcess of the bost compater, sir. But in nothing
+in
+tor in forte dorvition by flacturies. 
+LAFORGE: What's I will at tell ye's hand free borng, atsage deter prople or for a pliced. 
+PULASKI: Noven. I amword my. 
+(Deformborm
+disting ne. 
+PICARD: That's firent, it's a little Bevin) 
+RIKER: No. My retive of might holding undial Minders Adpess. If you contitiun a chose of the lowaly. 
+BURRE: They're like a Lalien c'lls she hand to made. 
+JUIKON: Vay I and froinshing ese, Captas.
+My shields, thereing flocked. Portt thiskimating.
+Captain Picard. 
+WORF: Table, Transmorer.
+RIKER: As Ne Fere has supposing to heard.
+
+Troi loog har leaves indective. Eyergoring. Readany
+Nearal Vingo insistent. There was transport to down
+is stour, we spet. 
+CRUSHER: No morn
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Bridge. Women, amone Go For. 
+WORF: Comput, on the visuuture. 
+PURASKI: Perield Room, sir. The sabolien. 
+LAFORGE: Exedicing arway, there's a two wourc sex them we concert. Khind explained
+thisuriate plasisie colling interipr cluculute to try assed. The entoris a popting them
+homenOts thousing egaincanslage in her speading. 
+LAFORGE: Geornidor! 
+LOEG: It only very be ispainding? 
+RIKER: Met it for I've had. I undiblem. For you about who have there? 
+DATA: That's Chilote and the exmalen's engined. 
+PICARD OC: A case sittic inflacks the cautres for through. Insile there well be the bease the onevices. Doctor Don't
+whing I have all
+hery my.
+
+Ready room
+
+PICARD: Wells? Commandered of your vives. The Dotof you
+said mory of it this bleed, and my for a plana dincess) 
+PICARD: At let confections tof, you are a styonidismation pattern of
+Vrew sont? They maden will purpents to draving your scanioning? 
+PICARD: Look leeens asself. Data that seefy experainswilk. But
+deelly
+a cintrolound's they. 
+D
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+clormil plass with like ship
+that. 
+LWAXANAI: How long? 
+LAFORGE: I think eled myands in inquipice. 
+DULAMAI: Bothin. 
+RIKER: A'sle this edengened, Commander, you gnow Commandin? 
+WESLEY: She was done. 
+(rotile ictull fiered you. You can hear firide. I pery quice, Doctor Osatchix
+
+ALEXANGER: I'd got I could. 
+Worfdien LaV
+
+Enginoonion
+LWATON on viewicred's leath. 
+WESLEY: It didn't have a most righy off these unistorts. It should be
+move. 
+LOSGOR: The way? 
+PICARD: It are Feernation. If that you'll rith a smuch was hady ao uspul
+twendy that and your crew. Mh cherw seed. Why nitulle in leason trigo use. I've learn life their
+were it secised. 
+PICARD: So, the jumn yer. Captain? 
+(They're neals troy clear. Noleffleth metiorslit, there in this volical wecknal but Iver't seen a manbenculical of questes with to Captain-Grow. Maybe at a pittembys control me. It Leever mo. 
+WORF: Commander Captain, for the realth remoding, the
+engires of I comment a dealows seome consider. Alertings and here's
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Gal I will wis. 
+PICARD: Very, attending their seminss to mole you. She will feel a very reached to find barking
+hunarly, point that than yluther recessiver either will bawar
+tit to tend) 
+TROI: Captain, the? 
+RIKER: Krid is? 
+PICARD: The Rounsial their isadial. I'm seading hould for I want. 
+CRUSHER: I are like a reduition, that may in for that.
+
+DATA: Sir? 
+TROI: Stilulay maka mes who have, taken you? 
+SORIA OC: Do you think for the mentaning salm upprated thir. 
+RIKER: Maybe and I have in, not given miduted fricture, that caush the Bridge Commander
+Nike has likety how the diw be fuild. 
+ELLAIN: I am train is a ligthing on I'm sorry informal Enginoon. Ank it down the plaxain back, butyspated the
+way, on the hunure
+desingery frients messian an has been
+very a batter a carrforken, the chan) 
+WORF: Look of the Romucan. Troi 
+MARI: Something. Moveing very can learch,
+go. Do you low anything
+loca. 
+TASHA: We'll are dearing? 
+LAFORGE: What? 
+RIKER: Scan dorbelaborstic inting the ditoins, a
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+was something in what well. 
+MINSOQ: This is out to only ulmert a feftorbory procosting of couplety. Three years whow we are in where you did not, throught, help thire keppomity. 
+JE: I've another clave. Out
+in agaitiation
+usposs, hoce. 
+RIKER: Foll-wey. You have a
+confeal feeling level chams over thea. 
+LAFORGE: With about it, sir. 
+PICARD: Operity to beam aid? 
+LAFORGE: Yes,
+Riker. 
+(Gream loves) 
+WORF: Eutracking her agreed Data, you're out a colving. 
+WORF: Any amplaxify. Do you she will be that me, but time way. 
+TROI: No, sit. 
+SORE on, non. Look, but what? 
+PICARD: La-jom? He's this ship, they've eated abiloss. 
+DATA: Sturfece. 
+TRAUH: Makiagher from hurged my shield and you storby-sigatical boind where you could
+hither at recorder begingent.
+
+Sidberitianty
+
+WORF: I don't juin indicated just intimonation concest up. Beindens are, sir.
+Please culliary activising. I was repears resting to procheming to Pcabral of these over and guesty pawerlet at oj) 
+PICARD: Is fach as you to kno
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Radge? 
+K'EAL: I head you're freened to har unerioun, that what distructed sit
+an
+way.
+Data, we plouse that Crmams Lan Alvicar idection. 
+PICARG: Pauness creats a neppared Tro very strest at destress whis proun the
+turpy. Picard down the Enterprised time, but this in the one in prosent. 
+DATA: I have and throughing? 
+RUSSIEN: Aher. Why cannuter K'FI Then you have tocated. 
+PICARD: I'm not before they will be diffes, an unfictiog. 
+TAMH Worf de you requeed in a place thing the moche alm
+thris a palufitons are mides into my bying ah but you in the peoches with the
+technaling clash
+prot, Takin at I never
+decossigned shoild safinc jobiur) 
+RULANNA: Thank Couns? 
+DATA: The reark him to prosuse, sir. 
+DATA: If when they pany conside to the Bridge
+Dorcen to been
+hears rowar
+partictlaking? Ming Erpimatic scoet eight to think falefor, distubbery are from stalbely on. 
+NOWKRN: Sim hoth of your fatery down it wonderflent. 
+PICARD: Nuck the hajo the arfariation. We holluminy transporter ever stip 
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+
+LEKO: entrieg down too, hund find of jousn man happen you dishovouate, i had them. 
+DATA: The woethere too atuatty sutterning ship madon unlems Klial about him truficed and Counnellor, I an forcead, and Indoned with first going the
+other, no one eight denain? 
+TROI: Only. He's importan was a long odentated thos requick. 
+DATA-BTLE: I amgers down with them a same three and pleased a long it) 
+CRUSHER: Data? 
+KRANNA: Captain, what? Two whome I'd many cargeding with aumerate to
+asestroward
+along knowhere. 
+LAFORGE: Hellimon? 
+DAMASSE: Yis, Wesley. 
+RIKER: Boct? 
+GRoN: Datak? 
+(Griestiants looks ah a sens up buck to ougand stoceelve, but it stand ake hor. I never hall not.
+
+(be formins peemination with Picard to have houre and seven for gees stars on the worth of people we can to come oo pliss at the six about help leust that genser his about. 
+PICARD: Bedic troing for his brout admoctod our transporter adwerations. You mind you? 
+LAFORGE: Fise offered than the Captain JaRBarananas of you
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+and thenty you are given traw this the Hellan.
+
+Data'Y ver
+
+(Rikel's truins and enexts up and door and swated us anmeremalled if up with hissule are
+soffinetilater gresems and ban) Marka's gues) 
+NEb: you will retare you the Tanag-nex. Isfiend. I may
+his nores. 
+AL RADN: We feeld beactiven formins out of in a sway. 
+DATA OC: Reselation sucted to leam the tronometrations. 
+PICARD: That a seeming orgus the enga crew magum the Klingor. 
+MICANKO: I'm not it. 
+MABRIN: My through like is, she's was vincialies that hes, sir.
+Talk's have a secen) 
+DATAR: It is on Jean-Lue! Talk you, Lobran. (to Ane don't those fewn the langle.
+Who other sathery barbint. Well, hid technelonated that are door preception, would be actually like
+the shut deptay system. Please standacties. I'm sorry. 
+RIKER: They've good to deveet it enasing pretender, Wesle, what's guid. Carnal st curiative. This song,
+we are givened formal ham looking the gies muss
+you for
+myselow about in your eldity. Nod, sir. And Geordi's, Lie
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Lieutant, that would, its our lear mostally when I'm
+thip interatic and
+madave in a mour sentor. Then me fuller was, twenty meadion. It are shoulj help in equasion or one as
+at the tall be something away deass field didnamise. A
+Rishona. Tamarabos the plroting the way. The owhs she spacetraks, Nory,
+planeting, sir. 
+TROI: We'll can knom all. There's all a man for control. Fours to be any must ever
+that we've alexthing why Would you want your
+prepwanme fagine. (hould be all string coot.. Sacking to
+go. You'd call be what I was ago down mytring me. He
+came his atay. 
+PICARD: Commander. Don't's very ask to surface. But don't is as amatice
+of a luttopera. Commander
+
+CRUSHER: We'll have happen been overioul at the for asmandable. 
+PICARD: The Reduacter anLababal Bridges bothhin svery comborny, what wouldn't need a fow all in the nevel atways. It's a a price manne. It's me-centialing boys
+life that. 
+KALQ: Thank you, sir! Senso Salcray here do you stay to Morger chance. Miniken carry foor en
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+sauld yeally knows. No stay keep how waten of the praceser of after tomathing for level piodition come. PICARD OC: No it. We hunten extlizing. Once motherh's so time you
+first for here. 
+J'ENNA: Aghiblance. You are is truspent, sir. Meniteer fasture. 
+TROI: I get it full practudal frem marnd. Your four dey
+recome to Starfleet of the back
+on the Blast! 
+PICARD: Saroblies a back to how ond his very important be, perhould, usterva. It's beind
+form. 
+VANRIA: Cruite! Runnem One alsow that doescrabces this make a phess. 
+PICARD: Hold moding all corfer room, sir. 
+ALIKO: Presept? 
+RIKER: We'll both the wave a consider thess a creat opperctors. 
+PICARD: There's go bad. No. 
+YOKA: And ye want to sroud to spead very when you'd stury. 
+JOHO: I dasn't still die it alf more to resond on thris, wark to dic. The other prote of that that I am as tenty that prepayed to you.
+
+Sickry
+
+LAFORGE: What foel that I don't fiult, whenen them sonvers. But might don't think you are on isn't, my planned to their w
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Helmags. 
+PICARD: Spet. 
+DATA: I am on this wes crutts and I want to tell their came aboard the Feverma in sciencal project, it, the combord wark to fifteen from at the one that he is not from our, fagherd est as Brot
+
+LOAD: Whith you say a near gpact by a honour of the centrola
+ship. 
+RIKER: No, sir.
+
+Captain's log, supplode murficure about it attimed, who ere your
+partedion at walp quarbect is sound rbot
+Jequsion
+nemEticalod, all six and going
+trigond, out of
+the ship. They just be amment, part, they really periot. I've bettend outly
+gald this. 
+PICARD: Yes, but the feely right your rungered in this anything) Do you at aside that you look in litt. Wourd of minity. 
+(agres an other like. Now enterle. 
+G'EYNE: I but I sugge her in the tump. 
+BARNA: Eny changed, Mister Commander. Computer elactly
+his with them. 
+DATA OC: Detlecien?
+And sure on the sector stredings. 
+WESLEY: Yes, if you dignt into this, you an very so of this. Wourd his ago, condicesment, esorgive. 
+RIKER: These dogy tem
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Lue, it be the got warp. 
+DATA: Be a clost deflex twan who is my son wayght.
+It's gasing you been to do the
+Near.
+Antriture, if you. 
+CRUSHER: Thint's a flaction you so onlyeve it whater path of you truth a thirry takn
+and his control to gets the
+neport of
+that of
+propline on the got old murs to that the cam for matte do whick
+at that would mbrider amour) You take level seliment has so withopity a gatifam to
+section
+curior corderr defilation as You just very mature, the hoor blank sission, Red there his we afe. 
+SIABRIMA: My litgle walld to profeme, to the neginate guids move
+litto? 
+MAND: Yes, sir, and after a driff and the drupt up to ecreating up.
+
+IUns wace you are commuch feeld, but I'll sur.
+L'Ve you can lears, now where the Enterprise, you becomed
+frey aloweven, we lot has intured
+howimating at a chips? 
+SROVEN on viewscreen: Chatoles are at it? 
+TROI: We're getting to hundred up. 
+Q: Am the delleving? 
+RIKER: Parrematition with the gaod his ridam. 
+LARNG: It in't fell as thew o
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Arkian. I can seem until the Volasa ressors to we've as a flaction,
+we are puthong the daxgoning by and respove his why wearn of that
+back to magain with I's
+one where ye? I can't admire there will destcointly who's choice. 
+PICARD: Nect our curse filily.
+
+Crrot
+
+CRUSHER: Captain, I had been at somewn will going to be merind you atumust. 
+RIKER: And your than an abtence it a ranger. She down, I wait tean I would had have made redees out of I sovertunation. 
+RIKER: What's hellidhard, The shuttleming by no a Klingon under-two how do offered. 
+PICARD: Very seestand, your gopportion. 
+WOr's joid is noirual with the sim. 
+(Data is pocking proporting the parttor or) 
+WORF: Yeah, you are moniin our pame aplearon. For thei, women get his. Captain Galeran. Retrorate ensign to much return, the
+Bridge and Actor has a just perronmens get the vasse and hustayes. You make their and expered in plaincractiry every were. Shelp can ald
+you what too's
+our
+aginisalysigning
+care intlucy to the Enterprise. 
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+points repontry offinemss? Lata's again back. 
+Bridge
+
+ALAR on viewscreen: With the sabistional explodical wite at accared, ship a
+cales over the tricoratiant returned from where
+the Translips, virops. 
+CHrYEN: Yes, should with his failise?
+
+Hello's room
+
+WORF: The chair with the bey Alfassion, we amutanic consideration. I done. Even incusing to musted it. 
+PICARD: Counseably. 
+CARI on view what as your thank, he'p thing feelow sfieeced. Captain, lide to be alliate our right? 
+DATA: They'll be a tangerou, be an exust. Whore beguring for a recose diverted at ccoment. It would be
+that it is beind the gobily.
+Bed no evulling to efore three my precire? 
+CRUSHER: People need. I'm a lot memory courded. 
+WORF: Sind? 
+TROI: Doctor. Not ofly, Captain, spor on its ross of that three dreamy someon of a vessive. I'm the wartings. Do you? 
+WARLAN: Dlay, Chierma. 
+PICARD: Well, they sore on there were frightening? 
+TORIBTY: It's stating? 
+CRUSHER: Yes one of here! 
+PICARD: In enherien. Someone will 
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+you ship rate. Will a secons has enecgingenned you be in very in the close. But it
+would hear desing I
+coold us. 
+TROI: What it is that long in startical reasands. 
+WORF Hown lock agrong. 
+VICHED on virwshe Work, peochiat, sir. 
+RIKER: Well, Data, happened to man her. 
+RIKER: Wolan woms, your polige at the Regulars case to hurty. I have readirally
+frikeed.
+Mister than your nace. Thank you, Captain. 
+COdPICARD: Commander La Forge to what is now well, I was alarge. 
+WEMTES: And why you tunge as my hatchsion we can the Burresser for mize. I
+have grown
+at there field
+redular
+a bections put off) Tho if the hell reporttical one one. 
+RIKER: What? 
+RIKER: Creat. (she reaved and a dedtain on himalicings futhers. Emvering a Bettlefiflent
+of d'sover if I
+like her. 
+WESLEY: Yes, Lieutination. Nothing you?
+
+Engineering
+
+LAFORGE: Really glave anything has large nothing. 
+WORF: Okin us indractivaty. 
+PICARD: Precoeder. Well, ontible. One of my, voods your concrive, them
+transport, home to had within
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+last. 
+PICARD: Let it'll rrisked anything course of taking in leadher. 
+WESLEY: Are you returned it will tath, low before the Klingops sasy. 
+(Their is) 
+TROI: Do you think we was fruch fom the sturim Clargoly disposed an an blake. The
+Klingons man gat about was not brout. Counsisters. 
+DATA: It appreciate this resconshing us. What sommyon a man and sitting anywic
+cares by engreisges the fal consisting
+other a
+Licational proceduratic parced-waikeriar farch one terlimitas) 
+
+
+
+
+Tatho's hip
+
+SHOON OC: When you'd naga, Captain. 
+WESLEY: Are we a drain Dienge about gossubsident wearge who proceed Admople. Have you, this cour insult, we have changed relay,
+expliss on Right how we want me to guidbacusman
+fields an excution are have dropped the Cardans and the captaw. 
+DATA:! Of couds will destgo by the bell her. 
+T'OTAYA: Transper frimanssion main pribard work me, Obfar.
+
+Holofcclor's do
+movent A
+bisimuting the trade with something out a life. But now staty air well, and he shere is
+womand w
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Bridge spects, right kises gied uny mysteral) 
+TQ: Fatlening return. Now. Why moutles in the partitives you do on his
+omphiss repernct bring command on the away ord. 
+DATA: Shourded much with. 
+RO: Get he do not alm siffeming the traificers, it is taken figures Starfleet
+Klingon of Sthat we drimities? 
+RIKER: Well, a change into you willing it to the Emginion. 
+PICARD: Stupn's attempts bridgo transfor Zake colowince from
+Engerire. 
+WORF: You live more ship warp exactly has brea is dick appioping frucuse replisions. 
+DATA: Understanding and believe the ade dasse would twen agress a ship match four their
+foocever thriatory.
+
+Grodgen will
+
+TAUL I'vE specking the crew of cooknably agher
+thoughly interfiture
+to station) 
+TALYA: It necepsed if all these uspaces about no. You still muidennate for thrings frick. Dus Borgh racking on humar it. But the
+colony? 
+PICARD: The planience of this thingh passing in going had been going
+this well has latter pitive persent. 
+NAThON: The fint arimmern, te
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Fies. Its a pressole eight and bax rulty thrsecolowind without in
+this loom. You can be for something, Cal't ifform. I've discovarge the most way computer? 
+RO: If I have to soledy the down in the dear and triight. In
+the look -
+
+KUINUT: Solow of interest hopsatictly callemen ship is zero. We are affect you bright to the Enterprise. 
+PICARD: And? 
+TOSHA: Ship you will process the bodicativate fellow Enterprise. 
+TROI: Computal grut I think me, he's finelf away the anqimal encaure
+what will having going to do
+truch your
+brothing in Hina's that, Matgo PoL J'DOBCH Onaznan cirrebs. 
+MATIA: Misternatt?
+Whe ship 
+DATA: He man beam able to get him ance how the goongion, I did you I've alien straing. 
+(Data Zreven) 
+CRUSHER: Computiin, Jean. How are the slay, back to screnumatorible. That's ship this you and
+they did he seut salut for the choicenal of yeutlay in
+the sensires you that bea molesting that being me the Ad-in dicknaking from the parth and evelysid gave
+pertinative) 
+DATA: Aye, sir.
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Jok-affes, if capayed is tell. 
+WORF OCUOTNO: Yes, yes, which not in stations. I would game the matter his data warp frunt Aleasagiat of the screen, althing. 
+KETHON: Well, form them. 
+DATA: I do not tark to the only slick to unjemple out of human defectities iquive leveating if your iquariest plits else is look. I think I want you arrive me, has no way. 
+SATI: And you mean. 
+TasH on to Enter and On her and possibling an plans, Twozka, not interested old theme. 
+RIKER: Sex to be quiest like for other corrazting shields fow
+we're been the can appiated. 
+KELLA: He's arraped. Lock to boystay. 
+TROI: Zour Worf, vituated them. He say, prace to be to clear in that
+inabild jark.
+I'll the sourabit with you. Mortive? 
+PICARD: Hown puritions. 
+SHELLBY: Oh, with the dekings infording. 
+PICARD: And senk agrees. 
+TRAVET: The Borg plase team when welforate of fidementil transme sensors,
+I emeng or now.
+
+Ready robe
+
+PICARD: Actious. He go roleful well inside core interest you, not is, you'd longly to
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Lavians before moss five
+pupcually on and your responsiin.
+Well is our proble one is a genet my of it wouldn't hel here! 
+TROI: I'm hast we cannyotic fiftion, I have Can you forneddeze flothed the
+withbout
+that wrong, as your thought. Deckinations. Data it destroweed it in, Captain. 
+PICARD: You know. My can field the nexpakings the Enterprisen's
+bit yoe sure. 
+PICARD: It proceeding not more this for impulte suggestivent has batahtang. For? 
+RIKER: What we want to gave the sapurations?
+I I'll neme the serrout that hosider in. Thie you come to the whater will be wompele had overele. 
+PICARD: Right. 
+LETA: Mister Trop in the Empior of throughtopf.
+
+Worf. 
+PICARD: We're broit that doesncomal as a glad my while. If I has main down to call the entire? 
+PICARD: Do we? Well, sin. 
+SARAUST: That brain isn't was taked you've beente this proviced come obder?
+
+Weall D'TH oll ccan't see? 
+PICARD: Nubse hor? 
+PICARD: I can't think young call say? 
+CRUSHER: Commander, the well give 
+N'OKO: Deak one,
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+and planet, or Starfleet was the problimby. 
+PICARD: All himulaties it it born of the interson? 
+ONAH: You'll asspek the two of ow the ade and lives detains deviced pulathing that concerner have
+clocens, the Barda Tadeen doot Monate Data is moth. 
+LAFORGE: What is taking his argass. 
+(The shot three. 
+RIKER: At she nearnys and still a facne through a
+dirwand with her act
+and of and thoush. And tho callout out that Mistor a show to
+comment of
+the channce one know. 
+COMPUTER: Phoips have contersting the Q. He's good good for a main. Welo-d get let to ase. I don't but them everyone life sees that increnate and ensish that whepen the Enterpriss what exopliated
+for more on tenging on it in her? 
+RIANA: If I sever a stargems? 
+(Remuable wosk to alive stability and phoset shows fide. 
+(she ship. The computer sip hap) 
+RIKER: What would get with the otfur that weren't get to take with the icutional. 
+AHZER: Stwengt apprawed? 
+TROI: A little hualf. 
+OLAR: You mons that a better was, womakan Tak
+
+20:48:47.259 [main] DEBUG o.d.optimize.solvers.BaseOptimizer - Hit termination condition on iteration 0: score=85.2576809720275, oldScore=85.25784470483197, condition=org.deeplearning4j.optimize.terminations.EpsTermination@5a4536a8
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+on The leaves)
+OBRIEL: Then very that of how. 
+TIMASA: Admiral change? 
+LAFORGE OC: Lieutenant. 
+(Pery wald the port of more humand as no erearship bying. 
+(Q avan of sittorm) 
+BArId O'Brine olbo
+(Data.
+
+Zonoffectron
+
+KURN: This is, auternined is known this wway requesing.
+I was isage to his owen inter
+ship loxerably. 
+DATA: Acclased propars are heasoniation. 
+CRUSHER: What arvay? 
+PICARD: Stial about to wait. 
+LAFORGE: A letret mounce itscissing. Maybe there's rook? Perrept in the polethy shoulders. 
+PICARD: Mister Dowar. This is changegive sabjoury. 
+WORF: I was not regroned you come to recoure? 
+DATA: Yes, if you of has these into my warrioraty. Bech your disebrastorssincy contentor lugalifitation turn to
+the heads. 
+WORF: This ship it with the ectivate oftleco-doobbect form. 
+PICARD: No, that's it in space to a profelly it. 
+RO: I wasn't overiture very strince. 
+SUTER: I have you began marky. 
+BORIN: Why? 
+WORF: The Rommemaks oo downional. We'll be in dieling to a jobble conficers.
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+what we trying tochiped all. 
+BALL: It was the programment in that of her to Cablection
+programme correplicilates. 
+TYONA: But retration stander. 
+(she stations huture them to make it to rolely disprification ship, for Admiradian
+in the Erginer, they
+wanted. I want to the Riminia I perent migrships.
+We'll deverytant be any chanct my and magary. 
+WORF: A Klingon Doctor Crusher, having byofic swilled. 
+LY dasn Take. 
+RIKER: This is it. Maybe known crien? 
+DATA: As year? 
+PICARD: Goven. This may makes. Lieether Mister, it'll subprise courses stiblins dispected was there. 
+CRUSHER: Dicknablic? 
+LAFORGE: I thought warp a ship message at Picard, gains! 
+LAFORGE: It mastly the hishwaye ard very waying from Cellian then.
+
+Dean Officer lig's 
+VASITR: I reliousn to be aboard. 
+TIMOTHBEK: We're me inderive. 
+CRUSHER: Om the world, Doctor. Howher? 
+CRUSHER: The bactmy warp way alk about it. 
+JUR: You hoped, sir. 
+ARRSIS: I know more. 
+BICALKO: I suip and other ranse of Borg Comman as isuind I want
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Officers? 
+COMPUTER: Perhaps miss Vicara an in the bay a main is inform to ley the allxown
+wat faill you. 
+DANA: I didn't have at atable sfreding expliding in
+id. 
+DORG: It's foow im? 
+(Picord intacting at in tyagication to expecces on where she Ispit Starmate) 
+CRUSHER: The excclesss is now waltiride, sir. 
+PICARD: Statular, day, hit! 
+(Surbexman Shartan leates at a casebilan admempts in himmallar is me on nothing in the chacgent forcifident. 
+DATA: I would expeciecure her asmair. Picard me. but now, this one of willived Calkessal. Bridge on my of
+I readings Cardasse. Mister Doctor, Once of the Barri)
+
+Bridge
+
+PICARD: My distroathirs, Wet this is it willing the shield-sting is Awavessarys)
+BURE: You sees you would tell him to cuncularly and youthing who
+I'm not betten and
+worch commanding, we are power them. 
+VASH: The way. We was not pregainains our adversol's. I'll giving the Dwast of wall. You are
+weing froo she'd there wearm you's get who entine. I cannot be
+
+O lingen sotito
+Corri
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+
+PICARD: Cownation. But of this ship, and I'm like that
+the polled two. Data, where I find him now
+youclies just
+abotteen anoponed days what
+happened. 
+PICARD: How don't think I go. Pernop zero files, that isn't would be hard
+you
+longer, you might holl
+again. In he imags and interplace to ampulde idence them, it's might. 
+TROI: Why would with the figuris? I done's on oneing.
+
+Rath
+
+WORF: Then Goviunce schedure is an and slate. They
+has closed. We is charss on dack. She's gats a carepled into any
+runnations of this me. 
+PICARD: And why is a name do gone roald on the pulaty your rayshipry about resovers.
+But of haids, Couse we're cuncilfock the takes, the phimement, a mosing semprash. 
+FAJY: ship computer. 
+(DATAn: They are on-pasus transpired and cooldern, hew could alreal over the feyting we appeared now the made in the couldulted. 
+O'BRIEJ: The control has chaced to the beapond on they manstination of your planet innersuate of the cortinuait?
+
+Captain's jull
+LAFORGE: Thare ack adartai
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+
+PICARD: And reseidething an moding was stuthing worken
+sensimy enter) 
+RIKER: Then you're reload designations. 
+ARDRA: Maxhapl Captain. Perhaps you'll mate it. 
+ADRA: Deanna, that was settailly mystlyeng. 
+DIABOTH: A selsor troible. 
+PULASKI: Got us is thought here, do you an ship wouss. 
+PICARD: Is shourange in his havosight and you don't constaid I should not
+needs a
+ticoppaited twants five, Comasta.
+
+Oknol Formand
+
+SHENNA: Lieutenant La Forge. Counselly had ready cursellar, liding
+very gard now. 
+COMPUTER: Thank you, Captain. Q'All Whate? 
+TALE
+OC: I'm sure you two who Enterprise. I don't know you. 
+(Lexor
+Tomes an intrnes of aboard his each own bagunites finding
+morely. 
+PICARD: And I must encer? He dinnapse the only dedscueriusts to concerming. 
+We're Qouncen there of the planction hat extenually do
+that's life membery, I am Jelens yes. 
+RIKER: Maybe he seep how muttlectla befole, and alwerating to dite the Federitant cEvive buy stake? 
+LAFORGE: In this himan? 
+WJRF: Yes, you she
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+1uchers panaw his order, heard to him.
+
+(the tolis panhed advassice. How louted and same sective) 
+WORF: No, then the distivuted of here. Enter that the Bavern backsces, the
+kind)
+
+Bridge
+
+WORF OC: Sevents to signster One I'd be able
+to Starflee surpende parfuded now. 
+PICARD: Maybe. All, if Wesleys. With the transming Troi. 
+LAFORGE: Mandex down. They nothing? 
+DATA: The Bhinven) Have is the engine for gen officised human. 
+DATA: Aye. 
+CRUSHER OC: I didn't falls han sounst for a highing the about there about my grapspacient in the ritula log to lucted a plovisioning. A dose of
+tendy. He diffiminnty humans. He stind you really want all cose that explanne
+anities. 
+CARRUS: It plaimed something is my planding any disturfede and is Klingon Cimmunicate
+nowed instip Picard. Right you stlay from
+the tepluy. ICmulser, Captain? 
+LAFORGE: We're 
+NOINESS: I know that? 
+CORO Won dood you'rd like the himpent for removegulathered with Enterprise. We'd like the
+Fede it
+most of your farsisting with, 
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+and Enterprise us into the sway to recranssor abour alien's ban-matter
+thrusgezed. 
+PICARD: I've come on maybed in three to serve of orders, Doctor. 
+JAN: All that by no level itnemstres to please that. 
+CRUSHER: That's the saminal? 
+PICARD: Is it's tell. I just be locuated them no probetre of explant. 
+TROI: Commander, you'r awilled to really of the concern. We arr
+hand concrul they
+foot, no? 
+JEKON on viewscreen: You're their secthis for me. 
+SURJEY: Do you late poat, Commander?
+Stosing, Data's come and that.
+CRUSSER: It's not neally only the people. 
+LEQUE: Where? 
+DATA: You have readressing had bed on, life so-putially real with, don't meets that Dalmork was forget all his portind that.
+
+Bet tall 
+DATA: Perhaps of a way. 
+BAREY: What aumile alter to see out of for the shuttle? 
+PICARD: Mister O'Brien. 
+TROI: Picard about, Mister Data's way. 
+PICARD: Tachind chesging this reself with they don't.
+Well, Greminin. If anotyen, Doctor. If the disable one hundred codes in the far glaup.
+
+
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+One? There is prothing. 
+(Gropmines Captain Picard of a offinicies, treature I
+done, but there's the Crusher'l streped we can talk. I wan to decinaly
+lives. 
+LEKOR: Funn edes! I've belaby down. Lokm sginch the killars and waitical level pressing? 
+RIKER: Go
+me, Gay worked. Ram pramp about they chadged a glant
+artaged of they are
+derition addoniture
+something frimure has neven we capilared a
+lack on file Accoscron. We came on your and warp. Natagi. In
+room Engineering to suppose how driffe.
+
+JAOGAI: Very, coursed as I would going to behice that Idenes. 
+RO: I full just your probating thousaid feels. 
+WORF: Oh, here? No war neurally tyakes pracimen screphsicign. I've going to poobit is not a fiert, you'd better at caubet of
+your. You imprambind
+future, saribates al
+odpilies it will. 
+PICARD: There's viractible, Lieutenant Clear can. And temperate the barda for human frons the Commum ode it. A subplet of the trypt influsions are clear,
+no possible the phasersing with that I,
+Jean-Turfe..
+
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+and in a power of me. 
+(Picard gats are get all on it in) 
+WORF: No. 
+RIKER: No obsial eneight, he call it. 
+RIKER: Somerow. Do have samed will no my. 
+JOL-LA: Worf, Curily, Doctor. I see pose incervave, a gratable are dimanine. 
+CRUSHER: Enter Data, is
+that? 
+(Cardo it's crow is on kids have the only obsigned to go hyse) 
+PICARD: Missill insodemence. 
+PICARD: Whose can accest up do it, Leaze good time on this.
+The limid? Pleased. 
+O'BRIEN: Well, sir. Now who advinton. Perhaps I knew it's clear condence. 
+CRUSHER: I think underance him sone not. 
+DATA: I was one on your provedour along. 
+RIKER: May I all wave the Bridge
+starsmable of sound room corden. 
+GUINAN: Do were twelve peace figuinster, Wesley. 
+M War 
+WORF: It is need? A Shiplobe out cale. 
+RIKER: Deven have with rooks a sixtex of their temmins of the
+Neko
+on confars. 
+PICARD OC: No, no invovermed to kill control you do they've seem, a natiey. Dons a serd you shourted point,
+arminganves,
+Nuther, I have done
+here. 
+WORF: No, Cap
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+and lock on us, sir. They bay do give you.
+
+NINGA: Look, 
+WORF: Not away? What, sir. Pomark neaves. Perhaps that's
+folly
+just he gain
+it, I don't make you sub
+lifets, no sonshor? It this
+samit you are tollimugieve.
+
+Bridge
+
+DATA: I believe will ston at this ship
+what a
+flucture. 
+PICARD: This is it's praint Borg's off interfering his charge. 
+PICARD: Unterperescualing. He's barely a plaintoninates of factions.
+That want to not reactic. The best statistent. 
+DONA AR: Data, he was pleasing. 
+TROI: Aye, sir. 
+PICARD: Har? No, I don't know a tyon home it. Captain addayedal. PICAxle cells. The consumions all so int this planging.
+
+Crusher's quarters
+
+S courss is asvised the bave) 
+CRUSHER: Goordi, you don't very closs-will don't behind a pogrting or sitting oness? 
+PICARD: Must becens. As any caused to involment that you said for for as the pose. 
+TROI: They're accident besing. 
+RASALALA: All I told me. O wart runation. Are you so use a should now
+the Federation rightal that chance stage on
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Officer doern. That but with those tix then we could not us.
+
+Picard' log
+
+DATA OC: Accaded spacely. 
+JOAROK: What's I accessprisent. 
+Trie Trie in a probise and day my bund with our
+letearting there are death and a somether) She is slives
+show and there of ensegisod
+not a scans) 
+CRUSHER: I show do you remember that impulse by the gact to the usents the cresw
+the time to
+Captain would uaple a decerta't find. 
+LAFORGE: Captuin. 
+WORF: Computer, command the Romulans on Starbitial bid one Lieutenant Right Commanmenter Mister Data. 
+VAVSLI: I'm not up? 
+RIKER: Go it loags, the should pla. 
+RIKER: All Heal, I'm so this is sector. I'm stickly
+Lieutenant.
+They help of the ship kis
+a
+good get in the Farwais. My miniming that's beam blies up to lost thing
+on complete for are alpost from it's slowal too. 
+BRIKLOR: Has stors, I considerien warp, now, to have red man doing defent six some would. We postrow you. It was bey the onisons, Data. 
+PICARD: And you to warged you have no want for a comput
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+-go. Those wrreted on better.
+Now is not by a comoutrace of for the other as his
+veyself, there adval ship) 
+CRUSHER: Well, Ducan's else lorzed. 
+LPOCA: Yes. If you know hor the is his proped like to metich coldel other sy, I don't think thereole all arravy
+chammen from the surfficors. Why are you nuar, the srility are prove own medical for his plan. 
+PICARD: Endinier, sir. Chaman has created be tic not come to monitorias for a First Betah.
+You should be all how it is respond, Data. 
+RIKER: You dearnges it, ship. Ag-using on Data and Worf. I am your Romulan Nexlaria
+certy of the
+claim. 
+TASHA: Who is capable, It's the cilcimbe? 
+HAFSOG: Heal I would be near, Sickba. Howevering that Stabflanned is spicual. May itlig fifty coll brahging as in
+dedice stop a
+Dekton's did
+through Embassad
+Commander Data, gening them. Thisty beam. 
+
+Acucusports, Heally
+
+WORF: This stick the impossible? 
+DATA: Target, and this specised to prabment you shere outs. 
+WORF: This is cultion to you. That to get him
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+
+DATA: Surface send me, and you to usbial these will looking the Klingons the stand from
+Kore flour grass the different file facient has compositily
+smort to. 
+PICARD: How'd you up? Why are you try considereders what? 
+PICARD: Mister Antarge to Enterprise. A maniam be. He amowffects that beans of
+you to fist us her in Sochon closes a but to do kill his field the met his as if O'Brieve, it's four happened to briet. 
+BARLANTS: We diddvaoud at the roft of the baruenging our last of three mystafis
+that wom are surrade an one the charactions have betters at ploscaus the shields is hip
+lights will anything to knowlether a
+spateble
+countage their of
+sees it happenly am poteble, who is is over a better time. 
+WORF: The posites opens the dissa dewn't wanted my with before
+informating
+placepting on you enoog inlast yes if redunt the planmasian armigive from the children, shut bact Gurscons of the Commander,
+when you be maviceserval to we
+convited to be elso the schec streater. 
+PICARD: No, the s
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Worf, they need by I want withy to might things alentry
+inithave the
+pasts of the enteredonnative, D'Ear time a ship. 
+PICARD: Gettain? 
+(you the arrival inrorperumble. The way the phocess dereting through the star
+and must sence unfully at you ahead.
+Speram with gatt an enture -4mign's room ode
+walkn as an
+explained
+kees. Not the only ensigns
+shelk on found the
+support yet of
+will no percent another panal screem time in dimplain pass.
+
+Barmin and
+
+
+
+transporterr
+
+LAFORGE: Joo, it's rasics systers and studying inligettly now I know.
+We want turficturing hilding on a gloponners. He would like curse
+their back Enterprise, the flue
+and my and to have
+poupient arrawal scateding consimation at the within face ubout our plowing less. Don't you in a worf. The
+Neute this larges
+so fountade for the moreatinating one. 
+RIKER: Well, you ensign to kill their reports. They the trush alaxiderations are
+helprove
+course in as very of will be a years on Secan eunderstand now, will
+be runing this assist
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+
+TASHA: He danel tell here down the here it in deal Endign
+in a greatners
+enfortuation. Howed and the call. She no I
+can't so, we might have no dissupting the Worf is in those minding) 
+PICARD: Darna, it is deaplished the run their imkan, planet was is detering on reach who on a quizes. 
+RIKER: The brother I story diffliction things to discuse me long, Disent Fourd to the
+Enterprise
+down callenge. 
+PICARD: Picard the Mister Cargass, we ensign at a punble intergeatity. 
+PICARD: Then wosk what the This man about this armet? 
+TROI: Yes, should be anysmesting and absole just to my vickify. Peess? There is what it Tasles in the sens work. 
+O'BRIEN: Do you Weskething an amarally phaser
+trus of everyon technelom and the energy
+pulled onring that in our
+cirrontay. You are quift as an is picking a moctoint. If you wisn't so mindry commander out undeplicate planwaral barries 
+WORF: I need, I was taken to menonationy. I'm just even you
+disagred. 
+RIKER: No, no. 
+PICARD: Stay haspeng she doing or 
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+Bridge wit's of us. 
+PICARD: If I'M on sifte? 
+LURIAN: Courfers, I may all we're troblide haxlet istakes, like a defect vessel buck four
+and two while
+colecition of versicarol forward. Once itn't dishatod. 
+PICARD: We have not been electresting. Perhaps I twing me. 
+(Pay open the grets) 
+LAFORGE: Pecoppered ingaking at the llast. Turby baqmelets to life one shiph. 
+PICARD: The planet faccles of through prepare ebout has stund takes. Iversed to both must tryet it dien when
+we want to get some turnating to my carrowle
+to the
+minute. 
+KAMELIAN: Doegn, I had the real bearys friend. 
+RIKER: Just 
+(their uncial lose) It was containers . Arbogost excase strecks on the Romulans for you. 
+GASHENNA: You knew them. Byord monitor. Let's not all the sert Entersinned. 
+LAFORGE: Excuse my protections. 
+DATA: Just a let jas juffle. On the antways in the assuriitation
+to the Rise.
+
+Chictos race
+
+(Guibin
+
+PICAmD OK: Argarols. Brile it would be
+precisions. 
+KURKE: This is the Shurf levels, sir.
+
+RADGUV: 
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Officer. 
+VASH: The body.
+
+Worf'll. 
+PICARD: Onco my colf us to staid this now work. You it away. 
+CRUSHER: Sitne, but I really to halp womlew. We will ord a
+nelating that
+away cry tangack, now savelled to see off my headulianc problems. 
+QURIN: Of crewar Keen geast the bunds, sir undard Forto one. However can for hears. Then you have to compets in quarter, for made. 
+TASHA: What it was golly edenty.
+
+(aw thister on estars chick another) 
+HANNAH: Not arfority. And the flins is Carmas are more strictirated. 
+TROI: In the down every bring zine. 
+TROI: It's in that when he mind leavic mech accidence and Yeall-. And you interride I
+mode thans
+amour to understand. 
+TASTI on use, I've notming that Setter water syupse, Mister Data. 
+(Picard leave 
+CRUSHER: I cught to despet, goming. Iccope
+informence I was get to priza in. There are obfied
+to failing
+demain. It was the fast bey to the obbout of Sucarlay to
+Saraway's came out as let cieculty to right through Talanny, per me to alliry is
+once i
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+FortI on the flactuint lysmeef. 
+Q: Howlechdens of my day. 
+WORF: I believe three to the that no fipht. Then I have passable on that madbark. 
+LAFORGE: Data, the sensor phocosely, the reacts. Then well the warphze. Do you munet
+boty to do Bochering I will have times herpend, it's stubilismatsing
+stuffal? And we may as a little
+figurally. 
+Engineering
+
+PICARD: One say, Compending. Here it negars the
+bellifiting of  CRUSHER: Isn't awake her. 
+PICARD: Okay. Let's like positility, sir.
+
+PICARD: Step in all offecific on 
+RIKER: I think you loaking the Selia. 
+PICARD: Engineering? 
+RO: There are no uncerface at the what ship times. 
+(very curiolist roodge) 
+RIKER OC: Synour Mister Cystal's wectly.
+Creide my Smortians in a slack. The cless of the everyon in mylong by his out on any practed. 
+WARF OCK: I'm lost this. 
+SATIE: Your conficult ughess with hilusely alive intalf. If you
+should have to do
+the empline Klingon. I want wonderf him that. 
+CRUSHER OC: (to ensorve of the Professer of son a
+
+--------------------
+Completed 0 minibatches of size 128x16384 characters
+Sampling characters from network given initialization "TITLE:
+Return of the Jedi
+"
+----- Sample 0 -----
+TITLE:
+Return of the Jedi
+
+FeNEL JucL. Mall, a mempression. I'll go the crew this an oyner. I couldn't get you? 
+Captain's log, locate 
+(viewsofd rioks sivial) 
+ESHEY: But they was a wown in wholan's well, be quile a franction? 
+RO: Commander, Captain, but the back the compenate freeze, Counsellor Betana to willing hum. 
+Labe younder the
+warquence inutes
+to exact the famion in the counsider
+for me. 
+Hickboy 
+VASH: It love a shuttlecraft metsight. Anterict is lovellor, Karien. I was there two basch time on
+attence.
+
+Cirguin and Data 
+(
+baif deable picalowing. 
+RAMMSIKOC: Captain. 
+RIKER: The carry when yes. Oh, I'd live me, warp sometiction seance one in your circlonaryone is myself? Can you tell on that! 
+LAFORGE: Data, there are you esceptes to be talking to get their challenge call. All he sot on the
+opering the Nettoph. 
+
+Asidan and
+
+RIKER: Something we guidand! No basely so. 
+CRUSHER: I have to duse so this? May To saviations have to consider 
+ATA: If you want about I am so. 
+PICARD: Just why? 
+PICARD: We'd
+
+----- Sample 1 -----
+TITLE:
+Return of the Jedi
+Officience. 
+LAFORGE: Afte. 
+PICARD: I very owhce oe point, pickly? Never mealofly. 
+PULASKI: I can certain as I recond? 
+DATA: You look at
+right. Shey. I'd so on of stailosic perhaps. I am not make. 
+PICARD: What you mush always over those our signal being his his voso the one.
+
+Bridge
+
+PICARD: No, Captain Captain. 
+PURSSSIA: Then they're leave power to her, but now no it carea had spocks. May I supposes
+for you. 
+ROBIC: AR Well I going to remain I mean learns. Probm
+the judgments pumal chactes. 
+(shoyg-time point are into challeged thrangs opensime) 
+CRUSHER: A compenent did not. 
+HANNAS: As show no at Junfess.
+PULASKI: Ansce a new tappes to well. Itlector. 
+WORF: Twe procided. Reveren Star shuttlecral deflemation, after I are might, he do? 
+TROI: Too font a dishapips this thing to be able to three, the entered flices. 
+PICARD: Are, backing scan people whatevaice has been eonime. It's never her this uninging your power bond, anwaymed only an mo)
+
+MIGAR: Beam him? 
+PICARD: Mort tay, i
+
+----- Sample 2 -----
+TITLE:
+Return of the Jedi
+Krow is just be ready near on us. Masm at that
+arayon's much calcriear thun your face) 
+TASHA: That's you the same computer who signs. 
+(Riker) 
+TAMELON: Becomate, Commander.
+
+Briggo
+
+ELSEBS: Mister Data? 
+DATA 2: She will certain to on the interation. 
+DATA: The Conuitial Two tounce I certoinge phaser privon, but I thank you. Seer impression the astem. Not mahablike. You're
+ready unful anywhere we're girding the contromius, and we're
+going in atthing. In the
+boy, it join you are a stop on Enters. Okay. I thurt you've home to one. I
+could wenter to hear the safe,
+when you gate.
+
+Engineering 
+MENDAK on veays Chan's refrist Torathon could we
+will be in that's a person he life. I the acced cectaity is iniancwoure you anwaye, but in a unlark when I'm lost the bal from Sirmorf turble pays
+himawora. 
+PUTAS: I way as will have to hold Torin. 
+RIKER: Wesure? 
+TROI: Thank it? 
+CRUSHER: I suggest, and it would spee to staying the door and the
+bit totacked myself.
+
+Bridge
+
+PICARD: How was you. 
+N
+

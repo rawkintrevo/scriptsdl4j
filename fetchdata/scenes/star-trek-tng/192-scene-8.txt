@@ -1,0 +1,37 @@
+DATA LAFORGE SUSANNA
+arrival sort commonality log able cross air start command
+
+[Bridge]
+
+(science station LCARS 40274)
+DATA: During microscopic examination of the torn uniform, I discovered
+these alien skin cells. 
+SUSANNA: Source? 
+DATA: Undetermined. 
+LAFORGE: Without something else to cross-reference, it would take us
+weeks to try and identify them. 
+DATA: Fortunately, we have more evidence. We were able to determine
+that these footprints found near the shuttle were not made by any known
+Tarchannen life form. 
+SUSANNA: If we're pursuing a theory that somehow unknown aliens are
+involved, I think I should tell you that we didn't find tracks like
+that during the original investigation. 
+DATA: The planet is subject to frequent sandstorms. Footprints might
+have been obliterated prior to your arrival. Doctor Crusher and I will
+begin to search the medical database in an attempt to match these with
+some known life form.
+
+[Turbolift]
+
+SUSANNA: Aliens or no aliens, why would our people
+start returning after five years, to be abducted? 
+LAFORGE: Some sort of compulsion like a post-hypnotic command? 
+SUSANNA: Something that happened while we were down there the first
+time? 
+LAFORGE: We can go back to the mission record, construct a log of
+everyone's movements. 
+SUSANNA: Look for some commonality, something we all touched. Maybe a
+plant, or the sand. 
+LAFORGE: Or even something we ingested. It could even be in the air
+itself.
+

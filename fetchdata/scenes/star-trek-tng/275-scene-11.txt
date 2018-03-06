@@ -1,0 +1,98 @@
+PICARD [OC] RIKER LAFORGE PICARD LAFORGE [OC] DATA
+connections blown dangerous effect pieces jump easy attempted difficult
+
+[Bridge]
+
+LAFORGE [OC]: If you want us to stop, I'll have to
+do an emergency core shutdown. 
+RIKER: That would leave us without warp power for more than a week. 
+PICARD: Begin the procedure, Mister La Forge. 
+(another jolt) 
+DATA: We are no longer at warp, sir. Impulse power has resumed. All
+systems show normal. 
+RIKER: Where are we? 
+DATA: We are approximately thirty billion kilometres from our original
+position. 
+PICARD: Well done, Mister La Forge. 
+[Engineering]
+
+LAFORGE: It wasn't me. I didn't have time to
+complete the shut-down procedure. 
+PICARD [OC]: Well, I want an explanation
+
+[Bridge]
+
+PICARD: Mister La Forge. Picard out. 
+(later at the science station) 
+PICARD: Have you found anything yet? 
+LAFORGE: Only that we seem to have more than one mystery here. We still
+don't know why the ship jumped into warp, but it looks like we're lucky
+it did. There was a theta flux distortion building up around the ship. 
+PICARD: Why didn't our sensors alert us? 
+LAFORGE: Our sensors were never designed to detect theta flux
+distortions. And yet there is a record of the distortion in the sensor
+log. That's the other mystery. 
+DATA: One fact is clear, however. The distortion was growing in
+strength. If we had remained at our original position one point seven
+seconds longer, the distortion would have ruptured our warp core. 
+LAFORGE: If the Enterprise hadn't jumped into warp when it did, we
+would've been blown to pieces.
+
+[Jefferies tube]
+
+LAFORGE: I just don't get it, Data. What would
+cause the engines to suddenly jump into warp? 
+DATA: Perhaps the engines were activated by a random power fluctuation.
+
+LAFORGE: Which occurred just in time to save the ship? 
+DATA: It is improbable, but it is possible. 
+LAFORGE: I don't know. I don't think I'm ready to start believing in
+luck. 
+(they stop by an access panel) 
+DATA: There is another possibility. 
+LAFORGE: Yeah, what's that. 
+DATA: The sensors apparently detected a dangerous anomaly that
+threatened the Enterprise. It is possible that they triggered a safety
+device which caused the ship to avoid destruction. 
+LAFORGE: Yeah, but there's no direct link between the warp engines and
+the sensors. 
+(they open the panel) 
+LAFORGE: Whoa. What is that? It's some kind of new circuit node and
+it's connected to at least half a dozen points in the sensor array. 
+DATA: It appears to be connected to several other systems as well,
+including the warp control circuits. 
+LAFORGE: I guess there's a connection between the warp engines and the
+sensors after all. 
+(a forcefield blocks access to the node) 
+LAFORGE: A force field. Where did that come from? 
+DATA: I am not certain. Perhaps it came from the node itself. 
+LAFORGE: Well, wherever it came from, it sure doesn't want us messing
+with this node. 
+DATA: It appears to be protecting itself.
+
+[Engineering]
+
+LAFORGE: We found these nodes in several systems
+around the ship. At some level or another, they're all connected. 
+DATA: These nodes were linking the sensors to our warp control and
+defensive systems. We believe this is why the ship jumped to warp. 
+LAFORGE: When the sensors detected danger, the defensive systems
+reacted to the threat and activated the warp engines to protect us. 
+RIKER: Where did these nodes come from? 
+DATA: It is possible that the magnascopic storm we recently experienced
+had an unexpected effect on the ship's systems. 
+LAFORGE: Wherever they come from, they seem to be multiplying. 
+DATA: As they increase, it will become progressively more difficult to
+control the ship. 
+RIKER: What do you propose we do? 
+LAFORGE: Well, getting rid of them isn't going to be so easy. When we
+attempted to examine the circuitry of one of the nodes, it generated a
+force field to keep us out. 
+RIKER: Whatever's going on. our first priority is getting back control
+of the ship. 
+DATA: Agreed. All of the nodal connections intersect in holodeck three.
+It appears to be a focal point of some kind. 
+LAFORGE: We might be able to find a way to use the holodeck circuitry
+to disable the nodes permanently. 
+RIKER: All right. Let's do it.
+
