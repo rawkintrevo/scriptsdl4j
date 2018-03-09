@@ -49,15 +49,17 @@ import org.deeplearning4j.ui.storage.InMemoryStatsStorage
 object App {
   @throws[Exception]
   def main(args: Array[String]) {
-    val lstmLayerSize = 256                    //Number of units in each LSTM layer
-    val miniBatchSize = 256 // 256, but keep increments of 32, maybe 64(2056) next  //Size of mini batch to use when  training
-    val exampleLength = 1024 //65536/8  // ~8k  // and episode ~ 30k e.g. devide by 2   //Length of each training example sequence to use. This could certainly be increased
-    val tbpttLength = 256                        //Length for truncated backpropagation through time. i.e., do parameter updates ever 50 characters
+    val lstmLayerSize = 1024                    //Number of units in each LSTM layer
+    val miniBatchSize = 128 // 256, but keep increments of 32, maybe 64(2056) next  //Size of mini batch to use when  training
+    val exampleLength = 1022 //65536/8  // ~8k  // and episode ~ 30k e.g. devide by 2   //Length of each training example sequence to use. This could certainly be increased
+    val tbpttLength = 128                        //Length for truncated backpropagation through time. i.e., do parameter updates ever 50 characters
     val numEpochs = 1000                           //Total number of training epochs
-    val generateSamplesEveryNMinibatches = 5000   //How frequently to generate samples from the network? 1000 characters / 50 tbptt length: 20 parameter updates per minibatch
+    val generateSamplesEveryNMinibatches = 1000   //How frequently to generate samples from the network? 1000 characters / 50 tbptt length: 20 parameter updates per minibatch
     val nSamplesToGenerate = 1                  //Number of samples to generate after each training epoch
     val nCharactersToSample = 1024               //Length of each sample to generate
-    val generationInitialization = "LAFORGE DATA TROI RIKER\ndream power puppy adult happy blue friends apache starfleet\n"         //Optional character initialization; a random character is used if null
+    val generationActors = Array("LAFORGE", "DATA", "TROI", "RIKER")
+    val generationInitialization = "Stardate"         //Optional character initialization; a random character is used if null
+    val learningRate = 0.1
     // Above is Used to 'prime' the LSTM with a character sequence to continue/complete.
     // Initialization characters must all be in CharacterIterator.getMinimalCharacterSet() by default
     val rng = new Random(12345)
@@ -82,8 +84,9 @@ object App {
     //Set up network configuration:
     val conf: MultiLayerConfiguration = new NeuralNetConfiguration.Builder()
       //      .updater(new RmsProp.Builder().learningRate(0.1).build())
-      .optimizationAlgo(OptimizationAlgorithm.STOCHASTIC_GRADIENT_DESCENT).iterations(1)
-      .learningRate(0.1)
+      .optimizationAlgo(OptimizationAlgorithm.STOCHASTIC_GRADIENT_DESCENT)
+      .iterations(1)
+      .learningRate(learningRate)
       .seed(12345)
       .regularization(true)
       .l2(0.001)
@@ -94,9 +97,9 @@ object App {
         .activation(Activation.TANH).build())                                   // see https://deeplearning4j.org/quickref
       .layer(1, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
         .activation(Activation.TANH).build())
-      .layer(2, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
-        .activation(Activation.TANH).build())
-      .layer(3, new RnnOutputLayer.Builder(LossFunction.MCXENT)
+//      .layer(2, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
+//        .activation(Activation.TANH).build())
+      .layer(2, new RnnOutputLayer.Builder(LossFunction.MCXENT)
         .activation(Activation.SOFTMAX)  //MCXENT + softmax for classification
         .nIn(lstmLayerSize).nOut(nOut).build())
       .backpropType(BackpropType.TruncatedBPTT).tBPTTForwardLength(tbpttLength).tBPTTBackwardLength(tbpttLength)
@@ -110,12 +113,13 @@ object App {
     println("network initialized")
     net.setListeners(new StatsListener(statsStorage))
     // surf to http://localhost:9000/train
-    //net.setListeners(new ScoreIterationListener(1))
+
     println("StatsListener initialized")
-    //Print the  number of parameters in the network (and for each layer)
+
     val layers = net.getLayers
     var totalNumParams = 0
     println("summary statistics on inputs:")
+    println("input layer size: " + iter.inputColumns)
     for (i <- layers.indices) {
       val nParams = layers(i).numParams
       println("Number of parameters in layer " + i + ": " + nParams)
@@ -127,19 +131,17 @@ object App {
     var miniBatchNumber = 0
     var i = 0
     for (i <- 0 until numEpochs) {
-      // val iter = getIterator(miniBatchSize, exampleLength)
       while (iter.hasNext) {
         val ds = iter.next
         net.fit(ds)
-//        miniBatchNumber += 1
-
       }
-//      if (miniBatchNumber % generateSamplesEveryNMinibatches == 0) {
         println("--------------------")
         println("Completed Epoch" + i + " samples of size " + iter.totalExamples + "x" + exampleLength + " characters")
         println("Sampling characters from network given initialization \"" +
           (if (Option(generationInitialization).isEmpty) "" else generationInitialization) + "\"")
-        val samples = sampleCharactersFromNetwork(generationInitialization, net, iter, rng, nCharactersToSample, nSamplesToGenerate)
+        val samples = sampleCharactersFromNetwork(generationInitialization,
+                                                  generationActors,
+                                                  net, iter, rng, nCharactersToSample, nSamplesToGenerate)
         for (j <- samples.indices) {
           println("----- Sample " + j + " -----")
           println(samples(j))
@@ -159,20 +161,9 @@ object App {
     */
   @throws[Exception]
   def getIterator(miniBatchSize: Int, sequenceLength: Int): CharFileIterator = {
-    //The Complete Works of William Shakespeare
-    //5.3MB file in UTF-8 Encoding, ~5.4 million characters
-    //https://www.gutenberg.org/ebooks/100
-//    val url = "https://s3.amazonaws.com/dl4j-distribution/pg100.txt"
-//    val tempDir = System.getProperty("java.io.tmpdir")
-//    val fileLocation = tempDir + "/Shakespeare.txt" //Storage location from downloaded file
+
     val fileLocation = "/home/rawkintrevo/gits/scriptsdl4j/fetchdata/scenes/star-trek-tng"
     val f = new File(fileLocation)
-//    if (!f.exists) {
-//      FileUtils.copyURLToFile(new URL(url), f)
-//      println("File downloaded to " + f.getAbsolutePath)
-//    } else {
-//      println("Using existing text file at " + f.getAbsolutePath)
-//    }
     if (!f.exists) throw new IOException("File does not exist: " + fileLocation) //Download problem?
     val validCharacters: Array[Char] = CharFileIterator.getDefaultCharacterSet //Which characters are allowed? Others will be removed
     new CharFileIterator(fileLocation, Charset.forName("UTF-8"), miniBatchSize, sequenceLength, validCharacters, new Random(12345))
@@ -187,7 +178,13 @@ object App {
     * @param net                MultiLayerNetwork with one or more GravesLSTM/RNN layers and a softmax output layer
     * @param iter               CharacterIterator. Used for going from indexes back to characters
     */
-  private def sampleCharactersFromNetwork(_initialization: String, net: MultiLayerNetwork, iter: CharFileIterator, rng: Random, charactersToSample: Int, numSamples: Int): Array[String] = {
+  private def sampleCharactersFromNetwork(_initialization: String,
+                                          _initActors: Array[String],
+                                          net: MultiLayerNetwork,
+                                          iter: CharFileIterator,
+                                          rng: Random,
+                                          charactersToSample: Int,
+                                          numSamples: Int): Array[String] = {
     //Set up initialization. If no initialization: use a random character
     val initialization = if (_initialization == null) {
       String.valueOf(iter.getRandomCharacter)
@@ -199,6 +196,10 @@ object App {
       val idx = iter.convertCharacterToIndex(init(i))
       for (j <- 0 until numSamples) {
         initializationInput.putScalar(Array[Int](j, idx, i), 1.0f)
+        // Add Actors
+        for (a <- _initActors) {
+          initializationInput.putScalar(Array[Int](j, iter.validCharacters.length + iter.actorToIdxMap(a), i), 1.0f)
+        }
       }
     }
     val sb = mutable.ArrayBuffer.empty[StringBuilder]
@@ -222,7 +223,12 @@ object App {
           outputProbDistribution(j) = output.getDouble(s, j)
         }
         val sampledCharacterIdx = sampleFromDistribution(outputProbDistribution, rng)
-        nextInput.putScalar(Array[Int](s, sampledCharacterIdx), 1.0f) //Prepare next time step input
+        //Prepare next time step input
+        nextInput.putScalar(Array[Int](s, sampledCharacterIdx), 1.0f)
+        // Add Actors
+        for (a <- _initActors) {
+          nextInput.putScalar(Array[Int](s, iter.validCharacters.length + iter.actorToIdxMap(a)), 1.0f)
+        }
         sb(s).append(iter.convertIndexToCharacter(sampledCharacterIdx)) //Add sampled character to StringBuilder (human readable output)
       }
       output = net.rnnTimeStep(nextInput) //Do one time step of forward pass

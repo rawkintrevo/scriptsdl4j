@@ -1,5 +1,4 @@
-PICARD [OC] RIKER LAFORGE DATA [OC] TASHA LAFORGE [OC] BENSEN LUISA DATA
-body set laser malencon ahead servomotor master seen come
+RIKER LAFORGE TASHA PICARD BENSEN LUISA DATA
 
 [Hydraulics room]
 

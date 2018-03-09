@@ -1,17 +1,8 @@
 
 import os
-
+from common_fns import getCharacters
 
 MIN_SCENE_LEN = 1024
-
-def getCharacters(scene):
-    # setting = scene[0].strip()
-    characters = []
-    for l in scene:
-        if ":" in l:
-            characters.append(l.split(":")[0])
-        characters = list(set(characters))
-    return characters
 
 # for modeling an entire script / act
 def getTextOnly(script):
@@ -91,11 +82,12 @@ for i_f in range(0, len(files)):
         sceneText = getTextBySpeakerLine(scene)
         scene.split("\n")
         characters = " ".join(getCharacters(scene.split("\n")))
-        topics = ""
-        try:
-            topics = " ".join(list(set(" ".join(extractTopics(sceneText, use="lda", no_features=len(" ".join(sceneText))/2, no_topics= 3, no_top_words=3, max_df=1, min_df=1)).split(" "))))
-        except:
-            print("unable to create topics in episode %s scene %i.  Text:\n%s" % (files[i_f], s_i, "".join(scene)))
+        # topics = ""
+        # try:
+        #     topics = " ".join(list(set(" ".join(extractTopics(sceneText, use="lda", no_features=len(" ".join(sceneText))/2, no_topics= 3, no_top_words=3, max_df=1, min_df=1)).split(" "))))
+        # except:
+        #     print("unable to create topics in episode %s scene %i.  Text:\n%s" % (files[i_f], s_i, "".join(scene)))
         with open(scene_dir + "/" + files[i_f].replace(".txt", "") + "-scene-%i.txt" % s_i , "wb") as fout:
-            fout.write(characters + "\n" + topics + "\n\n" + "".join(scene) )
+            # fout.write(characters + "\n" + topics + "\n\n" + "".join(scene) )
+            fout.write(characters + "\n\n" + "".join(scene) )
 

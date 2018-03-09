@@ -308,4 +308,69 @@ val nCharactersToSample = 1024               //Length of each sample to generate
 val generationInitialization = "LAFORGE DATA TROI RIKER\ndream power puppy adult happy blue friends apache starfleet\n"
 ```    
 
+#v17
+
+cuDNN is working- seeing 2.5x speed up.
+
 3500MB on GPU
+
+Best (and "longest")run yet- around score 171 (iter 25k) conversations start becoming coherent- see epoch 298
+
+Need to start saving output.
+
+Around epoch 500, less coherent conversations, more spelling errors, etc.
+
+At 1000 epochs, still babbly.  Introduce word2vec. 
+
+Results: 
+- unable to determine characters, though it does seem that it was taking sugguestions.
+- coherent thought, still not really happening. (Even with 256 tbptt)
+
+#v18
+
+- Redoing character detection (removing `[on viewscreen]` etc. and `TROI + PULASKI` )
+- removing topics (will come back later, want to focus on character sugguestions first)
+- OOM Errors on initial setup:
+
+```scala
+val lstmLayerSize = 1024                    //Number of units in each LSTM layer
+val miniBatchSize = 256 // 256, but keep increments of 32, maybe 64(2056) next  //Size of mini batch to use when  training
+val exampleLength = 1024 //65536/8  // ~8k  // and episode ~ 30k e.g. devide by 2   //Length of each training example sequence to use. This could certainly be increased
+val tbpttLength = 128                        //Length for truncated backpropagation through time. i.e., do parameter updates ever 50 characters
+val numEpochs = 1000                           //Total number of training epochs
+val generateSamplesEveryNMinibatches = 5000   //How frequently to generate samples from the network? 1000 characters / 50 tbptt length: 20 parameter updates per minibatch
+val nSamplesToGenerate = 1                  //Number of samples to generate after each training epoch
+val nCharactersToSample = 1024               //Length of each sample to generate
+val generationActors = Array("LAFORGE", "DATA", "TROI", "RIKER")
+val generationInitialization = "Stardate"    
+```
+
+- reduced minibatch to 128, dropped 3rd layer
+
+```scala
+val lstmLayerSize = 1024                    //Number of units in each LSTM layer
+val miniBatchSize = 128 // 256, but keep increments of 32, maybe 64(2056) next  //Size of mini batch to use when  training
+val exampleLength = 1024 //65536/8  // ~8k  // and episode ~ 30k e.g. devide by 2   //Length of each training example sequence to use. This could certainly be increased
+val tbpttLength = 128                        //Length for truncated backpropagation through time. i.e., do parameter updates ever 50 characters
+val numEpochs = 1000                           //Total number of training epochs
+val generateSamplesEveryNMinibatches = 5000   //How frequently to generate samples from the network? 1000 characters / 50 tbptt length: 20 parameter updates per minibatch
+val nSamplesToGenerate = 1                  //Number of samples to generate after each training epoch
+val nCharactersToSample = 1024               //Length of each sample to generate
+val generationActors = Array("LAFORGE", "DATA", "TROI", "RIKER")
+val generationInitialization = "Stardate"  
+```
+
+- notes:  doing awesome at character selection.
+- apparently stopped writing output somewhere along the way...
+
+# v19
+
+- Added layer back in
+GPU MEM - 3950MB
+
+- 4 layers- having a hard time learning names/words, score is ~8 but having issues with spelling, actor selection
+
+#v20
+
+- dropped back to 3 layers- lower lr
+- hit minimum (score 10) around iter 10k, then flat lined, and eventaully got worse

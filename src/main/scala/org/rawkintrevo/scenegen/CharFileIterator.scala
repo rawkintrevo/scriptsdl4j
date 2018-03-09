@@ -40,6 +40,7 @@ object CharFileIterator {
       Array('@', '#', '$', '%', '^', '*', '{', '}', '[', ']', '/', '+', '_', '\\', '|', '<', '>')
   }
 
+
 }
 
 
@@ -55,10 +56,11 @@ object CharFileIterator {
 @throws[IOException]
 class CharFileIterator(
                          val textFilePath: String,
-                         val textFileEncoding: Charset, //Size of each minibatch (number of examples)
-                         var miniBatchSize: Int, //Length of each example/minibatch (number of characters)
-                         var exampleLength: Int, //Valid characters
-                         var validCharacters: Array[Char], var rng: Random
+                         val textFileEncoding: Charset,
+                         var miniBatchSize: Int, //Size of each minibatch (number of examples)
+                         var exampleLength: Int, //Length of each example/minibatch (number of characters)
+                         var validCharacters: Array[Char], //Valid characters
+                         var rng: Random
                        ) extends DataSetIterator {
 
   if (!new File(textFilePath).exists)
@@ -83,6 +85,7 @@ class CharFileIterator(
     val lines: util.List[String] = Files.readAllLines(new File(textFilePath).toPath, textFileEncoding)
     val maxSize: Int  = lines.size + lines.asScala.map(_.length).sum //add lines.size() to account for newline characters at end of each line
     val characters = new Array[Char](maxSize)
+
     var currIdx: Int = 0
 
     for (s <- lines.asScala) {
@@ -104,7 +107,6 @@ class CharFileIterator(
       util.Arrays.copyOfRange(characters, 0, currIdx)
     }
 
-    // TODO Pad This
     if (exampleLength >= fileCharacters.length)
       throw new IllegalArgumentException("exampleLength=" + exampleLength +
         " cannot exceed number of valid characters in file (" + fileCharacters.length + ")")
@@ -153,7 +155,16 @@ class CharFileIterator(
   def next: DataSet =
     next(miniBatchSize)
 
-//  private var cursorPos = 0
+  val allActorsTextFilePath = "/home/rawkintrevo/gits/scriptsdl4j/fetchdata/scripts/tng-all-chars.txt"
+  val validActors: Array[String] = Files.readAllLines(new File(allActorsTextFilePath).toPath, textFileEncoding)
+    .toArray()
+    .map(_.toString)
+
+
+  val actorToIdxMap: Map[String, Int] =
+      validActors.indices.map({ i => (validActors(i), i)}).toMap
+
+
 
   def next(num: Int): DataSet = {
     if (exampleStartOffsets.size == 0) throw new NoSuchElementException
@@ -165,22 +176,27 @@ class CharFileIterator(
     // dimension 1 = size of each vector (i.e., number of characters)
     // dimension 2 = length of each time series/example
     //Why 'f' order here? See http://deeplearning4j.org/usingrnns.html#data section "Alternative: Implementing a custom DataSetIterator"
-    val input = Nd4j.create(Array[Int](currMinibatchSize, validCharacters.length, exampleLength), 'f')
+    val input = Nd4j.create(Array[Int](currMinibatchSize, validCharacters.length + validActors.length, exampleLength), 'f')
     val labels = Nd4j.create(Array[Int](currMinibatchSize, validCharacters.length, exampleLength), 'f')
-//    print("remaining exampleStartOffsets: " + exampleStartOffsets.size() + "\n")
+
     for (i <- 0 until currMinibatchSize) {
-//      cursorPos = i
+
 
       val startIdx = exampleStartOffsets.removeFirst()
-//      val endIdx = startIdx + exampleLength
-//      val fileCharacters = allChars(startIdx)
-      var currCharIdx = charToIdxMap(allChars(startIdx)(0))
+
+      // Get the actors for this scene
+      val sceneLines = allChars(startIdx).mkString("").split("\n")
+      val actors = sceneLines(0).split(" ")
+      val scriptData: Array[Char] = sceneLines.slice(1, sceneLines.length).mkString("\n").toCharArray
+      var currCharIdx = charToIdxMap(scriptData(0))
       //Current input
       var c: Int = 0
-//      for (j <- startIdx + 1 until endIdx) {
       for (j <- 1 until exampleLength) {
-        val nextCharIdx = charToIdxMap(allChars(startIdx)(j)) //Next character to predict
+        val nextCharIdx = charToIdxMap(scriptData(j)) //Next character to predict
         input.putScalar(Array[Int](i, currCharIdx, c), 1.0)
+        for (a <- actors) {
+          input.putScalar(Array[Int](i, validCharacters.length + actorToIdxMap(a), c), 1.0)
+        }
         labels.putScalar(Array[Int](i, nextCharIdx, c), 1.0)
         currCharIdx = nextCharIdx
         c += 1
@@ -193,7 +209,7 @@ class CharFileIterator(
     allChars.length
 
   def inputColumns: Int =
-    validCharacters.length
+    validCharacters.length + validActors.length
 
   def totalOutcomes: Int =
     validCharacters.length
