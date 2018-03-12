@@ -1,35 +1,43 @@
-RIKER KMTAR WORF
+KMTAR GUEST1 WORF ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Maranga Outpost]
 
-WORF: He is gin'tak to the house of Mogh. 
-RIKER: Gin'tak? 
-WORF: An advisor so trusted that he is become part of a family. 
-RIKER: Do you have any idea who was behind the attack? 
-K'MTAR: It is a Klingon matter. It is not your concern. 
-RIKER: One of my officers was almost killed. That makes it my concern. 
-K'MTAR: Recently, rumours began to circulate on the homeworld that an
-assassination attempt was going to be made on the family of Mogh. Kurn
-sent me here to make sure nothing happened to Worf. 
-RIKER: Why didn't you warn him before the attack was made? 
-K'MTAR: I tried to contact him over subspace. I was told he was not
-aboard. I decided to beam directly to the surface. 
-RIKER: Why didn't you let us know about it? 
-K'MTAR: Forgive me for being blunt, Commander, but when it comes to
-protecting the house to which I have pledged my life, I trust no one. 
-WORF: I have full confidence in the officers with whom I serve. One of
-the attackers dropped this dagger. The design represents the house of
-Duras. 
-K'MTAR: We have other evidence that indicates the Duras sisters, Lursa
-and B'Etor, were behind the attack. 
-RIKER: What do you think they were after? 
-K'MTAR: Kurn's seat on the Council, of course. 
-WORF: We can not allow their attack on our house to go unanswered. 
-K'MTAR: First, we must to find them. 
-RIKER: At one point they were at Deep Space Nine, trying to sell
-bilitrium explosives. 
-K'MTAR: That was months ago. No one knows where they went from there. 
-RIKER: Maybe we can find them. We've arranged for quarters on the ship,
-if you'd like to stay. 
-K'MTAR: I would. Worf and I have much to discuss.
-
+(night, and Worf is waiting for Alexander, who
+comes running) 
+ALEXANDER: Father. 
+WORF: Where have you been? 
+ALEXANDER: We were watching the fire dancers. 
+WORF: We? 
+ALEXANDER: K'Nor and Bar'el. They live here on the outpost. I need some
+money. 
+WORF: What for? 
+ALEXANDER: The man over there says he's got Molor's head in a box. The
+real Molor. 
+WORF: That is impossible. The real Molor died centuries ago. 
+ALEXANDER: I know. It's mummified. He offered to show us for fifty
+darseks. 
+WORF: He is trying to take your money. 
+ALEXANDER: Please, Father. He's waiting. 
+WORF: No. It is late. We should go home. 
+ALEXANDER: But 
+(they are watched by a mysterious stranger) 
+WORF: Alexander, that is enough. Come, it is time to go. 
+ALEXANDER: I have to say goodbye to my friends. 
+WORF: You can see your friends again tomorrow. 
+ALEXANDER: We're coming back? 
+WORF: If you want to. 
+(three Klingons surround them and draw their daggers) 
+GUEST1: Hi'jak beh. 
+(the mysterious stranger fires a disrupter and startles the attackers) 
+WORF: Run, Alexander. 
+(Worf takes on the three robbers, and the stranger only intervenes to
+stop one getting knife to stab him in the back) 
+K'MTAR: Ni'tokor bak'to! 
+(the robbers run off) 
+K'MTAR: Q'apla, Worf. You are too much for them. 
+WORF: I have seen you before. Who are you? 
+K'MTAR: A friend. 
+(he holds out his fist, displaying a ring) 
+WORF: Are you K'mtar. 
+K'MTAR: Your brother sent me here to protect you. 

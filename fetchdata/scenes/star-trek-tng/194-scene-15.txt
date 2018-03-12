@@ -1,52 +1,54 @@
-TROI WORF PICARD VASH RIKER NURSE DATA SIRGUY
+VASH LAFORGE PICARD RIKER Q GUEST0 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Marian's chambers]
+[Castle courtyard]
 
-NURSE: Oh, you'll wear yourself out with all that
-pacing, Milady. 
-VASH: I told you to stop calling me that. The name's Vash. 
-NURSE: My poor lamb. You've got a brain sickness for sure. Can't I get
-you something to ease your suffering? 
-VASH: I could use a drink. 
-NURSE: Well, I wasn't thinking of spirits, Milady, but I have some nice
-fresh leeches. To drain the fever. 
-VASH: Out. Get out. 
-NURSE: Oh, her mind's in an awful turmoil, Sir Guy. 
-VASH: Who the hell are you? 
-NURSE: Milady, everyone in Nottingham knows, Sir Guy of Gisbourne. 
-VASH: Sir Guy of what? 
-SIR GUY: Leave us. 
-(the nurse leaves) 
-SIR GUY: Do not mock me, Lady Marian. I'm prepared to offer you one
-last chance to change your mind. Will you marry me? 
-(Vash slaps his face) 
-SIR GUY: I see. Then the execution will proceed as scheduled. 
-VASH: What execution? 
-SIR GUY: I warn you, Marian, this pathetic attempt at feigning madness
-will not save your life. 
-VASH: You mean I'm the one being executed? Sir Guy, wait a minute.
-Couldn't we talk this over? I admit, I haven't been myself lately.
-Maybe we've both been a bit hasty? Please?
+(Four cowled monks walk in front of the camera. The
+headsman is ready at his block. The prisoners are escorted in.) 
+VASH: This whole thing is your fault. 
+PICARD: My fault? 
+VASH: Yes, your fault. 
+PICARD: If you hadn't grabbed my sword we'd be back in Sherwood by now.
 
-[Forest glade]
-
-(Geordi is still plucking at the instrument when
-Worf walks over, takes it off him and smashes it against a tree trunk) 
-WORF: Sorry. 
-(Troi is still learning to use a bow and arrow, She aims at a tree and
-hits Data instead) 
-TROI: Data, are you alright? 
-DATA: The arrow impacted just above my sixth intercostal support,
-penetrating my secondary subprocessor. Fortunately, none of my
-biofunctions seem affected. Do not be concerned, Counsellor. I believe
-your aim is improving. 
-RIKER: We've got to get out of here, Captain. 
-PICARD: Not we, Number One. I want you and the others to stay here
-until I return. 
-RIKER: You're not going to try to save her yourself, sir? 
-PICARD: This is not a mission. It's personal. It's between Q and
-myself. I don't want the rest of you involved. 
-RIKER: Captain! 
-PICARD: You have your orders, Commander. And I expect you to follow
-them.
+VASH: I grabbed your sword to prevent you from being killed. 
+PICARD: Oh, really? Not as a wedding present for Sir Guy? 
+VASH: You know I had no intention of going through with that. 
+PICARD: Do I? You should never have interfered. 
+VASH: You're the one interfering. 
+PICARD: I was just trying to rescue you. 
+VASH: Well next time don't bother. 
+PICARD: Don't you worry. I won't. 
+Q: Don't the two of you ever stop arguing? Now, tell me, Robin, as you
+stand here facing the termination of your insect existence, do you see
+what brought you to this end? Was she worth it? 
+PICARD: Can we just get this over with. 
+VASH: Are you implying that I'm not worth it? 
+PICARD: Q, your game was for my benefit. She is innocent in all of
+this. 
+Q: She is many things, none of them innocent. 
+PICARD: Let her go. 
+VASH: Jean-Luc, you do care. 
+Q: A gallant gesture, Robin, but a futile one. Farewell. I hope the two
+of you are happy together. 
+(the outlaws are in position) 
+SIR GUY: You have been found guilty of outlawry and high treason. Do
+you have anything to say before sentence is carried out? 
+VASH: I. (shakes head) 
+SIR GUY: Prepare them for the block. 
+GUEST0: Off with their heads. 
+LAFORGE: There are too many of them. 
+RIKER: Data, we need a diversion, now. 
+(Data takes something from his forearm and throws it into a fire as
+Picard's head goes down onto the block. The axe is raised, there's a
+boom, and the fight starts) 
+SIR GUY: Guards! Take Marian to the tower. 
+(Vash disposes of one guard, but the other takes her inside) 
+SIR GUY: I'll have you know I'm the greatest swordsman in all of
+Nottingham. 
+(Guy and Picard duel. Worf and Geordi kill guards while Beverly and
+Deanna smash crockery over heads) 
+PICARD: Very impressive. There's something you should know. 
+SIR GUY: And what would that be? 
+PICARD: I'm not from Nottingham. 
+(and he runs Guy through on the stairs)
 

@@ -1,57 +1,53 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+VOICE PICARD TROI CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Sickbay]
 
-DATA: After analysing the sensor logs of the
-Brittain and the Enterprise, as well as the data from the last series
-of probes, I conclude that we have become trapped in a massive rupture
-in space, into which energy is absorbed. 
-PICARD: You mean a Tyken's rift. 
-CRUSHER: A what? 
-DATA: A rare anomaly named after Bela Tyken, the Melthusian captain who
-first encountered it. 
-LAFORGE: Tyken's rift. That would explain why we don't have engine
-power. 
-DATA: The ship's energy is being drained into the fissure before we can
-utilise it. 
-(Worf enters) 
-WORF: I was detained. 
-DATA: When Tyken was trapped in the rift, his analysis determined that
-a massive energy release might overload and dislocate the anomaly.
-Fortunately, his cargo included anicium and yurium, which he used to
-detonate the explosion. He then escaped through the ruptured centre of
-the rift. 
-LAFORGE: But we aren't carrying anything that could produce that kind
-of explosion. Not even our photon torpedoes would be enough. 
-RIKER: Couldn't we replicate the elements that Tyken used? 
-DATA: No, sir. We no longer have the power to reproduce complex
-elements in the replicator. We must find a way to generate a violent
-energy release without using conventional means. 
-CRUSHER: Data, in Tyken's experience did the crew exhibit behavioural
-changes? 
-DATA: No. There were no reports of unusual conduct among the crew. 
-TROI: What about nightmares? 
-DATA: There were no records of sleep disturbances of any kind,
-Counsellor. 
-CRUSHER: Then, what is it? What's happening to us?
+CRUSHER: PGO signals steady. Visual cortex showing
+increased activity. Rapid eye movements commencing. Crusher to Bridge. 
+[Bridge]
 
-[Corridor]
+CRUSHER [OC]: She's in REM sleep. 
+DATA: Thank you, Doctor. Activating Bussard collectors. 
+(red hydrogen streams out into the rift) 
+[Nightmare]
 
-RIKER: The only one who doesn't seem affected by
-all this is Data. 
-[Turbolift]
+TROI: Where are you? 
+[Bridge]
 
-RIKER: Bridge. 
-PICARD: (looking old, drawn, tired) Number One, how? 
-RIKER: Sir? 
-PICARD: Any hallucinations, nightmares? 
-RIKER: No. I'd be a liar if I said I felt like myself. I've had to bite
-my tongue to keep from snapping at people. A couple of times, I've gone
-to my quarters and felt as if there was someone in there, waiting for
-me. 
-PICARD: I've had similar feelings. With everyone succumbing it's even
-more important that one of us attempt to keep control of his faculties.
-I want you to turn in, take a nap. I'll be on the Bridge. You can
-relieve me in four hours. 
-RIKER: Yes, sir. Deck eight. 
-(Riker leaves and Picard shudders) 
+DATA: Ninety seconds remaining.
+
+[Nightmare]
+
+VOICE: One moon circles. 
+TROI: Where are you? I have to find you. I have to tell you.
+
+[Bridge]
+
+DATA: Forty five seconds remaining.
+
+[Nightmare]
+
+VOICE: One moon. 
+TROI: Please, I must find you to tell you.
+
+[Bridge]
+
+DATA: Thirty seconds remaining.
+
+[Nightmare]
+
+VOICE: Eyes in the dark. One moon 
+(a figure surrounded by light appears) 
+[Bridge]
+
+DATA: Ten seconds remaining. 
+(and the hydrogen runs out) 
+PICARD: Nothing. No explosion. 
+DATA: The Counsellor was unsuccessful. 
+(then the firework display starts up on the viewscreen, and the lights
+come up to full strength) 
+PICARD: Activate impulse engines. 
+DATA: Engines activated, sir. 
+(As the Enterprise rushes away, another ship, mostly lights, flies in
+the opposite direction) 

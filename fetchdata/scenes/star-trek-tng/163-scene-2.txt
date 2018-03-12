@@ -1,31 +1,6 @@
-RIKER CREWMAN WORF TASHA PICARD WESLEY GUINAN DATA
+RIKER CREWMAN TASHA PICARD GUEST1 WESLEY GUINAN CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge] 
-PICARD: Analysis, Mister Data. 
-DATA: Sensors are reading gravimetric fluctuations, Captain. Most
-unusual ones. 
-RIKER: Unusual in what way? Specify? 
-DATA: Nothing I have seen before. 
-PICARD: Is it a wormhole? 
-DATA: Yes and no. Like a time displacement, but it does not have a
-discernible event horizon. 
-WESLEY: Sir, navigational subsystems are unable to give coordinates on
-the object. 
-DATA: Confirmed. The phenomenon does not have a definable centre or
-outer edge. 
-RIKER: Are you saying it is and yet it isn't there? 
-DATA: I do not have sufficient information to make an analysis as yet,
-Commander. The dynamics of the radiation patterns 
-WORF: Captain! Something's happening. A new change in sensor readings. 
-(Picard turns to face us, blocking our view of the back of the Bridge) 
-PICARD: Mister Data? 
-DATA: Scanning sensors) 
-(a ship emerges from the phenomenon, and things change. Picard's
-uniform grows a higher collar and the Bridge becomes slightly darker.
-People are wearing Sam Brownes) 
-PICARD: Lieutenant, what are their sensor readings? Is that an enemy
-vessel? 
-TASHA: I'm getting too much interference, Captain. 
 [Ten Forward]
 
 (Guinan's clothes are different, the place is noisy
@@ -35,3 +10,69 @@ at fifteen hundred hours. Doctor Joshua Campbell, report to station
 ops. Ensign Toms, please forward combat information. Ensign Thomas to
 CIC. 
 GUINAN: This isn't right. It's changed. 
+[Bridge]
+
+TASHA: It's clearing now, Captain. Definitely
+Federation starship. Accessing registry. 
+RIKER: Looks like they had a rough ride. 
+TASHA: NCC one seven oh one C. USS Enterprise.
+
+Military log, Combat date 43625.2. While
+investigating an unusual radiation anomaly, the Enterprise has
+encountered what could almost be called a ghost from its own past, the
+Enterprise-C, the immediate predecessor to this battleship.
+
+[Bridge]
+
+(Only the Captain has a centre chair. Riker has to
+lean on the rail) 
+DATA: Sensors confirm design and specifications, Captain. Analysis of
+hull and engine materials conform to engineering patterns and methods
+of that time period. 
+WESLEY: (in full Starfleet uniform) But that cruiser was destroyed with
+all hands over twenty years ago. 
+DATA: Presumed destroyed. The Enterprise C was last seen near the
+Klingon outpost Narendra Three exactly twenty two years, three months
+and four days ago. 
+RIKER: And now they're here. 
+PICARD: Has it been adrift for all those years, or has it has travelled
+through time? 
+DATA: It is a possibility, Captain. If that hypothesis is correct, the
+phenomenon we just
+encountered would be a temporal rift in space. 
+PICARD: A rift? 
+DATA: Possibly the formation of a Kerr loop from superstring material.
+It would require high-energy interactions
+occurring in the vicinity for such a structure to be formed. The rift
+is certainly not stable, Captain. It could collapse at any time. 
+TASHA: Captain. I'm able to scan the interior of the ship now, sir.
+Heavy damage to warp field nacelles and hull bearing struts. Internal
+space frame is... Life-signs, Captain! Readings are sporadic. It looks
+like they have massive casualties, but some are still alive. 
+RIKER: Bridge to Sickbay. Emergency teams, stand by transporter rooms. 
+CRUSHER [OC]: Understood. 
+PICARD: Belay that order, Doctor. 
+RIKER: Respectfully, if I may suggest regardless of where they came
+from, they are here now and they need our help. 
+PICARD: Commander, if that ship has travelled into the future, we could
+be dealing with variables that will alter the flow of our history. 
+TASHA: Enterprise C is sending out a distress call, sir. Audio only. 
+GUEST1 [OC]: This is Captain Garrett of the Starship Enterprise, to
+any Federation ship. We have been attacked by Romulan warships and
+require immediate assistance. We've lost warp drive. Life support is
+failing. 
+RIKER: There's no record of the Romulans ever assaulting the Enterprise
+C. 
+TASHA: Voice message has ended, Captain. I'm only receiving their
+automated distress signal now. 
+PICARD: Open a hailing frequency. This is Captain Jean-Luc Picard of
+the Federation, of a Federation starship. Standby to receive emergency
+teams. Commander, we will handle this one step at a time. Stabilise
+their power systems and tend to their injured, and avoid all
+discussions of where and when they are. 
+RIKER: Aye, sir. Lieutenant. 
+WESLEY: Captain, message coming in from Starfleet monitor stations.
+Klingon battlecruisers headed towards this sector. 
+PICARD: Battle alert, Mister Crusher. Condition Yellow. 
+WESLEY: Aye, sir. All decks report Condition Yellow.
+

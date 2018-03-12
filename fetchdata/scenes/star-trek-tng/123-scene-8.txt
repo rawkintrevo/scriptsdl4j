@@ -1,40 +1,41 @@
-RIKER WORF TASHA PICARD TJON WESLEY
+GUEST2 PICARD CRUSHER TJON GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-WESLEY: Unusual E-M burst, sir. Readings off scale.
+(Romas is suffering on a bed) 
+GUEST4: You find us well, I trust? 
+CRUSHER: As far as I can tell. Your physiology is somewhat different
+than I've ever encountered, but I detect no dangerous virus or
+bacteria. 
+GUEST2: I assure you we're in perfect health. 
+T'JON: But we are not. We need our medicine. 
+GUEST4: Our medicine. 
+T'JON: We paid for it. It's ours now. 
+CRUSHER: Enough! 
+GUEST4: Of course. You are right, Doctor. Could we leave now? 
+CRUSHER: I see no reason why not. Escort them to their quarters. 
+(Picard enters) 
+PICARD: Doctor. 
+GUEST2: Captain, could I speak with you please? In private. 
+CRUSHER: Not right now. Captain. 
+[Doctor's office]
 
-[Transporter room]
-
-RIKER: Freighter Sanction, this is the Enterprise.
-We're having difficulty getting a fix. 
-TASHA: Have them go to their own transporter room. It will be tricky,
-but perhaps I can link the two transporters in series
-and get them over with the increased power. 
-RIKER: It's worth a try. Captain T'Jon go to your transporter room.
-Contact me from there. 
-T'JON [OC]: Right, Enterprise. It's right next door. But if you can't
-get us with your transporter, what makes you think ours will do the
-job? 
-TASHA: I'm going to interconnect them. 
-T'JON [OC]: I didn't know you could do that. 
-TASHA: Hurry! We're running out of time. 
-T'JON [OC]: We're on our way. 
-TASHA: I don't think they're going to make it. 
-RIKER: Captain T'Jon doesn't sound like he cares one way or the other. 
-TASHA: Worf, how much time do we have? 
-WORF [OC]: One minute, twenty eight seconds. 
-TASHA: Captain T'Jon, are you there? 
-T'JON [OC]: We're in the transporter room. 
-TASHA: Great. Activate your transporter. Set coordinates nine seven
-zero three mark two six eight. 
-T'JON [OC]: Did you say two eight six or eight eight six. 
-TASHA: Mark two six eight! 
-T'JON [OC]: Got it.
-
-[Bridge]
-
-WORF: Sir, the hull temperature of the freighter is
-passing three thousand degrees. 
-PICARD: What's the hold up, Number One?
+PICARD: What have you learned? 
+CRUSHER: The Brekkians show no sign of infection. The Ornarans show all
+the symptoms of a disease but I can't find a cause. 
+PICARD: Perhaps it was filtered out by the transporter when they were
+beamed aboard? 
+CRUSHER: There's no record of it. Then again, the solar flare activity
+might have caused a malfunction in the biofilters or their monitors. 
+PICARD: Are they going to die? 
+CRUSHER: I need to check further, but my instinct says no. 
+PICARD: Do you think we are in danger from this plague? 
+CRUSHER: Again, I need more time. 
+PICARD: There are some missing pieces to this puzzle. 
+CRUSHER: What's missing is a little compassion. 
+PICARD: Are we losing our professional detachment, Doctor? 
+CRUSHER: Perhaps. But Captain, I must tell you, I'm developing a very
+active dislike for these Brekkians. 
+PICARD: Understandable.
 

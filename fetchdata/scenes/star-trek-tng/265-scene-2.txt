@@ -1,4 +1,5 @@
-VORIN KATERAS CRUSHER NIKOLAI WORF
+GUEST4 GUEST0 CRUSHER NIKOLAI WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
@@ -19,11 +20,11 @@ CRUSHER: Sounds intriguing. I look forward to meeting him.
 
 (Worf beams into an underground cavern complex and
 starts scanning) 
-VORIN: What are you doing here? You're not from our village. Who are
+GUEST4: What are you doing here? You're not from our village. Who are
 you? 
-KATERAS: (old man) Who is this? 
+GUEST0: (old man) Who is this? 
 WORF: My name is Worf. I am a traveller. 
-VORIN: How did you survive the storms? 
+GUEST4: How did you survive the storms? 
 NIKOLAI: (a thick-set man) I would know that voice anywhere. Worf, is
 it really you? It's good to see you. You've changed a lot in four
 years. 

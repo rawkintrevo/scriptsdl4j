@@ -1,91 +1,64 @@
-RIKER WOMAN LAFORGE WORF PICARD RASMUSSEN MOSELEY CRUSHER DATA
+TROI CRUSHER RASMUSSEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Rasmussen's quarters]
+[Sickbay]
 
-DATA: Is there a problem, Professor? 
-RASMUSSEN: I suppose it will have to do, for now. I'll get you a list
-of the things I'll be needing, okay? 
-DATA: Would I be correct, Professor, in assuming that you know whether
-or not I am still alive in the twenty sixth century? 
-(Rasmussen washes his hands and then holds them out for a towel. Data
-obliges) 
-DATA: Since you seemed to know so much about Captain Picard and the
-ship, I assumed that you would. 
-RASMUSSEN: It'd be best if you kept your assumptions to yourself,
-wouldn't it? 
-DATA: Yes, sir. Sorry, sir.
+(Beverly is treating an injured knee) 
+TROI: He's after more than a history lesson. I can tell you that. 
+CRUSHER: What is it? What are you getting from him? 
+TROI: I don't know. It's like he's trying to confuse us, misdirect us
+somehow. 
+(Rasmussen enters) 
+RASMUSSEN: There you are. Well, that certainly was exciting, wasn't it?
 
-Captain's log, stardate 45350.3. We have arrived at
-Penthara Four and can see for ourselves the atmospheric devastation
-caused by the asteroid impact.
-
-[Penthara science lab]
-
-(a lot of snow has fallen) 
-PICARD: We've located three underground pockets of carbon dioxide,
-here, here and here. Our drilling phasers can release enough of the gas
-to form an envelope which would temporarily hold in the heat of the
-sun. 
-MOSELEY: We've spend years, decades, trying to avoid anything that
-would lead to a greenhouse effect and now here we are about to create
-one on purpose. 
-LAFORGE: Less than twenty percent of your normal sunlight is getting
-through that dust, Doctor. If we can hold enough heat in with the CO2,
-that should give the planet time to mend itself. 
-WOMAN: Excuse me, Doctor Moseley. 
-MOSELEY: What now? 
-WOMAN: New Seattle's reporting a cloud depth of twelve kilometres. Two
-rivers, tropical rivers, are beginning to freeze. 
-MOSELEY: We'd better get started before there's nothing left to mend.
-
-[Ten Forward]
-
-(Rasmussen walks in and goes to the bar) 
-RIKER: Look who's here. 
-WORF: I hate questionnaires. 
-CRUSHER: Professor, come and join us. 
-RASMUSSEN: I hope I'm not intruding. 
-CRUSHER: Not at all. I'm sure you're the topic of conversation at every
-table in this room. 
-RASMUSSEN: As I promised, here are your assignments. I'm sure they'll
-be painless. Please try and complete them by tomorrow. 
-(hands out transparent chips, taking time to hold Beverly's hand while
-he does it) 
-WORF: Tomorrow? 
-RIKER: No problem, Professor. 
-RASMUSSEN: You're all very calm. 
-RIKER: Is there some reason we shouldn't be? 
-RASMUSSEN: History always records where people were, what they were
-doing, when important events took place. But it rarely remembers their
-activities say, a week before, or a day or even an hour. 
-WORF: Are you suggesting that an important event is imminent? 
-RASMUSSEN: I didn't say that, did I? Please, just go on doing what you
-were doing and pretend I'm not here. 
-RIKER: Why is there no record of other future historians travelling
-back to witness important events? 
-RASMUSSEN: We're obviously very careful. As a matter of fact, a
-colleague and I recently paid a call on a twenty second century vessel.
-
-CRUSHER: They hadn't perfected quarantine fields. You probably saw some
-surgical masks and gloves. 
-RASMUSSEN: Isn't it fascinating how everyone has different interests
-when it comes to history. Different perspectives on progress. 
-(Rasmussen opens a ring and looks inside) 
-RIKER: Would you mind telling me what that is? 
-RASMUSSEN: Just checking the time. No problem. 
-RIKER: Is something important supposed to be happening here? 
-RASMUSSEN: No, it's nothing, nothing. What about you, Commander? What
-do you see as the most important example of progress in the last two
-hundred years? 
-RIKER: I suppose the warp coil. Before there was warp drive, humans
-were confined to a single sector of the galaxy. 
-RASMUSSEN: Spoken like the consummate explorer. 
-RIKER: What is going on? Are you expecting someone? 
-WORF: Phasers. 
-RASMUSSEN: I beg your pardon? 
-WORF: There were no phasers in the 22nd century. 
-RASMUSSEN: Ah, you see, Doctor? Our Klingon friend is a perfect example
-of what I was trying to tell you. He views history through the eyes of
-a hunter, a warrior. His passion lies in the perfection of the tools of
-violence. How delightfully primitive.
+CRUSHER: Professor, is everything alright? Are you well? 
+RASMUSSEN: Yes, couldn't be better, thank you. I just thought we might
+chat about your questionnaire. Buck up, crewman. You're a credit to
+that uniform. 
+TROI: I've got some things to take care of. 
+RASMUSSEN: No, please, Counsellor. I would very much appreciate your
+remaining. 
+RASMUSSEN: Doctor, in response to my sixth question, you spoke of a
+neural stimulator. May I see one? 
+CRUSHER: I don't see why not. Give me a minute. 
+(Beverly leaves) 
+RASMUSSEN: You don't like me very much, do you? 
+TROI: I don't dislike you, Professor. 
+RASMUSSEN: (to a young boy) Keep your eyes wide, soldier. You'll be
+telling your grandchildren how you were there at Penthara Four. But you
+don't trust me. You should, you know. 
+TROI: Should I? 
+RASMUSSEN: Picard's empath won't trust you. That's what they all said. 
+TROI: Picard's empath? 
+RASMUSSEN: We're not that unalike, you and I. You possess a sense that
+is foreign to the others. My knowledge of the future is similar. You
+know, some of my best friends are empaths. They trust me. 
+TROI: Why should you care whether I trust you or not? 
+RASMUSSEN: We're birds of a feather. We're colleagues. We could learn a
+lot from each other. 
+TROI: You're right. I don't trust you. 
+RASMUSSEN: I knew you'd say that. 
+TROI: I'm sure you did. 
+(Beverly returns with the equipment) 
+CRUSHER: Well, it's nice to see you two are finally getting along. 
+TROI: I really have to be going. 
+(Troi leaves and Beverly hands the wand device to Rasmussen) 
+RASMUSSEN: Thank you. 
+CRUSHER: (reading a PADD from a nurse) Why don't you try a berylite
+scan? I'd be interested to see where his micro-levels are. 
+(the nurse leaves them) 
+CRUSHER: So, what else can I show you? 
+RASMUSSEN: You're a very curious woman. No, no, I don't mean curious
+like that. I mean you're curious about things. About berylite levels,
+about the future. 
+CRUSHER: Well, curiosity is why all of us are out here, isn't it? 
+RASMUSSEN: I understand. But you're different, you're more vibrant.
+More 
+CRUSHER: More vibrant. That's nice, I like that. 
+RASMUSSEN: You know, whenever I travel back, I meet very interesting
+people, men and women. But I've never anyone who gave me thoughts about
+not going home. 
+CRUSHER: You're not supposed to be influencing the past, remember? And
+I am beginning to feel a little influenced. Anyway, I could be your
+great, great, great, great, grandmother.
 

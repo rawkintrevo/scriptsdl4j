@@ -1,99 +1,47 @@
-TROI LAFORGE VALEDA WYATT LWAXANA PICARD
-
-[Lwaxana's quarters]
-
-PICARD: We hope you find the room comfortable. 
-LWAXANA: Yes, the room is adequate. Small, but adequate. You will of
-course adjust the temperature to a civilised level? 
-PICARD: I'll see what I can do. And now, if you will excuse me, I'm
-sure the two of you have a lot to talk about. 
-LWAXANA: Yes, Captain. You may go. 
-(Picard backs out of the room with a bow) 
-LWAXANA [OC]: You've been slack, little one. Allowed your mental powers
-to rust. 
-TROI [OC]: Only to avoid confusion, mother. Humans constantly think one
-thing and say another. 
-LWAXANA [OC]: Yes, they do, don't they. Poor dears. Our style of
-complete honesty frightens them. 
-TROI: On that subject Mother, there is such a thing as too much honesty
-with humans. 
-LWAXANA [OC]: If they'd only say what they think instead of hiding it.
-An entire shipload of such inconsistency could drive one insane. 
-LWAXANA: Darling, I'm terribly sorry about what happened here. Truly I
-am. Steven Miller tracked me down and reminded me of the vows we had
-made. 
-TROI: Mother, I'm having some trouble believing in those vows as once I
-did. 
-LWAXANA: Deanna. 
-TROI: But I'll honour them, of course. I'm a Betazoid. 
-LWAXANA: You may find Wyatt an unusual person. I've sensed remarkable
-depths in him.
+RIKER LAFORGE TASHA PICARD TROI GUEST3 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-LAFORGE: Message coming in from Haven, Captain. 
-PICARD: On screen. 
-(An elegant woman appears) 
-VALEDA [on viewscreen]: I'm Valeda Innis, First Electorine of Haven.
-Captain Picard? 
-PICARD: Greetings, Electorine. I'm Picard. 
-VALEDA [on viewscreen]: Your presence honours us, and your timing is
-fortuitous, Captain. 
-PICARD: In what way? 
-VALEDA [on viewscreen]: An incoming vessel has bypassed our stargate,
-violating our law. It has refused any attempt at communication. 
-PICARD: Are you saying you believe it to be hostile? 
-VALEDA [on viewscreen]: Failure to communicate is inherently hostile.
-We have no defensive capabilities here and our treaty with the
-Federation specifies your obligations in that matter. 
-PICARD: Agreed. But let's hope it doesn't become a defence matter. 
-VALEDA [on viewscreen]: Of course, Captain, but I'm very happy we have
-you here.
+PICARD: How can you be certain they're receiving
+us? 
+DATA: Because our sensors are showing a responder echo, sir, on the
+frequency they once used. 
+LAFORGE: We have a message, sir, coming in from Haven. 
+PICARD: On viewer. 
+GUEST3 [on viewscreen]: Captain, the plague ship is approaching
+transport range. 
+PICARD: We are aware of that, Electorine. 
+GUEST3 [on viewscreen]: Do you realise that they can turn this lovely
+world of ours into a graveyard? Please, please take action now before
+it's too late. 
+RIKER: We recognise your situation. 
+GUEST3 [on viewscreen]: Please destroy them now! 
+PICARD: We will not fire on them, Electorine. 
+GUEST3 [on viewscreen]: You must! 
+(transmission ends) 
+TASHA: I'm certain I could disable their ship with a phaser burst,
+Captain. 
+PICARD: And then, Lieutenant? 
+DATA: They're within transporter range, sir. 
+PICARD: Then we can't delay any longer. Ready the tractor beam,
+Lieutenant Yar. Target the ship. Activate on my command. 
+TASHA: Tractor beam ready. 
+PICARD: Engage. 
+TASHA: Got them, sir. 
+PICARD: Do we have them securely, Lieutenant? Can they beam out to the
+planet? 
+TASHA: Negative, sir. They can't leave that ship. 
+LAFORGE: I know they can receive us, Captain. At this distance they can
+respond with running lights if necessary. 
+DATA: Unless they have all died. Their ship could have been brought in
+by automation. 
+RIKER: Captain! 
+(The viewscreen crackles into life, and it's a face Troi recognises) 
+TROI: It's the woman in Wyatt's drawings.
 
-[Wyatt's quarters]
-
-WYATT: Come in. 
-TROI: I wanted to apologise for my mother's behaviour. 
-WYATT: Your mother's honest. I respect that. 
-TROI: Yes, but she never lets up. 
-WYATT: I'll admit, her honesty is a bit persistent. 
-TROI: I never heard it described better. But it is a Betazoid trait.
-I'll try to be only half as annoying. 
-WYATT: Let's see, what can I tell you about myself? I'm a medical
-doctor, for whatever that's worth. 
-TROI: Doctor? 
-WYATT: If you're picking up my thoughts, you'd know. You can do that,
-can't you? 
-TROI: Sometimes. This must be what Mother felt about you. I believe we
-could read each other eventually. 
-WYATT: Can I take that as a compliment? 
-TROI: Absolutely. I only ever felt this, well, with someone who's on
-this ship. 
-WYATT: Oh? Do I have competition? 
-TROI: No. What he wants most is to captain a starship. 
-WYATT: What I want is to cure people. 
-TROI: Well, I'm a practicing psychologist. Maybe we can work in
-concert. We are going to be together a long time. 
-WYATT: Yes. That is the point of marriage, I suppose. 
-TROI: I really thought you'd tell me you were an artist. I just felt
-your mind very much on these. They are your work, aren't they? 
-WYATT: I can see it'll be very hard to keep secrets from you. 
-TROI: This is why you were surprised when you first saw me. This woman.
-You thought that I would be this woman. 
-WYATT: I have seen this face ever since I was a boy. When I closed my
-eyes at night, I could hear her whispering my name. And knowing you
-were Betazoid, I just assumed it was you projecting yourself into my
-mind. 
-TROI: I'm sorry I'm not what you hoped for. 
-WYATT: No. Please don't mistake a childish fantasy for disappointment.
-You are so beautiful. I feel honoured. 
-TROI: You've no idea who she is? 
-WYATT: It doesn't really matter now.
-
-Captain's personal log. I trust my concern over the
-problems of ship's Counsellor Troi are not based merely on losing a
-highly valuable crew member. But it seems to me that she is trapped by
-a custom of her home world which the facts of the twenty-fourth century
-life have made unwise and unworkable. I wish
-I could intervene.
+Captain's log, stardate 41294.6. Orbiting Haven
+with the Tarellian vessel locked in our tractor beam. Question. What
+strange of circumstances has caused a woman out of someone's
+imagination to appear on the plague ship?
 

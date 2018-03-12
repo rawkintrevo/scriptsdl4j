@@ -1,36 +1,41 @@
-RIKER OBRIEN LAFORGE CREWMAN SHELBY PICARD GLEASON DATA
-
-[Transporter room]
-
-O'BRIEN: The Borg have adapted their
-electromagnetic field to prevent main transporter functions, sir. 
-RIKER [OC]: As expected. Mister Data, Mister Worf, proceed as we
-discussed. 
-DATA: Aye, Captain. 
-(They switch on devices on their arms)
-
-[Battle bridge]
-
-CREWMAN: Channel open, sir.
-RIKER: We would like time to prepare our people for assimilation.
-PICARD [on viewscreen]: Preparation is irrelevant. Your people will be
-assimilated as easily as Picard has been. Your attempt at a delay will
-not be successful, Number One. We will proceed to Earth, and if you
-attempt to intervene, we will destroy you.
-RIKER: Then take your best shot, Locutus, because we're about to
-intervene.
-CREWMAN: Channel closed. 
-RIKER: Reset subspace communications. Scrambler code, Riker One 
-GLEASON: Scrambler code, Riker One. Acknowledged.
-RIKER: Shelby, report.
+RIKER OBRIEN WORF TROI WESLEY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-SHELBY: Ready for separation.
-RIKER [OC]: Make it so. 
-SHELBY: Auto-sep sequence initiated. 
-[Engineering]
+(The cube is met by three ships, which are
+immediately destroyed) 
+WORF: It is confirmed. The Borg have broken through the Mars defence
+perimeter. 
+WESLEY: Enterprise now approaching Terran system, sir. 
+RIKER: Slow to impulse. Time to intercept? 
+WESLEY: Twenty-three minutes, fourteen seconds, sir.
 
-LAFORGE: Docking latches clear, separation
-complete.
+[Data's lab]
 
+DATA: Second neural connection is confirmed. I
+still cannot report any significant access. Proceeding with the final
+link. 
+CRUSHER: Significant increase in premotor area and hypothalamus
+activity. His heartbeat is accelerating rapidly. 
+O'BRIEN: Sir, your submicron matrix activity is increasing
+exponentially.
+DATA: Neural connections complete. I have access to the Borg subspace
+signals. Processing. Processing. 
+TROI: Data! 
+DATA: Stand by. Processing. Processing. Fascinating. The Borg group
+consciousness is divided into subcommands necessary to carry out all
+functions. Defence, communication, navigation. They are all controlled
+by a root command implanted into each 
+(Picard wakes up and tries to get out. Data restrains the mechanical
+arm, then pulls off the working 'hand' component.)
+
+CRUSHER: Data, I'm picking up increased neural activity in Captain
+Picard, localised in the prefrontal and parietal lobes. 
+O'BRIEN: The Borg might be trying to terminate their link with him. 
+DATA: Negative. The subspace signal configuration is unchanged. What is
+causing the increased neural activity is unclear. 
+TROI: No, it's not. It's him. It's Picard. 
+(Picard reaches out with his organic arm and takes hold of Data,
+gently) 
+TROI: Troi to Bridge. 

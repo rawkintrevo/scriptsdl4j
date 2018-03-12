@@ -1,73 +1,34 @@
-RIKER OBRIEN LAFORGE WORF PICARD KRAG DATA
-
-[Transporter room]
-
-O'BRIEN: Transporter Room to Bridge. 
-[Bridge]
-
-O'BRIEN: He's aboard. 
-[Transporter room]
-
-RIKER: Why do you sound so surprised, Mister
-O'Brien? 
-O'BRIEN: For a moment, we weren't sure you left the space station in
-time. 
-RIKER: In time for what? 
-O'BRIEN: It just exploded, sir.
-
-Captain's log, supplemental. Commander Riker has
-informed me that Doctor Apgar was the only one aboard the space station
-when it exploded. We remain in orbit investigating the accident. 
-[Transporter room]
-
-O'BRIEN: I've gone through the whole system,
-Captain. I can't find any malfunction in the transporter.
-
-[Transporter room]
-
-O'BRIEN [OC]: Nothing that would cause an explosion
-like that 
-PICARD: Why was there a power drain before
-transport? 
-O'BRIEN [OC]: I don't know, sir. 
-PICARD: I shall want an answer to that. I'm sure the Tanugans will too.
-
-O'BRIEN [OC]: Yes, sir. 
-DATA: Captain, the radiation and debris are consistent with an overload
-of the station's reactor core. 
-PICARD: Were there any indications of reactor core problems while you
-were on the station? 
-LAFORGE: No, sir. 
-PICARD: Number One? Mister La Forge indicated that this was not an
-entirely routine mission. 
-RIKER: It's a long story, sir, but I'm sure it doesn't have anything to
-do with this accident. 
-WORF: Captain, Chief Investigator Krag of the Tanugan security force
-requests permission to beam aboard. 
-PICARD: Granted. Will you escort him to the Bridge, Mister Worf. 
-WORF: Aye, sir. 
-PICARD: Perhaps you had tell me as much as possible prior to his
-arrival, Number One.
-
-[Transporter room]
-
-(A humanoid male, hair swept up at the sides to
-give a severe look) 
-WORF: I'm Lieutenant Worf, head of ship's Security. I will take you to
-the Captain.
+WESLEY COMPUTER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Chief Investigator, welcome to the
-Enterprise. I'm Captain Picard. This is my First Officer, Commander
-William Riker. 
-KRAG: Commander Riker, I am here to take you into custody. 
-RIKER: Custody? On what charge? 
-KRAG: Suspicion of murder. 
-RIKER: Murder? Now wait a minute, you can't come on 
-PICARD: Chief Investigator, we are perfectly willing to cooperate with
-you, but 
-KRAG: Then release the prisoner for transportation to the planet. 
-PICARD: Let's continue this discussion in private. Number One, you have
-the Bridge.
+LAFORGE: The Tanugans are right. Something was
+fired at the reactor core just before transport. 
+DATA: The energy signature would seem to indicate a phaser-like blast. 
+WESLEY: Well, it wasn't the commander's phaser. It couldn't have been.
+There's another answer. We're just not seeing it. 
+DATA: Was there anything else in the lab capable of creating this kind
+of energy discharge? 
+LAFORGE: Not that I saw. Besides, how do you account for the fact that
+it came from Commander's Riker's exact position. Damn it, I should have
+stayed with him. 
+WORF: Commander, sensors indicate a radiation burst on deck thirty
+nine, outside cargo bay twelve. 
+DATA: Source? 
+WORF: Unknown, sir. 
+DATA: Computer, identify type of radiation. 
+COMPUTER: Emission is not consistent with any known radiation. 
+WORF: It is subsiding, sir.
+
+[Corridor]
+
+(Wesley is scanning a blister and hole in the
+bulkhead) 
+WESLEY: What kind of radiation could do this? Make any sense to you? 
+LAFORGE: I don't recognise it. Not even the main deflector puts out
+that kind of spillage. 
+WESLEY: Where would it be coming from? 
+LAFORGE: I don't know, Wes, but whatever it is, it's capable of putting
+a hole in solid duranium.
 

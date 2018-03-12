@@ -1,39 +1,5 @@
-RIKER TSHANIK LAFORGE REMMICK MORDOCK WESLEY CHANG DATA OLIANA
-
-[Classroom]
-
-OLIANA: (a young red-head) What is it? 
-WESLEY: What? 
-OLIANA: The unit you just put down. Don't worry. I won't tell anyone. 
-WESLEY: It's a flux coordinating sensor. 
-OLIANA: I'm Oliana Mirren, one of the other finalists. You must be
-Wesley Crusher. 
-WESLEY: Yeah. Do you know me? 
-OLIANA: I heard there was a very smart, very young man who'd be tough
-competition. 
-WESLEY: Well, you wouldn't be here 
-OLIANA: I weren't smart. I know. But there's a lot more to it than just
-that. You're lucky. You've had practical experience aboard the
-Enterprise. 
-(Other young people enter) 
-T'SHANIK: Oliana. (to Wesley) T'Shanik of Vulcana Regar. 
-WESLEY: Wesley Crusher of the Enterprise. 
-T'SHANIK: You do not look as if you meet the age requirements. 
-WESLEY: Uh, I'll be sixteen next month. 
-OLIANA: Happy birthday. 
-WESLEY: Excuse me. (goes over to the third newcomer) I'm Wesley
-Crusher. 
-MORDOCK: Mordock. 
-WESLEY: Mordock? The Mordock? The Benzite who constructed the Mordock
-Strategy? I thought you already were in the Academy. 
-MORDOCK: No. Only a hopeful, like you. 
-(An officer enters) 
-CHANG: Finalists, please take your seats I'm Tac Officer Chang.
-Welcome. You are here because you are all top candidates. Although only
-one student will be chosen for the Academy, you have shown from the
-preliminary testing that any of you could easily qualify. This may be
-the most difficult, exhausting experience of your life, and the most
-exciting challenge. Expect the unexpected. May you all do your best.
+PICARD RIKER REMMICK DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -49,4 +15,26 @@ Privately.
 LAFORGE: Commander, just having that guy around makes me feel guilty.
 What's he after, anyway? 
 RIKER: I don't know, Geordi, but I'm going to find out. Right now.
+
+[Ready room]
+
+PICARD: Come. 
+RIKER: Captain, may I speak frankly? 
+PICARD: Always, Number One. 
+RIKER: As First Officer, I should be informed. I should know everything
+that you know. 
+PICARD: That's right, you should. 
+RIKER: Then what's this about? Remmick is going to turn this ship
+upside down. 
+PICARD: That's his job. 
+RIKER: And my job is to see that this ship runs smoothly. 
+PICARD: Which you do very well. 
+RIKER: Sir, am I under investigation? 
+PICARD: I don't know. 
+RIKER: And if you did? 
+PICARD: I couldn't tell you. 
+RIKER: I don't understand, sir. This is extremely frustrating. 
+PICARD: No less so for me. But I promised cooperation, and that's what
+we shall give. 
+RIKER: Sir.
 

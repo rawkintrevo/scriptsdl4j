@@ -1,50 +1,49 @@
-RIKER OBRIEN LAFORGE PICARD HAYES DATA BARCLAY
+RIKER LAFORGE PICARD CRUSHER DATA BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[USS Yosemite Bridge]
+[Observation lounge]
 
-LAFORGE: Reg. Welcome aboard. You ready to work? 
-BARCLAY: Yes, sir. 
-LAFORGE: Good. Why don't you start by downloading the ship's science
-logs over there. 
+CRUSHER: The autopsy showed residual ionisation in
+every one of Lieutenant Kelly's systems. I think that's what caused the
+muscular and systemic contractions. 
+RIKER: From where did the ionisation come? 
+CRUSHER: There's evidence of electrical burns on the victim's body, as
+if he was exposed to ionised gas or high energy plasma. 
+LAFORGE: Plasma? There's no way they could've been exposed, unless it
+was matter from the streamer. 
+PICARD: Is there evidence of a hull breach? Could plasma from the
+streamer have found its way into the ship? 
+LAFORGE: No. Data, what's the report on that broken sample container? 
+DATA: The analysis of the fragments is not yet complete. 
+LAFORGE: Captain, if there's evidence of similar ionisation in those
+fragments, it could mean they tried to beam aboard material from the
+streamer. 
+PICARD: If the plasma exploded that would explain a few things. Let me
+know when the analysis is complete. 
+LAFORGE: Aye, sir.
+
+[Engineering]
+
+(Barclay's drinking from a flask, checking his
+glands and generally being a hypochondriac) 
+LAFORGE: From the looks of these fracture patterns, I'd say that the
+explosive force came from within the container. 
+DATA: The container does show evidence of residual ionisation. I
+believe your hypothesis was correct. It was used to store high energy
+plasma. 
+LAFORGE: So they were collecting samples from the plasma streamer. They
+had the proper container. How could it have exploded? 
+DATA: Perhaps we should attempt to recreate their experiment to see
+what happens when matter is beamed aboard under similar conditions. 
+LAFORGE: That's a good idea. We'll prepare a new container. Reg, I
+don't want to take any chances here. Start setting up a level five
+containment field here in Engineering, okay? 
 BARCLAY: Aye, sir. 
-RIKER: Still four members of the crew unaccounted for. Did you come up
-with anything? 
-LAFORGE: I don't know how these fit in, but I found them all around the
-transporter platform. 
-RIKER: What are they? 
-LAFORGE: They look like pieces of a standard sample container. 
-RIKER: Take them back to the ship, analyze them there. Mister Barclay.
-Glad you could join us. 
-BARCLAY: Me too, sir.
-
-[Ready room]
-
-HAYES [on monitor]: The Ferengi are claiming two of
-their freighters were destroyed by a Cardassian warship in your sector.
-
-PICARD: Is there any evidence to support this? 
-HAYES [on monitor]: Although I'm loathe to believe the Ferengi about
-anything, there was evidence of Cardassian weapons. If the Cardassians
-also attacked the Yosemite, it could indicate a large scale movement
-into this sector. 
-PICARD: I have an away team on board the ship. The initial report
-indicates there was an explosion on board, but we're not sure if it was
-from an attack. 
-HAYES [on monitor]: How soon until you know? 
-PICARD: A few hours. If it looks like Cardassians, I'll contact you
-immediately. 
-HAYES [on monitor]: Very well. 
-(transmission ends) 
-DATA [OC]: Bridge to Captain Picard. 
-PICARD: Go ahead, Mister Data. 
-DATA [OC]: The away team is returning to the Enterprise, sir. 
-PICARD: Acknowledged. Have Commander Riker come to my Ready room as
-soon as he's on board. 
-DATA [OC]: Aye, sir.
-
-[Transporter room]
-
-(Riker leaves) 
-LAFORGE [OC]: La Forge to Transporter room three. I'm ready to go. 
-O'BRIEN: Stand by, Commander.
+DATA: Are you all right, Lieutenant? 
+BARCLAY: I'm fine. Yes, thank you. 
+(Barclay heads off to the Jefferies tubes) 
+DATA: Geordi. Lieutenant Barclay appears inordinately preoccupied with
+his physiological condition. I have seen him check his pulse rate, as
+well as his visual acuity several times over the last twenty minutes. 
+LAFORGE: Thanks, Data.
 

@@ -1,72 +1,49 @@
-HILDEBRANDT PULASKI WESLEY COMPUTER DAVIES SARJENKA DATA
+PULASKI PICARD DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]
+[Ready room]
 
-DATA: Computer, identify please. 
-COMPUTER: Sensors indicate low-level rf waves. 
-DATA: Is there a pattern? 
-COMPUTER: Affirmative. 
-DATA: Naturally occurring? 
-COMPUTER: Negative. 
-DATA: Key universal translator, please. 
-COMPUTER: Unable to comply. Weak signal. 
-DATA: Lock on comm. link and boost. 
-COMPUTER: Lock on complete. 
-DATA: Read, please. 
-COMPUTER: Insufficient signal strength. 
-DATA: Enhance, please. 
-SARJENKA [OC]: Is anybody out there? 
-DATA: Yes.
+PICARD: Doctor. 
+PULASKI [OC]: Yes, Captain? 
+PICARD: Data and the alien are on their way down. What would be
+involved in removing all memory of her communication with Data
+
+[Pulaski's office]
+
+PICARD [OC]: And her visit to this ship? 
+PULASKI: Assuming her brain structure is similar to ours, the memories
+would be stored chemically on the neurons of the cerebral cortex.
+They're also time dependent. I would have to scan for age of the
+chemical links, and try to find 
+[Ready room]
+
+PULASKI [OC]: The relevant neurons. 
+PICARD: Well, do your best.
 
 [Corridor]
 
-(Kate is passing by when she spots Wesley loitering
-with intent, and a PADD) 
-PULASKI: Wes? 
-WESLEY: Hi, Doctor Pulaski. 
-PULASKI: You have trouble behind that door? 
-WESLEY: My team's in there. I've got to assign planets, set a schedule.
+GUEST1: You have many different kinds of people
+here. 
+DATA: Yes. 
+GUEST1: When I am bigger, can I be on your ship? 
+DATA: I am certain that you could. 
+GUEST1: I wish I could come with you now. 
+DATA: I am afraid that is not possible. 
+GUEST1: I know, but I can still wish for it.
 
-PULASKI: It sounds like you've got everything under control. 
-WESLEY: I haven't had to deal with them yet. Not together, not
-professionally. 
-PULASKI: Wes, the minute you walk through that door they're your team.
-You have nothing to prove. You've got the authority. 
-WESLEY: That's just 'cos Commander Riker says I do. 
-PULASKI: It's up to you to hang on to it. Now, you'd better get in
-there, and Wes, for whatever it's worth, I think you're going to do
-just fine. 
-Captain's log, stardate 42737.3. It has been six
-weeks since our entrance into the Selcundi Drema sector. Each system
-has revealed the same disturbing geological upheavals on every planet.
+[Pulaski's office]
 
-[Geophysics lab]
-
-HILDEBRANDT: (the woman on the team) It seems to be
-at this point we can expect the greatest tectonic stresses. 
-WESLEY: I agree. Nice job. 
-DAVIES: Here are the results of my scan on the third Selcundi system.
-It's just the same old song. 
-WESLEY: Didn't you tell me that UV absorptions like these are
-indicative of traker deposits? 
-DAVIES: And where there's traker there's generally dilithium? Yes, I
-did. 
-WESLEY: So don't you think we ought to run an ico-spectrogram? 
-DAVIES: Well, Wes, these traker readings are really faint. It's
-probably just a fool's echo. 
-WESLEY: I think I'd still run an ico-gram. 
-HILDEBRANDT: Wesley, it's a major undertaking to set up the scanner. 
-DAVIES: We're looking at five hours minimum. 
-WESLEY: I know, I know. I don't want to do a half way job. 
-DAVIES: Wes, there's being thorough and then there's wasting time. It's
-also the mark of a good officer to recognise the difference. 
-WESLEY: Maybe you're right.
-
-[Bridge]
-
-DATA: Computer, please access all volcanic and
-tectonic plate activity in Drema Four. 
-COMPUTER: Accessing. 
-DATA: Computer, locate Captain Picard. 
-COMPUTER: Captain Picard is on holodeck three.
+DATA: Doctor Pulaski, this is Sarjenka. 
+PULASKI: Hello, Sarjenka. 
+GUEST1: Hello. 
+(She picks up a brown and white stone from the desk) 
+GUEST1: What is this? 
+PULASKI: An Elanin singer stone. It sings a different song for each
+person. 
+GUEST1: What does it sing for you? 
+DATA: It does not sing for me. 
+GUEST1: Why not? 
+DATA: Because I am a machine. 
+PULASKI: Sarjenka, we're going to run a few scans just to be sure
+you're all right. Data's will be right here. Don't worry.
 

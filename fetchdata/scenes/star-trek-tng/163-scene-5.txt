@@ -1,100 +1,47 @@
-RIKER LAFORGE CREWMAN TASHA PICARD GARRETT WESLEY CASTILLO CRUSHER DATA
+PICARD CREWWOMAN CRUSHER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-TASHA: It's clearing now, Captain. Definitely
-Federation starship. Accessing registry. 
-RIKER: Looks like they had a rough ride. 
-TASHA: NCC one seven oh one C. USS Enterprise.
+CRUSHER: Run a full electrolyte report. Boost the
+level of tricordrazine. Try to relax. 
+CREWWOMAN [OC]: Doctor Selar, report to pathology ward stat. Doctor
+Selar, report to pathology ward stat. 
+PICARD: I'm Captain Jean-Luc Picard. 
+GUEST1: Rachel Garrett. How's my ship? 
+PICARD: The support systems are being restored. We're continuing
+repairs. 
+GUEST1: Where did you come from? We weren't picking up any other
+Federation ships in this sector. 
+PICARD: What's the last thing you remember? 
+GUEST1: We were answering the distress signal. 
+PICARD: Distress signal? 
+GUEST1: You must have heard it. From the Klingon outpost, Narendra
+Three. But you didn't, did you? This Sickbay, I've never seen like it,
+even on a starbase. And your uniform. What ship is this, Captain? 
+CRUSHER: Please try to be still. 
+GUEST1: I must insist. What ship? 
+PICARD: You are aboard the Enterprise, Captain. One seven oh one D. You
+have come twenty two years into the future. 
+GUEST1: Twenty two years. Does my crew know yet? 
+PICARD: No. 
+GUEST1: I must tell them. I owe them that. 
+PICARD: If you wish, I can see that they're informed. 
+GUEST1: Is there some reason they should not be told? 
+PICARD: I am concerned that if you return to your own time with
+knowledge of the future 
+GUEST1: Return to the battle? We barely escaped with our lives. If we
+returned, we'd be destroyed. 
+PICARD: Have you any idea how this happened? 
+GUEST1: There was a fierce volley of photon torpedoes. We were hit. A
+bright light, and then here. 
+PICARD: It is possible that this exchange of fire was the catalyst for
+the formation of a temporal rift. History has no record of your battle
+with the Romulans. 
+GUEST1: We were responding to a distress call from the Klingon outpost
+on Narendra Three. The Romulans were attacking it. We engaged them, but
+there were four warbirds. 
+PICARD: The Narendra Three outpost was destroyed. It is regrettable
+that you did not succeed. A Federation starship rescuing a Klingon
+outpost might have averted twenty years of war.
 
-Military log, Combat date 43625.2. While
-investigating an unusual radiation anomaly, the Enterprise has
-encountered what could almost be called a ghost from its own past, the
-Enterprise-C, the immediate predecessor to this battleship.
-
-[Bridge]
-
-(Only the Captain has a centre chair. Riker has to
-lean on the rail) 
-DATA: Sensors confirm design and specifications, Captain. Analysis of
-hull and engine materials conform to engineering patterns and methods
-of that time period. 
-WESLEY: (in full Starfleet uniform) But that cruiser was destroyed with
-all hands over twenty years ago. 
-DATA: Presumed destroyed. The Enterprise C was last seen near the
-Klingon outpost Narendra Three exactly twenty two years, three months
-and four days ago. 
-RIKER: And now they're here. 
-PICARD: Has it been adrift for all those years, or has it has travelled
-through time? 
-DATA: It is a possibility, Captain. If that hypothesis is correct, the
-phenomenon we just
-encountered would be a temporal rift in space. 
-PICARD: A rift? 
-DATA: Possibly the formation of a Kerr loop from superstring material.
-It would require high-energy interactions
-occurring in the vicinity for such a structure to be formed. The rift
-is certainly not stable, Captain. It could collapse at any time. 
-TASHA: Captain. I'm able to scan the interior of the ship now, sir.
-Heavy damage to warp field nacelles and hull bearing struts. Internal
-space frame is... Life-signs, Captain! Readings are sporadic. It looks
-like they have massive casualties, but some are still alive. 
-RIKER: Bridge to Sickbay. Emergency teams, stand by transporter rooms. 
-CRUSHER [OC]: Understood. 
-PICARD: Belay that order, Doctor. 
-RIKER: Respectfully, if I may suggest regardless of where they came
-from, they are here now and they need our help. 
-PICARD: Commander, if that ship has travelled into the future, we could
-be dealing with variables that will alter the flow of our history. 
-TASHA: Enterprise C is sending out a distress call, sir. Audio only. 
-GARRETT [OC]: This is Captain Garrett of the Starship Enterprise, to
-any Federation ship. We have been attacked by Romulan warships and
-require immediate assistance. We've lost warp drive. Life support is
-failing. 
-RIKER: There's no record of the Romulans ever assaulting the Enterprise
-C. 
-TASHA: Voice message has ended, Captain. I'm only receiving their
-automated distress signal now. 
-PICARD: Open a hailing frequency. This is Captain Jean-Luc Picard of
-the Federation, of a Federation starship. Standby to receive emergency
-teams. Commander, we will handle this one step at a time. Stabilise
-their power systems and tend to their injured, and avoid all
-discussions of where and when they are. 
-RIKER: Aye, sir. Lieutenant. 
-WESLEY: Captain, message coming in from Starfleet monitor stations.
-Klingon battlecruisers headed towards this sector. 
-PICARD: Battle alert, Mister Crusher. Condition Yellow. 
-WESLEY: Aye, sir. All decks report Condition Yellow.
-
-[1701-C Bridge] 
-(Flames, charred bodies across consoles wearing
-late TOS movie uniforms. The away team beam in.) 
-RIKER: Captain Garrett? 
-GARRETT: Yes. 
-RIKER: I'm Commander William Riker. Our emergency teams are on board
-your ship. Doctor? 
-CRUSHER: The rest of the bridge crew is dead. She has a bad fracture
-and has serious internal injuries. I'm going to have to get her back to
-the Enterprise. 
-GARRETT: To where? 
-RIKER: We'll explain that later. 
-GARRETT: You'll explain now, Commander. 
-RIKER: We're from a Federation starship. We answered your distress
-call. Your ship is in good hands, but we need to get you to our
-Sickbay. 
-GARRETT: Very well. 
-CRUSHER: Crusher to transporter room. Two to beam directly to Sickbay. 
-CREWMAN: Stand by for transport. 
-(Crusher and Garrett are beamed away) 
-LAFORGE: It's pretty bad, Commander. Looks like they were in a hell of
-a fight. 
-RIKER: If you can't stabilise the life support, we're going to have to
-evacuate the ship. 
-LAFORGE: I think we can do it. I'll have to get to Engineering though.
-La Forge to damage control team alpha. Meet me on Engineering level
-three. 
-TASHA: Commander. 
-(A sound of coughing. They move some debris and find another survivor) 
-CASTILLO: Thanks. 
-RIKER: Commander William Riker. 
-CASTILLO: Lieutenant Castillo, helmsman. 

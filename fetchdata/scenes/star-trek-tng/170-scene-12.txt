@@ -1,85 +1,24 @@
-TROI FAJO DATA LAFORGE WORF
+RIKER CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Fajo's den]
+[Beta Agni Two]
 
-(Data is feeding the lapling when Fajo enters) 
-FAJO: You are still wearing that uniform. Why? 
-DATA: I am a Starfleet officer. 
-FAJO: You are not in Starfleet any longer. It's time you adjusted your
-programme
-to accept reality. 
-DATA: Even if I chose to do so, it is doubtful that my programming
-could be sufficiently altered to accede to your wishes. 
-FAJO: Oh? 
-DATA: I have been designed with a fundamental respect for life in all
-its forms and a strong inhibition against causing harm to living
-beings. 
-FAJO: What a marvellous contradiction. A military pacifist. Tell me,
-whose dreadful decision was it to enlist you in Starfleet to begin
-with? 
-DATA: My skills seemed appropriate 
-FAJO: Data, Data, Data. Big mistake. A grievous error. You belong in
-Starfleet about as much as I belong in a verbal contract. Tell me, have
-you killed yet? 
-DATA: No, but I am programmed with the ability to use deadly force in
-the cause of defense. 
-FAJO: Shame on you. Shame on you. How neatly you rationalise your
-capabilities. How can you just casually accept your role in murder? 
-DATA: I would not participate in murder. Perhaps you misunderstand. 
-FAJO: Can't you see how much better it will be for you right here? The
-intellectual rewards alone. Our personal exploration of the
-galaxy. I am at war with no one. I am your liberator. 
-DATA: You are a fine debater, sir. It is a pity you have used your
-verbal gifts for mere hucksterism and the advancement of your own
-greed. 
-FAJO: Perhaps. Perhaps you would not judge me so harshly if you knew of
-my desperate youth, wasted, wasted on the streets of Zimballia. 
-DATA: Your past does not excuse unethical or immoral behaviour, sir. 
-FAJO: Well, it doesn't matter. It isn't true anyway. My father was
-quite wealthy, actually. He was a thief. Data, why don't you put on
-these lovely new clothes and sit on the chair. 
-DATA: I must decline. 
-FAJO: You are going to be much more of a challenge than I had first
-thought. (goes to replicator) Finoplak, one hundred denkirs. (A vial of
-liquid appears) Now, Data, in the meantime, here is something for your
-logic circuits to analyse. 
-(Fajo thrown the liquid onto Data's uniform, which begins to smoke and
-dissolve) 
-FAJO: Oh, don't worry. The solvent won't harm your, your skin. But in
-seconds it will completely dissolve that uniform. Personally, I'd be
-delighted to see you go around naked. I assume you have no modesty.
-But, then, I guess that decency is the rule of your Starfleet training.
-In any case, Data, why don't you make a decision about which
-alternative you dislike the least. Make a decision by dinnertime
-tonight. I have invited a guest to meet you, and I expect you to be as
-entertaining with him as you have been with me.
-
-[Geordi's quarters]
-
-(Rest is not coming easily. Dreams are intervening)
-
-DATA [OC]: Proceeding with departure. Enterprise shuttlebay two,
-prepare for docking. Level one precautions remain in effect. 
-LAFORGE: I did miss something.
-
-[Corridor]
-
-(Deanna is talking to a woman when Worf comes by) 
-TROI: (to woman) See you later. (to Worf) Your first watch at Ops? 
-WORF: I have served at the position before. 
-TROI: I've been concerned about you. 
-WORF: About me? Why? 
-TROI: Because I know how I'd feel if I was asked to replace Data at his
-station.
-
-[Turbolift]
-
-WORF: Bridge. Promotion due to the death of a
-crewmate is commonplace on Klingon ships. 
-TROI: I know, but this isn't a Klingon ship and Data was your friend.
-And it's the second time you've replaced a crewmate who's died. 
-WORF: I honour Data's memory, as I did Lieutenant Yar's, by attempting
-to perform their duties as well as they did. 
-TROI: In true Klingon fashion. 
-WORF: I appreciate your concern.
-
+(The three beam down onto rock ledges just above
+the water) 
+CRUSHER: The contamination's been neutralised. The water's clean. 
+WORF: Curious. The process of neutralisation should have taken several
+hours. Naturally
+occurring tricyanate does not respond this quickly. 
+RIKER: Are you saying it's not naturally occurring? 
+WORF: There are no natural trace elements present in these tricyanate
+crystals. 
+RIKER: If it's artificial, then we're talking about sabotage. 
+CRUSHER: With tricyanate? That's hard to believe. It's slow to
+assimilate, difficult to replicate, and hard to transport. There are a
+lot easier ways to poison a water supply. More effective ways too. 
+RIKER: Can you think of any reason a saboteur would choose tricyanate? 
+CRUSHER: It might pass for a natural disaster. And since there's only
+one way to treat it, with hytritium, maybe somebody figured we couldn't
+locate it. It is hard to find. 
+RIKER: Then it really was lucky, wasn't it, that we were able to find
+hytritium when we did. And just enough hytritium for this crisis? 

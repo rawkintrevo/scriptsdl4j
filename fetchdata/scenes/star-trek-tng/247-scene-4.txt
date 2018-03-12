@@ -1,28 +1,5 @@
-RIKER CREWMAN WORF MEDIC NURSE CRUSHER LAFORGE
-
-[Observation lounge]
-
-(a map is on the wall monitor) 
-WORF: This is the last known location of the research team. They had
-occupied a small building in the south-west quarter of the city. You
-will begin your search there. 
-RIKER: The south-west quarter covers over two hundred square
-kilometres. That's a lot of land for one man to cover. I guess I'd
-better pack an extra pair of boots. 
-WORF: This apparel will allow you to pass as a common merchant. This
-Tilonian pendant is equipped with a communicator circuit. 
-RIKER: It doesn't really match the outfit. 
-WORF: I suggest you pay closer attention, Commander. Your life will be
-at stake. Do you understand what I am saying? 
-RIKER: Of course I do. 
-WORF: Because you will be posing as a merchant, you will need to know
-how to use the nisroh for the traditional bartering ceremony. 
-(it is, of course, a dagger) 
-WORF: You will be judged on your prowess with the blade. 
-(Worf demonstrates, cutting Riker on the right temple) 
-WORF: I am sorry, Commander! I did not intend 
-RIKER: It's okay. I guess I really wasn't paying attention. I'd better
-go to Sickbay. We'll continue this later.
+RIKER LAFORGE CREWMAN MEDIC NURSE CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 

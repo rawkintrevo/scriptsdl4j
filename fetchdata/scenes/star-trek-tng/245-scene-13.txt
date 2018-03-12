@@ -1,36 +1,43 @@
-RIKER LAFORGE WORF NELLA PICARD HELM DATA
+PICARD RIKER LAFORGE WORF NELLA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Planet surface]
 
-(Geordi can hear the music, and goes into the main
-Jefferies tube access to investigate) 
-DATA: Is there a problem, Geordi? 
-LAFORGE: I hear music. 
-DATA: Music? I do not hear anything. 
-LAFORGE: Are you sure? I know I heard something. Oh, it's stopped. 
-(because the musicians are kissing)
-
-[Turbolift]
-
-NELLA: I'd heard about Kerelian tenors all my life,
-but nothing could've prepared me for this man's voice. Soaring,
-incredible range. Wonderful. 
-PICARD: I understand there are nuances that only Kerelians can pick up.
-We just don't have the ears for it. 
-(a crewwoman enters) 
-NELLA: I should be finished with my survey by eleven hundred hours. 
-PICARD: Very good, Commander.
+PICARD [OC]: It is imperative that you hold your
+position until we finish evacuating the colony. Picard out.
 
 [Bridge]
 
-WORF: Captain. The Federation Outpost on Bersallis
-Three reports that they are entering a period of fire storm activity. 
-LAFORGE: Bersallin fire storms happen on seven year cycle. They're not
-expecting any for another eight months. 
-PICARD: We don't rendezvous with the Havana for another two days.
-That'll give us plenty of opportunity to study this phenomenon. 
-RIKER: Helm, set course for Bersallis Three. Warp five. 
-HELM: Aye, sir. 
-PICARD: Counsellor, could I speak with you in my Ready room? You have
-the Bridge, Number One.
+PICARD: Picard to Mister La Forge. 
+LAFORGE [OC]: La Forge here. 
+PICARD: I want a signal lock on every member of the perimeter teams. 
+LAFORGE [OC]: Captain, the storm's interference won't 
+PICARD: As soon as the last of the colony is evacuated, I want those
+perimeter teams out of there. Is that understood? 
+LAFORGE [OC]: Yes, sir.
+
+[Planet surface]
+
+(the people look a mess, dirty and sweaty) 
+NELLA: Daren to perimeter teams. The storm's interference is going to
+make our job harder than we thought. We may lose
+communication, so it's up to each of you to keep your units
+operational. A lot of people are depending on us. Daren out. 
+(she peeks up over the ridge) 
+NELLA: Oh, my god.
+
+[Bridge]
+
+WORF: The storm has reached the perimeter.
+
+[Sickbay]
+
+RIKER: I got out with the last of the colonists. If
+it hadn't been for the perimeter teams, none of us would have made it.
+We were able to clear out four of the teams, and the interference
+prevented us from getting two more. I don't know how they could have
+survived. 
+PICARD: Which teams are missing? 
+RIKER: Three and six. 
+RIKER: The last I knew, Commander Daren was on team six.
 

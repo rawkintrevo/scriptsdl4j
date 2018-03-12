@@ -1,65 +1,51 @@
-RIKER MAVEK SYRUS
+GUEST0 RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Asylum cell]
+[Riker's quarters]
 
-RIKER: Where am I? How did you get me off the ship?
+(and wakes up with a start in his own bed) 
+(Later, Riker is getting made up for the play) 
+RIKER: I was there, in Ward forty seven, just like in the play.
+Everyone thought that I was insane, that I'd actually killed someone.
+But it was all real. 
+CRUSHER: Deanna mentioned that you went to bed early because you were
+feeling a little anxious about the play, but I had no idea. You said
+that in your dream, we performed the play. How'd it go? 
+RIKER: It was a smash. We got a standing ovation. 
+CRUSHER: Let's hope it goes that well tonight. Well, we have got one
+hour before curtain. How are you feeling? 
+RIKER: I feel like an actor. 
+CRUSHER: Well, you're certainly beginning to look the part.
 
-SYRUS: The ship again? 
-(he's the same race as our spooky alien) 
-RIKER: What's going on? 
-SYRUS: I understand this must be disturbing for you, but try to relax.
-Tell me, where were you a moment ago? 
-RIKER: I was on the Enterprise in the middle of a play. But it was
-here. It was not real, it was on a stage. 
-SYRUS: I can assure you this is not a stage. Do you remember your name?
+[Theatre - Asylum cell]
 
-RIKER: I'm Commander. Commander. A second ago I knew who I was. I was
-on the ship. I was in a play. And now I'm having trouble remembering
-anything. 
-SYRUS: That's good. You're starting to come out of your delusional
-state. 
-RIKER: Delusional? It was not a delusion. I was there. 
-SYRUS: We discussed this. Do you remember, we contacted Starfleet and
-asked them about you? 
-RIKER: No. 
-SYRUS: We spoke with Admiral Budrow. 
-RIKER: Starbase twenty nine. He had never heard of me, and they had no
-officer that fit my description. 
-SYRUS: That's right. Now, I want you to focus on who I am. Do you
-remember me? 
-RIKER: I don't know. 
-SYRUS: I'm Doctor Syrus. Do you remember anything about where you are
-now? 
-RIKER: My head hurts. Somebody hit me. 
-SYRUS: You tried to escape. You struggled with one of the attendants
-and hit your head on a door. Do you remember that? 
-RIKER: Yes. I remember that now. But I thought it was a Klingon who had
-cut me with a knife. 
-SYRUS: That's called transposition. You're projecting elements from
-your delusions onto events that really happened. But that's good. There
-was a time when you couldn't break away from your starship fantasy at
-all. 
-RIKER: Now, if what you say is true, where am I? 
-SYRUS: You're in Ward forty seven of the Tilonus Institute for Mental
-Disorders. 
-RIKER: Why am I here? 
-SYRUS: We'll talk more later. You don't have to remember everything
-today. You're making excellent progress. 
-(Syrus leaves) 
-RIKER: Wait. 
-(Riker explores his surprisingly spacious cell, with a mirror on the
-wall) 
-MAVEK [OC]: Good afternoon. I've got some good news for you. Doctor
-Syrus suggested that you might enjoy a couple of hours in the common
-area today. Well? 
-RIKER: I guess so. 
-(the attendant and an armed guard enter) 
-MAVEK: I hope you're hungry. They're serving spiny lobe-fish today. 
-RIKER: (re weapon) You won't need that. 
-MAVEK: That's what you said the last time.
-
-[Asylum Corridor]
-
-(they walk slowly down the corridor. there is
-distant screaming, and the Enterprise alien walks past too)
-
+DATA: Perhaps we should continue this discussion
+next week 
+RIKER: No. I want to talk about this now. 
+DATA: You're starting to sound angry again. Maybe you need another
+treatment. 
+RIKER: What I need is to get out of this cell. I'm locked up in here
+for days. You've controlled my every move. You've told me what to eat,
+what to think, what to say. 
+(Riker sees the attendant looking through the cell door. He checks that
+there is an audience watching and the face is gone.) 
+CRUSHER: (prompt) And when I show a glimmer of independent thought 
+RIKER: And when I show a glimmer of independent thought, you strap me
+down, inject me with drugs and call it a treatment. 
+DATA: You're becoming agitated. 
+RIKER: You bet I'm agitated! I may be surrounded by insanity, but I am
+not insane. And there is nothing you 
+(he's detracted by the sound of a door, and for a moment the audience
+is gone) 
+RIKER: What's happening? 
+DATA: I can see we have a lot of work to do. 
+(Data exits) 
+RIKER: Nothing you can do will change the fact that I'm innocent. I'm
+not crazy. I'm not 
+(the alien officer is back between Picard and Riker) 
+RIKER: You're the key to all this, aren't you? Who are you? Who are
+you? 
+GUEST0: Lieutenant Suna, sir. 
+CRUSHER: Will, are you all right? 
+RIKER: I. Yes. I don't know 
+CRUSHER: Why don't we get him to Sickbay. 

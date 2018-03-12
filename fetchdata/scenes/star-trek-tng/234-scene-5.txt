@@ -1,100 +1,54 @@
-TROI ELI LAFORGE WORF BANDITO DATA ALEXANDER
+TROI GUEST6 WORF GUEST5 ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Sheriff's office ]
 
-(La Forge is plugging a cable into an interface) 
-DATA: Geordi, I have noticed that you have not shaved. Are you
-attempting to grow another beard? 
-LAFORGE: As a matter of fact, I am, Data. What do you think? 
-DATA: As is the case with many natural growth processes, it is
-difficult to envision the end product based on an intermediate stage. 
-LAFORGE: You're right. Give it a few more days. 
-(La Forge plugs the other ends of the cable into Data's head) 
-LAFORGE: Okay, I'm going to need to access your auxiliary inputs. 
-DATA: One moment. 
-(Data taps the back of his head and another panel opens up) 
-LAFORGE: I must admit, Data, I never get used to seeing you like this. 
-DATA: I do not understand. You are constantly working on similar
-electronic systems, yet their appearances do not disturb you. 
-LAFORGE: But you're not just another electronic system. 
-DATA: Thank you, Geordi. Nor are you just another biological organism. 
-LAFORGE: All right, that should do it. Are you ready? 
-DATA: Yes. Establishing computer linkup. Interface complete. 
-LAFORGE: All right, let's see what you can do.
-
-[Deadwood, main street]
-
-(a woman in a state of extreme undress whistles at
-Worf from a balcony) 
-WORF: You wrote this holodeck programme yourself? 
-ALEXANDER: Well, Mister Barclay helped a little. 
-WORF: I must have a little talk with Mister Barclay. 
-(the sound of a gunshot) 
-
-[Gold Strike saloon]
-
-(the piano player is doing his best, the poker
-players are ignoring it, and someone is shooting up a wanted poster of
-Eli Hollander) 
-ELI: If I ever find the varmint who drew this, he'll be sorry he ever
-put pen to paper. I'm ten times uglier than that, ain't I? 
-(the Mexican laughs) 
-ELI: Shut up. You laugh so much, it's a wonder you ain't got flies in
-your mouth. 
-BANDITO: You're a very funny man, Senor Eli. 
-(Worf and Alexander enter) 
-ALEXANDER: That's the bad guy. His name's Eli Hollander. They call him
-the Butcher of Bozeman. He's killed twenty three men. He's the meanest
-and the toughest gunslinger in the West. You have to watch him. He's
-fast. 
-WORF: So I am here to apprehend him? 
-ALEXANDER: If you can. 
-WORF: You are under arrest. 
-ELI: Is that so. 
-(Worf punches him in the face) 
-WORF: You will come with me. 
-ALEXANDER: No, no, no. Computer, freeze programme. 
-WORF: What is wrong? 
-ALEXANDER: That was too easy. It has to be harder to beat the bad guys.
-Otherwise, it's no fun. Computer, increase
-programme difficulty to level four. Go back to where my father and I
-first walked into the saloon. Come on, Father. 
-(Alexander and Worf leave) 
-ELI: If I ever find the varmint who drew this, he'll be sorry he ever
-put pen to paper. I'm ten times uglier than that, ain't I? 
-(the Mexican laughs) 
-ELI: Shut up. You laugh so much, it's a wonder you ain't got flies in
-your mouth. 
-BANDITO: You're a very funny man, Senor Eli. 
-(Worf and Alexander enter. This time the piano player stops, and the
-poker players get up and leave) 
-WORF: Where are they going? 
-ALEXANDER: They don't want to get hit by the bullets. 
-WORF: You are under arrest. 
-ELI: Well, looks like Sheriff Worf's here to arrest me. That don't
-sound like a bright idea. 
-(Eli has gone to the bar, the Mexican is over on Worf's left) 
-ELI: Do it? 
-WORF: You have been accused of committing a homicide. 
-ELI: If you mean murder, then I guess I'm guilty. I've killed twenty
-three men, Sheriff. One more ain't
-going to make much of a difference. Of course, shooting someone as ugly
-as you couldn't be considered a crime, could it? Was you just born that
-way, or did your momma marry an armadillo? 
-(a man behind Worf picks up a chair) 
-ALEXANDER: Sheriff, look out! 
-(Worf is hit by the chair, but just turns and thumps his attacker. Then
-he punches out the Mexican.) 
-WORF: I'm beginning to see the appeal of this programme. 
-ELI: Don't twitch a whisker, Sheriff, unless you want a shave. (his gun
-is drawn) Okay, boys. Saddle up. But first, get their money and
-jewellry. 
-WORF: You are a murderer and a thief. 
-ELI: A man's got to make a living. 
-(Eli's hat it blown off by a gunshot from the doorway) 
-TROI: I suggest you find a new line of work. 
-ALEXANDER: I asked Counsellor Troi to join us. She loves Western
-stories. 
-ELI: You'll regret this, stranger. 
-(Eli twirls his pistol back and forth before holstering it.)
+(Eli is in the jail) 
+WORF: What are his rights in this century? Is there be a trial or shall
+I execute him? 
+ALEXANDER: We're supposed to hold him until the US Marshal comes, and
+then we'll take him to Rapid City for a trial. 
+GUEST6: Frankly, I don't think I'll be around here that long. Not after my
+old man hears about this. 
+WORF: What old man are you referring to? 
+GUEST6: My pa. When he breaks me out of this tin can, the gravedigger'll
+be working overtime. 
+ALEXANDER: Your pa's no match for Sheriff Worf. 
+WORF: Yes. When your pa comes, we will be ready for him. 
+TROI: (lighting a cigar) He's right. You're no match for the
+Hollanders. 
+WORF: I am sure the three of us can handle any problems. 
+TROI: Hold on. I was just passing through town, saw a little trouble,
+thought I'd lend a hand. But I ain't one of your deputies, Sheriff. 
+WORF: Counsellor, I would appreciate some support in this matter. 
+TROI: Durango. I'm called Durango. 
+WORF: Yes, er, Counsellor Durango, perhaps you would consider becoming
+a temporary deputy? 
+TROI: For a price. Five hundred dollars. 
+WORF: Alexander we require large amounts of currency. 
+ALEXANDER: Yes, sir. I'll go to the bank and make a withdrawal. 
+(Alexander leaves) 
+WORF: Deanna, how do you know so much about this period in Earth's
+history? 
+TROI: My father used to read me stories from the Ancient West when I
+was a little girl. I must admit, I always wanted to play the part of
+the mysterious stranger. 
+(the saloon owner, a buxom middle-aged woman, enters and kisses Worf) 
+GUEST5: You are so brave, facing down that evil man like you did. 
+WORF: Why hank you. Miss? 
+GUEST5: Annie, you big galoot. You best not forget that tonight, 'cos
+I'm going to make you beef steak and some gooseberry cobbler for
+dessert. 
+TROI: Sounds delicious. 
+GUEST5: And I bought some special candles for the table setting. Pure
+beeswax. 
+WORF: I will not be able to come this evening. I have a prisoner. 
+TROI: I'll watch him for you, Sheriff. You two go have a good time. 
+WORF: That's very considerate of you, but I would be negligent in my
+duties if I did not stay. I am sorry, Miss Annie. 
+GUEST5: It's another woman, ain't it? It's that floozy down there at
+Miss Langford's house of pleasure. 
+WORF: Who? 
+(Annie slaps Worf's face and leaves) 
+GUEST6: You sure got a way with women, Sheriff.
 

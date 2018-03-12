@@ -1,34 +1,5 @@
-TROI LAFORGE WORF RIKER COMPUTER GIA SKORAN TALUR DATA GARVIN
-
-[Holodeck - Engineering]
-
-TROI: Computer, load Bridge Officer's test,
-Engineering qualification section one. 
-COMPUTER: Computer ready. 
-TROI: Run programme. 
-WORF: The control system for the primary containment field is not
-functioning. 
-LAFORGE: Something's severed the ODN conduit between here and the
-antimatter storage deck. 
-TROI: Geordi, could you repair the ODN conduit if you went into the
-crawlspace? 
-WORF: Sir, that crawlway is in a warp-plasma shaft. He would never
-survive the radiation. 
-TROI: I know that. Geordi, could you repair the conduit? 
-LAFORGE: Yeah, I think I could. 
-TROI: Then do it. That's an order. 
-(Geordi exits to the Jefferies tube) 
-RIKER: End simulation. Something told me you wouldn't let this go.
-Congratulations. You passed. 
-TROI: That's what this was all about, wasn't it? To see if I'd order
-someone to their death. 
-RIKER: That's right. 
-TROI: I knew that was part of being in command and I thought I'd
-prepared for it, but when the moment came I hesitated. Maybe you were
-right. Maybe I'm not cut out for this. 
-RIKER: You did exactly what you had to do. You considered all your
-options, you tried every alternative, and then you made the hard
-choice. Come on, let's get out of here, Commander.
+GUEST4 DATA GUEST6 GUEST2 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Garvin's home]
 
@@ -37,85 +8,85 @@ liquid which is used in lamps. As you can see, the cloth becomes
 luminescent when it is exposed to an energy source. This pendant also
 appears to be an energy source. 
 (flickers on the cloth) 
-TALUR: But where is this pattern of light coming from? 
+GUEST4: But where is this pattern of light coming from? 
 DATA: I believe a stream of particles is emanating from the metallic
 pendant and hitting the cloth. 
-TALUR: I don't see any particles coming from the pendant. 
+GUEST4: I don't see any particles coming from the pendant. 
 DATA: You will see there are. I can even block them. 
 (Data puts the box in between the pendant and the screen) 
 DATA: It would appear that this container was constructed of a material
 which absorbs or blocks the particles coming from the metal. 
-TALUR: It's a trick. 
+GUEST4: It's a trick. 
 DATA: No. It is empirical data. I believe the fragments were originally
 placed in this container to protect people from accidental exposure.
 The word radioactive may be a warning about the dangerous nature of the
 metal. 
-TALUR: All right. Let's say for the moment that you're right, that
+GUEST4: All right. Let's say for the moment that you're right, that
 there are invisible particles coming from the metal. What should we do?
 
 DATA: I will continue my experiment. I would like you to gather all the
 pieces of metal in the village and place them in this container. 
-TALUR: All right. But when I return, I want a more thorough explanation
+GUEST4: All right. But when I return, I want a more thorough explanation
 of all this. And I want to examine your data, in detail. 
 DATA: Of course. 
 (Talur leaves. A few moments later there is a thumping at the door.
 Data opens it.) 
-SKORAN: There you are. You're the cause of this, Ice man. 
+GUEST2: There you are. You're the cause of this, Ice man. 
 DATA: If you are referring to the illness, you are partially correct.
 However, it is more complex than that. The metal fragment which 
 (Data ducks Skoran's attack and sends him against the wall, but his
 crony's attack with an axe removes the covering from half of Data's
 face) 
-SKORAN: What, what are you? 
+GUEST2: What, what are you? 
 (they run away) 
 DATA: I do not know. 
 (later, Skoran pours pieces of metal into the box and Talur closes it) 
-SKORAN: I saw it with my own eyes. He's not a person. He's some kind of
+GUEST2: I saw it with my own eyes. He's not a person. He's some kind of
 creature. 
-GIA: It's not true, Father. 
-SKORAN: We must find him and stop him before he kills us all. 
-GARVIN: I don't. Not Jayden. He wouldn't try to hurt us. 
-SKORAN: Come on. 
+GUEST6: It's not true, Father. 
+GUEST2: We must find him and stop him before he kills us all. 
+GUEST3: I don't. Not Jayden. He wouldn't try to hurt us. 
+GUEST2: Come on. 
 (the armed mob leaves) 
-TALUR: Let him rest for now. You should rest as well. Exerting yourself
+GUEST4: Let him rest for now. You should rest as well. Exerting yourself
 will only make you sicker. I'll be back. 
 (Talur leaves and Gia goes into the study area. Data is wearing a hood)
 
 DATA: Gia. 
-GIA: Jayden? Everyone's looking for you. Skoran said you're some kind
+GUEST6: Jayden? Everyone's looking for you. Skoran said you're some kind
 of creature. 
 DATA: I do not know what I am. But I am not like you. 
-GIA: I know. You're an Ice man. We talked about that. 
+GUEST6: I know. You're an Ice man. We talked about that. 
 DATA: No. I am not. 
-GIA: Jayden, why are you wearing that hood? 
+GUEST6: Jayden, why are you wearing that hood? 
 DATA: I do not wish to frighten you. 
-GIA: I won't be afraid. Take it off. Please, I have to see. 
+GUEST6: I won't be afraid. Take it off. Please, I have to see. 
 (he does, and she recoils at the flashing lights in his face) 
 DATA: I understand your reaction. But I do not wish to harm you. You or
 Garvin or anyone else. I only wish to help, to find a cure for the
 illness. I was very close. I must to continue my work, but it will take
 time. How long until Skoran and the others return? 
-GIA: I don't know. They're looking for you now. 
+GUEST6: I don't know. They're looking for you now. 
 DATA: Then I must hurry. 
 (hours later, Data comes downstairs with a potion in a bowl) 
 DATA: Gia, I believe I have found the answer. 
-GIA: You think you found a cure? 
+GUEST6: You think you found a cure? 
 DATA: I believe so. I tested this medicine on skin samples from your
 father. They showed improvement, so I administered this to him. He is
 now recovering. 
-GIA: What kind of medicine is it? 
+GUEST6: What kind of medicine is it? 
 DATA: A compound I made which will neutralise the particles that are
 making you ill. Swallow this. I must administer this to everyone in the
 village, but I do not think they will trust me after what happened to
 Skoran. 
-GIA: I could tell them. 
+GUEST6: I could tell them. 
 DATA: I am afraid they will not believe you either. Gia, is the well in
 the town square the only source of water for this village? 
-GIA: Well? 
+GUEST6: Well? 
 DATA: This is very important. Are there any other sources of fresh
 water near the village? 
-GIA: No. The nearest river is two days away. 
+GUEST6: No. The nearest river is two days away. 
 DATA: Then I will put this compound into the well water. It may be
 diluted, but it should still have enough potency to work. 
-GIA: Compound
+GUEST6: Compound
 

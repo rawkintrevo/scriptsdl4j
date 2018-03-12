@@ -1,36 +1,33 @@
-PICARD RIKER DATA WORF
+HELM PICARD RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ready room]
 
-(at the science station) 
-RIKER: Anything? 
-WORF: There are no Ferengi vessels within range of our scanners. 
-DATA: Captain, I am unable to find any information on Jason Vigo's
-current whereabouts. 
-PICARD: What about his mother? 
-DATA: No, sir. 
-PICARD: Miranda was trained as a botanist. She always used to talk
-about running a farm one day. Maybe we should concentrate on the
-agricultural areas. 
-DATA: That would significantly narrow our search. The only cultivated
-land is on the southern continent, and there are relatively few people
-engaged in agricultural activities. 
-PICARD: There cannot be many non-Camorites among them. Scan for human
-life signs. 
-DATA: I am detecting eight humans. Three are female. However, they are
-all too young to be Miranda Vigo. 
-PICARD: What about males? 
-DATA: One is an infant. Another is elderly. Two are middle aged. 
-PICARD: That's seven. You said there were eight. 
-DATA: I am having difficulty getting a clear reading on the eighth. The
-individual appears to be approximately two kilometres beneath the
-planet's surface. 
-PICARD: Male or female? 
-DATA: Male, between twenty and thirty years old. 
-RIKER: No one in their right mind would go that far underground alone. 
-PICARD: Unless he were forced to. 
-WORF: Captain, I am reading seismic instability in the area. He is in
-danger. 
-PICARD: Relay his coordinates to the transporter room. Have them beam
-him aboard. 
-DATA: Aye, sir. 
+PICARD: Come. 
+RIKER: The Ferengi Government is debating an amendment to the Rules of
+Acquisition. It could be a while before we hear from them. Data found
+out that the woman you mentioned has a son named Jason. This is the
+most recent picture we could find. 
+PICARD: How old is the boy now? 
+RIKER: Twenty three. He and his mother left Earth twelve years ago.
+They settled on Camor Five. That's all we know. The planet's records
+are virtually non-existent. 
+PICARD: Picard to Bridge. Set a course for the Camor system, warp five.
+
+HELM [OC]: Aye, sir. 
+PICARD: Will, I do appreciate your not asking, but I do think that you
+have a right to know. There is a possibility that the boy is my son. I
+was involved with his mother for a short time about twenty four years
+ago. We met through a friend when I was on shore leave on Earth. It was
+all very romantic, very intense, probably because we both knew I would
+be leaving in two weeks. And we kept in touch for a while, but we never
+managed to get together again. 
+RIKER: She never said anything to you about being pregnant? 
+PICARD: No, so either Bok is wrong and I'm not the father, or Miranda
+decided to raise the child alone, which quite frankly wouldn't surprise
+me. She was very independent, very strong willed. 
+RIKER: She would have to be to get by on Camor Five. 
+PICARD: But whether he's my son or not, he's in danger. Bok tried to
+kill me six years ago, and I don't doubt he will try to make good his
+threat against the boy.
+

@@ -1,54 +1,50 @@
-LAFORGE HAJAR PICARD SITO WESLEY LOCARNO
+GUEST3 WESLEY GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Academy hearing room]
 
-(Data is also present) 
-LAFORGE: I don't know, Captain. The Academy has one of the best
-reconstructive analysis labs in Starfleet. I'm not sure there's much we
-could contribute to the investigation. 
-PICARD: Yes, that may well be. But Wesley's one of our own. 
-LAFORGE: Understood, sir. We'll get right on it. 
-PICARD: Good. I've spoken with Admiral Brand and she's agreed to allow
-us access to all of the physical evidence and testimony. Thank you,
-gentlemen. 
-[Wesley's room]
-
-SITO: You shouldn't have said it, Nick. Josh wasn't
-responsible for what happened. 
-LOCARNO: I had to do something. 
-WESLEY: You said we wouldn't have to lie to them. We all agreed not to
-lie to them. 
-LOCARNO: I didn't lie. Everything I said was the truth. 
-WESLEY: The accident was not Josh's fault. 
-LOCARNO: Look, he was my friend too, Wes. I worked to get him on this
-team. But the truth is, he panicked. 
-WESLEY: We don't know that. 
-LOCARNO: Of course we do. None of us has wanted to say it out loud, but
-we've all had the same thought. Haven't we? 
-HAJAR: He must have pulled away too soon. I think he got scared. 
-LOCARNO: Sito? 
-(she nods) 
-LOCARNO: Wes, I know you want to protect his memory, We all do. But we
-have to look out for ourselves now. What do you want us to do, walk in
-and tell them everything that happened? 
-SITO: We might as well turn in our uniforms and start packing our bags.
-
-LOCARNO: Are we ready for that? We'll take this one step at a time.
-This is the preliminary report from your flight recorder.
-It was so badly damaged in the crash, that the lab could only retrieve
-a third of the total telemetry on the recorder. And all of it is before
-the collision. There's no problem here. 
-WESLEY: I don't know if I can do this, Nick. 
-SITO: You don't have to lie. Just don't volunteer any new information. 
-LOCARNO: The first night I met you, Wes, I knew I wanted you on this
-squad. You, more than any of the rest, would understand what it means
-to be able to count on someone, because you've been out there, putting
-yourself on the line. You know you've got to be able to count on the
-people on your team, because your life is in their hands, and their
-lives are in yours. We made a promise to each other right in the
-beginning, that we'd stick together. We were Nova Squadron. Nobody else
-could say that. And even after we graduated, we'd try to get posted to
-the same duty. We were going to be a team for a long time. Josh can't
-be a part of those plans anymore, but I think he would still want us to
-be a team. What do you think?
-
+(it is now next morning) 
+GUEST4: Are you ready, Mister Crusher? 
+WESLEY: Yes, sir. This is the beginning of our run toward Titan. I'm on
+the right wing. 
+GUEST4: Where is Mister Albert at this point? 
+WESLEY: He was on my port quarter, approximately fifty metres away.
+We've just received the signal to begin the diamond slot formation.
+That's Cadet Locarno coming into view. We're in a twenty degree turn
+around Titan. We should be coming out of Titan's gravity well about
+now. 
+GUEST4: That is the extent of the data we were able to recover from the
+flight recorder. Mister Crusher, would you describe what happened after
+you left orbit of Titan? 
+WESLEY: Once we cleared the moon, Mister Locarno led us into a Yeager
+loop. Approximately nine seconds later, my proximity alarm went off. I
+tried to veer away, but it was too late and I was hit. I lost control
+of my ship. A power coupling exploded in my cockpit. I don't know how,
+but I managed to activate my escape transporter, and the next thing I
+remember is finding myself on the emergency evac station on Mimas with
+the rest of the squadron, except Josh. 
+GUEST4: Do you have anything to add to your testimony? 
+WESLEY: No, sir. 
+GUEST3: Mister Crusher, will you describe a Yeager loop? 
+WESLEY: The ships begin in a diamond slot formation, and climb and loop
+backwards at a steep angle, and at the peak of the loop, turn over and
+accelerate in a new direction. 
+GUEST3: Mister Crusher, did your team remain in formation throughout
+the loop? 
+WESLEY: Yes, sir. 
+GUEST4: I want you to be absolutely clear on this point, Mister Crusher.
+Before the collision, was Nova Squadron in a diamond slot formation? 
+WESLEY: Yes, sir. 
+GUEST3: Computer, display Saturn NavCon file six dash three seven nine.
+These images were obtained by a navigational control satellite in orbit
+around Saturn during a standard sensor sweep. Computer, freeze image.
+Magnify sector gamma three and enhance. 
+(the five little ships are forming a circle, not a diamond) 
+GUEST3: This image was recorded when your ships moved briefly into the
+satellite's sensor range. According to the time index, what you see on
+the monitor took place seven seconds after Nova Squadron completed the
+Yeager loop. 
+GUEST4: Mister Crusher, are these ships in a diamond slot formation? 
+WESLEY: No, sir. 
+GUEST4: What is your explanation, Mister Crusher? 
+WESLEY: I have none, sir. 

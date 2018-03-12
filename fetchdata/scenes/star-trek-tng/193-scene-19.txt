@@ -1,94 +1,58 @@
-LARSON TROI LAFORGE COMPUTER EINSTEIN CRUSHER BARCLAY
+RIKER GUEST3 WORF PICARD GUEST4 BARCLAY DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ship's theatre]
+[Bridge]
 
-(an acting workshop, and Barclay is in award
-winning mode) 
-BARCLAY: The moon, yes, that'll be my home, my paradise. I shall find
-there all the souls I love. Socrates, Galileo. And when I arrive they
-will question my worthiness. What the devil is he doing there among us?
-Philosopher, scientist, poet, musician, duellist! Here lies Hercule
-Savinien De Cyrano de Bergerac. I would not have you weep any less for
-that charming, good, and handsome Christien. I only ask this, that as
-the great cold surrounds my bones, you allow a double meaning for your
-mourning veil. And when you let fall your tears fall for him, some few
-will be for me. 
-CRUSHER: That was a real improvement. 
-BARCLAY: Same time, day after tomorrow? 
-CRUSHER: Same time.
+RIKER: La Forge? Initiate stabilisation procedure! 
+LAFORGE [OC]: Resetting stabilisers to match subspace flow matrix.
+Stand by. 
+WORF: He is protected by a force field. We could not disconnect him. 
+PICARD: Mister Data? 
+DATA: We are experiencing a quantum-model oscillation delay, doubling
+in intensity every twelve point three seconds. Bio-cellular disruption
+is imminent. 
+GUEST3: Sir! 
+(normality is resumed) 
+RIKER: Where are we, Ensign? 
+GUEST3: Unless something's wrong with our sensors, sir, we're almost
+thirty thousand light years from where we were. 
+PICARD: The centre of the galaxy. 
+GUEST3: Sir, our heading's been altered. Approaching planetary cluster. 
+DATA: Captain, all systems are back under helm control. The computer
+has returned to normal functioning. 
+(a giant white-haired and bearded male humanoid head appears in front
+of the viewscreen) 
+WORF: Captain! 
+GUEST4: Emotive. Electro-chemical stimulus response. Cranial plate,
+bipedal locomotion, endoskeletal. Contiguous external integument. 
+PICARD: I'm Captain Jean-Luc Picard of the Federation Starship
+Enterprise. 
+GUEST4: Hierarchical collective command structure. 
+PICARD: Who are you? 
+GUEST4: Interrogative. 
+PICARD: I am interrogative, yes, and I would appreciate an explanation.
 
-[Ten Forward]
-
-TROI: Reg? May I join you? 
-BARCLAY: Of course, please. Sit down, Counsellor. 
-TROI: Hard at work? 
-BARCLAY: I'm getting prepared for tomorrow's meeting in Engineering.
-We're planning our repair strategy. 
-TROI: I really enjoyed the scene you just performed. 
-BARCLAY: You're a very forgiving audience. 
-TROI: Not at all. I thought you were brilliant. You've changed. 
-BARCLAY: Is that a professional opinion? 
-TROI: Pure observation. 
-BARCLAY: No, it's true. I can't explain it. In the last few days I've
-found confidence I never knew was there. 
-TROI: I'm proud of you, Reg. I'm glad for you, too. Well, I'd better be
-going. 
-BARCLAY: Must you? 
-TROI: I think so. 
-BARCLAY: Wouldn't you like to take a walk with me through the
-arboretum? The zalnias should be in bloom. 
-TROI: Reg, as your former counsellor, I don't think it would be
-appropriate. 
-BARCLAY: I don't need a counsellor. What I need is the company of a
-charming, intelligent woman. 
-TROI: Goodnight, Mister Barclay.
-
-[Engineering]
-
-LAFORGE: Where's Lieutenant Barclay? 
-LARSON: I stopped by his quarters on my way over. He wasn't there. 
-LAFORGE: Computer, location of Lieutenant Barclay. 
-COMPUTER: Lieutenant Barclay is on holodeck three.
-
-[Holodeck]
-
-EINSTEIN: G sub I, J of t as t approaches infinity.
-
-BARCLAY: G of t over G naught. 
-EINSTEIN: So it is, so it is. 
-BARCLAY: I still don't see how you're going to incorporate quantum
-principle into general relativity without adjusting the cosmological
-constant a lot more than you're doing here. 
-EINSTEIN: If we increase the value as you suggest, we must face the
-possibility of twenty six dimensions, instead of ten. 
-BARCLAY: I don't think I could deal with that. 
-EINSTEIN: I certainly could not. 
-BARCLAY: If the semiset curved into the subatomic, the infinities might
-cancel each other out. 
-EINSTEIN: Gruss Gott. They just might. 
-LAFORGE: We had a meeting at oh seven hundred. 
-BARCLAY: I'm sorry, Commander. Thank you, Professor. End programme. 
-[Corridor]
-
-LAFORGE: What was that all about? 
-BARCLAY: I had some ideas late last night. I needed to consult with the
-computer about some quantum electrodynamic calculations. A holodeck
-Einstein programme seemed like the best way. I guess I went a little
-overboard. 
-LAFORGE: A little? Most of the stuff on that blackboard was way out of
-my league. And yours too. 
-BARCLAY: Not really. I just haven't thought along those lines before.
-It's all pretty evident now, and if you were to put your mind to it I'm
-sure 
-LAFORGE: Reg, ever since our run in with that probe, something's
-different about you. 
-BARCLAY: What, because I'm beginning to behave like the rest of the
-crew? With confidence in what I'm doing? 
-LAFORGE: You just spent the entire night arguing grand unification
-theories with Albert Einstein! 
-BARCLAY: Yes, but 
-LAFORGE: Reg, something's happened to you, and we can't ignore that. 
-BARCLAY: Yes. I've finally become the person I've always wanted to be.
-Do we have to ask why? 
-LAFORGE: Yeah, I think we do.
+BARCLAY: I think I can help you with that, Captain. 
+RIKER: Mister Barclay. I thought it would be fatal if you left the
+holodeck. 
+BARCLAY: The Cytherians have reintegrated me, sir. 
+GUEST4: Cytherians. 
+BARCLAY: The probe was designed to instruct outsiders on how to reach
+this system. The technologies aren't always compatible. They failed
+with the Argus computer, and with the computer on board the shuttle,
+but they were able to reprogram me. 
+PICARD: What do you want of us? 
+GUEST4: The same as you. 
+PICARD: Mister Barclay? 
+BARCLAY: You're both on the same mission, Captain. 
+PICARD: Mission? 
+BARCLAY: Yes, sir. The Cytherians are exploring the galaxy just as we
+are. The only difference is that they never leave their home. They
+bring others here. Their only wish, an exchange of knowledge. They want
+to know us. 
+Captain's log, stardate 44721.9. After ten days in
+the company of the Cytherians, the Enterprise has been safely returned
+to Federation space. We bring back knowledge of their race that will
+take our scholars decades to examine. Lieutenant Barclay is apparently
+no worse for his experience.
 

@@ -1,61 +1,32 @@
-RIKER LAFORGE WORF PICARD SICKBAY CREWMAN DATA
-
-[La Forge's office]
-
-LAFORGE: Where? 
-DATA [OC]: Aft. Outboard of the port nacelle. 
-LAFORGE: Hold on, I'll check.
-
-[Engineering]
-
-LAFORGE: No, I show nothing here, Data.
+PULASKI RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Problem, Commander? 
-DATA: Possibility, sir. An unexplained power fluctuation. 
-RIKER: Let me know if it reoccurs. 
-DATA: Aye, sir.
+RIKER: Sickbay, this is the Bridge. We are ready to
+begin loading. 
+PULASKI [OC]: We need a little more time. It's taking longer than we
+anticipated to categorise these specimens.
 
-[Corridor]
+[Pulaski's office]
 
-(The light pops up through the floor, hides from
-them follow a couple of crew, and goes up into crew quarters. It seems
-to examine one man asleep, then passes through a bulkhead, goes
-underneath the sheets and into Deanna Troi, who wakes up panting)
-
-Captain's log, Stardate 42073.1. There has been an
-outbreak of an unclassified plasma plague in the Rachelis system. We
-are on an emergency run to collect specimens of the deadly plague and
-transport them to Science Station Tango Sierra, where hopefully an
-antidote can be produced.
-
-[Cargo deck five]
-
-LAFORGE: How's it going? 
-CREWMAN: Finished. Just waiting to insert the modules.
-
-[Bridge]
-
-PICARD: Number One. 
-RIKER: Lieutenant La Forge says we will be able to engage the warp
-drive within the hour. 
-PICARD: Grand. Mister Data, when we have a complete list of all the
-specimens we will be carrying, I want you and Doctor er, 
-DATA: Pulaski, sir. 
-PICARD: Doctor Pulaski. I want you to go through them. 
-DATA: Aye, sir. 
-PICARD: By the way, where is our new doctor? Has she reported in? 
-RIKER: Not yet. 
-PICARD: Sickbay, this is the captain. 
-SICKBAY: Sickbay, aye. 
-PICARD: Is Doctor Pulaski there? 
-SICKBAY [OC]: Er, no, sir. The Doctor is in Ten forward. 
-PICARD: Thank you. 
-SICKBAY [OC]: Aye, sir. 
-PICARD: A few hours on board and already she's found Ten forward. 
-RIKER: I'll go get her. 
-PICARD: No. I'll go. 
-WORF: (nice new heavy baldric) Not the best way to meet your new
-Captain.
-
+PULASKI: Da(h)ta, look at this. 
+DATA: Data. 
+PULASKI: What? 
+DATA: My name. It is pronounced Data. 
+PULASKI: Oh? 
+DATA: You called me Da(h)ta. 
+PULASKI: What's the difference? 
+DATA: One is my name. The other is not. 
+PULASKI: Is this possible? With all of your neural nets, algorithms,
+and heuristics, is there some combination makes up a circuit for
+bruised feelings? Possible? (returns to the monitor) I am unfamiliar
+with this symbol. 
+DATA: It indicates a genetically engineered biological life form. 
+PULASKI: About twenty percent of the specimens fall into that category.
+Some eager beaver at play. 
+DATA: Query. Eager beaver? 
+PULASKI: Well in this case, eager beaver refers to some overachieving
+genetic engineer, who, probably because of lack of anything better to
+do, has forced this strain of virus to mutate, just so we can see how
+bad, bad can get. Captain Picard. 

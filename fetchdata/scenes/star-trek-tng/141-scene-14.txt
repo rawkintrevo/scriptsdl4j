@@ -1,82 +1,62 @@
-HILDEBRANDT PULASKI WESLEY COMPUTER DAVIES SARJENKA DATA
+RIKER OBRIEN WORF PICARD TROI WESLEY GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Geophysics lab]
+[Transporter room]
 
-(A young scientist is reducing a rock to ash for
-analysis)
-WESLEY: Ensign Davies? 
-DAVIES: You got him. 
-WESLEY: Wesley Crusher. I've been put in charge of the planetary
-geological surveys, and I'd like to have you on the team. 
-DAVIES: Sounds great. Who else is on it? 
-WESLEY: I have Prixus and Alans and Hildebrandt. 
-DAVIES: It's a shame you didn't talk to me first. It's just personal
-opinion, but I like to break up married teams. 
-WESLEY: I hadn't thought of that. 
-DAVIES: Don't worry, they'll probably work out fine. And if you need
-any help, just give me a signal and I'll take over for you. We don't
-want you to get too beat up on your first command. 
-WESLEY: Thanks, but I'm pretty sure I'll be all right.
+O'BRIEN: There's going to be hell to pay. 
+DATA: Where is Commander Riker? 
+O'BRIEN: On the Bridge. Where are you going? 
+DATA: To the Bridge. 
+O'BRIEN: And you're going to take that? 
+GUEST1: Don't leave me here. Please don't leave me. 
+DATA: Quite impossible.
 
-[Data's quarters]
+[Bridge]
 
-DATA: Computer, identify please. 
-COMPUTER: Sensors indicate low-level rf waves. 
-DATA: Is there a pattern? 
-COMPUTER: Affirmative. 
-DATA: Naturally occurring? 
-COMPUTER: Negative. 
-DATA: Key universal translator, please. 
-COMPUTER: Unable to comply. Weak signal. 
-DATA: Lock on comm. link and boost. 
-COMPUTER: Lock on complete. 
-DATA: Read, please. 
-COMPUTER: Insufficient signal strength. 
-DATA: Enhance, please. 
-SARJENKA [OC]: Is anybody out there? 
-DATA: Yes.
-
-[Corridor]
-
-(Kate is passing by when she spots Wesley loitering
-with intent, and a PADD) 
-PULASKI: Wes? 
-WESLEY: Hi, Doctor Pulaski. 
-PULASKI: You have trouble behind that door? 
-WESLEY: My team's in there. I've got to assign planets, set a schedule.
-
-PULASKI: It sounds like you've got everything under control. 
-WESLEY: I haven't had to deal with them yet. Not together, not
-professionally. 
-PULASKI: Wes, the minute you walk through that door they're your team.
-You have nothing to prove. You've got the authority. 
-WESLEY: That's just 'cos Commander Riker says I do. 
-PULASKI: It's up to you to hang on to it. Now, you'd better get in
-there, and Wes, for whatever it's worth, I think you're going to do
-just fine. 
-Captain's log, stardate 42737.3. It has been six
-weeks since our entrance into the Selcundi Drema sector. Each system
-has revealed the same disturbing geological upheavals on every planet.
-
-[Geophysics lab]
-
-HILDEBRANDT: (the woman on the team) It seems to be
-at this point we can expect the greatest tectonic stresses. 
-WESLEY: I agree. Nice job. 
-DAVIES: Here are the results of my scan on the third Selcundi system.
-It's just the same old song. 
-WESLEY: Didn't you tell me that UV absorptions like these are
-indicative of traker deposits? 
-DAVIES: And where there's traker there's generally dilithium? Yes, I
-did. 
-WESLEY: So don't you think we ought to run an ico-spectrogram? 
-DAVIES: Well, Wes, these traker readings are really faint. It's
-probably just a fool's echo. 
-WESLEY: I think I'd still run an ico-gram. 
-HILDEBRANDT: Wesley, it's a major undertaking to set up the scanner. 
-DAVIES: We're looking at five hours minimum. 
-WESLEY: I know, I know. I don't want to do a half way job. 
-DAVIES: Wes, there's being thorough and then there's wasting time. It's
-also the mark of a good officer to recognise the difference. 
-WESLEY: Maybe you're right.
+(Picard is pacing back and forth) 
+WORF: Sir, three minutes to resonator launch. 
+PICARD: Where is he? 
+RIKER: He'll be here. 
+(Data and Sarjenka enter) 
+PICARD: He has brought a child onto my ship and on my Bridge. 
+RIKER: I'm sure Mister Data has a very good explanation. 
+DATA: I do, sir. She was frightened and did not wish to be left alone 
+PICARD: Mister Data, kindly assume your station. Counsellor, will you
+escort her to Sickbay. 
+GUEST1: No, Data, no. I'm scared. Don't make me go. 
+TROI: It's all right, no one's going to hurt you. 
+GUEST1: No! 
+TROI: We'll just go and get a treat, and then 
+GUEST1: No.
+DATA: Captain, I will see to it that she is not in the way. 
+WORF: One minute to launch. 
+TROI: Come on, it'll be all right. 
+GUEST1: No. Just leave me alone. I want Data. 
+DATA: Counsellor, allow me. Please. Sarjenka, no one will harm you.
+These are my friends. 
+PICARD: Mister Data, take your station and keep her with you. This does
+concern her. 
+WORF: Ten seconds. 
+DATA: I will require my hand. Thank you. 
+WORF: Firing torpedoes. 
+(Four balls of red light streak away) 
+DATA: Sensors locked on probes. 
+WORF: Torpedoes have reached their targets. 
+DATA: Resonators activated. Harmonic sequences have begun. 
+GUEST1: What are you doing? 
+DATA: We are attempting to quiet your planet. If we succeed, there will
+be no more quakes, no more
+volcanoes. 
+PICARD: Ensign, when should the results be known? 
+WESLEY: They should happen very quickly, sir. 
+GUEST1: And my parents and brothers? 
+DATA: Captain, sensors indicate a planetwide reduction in tectonic
+stress levels. 
+WESLEY: It worked. We did it. 
+DATA: Your parents will be safe now. 
+GUEST1: You did this for me? 
+DATA: Look, Sarjenka, there is your home.
+PICARD: Data, escort her to Sickbay. 
+DATA: Aye, sir. 
+PICARD: Number One, you have the Bridge.
 

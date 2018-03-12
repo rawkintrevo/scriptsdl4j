@@ -1,70 +1,102 @@
-LWAXANA TROI PICARD
+TROI TASHA PICARD RIKER GUEST0 GUEST5 LWAXANA GUEST2 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Lounge]
 
-TROI: Mother, it's quite inappropriate to ask the
-captain to 
-LWAXANA: Yes, you do seem to be having difficulty. A man your age must
-work to keep himself in shape. 
-TROI: Mother, I'm not going another step like this. A starship has its
-customs, just as we do. If you're my mother's valet, then please valet!
+GUEST0: We've talked it over, Captain, and the
+ceremony will be tomorrow if you agree. And Captain, would it be
+possible for you to perform the ceremony? 
+PICARD: Well, yes, of course, if all parties request it. 
+LWAXANA: All parties do not request it. It's simply out of the
+question. I'm sorry, Captain, but unfortunately you are not practiced
+in the ways of Betazed joining. 
+PICARD: No, that's quite true. 
+LWAXANA: Therefore you are totally unqualified. 
+GUEST0: He is qualified to lead a traditional Earth ceremony, which
+is what this will be. 
+LWAXANA: I thought you had no sense of humour. Earth wedding?
+Ridiculous! 
+GUEST0: My family and I are living on Earth now. 
+LWAXANA: So, that's why you want that backward ritual. Terrible,
+Captain, to see a woman go downhill like this. 
+TROI: Mother! 
+GUEST0: Downhill? 
+LWAXANA: The matter is settled. Mister Homn will conduct the joining. 
+GUEST2: But Homn can't even talk! 
+LWAXANA: No matter, he is highly adept in the acts of sign language.
+The matter is closed. 
+GUEST0: Who are you to tell us what we should do? 
+LWAXANA: Your ignorance is astonishing. I am Lwaxana Troi. Daughter of
+The Fifth House, Holder of the Sacred Chalice of Rixx, Heir to the Holy
+Rings of Betazed. Who are you? 
+PICARD: Ladies and gentlemen, it is a Starfleet tradition that at
+social gatherings, disputes are not permitted. I hereby declare
+therefore all disagreements resolved. 
+(At table, during the meal) 
+PICARD: A toast. To the young couple and their families. 
+GUEST0: And? 
+PICARD: And may this union be a productive one. 
+(General hear, hear, and cheers) 
+(Data is standing by Mr. Homn, who is standing by a small gong, and
+knocking back drinks as if he's spent a month in a desert) 
+DATA: Considering the rate at which you imbibe, sir, is your lineage at
+all mixed with human? 
+(Homn exaggeratedly sticks his nose in the air. Such an insult, young
+android) 
+GUEST5: Is it true, Captain, that there's a Tarellian ship headed for
+Haven? 
+(Lwaxana takes a bite of food, Homn strikes the gong. This goes on
+during the following conversation and gets on everyone's nerves) 
+PICARD: Yes, it is true. 
+GUEST5: That's amazing. I've read everything I could about them.
+Biological virus analysis was a favourite subject at medical school. 
+CRUSHER: In which case I'd very much like to confer with you. I'm
+pleased to have a medical colleague aboard. 
+GUEST5: Yes, ma'am, Doctor. Would it be possible to prepare some medical
+needs, geared toward the Tarellian's probable needs? We could beam it
+over without any fear of infection. 
+PICARD: What do you think, Doctor? 
+CRUSHER: It's a very considerate idea. Our Sickbay is at your disposal,
+Doctor. 
+GUEST5: Thank you. 
+PICARD: Mister Data? 
+DATA: Sir? 
+PICARD: You're circling the room like a buzzard. 
+DATA: Perhaps being human yourself, sir, you do not find them as
+intriguing as I. 
+GUEST0: Must he do that? 
+LWAXANA: As you well know, it is the Betazed way of giving thanks for
+the food we eat. 
+GUEST0: You giving thanks? Besides, you never did this before. 
+LWAXANA: I do it now. Unlike some people, I am in growth. 
+(The apparently decorative leaf-like thing on her sleeve, shakes at
+her) 
+LWAXANA: Victoria, I've forgotten whether you enjoy pets or not. 
+GUEST0: Love them, of course. 
+LWAXANA: Good. 
+(So the thing on her sleeve slides over to Victoria Miller, who of
+course screams) 
+LWAXANA: Gently, gently. Poor baby, did she hurt you? 
+RIKER: Captain. If you'll excuse me, I'd like to spend some time
+considering the Tarellian situation 
+PICARD: Yes, of course. 
+RIKER: Ladies and gentlemen. 
+(Riker leaves) 
+DATA: Mrs. Troi, I'm very interested in the Betazed ceremony you
+mentioned. Could you tell us more? 
+LWAXANA: Why, I'd be delighted, Commander. It's an ancient ceremony,
+widely regarded as the most beautiful in the universe. After the young
+couple have removed their clothing 
+TASHA: The bride and groom go naked? 
+LWAXANA: All guests must go unclothed. It honours the act of love being
+celebrated. Oh, you needn't worry too much, dear. Your body's not that
+bad. Besides, your husband quite likes the idea of seeing me unclothed.
 
-PICARD: Oh, please don't let me keep up from doing your duty. 
-LWAXANA: I apologise for her behaviour. Do you realise you've
-embarrassed your Captain? 
-PICARD: Oh, no. 
-LWAXANA: Anything to avoid a quarrel on this occasion. It's amazing how
-that accent of yours reminds me of your father. 
-(Mr. Homn the valet lifts the case with ease) 
-TROI: Your last valet tried so hard to rid me of it. Whatever happened
-to Mister Xelo? 
-LWAXANA: I was forced to terminate his employment. Xelo was strongly
-attracted to me. His thoughts became truly pornographic.
-
-[Turbolift]
-
-LWAXANA: Of course, the thoughts of Wyatt's father
-toward me were almost as vulgar, but he really doesn't have Xelo's 
-PICARD: Passenger accommodation. 
-LWAXANA: He doesn't really have Xelo's imagination. 
-TROI: Mother. 
-LWAXANA: Between him and that woman's inane chatter, it's a wonder I
-made it here at all. How do you like the Millers, Captain? 
-PICARD: I'm sure I find them perfectly pleasant 
-LWAXANA: As for me, I find it shocking how they've changed in the years
-since my husband and I knew them. Of course, it's probably because I've
-grown beyond them. You realise of course that with Betazoids, our
-ability to read the thoughts of others does see us grow much faster
-than the typical plodding human who 
-TROI [OC]: Mother, that's enough! 
-LWAXANA [OC]: So, you're not totally out of practice. Good. Very good.
-
-[Lwaxana's quarters]
-
-PICARD: We hope you find the room comfortable. 
-LWAXANA: Yes, the room is adequate. Small, but adequate. You will of
-course adjust the temperature to a civilised level? 
-PICARD: I'll see what I can do. And now, if you will excuse me, I'm
-sure the two of you have a lot to talk about. 
-LWAXANA: Yes, Captain. You may go. 
-(Picard backs out of the room with a bow) 
-LWAXANA [OC]: You've been slack, little one. Allowed your mental powers
-to rust. 
-TROI [OC]: Only to avoid confusion, mother. Humans constantly think one
-thing and say another. 
-LWAXANA [OC]: Yes, they do, don't they. Poor dears. Our style of
-complete honesty frightens them. 
-TROI: On that subject Mother, there is such a thing as too much honesty
-with humans. 
-LWAXANA [OC]: If they'd only say what they think instead of hiding it.
-An entire shipload of such inconsistency could drive one insane. 
-LWAXANA: Darling, I'm terribly sorry about what happened here. Truly I
-am. Steven Miller tracked me down and reminded me of the vows we had
-made. 
-TROI: Mother, I'm having some trouble believing in those vows as once I
-did. 
-LWAXANA: Deanna. 
-TROI: But I'll honour them, of course. I'm a Betazoid. 
-LWAXANA: You may find Wyatt an unusual person. I've sensed remarkable
-depths in him.
+GUEST0: Steven! 
+LWAXANA: You did know he's attracted to me, didn't you? 
+GUEST2: Untrue! I don't. 
+TROI: Stop this petty bickering, all of you! Especially you, Mother! 
+(Troi storms out, knocking over the gong on her way)
+DATA: Could you please continue the petty bickering? I find it most
+intriguing.
 

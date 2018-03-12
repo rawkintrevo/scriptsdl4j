@@ -1,39 +1,59 @@
-RIKER LAFORGE WORF PICARD DATA ALLENBY
+TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation lounge]
 
-DATA: I have completed another full scan of the
-area, sir. There is no further indication of the anomaly. 
-PICARD: Ensign, prepare to resume course to T'lli Beta. Mister Data,
-what velocity would put us back on schedule? 
-DATA: A resumption of our present course at warp six will place us in
-the T'lli Beta system in six days, thirteen hours, forty seven minutes.
+RIKER: Could it be some sort of tractor beam? 
+DATA: No other ship is indicated. 
+PICARD: Mister Worf, what is your analysis? 
+WORF: Tactical sensor readings are indeterminant. 
+LAFORGE: They don't even give us enough for an educated guess. 
+RIKER: And yet all sensors are operating properly. 
+PICARD: Can there be an intelligence at work here? Counsellor, do you
+sense a lifeform out there? 
+TROI: No, I don't think so. No. There's nothing. Nothing. I sense
+nothing. 
+PICARD: It's alright, Counsellor. Perhaps there's nothing out there to
+sense. 
+DATA: Indeed, there are many races that are not empathically
+detectable. The Breen, the Ferengi, the 
+TROI: No, you don't understand. I don't sense anything. Not out there,
+not in here. All of you, you're all blank to me. 
+[Sickbay]
 
-RIKER: What, no seconds? 
-DATA: I have discovered, sir, a certain level of impatience when I
-calculate a lengthy time interval to the nearest second. However, if
-you wish 
-RIKER: No, no. Minutes is fine. 
-PICARD: Stand ready at warp six, Ensign. 
-ALLENBY: Aye, sir. 
-PICARD: Engage. 
-(there's a jolt, and red alert comes on) 
-RIKER: Riker to Engineering. Geordi, what the hell happened?
+CRUSHER: No indication of a concussion or a blow to
+the head. Just a pattern of unresponsive neural cells throughout the
+cerebellum and cerebral cortex. 
+TROI: Unresponsive? 
+CRUSHER: There's brain damage. How serious, I can't tell yet. 
+TROI: But I feel perfectly fine otherwise. 
+RIKER: Can you treat it? 
+CRUSHER: I'm not sure. I have to review the database on Betazoid
+neurophysiology. 
+TROI: The Betazoid brain has a remarkable ability to heal itself. This
+condition could just reverse itself time. 
+CRUSHER: It might. But you are half human. That changes the map a
+little. I don't want to offer you any false hopes. 
+TROI: It's just hope, Beverly. Not false hope. 
+RIKER: What would cause something like this? Because it started at the
+same time we encountered the anomaly. 
+CRUSHER: There may be a connection. I don't know. If you were anyone
+else, you know the first thing I'd do? I'd send you to Counsellor Troi.
 
-[Engineering]
+TROI: Well, then I have an advantage, don't I? I see her quite often. 
+CRUSHER: Deanna, it's no different than one of us suddenly going blind.
 
-LAFORGE: Checking. Looks like the field collapsed
-before we could enter warp.
+TROI: You don't have to tell me, Beverly. I understand the psychology. 
+CRUSHER: You may understand it but you've never had to live with it. 
+TROI: I may be perfectly fine by tomorrow. 
+CRUSHER: And you may not. Now, I'll do my homework. I'll see what I can
+do to regenerate those cells. In the meantime, I want you to talk to
+someone. There are several people on board who have degrees in
+psychology, who are qualified therapists. 
+TROI: Okay, fine, if I need to. Right now, I just want to go back to
+work. 
+RIKER: Deanna. 
+TROI: If there are no medical objections? 
+CRUSHER: No medical objections. 
+TROI: Thank you, Beverly. Will.
 
-[Bridge]
-
-LAFORGE [OC]: Recommend full stop while I check it
-out. 
-PICARD: Back to full stop, Ensign. 
-ALLENBY: Aye, sir. 
-DATA: All decks reporting minor injuries only. 
-PICARD: Damage? 
-DATA: None, sir. 
-WORF: Weapons and shields normal. 
-RIKER: Go to yellow alert. 
-ALLENBY: Captain, we've started moving again. Something is pulling us. 

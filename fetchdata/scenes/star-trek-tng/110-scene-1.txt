@@ -1,39 +1,27 @@
-RIKER LAFORGE WORF TASHA PICARD TROI BOK
+PICARD RIKER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Picard's quarters]
 
-RIKER: They're prepared to talk, sir. 
-PICARD: Have they given any hint of what they've been waiting for? 
-TASHA: Negative, Captain. They've identified their Captain as Bok.
-DaiMon Bok. 
-LAFORGE: You'll be able to see him now, sir. They're willing to
-communicate on visual. 
-PICARD: Open hailing frequencies. 
-TASHA: Hailing frequencies open, sir. 
-PICARD: Ferengi vessel. This is Captain Jean-Luc Picard of the
-Enterprise. We are transmitting visually. 
-BOK [on viewscreen]: Is this the Captain Picard? 
-PICARD: Do we know each other? 
-BOK [on viewscreen]: I know you, Picard. 
-PICARD: Then you have the advantage. Is this Bok? 
-BOK [on viewscreen]: I am Bok, DaiMon of the Ferengi. I have asked you
-here to discuss a mutual problem, Captain. 
-PICARD: What problem is that, DaiMon Bok? 
-BOK [on viewscreen]: I insist on speaking of that matter in person.
-Shall we meet on your vessel or mine? 
-(Troi signals the transmission cut) 
-TASHA: Hailing frequencies closed. 
-TROI: Captain, I sense considerable deception on Bok's part. And
-danger. 
-RIKER: Then we should meet him here. Keep him under our control. 
-(Picard nods) 
-TASHA: Now open, sir. 
-PICARD: I appreciate your offer, DaiMon Bok. We would like you to be
-our guest here. 
-BOK [on viewscreen]: As you wish, Picard. Perhaps this will begin a new
-era of cooperation for both our peoples. In one Earth hour, then? 
-PICARD: In one hour, DaiMon Bok. End transmission. 
-WORF: I can't believe they're coming here. 
-PICARD: They did agree a bit easily. Well, in one hour we shall know
-why.
+(Picard is reading, when the door bell chimes, and
+Beverly enters with her medical bag) 
+CRUSHER: You sent for me, sir? 
+PICARD: Yes, Doctor. Sit down. Look, this perhaps may be nothings, but
+I've been feeling a bit odd of late. Fatigued. And now I've got this
+damned headache. 
+CRUSHER: A what? 
+PICARD: Headache. Headache. Surely you know what a headache is. 
+CRUSHER: Of course. But I don't often encounter them. 
+PICARD: The reason is obvious, of course. What are the Ferengi up to?
+Stand by, Enterprise. Stand by for what? 
+CRUSHER: I don't see a thing wrong. 
+PICARD: No, neither can I. Unless they're baiting some kind of trap. 
+CRUSHER: With your head. I see nothing physically wrong, but I want to
+run some additional scans in Sickbay. 
+PICARD: Doctor, all I've got is 
+CRUSHER: Is an order to report to Sickbay. From the one person aboard
+this ship who can give you an order. 
+RIKER [OC]: Captain from First Officer. They're finally sending a
+message. 
+PICARD: On my way, Number One. Sorry, Doctor. Duty calls.
 

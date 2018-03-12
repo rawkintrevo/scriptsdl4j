@@ -1,79 +1,45 @@
-RIKER ODAN PICARD TROI OGAWA CRUSHER DATA
+RIKER WORF PICARD COMPUTER CRUSHER DATA GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Engage tractor beam. Report, Number One. 
-RIKER [OC]: We've lost port thrusters 
-[Shuttlecraft]
-
-RIKER: And both backup stabilisers. I'm losing
-control. 
-PICARD [OC]: We're bringing you in. 
-(the tractor beam grabs them and the other ship veers off) 
-RIKER: Captain, the shuttle hull has been weakened. We're breaking up.
-You can't tow us. You'd better beam us directly on board. 
-ODAN: No, don't do it. 
-RIKER: I can't stabilise the shuttle. 
-ODAN: If you transport me, it will kill me. Please. 
-PICARD [OC]: Number One we're ready to beam you aboard. 
-RIKER: Belay that order, Captain. I'll bring her in manually. 
-[Bridge]
-
-RIKER [OC]: Advise Doctor Crusher we have a medical
-emergency.
+PICARD: Computer, what is the time? 
+COMPUTER: Fifteen thirty five hours. 
+CRUSHER: They've been in there for almost six hours. 
+WORF: Captain, I am receiving a message from the ship carrying the
+Trill host. 
+CRUSHER: Are they here, Worf? 
+WORF: No, they are experiencing difficulty. They do not anticipate
+their arrival for another nine hours. 
+CRUSHER: Nine hours. 
+(Riker-Odan enters, looking like hell) 
+RIKER: It was worth it. 
+(he collapses) 
+PICARD: Ambassador! 
+RIKER: They will not go to war. 
+PICARD: Mister Worf, see that the representatives are safely
+transported off the ship. Ensign, set a course to intercept with the
+Trill ship. Prepare to go to warp nine. 
+DATA: Sir, it could take more than two hours to reach the vessel. 
+CRUSHER: I must remove him. I gave my word.
 
 [Sickbay]
 
-CRUSHER: He's in shock, he's lost a lot of blood,
-but that still doesn't explain these readings. Eosinophilia in the
-cerebrospinal fluid at forty six percent. 
-OGAWA: Sedimentation rate is twenty nine, but his lymphocytes are still
-intact. 
-CRUSHER: It's as though there's a parasite at work. Odan, Odan. I need
-to do exploratory surgery. You may have a parasitic infection. 
-ODAN: You must not. 
-CRUSHER: But you won't survive. 
-(then she notices the movement in his abdomen) 
-CRUSHER: What is that? 
-ODAN: Beverly, that is me. 
-CRUSHER: What? 
-ODAN: This body is just a host. I am that parasite. That is what must
-survive. It has always been this way. The Trill are a joined species. A
-host and a symbiont, and in this fashion we have survived for
-millennia. 
-CRUSHER: You're dying. What can I do? 
-ODAN: The host body is dying. You must contact the Trill quickly. Tell
-them I need another host. They will send a replacement. I know this is
-difficult to accept, but I beg you, Doctor Beverly, help me. This
-mission must be completed.
-
-[Observation lounge]
-
-CRUSHER: Odan's host body died of the injuries just
-over an hour ago. But the symbiont being, Odan, is still alive. Odan is
-the one who negotiated the last treaty, but the man everyone thought
-was his father was just another host body. 
-RIKER: And the reason Odan refused the transporter? 
-CRUSHER: It would have damaged the symbiont. 
-PICARD: We've contacted the Trill. Another host will be here in forty
-hours. 
-CRUSHER: I've placed Odan in stasis. He can survive another hour, maybe
-two, but not beyond that. 
-DATA: Would it be possible for me to serve as a temporary carrier? 
-CRUSHER: No, Data. The relationship requires a biological being. 
-PICARD: We are at a desperate impasse in the Peliar system. The attack
-on the shuttlecraft has inflamed the dispute. 
-TROI: Who was responsible? 
-PICARD: No one will admit anything. Each side accuses the other and the
-threats are mounting. We need Odan. 
-RIKER: Doctor, could a human host carry him? 
-CRUSHER: I believe so. From Odan's description of the process it should
-be possible. But I don't have 
-RIKER: Then I volunteer. 
-CRUSHER: There's been no precedent for a human host. I couldn't
-guarantee what might happen. 
-PICARD: The risk is too great, Commander. 
-RIKER: Weigh it against the prospect of war. 
-PICARD: It's your choice, Will. 
-RIKER: Let's get to it.
+CRUSHER: Will is going to be all right. His vital
+signs have stabilised and he's sleeping now. 
+PICARD: How is Odan? 
+CRUSHER: I've placed him in stasis. He's fine for the moment. 
+PICARD: You need some rest, Doctor. 
+CRUSHER: No. If Odan is to survive, he needs to be implanted in the new
+host as soon as he arrives. I'll wait here. 
+PICARD: It'll be some time. 
+CRUSHER: I know. 
+(Later, Beverly is sleeping by the stasis jar) 
+WORF: Doctor. 
+CRUSHER: Is the Trill host here? 
+WORF: Yes. 
+CRUSHER: Good. Bring him in. 
+(but a woman enters) 
+WORF: Doctor? 
+GUEST2: I am Kareel. I am to become host to Odan.
 

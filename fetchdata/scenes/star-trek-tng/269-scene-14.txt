@@ -1,61 +1,42 @@
-TROI LAFORGE WORF PICARD RIKER DATABOY DATAIHAT
+PICARD TROI GUEST1 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-PICARD [OC]: Report. 
-RIKER: The archive just activated some kind of tractor beam, sir. We're
-not able to disengage it. 
 [Data's quarters]]
 
-PICARD: Has there been any damage to the ship? 
-[Bridge]
+(Data wakes and puts on his version of Masaka's
+mask)
 
-RIKER: There was an emergency reported in Ten
-Forward. Mister Worf's on his way. 
-LAFORGE: Captain, there's some kind of energy pulse coming through the
-tractor beam. 
-[Data's quarters]
+[Corridor]
 
-LAFORGE [OC]: It's overriding our control systems. 
-PICARD: I'll be right there. 
-DATA-BOY: (gripping Picard's wrist) Don't leave me. 
-PICARD: I won't leave you. Please, let go of me. 
-DATA-BOY: Does it hurt? 
-PICARD: Yes. 
-DATA-BOY: She's going to hurt us all. 
-(he lets go) 
-DATA-IHAT: Now you've done it, Captain. Masaka is awake.
+(Data knocks out the guards)
 
-[Ten Forward]
+[Temple]
 
-(it now contains tropical foliage and stone, and a
-large version of Troi's ornament with a sun image on it. Think lost
-Mayan ruins.) 
-TROI: Who's this? 
-PICARD: I'd say that that is Masaka. Ihat referred to her as a queen,
-and it's not unusual in ceremonial cultures to find royalty symbolised
-by a sun. 
-TROI: You said the personalities inside Data were in awe of her, even
-terrified. 
-PICARD: According to Data, the sun image is also a symbol for death. 
-(on the reverse of the obelisk) 
-PICARD: There it is again. The same U-shaped symbol, small and
-insignificant. Almost as if it's an afterthought. 
-LAFORGE: Captain, this is incredible. These artefacts weren't beamed
-over here from the archive. The matter here in Ten Forward has been
-transformed. 
-PICARD: Into living plants? How is that possible? 
-LAFORGE: I'm not sure. But bit by bit, this ship is being transformed. 
-WORF: We have been receiving reports from the rest of the ship. Part of
-deck twelve is now an aqueduct. 
-TROI: What are we being transformed into? 
-LAFORGE: I'm not sure I want to find out. 
-PICARD: I don't think we have a choice. We must destroy that archive.
-Mister Worf? 
-WORF: Sir, our weapon control systems are inoperative. However, we
-could reconfigure a photon torpedo for manual launch. 
-PICARD: Make it so. 
-(Worf and La Forge leave) 
-PICARD: There's so much here we could have learned. I really regret
-losing that opportunity.
+TROI: This is the most prominent instance of the
+horn symbol we've seen yet. 
+WORF: But now it appears as though Masaka's sun is chasing it. 
+TROI: The sun chasing an animal? 
+PICARD: Maybe it's simpler than that. Maybe their relationship is more
+like the sun and the moon. 
+WORF: I see. Masaka and Korgano switching positions. The sun setting
+and the moon rising. 
+PICARD: Exactly. Like two powerful rulers changing places in a
+continuous cycle. 
+TROI: And like the sun and the moon, only one of them can be in
+ascendance at any given time. 
+PICARD: If we can find Korgano in the archive and bring him out, then
+perhaps he could force Masaka to leave. 
+WORF: But would we be any better off with him? 
+PICARD: Ihat and the others didn't seem to be frightened of Korgano. 
+(the room shake) 
+TROI: Sir. 
+PICARD: Masaka. 
+(Data sits on the throne) 
+PICARD: Masaka, I am Captain Jean-Luc Picard of the Federation Starship
+
+DATA-MASAKA: Go away. 
+PICARD: Please, hear us. Your archive is destroying 
+DATA-MASAKA: I do not hear you. 
+WORF: She will not even listen to us. 
+PICARD: Then we will have to find someone too whom she will listen.
 

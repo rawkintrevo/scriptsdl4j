@@ -1,46 +1,34 @@
-PICARD RIKER CRUSHER LAFORGE WORF
+GUINAN LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ten Forward]
 
-PICARD: Your concern is noted, Doctor, but any
-intervention on our part would alert the Borg to our having been here.
-
-[Crash site]
-
-CRUSHER: I'm afraid we've turned that corner
-already.
-WORF: Kill it now. Make it appear that it died in the crash. 
-[Bridge]
-
-WORF [OC]: Leave no evidence that we were ever
-here. 
-PICARD: Security measures must be taken before we beam it on board. 
-CRUSHER [OC]: Thank you, Captain. Standing by. 
-PICARD: Mister Data, notify Security to prepare a detention cell.
-Bridge to Engineering.
-LAFORGE [OC]: La Forge here. 
-PICARD: We're bringing a Borg survivor on board. We'll need to
-neutralise the homing signal 
-[Engineering]
-
-PICARD [OC]: Prevent it from sending or receiving
-transmissions of any kind.
-LAFORGE: I'll set up a subspace damping field around the detention
-cell. 
-PICARD [OC]: Very well. 
-[Crash site]
-
-WORF: Four more. None survived.
-PICARD [OC]: Picard to Riker.
-RIKER: Go ahead, Enterprise.
-
-[Bridge]
-
-PICARD: We are transporting you directly to the
-detention cell.
-CRUSHER [OC]: I need him in Sickbay, Captain.
-PICARD: The cell, Doctor. Whatever equipment you need will be brought
-to you there.
-CRUSHER [OC]: Very well. 
-(Picard goes to his Ready room, and Troi follows)
+LAFORGE: You know, it's funny. When I first
+creating this invasive programme I didn't have a problem with it. The
+more I work with Hugh, the more I 
+GUINAN: Hugh?
+LAFORGE: That's what we call him.
+GUINAN: You named the Borg? 
+LAFORGE: Well, it was easier to have something to call him.
+GUINAN: Oh, so now you have a Borg named Hugh.
+LAFORGE: Right. And he's nothing like what I expected.
+GUINAN: How so?
+LAFORGE: I don't know. It's like he's just some kid who's far way from
+home.
+GUINAN: Do you know that you're the second person today to refer to
+that Borg as though it were some sort of lost child.
+LAFORGE: Anyway, I'm having second thoughts about what we're doing
+here. I mean, programming him like some sort of walking bomb. Sending
+him back to
+destroy the others.
+GUINAN: Let me tell you something. When that kid's big brothers come
+looking for him, they're not going to stop until they find him. And
+then they're going to come looking for us, and they will destroy us.
+And they will not do any of the soul-searching that you are apparently
+doing right now.
+LAFORGE: Then why don't you go and talk to him. It might not be so
+clear cut then.
+GUINAN: Because I wouldn't have anything to say.
+LAFORGE: Then why don't you just listen? That is what you do best,
+isn't it?
 

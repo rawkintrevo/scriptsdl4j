@@ -1,88 +1,33 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER
+BORG LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Science lab]
 
-WORF [OC]: Leave no evidence that we were ever
-here. 
-PICARD: Security measures must be taken before we beam it on board. 
-CRUSHER [OC]: Thank you, Captain. Standing by. 
-PICARD: Mister Data, notify Security to prepare a detention cell.
-Bridge to Engineering.
-LAFORGE [OC]: La Forge here. 
-PICARD: We're bringing a Borg survivor on board. We'll need to
-neutralise the homing signal 
-[Engineering]
-
-PICARD [OC]: Prevent it from sending or receiving
-transmissions of any kind.
-LAFORGE: I'll set up a subspace damping field around the detention
-cell. 
-PICARD [OC]: Very well. 
-[Crash site]
-
-WORF: Four more. None survived.
-PICARD [OC]: Picard to Riker.
-RIKER: Go ahead, Enterprise.
-
-[Bridge]
-
-PICARD: We are transporting you directly to the
-detention cell.
-CRUSHER [OC]: I need him in Sickbay, Captain.
-PICARD: The cell, Doctor. Whatever equipment you need will be brought
-to you there.
-CRUSHER [OC]: Very well. 
-(Picard goes to his Ready room, and Troi follows)
-
-[Ready room]
-
-PICARD: Come.
-TROI: Captain, I just wondered if there's anything you wanted to talk
-about.
-PICARD: I don't think so, Counsellor.
-TROI: I would have thought having a Borg on the ship would stir some
-feelings.
-PICARD: I'm quite recovered from my experience, thank you.
-TROI: Sometimes even when a victim has dealt with his assault there are
-residual effects of the event that linger. You were treated violently
-by the Borg. 
-Kidnapped, assaulted,
-mutilated. 
-PICARD: Counsellor. Counsellor, I very much appreciate your concern for
-me, but I can assure you it is quite misplaced. I have carefully
-considered the implications of having a Borg on this
-ship. I have weighed the possible risks, and I am convinced that we are
-doing the right thing. Now, I am quite comfortable with my decision.
-TROI: I see. Well, if at any point you want to talk more.
-PICARD: I shall certainly avail myself of your help.
-
-[Brig]
-
-(Crusher is treating the Borg inside the cell) 
-WORF: Lower the forcefield.
-(a medic enters the cell and the forcefield is raised again. Picard
-enters the Brig) 
-WORF: Captain, the Borg is still unconscious.
-CRUSHER: He suffered massive internal injuries. We've been able to
-control the haemorrhaging, but some of the implants in his brain were
-damaged. I may have to remove them.
-PICARD: The Borg will die if they're removed permanently. Their brains
-grow dependent on the biochips.
-CRUSHER: Perhaps Geordi can construct some new implants. 
-LAFORGE: They contain relatively straightforward programming, interface
-protocols. We have the files we downloaded after your experience,
-Captain. I think I can manage it.
-PICARD: Mister La Forge, do you know enough about Borg programming to
-alter the pathways to their root command structure?
-LAFORGE: I'm not sure, sir. The subroutines are pretty complicated. I'd
-probably have to study the data processing algorithms. It's the only
-way I could trace the access codes.
-PICARD: If we could get to the root command, we could introduce an
-invasive programming sequence through its biochip system and then
-return it to the hive. 
-LAFORGE: The Borg are so interconnected it would act like a virus.
-PICARD: Which would infect the entire Collective. We could disable
-their neural network at a stroke.
-CRUSHER: Infect it? You make it sound like a disease.
-PICARD: Quite right, Doctor. If all goes well, a terminal one.
+BORG: What is Geordi doing?
+LAFORGE: I'm studying the components in your prosthesis.
+BORG: Why?
+LAFORGE: We're trying to learn more about you.
+BORG: Why?
+LAFORGE: Because you're different than we are. Part of what we do is to
+learn more about other species.
+BORG: We assimilate species. Then we know everything about them.
+LAFORGE: Yeah. I know.
+BORG: Is that not easier?
+LAFORGE: Maybe it is. It's just not what we do.
+BORG: Why?
+LAFORGE: All right, think of it this way. Every time you talk about
+yourself, you use the word we. We want this, we want that. You don't
+even know how to think of yourself as a single individual. You don't
+say, I want this, or I am Hugh. We are all separate individuals. I am
+Geordi. I choose what I want to do with my life. I make decisions for
+myself. For somebody like me, losing that sense of individuality is
+almost worse than dying.
+BORG: When you sleep, there are no other voices in your mind?
+LAFORGE: No.
+BORG: Are you ever lonely?
+LAFORGE: Sometimes. But that's why we have friends.
+BORG: Friends?
+LAFORGE: Sure. Someone you talk to, who will be with you when you're
+lonely. Someone who makes you feel better.
+BORG: Like Geordi and Hugh.
 

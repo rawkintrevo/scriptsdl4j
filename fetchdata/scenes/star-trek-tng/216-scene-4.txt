@@ -1,30 +1,5 @@
-RIKER CRUSHER RUSSELL WORF
-
-[Corridor]
-
-RUSSELL: Your ideas on bio-active interfaces border
-on revolutionary. It's going to be a genuine pleasure working with you.
-
-CRUSHER: Thank you. Have you had a chance to review Worf's case history
-yet? 
-RUSSELL: Only briefly. I must admit, I was a little shocked to find the
-state of Klingon neurological medicine to be so primitive. 
-CRUSHER: It's a cultural bias. When I contacted the Klingon Medical
-Division, they informed me that they usually let the patient die in a
-case like this. As a result they've done almost no research on
-neurological trauma. 
-RUSSELL: We'll be in uncharted waters. 
-CRUSHER: Worf is having a hard time dealing with his injuries. He's
-always been a difficult patient, but now. He's a little tough at first,
-but I'm sure you'll get to like him after you get to 
-RUSSELL: Doctor, I know that as a starship doctor, you have to maintain
-close ties with patients, but I think it would be best if I maintain a
-discreet distance. That way, I can give you a completely objective
-opinion regarding treatment. 
-CRUSHER: Yes. You're probably right. 
-RUSSELL: Good. Well, I believe you said I'll be working in medlab four?
-
-CRUSHER: Right. This way.
+RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Worf's private room]
 

@@ -1,42 +1,34 @@
-RIKER OBRIEN LAFORGE WORF PICARD CRUSHER
+GUEST1 LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Pit]
+[Cave mouth]
 
-(Geordi wakes up, finds his Visor and sees his
-predicament) 
-LAFORGE: Worf! Worf! Commander Riker! 
-[Galorndon Core]
-
-RIKER: Geordi! Geordi! 
-[Pit]
-
-LAFORGE: Worf! Commander Riker! 
-[Galorndon Core]
-
-RIKER: Hold your position, Mister Worf.
-(Worf, Riker and the Romulan are beamed away)
-
-[Pit]
-
-LAFORGE: Worf!
-
-Captain's log, Stardate 43349.2. An unidentified
-distress signal has led to the discovery of a crashed Romulan vessel on
-the surface of Galorndon Core, a Federation planet. We have recovered
-one survivor, but Lieutenant Commander La Forge did not report back
-with the away team and is still missing.
-
-[Transporter room]
-
-CRUSHER: Get him to Sickbay. 
-WORF: Secure Sickbay. Post a guard in visual contact at all times. 
-CRUSHER: He's not going anywhere, Lieutenant. 
-O'BRIEN: I'm sorry, Commander. There's just no way to lock in on
-anything down there. 
-RIKER: Keep trying, O'Brien. 
-O'BRIEN: The electrical storm's creating thousands of ghosts. 
-RIKER: Well beam some of those ghosts back. One of them may be Geordi.
-Permission to lead another away team, sir. 
-PICARD: Denied. When we get another window in the storms. The crash
-site?
+(Geordi has found shelter at last, and can see a
+blue coloured vertical jet emanating
+from some way away) 
+LAFORGE: A stationary neutrino source. Wesley Crusher. Thank you,
+Wesley. 
+(So he heads off towards it, and someone comes up behind him and knocks
+him out. Another Romulan. When Geordi wakes up, his own phaser is being
+pointed at him) 
+GUEST1: You are my prisoner. 
+LAFORGE: Right. Congratulations. Surely a strategic triumph for the
+Romulan Empire. 
+GUEST1: Stay there. 
+LAFORGE: My shoes are getting full of sand. I just hate that, don't
+you? 
+GUEST1: Name and rank. 
+LAFORGE: Lieutenant Commander Geordi La Forge. I don't think I got
+yours? 
+GUEST1: A Romulan ship will arrive shortly. You will accompany me on
+board. 
+LAFORGE: I don't think so. You see, we heard your message too and well,
+the fleet's in, Commodore. Sky's full of Federation ships. 
+GUEST1: You're lying. 
+LAFORGE: I never lie when I've got sand in my shoes, Commodore. 
+GUEST1: Get up. 
+LAFORGE: Seriously, the only one way out of here is for you to put that
+thing down and soon as there's a window in the storm 
+(There's a rock fall, and Bochra gets hit badly. Geordi helps him up
+and carries him into the nearest cave)
 

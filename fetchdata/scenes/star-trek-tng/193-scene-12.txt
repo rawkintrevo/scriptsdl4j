@@ -1,42 +1,44 @@
-LARSON RIKER LAFORGE WORF PICARD BARCLAY
+RIKER GUEST3 WORF PICARD COMPUTER BARCLAY DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-LARSON: (a lady engineer) Commander, warp power has
-been transferred to the shield grid. 
-LAFORGE: Yeah, but by whom? 
-(Reg wanders over and presses a control next to La Forge, then returns
-to his own panel) 
-LAFORGE: Barclay, what are you doing? 
-BARCLAY: Lieutenant Barclay to Captain Picard. You can fire photon
-torpedoes. 
 [Bridge]
 
-BARCLAY [OC]: Maximum yield, full spread. 
-RIKER: We're too close. 
-BARCLAY [OC]: I'm certain the shields will hold. 
-PICARD: Mister La Forge?
+LAFORGE [OC]: I don't think we're going to pull
+this one out. 
+DATA: Reactor Nine will reach critical in ten minutes, forty three
+seconds. The subsequent explosion will create a chain reaction along
+the entire length of the Array, sir. 
+PICARD: Ensign, standby for a jump to warp two. 
+GUEST3: Yes, Sir. 
+RIKER: La Forge, you've got ten minutes. Mister Worf, Red alert. 
+WORF: Aye, Commander.
 
-[Engineering]
+[Holodeck]
 
-LAFORGE: I don't know how he did it, but shield
-strength has been increased by three hundred percent. 
+BARCLAY: Computer, begin new programme. Create as
+follows, workstation chair. (he sits in it) Now, create a standard
+alphanumeric console positioned for left hand. Now an iconic display
+console positioned for right hand. Tie both consoles into the
+Enterprise main computer core, utilising neural-scan interface. 
+COMPUTER: There is no such device on file. 
+BARCLAY: No problem. Here's how you build it. 
 [Bridge]
 
-LAFORGE [OC]: It should be enough, Captain. 
-PICARD: Mister Worf. Photon torpedoes. Maximum yield, full spread. 
-WORF: Aye. 
-(three direct hits and a big light display. The ship rocks) 
-PICARD: Thank you, Mister Barclay.
-
-[Engineering]
-
-BARCLAY: You're welcome, Captain. Barclay out. I'm
-sorry if I overstepped my authority. 
-LAFORGE: (to himself) Don't mention it.
-
-Captain's log, stardate 44705.3. The Enterprise has
-destroyed the alien probe, but now we are left with the difficult task
-of repairing the Argus Telescope. Failure to do so would represent an
-incalculable scientific loss.
+DATA: Argus reactor nine twenty eight seconds to
+critical. 
+RIKER: Get us out of here. 
+PICARD: Warp two, Ensign. 
+GUEST3: Yes, sir. Helm's not responding. 
+WORF: Captain, we have lost computer control. 
+RIKER: What? 
+DATA: Twelve seconds to critical. 
+PICARD: Go to manual. 
+GUEST3: I'm attempting that, sir 
+RIKER: There's not enough time. 
+WORF: Computer is coming back online, sir. 
+DATA: Captain, the Argus reactors are shutting down. We are no longer
+in danger, sir. 
+PICARD: What happened? 
+DATA: Unknown, sir. 
+RIKER: Geordi, what did you do?
 

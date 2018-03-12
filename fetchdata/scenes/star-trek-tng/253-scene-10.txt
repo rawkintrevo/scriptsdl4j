@@ -1,54 +1,39 @@
-RIKER CRUSHER ARMSTRONG SALAZAR HELM TAITT
+DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Lore's lab]
 
-CRUSHER: If you have to. I want those teams up here
-as fast as possible.
-
-[Planet surface]
-
-RIKER: Armstrong, you and the others prepare to
-beam up. 
-ARMSTRONG: Aye, sir. 
-RIKER: Beverly, Worf and I will stay here and look for 
-[Bridge]
-
-RIKER [OC]: The Captain's team. 
-CRUSHER: I'm not going to leave you down there. 
-[Planet surface]
-
-RIKER: You pull as many people off the surface as
-you can and get back to the transwarp conduit. The Captain's orders
-were to get the Enterprise back to Federation space. 
-[Bridge]
-
-CRUSHER: Acknowledged. 
-RIKER [OC]: Riker out. 
-CRUSHER: Prepare to leave orbit. 
-TAITT: Sir, the Borg ship is powering up its forward weapons array.
-They'll be in firing range in, in twenty seconds. 
-CRUSHER: Salazar, how many people do we still have down there? 
-SALAZAR [OC]: Seventy three, sir. 
-CRUSHER: Put the Borg ship onscreen. 
-TAITT: Should I raise shields, sir? 
-CRUSHER: Not yet. I want to keep bringing people up until the last
-possible second. 
-TAITT: Ten seconds. 
-CRUSHER: Stand by to raise shields and break orbit on my mark. 
-TAITT: Five seconds. 
-CRUSHER: Mark. 
-(an energy bolt hits) 
-TAITT: Shields down to seventy percent. 
-CRUSHER: Establish a frequency shift firing pattern and return fire. 
-TAITT: Er, right. 
-(two torpedoes are fired) 
-TAITT: Direct hit, no damage. 
-CRUSHER: Helm, set course for the conduit, maximum warp. 
-HELM: Aye, sir. 
-TAITT: Sir, the Borg aren't following us. 
-CRUSHER: Salazar 
-[Transporter room]
-
-CRUSHER [OC]: How many people did we leave behind? 
-SALAZAR: Forty seven, sir.
+(Geordi is strapped down on a metal frame that's
+raising) 
+LAFORGE: Data? Who's there? 
+DATA: (as Picard) Geordi? 
+LAFORGE: Captain. 
+DATA: Shh. We're getting out of here. 
+LAFORGE: Come on, hurry. Data was just here. I think he went to get
+something. 
+DATA: (as himself) Too late. My brother suggested that I try to develop
+my sense of humour. What do you think? 
+LAFORGE: I think it needs a little work. 
+(Data aims an instrument at Geordi's visor inputs) 
+LAFORGE: What's happening? 
+DATA: I'm attemptin to neutralise your pain receptors. 
+LAFORGE: What are you going to do to me? 
+(Data is injecting something into Geordi's forehead) 
+DATA: I am implanting nano-cortical fibres in your cerebrum. They are
+designed to learn and mimic your neural firing patterns. Once they are
+in place, I will destroy the existing brain cells. We'll see if the
+artificial neural network is able to take over your cognitive
+functions. 
+LAFORGE: Data, listen. Lore is controlling you. He's transmitting a
+carrier wave which is affecting your positronic matrix. 
+DATA: If the procedure is successful, your cognitive processing
+functions will be considerably improved. 
+LAFORGE: Don't you care that he's manipulating you? 
+DATA: However, there is a sixty percent chance you will not survive the
+procedure. 
+LAFORGE: I don't care much for those odds. 
+(more injections) 
+DATA: They are cause for concern. However, I still have Counsellor Troi
+and Captain Picard. The odds are that at least one of the procedures
+will be successful.
 

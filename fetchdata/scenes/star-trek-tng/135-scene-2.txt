@@ -1,24 +1,52 @@
-PICARD RIKER DATA NAKAMURA MADDOX
+PICARD GUEST0 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Starbase 173]
 
-RIKER: Admiral on the Bridge. 
-PICARD: I was a little surprised at the decision to put a base in force
-so close to the Neutral Zone. 
-NAKAMURA: As you know, we've had disturbing news from both sides of the
-zone. We're here to respond when needed. And it won't hurt to have the
-Romulans know that we're nearby. Well, Captain, I want to thank you for
-this opportunity. For five hundred years every ship that has borne the
-name of the Enterprise has been a legend. This one is no different. 
-MADDOX: Admiral. 
-NAKAMURA: Oh yes, Captain. Commander Maddox is here to do some work on
-your android. Please take care of him. 
-(Nakamura leaves) 
-MADDOX: How have you been, Data? 
-DATA: My condition does not alter with the passage of time, Commander. 
-PICARD: The two of you are acquainted? 
-MADDOX: Yes, I evaluated Data when it first applied to the Academy. 
-DATA: And was the sole member of the committee to oppose my entrance on
-the grounds that I was not a sentient being. 
-PICARD: What exactly will this work entail? 
-MADDOX: I am going to disassemble Data. 
+(Enterprise is docked at a space station. You can
+see her from the window) 
+(Picard is relaxing in the coffee lounge when he sees a woman at the
+top of the stairs) 
+PICARD: My God. (He walks over to her) Phillipa Louvois. And back in
+uniform. It's been ten years, but seeing you again like this makes it
+seem like fifty. If we weren't around all these people, do you know
+what I would like to do? 
+GUEST0: Bust a chair across my teeth? 
+PICARD: After that. 
+GUEST0: Ain't love wonderful. 
+(They sit together at a table) 
+PICARD: So, what are you doing out here? 
+GUEST0: I am in charge of the Twenty third Sector JAG office. We're
+brand new. I have no staff but one terrified little Ensign. Hopefully
+we can make some good law out here. 
+PICARD: Anything is possible. So you came back to Starfleet. 
+GUEST0: Still the most exciting and worthwhile place to be. 
+PICARD: You had no reason to leave. 
+GUEST0: They forced me out. 
+PICARD: No. That was your own damn stubborn pride. 
+GUEST0: When I prosecuted you in the Stargazer court martial, I was
+doing my job. 
+PICARD: Oh, you did more than your job. You enjoyed it. 
+GUEST0: Not true! A court martial is standard procedure when a ship
+is lost. I was doing my duty as an officer of the Judge Advocate
+General. 
+PICARD: You always enjoyed the adversarial process more than arriving
+at the truth. Well, I hope you've learned a little wisdom along the
+way. 
+GUEST0: You know, I never thought I would say this, but it's good to
+see you again. It brings a sense of order and stability to my universe
+to know that you're still a pompous ass. And a damn sexy man. 
+GUEST1: Captain Picard?
+GUEST0: Admiral. 
+GUEST1: Captain Louvois. You're acquainted with Captain Picard? 
+GUEST0: Oh, yes. We're old friends. Excuse me. Picard, call me. You
+can buy me dinner. 
+(Phillipa exits) 
+GUEST1: Captain, it's good to see you again. 
+PICARD: Admiral. 
+GUEST1: May I present Commander Bruce Maddox. 
+PICARD: Commander. 
+GUEST1: He has an interesting proposal for you, but that can wait for
+a while. I'm eager to see the Enterprise. 
+PICARD: Yes, sir. This way.
+

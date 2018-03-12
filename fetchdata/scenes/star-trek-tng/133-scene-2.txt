@@ -1,55 +1,6 @@
-TROI LAFORGE WORF PICARD RIKER WESLEY COMPUTER VOICE DATA
+RIKER LAFORGE WORF PICARD PULASKI COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
- [Bridge]
-
-PICARD: Are you locked on to that transmission? 
-DATA: Aye, sir. A voice only transmission from the USS Lantree, a
-Federation supply ship. 
-PICARD: USS Lantree, this is Picard of the Enterprise. What is the
-nature of your emergency? 
-VOICE [OC]: Can't hold out any more. People dying. Too many to help. 
-DATA: We are still receiving their signal, Captain, but there is no
-message.
-
-PICARD: Lantree. Are you under attack? Lantree? USS Lantree, this is
-the Enterprise. Come in, Lantree. Replay that last transmission. 
-VOICE [OC]: Can't hold out any more. People dying. Too many to help. 
-RIKER: Have we got a fix on her? 
-DATA: Two point two milli-parsecs, bearing three zero at one four five
-degrees. 
-PICARD: Number One? 
-RIKER: We'd better take a look. What kind of vessel is she? 
-DATA: The Lantree is a Class Six Federation supply ship assigned to
-Gamma seven sector, Captain L.I. Telaka commanding. Normal complement,
-twenty six officers and crew. 
-RIKER: Armed? 
-DATA: Class three defensive only. 
-RIKER: Is she still underway? 
-DATA: Aye, sir. 
-PICARD: Adjust course to intercept. Warp seven. 
-WESLEY: Adjusting course to intercept. Warp seven, sir. 
-(Geordi enters) 
-LAFORGE: Engineering, transfer to Bridge. 
-WESLEY: We are closing on the Lantree, Captain. 
-PICARD: Take us out of warp. Establish parallel course. Match speed. 
-WESLEY: Yes, sir. 
-PICARD: Hailing frequencies. 
-WORF: Open. 
-PICARD: Lantree, this is the Enterprise. Captain Telaka, this is Picard
-of the Enterprise. Do you read me? 
-DATA: No life signs, Captain. 
-PICARD: Counsellor? 
-TROI: Nothing, Captain. 
-RIKER: What else have we got in the neighbourhood? 
-WESLEY: No other vessels of any kind within two parsecs. 
-WORF: No battle damage. 
-DATA: All systems seem functional, Captain. Everything is in perfect
-order. 
-WORF: We have to board her, Captain. 
-PICARD: Possibly, Mister Worf. Number One? 
-RIKER: If we gain control of her systems remotely, we could activate
-the viewscreen. That way we could at least look at the Bridge. 
-PICARD: Agreed. 
 [Ready room]
 
 PICARD: Computer, security override request. 
@@ -59,3 +10,32 @@ access Starfleet ship USS Lantree, Isao Telaka commanding.
 COMPUTER: Enter access code. 
 PICARD: Omicron omicron alpha yellow daystar two seven. Enable.
 
+[Bridge]
+
+(At the rear stations) 
+DATA: I have verified receipt of the access codes for the Lantree,
+Captain. 
+PICARD: Grand. Commence operations. 
+RIKER: Our first move will be shut down the engines. 
+LAFORGE: Standing by, Commander. 
+DATA: The Lantree computer reports access codes received and accepted,
+sir. 
+(Pulaski enters) 
+PULASKI: Sickbay on alert, Captain. 
+LAFORGE: Interlock is engaged. The Lantree is responding, sir. 
+DATA: We have override control of her Bridge, Captain. All systems
+answering. 
+PICARD: All right, let's have a look. 
+LAFORGE: Lantree Bridge monitor engaging. 
+(The viewscreen shows very old people dead in their seats) 
+PICARD: Are you reading anything, Doctor? 
+PULASKI: Still no signs of life, Captain. 
+PICARD: Magnify. That must be Captain Telaka on the left. Let's look at
+him. Closer. My God. 
+RIKER: Looks like they had a battle with time. 
+WORF: And lost. 
+PULASKI: Heart, lungs, liver, everything. 
+PICARD: What is it? 
+PULASKI: They died of natural causes. 
+PICARD: Natural causes? What in nature could cause that? 
+PULASKI: For the record, Captain, they died of old age. 

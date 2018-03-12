@@ -1,47 +1,65 @@
-RIKER VEKOR PICARD TROI BARAN DATA
+RIKER WORF GUEST2 PICARD TALLERA GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Mercenary Bridge]
+[Ready room] 
+WORF [OC]: Worf to Commander Riker. Minister Satok
+of Vulcan Security is standing by on a secure channel. 
+RIKER: Put it through in here. 
+GUEST4 [on monitor]: Greetings, Commander. How may I be of service? 
+RIKER: Minister, I thought I should let you know that the mercenary
+ship which has been raiding planets in the Taugan sector is probably on
+its way to Vulcan right now. 
+GUEST4 [on monitor]: I do not understand. 
+RIKER: I'm sorry. It's been a difficult couple of days. I know that one
+of your operatives has been on a mercenary ship investigating the
+possible re-assembly of a psionic resonator. I didn't want someone to
+make a mistake and start firing at them when they approach your planet.
 
-VEKOR: There's an incoming message. It's from the
-Klingon shuttle. It was sent approximately fifteen minutes ago. He's at
-the rendezvous coordinates but he's been detained by the Enterprise.
-That's all there is. He's stopped transmitting. 
-BARAN: The Enterprise. 
-PICARD: How could they have found out about the rendezvous, Commander? 
-BARAN: Quiet! All that matters now is that the Enterprise has the
-second artefact in their possession. We don't have a choice. We'll have
-to board the Enterprise and take the artefact. 
-PICARD: Do you have any idea how many security officers there are on
-board a ship like that? 
-BARAN: No, I don't. But he does. 
-RIKER: I could get us on the Enterprise. I can find the artefact. 
-PICARD: Oh, yes, very convenient. We beam you back aboard your old ship
-and we have to take a risk that you won't change your mind and betray
-us. 
-RIKER: I have saved your life twice already, Galen. I would think you'd
-begin to show some gratitude by now. 
-BARAN: Galen, if you're so worried about Riker, then you can go on the
-raiding party and watch him. 
-PICARD: Agreed. 
-BARAN: Draw weapons and equipment for a raiding party of five. 
-(Picard leaves) 
-BARAN: If you're thinking of betraying us to your friends on the
-Enterprise, you might remember that I still have the ability to kill
-you at the first sign of trouble. 
-RIKER: I haven't forgotten. 
-BARAN: I have an additional task for you, one that will prove your
-loyalty. This raid is an opportunity to get rid of Galen. Once you've
-found that artefact, kill him.
+GUEST4: Commander, I believe there is a problem. We have no operative
+aboard a mercenary ship.
 
-[Observation lounge]
+[Baran's quarters]
 
-TROI: I'm sure the health and safety inspection
-won't last much longer. And in the meantime, I'm really glad that we
-have this opportunity to get to know you. May I ask what business
-you're in? 
-(silent stare) 
-DATA: Lieutenant Worf has programmed our replicators to make a very
-good approximation of Klingon bloodwine. I believe you will find it to
-your liking. 
-(Koral pours it onto the carpet)
+PICARD: According to Baran's logs, we are to
+deliver the two pieces to the T'Karath Sanctuary on Vulcan. 
+TALLERA: I know that place. It was an underground stronghold for one of
+the factions during the last civil war. It's been abandoned for
+centuries. 
+PICARD: Galen to Bridge. Alter course for Vulcan. 
+GUEST2 [OC]: Understood. 
+PICARD: Oh, I wonder if you can possibly help me with something. I have
+been able to translate most of the writing on these two pieces For the
+most part, they're warnings of death and destruction to anyone who
+opposes the resonator, but I am not able to determine what appears on
+the anterior side. For example, this symbol represents the Vulcan god
+of war and this is the god of death, but if you look really carefully,
+you can see a third symbol missing. Now that obviously should belong to
+the final piece. Now what's odd about this is that the gods of death
+and war would typically always stand alone on an artefact. They would
+never be combined with a third glyph. 
+TALLERA: Fascinating. But I am not an archaeological expert. 
+PICARD: I'm really anxious to see the final artefact, because it might
+provide a valuable insight into Vulcan mythology. 
+TALLERA: When we arrive at Vulcan, I will take these pieces to a secure
+holding area before going on to the Sanctuary. I prefer to go alone. It
+will arouse less suspicion on the part of the isolationists. 
+PICARD: Well there should be no problem about our entering orbit. I
+asked Commander Riker to contact the Vulcan authorities from the
+Enterprise and let them know that we were approaching. 
+TALLERA: Why did you do that? 
+PICARD: Well, I didn't want to risk a misunderstanding. Someone might
+have mistaken this for an actual raid. 
+TALLERA: It was a wise precaution. 
+PICARD: Perhaps I should contact the Enterprise, have them meet us at
+Vulcan just in case these isolationists try to escape. 
+TALLERA: Your offer is appreciated but our security forces are more
+than adequate. 
+PICARD: I see. Do you think it's wise for you to go there alone? After
+all, they were expecting Baran to show up.
+Don't you think if I were to accompany you, it might seem more
+plausible. 
+TALLERA: Captain, I do understand your human emotional need to be there
+at the final moment, but this is a Vulcan matter. 
+PICARD: Of course. 
+TALLERA: Thank you.
 

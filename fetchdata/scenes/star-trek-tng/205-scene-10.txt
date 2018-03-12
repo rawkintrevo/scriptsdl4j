@@ -1,48 +1,48 @@
-RIKER PATTERSON JAYGORDON MARISSA PICARD DATA
+PICARD GUEST1 GUEST0 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Turbolift]
 
-(Marissa is helping Picard at an open panel) 
-PICARD: The external power is cut off. 
-JAY GORDON: We're going to die. 
-(the turbolift jolts) 
-PATTERSON: What was that? 
-PICARD: I don't know. 
-(Marissa helps Picard stand. He tries to reach the hatch in the ceiling
-but misses) 
-PICARD: Your name is Marissa. Is that right? Well, Marissa, I'm going
-to need a first officer to help me. You're the oldest and so that makes
-you my Number One. 
-MARISSA: Number One? 
-PICARD: That's what I always called my first officer. So, here. 
-(He puts two of his rank pins on her top) 
-PICARD: There. Now, Number One, we need a crew to help us get that
-hatch off. Don't
-you think that Jay here would make an excellent science officer? What
-do you say, Jay? Will you join our crew? 
-JAY GORDON: It's Jay Gordon. 
-PICARD: Of course. Forgive me, Jay Gordon. 
-JAY GORDON: I accept. 
-(another pin) 
-PICARD: There. 
-PATTERSON: Can I be an officer, too? 
-PICARD: Well, let me see. Your science project involved radishes, did
-it not? 
-PATTERSON: Yes, sir. 
-PICARD: Then I shall appoint you my executive officer in charge of
-radishes. 
-(he gets the last pin) 
-PICARD: There. Right, then let's get to work.
+(with Jay Gordon on Picard's shoulders, they get
+the hatch open) 
+PICARD: Can you climb up? 
+JAY GORDON: Yes, I think so. 
+PICARD: Good. Now look down the sides of the lift. Can you see two big
+clamps? 
+JAY GORDON: Yes, I see them. 
+PICARD: Can you see if those clamps are attached to long beams inside
+big grooves? 
+JAY GORDON: Yes. But one of them looks broken. It's half out of the
+groove. 
+PICARD: All right. Come down. 
+(Picard catches him) 
+PICARD: All right. Number One, those big clamps are part of the
+emergency system. If something goes wrong, they're designed to hold the
+turbolift in place. But it would seem that they're damaged. 
+GUEST2: Is that why we keep shaking? 
+PICARD: That's right. Now, when they give way, we shall fall. So you've
+got to get your crew out of here before that happens. Now, there is a
+ladder along the wall of the shaft. You can climb up that until you
+come to an open doorway. 
+GUEST2: What about you? 
+PICARD: My ankle is broken. I will just slow you down when you need to
+move quickly. Now, you are the leader. And that's an order. 
+GUEST2: We have to climb up the shaft. 
+GUEST1: I want to stay here with you, Captain. 
+PICARD: Patterson, you're an officer. You have to obey orders. 
+GUEST1: I don't want to be an officer any more. I want to stay here
+with you. 
+JAY GORDON: If the captain stays here, we won't make it. We'll all die.
 
-[Jefferies tube]
-
-RIKER: Thirteen sixty five baker. That should put
-us right behind shuttlebay two. 
-DATA: That is correct, sir. We have approximately fifty two metres
-remaining in this crawlway before we can safely exit into a main
-corridor. 
-(opaque gas bursts out behind them) 
-RIKER: Coolant leak!
-(they scramble forward and manage to shut a bulkhead behind them, only
-for an energy barrier to start up ahead)
-
+PICARD: We don't have time to argue. You must go now. 
+GUEST2: The crew has decided to stick together. We all go or we all
+stay. 
+PICARD: All right. I'll try. But I want you to know this is mutiny.
+Now, Number One, look at that control panel. Now, the yellow control
+pad, hit that once. Now the one below it, hit twice. Now that should
+release the panel underneath. 
+GUEST2: Yes, it did. 
+PICARD: Now, you can pull it away. 
+GUEST2: Okay. 
+PICARD: Good. Now, that bundle of wires, that's optical cabling. See
+how much of that you can pull out. 

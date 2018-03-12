@@ -1,58 +1,42 @@
-PICARD DATA JENNA
+RIKER OBRIEN LAFORGE WORF PICARD MCKNIGHT DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Transporter room]
+
+RIKER [OC]: I want to be able to pull him out of
+there in case we have to. 
+O'BRIEN: Aye, sir.
+
+[Shuttle]
+
+(shuttlepod systems screen 0451 shows a green meany
+ahead) 
+PICARD: Changing course new heading two nine nine mark zero two nine.
 
 [Bridge]
 
-DATA: Captain, I am seeking advice in how 
-PICARD: Yes, I've heard, Data, and I would be delighted to offer any
-advice I can on understanding women. When as I have some, I'll let you
-know.
+DATA: Main coupling is matching navigational
+inputs, Captain. 
+MCKNIGHT: New heading confirmed. 
+PICARD: I missed it by less than a thousand metres, Enterprise. Advise
+your status. 
+WORF: Sensors indicate deformation passing five hundred metres off the
+starboard bow. 
+RIKER: One down, Captain 
+[Shuttle]
 
-Second Officer's personal log, stardate 44935.6.
-After conferring with my colleagues regarding the nature of romantic
-love in general, and my own situation in particular, I have reached a
-decision.
+PICARD: Resuming previous course. 
+MCKNIGHT [OC]: Confirmed. Outer perimeter now at thirty point one
+million kilometres. 
+PICARD: Changing course. Heading zero seven three, mark two eight
+eight. 
+(which sends them towards more green meanies) 
+PICARD: New heading. two eight four mark zero one three. 
+(not quick enough) 
+PICARD: Enterprise, I'm losing manoeuvrability. 
+LAFORGE [OC]: Sensors indicate
 
-[Jenna's quarters]
+[Engineering]
 
-(Data rings the doorbell. He is bearing flowers) 
-JENNA: They're lovely. Come in. What are they? 
-DATA: A variety of crystilia. Their fragrance is an evolutionary
-response to the acrid nature of the atmosphere on Telemarius Four. 
-JENNA: You silver-tongued devil. Why don't I find a place to put these.
-Which won't be that easy. Ah. 
-(she takes some old flowers out of a vase and puts the new ones in
-their place) 
-DATA: It seems your quarters have reverted to their earlier state of
-disorder. 
-JENNA: I know. I'm hopeless. There. (on the table) They're beautiful,
-Data. It's really sweet of you. 
-DATA: Commander Riker suggested this particular flower. He said it had
-worked for him in the past. 
-(Data holds out his arms for an embrace) 
-JENNA: You didn't talk to the entire ship about us. 
-DATA: No. In actuality, less than one percent of the Enterprise crew
-was involved. It was necessary to balance theory with
-experiential referents. Both are required for a programme of this
-nature. Computer, decrease illumination level by one third standard
-lux. 
-(he clears the sofa then puts out an arm. She is meant to snuggle into
-it) 
-JENNA: This is all part of a programme? 
-DATA: Yes. One which I have just created for romantic relationships. 
-JENNA: So I'm just a small variable in one of your new computational
-environments? 
-DATA: You are much more than that, Jenna. I have written a subroutine
-specifically for you. A
-programme within the programme.
-I have devoted a considerable share of my internal resources to its
-development. 
-JENNA: Data, that's the nicest thing anybody's ever said to me. 
-(he finally manages to pull her in for a kiss)
-
-[Bridge]
-
-PICARD: Estimated time of arrival, Mister Data? 
-DATA: We will reach the class M planet in approximately eleven hours,
-sir. 
-PICARD: You have the Bridge, Number One.
-
+LAFORGE: Damage to the shuttle's starboard impulse
+nacelle, Captain. 

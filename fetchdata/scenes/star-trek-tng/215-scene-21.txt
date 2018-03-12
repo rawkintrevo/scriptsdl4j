@@ -1,49 +1,55 @@
-TROI OBRIEN WORF PICARD RIKER RO DATA
+TROI OBRIEN CRUSHER WORF KEIKO PICARD RIKER RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Cargo bay]
+
+(They transport in a column of energy) 
+TROI: You're quite right, Picard, it's not rest we seek. Only escape. 
+PICARD: Escape? 
+TROI: We were brought to this moon over five centuries ago from a star
+system called Ux-Mal. We were separated from our bodies and left to
+drift in the storms. Once we almost escaped, on board the Essex, but
+that ship was incapable of eluding this moon's electromagnetic storms. 
+PICARD: Did you really think using their identities would gain our
+sympathy? 
+TROI: It was a better approach than asking you to allow hundreds of
+condemned prisoners on board. 
+PICARD: Then this moon is a penal colony. 
+TROI: That's correct. But now we have your ship and your bodies to
+carry us home. 
 [Bridge]
 
-RO: Commander, did you override my orbital heading?
+RO: I'm reading dozens of them. Hundreds. 
+CRUSHER: They have the same anionic signature we saw on the biofilter
+scans. 
+RIKER: I think we can give the Captain a new bargaining chip. Doctor
+Crusher, flood the cargo bay with your containment field.
 
-RIKER: Override them? 
-RO: We've moved into a polar orbit and I'm locked out. The helm isn't
-responding. 
-RIKER: Do you know anything about this, Mister Data? Data? 
-(Riker touches Data's shoulder, and Data thumps him in the chest) 
-RIKER: Security to the Bridge! 
-(O'Brien disarms Worf and pushes him over the railing and the Captain's
-chair. Ro shoots at O'Brien but misses, so he shoots her) 
-RIKER: Computer, transfer command to Engineering. Full security alert! 
-(O'Brien shoots Riker. Data fails to override Riker's last command and
-thumps the blank console in frustration) 
-(In the Ready room, Troi knocks out Picard, then enters the Bridge) 
-O'BRIEN: This way! 
-TROI: What happened? 
-DATA: He would not move to a polar orbit. 
-TROI: You couldn't wait? The Captain would have done it for me. 
-[Turbolift]
+[Cargo bay]
 
-O'BRIEN: Deck thirty six. Engineering.
-
-[Bridge]
-
-RIKER: Computer, re-enable Bridge control. Security
-protocol, Riker omega Three. 
-PICARD: Report. 
-RIKER: Data, O'Brien and Troi tried to commandeer the ship. 
-WORF: They're in turbolift four. Engaging override controls now. 
-[Turbolift]
-
-(the lift jerks to a halt) 
-DATA: They've trapped us. 
-TROI: What deck is this? 
-O'BRIEN: We're on deck ten. 
-TROI: Can you move us again? 
-O'BRIEN: I know how to override the bridge command. 
-[Bridge]
-
-RIKER: Activate security fields decks eight through
-fifteen. 
-WORF: Sir, the turbolift is moving again. They're still inside. 
-PICARD: Initiate emergency bulkheads in turboshaft four. 
-WORF: Aye, sir. They have been stopped at deck thirteen. 
-PICARD: Mister Worf. 
+TROI: No! Let them go or you will all die. 
+PICARD: Your threats are meaningless now. 
+O'BRIEN: We are still in control of these three bodies. We will not let
+them go. 
+PICARD: Are you prepared to sacrifice the lives of the others? They'll
+all die when the cargo bay hatch is blown. 
+DATA: You will die too, Picard. 
+KEIKO: I would die to save the life of my child. 
+WORF: To die defending one's ship is the hope of every Klingon. 
+PICARD: If you each know the officers you inhabit, then you know
+they're equally ready to give their lives for this ship.
+Free them now and I will return you to the moon's surface. 
+TROI: I advise you, Picard, not to pass our way again. 
+(the balls of energy leave them, and Troi, Data and Miles collapse) 
+PICARD: Picard to Bridge. 
+RIKER [OC]: Aye, sir. 
+PICARD: Our guests will be leaving shortly. I need an emergency medical
+team down here. 
+(the three balls of energy join the others in the transporter) 
+CRUSHER [OC]: On our way, Captain. 
+PICARD: Mister Worf, prepare to transport these prisoners back down to
+the moon's surface. 
+WORF: Gladly, sir. 
+Captain's log, stardate 45572.1. Doctor Crusher has
+examined Troi, Data and O'Brien. There seem to be no residual effects
+from their experience. 

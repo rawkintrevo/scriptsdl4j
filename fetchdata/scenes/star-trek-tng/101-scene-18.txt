@@ -1,110 +1,41 @@
-RIKER LAFORGE WORF PICARD MCCOY CRUSHER DATA
+RIKER WORF TASHA PICARD TROI GUEST5 SECURITY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Zorn's office]
 
-PICARD: A fairly routine manoeuvre but you handled
-it quite well. 
-RIKER: Thank you, sir. I hope I showed some promise. 
-PICARD: I do have some questions for you though.
-RIKER: Yes, sir, I thought you might. 
-PICARD: I see in your file that Captain DeSoto thinks very highly of
-you. One curious thing, however, you refused to let him beam down to
-Altair Three. 
-RIKER: In my opinion, sir, Altair Three was too dangerous to risk
-exposing the Captain. 
-PICARD: I see. A Captain's rank means nothing to you. 
-RIKER: Rather the reverse, sir. But a Captain's life means a great deal
-to me. 
-PICARD: Isn't it just possible that you don't get to be a Starfleet
-Captain without knowing whether it's safe to beam down or not? Isn't it
-a little presumptuous of a first officer to second guess his captain's
-judgment? 
-RIKER: Permission to speak candidly, sir? 
-PICARD: Always. 
-RIKER: Having been a first officer yourself, you know that assuming
-that responsibility must by definition include the safety of the
-captain. I have no problem with following any rules you lay down, short
-of compromising your safety. 
-PICARD: And you don't intend to back off that position? 
-RIKER: No, sir, 
-PICARD: One further thing. A special favour. 
-RIKER: Anything, sir. 
-PICARD: Using the same kind of strength you showed with Captain DeSoto,
-I would appreciate it if you can keep me from making an ass of myself
-with children. 
-RIKER: Sir? 
-PICARD: I'm not a family man, Riker, and yet, Starfleet has given me a
-ship with children aboard. 
-RIKER: Yes, sir. 
-PICARD: And I don't feel comfortable with children. But, since a
-captain needs an image of geniality, you're to see that's what I
-project. 
-RIKER: Aye, sir. 
-PICARD: Welcome to the Enterprise, Commander Riker. 
-[Sickbay]
-
-CRUSHER: Naturally I've heard of your case. The
-visor implants you wear 
-LAFORGE: Is a remarkable piece of bio-electronic engineering by which I
-quote see much of the EM spectrum ranging from simple heat and infrared
-through radio waves et cetera, et cetera, and forgive me if I've said
-and listened to this a thousand times before. 
-(Without the Visor, Geordi La Forge's eyes are white sightless orbs,
-and he has flashing red lights at his temples) 
-CRUSHER: You've been blind all your life? 
-LAFORGE: I was born this way. 
-CRUSHER: And you've felt pain all the years that you've used this? 
-LAFORGE: They say it's because I use my natural sensors in different
-ways. 
-CRUSHER: Well, I see two choices. The first is painkillers. 
-LAFORGE: Which would affect how this works. No. Choice number two? 
-CRUSHER: Exploratory surgery. Desensitise the brain areas troubling
-you. 
-LAFORGE: Same difference. No, thank you, Doctor. 
-CRUSHER: I understand. 
-LAFORGE: See you. 
+PICARD [OC]: Do you know who it is? 
+GUEST5: There are no ships scheduled to arrive until 
 [Bridge]
 
-(Riker enters) 
-WORF: Yes sir? 
-RIKER: Where will I find Commander Data? 
-WORF: Commander Data is on special assignment, sir. He's using our
-shuttlecraft to transfer an admiral over to the Hood. 
-RIKER: An admiral? 
-WORF: He's been aboard all day, sir, checking over medical layout. 
-RIKER: Why a shuttlecraft? Why wouldn't he just beam over? 
-WORF: I suppose he could, sir, but the Admiral's a rather remarkable
-man.
+PICARD: I asked if you knew who it is. You
+mentioned the Ferengi Alliance to me. 
+[Zorn's office]
 
-[Corridor]
+GUEST5: But we have had no dealings with them. It was
+only a, a thought. 
+[Bridge]
 
-(A very old man in a cardigan is shuffling along.
-He is played by DeForrest Kelley, so of course we name this character
--)
-MCCOY: Have you got some reason you want my atoms scattered all over
-space, boy?
-DATA: No sir. But at your age, sir, I thought you shouldn't have to put
-up with the time and trouble of a shuttlecraft. 
-MCCOY: Hold it right there, boy. 
-DATA: Sir? 
-MCCOY: What about my age? 
-DATA: Sorry, sir. If that subject troubles you 
-MCCOY: Troubles me? What's so damned troubling about not having died?
-How old do you think I am? 
-DATA: One hundred thirty seven years, Admiral, according to Starfleet
-records. 
-MCCOY: Explain how you remember that so exactly. 
-DATA: I remember every fact I am exposed to, sir. 
-MCCOY: I don't see any points on your ears, boy, but you sound like a
-Vulcan. 
-DATA: No, sir. I'm an android. 
-MCCOY: Almost as bad. 
-DATA: I thought it was generally accepted, sir, that Vulcans are an
-advanced and most honourable race. 
-MCCOY: They are, they are. And damned annoying at times. 
-DATA: Yes, sir. 
-MCCOY: Well, this is a new ship, but she's got the right name. Now you
-remember that, you hear. 
-DATA: I will, sir. 
-MCCOY: You treat her like a lady, and she'll always bring you home.
+PICARD: Are you certain? 
+GUEST5 [OC]: I promise you, Captain. 
+[Zorn's office]
+
+GUEST5: We were making an empty threat. I wanted your
+cooperation. Forgive me. 
+[Bridge]
+
+WORF: Definitely entering orbital trajectory, sir. 
+SECURITY: (at Tasha's station) It measures twelve times our volume,
+Captain. 
+(A purple light envelopes the Enterprise) 
+WORF: Sensors say we were just scanned, sir.
+
+[Passageway]
+
+TASHA: Pain again? 
+RIKER: Troi, you've been at it enough. 
+TROI: No, I feel close to an answer of some kind. 
+DATA: Commander, something down here is shielding our communicators. 
+TROI: Yes, that's exactly the feeling I've been reading. As if someone
+doesn't want us to be in touch with our ship. 
+RIKER: Come on, let's get to the surface.
 

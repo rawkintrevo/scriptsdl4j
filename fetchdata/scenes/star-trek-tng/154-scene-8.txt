@@ -1,41 +1,27 @@
-RIKER WORF PICARD WESLEY DATA GALEKSAR
+LEAH COMPUTER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Engineering]
 
-RIKER: What is it, Wes? 
-WESLEY: The main power returner is acting a little weird. 
-RIKER: Define weird. 
-WESLEY: I'm getting fluctuating waveguide readings. 
-RIKER: Run a maintenance sweep. 
-WESLEY: Right.
-
-[Warship]
-
-DATA: Activating power pack, Captain. 
-PICARD: Mister Worf, be sure we get tricorder images of their tactical
-display. 
-WORF: Aye, sir. 
-DATA: The source of the distress signal appears to be coming from up
-there, Captain. 
-PICARD: Let's put an end to their last cry for help. 
-DATA: Captain, I believe this is an information storage device. A crude
-analogue of our isolinear optical chip. 
-PICARD: Crude by our standards today, Data. But when this ship was
-built, humans on Earth were just perfecting the mechanical clock, still
-using steel crossbows in battle. Is there any way to see what's on
-this? 
-DATA: Questionable, sir. I believe I can supply power to its playback
-unit, but its components are quite old. I will attempt to amplify its
-image with my tricorder. 
-GALEK SAR [on monitor]: I am Galek Sar, Captain of the Promellian
-cruiser, Cleponji. I wish anyone who finds this record to know my crew
-has behaved courageously. I want it recorded for all time that I,
-alone, am responsible for the fate that befell us.
-I have failed as a captain, and as the man responsible for all the
-souls aboard my ship. 
-PICARD: Picard to Enterprise. 
-RIKER [OC]: Go ahead, Captain. 
-PICARD: I think we have seen all there is to see here. At Mister
-O'Brien's leisure, we're ready to return. 
-RIKER [OC]: Aye, sir.
+LAFORGE: So why can't we move? Computer. As we
+increased our power levels, was there any counter-reaction? 
+COMPUTER: Affirmative. The opposing force grew in direct proportion to
+the power output of the Enterprise. 
+LAFORGE: So it kept us from forming a subspace field for the warp
+drive? 
+COMPUTER: That is correct. 
+(He goes to a screen and calls up files) 
+LAFORGE: Computer, who is this L. Brahms? 
+COMPUTER: Doctor Leah Brahms, engineer. Graduate of the Daystrom
+Institute Theoretical Propulsion Group. Galaxy class starships, team
+seven, junior member. 
+LAFORGE: Junior member, huh? Looks like she wrote the book on
+propulsion. Call up subspace design logs. 
+COMPUTER: Select menu. Visual records or L. Brahms' voice entries. 
+LAFORGE: Voice entries. 
+LEAH [OC]: Theoretical propulsion logs, Federation Starship Enterprise,
+Galaxy class. Heading, Subspace. Author, Leah Brahms. 
+LAFORGE: Geordi La Forge. How're you doing, Doc? 
+LEAH [OC]: Specify programme. 
+LAFORGE: Yeah, down to work. You're absolutely right.
 

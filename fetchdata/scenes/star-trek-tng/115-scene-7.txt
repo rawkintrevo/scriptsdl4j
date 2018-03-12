@@ -1,44 +1,37 @@
-TROI WORF TASHA PICARD RIKER WESLEY TRENT DATA
+TROI LAFORGE WORF TASHA PICARD RIKER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+ [Ready Room]
 
-PICARD: I want all departments prepared for a warp
-six trip into the Neutral Zone as soon as the away team completes its
-mission. 
-WORF: Trouble, Captain? 
-PICARD: Insurance. Romulan battle cruisers have been detected near one
-of our border posts. 
-[Corridor]
+(The Captain is obviously ill) 
+PICARD: This is quite unnecessary, Doctor. I'm fine. 
+CRUSHER: You're infected with the virus. Captain. In my opinion, you
+are no longer physically able to effectively command this vessel. 
+PICARD: That is ridiculous, Doctor. I have an away team down there, in
+less than friendly territory, and in addition I have an appointment
+with several Romulan battlecruisers. 
+CRUSHER: You have an appointment in your cabin, Captain. With your bed.
 
-(Picard steps out of the turbolift into a snowball)
+PICARD: Is that an order, Doctor? 
+CRUSHER: Yes. 
+[Bridge]
 
-PICARD: They've requested assistance as soon as Argh! 
-(The culprits leave the holodeck) 
-PICARD: Report, Mister Crusher. 
-WESLEY: We finished our ski lesson, sir, and it kind of just happened. 
-PICARD: On the Enterprise, Mister Crusher, nothing just happens. What
-is that smell? 
-WORF: Hmm, yes. Slightly reminiscent of night blooming throgni,
-Captain. From home. Quite stimulating, wouldn't you say? 
-PICARD: No. 
-WESLEY: I don't smell anything. I'm a little congested. The snow. 
-PICARD: Don't let this just happen again, Mister Crusher. 
-WESLEY: Yes, sir.
-
+WORF: I think I may sneeze.
+LAFORGE: A Klingon sneeze?
+WORF: Only kind I know. 
+(Picard and Crusher enter) 
+PICARD: Lieutenant La Forge, you have command until further notice.
+Please, make the proper ship's log entries. 
+LAFORGE: Aye, sir. 
+(Geordi goes and sits in the Captain's chair) 
+WORF: Scanners indicate a platinum trace. Should I notify the away
+team? 
+LAFORGE: Make it so. 
 [Guest quarters]
 
-(Data has found an atomiser, and gives himself a
-face-full) 
-DATA: Interesting. An alcohol-based synthetic, artificially reproducing
-a floral scent. 
-TROI: It's called perfume, Data. 
-DATA: The purpose of which is? 
-TASHA: Certain cultures consider perfume an aphrodisiac. 
-DATA: I am unfamiliar with that term. 
-RIKER: An aphrodisiac is something used to stimulate or enhance sexual
-pleasure.
-DATA: How does stimulation of the olfactory nerves affect the enjoyment
-of sex? 
-(Trent enters) 
-TRENT: The Elected One will see you now. 
-(When the group have left, he sprays himself with the perfume) 
+TROI: Tasha. 
+(Riker emerges in full local costume, left breast and chest hair to the
+waist fully on show. The women find it highly amusing) 
+RIKER: What do you think? 
+TASHA: Well, I got to say, it's kind of sexy. 
+RIKER: Thank you, Lieutenant. Actually it feels quite comfortable. 

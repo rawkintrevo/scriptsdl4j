@@ -1,87 +1,28 @@
-BASHIR TROI LAFORGE WORF RIKER DATA
+GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Promenade]
 
-WORF: Ensign Lopez. This duty roster is
-unacceptable. The assignments should be listed in order of priority.
-Prepare it
-again. I will expect it no later than oh nine hundred hours. Dismissed.
+(Morn is in conversation with a blue-skinned woman
+when Worf spots Shrek on the upper level) 
+GUEST3: Lieutenant Worf. You have reconsidered. 
+WORF: Yes. I wish to go to the Romulan prison camp. 
+GUEST3: Excellent. I can provide you with the coordinates. 
+WORF: No. You will take me there. 
+GUEST3: No, it's not possible. I have no means of transportation. 
+WORF: I checked the station records. You have a vessel that is capable
+of warp speed. 
+GUEST3: I, I do not have the time. I have other business. 
+(Worf dangles Shrek over the railing) 
+WORF: What is the real reason you do not wish to take me? Is it because
+what you have told me is not true? 
+GUEST3: No. The camp is located on the edge of Romulan space. It is a
+dangerous journey. 
+WORF: Dangerous? It would be more dangerous for you to refuse. 
+GUEST3: Very well. But I will require full payment in advance. 
+WORF: No. No, I will pay you after. 
+GUEST3: But 
+(Worf leans him further over the railing) 
+GUEST3: Yes, yes, of course. After. 
+WORF: If you are lying, if there is no prison camp, I will kill you.
 
-RIKER: Worf, we need to get your rendezvous schedule to Commander
-Rudman on board the Merrimac as soon as you 
-WORF: I am well aware of your request, Commander. 
-RIKER: Lieutenant, are you all right? 
-WORF: Yes, sir. I am fine. I will send your schedule, sir. Excuse me.
-
-[Worf's quarters]
-
-(he is practising his martial arts, but gets angry
-and smashes a glass table. The doorbell chimes) 
-WORF: Enter. 
-TROI: Did the table do something wrong? 
-WORF: No. 
-TROI: I'm glad you weren't that hard on Ensign Lopez. 
-WORF: He made a mistake. The duty roster was inaccurate. 
-TROI: Would you like to talk about what's bothering you or would you
-like to break some more furniture? 
-WORF: Today on the Promenade, a Yridian approached me. He knew who I
-was and tried to sell me information about Mogh. 
-TROI: Your father? 
-WORF: He claimed that he's alive and is being held captive in a Romulan
-prison camp. 
-TROI: My god. Could it be true? 
-WORF: A Klingon would never allow himself to be captured. A warrior
-fights to the death. If my father were alive it would dishonour his
-sons and their sons for three generations. Even Alexander would bear
-the burden of guilt. 
-TROI: So, you're willing to ignore the possibility because you're
-concerned about dishonour? 
-WORF: My father is dead. That Yridian is selling lies! 
-TROI: If you're so sure about that, why are you still so upset? Worf,
-you can't deny the possibility just because you don't want it to be
-true. If you want to talk about this, you know where to find me.
-
-[Engineering]
-
-DATA: If we transfer twenty megajoules of energy
-from the dilithium chamber into the plasma inputs, it should be
-sufficient to activate the device. 
-LAFORGE: It's worth a try. You two can begin by connecting the coil to
-the chamber. I'll configure the energy transfer. 
-BASHIR: Right. Data, can I ask you a personal question? 
-DATA: Certainly. 
-BASHIR: Does your hair grow? 
-DATA: I can control the rate of my follicle replenishment. However, I
-have not yet had a reason to modify the length of my hair. Why do you
-ask? 
-BASHIR: Just curious. 
-DATA: Power conduits are ready. Is something wrong, Doctor? 
-BASHIR: You're breathing. 
-DATA: Yes. I do have a functional respiration system. However, its
-purpose is to maintain thermal control of my internal systems. I am, in
-fact, capable of functioning for extended periods in a vacuum. 
-BASHIR: And you have a pulse. 
-DATA: My circulatory system not only produces bio-chemical lubricants,
-it regulates micro-hydraulic power. Most people are interested in my
-extraordinary abilities. How fast I can compute, my memory capacity,
-how long I will live. No one has ever asked me if my hair will grow, or
-noticed that I can breathe. 
-BASHIR: Your creator went to a lot of trouble to make you seem human. I
-find that fascinating. 
-LAFORGE: Okay, I think we're ready to begin the transfer. 
-DATA: Power connections are complete. 
-BASHIR: I'll monitor the coil's transfer rate. Will you keep an eye on
-the transient power response? 
-DATA: Of course. We are ready, Geordi. 
-LAFORGE: Okay. Initiating energy transfer. 
-(an orange light appears between the two sections of the device)
-BASHIR: Power levels are holding steady. 
-DATA: Transient response is normal. 
-BASHIR: Hold on. I'm picking up a power surge. Reduce the transfer
-rate. 
-LAFORGE: Reducing rate by twenty percent. 
-(a crackle of energy lances out and hits Data. He falls back, rigid) 
-LAFORGE: What happened? 
-BASHIR: The power connections blew. It sent out some kind of plasma
-shock. 
-LAFORGE: His synaptic energy is dropping. 

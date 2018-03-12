@@ -1,43 +1,75 @@
-TROI ENSIGN RIKER CREWMAN
+WORF PICARD CRUSHER GUEST5 ALKAR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Ready room]
 
-(spurned and angry, Troi paces the lift. A tall
-young man enters) 
-ENSIGN: Deck four. 
-(Troi looks at him with hungry eyes)
+CRUSHER: I don't have any explanation for this.
+When I examined Maylor's body, I found her heart, her lungs, her
+skeletal structure, most of the systems in her body were those of a
+thirty year old.
+PICARD: But how could that be? We both saw the woman.
+CRUSHER: That's not all. I compared Maylor and Alkar's DNA. I don't
+know who that woman was, but she was definitely not his mother.
+Deanna's condition is deteriorating rapidly. She could die. There are
+questions that only Alkar can answer.
+PICARD: Picard to Lieutenant Worf.
+WORF [OC]: Worf here, Captain.
+PICARD: Meet me in Transporter room two. We're going down to the
+surface.
+WORF [OC]: Aye, sir.
 
-[Corridor]
+[Conference chambers anteroom]
 
-CREWMAN: Sir. 
-(Riker gets to Deanna's door. She's not in uniform) 
-TROI: Will. 
-RIKER: We were supposed to finish the crew evaluation reports.
-TROI: Of course. Come in.
-
-[Troi's quarters]
-
-ENSIGN: Sir!
-RIKER: As you were.
-ENSIGN: Yes, sir. Thank you, sir. I was just leaving.
-TROI: If there's anything else I need, I know where to find you. 
-ENSIGN: Yes, ma'am.
-(embarrassed toy boy rushes out) 
-TROI: Are you bothered by his being here?
-RIKER: Of course not.
-TROI: Good. Because it's really none of your business.
-RIKER: I know that. I believe we were with Lieutenant Fratis i n
-molecular biology.
-TROI: Why do I think you're upset?
-RIKER: I don't know. Could we just continue with the evaluation?
-TROI: Will, remember who you're talking to. You are bothered, I can
-tell. 
-RIKER: Deanna, I'm sorry I intruded. When you're ready to work, why
-don't you give me a call. 
-TROI: I will.
-
-Captain's log, stardate 46073.6. We have arrived
-without incident at Rekag-Seronia, where two members of Ambassador
-Alkar's delegation have been waiting. They have joined us to report on
-the situation in the capital city.
+ALKAR: No, she wasn't my mother.
+PICARD: And she wasn't ninety three years old.
+ALKAR: Captain, did you perform an autopsy against my wishes?
+PICARD: Yes, for a very good reason. Counsellor Deanna Troi is in
+Sickbay, dying. Doctor Crusher doesn't know the cause of her condition,
+but I believe you do.
+GUEST5: Alkar, we need you. The Rekags have withdrawn some of their
+concessions and the Seronians are threatening to break off the talks.
+ALKAR: I'll be right there.
+GUEST5: But 
+(Liva leaves) 
+ALKAR: They've been arguing for hours in there. It seems hopeless. But
+now, when expectations are lowest, now is the moment I can be most
+effective. If I'm focused, centred, free of disquieting thoughts, I can
+turn these factions toward peace. 
+PICARD: Alkar
+ALKAR: Hear me out, Captain. It's important you understand. You see, I
+discovered long ago I had the ability to channel my darker thoughts, my
+unwanted emotions, to others, leaving me unencumbered.
+PICARD: Is this what you've done to Counsellor Troi?
+ALKAR: I hadn't planned it. I'd expected Maylor to live through the
+negotiation. Her death could not have been more untimely.
+PICARD: So then you deliberately used Deanna.
+ALKAR: She's an empath. I was reasonably certain I could establish a
+link with her. Frankly, I was amazed when I saw
+how quickly she'd aged. Usually my receptacles survive for years.
+PICARD: Receptacles?
+ALKAR: Come now, Captain. Surely you can see there's a broader canvas
+here. If I came to these peace talks hindered by unwanted emotions, the
+Rekags and Seronians would be condemned to go on fighting 
+PICARD: You cannot explain away a wantonly immoral act because you
+think it is connected to some higher purpose.
+ALKAR: Captain. do you know how many people have died on this planet in
+the last forty eight hours? Thousands. Deanna Troi is just one
+individual.
+PICARD: That does not justify brutalising her, nor any of the others
+you have used.
+ALKAR: Ask the Seronian and Rekag children who go to bed each night in
+fear of their lives. Captain, I get no payment, I have no power base,
+no agenda. I am willing to risk my life simply to help others.
+PICARD: Do you think that makes you appear courageous? Because you're
+mistaken. You're a coward, Alkar. You exploit the innocent
+because you're unwilling to shoulder the burdens of unpleasant
+emotions. Well, this time you will be held accountable. I'm taking you
+back to the Enterprise to release Counsellor Troi.
+ALKAR: I have no intention of releasing her now or ever.
+GUEST5: Alkar, everything is falling apart. You have to come now.
+ALKAR: If you'll excuse me, Captain. 
+PICARD: Mister Worf. 
+(Guards take Worf's phaser) 
+ALKAR: I'm needed. 
+GUEST5: You and your Security Chief will leave.
 

@@ -1,48 +1,83 @@
-RIKER LAFORGE WORF PICARD PULASKI DATA
-
-[Shuttlebay two]
-
-PICARD: I'll be in Sickbay. Keep me informed. 
-RIKER: Captain, seen this? 
-PICARD: Looks like the damage caused by an antimatter explosion. 
-RIKER: It must have been just out of range of the shuttlecraft. 
-PICARD: Data, I need those logs. Counsellor. 
-RIKER: We'll be on the Bridge. Lieutenant. 
-(Geordi enters as Riker and Worf leave)
+TROI LAFORGE WORF PICARD RIKER PULASKI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Resume course and speed. Scanners at maximum
-range. 
-WORF: Maximum range.
+PICARD: Report. 
+WORF: This energy vortex has just appeared beneath us. There was no
+warning. 
+(Pretty blue swirly thing on the viewscreen. The Enterprise is sitting
+at the top of a space tornado) 
+RIKER: Well, at least the waiting's over.
 
-[Shuttlebay two]
+Captain's log, supplemental. We have apparently
+intersected with something.
 
-LAFORGE: There you go. You should have power now. 
-(Data touches a panel, and sparks fly) 
-LAFORGE: What happened? 
-DATA: The polarity is not compatible. 
-LAFORGE: That's not possible. The connection's idiot proof. 
-DATA: The power requirements of the shuttle do not match those of the
-Enterprise. We will need a variable phase inverter, to align the power
-from the Enterprise to the circuits of the shuttle. 
-LAFORGE: Data, what do you think is going on here? I don't mean just
-with the shuttle, I mean everything. 
-DATA: I do not have enough information. 
-[Sickbay]
+[Bridge]
 
-(The second Picard is on a bed. Kate is walking
-around with a medical tricorder when Picard and Troi enter) 
-PULASKI: I'm just starting a complete medical work-up. His vital signs
-are distorted. Some of the indicators are totally depressed, others are
-fluctuating wildly. I can't explain any of it. But he is alive. The
-restraints are for his own protection. 
-PICARD: Have you been able to determine why he's still unconscious? 
-PULASKI: No. but I have been able to rule out any head injury. 
-PICARD: Wake him. 
-(Pulaski gives him a hypo, and the readings on the wall plummet into
-the red. She rushes for another hypo, and the signs recover) 
-PICARD: What happened? 
-PULASKI: Apparently, the normal stimulant had the opposite effect. I'll
-have to try something else.
+DATA: It is similar to our tractor beam, sir, only
+much more powerful. 
+LAFORGE [OC]: Bridge, this is Lieutenant La Forge. 
+RIKER: Bridge. 
+[Engineering]
 
+LAFORGE: The pull on the Enterprise is steady. I'm
+having to hold the warp engines at thirty percent in order to maintain
+our present position. 
+[Bridge]
+
+PICARD: Transfer Engine control to the Bridge. 
+LAFORGE [OC]: On my way, Captain. 
+TROI: Captain, there is a consciousness here. Not thought, more like
+instinct. 
+PICARD: What do you think, Number One? 
+RIKER: I think we're being probed. 
+DATA: The beam is coming from the centre of the vortex. Sensors show it
+to be only a mass of energy. 
+PICARD: What is it trying to learn? 
+TROI: I think it's trying to determine if we are a life force. 
+PICARD: We'll stay and investigate. 
+RIKER: Agreed. 
+PICARD: Unless that was the mistake. Staying too long. 
+RIKER: Possibly. 
+PICARD: We should go now. 
+RIKER: Well 
+PICARD: That would be the prudent move. I never thought I'd hear myself
+saying something like that. 
+RIKER: Under the circumstances, sir, I think you're right. 
+PICARD: But you would rather stay and find out what it is? What is its
+intent? 
+LAFORGE: Engineering, transfer to Bridge. 
+PICARD: Mister La Forge. 
+LAFORGE: Sir. 
+PICARD: Try and take us out of here. Maximum warp. 
+LAFORGE: Aye, sir. I've set the velocity at warp nine. 
+PICARD: Engage. 
+LAFORGE: Warp engines are at ninety one percent. 
+PICARD: Put it to the wall, Mister La Forge. 
+LAFORGE: Aye, sir. 
+(The ship shakes, but they're not actually going anywhere) 
+LAFORGE: I can't hold it. 
+RIKER: Captain, the engines can't handle the strain. 
+PICARD: All stop. 
+(The Enterprise slides gently backwards into the top of the funnel) 
+PICARD: Mister La Forge. 
+LAFORGE: I'm re-engaging warp engines, Captain. 
+PICARD: Status? 
+WORF: All decks have reported. No damage. No injuries. 
+LAFORGE: Captain, the hold on the Enterprise is still very strong. I'm
+having to hold at warp seven just to maintain our position. 
+PICARD: Everything we do tightens its grip. Let's see what we can
+learn. Launch a Class one probe. 
+WORF: Aye, sir. 
+(The probe is intercepted by an energy bolt and destroyed) 
+PICARD: Mister Worf 
+(Picard gets zapped by an energy bolt, and so does his counterpart in
+Sickbay) 
+PICARD: That was personal. 
+LAFORGE: Captain, the power drain needed to hold this position is
+enormous. 
+PICARD: How long can you maintain it? 
+LAFORGE: Just a few minutes and then we're going to have to shut down
+again. 
+PULASKI [OC]: Captain some kind of energy 

@@ -1,39 +1,82 @@
-TASHA PICARD LAFORGE
+KORRIS RIKER WORF PICARD GUEST0 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Transporter room]
+
+PICARD [OC]: Now! 
+(The first attempt fails and the group arrive back on the Batris as
+explosions head towards them. The ship goes bang on the viewscreen,
+then Tasha materialises them) 
+RIKER: Bridge, this is Commander Riker. 
 [Bridge]
 
-PICARD: Ready to receive. Put this on main viewer. 
-TASHA: Aye, sir. 
-(A vision of weird coloured shapes, edges moving and blurring. As if
-the viewer has been taking something highly illegal and mind-altering) 
-PICARD: Extraordinary. Now I'm beginning to understand him. 
-PICARD: Geordi. What was that? Over to the left. 
-LAFORGE [OC]: What? 
-PICARD: Yes, that. No, no, back. Yes, that. Right there. What is that? 
-[Batris Corridor]
+RIKER [OC]: We are taking the survivors to Sickbay.
 
-LAFORGE: That's Commander Riker. 
-[Bridge]
+PICARD: I'll be in Sickbay. 
+WORF: Captain. Request permission to join you. 
+PICARD: Granted.
 
-PICARD: Ah, to me it's just an undefined form,
-standing in a visual frenzy. Can you filter out the extraneous
-information? 
-LAFORGE [OC]: No, I get it all simultaneously. 
-PICARD: But it's just a jumble. 
-[Batris Corridor]
+[Sickbay]
 
-PICARD [OC]: How can you make head or tail of it? 
-LAFORGE: I select what I want and then disregard the rest. 
-PICARD [OC]: But how is that possible? 
-LAFORGE: Well, how, in a noisy room, can you select one specific voice
-or sound? 
-PICARD [OC]: Of course, something you learn. 
-LAFORGE: Exactly. 
-[Bridge]
+WORF: Debris is still being analysed. 
+PICARD: Inform me as soon as it is complete. 
+WORF: Aye, sir. 
+PICARD: Situation, Doctor. 
+CRUSHER: His injuries are very critical. 
+PICARD: I am Jean Luc Picard, Captain of this vessel. 
+KORRIS: My name is Korris, Captain of the Klingon Defence Force. This
+is Lieutenant Konmel. 
+PICARD: Would you mind telling me what has happened? 
+KORRIS: We were passengers. The Talarians were taking us to outpost M
+Zed Five. 
+PICARD: What was the ship doing in the Neutral Zone? 
+KORRIS: We were attacked without warning by a Ferengi cruiser. During
+the course of the battle we must have unknowingly entered the Neutral
+Zone. 
+WORF: The weapons were not Ferengi. 
+KORRIS: What is your name? 
+WORF: I am Lieutenant Worf. 
+KORRIS: And you are a member of this crew? 
+WORF: Yes. 
+KORRIS: You are correct. The weapons were Klingon, but the vessel was
+Ferengi. 
+PICARD: What precipitated the attack? 
+KORRIS: I don't know. We were in our quarters. 
+GUEST0: The captain of the freighter had no combat experience so he did
+not anticipate the first attack, which was nearly fatal. 
+KORRIS: We took control with his permission. The Ferengi called for
+surrender. I told the Captain to agree to all their terms. We had only
+one chance, but I was confident it would be enough. 
+GUEST0: As adversaries the Ferengi are not very worthy. 
+WORF: Still, your weapons were limited and their ship superior. 
+KORRIS: Yes. All we had was an ancient battery of Merculite rockets.
+Our only chance was to trick them into lowering their shields. 
+GUEST0: We reduced power and lured them in. 
+KORRIS: They suspected nothing. 
+GUEST0: Then, when they lowered their shields to beam over a boarding
+party, we opened fire. 
+PICARD: Still, there are some points that I'm not very clear about. 
+KORRIS: Captain, we are hungry and tired. 
+PICARD: Of course. 
+KORRIS: If there is anything else you wish to know about this incident,
+we will be available. 
+WORF: Permission to show our guests to their quarters, Captain. 
+PICARD: Permission granted. 
+(Worf, Korris and Konmel leave) 
+RIKER: What do you think, Captain? 
+PICARD: There's more to this than we've been told. Why was the Talarian
+ship so far off course? What was its point of departure? 
+RIKER: Why would three Klingon officers hitch a ride on a broken down
+freighter? 
+PICARD: Contact Starfleet. Find out what they know about Korris and
+company. 
+RIKER: It'll take forty eight hours for a message to get to Starfleet
+on subspace frequency. 
+PICARD: They're going to be with us for a while. Let's find out all we
+can about them. 
+RIKER: Do you think I should have assigned a security team to keep an
+eye on our guests? 
+PICARD: No. Worf can deal with anything that might arise. How's your
+patient, Doctor? 
+CRUSHER: Not good. I'll keep you posted.
 
-LAFORGE [OC]: It's something I have learned. Does
-that make it more clear?
-PICARD: Look over at Data. There's an aura around Data. 
-LAFORGE [OC]: Well, of course. He's an android. 
-PICARD: You say that as if you think that's what we all see. 
-LAFORGE [OC]: Don't you? 

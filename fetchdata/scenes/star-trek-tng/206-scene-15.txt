@@ -1,74 +1,48 @@
-WESLEY CRUSHER ROBIN
+WORF PICARD WESLEY CRUSHER GUEST1 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+WORF: We've reached the designated coordinates,
+Captain. There is a ship bearing three two seven mark one five two on
+an intercept course. 
+PICARD: Advise them of our status, Mister Worf. Go. Replicate what you
+need, and see that the devices are properly distributed.
+Not forgetting Mister Crusher.
 
 [Crusher's quarters]
 
-(Beverly's playing the game at high level, and
-getting a lot of pleasure from it) 
-WESLEY: Mom? 
-CRUSHER: Wesley. 
-WESLEY: What are you doing? 
-CRUSHER: I'm embarrassed to say. This was meant for you. But it was so
-much fun, I couldn't resist. 
-WESLEY: What is it? 
-CRUSHER: It's a game. Riker brought it back from Risa. Everybody's
-playing it. Want to try? 
-WESLEY: Maybe later. How's Data? 
-CRUSHER: Geordi's still working on him. He's going to be fine. 
-WESLEY: I think I should go give him a hand. 
-CRUSHER: No. Wesley, you are on vacation. You have done enough already.
+(Worf and Beverly enter) 
+CRUSHER: Wesley? Wesley? 
+WESLEY [OC]: In here, Mom. 
+(she looks round the door into his bedroom to see Wesley and Robin, on
+the bed, playing the game. So Worf and Beverly leave) 
+GUEST1: It worked. 
+WESLEY: We should keep these mock-ups with us. We can't trust anyone
+anymore. Not even the Captain. 
+GUEST1: I'm supposed to be on duty in Engineering. I've got to get back
+before Commander La Forge suspects something. 
+WESLEY: Okay. When you get there, start accessing the codes for the
+security tracking system. There's something I want to try. 
+GUEST1: Wesley, don't forget Law Ninety One. Always watch your back. 
+WESLEY: You too.
 
-WESLEY: Yeah, maybe you're right. Computer, increase light level. 
-CRUSHER: Are you in a hurry? 
-WESLEY: Yeah, I'm late for a dinner date. 
-CRUSHER: Really. With who? 
-WESLEY: Robin Lefler from Engineering. 
-CRUSHER: Why don't you invite her here? We can all play the game
-together. I can replicate a couple more. 
-WESLEY: Mom. 
-CRUSHER: Sorry. It's just that I want to spend some time together while
-you're here. 
-WESLEY: We'll have time together. I promise. 
-CRUSHER: Okay. 
-WESLEY: Okay. 
-CRUSHER: Just one game. Come on, try it on for size. 
-WESLEY: Mom! I really need to get ready. 
-CRUSHER: Have a good time. 
-WESLEY: Thanks. I will.
+[Bridge]
 
-[Ten Forward]
-
-ROBIN: When your parents are the only plasma
-specialists in the sector, you do a lot of travelling around. We went
-from base to base to base. I felt like a piece of luggage after a
-while. I spent all of my time around technical gear. My first friend
-was a tricorder. 
-WESLEY: Really? My very first friend was a warp coil. 
-ROBIN: My parents work came first. They didn't really have time for me,
-even when I needed them. So that's how I learned my first law. Law One.
-You can only count on yourself. 
-WESLEY: Sounds kind of lonely. Well, now you're here. 
-ROBIN: Now I'm here. 
-WESLEY: Well, I'm glad. 
-ROBIN: You wouldn't believe what's going on in Engineering. Commander
-La Forge and all the others, they're crazy about some new game. 
-WESLEY: Yeah, what kind of game is it? 
-ROBIN: It's some Risian gadget that fits over your ear. 
-WESLEY: Have you played it? 
-ROBIN: Not yet. 
-WESLEY: My mom has one. She keeps trying to get me to play it. 
-ROBIN: It's everywhere. 
-(a crewwoman on a seat by the window is totally lost in the game) 
-ROBIN: See what I mean? 
-WESLEY: Don't you think that's a little strange? Everybody playing it
-all the time. 
-ROBIN: It's just a fad. It's here this week. Next week we won't even
-know it existed. 
-WESLEY: I wonder how it works? 
-ROBIN: Why don't you try it and find out? 
-WESLEY: I'd like to know a little bit more about it before I try it. 
-ROBIN: I bet if we worked together we could figure it out. 
-WESLEY: Yeah, we could hook it up to one of the computers. The medical
-programs in the lab can be set up to emulate human responses. 
-ROBIN: I noticed it uses a visual interface. We could connect it
-through an optical sensor.
+WORF: The vessel is approaching, Captain. 
+PICARD: Computer, all senior officers report to the Bridge. On screen. 
+GUEST2 [on viewscreen]: Report. 
+PICARD: Welcome, Etana. The Enterprise has been secured. We await your
+further instructions. 
+GUEST2 [on viewscreen]: The expansion will proceed as follows. Commander
+Riker, you will pilot a shuttlecraft to the Cleon system, where you
+will rendezvous with the starship Endeavour. Proceed with distributing
+the device to that vessel. Commander La Forge, Counsellor Troi, take a
+shuttle to Starbase sixty seven. Distribute the device to all starships
+currently docked there. 
+PICARD: We also have an opportunity to introduce the game to Starfleet
+Academy. 
+GUEST2 [on viewscreen]: Excellent. See to it. The Ktarians commend your
+efforts, Picard. Once the expansion is complete, you and your crew will
+be rewarded.
 

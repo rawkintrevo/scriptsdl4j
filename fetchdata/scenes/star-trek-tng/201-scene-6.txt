@@ -1,37 +1,40 @@
-OBRIEN PICARD SELA LURSA MOVAR TORAL BETOR
+KURN RIKER OBRIEN GOWRON GUEST4 WORF PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Great Hall]
+
+KURN: Our forces in the Mempa sector are now in
+full retreat. They will need to regroup near Beta Lankal. 
+GOWRON: We destroyed their supply bases in that sector three weeks ago.
+How can they continue to fight? 
+KURN: They must be getting help. 
+GUEST4: Maybe they have better leaders. I say you have failed as our
+leader, Gowron. 
+(and he draws his dagger) 
+WORF: There is no time for this! We must make plans before those forces
+reach Beta Lankal! How can we oppose the Duras when
+we continue to fight among ourselves? 
+KURN: Gowron must answer a challenge to his authority. 
+WORF: Stop it! Do we to fall upon ourselves like a pack of Ferengi? The
+enemy is the Duras. We are at war! 
+(Worf steps between the fighters and Gowron takes the opportunity to
+kill Kulge) 
+GOWRON: Now the war can continue.
 
 [Bridge]
 
-O'BRIEN: (at tactical) The Endeavour has cleared
-the dock, Captain. All ships standing by. 
-PICARD: Good. Course one one eight mark three five seven, full impulse
-power. Signal the fleet to get underway. We'll enter warp once we're
-clear of the system. 
+O'BRIEN: We're crossing into Klingon territory,
+Captain. 
+PICARD: Signal the fleet to maintain yellow alert until further notice.
+
 O'BRIEN: Aye, sir. 
-PICARD: Engage.
+PICARD: Begin long range scans of the Romulan border. 
+O'BRIEN: No uncloaked ships within sensor range. A few subspace
+anomalies, but nothing firm. 
+PICARD: Those anomalies could be cloaked ships. 
+O'BRIEN: Could be, sir. 
+PICARD: Open a channel to the Excalibur. 
+RIKER [OC]: Excalibur, Riker here. 
+PICARD: Deploy the fleet, Will. It's time to spread our net. 
+RIKER [OC]: Yes, sir.
 
-[Duras' home]
-
-B'ETOR: The Romulan convoy is late. We need those
-supplies. 
-SELA: (formerly known as Woman) Gowron has suffered another loss in the
-Mempa system. His forces will not threaten you in that region for some
-time. 
-B'ETOR: But if Gowron 
-SELA: The convoy will arrive in due course. 
-(Lursa enters) 
-LURSA: The Federation fleet has left Starbase two thirty four. They've
-set course for Klingon territory. 
-MOVAR: How many? 
-LURSA: At least twenty starships. 
-SELA: Who's commanding this fleet? 
-LURSA: Picard. 
-TORAL: What does it mean? Is the Federation going to enter the war?
-Should we attack them before they get here? 
-SELA: Silence the child, or send him away. Movar, I want you to return
-to Romulus immediately. Have all available ships
-rendezvous at these coordinates in two days. 
-MOVAR: Yes, Commander. 
-LURSA: Twenty ships aren't enough to wage a war. Starfleet must be
-bluffing. 
-SELA: Perhaps. 

@@ -1,43 +1,35 @@
-RIKER JEREMIAH MOIRA PICARD COMPUTER CONNOR JONO
+RIKER WORF PICARD TROI CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-(The sound of alien music can be heard all the way
-down the corridor - teenager
-in residence) 
-[Picard's quarters]
+(Picard and Troi enter) 
+WORF: Captain, sensors indicate two warships approaching from the
+opposite direction along the border. 
+PICARD: Mister Data, what's their offensive potential? 
+DATA: Talarian warships are limited to neutral particle weapons, high
+energy X-ray lasers and merculite rockets. No match for the Enterprise,
+Captain. 
+PICARD: The last thing I want is to be forced into destroying one of
+their ships. 
+RIKER: They won't back off. They've been willing to fight to the death
+in past encounters. 
+PICARD: The lines are being drawn. All this for a chosen son. 
+WORF: Captain, is it worth it, to go to war over a child? 
+CRUSHER: You might not ask that, Lieutenant, if it was your child. 
+PICARD: There must be a way to avoid this. 
+TROI: If we can just reach Jono, help him make some connections with
+his origins, he may choose to come with us. 
+RIKER: You really think Endar would go along with that? 
+DATA: If Endar respects Talarian custom, he may have to. According to
+their tradition, a male child of fourteen has reached the age of
+decision. He then undergoes a ceremony of initiation, after which he
+has the freedom to make his own choices. 
+PICARD: Endar's entire claim on Jono is based on Talarian custom he'd
+have a hard time backing away from it now. 
+WORF: Captain, there is a subspace communication from Starfleet
+Command. 
+PICARD: On screen. 
+WORF: Sir, the message is for Jeremiah Rossa. 
+PICARD: Have the boy brought to my Ready Room.
 
-(Jono has rigged up a hammock near the ceiling) 
-PICARD: Computer, turn off that noise! Computer, what was that? 
-COMPUTER: The Alba Ra, a contemporary Talarian musical form. 
-PICARD: Jono? Jono, where are you? 
-JONO: You turned off my music. 
-PICARD: Yes, I certainly did, and I expect it to stay turned off. Would
-you come down from there? I see you've made yourself at home. 
-JONO: I cannot rest on your beds. They hurt my back. 
-PICARD: Would you come here. There's something I want to show you. 
-(it's a slide show in a frame) 
-PICARD: Those are Connor and Moira Rossa. They are your parents. The
-baby is you. Jeremiah Rossa. 
-JONO: My name is Jono. 
-PICARD: Well, you were born Jeremiah on Galen Four. The colony was
-destroyed later, during a border skirmish. 
-(changes the picture to a laughing child) 
-PICARD: You see? You knew how to laugh once. Do you remember any of
-this, Jono? Your parents, your home? 
-JONO: I know that Endar rescued me. He told me so. 
-PICARD: Jono, your parents were killed by Talarians. 
-JONO: It was war. Death is part of war. 
-RIKER [OC]: Captain? 
-PICARD: Yes, what is it, Number One? 
-RIKER [OC]: We've established visual contact with the warship Q'Maire. 
-JONO: Endar! 
-PICARD: Hey, hey! You stay put. I'm on my way, Number One. 
-(Picard leaves, and Jono takes a look at some more of the pictures. He
-remembers) 
-CONNOR [OC]: Get to cover! 
-MOIRA [OC]: I can't leave you! 
-CONNOR [OC]: Take Jeremiah. Take him to the forest. I'll hold them off.
-
-MOIRA [OC]: No! No! Come with us! Jeremiah! 
-JEREMIAH [OC]: Momma! 

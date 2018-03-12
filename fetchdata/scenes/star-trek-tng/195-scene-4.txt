@@ -1,47 +1,42 @@
-PICARD SATIE WORF JDAN
+PICARD WORF SATIE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Ready room]
 
-J'DAN: On the Klingon Home World your name is not
-mentioned. It is as though you never existed. A terrible burden for a
-warrior to bear, to become nothing, to be without honour, without the
-chance for glory. 
-[Corridor]
-
-J'DAN: I have friends, powerful friends, on the
-homeworld. I could talk to them. They might help to restore your name,
-if you could just take me to a shuttlecraft.
-
-[J'Dan's quarters]
-
-J'DAN: It could be done without any one knowing
-about it. 
-(Worf hits J'Dan) 
-WORF: I don't know how you transferred secret information to the
-Romulans, but I will find out. 
-J'DAN: Pahtk! 
-WORF: When we inform the Klingon High Council, they will put you to a
-slow death.
-
-Captain's log, supplemental. Retired Admiral Norah
-Satie, whose investigation exposed the alien conspiracy against
-Starfleet Command three years ago, is
-arriving to assist in our inquiry.
-
-[Transporter room]
-
-(an older woman in a long red robe beams in with a
-male and female escort) 
-SATIE: Captain Picard. 
-PICARD: Admiral Satie. Welcome aboard the Enterprise. 
-SATIE: Delighted to be here. I managed to acquire my former staff. My
-aide, Sabin Genestra, from Betazed, and my assistant, Nellen Tore, from
-Delb Two. 
-PICARD: This is my First Officer, Commander William Riker. May I show
-you to your quarters? 
-SATIE: Captain, if Starfleet Command is so concerned with your report
-they brought me out of retirement, I think I should get right to work. 
-PICARD: Very well. Commander Riker, will you see to the Admiral's
-staff? 
-SATIE: First, I'd like to inspect the damage to your engine room.
+PICARD: There are disturbing overtones in the idea
+of a Klingon providing information to the Romulans. Are you aware of
+any other Klingon-Romulan connection that Starfleet Command might have
+encountered recently? 
+SATIE: I don't believe what Starfleet Command knows or doesn't know is
+for me to reveal. 
+PICARD: This ship has encountered several incidents which might suggest
+a potential alliance between those two powers. 
+SATIE: We're aware of that, Captain. What we must concentrate on is the
+business at hand. 
+(doorbell) 
+PICARD: Come. 
+WORF: Excuse me, Captain, I didn't know that 
+PICARD: Please, Mister Worf, come in. I particularly want my guest to
+meet you. Admiral Satie. This is my Head of Security, Lieutenant Worf. 
+WORF: Captain, I have been pursuing the investigation of Lieutenant
+J'Dan. I believe I know how he transferred information off the
+Enterprise. 
+SATIE: Well done, Lieutenant. 
+WORF: (hands over a hypospray) This is J'Dan's. A hypospray he uses to
+treat his Ba'ltmasor Syndrome. But this has been fitted with an optical
+reader specially modified to read data from Starfleet isolinear chips.
+He can extract digital information from a computer, encode it in the
+form of amino acid sequences, and transfer those sequences into a fluid
+in the syringe. Then he injects someone, perhaps even without their
+knowledge. 
+SATIE: Or perhaps with their knowledge. 
+WORF: The information would be carried in their bloodstream in the form
+of inert proteins. 
+SATIE: The body itself becomes a conveyor of top secret files.
+Lieutenant Worf, when we confront J'Dan, I want you to conduct the
+interrogation. 
+WORF: I would be honoured. Captain. Admiral. 
+(Worf leaves) 
+SATIE: Captain, I predict that officer will be extremely valuable in
+this investigation.
 

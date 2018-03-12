@@ -1,47 +1,5 @@
-TROI GATES NIKOLAI WORF PICARD RIKER CRUSHER DATA
-
-[Observation lounge]
-
-(Worf and Nikolai are back to their normal
-appearances) 
-PICARD: Doctor, you were fully aware that the atmospheric dissipation
-could not be stopped. What did you hope to accomplish by assisting
-these people? 
-NIKOLAI: I was trying to give them a future. What I propose is we
-create an atmospheric shield on the planet. We can camouflage the
-equipment just as was done with my observation post. No one will ever
-know it's there. 
-RIKER: You can't be serious. 
-NIKOLAI: Indeed I am. I realise it will only provide atmosphere for a
-limited area on the surface, but it will be enough to save one village.
-
-PICARD: I have no intention of compounding what you have done by
-committing another gross violation of the Prime Directive. 
-NIKOLAI: Captain, the Boraalans have a rich and beautiful culture, a
-deep spiritual life. They deserve the chance to survive.
-And isn't that what the Prime Directive was truly intended to do, to
-allow cultures to survive and grow naturally? 
-TROI: Not entirely. The Prime Directive was designed to ensure
-non-interference. 
-CRUSHER: But aren't we interfering either way? If we take no action,
-it's a conscious decision to let the Boraalans die. 
-NIKOLAI: Exactly. We have the power to save some of them. All we have
-to do is exercise it. 
-PICARD: We are sworn to uphold the principle of the Prime Directive,
-and until that is changed there is no further course of action that we
-can take. Is that understood? 
-NIKOLAI: Some of my log recorders are still in my observation post.
-They contain most of my research. Since it appears that the only way
-I'm going to preserve Boraalan culture is in a museum, I request
-permission to return to the surface and retrieve them. 
-PICARD: I'm afraid that won't be possible. But you can have full use of
-the ship's computer to set up a comm. link and upload your data from
-here. If there's nothing further, you're dismissed. 
-(all leave except Nikolai and Worf) 
-WORF: I'm sorry, Nikolai. I wish there were another way. I am quite
-familiar with your communications systems. If you like, I will help you
-set up your comm. link. 
-NIKOLAI: I'll do it myself.
+GUEST3 NIKOLAI WORF PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -71,7 +29,7 @@ PICARD: You have the Bridge, Number One.
 (Picard leaves) 
 RIKER: Helm, take us out of orbit. Set a course for Starbase eighty
 seven, warp five. 
-GATES: Aye, sir. 
+GUEST3: Aye, sir. 
 (a science station blows up) 
 RIKER: What happened? 
 DATA: There appears to be an unusual power drain in the EPS

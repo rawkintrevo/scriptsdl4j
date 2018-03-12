@@ -1,92 +1,34 @@
-RIKER LAFORGE PICARD GUINAN DATA BARCLAY
+TROI BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Troi's office]
 
-DATA: Nucleosynthesis. The structure of the glass
-has been altered at the atomic level. 
-LAFORGE: A problem with the replicator? 
-DATA: Unlikely. A problem with the replicator would have affected the
-contents as well as the glass. But the liquid in the glass was a
-synthehol replication of a light ale of Earth origin, which is, I
-believe what Lieutenant Duffy ordered. 
-LAFORGE: I can't detect any residual radiation or unusual chemical
-compounds that would have caused this. 
-DATA: The most probable explanation is that the glass came into contact
-with an unshielded power source. 
-LAFORGE: That means a complete diagnostic check of the Enterprise power
-systems. All four thousand of them. Do I have the perfect man for this
-job. Hey, Reg. Busy? 
-BARCLAY: Well, I was just. No, not really. Why? 
-LAFORGE: I've got another mystery for you. Somehow the molecular
-structure of this cup from Ten Forward has been altered. We need to run
-through the power systems to see if there's a leak that caused this. 
-BARCLAY: I had, I was going to do that. 
-LAFORGE: You were? 
-BARCLAY: Yes. To, to try to explain the anti-grav unit failure. I still
-can't. Nothing about it makes sense. 
-DATA: Then it is possible these two very disparate incidents could be
-related.
-
-[Bridge]
-
-(Geordi is at a rear station, showing Riker the
-glass) 
-LAFORGE: I wouldn't bother you with something this minor, Commander,
-but it may be a symptom of a more serious problem. 
-RIKER: Do you think we'll need to put in to a starbase? 
-LAFORGE: We'll have a better idea after Mister Barclay runs a check on
-the power systems. 
-DATA: It was Lieutenant Barclay who first suggested a link between the
-two incidents. 
-BARCLAY: What? No, it wasn't. I mean, not really. 
-PICARD: Will your investigation affect our available power during the
-mission? 
-BARCLAY: No, No, sir. We'll have to shut off some systems. We'll shut
-them down a few at a time. It shouldn't. I don't think so. 
-PICARD: Good. I look forward to your report, Mister Broccoli. (big
-silence) Barclay. 
-BARCLAY: If you will excuse me. 
-(Barclay leaves) 
-DATA: Metathesis is one of the most common of pronunciation errors,
-sir. A reversal of vowel and consonant, Barc to Broc. 
-(Suddenly Data becomes fascinated by something on a control panel)
-
-[Ten Forward]
-
-GUINAN: Yes, I know him comes in. He stands at the
-bar. He doesn't say much. He orders a warm milk. 
-LAFORGE: Figures. 
-GUINAN: Warm milk helps you sleep, La Forge. You should try it. What's
-this have to do with Barclay? 
-LAFORGE: I don't know. I'm just trying to figure the man out. Do you
-ever talk to him? 
-GUINAN: He doesn't talk much. 
-LAFORGE: Does he have any friends? 
-GUINAN: Not that I've seen. 
-LAFORGE: What do you do with a guy like that? 
-GUINAN: Well, I just serve him warm milk and let him be. 
-LAFORGE: Yeah, well, I'm not so lucky. I can't let him be. He's my
-problem. 
-GUINAN: Well, he's imaginative. 
-LAFORGE: How do you know that? 
-GUINAN: I know. 
-LAFORGE: Well, then maybe he's in the wrong line of work. 
-GUINAN: You engineering types don't appreciate imagination? 
-LAFORGE: That's not it, Guinan. He just doesn't fit in here. 
-GUINAN: Terkim. 
-LAFORGE: What? 
-GUINAN: Reminds me of Terkim. My mother's brother. Sort of the family
-misfit. Everybody told me to stay away from him. Bad influence. 
-LAFORGE: Did you? 
-GUINAN: Are you kidding? He was the only member of the family who had a
-sense of humour. Except no one ever stayed around him long enough to
-realize it but me. My mother tells me I remind her of him, and I
-probably do. The idea of fitting in just repels me. 
-LAFORGE: Maybe I'm not make myself clear, Guinan. Barclay, well, he's
-always late. The man's nervous. Nobody wants to be around this guy. 
-GUINAN: If I felt that nobody wanted to be around me, I'd probably be
-late and nervous too. 
-LAFORGE: Guinan, that's not the point. 
-GUINAN: Are you sure? Excuse me. 
-LAFORGE: Computer, where is Lieutenant Barclay?
+TROI: I know this is difficult for you. Is there
+anything I can do to make you more comfortable? 
+BARCLAY: No. 
+TROI: Have you ever been with a counsellor before? 
+BARCLAY: Yes. No. 
+TROI: Which one? 
+BARCLAY: Yes, but she, it wasn't. It wasn't really a counsellor. 
+TROI: Most people find a counsellor intimidating at first. It's okay if
+you feel that way toward me. 
+BARCLAY: Not at all. 
+TROI: Good. Now, lean back, close your eyes. 
+BARCLAY: Why? 
+TROI: I want to make you more comfortable. 
+BARCLAY: You do? 
+TROI: Yes. 
+(She dims the lights slightly and sits next to him) 
+TROI: It's okay. Close your eyes. 
+BARCLAY: What are you going to do? 
+TROI: Just listen to the sound of my voice. Take a slow deep breath in
+through your nose and let it out through your mouth just as slowly.
+That's better, isn't it? 
+BARCLAY: Much better. Oh, yes. Oh, yes, that's, that's much better.
+That is extremely helpful. Thank you for your time. 
+TROI: But 
+BARCLAY: Really. That's very helpful. In through the nose, out through
+the mouth. I'm going to practise that and I'll let you know. Thank you
+again. 
+(And he beats a rapid retreat)
 

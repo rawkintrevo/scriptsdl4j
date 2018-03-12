@@ -1,83 +1,51 @@
-OMAG RIKER PICARD ENSIGN TROI DATA KVADA
-
-[Piano bar]
-
-OMAG: Where's the waiter? Is there a waiter in this
-sorry place?
-RIKER: Is there a problem?
-OMAG: Yes. I need more napkins.
-RIKER: Use your sleeve.
-OMAG: What did you say?
-RIKER: Or use one of their sleeves, I don't care.
-OMAG: Who are you?
-RIKER: Commander William Riker, USS Enterprise.
-OMAG: Am I supposed to stand up and salute?
-RIKER: We're investigating the disappearance of a Vulcan ship. 
-OMAG: Well you've got the wrong Ferengi. I never trade in Vulcan ships.
-
-RIKER: We know that you're involved. 
-OMAG: Who would want a Vulcan ship? Vulcans are pacifists. I deal in
-warships. Can somebody get me a napkin?
-RIKER: Who would want a Vulcan ship?
-OMAG: Hypothetically speaking? 
-RIKER: Hypothetically speaking.
-OMAG: I never learned to speak hypothetical.
-(so Riker tips Omag's dinner onto his lap then grabs him by his lapels)
-
-OMAG: Are you crazy?
-RIKER: Let me explain what'll happen to you if you don't tell me about
-the Vulcan ship. Your right of passage
-through this sector will be revoked and more than that, I will be very
-unhappy.
-OMAG: I delivered it to a Barolian freighter. 
-RIKER: At what coordinates?
-OMAG: I don't remember. Ow! Watch it! You're stretching my neck.
-RIKER: Co-ordinates?
-OMAG: At Galorndon Core. Near the Neutral Zone. That's all I know. I
-swear it.
-RIKER: Enjoy your dinner.
+TROI LAFORGE WORF PICARD SELA SPOCK RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: As soon as I heard this Barolian ship was at
-the Galorndon Core, I started to think Romulans. 
-PICARD [on viewscreen]: And the Romulans are suddenly very interested
-in bonding with the Vulcans. Spock has been meeting with the new Senate
-Proconsul about reunification. 
-RIKER: Reunification?
-PICARD [on viewscreen]: The Proconsul says that he is prepared to
-endorse peace talks. 
-RIKER: And Spock?
-PICARD [on viewscreen]: The Ambassador is sceptical, but he cares a
-great deal about reunification. As long as there's a chance of success,
-he's prepared to pursue it.
-TROI: I'm afraid I don't see how a stolen Vulcan ship fits into all
-this. 
-PICARD [on viewscreen]: Neither do I, Counsellor. How soon can you be
-at Galorndon Core, Number One?
-RIKER: A little over eight hours.
-PICARD [on viewscreen]: Well, this may prove to be a wild goose chase,
-but I don't see that we have any other choice, do you?
-RIKER: Agreed.
-DATA: We are losing our Romulan carrier wave, sir. 
-PICARD [on viewscreen]: We'll advise you further as soon as you reach
-your destination, Number One. Picard out.
-(transmission ends)
-RIKER: Ensign, set a course to Galorndon Core. Take us to warp eight. 
-ENSIGN: Aye, sir.
+WORF: Sir, sensors are picking up three vessels
+crossing the Neutral Zone. Vulcan ships. 
+TROI: Vulcan?
+RIKER: What's their heading, Mister Worf?
+WORF: One four three mark zero one two. 
+LAFORGE: That would put them on a course to Vulcan. They don't seem to
+be in any hurry. They're only moving at warp one, Commander.
+RIKER: Worf, signal them on subspace. Request their status. Geordi, see
+if you can tell if it's one of ships we've been looking for.
+WORF: They say they are escorting a peace envoy from Romulus to Vulcan.
+They request that we monitor Federation subspace channels. Ambassador
+Spock will be making an announcement shortly. 
+TROI: Perhaps his reunification talks were successful. 
+RIKER: Geordi?
+LAFORGE: None of the transponder signatures matches that of the missing
+ship. They could have been altered. I'll keep checking.
+RIKER: Set a course to intercept.
+WORF: Sir, the Captain's orders were to maintain 
+RIKER: I know the Captain's orders, Lieutenant. Engage.
 
-[Klingon bridge]
+[Romulan office]
 
-DATA: Captain, the Romulan subspace logs identify a
-transmission from the Romulan surface to a Barolian ship near Galorndon
-Core twelve hours ago.
-K'VADA: Galorndon Core is along the Barolian trade route. They trade a
-great deal with the Romulans. It's probably just routine. 
-DATA: This would not appear to be routine. I was able to trace the
-source of the transmission. It incorporates the code prefix of Romulan
-intelligence.
-PICARD: Can you access it?
-DATA: It is a short sequence of numbers. One four zero zero. 
-PICARD: Nothing more?
-DATA: No, sir.
-
+(Sela and her guards enter an empty room) 
+SELA: Impossible! There's no way they could have gotten out of this
+room. 
+RIKER: That's far enough. 
+(Riker and two security with phasers) 
+RIKER: Stay right where you are. Drop your weapons.
+SELA: How did you get in here?
+RIKER: Drop your weapons.
+(the Romulans shoot at them) 
+RIKER: Drop your weapons.
+SELA: Cease fire. Holograms. 
+(Spock comes out of a presumably holographic wall and neck pinches a
+guard. Picard punches the other one) 
+SPOCK: I'm afraid I don't know too much about Romulan disruptor
+settings.
+(Sela surrenders) 
+SPOCK: Cowboy diplomacy? 
+(the fake wall vanishes) 
+PICARD: Well done, Mister Data. Though I don't think you got Commander
+Riker's hair quite right.
+DATA: I will be more observant in the future, sir.
+SELA: It doesn't matter what you do now. Spock's announcement will be
+made in minutes. Our forces will be on Vulcan before you can alert
+anyone. 

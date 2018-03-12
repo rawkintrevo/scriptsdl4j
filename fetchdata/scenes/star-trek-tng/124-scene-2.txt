@@ -1,72 +1,6 @@
-TROI MANHEIM LAFORGE WORF PICARD RIKER COMPUTER DATA
+PICARD COMPUTER GUEST0 GUEST1 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-PICARD: (still in fencing gear) Report, Mister
-Data. 
-DATA: Sensors show nothing, sir, but it appears a moment in time
-repeated itself exactly for everyone. 
-LAFORGE: Just like a feeling of deja vu. 
-WORF: Reports from all decks coming in, sir. 
-DATA: Computers were also affected, which would indicate the phenomenon
-was not an illusion but
-occurred in real time. 
-PICARD: Number One, find out if anything similar happened in this
-sector. 
-WORF: Sir, I am receiving an emergency transmission from the Pegos
-Minor system. 
-PICARD: Put it on. 
-MANHEIM [OC]: Five four two point two. I repeat. This is Doctor Paul
-Manheim. We are in need of help. Urgent. All ships, please respond. I
-repeat. Coordinates are six six seven two eight point nine 
-WORF: It is an automated signal, sir. I am unable to establish contact.
-
-PICARD: Shut it off. Mister La Forge, lay in a course on those
-coordinates. 
-LAFORGE: Aye, sir. 
-RIKER: Captain, you act as if there's a connection between the time
-distortion and the distress signal. 
-PICARD: There is. Paul Manheim. Fifteen years ago he went off to work
-on experiments relating to non-linear time. It appears he may have
-achieved some measure of success. Speed warp eight. 
-LAFORGE: Aye, sir. Warp eight. 
-PICARD: Engage. 
-LAFORGE: Estimated arrival Pegos Minor, four hours, thirty five
-minutes, seventeen seconds. 
-RIKER: I've never heard of Paul Manheim. 
-PICARD: Mister Data. 
-DATA: A highly respected scientist, considered a visionary, he advanced
-several time-related theories. One regarding the relationships between
-time and gravity was quite intriguing. But neither that theory nor any
-other
-received wide acceptance. 
-PICARD: Fifteen years ago, he assembled a team of scientists to expand
-that research. They disappeared. Haven't been heard from since. 
-RIKER: Did you know him, Captain? 
-PICARD: I knew of him. He was teaching at the University when I was in
-Paris, but I didn't have the pleasure. I must change. Number One,
-inform me half an hour before we reach those co-ordinates. Keep trying
-to determine if the time distortion was specifically located on the
-Enterprise. 
-RIKER: Yes, sir.
-TROI: Captain? Excuse me. 
-PICARD: Yes, what is it, Counsellor? 
-TROI: I think you would prefer to discuss this in private. 
-PICARD: That's not necessary. Go on. 
-TROI: When Professor Manheim's name was mentioned, you reacted with
-intense emotion. 
-PICARD: Yes. Please get to the point. 
-TROI: I don't want to interfere with your personal life, but unresolved
-strong emotion can affect judgement. 
-PICARD: Well, thank you for your concern. 
-TROI: As Ship's Counsellor, I offer my assistance. 
-PICARD: What do you suggest? 
-TROI: Confronting deep personal issues is not easy for you. You tend to
-suppress them. There are a few hours until we arrive. Perhaps you
-should use this time to analyse your feelings and put them into
-perspective. 
-PICARD: Thank you, Counsellor. If I should need you further, I'll let
-you know. 
 [Turbolift]
 
 (After returning to the gymnasium and cleaning his
@@ -75,3 +9,51 @@ PICARD: Bridge. Belay that. Computer, estimated arrival at Pegos Minor.
 
 COMPUTER: Two hours, nine minutes. 
 PICARD: Holodeck three. 
+[Outside Holodeck]
+
+PICARD: Computer, this is Captain Picard. 
+COMPUTER: Holodeck three is clear. 
+PICARD: Location, Paris, Cafe des Artistes, as it appeared twenty two
+years ago. April the ninth, fifteen hundred hours, three o'clock. Warm
+spring day. 
+COMPUTER: Programme complete. 
+[Cafe des Artistes]
+
+(Picard is greeted by the head waiter) 
+GUEST2: Monsieur, welcome to the Cafe des Artistes. Is this your first
+time in Paris? 
+PICARD: No. 
+GUEST2: This way. 
+PICARD: That table. 
+GUEST2: Mais oui, bien sur, monsieur. We are here to please you. 
+(Picard gazes from the balcony towards le Tour d'Eiffel, and the
+otherwise future city-scape) 
+PICARD: I've been away far too long. 
+GUEST2: Some wine, some cheese? 
+PICARD: I'm not very hungry. I really came for the view. 
+GUEST2: Perhaps what you hunger for is not on the menu. 
+PICARD: Perhaps not. It was many years ago, I had a rendezvous. I was
+to meet someone. Someone here, at this very table. 
+GUEST2: Your young lady, she did not come? 
+PICARD: Actually, I don't know. I always imagined that she did. 
+GUEST2: You, however, did not. Ah. Well, trust Edouard. I will bring
+something very special, just for you. 
+(Two young women are talking at the next table) 
+GUEST1: Let's go. We've waited long enough. 
+GUEST0: Fine. You go. I'll stay a little longer.
+GUEST1: He's not coming, Gabrielle. 
+GUEST0: No, after last night, I know he will. I just know. 
+GUEST1: Then he would be here. You are making a fool out of yourself,
+and I will not watch. 
+(Francine walks away) 
+GUEST0: Do we know each other? 
+PICARD: No. 
+GUEST0: The way you look at me, do I remind you of someone? 
+PICARD: No. Yes, you do, somewhat. 
+GUEST0: He's not coming. Why? What did I do to drive him away? 
+PICARD: Maybe you did nothing. Maybe he had no choice. Maybe he was
+afraid. 
+GUEST0: Of what? Of me? 
+PICARD: Oh, of being connected, rooted. Perhaps if he's as young as you
+are, he doesn't know yet exactly what he wants to do. Maybe. Enough of
+this self-indulgence. Exit. 

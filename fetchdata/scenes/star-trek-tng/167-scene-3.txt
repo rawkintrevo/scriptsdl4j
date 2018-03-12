@@ -1,41 +1,5 @@
-PICARD RIKER CRUSHER
-
-[Ready room]
-
-(Picard is so engrossed in what he is doing, that
-the doorbell has to ring twice to get his attention) 
-PICARD: Come. 
-CRUSHER: Sir, it's been brought to my attention one of the crew has
-been neglecting his health again. 
-PICARD: How so? 
-CRUSHER: It's a classic case of stress-related ailments brought on by
-overwork. Exhaustion, irritability, muscle spasms. Yet he insists on
-ignoring them. 
-PICARD: Doesn't sound too serious. 
-CRUSHER: And I plan to keep it that way. 
-PICARD: What's the treatment. 
-CRUSHER: A week's shore leave. 
-PICARD: Impossible. 
-CRUSHER: Jean-Luc, I could make that an order. 
-PICARD: But you won't. Beverly, you know I loathe vacations. 
-CRUSHER: You loathe going on vacations. Once you're there you have a
-marvellous time. You told me your four days on Zytchin Three were
-wonderful. 
-PICARD: I lied. Look, the Enterprise is scheduled to spend a week
-undergoing maintenance overhaul at Starbase twelve. While there, I
-promise that I will make full use of available recreation activity. 
-CRUSHER: Watching some technician fill deuterium tanks is not my idea
-of fun. 
-PICARD: I suppose I could find a few hours to spend on the holodeck. 
-CRUSHER: Forget the holodeck. Isn't there someplace you want to go? 
-PICARD: The Astrophysics Centre on Icor Nine is holding a symposium on
-rogue star clusters. I had given serious thought to attending. 
-CRUSHER: The last thing you need is serious thought. Jean-Luc, why
-don't you go some place beautiful, where you can relax and be pampered.
-You deserve it. 
-PICARD: I'll give it serious thought. 
-CRUSHER: Captain. 
-PICARD: Doctor. Enough.
+PICARD TROI RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Turbolift]
 
@@ -58,3 +22,23 @@ PICARD: Of course.
 RIKER: I'm sure you would find their sybaritic outlook on life very
 appealing. 
 PICARD: Oh, I'm sure. 
+[Bridge]
+
+RIKER: I'm glad to hear you say so, sir. 
+PICARD: Unfortunately, this vessel is about to undergo extensive
+repairs requiring my personal supervision. 
+RIKER: What about Risa? 
+PICARD: Some other time, Number One. 
+TROI: Will, I've just had some terrific news. 
+RIKER: Really? 
+TROI: There's an excellent chance my mother may be joining us on
+Starbase twelve. 
+PICARD: Your mother? 
+TROI: She's returning home from a conference on Achrady Seven, and
+she's going to try to rearrange her schedule so she can spend some time
+visiting with us. 
+RIKER: That's wonderful, Deanna. 
+TROI: She mentioned how much she was looking forward to seeing you
+again, Captain. 
+PICARD: Did she? Commander, could I have a word with you? 
+(As Riker and Picard leave, Deanna clasps her hands and mouths Yes!) 

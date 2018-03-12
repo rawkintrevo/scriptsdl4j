@@ -1,65 +1,47 @@
-TROI LAFORGE WORF PICARD RIKER CLEMENS CRUSHER DATA
+CLEMENS TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cavern]
+[Corridor]
 
-RIKER: The triolic levels are as high as they were
-on Devidia Two. There's no indication of a control mechanism. 
-LAFORGE: I'm not so sure. My visor is picking up crystalline fractures.
-These cavern walls have undergone some kind of selective molecular
-polarisation. In fact, if I'm right this whole cavern has been
-configured to focus the space-time distortion. Just like a lens.
-Captain, we think we might be on to something. The cavern itself seems
-to be acting as a focusing mechanism. I'm willing to bet it's the same
-at their habitat back on Devidia Two. 
-PICARD: If we can get back there and destroy that site, it might put an
-end to their time travelling. 
-RIKER: We have the ophidian. 
-LAFORGE: Truthfully, I don't know that we can get back. The aliens use
-triolic energy as a power source. The energy our phasers generates
-might not be entirely compatible. 
-PICARD: We have no choice but to try. 
-CLEMENS: An event I would most certainly enjoy witnessing. However, I
-will regretfully waive that opportunity for the
-privilege of taking you all in to the authorities. 
-DATA: Mister Clemens, it is imperative that we continue our mission. 
-CLEMENS: Mister Data, I have listened to your stories and your excuses
-and your evasions, and I will listen no longer. It is my moral duty to
-protect mankind from whatever devious plan you have in mind. Now, move
-along. I suspect that even time travellers are vulnerable to the Colt
-forty five. Now, let's go. I made a young fellow a promise and I don't
-want to be late. 
-(the two aliens appear and the male grabs the cane from Troi. Data
-tackles him and gets it back. The cane activates, the woman disappears,
-there's a flash, everyone is thrown to the floor and Data's head comes
-adrift. The time portal is open. The male runs through it) 
-PICARD: Follow him! 
-(Riker, Geordi, Crusher, Troi do so, then Clemens as Picard checks on
-Guinan. The portal closes.)
+(Troi is back in her purple catsuit) 
+CLEMENS: Any place that doesn't stock a good cigar doesn't rank high in
+my book. 
+TROI: If you must have one, I'm sure we can replicate it for you. 
+CLEMENS: You think one of these imitations can take the place of a hand
+wrapped Havana? 
+TROI: I wouldn't know. 
+CLEMENS: Well, that's the problem I see here. All this technology it
+only serves to take away life's simple pleasures. You don't even let a
+man open the door for a lady. 
+TROI: I think what we've gained far outweighs anything that might have
+been lost. 
+CLEMENS: Oh? Well, I'm not so impressed with this future. Huge
+starships, and weapons that can no doubt destroy entire cities, and
+military conquest as a way of life? 
+TROI: Is that what you see here? 
+CLEMENS: Well, I know what you say, that this is a vessel of
+exploration and that your mission is to discover new worlds. 
+(a Bolian comes out of the turbolift as they get in)
 
-[Devidia cavern]
+[Turbolift]
 
-RIKER: Is everybody all right? 
-CRUSHER: I think so. 
-RIKER: You! 
-CLEMENS: Where are we? And when? 
-RIKER: This is the twenty fourth century, we're on Devidia Two, and
-you're not supposed to be here. 
-CLEMENS: Well it seems to me I have as much right to be in your time as
-you had to be in mine. I wanted to see how you've conducted my future
-affairs. 
-TROI: Your future affairs? 
-CLEMENS: The affairs of mankind. 
-RIKER: But the disappearance of Mark Twain, one of the most noted
-literary figures of the nineteenth century 
-CLEMENS: Thank you. 
-RIKER: That's not supposed to happen. 
-CLEMENS: I only took advantage of an irresistible opportunity, as any
-good writer would. 
-WORF [OC]: Bridge to Away team. Acknowledge. 
-RIKER: We're here, Mister Worf. Stand by to transport five. 
-LAFORGE: Commander. 
-(Data's headless body is lying on the floor, clutching the cane) 
-RIKER: Mister Worf? 
-WORF [OC]: Yes, Commander. 
-RIKER: Make that six to transport.
+CLEMENS: That's what the Spanish said. 
+TROI: Deck thirty six. 
+CLEMENS: And the Dutch and the Portuguese. It's what all conquerors
+say. I'm sure that's what you told that blue-skinned fellow I just saw,
+before you brought him here to serve you. 
+TROI: He's one of the thousands of species that we've encountered. We
+live in a peaceful Federation with most of them. The people you see are
+here by choice. 
+CLEMENS: So there're a privileged few who serve on these ships, living
+in luxury and wanting for nothing. But what about everyone else? What
+about the poor? You ignore them. 
+TROI: Poverty was eliminated on Earth a long time ago, and a lot of
+other things disappeared with it. Hopelessness, despair, cruelty. 
+CLEMENS: Young lady, I come from a time when men achieve power and
+wealth by standing on the backs of the poor, where prejudice and
+intolerance are commonplace and power is an end unto itself. And you're
+telling me that isn't how it is anymore? 
+TROI: That's right. 
+CLEMENS: Well, maybe it's worth giving up cigars for after all.
 

@@ -1,45 +1,6 @@
-TROI WOMAN WORF PICARD BYLETH RIKER LOQUEL CRUSHER DATA
+RIKER WOMAN WORF GUEST0 TROI GUEST1 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlebay]
-
-PICARD: What's keeping them? 
-(Worf and Riker enter) 
-PICARD: Ah, you're just in time. They're about to disembark. 
-(three males in very plain jumpsuits get out of the shuttle) 
-PICARD: Ambassador Loquel, Ambassador Byleth. I'm Captain Picard.
-Welcome on board the Enterprise. 
-LOQUEL: It is our pleasure to be here, Captain. 
-PICARD: It is an honour to be the site of the first cultural exchange
-between the Iyaaran people and the Federation. 
-BYLETH: (the tall one) The next seven days should prove most
-illuminating. 
-LOQUEL: Allow me to introduce Voval. He will be taking you back to our
-homeworld. 
-PICARD: How do you do. I'm looking forward very much to meeting with
-the Premier of Iyar. There will be a reception held in your honour when
-you will meet the rest of my senior staff. I, of course, shall be on my
-way to your home world, but I shall be leaving you in the safe hands of
-my most experienced officers. Lieutenant Worf, of the Klingon Empire,
-is my head of Security. He will be in charge of your safety while
-you're on board. Counsellor Deanna Troi of the planet Betazed will be
-your personal liaison office, Ambassador Loquel. 
-TROI: Ambassador, it's an honour to meet you. Would you like to see
-your quarters before we attend the reception? 
-LOQUEL: Please. 
-(Troi and Loquel leave) 
-PICARD: Ambassador Byleth, this is Commander William Riker, my First
-Office, from the planet Earth. He has been assigned to you. 
-BYLETH: (walks up to Worf) I want this one. 
-PICARD: Well, Commander Riker is a skilled diplomat, with wide
-experience in inter-species contact. 
-BYLETH: I'm sure, I'm sure. But I have decided. I want this Lieutenant
-Worf. 
-PICARD: Well, that will be just fine. Mister Worf? 
-WORF: Yes. Yes Ambassador, it would be my pleasure to 
-BYLETH: Yes, yes. Enough of that. Show me to my quarters. 
-WORF: This way. 
-(Worf and Byleth leave) 
-PICARD: Good luck. 
 [Ten Forward]
 
 RIKER: Do you think there's enough food here, Data?
@@ -50,37 +11,37 @@ TROI: So first thing tomorrow, I thought I'd take you on a tour of the
 operational centres and the residential decks of the ship. Then we
 could spend some time discussing the cultural underpinnings of your
 society. 
-LOQUEL: Are you going to eat? 
+GUEST1: Are you going to eat? 
 TROI: Excuse me? 
-LOQUEL: You have no food on your plate. Are you going to eat? 
+GUEST1: You have no food on your plate. Are you going to eat? 
 TROI: Oh, well, actually, I was waiting until we got to the desserts. 
-LOQUEL: Desserts? What is this? 
+GUEST1: Desserts? What is this? 
 TROI: It's something we eat after the main course. It's usually very
 sweet, it's usually very bad for you. We eat it purely for pleasure. If
 you ask me, it's the best part of any meal. 
-LOQUEL: My people eat only for nourishment. 
+GUEST1: My people eat only for nourishment. 
 TROI: Oh, well, let me introduce you to some of my favourites. This is
 peach cobbler with whipped cream. Tarvokian powder cake. And this is my
 favourite. Ktarian chocolate puff. I don't know exactly what's inside,
 but I think it's made with seventeen varieties of chocolate. 
 (Troi gives Loquel a sample) 
-LOQUEL: That is, that is 
+GUEST1: That is, that is 
 TROI: Delicious? 
-LOQUEL: Delicious. 
+GUEST1: Delicious. 
 TROI: Ambassador, I think we're going to get along very well. Shall we?
 
 (Loquel takes his loaded plate and a tray of small desserts with him to
 a table) 
 (meanwhile, at another table, Worf and Crusher eat with Byleth) 
-BYLETH: This is unacceptable. 
+GUEST0: This is unacceptable. 
 WORF: I am sorry you do not care for our 
-BYLETH: Bring me new food. I require a higher protein and enzymatic
+GUEST0: Bring me new food. I require a higher protein and enzymatic
 content. 
 CRUSHER: Ambassador 
-BYLETH: Yes. 
+GUEST0: Yes. 
 CRUSHER: It's the custom usually in a situation like this, for us to
 serve ourselves. It's called a buffet, and 
-BYLETH: Bring me new food. 
+GUEST0: Bring me new food. 
 CRUSHER: Ambassador 
 WORF: Doctor, it is all right. I am happy to bring more food. 
 (Worf slices a meat joint as if he wishes it were Byleth) 

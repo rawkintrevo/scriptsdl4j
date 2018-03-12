@@ -1,91 +1,30 @@
-PICARD OGAWA CRUSHER CHRISTOPHER TPAN
+GUINAN CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Crusher's quarters]
 
-CRUSHER: Jean-Luc, I was with him right before he
-died. He was not suicidal. 
-PICARD: But by your own admission, Reyga was a difficult man to
-understand. Isn't it possible that he was simply masking his feelings? 
-CRUSHER: I don't think so. He was disappointed at the failure of his
-device and certainly he was upset at Jo'Bril's death, but I never got
-the sense that he was ready to end his own life. And if that's true,
-then someone else killed him. 
-PICARD: Do you have any evidence of that? 
-CRUSHER: Not yet. But when I finished the autopsy, I hope I'll have it.
+CRUSHER: So that's the story. That's how I ended my
+career. 
+GUINAN: Backhand volley. 
+CRUSHER: What? 
+GUINAN: That's how I did it. Geordi kept hitting to my backhand at the
+net. 
+CRUSHER: Guinan, two people died on this ship. Two lives that ended
+horribly and you're worried about your tennis game? 
+GUINAN: Are you upset? 
+CRUSHER: I don't know. You tell me. You're supposed to be wise. 
+GUINAN: Well, if you are upset, why are you moping around here? Why
+don't you do something about it? 
+CRUSHER: I've done everything I could think of. It got me fired. 
+GUINAN: Do you think Doctor Reyga killed himself? 
+CRUSHER: No. 
+GUINAN: Do you think there's a murderer on board? 
+CRUSHER: Yes. 
+GUINAN: Then why are you still sitting here? 
+CRUSHER: Don't you get it? If I start digging around again. 
+GUINAN: You could be relieved of duty.
 
-PICARD: Beverly. I'm afraid there will be no autopsy. The family has
-already been contacted. They insist that the body must not be touched
-until they perform the Ferengi death ritual. 
-CRUSHER: But there's a question as to the circumstances of his death. 
-PICARD: To the family that's irrelevant. 
-CRUSHER: Let me speak with them. 
-PICARD: Please believe me, they're adamant. We are scheduled to
-rendezvous with a Ferengi ship in seventeen hours. They will pick up
-Reyga's body then. I'm sorry, there will be no autopsy. 
-CRUSHER: Jean-Luc, I cannot just drop this. Don't you see? There may
-have been a murder. 
-PICARD: Then you will have to find evidence some way other than an
-autopsy.
-
-[Morgue]
-
-OGAWA: I don't understand, Doctor. Isn't it pretty
-clear that Reyga died from a plasma discharge? 
-CRUSHER: It's won't be clear until after an autopsy. As far as I know,
-he could have been poisoned and someone put the plasma infuser in his
-hand after he died. 
-OGAWA: You think he was murdered? 
-CRUSHER: I'm not discounting that possibility. The point is, without a
-complete autopsy, there's no way of knowing for certain. 
-OGAWA: Why won't the Ferengi allow it? 
-CRUSHER: It has to do with their death rituals. The body can't be
-violated before it's buried. Apparently the family is more concerned
-about ritual than finding out the truth about how he died. I just can't
-get the information I need from a tricorder scan. Suspects. If Reyga
-didn't kill himself. someone else did. So who are the possible
-suspects? 
-OGAWA: Whoever had something to gain from his death. 
-CRUSHER: And the only ones to fit that category are the other
-scientists.
-
-[Christopher's quarters]
-
-CHRISTOPHER: I'm afraid I don't understand, Doctor.
-Do you have evidence that Reyga was murdered? 
-CRUSHER: No, but I can't believe he took his own life and I would like
-to explore any possibilities a bit further. 
-T'PAN: What reason would anyone have to kill him? 
-CRUSHER: I was wondering if you might have any thoughts along that
-line. 
-T'PAN: I see. You are suggesting that I had such a motive. 
-CRUSHER: If Reyga's technology had been successful, you might have been
-displaced as the preeminent scientist in subspace technology. 
-T'PAN: But since it wasn't successful, it is illogical to conclude that
-I had such a motive, isn't it. 
-CHRISTOPHER: I must say I resent this, Doctor. We've all been shocked
-by recent events. I don't see that there's anything to gain by dragging
-us through these insinuations. 
-CRUSHER: I'm just trying to uncover the truth, and I need your help to
-do it. Have you seen or heard anything that might suggest that someone
-else had a motive? 
-CHRISTOPHER: We are trying to forget the unpleasantness of these last
-several days, not have them stirred up again. I find it disturbing that
-you would try to foster suspicions among us. 
-CRUSHER: Forgive me, I don't mean to upset you, but have you noticed
-anything unusual? 
-CHRISTOPHER: I find your question distasteful. 
-CRUSHER: Is there something you're not telling me? 
-CHRISTOPHER: I'm sure it's nothing. I was in the storage room of the
-science laboratory yesterday. Kurak was working in the lab. Reyga came
-in and they got into, well, an argument. 
-CRUSHER: About what? 
-CHRISTOPHER: I don't know. I couldn't hear clearly until they started
-to shout at one other. Then I heard Kurak say that Reyga had insulted
-her honour, and no Klingon would stand for that. I do not believe she
-killed him. These were words spoken in the heat of anger. Kurak is
-volatile, passionate, but not a killer. And, Doctor, neither are we. 
-CRUSHER: Thank you. 
-CRUSHER [OC]: I knew he might be right about Kurak. Klingons make
-threats as a matter of course. On the other hand, sometimes they follow
-through.
-
+Chief Medical Officer's log, personal, stardate
+46830.1. I'll be leaving the ship tomorrow to attend the board of
+inquiry. That means I have less than twenty four hours to get to the
+bottom of this mystery. 

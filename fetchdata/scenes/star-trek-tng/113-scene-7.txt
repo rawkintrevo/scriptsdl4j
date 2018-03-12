@@ -1,30 +1,26 @@
-COMPUTER DATA LAFORGE
-
-[Corridor]
-
-DATA: Why would the Captain not want to review all
-available information on the subject? 
-LAFORGE: Data, when you've seen the Jaradan react once, you don't ever
-have to see it again. 
-DATA: This Dixon Hill is a most puzzling character. 
-LAFORGE: Not really. He was just a twentieth-century Sherlock Holmes. 
-DATA: Ah, but was his modus operandi not dissimilar? Worth
-investigating. 
-LAFORGE: Indubitably, my dear Data. Indubitably.
+TASHA RIKER LAFORGE TROI GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Computer: request all biographical
-information on fictional character Dixon Hill. 
-COMPUTER: Working. Character first appeared in pulp magazine, Amazing
-Detective Stories, copyright 1934, AD.
-Second appearance in novel The Long Dark Tunnel, copyright 1936. 
-DATA: Request complete text of all stories involving said character.
-Increase speed. 
-(The ultimate speed reading course whizzes before Data's optics)
-
-Captain's log, supplemental. The Jaradan rendezvous
-still is eleven hours away. I am about to reenter the world
-of Dixon Hill, this time properly dressed. An experience like this is
-more enjoyable when shared, so I've invited our fiction expert, Whalen,
-to accompany me. Doctor Crusher will join us shortly. 
+RIKER: Status report. 
+TASHA: We're being probed, sir. 
+TROI: The Jarada. 
+TASHA: Most likely, but it's long range. Can't be certain where it's
+originating.
+(The ship shakes as a beam passes through it, including the holodeck,
+whose controls flicker and door briefly opens and closes a few times) 
+RIKER: One could get the feeling they don't exactly trust us. 
+LAFORGE: Commander, I'm receiving a subspace message from the Jarada. 
+RIKER: That's not part of the plan. Pipe it through. 
+GUEST5 [OC]: En-ter-prise. We speak to you in your language. The time
+has come to honour us in ours. 
+RIKER: This is Commander Riker, First Officer of the Enterprise. 
+GUEST5 [OC]: You are not captain? 
+RIKER: No sir, I'm not. I suggest we commence with screen to screen
+communication so we can see each other 
+GUEST5 [OC]: You offend us! We will not show ourselves to a mere
+subordinate. We await your Captain's greeting with growing unrest. End
+of communication. 
+RIKER: Terrific. Find the Captain. He's in the Holodeck. 
+LAFORGE: Aye, sir. 

@@ -1,158 +1,27 @@
-HARO TROI PICARD ESOQQ THOLL CRUSHER
+WESLEY RIKER DATA PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-PICARD 2: Counsellor, I wanted to ask you about the
-crew. How are they reacting to our sudden change in course? 
-TROI: I sense no unusual reaction, Captain. After all, such a change is
-hardly out of the ordinary. 
-PICARD 2: They're not curious or concerned as to why? 
-TROI: They're curious, yes. But concerned? No, they trust you. 
-PICARD 2: How far do you think that trust goes? 
-TROI: Sir? 
-PICARD 2: I know, Counsellor, that the crew has always had full
-confidence in me. But what if it were to change? 
-TROI: Well, I'd inform you, sir, of course. 
-PICARD 2: Thank you, Counsellor.
-
-[Holding cell]
-
-ESOQQ: My given name is Esoqq. It means fighter. 
-THOLL: I'll bet half the names in the Chalnoth language mean fighter. 
-ESOQQ: Mizarians. Your names all mean surrender. 
-THOLL: We are a peaceful race, a race of thinkers. 
-ESOQQ: A race of cowards. And you? I don't know your people. 
-HARO: I am Mitena Haro, of Bolarus Nine. 
-ESOQQ: Who would want to imprison a child? 
-HARO: I'm not a child. 
-PICARD: Esoqq, I've been trying to determine if we have a common enemy.
-Someone with a reason for confining us here. 
-ESOQQ: There are Chalnoth who would kill me if they could. But kidnap?
-There is no reason. 
-PICARD: You have many enemies? 
-ESOQQ: None of consequence. I've slain all the ones who mattered. That
-shocks you, Bolian? 
-HARO: A little. 
-ESOQQ: And you? 
-THOLL: I'm not surprised. I've heard about your race. You're
-uncivilised. You have no laws, no system of government 
-ESOQQ: The Chalnoth have no use for laws or governments! We are strong.
-We obey no one. 
-THOLL: You live in anarchy, murdering one another, That mentality may
-get us all killed. 
-ESOQQ: And you may be the first. 
-PICARD: Both of you. This is getting us nowhere. 
-THOLL: Neither is asking us useless questions, Picard. But, if you must
-pursue the topic, How long have you and the Romulans been adversaries? 
-PICARD: For quite a while, Mister Tholl. I am perfectly willing to
-entertain the hypothesis that our captors are Romulans.
-But what would the Romulans want with you? 
-THOLL: My brainpower, perhaps. It's well known that my species
-possesses superior intelligence and I am considered among the brightest
-of my people. 
-HARO: And the least modest. 
-ESOQQ: What is this? 
-PICARD: Food. 
-ESOQQ: The only food? 
-PICARD: It would seem so. 
-ESOQQ: Poison! 
-THOLL: Does this mean there's nothing here for you to eat? 
-ESOQQ: You. 
-THOLL: Don't even think that! Picard, you won't let him 
-PICARD: Esoqq, how long can you go without food? 
-ESOQQ: Three days. Perhaps four. 
-PICARD: No longer? 
-ESOQQ: No longer.
-
-[Doctor's office]
-
-CRUSHER: Well, all your tests indicate the same
-results. You are in great shape. 
-PICARD 2: I never felt better. 
-CRUSHER: I see. Then why did you come in? Your annual physical isn't
-due for another month. 
-PICARD 2: Well, usually you have to remind me, then badger me, and
-finally order me to report. For once I thought I'd save you the
-trouble. 
-CRUSHER: Jean-Luc, be honest with your doctor. Are there any warning
-signs or symptoms that you haven't told me about? 
-PICARD 2: As far as I know, I'm perfectly healthy. 
-CRUSHER: Well, then, return to your post. 
-PICARD 2: Will you have dinner with me tonight? 
-CRUSHER: In Ten Forward? 
-PICARD 2: What about my quarters? More intimate. 
-CRUSHER: Jean-Luc, you are full of surprises today. 
-PICARD 2: I take that to be a yes.
-
-[Holding cell]
-
-THOLL: Picard is it wise to attempt an escape? 
-PICARD: It's imperative. 
-THOLL: Why? Our captors haven't mistreated us. 
-HARO: We've been kidnapped, locked in a room. You don't think that's
-mistreatment? 
-THOLL: They haven't hurt us, have they? I think we should just wait
-until we find out what they want. Be patient. 
-PICARD: We can no longer afford to be patient. Unless we act soon,
-Esoqq will starve. 
-THOLL: If we antagonise them, they may decide we're more trouble than
-we're worth, kill us and go capture another four. 
-PICARD: I agree that's a risk, but I see no alternative. 
-THOLL: Well, I refuse to help. 
-PICARD: As you wish, Mister Tholl. We must get inside this panel. 
-ESOQQ: Not very sturdy. 
-PICARD: Stand back, Haro. 
-(Esoqq puts his fist through the panel and rips the surround out of the
-wall) 
-HARO: The design is simple. Cross-circuiting the door mechanism should
-be easy. 
-PICARD: Make it so. 
-HARO: Yes, sir. 
-(She flips a few connections then reaches up inside the wall) 
-HARO: I think I've got it. 
-(The door opens an inch, closes again, then a green light hits the
-three. They fall to the floor in pain) 
-THOLL: I warned you. 
-[Picard's quarters]
-
-(Jean-Luc and Beverly have made it to the after
-dinner drinks) 
-CRUSHER: Out with it, Jean-Luc. 
-PICARD 2: Out with what? 
-CRUSHER: Whatever has been on your mind all evening long. 
-PICARD 2: Has it been that apparent? How well you know me. 
-CRUSHER: After all this time, I ought to. 
-PICARD 2: Well, it's true, I have been preoccupied. I know that's not
-very flattering to you, but I have been thinking about us. And about
-the choices I've made. 
-CRUSHER: We've both made choices. 
-PICARD 2: And I've been wondering if they were the right ones.
-Sometimes I feel we've allowed our positions to isolate us. 
-CRUSHER: Our positions necessitate a degree of professional detachment.
-
-PICARD 2: But there's a danger in becoming too detached, of never
-permitting ourselves to get closer. 
-CRUSHER: Is that what you want, Jean-Luc? To get closer? 
-PICARD 2: You're a very attractive woman. 
-CRUSHER: And you're a very attractive man. But we both know it's not as
-simple as that. 
-PICARD 2: Would it be simpler if I were not your commanding officer? 
-CRUSHER: Simpler, perhaps, but that's not the only issue. I guess,
-right now, I'm comfortable with our relationship just the way it is. 
-PICARD 2: Would you care to dance? 
-CRUSHER: I thought you didn't dance. 
-PICARD 2: On special occasions. 
-(He holds her close in a slow shuffle) 
-PICARD 2: I don't think I told you, but I'm glad you're back on the
-Enterprise. I missed our friendship. 
-CRUSHER: I did too. 
-(The dance become more of a vertical embrace, and then they kiss) 
-CRUSHER: Jean-Luc, if I didn't know you better, I would think you were
-playing games with me. 
-PICARD 2: You're sorry you came tonight? 
-CRUSHER: I didn't say that. 
-PICARD 2: Good. Because I'm delighted you did. But, perhaps we should
-call it a night. 
-(He opens the door for her) 
-PICARD 2: Goodnight.
+DATA: Captain, number four shield has failed.
+Increasing power to number three shield to compensate. 
+PICARD 2: Helm, move us closer. Ten million kilometres. 
+DATA: Sir, at that distance, the ship will not withstand the magnetic
+fields and radiation. We will not survive. 
+PICARD 2: Take us in, Mister Crusher. 
+RIKER: Belay that order. 
+PICARD 2: You're relieved of duty, Commander. Mister Worf, confine
+Mister Riker to his quarters. 
+(Worf stands still and puts his hands behind his back) 
+PICARD 2: Mister Worf, I gave you an order. 
+RIKER: Maintain your position, Lieutenant. 
+PICARD 2: You're destroying yourself and anyone who is foolish enough
+to listen to you. 
+RIKER: You've shown none of the concern that Captain Picard would for
+the safety of his ship, the welfare of his crew. 
+PICARD 2: Mister Worf, escort Commander Riker from the Bridge. 
+RIKER: Ensign Crusher, take us away from this pulsar. Heading one eight
+five mark three two. Full impulse. 
+WESLEY: Full impulse. Aye, Commander. 
+RIKER: Engage.
 

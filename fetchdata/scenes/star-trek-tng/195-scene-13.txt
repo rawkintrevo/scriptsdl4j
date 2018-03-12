@@ -1,153 +1,33 @@
-LAFORGE WORF PICARD TARSES SABIN SATIE CRUSHER DATA
+PICARD GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Interrogation room]
+[Picard's quarters]
 
-SATIE: And how often did Lieutenant J'Dan come in
-for his injections? 
-CRUSHER: About once a week. 
-SATIE: Did you administer them yourself? 
-CRUSHER: No. 
-SATIE: Then who did? 
-CRUSHER: I had one of my assistants do that. 
-SABIN: Did you ever hear him say anything? Anything that may have
-seemed innocent at the time that might now shed some light on this
-investigation? 
-CRUSHER: No, nothing. In fact, he rarely spoke at all. 
-PICARD: Thank you, Doctor Crusher, we appreciate your time. You are
-excused now. Mister Worf, will you bring in the next person? 
-(Crusher leaves and a young man enters) 
-PICARD: Please sit down, Mister Tarses. For the record, will you tell
-us your name and position? 
-TARSES: Simon Tarses, Crewman First Class, medical technician. 
-PICARD: I assure you this is an informal inquiry. We are not accusing
-you of anything. However, if you would like counsel, it can be provided
-for you. 
-TARSES: No, sir. I have nothing to hide. 
-PICARD: Tell me, how long have you held your appointment onboard this
-vessel? 
-TARSES: Since Stardate 43587. 
-SATIE: Mister Tarses, your records state that you were born on Mars
-Colony. 
-TARSES: That's right. 
-SATIE: Then you are human? 
-TARSES: Largely. My paternal grandfather was Vulcan. 
-SATIE: Yes, I see that. Tell me, what is your relationship with the
-Klingon, J'Dan? 
-TARSES: Er, he, I mean, there's no relationship. He just came in for
-his injections. 
-SATIE: Did you give him those injections? 
-TARSES: Sometimes. There were several of us. Actually, I might have
-done it twice. 
-SABIN: Did he ever make any comments that might, in retrospect, be
-suspicious? 
-TARSES: Not really. He hardly ever talked. 
-SATIE: Did you ever see him outside Sickbay? 
-TARSES: Once or twice in Ten Forward, with a group of people, but I
-never had a conversation with him. 
-SATIE: Thank you, Mister Tarses. I don't think there's need for more.
-Captain? 
-PICARD: You're excused, crewman. 
-(Tarses leaves) 
-PICARD: Mister Worf? 
-SABIN: Wait. He's lying. He's desperately frightened. He's covering
-something. 
-PICARD: It's clear that he's frightened, but that's hardly an
-indication 
-SABIN: It's more than that. He wasn't truthful. He's covering a lie.
-One so big it's overwhelming him. I think we've found the man.
-
-[Ready room]
-
-PICARD: Admiral. I have to tell you, you must not
-expect me to permit any action against Mister Tarses solely on the
-basis of Betazoid intuition. 
-SATIE: Sabin has uncanny instincts. I've learned to trust them. 
-PICARD: I'm not happy about this use of a Betazoid. 
-SATIE: But you have a Betazoid counsellor. Surely you're aware of the
-advantages. 
-PICARD: There is a difference between a counsellor and an investigator.
-
-SATIE: Are you saying you never use your counsellor during
-interrogations? 
-PICARD: Yes, I do, but I would not act solely on the basis of her
-instinct. 
-SATIE: Nor do I. 
-PICARD: But you're asking, you're asking me to restrict Mister Tarses'
-movements solely on the basis on Sabin's feeling. 
-SATIE: If Counsellor Troi suggested to you that someone on the ship
-were dangerous, would you not act on that? Observe him? Curb his
-activity? 
-PICARD: Yes, I admit I probably would. And perhaps I should re-evaluate
-that behaviour. 
-SATIE: Oh, nonsense. Let's keep our priorities straight. The important
-thing is to uncover the conspiracy on this ship and
-to prevent further damage. Now, if Tarses is a possible saboteur, you
-cannot allow him access to sensitive areas of the ship, and I strongly
-suggest continuous surveillance. 
-PICARD: If we had clear evidence. 
-SATIE: We will have clear evidence. Sabin and Lieutenant Worf are
-continuing to investigate. But if you don't act until then, it may be
-too late. 
-PICARD: No. I won't treat a man as a criminal unless there is cause to
-do so. 
-SATIE: And while you're being so generous, you give a saboteur a chance
-to strike again. Last time it was just a hatch
-cover/ What if next time it's more serious? What if lives are lost? Can
-you afford not to act? 
-LAFORGE [OC]: Engineering to Captain Picard. 
-PICARD: Yes, Mister La Forge. 
-LAFORGE [OC]: Captain, could you come to Engineering right away? We've
-got something interesting to show you. 
-PICARD: I'll be right there.
-
-[Engineering]
-
-LAFORGE: Captain, we finally got in here about six
-hours ago. We've been going over it inch by inch ever since. 
-DATA: We have made micro-tomographic analyses of the dilithium chamber,
-the hatch mounting, the blast pattern from the explosion. 
-LAFORGE: We did mass spectrometer readings of the residue for chemical
-content, sifted
-through the debris for bomb fragments. 
-SATIE: What did you find? 
-LAFORGE: This is the frame for the hatch. It ruptured right along here.
-When we take a reading of that spot. See? 
-SATIE: I'm afraid I'm out of my element, Commander. You'll have to
-interpret for me. 
-PICARD: There are submicron fractures in the metal casing. 
-LAFORGE: That's right. A breakdown of the atomic cohesive structure. 
-SATIE: Yes? And what caused them? 
-DATA: Those fractures suggest nothing more than simple neutron fatigue.
-I would speculate that when the engine was last inspected at McKinley
-station, the hatch casing was replaced with one which had an
-undetectable defect. I believe, sir, that the conclusion to our
-investigation must be that the explosion was not intentional. 
-LAFORGE: That's the way I see it. This wasn't sabotage at all. It was
-nothing more than an accident.
-
-[Observation lounge]
-
-SABIN: An accident? I find that hard to believe. 
-PICARD: If my crew say there was no sabotage, then you can be sure
-there was none. 
-SATIE: Let us keep our perspective, gentlemen. Just because there was
-no sabotage doesn't mean there isn't a conspiracy on this ship. We do
-have a confessed spy. 
-SABIN: And he had confederates. 
-PICARD: Do we know that for sure? 
-SATIE: Of course he did. Do you think J'Dan could have come on board
-the flagship of the Federation and accomplished what he did without
-help from within? 
-PICARD: I agree it would be difficult, but not impossible. 
-WORF: We should continue to investigate Tarses. He was hiding
-something. 
-SABIN: Captain Picard Lieutenant Worf and I have been working well
-together. I suggest we continue, if for no other purpose than to
-determine Tarses' innocence. 
-PICARD: Now, please! Let me remind you he is innocent until he is
-proved guilty. 
-SATIE: Of course he is. What Sabin is saying is that he and Lieutenant
-Worf would like to establish his innocence unequivocally, for his own
-sake. 
-PICARD: Very well. But let us put this to rest as quickly as possible.
-
+(Picard is pouring tea) 
+PICARD: There you are, Mister Tarses. Would you care for some lemon? 
+GUEST0: No, thank you, sir. This is fine. 
+PICARD: Well, tell me a little about yourself, Crewman. I know you were
+born on Mars Colony. 
+GUEST0: Yes, sir. All my life I wanted to be in Starfleet. I went to
+the Academy's training programme for enlisted personnel. I took
+training as a medical technician and I served at several outposts. The
+day that I was posted to the Enterprise was the happiest day of my
+life. 
+PICARD: Did you ever consider applying to the Academy, going the whole
+route, apply to become an officer? 
+GUEST0: My parents wanted me to. And then I thought about it. I used to
+sit under this big tree near the parade grounds 
+PICARD: An elm tree with a circular bench? 
+GUEST0: Yes, that's the one. 
+PICARD: I spent many an hour there. It was my favourite spot to study. 
+GUEST0: I used to sit under that tree and watch the drills, picture
+myself an officer. I know that it would have made my mother very happy,
+but. 
+PICARD: You didn't do it. 
+GUEST0: No. I was eighteen, and eager. The last thing I wanted to do
+was spend four years sitting in classrooms. I wanted to be out there,
+travelling the stars. I didn't want to wait for anything. And now it's
+done, isn't it? My career in Starfleet is finished. 
+PICARD: Not if you aren't guilty, Simon. 
+GUEST0: It doesn't matter. I lied on my application, and that mistake
+will be with me for the rest of my life. 

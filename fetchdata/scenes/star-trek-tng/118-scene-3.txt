@@ -1,66 +1,70 @@
-TROI LAFORGE WORF TASHA PICARD RADUE RIKER RASHELLA CRUSHER DATA
-
-[Bridge]
-
-DATA: Sensors indicate that the shield is
-electromagnetic, a complicated light refracting mechanism. 
-PICARD: A cloaking device? 
-DATA: Aye, sir. 
-LAFORGE: It's got to be pretty sophisticated to hide an entire planet .
-
-WORF: We're being scanned, sir. 
-PICARD: We'll let them know our peaceful intention. Open hailing
-frequencies, Lieutenant Yar. 
-TASHA: Frequencies open, sir. 
-(A young woman comes on the viewscreen) 
-RASHELLA [on viewscreen]: I am Rashella. Welcome to Aldea. 
-PICARD: I am Jean-Luc Picard, Captain of the USS Enterprise. We come in
-peace. 
-RASHELLA [on viewscreen]: We know. 
-PICARD: We've heard the stories about Aldea, but frankly I never
-believed they could be true. 
-RASHELLA [on viewscreen]: Our shield has confused outsiders for
-millennia, Captain. 
-PICARD: That's a very long time to have such technology. Why do you
-reveal yourselves to us now? 
-RASHELLA [on viewscreen]: We're eager to meet in person to discuss
-that, and other subjects of mutual interest. 
-PICARD: We're ready anytime. 
-RASHELLA [on viewscreen]: Excellent! 
-(Rashella and a man appear on the deck, and seem dizzy at first) 
-RADUE: We mean no harm. 
-RASHELLA: Our arrival seems to have startled you. 
-PICARD: It was a little sudden. 
-RADUE: I'm Radue, First Appointee to Aldea. 
-PICARD: Welcome aboard. 
-CRUSHER: Captain, they haven't been through decontamination. 
-PICARD: Our medical doctor is concerned that you didn't go through the
-regular transporting procedure. 
-RASHELLA: You couldn't transport us. The only way through our shield is
-our way, Captain. Our cloaking device may be off, but our shield is
-operating. We've brought you small tokens of welcome. 
-(She hands over a bouquet) 
-RADUE: And a personal invitation to a celebration on Aldea. 
-PICARD: That would be delightful. Number One, assemble the away team. 
-RADUE: We will prepare for your arrival, Commander Riker. 
-RIKER: How do you know 
-RADUE: Your name? We've been monitoring your ship's communications. We
-must return now to Aldea. Our eyes are very sensitive to bright light.
-Rashella. 
-(They vanish again) 
-PICARD: Amazing. To exist only in that dreamworld of mythology and then
-suddenly to be here, right in front of us. 
-RIKER: Now we know who placed the bread crumbs. We're not here by
-accident. 
-PICARD: Counsellor, do you sense anything? 
-TROI: They want something from us, something we value greatly. So much,
-that they're afraid we won't part with it. 
-RADUE [OC]: We are ready to receive you, Commander Riker, and two of
-your colleagues? 
-(Riker, Troi and Crusher disappear) 
-PICARD: Interesting choices.
+TROI LAFORGE WORF TASHA PICARD RADUE WESLEY RIKER RASHELLA CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [First Unit]
 
 RADUE: I hope Duana and I know how to greet you
 properly, Commander. 
+[Bridge]
+
+WESLEY: How do they cloak the planet? 
+DATA: The theory is simple. The shield bends light rays around the
+planet's contour, similar to the Romulan cloaking device. But the
+implementation is quite difficult. 
+(A golden beam starts to sweep the Bridge) 
+WORF: Captain! 
+PICARD: Data, what do you read? 
+DATA: Some sort of scanning device, sir. 
+(It holds on Wesley) 
+PICARD: Don't touch him! 
+LAFORGE: This beam is emanating from Aldea. 
+PICARD: Shields up. La Forge, contact Commander Riker. Worf, check all
+decks. 
+TASHA: Shields inoperable, sir. 
+DATA: All decks being probed in a methodical pattern, sir. 
+PICARD: All decks? Everything? The entire ship? 
+DATA: Aye, sir. 
+LAFORGE: I can't reach the Commander. We're being blocked. 
+(The beam vanishes) 
+PICARD: Wesley, are you all right? 
+WESLEY: It was scary at first, but I really didn't feel anything. 
+WORF: Sir, similar incidents all decks, but only with the children.
+
+[First Unit]
+
+RADUE: Yes, we are an ancient power, Commander, but
+we've suffered for it. Our history is littered with the deaths of those
+Aldeans who wanted more and more things. Nothing was ever enough. So
+we've evolved a very simple way of living. For whatever is taken,
+something is given in return. 
+RIKER: It seems an equitable code. 
+RADUE: It's brought us peace. Unfortunately, there are very few of us
+left to enjoy it. 
+TROI: Why? 
+RADUE: That is part of what we wish to discuss. We need help from the
+Federation to rebuild our heritage. We need a younger generation,
+strong and healthy, following in the Aldean traditions. 
+RIKER: I don't understand. How can the Federation help influence your
+children in your traditions? 
+RADUE: Because we have no children, Commander. Rashella was the last
+child born on this planet. 
+CRUSHER: And your medical community can do nothing? 
+RASHELLA: They've tried, Doctor Crusher. And failed. 
+CRUSHER: Perhaps we can help. 
+RIKER: Radue, exactly why were we invited here? 
+RADUE: We propose a trade. One which will solve our problem and give
+something back to the Federation. 
+RIKER: And the nature of this trade? 
+RADUE: We need some of your children. In payment, we will give you
+information that would take you centuries to acquire. 
+TROI: That might be acceptable to some other races, but humans are
+unusually attached to their offspring. 
+CRUSHER: Our children are not for sale at any price. 
+RIKER: We sympathise with your situation, but what you ask is not
+possible. 
+RADUE: And that's your final answer? 
+RIKER: That's my only answer. Now if there's some other way we can help
+you. 
+RADUE: I am sorry you are intransigent. 
+(Rashella beams them away)
+

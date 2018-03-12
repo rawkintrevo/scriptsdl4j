@@ -1,70 +1,48 @@
-TROI OBRIEN LAFORGE WORF PICARD PULASKI KINGSLEY
+PULASKI DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Science lab]
+[Darwin Station Lab]
 
-LAFORGE: The forcefield's ready, Captain. 
-PICARD: Activate it. 
-(The forcefield goes up around a single examination table in the middle
-of the room) 
-PICARD: Transporter? 
-O'BRIEN [OC]: This is Chief O'Brien, sir. Almost ready. 
-PICARD: Is there a problem? 
-[Transporter room]
-
-O'BRIEN: It's the styrolite. I'm altering the
-delta-T so the styrolite coding materialises two micro-seconds ahead of
-the child.
-
-[Science lab]
-
-O'BRIEN [OC]: It has to be right the first time. 
-PICARD: Well take all the time you need. 
-O'BRIEN [OC]: Entering corrections now, sir. 
-[Transporter room]
-
-O'BRIEN: Ready, Captain. 
-[Science lab]
-
-PULASKI: Doctor Kingsley, are you ready to
-transport? 
-KINGSLEY [OC]: You have the coordinates. We have one twelve year old
-male encased in number six styrolite. 
-LAFORGE: Transporter, energise. 
-(A male older than twelve appears on the table) 
-WORF: A trick! 
-LAFORGE: Transporter, reverse 
-PICARD: One moment, Lieutenant. Whoever he is, he's still in stasis. 
-PULASKI: The styrolite is intact, Captain. 
-PICARD: Force field down. 
-TROI: Captain, there's a definite presence, a distinct personality.
-Even in stasis it's quite strong. The child is unquestionably
-telepathic. 
-PULASKI: A child this mature? We could be looking at the future of
-humanity. 
-PICARD: At least Doctor Kingsley's vision of it. 
-(Later, as two nurses do most of the examining with various
-instruments, Picard returns to the lab) 
-PULASKI: This child is in better health than we are. His immune system
-is so advanced it may not be possible for him to contract disease. I
-want to free him from the styrolite. 
-PICARD: That seems rather risky, Doctor. 
-PULASKI: I can do no further tests until he's out of it. 
-PICARD: But what if you're wrong? You saw what happened on the Lantree.
-
-PULASKI: I know I'm right. 
-PICARD: I can't expose the Enterprise until I know where this disease
-came from and how it is transmitted. 
-PULASKI: I realise that, Captain. Naturally, we'll establish a force
-field containment. 
-PICARD: But if we lose the force field for any reason, we lose the
-ship. Force fields can fail, and until 
-PULASKI: We don't have that kind of time. These children can't survive
-in the lab once their parents are dead. Look at him, Captain. He's a
-human being who needs our help. 
-PICARD: But the risk is 
-PULASKI: Minimal. 
-PICARD: If you can demonstrate that he is biologically harmless without
-risk to the crew, I'll do everything in my power to assist. And Doctor,
-God knows I'm not one to discourage input, but I would appreciate it if
-you'd let me finish my sentences once in a while.
-
+GUEST0: Oh, Doctor Pulaski. I can only tell you
+how much I regret the burden we've imposed on you. On both of you. 
+PULASKI: Commander Data is an android, Doctor. He is unaffected. As for
+me, I chose this. I was convinced the children were safe. 
+GUEST0: I still can't believe you were infected by one of our
+children. 
+DATA: The evidence is fairly conclusive. 
+GUEST0: You don't understand. They were designed to resist disease. 
+PULASKI: I think it's time we talked about that. 
+GUEST0: Let me show you something. 
+(They go up some steps to an observation window on the Isolation lab.
+Seven 'children' are playing games) 
+GUEST0: Our ultimate achievement. The oldest is twelve, and all are
+telekinetic. Watch. 
+(A chess piece glides to an upper level of the three-d board) 
+PULASKI: Genetically engineered? 
+GUEST0: Not engineered, created. Perfect in every way. Their body
+structure, their musculature, their minds. 
+PULASKI: You were telling me about their immune system. 
+GUEST0: That was our masterpiece. We gave these children an
+aggressive immunity. The rest of us were infected by the supply ship,
+but they were protected. 
+DATA: The Lantree logs indicated that only one crewman had any illness
+prior to arrival here. The First Officer had a mild case of Thelusian
+flu. 
+GUEST0: Yes, he was one of the crewmen who came in direct contact
+with us. 
+PULASKI: The Thelusian flu would have little effect on you, but tell
+me, how would they react? 
+GUEST0: Their immune system would release an active antibody that
+would attack the virus. 
+PULASKI: Even at a distance? 
+GUEST0: Their immune systems don't wait for a disease to attack the
+body. It would seek out an airborne virus and destroy it. 
+PULASKI: Destroy it? How, exactly? 
+GUEST0: The antibody would adapt itself to alter the genetic code of
+the virus. 
+PULASKI: Commander, I want an analysis of the interaction between the
+Thelusian flu and the children. 
+DATA: On a molecular genetic level? 
+GUEST0: We don't have time for that. Genetic analysis could take
+months. 
+PULASKI: Not necessarily. Commander Data has a way with computers. 

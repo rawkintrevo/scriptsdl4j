@@ -1,58 +1,28 @@
-PICARD MACDUFF CRUSHER LAFORGE WORF
+RIKER MACDUFF CRUSHER LAFORGE WORF PICARD RO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Observation lounge]
 
-(Picard and MacDuff report to Captain Worf) 
-PICARD: So far our survey team has found no deaths or injuries among
-the crew. Shuttlecraft are all operational, as are the transporters. 
-MACDUFF: But no one they've talked to knows any more about their
-identities than we do. 
-WORF: Engineering is working on accessing the control systems. As soon
-as the ship is operational, we must make it combat ready. 
-PICARD: Well, I would recommend that before we prepare for combat, we
-try to access the ship's logs, find out who we are, what our purpose
-here might be. 
-WORF: I disagree. We must first make ourselves ready for battle. That
-is the highest priority. 
-LAFORGE [OC]: Engineering to Bridge. 
-WORF: Go ahead. 
-[Engineering]
+WORF: The Lysian Central Command would have
+received any transmission from the destroyer by now. 
+MACDUFF: They're going to be on alert. 
+RO: I recommend a randomly vectored approach to our target. It would be
+our best chance of avoiding sort of any pursuit. 
+PICARD: Agreed. Doctor, the success of this mission would be far more
+likely if we could get our memories back. Is there anything you can do?
 
-LAFORGE: I've regained control of navigation,
-propulsion, weapons and communications. 
-[Ready room]
-
-LAFORGE [OC]: We should be able to tie them into
-the Bridge in just a few minutes. 
-WORF: Well done. Now we are ready. 
-PICARD: The question is, for what?
-
-[Bridge]
-
-(a phaser shot lances out into space) 
-MACDUFF: (at tactical) The phasers are operational. 
-WORF: We now have full tactical control. 
-PICARD: (helm) We should run a complete diagnostic of all command
-systems. 
-WORF: A full diagnostic would require us to take our systems offline.
-We would be defenceless. 
-PICARD: If we're going to trust our lives to these systems, we should
-be certain they're not going to fail. 
-MACDUFF: The computer was damaged. Some processors might still be down.
-
-WORF: Proceed with the diagnostic. 
-(Crusher enters) 
-WORF: What have you found, Doctor? 
-CRUSHER: Not much. The brain scans I've run are unusual, but there's no
-damage to the hippocampus. That suggests that we still have our
-long-term memories but somehow they're being blocked. 
-PICARD: Is it possible to bypass the normal pathways? To get at those
-memories some other way? 
-CRUSHER: That's what I'm hoping. What I need now is to see some normal
-brain scans for comparison. Is there any chance I can get the crew's
-medical files? 
-WORF: We are currently running a full diagnostic. Computer resources
-are limited. 
-PICARD: The medical records are our next priority. 
-CRUSHER: Thank you.
+CRUSHER: I found several cases resembling our condition in the medical
+index. The causes are different, but the cure is similar in each case. 
+RIKER: Could the same treatment work for us? 
+CRUSHER: That's my hope. It involves increasing the activity of the
+medial temporal region of the brain, using short-term memory synapses
+to retrieve long-term memory. 
+PICARD: When can you start? 
+CRUSHER: As soon as our medical files become available. It would be
+dangerous to attempt treatment without them. 
+PICARD: Mister La Forge? 
+LAFORGE: Data and I ran into some trouble accessing the medical file
+areas in the computer, but with a little time I'm pretty sure we'll be
+able to get there. Three hours, maximum. 
+PICARD: Proceed.
 

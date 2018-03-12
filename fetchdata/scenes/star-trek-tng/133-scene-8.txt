@@ -1,38 +1,35 @@
-TROI OBRIEN LAFORGE WORF PICARD RIKER PULASKI
+PULASKI PICARD LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Engineering]
 
-WORF: I recommend against contact, Captain. 
-PICARD: Number One? 
-RIKER: I have to agree, sir. I wish there was something we could do,
-but the risk is too great. 
-PICARD: Doctor? 
-PULASKI: If the children are free of disease, as Doctor Kingsley said,
-they should be evacuated. I would like to bring one of them aboard
-within a force field for a complete examination. 
-PICARD: Counsellor, do you sense anything? 
-TROI: Doctor Kingsley sincerely believes the children are not a threat,
-but she's not telling us the whole truth. I recommend caution. 
-PICARD: We have only Doctor Kingsley's assurance that these children
-are not infected, whereas we have seen the results of this disease
-first hand. In a case like this, I think we should err on the side of
-caution.
-PULASKI: All right. We could beam up one child in styrolite in
-suspended animation. That way I could scan for possible infection
-without any danger to ourselves or to the child. 
-RIKER: But we don't know what we're looking for. 
-PULASKI: Exactly. And we won't know until we begin gathering data.
-Captain, that's worth some risk. 
-PICARD: There's always risk, Doctor. Proceed with the examination, but
-I shall require positive proof that these children are harmless before
-I place any of my crew in jeopardy.
+PULASKI: Geordi, I need your help. 
+LAFORGE: What is it, Doctor. 
+PULASKI: I need to prove the children are harmless. I can only do that
+in a fail-safe environment. 
+LAFORGE: The problem is there's no area on the ship that can be sealed
+off with absolute certainty, even with force fields. 
+PULASKI: Sickbay has an isolated system. 
+LAFORGE: But it's not possible to totally cut it off from the rest of
+the ship. The only truly independent environment would be something
+like a shuttlecraft. 
+PULASKI: A shuttlecraft. Why didn't you say so?
 
-[Science lab]
+[Ready room]
 
-LAFORGE: The forcefield's ready, Captain. 
-PICARD: Activate it. 
-(The forcefield goes up around a single examination table in the middle
-of the room) 
-PICARD: Transporter? 
-O'BRIEN [OC]: This is Chief O'Brien, sir. Almost ready. 
-PICARD: Is there a problem? 
+PICARD: Come. 
+PULASKI: Captain, I'd like permission to put the boy in a shuttlecraft.
+I can study him there without risk to anyone else. 
+PICARD: What about you? 
+PULASKI: I'm prepared to take that risk. Someone has to breathe the
+same air he breathes, to touch him. I'm volunteering to make that test
+myself. 
+PICARD: Doctor, you have a responsibility to this ship which goes 
+PULASKI: I also have a responsibility to humanity. 
+PICARD: Starfleet guidelines about contact with quarantined 
+PULASKI: You don't have to quote the rule book. You were saying? 
+PICARD: Request approved. 
+PULASKI: Captain, you said if I. Approved? 
+PICARD: I recognise that you're trying to satisfy my conditions. 
+PULASKI: Thank you.
+

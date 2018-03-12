@@ -1,53 +1,61 @@
-RIKER CRUSHER ARMSTRONG SALAZAR HELM TAITT
-
-[Transporter room]
-
-SALAZAR: Aye, sir. 
-CRUSHER [OC]: Use the transporters in the cargo bay 
-[Bridge]
-
-CRUSHER: If you have to. I want those teams up here
-as fast as possible.
+RIKER GUEST7 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Planet surface]
 
-RIKER: Armstrong, you and the others prepare to
-beam up. 
-ARMSTRONG: Aye, sir. 
-RIKER: Beverly, Worf and I will stay here and look for 
-[Bridge]
+(Worf and Riker hide from a Borg patrol, then come
+over a ridge.) 
+WORF: Commander. 
+(it's the building, and they're surrounded by Borg)
 
-RIKER [OC]: The Captain's team. 
-CRUSHER: I'm not going to leave you down there. 
-[Planet surface]
+[Caverns]
 
-RIKER: You pull as many people off the surface as
-you can and get back to the transwarp conduit. The Captain's orders
-were to get the Enterprise back to Federation space. 
-[Bridge]
+RIKER: Hugh? 
+GUEST7: Why are you here, Commander Riker? Hasn't the crew of the
+Enterprise caused enough damage already? 
+(a little later) 
+WORF: So you blame us for what has happened to the Borg? 
+GUEST7: You gave me a sense of individuality, changed me, then sent me
+back to the Collective. You must have known that change would be passed
+on to others. 
+RIKER: We considered it. We knew it was a possibility. 
+GUEST7: Then you made it possible for Lore to dominate us. 
+WORF: I cannot accept that. Lore is only one. The Borg could have
+stopped him. 
+GUEST7: You don't know the condition we were in when he found us. Before
+my experience on the Enterprise, the Borg were a single-minded
+Collective. The voices in our heads were smooth and flowing. But after
+I returned, those voices began to change. They became uneven,
+discordant. For the first time, individual Borg had differing ideas
+about how to proceed. We couldn't function. Some Borg fought each
+other. Others simply shut themselves down. Many starved to death. 
+RIKER: And then Lore came along. 
+GUEST7: You probably can't imagine what it is like to be so lost and
+frightened that you will listen to any voice which promises change. 
+WORF: Even if that voice insists on controlling you. 
+GUEST7: That's what we wanted. Someone to show us the way out of
+confusion. Lore promised clarity and purpose. In the beginning, he
+seemed like a saviour. The promise of becoming a superior race, of
+becoming fully artificial was
+compelling. We gladly did everything he asked of us. But after a while,
+it became clear that Lore had no idea how to keep his promise. That's
+when he began talking about the need for us to make sacrifices. Before
+we realised it, this was the result. 
+RIKER: What happened to them? 
+GUEST7: Lore began to experiment, trying to re-make us in his image. This
+is the result of my encounter with the Enterprise, Commander. So you
+can see I don't particularly welcome your presence here. 
+RIKER: I'm sorry you feel that way. We just came to get our people. We
+won't cause you any more trouble. 
+GUEST7: Tell me about my friend. 
+RIKER: Friend? 
+GUEST7: The human called Geordi. 
+RIKER: I wish I could tell you about him. We think he may be held
+inside the compound. 
+GUEST7: I cannot help you. I cannot risk our being discovered. 
+RIKER: Can you at least show us a way into the compound? 
+GUEST7: These caverns lead to tunnels which run beneath the compound.
+Some of them connect with the environmental control ducts. 
+WORF: Show us. If we can determine the geography of the compound, we
+can form a rescue plan.
 
-CRUSHER: Acknowledged. 
-RIKER [OC]: Riker out. 
-CRUSHER: Prepare to leave orbit. 
-TAITT: Sir, the Borg ship is powering up its forward weapons array.
-They'll be in firing range in, in twenty seconds. 
-CRUSHER: Salazar, how many people do we still have down there? 
-SALAZAR [OC]: Seventy three, sir. 
-CRUSHER: Put the Borg ship onscreen. 
-TAITT: Should I raise shields, sir? 
-CRUSHER: Not yet. I want to keep bringing people up until the last
-possible second. 
-TAITT: Ten seconds. 
-CRUSHER: Stand by to raise shields and break orbit on my mark. 
-TAITT: Five seconds. 
-CRUSHER: Mark. 
-(an energy bolt hits) 
-TAITT: Shields down to seventy percent. 
-CRUSHER: Establish a frequency shift firing pattern and return fire. 
-TAITT: Er, right. 
-(two torpedoes are fired) 
-TAITT: Direct hit, no damage. 
-CRUSHER: Helm, set course for the conduit, maximum warp. 
-HELM: Aye, sir. 
-TAITT: Sir, the Borg aren't following us. 
-CRUSHER: Salazar 

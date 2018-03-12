@@ -1,70 +1,60 @@
-ISABELLA LAFORGE CLARA SUTTER OGAWA CRUSHER DATA
+RIKER GUEST0 LAFORGE PICARD CLARA SUTTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Bridge]
 
-CRUSHER: And then after dinner, then what? 
-OGAWA: We went to the holodeck and took a walk on the Champs Elysees. 
-CRUSHER: The neural scanner still seems to be a bit off. Let's check
-the sensor calibrations. 
-OGAWA: I'll run a diagnostic. 
-(the firefly is there) 
-CRUSHER: And? 
-OGAWA: And? 
-CRUSHER: After Paris? 
-OGAWA: He has shore leave next month. He asked me to go to Risa with
-him. 
-CRUSHER: No problem. Nurse McClukidge can cover for you. 
-OGAWA: I don't think I'm going, Doctor. I hear it's a very uninhibited
-atmosphere. Personally, I don't think I'm ready for that kind of fun. 
-CRUSHER: Try to talk him into Tavena Minor. They have a cruise down the
-Jokri River. The iridescent currents are beautiful.
+LAFORGE [OC]: But we can't find the source. 
+PICARD: If we can't correct it we may have to reverse course and leave
+the nebula. 
+[Engineering]
 
-[Arboretum]
+LAFORGE: Give me a couple of minutes here, Captain.
 
-(the firefly is exploring the orchids) 
-CLARA: See, Isabella? You have to push your finger into the soil as far
-as it can go. I'm making a hole for the seeds. Now they need to be
-watered. But the baby seeds are very small, so we mustn't give them too
-much to drink. 
-(the firefly passes through Clara's head, then a second voice joins in
-with Clara's humming) 
-CLARA: Hello? Is anybody there? 
-ISABELLA: Hello. 
-CLARA: Isabella? 
-ISABELLA: Hello, Clara. 
-(she's blonde, wearing a blue dress and a sour, sulky expression) 
-CLARA: Isabella, how come I can see you? 
-ISABELLA: Is something wrong with the way I look? 
-CLARA: No. I've just never seen you before. Not for real. 
-ISABELLA: Well, now you can see me for real. Doesn't that make you
-happy? 
-CLARA: Yes, it's wonderful. 
-ISABELLA: Can we go now? 
-CLARA: We'd better finish planting the seeds first. 
-ISABELLA: I'm tired of planting. Let's do something else. 
-CLARA: Like what? 
-ISABELLA: Like, I would really like to explore the ship. 
-CLARA: We'd better finish planting first. I promised Keiko. 
-ISABELLA: We can finish later. Let's go look around. 
-CLARA: I'd better ask my daddy. 
-ISABELLA: Your daddy won't mind. We can tell him later. Come on.
+SUTTER: Clara, now. 
+(Clara leaves) 
+SUTTER: I'm sorry, Commander.
+
+[Corridor]
+
+(Isabella appears) 
+CLARA: Why do you keep disappearing like that? 
+GUEST0: The grown-ups don't believe I'm real. When they're around, I
+have to be invisible. Wait here. 
+(Isabella disappears)
 
 [Engineering]
 
-LAFORGE: So what are we going to name this nebula?
-FGC forty seven just doesn't have the proper ring to it. 
-SUTTER: Why don't we call it Sutter's Cloud? 
-DATA: The rotational period of the neutron star is one point three five
-seconds. 
-LAFORGE: That's a bit on the long side. Sutter, let's see if you can
-get a reading on the particle flux. 
-SUTTER: Aye, sir. 
-LAFORGE: I was thinking about something more along the lines of the La
-Forge Nebula. It's got sort of a majestic sound, don't you think? 
-DATA: Given the selections, I prefer FGC four seven. 
-(the ship shakes) 
-SUTTER: What was that? 
-LAFORGE: It felt like we hit something. 
-DATA: Shields have registered an impact, however sensors show nothing
-in the vicinity.
+DATA: The drag coefficient continues to increase.
+Our velocity has fallen by twelve percent. Velocity is increasing.
+Ship's speed has stabilised at one quarter impulse. 
+LAFORGE: That's great, Data. What'd you do? 
+DATA: I did nothing. The problem seems to have corrected itself.
+
+[Corridor]
+
+(Isabella appears) 
+CLARA: Where did you go? 
+GUEST0: There was something I had to do.
+
+[Observation lounge]
+
+LAFORGE: I don't have an explanation, Captain. We
+seemed to hit something, then we started losing speed. So far as we can
+tell, there's nothing out there to hit. 
+RIKER: Could some kind of damping field have caused us to lose
+velocity? 
+DATA: We have simulated several such fields, but were unable to
+reproduce the same drag coefficient. 
+LAFORGE: And we still don't know why the problem suddenly corrected
+itself. 
+PICARD: It seems we're looking a unique phenomenon. One that hasn't
+been recorded before. 
+LAFORGE: The question is, do we stay here and check it out? 
+RIKER: Might be dangerous. 
+DATA: Since we have only experienced the phenomenon once, it is
+impossible to estimate the risks. 
+LAFORGE: Captain, I'd like to stay here for a little bit, collect some
+samples of the gaseous matter, see what it tells us. 
+PICARD: Agreed. Collect your samples, Mister La Forge. We'll proceed
+with caution. Dismissed.
 

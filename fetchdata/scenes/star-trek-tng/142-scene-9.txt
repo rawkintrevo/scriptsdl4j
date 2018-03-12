@@ -1,70 +1,40 @@
-TROI LAFORGE WORF PICARD RIKER Q WESLEY GUINAN COMPUTER SONYA DATA
+PICARD RIKER DATA WORF WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Guinan? I don't remember you ever calling
-the Bridge before.
-GUINAN [OC]: Is everything alright?
-RIKER: How do you mean?
-GUINAN [OC]: Is there anything unusual happening?
-RIKER: No Guinan, nothing out of the ordinary. Why do you ask?
-
-[Ten Forward]
-
-GUINAN: I'm not sure. It's just a feeling. I've had
-it a couple of times before. It's probably nothing. Forget that I
-called. Ten Forward out.
-
-[Shuttlecraft]
-
-Q: The locator beacon won't help. They'll never
-think to look for you this far away.
-PICARD: Enterprise, this is Picard. Stop this foolishness, Q. Return me
-to the Enterprise.
-Q: I suggest you change your attitude. Petulance does not become you.
-We have business, Picard.
-PICARD: Keeping me a prisoner here will not compel me to discuss
-anything with you.
-Q: It will in time.
-
-[Ten forward]
-
-SONYA: I appreciate your advice, Lieutenant. And,
-I'll take it to heart.
-LAFORGE: Guinan?
-GUINAN: Can I get you something?
-LAFORGE: We're fine. Is everything all right?
-GUINAN: I don't know.
-LAFORGE: I think I'll go check out Engineering.
-SONYA: I'll go with you.
-
-[Bridge]
-
-TROI: Where's the Captain?
-RIKER: In his quarters? 
-TROI: Captain, this is Counsellor Troi.
-RIKER: Computer locate Captain Picard.
-COMPUTER: The Captain is not on the ship.
-WORF: Commander, there is a shuttle missing from bay two.
-RIKER: All stop.
-WESLEY: Answering all stop, sir.
-WORF: I have hailed the shuttle on all frequencies. No response.
-DATA: Sensors indicate no shuttle or other ships in this sector.
-RIKER: We think we can assume the Captain is aboard that shuttle.
-WESLEY: How could he get to the shuttlebay and leave the Enterprise
-without us knowing?
-That's not possible.
-RIKER: Take it easy, Wes. We're going to find him. I want to begin a
-methodical search. Worf, set sensors on maximum scan. Data, use our
-present location as a centre. Plot a search pattern from these
-coordinates to cover the most area in the least time.
-DATA: Search pattern has been input, sir.
-RIKER: Engage, Mister Crusher.
-
-First officer's log, stardate 42761.3. We have not
-been able to determine why, or how, Captain Picard left the Enterprise.
-We can't even be certain he is in the missing shuttle, although that is
-the assumption on which we are
-proceeding. For the last six hours, we have been searching without
-success.
+(The tractor beam is green) 
+PICARD: Report, Lieutenant. 
+WORF: The beam is draining our shields.
+RIKER: If they pull down our shields, we're helpless.
+PICARD: Warp eight, any heading. Engage.
+WESLEY: Captain, the beam is holding us here.
+RIKER: Increase power!
+WORF: Shields weakening.
+DATA: Shields will be down in eighteen seconds.
+PICARD: Locate the exact source of the tractor beam. Lock on phasers.
+WORF: Phasers locked on target.
+PICARD: Fire.
+WORF: They still have us.
+DATA: Shields are down, sir.
+(A circular cut is made in the hull, and a section of several decks is
+pulled out) 
+WORF: A type of laser beam is slicing into the saucer section.
+RIKER: Carving us up like a roast.
+PICARD: With whatever force necessary, terminate that beam. Fire when
+ready. 
+(They blast a big hole through an edge of the cube) 
+PICARD: Again, Mister Worf. 
+(Two more holes are blown in the scaffolding) 
+DATA: Tractor beam is released, sir. Force field is maintaining our
+hull integrity. 
+RIKER: Damage report? 
+WORF: Coming in, sir. Sections twenty seven, twenty eight, twenty nine
+on decks four, five and six destroyed.
+PICARD: Casualties? 
+WORF: Eighteen were in those sections and are missing.
+PICARD: What is the condition of the alien ship?
+WORF: They have sustained damage to twenty percent of their vessel.
+Life support minimal.
+PICARD: Conference.
 

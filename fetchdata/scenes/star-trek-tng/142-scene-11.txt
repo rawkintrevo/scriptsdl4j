@@ -1,73 +1,48 @@
-TROI LAFORGE WORF PICARD RIKER Q WESLEY GUINAN COMPUTER SONYA DATA
+PICARD RIKER OBRIEN DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Transporter room]
 
-Q: The locator beacon won't help. They'll never
-think to look for you this far away.
-PICARD: Enterprise, this is Picard. Stop this foolishness, Q. Return me
-to the Enterprise.
-Q: I suggest you change your attitude. Petulance does not become you.
-We have business, Picard.
-PICARD: Keeping me a prisoner here will not compel me to discuss
-anything with you.
-Q: It will in time.
+WORF: There are no life sign readings.
+O'BRIEN: I've laid in coordinates which should set you down in the
+least damaged section of the Borg ship.
+RIKER: Set phasers on stun. Be ready to increase power in case we need
+it. Energise.
 
-[Ten forward]
 
-SONYA: I appreciate your advice, Lieutenant. And,
-I'll take it to heart.
-LAFORGE: Guinan?
-GUINAN: Can I get you something?
-LAFORGE: We're fine. Is everything all right?
-GUINAN: I don't know.
-LAFORGE: I think I'll go check out Engineering.
-SONYA: I'll go with you.
+[Borg ship]
 
-[Bridge]
-
-TROI: Where's the Captain?
-RIKER: In his quarters? 
-TROI: Captain, this is Counsellor Troi.
-RIKER: Computer locate Captain Picard.
-COMPUTER: The Captain is not on the ship.
-WORF: Commander, there is a shuttle missing from bay two.
-RIKER: All stop.
-WESLEY: Answering all stop, sir.
-WORF: I have hailed the shuttle on all frequencies. No response.
-DATA: Sensors indicate no shuttle or other ships in this sector.
-RIKER: We think we can assume the Captain is aboard that shuttle.
-WESLEY: How could he get to the shuttlebay and leave the Enterprise
-without us knowing?
-That's not possible.
-RIKER: Take it easy, Wes. We're going to find him. I want to begin a
-methodical search. Worf, set sensors on maximum scan. Data, use our
-present location as a centre. Plot a search pattern from these
-coordinates to cover the most area in the least time.
-DATA: Search pattern has been input, sir.
-RIKER: Engage, Mister Crusher.
-
-First officer's log, stardate 42761.3. We have not
-been able to determine why, or how, Captain Picard left the Enterprise.
-We can't even be certain he is in the missing shuttle, although that is
-the assumption on which we are
-proceeding. For the last six hours, we have been searching without
-success.
+(They are on one of the many walkways. Lots of wall
+panels, ducts and cabling overhead, Borg hooked up to alcoves
+everywhere) 
+RIKER: I wonder why they don't react to us, or why the Enterprise
+didn't read any life signs, especially with this many of them.
+DATA: Perhaps because this ship was scanned for individual life signs.
+Apparently when they are in these slots, they become part of the whole
+and no longer read as separate life forms.
+RIKER: Captain.
 
 [Bridge]
 
-DATA: We have covered the area in a spherical
-pattern which a vessel without warp drive could traverse in the time
-allotted.
-RIKER: Widen the area. 
- [Shuttlecraft]
+PICARD: Go ahead, Number One.
+RIKER [OC]: Our readings were incorrect. The Borg crew survived 
+[Borg ship]
 
-(Q is doing his Virgil Hilts impression with a
-baseball, glove and bulkhead) 
-Q: Do we stay out here years? Decades? I am ageless, Picard. You are
-not.
-PICARD: The Enterprise will continue with Riker as Captain. 
-Q: You are an impossibly stubborn human. 
-PICARD: Return me to my ship! 
-Q: If I return you to your ship, will you agree to give my request a
-full hearing?
-
+RIKER: They appear to be in some kind of stasis.
+PICARD [OC]: Explain.
+RIKER: There are slots along the wall, kind of like compartments. There
+are two Borg in each.
+DATA: Captain, I would theorise that the Borg are somehow
+interconnected through these slots and are working collectively.
+RIKER: We're going try to access their main computer.
+(Data steps into a slot - or alcove) 
+DATA: Commander, I believe each slot is designed for a specific Borg.
+Here is where the connection is made.
+RIKER: Like a juggernaut, it could begin moving at any moment.
+DATA: The technology required to achieve this biological and artificial
+interface is far beyond our capabilities. There are many advantages.
+RIKER: Speed being the most obvious. This ship literally just thinks
+what it wants, and then it happens.
+(A Borg walks past them, taking no notice) 
+DATA: Fascinating. 
+RIKER: They either don't see us, or don't see us as a threat. 

@@ -1,90 +1,51 @@
-RIKER LAFORGE CREWMAN PICARD SETAL WORF DATA
+PICARD COMPUTER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Five kilometres, sir. 
-RIKER: All stop. 
-PICARD: Extend shields. 
-LAFORGE [OC]: Shields in place.
-
+COMPUTER: Captain Picard, priority message from
+security officer, Klingon vessel Bortas. 
+PICARD: Lieutenant Worf, will you handle this at security station, deck
+nine. 
+WORF: Aye, sir. 
+(Worf leaves) 
+DATA: Sensors are configured for planetary probe, sir. Ready for
+launch. 
+PICARD: Proceed. 
+DATA: Probe on course. Sensors are functioning. 
+PICARD: Coordinate your analysis with Mister La Forge. I want this
+report with dispatch. 
 [Engineering]
 
-LAFORGE: We've got the scout ship, Captain. 
-[Bridge]
-
-WORF: Weapons on the warbird are fully powered,
-sir. 
-PICARD: Lock phasers. Open a channel. 
-WORF: Ready. 
-PICARD: Romulan vessel, you are now in Federation territory. Unless you
-withdraw 
-(The warbird does a 180 and cloaks) 
-RIKER: No argument? 
-WORF: Warbird has re-entered the Neutral Zone. Heading for Romulan
-territory. 
-DATA: Massive power failure to the scout ship, sir. All systems are
-going offline, including life support. 
-PICARD: Transporter two, prepare to beam the occupant of the scout ship
-directly aboard. 
-CREWMAN [OC]: Aye, sir.
-RIKER: Mister Worf. 
-PICARD: Mister Data, lock onto the scout ship. Take it in tow.
-
-[Transporter room]
-
-RIKER: Energise. 
-SETAL: I must see your captain immediately. 
-RIKER: We'll take you to Sickbay, after that 
-SETAL: This cannot wait. I have information vital to your survival.
-
-Captain's log, Stardate 43462.5. We have beamed
-aboard an apparent Romulan defector, who claims to be a low ranking
-logistics officer with extraordinary information about a secret
-offensive.
-
-[Observation lounge]
-
-SETAL: The humiliating defeat at the Battle of
-Cheron has not been forgotten. The new leaders have vowed to discard
-the treaty and claim the Neutral Zone. Nelvana Three is just the first
-step. 
-RIKER: You're saying an entire base has already been established there?
-
-SETAL: In forty-eight hours, the reactor core will be online. 
-RIKER: So the Federation sensors that monitor the Neutral Zone just
-missed it? 
-SETAL: It would seem so. In two days, a fleet of Romulan warbirds will
-be within striking distance of fifteen Federation sectors. 
-WORF: The Federation will not permit that. 
-SETAL: Then it is war that we're talking about, isn't it? Destroy the
-base now and the threat is over. 
-PICARD: Well, I'm sure you are fatigued by your ordeal and you require
-medical attention. Lieutenant Worf, will you accompany Sublieutenant
-Setal to the Sickbay. We will attend to your quarters. 
-SETAL: No doubt you will wish to question me further. 
-PICARD: No doubt. 
-(Worf, Setal and guard leave) 
-RIKER: He tells a hell of a story. 
-PICARD: You don't believe it? 
-RIKER: The Empire knows that we'd never allow them to maintain a base
-within the Neutral Zone. 
-DATA: Commander, that would not be an atypical Romulan ploy. In their
-long history of war, the Romulans have rarely attacked first. They
-prefer to test their enemy's resolve. 
-RIKER: I think he's a plant to draw us into the Neutral Zone. Then
-we'll look like the aggressors. 
-PICARD: And the Romulans would have a legitimate excuse for responding
-in force. 
-RIKER: Exactly. 
-DATA: That would also not be an atypical Romulan ploy, sir. 
-PICARD: It's always a chess game with them, isn't it? 
-LAFORGE: Well, at least he's given us the chance to get a look at some
-Romulan technology close up. 
-PICARD: Mister La Forge, you will lead the away team over to the scout.
-Commander, you and Counsellor Troi will conduct Setal's interrogation. 
-DATA: Captain, permission to observe the interrogation? 
-PICARD: No, Mister Data. I need you on the Bridge with me. There is
-much to be done. We have less than forty eight hours to prevent a war.
-Or perhaps to start one. This will depend on establishing the truth of 
-(And the scout ship goes Ka-boom!)
+LAFORGE: I don't know, Data. My gut tells me we
+ought to be listening to what this guy's trying to tell us. 
+DATA: Your gut? 
+LAFORGE: It's just a feeling, you know? An instinct. Intuition. 
+DATA: But those qualities would interfere with rational judgment, would
+they not? 
+LAFORGE: You're right. Sometimes they do. 
+DATA: Then why not rely strictly on the facts? 
+LAFORGE: Because you just can't rely on the plain and simple facts.
+Sometimes they lie. 
+DATA: They can lead to wrong conclusions, but they cannot lie. 
+LAFORGE: What do you think? Is he a defector or not? 
+DATA: The facts to date would lead to an objective conclusion that he
+is not. 
+LAFORGE: Somehow I think we're going to catch the Romulans with their
+pants down on Nelvana Three, just like he says. 
+DATA: With their pants? 
+LAFORGE: A metaphor. Catching them in the act. 
+DATA: Because your gut tells you so? 
+LAFORGE: Exactly. But you can't always go with your gut either. It's a
+combination, Data. Right, I'll put it to you this way. All these
+feelings that get in the way of human judgment, that confuse the hell
+out of us, that make us second guess ourselves, well we need them. We
+need them to help us fill in the missing pieces because we almost never
+have all the facts. 
+DATA: So a person fills in missing pieces of the puzzle with his own
+personality, resulting in a conclusion based as much on instinct and
+intuition as on fact. 
+LAFORGE: Now you're getting it. 
+DATA: But what does one do if he has no instinct and intuition? 
+LAFORGE: Data. Look at this. The facts just took a left turn.
 

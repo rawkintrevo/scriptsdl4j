@@ -1,40 +1,30 @@
-RIKER ODAN LAFORGE WORF PICARD CRUSHER DATA
+RIKER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlebay]
+[Odan's quarters]
 
-LAFORGE: Commander Riker has asked to pilot you
-himself, Ambassador. 
-ODAN: I am honoured. 
-(he embraces Beverly) 
-ODAN: I don't know when I'll be back. 
-CRUSHER: I know. Have a safe trip. 
-ODAN: I will stay safe, Doctor Beverly. I have good reason to return.
-I've researched Earth customs. This flower is given to express love. 
-(a single red rose) 
-CRUSHER: Yes, it is. 
-[Bridge]
+CRUSHER: White cell count is elevated, six tenths
+of a degree of temperature. But no sign of rejection. 
+RIKER: That's good. 
+CRUSHER: You look awfully pale. 
+RIKER: Just a little weak and light-headed. 
+CRUSHER: Cerebral blood flow looks normal. I'll leave you a metabolic
+booster. Use it if the symptoms get worse. 
+RIKER: Beverly. 
+CRUSHER: Beyond that, I don't know what to do. This is all new to me. 
+RIKER: It is new to me as well. Please, don't go. We've got to talk
+about this. 
+CRUSHER: I don't know what to say. 
+RIKER: Nor do I, but I know that this silence will injure us. 
+CRUSHER: Well maybe you should have thought about that sooner. Maybe
+you should have told me what you were. It didn't seem to bother you to
+remain silent yesterday. 
+RIKER: It never occurred to me. This is what I am. Did you ever tell me
+that you are only a single being? Of course not. That was normal to
+you. 
+CRUSHER: I don't know who you are. 
+RIKER: You must understand, whoever I seem to be, I am Odan, who loved
+you. That has not changed. I still love you. I can't help that. If this
+causes you pain, I will suppress it, I will keep my distance. Doctor
+Beverly, I would never hurt you.
 
-DATA: Initiate shuttle preflight sequence. 
-RIKER [OC]: Preflight underway. Counting to clearance. 
-DATA: Shuttle has cleared the bay door. 
-WORF: Commander Riker, you will be out of shield range in five seconds.
-
-RIKER [OC]: Acknowledged
-
-[Shuttlecraft]
-
-RIKER: Lieutenant. We'll be entering the upper
-ionosphere in two minutes and twenty seconds. 
-[Bridge]
-
-WORF: Sir, an unidentified ship is emerging from
-the limb of the moon. 
-PICARD: Hail the vessel. 
-RIKER [OC]: I have visual contact. I don't recognise it. 
-WORF: It claims to be an escort vessel from the Beta moon. 
-PICARD: There was no mention of an escort. Request a security clearance
-code. 
-WORF: They do not answer, sir. 
-PICARD: Commander Riker, prepare to return to the shuttlebay. 
-RIKER [OC]: Acknowledged. 
-WORF: Captain, they are loading its phaser banks. 

@@ -1,142 +1,43 @@
-RIKER LAFORGE WORF PICARD STUBBS WESLEY COMPUTER NURSE CRUSHER DATA
+PICARD DATA STUBBS
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Computer core]
 
-LAFORGE [OC]: Unable to reset. 
-PICARD: Reverse impulse engines. 
-[Engineering]
+DATA: They are ready, Captain. 
+PICARD: Proceed. 
+(The little things enter through his finger tips. Possessed Data stands
+and looks around, then speaks in a machine intonation) 
+DATA: You are very strange looking creatures. 
+PICARD: In our travels, we have encountered many other creatures,
+perhaps even stranger-looking than ourselves. But we try to co-exist
+peacefully with them. 
+DATA: Why did you attack us? 
+PICARD: We misinterpreted your actions as an attack on us. 
+DATA: We were seeking raw materials for our replicating process. 
+PICARD: Yes, but you endangered this vessel in which we all travel. You
+nearly killed a crewmember. 
+DATA: We meant no harm. We were exploring. 
+PICARD: I understand. We are also explorers. We mean no harm to any
+other living creature. 
+STUBBS: I am the one responsible for the deaths in the computer core. 
+DATA: We know who you are. 
+STUBBS: I deeply regret the incident. I am a scientist on an important
+mission. Your colleagues' exploration of the core memory put our
+mission at risk. I was only trying to protect a lifetime of work from
+being destroyed. I am at your mercy. 
+DATA: What is at your mercy? 
+PICARD: He asks your forgiveness. This conflict was started by mistakes
+on both sides. Let's agree to end it here and now. 
+DATA: We agree. 
+PICARD: I pledge we will do everything possible to assist your
+continued survival. 
+DATA: Thank you, but we have evolved beyond any need for your
+assistance. This vessel has become too confining. We require
+relocation.
 
-LAFORGE: Initiating reverse sequence, now.
-
-[Bridge]
-
-PICARD: Our momentum is still carrying us into the
-path of the stellar matter. 
-DATA: Twelve seconds to impact, sir. 
-RIKER: Prepare for impact. Medical personnel, report to the Bridge.
-Commander Data, check all systems. 
-DATA: All systems functioning normally, sir. 
-PICARD: Computer, explain control malfunction. 
-COMPUTER: No control malfunction has been recorded.
-
-[Sickbay]
-
-(It's busy. They've even got Guy sitting on a bed.
-Doctor Stubbs is lying prone, being treated) 
-NURSE: Lay down carefully. There you go. 
-WESLEY: Doctor Stubbs, the captain asked me to tell you that our
-systems are back to normal, and we can try another launch attempt as
-soon as you're ready. 
-STUBBS: Quite a dynamic family team, you Crushers. 
-CRUSHER: Well, it's nice to be together again. I was at Starfleet
-Medical for a year. I missed about two inches of him. 
-STUBBS: I'm not sure I'd want my mother to be flying through space with
-me. No, I take that back. I am sure. I wouldn't want her. My mother is
-a formidable woman, too. A woman of letters. A great critic. 
-WESLEY: I know. 
-STUBBS: Good Lord, son. You didn't read that unauthorised biography? Is
-this all this boy does, Doctor? Fly the ship and read? Doesn't he ever
-have any fun? 
-CRUSHER: Sure he does. 
-WESLEY: Actually, most of my free time is taken up with my studies. I'm
-trying to get into Starfleet Academy, and I earn credits for the time
-spent on the Enterprise, but it's just not the same. 
-NURSE: Are you ready to sit up? 
-STUBBS: Well. I am whole again. Thank you, Doctor. Come along, Wesley.
-Let's go see if Humpty Dumpty is still in one piece. 
-(Stubbs and Wesley leave, and Beverly goes to investigate the sound of
-running liquid. A food dispenser is overflowing a glass) 
-CRUSHER: Computer, fix the food slot. 
-COMPUTER: The food slot is functioning properly. 
-CRUSHER: Well, check again. 
-COMPUTER: The food slot is functioning properly. 
-CRUSHER: Computer, deactivate food slot.
-
-[Engineering]
-
-LAFORGE: We're analysing the engineering systems
-data, Captain. So far we're showing nothing unusual 
-[Ready room]
-
-LAFORGE [OC]: In the computer log for that time
-period. 
-PICARD: Run a level one diagnostic series. Come. I want a computer
-that's one hundred percent to expedite Doctor Stubbs' experiment. As
-well as the food slots in Sickbay. Picard out. 
-CRUSHER: Which seem to be working again, for the moment anyway. 
-PICARD: What can I do for you, Doctor? 
-CRUSHER: Jean-Luc, how would you feel if you were a seventeen year old
-and the only Starfleet Officer whose mother was on board? 
-PICARD: Inhibited, I suppose. But then, I'm not Wesley. And if you are
-concerned about him, I see no evidence that there is a problem. 
-CRUSHER: I know, but, in a funny kind of way, that's exactly my point.
-We talk. We smile. It's almost too polite. 
-PICARD: Beverly, isn't it just a matter of time? I know how difficult
-it was for you being away. 
-CRUSHER: Tell me about him. 
-PICARD: Well, he's becoming a very fine officer. He works as hard as
-any member of the crew. Riker says his studies are on line. 
-CRUSHER: No. Tell me about him. 
-PICARD: He's his father's son. Honest, trusting, strong. 
-CRUSHER: Does he have many friends? Has he ever been in love? Jean-Luc,
-I'm worried. He's come so far, so fast, And since I've been back, I
-don't feel 
-PICARD: His dependence. Beverly, look, he's seventeen years old. 
-CRUSHER: What were you doing when you were seventeen? 
-PICARD: Probably getting into more trouble than Wesley, I can assure
-you. 
-CRUSHER: So was I. Isn't that what seventeen's supposed to be?
-
-[Shuttlebay]
-
-STUBBS: No cracks in the armour. We'll do just
-fine. 
-WESLEY: How can you be so calm about this? If I was about to make this
-kind of breakthrough 
-STUBBS: I have never doubted for a moment that this day would come,
-Wesley. And I suspect that some day it will come for you as well. I see
-a lot of me in you. In my youth, they called me a vunderkind. Do you
-understand vunderkind? 
-WESLEY: It's German, isn't it? 
-STUBBS: It means wonder child. It is reserved for those of us who
-achieve early in life. Now the burden is yours. 
-WESLEY: Burden? 
-STUBBS: To fulfill your potential. You will never come up against a
-greater adversary than your own potential, my young friend. 
-WESLEY: Red Alert. Return to quarters immediately.
-
-[Bridge]
-
-PICARD: Still no visual contact. That's impossible.
-Mister Worf, same magnification fifty degrees starboard. 
-RIKER: Worf, you're absolutely sure? 
-WORF: Sensors clearly indicate the approach of a Borg vessel. 
-RIKER: Shields up. 
-WORF: Shields are not responding. 
-LAFORGE: Manual override is jammed. It's not going to work this time.
-We don't have the shields, Captain. 
-WORF: Captain, they're firing energy weapons at us. 
-PICARD: Evasive action. 
-RIKER: Bring her round to two seven five mark three. 
-PICARD: Predict current vector of Borg ship. 
-WORF: Vector. Is gone. And so is the Borg vessel. 
-PICARD: You're telling me this is another computer glitch? 
-DATA: It is conceivable that he was viewing a synthetically generated
-image, sir. 
-RIKER: That our computer was daydreaming? 
-(The ship shakes and the doors start opening and closing rapidly) 
-PICARD: Computer, identify malfunction immediately. 
-COMPUTER: Pawn to Bishop Four. Knight to King's Rook Three. Bishop to
-Queen's Bishop Four. Knight to Knight Five. Queen's Knight to King Two.
-
-DATA: Controls are not responding, sir. 
-COMPUTER: Queen to Bishop Three. Bishop to Bishop Two. LAFORGE: Impulse
-engines are down. 
-RIKER: Try warp engines. 
-LAFORGE: No. Sorry, Commander. I'd better get back to Engineering 
-PICARD: Mister La Forge, I want Lieutenant Worf to accompany you. Get
-me a full report on the prospects of getting our shields back. Number
-One, Mister Data, will you join me in the conference room as soon as
-possible. It's time to discuss the future of this mission, if there
-still is one.
-
+Captain's log, supplemental. Doctor Stubbs has used
+his influence to have planet Kavis Alpha Four designated the new home
+of the nanite civilisation. Commander Data's neural network has been
+vacated. He has been returned to us unharmed. And with the help of the
+nanites, our computer core has been reconstructed in time for the
+experiment 

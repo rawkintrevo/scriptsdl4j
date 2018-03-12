@@ -1,89 +1,33 @@
-TROI WORF PICARD BENZAN DEBIN OKONA KUSHELL
+GUEST5 DATA GUINAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Charnock's Comedy Cabaret]
 
-OKONA: Am I going to meet Captain Picard? 
-WORF: Definitely. 
-OKONA: Did I say something funny?
-
-[Bridge]
-
-WORF: Captain Picard, this is Thadium Okona. 
-PICARD: Mister Okona, you were welcomed aboard without any undue
-investigation. In turn it was assumed that you did not come under false
-pretenses. It now seems that you may have done. 
-OKONA: Captain, if you mean my socialising with the members of the
-crew? 
-PICARD: Mister Okona, you are free to socialise with the members of my
-crew. I'm talking about a man named Debin. 
-OKONA: He's from Atlec. I've had dealings with some of his family. 
-PICARD: Then perhaps you can explain why his craft is threatening to
-attack us unless I give him custody of you. 
-OKONA: I can't. 
-PICARD: Then tell me why Kushell of the planet Straleb is demanding the
-same thing? 
-OKONA: He's here also? 
-PICARD: And quite adamant. Mister Okona, what crimes are you accused
-of? 
-OKONA: I am not a criminal. 
-PICARD: Why do these men want you? 
-OKONA: I can't say. 
-PICARD: They're threatening to attack the Enterprise. 
-OKONA: That would be crazy. They wouldn't stand a chance. 
-PICARD: Right. Then you can offer no reason why they are set on this
-provocative course? 
-OKONA: I can't think of one right now. 
-PICARD: On viewer. 
-WORF: Which ship? 
-PICARD: What? The first on. Captain Debin. Captain, let me ask you
-again. What are Okona's crimes? 
-DEBIN [on viewscreen]: That is not your concern. 
-PICARD: It is if you wish me to release him to you. 
-DEBIN [on viewscreen]: All right, you want to know what he did? You
-want to know why I have chased him across this system? All right. Here,
-This is his crime. 
-(He goes off screen and returns leading a very pregnant young woman) 
-DEBIN [on viewscreen]: He dishonoured my daughter. He took advantage of
-her, then he ran off and left her carrying his bastard child. He'll
-return, and he'll do the right thing or I'll hunt him to the ends of
-the galaxy. 
-Captain's log, supplemental. Some of the mystery
-surrounding this ancient morality play we've been dragged into has been
-revealed. One of Captain Okona's pursuers is an outraged father with a
-heartfelt, if arcane, sense of righteousness. 
-[Bridge]
-
-PICARD: Your advice, Counsellor. 
-TROI: We are dealing with ancient codes involving procreation. While
-they may be meaningless to us, to Debin they represent his honour. He
-will fight, risking himself, his crew, his daughter and her unborn
-child. 
-OKONA: You know, Captain, your Counsellor's right. He will fight. 
-WORF: The captain of the other ship is demanding to be heard. 
-PICARD: I don't suppose you can give me any indication why this man
-wants you? 
-(Okona sighs and shakes his head) 
-PICARD: Let's put all this together. Lieutenant Worf, multiple image,
-full conference mode. Let them all see each other. 
-WORF: Yes, sir. 
-KUSHELL [on viewscreen]: Here you are, Debin, trying to save this
-criminal. 
-DEBIN [on viewscreen]: My purpose is not your concern. 
-KUSHELL [on viewscreen]: It is if it involves Okona. 
-PICARD: Gentlemen, please, let's try and resolve this matter. Captain
-Kushell, what crime has Okona allegedly committed against you? 
-KUSHELL [on viewscreen]: He is a thief. He stole the Jewel of Thesia. A
-national heritage. 
-DEBIN [on viewscreen]: A thing. An item. My case involves the
-victimisation of my daughter, and my honour. I'll have Okona now. 
-KUSHELL [on viewscreen]: He is mine. 
-OKONA: One at a time. Who accuses me of stealing? 
-KUSHELL [on viewscreen]: I do. My son Benzan and I. 
-BENZAN [on viewscreen]: Father, please. 
-KUSHELL [on viewscreen]: He used you to become my friend. 
-DEBIN [on viewscreen]: He used my daughter. 
-KUSHELL [on viewscreen]: He used my son to plunder a national treasure.
-
-WORF: Mute. 
-PICARD: Terminate communications. Come with me.
-
+(The spot light comes on, the drum rolls and the
+Comic bounces out onto the stage) 
+GUEST5: Thank you. Thank you. Thanks for coming, folks. We got a great
+show for you tonight. I'm so excited this evening. Tonight I have for
+you the funny man of the stars, the android of antics, that Lieutenant
+Commander of mirth. Please give him a nice welcome, ladies and
+gentlemen, none other than. He's just the best. Data! 
+(Dressed in a tuxedo, and carrying Groucho's cigar, Data comes on to
+rapturous applause) 
+DATA: Good evening ladies and germs. (laughter - mimes a golf swing with
+his cigar - laughter) I come from a town so small, we had a fraction
+for a zip code. (laughter) 
+GUINAN: You made a living doing this? 
+GUEST5: Yes, I did. 
+DATA: It was so small in fact we didn't have a godfather of crime, we
+had a nephew. (laughter) 
+(The Comic gives Data the thumbs up. He copies him and gets laughter) I
+was so ugly as a child they hung a pork chop around my neck (laughter)
+so the dog would play with me. (the penny drops) And then there was the
+human cannonball who was hired and fired in the same night. Audience
+programme off. Discontinue Comic. 
+(Guinan walks out onto the stage) 
+DATA: It was a holodeck audience. They were programmed to laugh at
+everything. Perhaps I should reprogram the audience to display a more
+accurate response. 
+GUINAN: Data, let me give you one. Being able to make people laugh, or
+being able to laugh, is not the end all and be all of being human. 
+DATA: No, but there is nothing more uniquely human. 

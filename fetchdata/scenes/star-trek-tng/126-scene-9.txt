@@ -1,83 +1,82 @@
-TROI LAFORGE WORF PICARD RIKER COMPUTER CRUSHER DATA
+RIKER GUEST0 PICARD GUEST1 GUEST3 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Guest lounge]
 
-RIKER: Are you suggesting they be transferred to
-the Enterprise? 
-[Cryo chamber]
+GUEST1: I need to talk to you. 
+[Ready room]
 
-DATA: I do not believe we should leave them here,
-sir. With your permission, we will be returning with three containers. 
-RIKER [OC]: Whatever you do, do it quickly.
+PICARD: What is going on here, Number One? Did you
+give him permission to contact me? 
+RIKER: Of course not. He must have seen me use the comm. panel. 
+PICARD: Listen, Mister Offenhouse. We're in a very important conference
+right now. 
+GUEST1 [OC]: I'm sick and tired of being put off 
+[Guest lounge]
 
-[Bridge]
+GUEST1: By you and your staff. This is the worst run
+ship I have ever been on. 
+[Ready room]
 
-PICARD: Mister La Forge, set course zero five
-eight, mark one seven three. 
-LAFORGE: Laying it in, sir. 
-PICARD: Number One, I want a staff meeting on the observation deck. 
-LAFORGE: Captain, those coordinates will take us right into the Neutral
-Zone. 
-PICARD: That is correct, Mister La Forge. Warp factor eight. 
-LAFORGE: Aye, sir. Warp eight. 
-PICARD: Engage. 
-[Observation lounge]
+GUEST1 [OC]: You should take some lessons from the
+QE Two. Now that's an efficient operation. 
+PICARD: Data, identify. What is a QE Two? 
+DATA: It was a passenger liner which mostly travelled Earth's Atlantic
+Ocean during the late twentieth and early twenty first centuries. 
+PICARD: He's comparing the Enterprise to a cruise ship? 
+GUEST1 [OC]: Captain Picard, I demand that you see me. I think I have
+been very, very patient. 
+[Guest lounge]
 
-PICARD: Two Federation outposts in sector three
-zero have been destroyed. There's been no communication with Federation
-starbases in sector three one since stardate 41903.2. 
-WORF: Romulans. 
-PICARD: That's the assumption. 
-RIKER: There's been no direct contact with the Romulans since the Tomed
-Incident. 
-PICARD: The question are, why now? What's their objective? For fifty
-years there's barely a whisper out of them, and now for no apparent
-reason they seem to be back with a roar. 
-RIKER: Everything we know about them is based on rumour or conjecture. 
-PICARD: The strategic decision is to send one ship. 
-RIKER: The Enterprise. 
-WORF: We could get out there and find ourselves greatly over-matched. 
-PICARD: True enough. It's a gamble. 
-RIKER: This first encounter, coming so suddenly after all this time. We
-have to assume it's a setup. 
-PICARD: If force is necessary, we will use it, but that will mean we
-have failed. Our goal here is to establish some kind of relations with
-the Romulans. If we don't succeed, then to convince them of our
-resolve. The general feeling at Starfleet is that they are seeking a
-confrontation. They may want to test themselves in battle against a
-Federation starship. See how far we have advanced. If that is the case,
-then I need to know it. Counsellor, I shall need a full profile on
-them. 
-TROI: There is limited information, but I will prepare something. 
-PICARD: Computer, estimated arrival time at the Neutral Zone? 
-COMPUTER: Nineteen hours, twenty eight minutes. 
-PICARD: Let's reassemble in six hours. Stay sharp. No surprises. I
-would rather outthink them than outfight them. Questions?
-
-[Sickbay]
-
-PICARD: What is it, Doctor? 
-CRUSHER: It's the people from the capsule. 
-PICARD: Capsule? People? What people? 
-CRUSHER: The people Data beamed over. 
-PICARD: I wasn't aware that he had. 
-CRUSHER: Well he did, and they were frozen. I thawed them. 
-PICARD: You what? 
-CRUSHER: I didn't know what else to do. The crypts in which they were
-frozen were literally falling apart. 
-PICARD: So what's their condition? 
-CRUSHER: Right now, they are all sleeping. Each of them needed minor
-medical attention. Minor now, but then their conditions were obviously
-terminal. One had a heart problem, another had an advanced case of
-emphysema with extensive liver damage. You know the most surprising
-thing of all, is that each of them had been frozen after they died. 
-PICARD: After they died? 
-CRUSHER: Cryonics. It was a kind of fad in the late twentieth century.
-People feared dying. It terrified them. At the moment of death, they
-would be frozen, so that later, some time in the future, when
-presumably medical science had a cure for whatever killed them, they
-could be thawed back to life, healed, and sent on about their business.
-
-PICARD: In the case of this group, it apparently worked. Mister Data,
-will you report to Sickbay.
-
+GUEST1: I demand a phone, or a radio whatever else
+you have. Frankly, enough is enough. Especially under the
+circumstances, and considering what I paid for this procedure! I must
+make contact with my law 
+(Picard enters) 
+PICARD: I'm Captain Picard. 
+GUEST1: Excellent. Now, maybe we'll be able to get some things
+straightened out. 
+PICARD: We may indeed. Those comm. panels are for official ship
+business. 
+GUEST1: If they are so important, why don't they need an executive key? 
+PICARD: Aboard a starship, that is not necessary. We are all capable of
+exercising self-discipline. Now, you will refrain from using them. 
+GUEST1: Now just a minute. 
+PICARD: We are in a very serious and potentially dangerous situation. 
+GUEST1: I'm sure whatever it is seems very important to you, but my
+situation is far more critical. 
+PICARD: I don't think you are aware of your situation, or of how much
+time has passed. 
+GUEST1: Believe me, I'm fully cognisant of where I am, and when. It is
+simply that I have more to protect than a man in your position could
+possibly imagine. No offence, but a military career has never been
+considered to be upwardly mobile. I must contact my lawyer. 
+PICARD: Your lawyer has been dead for centuries. 
+GUEST1: Yes, of course I know that, but he was a full partner in a very
+important firm. Rest assured, that firm is still operating. 
+PICARD: That's what this is all about. A lot has changed in the past
+three hundred years. People are no longer obsessed with the
+accumulation of things. We've eliminated hunger, want, the need for
+possessions. We have grown out of our infancy. 
+GUEST1: You've got it all wrong. It's never been about possessions. It's
+about power. 
+PICARD: Power to do what? 
+GUEST1: To control your life, your destiny. 
+PICARD: That kind of control is an illusion. 
+GUEST1: Really? I'm here, aren't I? I should be dead but I'm not. 
+(Clare starts weeping) 
+PICARD: What is it? 
+GUEST0: I don't know. It just started and it won't stop. I keep thinking
+about my boys. 
+PICARD: Counsellor Troi, will you report to the guest lounge? 
+RIKER [OC]: Captain, we are approaching Science Station Delta Zero
+Five. 
+PICARD: Slow to half impulse. I'm on my way. 
+GUEST3: Captain, I need to see that pretty little Doctor of yours. 
+PICARD: I'll inform her. 
+GUEST1: Captain. I didn't mean to come on so strong. It's just that I've
+built my whole life on knowing what's going on. For the first time I
+feel completely out of touch. It's making me crazy. You can understand
+that? 
+PICARD: It's the first thing you've said I do understand. I'll see what
+I can do. And, please, stay off the comm. panels. 

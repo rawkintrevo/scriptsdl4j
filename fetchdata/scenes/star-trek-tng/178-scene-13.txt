@@ -1,41 +1,28 @@
-SERGEY ROBERT HELENA WORF PICARD
-
-[Worf's quarters]
-
-WORF: Enter. 
-SERGEY: Are we disturbing you? 
-WORF: No. No. I thought you were going to your quarters to sleep. 
-HELENA: We just came by to tuck you in. 
-WORF: Please. When I heard you were on the visitors' list, I was not
-sure I wanted you to come. I am glad you are here. 
-HELENA: We had to come. 
-SERGEY: Our boy was in trouble. After we read your letter about the
-discommendation from the Klingons. 
-HELENA: We don't exactly understand it all. 
-SERGEY: We don't have to. We know what kind of man you are. 
-HELENA: Whatever you did, we know it was for a good reason. 
-WORF: I must bear my dishonour alone. 
-SERGEY: That is not true. 
-HELENA: I'm sorry if this is too human of us but, whenever you are
-suffering, you must remember we are with you. 
-SERGEY: And that we're proud of you, and that we love you. 
-HELENA: You're our son.
+PICARD GUEST0 GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Chez Picard]
 
-(Picard is making inroads into a bottle of the
-family produce when Robert comes in with flowers for the house) 
-ROBERT: Careful. You're not used to drinking the real thing. This
-synthehol never leaves you out of control, is that so? 
-PICARD: That's so. 
-ROBERT: This will. (pours himself the last dregs) Now there is
-something I'd like to see. 
-PICARD: What's that? 
-ROBERT: The gallant Captain out of control. Mind if I ask you a
-question? What the devil happened to you up there? 
-PICARD: Is this brotherly concern? 
-ROBERT: No. Curiosity. What did they do to you? 
-PICARD: You know what happened. 
-ROBERT: Not precisely. I gather you were hurt. Humiliated. I always
-thought you needed a little humiliation. Or was it humility? Either
-would do. (Jean-Luc storms out of the house) 
+(There's mud, and muddy boots, on the carpet, and
+drunken voices singing 'Aupres de ma blonde, qu'il fait bon, fait bon,
+fait bon' dum, dum, dum. Marie enters from outside) 
+GUEST5: What in the world? What happened here? 
+GUEST0: Ah 
+PICARD: It's entirely my fault, Marie. 
+GUEST0: Yes, I fell down, then he fell and then 
+PICARD: We both fell down. 
+GUEST0: We both fell down. 
+PICARD: Together. 
+GUEST0: We both fell down together. 
+GUEST5: Have you two been fighting? 
+GUEST0: Fighting? No, certainly not. 
+GUEST5: Shame on you both. What would your father say if he saw you like
+this? 
+PICARD: He'd probably send us both to bed without our supper. 
+GUEST5: Well, perhaps it's just as well you got it out of your systems. 
+PICARD: Perhaps it was, Marie. Perhaps it was. I'll contact Louis and
+cancel the meeting with the Board of Governors. It's time that I was
+going. 
+GUEST5: Already, Jean-Luc? 
+PICARD: The ship will be ready to leave orbit soon, and I belong on
+board. If I should ever doubt that again, I know where to come. 

@@ -1,52 +1,46 @@
-TALUR DATA GIA GARVIN
+TROI RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Garvin's home]
+[Riker's quarters]
 
-(the local medicine woman is checking him over) 
-TALUR: Remarkable set of teeth. Breath smells like, well, it doesn't
-have any smell actually. You can close your mouth. Let's see. Heartbeat
-sounds a little odd, but seems very regular. Skin feels clammy, but you
-say you feel fine? 
-DATA: That is correct. 
-TALUR: No headaches, palpitations, sluggishness, indigestion? 
-DATA: No. But I cannot have indigestion since I have not eaten. 
-TALUR: Ah. Malnutrition. You should try to eat something that will
-build strength and return your vitality. Lots of meat, butter, cheese,
-that should be a start. 
-GARVIN: What about his eyes and his skin? They're so odd. 
-TALUR: Quite so, quite so. I'm sure my grandmother would have called
-our friend here a demon or spirit or some kind of monster. But current
-scientific methodology allows us to dismiss such ridiculous
-superstitions and concentrate on scientific reality. 
-DATA: Then what do you believe I am? 
-TALUR: You are an ice man. 
-DATA: Ice man? 
-TALUR: Yes. You probably come from a race of people who lived in the
-snow and ice of the Vellorian mountains. Your skin and eye colouration
-are a result of prolonged exposure to harsh winter conditions. 
-DATA: Then I am not ill? 
-TALUR: Aside from your memory loss, you do not seem to have any
-symptoms of any illness that I am familiar with. No. You are an ice
-man. Now, get something to eat and a good night's rest, and I will come
-back tomorrow to see if your memory has begun to return. 
-DATA: Thank you. 
-TALUR: Hello, Gia. 
-GIA: Hello. 
-(Talur leaves as Gia enters) 
-GIA: What did Talur say about him? Is he sick? 
-GARVIN: Not exactly. She said he's lost his memory, but seems to be
-fine otherwise. Talur thinks he's from a race that lives in the
-mountains. 
-DATA: I am an ice man. 
-GARVIN: We'll have to call you something besides Ice man until your
-memory returns. What was the word on the container? 
-DATA: Radioactive. 
-GARVIN: Mister Radioactive? 
-GIA: I don't like that name. Let's call him Jayden. 
-GARVIN: What do you think of that? 
-DATA: Jayden. That is acceptable. 
-GARVIN: Right now, we need to clean him up and get him something decent
-to wear. Run upstairs and get some of my old clothes for him. 
-GIA: Yes, Father. 
-GARVIN: I wonder if Skoran can tell us something about this metal of
-yours. 
+(Riker is practising his trombone when Troi strolls
+in. He finishes the piece and then blows two notes) 
+TROI: Is that supposed to be a question? 
+(parp parp) 
+TROI: Because if you're asking me if I liked what you were playing,
+then the answer is yes. 
+(paarp parp) 
+TROI: You know, this is a much better way of communicating for you.
+It's far less confusing than the way you normally speak. 
+(parp!) 
+RIKER: I knew I could count on my Imzadi, the ship's Counsellor to
+boost my self-image. 
+TROI: I'm glad to be of service. 
+RIKER: Did you come here for something in particular, or just general
+Riker bashing? 
+TROI: Actually I wanted to ask your opinion about something. I've been
+thinking about taking the Bridge Officer's test and becoming a full
+Commander. 
+RIKER: What brought this up? 
+TROI: A lot of things. Working on the personnel review last month,
+talking with Beverly about her experiences, going to my class reunion. 
+RIKER: Ah, the class reunion. You saw a few old friends who had already
+taken the test? 
+TROI: All right, I admit it was a catalyst. But I can honestly say that
+I've been thinking about this off and on over the past two years. 
+RIKER: Why the past two years? 
+TROI: Do you remember when the Enterprise hit that quantum filament and
+I was in command on the Bridge? 
+RIKER: I do. 
+TROI: Well, when that happened, I was overwhelmed. But when it was over
+I realised that a part of me missed it.
+Not the actual disaster, but the experience of being in command. I felt
+like I was exploring a whole new side of myself. Not that I want to
+give up counselling by any means, but I really would like to stretch
+myself a little. 
+RIKER: Deanna, if you take the Bridge Officer's test, you'll have my
+complete support. But as First Officer, I'll be the one judging your
+performance, and you should know I am a pretty tough judge. 
+TROI: And I'm a pretty good student. 
+RIKER: We'll start tomorrow morning, oh eight hundred hours.
+

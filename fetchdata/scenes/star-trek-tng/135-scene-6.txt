@@ -1,34 +1,5 @@
-PICARD PHILLIPA DATA MADDOX
-
-[JAG office]
-
-PHILLIPA: My God, twice in as many days. 
-PICARD: I need your help. 
-PHILLIPA: An historic moment. 
-PICARD: I have been trying to make sense of this gobbledygook, but it's
-beyond me. The fact is, my android officer, Data, is being transferred
-compulsorily to be made part of a highly dangerous, ill-conceived
-experiment, and I want it stopped. 
-PHILLIPA: He can refuse to undergo the procedure, but we can't stop the
-transfer. 
-PICARD: Once this Maddox has got control of Data, anything could
-happen. I don't trust that man. 
-PHILLIPA: We agree to certain risks when we join Starfleet. 
-PICARD: Yes. Acceptable risks, justified risks, but I can't accept
-this. It's unjustified. It's unfair. He has rights. 
-PHILLIPA: All this passion over a machine? 
-PICARD: Don't start. This is important to me. Is there an option? 
-PHILLIPA: There is always an option. He can resign. 
-PICARD: I see. 
-PHILLIPA: So you came to me for help. 
-PICARD: Yes, I came to you. You're the JAG officer for this sector. I
-had no choice but to come to you. 
-PHILLIPA: Wait! I didn't mean it that way. I'm glad that you felt you
-could, well, come to me. 
-PICARD: The word trust just isn't in your vocabulary, is it. Good try,
-nine out of ten for effort. 
-PHILLIPA: I wish things were different. 
-PICARD: I wish I could believe that.
+GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Data's quarters]
 
@@ -37,39 +8,39 @@ contents include a small holo-projector that displays an image of Tasha
 Yar, an impressive collection of medals, He puts a book on the desk and
 then Maddox walks in without even knocking. Data comes back with
 another item to find Maddox reading) 
-MADDOX: 'When in disgrace with fortune and men's eyes, I all alone
+GUEST2: 'When in disgrace with fortune and men's eyes, I all alone
 beweep my outcast
 state'. Is it just words to you, or do you fathom the meaning? 
 (Shakespeare's
 sonnet 29) 
 DATA: Is it not customary to request permission before entering an
 individual's quarters? 
-MADDOX: I thought that we could talk this out, that I could try to
+GUEST2: I thought that we could talk this out, that I could try to
 persuade you. Your memories and knowledge will remain intact. 
 DATA: Reduced to the mere facts of the events. The substance, the
 flavour of the moment, could be lost. Take games of chance. 
-MADDOX: Games of chance? 
+GUEST2: Games of chance? 
 DATA: Yes, I had read and absorbed every treatise and textbook on the
 subject, and felt myself well prepared for the experience. Yet, when I
 finally played poker, I discovered that the reality bore little
 resemblance to the rules. 
-MADDOX: And the point being? 
+GUEST2: And the point being? 
 DATA: That while I believe it is possible to download the information
 contained in the positronic brain, I do not think you have acquired the
 expertise necessary to preserve the essence of those experiences. There
 is an ineffable quality to memory which I do not believe can survive
 your procedure. 
-MADDOX: Ineffable quality. I had rather we had done this together, but
+GUEST2: Ineffable quality. I had rather we had done this together, but
 one way or the other, we are doing it. You are under my command. 
 DATA: No, sir, I am not under your nor anyone else's command. I have
 resigned from Starfleet. 
-MADDOX: Resigned? You can't resign. 
+GUEST2: Resigned? You can't resign. 
 DATA: I regret the decision, but I must. I am the culmination of one
 man's dream. This is not ego or vanity, but when Doctor Soong created
 me he added to the substance of the universe. If by your experiments I
 am destroyed, something unique, something wonderful will be lost. I
 cannot permit that, I must protect his dream. 
-MADDOX: And so must I. But keep packing, because one way or the other,
+GUEST2: And so must I. But keep packing, because one way or the other,
 you will be reporting. 
 Captain's log, supplemental. Commander Bruce
 Maddox, having been thwarted by Data's abrupt resignation, is now

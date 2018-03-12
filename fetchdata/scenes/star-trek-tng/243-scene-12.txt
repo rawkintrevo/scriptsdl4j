@@ -1,107 +1,52 @@
-BOY RIKER LAFORGE WORF PICARD TOQ LKOR BAEL
+GUEST3 WORF GUEST5 GUEST1 BAEL GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Compound]
 
-(night, around the fire, and a group of teenagers
-are spellbound by Worf's narration) 
-WORF: Kahless held his father's lifeless body in his arms. He could not
-believe what his brother had done. Then his brother threw their
-father's sword into the sea, saying, if he could not possess it,
-neither would Kahless. That was the last time the brothers would speak.
-
-BA'EL: What happened to the sword? 
-WORF: Kahless looked into the sea and wept, for the sword is all he had
-left of his father. The ocean filled with his tears and flooded beyond
-the shore. 
-TOQ: That is impossible! 
-WORF: For you, perhaps. Not Kahless. He was a great warrior. 
-TOQ: You're making it up. 
-WORF: No. These are our stories. They tell us who we are. 
-L'KOR: It is late. It is time to sleep. 
-(the youngsters and L'Kor leave) 
-BA'EL: Worf. You never answered my question. Did Kahless ever find his
-father's sword? 
-WORF: Yes. He found it. 
-BA'EL: The stories that you tell, are they true? 
-WORF: I have studied them all of my life, and find new truths in them
-every time. 
-BA'EL: This Kahless, did he ever take a mate? 
-WORF: That is another story. 
-BA'EL: Tell me. 
-(Worf strokes her hair, and discovers that she has pointed ears) 
-WORF: You are Romulan. 
-BA'EL: Tokath is my father. I thought you knew that. 
-WORF: How could your mother mate with a Romulan? 
-BA'EL: Why shouldn't she? 
-WORF: It is an obscenity. 
-BA'EL: What are you saying? They love each other. 
-WORF: Romulans are treacherous, deceitful. They are without honour. 
-BA'EL: My father is a good man. He is kind, and generous. There is
-nothing dishonourable about him. 
-WORF: He took part in a cowardly attack at Khitomer. Thousands of
-Klingons were massacred, many of them women and children. 
-BA'EL: I don't know what you're talking about. My father came here to
-escape the wars. He would never kill anybody. 
-WORF: Ask him. Ask your mother. Tell them you want to know the truth.
-
-[Bridge]
-
-(at the science station) 
-PICARD: What is it, Number One? 
-RIKER: We've just received the Yridian's flight plan from Deep Space
-Nine. 
-LAFORGE: He gets around. He's been to three different systems in this
-past week. He could have left Worf at any of them. 
-PICARD: Are any of these systems near Romulan space? 
-LAFORGE: Two of them. The Nequencia and the Carraya systems. 
-(Echevarria system is too far away to be considered) 
-PICARD: Let's head for the closer one. 
-RIKER: Aye, sir.
-
-[Ba'el's family's quarters]
-
-BA'EL: What do you want? 
-WORF: I am sorry if I upset you. 
-(Ba'el gestures Worf to come in) 
-WORF: I was surprised. I became angry. But I do not blame you. You
-cannot help being what you are. 
-BA'EL: There's nothing wrong with what I am. 
-WORF: What I mean is, it is not your fault. 
-BA'EL: What, being born? I'm sorry if that offends you. 
-WORF: No, I. It is hard to explain. Klingons and Romulans are blood
-enemies. Have been for centuries. 
-BA'EL: Not here. Here, we live in peace. 
-WORF: But I don't live here. 
-BA'EL: Worf, before you knew, you were attracted to me. Can't you leave
-the hatred behind, too? Can't you accept me as I am? 
-WORF: I do not know. 
-[Compound]
-
-(a pair of metal staves are balanced across
-uprights.) 
-BOY: Come on, Toq. 
-(Toq rolls a hoop and knocks the staves off) 
-BOY: Who's next? Okay? Try again. 
-(Worf walks over and pulls an upright out of the ground. As Toq rolls
-the hoop, Worf throws the stave through it.) 
-WORF: Ka'la! 
-TOQ: That is not how you play this game. 
-WORF: The qa'vak is not a game. It hones the skills of the hunt. 
-TOQ: The hunt? We have replicators here. 
-WORF: Klingons do not hunt because they need food. The hunt is a ritual
-that reminds us of where we come from. 
-TOQ: I know where I came from. Right here. 
-WORF: It is a difficult skill to master. Perhaps you are too young. 
-TOQ: Throw it. 
-(so of course Toq takes the stave and gestures another boy to roll the
-hoop. He misses)
-WORF: Your arm is strong, but you need practice. Hold your other arm
-like this and aim along it. Roll. 
-(this time Toq does it right) 
-WORF: You learn quickly. Perhaps it is time to put your skills to the
-test. 
-TOQ: What do you mean? 
-WORF: Come. I will take you on the hunt. 
-TOQ: You Are not allowed to leave the compound. They won't allow it. 
-WORF: I think they will.
+(Worf looks everyone in the eye then stands in
+front of the wall for the firing squad.) 
+GUEST0: I know that there are those among you who may question what I'm
+about to do. And you would not be wrong to do so. I have questioned
+myself. I have spent the night considering my decision, challenging
+myself to justify whether it is right. And I have reached the
+conclusion that it is absolutely necessary to put this man to death.
+What we have built together would be destroyed by this man. And I
+cannot allow that to happen. I give you one last chance to accept our
+way of life. 
+WORF: Those are eloquent word, Tokath, but the truth is, I am being
+executed because I brought something dangerous to your young people.
+Knowledge. Knowledge of their origins. Knowledge of the real reasons
+you are here in this camp. The truth is a threat to you. 
+GUEST0: Enough. Stand ready. Raise your weapons. 
+BA'EL: Father. 
+GUEST5: Stop this! 
+(Toq is wearing the old armour.) 
+GUEST5: If you kill him, you will have to kill me. 
+GUEST0: Step aside, Toq. 
+GUEST5: Worf would rather die than accept this way of life. And so would
+I. I want to leave, as do many others. You will have to kill us to keep
+us here. 
+WORF: You see, Tokath? It is already too late. 
+GUEST0: I am warning you. Move aside, now. 
+(Toq holds his ground) 
+GUEST0: Stand ready. 
+L'KOR: Toq. Move away. 
+GUEST0: Take aim. 
+(L'Kor goes and stands with Toq and Worf. Tokath draws his own weapon.
+Other young people join the group. Finally Ba'el stands with Worf.) 
+GUEST0: Ba'el. 
+GI'RAL: Tokath. Long ago, when your captives asked to stay here, our
+hope was to avoid dishonouring our children on the Home World. But
+perhaps, over the years, we lost sight of our children that we raised
+here. This is our prison. It should not be theirs. 
+WORF: Years ago, your parents made a great sacrifice for the sake of
+their families. Today, they do so again. For that, we must honour them.
+You must promise them never reveal to their secret. No one must know of
+this place. 
+GUEST5: A supply ship's due in a few days. They will take us. When they
+arrive, Tokath will explain it to them. Then we will start a new life. 
+Captain's log, supplemental. Our search for
+Lieutenant Worf was cut short when we
+received a cryptic message from him requesting a rendezvous with a
+Romulan vessel. He has informed us we will be taking on passengers.
 

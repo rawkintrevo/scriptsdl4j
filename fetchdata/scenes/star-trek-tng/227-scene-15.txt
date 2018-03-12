@@ -1,46 +1,31 @@
-CLEMENS TROI
+PICARD RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-(Troi is back in her purple catsuit) 
-CLEMENS: Any place that doesn't stock a good cigar doesn't rank high in
-my book. 
-TROI: If you must have one, I'm sure we can replicate it for you. 
-CLEMENS: You think one of these imitations can take the place of a hand
-wrapped Havana? 
-TROI: I wouldn't know. 
-CLEMENS: Well, that's the problem I see here. All this technology it
-only serves to take away life's simple pleasures. You don't even let a
-man open the door for a lady. 
-TROI: I think what we've gained far outweighs anything that might have
-been lost. 
-CLEMENS: Oh? Well, I'm not so impressed with this future. Huge
-starships, and weapons that can no doubt destroy entire cities, and
-military conquest as a way of life? 
-TROI: Is that what you see here? 
-CLEMENS: Well, I know what you say, that this is a vessel of
-exploration and that your mission is to discover new worlds. 
-(a Bolian comes out of the turbolift as they get in)
-
-[Turbolift]
-
-CLEMENS: That's what the Spanish said. 
-TROI: Deck thirty six. 
-CLEMENS: And the Dutch and the Portuguese. It's what all conquerors
-say. I'm sure that's what you told that blue-skinned fellow I just saw,
-before you brought him here to serve you. 
-TROI: He's one of the thousands of species that we've encountered. We
-live in a peaceful Federation with most of them. The people you see are
-here by choice. 
-CLEMENS: So there're a privileged few who serve on these ships, living
-in luxury and wanting for nothing. But what about everyone else? What
-about the poor? You ignore them. 
-TROI: Poverty was eliminated on Earth a long time ago, and a lot of
-other things disappeared with it. Hopelessness, despair, cruelty. 
-CLEMENS: Young lady, I come from a time when men achieve power and
-wealth by standing on the backs of the poor, where prejudice and
-intolerance are commonplace and power is an end unto itself. And you're
-telling me that isn't how it is anymore? 
-TROI: That's right. 
-CLEMENS: Well, maybe it's worth giving up cigars for after all.
+DATA: Commander, I am picking up massive triolic
+wave activity on the surface. 
+RIKER: Is it the Captain? 
+DATA: There are no human life signs. 
+RIKER: No sign of a temporal distortion? 
+DATA: No, sir, but triolic activity is increasing. 
+RIKER: The aliens. Mister Worf, are the photons ready? 
+WORF: Yes, sir. 
+RIKER: Fire. 
+WORF: Torpedoes away, sir. 
+DATA: Sir, I am detecting a temporal distortion on the surface and
+human life signs. 
+RIKER: O'Brien, get him out of there! 
+(KaBOOM on Devidia) 
+RIKER: Transporter room, have you got him? 
+PICARD [OC]: He has indeed, Commander. And believe me, it's good to be
+back. 
+WORF: We have destroyed the target. There is no further indication of
+triolic activity. 
+RIKER: Ensign, lay in a course to the nearest Starbase. Warp six. 
+Captain's log, stardate 46001.3. Everyone who
+should be in the nineteenth century is safely there, and those who
+should be in the twenty fourth are here. Mister Data has been restored
+to us, head and all, and Samuel Clemens will write the books he was to
+have written after our encounter.
 

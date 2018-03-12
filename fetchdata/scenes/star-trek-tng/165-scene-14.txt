@@ -1,72 +1,43 @@
-KURN WORF DURAS PICARD KMPEC COMPUTER
+DURAS PICARD RIKER GUEST1 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Great Hall]
 
-(Everything is done by shouting here) 
-WORF: I am Worf, son of Mogh. I have come to challenge the lies that
-have been spoken of my father. 
-K'MPEC: Worf, son of Mogh, you have challenged the judgment of the
-council. Are you prepared to answer for this if you fail? 
-WORF: Yes. With my life. 
-K'MPEC: Why do you come before us, Commander? 
-KURN: I am Kurn, son of Lorgh. I will stand by Worf's side. I am
-cha'DIch. 
-(He is handed a ceremonial something) 
-DURAS: You claim a birthright you have forsaken? 
-WORF: I have not forsaken my heritage. I am Klingon. My heart is of
-this world. My blood is as yours. 
-DURAS: Yet you come to us wearing a child's uniform, and you bring
-outsiders to our Great Hall. 
-PICARD: I am here at my own request. I am Captain Jean-Luc Picard of
-the Enterprise. 
-DURAS: Your words mean nothing here. 
-K'MPEC: Duras, let him speak. 
-PICARD: Lieutenant Worf has served under my command with distinction.
-He has earned my admiration and my respect. It is my greatest wish that
-this Council, in its wisdom, will clear his family name and return him
-to duty. 
-K'MPEC: The trust of a commanding officer is admirable. The council has
-noted it. Speak the accusation. 
-DURAS: For many turns, the truth about Khitomer has lain dormant.
-Unknown. Now the truth has been revealed. The traitor Mogh sent the
-defence access codes to the Romulan patrol ships, allowing them to
-destroy the outpost. Thousands died on Khitomer. My father died on
-Khitomer. Their deaths must be avenged. Your father was a traitor. By
-posing this challenge, you are a traitor. 
-(Duras tears off Worf's baldric) 
-DURAS: You will not wear the emblems of our people. You are a fool and
-your challenge can only result in a fool's death. 
-WORF: It is a good day to die, Duras, and the day is not yet over. 
-K'MPEC: The council stands in recess. We will return for the Mek'ba,
-when the evidence will be presented. Qapla' 
+DURAS: The Romulans lowered the outpost shields themselves. They were
+given the defense access code! The record clearly show the Romulan
+patrol ship receiving a personal transmission from Mogh seconds before
+the shields fell. 
+RIKER [OC]: Riker to Captain Picard. 
+PICARD: Stand by. 
+DURAS: The Khitomer commander noted in his log that Mogh had been
+acting suspiciously. 
+(Picard moves away to take his call privately) 
+PICARD: Go ahead, Number One.
+
 [Bridge]
 
-PICARD: Mister Data, find out everything you can
-about the destruction of the Khitomer outpost. Cross reference with
-Romulan tactics and strategic information on the region, and request
-access to the Klingon central information net. Computer, presentation
-overview of Klingon custom and law pertaining to familial
-accountability. 
-COMPUTER: Accessing. 
-PICARD: In my ready room. 
+RIKER: We've located another survivor of the
+Khitomer massacre, Captain a woman who was found with Worf. Her name is
+Kahlest. 
 [Great Hall]
 
-(in a side colonnade) 
-K'MPEC: Worf. I would speak with you. Alone. 
-(Kurn leaves them and is handed a message by a woman. He leaves) 
-K'MPEC: You should not have brought the challenge. There was no risk to
-you. What does it matter? 
-WORF: I am Klingon. 
-K'MPEC: Of that I have no question. But your life in the Federation
-would not be affected by this judgement. 
-WORF: My father 
-K'MPEC: Is dead. He died long ago. I knew your father, served with him.
-This is not how I wanted to remember him. We must let the past be and
-protect what we have now. If you leave before the Mek'ba, no shame will
-come on you. Return to your ship. Go back to your life. The challenge
-will be forgotten. 
-WORF: Why would you ask me to lay aside the honour of my father, my
-family? Are these the words of the council? 
-K'MPEC: I will not be questioned by you! Leave, now, or you too will be
-condemned as a traitor.
+RIKER: She resides in the Old Quarter of the First
+City. 
+PICARD: Well done. Picard out. 
+DURAS: Another witness has testified that Mogh often spoke of his
+admiration for the Romulans. Their culture. Their women. Mogh betrayed
+us, and four thousand Klingons died on Khitomer. Only the son of Mogh
+survived. 
+PICARD: K'mpec. May we have a short recess? 
+K'MPEC: Len'mat. 
+(K'Mpec gets up and walks out) 
+PICARD: Have you heard of a woman named Kahlest? 
+WORF: She was my ghojmoK, my nurse. 
+PICARD: It is possible she was an eyewitness to your father's
+activities on Khitomer. 
+WORF: But she died in the attack. 
+PICARD: No, she survived. She's living in the Old Quarter. I'm going to
+find her. 
+WORF: It is too dangerous. You must not go alone. 
+PICARD: Hey, I'm your cha'DIch.
 

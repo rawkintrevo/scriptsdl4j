@@ -1,133 +1,74 @@
-RIKER LAFORGE WORF PICARD SETAL COMPUTER HADEN CRUSHER DATA
+GUEST2 PICARD TOMALAK LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Engineering]
 
-SETAL: The humiliating defeat at the Battle of
-Cheron has not been forgotten. The new leaders have vowed to discard
-the treaty and claim the Neutral Zone. Nelvana Three is just the first
-step. 
-RIKER: You're saying an entire base has already been established there?
-
-SETAL: In forty-eight hours, the reactor core will be online. 
-RIKER: So the Federation sensors that monitor the Neutral Zone just
-missed it? 
-SETAL: It would seem so. In two days, a fleet of Romulan warbirds will
-be within striking distance of fifteen Federation sectors. 
-WORF: The Federation will not permit that. 
-SETAL: Then it is war that we're talking about, isn't it? Destroy the
-base now and the threat is over. 
-PICARD: Well, I'm sure you are fatigued by your ordeal and you require
-medical attention. Lieutenant Worf, will you accompany Sublieutenant
-Setal to the Sickbay. We will attend to your quarters. 
-SETAL: No doubt you will wish to question me further. 
-PICARD: No doubt. 
-(Worf, Setal and guard leave) 
-RIKER: He tells a hell of a story. 
-PICARD: You don't believe it? 
-RIKER: The Empire knows that we'd never allow them to maintain a base
-within the Neutral Zone. 
-DATA: Commander, that would not be an atypical Romulan ploy. In their
-long history of war, the Romulans have rarely attacked first. They
-prefer to test their enemy's resolve. 
-RIKER: I think he's a plant to draw us into the Neutral Zone. Then
-we'll look like the aggressors. 
-PICARD: And the Romulans would have a legitimate excuse for responding
-in force. 
-RIKER: Exactly. 
-DATA: That would also not be an atypical Romulan ploy, sir. 
-PICARD: It's always a chess game with them, isn't it? 
-LAFORGE: Well, at least he's given us the chance to get a look at some
-Romulan technology close up. 
-PICARD: Mister La Forge, you will lead the away team over to the scout.
-Commander, you and Counsellor Troi will conduct Setal's interrogation. 
-DATA: Captain, permission to observe the interrogation? 
-PICARD: No, Mister Data. I need you on the Bridge with me. There is
-much to be done. We have less than forty eight hours to prevent a war.
-Or perhaps to start one. This will depend on establishing the truth of 
-(And the scout ship goes Ka-boom!)
-
-[Sickbay]
-
-(Beverly is treating Setal's wounds) 
-SETAL: I set the auto-destruct sequencer before I left the ship. 
-RIKER: Why? 
-SETAL: Wouldn't you? To prevent your ship from being captured? 
-RIKER: Excuse me for being a little confused, Setal, but I thought you
-were defecting. 
-SETAL: I am not a traitor. All you can see is the opportunity to
-exploit me. The Federation credo, exploitation. You couldn't get aboard
-my ship fast enough. Strip it down. What secrets might it reveal that
-we can use? You're a short sighted people. Can't you understand? I came
-to stop a war. 
-CRUSHER: If you could just hold still? With your metabolism, this will
-heal in a few moments. 
-SETAL: Thank you, Doctor. How fortunate you know something of Romulan
-medicine. 
-CRUSHER: Yes. I had a chance to gain some experience recently. 
-SETAL: Ah, yes. The incident at Galorndon Core. The two officers. 
-WORF: You are aware of a great deal for a logistics clerk. 
-SETAL: It was common knowledge. I can show you my rating code. 
-WORF: Forged credentials are a simple matter for a spy. 
-SETAL: How do you allow Klingon pahtk to walk around in a Starfleet
-uniform? 
-WORF: You are lucky this is not a Klingon ship. We know how to deal
-with spies. 
-SETAL: Remove this tohzah from my sight. 
-RIKER: Your knowledge of Klingon curses is impressive. But as a Romulan
-might say, only a veruul would use such language in public. Mister
-Worf, please see to the security arrangements for our guest's stay. 
-WORF: Aye, sir. 
-(Worf leaves) 
-RIKER: You find something amusing? 
-SETAL: Lieutenant Worf. I like him. To be more accurate, I understand
-him. A warrior, proud, fearless, living only for combat. Exactly the
-type that will get us all killed, if we're not careful.
-
-[Guest quarters]
-
-RIKER: This is the food station. You can reach me
-through the comm. panel. Later, we'd like to ask you a few more
-questions. 
-(Riker leaves) 
-SETAL: Computer, water. 
-COMPUTER: Temperature? 
-SETAL: Twelve onkians. 
-COMPUTER: This system is calibrated to the Celsius metric system. 
-SETAL: Any temperature at all on the cold side of whatever your system
-is. 
-(He takes a sip, has a quick look around, then sits on the bed and
-takes an orange disc from his boot)
-
+LAFORGE: Power transfer fields may be pinched off. 
 [Bridge]
 
-DATA: There is no unusual activity in the Nelvana
-System, sir. 
-PICARD: Let's isolate and magnify that system. 
-DATA: Nothing on the sensors. 
-PICARD: It is hard to believe in what one cannot see. And yet
-conceivably, with their cloaking technology, a fleet of Romulan
-warships could be passing before our eyes. There must be some way to
-neutralise this advantage. 
-COMPUTER: Captain Picard, priority one message from Starfleet coming in
-on secured channel. 
-PICARD: In my Ready room. Computer, delay time? 
-COMPUTER: Two hours, twenty two minute delay from time of transmission 
-[Ready room]
+LAFORGE [OC]: I'm working on it. 
+WORF: Captain! 
+PICARD: Not yet, Mister Worf. This is just a tap on the shoulder, or we
+wouldn't be here talking about it. 
+WORF: The Romulans are hailing us. 
+PICARD: On screen. 
+TOMALAK [on viewscreen]: Captain Picard, I hardly expected to see you
+again so soon. It seems this time you are the one who has made an
+aggressive move across the Neutral Zone. 
+PICARD: Commander Tomalak, as I'm sure you already know, we were
+responding to a warnings of Romulan incursions at Nelvana Three. 
+TOMALAK [on viewscreen]: But, Captain, as you can see, there is no
+incursion. 
+PICARD: And the matter of the unidentified subspace radio emissions,
+and the ionisation
+disturbances? 
+TOMALAK [on viewscreen]: Ah, you must mean our orbiting probe. We are
+studying Nelvana Three for archaeological research. 
+PICARD: With a cloaked satellite? 
+TOMALAK [on viewscreen]: Really, Captain, would you have us believe
+this satellite is an excuse for your aggressive charge across the
+Neutral Zone? 
+PICARD: You can believe what you wish. We will be on our way. 
+TOMALAK [on viewscreen]: Without even an apology, Captain? 
+PICARD: If an apology will do, then I offer it. 
+TOMALAK [on viewscreen]: I'm afraid it won't, so I will save you the
+humiliation. 
+PICARD: Get to it, Tomalak. 
+TOMALAK [on viewscreen]: You see, Picard, after we dissect your
+Enterprise for every precious bit of information, I intend to display
+its broken hull in the centre of the Romulan capitol as a symbol of our
+victory. It will inspire our armies for generations
+to come, and serve as a warning to any other traitor who would create
+ripples of disloyalty. 
+GUEST2: All the communiqus, all the timetables, all the records. They
+were all fiction, written for my benefit. A test. A test of my loyalty.
+And you used me to lure the Enterprise into the Neutral Zone. 
+TOMALAK [on viewscreen]: First, Captain, you will return the traitor
+Jarok, then you will surrender as prisoners of war. 
+PICARD: Do you seriously expect me to accept those terms? 
+TOMALAK [on viewscreen]: No, Captain Picard, I expect you won't. You
+have thirty seconds to decide. 
+PICARD: I do not require one, Tomalak. 
+TOMALAK [on viewscreen]: I urge you, Captain Picard, surrender.
+Consider the men and women you would lead into a lost cause. 
+PICARD: If the cause is just and honourable, they are prepared to give
+their lives. Are you prepared to die today, Tomalak? 
+TOMALAK [on viewscreen]: I expected more from you than an idle threat,
+Picard. 
+PICARD: Then you shall have it. Mister Worf. 
+WORF: Aye, sir. 
+(Three mean Klingon vessels uncloak around the Enterprise and Romulans)
 
-COMPUTER: At Starfleet Command on Lya Three. 
-PICARD: Computer, key access four one two mark eight zero. Picard,
-Jean-Luc. Starfleet priority code Gamma. Decode. Begin message. 
-HADEN [on monitor]: Captain, we have received an official protest from
-the Romulan Empire demanding the return of your defector. Obviously, we
-are refusing to comply. I join in your scepticism, but if it is a
-deception, the Romulans are certainly making a good show of it. The
-Federation Council has convened in emergency session. There is no doubt
-in my mind that this will eventually fall on your shoulders, Jean-Luc.
-You've got him. You must decide if he's telling the truth. For now, I
-suggest you proceed along the Neutral Zone border toward a Federation
-position proximate to Nelvana Three. 
-PICARD: Picard to Lieutenant Worf. 
-WORF [OC]: Yes, Captain. 
-PICARD: Please come to my Ready room. 
-WORF [OC]: Aye, sir. On my way.
+WORF: Klingon warships armed and ready, sir. 
+PICARD: What shall it be, Tomalak? 
+TOMALAK [on viewscreen]: You will still not survive our assault. 
+PICARD: You will not survive ours. Shall we die together? 
+TOMALAK [on viewscreen]: I look forward to our next meeting, Captain. 
+WORF: Romulan disruptors powering down, sir. 
+(The warbirds cloak and leave) 
+PICARD: Cancel red alert. Mister Worf, will you extend the appreciation
+of the Federation and my personal gratitude to the Klingons. 
+WORF: Aye, sir. 
+PICARD: Take us back, Number One. 
+GUEST2: I did it for nothing. My home, my family. For nothing.
 

@@ -1,123 +1,66 @@
-TROI LAFORGE WORF PICARD RIKER COMPUTER CRUSHER DATA
-
-[Bridge]
-
-PICARD: Mister La Forge, set course zero five
-eight, mark one seven three. 
-LAFORGE: Laying it in, sir. 
-PICARD: Number One, I want a staff meeting on the observation deck. 
-LAFORGE: Captain, those coordinates will take us right into the Neutral
-Zone. 
-PICARD: That is correct, Mister La Forge. Warp factor eight. 
-LAFORGE: Aye, sir. Warp eight. 
-PICARD: Engage. 
-[Observation lounge]
-
-PICARD: Two Federation outposts in sector three
-zero have been destroyed. There's been no communication with Federation
-starbases in sector three one since stardate 41903.2. 
-WORF: Romulans. 
-PICARD: That's the assumption. 
-RIKER: There's been no direct contact with the Romulans since the Tomed
-Incident. 
-PICARD: The question are, why now? What's their objective? For fifty
-years there's barely a whisper out of them, and now for no apparent
-reason they seem to be back with a roar. 
-RIKER: Everything we know about them is based on rumour or conjecture. 
-PICARD: The strategic decision is to send one ship. 
-RIKER: The Enterprise. 
-WORF: We could get out there and find ourselves greatly over-matched. 
-PICARD: True enough. It's a gamble. 
-RIKER: This first encounter, coming so suddenly after all this time. We
-have to assume it's a setup. 
-PICARD: If force is necessary, we will use it, but that will mean we
-have failed. Our goal here is to establish some kind of relations with
-the Romulans. If we don't succeed, then to convince them of our
-resolve. The general feeling at Starfleet is that they are seeking a
-confrontation. They may want to test themselves in battle against a
-Federation starship. See how far we have advanced. If that is the case,
-then I need to know it. Counsellor, I shall need a full profile on
-them. 
-TROI: There is limited information, but I will prepare something. 
-PICARD: Computer, estimated arrival time at the Neutral Zone? 
-COMPUTER: Nineteen hours, twenty eight minutes. 
-PICARD: Let's reassemble in six hours. Stay sharp. No surprises. I
-would rather outthink them than outfight them. Questions?
+TROI GUEST3 GUEST0 RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
-PICARD: What is it, Doctor? 
-CRUSHER: It's the people from the capsule. 
-PICARD: Capsule? People? What people? 
-CRUSHER: The people Data beamed over. 
-PICARD: I wasn't aware that he had. 
-CRUSHER: Well he did, and they were frozen. I thawed them. 
-PICARD: You what? 
-CRUSHER: I didn't know what else to do. The crypts in which they were
-frozen were literally falling apart. 
-PICARD: So what's their condition? 
-CRUSHER: Right now, they are all sleeping. Each of them needed minor
-medical attention. Minor now, but then their conditions were obviously
-terminal. One had a heart problem, another had an advanced case of
-emphysema with extensive liver damage. You know the most surprising
-thing of all, is that each of them had been frozen after they died. 
-PICARD: After they died? 
-CRUSHER: Cryonics. It was a kind of fad in the late twentieth century.
-People feared dying. It terrified them. At the moment of death, they
-would be frozen, so that later, some time in the future, when
-presumably medical science had a cure for whatever killed them, they
-could be thawed back to life, healed, and sent on about their business.
+GUEST3: I just got to have a little something to
+jump start the morning, and a little something else to shut down the
+night. 
+CRUSHER: You have no medical need. 
+GUEST3: It ain't a question of need, darling. It's a matter of survival.
 
-PICARD: In the case of this group, it apparently worked. Mister Data,
-will you report to Sickbay.
+CRUSHER: Sorry. 
+GUEST3: Not to worry. Old Watosh'll scuffle along the best way he can.
+How do I get a hold of that feller with the strange looking face? 
+CRUSHER: I beg your pardon? 
+GUEST3: What's his name. That android fella. 
+CRUSHER: You mean Lieutenant Commander Data? 
+GUEST3: That's the one. 
+CRUSHER: I'll let him know you're looking for him. 
+GUEST3: Much obliged. You know, you're just about the prettiest little
+old Doctor I ever seen. 
+CRUSHER: Much obliged.
 
-[Bridge]
+[Clare's quarters]
 
-PICARD [OC]: Immediately. 
+(Family trees are whizzing across the screen) 
+GUEST0: This is amazing. It's all right here. 
+TROI: Ten generations of your progeny. 
+GUEST0: Everyone I've ever known is dead. Do you mind? I'd like to be
+alone. 
+TROI: No, not at all.
 
-[Sickbay]
+[Sonny's quarters]
 
-PICARD: Look, I am never critical of any member of
-my staff being curious, but it's just that the timing is so 
-DATA: I could not leave them there, Captain. The condition of their
-vehicle was deteriorating. 
-PICARD: But Data, they were already dead. I mean, what more could have
-happened to them? 
-DATA: I see your point, Captain, but at the time it seemed the proper
-thing to do. 
-PICARD: Well, they're alive now. We're going to have to treat them as
-living human beings. 
-CRUSHER: Alive and well and ready to be awakened. 
-PICARD: Before you wake them up, I want to have Security here.
-Lieutenant Worf, report to Sickbay. 
-CRUSHER: I have them sedated now, but they should be up and about as
-soon as possible. 
-PICARD: Well, then we have no other choice. 
-CRUSHER: None that I can see. 
-(Worf enters, and Beverly puts a hypo to the woman's neck. She wakes,
-sees Picard, then Beverly, and smiles. Then she starts to sit up, sees
-Worf, and faints) 
-PICARD: Welcome to the twenty fourth century. 
-DATA: I was able to retrieve some information from the ancient disk I
-removed from the module's computer. Her name is Clare Raymond, age
-thirty five, occupation homemaker. Must be some kind of construction
-work. 
-CRUSHER: She died of an embolism. It probably happened very suddenly,
-otherwise her physical condition was excellent. 
-(A nurse wakes Clare up, again) 
-DATA: His name is Ralph Offenhouse, age fifty five, occupation
-financier. 
-CRUSHER: Advanced cardiomyopathy. Inoperable at the time, but easily
-correctable now. He must have known his condition was terminal for
-quite some time. 
-(Ralph is woken) 
-DATA: Much of his file we could not retrieved. His name is L Q Sonny
-Clemonds. Apparently his occupation had something to do with music. 
-CRUSHER: There was marked deterioration of every system in his body.
-Probably from massive chemical abuse. Unbelievable. 
-PICARD: That sounds like someone who hated life. Yet he had himself
-frozen presumably so he could go through it all again. 
-CRUSHER: Too afraid to live, too scared to die. 
-PICARD: Doctor, this seems to be a situation more suited to your
-talents. I'll leave it with you. I'll be on the Bridge.
+(also with a model NCC1701) 
+DATA: You asked to see me. 
+GUEST3: Look, I'm about to go out of my mind for something to do. I
+mean, sitting here alone just don't get it. What say you and I put
+together a little party? 
+DATA: A celebration? 
+GUEST3: No, nothing that fancy. Just some folks, some suds, and some
+sounds. Hell, it ain't nothing but something to do. 
+DATA: I will speak to the Captain. 
+GUEST3: Great, you do that. 
+DATA: Inquiry. You do not seem to be having as much difficulty
+adjusting to your current circumstances as the others. 
+GUEST3: You mean being here on this tub four hundred years from where I
+started? Heck, it's the same dance, it's just a different tune. You
+think anybody here's got a guitar I could borrow? 
+DATA: No, but the computer can replicate such an instrument. 
+GUEST3: I was kind of hoping to get one while I still remember the
+chords. 
+RIKER [OC]: Commander Data, we are approaching the Neutral Zone. Report
+to the Bridge. 
+DATA: I must leave now. 
+GUEST3: What's this Neutral Zone? 
+DATA: It is a buffer between the Romulan Empire and the Federation. 
+GUEST3: Why does that make me nervous? 
+DATA: I do not know. 
+GUEST3: We won't be inviting these Romulans to our party, will we? 
+DATA: No, that would not be appropriate.
+
+Captain's log, supplemental. We have arrived at the
+edge of the Neutral Zone, where we will now have an opportunity to
+learn firsthand what happened to our distant outpost.
 

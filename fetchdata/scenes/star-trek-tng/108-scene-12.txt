@@ -1,45 +1,37 @@
-LAFORGE PICARD CHIEF SINGH CRUSHER DATA
+TROI WORF TASHA RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Crusher's office]
 
-(Beverly tiptoes to Geordi's station) 
-CRUSHER: This is the helm. 
-LAFORGE: Unless there have been some changes I don't know about. 
-PICARD: Doctor Crusher? 
-CRUSHER: You will wish to know Lieutenant Worf is much improved. Ready
-to return to duty. 
-PICARD: What was the diagnosis? 
-CRUSHER: A temporary mental aberration. 
-PICARD: Doctor, when such a diagnosis concerns a bridge officer, I
-expect a better explanation. 
-CRUSHER: Then I will first have to run some crosschecks on the library
-computer. Klingons are so unusual in their reactions, aren't they? 
-PICARD: Use Science Station two, Doctor. 
-(That's next to where Data is working) 
-DATA: Intriguing, Doctor. What does helm control have to do with
-medical crosschecks? 
-(Unseen by him, the blue energy leaves Beverly and enters the computer.
-She is disoriented) 
-CRUSHER: Why am I? 
-DATA: Is something wrong, Doctor? 
-PICARD: Doctor, are you all right? 
-CRUSHER: Yes. Yes. I'll do my work in my office. That's where I should
-be. 
-PICARD: Do you want someone to accompany you? 
-(Beverly shakes her head and enters the turbolift) 
-DATA: Captain? There is a malfunction in this station. I cannot bring
-any information up on it. Science two does not function either, sir. 
-SINGH [OC]: Engineering to Captain Picard. 
-[Engineering]
+WORF: You wanted me, Doctor? 
+CRUSHER: Yes, concerning your memory blackout. 
+WORF: I still don't remember having one. 
+CRUSHER: The same thing happened to me. 
+TROI: I want to try hypnosis on both of you. It may restore your memory
+as to what happened. 
+[Observation lounge]
 
-SINGH: We have something wrong with warp drive
-circuitry, sir. 
-[Bridge]
-
-CHIEF [OC]: Transporter room six to Bridge.
-Reporting transporter console malfunction, sir. 
-PICARD: Data, this ship is less than a year out of Spacedock. What are
-the chances of this occurring? 
-DATA: It is a virtual impossibility, sir. 
-PICARD: So what the hell is going on here?
+TASHA: One thing is clear. Almost all of the peace
+delegates answered our questions with lies. 
+DATA: (smoking a meerschaum pipe) Imprecise, Lieutenant. They omitted
+certain truths, which in itself tells us something. 
+TASHA: We can learn something from non-disclosure? 
+DATA: Indubitably, my good woman. 
+RIKER: It's something the Captain mentioned. Sherlock Holmes.
+Indubitably, Data has been studying him. 
+DATA: Has studied, sir. Every case. As Holmes would've pointed out,
+during the time in question, something was afoot. 
+TASHA: Afoot? 
+DATA: While both sets of delegates say they were in their quarters, our
+crew locator sensed them passing here and here. 
+TASHA: But since it doesn't show where they went, we're still in the
+dark. 
+DATA: On the contrary, dear colleague. On their return, they drew
+medical supplies appropriate to the treatment of minor wounds and
+abrasions on these life forms. 
+RIKER: Which, leaves us with only one conclusion. 
+DATA: Exactly. That they were too engaged in their own affairs to have
+disabled our ship and murdered the Engineer. Given a choice, they'd
+rather kill each other than any of us. It's elementary, my dear Riker.
+Sir.
 

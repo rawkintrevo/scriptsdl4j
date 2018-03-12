@@ -1,179 +1,84 @@
-RIKER ISABELLA LAFORGE WORF PICARD CLARA TROI SUTTER GUINAN DATA
+RIKER GUEST0 LAFORGE WORF PICARD CLARA DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Bridge]
 
-LAFORGE: I don't have an explanation, Captain. We
-seemed to hit something, then we started losing speed. So far as we can
-tell, there's nothing out there to hit. 
-RIKER: Could some kind of damping field have caused us to lose
-velocity? 
-DATA: We have simulated several such fields, but were unable to
-reproduce the same drag coefficient. 
-LAFORGE: And we still don't know why the problem suddenly corrected
-itself. 
-PICARD: It seems we're looking a unique phenomenon. One that hasn't
-been recorded before. 
-LAFORGE: The question is, do we stay here and check it out? 
-RIKER: Might be dangerous. 
-DATA: Since we have only experienced the phenomenon once, it is
-impossible to estimate the risks. 
-LAFORGE: Captain, I'd like to stay here for a little bit, collect some
-samples of the gaseous matter, see what it tells us. 
-PICARD: Agreed. Collect your samples, Mister La Forge. We'll proceed
-with caution. Dismissed.
+PICARD: Report. 
+RIKER: Our speed is down by twenty two percent. 
+LAFORGE: Strand density is ten times what it was, Captain. We can't
+take many more of these hits. 
+PICARD: All stop. 
+WORF: Sir, something is heading toward us, bearing one oh three mark oh
+two four. 
+PICARD: On screen. 
+(it's a firefly) 
+DATA: It appears to be an energy vortex of highly complex patterns.
+Possibly a life form. 
+RIKER: Red alert. 
+DATA: It is in direct physical contact with our shields. 
+WORF: Shield strength dropping to seventy five percent. Seventy two
+percent. 
+RIKER: The damn thing's feeding off our shields. Mister Data,
+remodulate our shield frequencies. 
+DATA: Aye, sir. No effect. 
+(more fireflies turn up) 
+WORF: Shield strength has dropped to sixty four percent. 
+LAFORGE: We've got about eight minutes before this thing drains our
+shields. 
+RIKER: Any ideas?
 
-[Corridor]
+[Arboretum]
 
-ISABELLA: What's in here? 
-CLARA: That's the door to the cargo bay. We can't go in there. 
-ISABELLA: Let's go someplace with a lot of people. 
-CLARA: Okay. Isabella, why are you so serious lately? 
-ISABELLA: What do you mean? 
-CLARA: You haven't even smiled once today. 
-(Isabella attempts a smile, and feels her face to find out what it's
-like) 
-CLARA: You're my best friend, Isabella. 
-ISABELLA: Why? 
-CLARA: I don't know. Because we do things together and we trade
-secrets. 
-ISABELLA: Does everybody have a best friend? 
-CLARA: If they're lucky. Before I had you, I didn't have one. 
-ISABELLA: Why not? 
-CLARA: Every time I made friends with someone, my daddy's job would
-change and we'd move to a new ship. It takes time to make a best
-friend. 
-ISABELLA: How long? 
-CLARA: It depends. With you, not very long. You always listened to me,
-even when I was sad. 
-ISABELLA: Clara, I'm glad we're best friends. 
-CLARA: Race you. 
-ISABELLA: Okay. 
-CLARA: Ready, set, go! 
-(and they run around the corner straight into -) 
-WORF: This area is not designated for children. Are you lost? Where are
-you supposed to be? 
-CLARA: We were only playing. We're sorry. 
-WORF: Return to your quarters, and we will forget this incident. 
-CLARA: Thank you. Come on. 
-(Clara takes Isabella's hand and they go back around the corner. Once
-Worf is gone, they return and run on )
-
-[Engineering]
-
-LAFORGE: Okay, I've configured the magnetic coil to
-collect samples of gaseous matter from the nebula. Go ahead and
-activate the beam emitter. 
-SUTTER: I'm setting the fractionater to a continuous cycle. 
-LAFORGE: We'll take samples from eight random sections. That ought to
-give us a reliable measure. 
-SUTTER: Commander, I understand that you had a parent who was in
-Starfleet. 
-LAFORGE: Two of them, as a matter of fact. My father was an
-exozoologist, my mother a Command officer. 
-SUTTER: They must have been posted to a lot of different assignments. 
-LAFORGE: That's putting it mildly. They were always on the move. Some
-of the time together, sometimes separately. I never knew whether or not
-I was going to be stationed with my father while he studied
-invertebrates in the Modean system or on some outpost near the Neutral
-Zone with my mom. 
-SUTTER: Was that hard on you? 
-LAFORGE: I don't remember it that way. 
-SUTTER: It must have been disruptive if you didn't stay in one place
-long enough to make friends. 
-LAFORGE: Well, I suppose there were aspects of my childhood that were
-less than ideal, but to me it was just one long adventure. Children are
-a lot stronger than you think. As long as they know you love them, they
-can handle just about anything life throws at them, you know. 
-SUTTER: Thanks, Commander.
-
-[Ten Forward]
-
-(Data and Guinan are looking at the nebula) 
-GUINAN: It's a Samarian coral fish with its fin unfolded. 
-DATA: I believe what you are seeing is the effect of the fluid dynamic
-processes inherent in the large scale motion of highly rarified gas. 
-GUINAN: No, no. First it was a fish, and now it's a Mintonian sailing
-ship. 
-DATA: Where? 
-GUINAN: Right there. Don't you see the two swirls coming together to
-form the mast? 
-DATA: I do not see it. It is interesting that people try to find
-meaningful patterns in things that are essentially
-random. I have noticed that the images they perceive sometimes suggest
-what they are thinking about at that particular moment. Besides, it is
-clearly a bunny rabbit. 
-(Clara enters) 
-GUINAN: Looks as though someone's lost their way. Excuse me. Hello. Are
-you looking for someone? 
-CLARA: No. I brought Isabella to see Ten Forward. 
-GUINAN: Oh, I see. Well, ordinarily we would only let you in with a
-grown-up, but since you've brought Isabella, you can be my guest. Won't
-you join me? 
-CLARA: Thank you. 
-GUINAN: Now, how about two Papalla juices with extra bubbles. 
-CLARA: Just one, please. Isabella isn't thirsty. 
-GUINAN: One juice. 
-CLARA: You're not like the other grown-ups. 
-GUINAN: Oh, no? 
-CLARA: They don't think Isabella's real. 
-GUINAN: Well, most grown-ups have a hard time with things they can't
-see. 
-CLARA: Why? 
-GUINAN: Well, because they get preoccupied by other things. 
-CLARA: Like what? 
-GUINAN: Like how much fuel it takes to power a ship, or whether we
-should go to one star system or another, or whether little girls should
-go to bed at seven or be
-allowed to stay up till eight. So their heads can get so full that they
-forget about the things that are important to you and me, like
-imaginary friends. 
-CLARA: If the other grown-ups don't understand, how come you do? 
-GUINAN: Maybe because when I was your age, I had one. 
-CLARA: You did? What was she like? 
-GUINAN: It wasn't a she. 
-CLARA: What was he like? 
-GUINAN: It wasn't a he. 
-CLARA: It? 
-GUINAN: It was a Tarkassian razor beast. It had dark brown fur and gold
-eyes and huge spiny wings, and it would fly so fast nobody could see it
-except me. 
-CLARA: Sounds scary. 
-GUINAN: Oh, it was, especially when he smiled. But the best thing about
-him was I could curl up on his furry belly, and he had the softest purr
-you ever heard. It put me right to sleep every night. I tell you, that
-razorbeast was a good friend. 
-CLARA: So is Isabella. 
-(Troi enters) 
-TROI: Hello, Clara. 
-CLARA: Hello. 
-GUINAN: Clara and Isabella and I were just having a conversation. 
-TROI: Would you and Isabella like to come for a walk with me? 
-CLARA: I guess so. Bye. 
-GUINAN: Bye, Clara. Bye, Isabella.
-
-[Corridor]
-
-TROI: Clara, you haven't been on this she very
-long, so maybe you don't know, but Ten Forward is usually for
-grown-ups. 
-CLARA: I know that. I didn't want to go, but Isabella wanted to see it.
-
-TROI: If Isabella is making you do things you know are wrong, then you
-must tell her it's not acceptable. 
-CLARA: I try to but she doesn't listen.
-
-[Turbolift]
-
-TROI: Deck thirty two. Clara, do you want me to
-talk to Isabella? 
-(Clara shrugs) 
-TROI: Isabella, it's not very nice to get Clara to do things that she
-isn't supposed to. 
-CLARA: She's over there. 
-TROI: From now on I want you to ask a grown-up before you go to any
-place that is off-limits. 
-TROI: What does she say? 
-CLARA: She said. 
-TROI: Clara, please tell me what Isabella said. 
-CLARA: She said, you'd better leave us alone.
-
+(Picard, Sutter, Clara and Worf enter) 
+CLARA: Isabella? Isabella? Don't you want to talk to me? I'm not mad at
+you. Isabella? 
+PICARD: We know you've been on this ship for some time now, and that
+you're posing as Clara's friend, and that you've been threatening her.
+We can only assume that there is some connection between yourself and
+the life forms attacking this ship. You're obviously an intelligent
+being. There's no reason to hide from us. Talk to us. Or can you only
+communicate by threatening a small child? 
+CLARA: I'm scared, Isabella. 
+(Isabella appears) 
+PICARD: Who are you? 
+GUEST0: I came here to determine whether you were a threat to us, and
+to examine the purity of your energy sources. 
+PICARD: Energy? Is that why you're draining our shields? 
+GUEST0: Yes. The emissions from your graviton field generators are
+far richer than our normal sources of energy. 
+(big shudder and light flicker) 
+PICARD: Picard to Bridge. Report. 
+RIKER [OC]: Shields are down to three percent. We're diverting all
+available power. 
+PICARD: Acknowledged. If it's energy that you want, we have other ways
+of providing it. You needn't destroy us. 
+GUEST0: You should be destroyed. You are cruel, uncaring creatures. 
+PICARD: What makes you say that? 
+GUEST0: The way you treat Clara. 
+PICARD: In what way have we mistreated her? 
+GUEST0: You wouldn't let her do what she wanted to, or go where she
+wanted to. 
+PICARD: You mean where you wanted her to. 
+GUEST0: What difference does it make? 
+PICARD: You were taking her to places that were inappropriate, even
+dangerous. 
+GUEST0: I wouldn't have let anything happen to her. 
+PICARD: We didn't know that. We didn't even know if you were real. All
+we knew was that a little girl's imaginary friend was frightening her,
+threatening her. 
+GUEST0: That was only after you told Clara not to be my friend. 
+PICARD: I understand. You are seeing this ship, all of us, from a
+unique perspective. From a child's point of view. It must seem terribly
+unfair and restrictive to you. As adults, we don't always stop to
+consider how everything we say and do shapes the impressions of young
+people. But if you're judging us as a people by the way we treat our
+children, and I think there can be better criterion, then you must
+understand how deeply we care for them. When our children are young,
+they don't understand what might be dangerous. Our rules are to keep
+them from harm, real or imagined, and that's part of the continuity of
+our human species. When Clara grows up, she will make rules for her
+children to protect them, as we protect her. 
+CLARA: Please don't hurt us. If you still want to be my best friend,
+I'd like that very much. 
+(Isabella turns into a firefly and sails away, taking all the other
+fireflies with her) 

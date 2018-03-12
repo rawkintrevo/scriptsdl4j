@@ -1,84 +1,52 @@
-PICARD DIRGO WESLEY
+TROI LAFORGE WORF DATA RIKER COMPUTER CRUSHER ALLENBY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Moon's surface]
+[Sickbay]
 
-(They've fashioned headdresses for themselves, and
-Wesley is working in the shadow of the shuttle) 
-PICARD: Any luck with the tricorder, Ensign? 
-WESLEY: I think so, sir. The scanning range may be a bit limited, but
-it's better than nothing. 
-DIRGO: These were on board, Captain. They're working. 
-(weapons, on makeshift belts) 
-PICARD: Excellent. Our communicators may not be able to get a signal
-through this strong a magnetic field. I'm fashioning an arrow. If a
-search party finds the wreckage, they'll know we've headed for those
-mountains. 
-(using brittle debris to make the pointer on the sand) 
-DIRGO: Are you crazy? They're too far away. We'll never make it. 
-PICARD: We can't survive in this sun. Where there's mountains, there's
-shelter. 
-DIRGO: You've got no right to make the decisions. I'm the captain of
-this ship. 
-WESLEY: If you want to get out of this, I suggest you listen to Captain
-Picard. He's the one who's going to keep us alive. 
-PICARD: Thank you, Ensign, that's enough. Captain Dirgo, you're an able
-pilot. I welcome your input. Do you feel that there is an alternative
-we're overlooking? 
-DIRGO: No. 
-PICARD: Very well. I suggest a steady pace, not a brisk one. We need to
-ration our energy. Try breathing through your nose. That way it will
-help to prevent dehydration. I'll lead. Captain Dirgo, will you bring
-up the rear? 
-(Dirgo says farewell to his ship, picks up the medical bag and off they
-trudge) 
-(Dirgo is the first one to stumble in the heat) 
-WESLEY: And you were worried about how tough the Captain is? 
-(Wesley walks off, and Dirgo takes a swig from a concealed bottle) 
-(the mountains are a lot closer now) 
-DIRGO: Did you find water? 
-WESLEY: No, not yet. 
-DIRGO: What are you doing with that? 
-PICARD: Mister Crusher? 
-WESLEY: I'm not sure, sir. It's an energy reading. 
-PICARD: Energy reading? What kind? 
-WESLEY: Low frequency EM. It's been getting stronger the closer we get
-to those mountains. 
-DIRGO: What are you saying? Is something over there, waiting for us? 
-WESLEY: I'm not sure what it is. It just keeps registers as a repeating
-energy pattern. 
-PICARD: Ensign, are you suggesting this energy is not naturally
-occurring? 
-WESLEY: The readings could be indicative of some electromagnetic
-properties in the rocks, but I don't think so. 
-PICARD: A life form? 
-WESLEY: It's possible. The pattern is fairly organised. 
-PICARD: Well, we can't go back and we can't stay here. We've got to
-keep going for the mountains. No matter what is waiting there.
+CRUSHER: We're projecting that the bulk of the
+radiation will affect three small island groups. Fortunately, they're
+very sparsely populated. We'll begin replicating hyronalin now and be
+ready to transport it to them if it becomes necessary. Please
+coordinate with all the medical personnel on the planet. 
+TROI: Beverly? We've contacted the nearest Starbase for a search
+vessel. I'm afraid the closest one is almost a week away. 
+CRUSHER: I see. Thank you. 
+TROI: But we have asked the mining settlement to send any vessels they
+might have. You know, there are many reasons why the shuttlecraft may
+have been delayed. 
+CRUSHER: Deanna, thank you, but I'm all right. And for now, I have work
+to do.
 
-[Cave entrance]
+[Bridge]
 
-(the ceiling is high, there is a wonderfully even
-flight of steps down, and Picard is carrying the medical supplies) 
-DIRGO: There has to be water in here. Aren't caves formed by water? 
-PICARD: Not necessarily. This could be created by volcanic activity.
-Lava flows. These walls are dry, Mister Crusher, do you have any
-moisture reading? 
-WESLEY: No, sir. But that EM reading? The pattern's changed. The
-frequency's peaking a lot higher. 
-(Dirgo accidentally drops his bottle while undoing his tunic) 
-WESLEY: You have water! 
-DIRGO: I wouldn't hide water. That's called dresci. It's from my
-planet. 
-PICARD: It's alcohol. 
-DIRGO: It's medicinal. It's for emergencies. I was going to share it
-with you. 
-PICARD: This wouldn't quench your thirst, it would make it worse. 
-DIRGO: I'll take my chances. 
-PICARD: I'm not going to let you waste this. This is more valuable to
-us as a coolant or disinfectant. 
-DIRGO: It's mine. 
-PICARD: Mister Crusher, stow that with the medical supplies. Keep your
-eye on it. All right, we're going to explore the cave. Mister Crusher,
-look for any signs of water, no matter how faint. Captain Dirgo, will
-you lead the way?
+WORF: Commander, the miners report that they have
+very few operable shuttlecraft. They want to know when we will be
+joining the search. 
+RIKER: Tell them to stand by. If this works, we'll be on our way. 
+WORF: Aye, sir. 
+LAFORGE: Thrusters are attached and ready, Commander. 
+RIKER: Initiate prefire sequence. 
+LAFORGE: Prefire command transmitted. Thrusters to standby. 
+RIKER: Fire thrusters. Gradual acceleration to forty percent power. 
+(The scow begins to move, but one thruster flies off on its own) 
+LAFORGE: We've lost one module. Correcting thrust vectors to
+compensate. 
+DATA: Structural integrity of the barge has been compromised.
+Disintegration is continuing. 
+RIKER: Shut down thrusters. Ensign, take us to one thousand metres
+ahead of the barge and hold. 
+DATA: External radiation levels increasing, sir. 
+ALLENBY: Coming into position at one thousand metres. 
+RIKER: Worf, extend shields around the ship. Lock on the tractor beam. 
+WORF: Aye, sir. 
+COMPUTER: Warning. Radiation levels at seventy millirads per minute and
+rising. 
+RIKER: Allenby, set a new course. We'll take it through the asteroid
+belt ourselves. One quarter impulse. 
+ALLENBY: Aye, sir. 
+RIKER: Doctor Crusher to the Bridge. 
+CRUSHER [OC]: On my way. 
+RIKER: Mister Data, I'll a projection of the radiation's impact on the
+crew. Mister Worf, contact the mining settlement. Tell them we won't be
+joining the search for awhile.
 

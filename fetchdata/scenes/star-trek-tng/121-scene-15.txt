@@ -1,87 +1,36 @@
-RIKER RICE TASHA PICARD TSU DATA
+TASHA PICARD RIKER GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jungle]
+[Cavern]
 
-RIKER: I can't see anything through here. The
-underbrush is too thick. 
-RICE: Hello. Commander Riker. 
-RIKER: Rice! Where did you come from? 
-RICE: I was over there. 
-RIKER: We were worried about you. I should have known you'd pop up. 
-RICE: How are you, Commander Riker? 
-RIKER: Me? Forget about me. How are you? No word, no message, nothing. 
-RICE: How many are with you? 
-RIKER: There are two others. Where's the Drake? Where's your crew? 
-PICARD [OC]: Number One, a word. We have some information you should be
-aware of.
+PICARD: That sound again. 
+DATA: Another weapon has been launched, sir. 
+PICARD: We've got to find some way to stop this system. 
+DATA: I would need to see the programme schematic. 
+GUEST0: You've got it. 
+PICARD: Is it possible to re-adjust the targeting sequence? 
+GUEST0: Absolutely. It wouldn't be much good without it. 
+PICARD: Data, assign it a neutral target. 
+DATA: The target must be specific, sir. 
+PICARD: Itself, then. Itself or it's own power source. 
+DATA: The force of that explosion would destroy this cavern and
+everyone on the surface. 
+GUEST0: Watch now. This is the fourth and final projectile. The Echo
+Papa series Six Oh Seven is about to complete this phase of its
+mission.
 
-[Bridge]
+[Planet Surface]
 
-PICARD: Ensign T'Su?
-T'SU: Sensors indicate low level energy readings, but the only life
-signs are the away team. 
-PICARD: You copy, Number One? 
-[Jungle]
-
-RIKER: Understood. You look strange, Paul. 
-RICE: I was injured getting here. 
-(Tasha and Data arrive) 
-RIKER: Do you need medical help? 
-RICE: No. What's your purpose here? 
-RIKER: Commander Data, Lieutenant Yar. 
-DATA: Sir, other than ourselves, I am picking up no life signs here. 
-RIKER: I know. 
-RICE: Riker, you didn't answer me. Who sent you here to look for me? 
-RIKER: Your mother. She's worried about you. 
-RICE: Tell me about your ship, Riker. It's the Enterprise, isn't it? 
-RIKER: No. The name of my ship is the Lollipop. 
-RICE: I have no knowledge of that ship. 
-RIKER: It's just been commissioned. It's a good ship. 
-RICE: Refresh me, would you, Riker? What's its size, it's complement? 
-RIKER: Who is here with you? 
-RICE: What's the armament on the Lollipop? 
-RIKER: Paul, I will only answer your questions if you answer mine. Why
-do you want to know so much about my ship? 
-RICE: We're friends, aren't we? 
-RIKER: Old friends. 
-RICE: Our top speed is warp three. What's yours? 
-RIKER: Is? Then the Drake has not been destroyed. 
-RICE: The Drake? 
-RIKER: Yes, your ship. 
-RICE: Of course, my ship is the Drake. 
-RIKER: Where is it? 
-RICE: Classified. 
-RIKER: Classified? 
-RICE: Please, it's important. Our survival depends on knowing. What's
-the armament on your ship? 
-RIKER: Ten. 
-RICE: Ten? I don't understand. Ten what? 
-RIKER: Six. 
-RICE: Commander Riker, your answers make no sense. 
-RIKER: You haven't used my first name once, Paul. You remember it,
-don't you? You don't, do you? Because you don't exist. You're a fake.
-You're an image of the original, aren't you? Answer me! 
-(Paul Rice disappears and a flying machine appears) 
-PICARD [OC]: Report, Number One. 
-RIKER: The image of Rice has been replaced by something which is
-hovering several metres away.
-
-[Bridge]
-
-PICARD: Number One, get your team back up here.
-
-[Jungle]
-
-RIKER: Prepare to beam up. 
-(The device envelopes Riker with a green field) 
-TASHA: Commander! 
-(Tasha destroys it with her phaser but the field remains) 
-[Bridge]
-
-PICARD: What's happened, Number One? Report.
-Report! Report! 
-[Jungle]
-
-TASHA: He can't answer you, Captain. 
-DATA: Commander Riker just has been encased in some kind of energy
-field. 
+TASHA: We could split up. 
+RIKER: What good would that do? 
+TASHA: Confuse it, delay it. Something. 
+RIKER: It would still get us. It would just take a little longer. 
+TASHA: It might give one of us long enough to get out of range. 
+RIKER: Out of range? 
+TASHA: Forget I said it. These devices wiped out an entire planet. I
+don't think it has a range. 
+RIKER: Then what does that leave us? Right. That's what I thought. 
+(a blast behind them) 
+TASHA: On the other hand, we could look for deeper cover. 
+RIKER: You got any ideas? 
+TASHA: None. 

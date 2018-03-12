@@ -1,46 +1,56 @@
-RIKER CREWMAN PICARD STUBBS WESLEY DATA
+RIKER LAFORGE WORF PICARD STUBBS WESLEY COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Laboratory]
-
-WESLEY: I'm very sorry. I'll be right there. this.
-
-Captain's log, Stardate 43125.8. We have entered a
-spectacular binary star system in the Kavis Alpha sector on a most
-critical mission of astro-physical research. Our eminent guest, Doctor
-Paul Stubbs, will attempt to study the decay of neutronium expelled at
-relativistic speeds by a massive stellar explosion which will occur
-here in a matter of hours. 
-[Bridge]
-
-(Wesley dashes in and takes his seat) 
-RIKER: Ensign, our position. 
-WESLEY: Approaching one million kilometres from the neutron star, sir. 
-RIKER: Slow to one third impulse power. 
-STUBBS: (wearing the C24 equivalent of corduroy) Spectacular, isn't it,
-my young friend? 
-WESLEY: Yes sir. 
-STUBBS: Over and over again, the intense gravitational pull of the
-little neutron star sucks up the star material from the red giant, and
-it builds up on the surface until it explodes, every one hundred and
-ninety six years. Like clockwork. And it is but eighteen hours away. 
-DATA: Eighteen hours, seven minutes, and ten seconds, Doctor. 
-STUBBS: The interstellar counterpart to Earth's Old Faithful. The only
-predictable burst of energy in the universe that can accomplish our
-goal. 
-(Picard enters) 
-PICARD: Doctor Stubbs, if you would like to make one final inspection
-of the unit. 
-STUBBS: Captain, I've been inspecting the Egg for the last twenty
-years. You may lay it when ready. 
-PICARD: Begin launch sequence. 
-RIKER: Shuttlebay two, stand-by to launch the Egg. 
 [Shuttlebay]
 
-CREWMAN: Standing by, Commander. 
+STUBBS: No cracks in the armour. We'll do just
+fine. 
+WESLEY: How can you be so calm about this? If I was about to make this
+kind of breakthrough 
+STUBBS: I have never doubted for a moment that this day would come,
+Wesley. And I suspect that some day it will come for you as well. I see
+a lot of me in you. In my youth, they called me a vunderkind. Do you
+understand vunderkind? 
+WESLEY: It's German, isn't it? 
+STUBBS: It means wonder child. It is reserved for those of us who
+achieve early in life. Now the burden is yours. 
+WESLEY: Burden? 
+STUBBS: To fulfill your potential. You will never come up against a
+greater adversary than your own potential, my young friend. 
+WESLEY: Red Alert. Return to quarters immediately.
+
 [Bridge]
 
-DATA: Five minutes to launch site. 
-(There's a sudden jolt. Stubbs gets thrown against a bulkhead) 
-PICARD: Stabilise. 
-WESLEY: The ship isn't responding, sir. 
-PICARD: Engineering. 
+PICARD: Still no visual contact. That's impossible.
+Mister Worf, same magnification fifty degrees starboard. 
+RIKER: Worf, you're absolutely sure? 
+WORF: Sensors clearly indicate the approach of a Borg vessel. 
+RIKER: Shields up. 
+WORF: Shields are not responding. 
+LAFORGE: Manual override is jammed. It's not going to work this time.
+We don't have the shields, Captain. 
+WORF: Captain, they're firing energy weapons at us. 
+PICARD: Evasive action. 
+RIKER: Bring her round to two seven five mark three. 
+PICARD: Predict current vector of Borg ship. 
+WORF: Vector. Is gone. And so is the Borg vessel. 
+PICARD: You're telling me this is another computer glitch? 
+DATA: It is conceivable that he was viewing a synthetically generated
+image, sir. 
+RIKER: That our computer was daydreaming? 
+(The ship shakes and the doors start opening and closing rapidly) 
+PICARD: Computer, identify malfunction immediately. 
+COMPUTER: Pawn to Bishop Four. Knight to King's Rook Three. Bishop to
+Queen's Bishop Four. Knight to Knight Five. Queen's Knight to King Two.
+
+DATA: Controls are not responding, sir. 
+COMPUTER: Queen to Bishop Three. Bishop to Bishop Two. LAFORGE: Impulse
+engines are down. 
+RIKER: Try warp engines. 
+LAFORGE: No. Sorry, Commander. I'd better get back to Engineering 
+PICARD: Mister La Forge, I want Lieutenant Worf to accompany you. Get
+me a full report on the prospects of getting our shields back. Number
+One, Mister Data, will you join me in the conference room as soon as
+possible. It's time to discuss the future of this mission, if there
+still is one.
+

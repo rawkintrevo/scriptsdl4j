@@ -1,47 +1,43 @@
-TROI LAFORGE WORF PICARD RIKER RO DATA
+PICARD RIKER RO DATA TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttle]
+[Corridor]
 
-PICARD [OC]: Enterprise to shuttle, please respond.
+PICARD: So what happened down there? 
+RIKER: It was just one hell of a storm. It moved in on our position
+faster than anything I've ever seen. 
+PICARD: Was there any evidence of life? 
+[Turbolift]
 
-RIKER: Hold on! We're going down. 
-DATA: Initiating emergency landing procedures. 
-RIKER: Maintain the approach attitude, Data. I'm taking her in. Brace
-for impact. 
+RIKER: No, but if Troi was right, we were very
+close to it. 
+PICARD: Bridge. How do you suggest we proceed? 
+RIKER: We need to adjust the scanners so they can penetrate those
+storms. Do you have any ideas, Data? 
+DATA: We might be able to employ virtual imaging to interpolate
+(metallic sound) missing data. 
+PICARD: Is something wrong, Commander?
+
+DATA: My apologies. It seems my primary speech processors are
+experiencing a minor fluctuation. I will have it corrected in a moment.
+
 [Bridge]
 
-RO: The shuttle has crashed on the surface. 
-PICARD: Do we have their position? 
-WORF: I am picking up the shuttle's trace signature, but the surface
-interference is distorting its position. 
-PICARD: Can you locate them? 
-RO: I think I can. I followed their entry almost all the way in. We can
-calculate the coordinates from the angle of descent. 
-[Moon surface]
+TROI: Captain, may I speak with you a moment in
+private? 
+PICARD: Of course. You have the Bridge, Number One. 
+RIKER: Mister Data, deploy sensor scans when you're ready. Ensign, take
+us to a synchronous orbit aligned around our crash site. 
+(Picard and Troi leave) 
+RO: Aye, sir. 
+DATA: Sir, given the EM field properties of this moon, I recommend a
+search pattern beginning in the southern polar region. 
+RIKER: The polar region? That would be starting from scratch, Mister
+Data. Our latest
+readings would suggest that we begin our scan around our crash site. 
+DATA: The Essex signal was never clearly located, sir. A systematic
+survey of the moon from a polar orbit might be more practical. 
+RIKER: Well, you might be right, but I'd like to give the crash site a
+once over first. Maintain our current orbit. 
+DATA: Understood, sir.
 
-(an explosive charge blows off the rear emergency
-hatch) 
-TROI: Your arm. 
-RIKER: Yeah, I'm pretty sure that's broken. Enterprise? 
-DATA: It is unlikely that we will be able to establish communication
-with the ship, given the electromagnetic interference. 
-RIKER: We'll stay in the area until the Enterprise finds us. Take an
-inventory of the shuttle. See if there's anything left in there that's
-usable. The ground cover is all non-porous rock, which makes me believe
-it's even less likely there's anyone living here. 
-DATA: There are no instruments left of practical value that have not
-been damaged by our landing, sir. 
-TROI: What is that? 
-RIKER: That doesn't look like any storm front I've ever seen. 
-DATA: The tricorder is picking up high levels of EM bursts across the
-spectrum. No lifesign readings other than our own. 
-TROI: There is someone alive here. I'm more certain of it now than
-ever. 
-RIKER: Well, I hope they can find us, because there's no way we'll find
-them. 
-TROI: They're coming. They're coming with the storm. 
-[Transporter room]
-
-LAFORGE: We can't get a pattern lock on their
-communicators because of the EM bursts, Captain. There's no way we can
-beam them out of there, not under these conditions. 

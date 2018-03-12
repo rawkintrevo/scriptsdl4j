@@ -1,84 +1,40 @@
-TROI LAFORGE WORF PICARD SALIA RIKER WESLEY DATA ANYA
-
-[Bridge]
-
-PICARD: How much time will these adjustments
-require, Lieutenant? 
-LAFORGE [OC]: A couple of hours, sir. 
-RIKER: Proceed, Lieutenant La Forge. Standard orbit, Ensign.
+WESLEY COMPUTER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-LAFORGE: Wes, I'm going to need an SCM model three,
-from ship's stores. Can you handle that? 
-WESLEY: Right away. 
-LAFORGE: All right. 
-[Bridge]
-
-(The planet on the viewscreen is a pale mustard
-colour) 
-PICARD: Magnify, Mister Worf. Hardly an inviting planet, even for a
-research establishment. 
-TROI: I would have thought the inhabitants of Daled Four would send a
-future leader to a more hospitable environment. 
-WORF: For some, security is more important than comfort. 
-TROI: Yes, but sixteen years. 
-WORF: Captain, we're being hailed. 
-PICARD: Hailing frequencies, Mister Worf. 
-WORF: Open. 
-PICARD: This is Captain Picard of the USS Enterprise. 
-ANYA [OC]: (very faint and static-ridden) I am Anya of 
-DATA: Sir, the planet's troposphere is distorting our signal. 
-PICARD: Can you clean that up, Mister Worf? 
-WORF: I'll try. Now. 
-PICARD: This is Picard of the Enterprise. Please will you repeat your
-message? 
-ANYA [OC]: I am Anya. Have you come for Salia of Daled Four? 
-PICARD: That is correct. 
-ANYA [OC]: What species are you? 
-PICARD: Human. 
-ANYA [OC]: Excellent. Bring us aboard. That is all. 
-RIKER: Friendly, isn't she? 
-PICARD: Friendly or not, Salia has the rank of head of state, so we
-will treat her and Anya accordingly. Number One, Mister Worf, let's go
-greet our visitors. You have the Bridge, Mister Data. 
-DATA: Aye, sir.
-
-[Transporter room]
-
-(O'Brien beams a young woman and her older
-chaperone aboard. No luggage) 
-PICARD: Welcome to the Enterprise. I'm Captain Picard. 
-ANYA: This is Salia of Daled Four. 
-SALIA: I didn't feel a thing. Is that normal when one is transported,
-Captain? 
-PICARD: Oh, yes, it is. 
-SALIA: Those must be the matter energy conversion controls. May I take
-a look? 
-PICARD: Yes, of course. 
-RIKER: I can arrange for a tour of the ship, if you'd like. 
-SALIA: Oh, I'd love that. 
-ANYA: No, that will not be necessary. Just show us to our quarters,
-Captain Picard. 
-PICARD: Very well.
-
-[Corridor]
-
-PICARD: We're accommodating you in quarters
-normally reserved for Starfleet admiralty. I'm sure you'll find them
-quite comfortable. 
-(Wesley exits a turbolift as the party passes. The universe stands
-still as Salia smiles at him, then turns back to speak) 
-SALIA: That's a superconducting magnet, isn't it? 
-WESLEY: Yes It's an SCM model. How did you know that? 
-SALIA: Study, for the last sixteen years it is all I could 
-ANYA: Please, Salia, walk ahead with me. 
-SALIA: Better be careful. Those can rip the iron right out of your
-blood cells. 
-(The party moves on, minus Riker) 
-WESLEY: Commander, who is she? 
-RIKER: I think she's a governess. 
-WESLEY: No! The girl. 
-RIKER: I don't know if she'll have time for you, Wes. She's destined to
-rule an entire world.
+LAFORGE: Energy depletion level? 
+COMPUTER: (male) Point oh four percent and increasing. 
+LAFORGE: Wesley? Wesley, you haven't found that defocused area yet? 
+(Wesley is on the upper catwalk) 
+WESLEY: I'm looking. 
+LAFORGE: Yeah, I see the way you're looking. Wesley! 
+WESLEY: What? (drops the equipment) Sorry. I've got my mind on
+something. 
+LAFORGE: I can see that. 
+WESLEY: It's this girl they beamed up, Geordi. She's perfect.
+Absolutely perfect. 
+LAFORGE: Now I understand why you can't concentrate. 
+WESLEY: I'll do better. 
+LAFORGE: Okay. 
+COMPUTER: Warning, resonant field applied. 
+LAFORGE: What is it? What happened? 
+WESLEY: Nothing. I had it on the wrong setting. 
+LAFORGE: I suppose it had to happen to you. It usually does at about
+this age. 
+WESLEY: What usually does? 
+LAFORGE: Glands erupting with hormones. It happens to all of us. 
+WESLEY: Just because I said that I think she's interesting 
+LAFORGE: You said she was perfect. Come on down. You're no use around
+here for now. Come on down. Go talk to her. Use the ladder. 
+(Wesley comes down to Geordi) 
+WESLEY: That's silly, Geordi. But since you recommended it, how should
+I approach her? If she'll talk to me, what should I say? 
+LAFORGE: Just say, 'Hi, I'm Wesley Crusher. I'd like to talk to you'. 
+WESLEY: And then what? 
+LAFORGE: Whatever occurs to you. 
+WESLEY: What if nothing occurs to me? 
+LAFORGE: Look, Wes, I don't have time for this. You're going to have to
+ask somebody else. 
+WESLEY: Okay.
 

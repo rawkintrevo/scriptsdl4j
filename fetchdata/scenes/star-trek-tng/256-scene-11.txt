@@ -1,45 +1,43 @@
-RIKER GIUSTI DATA LAFORGE WORF
+DATA ENSIGN LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ruins]
 
-(what looks like a Romulan woman runs forward and
-grabs the artefacts) 
-RIKER: (to security woman) I'm going to head for those trees over
-there. If I can get there, we might be able to set up a crossfire. 
-(Riker makes it to some rocks and gets knocked out by a blast. The
-mercenaries get him and beam away) 
-DATA [OC]: Data to away team. Please respond. 
-LAFORGE: Data, we've been attacked.
-
-[Bridge] 
-LAFORGE [OC]: We've got one casualty and Commander
-Riker has been taken captive. 
-[Ruins]
-
-WORF: Sir, the mercenaries have beamed away. They
-must have a base or a ship nearby. Can the sensors locate anything?
+WORF: The search teams have reported in. They found
+several archaeological sites. Each one has been looted. 
+LAFORGE: It's possible that the microcrystalline damage I found in
+these indentations was the result of some kind of high energy
+transporter beam but I still don't understand. There's nothing here
+that's particularly valuable. Why would anyone want to steal any of
+these things? 
+DATA: Perhaps these artefacts have a special value to the Romulans. 
+WORF: The Romulans? 
+DATA: These structures were built by the Debrune. That race is an
+ancient offshoot of the Romulans. The ruins on the planet where Captain
+Picard was killed were also Romulan in origin. 
+WORF: The leader of the group that attacked us was Romulan. Perhaps
+they are controlling the mercenaries. 
+DATA: The question remains, why are they stealing these artefacts?
 
 [Bridge]
 
-GIUSTI: Commander, we're picking up a vessel
-leaving orbit. 
-DATA: Why was it not detected earlier? 
-GIUSTI: They could have been using the planet as a shield. Sir, they
-are powering up their weapon systems. 
-DATA: Raise shields. Red alert. 
-(the little ship strafes the Enterprise as it passes) 
-DATA: Damage report. 
-GIUSTI: Minor hit on the port deflector. No damage. They're running,
-sir. Their speed is warp eight point seven and holding. I think they're
-at their maximum. 
-DATA: Take us to warp nine and pursue. Lock phasers on target. 
-GIUSTI: Sir, we should be within phaser range in twenty three seconds.
-Switching to long-range scanners. Commander, the sensor image of that
-ship is extremely weak. It's fading. The ship doesn't register on the
-long-range sensors. I'm sorry, sir. We've lost them. 
-DATA: Increase the sensor field bandwidth. Patch in the lateral sensor
-arrays. 
-GIUSTI: It's no good, the signal's gone. It just disappeared. 
-DATA: Plot a course and take us back to Barradas Three. Notify the away
-team to prepare for transport. 
-GIUSTI: Aye, sir. 
+DATA: There are several archaeological sites in
+this sector containing ruins which are Romulan in origin. These are the
+locations that were attacked by the mercenary vessel. 
+LAFORGE: Looks like they did a pretty thorough job. 
+DATA: The only sites not been attacked were on Calder Two, Yadalla
+Prime, and Draken Four. 
+LAFORGE: Yadalla and Draken are at the far edge of the sector, but
+Calder Two? That's less than a day from here at
+maximum warp. 
+DATA: That would be their next likely target. 
+LAFORGE: According to this, there's a Federation outpost at Calder Two.
+
+DATA: But it is only a small science station. It has limited defensive
+capabilities. I do not believe it could withstand an attack from the
+mercenary ship. Mister Worf. Send a message to the Federation outpost
+on Calder Two. Advise them that if a ship matching the mercenary vessel
+approaches, they should attempt to delay it until our arrival. Ensign,
+take us out of orbit. Set course for the Calder system. Warp nine. 
+ENSIGN: (male) Aye, sir.
+

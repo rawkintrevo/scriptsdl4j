@@ -1,39 +1,35 @@
-ARMUS PICARD RIKER CRUSHER DATA
+TROI ARMUS DATA RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Shuttlecraft]
 
-PICARD: What kind of problem, Number One? 
-RIKER [OC]: I'm not sure yet. There appears to be some kind of a slick
-blocking our path. Will keep you apprised. 
-PICARD: Maintain an open frequency. 
-RIKER: Aye, sir. 
-[Planet surface]
-
-RIKER: Analysis, Mister Data. 
-DATA: Inconclusive, sir. I cannot tell you what it is, but I can tell
-you what it is not. 
-RIKER: Explain. 
-DATA: There is no evidence of neural or circulatory systems. No
-internal organs. Cellular structure unknown. It does not have any
-proteins which are known to us. 
-CRUSHER: It's narrower over here. We can get over it. 
-RIKER: How is it moving, Data? 
-DATA: I do not know, sir. It does not appear to have a skeletal
-framework or musculature. 
-RIKER: Then what's causing it to move? 
-DATA: It appears to be following us, sir. 
-RIKER: No sign of intelligence, no brain as we know it, yet evidence of
-thought, Mister Data? 
-DATA: Insufficient information, sir. 
-[Bridge]
-
-PICARD: Is it a life form, Data? 
-DATA [OC]: Again, insufficient information, sir. 
-PICARD: Theorise.
+ARMUS [OC]: You said they wouldn't amuse me. You
+were right. 
+TROI: And the emptiness remains. You sound so alone. 
+ARMUS [OC]: I am alone. 
+TROI: Abandoned. Who deserted you? 
+ARMUS [OC]: Creatures whose beauty now dazzles all who see them. They
+would not exist without me. 
+TROI: You were together? 
+ARMUS [OC]: They perfected a means of bringing to the surface all that
+was evil and negative within. Erupting, spreading, connecting. In time
+it formed second skin, dank and vile. 
+TROI: You. 
+ARMUS [OC]: Yes. 
+TROI: They discarded you and left. 
+ARMUS [OC]: And here I am. 
+TROI: You have my pity. 
+(Armus gets angry and shakes the shuttlecraft) 
+ARMUS [OC]: Your pity? Save that for yourself.
 
 [Planet surface]
 
-DATA: It is possible. 
-(The oil slick ripples, and speaks) 
-ARMUS: Very good, tin man. 
+(The team are not watching when Armus leaves the
+shuttlecraft and approaches them. Riker is grabbed by an invisible
+force and dragged by the feet to the slick) 
+RIKER: Help! Data, something's got me! 
+ARMUS: Touch him and he dies. 
+RIKER: No! No, don't! 
+(Riker disappears into the slick) 
+DATA: Enterprise?
 

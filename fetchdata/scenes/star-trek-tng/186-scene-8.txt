@@ -1,45 +1,61 @@
-OBRIEN WORF PICARD MACET DARO DATA
-
-[Turbolift]
-
-O'BRIEN: Deck six. 
-DARO: Deck ten. Your Captain is most impressive. 
-O'BRIEN: Yes, he is. 
-DARO: Chief O'Brien, our Transporting system is still operating with
-active feed pattern buffers. I would like to talk with you about your
-technology. 
-O'BRIEN: I'll have to get Commander La Forge's approval on that. 
-DARO: I understand. In the meantime, we're going to your Ten Forward.
-Will you join us? 
-O'BRIEN: If my Commander tells me to discuss the Transporter with you,
-I will. If Captain Picard orders me to tell you everything I know about
-Ben Maxwell, I will. But who I choose to spend my free time with,
-that's my business.
+PICARD GUEST2 DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Captain, the Phoenix in Sector twenty one
-five oh five. 
-PICARD: Ensign, set a course, warp six. Mister Worf, send a message by
-subspace. Tell them to prepare for a rendezvous. 
+(a tactical display is on the viewscreen, with ship
+designations) 
+PICARD: The pursuing ship is the Phoenix. 
+GUEST2: And the other? 
+DATA: It appears it be a Cardassian supply ship. 
+GUEST2: How would you know that? 
+PICARD: We are able to make that determination. 
+GUEST2: You can read our transponder codes. 
+PICARD: The important thing at the moment is that one of your ships may
+be in jeopardy. Mister Worf, has there been any answer to our
+communication? 
+WORF: No, Captain. 
+PICARD: Put out a repeating message on all subspace channels, priority
+one communiqu. Break off your pursuit immediately. 
+WORF: Aye, sir. 
+PICARD: Gul Macet, you see we are doing everything in our power to
+reach the Phoenix. 
+GUEST2: Yes, and accomplishing nothing, I'm sorry to say. Can you show
+me the location of our other ships? 
+PICARD: Mister Data. 
+GUEST2: There, you see? We have a warship which could intercept the
+Phoenix before it's too late. If you will give us the transponder
+frequency. Or are you going to stand there while our ship is destroyed,
+Captain? 
+PICARD: Mister Worf, has there been any response to our hails? 
+WORF: No, Captain. 
+PICARD: Very well. Mister Worf, relay the prefix codes of the Phoenix
+to the Cardassian warship. 
+WORF: Sir, they will be able to dismantle its shields. The Phoenix will
+not have a chance. 
+PICARD: I cannot allow Maxwell to ambush that supply ship. Mister Worf,
+now. 
 WORF: Yes, Captain. 
-MACET: Captain, a suggestion. 
-PICARD: Yes? 
-MACET: We have a number of ships in sector twenty one five oh five. If
-you will give us more precise coordinates and the ship's coded
-transponder frequency, we would be able to intercept Maxwell far more
-quickly than you. 
-PICARD: I'm sure that's true. However, given the circumstances, I would
-prefer to make the initial contact myself. I'm sure you would, if the
-situation were reversed. 
-MACET: Captain, time is crucial. You have a dangerous man out there
-with a huge arsenal at his command. If he is intent on revenge against
-my people he must be stopped before he can do more damage. 
-PICARD: Captain, so far we have an isolated incident. If I can reach
-him first, then perhaps diplomacy can prevail.
-But if one of your ships decides to retaliate, there is a danger we
-could lose control of the situation. 
-MACET: Then you will not give us the means to find his precise
-location? 
-PICARD: No. I won't.
+(a brief pause later) 
+DATA: Sir, the Cardassian warship is moving on the Phoenix. 
+PICARD: Mister Data, overlay weapon ranges of the two ships. 
+DATA: The warship is three hundred thousand kilometres from the
+Phoenix. It is opening fire. The Phoenix has taken a direct
+hit. The Phoenix is beginning evasive manoeuvres. It has positioned
+itself outside the weapons range of the opposing ship.
+The Phoenix has powered up both phasers and photon torpedoes. The
+Phoenix is firing photon torpedoes. 
+(and one of the lights on the screen goes out) 
+GUEST2: He has destroyed our warship. 
+PICARD: Does the supply ship have any weapons? 
+GUEST2: Very limited. Certainly not enough to defeat a Nebula class
+starship. 
+DATA: Sir, the Phoenix is firing on the 
+(another light goes out) 
+GUEST2: The warship carried a crew of six hundred, the supply ship,
+fifty. 
+PICARD: Mister Data estimated time to intercept with the Phoenix. 
+DATA: At our present speed of warp four, sixteen hours, forty four
+minutes. 
+PICARD: Ensign, increase to warp nine.
 

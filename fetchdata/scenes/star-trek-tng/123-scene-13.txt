@@ -1,39 +1,48 @@
-TASHA PICARD RIKER LAFORGE WORF
+PICARD CRUSHER GUEST2 GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Brekkian Guest quarters]
 
-RIKER: But they beamed over their cargo. 
-PICARD: Cargo? Are those people crazy? What could possibly be so
-important? 
-WORF: Sir, the freighter is disintegrating. 
-PICARD: Their lives are in danger and they're beaming over cargo?
-Number One, I don't understand these people. 
-LAFORGE: Captain, the freighter's hull temperature is approaching
-critical. 
-[Transporter room]
-
-RIKER: Unbelievable. 
-PICARD [OC]: We're losing the freighter. Got to beam those people over
-now. 
-RIKER: Clear the cargo. Beam it to a hold. 
-TASHA: Aye, sir. 
-RIKER: Freighter Sanction, this is the Enterprise, Get to your
-transporter pad and. No, forget about that. Lock on to any life form
-you can find and get them over now. 
-TASHA: Trying, sir.
-
-[Bridge]
-
-LAFORGE: The freighter is going down. 
-PICARD: Transporter Room. You're out of time.
-
-[Transporter room]
-
-TASHA: Reading six life forms, but I can't get a
-solid lock. 
-RIKER: We have no choice. Energise. I thought you said there were six.
-Where are the other two? 
-TASHA: The lock didn't hold. 
-RIKER: Re-establish. 
-TASHA: It's too late.
-
+GUEST2: We have thought about this a great deal. 
+GUEST4: We both of us feel deeply about what is happening on Ornara. 
+GUEST2: Although it is going to cause hardship to us and to our people,
+we have decided to give the felicium to them. 
+GUEST4: They can pay whenever they are able. 
+GUEST2: We don't want to be the ones responsible for their suffering. 
+PICARD: There goes the other shoe. They know. 
+CRUSHER: What do they know? 
+PICARD: They know that the Ornarans no longer have the plague. They
+know that felicium is no longer a medicine. So, of course, they are
+willing to give this shipment because they don't want to take the
+chance that the Ornarans will lose their addiction. They don't want to
+lose their only customers. 
+CRUSHER: How would they have known all that, unless the plague had once
+infected their world as well. 
+PICARD: They were infected. They used the felicium to cure themselves,
+but somehow their ancestors realised that it was a narcotic. 
+CRUSHER: They broke the cycle of addiction and never told the Ornarans.
+They let them continue to believe that without the felicium they would
+die. 
+PICARD: I think it's worse than that. My guess is this refining process
+of which you are so proud 
+CRUSHER: is only to increase the potency of the felicium and tighten
+your grip! 
+GUEST4: What are you going to do? 
+GUEST2: Are you going to tell them? 
+PICARD: No. I'm bound by the rules of the United Federation of Planets,
+which order me not to interfere with other worlds, other cultures. If I
+were to tell them any of this, I would violate that Prime Directive. 
+GUEST4: But you are talking to us about it. 
+PICARD: This is information you already know. And so nothing has
+changed. 
+GUEST2: If you can't interfere, then you are going to allow the
+Ornarans to have the felicium? 
+PICARD: Yes, I am. 
+CRUSHER: No! Don't do it. Jean-Luc, this is not a symbiotic
+relationship. This is exploitation, pure and simple! The Brekkians have
+caused all of this suffering and hardship only to make their pitiful
+lives easier! And all of it based on a lie. No, deny them this
+shipment. It is the least we can do. 
+PICARD: From the moment they agreed to give them the felicium, my hands
+were tied. 
+GUEST2: You are absolutely right, Captain. It's not your business. 

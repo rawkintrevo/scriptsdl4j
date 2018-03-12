@@ -1,38 +1,56 @@
-TROI LAFORGE WORF PICARD RIKER DATA
+TROI GUEST4 WORF PICARD RIKER CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Devidia cavern]
+[Alley]
 
-(moving to a natural amphitheatre, with columns
-around supporting the roof) 
-RIKER: Deanna? 
-TROI: There's life here. A child. An old woman. Dozens more. Hundreds.
-Terrified. 
-RIKER: Terrified? 
-TROI: My God, Will. They're human.
+(The bellboy runs out the back of the hotel, past
+an old man muttering to himself) 
+GUEST4: Help out a Forty Niner. Fell down a shaft. Forty Niner. Help
+me. Help me out. 
+(a tall slim elegantly dressed man with a snake's head cane and a tall
+slim elegantly dressed woman with a case approach) 
+GUEST4: No. No. 
+(a beam comes from the woman's case to the beggar, and he dies.) 
+Captain's log, supplemental. Close range sensor
+analysis has yielded no further trace of Commander Data. Despite the
+emotional repercussions among my crew, I must move this mission
+forward.
 
-[Bridge]
+[Observation lounge]
 
-RIKER [OC]: Whatever they are, Troi's convinced
-they're human. They may be trapped somehow. We're not sure. 
-DATA: Captain, the results of my temporal analysis may be pertinent. 
-PICARD: Go ahead. 
-DATA: Geordi, it indicates a synchronic distortion in the areas
-emanating 
-[Devidia cavern]
+RIKER: I'm not willing to accept that he's dead and
+just leave it at that. 
+PICARD: We cannot make Mister Data our priority. 
+RIKER: What is more important than Data? 
+TROI: Look at what we have so far. Evidence that these aliens have been
+travelling back in time to Earth. 
+CRUSHER: What if they're trying to undermine our history for some
+reason. 
+WORF: Some kind of guerilla war? 
+PICARD: We must assume that there is a threat, if not to us then to
+19th century Earth. We have to determine what that threat may be.
+Mister La Forge, we have to find some way to communicate with these
+life forms. 
+LAFORGE: It's not going to be easy to reproduce what Data did. We can
+create a contained subspace field, but we'd need an extraordinarily
+sensitive phase discriminator to get that point zero zero four
+variance. 
+PICARD: Can you build one? 
+LAFORGE: It won't be as good as Data's. 
+RIKER: Will it be good enough? 
+LAFORGE: I don't know. I can try. It's going to take some time though. 
+PICARD: I don't want anyone else going in alone. 
+LAFORGE: I can probably create a large enough subspace field to
+encompass everyone. But adjusting the phase inside the field, that's
+going to be the hard part. 
+PICARD: Make it so. 
+RIKER: We have to assume one thing, sir. Wherever Data may be, he's
+doing the same thing we are, which is trying to get to the bottom of
+this. He may have a better idea about what's going on than we do, so it
+might be in the best interests of this mission to find him. 
+PICARD: Perhaps in the course of this investigation, we will. I hope
+so. 
+WORF: If we find Commander Data, it may be our fate to die with him in
+the past. If our remains are in that cavern, they would have turned to
+dust long ago.
 
-DATA [OC]: Triolic waves. 
-LAFORGE: That explains a few things. How much, Data? 
-DATA [OC]: A positive displacement of point zero zero four percent. 
-LAFORGE: Well, whatever or whoever is there, we're out of phase with
-it, but we're only talking by a fraction of a second. 
-WORF: A fraction of a second would make them invisible? 
-LAFORGE: A millisecond, a year, it wouldn't make any difference. If
-what we're reading is true, then we're occupying the same space but in
-a different time. 
-RIKER: How do we compensate? 
-DATA [OC]: Commander, we might be able to 
-[Bridge]
-
-DATA: Manipulate the synchronic distortion. 
-LAFORGE [OC]: Maybe. If we were to create a contained subspace force
-field. 

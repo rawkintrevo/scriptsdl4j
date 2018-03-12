@@ -1,44 +1,52 @@
-PICARD BOK DATA LAFORGE WORF
+PICARD RIKER BOK DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Bridge]
 
-(Picard is sleeping) 
-BOK: Picard, can you hear me? 
-(Picard wakes to see Bok at the foot of his bed) 
-BOK: I will kill him, Picard. And there's nothing you can do about it. 
-PICARD: Security to Captain's quarters immediately. 
-(but Bok has vanished)
+WORF: Captain, I am detecting an object five
+thousand kilometres off our starboard bow. It is another probe. 
+PICARD: Why didn't we detect it before? 
+WORF: It must have been cloaked, sir. It came out of nowhere. 
+PICARD: On screen. Is it another holographic device? 
+DATA: I do not believe so, sir. 
+WORF: Captain, the probe's systems are overloading. 
+RIKER: Red alert. Shields up! 
+(KaBOOM then a series of flashes) 
+RIKER: Damage report. 
+WORF: No damage, sir. 
+DATA: Captain, I do not believe it was meant as an attack, but rather
+as a message. 
+PICARD: A message? 
+DATA: Yes, sir, in B'zal, a Ferengi code which uses an alternating
+pattern of light and darkness. 
+PICARD: Can you translate it? 
+DATA: I am attempting to do so. The message reads, my revenge is at
+hand. 
+PICARD: He's proved that he can get to us whenever he wants. Why
+doesn't he do something?
 
-[Engineering]
+[Ready room]
 
-WORF: Our shields were up. How could he have beamed
-through them? 
-LAFORGE: I'm not sure he did. Sensors don't show any sign of an
-intruder. 
-PICARD: Could it have been another hologram? 
-LAFORGE: I don't think so, Captain. Something has to generate a
-hologram. We would have detected it. 
-PICARD: Bok once used a mind control device to make me hallucinate. 
-LAFORGE: That device emitted a very specific energy signature. I'm not
-reading anything like that. 
-WORF: Could he have modified the device so he could use it without
-being detected? 
-LAFORGE: It's possible. I'll recalibrate the sensors to scan for low
-intensity transmissions. Just to be sure, I'll sweep your quarters with
-a resonance scanner. 
-PICARD: Good. Keep me posted. 
-(La Forge leaves) 
-PICARD: Mister Worf, I want you to assign a security detail to Jason. 
-WORF: And what about yourself? 
-PICARD: I am not the target of Bok's threats. Jason is. 
-DATA: Captain, I have compiled all available records pertaining to
-Jason Vigo's criminal record, and 
-PICARD: Criminal record? 
-DATA: Yes, sir. He has been charged three times with petty theft, twice
-for disorderly conduct, and several dozen times for trespassing. 
-PICARD: Trespassing? 
-DATA: I believe the charges relate to his climbing activities in the
-caves underneath the planet's surface. This is the information you
-requested, is it not? 
-PICARD: Thank you, Mister Data.
+(Picard leaves his desk and goes to the replicator)
+
+PICARD: Tea, Earl Grey, hot. 
+(Bok is in his chair) 
+BOK: If you want me to stay and talk, you'd better not call for
+security this time. How do you like your boy, Captain? Is he everything
+you'd always hoped for? 
+PICARD: It's a risky game you're playing, coming here. Next time we'll
+be ready for you. Why don't we settle this now? 
+BOK: Oh, and how do you propose to do that, Picard? You murdered my
+son. 
+PICARD: It was self-defence. He fired on my ship. 
+BOK: You were in Ferengi space! 
+PICARD: I didn't know that. If he'd told me I would have withdrawn. I'm
+sorry, but there's nothing I can do to bring him back. 
+BOK: How touching. Your apology is worthless to me. I demand that you
+repay me for my loss. 
+PICARD: You cannot put a price on a life. 
+BOK: Oh, but you can, Picard. You can pay me with your son's life. 
+PICARD: No. 
+BOK: You don't have any choice. I insist on being paid. 
+(Bok beams out)
 

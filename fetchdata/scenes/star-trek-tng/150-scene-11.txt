@@ -1,51 +1,51 @@
-RIKER LAFORGE WORF PICARD WESLEY COMPUTER CREWMAN DATA
+RIKER PICARD STUBBS WESLEY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlebay]
+[Observation lounge]
 
-CREWMAN: Standing by, Commander. 
-[Bridge]
-
-DATA: Five minutes to launch site. 
-(There's a sudden jolt. Stubbs gets thrown against a bulkhead) 
-PICARD: Stabilise. 
-WESLEY: The ship isn't responding, sir. 
-PICARD: Engineering. 
-[Engineering]
-
-PICARD [OC]: Report, Mister La Forge. 
-LAFORGE: Checking for failure of inertial dampeners. Instruments say
-they're working 
-[Bridge]
-
-WORF: Captain, we're heading straight into the path
-of that stellar matter. 
-PICARD: Shields up. 
-WORF: Negative. The shields will not respond. 
-DATA: Thirty seconds to impact, sir. 
-PICARD: Manual override on shields. 
-WORF: Shields are rising. 
-RIKER: Reset dampeners.
-
-[Engineering]
-
-RIKER [OC]: Mister La Forge. 
-LAFORGE: Dampeners not responding. 
-[Bridge]
-
-LAFORGE [OC]: Unable to reset. 
-PICARD: Reverse impulse engines. 
-[Engineering]
-
-LAFORGE: Initiating reverse sequence, now.
-
-[Bridge]
-
-PICARD: Our momentum is still carrying us into the
-path of the stellar matter. 
-DATA: Twelve seconds to impact, sir. 
-RIKER: Prepare for impact. Medical personnel, report to the Bridge.
-Commander Data, check all systems. 
-DATA: All systems functioning normally, sir. 
-PICARD: Computer, explain control malfunction. 
-COMPUTER: No control malfunction has been recorded.
+(Beverly is giving the presentation) 
+CRUSHER: Nanites. Tiny machines built from the atom up. Designed to
+have exposure only to the inside of nucleii during
+cellular surgeries. Until then, they are kept tightly confined in a
+non-functioning state. 
+DATA: These are not ordinary nanites. 
+CRUSHER: No, they have evolved. 
+STUBBS: Evolved? How does a machine evolve? 
+WESLEY: It's true. I am responsible for this. I allowed two of the
+nanites to interact for a school project. I wanted to increase their
+capabilities. And they escaped. 
+PICARD: School project? Just how far have these things evolved? 
+WESLEY: Well, this is a sample of linear memory crystal from our
+computer core. 
+(The screen shows a scene out of Pacman) 
+RIKER: It's like candy to them. 
+CRUSHER: As you can see, they're able to mechanically replicate
+themselves. 
+DATA: It is conceivable that with each new generation they enhance
+their own design. The rate of evolution would be extraordinary. 
+PICARD: How many generations are we dealing with here? 
+DATA: Engineering, display computer core processor four five one,
+element zero two nine nine. 
+DATA: Increase magnification, factor one thousand. 
+PICARD: Can it be possible they know what they're doing? 
+RIKER: Why would they attack us? 
+STUBBS: Why does a mosquito bite your ear? and who cares? The answer is
+simple. Call an exterminator. 
+CRUSHER: Doctor Stubbs, these nanites are now working with a new
+collective intelligence. Operating together. Teaching each other
+skills. 
+STUBBS: Oh really. I'm sorry but this is nonsense. You can't have a
+civilisation of computer chips. They're made in a plant in Dakar,
+Senegal. I've watched the construction. 
+CRUSHER: Then how do you explain what we've seen here? 
+STUBBS: It's no more mysterious than watching a strain of the Leutscher
+virus reproduce itself. And that at least is a bona fide lifeform. How
+many disease germs and viruses have you destroyed in your time, Doctor
+Crusher? 
+PICARD: Doctor Stubbs, we cannot exterminate something that may or may
+not be intelligent. 
+STUBBS: My good Captain. 
+PICARD: There's still time. Ensign, will you work with mister Data to
+try to remove them safely. If things get worse, we'll use stronger
+measures.
 

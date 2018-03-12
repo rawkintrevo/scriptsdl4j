@@ -1,62 +1,63 @@
-PULASKI PICARD DATA LWAXANA
-
-[Corridor]
-
-(Picard is in dress uniform and carrying a bottle
-of blue liquid) 
-PICARD: Doctor? You're not attending the dinner with the rest of us
-this evening? 
-PULASKI: I've already eaten, but thanks, Captain. 
-[Lwaxana's quarters]
-
-(Picard hands the bottle to Mister Homn, who opens
-and downs the contents in one)
-PICARD: I seem to be a little early. I'm sure the others will be here
-soon. The other officers? Commander Riker? Counsellor Troi? 
-(Homn smiles and shakes his head. The penny drops. Lwaxana is in the
-doorway, low cut dress and low pitched voice) 
-LWAXANA: Hello, Jean-Luc. So glad you could come. 
-(at table) 
-LWAXANA: A toast to Earthmen, who, despite their faults, have that
-unique ability to charm women of all races, in all corners of the
-galaxy. 
-PICARD: Speaking on behalf of men of Earth, which is indeed an awesome
-responsibility, I thank you. 
-LWAXANA: I know what you're thinking, Captain. 
-PICARD: You do? 
-LWAXANA: You're wondering whether I'm seeing any other man. On a
-serious basis. 
-PICARD: Well, actually, I wasn't 
-LWAXANA: I wouldn't worry about it, Jean-Luc. Competition seems to
-bring out the best in the human male. 
-PICARD: The fact is, I wasn't expecting this setting. I had assumed
-that my senior Bridge officers would be attending. 
-LWAXANA: You never assume anything where Lwaxana Troi is concerned.
-Betazoid women are full of surprises. Strange, I'm not really very
-hungry tonight. I wonder what's made me lose my appetite? Any ideas? 
-(Homn strikes a gong) 
-PICARD: Of course, you're giving thanks for your food. I'd forgotten
-about that. I wonder how many other cultures have similar customs. 
-LWAXANA: I don't know. 
-PICARD: Well, let's find out. Commander Data? 
-DATA [OC]: Yes, Captain? 
-PICARD: Mrs. Troi and I are having a very interesting discussion about
-various societies' ways of giving thanks. The Betazoid use of the
-chime, for instance. 
-DATA [OC]: The use of the chime is unique, but not at all dissimilar to
-the 
-[Bridge]
-
-DATA: Ooolans of Marejaretus Six, who use two large
-stones which are continuously struck during the meal. Those at the
-dinner must eat until the stones are broken.
+TROI PICARD LWAXANA COMPUTER GUEST2 GUEST3 MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Lwaxana's quarters]
 
-DATA [OC]: Or the oligarchy on Atifs Four, which
-require a young 
-PICARD: Data, this is fascinating. Don't you agree, Mrs. Troi?
-Commander, if your duties permit, why don't you join us for dessert?
-I'm sure that Mrs. Troi would much appreciate the pleasure of your
-company. 
-LWAXANA: What? 
+LWAXANA: Unavailable? Ship's business? You mean
+ship's business takes precedence over me? 
+TROI: I'm afraid so, Mother. 
+LWAXANA: Oh, well, he was too old for me anyway. Homn, perhaps we
+should consider my alternate plan. 
+TROI: Alternate plan? 
+LWAXANA: You worry too much, Little One. Your mother has the situation
+well in hand.
+
+[Hill's office]
+
+GUEST2: There's a gentleman here to see you,
+Mister Hill. And he doesn't look like a client. 
+GUEST3: Hill? The name is Slade Bender. 
+PICARD: Excuse me. (turns off the radio) What can I do for you, Mister
+Bender? 
+GUEST3: It's about Alva. 
+PICARD: You'll have to be a little more precise. 
+GUEST3: Okay, you want to play stupid? That's jake with me. A week ago a
+man came in here. He wanted you to find his girlfriend. Name's Alva. 
+PICARD: Did I find her? 
+GUEST3: You know, you're getting on my nerves. You found her, all right.
+Face down in the river. 
+PICARD: I'm sorry to hear that. 
+GUEST3: Yeah, yeah, we're all broken up about it. Especially the
+boyfriend, who's been
+indicted for murder. 
+PICARD: And what are you here to do? Ask for a refund? 
+GUEST3: Nah, I'm here to kill you! 
+PICARD: Computer, freeze programme. Computer, this isn't what I wanted
+at all. It's much to violent. I'm here to relax, not to dodge bullets.
+Reconfigure. 
+COMPUTER: Please define. 
+PICARD: More ambience. Less substance. 
+COMPUTER: Do you wish to leave the holodeck and re-enter, or continue
+from this point?
+
+PICARD: I will continue. 
+COMPUTER: Programme complete. You may continue. 
+GUEST2: There's a gentleman here to see you, Mister Hill. 
+PICARD: Thank you, Madeline. 
+MAN: You a private dick? 
+PICARD: That's what it says on my door. 
+MAN: Is that supposed to be funny? 'Cos if it is, you gotta know that I
+ain't in the mood for funny. Now, I came here on serious business.
+There's a job I want you to do for me. 
+PICARD: Computer, freeze programme. Clear. Computer, this still isn't
+right. One kind of violence is being substituted for another.
+Reconfigure. 
+COMPUTER: You may continue. 
+PICARD: Thank you. 
+(Slade bursts in with a machine gun) 
+GUEST3: You're through ducking me, Hill! 
+PICARD: Computer, freeze programme! Variations on a theme. Computer,
+perhaps I am not clearly defining my intent. 
+COMPUTER: The flexibility of the programme is limited to the parameters
+of the Dixon Hill novels. 
+PICARD: Yes. Of course. 

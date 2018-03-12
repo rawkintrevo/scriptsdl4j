@@ -1,41 +1,71 @@
-JAMESON PICARD ANNE CRUSHER KARNAS
+JAMESON PICARD DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Observation lounge]
 
-PICARD: The admiral displayed a remarkable
-improvement out there, wouldn't you say? 
-CRUSHER: Captain, no one recovers from Iverson's Disease. There is no
-known cure, and there are no cases where it has gone into remission. I
-have never heard of any therapy that would produce results like that. 
-PICARD: Then how do you account for it? 
-CRUSHER: I can't. All I can tell you is that the Admiral has been
-confined to his support chair for the last four years by the effects of
-Iverson's. By all the medical facts we know, he should never have
-walked again. 
-PICARD: I want you to look into it, Doctor. Thoroughly. 
-CRUSHER: Yes, sir.
+(The lounge is in darkness, and Jameson is at the
+table with a desk monitor) 
+JAMESON: Commander Data, I wish to open a communication frequency to
+Karnas.
 
-[Jameson's quarters]
+[Bridge]
 
-KARNAS [on monitor]: The terrorists have given you
-six Earth days to bring him here, or the hostages will die. 
-ANNE: I don't know how much more information you think you can get from
-that tape. (Jameson stands up) Mark! My God, what's happened? 
-JAMESON: It's the new therapy I'm taking. It's working, Annie. 
-(His hair is sleeker and thicker too. And blond now) 
-ANNE: Oh, darling! 
-(She kisses him, but when he responds amorously)
-ANNE: Mark? 
-JAMESON: I told you I just needed to get back into space again. 
-ANNE: You really are looking much better. 
-JAMESON: It's the new treatment. 
-ANNE: No. Come here. 
-JAMESON: I hope you're heading for the bedroom. 
-ANNE: You stop it. 
-(She brings him to a mirror and puts the light on) 
-ANNE: Darling, you look like you looked twenty years ago. 
-JAMESON: You're flatter me. 
-ANNE: Now you tell me what the hell is going on? 
-JAMESON: I don't know (collapses in pain) 
-ANNE: Sickbay! Medical emergency in the Admiral's quarters!
+DATA: Aye, sir. 
+PICARD: One moment, Mister Data. Admiral, this is Picard. May I know
+the reason for this communication?
 
+[Observation lounge]
+
+JAMESON: Karnas must have tried to negotiate with
+the terrorists before he was forced to call on me. I want all the
+information he has access to. 
+[Bridge]
+
+PICARD: You said Karnas was a proud man, Admiral,
+probably sensitive about his failure to deal with this situation. Is it
+wise to press him on this? 
+[Observation lounge]
+
+JAMESON: I'm the negotiator, Picard. 
+[Bridge]
+
+JAMESON [OC]: Karnas will have to cooperate with me
+and the terrorists, and damn his sensitivities. 
+PICARD: Then I suggest a secured channel, Admiral. 
+[Observation lounge]
+
+JAMESON: A sensible precaution, Picard. Make it so.
+
+[Bridge]
+
+PICARD: Make it so. 
+DATA: Aye, sir. Frequency open and secured.
+
+[Observation lounge]
+
+JAMESON: Karnas. 
+GUEST0 [OC]: What is it you want, Admiral? 
+JAMESON: We're on a secured channel, Karnas. You can talk freely. Who's
+behind this thing? You said dissidents. 
+GUEST0 [on monitor]: Yes, political opponents who feel the Federation
+will disavow me as Governor if they stir up enough trouble on Mordan. 
+JAMESON: Then who is it? Ardan? Gilnor? 
+GUEST0 [on monitor]: They're dead, Jameson. A long time now. For a long
+time I thought you were dead, too. 
+JAMESON: I almost died a couple of times on missions, but I always made
+it through somehow. 
+GUEST0 [on monitor]: Yes. Now you're coming back to Mordan to negotiate
+for hostages again. It's almost as though the forty five years
+in-between never happened. 
+JAMESON: You've never forgiven me. 
+GUEST0 [on monitor]: Of course I have. It was years ago. 
+JAMESON: There are no dissidents, are there? No terrorists. You have
+the hostages. 
+GUEST0 [on monitor]: And if I have? You're coming to Mordan, Jameson,
+and you're going to negotiate for their lives. And I'm going to ask a
+very, very high price. 
+JAMESON: What if I refuse? 
+GUEST0 [on monitor]: Then the hostages will die. You've seen how my
+executioners work. They are still as efficient as they were, perhaps
+even more skilled now. You'll come, even if you don't have much honour
+left. 

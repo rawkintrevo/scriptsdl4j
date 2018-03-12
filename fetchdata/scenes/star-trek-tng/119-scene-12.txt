@@ -1,67 +1,35 @@
-WESLEY TROI REMMICK LAFORGE WORF
+RIKER JAKE LAFORGE PICARD REMMICK DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Bridge]
 
-REMMICK: So, you are saying Captain Picard had no
-control over this vessel. He handed it over to Kosinski, who took the
-entire crew to the edge of the universe. 
-LAFORGE: No, sir. That's not what I'm saying. Now, Kosinski was sent by
-Starfleet to improve our warp drive system. Captain Picard was ordered
-to take him aboard. 
-REMMICK: According to his own logs, his Bridge crew didn't think highly
-of Mister Kosinski's theories, yet the Captain allowed him to access to
-the engines anyway. Is that true, La Forge? 
-LAFORGE: Not exactly, sir. 
-REMMICK: One way or the other, La Forge, Picard lost control of this
-ship. Is that true? 
-LAFORGE: Yes, but that's not how it happened. 
-REMMICK: So, the answer is yes.
+JAKE [OC]: Zero zero nine. Zero one two. 
+DATA: Six seconds to impact. 
+PICARD: Hold on, Jake. It's going to be a little bumpy. 
+[Shuttlecraft]
 
-[Ready room]
+JAKE: Zero one five. 
+[Bridge]
 
-REMMICK: Do you believe the captain is emotionally
-and psychologically fit for command of this starship? There is nothing
-in his history or his personality that would suggest mental lapses? 
-TROI: Nothing. 
-REMMICK: Not even the Ferengi incident with his old ship, the
-Stargazer? 
-TROI: He was being controlled by a mind altering machine, Commander.
-Without his knowledge. 
-REMMICK: I would call that a mental lapse.
+JAKE [OC]: Zero one nine. 
+PICARD: Restart the engine, now! Pull up hard! 
+REMMICK: (amongst others) Yeah! 
+RIKER: Incredible, Captain! 
+REMMICK: How did he do it? I thought 
+LAFORGE: He built up enough speed and then bounced her off the
+atmosphere! 
+PICARD: Mister Kurland, I assume you can manoeuvre it home? 
+JAKE [OC]: Yes, sir. 
+PICARD: Do it. Then report to Mister Riker. 
+JAKE [on viewscreen]: Yes, sir! 
+REMMICK: Very original, Captain. But how did that child acquire access
+to a shuttlecraft? 
+RIKER: Kurland is a highly qualified Enterprise Academy candidate,
+fully trained in many areas including shuttles. 
+REMMICK: And did this full training include discipline? 
+PICARD: Mister Remmick, young men sometimes make rash choices. Which is
+why Mister Kurland will receive a strong refresher specifically in
+discipline 
+REMMICK: I'll note that in my report. 
+PICARD: Full cooperation, Number One.
 
-[Holodeck]
-
-(There is no programme running) 
-WORF: Ensign, what are you doing on the holodeck? I thought you were
-still on Relva Seven. 
-WESLEY: I'm finished testing for the day. 
-WORF: I've disturbed you. I'll leave. 
-WESLEY: Wait. I thought I wanted to be alone, but I guess I don't. 
-WORF: How is the testing? 
-WESLEY: Okay. So far. It's not the ones that I've studied for that I'm
-worried about. It's the psych test. Facing my deepest fear and living
-through it. I'm trying to figure out what images to bring up. 
-WORF: Why? 
-WESLEY: I guess I want to scare myself. What do you think? Bulgallian
-rats? Lightning storms? 
-WORF: Do those things frighten you? 
-WESLEY: Sort of, I guess. 
-WORF: The psych test is no more or less important than the rest of the
-process. 
-WESLEY: That's what they said, but I can't stop thinking about it. 
-WORF: Thinking about what you can't control only wastes your energy and
-creates its own enemy. 
-WESLEY: How can they know what my deepest fear is when I don't? 
-WORF: By analysing your psychological profile. They were very accurate
-about everyone I tested with. Including myself. 
-WESLEY: You? I thought there was nothing that could frighten a Klingon
-warrior. 
-WORF: Only fools have no fear. 
-WESLEY: I'm sorry, Lieutenant. I'm asking too many personal questions. 
-WORF: It is very difficult for me to depend on anyone for anything. But
-especially for my life. 
-WESLEY: But on the Enterprise you do that every day. Everyone depends
-on everyone else to protect them. 
-WORF: Yes. 
-WESLEY: So you overcame it? 
-WORF: No. It is still my enemy. 

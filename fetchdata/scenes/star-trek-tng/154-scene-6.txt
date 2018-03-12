@@ -1,45 +1,35 @@
-PICARD GUINAN LAFORGE WORF
+RIKER WORF PICARD TROI WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Warship Bridge]
+[Bridge]
 
-(built for human-sized humanoids with a ridge on
-their skulls. Reminiscent of the scene from Alien when they found the
-dead pilot) 
-PICARD: Extraordinary. 
-WORF: Admirable. They died at their posts. 
-PICARD: Hmm. You'd expect the bridge layout of this era to be clumsy,
-awkward, but look at this. It's a model of simplicity. Elegant,
-functional. They built this craft for generations. And it worked.
-
-[Ten forward]
-
-LAFORGE: Don't you have anything stronger than
-this, Guinan? 
-GUINAN: Yes. 
-LAFORGE: Would it help? 
-GUINAN: No. 
-LAFORGE: Tell me something, Guinan. You're a woman, right? 
-GUINAN: Yes, I can tell you I'm a woman. 
-LAFORGE: What is it that you want in a man? 
-GUINAN: Me personally? 
-LAFORGE: As a woman. What's the first thing you look at? 
-GUINAN: His head. 
-LAFORGE: His mind. Of course. 
-GUINAN: No, his head. I'm attracted to bald men. 
-LAFORGE: Seriously? 
-GUINAN: Seriously. 
-LAFORGE: Why? 
-GUINAN: Maybe because a bald man was very kind to me once when I was
-hurting. Took care of me. 
-LAFORGE: I'd like to do that. 
-GUINAN: I take care of myself these days. 
-LAFORGE: I mean, take care of somebody. I just don't get it, Guinan. I
-can field strip a fusion reactor. I can realign a power transfer
-tunnel. Why can't I make anything work with a woman like Christi? It's
-like I don't know what to do, I don't know what to say. 
-GUINAN: You're doing fine with me. 
-LAFORGE: You're different. 
-GUINAN: No, you're different. 
-LAFORGE: But I'm not trying now. 
-GUINAN: That's my point.
-
+PICARD: Thrilling. That was absolutely thrilling.
+And I was right, Number One. There were ghosts aboard that old ship.
+One of them actually spoke to us. 
+RIKER: A friendly one, I hope? 
+PICARD: My own counterpart. The captain's final message, praising his
+crew. 
+RIKER: I hope you'll be as thoughtful when the time comes. 
+PICARD: Mister Data, advise the Astral Five annex. This should be
+catalogued and scheduled for retrieval. 
+DATA: Aye, sir. 
+(Troi and Riker have big grins on their faces) 
+TROI: I'm sorry, Captain, it's just a rare pleasure to meet this side
+of your personality. 
+PICARD: Mister Crusher, set course for the original coordinates. 
+WESLEY: Yes, sir. 
+DATA: Captain, we are experiencing a two percent drop in energy
+reserves. Compensating. 
+RIKER: We were having a few problems while 
+WORF: Readouts indicate we are being bombarded with a field of high
+intensity radiation. 
+RIKER: Shields up. 
+DATA: Captain, energy loss increasing to five percent. 
+PICARD: Yellow Alert. 
+WORF: Aye, sir. 
+DATA: Energy loss increasing, sir. 
+PICARD: Mister Crusher. Reverse course. Full impulse power. 
+WESLEY: No response, sir. 
+PICARD: Increase speed to warp one. 
+WESLEY: Engines are not responding, Captain. 
+RIKER: Mister La Forge. 

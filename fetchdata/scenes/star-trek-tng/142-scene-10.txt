@@ -1,67 +1,59 @@
-TROI LAFORGE WORF PICARD RIKER Q WESLEY GUINAN COMPUTER SONYA DATA
+RIKER LAFORGE WORF PICARD Q GUINAN GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Engineering]
 
-GUINAN: I'm not sure. It's just a feeling. I've had
-it a couple of times before. It's probably nothing. Forget that I
-called. Ten Forward out.
+GUEST0: I can't get the shields up.
+LAFORGE: Divert power from anywhere you need it. Anywhere except for
+life support.
+GUEST0: No, it wouldn't help. The circuits which control the shields,
+they've been fused.
+LAFORGE: If you can't reprogram, then reroute.
+GUEST0: Eighteen people. Dead, just like that.
+LAFORGE: I know. Just put it out of your head.
+GUEST0: No, I can't. I keep seeing them.
+LAFORGE: Sonya, stop it. We'll have time to grieve later. Right now,
+let's just get those shields operative. 
+GUEST0: Right, right, of course.
 
-[Shuttlecraft]
+[Observation lounge]
 
-Q: The locator beacon won't help. They'll never
-think to look for you this far away.
-PICARD: Enterprise, this is Picard. Stop this foolishness, Q. Return me
-to the Enterprise.
-Q: I suggest you change your attitude. Petulance does not become you.
-We have business, Picard.
-PICARD: Keeping me a prisoner here will not compel me to discuss
-anything with you.
-Q: It will in time.
+PICARD: Guinan, how much more can you tell us about
+these creatures? 
+GUINAN: Bits and pieces. 
+PICARD: Anything would help. 
+GUINAN: They're made up of organic and artificial life which has been
+developing for thousands of centuries. 
+Q: The Borg is the ultimate user. They're unlike any threat your
+Federation has ever faced. They're not interested in political
+conquest, wealth or power as you know it. They're simply interested in
+your ship, its technology. They've identified it as something they can
+consume.
+RIKER: You brought us here, you exposed us to them, and you cost us the
+lives of our shipmates 
+Q: Oh, please. 
+PICARD: Number One. Eighteen of our people have died. Please, tell us
+this is one of your illusions.
+Q: Oh, no. This is as real as your so called life gets.
+(And he vanishes) 
+LAFORGE [OC]: This is Lieutenant La Forge, Captain. We've been able to
+restore power to the shields.
+PICARD: Very good.
+WORF [OC]: Captain, I have the casualty list coming on screen.
+PICARD: Cancel. We'll deal with that later.
+RIKER: Sir, if we're going to have further dealings with the Borg now
+or in the future, I think that we should find out all we can about them.
+PICARD: Visit their ship?
+RIKER: In my opinion, that's the only choice.
+PICARD: Assemble a minimal away team.
+GUINAN: What?
+RIKER: Mister Worf, transporter room three. Data.
+GUINAN: I wouldn't go there if I were you.
+RIKER: Oh, I don't know, Guinan. They paid us a visit. It seems only
+fair that we return the courtesy.
 
-[Ten forward]
+Captain's log, supplemental. We have been attacked
+without provocation by an alien race which Guinan calls the Borg. It
+appears that we have neutralised their vessel. Commander Riker is
+leading an away team in an attempt to learn more about them.
 
-SONYA: I appreciate your advice, Lieutenant. And,
-I'll take it to heart.
-LAFORGE: Guinan?
-GUINAN: Can I get you something?
-LAFORGE: We're fine. Is everything all right?
-GUINAN: I don't know.
-LAFORGE: I think I'll go check out Engineering.
-SONYA: I'll go with you.
-
-[Bridge]
-
-TROI: Where's the Captain?
-RIKER: In his quarters? 
-TROI: Captain, this is Counsellor Troi.
-RIKER: Computer locate Captain Picard.
-COMPUTER: The Captain is not on the ship.
-WORF: Commander, there is a shuttle missing from bay two.
-RIKER: All stop.
-WESLEY: Answering all stop, sir.
-WORF: I have hailed the shuttle on all frequencies. No response.
-DATA: Sensors indicate no shuttle or other ships in this sector.
-RIKER: We think we can assume the Captain is aboard that shuttle.
-WESLEY: How could he get to the shuttlebay and leave the Enterprise
-without us knowing?
-That's not possible.
-RIKER: Take it easy, Wes. We're going to find him. I want to begin a
-methodical search. Worf, set sensors on maximum scan. Data, use our
-present location as a centre. Plot a search pattern from these
-coordinates to cover the most area in the least time.
-DATA: Search pattern has been input, sir.
-RIKER: Engage, Mister Crusher.
-
-First officer's log, stardate 42761.3. We have not
-been able to determine why, or how, Captain Picard left the Enterprise.
-We can't even be certain he is in the missing shuttle, although that is
-the assumption on which we are
-proceeding. For the last six hours, we have been searching without
-success.
-
-[Bridge]
-
-DATA: We have covered the area in a spherical
-pattern which a vessel without warp drive could traverse in the time
-allotted.
-RIKER: Widen the area. 

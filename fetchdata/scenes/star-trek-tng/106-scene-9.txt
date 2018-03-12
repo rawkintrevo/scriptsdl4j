@@ -1,74 +1,59 @@
-RIKER LAFORGE WORF PICARD DATA KOSINSKI
+RIKER LAFORGE CREWMAN TASHA PICARD GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(Picard enters) 
-WORF: Captain, main Engineering is ready to proceed. 
-PICARD: Engineering, this is the Bridge. It's your call.
+(Tasha is fondling the cat) 
+TASHA: You darling, what are you doing here?
 
-[Engineering]
+[Tunnel]
 
-KOSINSKI: Do this one just like the last time.
-Nothing changes. Commander, I'll make my preliminary adjustments at
-warp one point five, and complete them as we achieve warp four. 
-RIKER: Engineering to bridge, did you copy that?
-
-[Bridge]
-
-PICARD: Affirmative, Number One. Are you ready? 
-[Engineering]
-
-RIKER: We are.
-PICARD [OC]: La Forge, set in warp one point five.
+(Then she's back on her home planet, and a rape
+gang is after her) 
+TASHA: Now, run. This isn't a safe place at all. 
+(Someone puts a hand on her shoulder)
 
 [Bridge]
 
-LAFORGE: Warp one point five, sir. 
-PICARD: Engage.
+(Tasha jumps) 
+LAFORGE: Tasha, what's wrong? You look scared to death. 
+TASHA: I was, I was. This is crazy. I was at the colony where I grew
+up, being chased by a rape gang 
+LAFORGE: Are you all right? Well, you're safe now. 
+(Elsewhere on board - a group in period costume is playing Mozart Eine
+Kliene Nachtmusik, except for one Starfleet violinist)
 
-[Engineering]
+[Corridor]
 
-KOSINSKI: All right, here we go. 
-(Wesley watches the Traveller make adjustments on his console, while
-Kosinski taps at him. The Traveller turns to smile at Wesley) 
-KOSINSKI: What are you doing? 
-(Consternation. The warp core appears to be racing. The Traveller puts
-his hands on the console and partially vanishes. The Enterprise takes
-off at ridiculous speed)
-
-[Bridge]
-
-LAFORGE: Captain, we're passing warp ten! 
-(The viewscreen looks like the opening credits to Doctor Who. There's a
-jolt which throws the Traveller off his stool. Kosinski is clueless) 
-PICARD: What is our velocity? 
-DATA: It's off the scale, sir. 
-PICARD: Reverse engines. 
-DATA: Captain, no one has ever reversed engines at this velocity. 
-PICARD: Because no one has gone this fast. Reverse engines. 
-(They arrive at a beautiful place) 
-PICARD: All stop. 
-LAFORGE: Reading all stop, sir. 
-PICARD: Position? 
-LAFORGE: Calculating it, sir. Data, what do you read there? 
-DATA: Malfunction, I trust. 
-PICARD: Position, Mister La Forge. 
-LAFORGE: Well, sir, according to these calculations, we've not only
-left our own galaxy, but passed through
-two others, ending up on the far side of Triangulum. The galaxy known
-as M Thirty Three. 
-PICARD: That's not possible. Data, what distance have we travelled? 
-DATA: Two million seven hundred thousand light years. 
-PICARD: I can't accept that. 
-DATA: You must, sir. Our comparisons show it to be completely accurate.
-
-LAFORGE: And I calculate that at maximum warp, sir it would take over
-three hundred years to get home. 
-
-Captain's log, stardate 41263.2. This will be a
-rather unusual log entry, assuming Starfleet ever receives it. As I
-have already informed my crew, a phenomenal surge of power during a
-warp speed experiment has sent our starship hurtling out of our own
-galaxy, past another, taking us over two million seven hundred thousand
-light years in a few minutes.
+(Picard encounters a man and woman running from
+something) 
+CREWMAN: Captain! Captain, we need help. 
+PICARD: What's wrong? 
+CREWMAN: Don't you see what's following us? 
+(They carry on running) 
+(Picard passes an open door and sees a ballerina in a golden tutu
+pirouetting) 
+PICARD: Ensign, what are you doing? 
+(Her tutu becomes her uniform again) 
+(The violinist is sitting at a table, having a meal) 
+(Picard turns a corner and meets an elderly woman sitting at a tea
+table) 
+GUEST2: (french accent) You look tense, Jean-Luc. Come and have a cup of
+tea. 
+PICARD: Maman? 
+GUEST2: I'll make it good and strong, the way you like it. We will have
+a nice long talk. 
+PICARD: This can't be. You've been 
+GUEST2: Dead? But I'm always with you, you know that. 
+PICARD: Yes, I've felt that. But why now, suddenly. 
+GUEST2: You mean out here? At what you say us the end of the universe?
+Or do you see this as the beginning of it? 
+PICARD: We believe it the outer rim. Maman, do you understand these
+things? Can you tell me where my ship is? What is this place? 
+RIKER: Captain? You were reported headed for 
+PICARD: Just a moment, Number One! 
+(But the corridor is empty now) 
+RIKER: Can I help you, sir? 
+PICARD: No. No, let's help all of us. (goes to comm. panel) General
+quarters. Red Alert.
 

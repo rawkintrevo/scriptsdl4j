@@ -1,60 +1,39 @@
-RIKER KEIKO CREWMAN WORF CRUSHER DATA LAFORGE
+TROI RO OBRIEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Bridge]
 
-(the place is a wreck) 
-RIKER: How do you feel? 
-KEIKO: Okay. A little foggy. 
-RIKER: Just lie still for a while. We'll get you to Sickbay as soon as
-we can. 
-KEIKO: Okay. 
-RIKER: Report. 
-DATA: I have surveyed all the turbolifts and service crawlways on this
-deck. Access to the Bridge has been completely severed by emergency
-bulkheads. 
-WORF: Sickbay? 
-DATA: Heavy damage to section twenty three A has cut off access to
-Sickbay. I have ordered a security team to bring casualties here until
-further notice. 
-RIKER: I think we should assume the worst, that everyone on the Bridge
-is dead. There's
-no one is in control of the ship. 
-DATA: In that circumstance, re-establishing control should be our top
-priority. 
-RIKER: Agreed. Can we get to Engineering? 
-DATA: Yes, sir. The most direct route is blocked, but I believe we can
-use a starboard service crawlway. 
-RIKER: Okay, you and I will try to get there. Mister Worf, this room is
-going to fill with wounded in a few minutes and they're going to need
-help. I want you to stay in charge here. 
-WORF: Yes, sir. 
-RIKER: Let's go. 
-(a man carries a woman in) 
-WORF: Over here. 
-CREWMAN: Yes, sir. 
-[Cargo bay]
-
-(it's a lot brighter in here)
-LAFORGE: Okay. Clear the power shunt. 
-CRUSHER: The shunt is cleared. 
-LAFORGE: Right. And bypass the flow current, and (nothing). The
-computer still won't release the doors. 
-CRUSHER: Can we force them open? 
-LAFORGE: Yes, we can try. There's an emergency hand actuator. 
-CRUSHER: Geordi? 
-LAFORGE: Yes? 
-CRUSHER: This wall is hot. 
-LAFORGE: Where? 
-(then something blows out where he had removed a panel, knocking him
-off his feet) 
-LAFORGE: I'm all right, but I think we've got a new problem. One of the
-energy conduits must've ruptured and ignited the polyduranide inside
-the bulkhead. That's a plasma fire. 
-(and it's green) 
-CRUSHER: It's putting out a lot of radiation. We can't stay in here
-very long. 
-LAFORGE: We've got a bigger problem than that. The quaratum in these
-containers is used in emergency thruster packs. It's normally pretty
-stable stuff but when you expose quaratum to radiation, it has a way of
-exploding.
+(at a rear science station) 
+O'BRIEN: There. Just before the second time we were hit. See the
+subspace distortion? 
+TROI: Yes. How big is a quantum filament? 
+O'BRIEN: It can be hundreds of metres long, but it has almost no mass,
+which makes it very difficult to detect. 
+TROI: So, it's like a cosmic string? 
+O'BRIEN: No. that's a completely different phenomenon. 
+(another station comes online) 
+O'BRIEN: How did you do that? 
+RO: I diverted power from the phaser array and I dumped it into the
+engineering control system. 
+O'BRIEN: You what? 
+RO: Engineering station's online, Counsellor. 
+O'BRIEN: But that's a completely improper procedure. You can't just
+dump that much raw energy into a bridge terminal without blowing 
+RO: We're not going to get out of this by playing it safe. 
+TROI: What is our engine status, Ensign? 
+RO: We've got half impulse power available, but I'm getting some odd
+readings from the warp drive. I'm reading a spike in the warp field
+array. It looks like a containment deviation. 
+O'BRIEN: Switch to primary bypass. 
+RO: Nothing. Field strength's at forty percent and falling. We've got a
+problem. The quantum resonance of the filament caused a polarity shift
+in the antimatter containment field. 
+O'BRIEN: When the filament hit us, the ship was momentarily charged, as
+if it had come into contact with a live electrical wire. 
+RO: That weakened the containment field surrounding the antimatter
+pods. The field strength is at forty percent and it is still falling. 
+O'BRIEN: If it falls to fifteen percent the field will collapse and
+we'll have a containment breach. 
+TROI: Which means? 
+RO: Which means the ship will explode.
 

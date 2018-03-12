@@ -1,57 +1,33 @@
-LKOR RIKER WORF PICARD TOQ GIRAL BAEL TOKATH
+GUEST4 GUEST5 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-RIKER: Still no sign of them on long range
-scanners. 
-PICARD: Contact DS9. Find out what they know about this Yridian trader.
-
-RIKER: Hopefully he filed a flight plan before he left the station. 
-PICARD: That's the only chance we have of finding Worf. 
-[Meeting hall]
-
-TOKATH: We haven't had to use one of these for a
-long time. It implants a small boridium pellet under the skin. (he
-injects Worf) We can
-use its energy signature to track you. 
-L'KOR: In time, you will grow accustomed to life here. 
-WORF: Never. 
-TOKATH: He is one of yours. Deal with him however you like. But I warn
-you, if he becomes a disruption, I will not be so tolerant. 
-L'KOR: Toq. You guard him. He is free to move around inside the
-compound. But make certain he does not cause trouble. 
 [Compound]
 
-(Worf does his martial art routine) 
-BA'EL: What are you doing? 
-WORF: This is the mok'bara. The form clears the mind and centres the
-body. 
-(Ba'el tries to copy him) 
-WORF: No. Like this. First you must learn to breathe. Stand tall. As
-tall as you can. Now, take a wider stance. 
-TOQ: You must stop. 
-(Worf throws the boy over his shoulder) 
-WORF: These forms are the basis for Klingon combat. You would be wise
-to learn them. I will teach you. Join us. 
-TOQ: We'll see what L'Kor thinks of this. 
-[Ba'el's family's quarters]
-
-BA'EL: Mother? She's not here. Come in. This is
-what I wanted to show you. 
-(She opens a chest. It contains Klingon armour amongst other items) 
-BA'EL: I don't know why, but I'm not supposed to look at these things.
-They're Klingon, aren't they? 
-WORF: Yes. 
-BA'EL: I thought you might be able to tell me about them. 
-WORF: This is a warrior's armour. And this is a d'k tahg. (a knife) It
-should not be allowed to rust like this. 
-(Ba'el has taken a necklace) 
-BA'EL: Isn't it beautiful? 
-WORF: That is a jinaq. It is given to a daughter who has come of age,
-old enough to take a mate. 
-GI'RAL: Ba'el! 
-BA'EL: Mother. 
-GI'RAL: Take that off at once. 
-WORF: Why is she forbidden to know what these things are? 
-GI'RAL: They are not needed here. Go!
+(a pair of metal staves are balanced across
+uprights.) 
+GUEST4: Come on, Toq. 
+(Toq rolls a hoop and knocks the staves off) 
+GUEST4: Who's next? Okay? Try again. 
+(Worf walks over and pulls an upright out of the ground. As Toq rolls
+the hoop, Worf throws the stave through it.) 
+WORF: Ka'la! 
+GUEST5: That is not how you play this game. 
+WORF: The qa'vak is not a game. It hones the skills of the hunt. 
+GUEST5: The hunt? We have replicators here. 
+WORF: Klingons do not hunt because they need food. The hunt is a ritual
+that reminds us of where we come from. 
+GUEST5: I know where I came from. Right here. 
+WORF: It is a difficult skill to master. Perhaps you are too young. 
+GUEST5: Throw it. 
+(so of course Toq takes the stave and gestures another boy to roll the
+hoop. He misses)
+WORF: Your arm is strong, but you need practice. Hold your other arm
+like this and aim along it. Roll. 
+(this time Toq does it right) 
+WORF: You learn quickly. Perhaps it is time to put your skills to the
+test. 
+GUEST5: What do you mean? 
+WORF: Come. I will take you on the hunt. 
+GUEST5: You Are not allowed to leave the compound. They won't allow it. 
+WORF: I think they will.
 

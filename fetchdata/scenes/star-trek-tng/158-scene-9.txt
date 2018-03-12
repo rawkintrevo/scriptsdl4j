@@ -1,50 +1,34 @@
-RIKER LAFORGE CREWMAN PICARD SETAL WORF DATA
+GUEST3 TROI RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Debriefing room]
 
-PICARD [OC]: Our shields around the Romulan scout
-ship. 
-LAFORGE: At that range, the shields won't be able to take much
-punishment, Captain. 
-[Bridge]
-
-DATA: Five kilometres, sir. 
-RIKER: All stop. 
-PICARD: Extend shields. 
-LAFORGE [OC]: Shields in place.
-
-[Engineering]
-
-LAFORGE: We've got the scout ship, Captain. 
-[Bridge]
-
-WORF: Weapons on the warbird are fully powered,
-sir. 
-PICARD: Lock phasers. Open a channel. 
-WORF: Ready. 
-PICARD: Romulan vessel, you are now in Federation territory. Unless you
-withdraw 
-(The warbird does a 180 and cloaks) 
-RIKER: No argument? 
-WORF: Warbird has re-entered the Neutral Zone. Heading for Romulan
-territory. 
-DATA: Massive power failure to the scout ship, sir. All systems are
-going offline, including life support. 
-PICARD: Transporter two, prepare to beam the occupant of the scout ship
-directly aboard. 
-CREWMAN [OC]: Aye, sir.
-RIKER: Mister Worf. 
-PICARD: Mister Data, lock onto the scout ship. Take it in tow.
-
-[Transporter room]
-
-RIKER: Energise. 
-SETAL: I must see your captain immediately. 
-RIKER: We'll take you to Sickbay, after that 
-SETAL: This cannot wait. I have information vital to your survival.
-
-Captain's log, Stardate 43462.5. We have beamed
-aboard an apparent Romulan defector, who claims to be a low ranking
-logistics officer with extraordinary information about a secret
-offensive.
+GUEST3: Why must we waste time playing this
+ridiculous game? 
+TROI: There's more here than you're telling us. You're forcing yourself
+to hold back. 
+GUEST3: I have told you everything relevant about Nelvana Three. 
+TROI: I'm not talking about the base. 
+GUEST3: The base is all that matters. 
+RIKER: You're lying, Setal. 
+GUEST3: Go to Nelvana Three, and you will see. 
+RIKER: We're not going anywhere until we get to the truth You're a spy,
+aren't you? 
+GUEST3: No. 
+RIKER: Then prove it. You can begin by telling me something about the
+location and strength of the Romulan fleet. 
+GUEST3: I don't know it. 
+RIKER: You're a logistics officer. 
+GUEST3: For one sector only. 
+RIKER: Who's your superior officer? 
+GUEST3: Admiral Jarok. 
+RIKER: The location of the Romulan bases along the Neutral Zone? 
+GUEST3: I don't know. 
+RIKER: In your sector? 
+GUEST3: Irrelevant. 
+RIKER: The number of troops under your admiral's command? 
+GUEST3: Irrelevant. Irrelevant. 
+RIKER: I guess you're right. It's not worth playing this game. 
+GUEST3: What a fool I've been. To come looking for courage in a lair of
+cowards.
 

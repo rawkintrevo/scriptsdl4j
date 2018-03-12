@@ -1,47 +1,36 @@
-PICARD RIKER HUTCHINSON CRUSHER DATA
+TIMOTHY TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Corridor]
 
-PICARD: Transporter room one, can you lock on
+(Troi rings the bell of 08-1402 and Timothy opens
+the door. He's wearing a jumper with a gold body section like a
+starfleet uniform) 
+TROI: Hello, Timothy. Are you ready to go? 
+TIMOTHY: Yes, Counsellor. I am ready. 
+TROI: How are you feeling? 
+TIMOTHY: I am functioning within established parameters. 
+TROI: Established parameters? You sound like Data. 
+TIMOTHY: I am an android. 
+TROI: I see. Well, let's go for our walk, shall we? 
+TIMOTHY: That would be acceptable.
 
-[Transporter room]
+[Ten Forward]
 
-PICARD [OC]: To him and transport directly to
-Sickbay? 
-HUTCHINSON: I'll try, Captain, but there's a lot of shielding to pull
-him through.
+TROI: So, what would you like? 
+TIMOTHY: Androids do not need to eat or drink. (spots a dessert being
+carried by a waiter) However, sometimes we like to taste things. A
+Tamarin frost, please.
+Would you like anything, Counsellor? 
+TROI: No, I'm fine, thank you. 
+TIMOTHY: As you wish. 
+TROI: So you're no longer a human? 
+TIMOTHY: I'm an android. 
+TROI: When did this happen? 
+TIMOTHY: I've always been an android. 
+TROI: What's it like being an android? 
+TIMOTHY: I am designed to exceed human capacity, both mentally and
+physically. But I do not experience emotions. 
+TROI: You don't? No emotion at all? 
+TIMOTHY: That is correct.
 
-[Bridge]
-
-PICARD: Acknowledged. Picard to Crusher. 
-[Sickbay]
-
-CRUSHER: Sickbay here, Captain. 
-PICARD [OC]: Prepare for emergency transport. 
-CRUSHER: Yes, sir. 
-[Bridge]
-
-CRUSHER [OC]: Crusher out. 
-PICARD: Picard to Commander Riker.
-
-[Vico]
-
-PICARD [OC]: Is the boy ready, Number One? 
-RIKER: Ready, sir. 
-PICARD [OC]: It's your signal. 
-RIKER: Aye, Captain. It's going to be okay. Here we go. Energise.
-
-[Transporter room]
-
-PICARD [OC]: Ensign, do we have him? 
-HUTCHINSON: The lock is holding. I just can't resolve the matter
-stream, not with all that victurium alloy in the way.
-
-[Vico]
-
-HUTCHINSON [OC]: Commander Riker. You'll have to
-get him out into the corridor. 
-DATA: I could move the beam, sir. However, it may initiate the collapse
-of the surrounding supports. I recommend you and Geordi return to the
-ship. 
-RIKER: Agreed. La Forge. 

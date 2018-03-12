@@ -1,128 +1,41 @@
-TROI LAFORGE WORF PICARD SALIA RIKER WESLEY COMPUTER GIRL DATA ANYA
+RIKER LAFORGE PICARD SALIA WESLEY COMPUTER GUEST0 ANYA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Corridor]
 
-TROI: What I sensed before hasn't changed. 
-DATA: What puzzles me, Captain, is how she is expected to bring peace
-to Daled Four. Its inhabitants have been fighting throughout their
-recorded history. 
-PICARD: What do we know about the cause of these wars? 
-DATA: Only that it is the difference between night and day. 
-RIKER: Data, you used a colloquialism. 
-DATA: Did I? What I meant, sir, is that Daled Four rotates only once
-per revolution. Therefore one side is constantly dark, and the other
-side constantly light. One might surmise that the two hemispheres have
-developed disparate cultures, which is a major cause of most wars. 
-PICARD: This child is supposed to bring them together. 
-RIKER: She seems too delicate for such a task. 
-WORF: Do not be fooled by her looks. The body is just a shell.
-
-[Salia's quarters]
-
-(Salia is talking to another teenaged girl. Where
-did she come from?) 
-SALIA: How can I be a leader if I don't know anything about my people? 
-GIRL: You will lead because you are accepted by both sides. And because
-it is in your blood. 
-SALIA: What is expected of me once I'm there? 
-GIRL: You will know. 
-SALIA: How? 
-GIRL: You just will. Salia, you must arrive with an open mind, without
-preconceived ideas of the worlds
-you will find or the people on either side. 
-SALIA: It's very frustrating. 
-GIRL: You feel the weight of so much responsibility, you're not sure
-you'll live up to everyone's expectations. 
-SALIA: It's not only that. Nobody's even asked me if this is something
-I want. 
-GIRL: It is your duty. 
-SALIA: And I have no choice. 
-GIRL: It won't be as bad as you think. In fact, it could be quite
-wonderful. Besides, you are the last and only chance. 
-(The girl changes into a short, big-eyed, hairy creature that chatters
-at her in alien) 
-SALIA: Don't you think I'm going to need more than instinct to do
-whatever is expected of me on Daled Four?
+WESLEY: What is it? What happened? Salia! 
+SALIA: Stay away from me! I'm sorry. 
+WESLEY: I don't understand. 
+SALIA: I can't stay here! I can't have this life! I want it more than
+anything, but I can't have it! 
+WESLEY: Salia, nothing is impossible. 
+SALIA: Not for you. 
+WESLEY: There's a way. I know there is! 
+(Picard, Anya and a guard come round the corner) 
+ANYA: Leave her alone! 
+PICARD: Ensign, step away from her. 
+ANYA: (to Salia) Come with me.
 
 [Engineering]
 
 LAFORGE: Energy depletion level? 
-COMPUTER: (male) Point oh four percent and increasing. 
-LAFORGE: Wesley? Wesley, you haven't found that defocused area yet? 
-(Wesley is on the upper catwalk) 
-WESLEY: I'm looking. 
-LAFORGE: Yeah, I see the way you're looking. Wesley! 
-WESLEY: What? (drops the equipment) Sorry. I've got my mind on
-something. 
-LAFORGE: I can see that. 
-WESLEY: It's this girl they beamed up, Geordi. She's perfect.
-Absolutely perfect. 
-LAFORGE: Now I understand why you can't concentrate. 
-WESLEY: I'll do better. 
-LAFORGE: Okay. 
-COMPUTER: Warning, resonant field applied. 
-LAFORGE: What is it? What happened? 
-WESLEY: Nothing. I had it on the wrong setting. 
-LAFORGE: I suppose it had to happen to you. It usually does at about
-this age. 
-WESLEY: What usually does? 
-LAFORGE: Glands erupting with hormones. It happens to all of us. 
-WESLEY: Just because I said that I think she's interesting 
-LAFORGE: You said she was perfect. Come on down. You're no use around
-here for now. Come on down. Go talk to her. Use the ladder. 
-(Wesley comes down to Geordi) 
-WESLEY: That's silly, Geordi. But since you recommended it, how should
-I approach her? If she'll talk to me, what should I say? 
-LAFORGE: Just say, 'Hi, I'm Wesley Crusher. I'd like to talk to you'. 
-WESLEY: And then what? 
-LAFORGE: Whatever occurs to you. 
-WESLEY: What if nothing occurs to me? 
-LAFORGE: Look, Wes, I don't have time for this. You're going to have to
-ask somebody else. 
-WESLEY: Okay.
+COMPUTER: Zero. 
+LAFORGE: La Forge to bridge. 
+PICARD [OC]: Yes, Lieutenant? 
+LAFORGE: I've just completed my final adjustments. Thanks for the time.
+You now have warp engines available. 
+PICARD [OC]: Very good.
 
 [Bridge]
 
-(Worf is roaring) 
-WORF: That is how the Klingon lures a mate. 
-WESLEY: Are you telling me to go yell at Salia? 
-WORF: No. Men do not roar. Women roar. Then they hurl heavy objects.
-And claw at you. 
-WESLEY: What does the man do? 
-WORF: He reads love poetry. He ducks a lot. 
-WESLEY: Worf, sounds like it works great for the Klingons, but I think
-I need to try something a little less dangerous. 
-WORF: Then go to her door. Beg like a human. 
-DATA: It should be that simple, Wesley. Judging by her appearance it is
-likely you and Salia are biologically compatible. Of course, there
-could be a difference in the histocompatibility complex in the cell
-membrane, but. 
-WESLEY: Data, I want to meet her, not dissect her. 
-(Wesley leaves as Picard enters) 
-PICARD: Picard to Salia's quarters. 
-SALIA [OC]: Yes, Captain? 
-PICARD: May I activate the viewer? 
-
-[Salia's quarters]
-
-SALIA: Hurry, go, go. 
-(The little furry creature runs out of the room) 
-SALIA: Certainly. 
-PICARD: (on monitor) We've invited Anya to take a tour of the ship.
-Maybe you would like to join her? 
-SALIA: Very much. 
-PICARD: (on monitor) Your escort will with you shortly. Picard out. 
-SALIA: I think I'll go on the tour. 
-(The creature runs back in, chattering) 
-SALIA: Why can't I? This is the only chance I'll ever have to see a
-vessel like this. 
-(The little creature morphs into Anya) 
-ANYA: No. You must remain here where it is safe. Salia, do an old woman
-a favour and obey me for the rest of this trip. 
-SALIA: You are no more an old woman than I am a leader. 
-(Doorbell) 
-SALIA: Yes. Come in. 
-WORF: I'm here to escort you on a tour of the Enterprise. 
-ANYA: Salia will remain behind. I will be right there. You are a
-leader. And I am older than you could ever imagine.
-
+PICARD: Number One, get us to Daled as quickly as
+possible. 
+RIKER: Ensign Gibson, take us to warp eight point eight. 
+GUEST0: (a strawberry blonde) Warp eight point eight, sir. 
+RIKER: Estimated time? 
+GUEST0: Three hours, nine minutes. 
+PICARD: Ensign Crusher, when you're finished with your duties in
+Engineering, report to my Ready Room. 
+WESLEY [OC]: Yes, sir. 
+PICARD: You have the Bridge, Number One. 
+RIKER: Aye, sir. 

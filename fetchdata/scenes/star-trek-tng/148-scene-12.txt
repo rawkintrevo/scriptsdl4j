@@ -1,111 +1,44 @@
-RIKER OBRIEN LAFORGE PICARD PULASKI DATA
+RIKER ARMUS GUEST1 TASHA PICARD TROI PULASKI CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Up The Long Ladder - Riker's
+quarters]
 
-PULASKI [OC]: Medical override is authorised. 
-O'BRIEN: Acknowledged.
+GUEST1: William, is something wrong? 
+RIKER: What do you mean? 
+GUEST1: Do you not like girls? 
+RIKER: Of course I do. Oh, is there a technique to this foot washing? 
+GUEST1: You generally start at the top and work your way down. 
+RIKER: I think I can handle that. 
+GUEST1: I was hoping you might.
 
 [Sickbay]
 
-RIKER: This is the strangest feeling. My whole leg
-just went dead. 
-Captain's log, Stardate 42976.1. During a
-geological survey on Surata Four, Commander Riker has become infected
-by an unidentified microbe.
+PULASKI: The organisms responded all right. Their
+growth rate has doubled. 
+TROI: Then all we've done is made things worse. 
+PULASKI: Now we know the organism's growth rate is related to the
+memories he's experiencing. 
+TROI: Or the emotions that they produce. 
+PULASKI: Different mental processes generate different chemicals.
+Perhaps the organisms are sensitive to brain endorphins. 
+TROI: Then if some types of endorphins attract them 
+PULASKI: Others will repel them. I'm going to change the differential
+current pattern and see what happens.
 
-[Sickbay]
+[Skin of Evil]
 
-PICARD: Number One. 
-RIKER: Captain. 
-PICARD: Put your foot where it didn't belong? 
-RIKER: The Doctor said she was getting bored. I just thought I'd give
-her a challenge. 
-PULASKI: That you did. The Commander's nervous system has been invaded
-by an unknown microorganism. Not a bacteria, not a virus, but with the
-elements of both. There's the point of entry. The microbes are
-infecting the great sciatic nerve, and they are multiplying at an
-incredible rate. There. 
-PICARD: Can you remove it? 
-PULASKI: Not surgically. The organisms fuse to the nerve, intertwining
-at the molecular level. 
-RIKER: That's why the transporter's biofilters weren't able to extract
-it. 
-PULASKI: There's no evidence of nerve damage, but the organisms are
-impeding nervous function. 
-RIKER: My leg's still asleep. 
-PICARD: Prognosis? 
-PULASKI: The infection is spreading. It will eventually reach the
-brain. 
-PICARD: And if it interfered with neural activity there? 
-PULASKI: Commander Riker could die. 
-PICARD: How can I help? 
-PULASKI: I need to know more about its composition. 
-PICARD: And for that, you need a sample. 
-PULASKI: Exactly. 
-PICARD: Commander Data, Mister La Forge, prepare to beam down to the
-planet. 
-LAFORGE [OC]: Aye, sir.
-
-[Transporter room]
-
-DATA: I must reiterate, it would be better if I
-went alone. 
-LAFORGE: Don't like my company? 
-DATA: Your company is not at issue. Your vulnerability to the
-microorganism is. 
-LAFORGE: I'll watch where I step. Besides, how do we know that this bug
-doesn't like androids more than it likes humans? 
-DATA: Possible, but highly unlikely. In any event, why risk both of us?
-
-LAFORGE: Because I know exactly where Commander Riker was when it
-happened. 
-DATA: Mister O'Brien, energise. 
-[Steamy mangrove swamp]
-
-LAFORGE: He was right over here. 
-DATA: I am detecting no animal life within fifty kilometres. However, I
-am reading extensive animal remains, mostly fossilised. 
-LAFORGE: A graveyard? 
-DATA: I do not know. 
-LAFORGE: Data, that a look at this. 
-(an external root) 
-DATA: The structure is rhizomatous. 
-LAFORGE: Careful. 
-DATA: I am always careful. 
-DATA: It appears to be dead. 
-LAFORGE: I'm not so sure. I can see thermal variations. Let it go for a
-second, Data. Let's try something. Perhaps it likes humans more than
-androids. 
-DATA: If you are correct, you are placing yourself in grave danger. 
-LAFORGE: I'm counting on those great android reflexes of yours. 
-(Even as he spoke, the root moved towards Geordi, and Data grabbed it) 
-LAFORGE: That must be what we're looking for. 
-DATA: I would tend to agree. 
-(Geordi phasers the wicked thorn from the side of the root. This seems
-to hurt the plant) 
-LAFORGE: Stand by, O'Brien. Got it. Energise!
-
-[Transporter room]
-
-LAFORGE: Thanks, O'Brien. Another minute, and we'd
-have been fossils ourselves. 
-DATA: Not precisely, Geordi. True fossilisation requires several
-millennia. 
-LAFORGE: Here's your sample, Captain. 
-PICARD: Get it to Sickbay right away. 
-(La Forge leaves) 
-PICARD: Report. 
-DATA: Captain, Commander Riker's injury was not accidental. Certain
-vines on the planet evidently seek out warm-blooded beings and
-deliberately infect them. 
-PICARD: To what end? 
-DATA: Unknown, sir. It is conceivable there is a symbiotic relationship
-involved. 
-PICARD: Go on. 
-DATA: There are numerous animal remains in the area, leading me to
-hypothesize that the vines could be predatory. 
-PICARD: Vines infect animals in order to kill them? 
-DATA: It is possible. For Commander Riker's sake, I hope my hypothesis
-is in error. 
-PICARD: Unfortunately, Mister Data, your hypotheses rarely are.
+TASHA: We're not going without our shuttle crew. 
+ARMUS: I warn you. 
+TASHA: Enough! We have people who need attention. We won't hurt you,
+but we must help them. 
+(Armus lets lose a bolt of energy which sends Tasha flying a long way.
+Riker and Data's phasers have no effect on Armus)
+PICARD [OC]: Number One! 
+RIKER: The creature attacked us. Lieutenant Yar is down. 
+DATA: It seems to feed on our phaser energy. 
+RIKER: We had no effect on it. 
+(Armus sinks back into the slick) 
+PICARD: What's Lieutenant Yar's condition? Doctor Crusher, report! 
+CRUSHER: She's dead.
 

@@ -1,92 +1,41 @@
-RIKER LAFORGE WORF PICARD TORAK CRUSHER AQUIEL
+PICARD RIKER AQUIEL LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Aquiel's quarters]
+[Ready room]
 
-(Geordi is looking at Aquiel's novel) 
-LAFORGE: How could she read this stuff? 
-RIKER: How's it going? 
-LAFORGE: I've managed to access all of Lieutenant Uhnari's logs. I'm
-still looking for Lieutenant Rocha's. Whatever happened to the
-encrypted messages had a cascade effect on the whole storage system. I
-can't find his files anywhere. I'm running a level three diagnostic
-now. 
-RIKER: Maybe Rocha didn't make the official logs. Uhnari could have
-been responsible for them. 
-LAFORGE: I don't think so. Aquiel was the junior officer here. 
-RIKER: Aquiel? 
-LAFORGE: Lieutenant Uhnari. I've been up all night watching her
-personal logs. I guess I'm starting to feel like I know her. 
-RIKER: What was she like? 
-LAFORGE: Well she was Hahliian. She had one sister named Shiana, she
-drank muskan seed punch. She had a quirky sense of humour. She liked to
-sing. She had questionable taste in literature. 
-PICARD [OC]: Enterprise to Commander Riker. 
-RIKER: Riker here. 
-PICARD: The Klingon ship Qu'Vat has arrived with Governor Torak. Please
-report to the Observation lounge. 
-RIKER: We're on our way.
+RIKER: Rocha's file is spotless. Two decorations
+for valour, three outstanding evaluations from his previous commanders.
+Doesn't sound like the same man that Lieutenant Uhnari described. 
+PICARD: What did you found out about Uhnari? 
+RIKER: I checked into her record, too. Her last posting was on Deriben
+Five. I spoke to her commanding officer there. He said she was
+argumentative, quick to take offence. He also told me he transferred
+her to that relay station because she was hampering their efforts. To
+be honest, I'm having trouble believing her story, sir. 
+PICARD: Why? 
+RIKER: I sent Worf to check the weapons locker on the relay station.
+There's a phaser missing. 
+PICARD: You think that she lied? 
+RIKER: Lied, conveniently forgot, I'm not sure. I think it's something
+we have to consider. 
+PICARD: As of now, we don't have sufficient evidence one way or the
+other. I want you to examine her shuttle. You might find something
+there which will shed some light on her story. 
+RIKER: Aye, sir.
 
-[Observation lounge]
+[Corridor]
 
-WORF: Governor Torak, sir. 
-PICARD: Governor. Welcome aboard. 
-TORAK: Do not bore me with your human pleasantries. I told you we did
-not kill the woman. Now I will prove it to you. ghoS! 
-(a Klingon escorts a woman into the room) 
-TORAK: This is Lieutenant Aquiel Uhnari. 
-(soon after) 
-AQUIEL: We were running a level two diagnostic of the message buffer,
-Nothing special. Rocha had been on edge all morning, but he'd been
-irritable ever since he got there, so I didn't think anything of it. We
-were halfway through the procedure when suddenly he attacked me. He
-grabbed me, threw me against a bulkhead. I yelled at him to stop but he
-wouldn't listen. He took me by the throat. I broke free and tried to
-get to the weapons locker. I'm not sure what happened next but somehow
-I got aboard the shuttle and left. 
-TORAK: We found her on our side of the border heading toward Sector two
-five two zero. She is lucky my patrol ship did not destroy her vessel
-on sight. 
-PICARD: Lieutenant, why didn't you contact Starfleet? Let them know
-what happened on board the station? 
-AQUIEL: I don't know, sir. Maybe I passed out. I'm not even sure how
-long I was in the shuttle before the Klingons picked me up. 
-LAFORGE: Forty six hours. You've been gone forty six hours. 
-CRUSHER: We presumed you were dead. Your blood stains were found at the
-murder scene. 
-AQUIEL: I must have cut my head when he pushed me against the bulkhead.
-
-WORF: Then the remains we found must be those of Lieutenant Rocha. 
-CRUSHER: I can't confirm that. Until we're able to separate the
-cellular residue from the
-deck plate, I won't be able to do a clear DNA scan. 
-RIKER: You said you were trying to get to the weapons locker. Is there
-a possibility
-that you did? 
-AQUIEL: No, I didn't. 
-RIKER: You're sure? 
-AQUIEL: I don't remember exactly what happened to me after I was
-attacked. I'm sorry. It's as if all my memories were drained out of me.
-
-LAFORGE: Your logs said that a Commander Morag had been harassing you.
-Did you let him or any other Klingon aboard the station? 
-AQUIEL: Absolutely not. 
-WORF: If that is true, then Morag or some other Klingon must have
-boarded the station after she left. We found traces of Klingon DNA on
-the station. 
-TORAK: You still try to blame us. 
-WORF: Have the courage to admit your mistakes. Or are you a lo'Be Vos? 
-TORAK: At least I do not wear the uniform of the P'tak! 
-PICARD: Governor, we are merely exploring all the possibilities.
-Lieutenant Uhnari's logs reported that Commander Morag had been
-harassing the station. 
-TORAK: He was doing his job. 
-PICARD: If he was only doing his job, then I'm sure you won't mind if
-we spoke with him. 
-TORAK: Very well. In the interests of diplomacy, I will allow you to
-speak to Morag. But my patience has limits. 
-(Torak and his aide storm out) 
-LAFORGE: Lieutenant, I know a friend of yours who's very eager to see
-you. 
-AQUIEL: Who? 
-LAFORGE: Come with me.
-
+AQUIEL: How much longer do you think the
+investigation will take? 
+LAFORGE: Three, maybe four days. It's tough to tell. 
+AQUIEL: I know I'm a suspect in the murder, but let me ask you
+something. You've watched my logs. You know me better than anyone here.
+Do I seem like the kind of person who could murder someone? 
+LAFORGE: No, you don't. 
+AQUIEL: I don't think I realised how much I needed to hear that. 
+LAFORGE: Look, Aquiel, it's been a rough couple of days. I think you
+need some sleep. 
+AQUIEL: You called me complicated. You're right. I don't make friends
+easily. Oumriel. 
+(she strokes his face and goes into her quarters) 
+LAFORGE: Oumriel. 

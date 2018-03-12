@@ -1,51 +1,43 @@
-TROI LAFORGE PICARD RIKER CRUSHER DATA
+PICARD TROI CRUSHER DATA WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Troi's quarters]
+
+TROI: Sir, I think Tasha's been infected too. 
 [Bridge]
 
-RIKER [OC]: Apparently some of them were apparently
-blown out the emergency hatches. 
-PICARD: But there were eighty people on that ship, Number One. 
-RIKER [OC]: Yes sir. 
-[Tsiolkovsky]
+TROI [OC]: She just left my quarters, 
+PICARD: Counsellor, it's not actually an infection. 
+[Troi's quarters]
 
-RIKER: As I said, all dead.
+TROI: Yes, sir. It's more like an intoxication. Nut
+whatever it is, she's got it. 
+[Bridge]
 
-Captain's log, supplemental. We are downloading the
-research information gathered on the collapsing star nearby. I am
-concerned at being in such close orbit, but the Tsiolkovsky's research
-records will no doubt predict the time of the star's final collapse.
-
-[Crusher's office]
-
-CRUSHER: I can't find anything unusual in any of
-the tricorder readings they've sent over, Captain. 
-PICARD: Give me a theory, Doctor. Anything. Madness? Mass hysteria?
-Delusion? 
-TROI: Any or all, Captain. 
-PICARD: All right. Let's bring the away team back. Set the transporter
-to maximum decontamination, and then full examination and observation
-when they're here.
+PICARD: Thank you, Counsellor. Number One, it seems
+our Security Chief has the equivalent of a snootful. 
+DATA: Inquiry, sir. Snootful? 
+PICARD: Forget it.
 
 [Sickbay]
 
-CRUSHER: If you were any more perfect, Data, I'd
-write you up in a Starfleet medical textbook. 
-DATA: I am already listed in several bio-mechanical texts, Doctor. 
-CRUSHER: Yes of course. You're next, Lieutenant. 
-(Geordi lays on the bed) 
-CRUSHER: Normal all across. Except, why are you perspiring, Lieutenant?
+(Beverly is working in her office when Wesley calls
+out to her) 
+WESLEY: Hey, Mom, look what I can do. 
+(She dashes into Sickbay to see him playing with his tractor beam
+device) 
+WESLEY: I've been able to widen and strengthen the beam, just like I
+told you last night. 
+CRUSHER: Do me a favour, Wes. There's something happening on this ship.
+Just to be safe, I'd like you to stay in our quarters until it's
+solved. 
+WESLEY: Sure, Mom, sure. Your wish is my command. 
+CRUSHER: Now, Wes. 
+WESLEY: Okay, but you could be stunting my emotional growth, you
+realise that. Why is it so hot in here, anyway? 
+PICARD [OC]: Picard to Crusher. 
+CRUSHER: Crusher here. 
+PICARD: Have you made a test injection yet? We're getting indications
+that this condition is spreading. 
+CRUSHER: No test yet, Captain, but very soon.
 
-LAFORGE: I suppose because you have it too hot in here. What else would
-it be? 
-RIKER: That doesn't sound like you, Geordi. 
-LAFORGE: Well, maybe it's not. Maybe she threw her voice. Hey, it was a
-joke. 
-CRUSHER: Of course, but I would like to run one or two more tests on
-you, Lieutenant. 
-[Bridge]
-
-CRUSHER: [OC]: Sickbay to Bridge, 
-PICARD: Picard here. Go ahead, Doctor. 
-CRUSHER: [OC]: I'm confining Lieutenant La Forge to Sickbay until
-further notice. 
-PICARD: Do we have a problem, Doctor? 

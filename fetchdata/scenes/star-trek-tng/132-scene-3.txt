@@ -1,48 +1,98 @@
-WESLEY RIKER PICARD
+TROI WOMAN GUEST0 WORF PICARD RIKER GUEST1 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Room]
+
+(They arrive in a marbled room, and walk forward to
+an area with a slightly raised
+dais in front of a stained glass window. There is no one there.)
 
 [Bridge]
 
-RIKER: Reduce to half impulse. 
-WESLEY: Reducing velocity to one half impulse. 
-[Ready room]
+RIKER: Captain, this is the Enterprise. 
+[Room]
 
-(Picard has a holographic representation of a solar
-system over his desk, with some very erratic orbits in it) 
-PICARD: Come. Ah, Number One. Look at this. Ever since we left the Lima
-Sierra system, I have been puzzling over how the third planet could
-maintain such an orbit, when it is theoretically impossible. But
-consider this. 
-RIKER: There's no degeneration. 
-PICARD: Exactly. 
-RIKER: Why? 
-PICARD: Why? I haven't a clue. 
-RIKER: Perhaps this facsimile lacks the proper mass. 
-PICARD: Perhaps, but if this is an accurate representation, it could
-explain what happened in that system. 
-RIKER: Perhaps. 
-PICARD: Well, not a matter of great moment, just a knot I had to untie.
-So, what do you want to see me about? 
-RIKER: We've arrived at Ramatis Three. 
-PICARD: Oh well, time to leave. 
-
+PICARD: We've arrived safely, Number One, but so
+far we've been ignored. I'll keep you informed. 
 [Bridge]
 
-RIKER: Standard orbit, Mister Crusher. 
-WESLEY: Standard orbit. 
-PICARD: Mister Data, you have the Bridge.
+RIKER: I would appreciate it. 
+[Room]
 
-[Turbolift]
+TROI: Captain. 
+WORF: Sir. 
+(A well build man with red hair and beard has entered. He stops in
+front of each of them in turn. Please note this actor really is deaf.) 
+TROI: Riva. 
+(He goes and stands on his dais. Picard steps forward but is gestured
+to stop. Two men and a woman in white enter and stand in front of Riva)
 
-RIKER: Transporter room five. I'm still a little
-uncomfortable with your leading this away team. 
-PICARD: This is not an away team, Commander. I consider this a
-ceremonial function. For me not to go could be construed as lack of
-interest. 
-RIKER: You will be careful, sir 
-PICARD: Oh, cluck, cluck, Number One. 
-RIKER: Sir? 
-PICARD: You're being a mother hen. I appreciate your concern. Actually
-I'm looking forward to meeting this mediator. 
-RIKER: We came a long way to get him. 
-PICARD: They wanted the best. That, according to all reports, is Riva.
+WOMAN: Please, come closer. Before I start, is there anything you need?
+Food, refreshments? 
+PICARD: Thank you, no. 
+GUEST0: (the man in the hat) Then proceed. 
+PICARD: Greetings from the United Federation of Planets. I am Captain
+Jean Luc Picard, of the USS Enterprise. This is Counsellor Troi.
+Lieutenant Worf. 
+GUEST1: Greetings. 
+GUEST0: Welcome to Ramatis. 
+WOMAN: I have been expecting you. 
+GUEST1: You are empathic. 
+TROI: Yes. 
+(Riva walks towards Troi) 
+GUEST1: Then although you already know my feelings toward you, allow me
+to put them into words. I am looking forward to this journey, now more
+than ever, because it gives me the chance to be in your company. 
+TROI: I am flattered. I too am look forward to learning more about you.
+
+(Riva goes back to his dais) 
+PICARD: There are aspects to Riva of which we have not been informed. 
+WOMAN: Precisely. Our way of communicating has developed over the
+centuries and its one that I find quite harmonious. 
+PICARD: Then Riva the mediator 
+WOMAN: Is deaf. 
+PICARD: Deaf? 
+WOMAN: Born, and hope to die. 
+PICARD: And the three of you speak for him? 
+GUEST2: Yes. 
+GUEST0: We serve as translators. We convey not only his thoughts, but
+his emotional intent as well. I am the Scholar. I represent the
+intellect, and speak in matters of judgement, philosophy, logic. Also,
+I am the dreamer, the part that longs to see the beauty beyond the
+truth which is always the first duty of art. I am the poet who 
+GUEST1: Artists, they tend to ramble, neglect the moment. I am passion,
+the libido. I am the anarchy of lust, the romantic and the lover. I am
+also the warrior, the perfect line which never wavers. 
+WOMAN: I am that which binds all the others together. I am harmony,
+wisdom, balance. 
+PICARD: Remarkable. And so these 
+(Riva steps forward, angry) 
+GUEST0: Speak to me! 
+PICARD: What? 
+GUEST0: Speak directly to me. 
+PICARD: The uniqueness of this presentation provoked this inadvertent
+breach in protocol. No insult was intended. 
+GUEST0: Then none is perceived. 
+PICARD: I'm curious about how this rare form of communication came
+about. 
+WOMAN: The gene for hearing is not present in my planet's ruling line. 
+GUEST0: Not that unusual, indeed it is similar to the House of Hanover
+of your planet Earth, all who had haemophilia. Or the leaders of
+Fendaus Five, who were without limbs. 
+WOMAN: Many of the galaxy's greatest contributors have been similarly
+special. 
+GUEST0: My Chorus is so attuned, they can hear my thoughts and
+translate to you. It is a relationship which goes back for centuries.
+Their ancestors provided the same service to my ancestors. 
+TROI: Your method of communication is most elegant and quite beautiful.
+
+GUEST1: It takes a fine mind to realise that, Counsellor Troi. 
+TROI: This part of you doesn't speak very often. 
+GUEST1: Only when the spirit moves me. 
+PICARD: Riva, if you are ready, the situation at Solais Five is very
+critical. We should not delay. 
+GUEST0: Very well. 
+WORF: With your permission, Captain. 
+PICARD: Make it so, Mister Worf. 
+WORF: Enterprise, this is the away team. Seven to beam up.
 

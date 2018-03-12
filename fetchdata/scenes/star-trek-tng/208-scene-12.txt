@@ -1,45 +1,33 @@
-PICARD DATA KVADA
-
-[Klingon quarters]
-
-DATA: These quarters were obviously intended for
-one crewmember, sir. There is but a single sleeping space.
-PICARD: I'm sure the Klingons found it amusing to put us in here
-together.
-DATA: Since I do not require sleep, I propose you take the shelf, sir.
-I am content to stand.
-PICARD: Very well, Mister Data. Thank you.
-(Picard lies down on the metal shelf with a bulkhead only just above
-his head) 
-DATA: Are you comfortable, sir?
-PICARD: I suppose so.
-DATA: Good night, Captain. Sleep well, sir.
-PICARD: Thank you.
-PICARD: What are you doing?
-DATA: Sir? Was I making noise, sir?
-PICARD: No, not exactly 
-DATA: I was processing all of the information we have accumulated on
-Romulan society. I am preparing for the task of impersonating a Romulan.
-PICARD: I see.
-DATA: Would you like me to discontinue, sir?
-PICARD: No. Please go on.
-PICARD: What are you looking at?
-DATA: I am not looking at anything, sir. I am continuing to organise my
-files.
-PICARD: But you're looking at me.
-DATA: I am sorry if I was disturbing you, sir. I will not look in your
-direction.
-(Data turns around, Picard gives up and gets up) 
-DATA: Do you not wish to sleep, sir?
-PICARD: I don't think so, Mister Data. Let's go on with the files. 
-DATA: I would be happy to. I have been studying the Krocton segment, as
-you asked, and have selected an appropriate site for our transport. 
-K'VADA [OC]: Captain K'Vada to Picard. Please come to the bridge.
+PICARD GUEST6 GUEST5 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Klingon Bridge]
 
-K'VADA: Captain. We've monitored a subspace message
-that might interest you.
-(Picard reads the PADD) 
-PICARD: Sarek is dead.
+K'VADA: Don't you two look sweet. Be careful,
+android. Some Romulan beauty might take a liking to you. Lick that
+paint right off your ears. You. Do you know what the Romulans will do
+to you if they discover who you are?
+PICARD: I have a good idea. We're ready to transport down to the
+surface.
+K'VADA: Just so we understand each other, my orders don't include
+rescue missions.
+
+[Romulan office]
+
+(Pardek, a stocky man, enters) 
+GUEST5: Ah, Senator Pardek. You received my message.
+GUEST2: I got here as quickly as I could, Proconsul.
+GUEST5: What do you know of this human? Jean-Luc Picard, a Starfleet
+Captain. 
+GUEST2: I know nothing of him.
+GUEST5: You haven't seen him recently?
+GUEST2: To my knowledge, I have never seen him.
+GUEST5: I have received intelligence indicating he's on his way here.
+Perhaps here already.
+GUEST2: Here on Romulus?
+GUEST5: Yes. Curious, isn't it. I suppose we'd better find out if the
+report is accurate or merely rumour. Circulate his likeness among the
+security forces. Remind them that if he is here, he's probably
+disguised as one of us.
+GUEST2: I'll see to it.
 

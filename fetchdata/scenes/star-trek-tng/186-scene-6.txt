@@ -1,53 +1,46 @@
-RIKER OBRIEN LAFORGE WORF PICARD MACET
+OBRIEN WORF PICARD GUEST2 GUEST6 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Turbolift]
 
-(Three Cardassians arrive and look around) 
-RIKER: Welcome to the Enterprise. I'm First Officer William Riker,
-Counsellor Deanna Troi. 
-MACET: I am Gul Macet. My aides, Glinn Daro, Glinn Telle. 
-RIKER: This is our Transporter Chief, Mister O'Brien. Shall we? 
-(Troi gives O'Brien a concerned look) 
-Captain's Log, supplemental. We have entered
-Cardassian territory, and are proceeding on our quest to locate the
-Phoenix.
+O'BRIEN: Deck six. 
+GUEST6: Deck ten. Your Captain is most impressive. 
+O'BRIEN: Yes, he is. 
+GUEST6: Chief O'Brien, our Transporting system is still operating with
+active feed pattern buffers. I would like to talk with you about your
+technology. 
+O'BRIEN: I'll have to get Commander La Forge's approval on that. 
+GUEST6: I understand. In the meantime, we're going to your Ten Forward.
+Will you join us? 
+O'BRIEN: If my Commander tells me to discuss the Transporter with you,
+I will. If Captain Picard orders me to tell you everything I know about
+Ben Maxwell, I will. But who I choose to spend my free time with,
+that's my business.
 
-[Observation lounge]
+[Bridge]
 
-(the Cardassians have removed their 'helmets') 
-LAFORGE: And with long range sensors, we've been scanning a radius of
-ten light years. We can effectively scan one sector in a day. 
-RIKER: We're scanning Sector twenty one five oh five now. There's still
-no sign of the Phoenix. 
-MACET: In fact, you have no assurance that the ship is still in Sector
-twenty one five oh five. 
-RIKER: In fact, we have no idea where it is. We thought the last known
-coordinates were a reasonably good place to start. 
-MACET: Captain Picard, you can understand that we are sceptical. Do you
-expect us to believe that you are using every means at your disposal to
-track down one of your own? 
-PICARD: Of course you are concerned, Gul Macet. It is precisely because
-of that fact that I have included you in every aspect of our effort.
-You're present with my staff. You're hearing reports as I hear them,
-nothing edited, nothing withheld. 
-MACET: Very well. 
-PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I
-thought that he might be able to provide some insights.
-Mister O'Brien, I understand that Captain Maxwell lost his family
-during a raid on an outpost. 
-O'BRIEN: More like sabotage, sir. It was on Setlik Three. A squad of
-Cardassian militia made a sneak raid on an outpost, wiped out close to
-a hundred civilians. 
-MACET: Then it's revenge he's after. 
-O'BRIEN: That's not what I meant. 
-MACET: Maxwell is taking retribution for his own loss. 
-O'BRIEN: Captain Maxwell would never 
-PICARD: Gentlemen, please, let's not indulge in speculation. Can we
-confine our discussion to facts? Now, Mister O'Brien 
-WORF [OC]: Worf to Captain Picard. 
-PICARD: Go ahead, Mister Worf. 
-WORF [OC]: Long range sensors have located the Phoenix. 
-PICARD: Gul Macet, will you join me on the Bridge? 
-(O'Brien and the aides leave by a different door. note - Daro is pale,
-Telle is dark)
+DATA: Captain, the Phoenix in Sector twenty one
+five oh five. 
+PICARD: Ensign, set a course, warp six. Mister Worf, send a message by
+subspace. Tell them to prepare for a rendezvous. 
+WORF: Yes, Captain. 
+GUEST2: Captain, a suggestion. 
+PICARD: Yes? 
+GUEST2: We have a number of ships in sector twenty one five oh five. If
+you will give us more precise coordinates and the ship's coded
+transponder frequency, we would be able to intercept Maxwell far more
+quickly than you. 
+PICARD: I'm sure that's true. However, given the circumstances, I would
+prefer to make the initial contact myself. I'm sure you would, if the
+situation were reversed. 
+GUEST2: Captain, time is crucial. You have a dangerous man out there
+with a huge arsenal at his command. If he is intent on revenge against
+my people he must be stopped before he can do more damage. 
+PICARD: Captain, so far we have an isolated incident. If I can reach
+him first, then perhaps diplomacy can prevail.
+But if one of your ships decides to retaliate, there is a danger we
+could lose control of the situation. 
+GUEST2: Then you will not give us the means to find his precise
+location? 
+PICARD: No. I won't.
 

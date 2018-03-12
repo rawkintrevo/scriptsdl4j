@@ -1,72 +1,58 @@
-TPAN KURAK REYGA JOBRIL CHRISTOPHER CRUSHER
+GUINAN CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Science lab]
+  [Crusher's
+quarters]
 
-(and back we go into the story) 
-CRUSHER [OC]: But of all the scientists I invited, only four were
-interested in hearing about Doctor Reyga's invention. And I wasn't
-altogether sure they were going to be compatible. Kurak was a warp
-field specialist on the Klingon Homeworld. I don't think Klingons
-regard scientists very highly. She always seemed a little defensive.
-Doctor T'Pan is practically a legend in the field of subspace
-morphology. She's been the director of the Vulcan Science Academy for
-fifteen years. Her husband, Doctor Christopher, came with her. I didn't
-know much about him, but he was some kind of subspace theoretician.
-Jo'Bril was a Takaran, the first one I'd ever met. I had no idea what
-to expect from him. And then there was Doctor Reyga, the Ferengi
-scientist. 
-REYGA: You've all seen my experimental data. The metaphasic shield has
-been proven. 
-T'PAN: Forgive my scepticism, Doctor, but your claims are somewhat
-extravagant. Protect a shuttle within a star's corona? Not even your
-own government believes it can be done. 
-CRUSHER: That's why I've invited you all here. You have the vision to
-see the potential of Doctor Reyga's metaphasic shield. 
-REYGA: I need help to develop the shield. I am willing to grant
-exclusive rights to whoever provides the necessary resources. 
-CRUSHER: I think you all realise what this shielding process could
-mean. The possibilities of exploration and research are endless. 
-KURAK: But only if it works. I'm not convinced that this metaphasic
-shield can withstand either the temperature or the radiation it would
-be exposed to. 
-REYGA: But it has! Not only in countless simulations, but in a field
-test that I conducted myself. 
-KURAK: For which, of course, we have only your word. 
-REYGA: Are you accusing me of falsifying my data? 
-KURAK: You would not be the first scientist to manipulate experimental
-data to his own advantage. 
-CRUSHER: Doctor Reyga has offered to demonstrate his invention. He's
-outfitted one of our shuttles with his metaphasic shield. 
-REYGA: I will take it into the corona of the star Vaytan. 
-CHRISTOPHER: That star has a superdense corona. The shuttle would be
-subjected to particularly intense radiation. Perhaps it would be wise
-to choose a star of lesser magnitude. 
-T'PAN: I agree. My own research into solar energy transfer suggests
-that Vaytan's corona is extremely unstable. 
-REYGA: What better way to test my invention? I'm not concerned. The
-shield will hold. 
-KURAK: I for one would feel more comfortable if someone else flew the
-shuttle. Someone more objective. 
-JO'BRIL: I will volunteer for that task. I've spent years studying
-solar plasma reactions. The thought of being able to penetrate a star's
-corona. It is a remarkable opportunity. I've studied your data, Doctor
-Reyga. I think you're on solid scientific ground. 
-KURAK: I do not share your optimism, Doctor Jo'Bril, but if you wish to
-pilot the craft, I would be more confident in your assessment of the
-shield than Doctor Reyga's. 
-CHRISTOPHER: I agree. At this point, we need an impartial evaluation. 
-CRUSHER: We'll need to be sure that you're familiar with the shuttle's
-controls and Doctor Reyga's modifications. 
-JO'BRIL: I'm an accomplished pilot. It will be no problem. 
-CRUSHER: Well, what do you think? 
-REYGA: I am gratified, Doctor Jo'Bril. And there will be no difficulty
-in operating the metaphasic controls. The system will activate
-automatically as you approach the star. 
-CRUSHER: Well, then. We'll proceed with the demonstration at fifteen
-hundred hours. We'll meet on the Bridge. 
-CRUSHER [OC]: It wasn't exactly an enthusiastic response to Doctor
-Reyga's technology, but given the circumstances and the scientist's
-quarrelsome personalities, I was quite pleased. 
-CRUSHER: I thought that went well, didn't you? 
-REYGA: Thanks to you, Doctor. 
-CRUSHER: I didn't do anything. 
+(Beverly has just got home, and is not in a good
+mood. Then the doorbell chimes.) 
+CRUSHER: All right, come in. 
+(Guinan enters, holding her left arm) 
+CRUSHER: Guinan? What's wrong? 
+GUINAN: I need a doctor. Geordi beat me in straight sets today. I think
+I've developed tennis elbow. 
+CRUSHER: Well, you'd better go to Sickbay. I think Doctor Selar's on
+duty. 
+GUINAN: I don't want to see Doctor Selar. I always see you. I'm very
+particular about my doctors. 
+CRUSHER: Well, you'd better get a new one, because I'm not a doctor on
+this ship anymore. 
+(after the titles, Beverly has changed into civilian clothes) 
+CRUSHER: Three days on a shuttle to Starbase twenty three, transport
+back to Earth. I can hear Admiral Brooks now, telling me how I've
+disgraced Starfleet Medical. Then a leisurely day and a half before the
+formal inquiry begins and my career ends. 
+GUINAN: Beverly? My elbow. 
+CRUSHER: Your elbow. Let me see it. Does this hurt? 
+GUINAN: Ow! Yes, right there. 
+CRUSHER: That's tennis elbow, all right. Here, hold your arm like this.
+
+GUINAN: You know, I've never been to a formal inquiry. 
+CRUSHER: Well I'll see if I can arrange one for you. All you have to do
+is disobey orders, violate medical ethics, and cause an interstellar
+incident. 
+GUINAN: Well I guess that would do it. 
+(Beverly treats the elbow) 
+CRUSHER: Make a fist. 
+GUINAN: Do I have to hit you with my fist before you tell me what
+happened? 
+CRUSHER: It all started when those scientists came on board. No. It
+started when I got curious. 
+GUINAN: Well, there's nothing wrong with that. 
+CRUSHER: That's why I went to the Altine Conference. I'd heard about a
+new subspace technology developed by a Ferengi, a Doctor Reyga. 
+GUINAN: A Ferengi scientist. Hmm. 
+CRUSHER: His invention was based on metaphasic fields, but his
+methodology was completely unorthodox. 
+GUINAN: I like unorthodox. 
+CRUSHER: Too bad you weren't there. Nobody else would listen to him.
+They all but jeered him off the stage. But I had read his paper and his
+work was extraordinary. 
+GUINAN: So you gathered all these scientists to come hear this Ferengi.
+
+CRUSHER: Yes. I hoped I could be a facilitator. I thought if I invited
+scientists from various cultures to board the Enterprise, I could sit
+them and down help them understand the value of his ideas. 
+GUINAN: Like a scientific diplomat. 
+CRUSHER: Exactly. So, after persuading the Captain, I had to round up
+as many scientists as I could from the field of subspace technology. 

@@ -1,45 +1,47 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA
+PICARD GUINAN CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Brig]
 
-RIKER [OC]: One survivor. It's a Borg. Male,
-adolescent. He's badly hurt.
-DATA: Sir, there is no indication of other Borg activity within sensor
-range.
-PICARD: Away team, prepare to return to the ship. 
-CRUSHER [OC]: Captain, we can't 
-[Crash site]
+(the Borg is checking every millimetre of the walls
+and forcefield) 
+CRUSHER: What's he doing?
+PICARD: He's trying to find an access terminal so he can interface with
+the collective. He doesn't understand that the signal has been cut off.
+LAFORGE: He's emitting a homing signal and a second subspace beacon,
+but our damping field is blocking both signals.
+PICARD: He's alone. For the first time he's being forced to cope with
+his environment without the resources of the Collective.
+CRUSHER: He must be hungry. The Borg don't ingest food. Their implants
+can synthesise any organic molecules the biological tissues require.
+What they need is energy.
+PICARD: Arrange to feed it.
+LAFORGE: Aye, sir. 
+(Picard leaves) 
+LAFORGE: I'll have to adapt a power conduit and install it in there.
+CRUSHER: If I didn't know better, I'd think he was scared.
 
-CRUSHER: Leave him here. He won't survive.
-RIKER: I think the Captain understands that.
-CRUSHER: I don't.
-RIKER: The Borg usually collect their dead. 
-CRUSHER: He's not dead.
-RIKER: The transmission 
-CRUSHER: At least not yet.
-RIKER: The transmission that we intercepted was probably a homing
-signal. We have to assume they're on their way.
-CRUSHER: Let me at least stabilise his condition, give him a chance of
-surviving until they get here.
+[Gymnasium]
 
-[Bridge]
+(Picard is fencing and beating an opponent who
+turns out to be - ) 
+GUINAN: I don't think I like this sport.
+PICARD: Last week when you scored two touches, you liked it well
+enough. Today you were dropping your foil. You kept letting me inside.
+GUINAN: Ah, but if I lift up, you lunge right underneath. Let's face
+it, you're just better at this than I am. I understand we have a guest
+on board.
+PICARD: Yes.
+GUINAN: Is that wise?
+PICARD: I'm not sure. I hope so.
+GUINAN: I thought I understood you, Picard, but I don't understand this.
+PICARD: It was an errand of mercy. He was injured, Doctor Crusher
+decided for humanitarian reasons to care for him.
+GUINAN: They're going to come after us, you know that. You, of all
+people, know that.
+PICARD: Shall we go again?
+(after exchanging parries and thrusts, Guinan grabs her thigh in pain) 
+PICARD: Are you all right? 
+(she disarms him and scores a touch) 
+GUINAN: You felt sorry for me. Look what it got you.
 
-PICARD: Your concern is noted, Doctor, but any
-intervention on our part would alert the Borg to our having been here.
-
-[Crash site]
-
-CRUSHER: I'm afraid we've turned that corner
-already.
-WORF: Kill it now. Make it appear that it died in the crash. 
-[Bridge]
-
-WORF [OC]: Leave no evidence that we were ever
-here. 
-PICARD: Security measures must be taken before we beam it on board. 
-CRUSHER [OC]: Thank you, Captain. Standing by. 
-PICARD: Mister Data, notify Security to prepare a detention cell.
-Bridge to Engineering.
-LAFORGE [OC]: La Forge here. 
-PICARD: We're bringing a Borg survivor on board. We'll need to
-neutralise the homing signal 

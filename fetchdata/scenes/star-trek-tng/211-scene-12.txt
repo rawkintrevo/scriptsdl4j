@@ -1,76 +1,43 @@
-TIMOTHY RIKER PICARD HUTCHINSON TROI CRUSHER DATA
+PICARD RIKER WORF FELTON LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
-
-CRUSHER: Sickbay here, Captain. 
-PICARD [OC]: Prepare for emergency transport. 
-CRUSHER: Yes, sir. 
 [Bridge]
 
-CRUSHER [OC]: Crusher out. 
-PICARD: Picard to Commander Riker.
+WORF: We are approaching the perimeter. I'm picking
+up the gravitational wavefronts. 
+RIKER: Engage forward shields thirty five percent. 
+WORF: Shields up. 
+(the ship rocks in the waves) 
+PICARD: Drop to one quarter impulse, Ensign. 
+FELTON: Yes, sir. 
+RIKER: Bridge to Engineering.
 
-[Vico]
+[Engineering]
 
-PICARD [OC]: Is the boy ready, Number One? 
-RIKER: Ready, sir. 
-PICARD [OC]: It's your signal. 
-RIKER: Aye, Captain. It's going to be okay. Here we go. Energise.
+LAFORGE: Adjusting shield frequencies now,
+Commander. We'll have this smoothed out in just a second. 
+[Bridge]
 
-[Transporter room]
-
-PICARD [OC]: Ensign, do we have him? 
-HUTCHINSON: The lock is holding. I just can't resolve the matter
-stream, not with all that victurium alloy in the way.
-
-[Vico]
-
-HUTCHINSON [OC]: Commander Riker. You'll have to
-get him out into the corridor. 
-DATA: I could move the beam, sir. However, it may initiate the collapse
-of the surrounding supports. I recommend you and Geordi return to the
-ship. 
-RIKER: Agreed. La Forge. 
-[Transporter room]
-
-(Riker and La Forge are beamed in) 
-HUTCHINSON: I'm locked onto Commander Data and the boy, sir. I'll
-energise as soon as they've cleared the bulkheads. 
-RIKER: Whenever you're ready, Data. 
-DATA [OC]: Yes, sir. 
-[Vico]
-
-TIMOTHY: Are you're going to lift that? 
-DATA: Yes. Then I will take you to the corridor. We will transport back
-to the Enterprise from there. Do you understand? 
-TIMOTHY: How come you can pick up something so heavy? 
-DATA: I am an android. My strength is many times that of a human. It is
-going to be okay. I will count to three. One two three. 
-(he pushes up the beam with one hand, Timothy wriggles out and runs.
-Data drops the beam and follows, picking the boy up when he stumbles at
-the steps)
-DATA: Energise.
-
-Captain's log, supplemental. A thorough search of
-the Vico has revealed no additional survivors. We have begun the
-process of counselling the boy with regard to the tragedy.
-
-[Sickbay]
-
-CRUSHER: Don't be afraid. 
-(a little while later) 
-TIMOTHY: We were in the Black Cluster. I don't know where they came
-from. They had a big ship and they kept shooting at us. Then they
-beamed over. They had purple helmets on and phaser rifles. I saw them.
-They didn't see me. 
-CRUSHER: You're safe now, Timothy. I'm sorry for what happened. It's
-going to be all right. I bet you're hungry. Would you like me to get
-you something to eat? 
-(Timothy nods and Crusher leaves) 
-DATA: Counsellor, I must join Commander La Forge in Engineering. If you
-will excuse me. 
-(but Timothy is holding onto Data's hand) 
-TROI: Timothy, would you like Data to stay with you a little bit
-longer?
-(a little nod)
+RIKER: Ensign, adjust course for any deviations. 
+FELTON: Yes, sir. 
+RIKER: Resume one third impulse. 
+WORF: Captain, I am reading something at four hundred thousand
+kilometres off the starboard bow. Possibly a ship. 
+RIKER: Red alert. 
+PICARD: Take us to visual range, Ensign. 
+FELTON: Adjusting course. 
+WORF: Sensor readings have disappeared. Wait, I am picking up another
+reading at four hundred thousand kilometres off the port bow.
+It's gone. No, it is back to starboard. 
+RIKER: Captain, the Black Cluster is distorting the sensors. We're
+picking up echoes of the Enterprise reflecting off the wavefronts. 
+PICARD: Cancel Red alert. Mister Worf, adjust the sensors to compensate
+for the distortion. 
+WORF: Aye. 
+PICARD: Sensor difficulties have been reported by ships travelling
+through black clusters, but never this extreme. 
+WORF: Captain, that formation is seven times more massive than any
+explored previously. That could explain the difference. 
+PICARD: Resume previous course, Ensign. 
+FELTON: Yes, sir.
 

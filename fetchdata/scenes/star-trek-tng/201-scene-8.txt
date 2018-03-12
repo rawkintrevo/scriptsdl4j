@@ -1,39 +1,32 @@
-KURN RIKER OBRIEN GOWRON KULGE WORF PICARD
-
-[Great Hall]
-
-KURN: Our forces in the Mempa sector are now in
-full retreat. They will need to regroup near Beta Lankal. 
-GOWRON: We destroyed their supply bases in that sector three weeks ago.
-How can they continue to fight? 
-KURN: They must be getting help. 
-KULGE: Maybe they have better leaders. I say you have failed as our
-leader, Gowron. 
-(and he draws his dagger) 
-WORF: There is no time for this! We must make plans before those forces
-reach Beta Lankal! How can we oppose the Duras when
-we continue to fight among ourselves? 
-KURN: Gowron must answer a challenge to his authority. 
-WORF: Stop it! Do we to fall upon ourselves like a pack of Ferengi? The
-enemy is the Duras. We are at war! 
-(Worf steps between the fighters and Gowron takes the opportunity to
-kill Kulge) 
-GOWRON: Now the war can continue.
+RIKER OBRIEN LAFORGE PICARD SELA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-O'BRIEN: We're crossing into Klingon territory,
-Captain. 
-PICARD: Signal the fleet to maintain yellow alert until further notice.
+RIKER [on monitor]: We're ready, sir. 
+PICARD: Mister La Forge, how long do you think it will take the
+Romulans to detect the tachyon field once it's activated? 
+LAFORGE [on monitor]: Not long Romulan sensors are as good as ours. 
+PICARD: Very well. Energise the network. 
+[Romulan command centre]
 
-O'BRIEN: Aye, sir. 
-PICARD: Begin long range scans of the Romulan border. 
-O'BRIEN: No uncloaked ships within sensor range. A few subspace
-anomalies, but nothing firm. 
-PICARD: Those anomalies could be cloaked ships. 
-O'BRIEN: Could be, sir. 
-PICARD: Open a channel to the Excalibur. 
-RIKER [OC]: Excalibur, Riker here. 
-PICARD: Deploy the fleet, Will. It's time to spread our net. 
-RIKER [OC]: Yes, sir.
+GUEST3: There's an increase in tachyon emissions
+from the Federation fleet. 
+SELA: They're using the beams as a detection field. 
+GUEST3: If we try to cross it, they'll see us, even if we're cloaked. 
+SELA: Issue orders to begin work on a way to penetrate this field. In
+the meantime, we'll have to convince Captain Picard he should leave.
+
+[Bridge]
+
+O'BRIEN: Captain, I'm picking up something directly
+ahead. Romulan ship decloaking. Shall I raise shields? 
+PICARD: Not yet. 
+O'BRIEN: They're hailing us, sir. 
+PICARD: On screen. Tasha? 
+SELA [on viewscreen]: No, Captain. I am Commander Sela. The woman you
+knew as Tasha Yar was my mother. Deploying an invasion fleet along
+our border is a clear act of aggression, Captain. It will not be
+tolerated. You have twenty hours to recall your ships and
+return peacefully to Federation territory.
 

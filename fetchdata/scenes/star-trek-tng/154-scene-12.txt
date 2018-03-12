@@ -1,54 +1,34 @@
-PICARD RIKER DATA LAFORGE WORF
+LEAH COMPUTER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Utopia Planitia Drafting room]
 
-RIKER [OC]: We need warp power now! 
-LAFORGE: Matter-anti matter mixture ratio settings at optimum balance
-Reaction sequence corresponding to specified norms. Magnetic plasma
-transfer to warp field generators per programme specs. Commander, we
-should be going like a bat out of hell.
-
-[Bridge]
-
-DATA: Power loss now at twelve percent, Captain. 
-PICARD: Red alert. 
-WORF: Radiation intensity increasing. 
-LAFORGE [OC]: We'd better slow these engines down before we burn out
-the reaction chamber. 
-RIKER: Slow to idle, Geordi. 
-PICARD: Is it possible we've fallen into the same snare that killed
-them? A thousand year old booby trap?
-
-[Observation lounge]
-
-LAFORGE: With the engines idling, the energy loss
-has been limited, but our reserves will be depleted in less than three
-hours. We won't be able to hold our shields in place. 
-PICARD: Mister Worf, have you been able to identify the source of the
-radiation? 
-WORF: No, sir. The radiation field is so strong it interferes with our
-sensors. 
-PICARD: And no apparent explanation for the energy loss? 
-LAFORGE: No, sir. 
-
-RIKER: Is there anything in the history books, Data, that could give us
-a clue? 
-DATA: There are many fascinating records of Menthar battle strategy.
-They were exceptionally innovative. In fact, they were the first to use
-the Kavis Teke elusive manoeuvre as well as the passive lure stratagem
-that is comparable to Napoleon's 
-RIKER: Any mention of a situation like this? 
-DATA: No, sir. 
-RIKER: I recommend that I return to the cruiser with an away team. 
-LAFORGE: They didn't have much success with this problem, Commander. 
-RIKER: No, but they knew who their enemy was better than we do. They
-may have known what caused the trouble. They just didn't know how to
-get out. 
-PICARD: Agreed. Mister Worf, what would be the impact of lowering the
-shields long enough to get the away team out? 
-WORF: Negligible. 
-LAFORGE: Won't do much for our energy conservation, Captain. 
-PICARD: That's your job, Commander La Forge. Determine some way to keep
-the Enterprise up and running. Data, you join Commander Riker on the
-away team. Find out what happened on that ship.
+LAFORGE: 452 through system L-575. 
+COMPUTER: Adjustments to dilithium crystal chamber complete. 
+LAFORGE: Impact analysis, computer. 
+COMPUTER: Warp energy has increased fourteen percent. Reactants per
+unit time remaining steady. 
+LAFORGE: Yes! All right! Computer, do you have any, you know,
+personality on file for Doctor Brahms? 
+COMPUTER: Starfleet personality profile analysis, stardate 40056. 
+LAFORGE: Did she ever debate at the intergalactic caucuses on Chaya
+Seven? 
+COMPUTER: Doctor Brahms attended Chaya Seven caucuses on the following
+stardates 
+LAFORGE: Never mind the dates. Computer, if you add data from all these
+sources, could you synthesise a true representation
+of Doctor Brahms? 
+COMPUTER: There would be a nine point three seven percent margin of
+error in the interactive responses from the facsimile. 
+LAFORGE: I can live with that. Do it. (Leah takes a breath, then
+smiles) Doctor Brahms? 
+LEAH: Geordi, it's me, Leah. Don't start calling me Doctor Brahms or
+I'll call you Commander La Forge. 
+LAFORGE: Right. 
+LEAH: Now, we've managed to maintain energy but we can't leave it in
+this realignment forever without burning out components, so we need to
+move quickly. 
+(Geordi's jaw is on the floor) 
+LEAH: Are you with me? 
+LAFORGE: Yeah. Yeah! Yeah!.
 

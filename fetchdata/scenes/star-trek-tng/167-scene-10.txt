@@ -1,115 +1,56 @@
-PICARD VASH JOVAL SOVAK
+PICARD VASH
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Poolside]
+[Cave]
 
-(Picard and his book are splashed by someone
-running past. Then a hoverball interrupts him.) 
-JOVAL: Return. (the ball goes back to her) My apologies. I fear I have
-yet to master the art of hoverball. 
-PICARD: So it would seem. 
-JOVAL: My name is Joval. I am employed here. Is there anything you
-require to make your stay a more pleasant one? 
-(Picard shakes his head) 
-JOVAL: You find me amusing. 
-PICARD: No. It's just that you are the fifth woman to ask me that
-question this morning. All I require is to sit in the sun and read my
-book. Alone. 
-JOVAL: And afterward? 
-PICARD: I really haven't thought that far ahead. 
-JOVAL: Then may I suggest a swim to be followed by a massage? 
-PICARD: Some other time perhaps. 
-JOVAL: I don't understand. You say you wish to be alone yet you carry
-the Horga'hn. 
-PICARD: I just purchased that. Why? Are you implying this has some
-special meaning? 
-JOVAL: The Horga'hn is the Risian symbol of sexuality. To own one is to
-call forth it powers. To display it is to announce you are seeking
-Jamaharon. 
-PICARD: Riker! 
-JOVAL: Do you seek Jamaharohn? 
-PICARD: I don't even know what it means. The Horga'hn is for a friend. 
-JOVAL: I see. Someone close to you? 
-PICARD: That's right. 
-JOVAL: Someone you love? 
-PICARD: I wouldn't go that far. 
-JOVAL: Your attitude is most puzzling. I will leave you now to your
-book. 
-PICARD: That is all I ask. 
-(Joval leaves, Picard hides the naughty statuette under a towel. Then a
-Ferengi casts a shadow over him) 
-PICARD: You're blocking the suns. 
-SOVAK: I know you're working with her. I warn you, it's a mistake. 
-PICARD: Are you addressing me? 
-SOVAK: Don't bother to deny it. I've seen the two of you together. 
-PICARD: I don't know what the devil you're talking about. But whatever
-it is, I assure you it's no concern of mine. 
-SOVAK: Tell her I want the disc returned to me immediately. 
-PICARD: Perhaps I have not made myself clear. You have the wrong man. 
-SOVAK: I am rapidly losing patience with you. I demand you talk
-business. 
-PICARD: You'll find Ferengi demands carry little weight with me. 
-SOVAK: Obviously you've never dealt with my people before. 
-PICARD: On the contrary, all too often. 
-SOVAK: Then you know the Ferengi are not to be trifled with. 
-PICARD: Or trusted. 
-SOVAK: You dare to insult me? 
-PICARD: I advise you to listen closely for I will not say this again. I
-came to Risa for a holiday, nothing more. I have no knowledge of this
-woman of whom you speak, nor have I laid eyes on any disc. 
-SOVAK: You expect me to believe such feeble lies? 
-PICARD: I don't care what you believe! 
-SOVAK: This is not over yet, human. The disc is mine! And so is the
-woman. Remember that. 
-(Sovak leaves. Vash ends her massage and comes over) 
-VASH: Hello. 
-PICARD: Oh, it's you. 
-VASH: That's not much of a greeting. 
-PICARD: Look, I don't wish to appear rude, but I am not seeking
-jamaharon. 
-VASH: All right, but you really should try it some time. 
-PICARD: If I try it, it will be at a time of my own choosing. 
-VASH: That's fine with me. It's not as though I was offering to help
-you find it. 
-PICARD: I, er, I assumed because of the way you welcomed me the other
-day. 
-VASH: I'm sorry if I embarrassed you. 
-PICARD: I don't recall saying I was embarrassed. If's just that I
-prefer to be acquainted with the women that I kiss. 
-VASH: That's understandable. The name's Vash. 
-PICARD: Jean-Luc Picard. 
-VASH: So tell me about yourself, Jean-Luc. 
-(He tries to return to his book) 
-VASH: Would you rather I guess? I can be very persistent. 
-PICARD: I'm the captain of a Federation starship. 
-VASH: That explains it. 
-PICARD: Explains what? 
-VASH: I noticed you arguing with that Ferengi. For a moment there it
-looked like it was going to come to blows. 
-PICARD: You're the woman he was talking about? 
-VASH: I hope your disagreement wasn't over me. 
-PICARD: For that information you'll have to ask him. 
-VASH: Where are you going? 
-PICARD: To find some privacy. 
-VASH: Wait a second. 
-[Resort lobby]
-
-VASH: What did he tell you? I'm sure there wasn't a
-bit of truth to it. 
-SOVAK: And you said you didn't know her. 
-PICARD: I don't. And I don't want to. 
-SOVAK: Return the disc to me and all will be forgiven. 
-VASH: The disc doesn't belong to you, Sovak. It never did. 
-PICARD: It would seem you two have a lot to discuss. If you'll excuse
-me. 
-VASH: Jean-Luc, I'm sorry. Perhaps one day I could explain all this to
-you later. 
-(She slips something into his pocket) 
-PICARD: Perhaps you can. 
-(Picard leaves) 
-SOVAK: I have a proposal I believe you'll find most interesting. 
-VASH: Save your breath. 
-SOVAK: I am willing to pay you your weight in gold in exchange for the
-disc. Is that not a generous offer? 
-(Vash leaves) 
-SOVAK: I must have that woman.
+(It's night. Frogs are singing and crickets are
+chirping. The pair have made camp) 
+PICARD: Have you calculated how much further we have to go? 
+VASH: Another eleven kilometres. 
+PICARD: We should stay here for the night. 
+VASH: I was hoping you'd say that. 
+PICARD: Actually, we've made better time than I expected. 
+VASH: I'll take that as a compliment. 
+PICARD: As it was intended. 
+VASH: Jean-Luc, I'm afraid I haven't been totally honest with you. 
+PICARD: Forgive me if I don't act surprised. 
+VASH: Sovak did pay me to hand over the disc. 
+PICARD: So you did steal it? 
+VASH: It wasn't stealing. The professor had died. I had already devoted
+five years of my life to tracking down the Uthat. 
+PICARD: But you took Sovak's money. 
+VASH: It was the only way I could afford to get to Risa. As for Sovak,
+he got exactly what he deserved. 
+PICARD: Well, any woman who can beat a Ferengi at his own game bears
+watching. 
+VASH: I'll take that as another compliment. I'm flattered. 
+PICARD: Hmm. Well, we should get some sleep. 
+VASH: You know Jean-Luc, it's lucky for you we met. If it wasn't for
+me, you'd still be back there sitting in the sun, relaxing. 
+PICARD: That happens to be why I came to Risa. 
+VASH: I'm sure you hated every minute of it. That kind of vacation
+isn't for a man like you. You need excitement. 
+PICARD: Excitement? Spending in a damp cave? Chasing after something we
+shall probably never find? 
+VASH: You're enjoying yourself, aren't you? 
+PICARD: Yes, 
+VASH: I just wanted to hear you say it. 
+PICARD: Good. Now, let's get some sleep. 
+(They're sharing the bedding. Picard rolls over and takes all the
+blanket with him. Vash tugs it back) 
+VASH: I'll never forget that look on your face when you thought I was
+offering you jamaharon. 
+PICARD: Now that was a simple misunderstanding. 
+VASH: You did seem a little disappointed when I turned you down. 
+PICARD: You are outrageous. 
+VASH: Thank you. You're pretty stimulating yourself. Don't you see,
+we're a lot alike. That's probably why we get along so well. 
+PICARD: You call this getting along? 
+VASH: Fine. We don't get along. We're not getting along. 
+PICARD: I didn't say that. 
+VASH: No, if you want to believe we're not getting along, that's all
+right with me. 
+(Picard kisses her) 
+VASH: Still think I'm trouble? 
+PICARD: I'm sure of it.
 

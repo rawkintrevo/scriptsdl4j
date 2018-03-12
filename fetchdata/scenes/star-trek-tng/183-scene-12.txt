@@ -1,78 +1,29 @@
-RIKER LAFORGE PICARD WESLEY COMPUTER OGAWA CRUSHER ALLENBY DIRGO DATA
+RIKER CRUSHER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cave]
+ [Bridge]
 
-(later, after they've dug him out again and moved
-him to a small side cave) 
-WESLEY: Apply pressure to that wound. (scans Picard) This is the worst
-break. 
-DIRGO: What was that thing? 
-WESLEY: Keep the pressure constant. 
-PICARD: Ensign, how bad is it? 
-WESLEY: Your right leg is broken. You have a fracture in your left arm.
-And you took a blow to the head. But we're getting the bleeding under
-control. 
-PICARD: Well done. I'm going to be fine. I just need to get my breath. 
-DIRGO: Are you telling the truth? 
-WESLEY: What truth? 
-DIRGO: He's bleeding inside. I've seen it before. He's never going to
-survive. 
-WESLEY: You don't know what you're talking about. 
-(pours alcohol on the cuts) 
-DIRGO: You're wasting your time. Will you save that dresci for us. 
-PICARD: Mister Dirgo, I would appreciate it if you didn't bury me
-before I'm gone. 
-(Dirgo storms off) 
-PICARD: The trouble is, he could be right. 
-WESLEY: No, he's not, sir. You're going to be fine. 
-PICARD: Wesley, you are going to have to keep a rein on Dirgo. He's
-wilful and stubborn. That's dangerous. 
-WESLEY: You'll handle him, sir. 
-PICARD: Wesley, listen to me. I have no feeling in my right leg. My
-vision is blurred. I'm going to get worse, not better. I'm not going to
-be able to help you. Now, you are going to have to stand up to Dirgo on
-your own. 
-WESLEY: Yes, sir. 
-PICARD: Hey. Good man. 
-First Officer's log, stardate 44307.6. Radiation
-levels on the Enterprise continue to rise. The ventilation system has
-started pumping hyronalin into our air supply to counteract the
-effects.
-
-[Bridge]
-
-DATA: At the rate the radiation levels are
-increasing, the hyronalin additive will only be effective for another
-thirty eight minutes. 
-CRUSHER: Crusher to Medical unit one, evacuate and seal off all
-non-operational areas. Group the crew and their families in the
-interior corridors of decks nine and ten. Radiation exposure protocol. 
-OGAWA [OC]: Acknowledged, Doctor. 
-RIKER: Mister Data, at our current speed, how long will it take us to
-get through the asteroid belt? 
-DATA: Fifty one minutes, fourteen seconds, sir. 
-CRUSHER: There's going to be a lot of casualties if we can't get there
-any faster. 
-RIKER: Mister La Forge, how much more can we get out of that tractor
-beam? 
-LAFORGE: We're already at the maximum limits of our towing speed,
-Commander. 
-RIKER: Let's see if we can establish a new upper limit. 
-LAFORGE: Yes, sir. Data, monitor the shearing effect on the beam.
-Increasing to one half impulse. 
-DATA: Tractor beam is holding. Shearing force, eighty metric tons per
-metre. 
-LAFORGE: Increasing to three quarters impulse. 
-DATA: Shearing force ninety two metric tons. Ninety three. Tractor beam
-is destabilising. Se are going to lose the barge, Commander. 
-RIKER: Reduce power. 
-ALLENBY: One half impulse. 
-RIKER: Geordi, you've got to stabilise that tractor beam. 
-LAFORGE: I can't divert any more power to the shields. We're already
-hitting our maximum thermal limits. Only other choice is to bring some
-other fusion reactors online, but we're running at peak coolant
-pressure. 
-RIKER: Do it. 
-COMPUTER: Warning. Radiation levels at one hundred fifty millirads per
-minute and rising. Lethal exposure in thirty five minutes.
+RIKER: Are you certain? 
+DATA: It is definitely debris. The primary material is duranium, with
+smaller proportions of sonodanite and ermanium. 
+LAFORGE: Most shuttlecraft hulls are made of duranium. 
+CRUSHER: Then they're gone. 
+DATA: Not necessarily, Doctor. There is far too little debris to
+account for an entire shuttlecraft. 
+RIKER: So what is it? 
+LAFORGE: You know, Dirgo had his manoeuvring thrusters rigged a funny
+way. Claimed it was more efficient. If one of them blew it might have
+left debris like that. 
+RIKER: If only one of his thrusters was out, he could still have set
+down somewhere. 
+DATA: The only Class M planets in the system are Pentarus two and five,
+both of which have been thoroughly searched by the miners. 
+RIKER: Then we'll search them again. 
+DATA: Sir, there are also four moons in the Pentarus system that could
+support life. 
+RIKER: Have the miners searched them? 
+WORF: Not yet, sir. 
+RIKER: Which one is the closest one to the debris coordinates? 
+DATA: Lambda Paz, one of the moons of Pentarus three. 
+RIKER: Set a course, Ensign.
 

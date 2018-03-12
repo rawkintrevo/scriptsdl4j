@@ -1,63 +1,65 @@
-TROI LAFORGE WORF PICARD RIKER PULASKI DATA
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlebay two]
+[Observation lounge]
 
-(Guy Vardeman is on duty here) 
-DATA [OC]: Engage secondary tractor beam. 
-(The external beam is swapped for an internal one to bring the shuttle
-in to land. The markings say NCC-1701-D 05 El Baz. Riker and Worf
-enter) 
-RIKER: It's a Federation shuttlecraft, all right. 
-WORF: Yet there are no Federation bases or vessels in this area. 
-RIKER: NCC one seven zero one D USS Enterprise, shuttlecraft five. 
-(They look over to a shuttlecraft already parked in the bay. Pulaski
-and a medic enter) 
-RIKER: NCC one seven zero one D USS Enterprise shuttlecraft five. 
-WORF: How is this possible? 
-PULASKI: Commander, come here! 
-(They gaze at the unconscious pilot of the new shuttlecraft - Jean-Luc
-Picard) 
-RIKER: Captain? 
-PICARD [OC]: Yes, Number One. 
-RIKER: Are you on the Bridge? 
-PICARD [OC]: Where else would I be? 
-RIKER: Well. right now I think you should be in Shuttlebay two. 
-[Bridge]
+LAFORGE: Captain, we've retrieved all we are going
+to get from the shuttle logs, including the last visual records.
+Everything before that is just a jumble. 
+PICARD: Show me. 
+LAFORGE: The distortion is because we had to use a phase inverter to
+retrieve the logs. The quality will improve slightly. 
+(We see Riker standing in the shuttlebay as the craft takes off. There
+is a wormhole effect, and a bolt of energy hits Enterprise, knocking
+her against the tunnel side, and she blows up) 
+DATA: According to the shuttle log, the Enterprise was destroyed three
+hours nineteen minutes from now. 
+LAFORGE: Captain, we have a portion of the last log entry. It's audio
+only. 
+PICARD [OC]: Captain's personal log, supplemental. I have just
+witnessed the total destruction of the USS Enterprise with a loss of
+all hands, save one. Me. 
+LAFORGE: All attempts to obtain further information from the shuttle
+have failed. 
+RIKER: Well, at least now we have something to go on. 
+LAFORGE: I just don't understand how you could have ended up in a
+shuttlecraft while the Enterprise was being destroyed. 
+WORF: Nor I. The last thing you would do is leave the Bridge of the
+Enterprise during an emergency. 
+PICARD: Yes. All right, let's proceed on the premise that what we have
+just seen happened, and that in less than four hours from now, the
+Enterprise will be destroyed, and somehow, although this is
+unfathomable, I and I alone escape. Discussion. 
+RIKER: Our destination is the Endicor system. We're due to arrive in
+three days. The charts show nothing of consequence, certainly nothing
+to threaten the Enterprise, between here and there. 
+WORF: Sensors indicated no other vessels, Federation or otherwise, in
+this area. 
+PICARD: Data? 
+DATA: I have nothing to offer. There is not enough information upon
+which to base a hypothesis. 
+LAFORGE: Well, the shuttle apparently came from somewhere up ahead, so
+Rather than continuing on this course, maybe we should stop here and
+let whatever is out there come to us. 
+RIKER: We may already be too late. 
+LAFORGE: What are you saying? That stopping, turning right or left, or
+even reversing our course, would be pointless? 
+RIKER: When we brought the shuttle and the other Picard on board, we
+committed to a sequence of events which may be unalterable. 
+PICARD: Yes, this is not a rock on the trail which once seen can easily
+be avoided. This is much more complex. 
+WORF: There is the theory of the moebius. A twist in the fabric of
+space where time becomes a loop from which there is no escape. 
+LAFORGE: So, when we reach that point, whatever happened will happen
+again. The Enterprise will be destroyed, the other Picard will be sent
+back to meet with us and we do it all over again. Sounds like someone's
+idea of hell to me. 
+RIKER: Well, I know this much. We can't avoid the future. 
+PICARD: Agreed. So let's continue on course. Somewhere out there
+something will happen. A decision will be made during the course of
+which, I will be separated from the Enterprise. At the time, the
+decision will seem to be correct, but it won't be. We have to
+anticipate and not make, not make the same mistake once. Something is
+waiting for us out there. Let's try and determine what it is, as
+quickly as possible.
 
-PICARD: Why? What is it? 
-RIKER: This I think you should see for yourself. Bring Commander Data. 
-[Shuttlebay two]
-
-(Picard, Data and Troi enter) 
-PICARD: Condition? 
-PULASKI: The life signs are very confusing. His heartbeat is strong,
-but the pulse is off. 
-PICARD: Is he injured? 
-PULASKI: There's no signs of trauma. 
-PICARD: Why is he unconscious? What happened to him? 
-PULASKI: I can't say. The readings of his brain waves are very strange.
-
-PICARD: Strange? In what way? Non-human? Artificial? 
-PULASKI: No, neither. They're just out of phase. 
-PICARD: Can you revive him? 
-PULASKI: I wouldn't even attempt it till we get him into Sickbay. Come
-on, let's get him back. 
-(The second Picard is wheeled away) 
-PICARD: Counsellor? 
-TROI: I have never felt anything quite like this before, so it's
-difficult to put into words. That person is you. 
-PICARD: No. 
-TROI: He is as much Jean-Luc Picard as the person I am standing next
-to. Beyond that, there is very little I can be sure of. I will have to
-wait until he regains consciousness before knowing more. 
-PICARD: Data, I need to know what's on the shuttle's logs. 
-DATA: Yes, sir. 
-(Data gets into the shuttlecraft) 
-DATA: Captain, both primary and reserve power has been drained from the
-shuttle. I am going to have to connect to the Enterprise in order to
-activate the shuttle's systems. 
-RIKER: Geordi 
-[Engineering]
-
-RIKER [OC]: Report to Shuttlebay two immediately. 
-LAFORGE: I'm on my way. 

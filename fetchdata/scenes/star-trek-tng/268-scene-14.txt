@@ -1,102 +1,44 @@
-TALUR DATA SKORAN GIA GARVIN
-
-[Garvin's home]
-
-DATA: I have coated this piece of cloth with the
-liquid which is used in lamps. As you can see, the cloth becomes
-luminescent when it is exposed to an energy source. This pendant also
-appears to be an energy source. 
-(flickers on the cloth) 
-TALUR: But where is this pattern of light coming from? 
-DATA: I believe a stream of particles is emanating from the metallic
-pendant and hitting the cloth. 
-TALUR: I don't see any particles coming from the pendant. 
-DATA: You will see there are. I can even block them. 
-(Data puts the box in between the pendant and the screen) 
-DATA: It would appear that this container was constructed of a material
-which absorbs or blocks the particles coming from the metal. 
-TALUR: It's a trick. 
-DATA: No. It is empirical data. I believe the fragments were originally
-placed in this container to protect people from accidental exposure.
-The word radioactive may be a warning about the dangerous nature of the
-metal. 
-TALUR: All right. Let's say for the moment that you're right, that
-there are invisible particles coming from the metal. What should we do?
-
-DATA: I will continue my experiment. I would like you to gather all the
-pieces of metal in the village and place them in this container. 
-TALUR: All right. But when I return, I want a more thorough explanation
-of all this. And I want to examine your data, in detail. 
-DATA: Of course. 
-(Talur leaves. A few moments later there is a thumping at the door.
-Data opens it.) 
-SKORAN: There you are. You're the cause of this, Ice man. 
-DATA: If you are referring to the illness, you are partially correct.
-However, it is more complex than that. The metal fragment which 
-(Data ducks Skoran's attack and sends him against the wall, but his
-crony's attack with an axe removes the covering from half of Data's
-face) 
-SKORAN: What, what are you? 
-(they run away) 
-DATA: I do not know. 
-(later, Skoran pours pieces of metal into the box and Talur closes it) 
-SKORAN: I saw it with my own eyes. He's not a person. He's some kind of
-creature. 
-GIA: It's not true, Father. 
-SKORAN: We must find him and stop him before he kills us all. 
-GARVIN: I don't. Not Jayden. He wouldn't try to hurt us. 
-SKORAN: Come on. 
-(the armed mob leaves) 
-TALUR: Let him rest for now. You should rest as well. Exerting yourself
-will only make you sicker. I'll be back. 
-(Talur leaves and Gia goes into the study area. Data is wearing a hood)
-
-DATA: Gia. 
-GIA: Jayden? Everyone's looking for you. Skoran said you're some kind
-of creature. 
-DATA: I do not know what I am. But I am not like you. 
-GIA: I know. You're an Ice man. We talked about that. 
-DATA: No. I am not. 
-GIA: Jayden, why are you wearing that hood? 
-DATA: I do not wish to frighten you. 
-GIA: I won't be afraid. Take it off. Please, I have to see. 
-(he does, and she recoils at the flashing lights in his face) 
-DATA: I understand your reaction. But I do not wish to harm you. You or
-Garvin or anyone else. I only wish to help, to find a cure for the
-illness. I was very close. I must to continue my work, but it will take
-time. How long until Skoran and the others return? 
-GIA: I don't know. They're looking for you now. 
-DATA: Then I must hurry. 
-(hours later, Data comes downstairs with a potion in a bowl) 
-DATA: Gia, I believe I have found the answer. 
-GIA: You think you found a cure? 
-DATA: I believe so. I tested this medicine on skin samples from your
-father. They showed improvement, so I administered this to him. He is
-now recovering. 
-GIA: What kind of medicine is it? 
-DATA: A compound I made which will neutralise the particles that are
-making you ill. Swallow this. I must administer this to everyone in the
-village, but I do not think they will trust me after what happened to
-Skoran. 
-GIA: I could tell them. 
-DATA: I am afraid they will not believe you either. Gia, is the well in
-the town square the only source of water for this village? 
-GIA: Well? 
-DATA: This is very important. Are there any other sources of fresh
-water near the village? 
-GIA: No. The nearest river is two days away. 
-DATA: Then I will put this compound into the well water. It may be
-diluted, but it should still have enough potency to work. 
-GIA: Compound
+RIKER CRUSHER DATA GUEST2 GUEST6
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Town square]
 
 (night, Data uncovers the well and is about to pour
 his bucket of cure into it when) 
-SKORAN: There he is! You see? It's just as I said. 
+GUEST2: There he is! You see? It's just as I said. 
 DATA: I only wish to help. 
-SKORAN: This is how you've helped us, by bringing this plague? Tried to
+GUEST2: This is how you've helped us, by bringing this plague? Tried to
 kill us all? Well, you won't succeed. I won't let you! 
 (Data pours the compound into the well just as Skoran impales him and
 gets an electric shock for his effort. Data falls as Talur arrives)
+
+[Town square]
+
+(another day, and Gia is going to school with her
+slate) 
+CRUSHER: Excuse me. We're looking for a friend of ours. He might have
+wandered into your village a few days ago. 
+RIKER: You'd remember him. He would have appeared very strange. Pale
+skin, gold eyes. 
+GUEST6: He was your friend? 
+CRUSHER: Yes. Do you know him? 
+RIKER: Where is he? 
+(Gia points to a plaque on a stone) 
+CRUSHER: I don't understand. 
+GUEST6: We didn't know his real name, so we called him Jayden. 
+RIKER: You're saying he's dead? 
+GUEST6: They killed him because they were afraid of him, but he saved all
+of us from the sickness. 
+CRUSHER: The sickness? 
+GUEST6: There were these pieces of metal. They made everyone sick. But
+Jayden put something in the water and now everyone's better. 
+RIKER: What happened to these pieces of metal? 
+GUEST6: We buried them in the forest. What was his real name? 
+RIKER: Data. 
+GUEST6: Data. He was my friend, too. 
+(Gia leaves and Beverly gets her tricorder out) 
+CRUSHER: It's Data all right. He's buried about two metres down. He's
+been deactivated so I can't tell how bad the damage is. 
+RIKER: We could beam him and the probe fragments right onto the ship.
+No one would know.
 

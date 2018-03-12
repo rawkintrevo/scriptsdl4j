@@ -1,61 +1,26 @@
-PICARD RIKER CLARK JARED
+TROI WORF GUEST4 PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Observation lounge]
 
-CLARK: The people in Ventax Two live in an agrarian
-society. At least, they do now. 
-PICARD: What do you mean, now? 
-CLARK: It's an interesting anthropological question. One we were
-studying before the trouble began. In the distant past, the Ventaxian
-culture had achieved an extremely advanced scientific level, but a
-millennium ago they turned their backs on technology. 
-PICARD: They reverted to a simpler existence? 
-CLARK: And remained that way for centuries. First contact was made by a
-Klingon expedition seventy years ago. Since then, the new technology
-has been available to the Ventaxians. They simply are not interested in
-it. Virtually no social problems to be found on this planet, In fact, I
-would have described their society as idyllic until 
-PICARD: Until what, Doctor? 
-CLARK: It's hard to believe. Several years ago, Acost Jared, the
-Ventaxian head of state, began to grow increasingly obsessed with the
-legend of Ardra. With each passing day, he grew more anxious, and he
-talked about little else. Ardra is coming back. Ardra will be here
-soon. We must all leave before Ardra returns. 
-PICARD: And who is this Ardra? 
-CLARK: For all intents and purposes, the devil. Captain, these people
-actually believe they've sold their souls to the devil. 
-RIKER [OC]: Riker to Captain Picard. 
-PICARD: Have you located the science team, Number One? 
-RIKER [OC]: Evidently they're being held hostage. 
-CLARK: Hostage? 
-RIKER [OC]: There's a Ventaxian leader on the viewscreen, name of Acost
-Jared. 
-PICARD: Doctor.
-
-[Bridge]
-
-CLARK: Jared, you must secure the release of my
-people. I can't believe you would allow this. 
-JARED [on viewscreen]: Howard, my friend, you know how I abhor all acts
-of violence, but events are out of my control. 
-PICARD: I'm Captain Jean-Luc Picard. Is there nothing you can do? 
-JARED [on viewscreen]: As the hour of Ardra's return approaches, fear
-has overwhelmed my people. It has been a thousand years. The prophecies
-have come true. 
-PICARD: Prophecies? 
-CLARK: Ardra's arrival was supposed to be heralded by the shaking of
-the cities. Now there has been a series of geological tremors on the
-planet. Minor quakes, nothing extraordinary. 
-PICARD: Poorly timed. 
-JARED [on viewscreen]: There is more. For several nights there have
-been visions of Ardra. Again, just as the contract said would occur
-before her return. 
-PICARD: Visions? Do you mean dreams? 
-JARED [on viewscreen]: No. She has appeared. I myself have seen her. 
-PICARD: Jared, tell your people, if the hostages are released, I am
-prepared to offer Federation assistance should this, this Ardra return.
-
-JARED: I am afraid it will not matter. They know your weapons are
-useless against her, Captain. I will make inquiries concerning the
-hostages. The innocent should not suffer from our sins. But I can make
-no promises. 
+TROI: This situation is deteriorating, Captain. The
+people are approaching levels of anxiety that could lead to suicide. 
+PICARD: Mister Data, what do we know about this Ardra? 
+DATA: She is a cornerstone of Ventaxian theology. It seems that Ardra
+came to Ventax Two and promised one thousand years of peace and
+prosperity, for a price. Upon her return, she would enslave the entire
+population. In Ventaxian culture, it is considered bad luck to speak
+her name out loud. GUEST4: There are ancient scrolls concerning Ardra
+that are stored in the Athenaeum
+vaults. Scholars study them. They have been of little public interest
+until recently 
+PICARD: I think I should meet with this Acost Jared. He's still our
+best hope for the release of the hostages. 
+RIKER: I'll arrange to have him transported on board. 
+PICARD: No. I'm going down to the planet myself. 
+WORF: Sir, you run the risk of being taken as an additional hostage 
+PICARD: Mister Worf, you and Mister Data will accompany me. Mister
+O'Brien can keep a lock on our communicators. He can pull us out if
+necessary. 
+WORF: Yes, sir. 
+PICARD: Counsellor, I want you to come too. 

@@ -1,59 +1,34 @@
-PICARD RIKER DATA LAFORGE
+KORRIS TASHA GUEST0 GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Batris Corridor]
+[Corridor]
 
-PICARD [OC]: How can you make head or tail of it? 
-LAFORGE: I select what I want and then disregard the rest. 
-PICARD [OC]: But how is that possible? 
-LAFORGE: Well, how, in a noisy room, can you select one specific voice
-or sound? 
-PICARD [OC]: Of course, something you learn. 
-LAFORGE: Exactly. 
-[Bridge]
+KORRIS: We have heard this ship can separate in
+time of battle. 
+WORF: Yes. When relieved of its bulk, the Enterprise becomes an
+exceptional weapon. 
+TASHA: Worf. 
+KORRIS: They have come for us. 
+TASHA: Step aside. 
+WORF: What is the problem? 
+TASHA: The Captain wants those two taken into custody. 
+KORRIS: Do not let them take us, Worf. Help us. 
+GUEST0: Listen to the voice of your blood. You are not of these people.
 
-LAFORGE [OC]: It's something I have learned. Does
-that make it more clear?
-PICARD: Look over at Data. There's an aura around Data. 
-LAFORGE [OC]: Well, of course. He's an android. 
-PICARD: You say that as if you think that's what we all see. 
-LAFORGE [OC]: Don't you? 
-[Batris Corridor]
-
-RIKER: Sir, I hate to break this up, but 
-[Bridge]
-
-PICARD: Oh, yes, of course, Number One. Proceed. 
-[Batris Corridor]
-
-RIKER: Let's go. 
-(As they move on, a conduit falls. This ship is ready to fall apart) 
-DATA: I am detecting high levels of deuterium gas, probably from the
-leakage in the drive system. 
-RIKER: Toxic? 
-DATA: Not as yet, sir. The life signs are emanating from the far side
-of Engineering. 
-RIKER: What's the safest way around? 
-DATA: All routes are equally dangerous, sir. 
-LAFORGE: Well, what's the least dangerous route, Data? 
-DATA: There is no significant difference. 
-RIKER: Steady on. 
-LAFORGE: Commander Riker! Commander. 
-RIKER: Yes, Geordi. 
-LAFORGE: There's a fissure developing in the bulkhead. The skin of the
-ship is losing its integrity. 
-RIKER: Where is it? I can't see it. 
-LAFORGE: Right there.
-
-[Bridge]
-
-PICARD: Geordi, step closer. It looks to me like a
-spectrograph indicating metal fatigue. 
-[Batris Corridor]
-
-PICARD [OC]: Is that how you interpret it? 
-LAFORGE: Very good, Captain. Exactly right. 
-RIKER: How long before this hull ruptures? 
-LAFORGE: It's impossible to be exact. I'd say five minutes. Probably
-less. 
-RIKER: Let's go.
-
+KORRIS: Yes. Join us. 
+(There's a tense moment, then a nearby turbolift opens and a little
+girl runs out) 
+TASHA: Go back! Please, turn around and go back to your mother. 
+(Korris picks the girl up) 
+TASHA: Bridge, we have a hostage situation on deck seventeen. 
+(Korris glares, and hands the girl to Worf, who gives her to her
+mother) 
+GUEST3: Mommy. 
+TASHA: Bridge, this is Lieutenant Yar. Disregard. Situation is under
+control. By order of the Captain, you are confined to Security. 
+(Korris and Konmel are taken away) 
+TASHA: I thought for a minute we had a problem. 
+WORF: Oh? 
+TASHA: Yes. It looked like Korris was going to hold that little girl as
+a hostage. 
+WORF: That is not our way. Cowards take hostages. Klingons do not. 

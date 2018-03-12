@@ -1,34 +1,34 @@
-COMPUTER CRUSHER WORF
+PICARD CRUSHER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Ready room]
 
-(Beverly rings the doorbell twice, then taps in an
-override code) 
+WORF: Sir, I have several teams conducting a deck
+by deck search. It is not yet complete. 
+DATA: I have scanned the entire ship, Captain. Other than the
+Enterprise's regular complement, I can find no one else onboard. 
+CRUSHER: Your sensors wouldn't detect him if he were dead. 
+DATA: That is correct, Doctor. 
+PICARD: Could your friend have returned to the starbase without telling
+you? An emergency of some sort? 
+CRUSHER: There were a lot of people going back and forth between the
+ship and the starbase yesterday. 
+DATA: We can easily check the transporter ID traces. 
+PICARD: By all means check the trace log. But even if the results are
+negative, contact Starbase Command. We should leave nothing to chance. 
+DATA: Aye, sir. 
+(Data and Worf leave) 
+PICARD: One moment, Doctor. I'm sure you are aware of the procedure
+involving passengers. 
+CRUSHER: Of course. I don't know why Lieutenant Worf wasn't told about
+Doctor Quaice. 
+PICARD: I was not informed either. 
+CRUSHER: But I sent in a request weeks ago. 
+PICARD: Then it must have been intercepted before it reached me. 
+CRUSHER: And someone else sent the approval? Why? 
+PICARD: Doctor Quaice had been stationed at the starbase for some time?
 
-[Quaice's quarters]
-
-CRUSHER: Dalen? Dalen, it's Beverly. 
-(The suite is empty) 
-CRUSHER: Computer, current location of Doctor Dalen Quaice. 
-COMPUTER: There is no Doctor Dalen Quaice aboard the Enterprise. 
-(A little later, after the opening titles, the doorbell chimes) 
-CRUSHER: Come. 
-(Worf enters) 
-CRUSHER: Lieutenant Worf, yesterday, before we left starbase, an old
-friend of mine came onboard. Doctor Dalen Quaice. I requested quarters
-for him. He was assigned here. 
-WORF: I was not aware of this passenger. 
-CRUSHER: I'm sorry. I thought it was standard procedure for you to be
-notified after Captain Picard approved passage. 
-WORF: It is. Please proceed. 
-CRUSHER: We were to meet for breakfast, but I can't seem to find him or
-his belongings. 
-WORF: Computer, where is Doctor Dalen Quaice? 
-COMPUTER: There is no Doctor Dalen Quaice aboard the Enterprise. 
-CRUSHER: Lieutenant, Doctor Quaice is very old and rather frail. If he
-fell somewhere, if his communicator were damaged. 
-WORF: I will order a search immediately. 
-CRUSHER: Thank you. 
-WORF: Even if Doctor Quaice had been injured, why would his belongings
-be missing?
+CRUSHER: Six years. 
+PICARD: Perhaps it would be prudent to find out if he'd acquired any
+enemies there.
 

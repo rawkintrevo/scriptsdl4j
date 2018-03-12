@@ -1,51 +1,71 @@
-OBRIEN DATA LAFORGE KEIKO
+RIKER LAFORGE PICARD GUEST2 GUEST0 DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Transporter room]
 
-DATA [OC]: Eventually, I developed a programme
-enabling me to predict human emotional responses to specific actions.
+GUEST0: The Zhukov is ready for transport, sir.
 
-[Keiko's quarters]
+DATA: Energise. 
+DATA: Welcome aboard the Enterprise, Ambassador. 
+T'PEL: I would meet with your Captain.
 
-KEIKO: Come in. 
-DATA: It is time for the wedding rehearsal. 
-KEIKO: I know. Data, I've decided not to go through with it. 
-DATA: You do not wish to rehearse? 
-KEIKO: No, I'm calling off the wedding. 
-DATA: May I ask why? 
-KEIKO: It's just the right thing to do. 
-DATA: Have your feelings for Chief O'Brien changed? 
-KEIKO: I'm supposed to be getting married, Data. I should be happy, but
-I'm not. I just feel this weight pressing down on me. 
-DATA: Will cancelling the wedding make you happy? 
-KEIKO: Yes. He'll probably be just as relieved as I am. Data, you
-introduced us to each other. You mean a lot to both of us. I would
-really
-appreciate it if you would tell Miles for me. 
-DATA: If you wish.
+[Turbolift]
 
-[Ten Forward]
+DATA [OC]: Sine I am not affected by emotional
+considerations, I am closer to being Vulcan than human. However, while
+their devotion to logic does have a certain appeal, I find their stark
+philosophy to be somewhat limited. 
+[Ready room]
 
-DATA [OC]: My friend Chief O'Brien often says that
-above all else, he wants to make Keiko happy. Since cancelling the
-wedding will make her happy, I must conclude the Chief will be pleased
-at her decision. 
-DATA: I have good news. 
-O'BRIEN: Oh? 
-DATA: Keiko has made a decision designed to increase her happiness. She
-has cancelled the wedding. 
-O'BRIEN: She what? Cancelled the wedding? Today? Without even a word?
-Of all the childish, selfish, irresponsible things to do! 
-(O'Brien storms out) 
-LAFORGE: Next time, maybe I should break the good news. 
-DATA [OC]: Commander Maddox, it would appear that my programme designed
-to predict the emotional responses needs adjustment.
+PICARD: Come. Ambassador T'Pel. 
+T'PEL: I come to serve. 
+PICARD: Your service honours us. This is my first officer, Commander
+William Riker. 
+T'PEL: Leave us, please.
 
-Second Officers personal log, supplemental. This is
-the one thousand five hundred fiftieth day since the Enterprise was
-commissioned.
-Besides the arrival of Ambassador T'Pel, other events occurring today
-include four birthdays, two personnel transfers, a celebration of the
-Hindu Festival of Lights, two chess tournaments, one secondary school
-play, and four promotions. Overall, an ordinary day.
+[Bridge]
+
+RIKER: Charming woman. 
+DATA [OC]: The tone of Commander Riker's voice makes me suspect that he
+is not serious about finding Ambassador T'Pel charming. My experience
+suggests that in fact he may mean the exact opposite of what he says.
+irony is a form of expression I have not yet been able to master.
+
+[Hairdresser's salon]
+
+(a Bolian hairdresser is dealing with Geordi, but
+it's not Mot) 
+V'SAL: You don't need a haircut. You were just in here last week. 
+LAFORGE: Hey, if you'd done it right the first time I wouldn't be back
+here so soon. 
+V'SAL: I know you want to look beautiful, but I'm just a barber, not a
+miracle worker. 
+LAFORGE: Just try to keep my ears on straight today, all right? 
+DATA [OC]: Friendly insults and jibes, another form of human speech
+that I am attempting to master, in this case with the help of Commander
+Geordi La Forge. 
+LAFORGE: Hi Data. 
+DATA [OC]: I consider Geordi to be my best friend. 
+LAFORGE: Here for a trim? 
+DATA: My hair does not require trimming, you lunkhead. 
+LAFORGE: What? 
+DATA: My hair does not require trimming 
+LAFORGE: Lunkhead? 
+DATA: I am experimenting with friendly jibes and insults. It was not
+meant as a serious disparagement. 
+LAFORGE: Well, just don't try it on the Captain. 
+DATA: No. Geordi, I am still confused by Chief O'Brien's reaction this
+morning. 
+LAFORGE: Yeah. He was just surprised, Data. He didn't mean to blow up
+like that. He knows that Keiko probably doesn't want to call off the
+marriage. She's just getting cold feet. 
+DATA: Cold feet? Jitters. A nervous reaction to an impending event of
+great importance. 
+LAFORGE: Right. Don't worry, everything's going to be fine. She'll
+change her mind again. 
+DATA: She will? 
+LAFORGE: Absolutely. 
+DATA: So you believe the wedding will still proceed? 
+LAFORGE: Trust me, they're going to get married. So you'd better find a
+gift.
 

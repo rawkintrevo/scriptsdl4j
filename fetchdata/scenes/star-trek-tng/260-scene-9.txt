@@ -1,95 +1,80 @@
-RIKER WORF PICARD TROI MAURIC CRUSHER
+PICARD CRUSHER GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cell]
+[Planet surface]
 
-(Picard is testing the bars on the window very
-carefully) 
+(Picard and Crusher walk out of a large cave
+entrance into a lightly wooded countryside and walk down a slope) 
+PICARD: One of us is hungry. 
+CRUSHER: That would be me. 
+PICARD: Do you mind thinking of something else. You're making me
+hungry. 
+CRUSHER: What do you want me to think about? 
+PICARD: Something other than a large bowl of vegetable soup. 
+CRUSHER: My grandmother used to make it, with peas, carrots and 
+PICARD: Beverly! 
+CRUSHER: I'm sorry. 
+PICARD: I am not being unreasonable. 
+CRUSHER: I didn't say that you were. I may have thought it, but there's
+a difference. 
+PICARD: You're right. We can't react to every random thought that
+crosses the other person's mind. Isn't astonishing, though, how much
+clutter there is in a consciousness. Odd memories coming to the
+surface. Bits
+of half-remembered songs. 
+CRUSHER: Stray day dreams, scattered minutiae. I wonder how true
+telepaths sift through it all. How can they really get to what
+someone's thinking if the minds keeps churning all this flotsam to the
+surface? That is not funny. 
+PICARD: I just wanted to see if you were still listening. 
+CRUSHER: I think our link is getting stronger. 
+PICARD: Maybe if we put some distance between us, that might weaken it.
+Not that I'm growing tired of hearing your most intimate thoughts. 
+CRUSHER: Certainly not. 
+(they separate, then start to stagger) 
+CRUSHER: Jean-Luc. 
+PICARD: What happened? 
+CRUSHER: I was suddenly overcome with a wave of nausea. 
+PICARD: Me, too. 
+CRUSHER: There's nothing wrong with either of us. Maybe the air is
+toxic. 
+(she moves away again, then back quickly) 
+PICARD: The same thing. But when you moved back toward me it got
+better. Well, it seems as if we're stuck with each other.
+(some way further on) 
+PICARD: What is it? 
+CRUSHER: I'm not sure whether we should go over this hill or that one.
+The topography on this map is a little vague. 
+PICARD: Let me see. This way. 
+CRUSHER: You don't really know, do you? 
 PICARD: What? 
-CRUSHER: What? 
-PICARD: You're staring at me. 
-CRUSHER: I was just thinking about how to get out of here. 
-PICARD: There may be a structural flaw that would allow us to escape. 
-CRUSHER: Right. 
-PICARD: Beverly, the important thing during any confinement is to think
-positively and not give up hope. There is a way out of every box, there
-is a solution to every puzzle. It's just a matter of finding it. 
-(the guard puts a covered plate on the floor and backs out. Picard
-fails to stop the door closing again) 
-PICARD: Damn. 
-CRUSHER: Well, at least this means we won't starve to death. 
-PICARD: It means they plan on keeping us here for a while. 
-CRUSHER: I'm beginning to think negatively, Jean-Luc. 
-(she takes the cover off the plate) 
-CRUSHER: My tricorder! 
-PICARD: Does it work? 
-CRUSHER: Yes. Except something's been added to the main directory. 
-PICARD: It's a map. 
-CRUSHER: An escape route. That guard must be working for the Kes. 
-PICARD: Possibly. Or it could be part of a very carefully laid trap. 
-CRUSHER: If you ask me, I'd like to take my chances out there. 
-PICARD: Agreed. Is there a way to open the cell door? 
-CRUSHER: Yes, the code's been entered. 
-(the door opens, there's no one around, and off they go)
-
-[Observation lounge]
-
-MAURIC: Commander, on behalf of my government, I
-would like to take this opportunity to present my profound apologies
-regarding this unfortunate incident. 
-RIKER: That's very kind, Ambassador. But I don't think anyone here
-holds you or the Kes government responsible for what's happened. 
-TROI: Our primary concern is not to assign blame, but to recover our
-missing officers. 
-MAURIC: I agree. We are prepared to insert a hostage rescue team into
-the Prytt capital city on three hours notice. 
-RIKER: Ambassador, we have not even attempted a diplomatic effort yet.
-I would rather not use force until we've exhausted all other options. 
-MAURIC: I don't believe there is any diplomatic option, Commander. We
-have no formal relations with the Prytt. No ambassadors. There's simply
-no way to contact them. 
-TROI: Surely you must have some means of communication in case of a
-planetary emergency. 
-MAURIC: We have never had need of such a system. 
-WORF: We can determine their communications frequencies and establish a
-link. 
-MAURIC: Allow me to be blunt. The Prytt are a fanatical, xenophobic
-people, with little regard for civilised discourse. Even if you do
-establish communications link with them, it will be a complete waste of
-time. 
-TROI: How long has it been since your last diplomatic contact? 
-MAURIC: Almost a century. 
-TROI: Then it's possible they may have changed over the years. 
-MAURIC: We have had other less formal contacts with the Prytt. Contacts
-we cannot discuss. But I can assure you, they have changed very little.
-
-RIKER: With all due respect, Ambassador, I think I should try to
-communicate with the Prytt before I sanction the use of force. 
-MAURIC: Of course, Commander. In the meantime, I will continue making
-preparations for a rescue attempt. 
-RIKER: Agreed. 
-MAURIC: I do have one request. We believe that the Prytt obtained their
-information about the transport of your captain and doctor through a
-breach in our communications network. If I could set up a base of
-operations here on the Enterprise, I'd feel much more secure. 
-RIKER: Mister Worf will help you. 
-MAURIC: Thank you, Lieutenant.
-
-[Corridor]
-
-(Worf opens the doors of the chosen quarters for
-the Kes, and the Ambassador peers in cautiously)
-MAURIC: You first.
-
-[Kes quarters]
-
-(the ambassador's aide uses a tricorder device) 
-WORF: Is there a problem, Ambassador? 
-MAURIC: Probably not. Simply securing the area. 
-WORF: I can assure you there is no need. 
-MAURIC: I'm sure you're right. (checks the scan results) Yes, this will
-do very nicely. 
-WORF: As Security Chief of the Enterprise, I would be glad to assist
-you in any way possible. 
-MAURIC: There's no need. We'll take care of everything. Thank you,
-Lieutenant.
+CRUSHER: I mean, you're acting like you know exactly which way to go,
+but you're only guessing. Do you do this all the time? 
+PICARD: No, but there are times when it is necessary for a captain to
+give the appearance of confidence. 
+(they walk on a little way then he looks at her) 
+CRUSHER: I'm sorry. I'm sorry. I just couldn't resist. 
+PICARD: I'm beginning to realise that you seem to always have some
+acerbic remark on the tip of your tongue. 
+CRUSHER: Well at least I've trained myself not to say it anymore. When
+I was a little girl, my mouth was always landing me in trouble with my
+parents, my teachers. 
+PICARD: Your friends. There was someone called Tom Norris? 
+CRUSHER: That's right. I had one date with him which I brought to an
+abrupt halt with the words, is that a beard or 
+GUEST4: Is your face dirty? 
+PICARD: There's something more. You're laughing, but actually you're
+embarrassed by that incident. 
+CRUSHER: Yes. I thought I was being cute but I really hurt him. That
+was a long time ago. I learned a valuable lesson. 
+PICARD: This sharing of thoughts and feelings is quite compelling. 
+CRUSHER: Very. We'd better get going. 
+(they slither down a loose rock slope then duck behind cover when they
+see a Prytt soldier on the next ridge) 
+CRUSHER: I don't think so, either. Maybe we can find another way to
+reach the village. 
+PICARD: No. It's several kilometres to find another way around that
+ridge. The border is just two kilometres east of here. There's a
+forcefield protecting it, but we can find some way to deal with that
+when we get there. Come on.
 

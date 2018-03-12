@@ -1,87 +1,52 @@
-TASHA PICARD RIKER DATA LAFORGE
+RIKER LAFORGE PICARD GUEST0 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Laboratory]
 
-TASHA: Captain, confirming class M reading there.
-But the sensors aren't showing any life readings. Not even vegetation.
-PICARD: Strange. The cruiser that found Data reported farmlands here.
-(Data and Wesley enter) 
-RIKER: Do you want to take her into orbit, Data?
-DATA: No, thank you, sir.
-PICARD: Continue on into close parking orbit.
-LAFORGE: Aye, sir.
-DATA: I could say home sweet home, sir, if I understood how the word
-sweet applies.
-PICARD: It usually refers to the memories.
-RIKER: It usually refers to one's own memories, Captain. Do the
-memories you were given include farms, Data?
-DATA: Affirmative, sir. But the colony's principal interest was science.
-TASHA: Data, I can't understand how you can hold the memories of four
-hundred and eleven people. If that means every experience, every day of
-their life?
-DATA: It does not, unfortunately. It means only the knowledge they had
-accumulated. Actually, I am quite deficient in some basic human
-information. Sneezing, for example.
-PICARD: Sneezing?
-LAFORGE: Approaching close parking orbit, sir.
-PICARD: Assemble your away party, Commander. This must be an exciting
-moment for you, Mister Data. I'm tempted to lead the away team myself,
-except that my First Officer would object.
-RIKER: How would Starfleet judge me if I didn't? An entire Earth colony
-did disappear down there.
-PICARD: You see? 
-LAFORGE: Now in close parking orbit, sir.
-PICARD: Mister Data, welcome home.
+(A mass of people are working on putting the pieces
+together, while Data looks on) 
+CRUSHER: Signal from the Captain. They need you at the debriefing.
+DATA: I've been most anxious to hear the Chief Engineer's opinion,
+Mister Argyle. Do you believe he can be made to function?
+GUEST0: It appears to include all the components in your body. Not that
+we fully understand your construction either.
+CRUSHER: We have our top specialists working on its construction,
+Mister Data.
+GUEST0: Just one thing. Without disassembling you, of course, if we
+should need more
+CRUSHER: If we should need to compare this with the way you're put
+together? 
+(Data nods)
 
-First Officer's log, stardate 4124.5. We have found
-Data's home to be a completely dead world made out of lifeless
-vegetation. No insects, not even soil bacteria. What is it that could
-kill everything on an entire planet? 
-[Planet surface]
+[Observation Lounge]
 
-(Riker, Data, Tasha, Worf and Geordi beam down) 
-TASHA: Recording signal locked onto the Enterprise, sir.
-RIKER: This looks like anything but farmland.
-LAFORGE: Agreed, sir. The soil appears almost completely lifeless.
-RIKER: This is the exact position listed in the Tripoli log. Do you
-recognise anything, Data?
-DATA: The land contours are familiar, sir. Topographically, this is the
-correct area.
-LAFORGE: This once was rich farmland. I'd say something like twenty to
-thirty years ago.
-DATA: I was discovered twenty six years ago.
-LAFORGE: Commander, I'd say that everything on this planet was either
-dead or dying at the time Data was found.
-DATA: I was found twenty metres in that direction, sir.
-(They walk down steps cut into the rock, to a cave) 
-TASHA: Data, any idea at all why you were given the colonists' memories?
-DATA: I have always felt that it was done hurriedly, but I know little
-more. Here, sir. This is where the cruiser's landing party found the
-signal device that had led them here. And they found me lying there,
-sir.
-(He indicates a platform, obviously man-made, on a rock shelf) 
-TASHA: You were just lying out there in the open? No identity record,
-no instructions?
-DATA: Only a layer of dust. 
-RIKER: What's the first thing you remember, Data?
-DATA: Opening my eyes. Looking into the eyes of the Tripoli landing
-party. They believed that the signal device sensed their presence and
-activated me.
-TASHA: Then this very spot was your birthplace.
-LAFORGE: Commander, I think I've got this place figured out here. This
-was really very cleverly done to make this look like a natural hollow
-in the terrain here. There are signs of it being constructed in a hurry
-as if to hide something here.
-DATA: Yes, that was it, Geordi. This wakens a memory remnant of how the
-colonists hoped to remain hidden, but their fear of being discovered
-led to their storing information in me.
-LAFORGE: Yeah, thought so. 
-(He has found the catch to the secret door. The back of the cave swings
-open to reveal a passageway into)
-
-[Underground Complex]
-
-(Riker turns the lights on) 
-TASHA: No life readings in here either, sir. 
-(They walk on until they come to a circular door, which opens for them)
+PICARD: Bringing it up here was the right thing to
+do, Number One. We were just saying, Data, that if your duplicate
+functions, it might answer a lot of questions.
+RIKER: Does it appear to have all your parts?
+DATA: Completely, sir.
+LAFORGE: Will we know how to turn it on?
+PICARD: All right, all right. Legitimate questions about any of this
+need not be asked apologetically. You feel uncomfortable about aspects
+of your duplicate, Data. We feel uncomfortable too, and for no logical
+reason. If it feels awkward to be reminded that Data is a machine, just
+remember that we are merely a different variety of machine. In our
+case, electrochemical in nature. Let's begin to handle this as we would
+do anything else.
+LAFORGE: Agreed, Captain.
+PICARD: Let's begin with you, Data.
+DATA: Well, sir, a good starting point may be, why was I given human
+form?
+LAFORGE: Well, to make it easier for humans to relate to you. Had to
+be. But your designer may have had something else to prove as well.
+PICARD: That human-shaped robots need not be clumsy or limited. You
+certainly operate as well as we do, Data 
+DATA: Better in some ways, sir. 
+RIKER: You might want to have a look at this, Captain. Could be a link
+to the disappearance of the colonists. It was displayed in the lab, no
+doubt by proud parents. It could be just a child's imagination, but
+several children did similar drawings.
+CRUSHER [OC]: Doctor Crusher to Captain. At this point, sir, we very
+much need Mister Data's help.
+PICARD: He's on his way, Doctor.
 

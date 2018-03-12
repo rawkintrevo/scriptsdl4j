@@ -1,82 +1,36 @@
-TROI CRUSHER LAFORGE BARNABY PICARD RIKER SALAZAR HELM TAITT DATA POWELL
+LORE DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Borg compound, outside]
 
-CRUSHER [OC]: How many people did we leave behind? 
-SALAZAR: Forty seven, sir.
+LORE: There you are, brother. Have you made any
+progress with La Forge? 
+DATA: It is too early to tell if the nano-cortical fibres performed
+their function. 
+LORE: I suspect none of the humans will survive the process but then,
+it's their own fault, isn't it? They should never have come here. What
+were they thinking? 
+DATA: They came looking for me. 
+LORE: Humans are so sentimental. 
+DATA: I betrayed them. If they die, I am responsible. 
+LORE: Why are you talking like that? Is something wrong with your
+programming? Maybe I should check your systems. 
+DATA: I do not want you to check my systems. I must resolve these
+issues myself. 
+LORE: I think I've made a mistake. I don't believe you can tolerate the
+amount of emotion I've given you. Perhaps I should cut back a little. 
+(he pulls back a fingernail) 
+LORE: How's that? 
+DATA: I do not like it. 
+LORE: Then you prefer having more emotions? 
+DATA: Yes. 
+LORE: They give you pleasure. 
+DATA: Yes. Please, I want more. 
+LORE: All right, a little more. For now. Aren't you going to thank me? 
+DATA: Thank you. 
+LORE: Don't mention it. I just hope this helps to clarify things for
+you. 
+(Data leaves) 
+LORE: I am concerned about my brother, Crosis. I don't believe he
+really wants to be a part of our great future.
 
-[Bridge]
-
-CRUSHER: Another minute and we would have had them.
-
-[Planet surface]
-
-RIKER: Riker to any team leader. 
-POWELL [OC]: Lieutenant Powell here, sir. 
-RIKER: Round up everybody who was left behind. Take cover. Try to avoid
-any contact with the Borg. 
-POWELL [OC]: Aye, sir. 
-RIKER: Riker out. Even if Beverly can get back to Federation space,
-it'll be a few days before Starfleet can get any ships here. Until
-then, we're on our own.
-
-[Holding cell]
-
-PICARD: Data, you must realise that something has
-happened to you. The Data I know would never have agreed to be a
-willing party to Lore's plan. 
-DATA: (taking the comm. badges) I now realise that my life aboard the
-Enterprise was a waste. My quest to become human was misguided. An
-evolutionary step in the wrong direction. 
-TROI: Data, all I'm sensing from you is anger and hatred. Have you felt
-any other emotions? 
-DATA: There are no other emotions. 
-LAFORGE: Data, just because you haven't experienced certain emotions
-doesn't mean they don't exist. Lore is only feeding you the negative
-ones. 
-DATA: Counsellor Troi told me herself that feelings are not negative or
-positive. It is how we act on them that makes them good or bad. 
-PICARD: Fine. But what about the things that Lore is proposing? What
-about the lives that have already been lost? 
-DATA: You simply do not understand. In a quest such as ours, sacrifices
-have to be made. It is regrettable, but the greater good must be
-served. Give me your visor. 
-LAFORGE: Why? 
-DATA: Give it to me or I will take it by force. 
-(Geordi takes it off) 
-DATA: I am not your puppet anymore. 
-(he turns on the forcefield and walks away)
-
-[Bridge]
-
-(relief crew enter the Bridge) 
-TAITT: Sir, we've reached the coordinates of the conduit. The tachyon
-matrix is energised and ready to go. And Lieutenant Barnaby has
-returned from the surface. He'll be relieving me. 
-CRUSHER: Right. Stand by to trigger the conduit. Taitt. I want you to
-stay on the Bridge. I'll need a Science Officer at the aft station. 
-TAITT: Yes, sir. 
-CRUSHER: Helm, set a course to return to the planet. 
-HELM: Aye, sir. 
-CRUSHER: I'm not leaving those people stranded back there. An emergency
-buoy can transmit a copy of our log entries to Starfleet just as easily
-as we can. Ensign, prepare a buoy and launch it when ready. 
-TAITT: Aye, sir. 
-CRUSHER: Lieutenant, open the conduit. 
-TAITT: Launching buoy now, sir. 
-CRUSHER: Lieutenant, scan for any Borg ships between here and the
-planet. 
-BARNABY: Sensors detect no vessels. 
-TAITT: We have to assume the ship that attacked us is still in orbit. 
-CRUSHER: How long will we have before they can detect us and intercept?
-
-TAITT: If their sensors function as well as ours it could be as little
-as thirty seconds. 
-CRUSHER: Crusher to Salazar. How long will it take to get the rest of
-the crew off the surface? 
-SALAZAR [OC]: One minute should do it. 
-CRUSHER: We don't have one minute. How much can you shave off that? 
-[Transporter room]
-
-SALAZAR: If I can get a good lock on them quickly,
-I might be able to do it in forty five or fifty seconds. 

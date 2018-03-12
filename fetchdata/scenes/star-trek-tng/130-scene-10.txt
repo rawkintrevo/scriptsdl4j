@@ -1,111 +1,30 @@
-RIKER WORF PICARD TROI DEBIN WESLEY GUINAN DATA KUSHELL
+PICARD OKONA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Ready room]
 
-(Data has the cigar and the arm gestures off
-pat)
-DATA: A guy walks into the doctor's office The doctor tells him you
-need an operation. The guy says I want a second opinion. The doctor
-said, okay, you're ugly too. Ba-boom boom. Was that funny? 
-GUINAN: No. 
-(Data sits, disconsolate) 
-GUINAN: Data, you spoiled the joke. It could have been your timing. 
-DATA: My timing is digital. (Guinan giggles) What? 
-GUINAN: That's funny. 
-DATA: Why? 
-GUINAN: It would take too long to explain. Tell me another joke. 
-DATA: (with cigar and silly voice) A monk, a clone and a Ferengi decide
-to go bowling together. 
-PICARD [OC]: Commander Data, report to the main Bridge immediately. 
-DATA: I will be back. 
-GUINAN: Bring new jokes.
-
-[Bridge]
-
-WORF: We have an unidentified at twelve mark four.
-No response to our enquiries. 
-PICARD: Extend hailing frequencies, all languages, all channels. 
-WORF: Extending. 
-DATA: Sensors show it to be an interplanetary vessel, sir. Class seven,
-crew complement twenty six. 
-WORF: Still no response. Captain, they are now locking lasers on us. 
-RIKER: Lasers? 
-WORF: Yes, sir. 
-PICARD: Lasers can't even penetrate our navigation shields. Don't they
-know that?
-RIKER: Regulations so call for a Yellow Alert. 
-PICARD: A very old regulation. Well, make it so, Number One. And reduce
-speed. Drop main shields as well. 
-RIKER: May I ask why, sir? 
-PICARD: In case we decide to surrender to them, Number One. 
-WORF: Still no response to our hail, sir. 
-DATA: It is slowing and is holding its position, Captain. 
-WORF: Sir, we are now being hailed. 
-PICARD: Viewer on. 
-(A middle aged man with a neat beard, dressed in simple grey, has his
-arms folded
-belligerently) 
-DEBIN [on viewscreen]: Federation vessel, you have no rights in this
-solar system. I am Debin of planet Atlec, ordering you to heave to and
-prepare to be boarded. 
-RIKER: Shades of Gulliver's Travels. He actually meant it. 
-PICARD: But he is right. We are in their solar system. Open a channel. 
-WORF: Open, sir. 
-PICARD: I am Captain Jean Luc Picard of the USS Enterprise. For what
-reason have you locked your weapons on us? 
-DEBIN [on viewscreen]: Enterprise, you are towing a spacecraft of a
-known criminal. 
-PICARD: He was in need of emergency repair. It was our obligation to
-assist. 
-DEBIN [on viewscreen]: You have a man aboard by the name of Okona. I
-want him. 
-PICARD: On what authority? 
-DEBIN [on viewscreen]: He is guilty of crimes committed on the planet
-Atlec. I expect him to be turned over to my authority immediately. 
-WORF: Mute. 
-PICARD: What do you think, Counsellor? 
-TROI: He believes what he's saying. His anger is genuine. 
-PICARD: Open. What crimes are you referring to? 
-DEBIN [on viewscreen]: Neither important nor necessary. I want Okona
-now! 
-WESLEY: Captain, we have another Class seven armed spacecraft
-approaching, from the opposite sector. 
-RIKER: Another ship from Atlec? 
-DATA: Similar in specifications and capabilities, but a variation in
-markings and hailing language. 
-PICARD: Debin, hold this position. Viewer off. Data, identify. 
-DATA: Sensors indicate it a security vessel from the planet Straleb. 
-WORF: Another glob fly. 
-RIKER: Glob fly? 
-DATA: A Klingon fly, half the size of an Earth mosquito, with no sting
-and a buzzing sound like this. 
-PICARD: Data. Viewer on. Hailing frequencies. 
-WORF: Open, sir 
-(A clean-shaven man in brown, with a younger man in a leather jacket
-just behind him) 
-KUSHELL [on viewscreen]: I am Secretary Kushell from the Legation of
-Unity of the planet Straleb. 
-PICARD: I am Captain Picard. 
-KUSHELL [on viewscreen]: We know who you are, Captain Picard. We have
-been monitoring your communications, and we know of the demands made by
-Debin of planet Atlec. 
-PICARD: Then you're aware that we have no hostile interaction. 
-KUSHELL [on viewscreen]: You only have to concede to one demand. 
-PICARD: That word demand has a tone of finality. 
-KUSHELL [on viewscreen]: It is a word I have chosen. We demand you turn
-Okona over to us immediately. 
-WORF: Mute. 
-PICARD: Mister Okona to the Bridge immediately. Open. The same demand
-has been made by the Atlec legation. 
-KUSHELL [on viewscreen]: I have no interest in their request, but we
-intend to back up our legal right to Okona. 
-PICARD: I would rather not escalate this situation any further. 
-KUSHELL [on viewscreen]: Our honour and prestige are at stake. We are
-prepared to take Okona by force and die in the doing of it if
-necessary. 
-PICARD: I trust that that can be avoided. I will respond to your
-request shortly. Viewer off. 
-WORF: Captain Okona has not responded, sir. He's been reported in three
-different crew quarters. 
-PICARD: Find him. Get him up here. 
-WORF: Yes, sir. 
+OKONA: Captain, you can't be afraid of those two or
+what they can do to your ship. 
+PICARD: No, they could fire until their lasers ran dry and they
+wouldn't hurt the Enterprise. My predicament is what to do with you.
+OKONA: I'm sorry. I'm sorry my ship broke down. I'm sorry you stopped
+to help. I'm sorry you're involved. But you're right. Whatever happens,
+however it goes, someone gets hurt. Hand me over to Kushell, and Debin
+goes to war. 
+PICARD: And if I hand you over to Debin, then it's the same thing. 
+OKONA: I wish I could. I wish I could make it easier. 
+PICARD: I'm sure you do. 
+OKONA: I'm not going to apologise for the way I am or how I live my
+life, but just for the record, I did not steal the Jewel of Thesia. I
+am not a criminal, Captain. And as to the other business, that's
+between me and Yanar, no one else. 
+PICARD: In truth, I simply do not have authority in this matter. I'm
+not your judge, nor is it my duty to arbitrate. But you are in my
+custody, and that creates the dilemma. 
+OKONA: How about this? Do what you said. Fix my guidance system and let
+me leave. 
+PICARD: According to Starfleet regulations, that would be my only
+course of action. But their ships are faster than yours. I'm not doing
+you a favour. 
+OKONA: Captain, with all due respect, that's not your concern. Besides,
+I can take care of myself. 

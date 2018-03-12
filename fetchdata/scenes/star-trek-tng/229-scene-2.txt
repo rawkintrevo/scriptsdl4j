@@ -1,4 +1,5 @@
-TROI SIMONS PICARD MAYLOR RIKER ALKAR
+TROI GUEST3 PICARD GUEST2 RIKER ALKAR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
@@ -6,12 +7,12 @@ TROI SIMONS PICARD MAYLOR RIKER ALKAR
 TROI: I'm Counsellor Deanna Troi.
 ALKAR: Ambassador Ves Alkar, and my mother, Sev Maylor. Counsellor,
 it's imperative that I speak to the Captain. 
-MAYLOR: You think he's attracted to you, but he isn't. You offer him
+GUEST2: You think he's attracted to you, but he isn't. You offer him
 nothing.
 ALKAR: She hasn't been feeling well. Could she be taken to quarters?
 TROI: Of course. Chief. I'll take you to Captain Picard.
 ALKAR: Mother, go with her.
-MAYLOR: Don't pursue him. I won't have it. I'll stop you.
+GUEST2: Don't pursue him. I won't have it. I'll stop you.
 
 [Ready room]
 
@@ -24,20 +25,20 @@ PICARD: With all due respect. Admiral, to put the Ambassador on board
 another unarmed transport would be to invite a second assault.
 ALKAR: I believe the attack on us was an isolated incident, nothing
 more.
-SIMONS [on monitor]: Ambassador Alkar, the Rekag-Seronia dispute has
+GUEST3 [on monitor]: Ambassador Alkar, the Rekag-Seronia dispute has
 threatened Federation ships for many months. We are grateful that you
 are willing to undertake this mission and you have our full support.
 ALKAR: Thank you, sir.
-SIMONS [on monitor]: However, we also recognise that safety is an
+GUEST3 [on monitor]: However, we also recognise that safety is an
 issue. Not just yours, but the crew that escorts you. To send you on an
 unarmed transport puts everyone at risk. I think it best if you proceed
 to Rekag-Seronia aboard the Enterprise. 
 ALKAR: Then I have no choice.
-SIMONS [on monitor]: Once you get to Rekag-Seronia, you can conduct
+GUEST3 [on monitor]: Once you get to Rekag-Seronia, you can conduct
 your negotiations as you see fit. Until then, you'll be in good hands
 with Captain Picard.
 ALKAR: I understand, sir.
-SIMONS [on monitor]: Good luck, and a successful journey.
+GUEST3 [on monitor]: Good luck, and a successful journey.
 (transmission ends) 
 PICARD: Picard to Commander Riker.
 RIKER [OC]: Yes, sir?

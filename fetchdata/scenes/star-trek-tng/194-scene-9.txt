@@ -1,45 +1,34 @@
-PICARD VASH CREWMAN
+TROI WORF PICARD RIKER CRUSHER DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Sherwood Forest]
 
-CREWMAN: Captain. 
-(The crewman goes round the corner, there's no one else in sight, so
-Picard rings a doorbell) 
-VASH [OC]: Who's there? 
-PICARD: It's me. 
-VASH [OC]: Who? 
-PICARD: Jean-Luc. 
-[Vash's quarters]
+(a heavily Hollywood-isd version of the old
+ballads, with Picard as Robin, and the senior staff as the outlaws.
+This is
+my local tradition and I personally  hate the US
+messing with it....) 
+PICARD: Q! 
+TROI: Is this Tagus Three? 
+PICARD: I doubt there are many oak trees on Tagus. No, I think this is
+supposed to be Earth, somewhere round about the twelfth century. And
+this is England, or to be more precise, Sherwood Forest. Or at least
+Q's recreation of it. 
+RIKER: That would explain these costumes. 
+PICARD: Quite right, Number One. Or should I say, John Little. 
+CRUSHER: Well, if he's Little John, that makes you 
+PICARD: I know. Robin Hood. 
+WORF: Sir, I protest. I am not a merry man. 
+DATA: On the contrary, Lieutenant Worf. Your clothing identifies you
+with the character of Will Scarlett, just as Geordi's mandolin
+identifies him as Alan A-Dale 
+RIKER: And you, Mister Data, bear a striking resemblance to Friar Tuck.
 
-VASH: Yes? 
-PICARD: May I come in? 
-(Picard enters) 
-PICARD: Let me try to explain. I am by no means embarrassed by your
-presence here. On the contrary. 
-(then he spots a PADD on a table) 
-PICARD: What's this? A map of the ruins? I thought that I was the only
-reason you came to Tagus. 
-VASH: I never fooled you for a second. Still, you are the most
-important reason. 
-PICARD: Am I? 
-VASH: That's the trouble with being such a well-known liar. Even when
-I'm telling the truth, no one believes me. 
-(Picard goes into the next room and comes out with a shovel and
-something else) 
-PICARD: This equipment will have to be confiscated. 
-VASH: Is that necessary? 
-PICARD: If the Taguans were to catch you down there. 
-VASH: Oh, come on. You gave me the same warning about Sarathong Five. 
-PICARD: I remember. 
-VASH: Well, it didn't stop me from going there. I brought back some
-very impressive artefacts, too. 
-PICARD: Which no doubt you sold for a very impressive profit. 
-VASH: That's what I do! 
-PICARD: Not on board my ship. I will not allow it. 
-VASH: Let's get one thing straight, though, Picard. I cannot change who
-I am for you or anyone else. 
-PICARD: Nor can I change who I am. 
-VASH: Then we have nothing more to say to one another. 
-PICARD: So it would seem. 
-(Picard leaves, and Q pokes his head through the hull)
+(Enter a nobleman on a horse) 
+SIR GUY: I have you at last, Robin Hood. 
+(he draws his sword, and Worf draws his own then starts to fight him.
+Worf gets a gash on the shoulder, then the Norman soldiers fire their
+bows) 
+PICARD: Quick, into the forest. Mister Worf. That's an order. 
+SIR GUY: Enough, you fools. We'll never find them in the greenwood.
 

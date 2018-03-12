@@ -1,99 +1,48 @@
-TROI WORF RIKER OGAWA CRUSHER DATA
+WESLEY RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Shuttlebay]
 
-DATA: I am initiating a subspace scan to search for
-temporal anomalies on or off the ship. 
-OGAWA [OC]: Counsellor Troi, please report to Sickbay. 
-TROI: I'm on my way. Let me know if you find anything. 
-WORF: Commander, how long have I been married to Counsellor Troi? 
-DATA: (with blue eyes) Two years, one month and twelve days. 
-WORF: And when did this relationship begin? 
-DATA: It is my understanding your romantic affiliation began shortly
-after you recovered from your spinal injury on stardate 45587. It was
-six months later that you asked Commander Riker for his formal
-permission to court Counsellor Troi. You felt to do otherwise would be
-dishonourable. 
-WORF: And then we mated? 
-DATA: I am not privy to the exact details of when, where or how your
-first coupling took place. I could investigate it 
-WORF: No, that is all right. 
-DATA: I am detecting no temporal anomalies in this system. Perhaps we
-should try to pinpoint the exact moment when events became
-discontinuous. Do you remember the first change? 
-WORF: I was in Sickbay. Doctor Crusher told me I had a concussion but I
-do not remember that happening. 
-DATA: Think back. Are you sure that was the very first change? 
-WORF: Before. Yes. Yes, I was in Engineering. I felt a wave of
-dizziness and when I looked up, you and Commander La Forge were on the
-opposite side of the room. Captain Picard was gone. I thought I had
-blacked out for a moment and had not observed your movements. And at my
-birthday party, the cake was chocolate and then it was yellow. And
-Commander Riker told me Captain Picard was not going to attend, and
-then suddenly he was there. 
-DATA: We should try to find the commonalties in these events. Where
-were the people you were with? 
-WORF: Everyone was at my birthday party. Then I was with Counsellor
-Troi, then Commander La Forge came in. Geordi. Geordi was present at
-all three locations. And he was near me in each case just before I
-noticed the differences. There has to be a connection. 
-DATA: It is possible. We should speak to Commander La Forge.
+RIKER: Did they send the right shuttle? 
+DATA: Yes, sir. It matches Commander Worf's quantum signature
+precisely. I have remodulated the shuttle's engines to emit an inverse
+warp field. You will need to activate the field at the precise moment
+you enter the fissure. 
+WORF: Assuming it works, will I find myself near my own ship? 
+DATA: That is one possibility. However, the uncertainty principle
+dictates that time is a variable in this equation. You may end up
+several days before the event or several days after. There is no way to
+tell. 
+WORF: I understand. 
+RIKER: Good luck. 
+(Data and Riker leave.Worf and Deanna embrace, then kiss) 
+[Shuttlecraft]
 
-[Sickbay]
+WORF: Setting course for the fissure. 
+RIKER [OC]: Acknowledged.
 
-DATA: Doctor, is Geordi well enough to answer some
-questions? 
-OGAWA: (the Doctor) Geordi's dead. 
-DATA: There do not appear to be any unusual readings. Energy residuals
-from the plasma burns, the beginnings of cellular decomposition. I see
-nothing that connects these bio-readings to your recent sense of
-discontinuity. 
-OGAWA: What about his visor? 
-DATA: I still see nothing unusual. Perhaps we should activate it. 
-OGAWA: Hook it up to the diagnostic array and I'll check it out. 
-DATA: The visor is active. 
-(Worf is in red, with three pips and a future comm. badge. He sways.) 
-CRUSHER: Worf, are you alright? 
-DATA: (yellow eyes) Have you noticed another discontinuity? 
-WORF: Doctor Crusher was not here. Doctor Ogawa was. 
-CRUSHER: Doctor Ogawa? 
-WORF: My uniform has changed. What is my rank and position? 
-TROI: You're a Commander and First Officer. 
-WORF: Are we still married? 
-TROI: Yes. 
-DATA: I am detecting a quantum flux in your cellular RNA. 
-WORF: What does that mean? 
-DATA: I do not know. I will have to analyse these readings. 
-[Ready room]
+[Bridge]
 
-(Riker is Captain) 
-DATA: I have found the quantum flux in Worf's cellular RNA extends to
-the subatomic level. It is asynchronous with normal matter. In essence,
-Captain, Mister Worf does not belong in our universe. 
-RIKER: What? 
-DATA: All matter in the universe resonates on a quantum level with a
-unique signature. That signature is constant. It cannot be changed
-through any known process. It is the basic foundation of existence. 
-RIKER: Are you saying that Worf's quantum signature is different from
-ours? 
-DATA: Yes, sir. I cannot explain it. It is as if he originates from a
-different quantum universe. 
-RIKER: Mister Worf, you say the discontinuities started to occur after
-you returned from a Bat'leth tournament on Forcas Three. 
-WORF: Yes, sir. 
-RIKER: Now, I know for a fact that you never attended that tournament
-and that no shuttlecraft has left the Enterprise for over a month. 
-WORF: I understand that, but I also clearly remember attending the
-tournament and returning to the ship in a shuttlecraft. 
-RIKER: Do you remember the route you took to return? 
-WORF: Yes. 
-RIKER: Let's backtrack that course. See if there are any unusual
-readings or anomalies. 
-DATA: Aye, sir. 
-(Data leaves) 
-WORF: If I may inquire, sir, how long have you been Captain of the
-Enterprise? 
-RIKER: Four years. Ever since Captain Picard was killed in the incident
-with the Borg. You don't remember any of this, do you? 
-WORF: I do remember. I just remember differently.
+WESLEY: Captain, the shuttlecraft is under attack. 
+RIKER: The Bajorans again. 
+WESLEY: No, sir. It's one of the Enterprises. They're hailing us. 
+RIKER: On screen. 
+(a bad signal and a Riker with a full ragged beard) 
+RIKER [on viewscreen]: We won't go back. You don't know what it's like
+in our universe. The Federation's gone, the Borg is everywhere! We're
+one of the last ships left. Please, you've got to help us! 
+RIKER: I'm sorry, there's no choice. If this works, everything will
+return to 
+RIKER [on viewscreen]: No, we won't go back! 
+(transmission ends) 
+WESLEY: Sir, they're firing on the shuttlecraft. 
+RIKER: Open fire. Try to disable them. 
+WESLEY: Direct hit. Their shields have collapsed. Their engine core is
+overloading. 
+(KaBOOM) 
+RIKER: What happened? 
+WESLEY: It looks like the ship had already taken heavy damage. Their
+warp containment field must have been weak. 
+RIKER: Probably from fighting with the Borg. 
+DATA: Captain, Worf is entering the fissure.
 

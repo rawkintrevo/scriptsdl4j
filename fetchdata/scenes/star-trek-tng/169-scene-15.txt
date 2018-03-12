@@ -1,46 +1,59 @@
-OBRIEN LAFORGE BARCLAY
+RIKER LAFORGE WORF PICARD WESLEY GUEST5 DATA BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Bridge]
 
-BARCLAY: I'll make it easy for you, Commander. I'll
-request reassignment. 
-LAFORGE: Now, wait a minute. 
-BARCLAY: Look, we both know, the whole ship knows, I just can't cut it
-here. 
-LAFORGE: Hey, Barclay, I've spent a few hours on the holodeck too, you
-know. Now, as far as I'm concerned what you do in the holodeck is your
-own business, as long as it doesn't interfere with your work. 
-BARCLAY: You're, you're not going to tell anyone about this? 
-LAFORGE: I don't think everybody would appreciate your imagination like
-I do. It is kind of unusual, recreating people you already know. 
-BARCLAY: well, it was just. I needed to blow off some steam because
-one, one of the officers had been getting on my back. 
-LAFORGE: Let me guess. 
-BARCLAY: It was you, and I just couldn't tell you what I wanted to tell
-you to your face, so it just sort of got out of control. 
-LAFORGE: I don't know. There's a part of this that's kind of
-therapeutic. Maybe you ought to talk to Counsellor Troi about it. 
-BARCLAY: It's, it's, I, when I'm in there I'm just more comfortable.
-You don't know what a struggle this has been for me, Commander. 
-LAFORGE: I'd like to help, if I can. 
-BARCLAY: Being afraid all the time, of forgetting somebody's name, not
-knowing what to do with your hands. I mean, I'm the guy who writes down
-things to remember to say when there's a party. And then when he
-finally get there, he winds up alone in the corner trying to look
-comfortable examining a potted plant. 
-LAFORGE: You're just shy, Barclay. 
-BARCLAY: Just shy. Sounds like nothing serious, doesn't it? You can't
-know. 
-O'BRIEN [OC]: O'Brien to La Forge. 
-LAFORGE: Go ahead. 
-[Transporter room]
+PICARD: Go ahead, Commander. 
+LAFORGE [OC]: Recommend we go to impulse power, Captain. 
+PICARD: Take us out of warp. 
+DATA: Controls are not responding, sir. 
+[Engineering]
 
-O'BRIEN: I need you in transporter room three,
-Commander. 
-[Ten Forward]
+BARCLAY: It's the injectors. 
+LAFORGE: Override. 
+BARCLAY: It's not a computer problem. The mechanism is physically
+jammed. I can't clear it. 
+[Bridge]
 
-LAFORGE: On my way, Chief. Listen, Reg. I really do
-want you to talk to Counselor Troi. 
-BARCLAY: Troi? No, no, no, no, no. I couldn't. 
-LAFORGE: I mean it. As your friend and as your commanding officer.
+DATA: Speed increasing, sir. Warp seven point six,
+seven point six five. Warp seven point seven. 
+[Engineering]
+
+LAFORGE: We can't shut it down, Captain. Antimatter
+flow is increasing. She's accelerating out of control.
+
+[Bridge]
+
+LAFORGE [OC]: There's nothing I can do. 
+WORF: Approaching warp nine sir. 
+PICARD: Red alert. 
+RIKER: Estimated time to structural failure. 
+DATA: At this rate of acceleration, fifteen minutes forty seconds, sir.
+
+RIKER: Did you copy that, Geordi? 
+LAFORGE [OC]: Aye, Commander. 
+RIKER: Recommendations.
+
+[Engineering]
+
+LAFORGE: I'll let you know as soon as we have some.
+La Forge out. Okay, this ship is going to start tearing itself apart in
+fifteen minutes. I want every idea on the table. I don't care how
+outrageous. 
+GUEST5: What about attempting a magnetic quench on the fusion
+pre-burners? 
+LAFORGE: No, I already tried that. The magnetic fields won't reset. 
+WESLEY: Could the fuel inlet servos be caught in cycle? 
+LAFORGE: If they were, the swirl dampers would be frozen too and they
+aren't. 
+GUEST5: Nothing showed up in the diagnostic sweep at all? 
+BARCLAY: The tests showed there were problems, I mean no problems with
+the flow, the flow of the. 
+LAFORGE: There's nothing wrong with the computer control protocols or
+the power transfer systems. As far as we can determine, the injectors
+are just physically jammed. 
+GUEST5: Injectors freeze, anti-grav unit goes down, and transporter
+malfunctions. 
+WESLEY: And a twisted glass. 
+LAFORGE: What's the connection?
 

@@ -1,41 +1,81 @@
-RIKER TASHA PICARD TROI FACE CHIEF DATA
+TROI PICARD RIKER GUEST0 GUEST5 LWAXANA CHIEF GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ready room]
 
-PICARD: Such a beautiful world. Legends say it has
-been known to mend souls and heal broken hearts. 
-DATA: Legends which are totally unsupported by fact, Captain. 
-PICARD: Legends like that are the spice of the universe, Mister Data,
-because they have a way of sometimes coming true. 
-[Riker's quarters]
+TROI: I was certain it would never happen, Captain.
+The years I'd spend on this mission, the distance it has taken me away
+from home. As you must have heard, genetic bonding is a Betazoid
+tradition. Steven Miller was my father's closest friend. 
+RIKER: Your father was human, Deanna. The Millers are human 
+PICARD: Will you and your husband be staying with the ship, Counsellor?
 
-(Riker is relaxing to a holographic pair of women
-playing musical instruments) 
-TASHA [OC]: Lieutenant Yar to Commander Riker, your presence is
-requested in Transporter room one. 
-RIKER: Sorry ladies. Duty calls.
+TROI: No, sir. 
+PICARD: Then I'll just say congratulations for now, Deanna. You'll
+excuse me? 
+(Picard leaves) 
+TROI: Bill, more than anything else in the world, anything, you want to
+be a starship captain. True? 
+RIKER: That's not all I want, Deanna. 
+TROI: I can feel that. I know you care, within those limits. Did you
+hear what I said? 
+RIKER: Every word. This whole thing is still bizarre. I'm sorry. 
+TROI: Come dance at my wedding. 
+RIKER: I'll try. 
+(Riker leaves as Data enters) 
+DATA: A message from planet Haven, Counsellor. They wish to beam the
+Miller wedding party aboard.
 
 [Transporter room]
 
-RIKER: You needed me, Lieutenant? 
-TASHA: Yes, sir. There's an object of some kind beaming in from Haven. 
-RIKER: What is it? 
-TASHA: We're not sure. 
-CHIEF: Surface Station approval coming in now, Lieutenant. 
-TASHA: All right, let's bring it in. 
-(It's a box, with a face in relief on the front of it) 
-RIKER: Odd looking. 
-(Troi enters) 
-TROI: What's going on? 
-(The face on the box comes alive) 
-FACE: I hold a message for Deanna Troi. Lwaxana Troi and the honourable
-Miller family will soon arrive. The momentous day is close at hand.
-Rejoice. 
-TROI: No. No. 
-RIKER: What's going on? 
-(The box bursts open and scatters gems on the transporter pad) 
-TASHA: Jewels. Look at these jewels. 
-TROI: They're bonding gifts. What you would call wedding presents. 
-RIKER: Who's getting married? 
-TROI: I am.
+(Mr. Steven Miller, Mrs. Victoria Miller and their
+son Wyatt beam aboard) 
+PICARD: I'm Jean-Luc Picard, Captain of the Enterprise. Welcome aboard.
+
+GUEST2: Quite some starship you have here, Captain. Look forward to
+this visit. 
+GUEST0: You couldn't be 
+TROI: I'm Deanna. 
+GUEST0: Deanna darling! You probably don't even remember me. 
+GUEST2: Wyatt was absolutely right. She is a beauty. 
+GUEST5: I'm Wyatt. 
+GUEST0: Isn't this simply beautiful? I knew romance was still alive,
+somewhere. 
+GUEST5: I'd like you to have this. It's a Chameleon Rose. It changes
+colour with the mood of its owner. 
+TROI: It's wonderful. Thank you. When is my mother arriving? 
+GUEST5: Your mother is still down on the planet, Deanna. 
+TROI: Why? 
+GUEST5: Er, is there a place for my parents to rest, Captain? 
+GUEST2: Well, we're not really tired, son. Besides, I'd like to see
+some of the ship. 
+GUEST0: Steven, you know full well Lwaxana Troi isn't about to beam
+on aboard until we leave. So? 
+PICARD: You can see your quarters now, if you like. Will you show the
+Millers to their accommodations, please, and I shall join you later. 
+(The Millers leave) 
+CHIEF: Two more are ready to beam in, sir. 
+PICARD: So be it. Wyatt seems a fine young man. 
+TROI: Yes, he does. But I'm not what he expected. 
+PICARD: I don't understand. 
+TROI: Neither do I, but I'm definitely a surprise of some sort to him.
+I should warn you, sir. My mother is a little eccentric. 
+(A large man is sitting on a chest, and a woman has her back to them) 
+LWAXANA: Where is everyone? Oh, I hate that. 
+TROI: Hello, Mother 
+LWAXANA [OC]: Don't say it, think it. Use your mind, not your mouth. 
+TROI: Hello Mother. 
+LWAXANA [OC]: Deanna, shame. What has this life done to you? 
+LWAXANA: No, don't tell me. You're the Captain. 
+PICARD: Of course. Your daughter has explained your telepathic ability.
+
+LWAXANA: That wasn't telepathy, it was just common sense. Who else
+would they send to greet me but the Captain? You may carry my luggage. 
+TROI: Mother! 
+PICARD: No, no, that's quite all right. I'm indebted to your mother for
+the fine Counsellor she 
+(The luggage is heavier than he expected. A lot heavier) 
+PICARD: (straining himself) This way. 
+(The reincarnation of Christine Chapel and voice of the Enterprise
+computer follows, with her daughter and Lurch-sized servant)
 

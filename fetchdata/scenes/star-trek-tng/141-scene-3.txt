@@ -1,35 +1,56 @@
-PICARD TROI RIKER
+PULASKI PICARD TROI LAFORGE RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Meadow]
-
-(The grey mare is waiting to be saddled) 
-TROI: So you like horses for the romance? 
-PICARD: It goes deeper than that. A fine war mare would sleep in a
-bedouin's tent, carry him into battle, feed his children with her milk.
-There's a bond which is created by mutual need. Hello, beautiful. 
-TROI: Now I understand. You don't want the comfort of a pet, you want a
-companion. 
-(Picard hands her his riding crop while he tacks up) 
-PICARD: Thank you. I don't want to anthropomorphise anything. I seems
-that some creatures have the capacity to fill spaces you never knew
-were empty. 
-TROI: I had a Betazoid kitten once. My mother and the cat reacted badly
-to one another. 
-PICARD: Sure you don't want to try? It's very relaxing. We can find you
-something that will be quiet and gentle. 
-TROI: No, I prefer a mode of transportation that doesn't have a mind of
-its own. 
-PICARD: Strange. I would expect Betazoids to be outstanding animal
-trainers. 
-TROI: We become too involved in the thoughts and shifting passions of
-the beast. We lose our way and get swept up in emotion. 
-PICARD: I should think the shifting passions of this beast would be far
-more terrifying. 
-(He's referring to himself. Just as he puts his foot in the stirrup to
-mount - ) 
-RIKER [OC]: Captain. 
-PICARD: Yes, Number One? 
 [Bridge]
 
 RIKER: We've entered the first system. I think you
 might want to come to the Bridge. 
+[Meadow]
+
+PICARD: Something interesting? 
+RIKER [OC]: Spectacular. And a little terrifying. 
+PICARD: I'm on my way.
+
+[Bridge]
+
+RIKER: The first long range reading. Magnification
+ten to the sixth. 
+PICARD: Quite impressive. 
+(The planet is glowing red and black, like a huge ball of lava) 
+RIKER: And deadly. The last unmanned probe showed a thriving ecosystem.
+Now there's nothing.
+
+[Observation lounge]
+
+PICARD: This is Commander Riker's meeting. 
+RIKER: I'll need your advice and recommendations. As you know, I've
+been given the responsibility of overseeing Wesley's education. To
+further that goal, I would like to put him in charge of the planetary
+mineral surveys. 
+PULASKI: It's a big job with a lot of responsibility. 
+RIKER: The game isn't big enough unless it scares you a little. 
+LAFORGE: To do the job, Wesley's going to need a team. It takes command
+presence to lead. Do you think he's ready for that? 
+TROI: Leadership grows from self-confidence, which is also part of a
+Starfleet officer's education. 
+PICARD: All of this is true, but there is an old horse trainer's adage
+about putting too much weight on a young back. We don't want him to
+break under pressure. 
+PULASKI: We seem to be shifting the focus here. Are we talking about a
+young officer on the fast track to the Academy, or are we talking about
+a young man that we are guiding through adolescence and into adulthood?
+
+TROI: You can't guide someone into adulthood. The experiences are
+unique to each person. Whether Wes succeeds or fails, he will learn
+from the experience. 
+PULASKI: I agree. I'm just questioning the speed at which we're moving.
+
+LAFORGE: You think we're pushing him too hard? 
+PULASKI: I think that's a valid concern. 
+PICARD: Tempering is taken to extremes. 
+PULASKI: He is a boy, not a sword. 
+PICARD: Who will one day be a man and, to extend the metaphor, will
+need a fine edge that won't dull at the first touch of resistance. 
+RIKER: Sooner or later he'll have to feel the burden of command. Ensign
+Crusher.
+

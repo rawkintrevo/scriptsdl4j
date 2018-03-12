@@ -1,70 +1,31 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA
+CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Raman corridor]
+
+LAFORGE: It's a mess in here. There must be a
+breach in the hull someplace. I'm picking up atmospheric gasses in the
+corridor. Methane and ammonia, primarily. That break in the hull might
+even be on the Bridge itself.
+I'm heading towards the Bridge. I've found someone. 
+DATA [OC]: What is your position? 
+LAFORGE: About twelve metres up the main corridor. He's trapped under
+some conduit from the bulkhead. I can't move it. I'm going to need more
+power to the tractor beam. 
+CRUSHER [OC]: Go to eighty percent of tolerance, Data. No higher. 
+(Geordi pulls off a metal bar and checks the man's pulse) 
+LAFORGE: He's dead. Data, that door at the end of this corridor. What's
+it lead to? 
+DATA [OC]: A magnetic storage bay. 
+LAFORGE: If there was a break in the Bridge, that'd be the safest place
+to go. Data, give me a phaser burst. Narrow focus, level four
+intensity. 
+(Geordi blows the lock off the door) 
+LAFORGE: I've found them. They're dead. All of them. There's a fire in
+here. Argh!
 
 [Laboratory]
 
-RIKER: What is it? 
-CRUSHER: The probe is designed to respond to any movement Geordi
-intends to make. When his brain sends a message to move his leg, the
-interface should move the probe instead. 
-DATA: Apparently the tactile sensors are too low. I will increase the
-input. 
-[Jefferies tube]
-
-LAFORGE: There it goes. I'm on my way down.
-
-[Laboratory]
-
-RIKER: Why the body suit? 
-DATA: It provides tactile sensations so that Geordi can feel he's in
-the same environment as the probe. 
-(Geordi is 'walking' past a panel and sees the probe as his reflection.
-He leans forward to examine it) 
-CRUSHER: Geordi, what's wrong? 
-LAFORGE: Nothing. I'm seeing my reflection in a panel. 
-[Engineering]
-
-LAFORGE: I forgot what a handsome guy I am.
-
-Captain's log, stardate 47215.5. We are responding
-to a distress call from the science vessel Raman, which is apparently
-trapped inside the turbulent atmosphere of an unusual gas giant planet.
-We will use an experimental interface probe in our attempt to rescue
-it.
-
-[Bridge]
-
-DATA: I have reviewed the vessel's mission plans.
-The Raman was to descend to the lower atmosphere, eleven thousand
-kilometres below its current position. The crew was to sample the
-atmosphere at that level, and then return to a safer orbit. 
-LAFORGE: Something must have happened down there. Maybe the shields
-failed, or they had some kind of inversion reaction in the nacelles. 
-PICARD: Any life signs? 
-LAFORGE: Our biosensors are useless. There's too much interference in
-the atmosphere. 
-RIKER: The crew might still be alive. There's no way we can tell from
-up here. 
-PICARD: Will the probe be able to transmit through that interference? 
-DATA: The probe sends information via a focused particle beam. It
-should be able to cut through the interference. 
-LAFORGE: But we may have to operate the probe at close to tolerance
-levels. 
-PICARD: Will your nervous system be able to handle that much sensory
-input? 
-LAFORGE: We've already tested the interface at about seventy percent
-tolerance. 
-RIKER: We shouldn't have any trouble going higher. The safety override
-will kick in at about ninety eight percent tolerance, and that'll
-disengage the interface. 
-WORF: Captain, I am receiving a transmission from Starfleet Command.
-Admiral Holt. 
-PICARD: In my ready room. The seven people on that ship are our first
-priority. Is the probe ready for launch?
-DATA: Yes, sir. 
-PICARD: Send it directly to the aft section of the Raman through the
-secondary air lock. That way it should put it just one bulkhead away
-from the Bridge. 
-LAFORGE: I'll interface with the probe as soon as it's ready, take it
-the rest of the way from there. 
-PICARD: Make it so.
-
+CRUSHER: Data, disconnect! What happened? Geordi? 
+LAFORGE: I don't know. My hands. 
+CRUSHER: They're burned. 

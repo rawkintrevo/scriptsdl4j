@@ -1,101 +1,47 @@
-RIKER SEROVA LAFORGE WORF PICARD RABAL HELM DATA
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Stellar Cartography]
+[Engineering]
 
-PICARD: We'll be underway as soon as our engines
-are online. 
-RIKER [OC]: Aye, sir. 
-PICARD: I would like you all to put together a research proposal for
-the Science Council. I'll give it my full recommendation. 
-RABAL: Captain, I appreciate the opportunity you're giving us. It's a
-beginning that we need 
-SEROVA: Not we. You can do whatever you want, Rabal. I'll have no part
-of this. It's just another delay.
+LAFORGE: Initiating warp pulse now.
 
 [Bridge]
 
-LAFORGE: Captain, the engines are back online. All
-systems are ready. 
-PICARD: Very good. Helm, lay in a course for the Fleming. 
-HELM: Aye, sir. 
-RIKER: They appear to be in pretty good condition. According to our
-sensors their shields back to full strength. 
-WORF: Captain, the Hekaran ship is moving off. There is one person on
-board. It is Serova. 
-PICARD: Doctor, what is going on? 
-RABAL: I don't know. Captain, may I speak to her? 
-PICARD: Mister Worf, open a channel. 
-RABAL: Serova, what are you trying to do? 
-SEROVA [on viewscreen]: They wanted proof. I'm going to give it to
-them. I'm sorry. 
-DATA: Captain, the Hekaran ship's engines are beginning to overload. I
-believe Serova's attempting to create a warp core breach. 
-RABAL: No! 
-RIKER: Prepare for impact. 
-(KaBOOM! and a purple afterglow) 
-RIKER: Shields at maximum. Full reverse. 
-PICARD: Report! 
-DATA: We have cleared the shock wave. However, tetryon flux in the area
-is increasing rapidly. 
-(there's a swirly thing in the middle of the purple) 
-RIKER: It's incredible. 
-PICARD: Mister Data, what's your analysis? 
-DATA: The event is approximately zero point one light years in
-diameter, and it is emitting extremely high levels of tetryon
-radiation. It appears to be what Rabal and Serova predicted, a subspace
-rift. 
-LAFORGE: She was right. 
-PICARD: Can you get a fix on the Fleming? Is she still in one piece? 
-DATA: Scanning. The Fleming is near its previous coordinates. It
-appears to be intact, but it is now within the rift. 
-PICARD: Doctor, is it possible for a ship to survive in there? Doctor.
-I'm sorry about your loss but we need your help now. 
-RABAL: Of course, Captain. 
-PICARD: Does the rift pose any danger to the Fleming? 
-RABAL: I don't know. 
-(Enterprise shakes) 
-RIKER: What was that? 
-LAFORGE: Some kind of high energy distortion wave. Looks like they're
-being generated from within the rift. 
-DATA: IF we maintain our current position, our shields should provide
-sufficient protection. 
-PICARD: What about the Fleming? How long can they survive in there? 
-DATA: The waves are even more intense within the rift. I estimate her
-shields will fail in approximately twelve hours. 
-RIKER: Can we risk going in there to get them out? 
-LAFORGE: Not at warp, Commander. According to these readings, the rift
-is in a state of accelerating instability which would make it extremely
-sensitive to warp field energy. If we go in at warp, we might make it
-expand even further. 
-RIKER: I don't think we have a choice. It would take weeks to reach
-them at impulse. 
-PICARD: I want some better options. Data, Geordi, take Doctor Rabal and
-begin an analysis of the rift. We need to find some way to get the
-Fleming out of there.
-
-Second Officer's log, stardate 47312.1. Our new
-sensor readings have greatly improved our understanding of the rift.
-However, we have been unable to find any way to counteract it.
-
-[Stellar Cartography]
-
-LAFORGE: Everything here supports Serova's
-theories. I can't find any way to close the rift or even reduce its
-size. 
-(rumble and shake) 
-DATA: Doctor, is it possible there are areas inside the rift which are
-stable, where we can safely use our warp engines? 
-RABAL: Perhaps. Computer, scan the rift for regions of low instability.
-
-(off the monitor display) 
-RABAL: There's no area stable enough to withstand a warp pulse. 
-LAFORGE: Wait a minute. This is strange. Computer, display grid delta
-seventeen. Enhance and magnify. What do you make of that? 
-RABAL: It's a subspace instability outside the rift. 
-DATA: That should not be possible. 
-RABAL: Commander, I'm going to begin a field enhanced scan of this
-sector. I'd like to take a closer look at this. 
-LAFORGE: In the meantime, we'd better tell the Captain we don't know
-how to get to the Fleming. 
-DATA: I am not certain that is true. I believe I have an idea.
-
+DATA: Engines disengaged. We are now entering the
+rift. (rumble) Hull stress is increasing. Eighty three percent of
+maximum tolerance and rising. 
+PICARD: How long until we reach the Fleming? 
+WORF: One minute twenty two seconds. 
+RIKER: All transporter rooms are standing by. 
+WORF: Captain, I am picking up power emissions from the Fleming. They
+may be attempting to initiate their warp drive. 
+RIKER: They might have been able to repair their engines. 
+DATA: Captain, if they activate 
+PICARD: I know, Mister Data. Can we establish communication? 
+WORF: No, sir. Subspace interference is too high. 
+PICARD: How long until we reach transporter range? 
+WORF: Fifty three seconds. 
+RIKER: I don't think we're going to make it. 
+WORF: Captain, they have initiated their warp drive. 
+(big rumble) 
+PICARD: Report. 
+WORF: Damage on decks six and fourteen. Our structural integrity field
+is holding. 
+RIKER: What about the Fleming? 
+DATA: They are badly damaged, sir. Their life support systems are
+failing. 
+RIKER: All transporter rooms, prepare emergency evacuation procedures. 
+DATA: Captain, when the Fleming activated their warp drive, the rift
+expanded by two point three percent. We no longer have sufficient
+momentum to escape. 
+(rumble) 
+DATA: Distortion wave intensity has increased by a factor of ten. 
+WORF: We are within transporter range of the Fleming, sir. Commencing
+evacuation procedures. 
+DATA: Distortion waves occurring every fifty nine seconds. Hull stress
+is nearing maximum tolerance. 
+RIKER: Data, what if we forced an EPS discharge through the impulse
+reactor. Would that be enough to get us out of here? 
+DATA: I do not believe so, sir, and the resulting explosion would
+likely destroy the saucer section in the process. 
+LAFORGE [OC]: Captain 

@@ -1,36 +1,5 @@
-TROI LAFORGE PICARD RIKER TAM DATA
-
-[Transporter room]
-
-TROI: He's a very unique person, but he's not what
-you might expect, Captain. 
-(O'Brien beams the man in) 
-PICARD: Welcome aboard the Enterprise. I'm 
-TAM: Captain Picard, right?. Here. (tosses a data file to Picard) You
-want to know all about your mission. Everything's on there. Orders and
-briefings, destination and heading, all that. Dee, I sensed you were
-out here. How've you been? 
-TROI: I've been fine, but I thought 
-TAM + TROI: you were on thought you were on Chandra Five. 
-DATA: Sir. 
-TAM: Who? What are you? 
-DATA: I am Data. An android. 
-TAM: Incredible, an android. I can't read you at all. It's like you're
-not there. 
-PICARD: Data. 
-TAM: Oh. You better hurry up to the bridge with that. Captain wants you
-to run the orders, scan the technical schematics, and be ready to brief
-him in ten minutes. Right? 
-PICARD: Number One? 
-RIKER [OC]: Riker here. 
-PICARD: Will you meet Commander Data on the Bridge. He has our orders
-and new heading. 
-RIKER [OC]: Aye, sir. 
-(Data leaves) 
-PICARD: And assemble the bridge staff for a mission briefing in fifteen
-minutes. Picard out. Mister Elbrun. Would you 
-TAM: Care to see my quarters? No. I'd rather get this briefing over
-with. Then be left alone until I'm needed.
+TROI LAFORGE WORF PICARD RIKER TAM DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
@@ -39,4 +8,95 @@ Weren't there about forty people killed?
 RIKER: Forty seven, including the captain of the Adelphi and two
 friends from my class at the Academy. 
 LAFORGE: Sorry.
+
+[Turbolift]
+
+RIKER: Main Bridge. 
+LAFORGE: So what happened? 
+RIKER: It was a first contact situation. Ghorusdan culture is so
+complex and different, that the Federation sent a specialist to prevent
+misunderstanding. 
+LAFORGE: So that was Tam Elbrun. What happened was his fault? 
+RIKER: Not directly. Board of inquiry blamed Darson for carelessness
+about Ghorusdan cultural taboos. But if Elbrun was so good, why didn't
+he warn Darson? What was he doing there if he couldn't sense that much
+hostility?
+
+[Bridge]
+
+DATA: Our destination is the Beta Stromgren system,
+following the path of the Vega Nine probe. 
+RIKER: That's twenty three parsecs beyond our furthest manned
+explorations. 
+DATA: That is correct, Commander. Apparently the probe has discovered.
+Astonishing.
+
+[Observation lounge]
+
+(Tam is suffering in the presence of so many minds)
+
+(The presentation is now up on the main screen) 
+DATA: Our orders are to proceed to this star, Beta Stromgren.
+Scientists have discovered that it is in the final stages of an
+alternating cycle of expansion and collapse, and will soon result in a
+supernova. However, the unmanned long range space probe sent by
+Starfleet to observe the process has discovered something much more. 
+TAM: Oh, Data don't waste time. They call it Tin Man. The Vega probe
+found it orbiting Stromgren. 
+LAFORGE: Looks like some kind of ship. 
+TAM: Its energy source is unknown. The people who've studied the
+transmissions think it's a starship. And they're sure it's alive. 
+PICARD: Alive? How? 
+LAFORGE: A cybernetic organism like the Borg? 
+TAM: No, no, no. Here. Starfleet believes it's an organic creature,
+born in space, living its life in the wastes between stars. No one
+knows where it came from, or why it's here. But we're going to meet it.
+We're going to talk to it.
+I'm going to talk to it. 
+RIKER: Have attempts been made 
+TAM: To communicate with it by subspace. Of course. Linguacode,
+universal translation, all that. It won't work. Tin Man
+is too different. Direct mind to mind contact is our only hope. 
+TROI: The opportunity for discovery is extraordinary but I don't
+understand Starfleet's urgency. 
+PICARD: Romulans. 
+TAM: Hell, I forgot. The Romulans. 
+PICARD: They claim that sector of space where Beta Stromgren is
+located. 
+WORF: The Romulans claim all that is in their field of vision. 
+DATA: They routinely monitor the telemetry of our deep space probes. 
+PICARD: Then they will certainly be sending a ship of their own to
+investigate this Tin Man. 
+TAM: No. Actually, they're sending two. Data? 
+DATA: That is correct. Starbase one two three has detected two
+D'daridex class cruisers on an intercept course. The top speed of this
+class cruiser is known to be less than ours. Therefore we do have some
+advantage. 
+PICARD: Then, it's a race? An alien intelligence, a new life form,
+representing a technology far beyond that of either the Romulans or
+ourselves. The Romulans will certainly take whatever measures are
+required to secure this creature for study. 
+LAFORGE: Study as in dissecting, I'd bet. 
+PICARD: Mister Data, you are our resident honour student in exobiology.
+I'm assigning you to head up the
+Life Sciences on this mission. 
+DATA: Aye, sir. 
+TAM: Excellent. 
+PICARD: Meeting adjourned, then. 
+(As everyone but Picard, Riker, Tam and Data leave) 
+TAM: So, Data, I guess you're the brains of this outfit, huh? 
+PICARD: Mister Elbrun, one of the reasons I'm asking you to work
+closely with a member of my staff is to avoid any further omissions.
+The possibility of an encounter with Romulans on this mission is hardly
+trivial. And yet 
+TAM: All right, all right. I should have brought up the Romulans
+earlier, but I was distracted. And no, Billy boy, I wasn't
+distracted on Ghorusda. If Darson had listened to me, no one would have
+died. No? Well I don't care whether you believe that or not.
+
+Captain's log, supplemental. Travelling at high
+warp, we are still several days from rendezvous with the mysterious
+entity which Starfleet has christened Tin Man. My immediate concern is
+with Tam Elbrun. Starfleet considers his unique abilities crucial to
+our mission, yet he seems to me unstable.
 

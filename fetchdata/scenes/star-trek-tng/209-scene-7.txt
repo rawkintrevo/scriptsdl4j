@@ -1,74 +1,56 @@
-TROI LAFORGE WORF PICARD RIKER RASMUSSEN CRUSHER DATA
+PICARD DATA LAFORGE RASMUSSEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Engineering]
 
-WORF: Why now? 
-LAFORGE: Right. If you've came back to study us, to study the captain,
-why would you pick today? Why not a year ago or a year from now? 
-RASMUSSEN: Oh, I picked the right day all right. Just wait, you'll see.
-Do you always sit there, on that side of the table? 
-WORF: Usually. Why? 
-RASMUSSEN: It's not important. 
-RIKER: Professor, at what point does time travel become a tool for
-historians? 
-RASMUSSEN: Now, now, Commander, you know better than that. I've studied
-a great deal about your century, including the fact that you're all
-quite aware of the dangers of anyone altering the past, and that's
-exactly what I'd be doing if I were to divulge information like that. 
-CRUSHER: Telurian plague. 
-RASMUSSEN: I beg your pardon? 
-CRUSHER: The telurian plague. Was it cured? I mean, did they find the
-cure by your century? Oh, it can't do any harm to ask that. 
-PICARD: I realise that it's difficult, but we must keep to ourselves
-questions regarding the future. Go on, Professor. 
-RASMUSSEN: I'll be preparing questionnaires for each of you. Please
-complete them at your convenience. If you're concerned about a possible
-breach of security, I'm sure your Captain can make a determination. And
-thank you in advance for curbing your curiosity. 
-LAFORGE: If I hand my assignment in on time, can I get a glimpse into
-next week's poker game? 
-PICARD: Mister Data, would you escort the Professor to his quarters. 
-DATA: This way, sir. 
-(Data and Rasmussen leave) 
-RIKER: What did he mean, he picked the right day? 
-PICARD: You know everything I do, Will. 
-RIKER: Deanna? 
-TROI: It's hard to tell, but he is holding something back. 
-CRUSHER: Of course he is. All the things he could tell us. All the
-things he would like to tell us. 
-TROI: It might be that, I don't know. 
-RIKER: What if he's an imposter? God knows we've seen enough of them. 
-PICARD: He is human. The medical scans have proved that, right, Doctor?
+LAFORGE: (to a crewwoman) As soon as we input this
+atmospheric data from Moseley, the computer should tell us how many
+holes we'll have to
+punch. 
+DATA: What have you learned about the tectonic stability around the
+drilling sites? 
+LAFORGE: Couldn't be better. Our scans were all clear and Moseley says
+there hasn't been so much as a quiver down there in well over a
+century. 
+RASMUSSEN: Ah ha, just the two I'm looking for. I've brought you the
+forms I need you to complete. Shouldn't take any more than a couple of
+hours. 
+LAFORGE: We're kind of busy here, Professor. Tomorrow would probably be
+better. Data, we've got about twenty three thousand thermal
+simulations. You think you could check them through for anomalies? 
+DATA: Certainly. 
+(Data starts working at the console at fast-forward speed)
 
-CRUSHER: He's human, all right. 
-PICARD: And there was a temporal distortion back there, correct Mister
-Worf? 
-WORF: Yes, sir. 
-PICARD: And no one can deny that ship of his is unlike anything we've
-ever seen before. 
-LAFORGE: The hull is made of some kind of plasticised tritanium mesh.
-We've nothing like it on record, at least not till now. 
-PICARD: Mister Worf, I do appreciate your caution. I share it. Bring
-his vessel into the shuttlebay. Place it under guard. 
-WORF: Yes, sir. 
-PICARD: I realise that this visit is going to be difficult for some of
-us, but I've examined his credentials, and everything seems to be in
-order, so I think we should extend to him every courtesy. 
-WORF: Including questionnaires? 
-PICARD: Including questionnaires, Mister Worf.
-
-[Turbolift]
-
-(Rasmussen is peering closely at Data) 
-RASMUSSEN: This is really a thrill, Data, like running across a
-Redstone missile or a Gutenberg bible. To think, the Model T of
-androids.
-
-[Corridor]
-
-DATA: If you're referring to the first production
-model automobile of the twentieth century, perhaps the subsequent Model
-A might be a more apt analogy, since I am Doctor Noonian Soong's
-revised prototype. 
-RASMUSSEN: I stand corrected.
+RASMUSSEN: Is that as fast as he can go? 
+LAFORGE: Not fast enough for you, Professor? 
+RASMUSSEN: There's little known about Data's efficiency. Almost nothing
+about his part in this mission. It's a topic of great conjecture. 
+DATA: Two hundred nine anomalies all within acceptable parameters. 
+LAFORGE: Thanks, Data. You're here to witness this mission. That's it,
+isn't it? 
+RASMUSSEN: It'd be best if you just thought of me as a fly on the wall,
+and went about your business. 
+DATA: I will have your answered questions as soon as possible,
+Professor. 
+RASMUSSEN: Data at Penthara Four! 
+LAFORGE: If you'll excuse me. 
+RASMUSSEN: Your prosthesis. What do you call it again? 
+LAFORGE: A visor. 
+RASMUSSEN: Visor. Right. A visor. You know, I have a picture of you
+wearing that in my
+office. How do you like it? 
+LAFORGE: It allows me to see. I like it just fine. 
+RASMUSSEN: You know, Homer was blind and Milton. Bach, Monet, Wonder. 
+LAFORGE: A fly on the wall, huh? 
+RASMUSSEN: A fly on the wall. 
+DATA: The computer has configured the drilling pattern and specified
+depths. 
+LAFORGE: Captain, we've got everything we need. I'm ready to transport
+down to the surface. 
+PICARD [OC]: I'll notify Doctor Moseley. Good luck, Geordi. 
+LAFORGE: Gentlemen. 
+(Geordi leaves and Rasmussen pockets a PADD) 
+RASMUSSEN: Who said these moments were any less exciting when you know
+the outcome? 
+DATA: I know of no one who said that, Professor.
 

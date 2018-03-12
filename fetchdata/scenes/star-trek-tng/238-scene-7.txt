@@ -1,80 +1,47 @@
-CRUSHER LAFORGE PICARD MORIARTY DATA BARCLAY
+RIKER WORF PICARD COMPUTER MORIARTY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[221b Baker Street]
+[Bridge]
 
-BARCLAY: Computer, access protected memory and run
-Moriarty programme. 
-PICARD: Professor. It's good to see you again. 
-MORIARTY: If you'd missed my company, I should think you'd have
-summoned me before now. 
-PICARD: I want to assure you that we've not forgotten you. We spent
-some time investigating how you became self-aware. Frankly, it still
-remains a mystery. 
-MORIARTY: It is also irrelevant. What concerns me is finding a way to
-leave the holodeck. 
-PICARD: We have been wrestling with that problem too, unfortunately
-without any success. But we have turned our findings over to
-Starfleet's most experienced theoretical scientists. 
-MORIARTY: And what did your finest minds come up with? 
-PICARD: Unfortunately, they have not arrived at a solution either. 
-MORIARTY: I see. 
-PICARD: Professor, I am concerned to learn that you experienced the
-passage of time while you were stored in the computer memory. I can
-assure you, we had no idea that that would be the case. 
-MORIARTY: Enough of this. I no longer believe anything you say. 
-PICARD: Professor, I understand your frustration. 
-MORIARTY: Do you really? When this is over, you will walk out of this
-room to the real world and your own concerns, and leave me here trapped
-in a world I know to be nothing but illusion. I cannot bear that. I
-must leave. 
-PICARD: That is not possible. You cannot exist outside this room. 
-MORIARTY: Are you certain of that? 
-PICARD: Computer, exit. 
-(the door opens onto the corridor) 
-PICARD: Although an object appears solid on the holodeck, in the real
-world they have no substance. 
-(Picard throws out a book. It vanishes) 
-MORIARTY: An object has no life. I do. 
-PICARD: Professor, you are a computer simulation. 
-MORIARTY: I have consciousness. Conscious beings have will. The mind
-endows them with powers that are not necessarily understood, even by
-you. If my will is strong enough, perhaps I can exist outside this
-room. Perhaps I can walk into your world right now. 
-PICARD: Professor, I ask you to believe me. If you step out of that
-door, you will cease to exist. 
-MORIARTY: If I am nothing more than a computer simulation, then very
-little will have been lost. But if I am right? Mind over matter. Cogito
-ergo sum. 
-(Moriarty walks out into the corridor, and does not disappear) 
-MORIARTY: I think therefore I am. 
-[Corridor]
+RIKER: There they are, Captain. 
+PICARD: How long until they begin to coalesce? 
+DATA: Within the next five hours, sir. 
+(two angry red balls of gas within touching distance of each other on
+the viewscreen) 
+PICARD: Mister Worf, launch four Class A probes toward the planets. 
+WORF: Aye, sir. 
+PICARD: Mister Worf? 
+WORF: I don't understand. 
+(the consoles go dark then flicker on and off) 
+WORF: Controls are not responding. 
+DATA: Command functions are being rerouted, sir. 
+PICARD: For what reason? 
+DATA: Unknown, sir. 
+PICARD: Computer, route all command functions to the Bridge. 
+COMPUTER: Command functions are offline. 
+PICARD: Reinitialise them on my authorisation. 
+COMPUTER: Authorisation denied. 
+PICARD: Explain. 
+COMPUTER: Picard command codes are no longer valid. 
+PICARD: What's happening? Who's transferred the voice authorisation? 
+MORIARTY: I have. I'm afraid I had no choice but to take control of
+your vessel. 
+(Worf gets his phaser from under the tactical console) 
+MORIARTY: If you harm me, sir, I will not be able to relinquish voice
+control of your vessel. 
+PICARD: Professor, this situation is more serious than you realise. In
+less than five hours, those two planets will collide and a new star
+will form. Unless we move to a safe distance, this vessel will be
+destroyed. 
+MORIARTY: I'm just a fictional character. I haven't much to lose. 
+PICARD: But surely you wish to live like the rest of us? 
+MORIARTY: Not alone. Not without the Countess. 
+PICARD: We've discussed that. We are studying means of bringing her
+safely off the holodeck. But five hours is not enough time. 
+MORIARTY: I'm not so sure. A deadline has a wonderful way of
+concentrating the mind. 
+PICARD: Mister Data, will you investigate the possibility of complying
+with Professor Moriarty's request. 
+DATA: Aye, sir. 
+PICARD: In the meantime, we have a few things to discuss.
 
-DATA: Data to Security. Send two officers to
-holodeck three. 
-PICARD: How is this possible? 
-BARCLAY: It isn't. 
-DATA: This contradicts everything we know about holodeck physics. 
-MORIARTY: Then perhaps you don't know as much as you thought. 
-PICARD: Professor, will you come with me? I'd like our Doctor to
-examine you. 
-(Security arrives) 
-MORIARTY: Certainly, sir. Policemen. I'd recognise them in any century.
-
-[Sickbay]
-
-CRUSHER: As far as I can tell, he's real. He's
-human. 
-MORIARTY: What else would I be, dear lady? 
-CRUSHER: His DNA is a little unusual, but all the major systems are
-there and functioning normally. 
-LAFORGE: As far as I can tell there's no evidence that his molecules
-are losing any cohesion. They seem to be as immutable as ordinary
-matter. 
-PICARD: Well, Professor, my crew will continue to investigate, but for
-now it would seem you have accomplished a miracle. The question is, now
-that you're here, what do we do with you? 
-MORIARTY: I ask only that I be allowed to explore this new world. Your
-vessel, for instance. What sea does she sail? Might we go above deck?
-Weather permitting, of course. 
-PICARD: Professor, I think there are some things of which you should be
-made aware. 

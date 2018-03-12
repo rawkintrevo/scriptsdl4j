@@ -1,57 +1,66 @@
-WESLEY DIRGO PICARD
+RIKER GUEST0 WORF PICARD GUEST1 CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
-
-DIRGO: You've done this before? 
-WESLEY: Yes. 
-DIRGO: Your Captain back there. If he isn't tougher than he looks,
-those miners will tear him apart. 
-WESLEY: Don't worry about Captain Picard. He'll handle them. 
-(alarms come on and the lights go out) 
-WESLEY: I've lost navigation. 
-DIRGO: The port thruster quad's gone. Guidance coupling's severed. I
-can't stabilise her. 
-(they plunge towards a planetary system. Picard comes out of the rear
-compartment) 
-WESLEY: The port thruster module blew. 
-DIRGO: Nenebek to Enterprise, emergency. Do you read? Pentarus station,
-come in. Communication's gone. 
-PICARD: Is your navigational system functioning? 
-DIRGO: Negative. Switching to manual. Fifty million kilometres to
-Pentarus Five. We may have to put down somewhere else. 
-PICARD: Mister Crusher, scan for a class-M environment. 
-WESLEY: Aye, sir. 
-DIRGO: I'm going to have to throttle back on the main impulse engines. 
-WESLEY: Sir, one of the moons around Pentarus Three registers as class
-M, barely. The mean temperature is fifty five degrees Celsius. 
-PICARD: Life forms indicated? 
-WESLEY: Negative, but scanning is limited. There's a very strong
-magnetic field around the surface. 
-DIRGO: We don't have a choice. Save the impulse engine for controlled
-entry. 
-PICARD: Mister Crusher, reconfigure working thrusters to manual input. 
-WESLEY: I'll try, sir but, this grid looks about a hundred years old. 
-DIRGO: We don't have the Federation's resources. Captain, take the
-helm. I'm rerouting the deuterium flow. Hull temperature seven hundred
-degrees. 
-PICARD: Beginning braking manoeuvre. 
-DIRGO: We're below mach one. Bypass the thrusters now. 
-PICARD: Brace yourself for impact. 
 [Moon's surface]
 
 (a very bright sun is glaring down on a desert) 
 PICARD: Dear God. Let's salvage what we can. The first thing we'll need
 is shelter from the sun. In this heat, the shuttle will act like an
 oven. 
-DIRGO: All the systems are out. Can't get a communication channel.
+GUEST1: All the systems are out. Can't get a communication channel.
 Location transponder's gone too. 
 PICARD: We'll have to check the craft for something to protect our
 heads and eyes. And Captain, please recover your medical supplies, food
 and water rations 
-DIRGO: Well, the medical supplies are all right. 
+GUEST1: Well, the medical supplies are all right. 
 PICARD: Food and water? 
-DIRGO: The replicator, damaged beyond repair. 
+GUEST1: The replicator, damaged beyond repair. 
 PICARD: Surely you have emergency supplies? 
-DIRGO: This isn't a starship. I have to choose what I carry. 
+GUEST1: This isn't a starship. I have to choose what I carry. 
 PICARD: Are you telling me there's no water?
+
+[Bridge]
+
+(Enterprise meets up with the polluter) 
+DATA: Scanning. Vessel reads as an unmanned sublight freighter. 
+RIKER: Origin? 
+DATA: Indeterminate. Propulsion appears to employ a gaseous core
+fission reactor, but it is not functioning. 
+LAFORGE: The radiation levels from that ship are off the scale. 
+RIKER: Could that be leakage from their engines? 
+DATA: No, sir. Engine reactor elements appear to have been inactive for
+approximately three hundred years. The vessel is carrying various
+unstable waste products. 
+LAFORGE: You mean, it's a garbage scow. 
+DATA: Precisely. 
+RIKER: Mister Worf, open a hailing frequency. Chairman Songi, this is
+Commander Riker on board the Enterprise. 
+GUEST0 [on viewscreen]: Yes, Commander. 
+RIKER: It appears you've inherited someone else's problem. An old waste
+vessel caught by your planet's gravitational pull. 
+CRUSHER: Have your people begun to suffer from radiation sickness? 
+GUEST0 [on viewscreen]: Not yet, but some areas are already detecting
+dangerous levels. 
+RIKER: We'll do our best to get it out of here as quickly as possible. 
+GUEST0 [on viewscreen]: Thank you, Commander. 
+RIKER: We're going to push that barge into the Gamelan sun. 
+DATA: Sir, the Meltasion asteroid belt lies between here and the sun. 
+RIKER: Then we'll have to take it ourselves. We'll use our deflectors
+clear a path through the asteroids. 
+LAFORGE: I don't like the idea of getting close enough to that barge to
+tow it. The radiation levels are so high we'd be risking the
+contamination of the entire crew. 
+RIKER: Do you have a better idea, Geordi? 
+LAFORGE: We could send over a construction module to attach thrusters
+to it. Then we could direct it through the asteroid belt from a safe
+distance. 
+WORF: Commander, a message from the mining settlement on Pentarus Five.
+The shuttlecraft carrying Captain Picard has not yet arrived. 
+CRUSHER: They left here at oh eight hundred hours. 
+WORF: They have asked if we are beginning a search. 
+RIKER: Tell them we have an emergency situation. We'll begin a search
+as soon as we've completed that. 
+WORF: Aye, sir. 
+RIKER: Mister La Forge, prepare to launch the construction module. I'd
+like to get this over with as fast as possible.
 

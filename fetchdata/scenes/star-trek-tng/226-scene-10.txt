@@ -1,38 +1,84 @@
-PICARD TROI DATA LAFORGE RIKER
-
-[Devidia cavern]
-
-(a strong light source casts the away teams shadows
-on a sheer rock wall) 
-LAFORGE: The concentration of triolic waves falls off about here. It
-increases exponentially the closer in we go. 
-RIKER: What's the source? Something underground? 
-LAFORGE: Negative, Commander. 
-RIKER: What's the explanation? 
-LAFORGE: I don't have one yet. La Forge to Enterprise. 
-DATA [OC]: Go ahead.
-LAFORGE: Data, run a spectral field correlation for me. Let's find out
-if these triolic readings are in any way related 
-[Bridge]
-
-LAFORGE [OC]: To the temporal distortions. 
-DATA: Acknowledged.
-
-[Devidia cavern]
-
-(moving to a natural amphitheatre, with columns
-around supporting the roof) 
-RIKER: Deanna? 
-TROI: There's life here. A child. An old woman. Dozens more. Hundreds.
-Terrified. 
-RIKER: Terrified? 
-TROI: My God, Will. They're human.
+TROI GUEST4 PICARD RIKER GUEST1 DATA MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER [OC]: Whatever they are, Troi's convinced
-they're human. They may be trapped somehow. We're not sure. 
-DATA: Captain, the results of my temporal analysis may be pertinent. 
-PICARD: Go ahead. 
-DATA: Geordi, it indicates a synchronic distortion in the areas
-emanating 
+DATA [OC]: Another lifeform. An ophidian. It seems
+to be restricted by a forcefield. 
+[Devidia cavern]
+
+DATA [OC]: Two of the silver-grey entities are
+approaching it. They have released the forcefield. 
+[Bridge]
+
+DATA [OC]: I am reading a temporal distortion of
+massive proportions. The ophidian is cap (fritz) time-space continuum. 
+[Devidia cavern]
+
+DATA [OC]: Caught in the after effect. I am
+attempting 
+(there's a flash, and the forcefield generator falls to the ground) 
+TROI: Data! 
+RIKER: Over here. 
+PICARD [OC]: Commander Riker, report. 
+RIKER: We've lost him.
+
+[Street]
+
+(Data wakes up on a cobbled street in front of the
+No 5 Fire House. A horse-drawn carriage goes by. Data walks off, trying
+to get information from passers-by.) 
+DATA: Excuse me. Pardon me. I am searching for two individuals with an
+ophidian. A snake. 
+MAN: Frenchman. 
+(He and his companion laugh and walk on. Data finds a discarded copy of
+the San Francisco Register, Sunday August 13, 1893, proclaiming a
+cholera outbreak) 
+GUEST4: Could you help out a Forty Niner? I fell down a shaft. I got
+blown up in a tunnel. 
+DATA: That is unfortunate. 
+GUEST4: It is most unfortunate. I require large amounts of whiskey as a
+linament. 
+DATA: I am sorry, but I have no whiskey to give you. 
+GUEST4: I'll take a dime. 
+DATA: I am sorry, but I have no form of legal tender. 
+GUEST4: Well, we're in the same boat, huh? Well, this is my street.
+You'll have to go find one of your own. 
+DATA: I would be happy to do so, but I am presently in need of
+information. 
+GUEST4: Stockbrokers are cheap as hell. Don't even bother to ask. Your
+best handout is from a young fella with his lady. You give him a chance
+to show her he's generous. Steer clear of sailors. Most likely you'll
+get a fist across the jaw for your trouble. 
+DATA: Thank you for your advice, but I'm trying to find two individuals
+with a snake. 
+GUEST4: A snake? You're an odd fellow, aren't you? But just don't be
+too particular where you get your funds from. 
+DATA: You are in need of medical attention. I will get a doctor. 
+GUEST4: No, no, no, it's too late for that. (goes after another
+passer-by) Could you help out a Forty Niner? 
+(outside the Hotel Brian) 
+GUEST1: (receiving a tip) Thanks. 
+(he goes to a man standing nearby)
+GUEST1: Hey, put it on Gentleman Jim. Knockout in the fifth. 
+MAN: All right. 
+DATA: Sir, I need temporary lodging. 
+GUEST1: Looks like the missus booted you out in the middle of the
+night. 
+DATA: I understand the source of your misperception. However, this is
+not sleepware and I do not have a missus. 
+GUEST1: Well. 
+DATA: I am a Frenchman. 
+GUEST1: Oh. Well, everybody's from somewhere. That doesn't matter at
+this hotel. It's six bits a day or four dollars a week. 
+DATA: I have no money. 
+GUEST1: Well, now, that matters. 
+DATA: But I am capable of performing significant tasks both mental and
+physical. Perhaps your hotel would offer me a job. 
+GUEST1: Geez, I don't know. We're pretty happy with the maid we've
+got. Cook's decent. Dishwasher's drunk all day, but at least he gets
+here on time. And there's me. I do everything else. Sorry. (a man comes
+out) Lady Luck not with ya, tonight, Mister Lane? Poor fella. Hasn't
+filled a straight in five weeks. 
+DATA: Poker? 
+

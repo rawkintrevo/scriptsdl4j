@@ -1,36 +1,72 @@
-PICARD CRUSHER ODAN
+TROI GUEST4 PICARD CRUSHER DATA GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Odan's quarters]
-
-(something moves in Odan's abdomen. He bathes it
-with light from a device) 
-(Later, after the opening credits, Beverly is brushing her hair) 
-ODAN: Somehow, I had an unnatural fear that Data was going to barge in
-and ask to discuss the peripheral effects of magnetospheric energy
-taps. 
-CRUSHER: Well if I don't get back soon and take a look at his
-projections, he just might come looking for me. 
-ODAN: Do you know, when I first met the formidable Doctor Beverly,
-what, ten days ago? I thought to myself, this woman is ice through to
-her bones. Who would have ever guessed that instead of ice, there is
-fire. 
-CRUSHER: Odan. 
-ODAN: Stay here, don't go. 
-CRUSHER: Odan, are we? Is this interfering with your work on the Peliar
-Zel problems? 
-ODAN: Fortunately, I've done about as much as I can until we get there.
-Because I just can't seem to keep my mind on my work right now. 
-CRUSHER: Odan, I have to go. 
-ODAN: Promise me we'll be together tonight. 
-CRUSHER: I promise. 
-(he kisses the inside of her wrist) 
-ODAN: Then you may go, Doctor Beverly. 
-CRUSHER: It's just Beverly. 
-ODAN: Not just Beverly. It's Beverly's smile, it's her kindness, her
-beauty within and without. So much more than just Beverly. 
-PICARD [OC]: Picard to Ambassador Odan. 
 [Ready room]
 
-ODAN [OC]: Yes, Captain? This is Odan. 
+GUEST4 [OC]: Yes, Captain? This is Odan. 
 PICARD: The Federation representative from Peliar Zel has come on
 board. Would you care to meet us in the Observation Lounge? 
+[Odan's quarters]
+
+GUEST4: I'll be right there, Captain.
+
+[Observation lounge]
+
+PICARD: If the news were encouraging, I assume you
+would not be here. 
+GUEST5: I'm afraid you're correct, Captain. The situation's growing
+progressively worse. 
+(Crusher enters) 
+TROI: Where've you been? 
+CRUSHER: With a patient. Minor emergency. 
+(Odan enters through another door) 
+PICARD: Ambassador Odan, this is Governor Leka Trion of Peliar Zel. 
+GUEST5: Ambassador. thank you for coming. I knew your father. His efforts
+helped keep our people at peace for several generations. 
+GUEST4: I would hope to serve you as well as he. 
+PICARD: Governor. Ambassador. 
+(all sit) 
+DATA: I hope Doctor Crusher was able to help you with your headache. 
+GUEST4: Thank you. Actually, she was. 
+PICARD: Governor Leka has intercepted us before we reach her planet in
+order to update us on the situation. 
+GUEST5: The people on our moons have been in discord ever since they
+migrated from our planet five centuries ago. To us on the planet
+They're like two squabbling children. We try to help settle their
+arguments by not taking sides, but this time we are at a loss. 
+GUEST4: I've been studying the information you sent. If I understand
+correctly, the people of Alpha moon have found a way to tap directly
+into the magnetic field of your planet, and now rely exclusively on
+that energy source. 
+GUEST5: Yes, but the Beta moon is now suffering some environmental damage
+as a result. 
+(the monitor shows the Beta moon's orbit is inside that of Alpha) 
+DATA: My design models suggest that Beta will eventually experience
+rising temperatures, erratic tide surges and in general the beginnings
+of global warming. 
+CRUSHER: The impact on the health of the Betan people is clear. There
+will be profound medical repercussions. 
+GUEST5: Alpha is unwilling to give up its new-found energy source. Beta
+accuses them of intentionally courting genocide. Our efforts to reach a
+compromise have failed. And now, we have received intelligence that
+both sides are arming for war. If that happens the people of my planet
+will begin to take sides, and the outcome can only be disastrous. 
+PICARD: We will be in orbit around Peliar Zel within six hours. If you
+could arrange for the representatives of Alpha and Beta to be there,
+then Ambassador Odan could beam directly down to the planet. 
+GUEST4: Excuse me, Captain. I prefer to shuttle to the surface. 
+GUEST5: I would not recommend it. There are many radical factions
+involved in this dispute. It would be difficult to guarantee your
+safety. 
+GUEST4: I'm sure I'm not the first who has expressed discomfort at the
+idea of molecular transport. Thank you, but I prefer to remain intact.
+I'll shuttle down. 
+PICARD: As you wish. 
+(all leave except Picard and Troi) 
+PICARD: Counsellor, what is it? 
+TROI: It's Ambassador Odan. I continually feel fluctuations of emotion
+from him. 
+PICARD: Perhaps it's perfectly normal among the Trill. 
+TROI: It could be. We know so very little about them. 
+PICARD: Yes. Quite.
+

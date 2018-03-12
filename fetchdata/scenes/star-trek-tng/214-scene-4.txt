@@ -1,34 +1,53 @@
-PICARD TROI DATA LAFORGE WORF
+RO RIKER MACDUFF LAFORGE WORF GUEST0 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Sickbay]
+
+WORF [OC]: Remain where you are and stay calm.
+Bridge out. 
+GUEST0: Well, that helps a lot. 
+CRUSHER: Report on our status? I wonder if every one else is in the
+same condition as we are. 
+GUEST0: This hurts. 
+(Crusher treats her arm) 
+CRUSHER: How's that? 
+GUEST0: Thanks. 
+CRUSHER: I didn't even think. I just picked it up and knew how to use
+it. At least I have an idea of what I'm doing here. 
+GUEST0: But what about me? I mean, I'm a patient in a bathing suit.
+That doesn't say much. 
+CRUSHER: No, it doesn't. 
+GUEST0: Do you have any clothes around here I could borrow? At least
+until I figure out where the swimming pool is?
 
 [Bridge]
 
-WORF: We are picking up a subspace signal, Captain.
-Sensors indicate a small spacecraft ahead. 
-LAFORGE: The configuration is unfamiliar. Nothing in our database comes
-close. 
-WORF: Within visual range. 
-PICARD: On screen. 
-(vaguely triangular with green lights) 
-PICARD: Analysis, Mister Worf. 
-WORF: No discernable armament. Reading one lifeform aboard. 
-PICARD: Hail the vessel. 
-WORF: No response, Captain. 
-LAFORGE: We're being scanned. It's not like any sensor system I've ever
-seen. Shall we raise shields? 
-PICARD: No, let's begin this with a show of good faith. 
-WORF: Sir, the scans are now matching the frequency of our optical data
-network. It could be an attempt to access our computer system. 
-LAFORGE: Scanning intensity has increased by fifteen hundred percent. 
-PICARD: Shields up.
-
-[Ten Forward]
-
-(at the bar) 
-DATA: One Samarian Sunset, made in the traditional style. 
-(Data puts a glass of clear liquid in front of Deanna, then taps it
-with his fingernail. A yellow glow diffuses into orange in the glass) 
-TROI: It's beautiful. 
-DATA: I hope you enjoy it. 
-(a green light passes across Data) 
-DATA: I hope you enjoy it.
+(everyone is working at the rear stations except
+Worf, who is in the Captain's chair) 
+MACDUFF: We've heard from all decks. There are over a thousand people
+on board. Everyone's had their memories affected in the same way we
+have. 
+WORF: I have completed a survey of our tactical systems. We are
+equipped with ten phaser banks, two hundred and fifty photon torpedoes,
+and a high capacity shield grid. 
+MACDUFF: We're a battleship. 
+WORF: It appears so. 
+RO: This turbolift system gives us access to the rest of the ship. 
+RIKER: That sounds like the next logical step. Start with the most
+crucial areas. 
+RO: Main Engineering, deck thirty six. I'm on my way. 
+RIKER: Whoa, wait a minute. We've got to coordinate our efforts here
+first. 
+RO: I just need to do something. 
+RIKER: Look, I feel the same way. We all do. But if anything's going to
+get done. 
+RO: I know, I just. It's really an ugly feeling I don't like being so
+out of control. 
+RIKER: Well, we're going to have to depend on each other if we're going
+to get through this, okay? 
+RO: Okay. 
+RIKER: We're going to search the ship. 
+WORF: Very well. Proceed. 
+LAFORGE: I'll go with you. I want to get my hands on the computer core.
+See if we can re-establish control from there.
 

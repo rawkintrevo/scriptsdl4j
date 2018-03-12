@@ -1,43 +1,50 @@
-RIKER LAFORGE WORF PICARD TIMICIN DATA
+TIMICIN PICARD RIKER GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ready room]
 
-WORF: I have completed long range scans. There are
-no other life forms are present in this system. 
-RIKER: Spacecraft? 
-WORF: None within sensor range. 
-PICARD: Picard to Engineering. 
-[Engineering]
-
-PICARD [OC]: Mister La Forge, the system is clear. 
-LAFORGE: Final pre-launch diagnostic, level five. 
-TIMICIN: All systems verified. 
-LAFORGE: We're ready here when you are, Captain.
-
-[Bridge]
-
-PICARD: Very well. Mister Worf? 
-WORF: Photon torpedoes armed and targeted. 
-PICARD: Fire in sequence. 
-WORF: First volley released. 
-DATA: Tracking torpedoes. Entry programme confirmed. 
-WORF: Second volley released. 
-[Engineering]
-
-LAFORGE: Torpedoes now entering the stellar core. 
-TIMICIN: Their shields are holding. Guidance systems normal. 
-LAFORGE: Ignition sequence, six seconds 
-[Bridge]
-
-LAFORGE [OC]: Five seconds. Four. 
-[Engineering]
-
-LAFORGE: Three seconds. Now. Shock wave patterns
-within predicted range. Seventeen hundred percent rise in gamma
-radiation levels. Helium
-fusion rate increasing. 
-TIMICIN: What about heat and pressure levels? 
-LAFORGE: Steady so far. Density at eleven hundred grams per cubic
-centimetre. Temperature approaching sixty million degrees Kelvin. 
-TIMICIN: We want it to stabilise at two hundred and twenty million.
+PICARD: Come. Timicin. Time for you to leave us,
+then? 
+TIMICIN: Captain, I have come to officially request asylum aboard The
+Enterprise. 
+(later) 
+B'TARDAT [on monitor]: Timicin, I cannot believe this. Why asylum?
+Asylum from what? 
+TIMICIN: I turn sixty in four days, Minister. 
+B'TARDAT [on monitor]: Yes, and your family and colleagues are already
+gathering for your Resolution. 
+TIMICIN: I believe that it is time for us to re-examine, as a people,
+the wisdom of The Resolution. 
+B'TARDAT [on monitor]: Are they forcing you into this? Are you being
+coerced? 
+TIMICIN: Influenced, perhaps. Coerced, no. 
+PICARD: Our only influence, Minister, is by example. Timicin's decision
+is his own free will, I assure you. 
+B'TARDAT [on monitor]: I cannot believe that a man of Timicin's stature
+would freely choose to reject his own culture. 
+TIMICIN: No one on Kaelon Two understands this project as I do. There
+are new theories that would take others a decade to test and confirm.
+With my guidance, it can be done in half that time. I must finish my
+work. 
+B'TARDAT [on monitor]: Others started your work, others will finish it.
+It's always been this way. It always will. 
+RIKER [OC]: Captain, scanners indicate two Kaelon warships rising on an
+intercept course. 
+PICARD: Acknowledged, Commander. Minister, we're here in friendship,
+hoping to provide assistance. 
+B'TARDAT [on monitor]: You have helped quite enough, Captain. I suggest
+you return Timicin and depart. If you attempt to leave orbit with
+Timicin on board, our ships have been ordered to open fire. 
+TIMICIN: B'tardat, there's no purpose at all in letting this become 
+(transmission ends) 
+TIMICIN: It shouldn't have happened. I've handled this poorly. 
+PICARD: You acted in good conscience, Doctor. I don't see what else you
+could have done. 
+TIMICIN: I could have let well enough alone. I could have returned
+home. What do you think, Captain? Have I done the right thing? 
+PICARD: I'm afraid you're the only one who can answer that. 
+TIMICIN: Lwaxana would have me lead a revolt. I'm only a scientist. I
+wish I had her strength. She is a woman of extraordinary conviction,
+isn't she? 
+PICARD: Isn't she.
 

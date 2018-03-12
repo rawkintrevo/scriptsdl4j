@@ -1,67 +1,41 @@
-BEATA RIKER LAFORGE WORF TASHA PICARD TROI CRUSHER DATA
+RIKER TASHA TROI GUEST1 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Great Hall]
-
-RIKER: Data, what's the best way to go about
-finding Ramsey and the other survivors? 
-DATA: If we can isolate something unique to the Odin survivors, perhaps
-an element not otherwise found on Angel One, we can utilise the
-Enterprise scanners. 
-RIKER: Mister Data will need access to your library. 
-BEATA: Our library is far too sophisticated for a man to comprehend. 
-DATA: I am an android, Mistress, although anatomically I am a male. 
-BEATA: An amusing notion. Maybe you could teach our males a thing or
-two. Trent, see to the android's needs. 
 [Bridge]
 
-WORF: Bridge to Captain Picard. 
-PICARD: [OC]: Go ahead, Lieutenant. 
-WORF: The away team requests that we scan the planet surface for traces
-of platinum. 
-PICARD: [OC]: Have Mister La Forge break fixed orbit and initiate a
-search pattern. 
-WORF: Aye, Captain. Geordi. 
-LAFORGE: Search pattern initiated now. 
+CRUSHER: He's right here, but he's in bad shape. 
+RIKER [OC]: Notify the transporter room I have fourteen to beam up. 
+CRUSHER: I can't allow it. 
+[Holding area]
+
+CRUSHER [OC]: This virus is totally out of control
+here. Until I know exactly what I'm dealing with, I can't let anyone
+new be exposed. 
+RIKER: Doctor, these people are facing their deaths down here. 
+[Bridge] 
+CRUSHER: They might be facing the same thing up
+here. Until I have a better idea of what I'm dealing with, no one can
+beam up. I'm sorry, Will, but you must wait. 
+[Holding area]
+
+RIKER: Understood. Doctor, would this virus have
+any effect on Mister Data? 
+CRUSHER [OC]: Not likely. 
+RIKER: You're going back there alone. I want you to get the Enterprise
+into the Neutral Zone before it's too late. 
+DATA: This is Data, standing by to beam up. 
+(He beams away) 
+TROI: What of them? 
+RIKER: I don't know, Deanna. 
 [Guest quarters]
 
-(Riker enters, and Troi hands him a local male
-outfit on a hangar) 
-TROI: This was delivered for you. 
-RIKER: Good. It's for my meeting with Beata. 
-TROI: You're not going to wear that. 
-RIKER: Of course. Part of this mission is diplomatic. I have requested
-an audience with a head of state, and I will honour her by wearing
-indigenous apparel.
-TASHA: I don't believe this. You're going to put that thing on and
-parade around like one of them? 
-RIKER: Why, what is this attitude? On Kabatris I had to wear furs to
-meet the leadership council. And on Armus Nine I wore feathers. This
-objection doesn't have anything to do with the fact that Beata is a
-woman, and an attractive one, does it?
+GUEST1: Mistress Beata invites you to witness this
+morning's reaffirmation of Angel One's moral imperative. 
+TASHA: Is that the civilised word for murder on this world? 
+RIKER: You send Mistress Beata our regrets. 
+GUEST1: The Elected One will not look fondly upon 
+DATA: [OC]: Enterprise to Commander Riker. 
+TROI: They're still here! 
+RIKER: Riker here. Data, I gave you direct orders to get to Neutral
+Zone immediately. Explain the delay.
 
- [Ready Room]
-
-(The Captain is obviously ill) 
-PICARD: This is quite unnecessary, Doctor. I'm fine. 
-CRUSHER: You're infected with the virus. Captain. In my opinion, you
-are no longer physically able to effectively command this vessel. 
-PICARD: That is ridiculous, Doctor. I have an away team down there, in
-less than friendly territory, and in addition I have an appointment
-with several Romulan battlecruisers. 
-CRUSHER: You have an appointment in your cabin, Captain. With your bed.
-
-PICARD: Is that an order, Doctor? 
-CRUSHER: Yes. 
-[Bridge]
-
-WORF: I think I may sneeze.
-LAFORGE: A Klingon sneeze?
-WORF: Only kind I know. 
-(Picard and Crusher enter) 
-PICARD: Lieutenant La Forge, you have command until further notice.
-Please, make the proper ship's log entries. 
-LAFORGE: Aye, sir. 
-(Geordi goes and sits in the Captain's chair) 
-WORF: Scanners indicate a platinum trace. Should I notify the away
-team? 
-LAFORGE: Make it so. 

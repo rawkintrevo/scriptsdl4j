@@ -1,35 +1,72 @@
-RIKER OBRIEN WORF PICARD WESLEY MENDON DATA
+KLAG RIKER GUEST1 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Pagh Mess hall]
 
-O'BRIEN: Good luck, Commander. 
-RIKER: Thanks, O'Brien. 
-O'BRIEN: I wouldn't want to go. 
-RIKER: Why? 
-O'BRIEN: You're not afraid, are you. 
-RIKER: No, I'm not. 
-O'BRIEN: I would be. Ready, sir. 
-RIKER: Thanks. Energise.
+GUEST1: Commander, you're not eating very much. 
+RIKER: I'm not that hungry. 
+KLAG: Is the food all right, Commander? 
+RIKER: It's delicious. The pipius claw was excellent. I also enjoyed
+this Bregit lungs. 
+GUEST3: And the Rokeg blood pie? 
+RIKER: Delicious. 
+KLAG: Good. Then you'll also enjoy this. 
+RIKER: Isn't that gagh? 
+KLAG: Very good. You did some research on our nutritional choices. 
+RIKER: Yes, but, it's still moving. 
+KLAG: Gagh is always best when served live. Would you like something
+easier? 
+RIKER: Easier? 
+KLAG: Yes. If Klingon food is too strong for you, perhaps we could get
+one of the females to breast feed you. 
+(laughter all round the tables) 
+RIKER: You're not worried about my weakening, are you? 
+KLAG: Look around you. There are no old warriors. 
+RIKER: No, sir, I'm sure they all died with honour. 
+KLAG: Exactly. You may live long enough to learn about us. 
+GUEST3: He is not very attractive, but I will have him. 
+GUEST1: They are inquisitive. They would like to know how you would
+endure. 
+RIKER: Endure what? 
+KLAG: Them. 
+RIKER: One or both? 
+(he grins, they all laugh, and the bonding has started) 
+GUEST3: I may be back for you. 
+RIKER: Is she serious? 
+KLAG: Yes. 
+(Other Klingons leave) 
+KLAG: Commander, would you say you're a typical Federation officer? 
+RIKER: I suppose so. Why? 
+KLAG: Well, it's just you're not what I expected. 
+RIKER: In what way? 
+GUEST1: You have a sense of humour. 
+RIKER: I was thinking the same thing about you. In all my dealings with
+Klingons, including our Lieutenant Worf, the thought never occurred to
+me of Klingons laughing. 
+GUEST1: There is much about us you do not know. 
+RIKER: That's why I'm here. 
+KLAG: You should ask. 
+RIKER: I may. After this tour, I may have some worthy questions. 
+KLAG: Questions about what? About our future? Our future is honour. Our
+present is serving this ship. 
+GUEST1: Like you, I have a mother and a father. They look like me, I
+look like them. 
+RIKER: Are they still alive? 
+GUEST1: My mother lives, My father was killed in battle at Tranome
+Sar. 
+RIKER: And your father? 
+KLAG: My father? My father was captured in battle by Romulans and not
+allowed to die. He eventually escaped. 
+RIKER: Where is he now? 
+KLAG: He is on our planet. He waits. 
+GUEST1: He waits for his death. 
+KLAG: He will eventually fade of a natural illness and die, weakened
+and useless. Honourless. I will not see him. 
+RIKER: He's your father. 
+KLAG: A Klingon is his work, not his family. That is the way of things.
 
-[Bridge]
-
-(The much smaller Pagh turns and moves off) 
-PICARD: Resume course, Mister Crusher. 
-WESLEY: Aye sir. 
-PICARD: Take over, Commander Data, I'll be in observation. 
-DATA: Thank you, sir. 
-MENDON: Sir. I am Ensign Mendon. I just wanted to tell you how pleased
-I am to be aboard the Enterprise. 
-PICARD: Yes, of course. Good to have you aboard. 
-MENDON: If you have a few minutes, I've noted a few procedural items
-which might speed up operations on the Bridge.
-I pick things up very fast. 
-PICARD: Yes, of course you do. You have an excellent record. However,
-here on the Enterprise we use the chain of command. You will report
-your observations to Lieutenant Worf. 
-MENDON: I beg your pardon, Captain. I just wanted to impress upon you 
-PICARD: No need to apologise, Ensign. We should have explained it
-better to you at your indoctrination. 
-(Picard leaves) 
-WORF: Ensign Mendon. You may impress me. 
-(Mendon doesn't look happy at the prospect) 
+RIKER: He's your father. 
+KLAG: Klingons do not express feeling the way you do. 
+RIKER: Perhaps you should. 
+KLAG: We would not know how. 
+RIKER: Yesterday, I did not know how to eat gagh. 

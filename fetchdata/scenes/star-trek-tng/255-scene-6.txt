@@ -1,38 +1,37 @@
-RIKER CRUSHER DATA LAFORGE
+PICARD RIKER CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jefferies tube]
+[Bridge]
 
-LAFORGE: Something's wrong. Can't get my left leg
-to work.
-
-[Laboratory]
-
-RIKER: What is it? 
-CRUSHER: The probe is designed to respond to any movement Geordi
-intends to make. When his brain sends a message to move his leg, the
-interface should move the probe instead. 
-DATA: Apparently the tactile sensors are too low. I will increase the
-input. 
-[Jefferies tube]
-
-LAFORGE: There it goes. I'm on my way down.
+RIKER: Captain, the probe is through the airlock
+and in position aboard the Raman. 
+PICARD: Picard to Commander Data. Report.
 
 [Laboratory]
 
-RIKER: Why the body suit? 
-DATA: It provides tactile sensations so that Geordi can feel he's in
-the same environment as the probe. 
-(Geordi is 'walking' past a panel and sees the probe as his reflection.
-He leans forward to examine it) 
-CRUSHER: Geordi, what's wrong? 
-LAFORGE: Nothing. I'm seeing my reflection in a panel. 
-[Engineering]
+DATA: We are ready to bring the interface online,
+sir. 
+PICARD [OC]: Proceed. 
+DATA: Activating the remote sensors. Initiating interface now. 
+CRUSHER: Vital signs normal. Geordi, how do you feel? 
+LAFORGE: Fine. 
+DATA: Do you have visual contact? 
+LAFORGE: Not yet. 
+[Raman corridor]
 
-LAFORGE: I forgot what a handsome guy I am.
+LAFORGE: Data, turn up the input sensors. I'm not
+seeing anything. 
+DATA [OC]: Acknowledged. 
+LAFORGE: Okay, I can see. 
+[Laboratory]
 
-Captain's log, stardate 47215.5. We are responding
-to a distress call from the science vessel Raman, which is apparently
-trapped inside the turbulent atmosphere of an unusual gas giant planet.
-We will use an experimental interface probe in our attempt to rescue
-it.
-
+LAFORGE: But no colours. 
+DATA: Increasing signal strength to seventy five percent of tolerance. 
+LAFORGE: Ah, that's better. 
+CRUSHER: Your pulse has gone up. Your nervous system probably has to
+get used to the input levels. 
+LAFORGE: I'm excited, that's all, Doctor. This is like being on a
+roller coaster. Or a first date. I'm all right. 
+CRUSHER: I'll be the judge of that. If your heart rate gets too high,
+we're going to disconnect you. 
+LAFORGE: Understood. 

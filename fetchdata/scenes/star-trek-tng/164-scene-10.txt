@@ -1,103 +1,58 @@
-LAL PICARD WESLEY CRUSHER DATA HAFTEL
+LAL WORF PICARD GUINAN DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]
+[Picard's quarters]
 
-DATA: This is home, Lal.
-LAL: Home. Place of residence. Social unit formed by a family living
-together. 
-DATA: Yes. We are a family, Lal. Chair. To sit in. Sit. Good. Painting.
+(Picard is in bed, resting) 
+WORF [OC]: Captain, incoming signal. Starfleet priority one. Admiral
+Haftel. 
+PICARD: On my monitor, Lieutenant. Admiral. 
+GUEST1 [on monitor]: Captain Picard, I hope I didn't disturb you. 
+PICARD: Not at all. 
+GUEST1 [on monitor]: I have discussed my concerns with Starfleet
+Command. You are to hold your position until I join you. Then I shall
+personally review the android's development. 
+PICARD: Understood. 
+GUEST1 [on monitor]: I should advise you, Captain, that if I'm not
+satisfied with what I see, I am empowered to take the android back with
+me. Haftel out.
 
-LAL: Painting. Colours produced on a surface by applying a pigment. 
-DATA: Yes. I will teach you to recognise the artistry in paintings. 
-(But Lal has moved on from the chair to the sofa) 
-LAL: Soft. 
-DATA: Yes, very good, Lal. You have correctly processed the sense of
-touch. There are many fascinating experiences I wish to share with you.
+Captain's log, supplemental. We are holding
+position pending the arrival of Admiral Haftel from Starfleet Research.
+Commander Data is completing his final neural transfers to the android
+he has named Lal, which I have learned, in the language Hindi means
+beloved.
 
-LAL: Painting. 
-DATA: No, that is a flower, Lal. Inhale. 
-LAL: Smell! 
-DATA: Yes. 
-LAL: Show me more, Father.
+[Ten Forward]
 
-Second officer's science log, supplemental.
-Training in social skills at the most elementary level has begun. Lal
-is progressing very slowly but is not deterred by early setbacks. While
-motor coordination has improved twelve percent, reflexes still need to
-develop. Visual comprehension is especially difficult for Lal.
-Translating her vast data banks into recognisable applications may
-improve with additional transfers. She is also learning to supplement
-her innate android behaviour with simulated human responses. And it is
-interesting to note that as I observe Lal learning about her world, I
-share in her experience, almost as though I am learning things over
-again.
-
-(Beneath that narrative, we see Lal taking a drink
-but not swallowing, putting her hand up to catch the ball a good two
-seconds too late, being shown how to blink, and finally eating a
-dessert in Ten Forward, then using her napkin)
-
- [Laboratory]
-
-DATA: The transfer itself is fairly simple. Each
-neural pathway in my brain is duplicated precisely in hers.
-Theoretically, the duplicate brains should be able to store and process
-the same information but until all of the transfers are complete, we
-will not know for certain. 
-WESLEY: What does Lal do while you're on duty? 
-DATA: She studies in our quarters. She requires very little
-supervision. Lal is quite self-sufficient. 
-WESLEY: Have you considered sending her to school? 
-DATA: She already has access to the sum of human knowledge from me. 
-WESLEY: Data, she could learn a lot by being with kids her own age. 
-DATA: She is only two weeks old. 
-WESLEY: Okay, close to her own age. 
-CRUSHER [OC]: Doctor Crusher to Ensign Crusher. Aren't you supposed to
-be getting a hair cut, Wesley? 
-WESLEY: I'm on my way. Parents. Nothing personal. 
-(Wesley leaves and Data switches Lal on) 
-DATA: Lal, the third crosslink transfer series is complete. 
-LAL: Father? What is my purpose? 
-DATA: Purpose? 
-LAL: My function, my reason for being? 
-DATA: That is a complex question, Lal. I can only begin to answer by
-telling you that our function is to contribute in a positive way to the
-world in which we live. 
-LAL: Why am I me instead of someone else? 
-DATA: Because you are my child. 
-LAL: Where did I come from? 
-DATA: These questions suggest that we have made a successful transfer
-of the heuristic associative pathways. You will now begin to process
-information on logic, aesthetics, metaphysics, and epistemology. You
-are truly becoming sentient, Lal. 
-LAL: How? 
-DATA: By developing the awareness to examine and question your
-perceptions. 
-LAL: Why do we have two hands? Why not three or four? Why is the sky
-black? Why do 
-(He switches her off in mid-question) 
-DATA: Tomorrow will be your first day of school, Lal.
-
-[Ready room]
-
-PICARD: I assure you, Admiral, there's no better
-guide into this life for Lal than Data. He's doing an excellent job. 
-HAFTEL [on monitor]: We all have enormous admiration for what Commander
-Data has already achieved, but we have superior facilities and
-personnel here at Galor Four. A starship is hardly a proper setting 
-PICARD: This starship's mission is to seek out new life and that is
-exactly what Commander Data is doing, under my guidance. 
-HAFTEL [on monitor]: We all want what's best for the new android. 
-PICARD: As do I. I would be willing to consider releasing Lal and Data
-to you so that he may continue his work with her. 
-HAFTEL [on monitor]: His presence would undoubtedly retard the new
-android's progress. 
-PICARD: Admiral, to you, Lal is a new android. But to Data, she's his
-child. 
-HAFTEL [on monitor]: His child? 
-PICARD: Yes, Admiral. It may not be easy for you and I to see her that
-way, but he does. And I respect that. They will remain here for now. 
-HAFTEL [on monitor]: Starfleet's policy on research is clear. You're
-making your stand on very uncertain ground. I do hope it doesn't fall
-out from under you. Haftel out.
+GUINAN: Hello, Data. 
+DATA: Guinan. 
+(He steers Lal away from the interesting people and onto a bar stool) 
+GUINAN: Lal, how are you? 
+LAL: I am functioning within normal. I am fine, thank you. 
+GUINAN: Good. 
+DATA: Guinan, Lal needs to observe human behaviour. 
+GUINAN: She's in the right place for it. 
+DATA: And for this opportunity, she is willing to provide services to
+assist you. 
+LAL: Father says I would learn a great deal from working with someone
+as old as you. 
+GUINAN: You're hired. The most important part about working some place
+like this is the art listening. I have some expertise, so I shall teach
+you. 
+DATA: That would be most beneficial. 
+LAL: I've been programmed with a listing of fourteen hundred and twelve
+known beverages. 
+GUINAN: What did you say? 
+LAL: I've been programmed with a listing of fourteen hundred 
+GUINAN: I've? 
+DATA: You have used a verbal contraction. 
+GUINAN: You said I've instead of I have. 
+DATA: It is a skill my programme has never mastered. 
+LAL: Then I will desist. 
+DATA: No. You have exceeded my abilities. I do not object, but I do not
+understand how this has
+occurred. 
+PICARD [OC]: Picard to Commander Data. Please report to my Ready room. 
+DATA: Aye, sir.
 

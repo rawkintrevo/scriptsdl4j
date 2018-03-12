@@ -1,36 +1,46 @@
-LAFORGE CREWMAN SITO PICARD TAURIK OGAWA CRUSHER
+TROI GUEST2 LAFORGE WORF SITO RIKER TAURIK LAVELLE OGAWA CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Riker's quarters]
 
-LAFORGE: I'm on it, Captain. There, try that. 
-TAURIK: The pod is still too far away. 
-LAFORGE: I'm going to try augmenting the frequency spread. 
-TAURIK: Bio readings indicate that passenger's humanoid. Attempting
-life form identification. 
-LAFORGE: No one told you to do that, Ensign. Let's just get him aboard
-safely. There, that should do it. 
-TAURIK: Confinement beam's at one hundred nine percent of normal. 
-LAFORGE: Transporter room, you should be able to get a lock now. 
-CREWMAN [OC]: Aye, sir. 
-[Sickbay]
+(another poker game) 
+WORF: Twenty. 
+CRUSHER: The thing is, I saw Powell in Ten Forward with another woman,
+and the way they were talking it made me wonder. 
+TROI: Well, if he's seeing someone else he should tell Alyssa. I mean,
+it might hurt her now, but it would be better in the long run. 
+RIKER: I've been meaning to talk to you about something, Mister Worf. I
+don't think Ensign Sito's prepared for the Ops position. 
+WORF: Well, I must say I disagree, sir. 
+LAFORGE: Counsellor. Pair of fours bets. 
+RIKER: I'm listening. 
+[Lavelle + Taurik's quarters]
 
-PICARD [OC]: Doctor Crusher, are you ready? 
-CRUSHER: Stand by. Alyssa, I'm afraid I'm going to have to ask you to
-leave now. 
-OGAWA: All right, Doctor. 
-(Alyssa leaves) 
-CRUSHER: Transporter room. go ahead. 
-CREWMAN [OC]: Aye, sir.
+GUEST2: The bet is fifty. 
+TAURIK: It would be illogical for the Captain to deny you a promotion
+for something you did as a cadet. 
+SITO: He said it shows I don't have character. 
+OGAWA: What did you say? 
+SITO: What could I say? Maybe he's right. 
+LAVELLE: Hey, you're a damn fine officer and you deserve that post as
+much as anyone. One thing's for sure, I won't be getting it. Not if
+it's up to Riker.
 
-[Corridor]
+[Riker's quarters]
 
-(Sito is standing guard) 
-OGAWA: What are you doing here? 
-SITO: I'm not supposed to let anyone but the senior officers inside
-Sickbay. 
-OGAWA: Do you have any idea what's going on? 
-SITO: No, do you? 
-OGAWA: I'd better go. 
-(Alyssa leaves as Picard arrives) 
-PICARD: Ensign. 
-SITO: Sir. 
+WORF: It is your decision, sir, but I am certain if
+you give Ensign Sito a chance to prove herself, she will not disappoint
+you. 
+RIKER: Very well, I'll take her under consideration. Besides, I'm not
+convinced about Lavelle. 
+TROI: Really? Why? 
+RIKER: He's too eager to please. He's always trying to ingratiate
+himself to me. 
+TROI: Why assume he's doing it that to get the job? 
+LAFORGE: Fifty. 
+RIKER: There's your fifty, and one hundred more. 
+TROI: I don't know. It seems to me that you and Lavelle are a lot
+alike. 
+RIKER: What? We're not at all alike. 
+LAFORGE: You're bluffing.
+

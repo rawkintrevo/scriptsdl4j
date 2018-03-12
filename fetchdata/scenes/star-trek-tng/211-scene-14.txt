@@ -1,92 +1,44 @@
-TIMOTHY RIKER LAFORGE PICARD HUTCHINSON TROI CRUSHER DATA
+PICARD RIKER DATA TROI WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Vico]
+[Bridge]
 
-PICARD [OC]: Is the boy ready, Number One? 
-RIKER: Ready, sir. 
-PICARD [OC]: It's your signal. 
-RIKER: Aye, Captain. It's going to be okay. Here we go. Energise.
+WORF: Captain, gravitational wavefront intensity is
+increasing steadily. Eleven hundred standard G units and rising. 
+PICARD: Let's see if anyone's out there. Mister Worf, attempt a wide
+range sensor sweep. 
+WORF: Aye, sir. Gravitational distortion is too great, Captain. The
+scanning signal is again being reflected off the wavefronts. I am
+unable to compensate. The sensors are useless. 
+PICARD: Mister Data to the Bridge, please. 
+DATA [OC]: Acknowledged. 
+PICARD: Adjust sensors to short range. Attempt a limited positron scan.
 
-[Transporter room]
+WORF: The distortion is still in effect. 
+RIKER: Better jacket the scanning beam. 
+WORF: The secondary beam is being distorted as well. 
+(Data enters) 
+PICARD: Mister Data, our sensors have been rendered ineffective by the
+field distortion. I want your analysis. Mister Worf, fire phasers,
+maximum intensity, limited spectrum. Zero zero one mark zero four five.
 
-PICARD [OC]: Ensign, do we have him? 
-HUTCHINSON: The lock is holding. I just can't resolve the matter
-stream, not with all that victurium alloy in the way.
-
-[Vico]
-
-HUTCHINSON [OC]: Commander Riker. You'll have to
-get him out into the corridor. 
-DATA: I could move the beam, sir. However, it may initiate the collapse
-of the surrounding supports. I recommend you and Geordi return to the
-ship. 
-RIKER: Agreed. La Forge. 
-[Transporter room]
-
-(Riker and La Forge are beamed in) 
-HUTCHINSON: I'm locked onto Commander Data and the boy, sir. I'll
-energise as soon as they've cleared the bulkheads. 
-RIKER: Whenever you're ready, Data. 
-DATA [OC]: Yes, sir. 
-[Vico]
-
-TIMOTHY: Are you're going to lift that? 
-DATA: Yes. Then I will take you to the corridor. We will transport back
-to the Enterprise from there. Do you understand? 
-TIMOTHY: How come you can pick up something so heavy? 
-DATA: I am an android. My strength is many times that of a human. It is
-going to be okay. I will count to three. One two three. 
-(he pushes up the beam with one hand, Timothy wriggles out and runs.
-Data drops the beam and follows, picking the boy up when he stumbles at
-the steps)
-DATA: Energise.
-
-Captain's log, supplemental. A thorough search of
-the Vico has revealed no additional survivors. We have begun the
-process of counselling the boy with regard to the tragedy.
-
-[Sickbay]
-
-CRUSHER: Don't be afraid. 
-(a little while later) 
-TIMOTHY: We were in the Black Cluster. I don't know where they came
-from. They had a big ship and they kept shooting at us. Then they
-beamed over. They had purple helmets on and phaser rifles. I saw them.
-They didn't see me. 
-CRUSHER: You're safe now, Timothy. I'm sorry for what happened. It's
-going to be all right. I bet you're hungry. Would you like me to get
-you something to eat? 
-(Timothy nods and Crusher leaves) 
-DATA: Counsellor, I must join Commander La Forge in Engineering. If you
-will excuse me. 
-(but Timothy is holding onto Data's hand) 
-TROI: Timothy, would you like Data to stay with you a little bit
-longer?
-(a little nod)
-
-[Engineering]
-
-(looking at a schematic of the Vico on a wall
-monitor) 
-LAFORGE: Sections of the primary and secondary hull were torn right
-off. The shearing planes are here, here, and here. 
-PICARD: How much longer till we can access their logs? 
-LAFORGE: Almost an hour. 
-PICARD: The boy was here. 
-LAFORGE: The hallway outside the computer core. His mother was the
-ship's systems engineer. The second away team found her
-body here inside the core. 
-PICARD: And his father? 
-LAFORGE: Ship's second officer. He was most likely on the bridge when
-it was exposed to space. 
-PICARD: Most likely. 
-[Sickbay]
-
-(Timothy falls asleep and Data is freed from his
-grip) 
-CRUSHER: He'll sleep for a few hours at least. I don't need to keep him
-here but I will need to see him again tomorrow.
-You've got some work cut out for you. 
-TROI: His world is gone, Data. We're going to have to help him build a
-new one.
+RIKER: An experiment, Captain? 
+PICARD: Exactly, Number One. 
+WORF: Firing phasers. 
+(the single shot branches off in several directions) 
+PICARD: Explanation, Mister Data. 
+DATA: Phaser energy was reflected by the gravitational wavefronts. It
+is similar to the phenomenon distorting our sensor signals. 
+PICARD: Phasers and sensors both useless? Mister Data, this reflection
+phenomenon, would it have the same effect on a disruptor-style weapon? 
+DATA: Yes, sir. Disruptors would be ineffectual. 
+PICARD: And a ship's cloaking field? 
+DATA: It would be extremely difficult to maintain. 
+PICARD: Mister Data, is it at all likely that the Vico could have been
+attacked inside the cluster? 
+DATA: Given the effects we have observed, the probability is
+exceedingly remote, sir. 
+PICARD: Picard to Counsellor Troi. 
+TROI [OC]: Yes, Captain? 
+PICARD: Counsellor, will you bring Timothy to my Ready room?
 

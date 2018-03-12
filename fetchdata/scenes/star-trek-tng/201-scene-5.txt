@@ -1,29 +1,5 @@
-PICARD OBRIEN DATA HOBSON
-
-[Sutherland Bridge]
-
-HOBSON: You've got to keep this mixture above
-ninety percent or we'll never leave orbit. Thank you, Mister Krags. 
-(Data enters) 
-DATA: I am Lieutenant Commander Data. 
-HOBSON: Lieutenant Commander Christopher Hobson. 
-DATA: By order of Starfleet, I hereby take command of this vessel.
-Please note the time and date in the ship's log. 
-HOBSON: Excuse me, sir. I'd like to request a transfer. 
-DATA: May I ask why? 
-HOBSON: I don't believe I'd be a good first officer for you. 
-DATA: Your service record to date suggests that you would perform that
-function adequately. 
-HOBSON: No, no, no, that's not what I mean. I don't think that I would
-be a good first officer for you. 
-DATA: Why? 
-HOBSON: Frankly, sir, I don't believe in your ability to command this
-ship. You're a fellow officer and I respect that, but no one would
-suggest that a Klingon would make a good ship's counsellor or that a
-Berellian could be an engineer. They're just not suited for those
-positions. By the same token, I don't think an android is a good choice
-to be captain. 
-DATA: I understand your concerns. Request denied.
+OBRIEN PICARD SELA LURSA GUEST3 GUEST2 BETOR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -35,3 +11,28 @@ clear of the system.
 O'BRIEN: Aye, sir. 
 PICARD: Engage.
 
+[Duras' home]
+
+B'ETOR: The Romulan convoy is late. We need those
+supplies. 
+SELA: (formerly known as Woman) Gowron has suffered another loss in the
+Mempa system. His forces will not threaten you in that region for some
+time. 
+B'ETOR: But if Gowron 
+SELA: The convoy will arrive in due course. 
+(Lursa enters) 
+LURSA: The Federation fleet has left Starbase two thirty four. They've
+set course for Klingon territory. 
+GUEST3: How many? 
+LURSA: At least twenty starships. 
+SELA: Who's commanding this fleet? 
+LURSA: Picard. 
+GUEST2: What does it mean? Is the Federation going to enter the war?
+Should we attack them before they get here? 
+SELA: Silence the child, or send him away. Movar, I want you to return
+to Romulus immediately. Have all available ships
+rendezvous at these coordinates in two days. 
+GUEST3: Yes, Commander. 
+LURSA: Twenty ships aren't enough to wage a war. Starfleet must be
+bluffing. 
+SELA: Perhaps. 

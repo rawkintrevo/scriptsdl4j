@@ -1,43 +1,38 @@
-PICARD RIKER TROI WORF
+TROI GUEST0 WORF PICARD RIKER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Guest quarters]
 
-PICARD: If he can put an end to all the years of
-blood-letting on those planets, I think we should do everything in our
-power to assist him. 
-RIKER: Our job is not to police the galaxy. 
-PICARD: Isn't that my speech, Number One? No, of course you're right.
-We must not get involved. 
-[Transporter room]
-
-(O'Brien is transporter chief today) 
-WORF: Coordinates have been input, sir. 
-TROI: Have your sensors indicated any problem down there,
-Lieutenant?
-WORF: None. 
-TROI: But you're feeling a certain confusion about this mission. 
-WORF: No. 
-TROI: Yes. I've never known you to have such strong emotions, except
-when you're expecting to do battle. 
-WORF: I am not expecting battle. 
-RIKER: Then what is bothering you? 
-WORF: Riva. 
-PICARD: Ah. Riva negotiated several treaties between the Klingons and
-the Federation.
-WORF: Before him, there was no Klingon word for peacemaker. 
-RIKER: Then I can understand why you're feeling uneasy. 
-PICARD: Now look, this is a simple ceremonial greeting, nothing more.
-All right? 
-WORF: Aye, sir. 
-(Picard, Troi and Worf get on the transporter pads) 
-PICARD: Energise.
-
-[Room]
-
-(They arrive in a marbled room, and walk forward to
-an area with a slightly raised
-dais in front of a stained glass window. There is no one there.)
+RIKER [OC]: Counsellor Troi, please have Riva
+report to the Bridge. 
+TROI: They need you on the Bridge, now.
 
 [Bridge]
 
-RIKER: Captain, this is the Enterprise. 
+(Troi, Riva and the whole Chorus enter) 
+PICARD: The cease fire has been broken. 
+GUEST0: I'm sure I can resolve that. Put them on the viewscreen. 
+PICARD: Viewer on. 
+WORF: The quality of the transmission is very poor. 
+GUEST0: It is sufficient. 
+GUEST1: Brothers. Your bravery as fighters is known. Now you must
+demonstrate courage in a new way. Cease hostilities. Allow us to meet. 
+WORF: The laser fire has ceased. 
+RIKER: For how long? These Solari don't seem likely candidates for
+peace. 
+GUEST0: I will need to see a topographical overlay of the battle area
+in order to pick a site for the meetings. Then I will need your help in
+creating the proper setting. 
+RIKER: Worf, prepare your security team. 
+WORF: Yes, sir. 
+GUEST1: That's not necessary. 
+RIKER: But it is prudent. 
+GUEST1: I prefer to arrive with the smallest possible complement. We do
+not want to add to an already tense situation. 
+PICARD: If that is your judgement, so be it. We are here to provide
+whatever service you require. 
+GUEST1: Thank you, Captain. 
+(At an aft station, looking at a map) 
+GUEST0: There. beam us down to that hilltop and inform the factions to
+join us. The time for killing is come to an end.
+

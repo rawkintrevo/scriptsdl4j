@@ -1,42 +1,46 @@
-PULASKI WESLEY RIKER DATA LAFORGE
+TROI OBRIEN LAFORGE WORF PULASKI WESLEY COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Holodeck]
 
-RIKER: Have you got a minute? 
-PULASKI: Sure. 
-RIKER: I wanted to apologize for my remark in Ten Forward. Your
-personal is none of my business. 
-PULASKI: Even if it involves your father? 
-RIKER: Even if it involves my father. 
-PULASKI: Did he ever tell you why he never remarried? 
-RIKER: What woman would have him with an ego like that? 
-PULASKI: I would have, in a cold minute. Twelve years ago, Kyle Riker
-was a civilian strategist advising Starfleet in its conflict with the
-Tholians. The starbase that he was operating from was attacked. None of
-the base crew was expected to live, and they all died. All except your
-father. Your father alone had the will to endure, to face the pain, to
-live. 
-RIKER: I never knew any of that about him. 
-PULASKI: I've never saw a man fight so hard in all my life. 
-RIKER: And you fell in love? 
-PULASKI: Yes. And so did he. But marriage was out of the question. He
-had other priorities. 
-RIKER: His career. 
-PULASKI: You know, if I were you, going out on the Ares, I'd jettison
-the emotional baggage you're still carrying around.
+(A forbidding setting, lit with red light. There is
+a channel between two raised platforms) 
+DATA: Computer, is this it? 
+COMPUTER: Correct. Klingon Rite of Ascension Chamber. 
+LAFORGE: Is this really necessary? 
+WESLEY: If we want to get Worf through his problem, it is. 
+DATA: Computer, please give us Klingon personnel appropriate to this
+event. 
+(Four warriors stand on each side of the channel, with metre-long
+painstiks) 
+DATA: These images are specifically programmed for Ascension rites. 
+LAFORGE: Cute bunch. 
+WESLEY: And they use those? 
+O'BRIEN: Those are Klingon painstiks. I once saw one of them used
+against a two-ton Rectyne Monopod. Poor creature jumped five metres at
+the slightest touch. It finally died from excessive cephalic pressures.
 
-[Engineering]
+WESLEY: You mean? 
+O'BRIEN: That's right. The animal's head exploded like 
+PULASKI: I think that's enough, Chief O'Brien. 
+[Corridor]
 
-WESLEY: Now the Klingon cultural database was very
-specific on the setting. 
-LAFORGE: Now let me guess. Twenty piece orchestra, magnificent
-ballroom, everybody in formal wear. 
-WESLEY: No, there is some unusual test of inner strength involved 
-DATA: That would entail the use of Klingon painstiks. 
-LAFORGE: Painstiks? Sounds lovely. 
-DATA: Enduring physical suffering is considered a Klingon spiritual
-test. 
-LAFORGE: You mean in order for Worf to celebrate the anniversary of his
-Ascension, he has to be hurt? And we have to witness this? 
-DATA: We are his family.
+WORF: I do not enjoy riddles, Counsellor. 
+TROI: You will enjoy this one. 
+WORF: I am in no mood for trifling or games, not today. 
+TROI: I know what an important day this is for you, the anniversary of
+your Rite of Ascension. 
+WORF: You know about that? 
+TROI: All your friends on board do. 
+WORF: That is impossible. It is a secret known only to Klingons. 
+TROI: And certain resourceful young Ensigns. 
+WORF: Wesley Crusher. What does he know about it? 
+TROI: Just bear with me. 
+WORF: Where are we going? 
+TROI: The holodeck. 
+WORF: This is truly trying my patience, Counsellor. 
+TROI: I think you will approve. 
+WORF: You're not coming in? 
+TROI: No. 
+WORF: Open.
 

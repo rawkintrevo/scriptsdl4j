@@ -1,24 +1,6 @@
-ROBINSON DATA LAFORGE OKONA
+GUEST0 DATA OKONA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-(Geordi is working on the module in his private
-alcove) 
-OKONA: Will that do what the original did? 
-LAFORGE: Sure will, and better. Let me show you. On your old one, the
-zelebium contacts that wore down and then fused. What I've done is
-replace them with tricellite. 
-OKONA: Tricellite isn't available in this system. If I ever had to
-replace it. 
-LAFORGE: Don't worry, you won't. Your ship will never outlast this
-part. 
-OKONA: Because of the part or the way I fly my ship? 
-LAFORGE: Well, this part, but the stress test did show that you tend to
-push your ship a little beyond its design capabilities. 
-OKONA: Blame the pattern of my life, Lieutenant La Forge. Because it
-relegates me to cargo carrying rather than the grand explorations you
-enjoy, I'm forced to add a measure of flamboyancy and a zest to the
-doldrum of my existence. 
 [Corridor]
 
 OKONA: Have you ever been cold? 
@@ -46,4 +28,4 @@ DATA: Right over there, sir. Why?
 OKONA: You probably wouldn't understand that either. 
 (The door opens to reveal Robinson in a slinky dress, waiting for
 Okona) 
-ROBINSON: Hello, there. 
+GUEST0: Hello, there. 

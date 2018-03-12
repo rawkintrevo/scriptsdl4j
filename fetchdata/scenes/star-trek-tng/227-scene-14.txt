@@ -1,36 +1,40 @@
-GUINAN TROI CLEMENS RIKER
+PICARD GUINAN CLEMENS WORF RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Cavern]
 
-GUINAN: History has to fulfill itself. Even Picard
-knew that. 
-RIKER: You were there in the cavern. You know what happened. What am I
-supposed to do? 
-GUINAN: If I told you what happened in that cavern, it would affect any
-decision you'd make now. I can't do that. I won't. 
-RIKER: Not telling me might affect my decision. Did you think of that?
-We're talking about Jean-Luc Picard. I can't sit around and hope it all
-works out. I've got to do something.
+GUINAN: I'm thirsty. 
+PICARD: I'm going to get help. We have to get you out of here. 
+GUINAN: No, don't go. They'll be back for you soon. 
+PICARD: No, you need help. 
+CLEMENS: This thing put me down in the middle of Market Street. Took
+forever to get here.
 
-[Corridor]
+[Bridge]
 
-(Troi is back in her purple catsuit) 
-CLEMENS: Any place that doesn't stock a good cigar doesn't rank high in
-my book. 
-TROI: If you must have one, I'm sure we can replicate it for you. 
-CLEMENS: You think one of these imitations can take the place of a hand
-wrapped Havana? 
-TROI: I wouldn't know. 
-CLEMENS: Well, that's the problem I see here. All this technology it
-only serves to take away life's simple pleasures. You don't even let a
-man open the door for a lady. 
-TROI: I think what we've gained far outweighs anything that might have
-been lost. 
-CLEMENS: Oh? Well, I'm not so impressed with this future. Huge
-starships, and weapons that can no doubt destroy entire cities, and
-military conquest as a way of life? 
-TROI: Is that what you see here? 
-CLEMENS: Well, I know what you say, that this is a vessel of
-exploration and that your mission is to discover new worlds. 
-(a Bolian comes out of the turbolift as they get in)
+WORF: Commander La Forge has completed the
+reconfiguration of the photon torpedoes. 
+RIKER: If Clemens got back, the Captain should have been here by now. 
+WORF: We have no way of knowing if Mister Clemens was successful. 
+RIKER: Re-establish your firing pattern, Mister Worf. We'll wait five
+more minutes. 
+WORF: Aye, sir.
+
+[Cavern]
+
+CLEMENS: No time for chit chat, sir. According to
+Mister La Forge, who did get your message by the way, a frequency
+setting of point oh four seven on your phaser will correctly activate
+this creature. 
+PICARD: Now you have to get help. Guinan needs medical attention. 
+CLEMENS: I promise you she will be attended to. 
+PICARD: And there is a bill to be settled at Mrs. Carmichael's boarding
+house. 
+CLEMENS: I'll settle it. 
+PICARD: Thank you. I wish, I wish time would have allowed me to know
+you better. 
+CLEMENS: You'll just have to read my books. What I am is pretty much
+there. 
+GUINAN: I'll see you in five hundred years, Picard. 
+PICARD: And I'll see you in a few minutes.
 

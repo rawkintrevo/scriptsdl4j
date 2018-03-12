@@ -1,38 +1,41 @@
-TROI LAFORGE WORF PICARD RIKER PULASKI DATA
+GUEST1 DATA PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ten forward]
 
-LAFORGE [OC]: I'm on my way. 
-PICARD: Assemble an away team, Number One. Include whoever the Doctor
-requires to assist. 
-PULASKI: Excuse me sir, but there may be hundreds on the Constantinople
-that require emergency attention. I should be there to supervise. 
-PICARD: All right, who will replace you? 
-PULASKI: Lieutenant Selar. She has my complete confidence. 
-RIKER: Worf, let's go. 
+GUEST1: Hello Data. It's good to see you again. The
+stars are so beautiful from space. Yet they seem 
+DATA: You always did love the sky. A stargazer. That is what you are. 
+GUEST1: Did Ira tell you that? I guess he's right. I used to spend
+hours just lying on a hill, looking up. 
+DATA: Ira never told you how beautiful you were to him. He never told
+you that, did he? He could not tell you, do you understand? 
+GUEST1: Yes. I understand. 
+DATA: He wanted to. Every waking moment. And he wanted you to know
+that. You were everything to him. 
+(Data reaches to touch her hair, then stops himself)
+
 [Transporter room]
 
-(Selar, Troi, a clean-shaven Data and Worf are the
-away team) 
-RIKER: Phaser on stun, Mister Worf. We don't know what's going on down
-there. There's no need to take any chances. 
-WORF: Agreed, sir. 
-LAFORGE: Now remember, this is a near warp transport, so the effects
-may be a little unusual. 
-TROI: What do you mean? 
-RIKER: You'll see, Counsellor. Energise. 
-TROI: Now wait a minute. I don't understand 
-[Living room]
-
-RIKER: You do now. 
-TROI: This might sound crazy, but for a moment I thought I was stuck in
-that wall. 
-WORF: For a moment, you were. 
-DATA: Data to Enterprise. 
-PICARD [OC]: I read you, Commander. Go ahead. 
-DATA: We are inside Graves' home. 
-[Bridge]
-
-DATA [OC]: All is quiet so far. Of course, no one
-knew we were coming. 
-PICARD: Use caution, but protect Graves' health 
+{Graves' body is in a torpedo case, wearing a
+shroud.) 
+PICARD: He was a fine man. A man of rare gifts. and great
+accomplishments. He will be sorely missed. Does anyone else have
+anything to say? 
+(Selar, Troi, Wesley, Riker, Kareen and Data are the mourners. Data has
+his head bowed. Geordi is at the transporter console.) 
+DATA: I believe I have a few words to say, sir. (steps up to the case)
+Just look at that face. The face of a thinker. A warrior. A man for all
+seasons. Yes, Ira Graves was all that and more. But he was not perfect.
+Perhaps his greatest fault was that he was too selfless. He cared too
+much for his fellow man, with nary a thought for himself. A man of
+limitless accomplishments, and unbridled modesty. I can safely say that
+to know him was to love him. And to love him was to know him. Those who
+knew him, loved him, while those who did not know him, loved him from
+afar. 
+PICARD: Data. 
+DATA: I'm almost finished, sir. 
+PICARD: You are finished, Data. 
+(Picard gives Geordi the nod, Kareen says a final silent goodbye) 
+PICARD: We now commit the body of Ira Graves to the timeless depths of
+space. 

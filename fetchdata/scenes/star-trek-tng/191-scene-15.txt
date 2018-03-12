@@ -1,53 +1,52 @@
-RIKER LAFORGE WORF PICARD LIN TROI CRUSHER DATA
+TROI OBRIEN PICARD GUINAN CRUSHER DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Sickbay]
+
+CRUSHER: I can help keep you in REM sleep for a
+while with this cortical scanner. It will maintain electrical activity
+in your brain at the proper frequency. 
+(Troi lies down on a bed) 
+DATA [OC]: Counsellor
 
 [Bridge]
 
-PICARD: We have no functional propulsion systems? 
-DATA: No, sir. Apparently we do not. 
-LIN: We're adrift. 
-RIKER: Just like the Brittain.
+DATA: You will have to communicate with the other
+ship within two minutes of entering REM sleep. 
+TROI [OC]: Two minutes. 
+[Sickbay]
 
-Captain's log, stardate 44639.9. The Enterprise has
-now been adrift for a total of ten days. We have sent subspace distress
-calls, but because of our distant location, we cannot expect a response
-for at least another two weeks.
+TROI: Is that all, Data? 
+DATA [OC]: Unfortunately, yes. 
+[Bridge]
 
-[Observation lounge]
+DATA: We have only enough power to emit a hydrogen
+stream for that amount of time. They must understand that they will
+have to detonate it immediately. Captain, we are ready to implement the
+plan. 
+PICARD: Proceed. 
+DATA: We will have to draw power from the life-support systems in order
+to discharge the collectors. This is Acting Captain Data. All personnel
+will report to designated shelter areas
 
-DATA: After analysing the sensor logs of the
-Brittain and the Enterprise, as well as the data from the last series
-of probes, I conclude that we have become trapped in a massive rupture
-in space, into which energy is absorbed. 
-PICARD: You mean a Tyken's rift. 
-CRUSHER: A what? 
-DATA: A rare anomaly named after Bela Tyken, the Melthusian captain who
-first encountered it. 
-LAFORGE: Tyken's rift. That would explain why we don't have engine
-power. 
-DATA: The ship's energy is being drained into the fissure before we can
-utilise it. 
-(Worf enters) 
-WORF: I was detained. 
-DATA: When Tyken was trapped in the rift, his analysis determined that
-a massive energy release might overload and dislocate the anomaly.
-Fortunately, his cargo included anicium and yurium, which he used to
-detonate the explosion. He then escaped through the ruptured centre of
-the rift. 
-LAFORGE: But we aren't carrying anything that could produce that kind
-of explosion. Not even our photon torpedoes would be enough. 
-RIKER: Couldn't we replicate the elements that Tyken used? 
-DATA: No, sir. We no longer have the power to reproduce complex
-elements in the replicator. We must find a way to generate a violent
-energy release without using conventional means. 
-CRUSHER: Data, in Tyken's experience did the crew exhibit behavioural
-changes? 
-DATA: No. There were no reports of unusual conduct among the crew. 
-TROI: What about nightmares? 
-DATA: There were no records of sleep disturbances of any kind,
-Counsellor. 
-CRUSHER: Then, what is it? What's happening to us?
+[Ten Forward]
 
-[Corridor]
-
-RIKER: The only one who doesn't seem affected by
-all this is Data. 
+DATA [OC]: Immediately. Life support systems will
+continue only in emergency shelter areas. 
+GUEST0: Hear that? Get us jammed into shelter areas. We sit and wait
+to die. Nobody'll ever find us. 
+GUINAN: Relax, Gillespie. Everybody relax. Ten Forward is a designated
+shelter area. Relax. 
+GUEST0: Do we want to die here like helpless children? 
+GUINAN: Security to Ten Forward immediately. 
+GUEST0: We don't even know what we're dying for. 
+O'BRIEN: Sit down, Gillespie. You're not helping matters any. 
+GUEST0: What's wrong with standing up for ourselves? 
+(Security arrive) 
+GUEST0: Picard owes us some answers. 
+(Gillespie thumps O'Brien, the security men join in and there's a
+brawl. Guinan gets a Big Gun from behind the bar and fires at the
+ceiling)
+GUEST0: What is that? 
+GUINAN: It's a little souvenir I picked up on Magus Three. That was
+setting number one. Anyone want to see setting number two? 

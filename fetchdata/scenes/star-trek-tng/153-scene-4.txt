@@ -1,39 +1,43 @@
-PICARD TROI CRUSHER RIKER WORF
+TROI JEREMY LAFORGE PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Teacher's office]
 
-CRUSHER [OC]: One dead on arrival.
+PICARD: Jeremy, I have some bad news. There has
+been an accident. Your mother has died. 
+JEREMY: How, sir? 
+PICARD: An explosive device at the mission site. She died instantly. 
+JEREMY: I understand. 
+TROI: Jeremy, I know your mother loved you very much. 
+PICARD: I'm told that your father is also dead. 
+JEREMY: Yes, sir. He died five years ago from a Rushton infection. I'm
+all alone now, sir. 
+PICARD: Jeremy, on the starship Enterprise, no one is alone. No one.
 
-Captain's Log, stardate 43198.7. The Enterprise
-remains in standard orbit while we investigate the tragedy which has
-struck the away team. Lieutenant Marla Aster, ship's archaeologist, has
-been killed in what should have been a routine mission. Whatever the
-explanation, it will not bring back a valued and trusted officer.
+[Ten forward]
 
-[Sickbay]
-
-PICARD: Lieutenant? 
-WORF: We had completed our investigation of the third tunnel. Our scans
-had indicated no weapons or traps of any kind. Lieutenant Aster was
-three metres behind me. An explosive device went off. There was no
-warning. Lieutenant Aster bore the full brunt of the detonation. 
-(Troi enters) 
-TROI: Lieutenant Aster is survived by a son, Jeremy. Twelve years old.
-He's aboard the Enterprise, sir. 
-PICARD: And his father? 
-TROI: He's also deceased. His only living relatives are an aunt and
-uncle residing on Earth. 
-PICARD: Where is he now? 
-TROI: In class. I've alerted the teacher to expect us.
-WORF: Captain. I must accompany you. I commanded the away team. 
-PICARD: I appreciate your offer, Lieutenant, but this is my
-responsibility. 
-[Corridor]
-
-PICARD: Picard to Bridge. 
-RIKER [OC]: Yes, Captain. 
-PICARD: Assign Commander La Forge to lead another away team to the dig
-site. I want to know why this happened. 
-RIKER [OC]: Yes, Captain. 
-PICARD: I will be with Counsellor Troi
-
+DATA: Excuse me, sir. Am I intruding? 
+RIKER: No, sit down. 
+DATA: How well did you know Lieutenant Aster? 
+RIKER: We spent some time together. Not very well. How well did you
+know her? 
+DATA: Why do you ask? 
+RIKER: Well, you just asked me. 
+DATA: But why do you ask the question? Since her death, I have been
+asked several times to define how well I knew Lieutenant Aster. And I
+heard you ask Wesley on the Bridge how well he knew Jeremy. Does the
+question of familiarity have some bearing on death? 
+RIKER: Do you remember how we all felt when Tasha died? 
+DATA: I do not sense the same feelings of absence that I associate with
+Lieutenant Yar, although I cannot say precisely why. 
+RIKER: Just human nature, Data. 
+DATA: Human nature, sir? 
+RIKER: We feel a loss more intensely when it's a friend. 
+DATA: But should not the feelings run as deep regardless of who has
+died? 
+RIKER: Maybe they should, Data. Maybe if we felt the loss of any life
+as keenly as we felt the death of those close to us, human history
+would be a lot less bloody. 
+LAFORGE [OC]: La Forge to Riker 
+RIKER: You're back, Geordi 
+LAFORGE [OC]: Yes, sir, and we've brought back a souvenir. 

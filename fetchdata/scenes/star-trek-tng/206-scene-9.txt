@@ -1,31 +1,40 @@
-DATA RIKER COMPUTER CRUSHER LAFORGE
+WESLEY GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Engineering]
 
-DATA: Geordi, a conflict has started between the
-planetary evolution team and the stellar physicists. Each wishes to be
-the first to use the thermal imaging array. 
-LAFORGE: Well, tell them to flip a coin. We've got to work together on
-this mission, otherwise we're never going to get it done. 
-DATA: A coin. Very good. I will replicate one immediately. 
-CRUSHER [OC]: Doctor Crusher to Data. 
-DATA: Data here. 
-CRUSHER [OC]: Do you have a minute to join me in Sickbay? I need your
-help with something. 
-DATA: Yes, Doctor. On my way.
+WESLEY: Conduits twelve and twenty two are still
+down for testing. 
+GUEST1: We can re-route through junction fourteen B. 
+WESLEY: You have a funny way of looking at conduit configuration. But
+it works. 
+GUEST1: That's Law Thirty Six. You've got to go with what works. 
+WESLEY: What are all these laws that I keep hearing about? 
+GUEST1: They're my personal laws. Every time I learn something
+essential, I make up a law about it so I never forget. 
+WESLEY: How many do you have? 
+GUEST1: A hundred and two so far. 
+(they sit at a console) 
+GUEST1: Looks like the starboard array needs another subprocessor. 
+WESLEY: It'll be online in a few minutes. I'm way ahead of you. 
+GUEST1: They said you were good. 
+WESLEY: Why do I get the feeling that you already know me? 
+GUEST1: I have a few friends at the Academy. Your name's come up a
+couple of times. That was really some stung you pulled on Adam Martoni
+in the physics lab. I just want to know how you got the antimatter
+regulator to spray chili sauce. 
+WESLEY: There is another side to that story. 
+GUEST1: Is it true what they say about your birthmark? 
+WESLEY: This isn't fair. I hardly know anything about you. 
+GUEST1: Hey, that's Law Forty six. Life isn't 
+WESLEY: Always fair. Yeah, I know that law. I still have to work on the
+sensor relays, but I'd like a chance to even the score. Ten Forward,
+nineteen hundred hours. Will you join me for coffee? 
+GUEST1: No. But I'll meet you for dinner.
 
-[Sickbay]
-
-DATA: You wanted to see me, Doctor? 
-CRUSHER: Yes, Data. I need to ask you to do something for me. I'm
-working on a new experiment with bioactive silicon. Would you
-reprogram this tricorder to these specifications? 
-DATA: Certainly. 
-CRUSHER: I'm sorry to bother you with it, but I need it done quickly. 
-DATA: It does not bother me. In fact, I am happy to 
-(Crusher switches Data off, then Troi and Riker enter. Will puts Data
-on a biobed) 
-RIKER: Computer, secure Sickbay. 
-COMPUTER: All entries to Sickbay are secured. 
-(Crusher opens a panel at the back of Data's head and starts working)
+Captain's log, supplemental. We have arrived at the
+Phoenix Cluster, but it will take us several hours to determine the
+best possible location from which to conduct our survey. Commander
+Data's condition remains unchanged with no further indication as to the
+cause of his collapse.
 

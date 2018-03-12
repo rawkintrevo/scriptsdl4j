@@ -1,57 +1,40 @@
-TROI LAFORGE TASHA PICARD HAGON RIKER LUTAN
+TROI TASHA PICARD HAGON RIKER LUTAN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation Lounge]
 
-LAFORGE: Standard orbit, sir. 
-RIKER: Lieutenant Yar is calling from Cargo Bay One, sir. Standing by
-to beam Ligonian welcoming party aboard.
-PICARD: On our way. You have the helm, Mister Data.
+(Data brings in a statuette of a horse) 
+PICARD: Lutan, we are aware of many of your planet's achievements, and
+its unique similarity to an ancient Earth culture we all
+admire. On behalf of the Federation, therefore, I would like to present
+this token of our gratitude and friendship. From China's Sung Dynasty,
+Fourteenth Century. 
+DATA: Thirteenth Century, sir. 
+PICARD: Ah, yes, indeed. 
+LUTAN: A most thoughtful gift. We are pleased. We of Ligon have been
+apprehensive about strangers. We are not technologically advanced as
+you, yet we possess something you do not. A vaccine which has been
+found to be an effective antidote to your dreaded Anchilles fever. If
+you respect our customs and if we see that respect, we will be friends.
+And we will make the antidote available to all who need it. 
+PICARD: If you require respect from us, I am sure that you will see it.
 
-[Turbolift]
-
-PICARD: Cargo One. This should be an interesting
-experience. 
-RIKER: Agreed. Not only are they closely humanoid, but their history
-has remarkable similarities to ours. 
-TROI: A highly structured society. and they're exceedingly proud.
-
-[Cargo Bay One]
-
-TASHA: They've insisted on using their own
-transporter device, sir. 
-PICARD: It's their way, Lieutenant. Do they have our coordinates? 
-TASHA: They have, sir, precisely, and they're standing by for your
-signal. 
-PICARD: This is Captain Picard aboard the Starfleet vessel Enterprise.
-Please do us the honour of visiting our vessel. 
-(Five people beam aboard. One rolls out a red carpet, then stands aside
-as an imposing man beams in) 
-LUTAN: I am Lutan. 
-PICARD: Captain Jean-Luc Picard. Welcome aboard. These are my officers.
-My second in command, Commander William Riker. Ship's Counsellor,
-Deanna Troi. And my Security Officer, Lieutenant Natasha Yar. 
-LUTAN: A woman? Your Chief of Security? 
-PICARD: Yes, Lutan, that is her expertise. 
-LUTAN: I am honoured to meet your officers. This is my Secondary,
-Hagon. A sample of the vaccine. 
-(Tasha steps forward to intercept Hagon and his box before he gets to
-Picard) 
-TASHA: My duty, Lutan. I'm sorry, but I'm required to 
-HAGON: Out of my way, woman. 
-(Tasha does a neat manoeuvre which takes the box and leaves Hagon face
-down on the floor) 
-LUTAN: How interesting. May we prove as surprising to you. 
-TROI: If I may suggest, sir, no apology. In their view, it would weaken
-us. 
-TASHA: Nothing concealed, Captain. Would you care to accept it? 
-LUTAN: Unless you care to examine it further. 
-PICARD: Absolutely not. This vaccine sample is a gift of life and we
-are honoured at receiving it. Would you do us the additional honour of
-now letting us entertain you?
-LUTAN: Yes, yes. Please prepare it. We shall join you shortly. 
-(Picard, Riker, Troi and Yar turn and leave) 
-HAGON: I ask forgiveness. 
-LUTAN: They are strange alien beings. You bear no fault. 
-HAGON: But the female? 
-LUTAN: May be exactly what I have needed.
+LUTAN: Surrounded by such friendship, I feel no need for my guards. I
+will return shortly. Prepare to transport me then. 
+(The four guards leave) 
+PICARD: If there is something else, any further courtesy? 
+LUTAN: Would it possible to see one of your wondrous holodecks? We have
+heard how they are used to train your officers. 
+PICARD: And used for many other things too. Commander Riker, perhaps
+you and Counsellor Troi will demonstrate. 
+LUTAN: Would it be possible for Lieutenant Yar to do so, Captain? Some
+demonstration of defence training? 
+RIKER: We've noticed you're intrigued with her having security
+responsibilities. But these things are not at all unusual with us. 
+HAGON: With us, it is the duty of women only to own the land, and the
+duty of men to protect and rule it. 
+TROI: Much the same has happened in human history too. 
+TASHA: I'd like to do it, sir. As a sign of respect, perhaps. 
+PICARD: Very well. 
+TASHA: This way, please.
 

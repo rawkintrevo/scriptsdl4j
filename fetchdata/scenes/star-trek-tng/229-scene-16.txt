@@ -1,61 +1,44 @@
-TROI CREWMAN JARTH PICARD ENSIGN RIKER ALKAR LIVA
+PICARD RIKER CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Transporter room]
 
-CREWMAN: Sir. 
-(Riker gets to Deanna's door. She's not in uniform) 
-TROI: Will. 
-RIKER: We were supposed to finish the crew evaluation reports.
-TROI: Of course. Come in.
+(Worf and Picard have just been beamed back) 
+PICARD: Lock on to Alkar's signal. Bring him on board.
+WORF: Captain, I am sure the Seronians have re-activated their security
+field.
+PICARD: Then work with Mister La Forge to find a way to break through
+it. I want that man on this ship.
+WORF: Aye, sir. 
+PICARD: I'll be in Sickbay.
 
-[Troi's quarters]
+[Sickbay]
 
-ENSIGN: Sir!
-RIKER: As you were.
-ENSIGN: Yes, sir. Thank you, sir. I was just leaving.
-TROI: If there's anything else I need, I know where to find you. 
-ENSIGN: Yes, ma'am.
-(embarrassed toy boy rushes out) 
-TROI: Are you bothered by his being here?
-RIKER: Of course not.
-TROI: Good. Because it's really none of your business.
-RIKER: I know that. I believe we were with Lieutenant Fratis i n
-molecular biology.
-TROI: Why do I think you're upset?
-RIKER: I don't know. Could we just continue with the evaluation?
-TROI: Will, remember who you're talking to. You are bothered, I can
-tell. 
-RIKER: Deanna, I'm sorry I intruded. When you're ready to work, why
-don't you give me a call. 
-TROI: I will.
-
-Captain's log, stardate 46073.6. We have arrived
-without incident at Rekag-Seronia, where two members of Ambassador
-Alkar's delegation have been waiting. They have joined us to report on
-the situation in the capital city.
-
-[Observation lounge]
-
-JARTH: (a man) Things have deteriorated steadily.
-Rekag sympathisers in outlying districts have attacked several towns.
-PICARD: But I was under the impression there was a cease fire agreement.
-JARTH: It was broken before it went into effect. A Rekag shuttle
-strayed into Seronian space and was destroyed by fighter craft.
-LIVA: (a woman) Naturally, the Rekags retaliated. There's been fighting
-ever since.
-ALKAR: If they would just sit down with me.
-JARTH: The Rekags won't go into Seronian territory for talks. And the
-Seronians won't go to Rekag. In the meantime, they fight.
-PICARD: Ambassador, the situation sounds so volatile. Perhaps a cooling
-off period? 
-ALKAR: These people need an end to the fighting now. To delay a week,
-even a few days, could cost thousands of lives.
-PICARD: Then I would recommend that we ask both sides if they would
-agree to meet in the city of Darthen.
-LIVA: Why Darthen?
-PICARD: It's a coastal city that has been neutral throughout the
-conflict. Both Seronians and Rekag loyalists live there. It might be
-acceptable as a compromise.
-ALKAR: Contact the leaders. If they'll meet me in Darthen, I will join
-them there tomorrow.
+CRUSHER: If Alkar is flooding her with this psychic
+waste, that would explain the high level of neurotransmitters.
+All these negative emotions pouring into her have caused an abnormal
+chemical response in her brain. 
+RIKER: Isn't there something you can do to counteract it?
+CRUSHER: Enzymic decontaminants will be able to reduce the level of the
+neurotransmitters, but I can't make any headway unless Alkar stops what
+he's doing.
+PICARD: He has no intention of stopping. He feels perfectly justified
+in using her until she dies.
+CRUSHER: Then Deanna has to die. In order to save Deanna, Alkar has to
+break his link with her. And the only he'll do that is if she's no
+longer an adequate receptacle. When Maylor died, Alkar turned
+immediately to Deanna.
+PICARD: If Deanna dies, and he breaks the link with her, then he will
+choose someone else, possibly someone from his own delegation.
+RIKER: Wait a minute. You're talking about killing Deanna! 
+CRUSHER: I'll be able to resuscitate her, Will, as long as it's not
+more than thirty minutes. The big question is, will that be enough
+time? Alkar has to establish a link with someone else before we revive
+Deanna, or else he might turn back to her.
+PICARD: We must bear in mind that we'll be putting his next victim at
+risk. I want every possible security measure taken to protect that
+person.
+RIKER: How will you? 
+CRUSHER: I'll give her a hypospray of dylamadon. It's the gentlest way.
+PICARD: Proceed, Doctor.
 

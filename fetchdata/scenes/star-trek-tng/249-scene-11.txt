@@ -1,29 +1,64 @@
-PICARD GOWRON
+GUEST2 GUEST0 GUEST1 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Kahless' quarters]
 
-PICARD: Welcome aboard, Gowron. 
-GOWRON: Where is he, Picard? 
-PICARD: I assume that you're referring to Kahless. 
-GOWRON: I am referring to the filthy pahtk who is using his name. 
-PICARD: Well, the person in question is in his quarters at the moment. 
-GOWRON: What have you learned about him so far? 
-[Corridor]
-
-GOWRON: What kind of medical analysis have you
-made? Do you have any theories about his true origin? 
-PICARD: We haven't done any analysis. 
-GOWRON: What kind of fools do you have working for you, Picard? The
-imposter's been aboard for nearly a day. 
-PICARD: If you wanted to run tests on Kahless, you should have sent a
-Klingon ship for him. 
-GOWRON: And have him begin spreading his poisonous lies through a ship
-of loyal Klingons? Never. 
-PICARD: If he really is an imposter then you have nothing to worry
-about. 
-GOWRON: Kahless has been dead for a thousand years, but the idea of
-Kahless is still alive. Have you ever fought an idea, Picard? It has no
-weapon to destroy, no body to kill. The idea of Kahless' return must be
-stopped here, now, or it will travel through the Empire like a wave and
-leave nothing but destruction behind.
-
+GUEST1: Everything will be all right. We will say
+that Gowron used a dishonourable tactic in his fight with Kahless. 
+GUEST2: That he cheated. 
+WORF: That is a lie. He did not 
+GUEST1: We do not need to hear any more from the son of Mogh. None of
+this would have happened if you hadn't brought them together. 
+GUEST0: I am Kahless, I am the strongest, the bravest warrior. 
+GUEST2: Do not think about what happened. You must think of the future,
+of the Empire. 
+WORF: There is no future here. No glorious new era for our people.
+Gowron was right. You did not know the name of the man who faced the
+storm. You do not even know what real warnog tastes like. And you
+certainly are not the greatest warrior of all. Whoever you are, you are
+not Kahless. 
+GUEST1: You have said enough. Now get out! 
+WORF: You are using the name of Kahless for some twisted game. For that
+alone, you should die. And if you do not tell me what you have done, I
+will kill you right here. 
+GUEST1: The problems with your memory are the result of the way you
+returned. 
+GUEST0: What do you mean? 
+GUEST1: We, the Guardians, have been awaiting your return for
+centuries, but we did not have the technology to bring you back. Until
+now. We were able to use an organic sample of the first Kahless to give
+you life. 
+GUEST0: The first Kahless? 
+WORF: A clone. He is a clone. 
+GUEST0: What is a clone? 
+WORF: A being created in a laboratory by genetic material taken from
+another being. You are a copy. A fraud. 
+GUEST1: You are not just a copy. We gave you more than the body of
+Kahless. 
+GUEST2: We found a way to imprint specific information in your
+neurosynaptic patterns. We gave you memories, and not just any
+memories. We gave you the experiences of Kahless as written in the
+sacred texts. 
+GUEST0: So, I did not do any of the things that I remember. I was
+never at the city of Quin'lat. I never went to the Kri'stat volcano. 
+GUEST1: You were not awakened until we transported you into the cave
+and you appeared to Worf. Before that time you were unconscious in a
+laboratory where we accelerated your growth, corrected any genetic
+anomalies that occurred, gave you the wisdom and memories that 
+WORF: They grew you in a test tube like some kind of fungus and
+programmed you like a machine. 
+GUEST1: You are twisting the truth. 
+WORF: You talk to me of truth? You, who have brought to life this lie
+and called it Kahless? 
+GUEST1: It is not a lie. Genetically, he is Kahless, and he is needed
+by our people. You know better than anyone the corruption and dishonour
+that has destroyed the Empire. They need him. 
+WORF: They do not need a false god. 
+GUEST1: How do you know that this is not the way the prophesy was to be
+fulfilled? Who is to say that what we did was wrong? 
+WORF: I am. I will not let this fraud continue. 
+GUEST1: Worf! You cannot tell Gowron of this. 
+WORF: Do not give me orders, Koroth. 
+GUEST1: All right, but consider this. If you tell Gowron what we have
+told you, it will destroy him. (Kahless) And with him, the last chance
+to restore hope to our people. It's your choice. 

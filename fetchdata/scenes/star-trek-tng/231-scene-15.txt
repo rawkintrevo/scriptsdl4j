@@ -1,107 +1,38 @@
-RIKER LAFORGE WORF SHIPLEY MOT COMPUTER CRUSHER DATA RAGER
+PICARD GUEST1 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Riker's quarters]
+[Engineering]
 
-RIKER: Who is it? 
-LAFORGE [OC]: It's La Forge. 
-RIKER: Come in. LAFORGE: Good morning. 
-RIKER: Morning? I just went to bed. 
-LAFORGE: Commander, it's oh seven hundred hours.
-
-[Barber shop]
-
-MOT: She said, if they're not squirming, we won't
-eat 'em! 
-(Worf enters) 
-MOT: Ah, Mister Worf, my good Klingon. Sir, welcome. What a pleasure it
-is to have you with us again so soon. So, Lieutenant, haircut today?
-Trim your beard? 
-WORF: I would like my hair trimmed. 
-MOT: Ah. A trim, of course. 
-WORF: Not like last time. 
-MOT: Oh no, just a little off the top. I took way too much off last
-time. I was just telling my colleague, Mister Setti, how thick and
-luxuriant Klingon hair is. It's such a pleasure to cut. Sometimes I get
-carried away. All those away missions, the wind and dry air, the
-elements really are harsh on the hair. I'd like to suggest that you
-start using a conditioning agent. 
-(Worf sees the scissors and grabs Mot's arm) 
-MOT: I promise, not too much off the top. 
-(Worf leaves)
-
+PICARD: Mister La Forge, report. 
+LAFORGE: I still can't locate the homing signal. We've covered the
+entire upper subspace energy band. We're extending the scan to adjacent
+levels. 
+PICARD: Mister Data, your status? 
+DATA [OC]: The rupture has expanded another four point two percent. 
 [Cargo bay]
 
-(Geordi is up a ladder, looking inside a panel) 
-LAFORGE: Just before the grid alarm sounded, we were running warp power
-through this junction. Somehow, it must've tripped the internal
-scanners. 
-RIKER: And it showed up as an EPS explosion? 
-LAFORGE: Yes, but the question is, why? I've made modifications to the
-sensors before but nothing like this has ever happened. 
-(He comes down the ladder) 
-RIKER: We can't waste time chasing down sensor ghosts. We should
-probably keep the whole array offline until we can get take a closer
-look. 
-LAFORGE: (yawns) Excuse me. 
-RIKER: I know the feeling. The past few nights, it seems like as soon
-as my head hits the pillow, it's time to get up in the morning. 
-LAFORGE: I'm sure we could all use a little shore leave after this
-survey's completed. 
-RIKER: Definitely. Keep me posted? 
-LAFORGE: Yeah. Data, I'm wondering if you could give me a hand. I need
-to run a structural integrity scan. I want to make sure that none of
-the conduit was 
-(Geordi sways) 
-DATA: What is it? 
-LAFORGE: This is the second time today that my visor's just cut out
-like that. 
-DATA: Are you all right, Geordi? 
-LAFORGE: I don't know. I just had a very weird feeling. Maybe I should
-go to Sickbay. 
-DATA: I will run the integrity scan. 
-LAFORGE: Thanks, Data.
+DATA: Without further reinforcement, containment
+field integrity will fail in approximately fourteen minutes.
 
-[Sickbay]
+[Engineering]
 
-CRUSHER: This is curious. There's a slight
-bacterial infection around your neural inputs. It was probably
-interrupting the data stream. 
-LAFORGE: An infection? From what? 
-CRUSHER: It doesn't match any bacterial strains on record. I'm going to
-have to sterilise the area. But I need to run a resonance tissue scan
-to search for any signs of additional infection. Come over here. Sit
-down. Now, come forward. Now, you're going to need to hold very still.
+PICARD: Can you divert more power to the
+containment field? 
+LAFORGE: I can try to augment the field with auxiliary power, but it
+won't be much. 
+PICARD: Make it so. 
+LAFORGE: Aye, sir.
 
-[Cargo bay]
+[Alien lab]
 
-LAFORGE: How's the scan going, Data? 
-DATA: I have just started the scan. Did you not go to Sickbay? 
-LAFORGE: Data, I've been there for over an hour and a half. 
-DATA: That is not possible. My internal chronometer indicates you have
-been gone for exactly one minute, fifteen seconds. 
-LAFORGE: I'm telling you, Data, I've been gone for over an hour. 
-DATA: Computer, what is the time, please? 
-COMPUTER: The time is fourteen twenty seven hours. 
-DATA: You are correct. Ninety two minutes, seventeen seconds have
-passed since you left the room. 
-LAFORGE: What have you been doing all this time? 
-DATA: I have no memory of events during that period. When we are
-finished here, I will perform a self-diagnostic. 
-LAFORGE: You know, first we picked up a false EPS explosion, then my
-visor cuts out twice, and now you lose an hour, all in the Cargo Bay.
-La Forge to Engineering I want a diagnostic team to Cargo bay four
-immediately. 
-SHIPLEY [OC]: On our way, sir.
+(An alien returns to Riker and scans him then
+shuffles off again. The emitter starts beeping)
 
-[Bridge]
+[Engineering]
 
-RIKER: Ensign Rager, cartography needs a better
-position to study cluster FGC thirteen. Bring us about, heading one
-twenty three mark four. 
-RAGER: Aye sir. Helm won't lock to those coordinates, sir. 
-RIKER: First time navigating through a globular cluster, Ensign? You
-have got to compensate for gravimetric interference before 
-(Riker sits at helm and stares at the edge of the console) 
-RAGER: Is there something wrong, sir? 
-RIKER: No. I don't know. Put us back on our original heading, Ensign.
-
+LAFORGE: Captain, I've located the homing signal.
+Locking onto it now. It's coming from a subspace energy level of
+sixteen point two keV. 
+PICARD: Stand by to initiate the graviton pulse. 
+GUEST1: Graviton emitters at full power, sir. Standing by. 
+PICARD: Mister Data, how much time? 

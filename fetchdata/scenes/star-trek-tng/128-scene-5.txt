@@ -1,106 +1,38 @@
-RIKER LAFORGE WORF PICARD PULASKI WESLEY DATA
+PICARD RIKER OBRIEN WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Transporter room]
 
-PICARD [OC]: Lieutenant La Forge, I'd like you to
-monitor our velocity closely. LAFORGE: Is everything all right up
-there, Captain? 
-PICARD [OC]: Are the engines operating normally? 
-LAFORGE: Yes, sir. Everything looks fine down here. 
-PICARD [OC]: We're increasing to warp two. 
-LAFORGE: Aye, sir. 
+RIKER: Have you got a lock on that other ship? 
+O'BRIEN: Aye, sir. No problems at all. 
+RIKER: Can you put us on the bridge? 
+O'BRIEN: Anywhere you say, Commander. 
+WORF: I am acquainted with the Yamato, Commander. Recommend the aft
+station of their bridge. When in doubt, surprise them. 
+RIKER: Them? Who's them? 
+WORF: Whoever may be there. 
+RIKER: Our sensors indicate no life forms. 
+WORF: Still, the tactic is sound. 
+RIKER: Agreed. Aft station, Lieutenant. 
+O'BRIEN: Aye, sir. 
+RIKER: Phasers on stun. Energise.
+
+[USS Yamato corridor]
+
+(Riker materialises alone) 
+RIKER: This isn't the Bridge. Worf? 
+(There's a peculiar noise, almost a scream, as Riker walks along. Then
+the sound of Worf, and he runs)
+RIKER: Halt! Don't fire. 
+WORF: I heard you screaming. I was coming to help. 
+RIKER: You heard me? I heard you. Transporter Chief, where do you show
+us over here? 
+O'BRIEN [OC]: (unintelligible) We show as approximately 
+RIKER: Captain, do you read me?
+
 [Bridge]
 
-PICARD: We should be seeing stars by now. Data, how
-far have we come? 
-DATA: Inertial guidance shows one point four parsecs travelled,
-Captain. 
-PICARD: Ensign? 
-WESLEY: Confirmed, sir. Exactly what my readings say. 
-(Geordi enters) 
-LAFORGE: Engineering, transfer to Bridge. What's happening, sir? we
-should be clear. 
-RIKER: We should be. We're on a reverse course. 
-PICARD: Full stop, helm. 
-WESLEY: Full stop, sir. 
-PICARD: According to this we're already well past the point at which we
-entered the void. 
-DATA: Except that we are still in it, sir. Captain, if we dropped a
-stationary beacon and travelled straight away from it, we would have a
-fixed point of reference to confirm speed and distance. 
-PICARD: Make it so, Data. Lock onto the beacon. Keep it dead astern. 
-DATA: The beacon is in place, Captain. 
-(a regular sound like the bell of a buoy is heard) 
-PICARD: Dead ahead. Impulse power. 
-DATA: The beacon is falling astern, Captain. 
-PICARD: Engineering, report. 
-LAFORGE: All systems functioning normally, sir. 
-PICARD: Prepare to increase to warp two. 
-(the bell gets further away) 
-WESLEY: Aye, sir. 
-DATA: Captain, we are receiving a signal from dead ahead. 
-(and the bell returns, getting louder) 
-PULASKI: Maybe you've found the door out of this. 
-DATA: Closing on the new signal, sir. 
-PICARD: Identify. 
-DATA: Captain, it is the stationary beacon we just released. 
-RIKER: We must have come full circle, sir. 
-WESLEY: We couldn't have, sir. I've shown us steadily moving away from
-that beacon. 
-PICARD: Full stop. Hold this position again. 
-WORF: Captain, sensors indicate a disturbance in sector one zero eight.
-Possibly a vessel. 
-PICARD: Perhaps some answers at last. On screen. 
-WORF: The ship is equipped with a cloaking device. 
-RIKER: Romulan! 
-WORF: It's closing. 
-RIKER: Shields up. Go to Red Alert! 
-PULASKI: I'll be at my duty station. 
-WORF: Main viewer locked onto coordinates. 
-RIKER: Arm the photon torpedoes, Mister Worf. 
-PICARD: Hold for my orders. 
-WESLEY: There! 
-WORF: It's uncloaking. 
-(A Romulan warbird shimmers into view and fires. The Enterprise
-shudders) 
-WORF: Direct hit, sir. Our shields are weakening. 
-PICARD: Warn them we'll return fire. 
-WORF: Transmitting. They've armed another full spread, sir. 
-PICARD: Fire torpedoes. 
-(A single torpedo blows the warbird to atoms) 
-PICARD: Oh, that was too easy. 
-DATA: Captain, sensors can locate no debris from the Romulan ship. 
-RIKER: Impossible. 
-WORF: Captain, there's another vessel approaching in sector zero nine
-one, mark two six. 
-PICARD: On screen. Magnify. 
-RIKER: It's a Federation ship. NCC one three zero five dash E. It's the
-Yamato, our sister ship. 
-WESLEY: The Yamato's nowhere near this quadrant. 
-PICARD: Open a hailing frequency, Data. 
-DATA: USS Enterprise to USS Yamato. Respond, please. USS Enterprise
-calling USS Yamato. Respond, please, on this frequency. No response,
-Captain. 
-PICARD: Make a full scan. 
-DATA: Life support system, engineering and propulsion all appear
-functional. But there are no life signs, sir. 
-PICARD: Data, can we be getting a false reading? 
-DATA: Since we know nothing of these circumstances, it is at least
-conceivable, sir. 
-RIKER: You look doubtful, sir. 
-PICARD: I'm not anything now, Number One. I'm just a man who's looking
-for answers. 
-LAFORGE: Like the rat said, 'Keep the cheese, I just want out of the
-trap.' 
-RIKER: Captain, request permission to board on the Yamato with an away
-team. Perhaps something we can find on board in the logs will help us
-figure out what happened. 
-PICARD: Granted. Minimum complement. 
-RIKER: Worf, you're with me.
-
-Captain's log, supplemental. We remain like a fly
-in amber, trapped in the void. We have encountered a vessel which
-appears to be the USS Yamato. All its systems are shown as functioning,
-yet it seems devoid of life. Commander Riker is leading an away team.
-Hopefully, the answer lies over there.
-
+RIKER [OC]: (static) We're having difficulties with
+our communications. 
+PICARD: Number One, come in. Transporter Room, this is the Captain. We
+are out of contact with the away team. Beam them back immediately. 

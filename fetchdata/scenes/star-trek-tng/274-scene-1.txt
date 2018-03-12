@@ -1,32 +1,36 @@
-HELM PICARD RIKER
+PICARD RIKER BOK DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+  [Bridge]
 
-PICARD: Come. 
-RIKER: The Ferengi Government is debating an amendment to the Rules of
-Acquisition. It could be a while before we hear from them. Data found
-out that the woman you mentioned has a son named Jason. This is the
-most recent picture we could find. 
-PICARD: How old is the boy now? 
-RIKER: Twenty three. He and his mother left Earth twelve years ago.
-They settled on Camor Five. That's all we know. The planet's records
-are virtually non-existent. 
-PICARD: Picard to Bridge. Set a course for the Camor system, warp five.
-
-HELM [OC]: Aye, sir. 
-PICARD: Will, I do appreciate your not asking, but I do think that you
-have a right to know. There is a possibility that the boy is my son. I
-was involved with his mother for a short time about twenty four years
-ago. We met through a friend when I was on shore leave on Earth. It was
-all very romantic, very intense, probably because we both knew I would
-be leaving in two weeks. And we kept in touch for a while, but we never
-managed to get together again. 
-RIKER: She never said anything to you about being pregnant? 
-PICARD: No, so either Bok is wrong and I'm not the father, or Miranda
-decided to raise the child alone, which quite frankly wouldn't surprise
-me. She was very independent, very strong willed. 
-RIKER: She would have to be to get by on Camor Five. 
-PICARD: But whether he's my son or not, he's in danger. Bok tried to
-kill me six years ago, and I don't doubt he will try to make good his
-threat against the boy.
+PICARD: Report. 
+RIKER: There's an object of some kind closing in on our position. 
+PICARD: On screen. 
+DATA: It appears to be an unmanned probe approximately one half metre
+in diameter. There are no identifiable armaments. 
+WORF: Captain, we are being, You are being hailed, by name. 
+PICARD: Open a channel. This is Captain Jean-Luc Picard 
+WORF: Captain, I am reading a power surge. 
+RIKER: Shields up. 
+DATA: The beam appears to contain holographic imaging information. 
+RIKER: It's trying to project something. 
+PICARD: Isolate the bandwidth. Let the signal through the shields. 
+(the image of a Ferengi appears) 
+PICARD: Bok! 
+BOK: I trust you remember me, Picard, because I haven't forgotten you
+or how you murdered my son. For fifteen years now I've thought about
+how to avenge his death but nothing I could do to you could equal what
+you did to me, until now. You thought you could hide him from me,
+didn't you? But I found out about him. Jason Vigo is as good as dead.
+I'm going to kill your son, Picard, just like you killed mine. 
+(hologram ends) 
+PICARD: Mister Worf, put a tractor beam on that probe. Determine if
+it's safe to beam it aboard. I want to know where it came from. Mister
+Data, see if there is any mention of a Jason Vigo in Federation
+records. You might start with Miranda Vigo. She was born on New Gaul
+about fifty years ago. 
+DATA: Aye, sir. 
+PICARD: Number One, contact the Ferengi Government. Find out all you
+can about Bok. He was wearing a DaiMon's uniform. If he's regained his
+rank, I want to know why.
 

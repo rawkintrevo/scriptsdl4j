@@ -1,42 +1,43 @@
-TROI RUSSELL WORF PICARD CRUSHER ALEXANDER
-
-[Bridge]
-
-PICARD: We've located the survivors from the
-Denver. 
-[Sickbay]
-
-CRUSHER: We're ready down here. We have triage
-teams standing by. 
-[Bridge]
-
-PICARD: Very well. We'll begin transporting the
-survivors on board immediately. Bridge out.
+TROI CRUSHER OGAWA RUSSELL ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
-RUSSELL: Beverly, could you use an extra pair of
-hands? 
-CRUSHER: Absolutely.
+(Crusher enters) 
+TROI: No. 
+CRUSHER: Alexander, I am so sorry. 
+ALEXANDER: I want to see him. 
+TROI: Alex. 
+ALEXANDER: No! I want to see him.
 
-[Worf's private room]
+[Operating theatre]
 
-(Troi brings Worf a little visitor) 
-ALEXANDER: Father? 
-(Worf is wearing the motor assistance bands, and standing up) 
-WORF: Come in, Alexander. 
-ALEXANDER: Deanna said you hurt your back, that you couldn't walk. 
-WORF: I am still struggling with my injury. 
-ALEXANDER: I was worried about you. 
-WORF: There is much to discuss. There will be difficult times ahead.
-You must be strong. 
-ALEXANDER: I understand. 
-WORF: Good. As Klingons, we must always be prepared for any 
-(a leg gives way and he falls to the floor) 
-ALEXANDER: Father! 
-WORF: Take him away. 
-TROI: Worf, let me help you. 
-WORF: Leave! 
-TROI: Alexander, go on. It'll be all right. I'll take care of your
-father.
+(Worf has been turned over onto his back. Alexander
+starts to cry, then Beverly notices something) 
+CRUSHER: Activate biomonitors. Twenty five cc's polyadrenaline. 
+RUSSELL: What's going on? 
+CRUSHER: I'm not sure, but if I'm right, one of those unnecessary
+redundancies 
+OGAWA: Doctor! 
+CRUSHER: I don't believe it. Begin cardio-aid and ventilation. That's
+amazing. There must be a back-up for his synaptic functions as well. 
+OGAWA: Vital signs are stabilising. 
+CRUSHER: Begin rybo-synetic therapy. Increase oxygen mixture to ninety
+percent. Let's prepare a thalamic booster series.
+
+[Crusher's office]
+
+RUSSELL: Well, I'd say your patient's recovery is
+going well. You're not even going to acknowledge what I did for him,
+are you. You just can't admit that it was my research that made this
+possible. 
+CRUSHER: I am delighted that Worf is going to recover. You gambled, he
+won. Not all of your patients are so lucky. You scare me, Doctor. You
+risk your patient's lives and justify it in the name of research.
+Genuine research takes time. Sometimes a lifetime of painstaking,
+detailed work in order to get any results. Not for you. You take short
+cuts, right through living tissue. You put your research ahead of your
+patient's lives, and as far as I'm concerned that's a violation of our
+most sacred trust. I'm sure your work will be hailed as a stunning
+breakthrough. Enjoy your laurels, Doctor. I'm not sure I could.
 

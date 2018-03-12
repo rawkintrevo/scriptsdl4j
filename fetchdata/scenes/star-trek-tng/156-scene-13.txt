@@ -1,76 +1,39 @@
-GOSS TROI MENDOZA PICARD RAL RIKER ARRIDOR CRUSHER
+DATA LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Guest quarters]
+[Shuttlepod]
 
-ARRIDOR: Just a moment of discomfort for a good
-cause, DaiMon. You understand this will not be lethal. 
-GOSS: Doctor, you surprise me. I have no wish to kill anyone. A short
-term crippling will suffice. 
-ARRIDOR: Then, this will be just fine. 
-(He pours a liquid onto Goss' palm) 
-ARRIDOR: A distillation of your own
-blood pyrocytes. Harmless to you. Undetectable by the ship's
-bio-filters, but when absorbed through your victim's skin, it will
-provoke an extreme allergic reaction. 
-GOSS: I'd say it is time to extend the hand of the Ferengi to the
-representative of the Federation.
+LAFORGE: Your readings must be telling you the same
+things we're getting. This is not the Gamma Quadrant. 
+[Ferengi pod]
 
-[Troi's quarters]
+GUEST2: I will not confirm your speculations. 
+[Shuttlepod]
 
-(Troi opens the door to Ral, wearing an off the
-shoulder blue dress) 
-RAL: Much better. 
-TROI: Thank you. Come in for a drink? 
-RAL: Ah, Federation decor. 
-TROI: Not your style? 
-RAL: Well, conformity is not my style. 
-TROI: What would you like? 
-(He takes a kiss) 
-RAL: I'd even like another. There she is again, Counsellor Troi. 
-TROI: I'm not. Computer, champagne. 
-RAL: For two. Am I moving too fast for you? 
-TROI: No, I'm moving too fast for me.
+DATA: This is not a speculation, Doctor. We are not
+where the Barzans said we should be, which would indicate 
+[Ferengi pod]
 
-RAL: I like that better. 
-TROI: I haven't been able to stop thinking about you all day. 
-(They kiss again) 
-RAL: You must have had a nice day. 
-TROI: Anticipation is fun. (another kiss) We'll be late for dinner. 
-RAL: Very late. 
-(as he picks her up and carries her -)
+DATA [OC]: This side of the wormhole is not stable.
 
-[Sickbay]
+[Shuttlepod]
 
-(Mendoza staggers in) 
-CRUSHER: Mister Mendoza. 
-MENDOZA: I seem to be a bit warm. 
-(he collapses) 
-CRUSHER: I need some help here 
-[Ready room]
+LAFORGE: There are meson and lepton fluctuations.
+Local gravitational fields are increasing exponentially. Everything
+says we'd better get the hell out of here. 
+[Ferengi pod]
 
-GOSS: You attempt to gain every unfair advantage,
-Picard. 
-PICARD: Premier Bhavani has no objection. 
-GOSS: Well, I most certainly do. First, you conveniently arrange to
-play host, then you plan to send your own manned probe into the
-wormhole. The Federation thinks it can do anything it wants to. Well, I
-will not tolerate it! 
-PICARD: I will gladly share the results of our exploration with all the
-delegates. 
-GOSS: And you expect us to believe what you report? 
-RIKER: Then send in your own probe, Goss. 
-GOSS: That's exactly what I intend to do. And I should strongly suggest
-you stay out of our way. 
-(The Ferengi's leave) 
-PICARD: Tell Data and La Forge to do themselves a favour, and stay out
-of their way. 
-(Riker leaves) 
-CRUSHER [OC]: Captain Picard, please come to Sickbay. 
-PICARD: Acknowledged, Doctor.
+GUEST2: It will be visible again in forty seconds.
+We will make our own judgments then. 
+[Shuttlepod]
 
-[Sickbay]
-
-CRUSHER: Whatever he's got is obviously not life
-threatening. It's some kind of system-wide histaminic reaction. He
-certainly can't go back to negotiations for several days. 
-PICARD: Will you keep me informed? 
+LAFORGE: I can see it now and I'm telling you that
+you don't have time to wait. Not even forty seconds. 
+GUEST2 [OC]: Ferengi pod out. 
+LAFORGE: Damn it, Arridor, we're seventy thousand light years away from
+our ships. Come on, now. Follow us in. We'll lead you. 
+(no reply) 
+LAFORGE: Idiots. It's getting worse. I'm taking us in, Data. With or
+without them. 
+DATA: Thrusters at half power. Three quarters. 
+LAFORGE: Entering outer event horizon. 

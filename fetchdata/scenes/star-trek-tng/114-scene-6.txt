@@ -1,79 +1,55 @@
-RIKER LAFORGE TASHA ARGYLE CRUSHER DATA
+RIKER LAFORGE WORF PICARD WESLEY LORE DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Underground Complex]
+[Ready Room]
 
-(Riker turns the lights on) 
-TASHA: No life readings in here either, sir. 
-(They walk on until they come to a circular door, which opens for them)
+PICARD: I'm also a bit troubled by it describing
+you as imperfect.
+DATA: Human language gives me difficulty too, sir. Imperfect could mean
+I lack certain abilities he possesses.
+PICARD: I wonder. But the point of this is, whether you and it have
+approximately the same capabilities.
+DATA: We do, sir, and your referring to him as an it suggests that I,
+too, fit into the category of a thing.
+PICARD: I see your point. My apologies.
+DATA: Gladly accepted, sir. As for Lore's abilities, his use of syntax
+and grammar suggests he was given human memories similar to my own.
+PICARD: And you have about equal physical strength and mental abilities?
+DATA: I believe so, sir.
+PICARD: Which requires I now ask you a very serious question. Since the
+two of you are closely related to each other.
+DATA: The answer, sir, is that my loyalty is to you and Starfleet.
+Completely.
+PICARD: Thank you, Commander. I was certain of that.
 
-[Laboratory]
+[Bridge]
 
-(The lights come on. The apparatus is still
-functioning. Lasers and indicators are flashing and blinking) 
-RIKER: The colony laboratory. Extremely well equipped. Does this stir
-any memories, Data?
-DATA: Only a vague impression of some of my functions being tested here.
-(There are crude pictures on a notice board of a spiky object in the
-sky) 
-RIKER: Posted by proud parents? 
-DATA: It depicts something that feels familiar, sir. And dangerous. But
-I have no idea what it represents. And that is all. Except for an
-impression of this being a Doctor Soong's work area.
-RIKER: Who? You don't mean Doctor Noonien Soong?
-DATA: He was called that here, but his memories indicate he travelled
-here under a different name.
-LAFORGE: Doctor Noonien Soong, my friend, happens to have been Earth's
-foremost robotics scientist. 
-TASHA: Until he tried to make Asimov's dream of a positronic brain come
-true.
-RIKER: A positronic brain. He promised so much. And then when he failed
-completely, Doctor Soong disappeared. Now we know he went somewhere
-else to try a second time. Data, Geordi, we'll get a close look at this
-lab. You and Lieutenant Worf reconnoitre where these corridors lead.
-TASHA: Aye, sir. 
-(Tasha and Work leave) 
-(Riker presses a button and a cover slides back to reveal a transparent
-torso and face mask. Data puts the mask over his own face)
-LAFORGE: Data, it's you.
-RIKER: An epidermal mold. Made to give your exterior the desired finish.
-TASHA [OC]: Lieutenant Yar to Commander Riker.
-RIKER: Come in, Lieutenant.
-TASHA [OC]: Sir, this installation is big enough to hold hundreds of
-people. But all that's here now is empty beds.
-RIKER: Thank you, Lieutenant. Complete your record scans and report
-back here.
-LAFORGE: Commander Riker, looks like some sort of storage area.
-(Data opens the new door and dry ice pours out before revealing another
-android, in pieces) 
-RIKER: How many more Datas are there?
-LAFORGE: Looks like just these two. I mean, that and the real Data.
-DATA: Commander, can this be another me? Or possibly my brother?
-RIKER: I honestly don't know, Data.
-DATA: He needs assembling.
-RIKER: He? Data, we don't know that this can become alive.
-DATA: It is very important for me to know that, sir. I never dreamed it
-was possible I might find some link with some form like my own.
-RIKER: Understood. We'll take it back to the ship with us.
-
-Captain's log, Stardate 41242.45. Despite having
-only a few hours in which to explore Data's home planet we've
-discovered something which may explain Data's beginnings, if we can
-properly assemble and communicate with what we've found.
-
-[Laboratory]
-
-(A mass of people are working on putting the pieces
-together, while Data looks on) 
-CRUSHER: Signal from the Captain. They need you at the debriefing.
-DATA: I've been most anxious to hear the Chief Engineer's opinion,
-Mister Argyle. Do you believe he can be made to function?
-ARGYLE: It appears to include all the components in your body. Not that
-we fully understand your construction either.
-CRUSHER: We have our top specialists working on its construction,
-Mister Data.
-ARGYLE: Just one thing. Without disassembling you, of course, if we
-should need more
-CRUSHER: If we should need to compare this with the way you're put
-together? 
-(Data nods)
+(Lore is in a brown overall, getting an
+introduction to ship's operations) 
+LAFORGE: And helm control is here, with the ship's heading given in
+measurements we call degrees. Three hundred and sixty of them in a full
+circle this way.
+LORE: Then you say mark. 
+LAFORGE: On the nose.
+WESLEY: Which separates it from another full three hundred and sixty
+degree circle this way on a right angle to this one.
+LORE: So by ordering a heading so many degrees this way and so many
+this way, the ship can travel in any direction. All three dimensions. 
+RIKER: And the square of the hypotenuse of a right triangle
+LORE: Is equal to the sum of the square of the other two. Two
+something. Which I once heard, but never understood.
+DATA: All of which you will learn more about when the Captain has
+approved your being on the Bridge.
+LORE: Have I committed an offence?
+WESLEY: You will find that there are many rules on starships that must
+be learnt.
+LORE: You're very clever, Wesley. I now have duties to perform. Correct?
+WORF: Were you ever this anxious to please, Data?
+DATA: Never. I judge Lore to be superior in that desire.
+LORE: Because I was designed to be so human, my brother, I enjoy
+pleasing humans.
+LAFORGE: My brother. That has a nice sound to it, Data.
+DATA: You consider it important to please humans?
+LORE: It's not important?
+DATA: There are many things of importance. Some more than others.
 

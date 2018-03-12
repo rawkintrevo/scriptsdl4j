@@ -1,41 +1,57 @@
-PICARD VOVAL
-
-[Iyaaran Shuttlecraft]
-
-PICARD: So, I understand that your homeworld has
-some of the most spectacular crystal formations in this sector. Is
-there any place in particular that you would recommend I visit while
-I'm there? 
-VOVAL: No. 
-PICARD: Well, I, er, what's our ETA? 
-VOVAL: Seventeen hours, thirty two minutes. 
-PICARD: I think I'll go update my itinerary. 
-(a jolt, an alarm goes off ) 
-PICARD: What happened? 
-VOVAL: There's been a system-wide power failure. 
-PICARD: What's the cause? 
-VOVAL: We have entered an energy disruption field. I do not recognise
-the configuration. Attitude controls failing. 
-PICARD: There is an M-class planet in this system. Can we reach it? 
-VOVAL: I will try. 
-PICARD: Inertial dampeners are offline. Life support is failing. 
-VOVAL: Entering the planet's atmosphere. 
-PICARD: Velocity dropping. Thermal shields at full power. 
-VOVAL: Prepare for impact. 
-(they crash on a rocky planet with a penchant for horizontal lightning
-and are knocked out. Picard wakes first.) 
-PICARD: Voval. Voval, try not to move. You may have a concussion.
-Picard to Enterprise. Picard to Enterprise, do you read me? Too much
-interference. 
-(Picard gets a tricorder from his overnight bag) 
-PICARD: There is a structure of some kind. Some energy readings about
-two kilometres south of here. Voval, I'm going to try to find help. Do
-you understand? Now, try to stay conscious and don't leave the shuttle.
-There's some kind of plasma energy out on the surface. I'll be back as
-soon as I can.
+GUEST4 TROI LAFORGE WORF GUEST0 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Planet surface]
 
 (Picard heads out onto planet hell, gets hit by an
 energy strike and knocked out. A figure easily carries him away.)
 
+[Engineering]
+
+WORF: The Engineering sections encompass twelve
+decks of the secondary hull. Deck forty two contains the antimatter
+storage facility. 
+GUEST0: What is the mass flow rate of the antimatter replenishment
+stream to the containment pods? 
+WORF: Excuse me? 
+GUEST0: The antimatter replenishment rate. What is it? 
+WORF: I am not certain of the exact rate. 
+GUEST0: Perhaps there is someone here who does know the answer. You.
+Are you smarter than this one? 
+LAFORGE: Why do you ask? 
+GUEST0: Never mind. 
+GUEST0: I wish to see the Bussard collectors. Take me to them. 
+WORF: This way. 
+[Corridor]
+
+TROI: This deck is devoted mainly to stellar
+cartography, biological research, and astrophysics. We have over a
+thousand people on board 
+GUEST1: Are you sure you don't want some of this, this papalla juice? 
+TROI: No, thank you. I'm still recovering from all those desserts last
+night. 
+GUEST1: Are you sure? It is very delicious. 
+TROI: I'm sure. 
+GUEST1: Please, please. You've been so kind. Please. 
+(Troi takes the smallest possible sip) 
+TROI: Yum. Next we're going to go to deck eight, which is interesting
+because it's not really finished. It's sort of a multi-purpose deck.
+Sometimes when we need an extra lab or. Ambassador? 
+(Troi discovers Loquel is not with her, and goes back to find him
+examining a young boy) 
+GUEST1: What is this? 
+TROI: It's a child. 
+GUEST1: Child? 
+TROI: Children are our offspring. They're our young. They grow into
+adults over a period of many years. They grow into beings like us. 
+GUEST1: Offspring. 
+TROI: Ambassador, I'm curious. Now does your species procreate? 
+GUEST1: Post-cellular compounding. We emerge from the natal pod fully
+grown. 
+TROI: I see. 
+GUEST1: Do you have a name? 
+GUEST4: Eric 
+GUEST1: Eric. Do you like dessert? 
+(Eric nods, so Loquel addresses his mother) 
+GUEST1: May I give Eric some dessert? 
+TROI: That sounds like a wonderful idea. Come on, Eric. 

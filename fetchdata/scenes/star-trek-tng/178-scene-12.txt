@@ -1,36 +1,74 @@
-SERGEY WESLEY CRUSHER WORF HELENA
+PICARD GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Chez Picard]
 
-WESLEY: I don't understand, Mom. What kind of
-message? 
-CRUSHER: I don't know exactly. Your father made it a few weeks after
-you were born. 
-WESLEY: Why? 
-CRUSHER: He felt it was important to say certain things. And to make
-sure that he didn't forget to tell you later. 
-WESLEY: Do you know what it says? 
-CRUSHER: No. But he wanted you to have this when you turned eighteen.
-And I want you to have it, too.
+(Picard is making inroads into a bottle of the
+family produce when Robert comes in with flowers for the house) 
+GUEST0: Careful. You're not used to drinking the real thing. This
+synthehol never leaves you out of control, is that so? 
+PICARD: That's so. 
+GUEST0: This will. (pours himself the last dregs) Now there is
+something I'd like to see. 
+PICARD: What's that? 
+GUEST0: The gallant Captain out of control. Mind if I ask you a
+question? What the devil happened to you up there? 
+PICARD: Is this brotherly concern? 
+GUEST0: No. Curiosity. What did they do to you? 
+PICARD: You know what happened. 
+GUEST0: Not precisely. I gather you were hurt. Humiliated. I always
+thought you needed a little humiliation. Or was it humility? Either
+would do. (Jean-Luc storms out of the house) 
+[Garden]
 
-[Worf's quarters]
-
-WORF: Enter. 
-SERGEY: Are we disturbing you? 
-WORF: No. No. I thought you were going to your quarters to sleep. 
-HELENA: We just came by to tuck you in. 
-WORF: Please. When I heard you were on the visitors' list, I was not
-sure I wanted you to come. I am glad you are here. 
-HELENA: We had to come. 
-SERGEY: Our boy was in trouble. After we read your letter about the
-discommendation from the Klingons. 
-HELENA: We don't exactly understand it all. 
-SERGEY: We don't have to. We know what kind of man you are. 
-HELENA: Whatever you did, we know it was for a good reason. 
-WORF: I must bear my dishonour alone. 
-SERGEY: That is not true. 
-HELENA: I'm sorry if this is too human of us but, whenever you are
-suffering, you must remember we are with you. 
-SERGEY: And that we're proud of you, and that we love you. 
-HELENA: You're our son.
+GUEST0: Why do you walk away? That isn't your
+style. 
+PICARD: I'm tired of fighting with you, Robert. 
+GUEST0: Tired? 
+PICARD: That's right. 
+GUEST0: Yes. Tired of the Enterprise too? The great Captain Picard of
+Starfleet falls to Earth, ready to plunge into the water with Louis.
+That isn't the brother that I remember. Still, I suppose it must have
+seemed like the ideal situation, hmm? Local boy makes good. Returns
+home after twenty years to a hero's welcome. 
+PICARD: I'm not a hero. 
+GUEST0: Of course you are. Admit it. You'd never settle for less than
+that and you never will. 
+PICARD: That's not true. 
+GUEST0: Cancel the parade? In your favour? 
+PICARD: No! I never sought that rubbish. 
+GUEST0: Never sought? Never sought president of the school,
+valedictorian, athletic hero with your arms raised in victory? 
+PICARD: Valedictorian? Arms raised in victory? Were you so jealous? 
+GUEST0: Yes, damn it. I was always so jealous, I had a right to be. 
+PICARD: Right? 
+GUEST0: I was always your brother, watching you receive the cheers,
+watching you break every rule our father made and get away with it. 
+PICARD: Why didn't you break a few rules? 
+GUEST0: Because I was the elder brother, the responsible one. It was my
+job to look after you. 
+PICARD: Look after me? You? You were a bully. 
+GUEST0: Sometimes. Maybe. Sometimes I even enjoyed bullying you. 
+PICARD: All right. Try it now. 
+GUEST0: Did you come back, Jean-Luc? Did you come back because you
+wanted me to look after you again? 
+PICARD: Damn you! 
+(And he punches his brother, sending him flying over some barrels into
+the vineyard proper. There they fight in the muddy irrigation ditches,
+through the vines until they finally fall back laughing)
+PICARD: You were asking for it, you know. 
+GUEST0: Yes, but you needed it. You have been terribly hard on
+yourself. 
+PICARD: You don't know, Robert. You don't know. They took everything I
+was. They used me to kill and to destroy, and I couldn't stop them. I
+should have been able to stop them! I tried. I tried so hard, but I
+wasn't strong enough. I wasn't good enough. I should have been able to
+stop them. I should! I should! 
+GUEST0: So, my brother is a human being after all. This is going to be
+with you a long time, Jean-Luc. A long time. You have to learn to live
+with it. You have a simple choice now. Live with it below the sea with
+Louis, or above the clouds with the Enterprise. 
+PICARD: You know, I think you were right after all. I think I did come
+back so that you could help me. 
+GUEST0: You know what? I still don't like you, Jean-Luc.
 

@@ -1,77 +1,43 @@
-Q PICARD CRUSHER DATA LAFORGE
+RIKER OBRIEN LAFORGE TASHA PICARD GUEST5 HELM DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Future - USS Pasteur Ready room]
-
-PICARD: Beverly, I cannot believe that you are not
-willing to stay here until we 
-CRUSHER: Don't you ever question my orders on the Bridge of my ship
-again! 
-PICARD: Damn it, I was just trying to. Look, there are larger concerns
-here. What you don't understand is that 
-CRUSHER: I understand that you would never have tolerated that kind of
-behaviour back on the Enterprise and I won't here. I don't care if
-you're my ex-Captain or my ex-husband. 
-PICARD: You're right. I was out of line. It won't happen again. But
-what you have to understand is what is at stake here. Q has said that
-all of humanity will be destroyed. 
-CRUSHER: I know. That's why I've allowed us to stay here longer and
-keep looking. But I also want you to allow for the possibility that
-none of what you're saying is real. 
-PICARD: What? 
-CRUSHER: Jean-Luc, I care for you too much not to tell you the truth.
-You have advanced Irumodic Syndrome. It's
-possible that all of this is in your mind. I'll stay here six hours
-longer and then we're heading home. I want you to remember, if it were
-anyone but you, we wouldn't even be here. 
-(Crusher leaves, Q appears as a ancient man with an ear trumpet) 
-Q: Eh? What was that she said, sonny? I couldn't quite hear her. 
-PICARD: Q? What is going on here? Where is the anomaly? 
-Q: Where's your mommy? Well, I don't know. 
-PICARD: Answer me. 
-Q: There is an answer, Jean-Luc, but I can't hand it to you. Although
-you do have help. 
-PICARD: What help? 
-Q: You're not alone, you know. What you were and what you are to become
-will always with you. 
-PICARD: My time shifting. The answer does lie there, doesn't it. Now,
-tell me one thing. This anomaly we're looking for, will that destroy
-humanity? 
-Q: You're forgetting, Jean-Luc. You destroy humanity. 
-PICARD: By doing what? When? How can 
 [Bridge]
 
-PICARD: Report, Mister Data. 
-DATA: The anomaly is two hundred million kilometres in diameter. It is
-a highly focused temporal energy source which is emitting approximately
-the same energy output as ten G type stars. 
-PICARD: What is the source of this energy? 
-DATA: I am uncertain, sir. Sensors are unable to penetrate the anomaly.
+DATA: Captain, I have an idea. If we take the ship
+to the centre of the anomaly and create a static warp shell 
+PICARD: A static warp shell. It could repair the barrier and collapse
+the anomaly. 
+DATA: Yes, sir. 
+PICARD: Mister Data, you're a clever man in any time period. Helm, lay
+in a course for the centre of the anomaly and prepare to initiate a
+static warp shell. 
+HELM: Aye, sir. 
+[Future - Bridge]
 
-PICARD: What if we modified the main deflector to emit an inverse
-tachyon pulse. That might be able to scan beyond the subspace barrier.
-That might give us some idea of what the interior of this thing looks
-like. 
-DATA: That is a most intriguing idea, sir. I do not believe a tachyon
-beam was ever used in such a way. I had no idea you were so versed in
-the intricacies of temporal theory, sir. 
-PICARD: I have some friends who are quite well versed in it. Make it
-so. 
-DATA: I believe we can make the necessary modifications in main
-Engineering, sir.
+PICARD: The other two Enterprises, they're on their
+way. 
+RIKER: Very well. Ensign, take us in. 
 
-[Engineering]
+[Past - Bridge]
 
-LAFORGE: We can get more power if we reroute the
-primary EPS taps to the deflector array. 
-DATA: Agreed. Initiating tachyon pulse. 
-LAFORGE: Okay. the pulse is holding steady. We're starting to receive
-data from the scan. 
-DATA: It will take the computer some time to give us a complete picture
-of the anomaly's interior. I suggest we 
-(La Forge holds his head in pain) 
-DATA: Geordi? What is wrong? 
-LAFORGE: I don't know. It's like somebody's sticking an ice pick in my
-temples. My visor's picking up all kinds of electromagnetic
-fluctuations. 
-DATA: Data to Sickbay. Medical emergency in main Engineering.
+O'BRIEN: We're entering the anomaly, sir. 
+PICARD: All hands, brace for impact! 
+TASHA: The temporal energy's interfering with main power. Switching to 
+[Bridge]
+
+LAFORGE: Auxiliary power. I'm having trouble
+keeping the impulse engines online. I've got power fluctuations all
+across the board. 
+PICARD: Maintain course and speed. Mister Data, how long until we reach
+the centre? 
+DATA: At least thirty seconds, sir.
+
+[Future - Bridge]
+
+GUEST5: We've entered the anomaly.
+
+[Past - Bridge]
+
+DATA: We have reached the centre, sir. 
+PICARD: Initiate warp shell!
 

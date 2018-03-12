@@ -1,51 +1,48 @@
-TROI WORF PICARD RIKER BROOKS DATA ALLENBY
+TROI LAFORGE WORF PICARD RIKER DATA CRUSHER ALLENBY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Engineering]
+
+LAFORGE: Checking. Looks like the field collapsed
+before we could enter warp.
+
+[Bridge]
+
+LAFORGE [OC]: Recommend full stop while I check it
+out. 
+PICARD: Back to full stop, Ensign. 
+ALLENBY: Aye, sir. 
+DATA: All decks reporting minor injuries only. 
+PICARD: Damage? 
+DATA: None, sir. 
+WORF: Weapons and shields normal. 
+RIKER: Go to yellow alert. 
+ALLENBY: Captain, we've started moving again. Something is pulling us. 
 [Troi's office]
 
-(at the door) 
-BROOKS: I promise I'll come by to see you tomorrow. Deanna, are you
-alright? 
-TROI: What? What? 
-BROOKS: You faded out there for a second. 
-TROI: Oh. No, no, I'm fine. I'm just very tired, that's all. Will I see
-you tomorrow? 
-BROOKS: Tomorrow. Thank you, Deanna. 
-(Troi staggers back into her office proper with a vicious headache)
+(Deanna has woken, but is still in pain) 
+TROI: Troi to Doctor Crusher. 
+[Sickbay]
+
+CRUSHER: Yes, Deanna? 
+TROI [OC]: Beverly 
+[Troi's office]
+
+TROI: I'm feeling very dizzy. 
+CRUSHER [OC]: Did you hit your head? 
+TROI: I'm not sure. I'm not sure what happened. 
+[Sickbay]
+
+CRUSHER: Lie down, breathe deeply and stay calm.
+I'm getting calls from all over the ship. I'll be there as quickly as I
+can.
 
 [Bridge]
 
-DATA: An aggregate field of plane-polarised objects
-has just appeared. And disappeared. 
-RIKER: Recommend we run a diagnostic on the forward sensor array. We
-don't want a ghost tailing us all the way to T'lli Beta. 
-WORF: I'm not convinced it is a ghost. There may be something there,
-Commander. 
-PICARD: Ensign Allenby, full stop. 
-ALLENBY: Aye, sir. 
-PICARD: Let's investigate both possibilities. 
-(meanwhile, a suffering Troi finally passes out)
-
-Captain's log, stardate 44356.9. Sensor diagnostics
-have been completed and indicate that all systems are normal. There
-remains no explanation for the images which appeared in our path.
-
-[Bridge]
-
-DATA: I have completed another full scan of the
-area, sir. There is no further indication of the anomaly. 
-PICARD: Ensign, prepare to resume course to T'lli Beta. Mister Data,
-what velocity would put us back on schedule? 
-DATA: A resumption of our present course at warp six will place us in
-the T'lli Beta system in six days, thirteen hours, forty seven minutes.
-
-RIKER: What, no seconds? 
-DATA: I have discovered, sir, a certain level of impatience when I
-calculate a lengthy time interval to the nearest second. However, if
-you wish 
-RIKER: No, no. Minutes is fine. 
-PICARD: Stand ready at warp six, Ensign. 
-ALLENBY: Aye, sir. 
-PICARD: Engage. 
-(there's a jolt, and red alert comes on) 
-RIKER: Riker to Engineering. Geordi, what the hell happened?
+ALLENBY: New heading confirmed. Zero two five mark
+two seven three. Speed is holding at one tenth impulse. 
+RIKER: Whatever's pulling us sure isn't in a hurry. 
+PICARD: Picard to La Forge. 
+LAFORGE [OC]: Go ahead, Captain. 
+PICARD: If your engines are functioning we'll attempt to break free.
 

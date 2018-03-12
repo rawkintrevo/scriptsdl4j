@@ -1,46 +1,49 @@
-PICARD GUINAN DATA LAFORGE
+PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Engineering]
 
-LAFORGE: So, do you want to talk about it? 
-DATA: Are you referring to the foreknowledge of my death? 
-LAFORGE: Yeah. 
-DATA: I have no particular desire to discuss the matter. Do you need to
-talk about it? 
-LAFORGE: Yeah. 
-DATA: Why? 
-LAFORGE: Data, this has got to bother you a little. 
-DATA: On the contrary. I find it rather comforting. 
-LAFORGE: Comforting? 
-DATA: I have often wondered about my own mortality as I have seen
-others around me age. Until now it has been theoretically possible that
-I would live an unlimited period of time. And although some might find
-this attractive, to me it only reinforces the fact that I am
-artificial. 
-LAFORGE: I never knew how tough this must be for you. 
-DATA: Tough? As in difficult? 
-LAFORGE: Knowing that you would outlive all your friends. 
-DATA: I expected to make new friends. 
-LAFORGE: True. 
-DATA: And then to outlive them as well. 
-LAFORGE: Now that you know that you might not? 
-DATA: It provides a sense of completion to my future. In a way, I am
-not that different from anyone else. I can now look forward to death. 
-LAFORGE: I never thought of it that way. 
-DATA: One might also conclude that it brings me one step closer to
-being human. I am mortal. 
-PICARD [OC]: Picard to Bridge officers. We're approaching the Devidia
-system. Report to your stations. 
-LAFORGE: I'll see you later. Let's get together for a game of chess or
-something, okay? 
-(Data leaves) 
-GUINAN: That sounded like a very intense discussion. 
-LAFORGE: Yeah. They found Data's head a mile beneath San Francisco.
-Been down there about five centuries. 
-GUINAN: That's why the Enterprise has been sent back to Earth. I didn't
-realise. 
-LAFORGE: It's something, isn't it? He seems fine about it. Better than
-I am. Well, I'd better get to Engineering. 
-(Geordi leaves) 
-GUINAN: Full circle.
+DATA: Interesting. There is a twelve percent
+decomposition of the bitanium in the neural pathway links. That
+suggests the alloys are vulnerable to 
+RIKER: Data, how can you look inside that, analyse the decomposition
+without 
+DATA: Emotion, sir? 
+RIKER: Yes.. 
+DATA: I am simply trying to make an objective assessment. 
+PICARD: Data, is this yours? 
+DATA: I believe so, sir. 
+PICARD: Could it be Lore? 
+DATA: No, sir. My brother's positronic brain has a type L phase
+discriminating amplifier. Mine is a type R. 
+PICARD: Type R? 
+DATA: Yes, sir. 
+PICARD: Can you predict how long this has been in the cavern? 
+DATA: Decomposition strongly indicates that life was terminated
+approximately five hundred years ago. That would be consistent with the
+other artefacts we recovered. 
+RIKER: Your head is not an artefact. 
+DATA: In relative terms, perhaps not. Nevertheless, it seems clear that
+my life is to end in the late nineteenth century. 
+RIKER: Not if we can help it. 
+DATA: There is no way anyone can prevent it, sir. At some future date,
+I will be transported back to nineteenth century Earth, where I will
+die. It has occurred. It will occur. 
+LAFORGE: Well, I can't tell you exactly who the aliens were, but I have
+found out a few things. The triolicised rock face tells
+us we're probably dealing with a species with microcentrum cell
+membranes. Triolic waves wouldn't harm them. It also might mean they're
+shape shifters of some kind. 
+RIKER: So they could have appeared on Earth as humans. 
+LAFORGE: I don't think it's anyone we've run into before. Nothing we
+found matches up with any known lifeforms. What does match up is a
+cellular fossil which might have been along just for the ride. 
+PICARD: A cellular fossil? 
+LAFORGE: A microscopic ciliated lifeform. Not unlike a thousand other
+single-celled lifeforms you'd find on any planet surface, except this
+particular one is LB one zero four four five. And LB one zero four four
+five is only known to exist on one place. Devidia Two, in the Marrab
+sector. 
+PICARD: Number One, lay in a course. 
+RIKER: On my way.
 

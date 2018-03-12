@@ -1,82 +1,49 @@
-TROI LAFORGE WORF PICARD RIKER RISHON CRUSHER KEVIN
+RIKER LAFORGE WORF PICARD WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Living room]
+[Bridge]
 
-RISHON: I'll make everyone a nice cup of tea. We
-have lovely tea here on Rana. It grows wild nearly every (realises) 
-WORF: Sir. May I say your attempt to hold the away team at bay with a
-nonfunctioning weapon was an act of unmitigated gall. 
-KEVIN: Didn't fool you, huh? 
-WORF: I admire gall. 
-(Data is looking at ornaments on a shelf) 
-RISHON: Go ahead, pick it up. It's a music box. It's been in my family
-for generations. 
-(As Data watches the little man and woman dance, Troi hears the tune in
-her quarters on the Enterprise) 
-RIKER: There's nothing unusual about this house, except the fact that
-it's here. What about them? 
-CRUSHER: They're in reasonably good health. Both show signs of stress,
-which is understandable considering what they've been through. 
-RIKER: Somehow, they're different. Let's get back to the ship. We'll
-take them with us. Excuse, Mrs. Uxbridge. We'd better return to our
-ship now. 
-RISHON: But I haven't finished fixing your tea, Commander. 
-RIKER: I'm sorry, but we're finished here. Now, I can allow time for
-you and Kevin to pack. 
-RISHON: What do you mean, pack? 
-KEVIN: You're not thinking of taking us with you, are you? 
-RIKER: Surely you don't want to remain here? How can you take care of
-yourselves? 
-RISHON: Kevin, I can't leave my home. Don't let them do this to us. 
-KEVIN: No one's going to make us leave. 
-RIKER: You'll be protected on our ship. You could still be in danger
-here on Rana. 
-KEVIN: Commander, we appreciate your concern but we're not going
-anywhere. We'll manage. We always have. 
-RIKER: All right. I can't make you come with us. (takes off his comm.
-badge) Are you familiar with one of these? We'll be in the system for
-the next several days at least. If you reconsider, please contact us. 
-RISHON: We'll be fine, Commander. We have each other.
-
-[Observation lounge]
-
-PICARD: Are they collaborators? Did they provide
-the colony's assailants with something that abetted the total
-destruction of Rana Four in order to protect their own lives? 
-CRUSHER: What could two botanists in their eighties possess that could
-possibly aid whoever attacked the planet? 
-PICARD: We don't know what the enemy needed, Doctor. Love? Fear? Hope? 
-(The sound of the music in Troi's head almost drowns out the next two
-lines) 
-LAFORGE: Maybe they're being held hostage in some fashion? 
-CRUSHER: Nothing in the tricorder readings indicated they were under
-that kind of stress. 
-PICARD: Counsellor? Counsellor Troi? 
-TROI: I'm sorry. I don't sense them well enough. 
-(Once again the music renders the dialogue increasingly inaudible) 
-PICARD: Number One, you say the couple is incapable of sustaining
-themselves? 
-RIKER: There's a fusion reactor in the house, good for another five
-years of power. But their
-water table is tainted. They have nothing to feed themselves except for
-a small garden. 
-PICARD: They won't come to the ship? 
-RIKER: They were adamant. 
-PICARD: We'll do all that we can to help them but in the meantime I
-want them kept under surveillance. 
-TROI: I'm sorry, I'm not feeling very well. I'd like to go to my
-quarters. 
-PICARD: By all means. 
-CRUSHER: Is there anything I can do?
-
-[Corridor]
-
-WORF: Captain, a search of the Ranian system has
-determined that the hostile force that attacked this planet is no
-longer present. 
-PICARD: I remember a Starfleet admiral once saying the same thing about
-some renegade Andorians in the Triangulum system. It turns out that
-they had dismantled their ship and hidden it. 
-WORF: Those Andorians did not have to contend with someone of my
-thoroughness. I will stake my reputation.
-
+RIKER: Data, give us a visual. Magnification factor
+fifty. 
+(a dagger shaped warship comes into view) 
+WESLEY: Look at the size of that! 
+(Picard enters) 
+PICARD: Now where did that come from? 
+RIKER: Apparently it was riding a Lagrange point, hiding behind Rana
+Four's furthest moon. 
+DATA: Our vehicle classification index can put no identity to it. Its
+design is completely foreign. 
+RIKER: But that's our boy. Approximately five times our mass and
+carrying enough armament to pulverize a planet. 
+PICARD: Lieutenant? 
+WORF: I, er, cannot explain this, Captain. 
+RIKER: It's heading for the planet. 
+PICARD: Hailing frequencies. 
+WORF: Open. 
+PICARD: Mister Data, ask them to identify themselves and match our
+orbit. 
+DATA: They have received the message, Captain, but are ignoring it. 
+PICARD: Maximum shields, ready all weapon systems. 
+WORF: Aye, sir. 
+RIKER: It's assuming an attack posture. Don't be surprised if 
+(Boom) 
+WORF: The vessel is firing jacketed streams of positrons and
+antiprotons. Equivalent firepower, forty megawatts. Shields are
+holding. (Boom, boom) Again, forty megawatts. No damage. 
+RIKER: If that's the best they can do, this should last about five
+minutes. 
+PICARD: Mister Worf, let's raise our voice a little. Fire phasers. Just
+a warning shot. Mister Data, invite them to stand to. 
+(One feeble phaser shot and the ship high-tails it away) 
+DATA: The vessel has assumed a position outside of the Rana system, and
+it is rapidly increasing velocity. 
+PICARD: Helm, initiate pursuit. 
+WESLEY: Aye, sir. The vessel has reached warp two and continues on a
+steady acceleration curve. We're not getting any closer, Commander. 
+RIKER: Give us a superior curve, Mister Crusher. 
+WESLEY: Warp three. Warp four. The warship continues to match our curve
+simultaneously point for point. Warp four point five. Warp five. Warp
+five point five. 
+RIKER: Riker to La Forge. Give us everything you can to close the gap,
+Geordi. 
+LAFORGE [OC]: Yes, sir. 

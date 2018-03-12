@@ -1,50 +1,38 @@
-RIKER LAFORGE PICARD GREBNEDLOG WESLEY REGINOD
+RIKER LAFORGE WORF GREBNEDLOG GUEST2 DATA REGINOD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Engineering]
+
+GUEST2: Are you sure he can do it, sir? Geordi's an
+engineer, not a weapons specialist. 
+RIKER: If anyone can improvise, it's Geordi. 
+GUEST2: What makes you think the Pakleds even have that kind of gear on
+board? 
+DATA: Ongoing scanning indicates progressive weapons potential. The
+timing will be crucial. Geordi must correctly interpret our intentions.
+
+RIKER: Geordi's up to speed. I trust his instincts. 
+DATA: The Pakleds did hear our little fiction about Geordi's weapons
+knowledge. 
+RIKER: Exactly. And since they equate intelligence with strength, they
+won't pass up the chance to use that knowledge. Can you do it? 
+GUEST2: Count on it. 
+WORF [OC]: Bridge to Commander Riker! 
+RIKER: Go ahead, Bridge. 
 [Bridge]
 
-RIKER: Are you all right? 
-LAFORGE [on viewscreen]: Sure. Why do you ask? 
-RIKER: Counsellor Troi has expressed misgivings about your absence from
-the Enterprise. 
-LAFORGE [on viewscreen]: I don't think there's anything to worry about.
+WORF: I am receiving an emergency summons from
+Starbase Five One Five. Captain Picard 
+[Engineering]
 
-RIKER: Understood. As soon as you complete the repairs, I want you back
-here. 
-LAFORGE [on viewscreen]: Yes, sir, I should be done here momentarily.
+WORF [OC]: Is close to death. 
+RIKER: Be ready.
 
-[Pakled ship]
+[Pakled armoury]
 
-LAFORGE: You see? Like that. (Geordi puts the
-circuit boards back) There. Your guidance is now up and running. 
-(Then the lights go out) 
-LAFORGE: Main power failure? 
-GREBNEDLOG: Will our ship go now? 
-LAFORGE: Your guidance is operational, but you're not going anywhere,
-not with a main power failure. 
-GREBNEDLOG: It is broken. 
-REGINOD: Can you make it go? 
-LAFORGE: Commander Riker? 
-[Bridge]
-
-LAFORGE [OC]: I have a problem. 
-RIKER: On screen. 
-LAFORGE [on viewscreen]: It looks like this is going to take a little
-bit longer than I anticipated.
-
-[Shuttlecraft]
-
-WESLEY: I guess you would have preferred Commander
-Riker as a travelling companion. 
-PICARD: What? 
-WESLEY: It's okay. You're not too comfortable with me. I understand. 
-PICARD: Ensign. Wesley, that's not true. You're a fine young man. 
-WESLEY: You don't have to say that, sir. It's pretty obvious how you
-feel. 
-PICARD: Is it? How so? 
-WESLEY: Everyone knows. You don't like kids. That's too bad. You'd have
-made a good father. 
-PICARD: Thank you. 
-(Picard takes his book to a rear seat) 
-WESLEY: Didn't you ever wish you had kids of your own? 
-PICARD: Wishing for a thing does not make it so.
+REGINOD: We are strong. 
+LAFORGE: You're now armed to the teeth. 
+GREBNEDLOG: Teeth are for chewing. 
+LAFORGE: You have photon torpedo. You are strong. 
+GREBNEDLOG: We are strong. We have power.
 

@@ -1,54 +1,72 @@
-PICARD WOMAN OBRIEN ROBIN WESLEY
+RIKER LAFORGE WORF PICARD WESLEY CRUSHER DATA GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Engineering]
 
-PICARD: Come. 
-WESLEY: Sorry to bother you, sir. 
-PICARD: It's no bother, Wesley. Please, sit down. 
-WESLEY: Thanks. 
-PICARD: How are the survey preparations coming along? 
-WESLEY: They're coming along fine, but that's not what I'm here to talk
-to you about. 
-PICARD: What then? 
-WESLEY: There's a game going around. It's something that Commander
-Riker brought back from Risa. It's a device that hooks around the ears.
+RIKER: Where the hell is he? 
+WORF: I am attempting to isolate him with thermal sensors. 
+RIKER: Narrow the scan field. Go deck by deck if you have to. 
+WORF: Unfortunately, he knows our procedures. He will avoid corridors
+and public areas. Commander, an unidentified heat source. Deck seven,
+section twenty three. There.
 
-PICARD: Yes, I've seen it. 
-WESLEY: I did some preliminary tests on the game, and what I found
-leads me to believe that it may have some harmful side-effects.
-Specifically, sir, I think it's psychotropically addictive. 
-PICARD: Addictive? What have you discovered? 
-WESLEY: The game initiates a serotonin cascade in the frontal lobe of
-the brain. Now I know that's nothing conclusive, but it could explain
-why everyone is so attracted to it. And at the same time, it stimulates
-the brain's reasoning centre. I don't know what that's all about. 
-PICARD: I'll start an investigation immediately. Thank you, Mister
-Crusher. 
-WESLEY: Thank you, sir. 
-PICARD: Wesley? It's good to have you back again. 
-(Wesley leaves, and Picard picks up his headset for a game or three)
+[Jefferies tube]
 
-[Ten Forward]
+(Wesley crawls along, only to meet Worf coming the
+other way. He turns and dashes back again but gets trapped between Worf
+and Riker at an intersection) 
+WESLEY: No! Let go of me! 
+[Bridge]
 
-O'BRIEN: Have you tried this? 
-ROBIN: I've tried it, thanks. It's great. 
-WESLEY: Robin. 
-ROBIN: Where have you been? Everyone's after me to try it. 
-WESLEY: I know. I got stopped in the corridor twice. I talked to the
-Captain. He's going to look into it. 
-ROBIN: I hope he makes a shipwide announcement or something, because
-this thing is really starting to give me the creeps. 
-WOMAN: Did you forget your games? 
-ROBIN: We left them in our quarters. 
-WOMAN: Well then, use mine. 
-ROBIN: No, thanks. 
-WOMAN: Try it. 
-WESLEY: She said no thanks. 
-(they get up and walk away) 
-WESLEY: You know what else is really weird? If this game is so
-addictive, there's only one person onboard we can be sure wouldn't be
-affected by it. 
-ROBIN: Data. 
-WESLEY: Right. And he managed to get injured right when the game was
-brought on board. We'd better take a look at him.
+(Wesley is hauled onto the Bridge) 
+CRUSHER: It's okay, Wesley. 
+PICARD: You led us quite a chase, Mister Crusher. Doctor Crusher. 
+WESLEY: No! 
+PICARD: Hold him steady. 
+CRUSHER: It's okay, Wesley. It won't hurt. 
+WESLEY: (as they put the game on him) No! 
+CRUSHER: You'll like it. 
+PICARD: His eyes. 
+(Worf and Riker pull his eyelids open, and the game plays itself) 
+CRUSHER: That's right, Wesley. just let it go. Yes, just let yourself
+go. Relax. 
+(the Bridge lights dim and Data enters. He shines a strobing flashlight
+into everyone's faces and they 'wake up') 
+DATA: Computer, resume normal illumination. 
+(Wesley rips the game off) 
+DATA: Mister Worf, you will find a small alien ship off the starboard
+bow. Please secure it with a tractor beam and raise our shields. 
+WORF: Engaging tractor beam. 
+DATA: Are you all right, Captain? 
+PICARD: I think so, Mister Data. 
+WORF: Captain, we are being hailed by the alien vessel. 
+PICARD: On screen. 
+GUEST2 [on viewscreen]: Explain yourself, Picard. 
+PICARD: The explanation is simple. Your attempt to capture our ship has
+failed. 
+GUEST2 [on viewscreen]: Release us immediately, or we will open fire. 
+RIKER: Tactical analysis, Mister Worf? 
+WORF: Their weapons systems are substantially inferior to ours. They
+are not a threat. 
+RIKER: Get her off the screen. 
+LAFORGE: I can't believe what we were about to do. 
+RIKER: Data, we deactivated you. 
+WESLEY: I managed to reconnect his positronic matrix. 
+DATA: Wesley's subsequent diversions gave me adequate time to modify
+the palm beacon. The optical burst patterns we
+programmed were successful in counteracting the addictive effects of
+the game. 
+PICARD: And the rest of the crew? 
+DATA: We programmed the main computer to transmit the same optical
+burst to all display screens, work stations and terminals throughout
+the ship. 
+RIKER: That should reach almost everyone. Take a medical team to treat
+the rest. 
+DATA: Aye, sir. 
+PICARD: We'll take the alien ship to the nearest Federation starbase.
+Ensign, lay in a course.
 
+Captain's log, stardate 45212.1. We have delivered
+the Ktarian vessel to Starbase eighty two and are now on a course to
+rendezvous with the Starship Merrimack, which will transport Wesley
+Crusher back to Starfleet Academy. 

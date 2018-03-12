@@ -1,67 +1,36 @@
-PULASKI LWAXANA TROI DATA PICARD
+PICARD GUEST5 DATA GUEST2 RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Rex's Bar]
 
-DATA: Indeed, sir. I'm on my way. Data out. 
-[Lwaxana's quarters]
-
-LWAXANA: How could you possibly think I would want
-to share our special time together with that, that, robot of yours? 
-PICARD: Because of Data's wonderful after-dinner conversation. His
-anecdotes are the stuff of legends aboard this ship. 
-(later) 
-DATA: So, by using the square root of pi and multiplying it by nine to
-the third power, I was able to accurately calculate the distance
-between the Omicron system and the Crab Nebula. 
-PICARD: Fascinating, Data, absolutely fascinating. I'm sure Mrs. Troi
-would love to hear the one about the anomalous chemical composition of
-brown dwarf stars. 
-LWAXANA: Not really. 
-DATA: Yes, Captain. That is a particularly spellbinding subject. In
-most stars, the rare Earth element europium is enriched relative to
-samarium and gadolinium 
-LWAXANA: Is that so? 
-DATA: It is. However, 
-[Corridor]
-
-PULASKI: Your mother seems quite an interesting
-woman, Deanna. 
-TROI: Perhaps I should tell you something about my mother's condition
-at this time. 
-PULASKI: Condition at this time? 
-TROI: It's something that occurs to Betazoid females as they enter
-mid-life. We call it the phase. 
-PULASKI: Mid-life? As in a human female's menopause? 
-TROI: Similar. It's only at mid-life that a Betazed female becomes,
-well, fully sexual, if you know what I mean. 
-PULASKI: Yes, I think I do. I also think that I saw the Captain on his
-way to her quarters. 
-TROI: I wonder if I shouldn't warn him? 
-PULASKI: No. As ship's Doctor I'd consider it excellent exercise for
-his reflexes and agility. 
-TROI: Doctor ! 
-PULASKI: For staying ahead of your mother. 
-TROI: Yes. An animal is always at its best when hunted. 
-PULASKI: Or when hunting.
-
-[Lwaxana's quarters]
-
-(we now have a graphic presentation of a planetary
-system on the room's view screen) 
-DATA: And at this point, the second co-orbital satellite avoids a
-collision with the first. 
-(Deanna enters) 
-LWAXANA: Deanna, darling. Thank the Four Deities you're here. 
-TROI: I hope I'm not interrupting. 
-PICARD: No, I must, as a matter of fact, be getting back to the Bridge.
-
-DATA: Captain. Perhaps I should remain and further entertain our guest.
-
-LWAXANA: No! I mean, I'm sure you're needed on the Bridge as well. 
-PICARD: Well, thank you for a delicious meal. We must do this again
-sometime. 
-LWAXANA: I know we will. 
-(Picard and Data leave) 
-LWAXANA: Well, Little One, the Captain is every bit as charming as your
-father was.
+PICARD: You said you had responsibilities. What
+exactly did you mean? 
+GUEST2: You know about my mother's cousin, the girl from San Antonio
+I told you about? 
+(There's a shadow at the door) 
+GUEST2: Jimmy. 
+(Enter Data in costume, and Riker in uniform) 
+GUEST5: I'm as jumpy as Haircut Lapinski trying to land on a fraction. 
+RIKER: Sorry to bother you, Captain. 
+GUEST5: Captain? 
+PICARD: Call me Dix. 
+RIKER: Sorry to bother you, Dix, but our two passengers have awakened. 
+PICARD: Then it's time for me to go. 
+GUEST2: What about Jimmy Cuzzo? You can't leave Rex to face him
+alone. 
+PICARD: I'll be back before Jimmy Cuzzo arrives. I guarantee it will be
+taken care of. Just relax. 
+GUEST5: Your friends've got time for one drink, haven't they, Dix? 
+PICARD: Oh, yes, of course. One more round. These are my associates.
+This is Nails, from Chicago. And this is 
+DATA: Carlos. 
+PICARD: From South America. This is Madeline, my secretary, and I want
+you to meet Rex. You know, I don't think I ever heard your last name? 
+GUEST5: Hm. Don't think I have one. Just Rex, that's all. So, fellas, tell
+me your troubles. 
+RIKER: Well, troubles. We've got some, Captain. It seems that a certain
+woman, both wealthy and beautiful, now thinks that that she's going to
+marry me. 
+GUEST5: She's got looks and bucks? Sounds like you've got yourself a heck
+of a deal.
 

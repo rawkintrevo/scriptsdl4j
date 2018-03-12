@@ -1,77 +1,50 @@
-PICARD TROI CRUSHER MAQUES LWAXANA
+PICARD TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Troi's quarters]
 
-TROI: He communicated so much to me that at first
-it was just a jumble of images. 
-CRUSHER: Have you been able to sort any of it out? 
-TROI: I think so. During his telepathic contact with my mother, Maques
-sensed what he calls a dark place. He tried to tell me about it before,
-in my office, and I misunderstood. I thought he was talking about
-thoughts my mother was keeping private, but what he meant was that
-there was something happening in her met conscious mind. 
-CRUSHER: Metaconscious? 
-TROI: It's a part of the Betazoid psyche. It's a kind of filtering
-mechanism that protects us from psychic trauma. 
-PICARD: Is Maques suggesting that your mother's metaconscious has been
-somehow damaged? 
-TROI: He feels that whatever is wrong with her is centred there. If
-he's right it may mean that she's suffered some kind of trauma that her
-metaconscious just can't tolerate. 
-CRUSHER: Has your mother mentioned anything that happened to her
-lately, something that might have been traumatic for her? 
-TROI: No. Nothing. 
-CRUSHER: Maques could be wrong about this. There's still a chance that
-a subneural scan might be able to pinpoint an physiological cause for
-your mother's condition, something that I might be able to treat. The
-results won't be in until morning. Maybe we should all try and get some
-rest. 
-TROI: I'd like to stay here with her. I'm going to try to contact her
-telepathically. 
-CRUSHER: All right.
+(a box containing, amongst other things, a carving,
+a silver case containing a lock of dark hair, and a picture of her
+father) 
+TROI: Come in. 
+PICARD: Counsellor. 
+TROI: Hello, Captain. 
+PICARD: I've just come from Sickbay. Doctor Crusher feels that your
+mother's condition is worsening. Her neural foundations are getting
+weaker. Have you had any luck here? 
+TROI: No, nothing. I've gone through all her belongings, read her
+journal from the last five years, and other than the fact that I'm not
+married yet, nothing bad seems to have happened to her. 
+PICARD: Is this your Father? 
+TROI: Yes. 
+PICARD: He had a kind face. 
+TROI: I remember when he died, my mother had to go through all his
+things and pack them away. I was seven. I remember thinking how mad
+he'd be when he came home and saw what she'd done. I didn't understand
+he wasn't coming back. 
+PICARD: Deanna, your mother might still come out of this. 
+TROI: If we can't figure out what's wrong with her, Captain, I don't
+think she will. But I don't know what else to do. I've talked with
+Mister Homn, who's known her for years. I've checked her medical
+records. I've made enquiries to the government on Betazed, I've
+contacted her closest friends. If she's been through some kind of
+psychic trauma, there's just no evidence of it. 
+PICARD: You said you'd reviewed her journals for the past five years.
+Maybe we should go further back. 
+TROI: That's a lot to review. My mother's kept a journal since before
+she was married. 
+PICARD: Then let's start at the beginning. The first entry seems to be
+stardate 30620.1. 
+TROI: That's the year they were married. 
+PICARD: That's odd. There's a seven year gap. 
+TROI: It starts about a year after the wedding. 
+PICARD: And if I'm not mistaken, it ends a few months after your birth.
 
-[Sickbay]
+TROI: My mother's so diligent about her journal. why would she have
+stopped making entries for so long? 
+PICARD: She didn't. The files were deleted, by your mother, almost
+thirty years ago. 
+TROI: I don't understand any of this. Captain, I have to go back inside
+my mother's mind. It's the only way we're ever going to get any
+answers.
 
-TROI [OC]: Mother can you hear me? Please come back
-to me. Please. 
-LWAXANA [OC]: Help me. 
-TROI [OC]: Mother? 
-LWAXANA [OC]: Help me. 
-TROI [OC]: How? How can I help you? 
-TROI: Tell me, mother. Please. 
-(later, Deanna is sleeping on another biobed when someone comes in. She
-wakes) 
-TROI: Computer, lights! 
-(it's Maques) 
-TROI: What are you doing? 
-[Observation lounge]
-
-PICARD: Maques, what were you doing in Sickbay? 
-MAQUES: Helping. Trying to help Lwaxana. 
-TROI: How? What were you trying to do? 
-MAQUES: I was. She was. You, Deanna. Maybe you. 
-TROI: Yes? 
-MAQUES: You must. How can I explain 
-TROI: Tell me telepathically. 
-(the direct stare) 
-TROI: Maques believes my mother's psyche has collapsed in on itself.
-That for some reason, she has retreated into her metaconscious mind. 
-PICARD: Was he trying to contact her telepathically? 
-TROI: Yes. He was able to access images being generated by her
-metaconscious, but he couldn't make any sense of them. 
-MAQUES: I did not understand. 
-TROI: He saw faces he didn't recognize, events he couldn't interpret. 
-CRUSHER: If we could decipher these images, we might be able to
-determine whether or not your mother's condition was induced by a
-traumatic event. 
-TROI: Maques feels he can provide a telepathic bridge that will allow
-me to access my mother's metaconscious. If he can, I might be able to
-find out what happened to her. 
-PICARD: And if you succeed, can you use that information to help your
-mother? 
-TROI: I'm not sure. But I do know that there's a part of her that wants
-to be helped. When I tried to contact her telepathically, I heard a
-voice calling out to me. 
-PICARD: If her psyche has collapsed in on itself, could accessing her
-mind pose any danger to you? 
-TROI: There's no way to know. I'd like to try. 

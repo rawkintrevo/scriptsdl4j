@@ -1,75 +1,81 @@
-RIKER GRAVES WORF PICARD SELAR DATA KAREEN
-
-[Graves' laboratory]
-
-DATA: You mentioned your impending death, Grandpa.
-May I say you face it with remarkable courage and stoicism. 
-GRAVES: That is because I am an incredible man, possessing an iron will
-and nerves of steel. Two traits that helped me become the genius I am
-today as well as the lady killer I was in days gone by. 
-DATA: You condone homicide, sir? 
-GRAVES: It's an expression, Data. It means I was once as beautiful as I
-am smart. 
-DATA: Really, Grandpa? 
-GRAVES: No, not really. But what the hell. I'm dying. I can remember my
-life any way I want. And I'll let you into a little secret, Sonny. I
-don't really believe I will be dying. 
-DATA: But the Doctor 
-GRAVES: Oh, I'll die, but I won't really be dead. You see, I believe
-I've learned to transfer the wealth of my knowledge into
-a computer. Before I die, I plan to transfer my great intelligence into
-this machine, thus cheating the Grim Reaper of his greatest prize. But
-what would you know of death? It is a subject forever alien to you. 
-DATA: That is not necessarily true, Grandpa. I do have an off button,
-if you will. Its activation robs me of my consciousness, therefore
-rendering me dead for all intents and purposes. It is not something I
-enjoy contemplating. 
-GRAVES: I can understand that. Just where would Soong position such a
-device? Don't tell me, let me guess.
-
-[Living room]
-
-PICARD [OC]: Captain to away team. We're standing
-by. 
-SELAR: I do not wish to interrupt Data and the Doctor. They seem to
-have developed a genuine rapport. But the Enterprise has reached it's
-orbit and I'd like to transport Graves to the ship as soon as possible.
-
-(Data enters) 
-DATA: That will not be necessary, Doctor. He is gone. 
-WORF: Gone? 
-DATA: It happened just a few moments ago, in my arms. Ira Graves is
-dead.
-
-Captain's log, supplemental. I leave Gravesworld
-with an empty feeling and the knowledge that our mission was
-unsuccessful. Whatever scientific secrets Ira Graves was about to
-unlock have been lost forever. Our immediate priority is to reach the
-nearest starbase so that Graves' assistant can get on with her life.
+PULASKI PICARD TROI DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 
-RIKER: Why didn't you contact Doctor Selar when you
-saw that he was beginning to go? 
-DATA: To do so would have been pointless. All things must pass. May I
-go now, sir? 
-PICARD: Yes, of course. 
-DATA: We will try to honour him in the manner in which he specified,
-will we not, sir? 
-PICARD: I said we would, Data. 
-DATA: I am glad, sir. It was his dying wish. 
-(Data leaves) 
-[Ten forward]
+WORF [OC]: Commander Data has left Ten forward.
+Should I follow? 
+PICARD: Negative. I'll handle this myself. He was an expert in
+cybernetics? 
+TROI: Yes. 
+PICARD: Our memorial service may have been premature. What an
+achievement. 'So long as men can breathe or eyes can see, so long lives
+this, and this gives life to thee.' 
+(Shakespeare's
+Sonnet 18, Shall I Compare Thee) 
+TROI: He was working on bridging the gap between man and machine. 
+PICARD: It seems he built that bridge. I may be forced to tear it down.
 
-KAREEN: Hello Data. It's good to see you again. The
-stars are so beautiful from space. Yet they seem 
-DATA: You always did love the sky. A stargazer. That is what you are. 
-KAREEN: Did Ira tell you that? I guess he's right. I used to spend
-hours just lying on a hill, looking up. 
-DATA: Ira never told you how beautiful you were to him. He never told
-you that, did he? He could not tell you, do you understand? 
-KAREEN: Yes. I understand. 
-DATA: He wanted to. Every waking moment. And he wanted you to know
-that. You were everything to him. 
-(Data reaches to touch her hair, then stops himself)
+[Engineering]
 
+(Data is standing on the upper gantry by the warp
+core) 
+DATA: I can hear you coming, Captain. My ears are better than the
+average dog's, you know. 
+(Picard enters on the ground floor) 
+PICARD: I know who you are and what you've done. 
+DATA: Of course you do. 
+PICARD: I came here to talk to Data. 
+DATA: I cannot allow that. 
+PICARD: I understand your desperation. The shock of learning you were
+dying. But you had no right to do what you have done. 
+DATA: I had every right, Captain. I am man, he is machine. There is no
+question who must live and what must die. 
+PICARD: What of Data? 
+DATA: Data? Before me, he was nothing. Just a walking tin can with
+circuits for intestines. Pathetic. Without heart, a man is meaningless.
+I would not come up here if I were you, Captain. I might not like it. 
+(Picard gets in the lift and goes up. Then we see Geordi lying on the
+floor) 
+DATA: You are most fortunate, my dear Captain, that I am not a violent
+man. 
+PICARD: Not a violent man? 
+DATA: (refers to Geordi) This is not my fault. They told me I was not
+supposed to be up here. They should not have done that. 
+PICARD: Graves, listen to me. No one can deny the significance of your
+transformation. But I don't believe that this was part of your plan.
+Encountering Data was mere coincidence. One that offered you more than
+you could have dreamed. But something has gone wrong. Look here.
+Graves, this experiment must be terminated. 
+DATA: This is idiotic. 
+PICARD: Picard to Sickbay. 
+PULASKI [OC]: Yes, Captain. 
+PICARD: How is Miss Brianon? 
+PULASKI [OC]: Her left hand is fractured in two places. We've just
+begun treatment. 
+PICARD: I'm afraid there are two more injuries in Engineering. 
+PULASKI [OC]: I'm on my way. 
+PICARD: Who's next? 
+DATA: These were all accidents. I did not intend 
+PICARD: How many more accidents? You must leave this body. 
+DATA: No, I live here now. 
+PICARD: Graves, every man has his time. Every man, without exception.
+But you've cheated. You have extended your life at the expense of
+another. Graves, give Data back. Give him back. 
+DATA: Data is dead. 
+PICARD: No. He must not be lost. He's not simply an android. He's a
+life form, entirely unique. 
+DATA: Data is not human! He is 
+PICARD: He is different, yes. But that does not make him expendable, or
+any less significant. No being is so important that he can usurp the
+rights of another. Now set him free! 
+DATA: No! 
+(And Data hits Picard, knocking him out to land on the floor with
+Geordi and the engineer, Data/Ira is horrified at what he has done) 
+DATA: How many? How many more accidents? 
+(It is a little later. Pulaski has arrived and is tending to a waking
+Picard) 
+PICARD: Data! Where is he? 
+PULASKI: Just take it easy. 
+PICARD: I can't afford to take it easy, Doctor. (to computer) Tell me,
+where is Lieutenant Commander Data? 

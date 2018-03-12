@@ -1,148 +1,42 @@
-WORF TARSES PICARD SABIN SATIE CRUSHER DATA LAFORGE
+PICARD WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Observation lounge]
 
-WORF: J'Dan did not make friends easily. There are
-not many to question. 
-SABIN: You've done a thorough job, Lieutenant. 
-WORF: I am strongly motivated in this matter. 
-SABIN: Yes, I can see that. I don't mind telling you I'm surprised.
-Frankly, when I first heard about your father. 
-WORF: My father? 
-SABIN: Yes. There are some who believe he betrayed your people to the
-Romulans. 
-WORF: What he did or did not do is no one's concern but my own 
-SABIN: Of course. I only meant before I saw you in action, I naturally
-considered you a possible security risk. But I want you to know you
-have the Admiral's and my complete confidence. You have nothing to
-prove to us. 
-WORF: If there is a conspiracy on board, I promise you I will find it. 
-SABIN: Good. You know the ship, you know the personnel, you know
-exactly what we're up against. We're counting on you, Lieutenant. 
-WORF: I will arrange for the interviews to begin.
-
-[Interrogation room]
-
-SATIE: And how often did Lieutenant J'Dan come in
-for his injections? 
-CRUSHER: About once a week. 
-SATIE: Did you administer them yourself? 
-CRUSHER: No. 
-SATIE: Then who did? 
-CRUSHER: I had one of my assistants do that. 
-SABIN: Did you ever hear him say anything? Anything that may have
-seemed innocent at the time that might now shed some light on this
-investigation? 
-CRUSHER: No, nothing. In fact, he rarely spoke at all. 
-PICARD: Thank you, Doctor Crusher, we appreciate your time. You are
-excused now. Mister Worf, will you bring in the next person? 
-(Crusher leaves and a young man enters) 
-PICARD: Please sit down, Mister Tarses. For the record, will you tell
-us your name and position? 
-TARSES: Simon Tarses, Crewman First Class, medical technician. 
-PICARD: I assure you this is an informal inquiry. We are not accusing
-you of anything. However, if you would like counsel, it can be provided
-for you. 
-TARSES: No, sir. I have nothing to hide. 
-PICARD: Tell me, how long have you held your appointment onboard this
-vessel? 
-TARSES: Since Stardate 43587. 
-SATIE: Mister Tarses, your records state that you were born on Mars
-Colony. 
-TARSES: That's right. 
-SATIE: Then you are human? 
-TARSES: Largely. My paternal grandfather was Vulcan. 
-SATIE: Yes, I see that. Tell me, what is your relationship with the
-Klingon, J'Dan? 
-TARSES: Er, he, I mean, there's no relationship. He just came in for
-his injections. 
-SATIE: Did you give him those injections? 
-TARSES: Sometimes. There were several of us. Actually, I might have
-done it twice. 
-SABIN: Did he ever make any comments that might, in retrospect, be
-suspicious? 
-TARSES: Not really. He hardly ever talked. 
-SATIE: Did you ever see him outside Sickbay? 
-TARSES: Once or twice in Ten Forward, with a group of people, but I
-never had a conversation with him. 
-SATIE: Thank you, Mister Tarses. I don't think there's need for more.
-Captain? 
-PICARD: You're excused, crewman. 
-(Tarses leaves) 
+WORF: You and Crewman Marcus will coordinate to
+track Tarses' movements over the last five years. Ensign Kellogg, I
+want a list of all relatives, known associates, and especially old
+school friends. And make arrangements to do an encephalographic
+polygraph scan. 
 PICARD: Mister Worf? 
-SABIN: Wait. He's lying. He's desperately frightened. He's covering
-something. 
-PICARD: It's clear that he's frightened, but that's hardly an
-indication 
-SABIN: It's more than that. He wasn't truthful. He's covering a lie.
-One so big it's overwhelming him. I think we've found the man.
-
-[Ready room]
-
-PICARD: Admiral. I have to tell you, you must not
-expect me to permit any action against Mister Tarses solely on the
-basis of Betazoid intuition. 
-SATIE: Sabin has uncanny instincts. I've learned to trust them. 
-PICARD: I'm not happy about this use of a Betazoid. 
-SATIE: But you have a Betazoid counsellor. Surely you're aware of the
-advantages. 
-PICARD: There is a difference between a counsellor and an investigator.
-
-SATIE: Are you saying you never use your counsellor during
-interrogations? 
-PICARD: Yes, I do, but I would not act solely on the basis of her
-instinct. 
-SATIE: Nor do I. 
-PICARD: But you're asking, you're asking me to restrict Mister Tarses'
-movements solely on the basis on Sabin's feeling. 
-SATIE: If Counsellor Troi suggested to you that someone on the ship
-were dangerous, would you not act on that? Observe him? Curb his
-activity? 
-PICARD: Yes, I admit I probably would. And perhaps I should re-evaluate
-that behaviour. 
-SATIE: Oh, nonsense. Let's keep our priorities straight. The important
-thing is to uncover the conspiracy on this ship and
-to prevent further damage. Now, if Tarses is a possible saboteur, you
-cannot allow him access to sensitive areas of the ship, and I strongly
-suggest continuous surveillance. 
-PICARD: If we had clear evidence. 
-SATIE: We will have clear evidence. Sabin and Lieutenant Worf are
-continuing to investigate. But if you don't act until then, it may be
-too late. 
-PICARD: No. I won't treat a man as a criminal unless there is cause to
-do so. 
-SATIE: And while you're being so generous, you give a saboteur a chance
-to strike again. Last time it was just a hatch
-cover/ What if next time it's more serious? What if lives are lost? Can
-you afford not to act? 
-LAFORGE [OC]: Engineering to Captain Picard. 
-PICARD: Yes, Mister La Forge. 
-LAFORGE [OC]: Captain, could you come to Engineering right away? We've
-got something interesting to show you. 
-PICARD: I'll be right there.
-
-[Engineering]
-
-LAFORGE: Captain, we finally got in here about six
-hours ago. We've been going over it inch by inch ever since. 
-DATA: We have made micro-tomographic analyses of the dilithium chamber,
-the hatch mounting, the blast pattern from the explosion. 
-LAFORGE: We did mass spectrometer readings of the residue for chemical
-content, sifted
-through the debris for bomb fragments. 
-SATIE: What did you find? 
-LAFORGE: This is the frame for the hatch. It ruptured right along here.
-When we take a reading of that spot. See? 
-SATIE: I'm afraid I'm out of my element, Commander. You'll have to
-interpret for me. 
-PICARD: There are submicron fractures in the metal casing. 
-LAFORGE: That's right. A breakdown of the atomic cohesive structure. 
-SATIE: Yes? And what caused them? 
-DATA: Those fractures suggest nothing more than simple neutron fatigue.
-I would speculate that when the engine was last inspected at McKinley
-station, the hatch casing was replaced with one which had an
-undetectable defect. I believe, sir, that the conclusion to our
-investigation must be that the explosion was not intentional. 
-LAFORGE: That's the way I see it. This wasn't sabotage at all. It was
-nothing more than an accident.
+WORF: Yes, Captain? 
+PICARD: I need to speak with you. 
+WORF: You are dismissed. Please get your reports to me as soon as
+possible. 
+(the security officers leave) 
+PICARD: Do you see what is happening here, Mister Worf? 
+WORF: Sir? 
+PICARD: This is not unlike a drumhead trial. 
+WORF: I do not understand. 
+PICARD: Five hundred years ago, military officers would upend a drum on
+the battlefield sit at it and dispense summary justice. Decisions were
+quick, punishments severe, appeals denied. Those who came to a drumhead
+were doomed. 
+WORF: But we know there is a traitor here. J'Dan has admitted his
+guilt. 
+PICARD: That's true, and he will stand for his crimes. 
+WORF: Tarses has all but done the same. 
+PICARD: How? 
+WORF: He refused to answer the question about his Romulan grandfather. 
+PICARD: That is not a crime, Worf. Nor can we infer his guilt because
+he didn't respond. 
+WORF: Sir, if a man were not afraid of the truth, he would answer. 
+PICARD: Oh, no. We cannot allow ourselves think that. The Seventh
+Guarantee is one of the most important rights granted by the
+Federation. We cannot take a fundamental principle of the Constitution
+and turn it against a citizen. 
+WORF: Sir, the Federation does have enemies. We must seek them out. 
+PICARD: Oh, yes. That's how it starts. But the road from legitimate
+suspicion to rampant paranoia is very much shorter than we think.
+Something is wrong here, Mister Worf. I don't like what we have become.
 

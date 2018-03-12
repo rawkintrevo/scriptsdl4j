@@ -1,59 +1,44 @@
-BASHIR RIKER SHREK WORF DATA
+RIKER TROI WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Commander, I am reading a minor power drain
-in the starboard EPS conduit. 
-RIKER: What's causing it? 
-DATA: The problem's originating in Sickbay. There has been an
-unauthorized access into the computer's bio-imaging systems. 
-RIKER: You'd better check it out. 
-DATA: Aye, sir.
+WORF: Ensign Lopez. This duty roster is
+unacceptable. The assignments should be listed in order of priority.
+Prepare it
+again. I will expect it no later than oh nine hundred hours. Dismissed.
 
-[Medical lab]
+RIKER: Worf, we need to get your rendezvous schedule to Commander
+Rudman on board the Merrimac as soon as you 
+WORF: I am well aware of your request, Commander. 
+RIKER: Lieutenant, are you all right? 
+WORF: Yes, sir. I am fine. I will send your schedule, sir. Excuse me.
 
-(a young, eager, intense Doctor in engrossed in
-what he is doing) 
-DATA: Excuse me. Do you have authorisation to work in this area? 
-BASHIR: Come in, come in. I need a hand with this field generator. See
-if you can boost the power output to sixty five percent. 
-DATA: I am sorry, but use of sickbay equipment is limited to ship's
-medical personnel. 
-BASHIR: Ah. Doctor Julian Bashir, Chief Medical officer, Deep Space
-Nine. And you are Commander? 
-DATA: Data. 
-BASHIR: Commander Data. The synthetic lifeform. 
-DATA: Yes. 
-BASHIR: It's an honour to meet you, sir. I've heard so much about you.
-You must have a fascinating perspective into biocybernetic research.
-I'd be delighted if we could discuss the subject sometime. 
-DATA: I would be happy to do so. However, I must ask you to stop your
-experiment. 
-BASHIR: Ah, yes. I realise I should have asked before using your
-sickbay, but it would've taken me days to analyse this device with the
-computer I have on Deep Space Nine. 
-DATA: What type of device is this? 
-BASHIR: It was discovered in the Gamma Quadrant. I think it must be
-some sort of medical instrument. 
-DATA: It appears to employ plasma inputs. 
-BASHIR: I'm hoping it's a medical scanner. I wanted to use your
-computer to find out how it works. 
-DATA: I suggest we take it to Engineering and run a complete
-circuit-pathway diagnostic. 
-BASHIR: Splendid. I must admit, Commander I didn't think you'd be so
-personable.
+[Worf's quarters]
 
-[Replimat]
+(he is practising his martial arts, but gets angry
+and smashes a glass table. The doorbell chimes) 
+WORF: Enter. 
+TROI: Did the table do something wrong? 
+WORF: No. 
+TROI: I'm glad you weren't that hard on Ensign Lopez. 
+WORF: He made a mistake. The duty roster was inaccurate. 
+TROI: Would you like to talk about what's bothering you or would you
+like to break some more furniture? 
+WORF: Today on the Promenade, a Yridian approached me. He knew who I
+was and tried to sell me information about Mogh. 
+TROI: Your father? 
+WORF: He claimed that he's alive and is being held captive in a Romulan
+prison camp. 
+TROI: My god. Could it be true? 
+WORF: A Klingon would never allow himself to be captured. A warrior
+fights to the death. If my father were alive it would dishonour his
+sons and their sons for three generations. Even Alexander would bear
+the burden of guilt. 
+TROI: So, you're willing to ignore the possibility because you're
+concerned about dishonour? 
+WORF: My father is dead. That Yridian is selling lies! 
+TROI: If you're so sure about that, why are you still so upset? Worf,
+you can't deny the possibility just because you don't want it to be
+true. If you want to talk about this, you know where to find me.
 
-(a very wrinkled alien with the voice of the modern
-Zephram Cochrane approaches Worf while he is still eating the dodgy
-pasta) 
-SHREK: Klingon. You are Starfleet Klingon. 
-WORF: I am Lieutenant Worf. 
-SHREK: Worf. Son of Mogh. 
-WORF: What of it? 
-SHREK: I am Jaglom Shrek, a man with information to sell. 
-WORF: You have no information I could use. 
-SHREK: I would not be so sure. It is about your father, Mogh. 
-WORF: My father died twenty five years ago at Khitomer. 
-SHREK: That is what you believe. What if I tell you he is still alive? 

@@ -1,66 +1,31 @@
-PICARD CRUSHER DATA LAFORGE
+PICARD GUEST1 CRUSHER DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Laboratory]
 
-LAFORGE: This is not a natural design. Captain.
-This is part of an algorithm, coded at the molecular level. 
-PICARD: An algorithm? Are you saying that these DNA fragments are
-elements in some kind of computer
-programme? 
-LAFORGE: I know how it sounds, but there's no way this could be a
-random formation. This is definitely part of a
-programme. 
-CRUSHER: This fragment has been part of every DNA strand on Earth since
-life began there, and the other fragments are just as old. Someone must
-have written this programme over four billion years ago. 
-PICARD: So, four billion years ago someone scattered this genetic
-material into the primordial soup of at least nineteen different
-planets across the galaxy? 
-DATA: The genetic information must have been incorporated into the
-earliest lifeforms on these planets, and then passed down through each
-generation. 
-CRUSHER: But why would anyone do this in the first place? 
-PICARD: And what was this programme designed to do? 
-LAFORGE: Well, we couldn't know that until we assembled the entire
-programme and then ran it. We've tried all the DNA material in the
-Federation computer, but we haven't been able to come up with any with
-compatible protein configurations. 
-PICARD: Then they must be from worlds outside the Federation. Mister
-Data, how many people on the Enterprise are from non-Federation
-planets? 
-DATA: Seventeen, sir. 
-PICARD: You know, this may be a long shot, but we should check each one
-of these seventeen people to see if they have the correct protein
-configurations. 
-CRUSHER: I'll begin collecting DNA samples now. 
-LAFORGE: You know, Captain, I've been thinking. Somebody else must know
-about this
-programme. I bet one of the missing fragments was on Indri Eight.
-That's why it was destroyed. 
-PICARD: To keep us from finding that piece of the puzzle. It's four
-billion years old. A computer
-programme from a highly advanced civilisation, and it's hidden in the
-very fabric of life itself. Whatever information this programme
-contains could be the most profound discovery of our time. Or the most
-dangerous. And the Professor knew that.
-
-[Picard's quarters]
-
-CRUSHER: They all came up negative. 
-PICARD: Well I have been through every page of the Professor's
-published works, looking for some clue as to where to go next. So far,
-nothing. 
-CRUSHER: Maybe we've been at this too long. Why don't we both get some
-sleep and start again tomorrow morning. 
-PICARD: I was in the neighbourhood. When I asked the Professor why he
-went all the way to Kurl, he said, I was in the neighbourhood. Doing
-what? 
-CRUSHER: Collecting DNA samples. 
-PICARD: There's only one planet in the Kurlan system capable of
-supporting life. Loren Three. 
-CRUSHER: No. There is no Loren Three sample from the data downloaded
-from the Professor's shuttle. If he did have one it must have been
-taken by the Yridians when they attacked. 
-PICARD: Mister Data, set course for Loren Three, maximum warp. 
-DATA [OC]: Aye, sir.
+DATA: Captain. 
+(The Klingon enters his data and more sections link up) 
+NU'DAQ: Excellent. 
+(Ocett adds her data, and it looks a good three quarters done) 
+CRUSHER: There's still one missing piece. 
+NU'DAQ: Pahk! We have surrendered what we had for nothing. 
+GUEST3: You are remarkably short sighted, Nu'Daq. We are closer to the
+answer than we were. 
+PICARD: We may be very much closer indeed. 
+NU'DAQ: How can that be? We have no idea where to start looking for the
+missing DNA fragment. 
+PICARD: This is a jigsaw puzzle whose pieces are scattered across the
+galaxy. Doesn't it make it natural to assume that the original
+designers of the puzzle should want us to find it? Why else would they
+have put the pieces in our DNA? And in turn, doesn't suggest they would
+try to make it easy for us to find those pieces, that there might be
+some pattern to their distribution? 
+CRUSHER: The computer might be able to find that pattern. 
+PICARD: Doctor, programme the computer to analyse the distribution of
+the pieces that we have, correcting for changes in star configurations
+over four billion years, then extrapolate for the missing piece. 
+CRUSHER: That's going to take several hours to set up and to process.
+If you'll excuse me. 
+PICARD: If you wish, you can stay on board while we wait. 
+NU'DAQ: I intend to.
 

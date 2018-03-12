@@ -1,40 +1,5 @@
-TROI COMPUTER RIKER WORF LAFORGE
-
-[Troi's quarters]
-
-TROI: The secondary plasma vent has a triple
-redundant bypass. Which means that the primary access junction is
-routed through 
-(doorbell) 
-TROI: Come in. Would be routed through the port transducer matrix. Come
-to give me more encouragement? 
-RIKER: No. I'm actually here to tell you that I've decided to cancel
-the rest of your test. 
-TROI: What? 
-RIKER: I'm cancelling the test. 
-TROI: May I ask why? 
-RIKER: You've taken the Engineering qualification three times. You're
-no closer to passing. 
-TROI: Well, then I'll take it four times, or fourteen times, or however
-many times are necessary for me to get it right. 
-RIKER: Deanna, this is nothing personal. Not everyone is cut out to be
-a Bridge Officer. I don't think this is for you. 
-TROI: Why? Because I'm not the most technically-minded person on the
-ship? I may have trouble telling the difference between a plasma
-conduit and a phase inducer, but there's more to being a bridge officer
-than memorising technical manuals. 
-RIKER: That's right, there is. You could spend the next month
-memorising all the technical manuals in the computer, I still don't
-think you'd pass the test. 
-TROI: Tell me one thing. Is there a solution? Or is this simply a test
-of my ability to handle a no-win situation? 
-RIKER: There is a solution. 
-TROI: Then give me time to find it. 
-RIKER: I can't. As much as I care about you, my first duty is to the
-ship. I cannot let any Bridge Officer serve who's not qualified. I'm
-sorry. 
-(Riker leaves, Troi is angry then the penny drops) 
-TROI: My first duty is to the ship. The ship!
+TROI COMPUTER LAFORGE WORF RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Holodeck - Engineering]
 

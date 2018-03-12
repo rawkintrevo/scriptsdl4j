@@ -1,70 +1,31 @@
-Q PICARD
+VASH NURSE GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Marian's chambers]
 
-(Picard has just got into bed when Q appears) 
-Q: Sleeping alone? 
-PICARD: I'm in no mood for your foolishness, Q. 
-Q: I knew there was something different about you. You seem tense,
-preoccupied, somewhat smaller. At first I thought it was that horrible
-lecture of yours, but I was mistaken. 
-PICARD: Whatever game you want to play will have to wait until
-tomorrow. 
-Q: I had such high hopes for you, Picard. I thought you were a bit more
-evolved than the rest of your species. But now I realise you're just as
-weak as all the others. Still, it pains me to see the great Jean-Luc
-Picard brought down by a woman. 
-PICARD: What woman? 
-Q: Don't play coy with me, Captain. I witnessed your little spat with
-Vash. Nor will I soon forget the look of anguish on your face. The
-pain, the misery. If I didn't know better, I would have thought you
-were already married. 
-PICARD: You must be very bored, Q. Your imagination is running away
-with you. 
-Q: This human emotion, love, is a dangerous thing, Picard, and
-obviously you are ill-equipped to handle it. She's found a
-vulnerability in you. A vulnerability I've been looking for for years.
-If I had known sooner, I would have appeared as a female. Mark my
-words, Picard, this is your Achilles heel. 
-PICARD: Believe what you wish. 
-Q: Do you deny that you care for this woman? Believe me, I'd be doing
-you a big favour if I turned her into a Klabnian eel. 
-PICARD: Stay away from her, Q. 
-Q: I was just trying to help. My debt to you 
-PICARD: Is hereby nullified. I don't want your help, your advice, your
-favours or for that matter, you. Do you understand? Once and for all! 
-Q: You would have me stand idly by as she lead you to your destruction?
-
-PICARD: Yes! 
-Q: As you wish.
-
-[Meeting room]
-
-(looking remarkably like the ship's theatre. Picard
-enters in dress uniform. Senior staff are at the back, normally
-dressed) 
-PICARD: Ladies and gentlemen, members of the Archaeology Council.
-Welcome. Mystery. It is the mystery of Tagus Three that brings us
-together today. It is a mystery that has invited more argument, more
-deduction, more speculation than the best works of fiction. And if
-you'll excuse the conceit, I want to tell you about my detective story.
-For several years now, I have been trying to unravel the secrets of
-Tagus Three. 
-(a green hat appears on Crusher's head. Troi draws her attention to it)
-
-PICARD: Needless to say, I've not succeeded. 
-(Troi gets a red hat) 
-PICARD: However, I have, I believe, turned up some new information,
-that, if nothing else, raises a whole new set of mysteries and I hope
-that we can discuss them here together. 
-(Riker acquires a quarterstaff) 
-PICARD: There have been nine hundred and forty seven known
-archaeological excavations conducted on the planet's surface. Of those,
-some seventy four are generally believed to have revealed findings of
-major importance. 
-(Data gets a monk's habit and leg of meat) 
-PICARD: The earliest was some twenty two thousand years ago. 
-(He notices what has been happening to his staff, then he is redressed
-in Errol Flynn era clothing with a long bow) 
-PICARD: What the hell?
+NURSE: Oh, you'll wear yourself out with all that
+pacing, Milady. 
+VASH: I told you to stop calling me that. The name's Vash. 
+NURSE: My poor lamb. You've got a brain sickness for sure. Can't I get
+you something to ease your suffering? 
+VASH: I could use a drink. 
+NURSE: Well, I wasn't thinking of spirits, Milady, but I have some nice
+fresh leeches. To drain the fever. 
+VASH: Out. Get out. 
+NURSE: Oh, her mind's in an awful turmoil, Sir Guy. 
+VASH: Who the hell are you? 
+NURSE: Milady, everyone in Nottingham knows, Sir Guy of Gisbourne. 
+VASH: Sir Guy of what? 
+SIR GUY: Leave us. 
+(the nurse leaves) 
+SIR GUY: Do not mock me, Lady Marian. I'm prepared to offer you one
+last chance to change your mind. Will you marry me? 
+(Vash slaps his face) 
+SIR GUY: I see. Then the execution will proceed as scheduled. 
+VASH: What execution? 
+SIR GUY: I warn you, Marian, this pathetic attempt at feigning madness
+will not save your life. 
+VASH: You mean I'm the one being executed? Sir Guy, wait a minute.
+Couldn't we talk this over? I admit, I haven't been myself lately.
+Maybe we've both been a bit hasty? Please?
 

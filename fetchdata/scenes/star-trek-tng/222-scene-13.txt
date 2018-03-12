@@ -1,59 +1,56 @@
-RIKER ISABELLA LAFORGE PICARD CLARA SUTTER DATA
+TROI LAFORGE WORF PICARD CLARA FELTON DATA ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-LAFORGE [OC]: But we can't find the source. 
-PICARD: If we can't correct it we may have to reverse course and leave
-the nebula. 
-[Engineering]
+WORF: Warp field generators are standing by. 
+LAFORGE: Captain, we should be able to illuminate any strands within
+two thousand kilometres of the ship. 
+PICARD: Proceed. 
+LAFORGE: Initiating field generation. 
+PICARD: Remarkable. 
+(there are lots of red strands, like a loose spider web) 
+DATA: It is an irregular lattice composed of approximately forty seven
+million strands of energy. 
+LAFORGE: Captain, with this many of them, the resonant effect on our
+shields could cause a problem. 
+PICARD: Agreed. Ensign, bring us about. Take us out of the nebula. 
+DATA: It may be difficult, sir. I am detecting a significant number of
+strands behind us. 
+PICARD: Do your best, Ensign. 
+FELTON: Aye, sir.
 
-LAFORGE: Give me a couple of minutes here, Captain.
+[Troi's quarters]
 
-SUTTER: Clara, now. 
-(Clara leaves) 
-SUTTER: I'm sorry, Commander.
+TROI: Hot chocolate. Computer, I need my
+appointment schedule for next week. 
+(the cup of chocolate falls over on its own. She picks it up, gets a
+cloth and when she comes back, the cup is on its side again)
 
-[Corridor]
+[Daycare centre]
 
-(Isabella appears) 
-CLARA: Why do you keep disappearing like that? 
-ISABELLA: The grown-ups don't believe I'm real. When they're around, I
-have to be invisible. Wait here. 
-(Isabella disappears)
-
-[Engineering]
-
-DATA: The drag coefficient continues to increase.
-Our velocity has fallen by twelve percent. Velocity is increasing.
-Ship's speed has stabilised at one quarter impulse. 
-LAFORGE: That's great, Data. What'd you do? 
-DATA: I did nothing. The problem seems to have corrected itself.
-
-[Corridor]
-
-(Isabella appears) 
-CLARA: Where did you go? 
-ISABELLA: There was something I had to do.
-
-[Observation lounge]
-
-LAFORGE: I don't have an explanation, Captain. We
-seemed to hit something, then we started losing speed. So far as we can
-tell, there's nothing out there to hit. 
-RIKER: Could some kind of damping field have caused us to lose
-velocity? 
-DATA: We have simulated several such fields, but were unable to
-reproduce the same drag coefficient. 
-LAFORGE: And we still don't know why the problem suddenly corrected
-itself. 
-PICARD: It seems we're looking a unique phenomenon. One that hasn't
-been recorded before. 
-LAFORGE: The question is, do we stay here and check it out? 
-RIKER: Might be dangerous. 
-DATA: Since we have only experienced the phenomenon once, it is
-impossible to estimate the risks. 
-LAFORGE: Captain, I'd like to stay here for a little bit, collect some
-samples of the gaseous matter, see what it tells us. 
-PICARD: Agreed. Collect your samples, Mister La Forge. We'll proceed
-with caution. Dismissed.
+ALEXANDER: Kryonian Tigers aren't so scary. I saw
+one once. 
+CLARA: You did? 
+ALEXANDER: My father took me to the zoo on Brentalia. All the tiger did
+was lick my hand. And he smelled funny. 
+CLARA: I think we need more water. 
+ALEXANDER: I'll get some. 
+(Alexander walks off, and a piece of clay on a tray falls over and
+squashes the goblet) 
+CLARA: Isabella? 
+ALEXANDER: Clara! 
+CLARA: I didn't do it. 
+ALEXANDER: Who did? 
+CLARA: It was Isabella. 
+ALEXANDER: I don't see anybody. 
+CLARA: She's invisible. 
+ALEXANDER: I spent two weeks on that. That was really mean. 
+CLARA: I didn't do it. I didn't. 
+ALEXANDER: Clara, there's no such thing as invisible people. You're
+lying. 
+(a piece of clay hits him from behind) 
+ALEXANDER: Hey! 
+CLARA: Isabella, stop! 
+(Clara runs out)
 

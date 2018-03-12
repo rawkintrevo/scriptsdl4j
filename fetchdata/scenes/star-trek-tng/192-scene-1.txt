@@ -1,17 +1,18 @@
-RIKER LAFORGE PICARD BREVELLE HICKMAN SUSANNA
+RIKER LAFORGE PICARD GUEST0 GUEST2 SUSANNA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
   [Tarchannen]
 
 (USS Victory NCC9754 away team sensor log stardate
 40164.7 17.29.46 at the bottom of the screen) 
-BREVELLE [OC]: Tarchannen Three Investigation. Stardate 40164.7. Ensign
+GUEST0 [OC]: Tarchannen Three Investigation. Stardate 40164.7. Ensign
 Anthony Brevelle recording. Lieutenant Susanna Leijten in command. 
 SUSANNA: You up and running, Brevelle? 
-BREVELLE [OC]: Yes, Lieutenant. 
+GUEST0 [OC]: Yes, Lieutenant. 
 LAFORGE: I've checked buildings four and five. Just like all the
 others. No phaser hits, no sign of a fight. It's like the entire
 outpost just vanished. 
-HICKMAN: Lieutenant Leijten, you'd better come see this. No footprints,
+GUEST2: Lieutenant Leijten, you'd better come see this. No footprints,
 no vehicle tracks. The wind probably erased them. But look. 
 (he holds up a uniform) 
 SUSANNA [OC]: Freeze visual.

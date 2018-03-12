@@ -1,132 +1,42 @@
-TROI KWAN LAFORGE WORF PICARD RIKER COMPUTER NARA DATA
+PICARD TROI CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Nacelle control]
+[Observation lounge]
 
-(there is a man poised to jump into the plasma) 
-RIKER: What happened? 
-NARA: (alien woman) He locked out the controls. Before we knew what was
-happening, he stepped up onto the walkway. 
-RIKER: (to Worf) See if you can help shut down the plasma flow. 
-NARA: I'm afraid if we try to get any closer, he will jump through the
-forcefield. 
-RIKER: Dan, it's me. It's Will Riker. I was here yesterday, remember? 
-KWAN: (alien man) I didn't want to do it. But I saw them. And they
-laughed at me. They laughed. 
-(Riker is on the walkway) 
-RIKER: Whatever happened, we can talk about it. I want to help. 
-KWAN: Stay away! 
-RIKER: I just want to see your face, that's all. So we can talk. 
-KWAN: I know what I have to do. 
-RIKER: Dan, no! 
-WORF: I have unlocked the controls. 
-COMPUTER: Shutdown procedure initiated. 
-NARA: There's still plasma in the injector. It'll take time to vent
-off. 
-RIKER: Tell me what happened. Maybe I can help. 
-KWAN: I know what I have to do. 
-(and he jumps into the plasma stream. Riker hits the bulkhead in anger
-and frustration and despair)
-
-[Ready room]
-
-RIKER: A few more seconds I could've saved his life
-
-WORF: Commander, you did everything you could. It was not your fault. 
-RIKER: It was strange. I felt as if he didn't even recognise me,
-although I was with him just the other day when I supervised the tube
-refit. 
-PICARD: How did he seem then? 
-RIKER: Fine. I complimented him on getting the refit done faster than
-expected. He was pleased that I'd noticed. 
-TROI: I met with him about six weeks ago, during the crew evaluations.
-He was very positive. He was looking forward to being posted to the
-nacelle tube. 
-RIKER: He was a good officer with a fine career ahead of him. I don't
-understand why he wanted 
-PICARD: In my years as a Starship Captain, I've had to notify many
-parents of the loss of loved ones, but never before a suicide. I would
-like to be able to offer Lieutenant Kwan's parents some explanation of
-what happened, to try to help them make sense of this. 
-WORF: Maybe he left a message of some kind, explaining why he did it. 
-PICARD: I would like the two of you to piece together a picture of his
-last few days. 
-TROI: If he made any personal logs, it might be helpful to look through
-them. 
-PICARD: You're authorised to do so. 
-(Troi and Worf leave) 
-LAFORGE [OC]: La Forge to Captain. 
-PICARD: Go ahead.
-
-[Engineering]
-
-LAFORGE: I've just finished my damage assessment.
-We should be able to get underway I'd say within the hour. 
-PICARD [OC]: Mister La Forge
-
-[Ready room]
-
-PICARD: The medical situation on Barson Two has
-worsened. Starfleet has given us permission to exceed warp speed
-limitations so as to get back on schedule.
-
-[Engineering]
-
-LAFORGE: We'll be able to give you warp eight if
-you need it. 
-PICARD [OC]: Acknowledged. 
-DATA: Geordi, would you agree that the instinct for self-preservation
-is shared by most life forms? 
-LAFORGE: I'd say it's probably the most basic instinct, Data. 
-DATA: That being the case, I find it difficult to understand why
-someone would deliberately terminate their own existence. 
-LAFORGE: I don't know, Data. All I can think is that maybe Lieutenant
-Kwan felt that there was something wrong in his life, something he felt
-powerless to fix. 
-DATA: I believe I understand. I have been in a similar situation. 
-LAFORGE: Really? 
-DATA: The first months following my activation were a difficult period
-for me. There were many problems associated with my becoming sentient. 
-LAFORGE: Because your neural net was still forming. 
-DATA: As I acquired new skills, neural pathways would form replacing
-other less complex pathways. It was very disorienting. 
-LAFORGE: I bet. 
-DATA: As my systems grew in complexity, it became increasingly
-difficult to integrate new pathways into my existing neural net. The
-probability of cascade failure grew with each additional pathway. I
-came to the conclusion it would be safer and easier to shut myself down
-and start again. 
-LAFORGE: Yeah, but if you had done that, you wouldn't have remembered
-any of the things that had happened to you. 
-DATA: In a way, it would have been like committing suicide. 
-LAFORGE: So what did you do? 
-DATA: I decided against the procedure. I chose instead to treat the
-problems I was having with my systems as challenges to overcome, rather
-than obstacles to be avoided. 
-LAFORGE: Great way of looking at it, Data. I wish Lieutenant Kwan had
-been able to look at his problems the same way.
-
-[Kwan's quarters]
-
-WORF: This is a Napean design. 
-TROI: His mother's Napean, his father's human. It all looks so normal.
-For some reason I half expected the place to be a mess. 
-WORF: Yes. It is strange to think that someone could have considered
-ending his life and yet give no outward sign. Just before he jumped, he
-seemed almost calm. 
-TROI: Well, he must have been in a lot of pain to do what he did. It
-could be that the prospect of ending the pain felt like a great relief.
-
-(Troi picks up a photograph on the bedside table) 
-TROI: This is Ensign Calloway, isn't it? 
-WORF: Yes, she is a medical technician in Sickbay. 
-TROI: It's always hard to lose someone you care about, but to lose them
-like this? 
-WORF: We should check his personal logs. 
-TROI: This is his last entry. He made it before going on duty this
-morning. 
-KWAN [on monitor]: Personal log, stardate 47622.1. We finally finished
-the nacelle tube refit last night. After pulling two double shifts in a
-row, I'm really looking forward to spending some time with Maddy. 
-TROI: Ensign Calloway. That doesn't sound like a man who's planning on
-taking his own life. 
-WORF: No. No, it does not. 
+PICARD: Do you remember anything else? 
+TROI: Yes, I think I do. There was a tool crate on the floor. It was
+labeled Utopia Planitia. 
+DATA: The shipyard where the Enterprise was built. 
+PICARD: Clearly this was much more than an empathic echo. It seems that
+you were actually seeing something that happened in the control room
+eight years ago. 
+TROI: Everyone was looking directly at me, but it was as though I was
+seeing through someone else's eyes. 
+DATA: Lieutenant Kwan was partially empathic. 
+CRUSHER: Maybe you were seeing it through his eyes? 
+TROI: It's possible, but I don't see how it could have happened. 
+PICARD: Well, putting that on one side for the moment, let's assume
+that by some unexplained phenomenon, you witnessed an event that
+occurred to Lieutenant Kwan. Those faces that you saw. Did you
+recognise any of them? 
+TROI: I've never seen the woman before, or the man who was with her.
+But there was someone else there. A man. He was staring at me in the
+most peculiar way. I think he had reddish hair. And he did seem
+familiar to me. But it's all so hazy. It's like trying to remember a
+dream. 
+PICARD: There was a woman who was frightened. And then you saw her
+again, laughing, presumably at Lieutenant Kwan. 
+CRUSHER: What does it all mean? 
+TROI: I don't know, but something terrible happened in there. I felt
+it. 
+PICARD: Counsellor, I want you to look through the personnel files of
+Utopia Planitia. See if you can recognise any of those faces. 
+TROI: If only I could go back to the control room without being
+overwhelmed by the experience. It might help me remember some detail
+that might be relevant. 
+CRUSHER: I could give you an inhibitor that would slow the brain's
+production of psilosynine. That might be able to suppress your empathic
+abilities and make the experience more manageable. It would take about
+sixteen hours to synthesise the inhibitor. 
+TROI: I'd like to try that. 
+PICARD: Very well, Counsellor. 

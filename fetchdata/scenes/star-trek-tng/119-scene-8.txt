@@ -1,47 +1,39 @@
-RIKER PICARD REMMICK MORDOCK WESLEY COMPUTER W OLIANA
+WESLEY WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Holodeck]
 
-REMMICK: I want some answers from you now,
-Commander Riker. 
-RIKER: Later. 
-REMMICK: You were ordered to cooperate 
-RIKER: Not now. (enters turbolift) When it doesn't interfere with my
-duties, Remmick.
-
-[Classroom]
-
-COMPUTER: Last question on the hyperspace physics
-test. If the matter and antimatter tanks on a Galaxy class starship are
-nine tenths depleted, calculate the intermix ratio necessary to reach a
-starbase a hundred light years away at warp factor eight. Begin. 
-(Wesley is straight in with 1:1. Oliana runs out of time) 
-COMPUTER: Time elapsed. You now have one hour free before the next
-test. 
-MORDOCK: I must admit, Wesley, you have a very fast mind. 
-WESLEY: Once as I realised it was a trick question, there was only one
-answer. 
-MORDOCK: Yes, there is only one ratio with matter antimatter. One to
-one. 
-OLIANA: You don't know how lucky you are. I can't imagine what it would
-be like to have things come so easily. I have to push every step of the
-way. 
-WESLEY: Oh, no, Oliana, it doesn't come that easily. I have to study
-all the time. 
-OLIANA: It's a good thing you're cute, Wesley, or you could really be
-obnoxious. See you later. 
-(Oliana leaves) 
-WESLEY: Did you hear what she said, Mordock? She said I was cute. 
-MORDOCK: Is that good, Wesley? 
-WESLEY: Yes! I think. 
-[Bridge]
-
-RIKER: I think I should apologise, Captain. 
-PICARD: No need, Number One. Mister Remmick's presence is unnerving, to
-say the least. 
-REMMICK: Are you available now, Mister Riker? Or do you still have
-duties to perform? 
-RIKER: I'm available, Mister Remmick. 
-REMMICK: Any problem with using your Ready room, Captain? 
-PICARD: No, Mister Remmick. Be my guest.
-
+(There is no programme running) 
+WORF: Ensign, what are you doing on the holodeck? I thought you were
+still on Relva Seven. 
+WESLEY: I'm finished testing for the day. 
+WORF: I've disturbed you. I'll leave. 
+WESLEY: Wait. I thought I wanted to be alone, but I guess I don't. 
+WORF: How is the testing? 
+WESLEY: Okay. So far. It's not the ones that I've studied for that I'm
+worried about. It's the psych test. Facing my deepest fear and living
+through it. I'm trying to figure out what images to bring up. 
+WORF: Why? 
+WESLEY: I guess I want to scare myself. What do you think? Bulgallian
+rats? Lightning storms? 
+WORF: Do those things frighten you? 
+WESLEY: Sort of, I guess. 
+WORF: The psych test is no more or less important than the rest of the
+process. 
+WESLEY: That's what they said, but I can't stop thinking about it. 
+WORF: Thinking about what you can't control only wastes your energy and
+creates its own enemy. 
+WESLEY: How can they know what my deepest fear is when I don't? 
+WORF: By analysing your psychological profile. They were very accurate
+about everyone I tested with. Including myself. 
+WESLEY: You? I thought there was nothing that could frighten a Klingon
+warrior. 
+WORF: Only fools have no fear. 
+WESLEY: I'm sorry, Lieutenant. I'm asking too many personal questions. 
+WORF: It is very difficult for me to depend on anyone for anything. But
+especially for my life. 
+WESLEY: But on the Enterprise you do that every day. Everyone depends
+on everyone else to protect them. 
+WORF: Yes. 
+WESLEY: So you overcame it? 
+WORF: No. It is still my enemy. 

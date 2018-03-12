@@ -1,33 +1,41 @@
-PICARD TROI COMPUTER CRUSHER
+TROI LAFORGE GUEST4 RIKER ALKAR GUEST5 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Troi's quarters]
+[Engineering]
 
-(Deanna checks herself in a mirror. Is that a
-wrinkle? ) 
-TROI: Computer today's appointment calendar.
-COMPUTER: Oh nine hundred hours, counselling session with Ensign
-Janeway. Ten hundred hours, counselling session with 
-TROI: Cancel them. Cancel everything till after lunch.
-COMPUTER: Acknowledged.
+LAFORGE: Yeah, here we go. Biofilter log on Sev
+Maylor. 
+CRUSHER: Geordi, could this log have been damaged in any way?
+LAFORGE: I don't think so. Why do you ask?
+CRUSHER: There's a discrepancy between the log and the tricorder
+readings I took just three days later. The tricorder shows massive
+physiological deterioration compared with her condition when she beamed
+aboard. I find it hard to believe that so much damage could have
+occurred in such a short period of time.
+LAFORGE: Well I can run a diagnostic of the biofilter system and your
+tricorder.
+CRUSHER: Thanks. Of course, the best way to get the information I need
+would be to do an autopsy.
 
-[Morgue]
+[Ten Forward]
 
-(Maylor is laid out) 
-PICARD: You wanted to see me, Doctor?
-CRUSHER: Yes, Captain. I'm sorry to bother you, but I'm a little
-concerned. I haven't been able to determine the cause of death. She was
-elderly. and Alkar said she had been ill, but I found no evidence of
-any disease. I did find abnormally high levels of neurotransmitter
-residue in her cerebral cortex.
-PICARD: What are you suggesting?
-CRUSHER: I'd like to do an autopsy. I've already spoken to Alkar, and
-he informs me that Lumerian custom forbids it. Could you speak with him?
-PICARD: Do you suspect that her death poses some kind of threat to the
-Enterprise?
-CRUSHER: Well, no.
-PICARD: Then we have no alternative but to concur with his wishes.
+RIKER: Ambassador? We've received word from the
+Seronian and the Rekag delegates. They've agreed to meet with you in
+Darthen tomorrow.
+ALKAR: Thank you, Commander. 
+(Riker walks away, and Troi sashays into the room. Long tight low-cut
+dress and streaked hair up.) 
+DATA: Counsellor Troi has altered her appearance.
+(She goes over to Alkar's table) 
+TROI: Am I interrupting?
+GUEST5: Hello, Counsellor.
+TROI: You want him. I can tell. But you have nothing to give him.
+ALKAR: Deanna, could I talk to you in private.
+TROI: And you. You're envious of him. You pretend to support him, but
+secretly you want him to fail.
+GUEST4: That's not so.
+ALKAR: Please, you must return to your quarters.
+TROI: I won't. I want to be here, with you.
+RIKER: Ambassador, the Counsellor and I are needed on the Bridge.
+ALKAR: Of course, Commander.
 
-[Gymnasium]
-
-(Troi is doing Klingon Tai-chi when she looks at
-herself in the mirror, and starts caressing herself) 

@@ -1,38 +1,9 @@
-RIKER LAFORGE WORF PICARD GRAHAM DATA SUSANNA
-
-[Ten Forward]
-
-SUSANNA: And then I almost married Paul Bogrow. 
-LAFORGE: Bogrow? Bogrow, now which one was he? 
-SUSANNA: You remember. The one with the thin moustache. 
-LAFORGE: Oh, not Bogrow. 
-SUSANNA: I know. 
-LAFORGE: The one who always used to drive you crazy? You always thought
-he was so full of himself. 
-SUSANNA: Well, I decided I had prejudged him unfairly. And then I
-decided that I'd been right in the first place. 
-LAFORGE: Bogrow. 
-SUSANNA: What about you? 
-LAFORGE: I enjoy the bachelor's life too much. 
-SUSANNA: That doesn't sound like my little brother who always wanted
-advice on women. 
-LAFORGE: Well, obviously you were a great advisor. (pause) Well, Suz,
-what do you think? 
-SUSANNA: I don't know. But I'm not ashamed to tell you I'm a little
-scared, you know? 
-LAFORGE: Yeah, I know. 
-SUSANNA: Well, if anybody's going to figure this out, it'll be the
-Leitjen and La Forge Show, right? 
-LAFORGE: Yeah. 
-SUSANNA: We always made a good team. 
-LAFORGE: A hell of a team. 
-RIKER [OC]: Commander La Forge, Commander Leijten, report to the
-Bridge. We have a fix on the missing shuttle. 
-LAFORGE: On our way, Commander.
+RIKER LAFORGE WORF PICARD DATA GUEST4 SUSANNA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-GRAHAM: (the lady at helm) Entering the Tarchannen
+GUEST4: (the lady at helm) Entering the Tarchannen
 system, sir. 
 PICARD: Slow to impulse power. Mister Worf? 
 WORF: Long range sensors holding on the shuttlecraft, bearing zero one
@@ -43,7 +14,7 @@ PICARD: Put a repeating message on all subspace channels. Order the
 Lieutenant to come about and stand to. Make it a priority one
 communiqu. 
 WORF: Still no response, sir. 
-GRAHAM: The craft is now within visual range. 
+GUEST4: The craft is now within visual range. 
 PICARD: On screen. 
 DATA: The shuttle's acceleration is increasing. Its trajectory is
 moving directly into the planet's atmosphere. He will reach an
@@ -54,7 +25,7 @@ DATA: That is correct, Commander.
 PICARD: How soon, Mister Data? 
 DATA: Fifty three seconds, sir. 
 PICARD: Options? 
-GRAHAM: He's out of transporter range. 
+GUEST4: He's out of transporter range. 
 LAFORGE: He's still too far away to get a positive lock with the
 tractor beam, Captain. 
 PICARD: Open a channel. 

@@ -1,107 +1,43 @@
-RIKER MIROK CRUSHER WORF PICARD VAREL MCDOWELL RO DATA
+RIKER CRUSHER LAFORGE PICARD GUEST1 RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Romulan Engineering]
+[Turbolift]
 
-MIROK: Pressure in the containment chamber has
-increased fifteen melakols in the last two minutes. 
-RIKER: What can we do to stop the overload? 
-MIROK: Most of the conduits were damaged during the explosion. I can't
-even access the central computer. 
-WORF: Commander. Emergency bulkheads have sealed this section off from
-the rest of the ship. There is no way to gain access to the main Bridge
-or control centres. 
-RIKER: Survivors? 
-WORF: Readings indicate at least seventy three Romulans are still
-alive. 
-VAREL: Seventy three. 
-(an alarm sounds) 
-MIROK: The pressure has jumped two hundred melakols! 
-VAREL: I've lost control of the containment chamber. 
-MIROK: It's going to implode. 
-RIKER: We'll need to dump the entire engine core. Do you have an
-auto-eject system? 
-MIROK: Yes, but it's not functioning. I'll have to do it manually. 
-RIKER: Mister Worf, you two seal the chamber. 
-VAREL: Implosion will occur in one minute five seconds. 
-RIKER: Enterprise, we need to jettison the entire engine core. You'll
-need to extend the shields once it clears the hull. 
-PICARD [OC]: Understood, Number One. We'll stand by for your signal. 
-(Worf and Varel have got to the manual latches and undone them) 
-WORF: We must get the doors closed. 
-(but Worf can't move the debris jamming them open) 
-WORF: Commander! 
-RIKER: Time? 
-VAREL: Thirty seconds. 
-(the three men finally shift the girder and start to pull the doors
-shut) 
-MIROK: I'm ready, Commander. 
-RIKER: Stay there! Eject the chamber on my order! 
-DATA: Excuse me, sir. 
-(Data takes over and pulls the doors shut) 
-MIROK: Implosion in five seconds) 
-RIKER: Now. 
-(everything shakes as the core is ejected) 
-RIKER: Enterprise, extend shields! 
-(KaBOOM) 
-RIKER: Well, we're still here. 
-MIROK: Yes.
+PICARD: Deck ten. I've been thinking about the
+first time I met Geordi La Forge. He was a young officer assigned to
+pilot me on an inspection tour, and I made some off hand remark about
+the shuttle's engine efficiency not being what it should. And the next
+morning I found that he'd stayed up all night refitting the fusion
+initiators. Well, I knew then that I wanted him with me on my next
+command. Have you decided what you're going to say about Ensign Ro? 
+RIKER: Yes, I have. It wasn't easy. 
+PICARD: Situations like these are never easy, Number One. RO: Why? What
+wasn't easy? What?
 
-[Bridge]
+[Ten Forward]
 
-RIKER [OC]: We'll have a complete power survey done
-within the hour. We'll probably have to supply them with energy for
-life support, and they'll need a new engine core to get home. 
-PICARD: Understood, Commander. Keep us informed of your efforts. Picard
-out. I'll be in Sickbay. 
-MCDOWELL: Aye, sir.
-
-[Corridor]
-
-(Picard walks past Ro lying on the floor. She wakes
-up) 
-RO: Ensign Ro to the Bridge. This is Ensign Ro reporting in. I'm at
-section twenty three baker, near Sickbay. (she wobbles) Sickbay. 
-[Sickbay]
-
-(the door doesn't open for her, but she gets in
-when a man walks out) 
-RO: Excuse me, I need some help. Excuse me? Excuse me, I need some
-help. 
-(but everyone ignores her) 
-RO: Excuse me! I need some help! 
-[Crusher's office]
-
-CRUSHER: We shouldn't make any hasty decisions,
-Jean-Luc. The transporter could've beamed them somewhere else. The
-Romulan ship, another deck of the Enterprise. 
-PICARD: We've already checked those possibilities. The initial findings
-would seen to indicate that there was a radiation surge from the
-Romulan engine core which disrupted the signal. They never
-rematerialised. 
-CRUSHER: We should check again. There might be something that we've
-overlooked and 
-PICARD: Beverly, we've done everything that we can. 
-CRUSHER: You're right. I just hate making out death certificates. Does
-Ensign Ro have any family? 
-RO: Captain, I'm right here. 
-PICARD: None that I know of, but I'll check with the Bajoran liaison
-Office. 
-RO: I'm not dead! 
-CRUSHER: I'll have the official reports ready within the hour. 
-RO: Captain, I don't know what's going on 
-(Picard walks straight through Ro and out of the office) 
-RO: Doctor. Doctor Crusher. Doctor Crusher, I'm right here. Damn it. 
-(Ro's fist goes straight through the desk, so she tests it out on a
-desk console. Then she looks at what Beverly is doing, updating her
-personnel file to current status - deceased) 
-[Romulan Engineering]
-
-MIROK: We're ready, Commander. 
-RIKER: Riker to Enterprise. Begin power transfer. 
-(a beam comes from the Enterprise and the light come back on) 
-MIROK: The power flow is consistent at four hundred kolems. No
-fluctuations in frequency. The main power grid is online. 
-PICARD [OC]: Picard to Riker. 
-RIKER: Riker here. Power transfer appears stable at this end, Captain. 
-PICARD [OC]: Good.
-
+(a party is in full swing, complete with jazz band,
+balloons) 
+RO: What is going on here? 
+LAFORGE: It's our memorial service. 
+RO: This? 
+LAFORGE: Why not? 
+RO: I don't believe this. They think we're dead and they're having a
+party. 
+LAFORGE: Yeah. It's perfect. Come on, let's get started. 
+(Ro fires the disrupter at random targets around the room) 
+PICARD: Well, this is unusual. 
+RIKER: Yeah, I think I like it. 
+(Riker picks up the trombone and joins in) 
+RO: Now I suppose I'll never know what you were going to say about me. 
+(and she fires the disrupter through his head) 
+DATA: Do you think the others will think this service appropriate? 
+CRUSHER: Look around you, Data. Everybody is sharing their memories of
+Geordi and Ro, laughing and talking. What could be more appropriate
+than that? 
+DATA: I am glad you approve, Doctor. 
+GUEST1 [OC]: Brossmer to Commander Data. 
+DATA: Go ahead, Chief. 
+GUEST1 [OC]: I'm sorry to disturb you, sir. We've cleared the
+critical areas of chronitons but we've detected a new field forming in
+Ten Forward that's stronger than any we've seen before. 

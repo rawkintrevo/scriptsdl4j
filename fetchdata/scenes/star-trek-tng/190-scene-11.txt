@@ -1,103 +1,49 @@
-TROI LAFORGE WORF PICARD LEAH RIKER COMPUTER CRUSHER DATA
-
-[Engineering]
-
-LAFORGE: Sorry, Captain. There's too much
-interference to form a warp field.
+TROI WORF PICARD RIKER DATA RAGER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-COMPUTER: Warning. Radiation levels at sixty five
-millirads per minute and rising. 
-RIKER: Riker to Doctor Crusher. 
-CRUSHER [OC]: Go ahead, Commander. 
-RIKER: All decks prepare for radiation protocol. 
-CRUSHER [OC]: Acknowledged. Crusher out. 
-COMPUTER: Warning. Radiation levels at three hundred millirads per
-minute and rising. Lethal exposure in one minute. 
-PICARD: Mister Worf, ready phasers. Minimum power. 
-WORF: Ready. 
-PICARD: Fire. 
-DATA: Radiation levels dropping back to normal, Captain. Energy
-patterns are breaking down, sir. The radiation signature is no longer
-stable. 
-(the once-colourful alien goes dark) 
-DATA: Energy output is negligible, sir. Radiation patterns no longer
-coherent. I believe it is dead, sir. 
-PICARD: We're out here to explore, to make contact with other life
-forms, to establish peaceful relations but not to interfere. And
-absolutely not to destroy. And yet look what we have just done. 
-TROI: Captain, everything you did was consistent with established
-Starfleet procedures. 
-PICARD: Number One, you have the Bridge. 
-DATA: Captain, sensors are picking up a new energy reading from the
-life form. 
-PICARD: Elaborate, Data. 
-DATA: There is a new concentration of ionising radiation growing in the
-centre of its body. 
-PICARD: Then, perhaps it's still alive.
+DATA: The life form's patterns are stable, Captain.
+It seems able to withstand the solar radiation. 
+PICARD: Good. Ensign, set course for the Guernica system. 
+RAGER: Aye, sir. 
+RIKER: We're not staying? 
+PICARD: No, Number One. We've done all we can to help. Now it's time to
+move on. This creature can continue its
+existence without any further interference from us. 
+RIKER: It might be wise to put some distance between us before we
+initiate warp drive. 
+PICARD: Very well. Five hundred kph. Ensign. Engage. 
+WORF: Captain, it is following us. Maintaining a distance of four
+kilometres, directly astern. 
+PICARD: Seventeen degrees to port, Ensign. 
+RAGER: Aye, sir. 
+WORF: It is turning with us, sir. 
+RIKER: Increase to half impulse. 
+WORF: It is matching our velocity. 
+TROI: It's imprinted on us. It thinks the Enterprise is its mother. 
+DATA: A change in energy readings, sir. I am reading an internal
+buildup of gamma particles in 
+WORF: Its velocity is increasing. It is moving directly toward the
+ship. 
+PICARD: Evasive manoeuvres, full. 
+(shudder) 
+RIKER: Report. 
+WORF: Minor damage. 
+DATA: The creature is now in direct contact with the hull, sir. 
+PICARD: On screen. 
+(Baby is sitting at the back of the saucer section, the lights
+fluctuate) 
+PICARD: Mister Data? 
+DATA: Sir, the life form is draining energy directly from the fusion
+reactors. 
+TROI: It's feeding off the energy of the Enterprise as it would from
+its mother. 
+WORF: What action should we take, sir? 
+PICARD: None, Lieutenant. None at all.
 
-[La Forge's quarters]
+Captain's log, supplemental. Since the newborn has
+attached itself to the hull, it has been making greater and greater
+demands on the ship's energy, but we have been able to stabilise our
+power systems temporarily.
 
-(Geordi is laying the table for dinner) 
-LAFORGE: Okay. Computer, subdued lighting. No, that's too much. I don't
-want it dark, I want it cozy. 
-COMPUTER: Please state your request in precise candlepower. 
-LAFORGE: See, it's not a matter of precision, computer, it's a matter
-of mood. Brighter than this. More. More. A little more. Hold. Right
-there. Perfect. Now, some music. Maybe a little soft jazz. No, that's
-not right. Let me think here. Oh, I got it! Some Brahms! A piano etude.
-Nah, that's too corny. Probably everybody thinks of that. Computer,
-just give me some guitar. Classical guitar. Doesn't matter who. Yes,
-thank you. 
-(Doorbell) 
-LAFORGE: Come on in. 
-(Leah enters) 
-LEAH: Oh, you've changed. 
-LAFORGE: Yeah. The uniforms are so formal. 
-LEAH: You're less formal than any Starfleet officer I've ever met,
-Commander. 
-LAFORGE: Am I? I really just wanted to make you feel more comfortable. 
-LEAH: I'm fine. Thank you. 
-LAFORGE: I'm sorry. Come in and have a seat. Can I get you a drink? 
-LEAH: No, thank you. 
-LAFORGE: You sure? You know, your hair, it's different. 
-LEAH: Different than a few hours ago? 
-LAFORGE: No, I mean it's different than I expected. Different from your
-Starfleet records. 
-LEAH: Oh. Yes, I used to wear it up. 
-LAFORGE: Yeah. 
-LEAH: Why would you need to see my personnel file? 
-LAFORGE: Standard procedure when guests come on board. Protocol. I
-mean, it was nothing specific, actually. Just, you know. 
-LEAH: Commander La Forge, if I seem to be somewhat unyielding in my
-views, it's because I care so very much about my work. 
-LAFORGE: Oh, I know. 
-LEAH: To be honest, people find me cold, cerebral, lacking in humour. 
-LAFORGE: But they're wrong, I assure you. 
-LEAH: Well, I try not to be that way, but when it comes to my designs,
-my engines, especially the ones on the Enterprise. 
-LAFORGE: It's like they're your children. 
-LEAH: Yes. Exactly. 
-LAFORGE: So naturally you're a little possessive about them. 
-LEAH: You understand that? 
-LAFORGE: Yes, I do. You see, I feel the same way. 
-LEAH: That's amazing. I don't think anyone has ever. Sometimes I feel
-more comfortable with engine schematics than people. 
-LAFORGE: Well, maybe you just haven't met the right people. You hungry?
-I'm hungry. Why don't I just start dinner, okay? 
-LEAH: Commander. 
-LAFORGE: Please, call me Geordi. 
-LEAH: I'm sorry, I hope that I didn't put you to a lot of trouble but I
-can't stay. 
-LAFORGE: You can't? 
-LEAH: I just don't think that it's appropriate. 
-LAFORGE: Oh. 
-LEAH: I'll meet with you at oh eight hundred tomorrow. I'm preparing a
-list of discrepancies that I've identified in your modifications. I
-hope, now that we've reached an understanding that you'll be prepared
-to discuss them with me in a more objective fashion. 
-LAFORGE: Sure. Fine. 
-LEAH: Thank you. Goodnight, Commander. 
-(Leah leaves) 
-LAFORGE: Goodnight. 

@@ -1,49 +1,41 @@
-KURN PICARD WORF
+RIKER CRUSHER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Sickbay]
 
-PICARD: What are the allegations, Worf? 
-WORF: My father is accused of aiding and abetting the Romulan attack on
-the Khitomer outpost. 
-PICARD: The attack in which he himself was killed? But why now, after
-twenty years? 
-WORF: I do not know, Captain. I will hear the evidence when I arrive.
-The charge has been made by Duras, the son of my father's greatest
-rival. Our family name will be disgraced for seven generations. It is
-my responsibility to clear his name or answer for his crimes. 
-PICARD: Answer for them? 
-WORF: The family of a Klingon warrior is responsible for his actions
-and he is responsible for theirs. If I fail in my challenge, I will be
-executed. Will you grant my leave, Captain? 
-PICARD: No. If I understand correctly, a Starfleet officer, a respected
-member of my crew, could be accused of a capital crime. Your actions in
-this matter will reflect on this ship and on the Federation. Therefore,
-it seems only appropriate that your captain should be at your side
-while you make your challenge. I'm sure you would do no less for me. 
+CRUSHER: What kind of a weapon makes a vicious
+wound like that? 
+WORF: It is a kut'luch. The ceremonial weapon of an assassin. 
+CRUSHER: Fortunately his metabolic recovery is phenomenal. He will be
+all right 
+WORF: It does not matter. We should have let him die. Now that Duras
+knows his bloodlines, we will both be executed. 
+CRUSHER: You sound like you've already lost, Worf.
+
 [Bridge]
 
-PICARD: Commander Kurn 
-KURN: Sir. 
-PICARD: We're changing course. Set coordinates for the First City of
-the Klingon Imperial Empire. 
-[Ten Forward]
-
-KURN: We arrive within the hour. 
-WORF: Yes. 
-KURN: The Council will receive you at high sun in the Great Hall of 
-WORF: I know the procedure for the challenge. 
-KURN: You'll need a cha'DIch to defend you. While you are accused, you
-will not be allowed combat. I would be honoured if you chose me. 
-WORF: I ask you to stand with me, to be my cha'DIch. 
-KURN: jIlajneS. ghIj qet jaghmeyjaj. The two sons of Mogh. Together, we
-will restore the family honour. 
-WORF: No. For the proceeding, you will not reveal your true father. 
-KURN: I must. 
-WORF: You will not. 
-KURN: Because it would mean my death as well if you fail? A Klingon's
-honour means more to him than his life. Perhaps your human values have
-clouded your judgment. I insist. 
-WORF: On this ship, you are my commander, and I obey. In Council
-chamber, you are my cha'DIch. You do not insist. You obey. 
-KURN: Yes, brother.
+DATA: Commander, I have discovered the basis of the
+charges against Worf's father. Apparently the Klingons recently
+captured a Romulan ship with logs that provided new information on the
+Khitomer attack. They clearly indicate a transmission from the outpost
+to the Romulan ship moments before the shields went down. 
+LAFORGE: From Worf's father? 
+DATA: They do correspond to Mogh's personal security code. 
+RIKER: How can we be sure these records haven't been falsified? 
+LAFORGE: We can cross check them against the Intrepid's sensor logs. 
+DATA: I will try, but the Intrepid was at the edge of sensor range
+during the attack and we cannot be sure if the scan was complete. 
+LAFORGE: Looks like a pretty good match-up, Data 
+DATA: Both the Intrepid and Romulan logs show a series of distress
+signals from Khitomer. 
+RIKER: What happened there. 
+LAFORGE: Those are gaps in the Intrepid's logs. Missing information due
+to the range. 
+DATA: That is where Mogh's alleged transmission should be. 
+RIKER: Right in the middle of the gap? 
+LAFORGE: Wait a second, Data. Back up. Just before the Intrepid's gap
+begins, the timebase of both files are in perfect sync. But look. Look
+at what happens to the signal after the shields are dropped. 
+DATA: They are no longer synchronous. 
+LAFORGE: Commander, somebody's been rewriting history.
 

@@ -1,47 +1,34 @@
-RIKER WORF PICARD TOQ LKOR ROMULAN BAEL TOKATH
-
-[Jungle]
-
-(Two Romulans track Worf) 
-ROMULAN: There. 
-(Worf spots Shrek and his little ship but is jumped by Toq! He
-restrains from hurting the boy and the Romulans catch him)
-
-Captain's log, stardate 46759.2. The Yridian vessel
-Lieutenant Worf boarded at Deep Space Nine has failed to arrive for our
-scheduled rendezvous. It is now twelve hours overdue.
+BAEL PICARD RIKER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Still no sign of them on long range
-scanners. 
-PICARD: Contact DS9. Find out what they know about this Yridian trader.
+(at the science station) 
+PICARD: What is it, Number One? 
+RIKER: We've just received the Yridian's flight plan from Deep Space
+Nine. 
+LAFORGE: He gets around. He's been to three different systems in this
+past week. He could have left Worf at any of them. 
+PICARD: Are any of these systems near Romulan space? 
+LAFORGE: Two of them. The Nequencia and the Carraya systems. 
+(Echevarria system is too far away to be considered) 
+PICARD: Let's head for the closer one. 
+RIKER: Aye, sir.
 
-RIKER: Hopefully he filed a flight plan before he left the station. 
-PICARD: That's the only chance we have of finding Worf. 
-[Meeting hall]
+[Ba'el's family's quarters]
 
-TOKATH: We haven't had to use one of these for a
-long time. It implants a small boridium pellet under the skin. (he
-injects Worf) We can
-use its energy signature to track you. 
-L'KOR: In time, you will grow accustomed to life here. 
-WORF: Never. 
-TOKATH: He is one of yours. Deal with him however you like. But I warn
-you, if he becomes a disruption, I will not be so tolerant. 
-L'KOR: Toq. You guard him. He is free to move around inside the
-compound. But make certain he does not cause trouble. 
-[Compound]
-
-(Worf does his martial art routine) 
-BA'EL: What are you doing? 
-WORF: This is the mok'bara. The form clears the mind and centres the
-body. 
-(Ba'el tries to copy him) 
-WORF: No. Like this. First you must learn to breathe. Stand tall. As
-tall as you can. Now, take a wider stance. 
-TOQ: You must stop. 
-(Worf throws the boy over his shoulder) 
-WORF: These forms are the basis for Klingon combat. You would be wise
-to learn them. I will teach you. Join us. 
-TOQ: We'll see what L'Kor thinks of this. 
+BA'EL: What do you want? 
+WORF: I am sorry if I upset you. 
+(Ba'el gestures Worf to come in) 
+WORF: I was surprised. I became angry. But I do not blame you. You
+cannot help being what you are. 
+BA'EL: There's nothing wrong with what I am. 
+WORF: What I mean is, it is not your fault. 
+BA'EL: What, being born? I'm sorry if that offends you. 
+WORF: No, I. It is hard to explain. Klingons and Romulans are blood
+enemies. Have been for centuries. 
+BA'EL: Not here. Here, we live in peace. 
+WORF: But I don't live here. 
+BA'EL: Worf, before you knew, you were attracted to me. Can't you leave
+the hatred behind, too? Can't you accept me as I am? 
+WORF: I do not know. 

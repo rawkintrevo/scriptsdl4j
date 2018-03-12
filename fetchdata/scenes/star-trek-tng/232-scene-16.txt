@@ -1,76 +1,32 @@
-RIKER PICARD Q CRUSHER DATA AMANDA LOTE
+RIKER AMANDA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Gazebo]
 
-PICARD: Number One Doctor Crusher has some live
-vaccine bacilli to be delivered to Tagra. It'll have to be shipped in a
-stasis field. Will you make the arrangements? 
-RIKER: I'll get right on it. 
-DATA: Captain, message coming in from Tagra Four. 
-PICARD: On screen. 
-LOTE [on viewscreen]: Enterprise, I am Orn Lote, engineer. We are
-having difficulties with the reactor that
-powers the barystatic filters on our southern continent. We may have to
-shut it down for repairs. 
-PICARD: Perhaps my Chief Engineer could be of assistance? 
-LOTE [on viewscreen]: I hope so. If we are forced to disable the
-reactor, it would take months to re-establish the ionic currents the
-filters have formed in the atmosphere. 
-PICARD: Send us your design specifications I'm sure we'll be able to
-help. 
-LOTE [on viewscreen]: Thank you, Captain. 
-(transmission ends) 
-DATA: Captain? 
-PICARD: What is it, Mister Data? 
-DATA: I have some information regarding Amanda Rogers' parents. Records
-indicate that they died in Topeka, Kansas.
-Their home was destroyed during a tornado. 
-PICARD: A tornado? Why wasn't it dissipated by the weather modification
-net? 
-DATA: Unknown, sir. The bodies were found in the rubble after the storm
-had passed. 
-PICARD: See if you can find out any more details, Mister Data. I'd like
-to know more about that storm. 
-DATA: Aye, sir.
-
-[Medical lab]
-
-Q: Well, if it isn't Number Two. 
-RIKER: I was looking for Doctor Crusher. I didn't know what nutrients
-she wanted to send with the bacilli. 
-AMANDA: I'm not sure. I'll tell her to contact you. 
-RIKER: Thanks. 
-AMANDA: You could stay here and wait for her, if you, you know, wanted
-to. 
-RIKER: Just tell her I'll be in shuttlebay two. 
-(Riker leaves with a big grin) 
-Q: You're attracted to him. 
-AMANDA: I am not. 
-Q: I think you are. How repulsive. How do you stand that hair all over
-his face? 
-(Beverly enters) 
-AMANDA: Doctor, Commander Riker was just here looking for you. He said
-he'd be in Shuttlebay Two. 
-CRUSHER: Thank you. Have you finished already? 
-AMANDA: Yes. 
-CRUSHER: How did you do it so quickly? 
-AMANDA: Q helped me. It took us about half the time that it would have
-normally taken us. 
-CRUSHER: That explains this data. I needed to know the rates of
-mitosis. By artificially inflating them you made the experiment
-useless. Now I have to do it all over again. 
-AMANDA: I'm sorry, Doctor. 
-Q: Don't be sorry. If she wants to make things difficult on herself,
-that's her business. 
-CRUSHER: Why did you interfere with what she was doing? 
-Q: She's a Q. Making her plod through human chores is beneath her. 
-CRUSHER: She has asked not to be treated differently. 
-Q: That doesn't mean she should be bored to death. 
-CRUSHER: I don't interfere with what you're teaching her. 
-Q: You wouldn't be capable of interfering. 
-CRUSHER: I don't think it's too much to ask for you to do the same. 
-(Beverly is suddenly turned into a red setter dog. Amanda restores her
-to human)
-CRUSHER: And you stay out of mine. 
-Q: Well, when you put it like that, I think you're absolutely right.
+(Both are in Regency clothing) 
+RIKER: What is this all about? 
+AMANDA: I thought it might be nice to spend some time alone together. 
+RIKER: I think it would be nice if you took us back to Ten Forward. 
+AMANDA: Are you sure you wouldn't want to stay here with me for a
+while? The moonlight is so beautiful. Isn't it nicer here than at Ten
+Forward? 
+RIKER: Yes, it's very pleasant, but that's not the point. 
+AMANDA: Oh? I think it is. 
+(She puts her arms around his neck) 
+RIKER: No. You can't just snatch people and put them in your fantasies
+and expect them to respond. 
+AMANDA: Don't you like me? Even just a little bit? 
+RIKER: You're a very lovely young lady. But none of this is real. 
+AMANDA: My feelings are real. 
+RIKER: I know. But you can't make someone love you. 
+AMANDA: Can't I? 
+(and with a small gesture) 
+RIKER: Oh, Amanda. You are so beautiful. 
+(he kisses her neck) 
+AMANDA: Do you love me? 
+RIKER: More than anything. 
+AMANDA: You're right. None of this is real. I thought it would be
+romantic, but it's empty. 
+RIKER: Amanda. 
+AMANDA: Just go back to Ten Forward.
 

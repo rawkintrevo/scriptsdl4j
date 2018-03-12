@@ -1,115 +1,31 @@
-GOSS RIKER MENDOZA PICARD RAL TROI ARRIDOR CRUSHER DATA
+RIKER LAFORGE GUEST1 RAL GUEST3 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Observation lounge]
 
-DATA: The data from the Barzan's probe of the
-wormhole are quite impressive, Captain. The wormhole delivered the
-probe beyond the Denkiri Arm, in the Gamma Quadrant. 
-PICARD: It would take nearly a century at warp nine to cover that
-distance. 
-DATA: The same distance could be achieved in a matter of seconds
-through the wormhole. 
-RIKER: Imagine the Ferengi collecting tolls if we lose to them. 
-MENDOZA: I don't think the Ferengi are the greatest threat at the
-table. With all of DaiMon Goss' bluster, they don't have the resources
-the Barzans need. 
-RIKER: I think that Devinoni is the one that we need to watch out for. 
-MENDOZA: An accurate observation. How did you recognise that? 
-RIKER: He was the most one in the group. 
-MENDOZA: You must play poker, Commander. 
-RIKER: Poker? Is that a game of some sort? 
-PICARD: Commander Riker conducts masterclasses in poker. 
-MENDOZA: Our skills are not dissimilar, Commander. 
-PICARD: Mister Mendoza, if this lives up to its billing, it will be a
-discovery of extraordinary value. But it is a big if. 
-RIKER: A wormholes is there one moment, and then gone the next. A
-stable wormhole is unheard of. 
-MENDOZA: Are you saying this may not be what it seems? 
-DATA: The Barzans do not have manned space travel, so they had to
-resort to an automated probe. Its findings are limited. It cannot be
-determined from these charts how stable the wormhole really is, or how
-long it will remain intact. 
-PICARD: The Federation could wind up buying a proverbial lemon. 
-DATA: Proverbial lemon? 
-PICARD: Later, Data. 
-MENDOZA: And of course that means, once the contract is negotiated and
-closed, we would be obliged to fulfill the terms. 
-RIKER: We think we should take a look for ourselves. 
-MENDOZA: I don't think Bhavani could object to that. 
-RIKER: Geordi has continuous visual contact with the wormhole, Captain.
-I think he's the logical choice. 
-DATA: I would also like to volunteer, sir. 
-PICARD: Nobody's going in there until we have done a full sensor
-analysis. I want to do everything possible to determine that it's safe,
-and when I am satisfied, then you, Data, and Commander La Forge will
-enter the wormhole
-tomorrow.
+GUEST1: Gentlemen, this open session is called by
+request of the Caldonian delegation. 
+GUEST3: Madame Bhavani, Caldonia withdraws from these proceedings. 
+GUEST1: For what reasons, Leyor? 
+GUEST3: It has been made very clear that the maintenance and
+administrative requirements are beyond our abilities. 
+RIKER: Leyor, the Federation would like to negotiate a trade agreement
+in which we could acquire your planet's rich deposits of trillium 323
+which we would add to our bid, Premier Bhavani. 
+GUEST3: My apologies. We have already reached an agreement with the
+Chrysalians. 
+(Leyor leaves) 
+RIKER: Mister Ral? You either had very good instincts, or foreknowledge
+of the Caldonian withdrawal. 
+RAL: Some people just don't wish to transact business with the
+Federation, Commander. The Chrysalians hereby add the Caldonian
+trillium 323 to its bid, Premier. 
+[Shuttlepod]
 
-[Guest quarters]
+LAFORGE: I'm telling you, it's changing. 
+[Ferengi pod]
 
-ARRIDOR: Just a moment of discomfort for a good
-cause, DaiMon. You understand this will not be lethal. 
-GOSS: Doctor, you surprise me. I have no wish to kill anyone. A short
-term crippling will suffice. 
-ARRIDOR: Then, this will be just fine. 
-(He pours a liquid onto Goss' palm) 
-ARRIDOR: A distillation of your own
-blood pyrocytes. Harmless to you. Undetectable by the ship's
-bio-filters, but when absorbed through your victim's skin, it will
-provoke an extreme allergic reaction. 
-GOSS: I'd say it is time to extend the hand of the Ferengi to the
-representative of the Federation.
-
-[Troi's quarters]
-
-(Troi opens the door to Ral, wearing an off the
-shoulder blue dress) 
-RAL: Much better. 
-TROI: Thank you. Come in for a drink? 
-RAL: Ah, Federation decor. 
-TROI: Not your style? 
-RAL: Well, conformity is not my style. 
-TROI: What would you like? 
-(He takes a kiss) 
-RAL: I'd even like another. There she is again, Counsellor Troi. 
-TROI: I'm not. Computer, champagne. 
-RAL: For two. Am I moving too fast for you? 
-TROI: No, I'm moving too fast for me.
-
-RAL: I like that better. 
-TROI: I haven't been able to stop thinking about you all day. 
-(They kiss again) 
-RAL: You must have had a nice day. 
-TROI: Anticipation is fun. (another kiss) We'll be late for dinner. 
-RAL: Very late. 
-(as he picks her up and carries her -)
-
-[Sickbay]
-
-(Mendoza staggers in) 
-CRUSHER: Mister Mendoza. 
-MENDOZA: I seem to be a bit warm. 
-(he collapses) 
-CRUSHER: I need some help here 
-[Ready room]
-
-GOSS: You attempt to gain every unfair advantage,
-Picard. 
-PICARD: Premier Bhavani has no objection. 
-GOSS: Well, I most certainly do. First, you conveniently arrange to
-play host, then you plan to send your own manned probe into the
-wormhole. The Federation thinks it can do anything it wants to. Well, I
-will not tolerate it! 
-PICARD: I will gladly share the results of our exploration with all the
-delegates. 
-GOSS: And you expect us to believe what you report? 
-RIKER: Then send in your own probe, Goss. 
-GOSS: That's exactly what I intend to do. And I should strongly suggest
-you stay out of our way. 
-(The Ferengi's leave) 
-PICARD: Tell Data and La Forge to do themselves a favour, and stay out
-of their way. 
-(Riker leaves) 
-CRUSHER [OC]: Captain Picard, please come to Sickbay. 
-PICARD: Acknowledged, Doctor.
-
+LAFORGE [OC]: I can see it with my Visor. 
+GUEST2: I have no intention of leaving yet. We have not finished
+taking our readings. 
+LAFORGE [OC]: Listen, Doctor. 

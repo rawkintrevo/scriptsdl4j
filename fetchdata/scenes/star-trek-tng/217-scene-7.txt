@@ -1,50 +1,5 @@
-RIKER WORF TROI SOREN CRUSHER DATA
-
-[Sickbay]
-
-CRUSHER: It's just a mild concussion. You're going
-to be fine. This will reduce the inflammation. 
-SOREN: Doctor, you are female. 
-CRUSHER: Yes. 
-SOREN: Forgive me, I do not mean to be rude, but I'm curious. What is
-it like? 
-CRUSHER: Well, it's just the way I am. I've never really thought about
-what it's like. 
-SOREN: I've noticed you tend to have longer hair, and you arrange it
-more elaborately. And you apply colour to your bodies. 
-CRUSHER: Colour? 
-SOREN: You put colour on your mouths, and your eyes, your cheeks, your
-fingernails. The men don't. 
-CRUSHER: That's true. 
-SOREN: Then it is up to women to attract the men. 
-CRUSHER: Oh, no. Men want to be attractive too, believe me. They just
-go about it differently. 
-SOREN: No colour. 
-CRUSHER: No colour. They like to pretend they're not doing anything to
-attract a woman, even when it's the most important thing on their
-minds. 
-SOREN: This is very confusing. Then, are women considered more
-superior, or are men? 
-CRUSHER: Neither. In the past, women were often considered weak and
-inferior. But that hasn't been true for a long time. 
-(Riker enters) 
-CRUSHER: Will, your co-pilot is going to be fine. The injury was minor.
-
-RIKER: I'm glad to hear it. 
-SOREN: I'm afraid you're not rid of me yet, Commander. I will be able
-to complete the mission. 
-RIKER: Glad you feel better. 
-SOREN: What happened? What made the shuttle go into a spin? 
-RIKER: The port nacelle must have nipped one of the protrusions from
-the null pocket and shut it down. 
-SOREN: Are we still on schedule, then? 
-RIKER: That depends on how you're doing. 
-SOREN: I'm fine. We should go check the port engine. 
-RIKER: Whoa. Maybe we should get the doctor's opinion first. 
-SOREN: Doctor? 
-CRUSHER: I don't see any problem. But if you feel any symptoms,
-headache, dizziness, come back. 
-SOREN: You have my word.
+TROI CRUSHER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Data's quarters]
 

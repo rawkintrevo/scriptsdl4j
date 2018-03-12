@@ -1,55 +1,54 @@
-TROI NVEK TORETH PILOT
+TROI NVEK TORETH
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Warbird bridge]
+  [Warbird
+- crew quarters]
 
-PILOT: Orbit established, Commander. 
-TORETH: Commence loading the cargo. Notify me when the transfer is
-complete. 
-(everyone say hi! to Carolyn Seymour) 
-PILOT: Yes, sir. 
-(N'Vek and Troi enter) 
-N'VEK: Commander, may I present Major Rakal of the Tal Shiar? This is
-Commander Toreth. 
-TORETH: Attend to your station. Why are you here without your guards?
-Well? 
-TROI: The mission is one of utmost secrecy. I could not risk bringing
-guards. 
-TORETH: And exactly what is the nature of this clandestine assignment? 
-TROI: I cannot reveal that. 
-TORETH: Oh? Why not? 
-TROI: I am under orders. 
-TORETH: You don't act like a member of the Tal Shiar. How long have you
-been with Intelligence? 
-TROI: Several months. 
-TORETH: Ah. 
-PILOT: Commander, cargo is on board and secure. 
-TORETH: Tell me, is there a reason why the Commander of a ship is being
-kept ignorant of its cargo? 
-TROI: I don't know what you mean. 
-TORETH: I have been ordered to take on cargo but its contents are
-unknown to me. Does that seem wise? I am responsible for the safety of
-this ship and its crew. How do I know this cargo is safe to transport? 
-TROI: I'm sure it is safe, otherwise it would not have been loaded. 
-TORETH: Ah. The Tal Shiar is deeply concerned for the safety and
-well-being of the military. I'm sure that every person on the Bridge of
-this ship could offer testimony about personal experiences with the Tal
-Shiar, but I doubt that many could recall those encounters as tender
-and caring. So I must ask you to forgive me, Major, if I hesitate to
-accept your assurances that that cargo presents no danger to my crew. I
-intend to open those containers. 
-TROI: That cargo is the property of the Tal Shiar. You will not touch
-it. 
-TORETH: On whose authority? 
-TROI: Mine. And if you do not wish to undergo another personal
-experience with the Tal Shiar, I suggest you not question me again.
-Now, proceed on course bearing one oh two mark four to the Kaleb
-sector. 
-TORETH: Why should we go to the Kaleb sector? It's virtually deserted. 
-TROI: Because those are your orders. 
-TORETH: Pilot, set course. Bearing one oh two mark four. Warp six. 
-PILOT: Yes, Commander.
-
-Captain's log, stardate 46519.1. We have arrived at
-Research Station seventy five to take on a rather unique passenger, one
-whose homecoming will undoubtedly be difficult.
+(in the dark, a fully clothed figure wakes on the
+bed with a groan) 
+TROI: Computer, lights. Computer, turn on the lights. 
+(nothing happens. Troi gets up, finds a wash bowl and mirror. It's
+lights come on and she gasps - she is Romulan! A man enters after the
+opening titles.) 
+N'VEK: Good, you're awake. 
+TROI: Who are you? 
+N'VEK: Please, Counsellor, there is little time. The Commander will be
+calling for you at any moment. 
+TROI: Where am I? 
+N'VEK: You are aboard the Imperial Romulan Warbird Khazara. I am
+Subcommander N'Vek. 
+TROI: Warbird? I was at the neuropsychology seminar at Bokara Six. The
+last thing I remember was returning to my quarters. I was attacked. I
+felt a hypospray. 
+N'VEK: It was necessary. I could not be certain you would come
+voluntarily. 
+TROI: Oh, God. My head's still spinning. 
+N'VEK: There are drugs in your system, but they've nearly dissipated.
+The disorientation will soon pass. 
+TROI: Why have you brought me here? 
+N'VEK: Listen to me carefully. You are no longer Deanna Troi. You are
+Major Rakal of the Tal Shiar, the Imperial Intelligence. Commander
+Toreth 
+TROI: Am I a prisoner? 
+N'VEK: There is no time to explain everything. You must listen.
+Commander Toreth will want to know your mission. Tell her nothing.
+Simply instruct her to proceed to the Kaleb sector, heading one oh two
+mark four. 
+TROI: The Kaleb sector? 
+N'VEK: Repeat it. Heading one oh two mark four. 
+TROI: Heading one oh two mark four. And she'll take orders from me? 
+N'VEK: You are an officer of the Tal Shiar. She will obey you. But do
+not push her too far. 
+TORETH [OC]: Sub Commander N'Vek. We are approaching the loading point.
+Bring our guest to the Bridge. 
+N'VEK: Yes, Commander. Immediately. Please, we must hurry. 
+TROI: I'm not going anywhere until you tell me what's going on. 
+N'VEK: You are a Starfleet officer disguised as a Romulan. Unless you
+trust me and do exactly as I have said, Toreth will discover you and
+you will be killed. 
+TROI: How do I know I won't be killed anyway? 
+N'VEK: Your only chance to get off this ship alive is to do as I say.
+You are an empath. You would know if I am lying. Am I? 
+TROI: No. 
+N'VEK: Then let us go see the Commander.
 

@@ -1,75 +1,46 @@
-TROI LAFORGE WORF PICARD RIKER DATA CRUSHER ALLENBY
-
-[Bridge]
-
-ALLENBY: New heading confirmed. Zero two five mark
-two seven three. Speed is holding at one tenth impulse. 
-RIKER: Whatever's pulling us sure isn't in a hurry. 
-PICARD: Picard to La Forge. 
-LAFORGE [OC]: Go ahead, Captain. 
-PICARD: If your engines are functioning we'll attempt to break free.
-
-[Engineering]
-
-LAFORGE: Everything down here seems normal enough,
-sir, but I suggest we take it a bit slower this time.
-
-[Bridge]
-
-PICARD: Ensign, bring us around ninety degrees to
-starboard. 
-ALLENBY: New course laid in at ninety degrees to starboard. 
-PICARD: One quarter impulse, engage. 
-ALLENBY: Aye, sir. Nothing, Captain. Speed and course are unaffected. 
-PICARD: One half impulse. 
-ALLENBY: No change. 
-PICARD: Full impulse. Rotate heading in five degree increments. 
-ALLENBY: Aye, sir. 
-(the ship shakes) 
-RIKER: La Forge? 
-[Engineering]
-
-LAFORGE: There's nothing wrong down here. The
-engines are fine.
-
-[Bridge]
-
-DATA: Integrity field stress exceeding eighty two
-million kilodynes. Recommend immediate shutdown, sir. 
-PICARD: Make it so, Ensign. 
-ALLENBY: All engines down. We're still being pulled. Same heading, same
-speed.
-
-[Troi's office]
-
-CRUSHER: I got here as quickly as I could. I've got
-a Sickbay filled with headaches. How are you? 
-TROI: Well, when I first called you I was feeling intense pain. Now
-it's gone, but I'm feeling a bit foggy. 
-CRUSHER: I'd like to take you to Sickbay and run an inner nuncial
-series. Can you walk? 
-RIKER [OC]: All senior staff report to the Observation Lounge. 
-CRUSHER: Are you up to that? 
-TROI: I think so. 
-(then she gets a look of horror on her face) 
-CRUSHER: What is it? 
-TROI: Nothing. Nothing, I'm fine.
+TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Observation lounge]
 
-RIKER: Could it be some sort of tractor beam? 
-DATA: No other ship is indicated. 
-PICARD: Mister Worf, what is your analysis? 
-WORF: Tactical sensor readings are indeterminant. 
-LAFORGE: They don't even give us enough for an educated guess. 
-RIKER: And yet all sensors are operating properly. 
-PICARD: Can there be an intelligence at work here? Counsellor, do you
-sense a lifeform out there? 
-TROI: No, I don't think so. No. There's nothing. Nothing. I sense
-nothing. 
-PICARD: It's alright, Counsellor. Perhaps there's nothing out there to
-sense. 
-DATA: Indeed, there are many races that are not empathically
-detectable. The Breen, the Ferengi, the 
-TROI: No, you don't understand. I don't sense anything. Not out there,
-not in here. All of you, you're all blank to me. 
+TROI: Are your signals reaching them? 
+DATA: Possibly. However, the beings may perceive them as negligible
+noise rather than an attempt at communication. 
+TROI: Is there any evidence at all that they're sentient? 
+DATA: Negative. The nature of their movement suggests a simple order of
+intelligence. 
+TROI: I'm sorry, Data. I don't seem to be much help without my empathic
+abilities. I just don't know how to draw on my human instinct. 
+DATA: As I have no human instinct per se, I cannot advise you,
+Counsellor. 
+TROI: Right now, I feel as two-dimensional as our friends out there. In
+the universe but barely aware of it. Just trying to survive on
+instinct. Data, what if they're simply acting instinctively? There are
+inherent, inborn forces in every species. What they need, what they
+fear. We have to discover what drives this species. 
+DATA: I do not believe there is any way we can know for certain,
+Counsellor. 
+TROI: We can speculate on the available evidence. 
+DATA: The only evidence we have at present is the brief interruption in
+their movement pattern during our last attempt to break away. 
+TROI: Which may suggest some kind of awareness of our presence. 
+DATA: Otherwise their course and speed have been constant. 
+TROI: On a straight line to the cosmic string. You're convinced the
+string's gravitation is pulling them in? 
+DATA: Because the cluster is two-dimensional, I do not have enough
+direct evidence to support that assumption. However, it is the most
+reasonable hypothesis. 
+TROI: Why? 
+DATA: It is unlikely they would intentionally move toward a destructive
+force. 
+TROI: Moths fly toward a flame. Horses sometimes run into a burning
+barn. Data, don't you see? We've been thinking in three dimensions. We
+have to get two-dimensional. 
+DATA: Pardon me? 
+TROI: Subspace signals, photon torpedoes, nothing's had an impact. It
+is reasonable to wonder if a gravitational pull, even as strong as a
+cosmic string's, would affect them. 
+DATA: Please continue. 
+TROI: What if they've chosen a course to the cosmic string? A case of
+pure stimulus response, driven by instinct, just like the moth to a
+flame. 

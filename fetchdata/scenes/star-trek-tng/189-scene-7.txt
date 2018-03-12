@@ -1,41 +1,47 @@
-NURSE NILREM BEREL TAVA RIKER
+PICARD GUEST0 GUEST7 DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Medical Facility Corridor]
+[Durken's office]
 
-(Rumours are spreading) 
-NURSE: From another planet, hundreds of them. 
-NILREM: It doesn't make sense that he's the only one. Think about it. 
-BEREL: I thought I said this was to be kept a secret. 
-TAVA: You know Nilrem. 
-BEREL: Well, it's getting out of control. I don't know what else he is,
-but he is still a patient in this medical facility and we have a
-responsibility for his care and recovery. Remind them of that, will
-you? 
-TAVA: You're not going to be able to contain this much longer. 
-BEREL: I know. 
-TAVA: If people get scared enough, anything could happen 
-[Riker's hospital room]
+(The Chancellor is stamping documents) 
+GUEST7 [OC]: Chancellor, Minister Yale of the Space Bureau would like to
+introduce you to someone. 
+GUEST1: Call her back. See if the Vice-Chancellor will do. 
+GUEST7 [OC]: They're out here waiting to see you, sir. 
+GUEST1: All right. Send them in. 
+(Mirasta enters, follows by Picard, but Durken hasn't noticed) 
+GUEST1: Always time to meet your friends, Mirasta. 
+GUEST0: Chancellor, I think you might want to clear your afternoon
+schedule for this. 
+(Picard walks forward, Durken's jaw drops) 
+[Bridge]
 
-BEREL: Mister Jakara, we have been unable to
-confirm anything you told us. No physician named Crusher is on file.
-Not on this planet. Your address in Marta's an eating establishment.
-The cook has never heard of Rivas Jakara. 
-RIKER: Obviously there's been some misunderstanding. 
-BEREL: There's a growing number of people on the other side of that
-door who believe you are not one of us, Mister Jakara. 
-RIKER: Not one of you? 
-BEREL: That you are from another planet. Are you, Mister Jakara? 
-RIKER: Do you realise what you're saying? 
-BEREL: I know how it sounds. I'm not anxious to make a fool of myself.
-This new era of space flight, it fires the imagination. People see
-unidentified vessels in the sky that turn out to be weather balloons. 
-RIKER: Well, it's far more likely that I am a weather balloon than an
-alien. 
-BEREL: Our medical journals have documented several cases of genetic
-mutation in recent history.
-Some unusual physical disfigurations have occurred. 
-RIKER: I'm another case for the medical journals, then. 
-BEREL: Perhaps. But you, Mister Jakara, are hiding something, and
-unless you tell me the truth about yourself, this rumour will persist
-and grow and could even become dangerous. Most especially to you.
+PICARD: And this is the Bridge. 
+GUEST0: Chancellor. 
+(a brief gaze at their planet on the viewscreen) 
+PICARD: Here we have Environmental and Engineering stations, mission
+operations, and the two principal science stations. 
+PICARD: Data, allow me to introduce Chancellor Avel Durken and Space
+Administrator Mirasta Yale. 
+DATA: Chancellor. Minister. 
+PICARD: Commander Data is my Second Officer. 
+GUEST0: He's an android, Chancellor. A constructed being. 
+GUEST1: A machine? 
+DATA: In a manner of speaking. The term artificial lifeform would be
+more accurate. 
+GUEST1: Captain Picard, is there someplace we might speak together
+without distraction? 
+PICARD: Certainly. 
+GUEST0: Chancellor, with your permission, I would like to beam to the
+surface. I have several matters to attend to. 
+GUEST1: Not a word to anyone about this, Mirasta. 
+GUEST0: Of course. 
+PICARD: Mister Data, will you escort the Minister to the transporter
+room? Chancellor. 
+(Picard and Durken leave) 
+GUEST0: Has there still been no communication from Commander Riker,
+Data? 
+DATA: No, Minister. He has not returned to our designated transport
+coordinates. We have continued to scan the capital city without
+success.
 

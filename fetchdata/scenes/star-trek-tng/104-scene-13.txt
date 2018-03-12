@@ -1,62 +1,52 @@
-RIKER LAFORGE TASHA PICARD HAGON TROI LUTAN CRUSHER
+TROI LAFORGE TASHA PICARD HAGON RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Picard's room]
 
-RIKER: What is this message from Starbase Fourteen?
+TROI: Captain, I'm your Counsellor. You brought me
+with you to Ligon to be of help. 
+PICARD: Then help me, please. What is a way out of this? 
+TROI: With the vaccine? None. 
+(Geordi and Data enter) 
+LAFORGE: The weapons in that room, Captain, are surprisingly flexible,
+durable, and deadly. 
+DATA: And light, as if they were made for women to use. 
+LAFORGE: Some of them still have traces of blood and poison. 
+PICARD: Poison? 
+LAFORGE: Alkaloid base. Lethal. 
+PICARD: What about those lengths of metal in the yard outside? 
+DATA: Uncertain, sir. However, joined together they would make a
+rectangle or square enclosing one hundred twenty one square metres. If
+put end to end vertically, they would make a pole forty four metres
+high, or two of twenty two. 
+PICARD: Thank you, Data. 
+DATA: You're welcome, sir. 
+(Tasha enters) 
+TASHA: She won't budge. She loves him, without reservation. And she
+thinks I love him too. 
+DATA: Most interesting. Do you? 
+TASHA: Of course I don't, Data. As Troi pointed out to me, I'm
+attracted to him but that is entirely different. 
+RIKER [OC]: Riker to Captain. 
+PICARD: Go ahead, Riker. We're alone. 
+RIKER [OC]: We're fine tuned enough to see your hosts gathering in the
+open area outside, sir. Three of them are heading for your location. 
+PICARD: Thank you, Number One. Lieutenant, do you still feel that you
+want to go through with this challenge? Do you judge your condition
+good? 
+TASHA: I judge it excellent, sir. 
+(Hagon enters, followed by two guards carrying boxes) 
+HAGON: Your weapons, Lieutenant Yar. You may choose your size. 
+(She opens a box containing a glove with metal spikes and a curved
+blade) 
+LAFORGE: Tasha, don't touch the spines. They're poisoned. If you're not
+careful, you could kill yourself. 
+TASHA: These I understand. 
+(Through the window they see Yareena practising on a multi-level
+surface, with the metal poles in it. Four lights soar to the sky)
 
-CRUSHER: It's showing the infection rates, percentage illness
-increases. The plague on Styris Four has flared up out of control. 
-LAFORGE: They're estimating deaths in the millions, sir. 
-RIKER: Captain Picard, come in.
-
-[Tasha's room]
-
-TASHA: I know I can win. Not that I'd take her
-life, of course, but I'd be glad to embarrass her. The idea of accusing
-me of taking 
-(Picard enters) 
-TROI: The plague? 
-PICARD: If anything, even worse than we'd heard. 
-TASHA: Which means they desperately need the vaccine, sir. And I know I
-can win this challenge. 
-PICARD: You have nothing to prove anything here, Lieutenant. 
-TROI: But the vaccine is important in this case, sir. 
-PICARD: Counsellor, you're the last person I'd expect to argue in
-favour of accepting the challenge. 
-TROI: Betazoid blood is also practical, Captain. The odds are very good
-she'd defeat Lutan's wife easily and you would win all the bargaining
-points you need. 
-PICARD: The odds are. 
-TROI: You have pointed out yourself we are all at risk every day of
-every mission. 
-PICARD: I want some explanations from Lutan. 
-[Centreplace]
-
-HAGON: Lutan, why are you so obsessed with this
-Lieutenant Yar? Surely Yareena is more desirable? Certainly she can
-offer you much more. She owns many things, many lands. 
-(Picard enters, and Lutan stops Hagan talking) 
-PICARD: It's a great pity you began by abducting my Security Officer,
-Lutan, because I should tell you I do admire the hospitality you offer
-here. 
-LUTAN: I am in the grip of forces you do not understand. 
-PICARD: Some of it I do understand. She is a rather lovely female. 
-LUTAN: You surprise me, Captain. What do you know of needs and
-feelings? 
-PICARD: Nothing. Well, almost nothing in my position of ship's Captain.
-
-HAGON: I see. 
-PICARD: But it puzzles me. If you feel that way for Tasha, why have you
-challenged her to a fight to the death? 
-LUTAN: Not I, Yareena. I am merely a spectator. 
-PICARD: Ah, but you are also a man of great importance and wealth. 
-HAGON: Great importance, perhaps, but he does (silenced by Lutan) 
-PICARD: Ah, I see. You, too, understand the proper value of women. 
-LUTAN: We understand they are highly pleasant things, but after all,
-unimportant. Except for the land they own. 
-PICARD: You are a truly clever person, Lutan. You stand to lose
-nothing, either way the challenge goes. 
-LUTAN: A code of honour protects one, Captain, like a magic cloak. 
-PICARD: I will order Lieutenant Yar to fight. And may your cloak bring
-you all you deserve.
+First Officer's log, supplemental. Captain Picard,
+faced with a critical need for a vaccine produced on this planet, has
+permitted Lieutenant Natasha Yar to engage in a fight to the death. I
+have yet to understand his reasoning or his plan.
 

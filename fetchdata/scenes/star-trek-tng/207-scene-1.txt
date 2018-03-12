@@ -1,54 +1,28 @@
 PICARD SPOCK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Romulan cavern]
+ [Romulan caves]
 
-(a sort of living quarters adjoining the cave) 
-SPOCK: I know of your mind-meld with my father which enabled him to
-complete his last mission.
-PICARD: It was an honour. He is a great man.
-SPOCK: He was a great representative of the Vulcan people and of the
-Federation.
-PICARD: I was with him before coming here. He expressed his pride in
-you. His love.
-SPOCK: Emotional disarray was a symptom of the illness from which he
-suffered.
-PICARD: No, those feelings came from his heart, Spock. He shared them
-with me. I know.
-SPOCK: Sarek would no more approve my coming here than you do, Picard.
-For some time now, I've been aware of a growing movement here of people
-who seek to learn the ideals of the Vulcan philosophy. They've been
-declared enemies
-of the state. But there are a few in the Romulan hierarchy like Pardek,
-who are sympathetic. He asked me to come now, because he believes it
-may be time to take the first step toward reunification.
-PICARD: Reunification? After so many centuries? After so many
-fundamental differences have evolved between your peoples?
-SPOCK: It would seem unlikely to succeed, but I cannot ignore the
-potential rewards that a union between our two worlds would bring.
-PICARD: What is this first step that Pardek suggests?
-SPOCK: There is a new Proconsul in the Romulan Senate. He is young and
-idealistic. He has promised many reforms. Pardek believes that he may
-be receptive to discussing reunification.
-PICARD: Why would you not bring something so important to the attention
-of your own people or the Federation?
-SPOCK: A personal decision, Captain. Perhaps you are aware of the small
-role I played in the overture to peace with the Klingons.
-PICARD: History is aware of the role you played, Ambassador.
-SPOCK: Not entirely. It was I who committed Captain Kirk to that peace
-mission, and I who had to bear the responsibility for the
-consequences to him and his crew. Quite simply, I am unwilling to risk
-anyone's life but my own on this occasion. So I ask you respect my
-wishes and leave. 
-PICARD: Ambassador, your logic escapes me. If I didn't know better, I
-would say that your judgment is influenced by your emotions.
-SPOCK: You speak as my father would if he were here, Picard. 
-PICARD: I speak as a Starfleet officer, and I cannot ignore the risks
-to you. 
-SPOCK: I was involved with cowboy diplomacy, as you describe it, long
-before you were born.
-PICARD: Nevertheless, sir, I'm not prepared to leave until your affairs
-are completed.
-SPOCK: In your own way, you are as stubborn as another Captain of the
-Enterprise I once knew.
-PICARD: Then I'm in good company, sir.
+SPOCK: What are you doing on Romulus? 
+PICARD: That was to have been my question of you, sir. 
+SPOCK: It is no concern of Starfleet. 
+PICARD: On the contrary, it is very much Starfleet's concern. You're in
+a position to compromise the security of the Federation. 
+SPOCK: You may assure your superiors, Captain, that I am here on a
+personal mission of peace, and I will advise Starfleet when it is
+appropriate. 
+PICARD: That is not satisfactory. 
+SPOCK: You cannot remain here, Captain Picard.
+PICARD: And I will not return without a full explanation. Ambassador,
+with great respect for all that you've achieved on behalf of the
+Federation, this sort of cowboy diplomacy will not easily be tolerated
+any more. 
+SPOCK: Cowboy diplomacy? 
+PICARD: If you wish to undertake a mission with obvious repercussions
+to the Federation, then you should discuss it with the Federation. I'm
+here as their representative. You'll have to discuss it with me.
+SPOCK: That is precisely what I had hoped to avoid.
+PICARD: I also have the responsibility of being the bearer of unhappy
+news.
+SPOCK: Sarek? Sarek is dead? Walk with me, Picard.
 

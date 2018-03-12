@@ -1,48 +1,78 @@
-TROI LAFORGE PICARD RIKER BOK KAZAGO CRUSHER DATA
-
-[Stargazer Captain's Quarters]
-
-(Picard is going through the books he left behind,
-and a trunk of clothes. Inside the trunk, something lights up, and he
-doubles over in agony)
+RIKER CRUSHER LAFORGE PICARD GUEST0 BOK VOICE DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ferengi Science Lab]
 
-(Bok is working at a double of the thing in the
-trunk) 
-BOK: Try this, Hero of Maxia. 
-(He slides the top of the sphere around and)
+BOK: And now, dear Captain, you are ready to live
+the past. 
+(He winds the contraption up to maximum)
 
-[Stargazer Captain's quarters]
+[Picard's quarters]
 
-(Picard jerks up in pain and clutches at his head
-before collapsing. Crusher enters) 
-CRUSHER: Captain? Another headache? This really worries me. I want you
-back on the Enterprise. 
-PICARD: But my things 
-CRUSHER: I'll see they're sent to your Enterprise quarters.
+GUEST0 [OC]: Where did they come from? Phasers,
+sir?
+Sir? Sir? What should we do, sir? Should we fire back? Fire, Captain?
+Fire!
 
-[Bridge]
+[Ferengi Science Lab]
 
-RIKER: Enterprise now taking possession of
-Stargazer, Kazago. 
-KAZAGO [on viewscreen]: Permission granted, Riker. 
-RIKER: Actually it was quite a bargain, Kazago. I thought the Ferengi
-always made a profit on things. 
-(Kazago growls and ends the transmission) 
-RIKER: Set sub-warp speed for towing, LaForge. 
-LAFORGE: Aye, sir. 
-(Picard enters, in pain) 
-DATA: Starfleet has responded to our request, sir. A tug will
-rendezvous with us and tow the Stargazer back to Xendi Starbase Nine. 
-PICARD: Very well, Data. 
-RIKER: How was it, Captain? 
-PICARD: Very strange, Number One. Like going back to the house you grew
-up in, but no one's home, except the phantoms of the past. 
-TROI: It has troubled you? 
-PICARD: Not half as much as this damn headache. Take over, Number One. 
-RIKER: Aye, sir. 
-(Picard leaves) 
-RIKER: What's wrong? 
-TROI: I wish I could say.
+BOK: You will injure yourself as you once injured
+me.
+
+[Picard's quarters]
+
+GUEST0 [OC]: Sir! 
+(Picard opens his eyes, and he sees the ghost of the Stargazer's bridge
+and her crew. He is reliving the past) 
+PICARD: Damage report! 
+VOICE [OC]: Fusion generator under surge control, sir! Power systems
+failing! 
+PICARD: Sensor beam bearing on hostile ship! 
+VOICE [OC]: Seven mark nineteen, sir! 
+VOICE [OC]: Phasers, sir? Sir? 
+PICARD: Ready phasers, and lock! Stand by on warp nine. Heading seven,
+seven mark twenty. Engage. 
+PICARD: Steady. Now, reverse and stop! Phasers fire, torpedoes away!
+Fire. Fire.
+
+[Ready Room]
+
+DATA: By comparing the Stargazer's main computer
+log with Captain Picard's personal log, I have found checksum
+discrepancies, sir. 
+RIKER: What does that mean? 
+DATA: All information is time-coded by entry, and the bits when totaled
+produce an aggregate amount which 
+RIKER: I don't want a computer science lesson, Data. Bottom line. 
+DATA: One of these two logs is a forgery, sir. 
+LAFORGE: Correction. The log just found aboard the Stargazer is a
+forgery. 
+DATA: As I said, that is one of them, is it not? 
+(Picard enters) 
+LAFORGE: Captain. You're looking better, sir. 
+PICARD: A little sleep, thanks to the good Doctor, works wonders. What
+report on the logs? 
+DATA: Yes, sir. Whoever tampered with your personal log was clever. 
+LAFORGE: But a bit clumsy. It's definitely a fabrication, sir. 
+(Crusher enters) 
+CRUSHER: Number One, I'd like you to take a look at this brain scan
+graph. What are you doing here? 
+PICARD: I thought I was Captain of this starship. 
+CRUSHER: Of course you are, but I 
+PICARD: Thank you for the confirmation, Doctor. But now, except for
+Riker, I would like you all to return to your stations. Is that clear? 
+DATA: Sir. 
+(Data and Geordi leave) 
+PICARD: You too, Doctor. I have business with the Commander. 
+CRUSHER: Under protest, Captain. 
+(Crusher leaves) 
+RIKER: You have orders for me, sir? 
+PICARD: Release the Stargazer from the tractor beam, Number One. 
+RIKER: Sir? 
+PICARD: The tractor beam. 
+RIKER: Sir, are you abandoning? 
+PICARD: No, but her inertia will carry the Stargazer along with us. Or
+did you sleep through the Academy lecture on conservation of tractor
+beam power? 
+RIKER: No, sir. I'll release her, of course.
 

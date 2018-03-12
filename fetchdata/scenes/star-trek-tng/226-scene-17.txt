@@ -1,42 +1,30 @@
-PICARD RIKER DATA LAFORGE
+GUINAN DATA CLEMENS
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Garden]
 
-DATA: It is built into my positronic decompiler. It
-will be necessary for me to join the away team, sir. 
-PICARD: (hesitation) Proceed, Mister Data.
+GUINAN: What exactly are you? 
+DATA: Android. Artificial life form. 
+GUINAN: Ah. Did my father send you here? Because if he did, you must go
+back and tell him I've not done listening 
+DATA: I was not sent by your father. Circumstances demand that I take
+you into my confidence. I require your assistance. 
+(Guinan touches his nose) 
+GUINAN: Sorry. 
+DATA: I am from the twenty fourth century, where you and I serve aboard
+a starship. 
+GUINAN: And? 
+DATA: Our ship encountered a species who appears to be threatening 19th
+century Earth. I investigated, and was inadvertently pulled into their
+temporal vortex. When I saw your photograph in the newspaper, I assumed
+you had joined me from the future, from the Enterprise. I knew your
+species was long-lived, but I did not realise you had visited Earth so
+long ago. 
+(a whiff of cigar smoke gives somebody away) 
+CLEMENS: Eavesdropping is by no means a proper activity for a
+gentleman. Nonetheless, the deed is done.
 
-[Devidia cavern]
+Captain's log, stardate 45965.3. An away team has
+beamed to the surface with a device which may enable them to
+phase-shift into the alien world.
 
-RIKER: Mister Data. 
-DATA: Sir. 
-LAFORGE: Let me give you a hand with that, Data. 
-(Geordi works with a device Data has brought) 
-DATA: Once I have adjusted the forcefield, I will no longer be visible,
-Commander. I have taken steps, however, to ensure that you will still
-be able to hear me. If you would assist me in a test of the comm.
-system. My voice will be transmitted on a delay correlated to the phase
-adjustment. That should allow me to maintain verbal contact. 
-RIKER: Will we be able to talk to you? 
-DATA: No, sir. That will not be possible. 
-LAFORGE: The subspace field has been established. You're set to go,
-Data. 
-DATA: Adjusting the synchronic distortion. Point zero zero one. Point
-zero zero two. (fades out) Point zero zero three. Point zero zero four.
-
-DATA [OC]: I have made visual contact. There are lifeforms here.
-
-[Bridge]
-
-DATA [OC]: They're either unaware of me or choosing
-to ignore me. I am moving approximately ten metres north of my starting
-position to observe more closely.
-
-[Devidia cavern]
-
-DATA [OC]: They range from two to three metres in
-height. Silver grey in colour. They have four limbs. No eyes or ears
-are noticeable. There is a single orifice where a humanoid forehead
-would ordinarily be. They are reclined against the
-rock face surrounding an apparatus of some sort approximately one point
-five metres in height. 

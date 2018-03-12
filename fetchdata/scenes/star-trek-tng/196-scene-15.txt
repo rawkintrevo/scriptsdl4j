@@ -1,41 +1,63 @@
-TIMICIN PICARD DATA LAFORGE WORF
+TIMICIN LWAXANA RIKER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Corridor]
+
+LWAXANA: But Jean-Luc will find a way to settle
+this. He always does. 
+TIMICIN: No, my decision will only lead to more distrust of other
+worlds. Nothing will change. 
+LWAXANA: Now don't be foolish. 
+TIMICIN: I am not being foolish! Lwaxana, I want to live because I see
+in you how much I have to live for. You make me realise that my life
+still has value. I can be an example to my people. I can finish my
+work. But discovering these new desires and not being able to do
+anything about them, not being able to finish my work, not being able
+to reach my people. 
+LWAXANA: You have made a statement about the sanctity of life, and it
+will be heard, Timicin. 
+TIMICIN: Who will hear it from light years away? Where will I go now,
+Lwaxana? I'm a man without a world. I can't go home. 
+LWAXANA: Timicin. 
+RIKER [OC]: Bridge to Doctor Timicin. You have a visitor coming aboard.
+
+TIMICIN: B'Tardat?
 
 [Bridge]
 
-PICARD: Very well. Mister Worf? 
-WORF: Photon torpedoes armed and targeted. 
-PICARD: Fire in sequence. 
-WORF: First volley released. 
-DATA: Tracking torpedoes. Entry programme confirmed. 
-WORF: Second volley released. 
-[Engineering]
+RIKER: No, sir. It's your daughter.
 
-LAFORGE: Torpedoes now entering the stellar core. 
-TIMICIN: Their shields are holding. Guidance systems normal. 
-LAFORGE: Ignition sequence, six seconds 
-[Bridge]
+[Timicin's quarters]
 
-LAFORGE [OC]: Five seconds. Four. 
-[Engineering]
+TIMICIN: Dara. 
+(everyone say hi to Michelle Forbes) 
+GUEST1: Father. 
+TIMICIN: This is Lwaxana Troi. She has been a host and a friend. 
+LWAXANA: I've been looking forward to meeting you, Dara. 
+TIMICIN: Whatever you have to say to me, can be said in front of her. 
+GUEST1: I see. Father, come home. This is wrong. 
+TIMICIN: Dara, if I could show you the work I have begun. There's still
+so much for me to do. 
+GUEST1: There's nothing for me to look at. It is irrelevant. 
+LWAXANA: Your father's work may save your world, my dear. I would
+hardly consider that irrelevant. 
+GUEST1: All I'm concerned with now is you, not your work. Your work is
+over. It is your time to rest. 
+LWAXANA: Perhaps you will feel differently as you get a little older,
+say approaching sixty. 
+GUEST1: My father taught me to cherish The Resolution. I don't know how
+you have poisoned him to reject it. 
+LWAXANA: It's an obscene ritual. 
+GUEST1: How dare you. How dare you criticize my way of life, my beliefs. 
+TIMICIN: Please. Please, Dara. Please. 
+GUEST1: Where will you go? 
+TIMICIN: I don't know. 
+GUEST1: And where will you die? I cannot bear the thought of you being
+laid to rest on some other world. That you will not lie beside my
+mother. That I will not be able to lie beside you when my Resolution
+comes. I'm sorry. I don't know how you can go on with your life knowing
+that each day you live is an insult to everything we believe in.
+Father, I love you. But I am ashamed. 
+(Dara leaves) 
+TIMICIN: I would like to be alone now, please.
 
-LAFORGE: Three seconds. Now. Shock wave patterns
-within predicted range. Seventeen hundred percent rise in gamma
-radiation levels. Helium
-fusion rate increasing. 
-TIMICIN: What about heat and pressure levels? 
-LAFORGE: Steady so far. Density at eleven hundred grams per cubic
-centimetre. Temperature approaching sixty million degrees Kelvin. 
-TIMICIN: We want it to stabilise at two hundred and twenty million.
-
-[Bridge]
-
-DATA: Pressure wave harmonics dispersing.
-Temperature in target zone increasing to eighty one million degrees,
-sir. 
-LAFORGE [OC]: Still rising.
-
-[Engineering]
-
-LAFORGE: Temperature at ninety million degrees
-Kelvin. And now one hundred ten million. Looking good.
-One hundred thirty seven. 

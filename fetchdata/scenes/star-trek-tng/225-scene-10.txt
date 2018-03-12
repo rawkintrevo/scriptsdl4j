@@ -1,72 +1,64 @@
-RIKER LAFORGE WORF PICARD ELINE CRUSHER DATA BATAI
-
-[Courtyard]
-
-(Frere Jacques drifts through the evening air) 
-BATAI: You've been brooding behind that flute all evening. 
-PICARD: I'm not brooding. I'm immersed in my music. 
-BATAI: Music. 
-PICARD: I find that it helps me think, but the real surprise is I enjoy
-it so much. 
-BATAI: No, the real surprise is that you may actually be improving. 
-ELINE: Batai? 
-BATAI: Yes, ma'am. 
-ELINE: Go home. 
-BATAI: Yes, ma'am. Goodnight, Kamin. 
-PICARD: Goodnight, my friend. 
-ELINE: Go carefully, Batai. 
-(Batai leaves) 
-ELINE: Don't forget these. (picks up his shoes) I won't put them away
-for you again. 
-PICARD: Yes, ma'am. 
-ELINE: I've done nothing but nag all day. I'm sorry. 
-PICARD: No, I'm the one who's sorry. Everything you said this morning
-was absolutely correct. I feel that I have given you so little and you
-have given me so much. 
-ELINE: No. You're a good man. A wonderful husband. I didn't mean 
-PICARD: No, not such a wonderful husband. I spend my spare time
-charting the stars. I disappear for days at a time exploring the
-countryside. My life is very much as it was. Old habits. 
-ELINE: You're gentle and kind. You never once raised your voice to me. 
-PICARD: I'd like to ask your permission to build something. 
-ELINE: Kamin, you've built your telescope, your laboratory. You don't
-need my permission for something new. 
-PICARD: In this case, I think I do. 
-ELINE: What is it? 
-PICARD: A nursery. 
-ELINE: Really? Really? 
-PICARD: Unless, of course, if you would prefer a porch. It would
-certainly be easier to build. I could make a start on it right away. 
-ELINE: No. 
-(They embrace and kiss)
+GUEST1 RIKER LAFORGE PICARD ELINE CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Geordi, any progress identifying the probe? 
-LAFORGE: Maybe. I've picked up some residue on the probe's shell. I
-think it came from the propulsion system. Looks like it used a solid
-propellant as fuel. 
-RIKER: Solid propellant? 
-LAFORGE: Sensors read this stuff as crystalline emiristol. It produces
-a radioactive trail that ought to be traceable. 
-RIKER: Then we should be able to send out a probe of our own, trace it
-back to the origin. 
-LAFORGE: I'll get right on it. 
-DATA: Commander, I have been analysing the nucleonic beam. I believe it
-would be possible to reflect the particles back toward the probe in a
-way that would disrupt the signal. 
-RIKER: Doctor? 
-CRUSHER: I simply don't know the risk of shutting down the beam. 
-RIKER: I'm not willing to let this thing keep drilling into him. 
-CRUSHER: If somebody gets stabbed, you don't necessarily pull the knife
-out right away. It might do more harm than leaving it there. 
-WORF: The Captain is under attack. We must act. 
-RIKER: I'm inclined to agree. Doctor, monitor him closely. Mister Data,
-prepare to disrupt the beam. We're going to try to cut this cord.
+CRUSHER: His vital signs are holding. They've been
+stable ever since the beam was restored. 
+LAFORGE: Commander Riker, we've started to receive telemetry from the
+probe we launched. 
+RIKER: Go ahead. 
+LAFORGE: We've charted the alien probe's radiation trail for over one
+light year. 
+RIKER: Any way to extrapolate am origin? 
+LAFORGE: Looks like a star system in the Silarian sector. Kataan. 
+RIKER: Never heard of it. Data? 
+DATA: It is an unmapped system of six planets, sir. 
+RIKER: Any of them inhabited? 
+DATA: Not any longer, sir. The star went nova. All life in the system
+was destroyed approximately one thousand years ago.
 
 [Courtyard]
 
-(a young girl is playing in the sunshine as Picard
-plays his flute indoors) 
-ELINE [OC]: Meribor.
+(more years have past. Eline is old and grey,
+whilst Picard is still peering into his refractor telescope) 
+ELINE: I put away your shoes for you again. 
+PICARD: Yes, thank you, dear. 
+ELINE: You know, I've been looking through this thing off and on for
+over thirty years, and I still don't see what you and Meribor find so
+fascinating. 
+PICARD: Fine. Then maybe you'll sit down and have a rest like you're
+supposed to. 
+ELINE: You treat me like some frail flower. People have surgery all the
+time. 
+(flute music starts up) 
+ELINE: He loves playing. He's quite good at it, don't you think? 
+PICARD: He loves doing a lot of things too many. Last week, all he
+wanted to do was be a botanist. The week before that, a sculptor. I
+wish he could find some focus in his life. 
+ELINE: I think he has. Maybe you should talk to him. 
+PICARD: Batai? 
+GUEST4 JR: Father? 
+PICARD: I get the feeling from your mother that you have something to
+tell me. 
+GUEST4 JR: Yes. I was waiting for the right moment, but that will never
+come. I'm leaving school. 
+PICARD: Leaving school? No, you're not. 
+GUEST4 JR: I want to concentrate on my music. That's what I care about. 
+PICARD: Last year, all you cared about was mathematics. The year before
+that, botany. Now 
+GUEST4 JR: Through it all, there was my music. I think you know that,
+Father. This is the life I want. 
+PICARD: Well, we'll discuss it. 
+GUEST4 JR: Thank you, father. 
+(Batai goes back indoors) 
+ELINE: Even after all these years you still have the ability to
+surprise me. 
+PICARD: If music is what he wants, why should I stand in his way?
+Anyway, who knows how much time he'll have to follow any dream. 
+ELINE: Are you still planning to talk to the Administrator tomorrow? 
+PICARD: There's a possibility he'll dismiss me from the Council. 
+ELINE: Unless, of course, you keep quiet. 
+PICARD: No. The evidence is too pronounced. I can't stay silent. 
+ELINE: What a surprise.
 

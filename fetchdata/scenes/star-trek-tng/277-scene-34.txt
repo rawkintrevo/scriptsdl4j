@@ -1,64 +1,52 @@
-PICARD OGAWA CRUSHER DATA LAFORGE
+RIKER LAFORGE WORF TASHA PICARD Q DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Report, Mister Data. 
-DATA: The anomaly is two hundred million kilometres in diameter. It is
-a highly focused temporal energy source which is emitting approximately
-the same energy output as ten G type stars. 
-PICARD: What is the source of this energy? 
-DATA: I am uncertain, sir. Sensors are unable to penetrate the anomaly.
+DATA: Initiating static warp shell now.
 
-PICARD: What if we modified the main deflector to emit an inverse
-tachyon pulse. That might be able to scan beyond the subspace barrier.
-That might give us some idea of what the interior of this thing looks
-like. 
-DATA: That is a most intriguing idea, sir. I do not believe a tachyon
-beam was ever used in such a way. I had no idea you were so versed in
-the intricacies of temporal theory, sir. 
-PICARD: I have some friends who are quite well versed in it. Make it
-so. 
-DATA: I believe we can make the necessary modifications in main
-Engineering, sir.
+[Future - Bridge]
 
-[Engineering]
+RIKER: Is it having any effect?
 
-LAFORGE: We can get more power if we reroute the
-primary EPS taps to the deflector array. 
-DATA: Agreed. Initiating tachyon pulse. 
-LAFORGE: Okay. the pulse is holding steady. We're starting to receive
-data from the scan. 
-DATA: It will take the computer some time to give us a complete picture
-of the anomaly's interior. I suggest we 
-(La Forge holds his head in pain) 
-DATA: Geordi? What is wrong? 
-LAFORGE: I don't know. It's like somebody's sticking an ice pick in my
-temples. My visor's picking up all kinds of electromagnetic
-fluctuations. 
-DATA: Data to Sickbay. Medical emergency in main Engineering.
+[Past - Bridge]
 
-[Sickbay]
+DATA: Something is happening. A new subspace
+barrier appears to be forming, 
+TASHA: Captain, the sensors are picking up two other ships. 
+(and we see the other Enterprises on the three viewscreens)
 
-CRUSHER: This is amazing. The DNA in his optic
-nerves is regenerating. Geordi, it's as if you're growing new eyes. 
-PICARD: How is this possible? 
-CRUSHER: It shouldn't be possible at all. There's no medical
-explanation for spontaneous regeneration of an organ. 
-OGAWA: Doctor we've just gotten reports from two crewmembers who say
-they have old scars which are healing themselves. 
-DATA: Captain, I believe I have a partial explanation. I have completed
-my analysis of the anomaly. It appears to be a multi-phasic temporal
-convergence in the space-time continuum. 
-CRUSHER: In English, Data. 
-DATA: It is, in essence, an eruption of anti-time. 
-PICARD: Anti-time? 
-DATA: A relatively new concept in temporal mechanics. The relationship
-between anti-time and normal time is analogous to the relationship
-between antimatter and normal matter. 
-PICARD: So if time and anti-time were to collide 
-DATA: They would annihilate one other, causing a rupture in space. I
-believe this is what happened in the Devron system. The rupture may be
-sending out waves of temporal energy which are disrupting the normal
-flow of time. 
-PICARD: Data, what could have caused this collision of time and
-anti-time? 
+[Past - Bridge]
+
+DATA: Captain, it appears to be working. The
+anomaly is beginning to collapse. I think that 
+TASHA: Temporal energy is rupturing our warp containment system! 
+WORF: We must eject the core! 
+PICARD: No, we have to maintain the static warp shell as long as
+possible! 
+TASHA: We're losing containment, Captain! I can't stop it, it's going
+to 
+(KaBOOM!)
+
+[Bridge]
+
+PICARD: Transfer emergency power to the antimatter
+containment system! 
+LAFORGE: I'm trying, but there's a lot of interference. 
+DATA: The warp shell is definitely having an effect, sir. The anomaly
+is collapsing. 
+LAFORGE: I can't hold it. The containment system is going. 
+PICARD: Maintain position! Mister La 
+(KaBOOM!)
+
+[Future - Bridge]
+
+DATA: Both of the other ships have been destroyed. 
+Q: Two down, one to go. 
+PICARD: Data, report! 
+DATA: The anomaly is nearly collapsed. 
+LAFORGE: We're losing containment. 
+Q: Goodbye, Jean-Luc. I'm going to miss you. You had such potential.
+But then again, all good things must come to an end. 
+LAFORGE: Containment field is at critical. I'm losing it! 
+(the anomaly sucks into the Enterprise and KaBOOM!) 

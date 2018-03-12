@@ -1,57 +1,5 @@
-RIKER WOMAN WORF PICARD BYLETH TROI LOQUEL CRUSHER DATA VOVAL
-
-[Ten Forward]
-
-RIKER: Do you think there's enough food here, Data?
-(to woman) Good evening. 
-WOMAN: Good evening. 
-(at the buffet table) 
-TROI: So first thing tomorrow, I thought I'd take you on a tour of the
-operational centres and the residential decks of the ship. Then we
-could spend some time discussing the cultural underpinnings of your
-society. 
-LOQUEL: Are you going to eat? 
-TROI: Excuse me? 
-LOQUEL: You have no food on your plate. Are you going to eat? 
-TROI: Oh, well, actually, I was waiting until we got to the desserts. 
-LOQUEL: Desserts? What is this? 
-TROI: It's something we eat after the main course. It's usually very
-sweet, it's usually very bad for you. We eat it purely for pleasure. If
-you ask me, it's the best part of any meal. 
-LOQUEL: My people eat only for nourishment. 
-TROI: Oh, well, let me introduce you to some of my favourites. This is
-peach cobbler with whipped cream. Tarvokian powder cake. And this is my
-favourite. Ktarian chocolate puff. I don't know exactly what's inside,
-but I think it's made with seventeen varieties of chocolate. 
-(Troi gives Loquel a sample) 
-LOQUEL: That is, that is 
-TROI: Delicious? 
-LOQUEL: Delicious. 
-TROI: Ambassador, I think we're going to get along very well. Shall we?
-
-(Loquel takes his loaded plate and a tray of small desserts with him to
-a table) 
-(meanwhile, at another table, Worf and Crusher eat with Byleth) 
-BYLETH: This is unacceptable. 
-WORF: I am sorry you do not care for our 
-BYLETH: Bring me new food. I require a higher protein and enzymatic
-content. 
-CRUSHER: Ambassador 
-BYLETH: Yes. 
-CRUSHER: It's the custom usually in a situation like this, for us to
-serve ourselves. It's called a buffet, and 
-BYLETH: Bring me new food. 
-CRUSHER: Ambassador 
-WORF: Doctor, it is all right. I am happy to bring more food. 
-(Worf slices a meat joint as if he wishes it were Byleth) 
-DATA: How is your diplomatic assignment progressing? 
-WORF: Fine. 
-DATA: I have heard that in moments of diplomatic tension, it is often
-helpful to find elements of commonality. 
-WORF: Ambassador Byleth is demanding, temperamental and rude. 
-DATA: You share all of those qualities in abundance. Perhaps you should
-try to build on your similarities. 
-(Worf tenses, then gazes at the sharp knife in his hand)
+PICARD GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Iyaaran Shuttlecraft]
 
@@ -59,22 +7,22 @@ PICARD: So, I understand that your homeworld has
 some of the most spectacular crystal formations in this sector. Is
 there any place in particular that you would recommend I visit while
 I'm there? 
-VOVAL: No. 
+GUEST2: No. 
 PICARD: Well, I, er, what's our ETA? 
-VOVAL: Seventeen hours, thirty two minutes. 
+GUEST2: Seventeen hours, thirty two minutes. 
 PICARD: I think I'll go update my itinerary. 
 (a jolt, an alarm goes off ) 
 PICARD: What happened? 
-VOVAL: There's been a system-wide power failure. 
+GUEST2: There's been a system-wide power failure. 
 PICARD: What's the cause? 
-VOVAL: We have entered an energy disruption field. I do not recognise
+GUEST2: We have entered an energy disruption field. I do not recognise
 the configuration. Attitude controls failing. 
 PICARD: There is an M-class planet in this system. Can we reach it? 
-VOVAL: I will try. 
+GUEST2: I will try. 
 PICARD: Inertial dampeners are offline. Life support is failing. 
-VOVAL: Entering the planet's atmosphere. 
+GUEST2: Entering the planet's atmosphere. 
 PICARD: Velocity dropping. Thermal shields at full power. 
-VOVAL: Prepare for impact. 
+GUEST2: Prepare for impact. 
 (they crash on a rocky planet with a penchant for horizontal lightning
 and are knocked out. Picard wakes first.) 
 PICARD: Voval. Voval, try not to move. You may have a concussion.

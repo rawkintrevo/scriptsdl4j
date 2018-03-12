@@ -1,152 +1,54 @@
-RIKER RO WORF KEEVE PICARD TROI CRUSHER DATA
+TROI WORF PICARD GUINAN RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+WORF: He admits responsibility for dozens of
+attacks on Cardassian targets. Why should we believe him about Solarion
+Four? 
+RO: He has no reason to lie. 
+WORF: He fears our reprisal. 
+TROI: I perceived no fear or deception from him. 
+WORF: If they did not attack Solarion Four, then who did? And why would
+anyone want to falsely implicate the Bajora? 
+DATA: Perhaps someone wanted to draw us into the conflict. 
+RO: What would anyone gain by doing that? 
+PICARD: Ensign Ro, may I see you in my Ready room? 
+RO: Yes, sir.
 
 [Ready room]
 
-RIKER: There will be members of this crew who will
-not want to serve with Ensign Laren, sir. 
-PICARD: They'll have to learn to live with it. 
-RIKER: I intend to demand the highest level of performance from her. 
-PICARD: I would expect nothing less. It won't be for long, Will.
-(doorbell) Come. 
-(Ro Laren enters) 
-PICARD: Yes, Ensign Laren, please have a seat. 
-RO: Ensign Ro, sir. 
-PICARD: I beg your pardon? 
-RO: The Bajoran custom has the family name first, the individual's
-second. I am properly addressed as Ensign Ro. 
-PICARD: I'm sorry, I didn't know. 
-RO: No, there's no reason you should. It's an old custom. Most Bajora
-these days accept the distortion of their names in order to assimilate.
-I do not. 
-PICARD: I wish to be candid with you, Ensign. 
-RO: Please. 
-PICARD: I'm fully aware of your Starfleet record, your problems on
-other ships, and the incident on Garon Two that led to your court
-martial. And I'm concerned about your presence on this delicate
-mission. 
-RO: I don't want to be here any more than you want me to be here, sir. 
-RIKER: Then why did you accept this assignment? 
-RO: If I may be equally candid? It's better than prison. 
-RIKER: Better than prison? There are officers who wait years to serve
-on this ship. 
-RO: Being called back into Starfleet was not my idea. 
-RIKER: Nor ours. 
-PICARD: Nevertheless, we will all be serving together. Commander Riker
-and I have expectations of you. 
-RO: Captain, I know the routine. You don't have to worry about me.
-We're stuck with each other. So let's just get this over with as
-quickly as possible and we can go our own separate ways, okay? 
-(Ro leaves) 
-PICARD: Dismissed.
+PICARD: You do not leave this ship without
+authorisation. 
+RO: Captain, I'm sorry, but I 
+PICARD: This is not a discussion. You're restricted to your quarters
+for the remainder of this mission. Dismissed.
 
-Captain's log, supplemental. We are approaching the
-Valo system on the outskirts of Cardassian territory, where many
-Bajorans have resettled.
+[Ro's quarters]
 
-[Observation lounge]
-
-DATA: There are dozens of Bajoran camps on the
-three class-M planets. I suggest we may want to begin on Valo Three,
-where an adhoc leader named Jas Holza lives. The Federation has had
-several dealings with him. 
-CRUSHER: I met Holza at a symposium a few years ago. 
-PICARD: What can you tell us about him, Doctor? 
-CRUSHER: I found him to be a very concerned leader and a good spokesman
-for his people. And a terrific dancer. No, really, I'm serious. At a
-reception afterwards. 
-TROI: At least this man has genuine experience in diplomacy. 
-PICARD: And that's a big advantage on this mission. Very well. Mister
-Data, will you contact Holza, arrange a meeting? 
-DATA: Sir. 
-RIKER: Ensign Ro, you're familiar with this star system. You'll take
-the conn. Is there a problem, Ensign? 
-RO: You're wasting your time. Holza is nobody. He's the token Bajoran
-that respectable people invite to symposiums and diplomatic soirees.
-But he has no real influence among my people. 
-DATA: Ensign, whom do you suggest we speak to? 
-RO: Don't you understand? These are desperate people ready to martyr
-themselves. They don't want to talk. 
-WORF: This ship is prepared to defend itself if necessary. 
-RO: Oh, it will be. Don't fool yourself. This mission will end in
-bloodshed. 
-PICARD: Well, let's hope that you're mistaken, Ensign. But can you
-point us at the right individual, as Mister Data suggested? 
-RO: I would go to the camp on the southern continent of Valo Two. Find
-a man named Keeve Falor. He has no diplomatic experience. And he won't
-ask you to dance.
-
-Captain's log, supplemental. I read about the
-achievements of the ancient Bajoran civilisation in my fifth grade
-reader. They were architects and artists, builders and philosophers
-when humans were not yet standing erect. Now I see how history has
-rewarded them. 
-[Bajoran camp]
-
-(Ro gives her uniform jacket to a young girl) 
-RO: This used to be me. 
-KEEVE: Baleekam. Balleek, balleek. Baleekam! Baleek. 
-(the children scatter) 
-KEEVE: Ro Laren. It's been a long time. 
-RO: Keeve Falor, Captain Jean-Luc Picard, Commander Data and Lieutenant
-Worf. 
-PICARD: I'm pleased you agreed to meet with us, Mister Keeve. 
-KEEVE: You honour me by the proper use of my name, Captain. 
-PICARD: Ensign Ro has educated me. 
-KEEVE: Has she? I'm pleased you still remember. Let me show you our
-camp. We are not a violent race, Captain. Just passionate about our
-cause. And that passion has led some to take up arms. 
-PICARD: Do you know where we can find Orta? 
-KEEVE: I'm afraid not. 
-PICARD: Can you help us locate him? 
-KEEVE: I'm sorry, I don't wish to help you. Don't misunderstand. I for
-one believe the raid on the Federation outpost was poor judgment. You
-are innocent bystanders, and I cannot condone violence against those
-who are not our enemies. 
-PICARD: Then I don't understand why you are unwilling? 
-KEEVE: Because you are innocent bystanders. You were innocent
-bystanders for decades as the Cardassians took our homes, as they
-violated and tortured our people in the most hideous ways imaginable,
-as we were forced to flee. 
-PICARD: We were saddened by those events but they occurred within the
-designated borders of the Cardassian Empire. 
-KEEVE: And the Federation is pledged not to interfere in the internal
-affairs of others. How convenient that must be for you,
-to turn a deaf ear to those who suffer behind a line on a map. 
-PICARD: Well, I'm not here to debate Federation policy with you, but I
-can offer you assistance. 
-KEEVE: Simply because of one terrorist attack? Perhaps I should have
-known that. We should have attacked the Federation long ago. What do
-you think of that, Ro? 
-RO: I think you're a small man who feels a rush of power in his belly
-and enjoys it far too much, Keeve. Stop talking and listen. 
-PICARD: We've had our problems with the Cardassians too, but now that
-we have a treaty, we're in a position to help. Your people have been
-forced to resettle all over the quadrant. But now we can make a
-legitimate case with the Cardassians that this is not an isolated
-problem. We can work diplomatically on your behalf. But first, these
-terrorist attacks must end. 
-KEEVE: We live in different universes, you and I. Yours is about
-diplomacy, politics, strategy. Mine is about blankets. If we were to
-exchange places for one night, you might better understand. 
-PICARD: Mister Data, see to it that the replicators provide a blanket
-for every man, woman and child before nightfall. 
-DATA: Aye, sir. 
-(Data leaves) 
-PICARD: Mister Worf, determine what these people may have in the way of
-emergency needs and provide for them. 
-WORF: Yes, sir. 
-(Worf leaves) 
-KEEVE: Thank you. Return to your ship. I will contact you when I have
-any information that might be of assistance to you. Ensign. 
-(Keeve leaves them)
-PICARD: You were helpful. 
-RO: The blankets were helpful. Nothing I said mattered. 
-PICARD: In an age when their technology should be able to clothe and
-feed all of them, that they should have to live like this. 
-RO: I couldn't, and I wouldn't. That's one reason I ran away. They're
-lost, defeated. I will never be.
-
-Captain's log, stardate 45077.8. Keeve Falor has
-kept his promise and directed us toward the third moon of Valo One,
-where we will meet tomorrow with the terrorist leader, Orta.
-
+(the doorbell rings twice) 
+RO: What? 
+(Guinan enters) 
+GUINAN: Hello, it's me, Guinan. I heard you got grounded. 
+RO: I really don't feel like talking right now. 
+GUINAN: Come on, sure you do. 
+RO: Why is it, every time I tell you something, you tell me I mean the
+exact opposite? 
+GUINAN: Because you're one of those people who's got their poles
+reversed. Do you want to talk about it? 
+RO: It's nothing you can help me with. 
+GUINAN: How do you know until you try? 
+RO: Look, I got myself into this. I'm just trying to figure a way out.
+That's all. Without anyone getting killed this time. Seems like
+everybody's just pulling my strings, you know? Like I've got no
+control. 
+GUINAN: For people like you and me, who've lost their homes, sometimes
+that's the way life feels. 
+RO: I'm in trouble. There's more going on here than anybody on this
+ship realises. It's more than I know how to deal with. And I really
+don't know who to trust anymore. 
+GUINAN: Including yourself? 
+RO: Especially myself. 
+GUINAN: You know, a very long time ago, I got into some serious trouble
+too. And I mean serious. And I'd probably still be there if I hadn't
+trusted one man. 

@@ -1,29 +1,41 @@
-PICARD CRUSHER RUSSELL
+PICARD CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Crusher's office]
 
-CRUSHER: I thought we had discussed genetronics. 
-RUSSELL: We did. 
-CRUSHER: I also thought we'd decided against recommending it. 
-RUSSELL: You heard him. He'd rather die than live with the implants. I
-just gave him a better option than suicide. 
-CRUSHER: He's grasping for straws and you're giving him one. Now
-instead of dealing with his paralysis, he's going to be thinking about
-this miracle cure of yours. 
-RUSSELL: There's a real chance this could work. And if it does, it'll
-be a major breakthrough in neurogenetics that will change a lot of
-people's lives. 
-CRUSHER: You're using the desperation of an injured man as an excuse to
-try a procedure that you couldn't do under normal circumstances. I
-checked with Starfleet Medical. They have turned down your request to
-test genetronics on humanoids three times already. 
-RUSSELL: Are you really going to hide behind the rules of some
-bureaucracy? Beverly, your patient's life is at stake here. 
-CRUSHER: Look, before you do any of this 
-PICARD [OC]: Picard to Doctor Crusher. 
-CRUSHER: Go ahead, Captain.
+PICARD: Doctor? I'm on my way to look in on your
+patient. 
+CRUSHER: Be my guest. Just don't expect a lot of conversation. He's in
+full Klingon mode. Honourable, strong and closed minded. 
+PICARD: I understand that you've relieved Doctor Russell of duty. 
+CRUSHER: That's right. She's irresponsible. I won't have her practicing
+medicine on this ship. 
+PICARD: Beverly, maybe you should consider letting her go ahead with
+this genetronic procedure. 
+CRUSHER: How can you say that? She has a theory, based on a little
+empirical knowledge and a lot of supposition. 
+PICARD: If he can't make a full recovery, Worf will to kill himself. 
+CRUSHER: Not in my Sickbay, he won't. I'll put him in a restraining
+field and post security around his door before I let him commit
+suicide. 
+PICARD: And how long will you keep him there? A week? A month? A year? 
+CRUSHER: If I have to. Suicide is not an option. Putting aside for a
+moment the fact that a paraplegic can live a very full life, there is
+also a conventional therapy that could restore much of his mobility. 
+PICARD: But not all of it. 
+CRUSHER: No, not all of it! There are some things I can't fix. Klingon
+or no, he is going to have to accept his condition. 
+PICARD: Beverly, he can't make the journey you're asking of him. You
+want him to go from contemplating suicide to accepting
+his condition and living with the disability, but it's too far. The
+road between covers a lifetime of values, beliefs. He can't do it,
+Beverly. But perhaps he can come part of the way. Maybe he can be
+persuaded to forgo the ritual in order to take the chance at regaining
+the kind of life he needs. A Klingon may not be good at accepting
+defeat, but he knows all about taking risks. 
+CRUSHER: The first tenet of good medicine is never make the patient any
+worse. Right now, Worf is alive and functioning. If he goes into that
+operation, he could come out a corpse. 
+PICARD: This may not be good medicine, but for Worf, it may be his only
+choice.
 
-[Bridge]
-
-PICARD: We've located the survivors from the
-Denver. 

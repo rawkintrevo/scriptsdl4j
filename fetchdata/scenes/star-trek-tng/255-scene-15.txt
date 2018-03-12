@@ -1,59 +1,30 @@
-PICARD RIKER CRUSHER DATA LAFORGE
+RIKER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Engineering]
 
-RIKER: Captain, the probe is through the airlock
-and in position aboard the Raman. 
-PICARD: Picard to Commander Data. Report.
-
-[Laboratory]
-
-DATA: We are ready to bring the interface online,
-sir. 
-PICARD [OC]: Proceed. 
-DATA: Activating the remote sensors. Initiating interface now. 
-CRUSHER: Vital signs normal. Geordi, how do you feel? 
-LAFORGE: Fine. 
-DATA: Do you have visual contact? 
-LAFORGE: Not yet. 
-[Raman corridor]
-
-LAFORGE: Data, turn up the input sensors. I'm not
-seeing anything. 
-DATA [OC]: Acknowledged. 
-LAFORGE: Okay, I can see. 
-[Laboratory]
-
-LAFORGE: But no colours. 
-DATA: Increasing signal strength to seventy five percent of tolerance. 
-LAFORGE: Ah, that's better. 
-CRUSHER: Your pulse has gone up. Your nervous system probably has to
-get used to the input levels. 
-LAFORGE: I'm excited, that's all, Doctor. This is like being on a
-roller coaster. Or a first date. I'm all right. 
-CRUSHER: I'll be the judge of that. If your heart rate gets too high,
-we're going to disconnect you. 
-LAFORGE: Understood. 
-[Raman corridor]
-
-LAFORGE: It's a mess in here. There must be a
-breach in the hull someplace. I'm picking up atmospheric gasses in the
-corridor. Methane and ammonia, primarily. That break in the hull might
-even be on the Bridge itself.
-I'm heading towards the Bridge. I've found someone. 
-DATA [OC]: What is your position? 
-LAFORGE: About twelve metres up the main corridor. He's trapped under
-some conduit from the bulkhead. I can't move it. I'm going to need more
-power to the tractor beam. 
-CRUSHER [OC]: Go to eighty percent of tolerance, Data. No higher. 
-(Geordi pulls off a metal bar and checks the man's pulse) 
-LAFORGE: He's dead. Data, that door at the end of this corridor. What's
-it lead to? 
-DATA [OC]: A magnetic storage bay. 
-LAFORGE: If there was a break in the Bridge, that'd be the safest place
-to go. Data, give me a phaser burst. Narrow focus, level four
-intensity. 
-(Geordi blows the lock off the door) 
-LAFORGE: I've found them. They're dead. All of them. There's a fire in
-here. Argh!
-
+RIKER: We'll be in position to use the tractor beam
+in less than an hour. 
+LAFORGE: You didn't come all the way down here to tell me that. 
+RIKER: No, I didn't. Geordi, I may have seemed a little harsh about the
+situation aboard the Raman. I just don't like the idea of one of my
+best officers putting himself in unnecessary danger. 
+LAFORGE: I guess I feel like I should be the one to decide whether it's
+unnecessary or not. 
+RIKER: My mother died when I was a baby. All I have is pictures, and
+the stories that my father used to tell me about her. I begged him to
+tell those stories over and over. When I was five and I went to school,
+I started to tell my new friends those same stories, pretending that
+she was alive. Then I started believing that she was alive, that she'd
+just gone away, that she was coming back. The teacher got wind of this,
+and she and my father had this talk with me. They told me it was
+important to accept the fact that my mother was dead and that she
+wasn't coming back. And all the hoping in the world wouldn't make it
+so. In my mind, that was the day that my mother actually died. I cried
+all that night. But after that, it started feeling better. 
+LAFORGE: Your mother was dead. There was proof. There was a body, and a
+funeral. It was a reality. 
+RIKER: Geordi. 
+LAFORGE: If I could see a body, if there were wreckage, I could accept
+it, but my mother has just disappeared. And now, there's a possibility
+that she is alive. And I'm not going to quit. Not yet. 

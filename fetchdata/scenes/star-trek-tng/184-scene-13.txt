@@ -1,48 +1,48 @@
-TROI LAFORGE PICARD RIKER CRUSHER ALLENBY
-
-[Troi's office]
-
-(Deanna has woken, but is still in pain) 
-TROI: Troi to Doctor Crusher. 
-[Sickbay]
-
-CRUSHER: Yes, Deanna? 
-TROI [OC]: Beverly 
-[Troi's office]
-
-TROI: I'm feeling very dizzy. 
-CRUSHER [OC]: Did you hit your head? 
-TROI: I'm not sure. I'm not sure what happened. 
-[Sickbay]
-
-CRUSHER: Lie down, breathe deeply and stay calm.
-I'm getting calls from all over the ship. I'll be there as quickly as I
-can.
-
-[Bridge]
-
-ALLENBY: New heading confirmed. Zero two five mark
-two seven three. Speed is holding at one tenth impulse. 
-RIKER: Whatever's pulling us sure isn't in a hurry. 
-PICARD: Picard to La Forge. 
-LAFORGE [OC]: Go ahead, Captain. 
-PICARD: If your engines are functioning we'll attempt to break free.
+TROI LAFORGE PICARD RIKER COMPUTER DATA ALLENBY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-LAFORGE: Everything down here seems normal enough,
-sir, but I suggest we take it a bit slower this time.
+LAFORGE: We are ready to attempt a controlled
+overload jump to warp six.
+
+[Troi's quarters]
+
+RIKER: Acknowledged. I'm on my way to the Bridge.
+I'll check in on you later. 
+TROI: Really, you don't have to. 
+RIKER: I will check in on you later.
 
 [Bridge]
 
-PICARD: Ensign, bring us around ninety degrees to
-starboard. 
-ALLENBY: New course laid in at ninety degrees to starboard. 
-PICARD: One quarter impulse, engage. 
-ALLENBY: Aye, sir. Nothing, Captain. Speed and course are unaffected. 
-PICARD: One half impulse. 
-ALLENBY: No change. 
-PICARD: Full impulse. Rotate heading in five degree increments. 
-ALLENBY: Aye, sir. 
-(the ship shakes) 
-RIKER: La Forge? 
+ALLENBY: Setting a new course at optimal shearing
+angle. Bearing two one seven mark two zero three. 
+LAFORGE [OC]: Engaging impulse 
+[Engineering]
+
+LAFORGE: Engines now. 
+[Bridge]
+
+PICARD: Mister La Forge, go to warp. 
+LAFORGE [OC]: Aye, sir. 
+RIKER: Status? 
+ALLENBY: Unchanged. We have not broken free of the graviton field. 
+DATA: Integrity-field pressure has increased by two hundred seventeen
+percent, Captain. 
+COMPUTER: Warning. Differential stress will exceed upper limit in
+fifteen seconds. 
+PICARD: Disengage all engines. 
+[Engineering]
+
+COMPUTER: Warning. Differential stress will exceed
+upper 
+LAFORGE: Engines disengaged, sir. 
+[Bridge]
+
+RIKER: Report, La Forge. 
+LAFORGE [OC]: The energy we wanted to transfer to the nacelles
+
+[Engineering]
+
+LAFORGE: Was absorbed by the graviton wake instead.
+It set up a torsional wave that rebounded back to the ship. 

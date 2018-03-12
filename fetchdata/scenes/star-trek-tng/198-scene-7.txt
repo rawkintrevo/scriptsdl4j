@@ -1,60 +1,61 @@
-RIKER LAFORGE WORF KELL PICARD TROI DATA
-
-[Shuttlebay]
-
-(Geordi is unloading shuttle Onizuka) 
-DATA: Welcome back, Geordi. 
-LAFORGE: Data! 
-DATA: How was the seminar? 
-LAFORGE: Very informative. I'll tell you all about it.
+TROI LAFORGE GUEST1 KELL PICARD RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
-DATA: It is fortunate we were able to coordinate
-your return on the Teldarian cruiser. 
-LAFORGE: Yeah, when I heard the Enterprise had been ordered to the
-Krios system, I thought I might be forced to endure another couple of
-weeks on Risa. 
-DATA: I am sorry to hear you did not enjoy yourself. 
-LAFORGE: I was joking. 
-DATA: Joking? Ah. Forced to endure Risa. Your actual intent was to
-emphasise that you did enjoy yourself. Yes, I see how that could be
-considered quite amusing. 
-LAFORGE: I missed you, Data. 
-[Bridge]
+LAFORGE: The Carnelians have actually done the most
+work on artificial intelligence, so I spent a lot of time in their
+research seminars. 
+TROI: Geordi, I get the feeling that something special happened on this
+vacation, and I'm not talking about computers. 
+LAFORGE: Well, I did take second place in a chess tournament. 
+TROI: Yes. 
+LAFORGE: And I swam a lot. I worked on my back stroke. The water is
+very calm on Risa. 
+TROI: And? 
+LAFORGE: And I walked a lot. That's all. Well, I ate enough for twelve
+people. The food there is terrific. They've got a chocolate there,
+Counsellor, you would love. 
+TROI: And that's all?
+LAFORGE: Yeah. Well, there was this 
+TROI: Yes? 
+LAFORGE: Her name is Jonek. But you wouldn't want to hear about that.
+Better get ready for duty. Nice talking to you, Counsellor. 
+ [Governor's office]
 
-PICARD: Commander La Forge. 
-LAFORGE: Permission to come aboard, sir. 
-PICARD: Granted. Welcome back. 
-LAFORGE: Thank you, sir. 
-PICARD: Commander La Forge is my Chief Engineer. 
-KELL: Commander. 
-PICARD: He's has been attending a seminar on artificial intelligence on
-Risa. 
-RIKER: I'm glad we got you back, Geordi. We're going to need your help
-on this. 
-LAFORGE: Data tells me that the Federation has been accused of aiding
-Kriosian rebels. 
-PICARD: We're to be presented with evidence today. We'll need your help
-in analysing it. 
-LAFORGE: Anything I can do. 
-(walking to the turbolift) 
-TROI: You had a good time. 
-LAFORGE: Does it show? 
-TROI: You're more relaxed than I've ever seen you. 
-(Geordi and Troi enter the turbolift) 
-WORF: Captain, Governor Vagh has signalled he is ready to meet with
-you. 
-PICARD: Very well. Advise him that we will transport sown to the
-surface immediately. Ambassador. 
-(Picard and Kell leave) 
-DATA: Commander Riker. 
-RIKER: What is it, Data? 
-DATA: Our sensors have detected a brief energy fluctuation in the
-E-band. 
-RIKER: E-band? That's unusual. What's the source? 
-DATA: Unknown, sir. E-band emissions are difficult to localise. 
-RIKER: Collapsing protostars sometimes emit E-band bursts. 
-DATA: Yes, sir. However, there are no protostars in this sector. 
-RIKER: You'd better run a complete scan. Keep me posted. 
-DATA: Yes, sir. 
+GUEST1: We talk, we socialise, we waste time and the
+insurrection continues to grow. These rebels need to be crushed not
+coddled. 
+KELL: Governor, it does not matter what you or I think. The High
+Council's made its wishes clear. 
+GUEST1: The Council should be more interested in Federation interference.
+
+PICARD: Governor, exactly what do you think the Federation has done? 
+GUEST1: Your medical supplies have been found in rebel strongholds. 
+RIKER: We make no effort to restrict access to our medical supplies. 
+GUEST1: Are your weapons also freely available? 
+PICARD: No, they are not. 
+GUEST1: Then explain this. 
+(Picard catches the phaser rifle that is thrown at him) 
+PICARD: You took this weapon from the rebels? 
+GUEST1: That and many more like it. 
+RIKER: It does appear to be Federation issue. 
+PICARD: Governor, with your permission, I would like to take this
+weapon back to the Enterprise to verify its origin. 
+GUEST1: As you wish. I have hundreds more. 
+PICARD: Even if these weapons are genuine, I can assure you that a
+third party must have been involved. The Federation is not in the
+business of supplying arms to rebels. 
+GUEST1: This is the only Klingon colony on the border of Federation
+space. You cannot deny that Starfleet would be happy to see Krios gain
+its independence. It would reduce your vulnerability to an attack. 
+PICARD: Governor, you speak as if we are enemies, not allies. 
+GUEST1: And you speak the lies of a taar'chek. 
+PICARD: Qu'vath guy'cha b'aka. 
+KELL: Gentlemen. 
+GUEST1: You swear well, Picard. You must have Klingon blood in your
+veins. 
+KELL: Governor, I will report to you as soon as the analysis of that
+weapon is complete. Captain, Commander. 
+PICARD: Enterprise, three to transport.
+

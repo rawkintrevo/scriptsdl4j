@@ -1,66 +1,36 @@
-WESLEY ROBIN
+WESLEY RIKER GUEST0 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Turbolift]
 
-ROBIN: When your parents are the only plasma
-specialists in the sector, you do a lot of travelling around. We went
-from base to base to base. I felt like a piece of luggage after a
-while. I spent all of my time around technical gear. My first friend
-was a tricorder. 
-WESLEY: Really? My very first friend was a warp coil. 
-ROBIN: My parents work came first. They didn't really have time for me,
-even when I needed them. So that's how I learned my first law. Law One.
-You can only count on yourself. 
-WESLEY: Sounds kind of lonely. Well, now you're here. 
-ROBIN: Now I'm here. 
-WESLEY: Well, I'm glad. 
-ROBIN: You wouldn't believe what's going on in Engineering. Commander
-La Forge and all the others, they're crazy about some new game. 
-WESLEY: Yeah, what kind of game is it? 
-ROBIN: It's some Risian gadget that fits over your ear. 
-WESLEY: Have you played it? 
-ROBIN: Not yet. 
-WESLEY: My mom has one. She keeps trying to get me to play it. 
-ROBIN: It's everywhere. 
-(a crewwoman on a seat by the window is totally lost in the game) 
-ROBIN: See what I mean? 
-WESLEY: Don't you think that's a little strange? Everybody playing it
-all the time. 
-ROBIN: It's just a fad. It's here this week. Next week we won't even
-know it existed. 
-WESLEY: I wonder how it works? 
-ROBIN: Why don't you try it and find out? 
-WESLEY: I'd like to know a little bit more about it before I try it. 
-ROBIN: I bet if we worked together we could figure it out. 
-WESLEY: Yeah, we could hook it up to one of the computers. The medical
-programs in the lab can be set up to emulate human responses. 
-ROBIN: I noticed it uses a visual interface. We could connect it
-through an optical sensor.
+(Alyssa is in the lift, playing the game) 
+WESLEY: Deck thirty six. 
+GUEST0: Wesley, at what level are you? 
+WESLEY: I'm only level ten. 
+GUEST0: I'm at level forty seven. 
+WESLEY: That's great. 
+GUEST0: You know what the secret is, don't you? Don't force it. If you
+just let the game happen, it almost plays itself. 
+WESLEY: I'll try that. 
+[Engineering]
 
-[Laboratory]
+WESLEY: I think we're going to be okay. I've just
+got one more thing to do. Help me compile the forcefield overrides. 
+GUEST1: What are you doing? 
+WESLEY: I created a site to site transporter programme. If things get
+difficult, this'll keep us one step ahead of them. Were able to access
+the security tracking codes? Robin? 
+GUEST1: It's your turn, Wesley. Play the game. 
+(Riker and Worf approach, Wesley runs) 
+RIKER: Get back here! 
+[Corridor]
 
-WESLEY: I've loaded the neurological behaviour
-programme. This sensor pad should allow the computer to process
-whatever information the game sends at it. 
-ROBIN: Let's see what happens. 
-WESLEY: Okay. 
-ROBIN: It's activating the reticular formation. 
-WESLEY: There's heavy synaptic activity all over the place. 
-ROBIN: I wonder what happens after prolonged exposure? 
-WESLEY: Speed up the processor and we'll find out. 
-ROBIN: The effect seems centred around the frontal lobe. 
-WESLEY: Computer, enhance frontal lobe, full spectrum. 
-ROBIN: It's stimulating the septal area. 
-WESLEY: That's the pleasure centre of the brain. Whatever this thing
-does, it must feel pretty good. 
-ROBIN: No wonder it's so popular. 
-WESLEY: Look at this. Serotonin levels are way off. Let's run a
-neurochemical analysis. 
-ROBIN: I'm seeing widespread bonding to neuro-receptors. 
-WESLEY: Correct me if I'm wrong, but this looks like a psychotropic
-reaction. 
-ROBIN: Are you saying you think the game's addictive? 
-WESLEY: What's going on in the prefrontal cortex? 
-ROBIN: Doesn't that area control higher reasoning? 
-WESLEY: Yeah, it sure does. I'd better go talk to the Captain.
+RIKER: Computer, activate security containment
+field. Deck thirty six, section fifty two. 
+(Wesley runs up against the forcefield) 
+WESLEY: Computer transport programme Crusher One.
+
+[Transporter room]
+
+(Wesley takes off his comm. badge and dashes out)
 

@@ -1,53 +1,44 @@
-TROI LAFORGE CONOR HANNAH PICARD FELTON
-
-[Courtyard]
-
-(Deanna is playing the piano when Aaron joins her) 
-CONOR: You're up early. 
-TROI: I'm still on Enterprise time. Aaron, I'm going back to the ship.
-I'm not going to see you again. 
-CONOR: Why? 
-TROI: Because it's the right thing to do. 
-CONOR: I'm not convinced of that. 
-TROI: You know it as well as I do. 
-CONOR: You're angry. 
-TROI: Yes, I'm angry. I'm angry with myself for allowing this to
-happen. 
-CONOR: Deanna. 
-TROI: I could fall in love with you so easily, but we both know the end
-of that story, don't we? How would Martin feel about introducing
-half-Betazoid DNA into the genetic balance? 
-CONOR: If we have to evacuate, anything's possible. 
-TROI: Listen to yourself. A few days ago you wouldn't even talk to us.
-This is my fault. I'm so sorry. 
-CONOR: I need you here. This doesn't have to happen again. 
-TROI: I have to go. 
-(La Forge and Hannah beam in) 
-HANNAH: Good news, Aaron. We should be able to change the course of the
-core fragment, but we'll also need to fortify the structure. And we're
-going to need help to do it. 
-LAFORGE: We'll need to bring down engineering crews from the Enterprise
-to work with your people for the next forty eight hours. 
-CONOR: Engineering crews? 
-LAFORGE: They have to install five new shield generators and power
-supplies. 
-HANNAH: Fifty officers are waiting for your approval to transport down.
-We don't have much time, Aaron. 
-CONOR: Is there any other choice? 
-HANNAH: None. 
-(Conor nods) 
-LAFORGE: Enterprise, you may begin transport when ready. 
-(the first five plus equipment arrive immediately. There's another
-tremor) 
-Captain's log, supplemental. The Enterprise has
-moved to a parallel course with the core fragment. We must adjust its
-trajectory by a
-minimum of one point two degrees to ensure the colony's safety.
+RIKER CONOR WORF HANNAH PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Bring us within range of the fragment,
-Ensign. 
-FELTON: Aye, sir. 
-PICARD: You may proceed
+WORF: Life support normal on all decks. 
+PICARD: Mister Data? 
+DATA: The fragment's course has been altered by one point two one
+degrees, sir. 
+PICARD: Hail the colony. 
+CONOR [on viewscreen]: Yes, Captain. 
+PICARD: Success, Mister Conor. With the upgrades to your biosphere, the
+core fragment should no longer be a danger. 
+CONOR [on viewscreen]: I cannot adequately express my appreciation to
+your crew. Is Hannah able to hear me?
+
+[Engineering]
+
+HANNAH: Yes, yes. Go ahead, Aaron. 
+CONOR [on monitor]: This is an historic achievement, Hannah. You've
+done a wonderful thing for our people. 
+HANNAH: Thank you. 
+CONOR [on monitor]: We look forward to honouring you appropriately when
+you return. Thank you again, Captain. Conor out.
+
+Captain's log, supplemental. The stellar core
+fragment has passed safely out of the Moab system. The colony was
+shaken by powerful temblors, but fortunately there were no injuries and
+only minor damage was reported.
+
+[Courtyard]
+
+RIKER: Energise. 
+(the original five crew are beamed away) 
+RIKER: That should do it. All members of the Enterprise crew are
+accounted for, Mister Conor. 
+CONOR: They've been invaluable, Commander. Thank you again. 
+RIKER: If there's nothing else, we'll be on our way. 
+CONOR: Would you tell Deanna Troi for me that I'm sorry I didn't have
+the opportunity to say goodbye personally? 
+RIKER: I'm sure she'll feel the same way. 
+(a klaxon sounds) 
+CONOR: A breach in the biosphere. Get Hannah Bates.
 

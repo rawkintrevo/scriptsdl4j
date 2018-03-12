@@ -1,60 +1,36 @@
-TIMOTHY RIKER PICARD HUTCHINSON CRUSHER DATA
+TIMOTHY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-PICARD: Acknowledged. Picard to Crusher. 
 [Sickbay]
 
-CRUSHER: Sickbay here, Captain. 
-PICARD [OC]: Prepare for emergency transport. 
-CRUSHER: Yes, sir. 
-[Bridge]
+CRUSHER: Transfer circuits are functioning
+properly. 
+TIMOTHY: Within established parameters? 
+CRUSHER: Absolutely. Input processing, pattern recognition, all within
+established parameters. 
+DATA + TIMOTHY: Thank you, Doctor.
 
-CRUSHER [OC]: Crusher out. 
-PICARD: Picard to Commander Riker.
+[Data's quarters]
 
-[Vico]
-
-PICARD [OC]: Is the boy ready, Number One? 
-RIKER: Ready, sir. 
-PICARD [OC]: It's your signal. 
-RIKER: Aye, Captain. It's going to be okay. Here we go. Energise.
-
-[Transporter room]
-
-PICARD [OC]: Ensign, do we have him? 
-HUTCHINSON: The lock is holding. I just can't resolve the matter
-stream, not with all that victurium alloy in the way.
-
-[Vico]
-
-HUTCHINSON [OC]: Commander Riker. You'll have to
-get him out into the corridor. 
-DATA: I could move the beam, sir. However, it may initiate the collapse
-of the surrounding supports. I recommend you and Geordi return to the
-ship. 
-RIKER: Agreed. La Forge. 
-[Transporter room]
-
-(Riker and La Forge are beamed in) 
-HUTCHINSON: I'm locked onto Commander Data and the boy, sir. I'll
-energise as soon as they've cleared the bulkheads. 
-RIKER: Whenever you're ready, Data. 
-DATA [OC]: Yes, sir. 
-[Vico]
-
-TIMOTHY: Are you're going to lift that? 
-DATA: Yes. Then I will take you to the corridor. We will transport back
-to the Enterprise from there. Do you understand? 
-TIMOTHY: How come you can pick up something so heavy? 
-DATA: I am an android. My strength is many times that of a human. It is
-going to be okay. I will count to three. One two three. 
-(he pushes up the beam with one hand, Timothy wriggles out and runs.
-Data drops the beam and follows, picking the boy up when he stumbles at
-the steps)
-DATA: Energise.
-
-Captain's log, supplemental. A thorough search of
-the Vico has revealed no additional survivors. We have begun the
-process of counselling the boy with regard to the tragedy.
+(They are both painting - Data is doing a
+traditional pastoral landscape whilst Timothy's image is, well, angry) 
+TIMOTHY: I ran out of red ochre. 
+DATA: You may use mine. 
+TIMOTHY: Thank you. (yawns) 
+DATA: Perhaps you should return to your quarters. 
+TIMOTHY: I'm fine. The servo mechanisms in my mouth are designed to
+approximate human movements. 
+(Data tries a yawn) 
+TIMOTHY: That is not bad. 
+DATA: Thank you. (re painting) It is very expressive. 
+TIMOTHY: Thank you. 
+DATA: Is your painting representative of something? 
+TIMOTHY: It's just a painting. 
+DATA: Timothy, you understand that you may speak with me about anything
+you wish? Any subject? 
+TIMOTHY: I understand. 
+DATA: At times, I too find it difficult to share my thoughts with
+others. I am not always confident that I am expressing myself in a
+manner which humans can comprehend. But do I know that 
+(Data sees that Timothy has fallen asleep and carries him to the couch)
 

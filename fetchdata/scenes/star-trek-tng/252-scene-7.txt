@@ -1,58 +1,43 @@
-TROI LAFORGE WORF PICARD ENSIGN RIKER CRUSHER DATA
+TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Troi's office]
 
-LAFORGE: Captain, the alien ship is breaking orbit.
-
-PICARD: Plot an intercept course, Ensign. Fire torpedoes. 
-(but they go to warp just before the torpedoes arrive) 
-LAFORGE: They're gone, sir. Our sensors indicate there was some kind of
-subspace distortion just before they disappeared. I'll have to study
-these readings before I can get more specific than that. 
-PICARD: Take us back to Ohniaka Three. 
-ENSIGN: Aye, sir. 
-[Outpost]
-
-RIKER: Data? Data, are you all right? 
-DATA: Yes, sir. 
-RIKER: What happened? 
-DATA: I got angry.
-
-Captain's log, stardate 46982.1. Because of his
-unusual behaviour on the planet surface, Commander Data has asked to be
-temporarily relieved of duty. Unfortunately, this means he will not be
-able to help us investigate a disturbing new change in the behaviour of
-the Borg.
-
-[Observation lounge]
-
-RIKER: They were fast, aggressive, almost vicious.
-it was more like fighting Klingons than Borg. No offence. 
-WORF: None taken. 
-RIKER: There was another difference. I don't believe they were part of
-the Borg collective. I think they were acting as individuals. 
-PICARD: What? 
-RIKER: One of them referred to himself as I. 
-WORF: And that Borg also showed concern for a fallen comrade. He even
-called him by name. 
-TROI: The only Borg who had a name was Hugh. And we gave it to him. 
-CRUSHER: Maybe Hugh has something to do with this change in their
-behaviour. 
-PICARD: Did they show any interest in assimilating you or your
-technology? 
-RIKER: They seemed more concerned with the death of their colleague and
-with destroying us. I didn't see anything that suggested they wanted to
-assimilate anybody. 
-PICARD: The Borg's entire existence was centred around acquiring
-cultures and technology. If that's changed, then they must have a new
-objective. We have to find out what it is. Mister Worf, from this
-moment on, I want to maintain a level two security alert. Post armed
-officers on every deck. 
-WORF: Aye, sir. 
-PICARD: Number One, I want you to analyse our sensor readings of the
-Borg ship. Try to determine if it was something they constructed or an
-alien ship which they captured. Then run an analysis of this subspace
-distortion they used to escape. 
-RIKER: Aye, sir. 
-PICARD: I'm going to contact Starfleet Command.
+DATA: For the past six hours, I have attempted to
+produce an emotional response by subjecting myself to various stimuli. 
+TROI: Like what? 
+DATA: I listened to several operas known to be uplifting, I watched
+three holodeck programs designed to be
+humourous, and I made four attempts to induce sexual desire by
+subjecting myself to erotic imagery. 
+TROI: What happened? 
+DATA: Nothing. 
+TROI: I'm curious. Why are you ignoring the one emotion you've already
+experienced? Why aren't you trying to make yourself angry again? 
+DATA: Anger is a negative emotion. I wanted to concentrate on something
+more positive. 
+TROI: Data, feelings aren't positive and negative, they simply exist.
+It's what we do with those feelings that becomes good or bad. For
+example, feeling angry about an injustice could lead someone to take a
+positive action to correct it. 
+DATA: But my study of humanity indicates there are some emotions that
+are harmful, such as jealousy or hatred. 
+TROI: Those are very strong emotions, and you're right, very little
+good can come from them. But I don't think that an exploration of anger
+need necessarily lead to hatred or malice. 
+DATA: But what if it does, Counsellor? What if it turns out that those
+are the only emotions I am capable of experiencing? Would that not make
+me a bad person? 
+TROI: We've served together for a long time and I think I've come to
+know you pretty well. I have to believe if you ever reach your goal of
+becoming human, you won't become a bad one. 
+DATA: I wish I were as confident as you, Counsellor. When I was
+fighting the Borg, I felt angry, but when I think back on the incident,
+I realise that I was also experiencing another sensation. It was not
+the same as anger, but I think it was an emotion. 
+TROI: When exactly did you feel this other emotion? 
+DATA: It was just after I had killed the Borg. I looked down at his
+body. I felt something. 
+TROI: If you had to give this feeling a name, what would you call it? 
+DATA: I believe it was pleasure.
 

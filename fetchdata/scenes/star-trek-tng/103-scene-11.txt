@@ -1,53 +1,34 @@
-PICARD RIKER CRUSHER DATA LAFORGE
+TASHA PICARD SECURITY DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
-
-CRUSHER: If you were any more perfect, Data, I'd
-write you up in a Starfleet medical textbook. 
-DATA: I am already listed in several bio-mechanical texts, Doctor. 
-CRUSHER: Yes of course. You're next, Lieutenant. 
-(Geordi lays on the bed) 
-CRUSHER: Normal all across. Except, why are you perspiring, Lieutenant?
-
-LAFORGE: I suppose because you have it too hot in here. What else would
-it be? 
-RIKER: That doesn't sound like you, Geordi. 
-LAFORGE: Well, maybe it's not. Maybe she threw her voice. Hey, it was a
-joke. 
-CRUSHER: Of course, but I would like to run one or two more tests on
-you, Lieutenant. 
 [Bridge]
 
-CRUSHER: [OC]: Sickbay to Bridge, 
-PICARD: Picard here. Go ahead, Doctor. 
-CRUSHER: [OC]: I'm confining Lieutenant La Forge to Sickbay until
-further notice. 
-PICARD: Do we have a problem, Doctor? 
-[Crusher's office]
-
-CRUSHER: I don't know yet. 
-[Bridge]
-
-RIKER: Data, I need help in locating some library
-computer information. 
-DATA: Specifics, sir? 
-RIKER: All I have is a vague memory of reading somewhere about someone
-taking a shower in his or her clothing. 
-DATA: Ah. The body Geordi discovered. 
-RIKER: I believe it may have happened before. 
-DATA: To someone, somewhere. 
-RIKER: This ought to be easy for someone written up in bio-mechanical
-texts. 
-DATA: About that, sir. Did the Doctor believe I was boasting? 
-RIKER: Probably. This may take some time. 
-DATA: At least several hours. But what I said was a statement of fact.
-Perhaps she will look it up. 
-RIKER: You can depend on it.
-
-[Sickbay]
-
-(While Beverly puts the results of her latest scan
-into her computer, Geordi takes off his comm. badge and walks out into
-the corridor. When she gets there, he is nowhere in sight) 
-CRUSHER: Geordi!
+PICARD: Number One, MacDougal, get that boy out of
+Engineering. 
+(Riker and MacDougal leave) 
+WORF: Sir, I'm getting very strange reports from all decks. 
+PICARD: Such as? 
+WORF: Such as the ship's Training Division ordering all officers to
+attend a lecture on metaphysics. 
+PICARD: Metaphysics? 
+DATA: Confirmed, sir. And there was a rather peculiar limerick being
+delivered by someone in the Shuttlecraft bay. I am not sure I
+understand it. There was a young lady from Venus whose body was shaped
+like 
+PICARD: Captain to Security, come in! 
+DATA: Did I say something wrong? 
+WORF: I don't understand their humour either. 
+SECURITY [OC]: Yeah, Captain? 
+PICARD: Where is my security chief! Get me Lieutenant Yar. 
+SECURITY [OC]: Keep your britches on. 
+TASHA [OC]: (lilting) Captain Picard. 
+PICARD: Lieutenant, where are you? 
+TASHA [OC]: I'm in my quarters, and I'm pretty busy right at the
+moment, Jean-Luc. 
+PICARD: All right, Lieutenant, you just stay right there. Data, please
+go to Lieutenant Yar and take her down to Sickbay. 
+DATA: Yes, sir. 
+(Data leaves) 
+PICARD: Captain to Security, I want all your senior supervisors to
+report to the Bridge immediately.
 

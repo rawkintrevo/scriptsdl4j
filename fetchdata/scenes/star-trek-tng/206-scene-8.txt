@@ -1,44 +1,36 @@
-WESLEY CRUSHER DATA LAFORGE ROBIN
+PICARD RIKER CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Sickbay]
 
-WESLEY: I'll modify the planetary scanners. 
-LAFORGE: Just make sure we keep enough data lines open for stellar
-physics. 
-WESLEY: No problem. I'll compress the signal flow. 
-LAFORGE: All right. 
-(Geordi leaves him to it) 
-WESLEY: Why aren't these registering? 
-ROBIN: You might try calibrating them manually. 
-WESLEY: Excuse me? 
-ROBIN: The detectors. They tend to get temperamental. You can try
-calibrating them by hand. 
-WESLEY: You're kidding. The computer has to do this. 
-ROBIN: No. Look. The subroutine lets you do it from the panel. Law
-Seventeen. When all else fails, do it yourself. 
-WESLEY: It's working. Thanks. 
-ROBIN: Sure. 
-WESLEY: By the way, I'm Wesley. Wesley Crusher. 
-ROBIN: I know. Just came back from the Academy. 
-WESLEY: That's right. 
-ROBIN: Robin Lefler. 
-WESLEY: Hi. 
-ROBIN: Hi. 
-ROBIN: Your neutrinos are drifting. 
-(he finally lets go of her hand) 
-WESLEY: They're what? 
+CRUSHER: He came in complaining of a servo
+malfunction but my scans came out negative. Then he just collapsed. 
+PICARD: What have you found? 
+CRUSHER: His biosystems and positronic functions seem to check out, and
+his power cells are active. 
+LAFORGE: From what I can tell, his higher functions are intact, but the
+signals aren't getting from his brain to the rest of his body. It's
+like he's in a coma. 
+RIKER: Data performs self diagnostic routines on a regular basis. We
+should take a look at his logs. They may reveal something. 
+LAFORGE: I recommend going through his quarters, as well. You never
+know what we might find. 
+PICARD: Agreed. Continue the analysis. Keep me informed.
 
-[Bridge]
+[Data's quarters]
 
-DATA: Geordi, a conflict has started between the
-planetary evolution team and the stellar physicists. Each wishes to be
-the first to use the thermal imaging array. 
-LAFORGE: Well, tell them to flip a coin. We've got to work together on
-this mission, otherwise we're never going to get it done. 
-DATA: A coin. Very good. I will replicate one immediately. 
-CRUSHER [OC]: Doctor Crusher to Data. 
-DATA: Data here. 
-CRUSHER [OC]: Do you have a minute to join me in Sickbay? I need your
-help with something. 
-DATA: Yes, Doctor. On my way.
+RIKER: Standard security sweep shows nothing out of
+the ordinary. 
+LAFORGE: Personal logs, diagnostics, duty logs, they all appear normal.
+There's no evidence of anything that could lead to Data's shutdown. 
+RIKER: Maybe we should ask his cat. 
+LAFORGE: I guess I'd better get back to Sickbay, see if there's any
+change in his condition. 
+RIKER: Doctor Crusher's got everything under control, Geordi. If
+there's any change, you'll be the first to know. 
+LAFORGE: I guess so. 
+RIKER: Looks to me like you need a break. Unwind a little. 
+LAFORGE: Yeah, maybe you're right. 
+RIKER: I've got just the thing. Why don't you join me in Ten Forward?
+There's something I'd like you to try.
 

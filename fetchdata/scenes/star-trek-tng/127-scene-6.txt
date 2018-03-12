@@ -1,44 +1,85 @@
-WESLEY RIKER DATA LAFORGE
+TROI PICARD RIKER PULASKI NURSE DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Take us out of orbit, Mister Crusher. Set
-course for 'audet Nine. 
-WESLEY: Aye, sir. Course for 'audet Nine has been input. 
-RIKER: Maximum impulse velocity. 
-WESLEY: Aye, sir. 
-RIKER: Engage. 
-(as they head off, a light follows them and enters the hull) 
-DATA: Engineering, this is Science One. I have just observed what
-appeared to be a random energy transference.
-
-[La Forge's office]
-
-LAFORGE: Where? 
-DATA [OC]: Aft. Outboard of the port nacelle. 
-LAFORGE: Hold on, I'll check.
-
-[Engineering]
-
-LAFORGE: No, I show nothing here, Data.
-
-[Bridge]
-
-RIKER: Problem, Commander? 
-DATA: Possibility, sir. An unexplained power fluctuation. 
-RIKER: Let me know if it reoccurs. 
+DATA: Captain, the final manifest has been
+received. 
+PICARD: At last. Review it with Doctor Pulaski. I want you both to be
+completely familiar with it. 
 DATA: Aye, sir.
 
 [Corridor]
 
-(The light pops up through the floor, hides from
-them follow a couple of crew, and goes up into crew quarters. It seems
-to examine one man asleep, then passes through a bulkhead, goes
-underneath the sheets and into Deanna Troi, who wakes up panting)
+TROI: Data, will you help me get to Sickbay.
 
-Captain's log, Stardate 42073.1. There has been an
-outbreak of an unclassified plasma plague in the Rachelis system. We
-are on an emergency run to collect specimens of the deadly plague and
-transport them to Science Station Tango Sierra, where hopefully an
-antidote can be produced.
+[Pulaski's office]
+
+TROI: It's time. 
+PULASKI: Oh, you bet it is. Let's get you to Maternity. 
+DATA: Worf, assemble your security team in Sickbay. 
+PULASKI: Is that necessary? 
+DATA: Yes, Doctor. Captain's orders. 
+PULASKI: Well, it's strange to need armed guards in a delivery room.
+This way. 
+[Sickbay]
+
+PULASKI: How frequent are your contractions? 
+TROI: Very close together. 
+PULASKI: In my other deliveries, except for a couple, the father was
+always present. 
+TROI: Difficult under the circumstances. 
+DATA: Perhaps I could serve in that capacity. 
+PULASKI: Counsellor Troi is going to need the comfort of a human touch,
+not the cold hand of technology. 
+TROI: Doctor, I think Commander Data will do very nicely. 
+PULASKI: Your choice. 
+(A little later, Deanna is in the birthing chair, almost upright) 
+TROI: You don't have to do anything, Data. Just be with me. 
+PULASKI: There is nothing to be nervous about. 
+DATA: Nervous? I find this very interesting. Although I understand, in
+technical terms, how life is formed, there is still a part of the
+process which eludes me. The child inside you, are you able to access
+his thought process? Does he have thoughts? You are aware of him. Is he
+aware of you? And when does that awareness begin? 
+TROI: It's happening. 
+DATA: How does it feel? 
+TROI: Data! 
+DATA: Yes? 
+TROI: Now!
+DATA: Now? Now! Doctor! Doctor! Doctor! 
+PULASKI: This is an impatient baby. He's eager to make his appearance.
+Do you want something for the pain? It will in no way diminish the
+experience. 
+TROI: I have felt no pain. 
+PULASKI: None? 
+TROI: No, none at all. 
+(Worf and two guards enter) 
+PULASKI: Have your Security men stand back. I understand the importance
+of having you here, but keep out from underfoot. Foetal position? 
+NURSE: Normal. 
+PULASKI: Foetal pulse? 
+NURSE: One thirty seven. 
+PULASKI: The baby is showing healthy respiratory movements. 
+(Riker sneaks in to watch) 
+PULASKI: (kneeling in front of Troi) The action of the heart rate is
+good. The baby's doing wonderfully, Troi. Breathe slowly. You're doing
+great. Stay calm. That's it. There it is. I've got him. You can relax. 
+(Baby crying) 
+PULASKI: (cleaning him off) There, there. That's a good boy. It's okay.
+Oh, my, he's beautiful. (hands him to Troi) Are easy births the norm
+for Betazoids? 
+TROI: Not according to my mother. 
+PULASKI: (to Worf) You can come in the rest of the way now. There's no
+threat, Lieutenant. You and your men can relax. It's just a baby. 
+(Worf looks and leaves) 
+DATA: Thank you for allowing me to participate. It was remarkable. 
+PULASKI: Do you have a name? 
+TROI: Ian Andrew, after my father. 
+(Riker comes forward) 
+TROI: Were you hear all along? 
+RIKER: Yes. He's beautiful, Deanna. Just like his mother. 
+PULASKI: How do you feel? 
+TROI: Fine. Wonderful. Thank you, Doctor, for everything. 
+PULASKI: Amazing.
 

@@ -1,68 +1,59 @@
-TROI OBRIEN LAFORGE WORF PICARD RIKER CRUSHER
+RIKER CRUSHER LAFORGE PICARD TROI RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Tem Forward]
 
-O'BRIEN: Sir, let me beam down with a pattern
-enhancer. 
-LAFORGE: Chief, there's no guarantee you won't rematerialise in a
-million pieces if your signal gets caught up in that electromagnetic
-whirlwind. 
-O'BRIEN: I can boost the confinement beam. One person might be able to
-make it. 
-LAFORGE: Captain, Chief O'Brien wants to beam down to the surface with
-a pattern enhancer. 
+PICARD [OC]: Perhaps we could 
+TROI [OC]: You have thirty seconds to change your heading or additional
+members of your crew will require medical attention. 
 [Bridge]
 
-LAFORGE [OC]: His chances of getting down there
-safely are no better than fifty-fifty, in my opinion. 
-WORF: Captain, a major storm front is moving in on the away team's
-coordinates. 
-PICARD: You're aware of the risks, Mister O'Brien? 
-O'BRIEN [OC]: Yes sir.
+PICARD: We need to stabilise this situation. Play
+for time. I suggest we move the ship as they've asked. Agreed? Set a
+new heading, but take us there as slowly as you can. Ten Forward, we
+are moving the ship as you requested.
 
-[Transporter room]
+[Ten Forward]
 
-O'BRIEN: I think I can make it. 
-PICARD [OC]: All right then. Good luck. 
-O'BRIEN: Aye, sir.
+DATA: He's telling the truth. Their heading has
+changed. 
+[Bridge]
 
-[Moon surface]
+CRUSHER: Captain, I've compared the away team's
+last transporter trace patterns to their earlier records. They're
+exactly the same, except in Troi, Data and O'Brien there's an unusual
+synaptic activity. Some kind of anionic energy. It may be another
+lifeform superimposing its neural patterns on our people. 
+RIKER: Why wasn't I affected? 
+CRUSHER: I don't know. The only difference between you and the others
+was that you were injured. 
+RIKER: My broken arm. 
+CRUSHER: The fracture caused pain receptors to fire, which may have
+made you immune to this energy. 
+PICARD: If your theory is accurate, Doctor, what would happen if we
+were to inflict pain on the others? 
+CRUSHER: It might force whatever it is out of our people. 
+RO: A plasma shock. It would be painful but it wouldn't cause any
+physical harm. 
+LAFORGE: I could hook up a modified laser scanner to a plasma inverter.
 
-RIKER: Mister O'Brien! Nice of you to join us. 
-O'BRIEN: Nice spot for a picnic, sir. We need to distribute these
-enhancer rods at seven metre lengths. That should do it. 
-RIKER: Is this storm front going to interfere with the transport,
-Chief? 
-O'BRIEN: I'd really like to get us out of here before it hits,
-Commander. I'm supposed to be feeding the baby lunch. Molly gets in a
-terribly foul mood if I'm late. 
-RIKER: I'm with you. 
-(the sky is very angry) 
-RIKER: Lunch time, Miles! Let's do it! 
-(O'Brien goes to turn on the pattern enhancers, and gets hit by
-lightning. They all fall down. Balls of light descend on them, but one
-flies away from Riker, who wakes up. He activates the enhancers and
-they are all beamed away)
+RIKER: What about Data? 
+LAFORGE: Well, a plasma shock would definitely overload his neural net.
+It'll work on him too. 
+RIKER: We have to find a way to penetrate the forcefield around Ten
+Forward. 
+LAFORGE: I might be able to interrupt the forcefield for a few seconds,
+but I'll be fighting the computer for control. Timing would be
+critical. 
+RO: We'd have to hit all three with a single discharge. If they're
+standing together, it shouldn't be a problem. 
+PICARD: How will you gain access? 
+LAFORGE: A micro-optic drill through the ceiling. They'll never detect
+it. 
+CRUSHER: If this is going to work, we have to have some way to contain
+or neutralise this anionic energy once it's out of our people. 
+PICARD: Yes, Doctor. That will be your top priority. Very well,
+proceed. Bridge to Ten Forward. Now that we are moving the ship as you
+requested, I would like to know the nature of the injuries to the
+members of my crew.
 
-[Sickbay]
-
-(Troi wakes with a scream) 
-CRUSHER: Easy, Deanna. 
-TROI: Where? 
-CRUSHER: Back on the Enterprise. You're going to be okay. 
-TROI: My skin, it's tingling. 
-CRUSHER: You're experiencing the afterimages of the electromagnetic
-discharge. The sensation will pass. They're all fine, too. Now, I want
-you to take your time, Counsellor. Doctor's orders. 
-(Picard enters) 
-PICARD: Injury report, Doctor? 
-CRUSHER: Mostly minor abrasions. Commander Riker took the worst of it
-with a broken arm.
-PICARD: Mister Data. Good work, Chief. 
-O'BRIEN: Thank you, sir. 
-RIKER: Ready for duty, sir. 
-PICARD: You're sure, Number One? 
-RIKER: It's not the first bone I've ever broken. 
-PICARD: And how are you, Counsellor? 
-TROI: Very glad to be here. 
-PICARD: Good. Let's go. 

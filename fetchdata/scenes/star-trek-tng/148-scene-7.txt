@@ -1,45 +1,36 @@
-PULASKI RIKER OBRIEN LAFORGE
+PULASKI RIKER TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Steamy mangrove swamp]
+[Sickbay]
 
-LAFORGE: Well, can't the bio-filter screen them
-out? 
-O'BRIEN [OC]: Apparently not.
+(Riker has been stripped of his uniform and covered
+with a blanket. Above and around his head is a framework with what look
+like five giant hypodermic needles pointing towards his head. Troi
+winces as each goes in) 
+PULASKI: Let's proceed. 
+(The needles extend themselves down into Riker's brain) 
+PULASKI: Good. Stand by with five milligrams of tricordrazine in case
+of seizure. Here goes. 
+(Riker's eyelids flutter, and we go off into his 'memories' as
+triggered by the treatment, and the need to produce a very cheap
+episode)
 
-[Transporter room]
+[The Last Outpost]
 
-O'BRIEN: But Doctor Pulaski has been notified. 
-[Steamy mangrove swamp]
+RIKER: (alone in a hostile land) Tasha? Data?
+Geordi? Worf? Anybody?
 
-LAFORGE: Acknowledged. 
-RIKER: I wasn't ready to leave here anyway. 
+[Sickbay]
 
-[Transporter room]
-
-O'BRIEN: Here's the biofilter's analysis of the
-microbes. 
-PULASKI: That's not much to go on. 
-O'BRIEN: I can override and beam Commander Riker aboard . 
-PULASKI: No. I'd better go down and make an evaluation there. 
-(She takes a deep, reluctant breath and gets on the pad) 
-O'BRIEN: I hope these are the right coordinates. Just kidding, Doctor.
-I know how much you love the transporter. 
-PULASKI: About as much as I love comical Transporter Chiefs. 
-O'BRIEN: Ready? 
-[Steamy mangrove swamp]
-
-RIKER: Over here, Doctor. 
-PULASKI: Fill me in. 
-RIKER: I was walking along minding my own business, doing a simple
-geological sweep. Something stuck me in the leg. 
-PULASKI: Any pain? 
-RIKER: No. Just a little numb, that's all. 
-PULASKI: Do you know what it was that stuck you? 
-LAFORGE: We've been looking for it. No luck. 
-PULASKI: Well, whatever it was, it left something behind. I'm going to
-take you up to Sickbay. O'Brien, this is Doctor Pulaski. 
-[Transporter room]
-
-PULASKI [OC]: Medical override is authorised. 
-O'BRIEN: Acknowledged.
+PULASKI: We've stimulated random wave activity, but
+the patterns are dangerously erratic. 
+TROI: Hang on, Will. Hang on. 
+PULASKI: The wave patterns are still too irregular. 
+TROI: Why won't they stabilise? 
+PULASKI: Wait. I've found the right amplitude. There. The patterns are
+steadier. 
+TROI: Is the stimulation preventing the infection from taking hold? 
+PULASKI: For now. The vertex waves indicate a K-complex corresponding
+to an REM state. 
+TROI: He's dreaming.
 

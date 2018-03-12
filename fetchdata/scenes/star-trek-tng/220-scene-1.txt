@@ -1,42 +1,39 @@
-LWAXANA RIKER TROI WORF ALEXANDER
+PICARD RIKER ENSIGN WORF DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Troi's office]
+  [Bridge]
 
-(Troi is mediating a family dispute) 
-WORF: My instructions were clear. 
-ALEXANDER: They were not! 
-WORF: Before he was allowed to play, he was to place his soiled
-clothing in the garment reprocessor. 
-ALEXANDER: I was not! 
-TROI: I sense a touch of hostility here, gentlemen. 
-WORF: You were specifically told that. 
-ALEXANDER: You told me that yesterday, not today! 
-TROI: If I may suggest 
-WORF: You know very well the same rules apply today that 
-TROI: Please! Why not simply draw up a contract which clearly defines
-the duties of each family member. 
-ALEXANDER: You mean he tells me what he wants and I have to do it. 
-TROI: No, I means you both agree to your responsibilities. And when
-you've done the things that you've agreed to do, then you've earned the
-privilege to doing the things that you want to do. When he's cleaned
-his room, for instance, then perhaps he's earned a visit to the
-holodeck to fight his alien monsters. 
-WORF: You suggest bribery. 
-TROI: I suggest working out an equitable system with the rules clearly
-spelled out. For the child and the parent. You must make a list of your
-responsibilities, too. What would you like your father to promise,
-Alexander? 
-ALEXANDER: No yelling. 
-WORF: I do (softer) I do not yell. 
-TROI: Well then you should have no trouble with that part. Why not go
-back to your quarters and talk this thing over?
-Decide on which points each of you wants in the contract. 
-WORF: Very well. 
-TROI: One day you'll learn to be glad your father cared enough about
-you to insist on rules. It may be hard to imagine right now, but
-eventually, most children come to appreciate their parents. 
-(Worf and Alexander leave) 
-RIKER [OC]: Riker to Counsellor Troi. Your mother's just come aboard. 
-TROI: On the other hand 
-LWAXANA [OC]: Deanna, my dear! It's Mother!
+(at Red Alert) 
+WORF: Forward tubes armed and ready, Captain. 
+PICARD: Fire. 
+WORF: A direct hit, sir. 
+DATA: The asteroid has shattered. However, the core is still intact and
+still on a collision course with Tessen Three. 
+RIKER: Is it big enough to cause a threat? 
+DATA: Yes, sir. It is of sufficient size and density to cause
+planetwide damage. 
+PICARD: Time to impact. 
+DATA: It will reach the upper atmosphere in forty four seconds and
+impact on the planet eleven seconds later. 
+RIKER: Ready torpedoes. 
+WORF: Aye, sir. 
+DATA: Sir, the core is composed of nitrium and chrondite. It is
+unlikely another photon torpedo will be of any effect. 
+PICARD: Mister Worf, prepare a tractor beam. 
+WORF: Aye, sir. 
+DATA: Thirty seconds to impact. 
+WORF: Captain, I am unable to get a positive lock with the tractor
+beam. There is magnetic field interference emanating from the core
+materials. 
+PICARD: Activate a deflector dish. If we project a particle beam, we
+may be able to produce a disruptive nuclear effect within the core. 
+WORF: Aye, sir. 
+DATA: Impact in seventeen seconds. 
+WORF: Particle beam activated. The target has been destroyed, Captain. 
+DATA: The remaining debris is of no threat to the planet, sir. 
+PICARD: Well done, everyone . Ensign, put us back on course for the
+Moselina system. Warp four as soon as we're clear of the debris field. 
+ENSIGN: Aye, sir. 
+(and shiny bits of debris settle on the ship's hull as it sails through
+the field)
 

@@ -1,25 +1,43 @@
-PICARD RIKER DATA
+RIKER DATA TROI GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+  [Classroom]
 
-DATA: Based on its present trajectory, the comet
-appears to have originated in the D'Arsay system. 
-RIKER: That's over two sectors away. 
-DATA: That is correct, sir. This object has been en route for eighty
-seven million years. 
-RIKER: That's a long time alone in the dark. 
-PICARD: Begin a full sensor analysis, Mister Data, and log the findings
-with the Federation Astrophysical Survey. 
-DATA: Aye, sir. The comet's outer shell is composed primarily of
-gaseous hydrogen and helium surrounding an icy mantle. The inner core
-consists of heavier elements 
-(a bright light sweeps the Bridge) 
-PICARD: What was that? 
-DATA: There is distortion within the comet's inner core. I believed we
-experienced an intense sensor echo. 
-RIKER: Can you correct for it? 
-DATA: I am attempting to do so now, sir. I have compensated for the
-effect. Sensors are reconfigured for a low intensity sweep. We are
-still picking up some interference, but the distortion is manageable.
-At these settings, the scan will be complete in thirty nine hours.
+(it is clay sculpture class) 
+TROI: (to a girl) That's very good. (to a boy) Well, that's very nice. 
+GUEST5: No, it isn't. I just can't get it right. Do you think the wings
+are too big? 
+TROI: Not at all. Birds have wings of all sizes, Eric. And you
+shouldn't worry about making it look perfect. 
+GUEST5: But Mrs Narsu said we should try to make our sculptures as
+realistic as possible. 
+TROI: She's right. It is important that you be able to make the clay
+take the shape you want it to have, but you're not supposed to be
+concentrating on technique today. I'm here to help you focus on the
+feelings you want to convey with your sculpture. For instance, what do
+you think about when you see a bird? 
+GUEST5: Flying? 
+TROI: Fine. So, make your sculpture make me think of flying, too. 
+(She moves on to the big kid in the class) 
+TROI: How's it going, Data? 
+DATA: I have finished. 
+(it's a perfect PADD) 
+DATA: The dimensions are accurate to within one point three percent. 
+TROI: I'm sure they are. Data, you obviously don't have a trouble with
+realism, but you're here to work on your imagination. Maybe you should
+try something a little more abstract. Here. I want you to start a new
+piece. I'd like you to sculpt music. 
+DATA: Counsellor, music is a collection of acoustic vibrations. How can
+I reproduce a sound with clay? 
+TROI: Well, think of the effects that sounds have on people, the images
+that music brings to your mind, and then give it a form. 
+(he quickly forms a treble clef) 
+TROI: It's a start. 
+RIKER [OC]: Riker to Data. Please report to the Bridge. 
+DATA: Acknowledged, sir. On my way.
+
+Captain's log, stardate 47615.2. We have
+encountered a rogue comet in sector one one five six. It is not native
+to this region of space, and there is no previous record of this object
+on any Federation charts.
 

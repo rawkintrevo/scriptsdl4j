@@ -1,106 +1,52 @@
-TROI LAFORGE WORF SHELBY RIKER WESLEY GUINAN CRUSHER DATA
+RIKER WORF SHELBY GUEST0 WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Battle bridge]
 
-RIKER: Lieutenant Worf, everyone in this room
-shares my respect for your service to this ship. But right now, I need
-your experience at tactical. Commander Data, I realise your very nature
-omits ambition. Nevertheless, I want you to know I seriously considered
-you first officer. 
-DATA: Thank you, sir. 
-RIKER: But this is not the time for change. I need you all where you
-are, where Captain Picard always relied on you. I have been,
-reluctantly, forced to conclude that Commander Shelby, our expert on
-the Borg, is an ideal choice at this time for first officer. Based on
-our latest communication, we can assume that the Borg survived the
-fleet's attack. Your thoughts on our next encounter? 
-SHELBY: What about the heavy graviton beam we were talking about?
-LAFORGE: I've gone over it four times. The local field distortion just
-wouldn't be strong enough to incapacitate them. 
-DATA: Doctor Crusher and I have been working on an interesting premise.
-
-CRUSHER: With our recent experience in nanotechnology, we might be able
-to introduce a destructive breed of nanites into the Borg. 
-SHELBY: Nanites?
-DATA: Robots small enough to enter living cells.
-RIKER: How long would it take to execute that? 
-CRUSHER: That's the problem. Two to three weeks.
-TROI: In two or three weeks, nanites may be all that's left of the
-Federation.
-WORF: We have the new phaser adapters. 
-LAFORGE: maybe in concert with photon torpedoes we can slow them down. 
-RIKER: I'm sure Captain Picard would have something meaningful and
-inspirational to say right now. To tell you the truth, I wish he were
-here, because I'd like to hear it too. I know how difficult this
-transition has been for all of you. I can take over for him, but I
-could never replace Captain Picard. Nor would I ever try. Whatever the
-outcome, I'm sure our efforts in the coming battle will justify his
-faith in all of us. Dismissed.
-
-[Ready room]
-
-RIKER: (to the empty chair) What would you do?
-(doorbell) 
-RIKER: Come.
-GUINAN: May I speak to you, Captain?
-RIKER: Actually, Guinan, I 
-GUINAN: You know, Picard and I used to talk every now and again, when
-one of us needed to. I guess I'm just used to having the Captain's ear.
-
-(She sits in Picard's chair) 
-RIKER: What's on your mind?
-GUINAN: I've heard a lot of people talking down in Ten Forward. They
-expect to be dead in the next day or so. They trust you. They like you.
-But they don't believe anyone can save them.
-RIKER: I'm not sure anyone can.
-GUINAN: When a man is convinced he's going to die tomorrow, he'll
-probably find a way to make it happen. The only one who can turn is
-around is you. 
-RIKER: I'll do the best I can.
-GUINAN: You're going have to do something you don't want to do. You
-have to let go of Picard.
-RIKER: Maybe you haven't heard. I tried to kill him yesterday.
-GUINAN: You tried to kill whatever that is on the Borg ship. Not
-Picard. Picard is still here with us in this room. If he had died, it
-would be easier. But he didn't They took him from us a piece at a time.
-Did he ever tell you why we're so close?
-RIKER: No.
-GUINAN: Well, then let me just our relationship is beyond friendship,
-beyond family. And I will let him go. And you must do the same. There
-can only be one Captain.
-RIKER: It's not that simple. This was his crew. He wrote the book on
-this ship. 
-GUINAN: And the Borg know everything he knows. It's time to throw that
-book away. You must let him go, Riker. It's the only way to beat him.
-The only way to save him. And that is now you chair. Captain. 
-(Riker sits) 
-WESLEY: We're approaching the Wolf system, Captain.
-RIKER: On my way.
+WESLEY: Saucer velocity one hundred metres per
+second and increasing, sir.
+RIKER: Open fire, all weapons.
 
 [Bridge]
 
-RIKER: Slow to impulse. Take us to the battle
-coordinates, Mister Crusher. Yellow alert. 
-WORF: Sensors are picking up several vessels, Captain. 
-RIKER: The fleet?
-DATA: No active subspace fields. Negligible power readings. 
-RIKER: Life signs? 
-DATA: Negative, sir.
-WORF: Visual contact.
-RIKER: On screen.
-(Fragments of starships, some with flashes of fires still burning) 
-SHELBY: The Tolstoy, the Kyushu, the Melbourne. 
-(Riker bows his head briefly for the crew that might have been his) 
-WORF: Sir, sensors are picking up unusually strong eddy currents,
-bearing two zero zero, mark two one one.
-RIKER: Data, analysis? 
-DATA: It could indicate the course of the Borg ship, sir. 
-RIKER: Ensign Crusher, set in a course that follows those currents.
-Commander Shelby, prepare to initiate your plan to separate the saucer
-section when we find the Borg.
-SHELBY: Sir. I must remind you that Captain Picard was briefed on that
-plan. The Borg will be prepared for it 
-RIKER: I'm aware of that, Commander. In fact, I'm counting on it.
-SHELBY: Crusher, Cartaino, Gleason. Report to the Battle Bridge. 
-RIKER: Mister Data, Mister Worf? I have a special mission for you.
+SHELBY: Fire.
 
+[Battle bridge]
+
+WESLEY: Borg tractor beam attempting to lock on,
+sir. 
+RIKER: Evasive manoeuvres, pattern Riker Alpha. 
+WESLEY: Riker Alpha confirmed. They're ignoring the saucer section
+completely. 
+RIKER: Just as you should, Captain. Ensign, evasive pattern, Riker
+Beta. 
+WESLEY: Riker Beta confirmed. 
+RIKER: Proceed to second phase, Commander Shelby.
+
+[Bridge]
+
+SHELBY: Acknowledged. Fire antimatter spread.
+
+(Picard watches the lovely fireworks display,
+trying to figure it out)
+
+[Shuttlecraft]
+
+DATA: Shuttle launch sequence confirmed. Departing
+Enterprise in exactly three seconds.
+
+[Borg ship]
+
+[Battle bridge]
+
+WESLEY: The Borg tractor beam has moved toward the
+antimatter spread.
+GUEST0: They might be picking up engine ionisation from the shuttle 
+RIKER: Data, cut your engines. Take her in unpowered. 
+[Shuttlecraft]
+
+WORF: Shuttle has penetrated the Borg
+electromagnetic field. 
+RIKER [OC]: Understood. 
+DATA: The shuttle escape transporter should provide enough power to
+beam us 

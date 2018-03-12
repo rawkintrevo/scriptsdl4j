@@ -1,32 +1,35 @@
-RIKER LAFORGE TASHA JARADAN TROI COMPUTER
+PICARD CRUSHER DATA GUEST8 GUEST9
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Police station]
 
-RIKER: Status report. 
-TASHA: We're being probed, sir. 
-TROI: The Jarada. 
-TASHA: Most likely, but it's long range. Can't be certain where it's
-originating.
-(The ship shakes as a beam passes through it, including the holodeck,
-whose controls flicker and door briefly opens and closes a few times) 
-RIKER: One could get the feeling they don't exactly trust us. 
-LAFORGE: Commander, I'm receiving a subspace message from the Jarada. 
-RIKER: That's not part of the plan. Pipe it through. 
-JARADAN [OC]: En-ter-prise. We speak to you in your language. The time
-has come to honour us in ours. 
-RIKER: This is Commander Riker, First Officer of the Enterprise. 
-JARADAN [OC]: You are not captain? 
-RIKER: No sir, I'm not. I suggest we commence with screen to screen
-communication so we can see each other 
-JARADAN [OC]: You offend us! We will not show ourselves to a mere
-subordinate. We await your Captain's greeting with growing unrest. End
-of communication. 
-RIKER: Terrific. Find the Captain. He's in the Holodeck. 
-LAFORGE: Aye, sir. 
-[Outside Holodeck]
+(McNary sees the look on Picard's face when he sees
+Crusher, and leaves without another word) 
+CRUSHER: Have a good time? 
+PICARD: I don't know. Sometimes it almost seemed too real. I must say,
+you wear it well. I'm glad you could make it. 
+CRUSHER: Why, thank you, Mister Hill. 
+PICARD: Maybe we should be getting back to the Enterprise. 
+CRUSHER: We are on the Enterprise. 
+PICARD: Oh, yes, of course, so we are. 
+CRUSHER: Do we have time to see your office? 
+PICARD: Yes, of course. Why not. 
+GUEST8: Captain, mind if I join you? 
+DATA: Yeah, me too, boss. I'd love to take a gander. 
+(rolled eyes all round)
 
-(Crusher is trying to straighten her stocking
-seams) 
-COMPUTER: Enter when ready. When ready. When ready. 
-(It takes a couple of goes to get the doors open enough to go through)
+[Hill's Waiting room]
 
+PICARD [OC]: The holodeck makes excellent use of
+finite space. 
+(The group enter) 
+GUEST9: Ah, Mister Hill. You've been avoiding me. 
+GUEST8: It's Felix Leech! It has to be. 
+GUEST9: You know me, sir? 
+GUEST8: Well, I've read about you many times. 
+PICARD: I'm very sorry, Mister Leech, but we have to be going. Call
+again tomorrow. 
+GUEST9: You're being quite rude, Mister Hill. You haven't even
+introduced me to your charming companions. 
+PICARD: That'll have to wait. 
+GUEST9: But we have business! (pulls a gun) Urgent business. 

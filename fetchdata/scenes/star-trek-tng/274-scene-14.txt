@@ -1,34 +1,66 @@
-RHODES BOK CRUSHER PICARD
+RIKER LAFORGE WORF GUEST0 BOK PICARD CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Crusher's office]
 
-(Picard leaves his desk and goes to the replicator)
+PICARD: You wanted to see me. 
+CRUSHER: Yes. It's about Jason. I've finished the microcellular scan I
+was running. There's something you need to know, 
+[Bridge]
 
-PICARD: Tea, Earl Grey, hot. 
-(Bok is in his chair) 
-BOK: If you want me to stay and talk, you'd better not call for
-security this time. How do you like your boy, Captain? Is he everything
-you'd always hoped for? 
-PICARD: It's a risky game you're playing, coming here. Next time we'll
-be ready for you. Why don't we settle this now? 
-BOK: Oh, and how do you propose to do that, Picard? You murdered my
-son. 
-PICARD: It was self-defence. He fired on my ship. 
-BOK: You were in Ferengi space! 
-PICARD: I didn't know that. If he'd told me I would have withdrawn. I'm
-sorry, but there's nothing I can do to bring him back. 
-BOK: How touching. Your apology is worthless to me. I demand that you
-repay me for my loss. 
-PICARD: You cannot put a price on a life. 
-BOK: Oh, but you can, Picard. You can pay me with your son's life. 
-PICARD: No. 
-BOK: You don't have any choice. I insist on being paid. 
-(Bok beams out)
+DATA: Sir, sensors are detecting a subspace carrier
+wave headed for the ship. Its signature is consistent with Bok's
+transporter. 
+RIKER: See if you can trace and locate Bok's ship. Geordi, are you
+ready down there? 
+LAFORGE [OC]: I've got a signal lock on Jason. 
+RIKER: Riker to Picard. 
+[Crusher's office]
 
-[Sickbay]
+PICARD: Picard here. 
+RIKER [OC]: Bok is trying to use his transporter.
 
-CRUSHER: That should do it. Let's run a level three
-bioscan just to be sure. 
-RHODES [OC]: Rhodes to Sickbay, Medical emergency, deck nine, section
-four. 
-CRUSHER: Let's go. 
+[Bridge]
+
+DATA: The transporter beam is focusing on deck
+nine, section four. 
+RIKER: Jason's quarters. 
+LAFORGE [OC]: I'm on it, Commander.
+GUEST0 [OC]: Security to Bridge. Bok is 
+[Jason's quarters]
+
+GUEST0: Beaming Jason off the ship.
+
+[Transporter room]
+
+LAFORGE: Initiating transport now. I'm losing his
+signal. 
+(Picard enters) 
+LAFORGE: Bok is re-establishing his lock on him. 
+(Jason is beamed away)
+
+[Bridge]
+
+PICARD: Have you been able to locate Bok's ship? 
+DATA: No, sir. The subspace signature left by his transporter is
+decaying more rapidly than predicted. It may not be possible to trace
+it. 
+WORF: Captain, another probe has materialised five hundred kilometres
+to starboard. It is sending a transmission. 
+PICARD: Put it on screen. 
+BOK [on viewscreen]: This is a very special day, Picard. Fifteen years
+ago you took my son away from me. Today, I will take your son away from
+you. It will be our anniversary. I wanted you to see him one last time.
+
+(transmission ends) 
+DATA: I am tracing the transporter beam Bok used to send the probe. The
+ship is holding position approximately three hundred billion kilometres
+from here. 
+PICARD: Plot a course. Maximum warp. 
+RIKER: Even at warp nine we wouldn't get there for another twenty
+minutes. 
+PICARD: The modifications you made to the transporter. Is there any way
+we could use a subspace transport from here to get me onto Bok's ship? 
+DATA: It may be possible, sir, but it would not be advisable. 
+PICARD: I'll take that as a yes. You're with me.
+

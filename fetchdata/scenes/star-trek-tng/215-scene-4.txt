@@ -1,42 +1,39 @@
-RIKER WORF PICARD TROI RO DATA
+PICARD OBRIEN LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttle]
+[Transporter room]
 
-(Riker, Data and Troi are actually wearing
-harnesses
-to keep them in their seats) 
-DATA: Shields are holding, sir. 
-RIKER: Wind shear is incredible. Data, keep an eye on the stabilisers.
-If it's anything like this on the ground, I don't see how anyone can
-survive on this moon for long. 
-TROI: Maybe they've been living underground. 
-RIKER: Question is where? I still can't locate the source of the damn
-signal. It's bouncing around more than we are. 
-DATA: Forward thrusters have failed, sir. We are losing power. 
-RIKER: Enterprise!
-
+LAFORGE: We can't get a pattern lock on their
+communicators because of the EM bursts, Captain. There's no way we can
+beam them out of there, not under these conditions. 
 [Bridge]
 
-PICARD: Go ahead. 
-RIKER [OC]: We've lost our thrusters. Attempting to compensate with
-secondary boosters 
-WORF: Sir? The shuttlecraft's impulse generators have shut down. 
-PICARD: Commander, can you hear me?
+PICARD: The same conditions won't permit a shuttle
+to land safely, Mister LaForge. Any suggestions? 
+O'BRIEN [OC]: Give us a minute, Captain. 
+[Transporter room]
 
-[Shuttle]
-
-PICARD [OC]: Enterprise to shuttle, please respond.
-
-RIKER: Hold on! We're going down. 
-DATA: Initiating emergency landing procedures. 
-RIKER: Maintain the approach attitude, Data. I'm taking her in. Brace
-for impact. 
+O'BRIEN: Sir, let me beam down with a pattern
+enhancer. 
+LAFORGE: Chief, there's no guarantee you won't rematerialise in a
+million pieces if your signal gets caught up in that electromagnetic
+whirlwind. 
+O'BRIEN: I can boost the confinement beam. One person might be able to
+make it. 
+LAFORGE: Captain, Chief O'Brien wants to beam down to the surface with
+a pattern enhancer. 
 [Bridge]
 
-RO: The shuttle has crashed on the surface. 
-PICARD: Do we have their position? 
-WORF: I am picking up the shuttle's trace signature, but the surface
-interference is distorting its position. 
-PICARD: Can you locate them? 
-RO: I think I can. I followed their entry almost all the way in. We can
-calculate the coordinates from the angle of descent. 
+LAFORGE [OC]: His chances of getting down there
+safely are no better than fifty-fifty, in my opinion. 
+WORF: Captain, a major storm front is moving in on the away team's
+coordinates. 
+PICARD: You're aware of the risks, Mister O'Brien? 
+O'BRIEN [OC]: Yes sir.
+
+[Transporter room]
+
+O'BRIEN: I think I can make it. 
+PICARD [OC]: All right then. Good luck. 
+O'BRIEN: Aye, sir.
+

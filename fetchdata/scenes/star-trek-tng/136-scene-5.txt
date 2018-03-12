@@ -1,72 +1,30 @@
-RIKER LAFORGE WORF PICARD SALIA TROI WESLEY DATA ANYA
+GUEST2 SALIA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Salia's quarters]
 
-LAFORGE: Bridge, this is Engineering. 
-PICARD [OC]: Yes, Lieutenant. 
-LAFORGE: Now that we're out of warp, I'd like to use this time to make
-some routine adjustments on the deuterium control conduit. We're
-overdue.
-
-[Bridge]
-
-PICARD: How much time will these adjustments
-require, Lieutenant? 
-LAFORGE [OC]: A couple of hours, sir. 
-RIKER: Proceed, Lieutenant La Forge. Standard orbit, Ensign.
-
-[Engineering]
-
-LAFORGE: Wes, I'm going to need an SCM model three,
-from ship's stores. Can you handle that? 
-WESLEY: Right away. 
-LAFORGE: All right. 
-[Bridge]
-
-(The planet on the viewscreen is a pale mustard
-colour) 
-PICARD: Magnify, Mister Worf. Hardly an inviting planet, even for a
-research establishment. 
-TROI: I would have thought the inhabitants of Daled Four would send a
-future leader to a more hospitable environment. 
-WORF: For some, security is more important than comfort. 
-TROI: Yes, but sixteen years. 
-WORF: Captain, we're being hailed. 
-PICARD: Hailing frequencies, Mister Worf. 
-WORF: Open. 
-PICARD: This is Captain Picard of the USS Enterprise. 
-ANYA [OC]: (very faint and static-ridden) I am Anya of 
-DATA: Sir, the planet's troposphere is distorting our signal. 
-PICARD: Can you clean that up, Mister Worf? 
-WORF: I'll try. Now. 
-PICARD: This is Picard of the Enterprise. Please will you repeat your
-message? 
-ANYA [OC]: I am Anya. Have you come for Salia of Daled Four? 
-PICARD: That is correct. 
-ANYA [OC]: What species are you? 
-PICARD: Human. 
-ANYA [OC]: Excellent. Bring us aboard. That is all. 
-RIKER: Friendly, isn't she? 
-PICARD: Friendly or not, Salia has the rank of head of state, so we
-will treat her and Anya accordingly. Number One, Mister Worf, let's go
-greet our visitors. You have the Bridge, Mister Data. 
-DATA: Aye, sir.
-
-[Transporter room]
-
-(O'Brien beams a young woman and her older
-chaperone aboard. No luggage) 
-PICARD: Welcome to the Enterprise. I'm Captain Picard. 
-ANYA: This is Salia of Daled Four. 
-SALIA: I didn't feel a thing. Is that normal when one is transported,
-Captain? 
-PICARD: Oh, yes, it is. 
-SALIA: Those must be the matter energy conversion controls. May I take
-a look? 
-PICARD: Yes, of course. 
-RIKER: I can arrange for a tour of the ship, if you'd like. 
-SALIA: Oh, I'd love that. 
-ANYA: No, that will not be necessary. Just show us to our quarters,
-Captain Picard. 
-PICARD: Very well.
+(Salia is talking to another teenaged girl. Where
+did she come from?) 
+SALIA: How can I be a leader if I don't know anything about my people? 
+GUEST2: You will lead because you are accepted by both sides. And because
+it is in your blood. 
+SALIA: What is expected of me once I'm there? 
+GUEST2: You will know. 
+SALIA: How? 
+GUEST2: You just will. Salia, you must arrive with an open mind, without
+preconceived ideas of the worlds
+you will find or the people on either side. 
+SALIA: It's very frustrating. 
+GUEST2: You feel the weight of so much responsibility, you're not sure
+you'll live up to everyone's expectations. 
+SALIA: It's not only that. Nobody's even asked me if this is something
+I want. 
+GUEST2: It is your duty. 
+SALIA: And I have no choice. 
+GUEST2: It won't be as bad as you think. In fact, it could be quite
+wonderful. Besides, you are the last and only chance. 
+(The girl changes into a short, big-eyed, hairy creature that chatters
+at her in alien) 
+SALIA: Don't you think I'm going to need more than instinct to do
+whatever is expected of me on Daled Four?
 

@@ -1,88 +1,59 @@
-TASHA PICARD GARRETT GUINAN CASTILLO CREWWOMAN CRUSHER
+RIKER CREWMAN TASHA PICARD WESLEY GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[1701C Bridge]
 
-CREWWOMAN [OC]: Triage team to main shuttlebay. 
-GARRETT: Lieutenant, how's the ship? 
-CASTILLO: We've restored minimal shields and the forward phaser banks.
-Still no photon launchers or warp drive. 
-GARRETT: Concentrate on the weapon systems. From what Captain Picard
-told me, the Federation can use all the help it can get. 
-TASHA: And soon. Our sensors have picked up Klingon warships in this
-sector, Captain. 
-GARRETT: Why wasn't I informed, Mister Castillo? 
-CASTILLO: Captain, you shouldn't 
-GARRETT: As senior officer, I want you to be my liaison to the
-Enterprise-D. Coordinate with Tactical. 
-TASHA: That's me, Captain. 
-CRUSHER: Where do you think you're going? 
-GARRETT: I'm resuming my duties, Doctor. 
-CRUSHER: Captain, you need at least another twenty four hours. 
-GARRETT: Nonsense. Doctors always over-protect their patients. 
-CRUSHER: And captains always push themselves too hard. 
-GARRETT: Doctor, my ship and crew need me now. Twenty four hours might
-as well be twenty four years.
+GUEST0: I'm showing phaser banks up to seventy
+percent efficiency. We've got an hour left. Let's see if we can get
+them up to ninety. 
+CREWMAN [OC]: Aye, sir. 
+GUEST0: Parker, you've got Ops. Fredericks, take the conn. 
+TASHA: I'll handle Tactical. Lieutenant Tasha Yar reporting for duty,
+sir. 
+GUEST0: You're not part of my crew. 
+TASHA: I am now. Captain Picard approved my request for transfer. 
+GUEST0: This isn't a joke, Tasha. We're going back in the rift, into
+battle. We're not coming back. 
+TASHA: I know the mission. These are my orders, Lieutenant. 
+GUEST0: But I don't want you here. 
+TASHA: You need me here. Show me someone on your crew who can do the
+job better than I can. 
+GUEST0: Welcome aboard. Take your station, Lieutenant. 
+TASHA: Aye, sir.
 
-[War room]
+Military log, supplemental. Lieutenant Tasha Yar
+has transferred to the Enterprise-C, where she has taken over tactical
+duties. Meanwhile, our long range scanners have picked up Klingon
+battle cruisers on an intercept course. 
+[1701D Bridge]
 
-PICARD: I need more. 
-GUINAN: There is no more. I wish there were. I wish I could prove it.
-But I can't. 
-PICARD: Then I can't ask them to go back. 
-GUINAN: You've got to. 
-PICARD: Guinan, they will die moments after they return. How can I ask
-them to sacrifice themselves based solely on your intuition? 
-GUINAN: I don't know. But I do know that this is a mistake. Every fibre
-in my being says this is a mistake. I can't explain it to myself so I
-can't explain it to you. I only know that I'm right. 
-PICARD: Who is to say that this history is any less proper than the
-other? 
-GUINAN: I suppose I am. 
-PICARD: Not good enough, damn it. Not good enough. I will not ask them
-to die. 
-GUINAN: Forty billion people have already died. This war's not supposed
-to be happening. You've got to send those people back to correct this. 
-PICARD: And what is to guarantee that if they go back they will
-succeed? Every instinct tells me this is wrong, it is dangerous, it is
-futile. 
-GUINAN: We've known each other a long time. You have never known me to
-impose myself on anyone or take a stance based on trivial or whimsical
-perceptions. This time line must not be allowed to continue. Now, I've
-told you what you must do. You have only your trust in me to help you
-decide to do it.
+RIKER: Number and type of ships, Mister Crusher? 
+WESLEY: Three K'vort class battlecruisers, sir. 
+PICARD: They're not even troubling to cloak themselves.
+RIKER: They shouldn't be so confident after the pasting we gave them on
+Archer Four. 
+PICARD: Attention all hands. As you know, we could outrun the Klingon
+vessels, but we must protect the Enterprise-C until she enters the
+temporal rift. And we must succeed. Let's make sure history never
+forgets the name Enterprise. Picard out. 
+(The Klingons fire their disruptors) 
+PICARD: Mister Data? 
+DATA: Shields are holding, sir. 
+PICARD: Hold fire. Mister Crusher, come about to course one four eight
+zero zero three. 
+WESLEY: Aye, sir. 
+RIKER: Photon torpedoes ready. 
+PICARD: Dispersal pattern, sierra. And fire! 
+DATA: One enemy target hit, sir. Moderate damage to their forward
+shields. Our shields are still holding. Minor damage to secondary hull.
 
-[Ten Forward]
-
-(Guinan enters) 
-TASHA: Deflector shield technology has advanced considerably during the
-war. Our heat dissipation rates are probably double those of the
-Enterprise-C, which means we can hang in a firefight a lot longer.
-Guinan? 
-GUINAN: Have you ordered yet, Tasha? 
-TASHA: No, not yet. Is anything wrong? 
-GUINAN: Not a thing. What can I get for you? 
-TASHA: Just a couple of TKLs. We're in a hurry. Oh, this is, Lieutenant
-Castillo. 
-(Guinan moves slowly away) 
-TASHA: First time for everything. 
-CASTILLO: First time? 
-TASHA: It's just that I've never seen anything bother her before. 
-CASTILLO: What's a TKL? 
-TASHA: Standard rations. Food replicators are on minimum power, so
-everything else is diverted to defensive systems. So where was I? 
-CASTILLO: You've told me more about tactical in an hour than I learned
-my last year in the Academy. 
-TASHA: You're going to need it, Lieutenant. 
-CASTILLO: Hey, I've known you a whole day now, Lieutenant. I won't
-salute if you won't. What did she call you? Tasha? 
-TASHA: Yeah. 
-CASTILLO: Most everybody just calls me Castillo. My mother calls me
-Richard. 
-TASHA: Okay, Castillo. 
-CASTILLO: No, I think maybe I'd like it better if you called me
-Richard. 
-TASHA: Richard. 
-PICARD [OC]: This is the Captain. Senior officers will report to my
-Ready room immediately. 
-TASHA: So much for lunch.
-
+PICARD: Course one four eight. Correction, course one seven zero mark
+zero one four. 
+WESLEY: Sir, one of the ships is breaking off and going towards the
+Enterprise-C. 
+PICARD: Mister Crusher, keep us within two hundred kilometres of the
+Enterprise-C. 
+WESLEY: Coming to two one seven mark one one five. Increasing to two
+thirds impulse. 
+(Enterprise D exchanges fire with the Klingons) 
+RIKER: Damage control teams, deck fourteen. 

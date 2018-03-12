@@ -1,46 +1,45 @@
-TROI OBRIEN LAFORGE PICARD RIKER DATA
+TROI OBRIEN WORF PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Moon surface]
+[Turbolift]
 
-(an explosive charge blows off the rear emergency
-hatch) 
-TROI: Your arm. 
-RIKER: Yeah, I'm pretty sure that's broken. Enterprise? 
-DATA: It is unlikely that we will be able to establish communication
-with the ship, given the electromagnetic interference. 
-RIKER: We'll stay in the area until the Enterprise finds us. Take an
-inventory of the shuttle. See if there's anything left in there that's
-usable. The ground cover is all non-porous rock, which makes me believe
-it's even less likely there's anyone living here. 
-DATA: There are no instruments left of practical value that have not
-been damaged by our landing, sir. 
-TROI: What is that? 
-RIKER: That doesn't look like any storm front I've ever seen. 
-DATA: The tricorder is picking up high levels of EM bursts across the
-spectrum. No lifesign readings other than our own. 
-TROI: There is someone alive here. I'm more certain of it now than
-ever. 
-RIKER: Well, I hope they can find us, because there's no way we'll find
-them. 
-TROI: They're coming. They're coming with the storm. 
-[Transporter room]
+O'BRIEN: Deck thirty six. Engineering.
 
-LAFORGE: We can't get a pattern lock on their
-communicators because of the EM bursts, Captain. There's no way we can
-beam them out of there, not under these conditions. 
 [Bridge]
 
-PICARD: The same conditions won't permit a shuttle
-to land safely, Mister LaForge. Any suggestions? 
-O'BRIEN [OC]: Give us a minute, Captain. 
-[Transporter room]
+RIKER: Computer, re-enable Bridge control. Security
+protocol, Riker omega Three. 
+PICARD: Report. 
+RIKER: Data, O'Brien and Troi tried to commandeer the ship. 
+WORF: They're in turbolift four. Engaging override controls now. 
+[Turbolift]
 
-O'BRIEN: Sir, let me beam down with a pattern
-enhancer. 
-LAFORGE: Chief, there's no guarantee you won't rematerialise in a
-million pieces if your signal gets caught up in that electromagnetic
-whirlwind. 
-O'BRIEN: I can boost the confinement beam. One person might be able to
-make it. 
-LAFORGE: Captain, Chief O'Brien wants to beam down to the surface with
-a pattern enhancer. 
+(the lift jerks to a halt) 
+DATA: They've trapped us. 
+TROI: What deck is this? 
+O'BRIEN: We're on deck ten. 
+TROI: Can you move us again? 
+O'BRIEN: I know how to override the bridge command. 
+[Bridge]
+
+RIKER: Activate security fields decks eight through
+fifteen. 
+WORF: Sir, the turbolift is moving again. They're still inside. 
+PICARD: Initiate emergency bulkheads in turboshaft four. 
+WORF: Aye, sir. They have been stopped at deck thirteen. 
+PICARD: Mister Worf. 
+[Deck 13]
+
+(But when Worf and Patricia Tallman and another
+security guard get there, the turbolift is empty except for three comm.
+badges on the floor)
+
+[Deck 10 Corridor]
+
+(The three encounter forcefields) 
+TROI: Do you know how to deactivate this? 
+O'BRIEN: The computer will not allow us to override an emergency
+forcefield command. 
+DATA: My entity's artificial substructure may be useful. 
+(Data smashes a wall panel and short-circuits the forcefields)
+

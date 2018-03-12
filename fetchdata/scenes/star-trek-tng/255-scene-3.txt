@@ -1,34 +1,40 @@
-RIKER CRUSHER DATA LAFORGE
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Laboratory]
+[Bridge]
 
-(Geordi is the contraption used in Offspring and
-Best of Both Worlds, wearing a virtual reality suit) 
-CRUSHER: All his vital functions are completely normal. 
-DATA: The interface unit is operating within expected parameters. 
-RIKER: Why did he start coughing when he went through the gasses? 
-CRUSHER: Psychosomatic response. 
-LAFORGE: (no visor, white eyes) I feel like I'm actually here. I mean
-there, in the Jefferies tube. It's funny. When I saw the smoke, I
-couldn't help but cough. 
-DATA: No one else has reported so complete a sensory experience. 
-CRUSHER: The interface is perfect for Geordi because his visor inputs
-allow the probe to transmit information directly into his cerebral
-cortex. 
-RIKER: It looks like this is going to work. Geordi, I'd like to get the
-probe out of the Jefferies tube and onto the launch bay before we reach
-Marijne Seven. 
-LAFORGE: Will do. Wait a minute. 
-[Jefferies tube]
+DATA: I have reviewed the vessel's mission plans.
+The Raman was to descend to the lower atmosphere, eleven thousand
+kilometres below its current position. The crew was to sample the
+atmosphere at that level, and then return to a safer orbit. 
+LAFORGE: Something must have happened down there. Maybe the shields
+failed, or they had some kind of inversion reaction in the nacelles. 
+PICARD: Any life signs? 
+LAFORGE: Our biosensors are useless. There's too much interference in
+the atmosphere. 
+RIKER: The crew might still be alive. There's no way we can tell from
+up here. 
+PICARD: Will the probe be able to transmit through that interference? 
+DATA: The probe sends information via a focused particle beam. It
+should be able to cut through the interference. 
+LAFORGE: But we may have to operate the probe at close to tolerance
+levels. 
+PICARD: Will your nervous system be able to handle that much sensory
+input? 
+LAFORGE: We've already tested the interface at about seventy percent
+tolerance. 
+RIKER: We shouldn't have any trouble going higher. The safety override
+will kick in at about ninety eight percent tolerance, and that'll
+disengage the interface. 
+WORF: Captain, I am receiving a transmission from Starfleet Command.
+Admiral Holt. 
+PICARD: In my ready room. The seven people on that ship are our first
+priority. Is the probe ready for launch?
+DATA: Yes, sir. 
+PICARD: Send it directly to the aft section of the Raman through the
+secondary air lock. That way it should put it just one bulkhead away
+from the Bridge. 
+LAFORGE: I'll interface with the probe as soon as it's ready, take it
+the rest of the way from there. 
+PICARD: Make it so.
 
-LAFORGE: Something's wrong. Can't get my left leg
-to work.
-
-[Laboratory]
-
-RIKER: What is it? 
-CRUSHER: The probe is designed to respond to any movement Geordi
-intends to make. When his brain sends a message to move his leg, the
-interface should move the probe instead. 
-DATA: Apparently the tactile sensors are too low. I will increase the
-input. 

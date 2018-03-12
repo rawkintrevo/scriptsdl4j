@@ -1,99 +1,58 @@
-DESEVE TROI TORETH PICARD RIKER DATA NVEK PILOT
-
-[Warbird bridge]
-
-TORETH: Plot a course for the Draken System. 
-PILOT: Course plotted, sir. 
-TORETH: Prepare for warp. 
-PILOT: Commander, sensors are picking up a vessel. Our cloaking device
-is still engaged. They have not detected us. 
-TORETH: Activate viewscreen. Enlarge. 
-PILOT: It is the Enterprise, Commander. 
-TORETH: Well, Major, it appears your suspicions about that freighter
-were correct after all. The Federation has come in search of its spies.
-Status. 
-PILOT: They are scanning the debris of the freighter. Shield levels are
-normal. Weapon systems are not active. They are not prepared for
-battle, sir. 
-TORETH: They weren't expecting to find us here, and I see no reason to
-alter that perception. The radiation from the debris field could make
-our cloak detectable if we engage warp engines. Proceed at manoeuvring
-speed. 
-TROI: One moment, Commander. We should hold our position until the
-Enterprise has left the area. We cannot risk detection. 
-TORETH: Even if we are detected, they cannot track us once we go to
-warp. 
-TROI: We have not established their intentions. 
-TORETH: Their intentions are obvious, Major, and are of no concern to
-us. Proceed on course, manoeuvring engines only. Go to warp when we're
-clear of the debris field. 
-PILOT: Yes, Commander. We should clear the field in twenty seven
-minutes. 
-TROI: You will keep me informed of our progress. 
-(Troi leaves) 
-N'VEK: It is not wise to challenge the Tal Shiar, Commander. 
-TORETH: I will not let her tell me how to run my ship.
+GUEST0 RIKER TORETH PICARD TROI MCKNIGHT DATA NVEK GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: It appears to be the remains of a ship. My
-analysis indicates that it was an Antares class freighter. 
-DESEVE: That's the ship we were supposed to meet. 
-PICARD: Could there have had some sort of malfunction? A reactor core
-breach? 
-DATA: I do not believe so, sir. That would not be consistent with the
-debris pattern. However, sensors indicate extremely high levels of
-residual antiprotons. 
-RIKER: Romulan disruptor fire. 
-DATA: Correct. Based on the antiproton decay, I would estimate the
-incident occurred within the last four point three hours. 
-PICARD: Then the Romulans could still be in the vicinity. 
-RIKER: Red alert. Shields at maximum. 
-PICARD: Whatever that freighter was carrying, they certainly didn't
-want it to reach us. Are you sure you don't know what it was? 
-DESEVE: No, sir. I swear it. 
-PICARD: All we have here are questions. Mister Data, continue with your
-scan.
+DATA: Sir, the magnetic distortion has reappeared. 
+PICARD: Bearing and speed? 
+DATA: It appears to be moving toward us, closing slowly. Its bearing
+indicates a possible collision course. 
+RIKER: Time to impact? 
+DATA: I am unable to make a precise measurement. However I would
+estimate impact within ninety seconds. 
+RIKER: It doesn't make any sense. Why would they run into us? And if
+they were, why wouldn't they do it at full speed? 
+GUEST0: I don't know, sir. The Romulans will sometimes make suicide
+attacks, but only as a last resort. There's no reason for it here. 
+DATA: Time to impact approximately sixty seconds. 
+PICARD: We don't have the luxury to speculate. Back us away from the
+distortion, Ensign. One half impulse. 
+MCKNIGHT: Aye, sir.
 
-[Warbird - Troi's quarters]
+[Warbird bridge]
 
-TROI: We have to get a message to the Enterprise. 
-N'VEK: That's impossible. 
-TROI: It's the perfect opportunity. The Enterprise is nearby. If we can
-communicate with them, they might be able to help us. 
-N'VEK: Counsellor, this ship is travelling under cloak. All of our
-electromagnetic emissions are being monitored. Any attempt at
-communication whatsoever and we would be discovered instantly. It could
-not succeed. We must continue to Draken Four. That is the safest
-course. 
-TROI: Is there anything you can do to the ship or to the cloaking
-device that would let the Enterprise track us? 
-N'VEK: Track us? No. We want to get into Federation territory
-undetected. 
-TROI: What we want is to get the dissidents to safety. Now answer the
-question. Is there a way? 
-N'VEK: If there were, I wouldn't do it. 
-TROI: Yes, you will. 
-N'VEK: Counsellor. 
-TROI: We're not playing it your way any more, N'Vek. I've been
-kidnapped, surgically altered, put in danger I've gone along with all
-your plans. Now you are going to listen to me. You find a way to let
-the Enterprise track us, or I will go to Toreth and tell her I've
-discovered you're a traitor. I'll order you ejected into space. Is that
-clear, Subcommander? 
-N'VEK: There is one possibility. In order for a ship to remain
-undetectable while cloaked, the radiative emissions from the warp
-engines must be precisely balanced. The ship's Engineer is a
-sympathiser. He may be able to slightly misalign one of the nullifier
-cores. It would create a small magnetic disturbance in space whenever
-we were in motion. 
-TROI: Good. Do it. 
-N'VEK: The effect would only be intermittently. They might not even
-detect it. 
-TROI: If it's the best we can do, we have to try it. 
-N'VEK: Anything more would be immediately registered on the Bridge.
-Even this slight misalignment may be detected. 
-TROI: It's a risk we have to take. You're the one who outlined the
-stakes to me, N'Vek. Are you getting squeamish now, just because things
-are getting a little more dangerous?
+GUEST2: They are moving away, Commander. 
+TORETH: Prepare attack sequence. 
+N'VEK: All sections report ready for battle, Commander. 
+GUEST2: Disruptors fully charged. 
+TORETH: Disengage cloak on my command. Prepare to fire. 
+TROI: Disregard that order. 
+TORETH: What? 
+TROI: I do not authorise this attack. You will cease battle operations
+immediately. 
+TORETH: I do not need your authorisation to attack, Major. This is my
+ship. 
+TROI: How typical of the military to resort to brute force when
+discretion is required. 
+TORETH: The Enterprise has demonstrated that they can track us. They
+must be destroyed. 
+TROI: Yes, they can track us. So if we attack them, they will return
+fire. And since we have no shields when we're cloaked, they will
+destroy us. 
+TORETH: Are you questioning my ability to command? 
+TROI: You are not fit to command. Step down. Step down or I will have
+you removed. 
+TORETH: Do you think anyone here will listen to you? 
+TROI: If any one of you defies the Tal Shiar, you will not bear the
+punishment alone. Your families, all of them, will be there beside you.
+I am now Commander of this ship. You will take orders from me and no
+one else. Remove Commander Toreth from her station. If she resists,
+shoot her. 
+N'VEK: Commander, please, step down. 
+TROI: Remove her weapon. 
+(N'Vek does so) 
+TROI: Now, Commander. Watch and learn. In order to defeat your enemy,
+you must first understand them. The Federation wishes to avoid war at
+all cost. So I shall offer them a diplomatic solution, get them to
+lower their shields and then destroy them.
 

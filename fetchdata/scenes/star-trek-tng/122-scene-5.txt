@@ -1,42 +1,65 @@
-TROI LAFORGE PICARD PRIETO COMPUTER LYNCH DATA
+RIKER ARMUS TASHA PICARD CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: We don't have it, Mister Lynch. 
-LYNCH [OC]: I'll align it by hand.
-PICARD: Whatever it takes. 
-LYNCH [OC]: Aye, sir. 
-LAFORGE: Shuttle, this is the Enterprise. Your coordinates now read two
-three seven point one zero one. Ben, you're dangerously close to a
-planet. 
-PRIETO [OC]: I can see it. 
-DATA: The planet is Vagra Two, sir, in the Zed Lapis sector.
-Uninhabited. 
-PICARD: Lieutenant, report! 
-TROI [OC]: This is Counsellor Troi. I'll relay, sir. The pilot is busy.
-We've lost most of our impulse power. 
-PICARD: Engineering, status report. 
-[Engineering]
+PICARD: Is it a life form, Data? 
+DATA [OC]: Again, insufficient information, sir. 
+PICARD: Theorise.
 
-LYNCH: Working on it, Captain. Three minutes. 
+[Planet surface]
+
+DATA: It is possible. 
+(The oil slick ripples, and speaks) 
+ARMUS: Very good, tin man. 
+
 [Bridge]
 
-LYNCH [OC]: But there are no guarantees. 
-PRIETO [OC]: Captain, we're out of control. We're caught in the
-planet's gravity. 
-Captain's log, supplemental. We've lost all contact
-with shuttlecraft thirteen, and can only assume they've crash-landed on
-Vagra Two.
-Meanwhile, main Engineering is trying to return us to warp power.
+PICARD: What is it, Number One? What are you
+seeing? 
+[Planet surface]
 
-[Engineering]
+(As a vaguely humanoid shape rises wet and
+glistening from the slick) 
+RIKER: Trouble.
 
-LYNCH: Forget the final check. Initiate start-up
-sequence. 
-COMPUTER: Beginning check list. 
-LYNCH: Override. We are going directly to start-up. 
-COMPUTER: That procedure is not recommended. 
-LYNCH: Understood. Now. Prime matter-antimatter injectors. Set ratio at
-twenty-five to one 
-COMPUTER: Ratio set. 
-LYNCH: Power engine core. Inject reactants. 
+Captain's log, supplemental. While on a mission to
+rescue survivors from an unexplained shuttle crash, the away team has
+encountered a strange creature which seems able to assume different
+forms, including one which resembles humanoid.
+
+[Bridge]
+
+PICARD: Easy, Number One. Let's find out what it is
+we're dealing with. 
+RIKER [OC]: Agreed, Captain. 
+PICARD: Number One, I don't believe that the location of the crash and
+the proximity of the creature is a coincidence. 
+
+[Planet surface]
+
+RIKER: I am Commander William Riker of the USS
+Enterprise. 
+ARMUS: I am Armus. Why are you here? 
+RIKER: We mean you no harm. We have injured crewmen in the
+shuttlecraft. We need to get to them. May we pass? 
+ARMUS: You haven't given me a good enough reason. 
+RIKER: Preserving life, all life, is very important to us. 
+ARMUS: Why? 
+RIKER: We believe everything in the universe has a right to exist. 
+ARMUS: An interesting notion which I do not share. You may now leave,
+if you wish. 
+TASHA: We're not going without our shuttle crew. 
+ARMUS: I warn you. 
+TASHA: Enough! We have people who need attention. We won't hurt you,
+but we must help them. 
+(Armus lets lose a bolt of energy which sends Tasha flying a long way.
+Riker and Data's phasers have no effect on Armus)
+PICARD [OC]: Number One! 
+RIKER: The creature attacked us. Lieutenant Yar is down. 
+DATA: It seems to feed on our phaser energy. 
+RIKER: We had no effect on it. 
+(Armus sinks back into the slick) 
+PICARD: What's Lieutenant Yar's condition? Doctor Crusher, report! 
+CRUSHER: She's dead.
+

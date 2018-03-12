@@ -1,69 +1,51 @@
-ALL KLINGON WORF PICARD RIKER TORIN CRUSHER DATA KAHLESS
+GUEST0 GOWRON WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Temple]
+[Kahless' quarters]
 
-(a dining table is set up in the aisle, as Kahless
-sits on his throne and is briefed by a priest) 
-TORIN: Gowron is the Leader of the Council. He commands the entire
-Defence Force. If he chooses to oppose you 
-KAHLESS: Do not worry. We are on the threshold of a new era for our
-people. Klingons from all over the Empire will flock to my banner. Yet
-something still weighs heavy on the brow of the son of Mogh. Are you
-contemplating yet another question for me? After three days, I am
-beginning to wonder if you know how to do anything else. 
-WORF: Questions are the beginning of wisdom, the mark of a true
-warrior. 
-KAHLESS: Do not forget that a leader need not answer questions of those
-he leads. It is enough that he says to do a thing and they will do it.
-If he says to run, they run. If he says to fight, they fight. If he
-says to die, they die. 
-WORF: If the commander is worthy of their trust. 
-KAHLESS: NuQ cha'tak. NuQ! 
-(Torin hands Kahless his bat'leth. Worf is given another. They fight,
-and Worf gets some good blows in, knocking Kahless down) 
-KAHLESS: (laughs) What is wrong? Is there only anger and bloodlust in
-your souls? Is that all that is left in the Klingon heart? We do not
-fight merely to spill blood, but to enrich the spirit. Look at us. Two
-warriors locked in battle, fighting for honour. How can you not sing
-for all to hear? We are Klingons! Yes! Let it out! Let the joy in your
-heart be heard. We are Klingons! 
-KLINGON: We are Klingons. 
-KAHLESS: We are Klingons. 
-ALL: We are Klingons. We are Klingons. We are Klingons. We are
-Klingons. We are Klingons. We are Klingons. 
-Captain's log, stardate 46852.2. The Enterprise is
-to proceed directly to the planet Boreth to take aboard a very unusual
-guest. 
+(Kahless and Worf share a drink) 
+WORF: I am sorry. Our replicators do not do justice to Klingon Warnog. 
+GUEST0: It has been so long since I have tasted any food or drink.
+There are many things I have forgotten. 
+WORF: Kahless, may I ask you about death and Sto-Vo-Kor? Tell me, what
+awaits us beyond this life. 
+GUEST0: I do not have those answers. I am merely a traveller, someone
+who has journeyed back and forth between this world and the next. While
+I am in this form, I know only about this world. And there is much work
+for me to do in this world, and you will be part of it, Worf. 
+WORF: Me? 
+GUEST0: It was your purity of heart that summoned me back from
+Sto-Vo-Kor, and Koroth has told me about the respect you have earned in
+the Federation and the Empire. I want you to have a place at my side as
+we restore honour to our people. Let me tell you about this new Empire
+we will forge.
+
 [Observation lounge]
 
-CRUSHER: Did you take any other tricorder readings?
-An anatomical profile or a neurophysiology scan? 
-WORF: No. 
-CRUSHER: It's going to be very difficult to eliminate any possibilities
-at this point. He may be a coalescent being taking Klingon form, or a
-bioreplicant or even a Klingon who has been surgically altered to look
-like Kahless. 
-WORF: There is another possibility. He could be the real Kahless. He
-may have actually returned as he promised. 
-DATA: The appearance of Kahless in the lava caves is consistent with
-the stories found in the Klingon sacred texts. 
-RIKER: Worf, no offence, but I have trouble believing that the man I
-that escorted to deck eight is supernatural. 
-WORF: I did not say that he is. I merely think we should not completely
-reject the possibility. 
-PICARD: Look, we have no reason to rule out anything. We are not
-ordered to investigate the origins of our guest, nor tell anyone what
-they should believe. We are simply to transport Kahless to the Home
-World. And while he's here with us, he will be treated as an honoured
-guest. 
-(as everyone starts to leave) 
-DATA: Lieutenant? May I ask a question? In the absence of empirical
-data, how will you determine whether or not this is the real Kahless? 
-WORF: It is not an empirical matter. It is a matter of faith. 
-DATA: Faith? Then you do believe Kahless may have supernatural
-attributes? As an android, I am unable to accept
-that which cannot be proven through rational means. I would appreciate
-hearing your insights on this matter. 
-WORF: Perhaps some other time, Commander. I do not believe I can
-provide much insight at this minute.
+WORF: It will be glorious! 
+GOWRON: It will be war. You are not a fool, Worf. Do you really think
+that every Klingon in the Empire will bend his knee and grovel before
+this man just because Koroth says he is Kahless? 
+WORF: He is Kahless. Your own test proved it. 
+GOWRON: I will not hand over the Empire to Koroth because of one test. 
+WORF: It is not Koroth, it is 
+GOWRON: Of course it is Koroth! Open your eyes. Koroth and the other
+Guardians have always opposed me. This is nothing more than a ploy for
+them to finally seize power. Even now, there are warriors on my own
+ship who want to see Kahless. There are others who believe he is an
+imposter. The divisions are already forming. 
+WORF: But it does not have to be this way. We could all join together
+and welcome Kahless as a united people. 
+GOWRON: Don't you see? This is exactly why they want you to join them.
+Because your brother sits on the Council and your voice carries weight
+in the Empire. They want you to influence others to follow them. Worf,
+we fought together once side by side to keep the Empire from being torn
+apart. Will you stand by and let these impostors destroy all that we
+fought so hard to protect? Renounce him, Worf. Stand with me and we can
+hold the Empire together. 
+WORF: You do not understand. Kahless is our future. Only with his help
+can we revive the pure warriors within ourselves. Listen to him,
+Gowron. Open your heart. Hear his words. He will restore your faith as
+he has restored mine. Give him a chance to lift your spirit and cleanse
+your heart before you take up arms.
 

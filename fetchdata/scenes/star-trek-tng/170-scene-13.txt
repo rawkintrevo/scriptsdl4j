@@ -1,61 +1,27 @@
-WESLEY TROI DATA LAFORGE WORF
+RIKER LAFORGE WORF PICARD WESLEY COMPUTER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Geordi's quarters]
+[Observation lounge]
 
-(Rest is not coming easily. Dreams are intervening)
-
-DATA [OC]: Proceeding with departure. Enterprise shuttlebay two,
-prepare for docking. Level one precautions remain in effect. 
-LAFORGE: I did miss something.
-
-[Corridor]
-
-(Deanna is talking to a woman when Worf comes by) 
-TROI: (to woman) See you later. (to Worf) Your first watch at Ops? 
-WORF: I have served at the position before. 
-TROI: I've been concerned about you. 
-WORF: About me? Why? 
-TROI: Because I know how I'd feel if I was asked to replace Data at his
-station.
-
-[Turbolift]
-
-WORF: Bridge. Promotion due to the death of a
-crewmate is commonplace on Klingon ships. 
-TROI: I know, but this isn't a Klingon ship and Data was your friend.
-And it's the second time you've replaced a crewmate who's died. 
-WORF: I honour Data's memory, as I did Lieutenant Yar's, by attempting
-to perform their duties as well as they did. 
-TROI: In true Klingon fashion. 
-WORF: I appreciate your concern.
-
-[La Forge's office]
-
-LAFORGE: Computer, now replay shuttle audio
-transmission time index zero four two three. This is Data's second
-trip. 
-DATA [OC]: Proceeding with departure. Enterprise shuttlebay two,
-prepare for docking. Level one precautions remain in effect. Shuttle
-has cleared the Jovis cargo bay. 
-WESLEY: Sounds just like the first trip. 
-LAFORGE: Exactly the same. That's protocol. And that's Data. Following
-protocol to the letter. Okay, computer, now replay shuttle audio
-transmission, time index zero four three nine. Third and final trip. 
-DATA [OC]: Loading is complete. I am proceeding with departure.
-Enterprise shuttlebay two, prepare for docking. Level one precautions
-remain in effect. 
-LAFORGE: That's it. That's the last communication. 
-WESLEY: He didn't report the shuttle clearing the cargo bay of the
-Jovis. 
-LAFORGE: Of course, there really wasn't any reason for him to make
-voice contact. He knew we'd be monitoring his position. Any other pilot
-might not bother, but Data? not following standard procedures? 
-WESLEY: What do you think it means? 
-LAFORGE: I'm not sure, Wes. I suppose he could've been too busy. Maybe
-he saw something was wrong. 
-WESLEY: Without communicating it? That doesn't sound like Data either. 
-LAFORGE: Which means maybe something was wrong with him. But there's no
-other indication of that. Nothing he said or did during the entire
-mission. None. I sure wish I could talk to the last people who saw him
-alive.
-
+RIKER: Fajo was in the right place at the right
+time just when we needed him most. 
+PICARD: You're suggesting he created the problem just to solve it? 
+RIKER: Possibly. 
+LAFORGE: What, to make a profit from his sale of hytritium? 
+CRUSHER: It doesn't add up. The cost of producing tricyanate is very
+expensive. He wouldn't make a profit on it. Quite the contrary. 
+WORF: Then, why would he do it? 
+RIKER: What could he want? 
+PICARD: Computer, biographical file on trader Kivas Fajo. 
+COMPUTER: Accessing file Kivas Fajo. A Zibalian trader of the Stacius
+trade guild, educated on Iraaten Five. A noted collector of rare and
+valuable objects including the Rejac Crystal, the Starry Night by Van
+Gogh, the Lawmim Galactopedia, the Moliam Andi tapestries 
+PICARD: Computer, that is sufficient. 
+RIKER: A rare and valuable object? 
+LAFORGE: What if Data wasn't on that shuttle? 
+PICARD: Mister Crusher. 
+WESLEY [OC]: Aye, sir. 
+PICARD: Set course for the site of the shuttlepod explosion. Warp
+eight. 
+WESLEY [OC]: Aye, sir. 

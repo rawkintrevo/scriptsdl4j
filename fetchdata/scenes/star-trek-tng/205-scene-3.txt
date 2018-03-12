@@ -1,33 +1,45 @@
-PICARD TROI OBRIEN PATTERSON JAYGORDON
+TROI OBRIEN GUEST1 GUEST0 PICARD GUEST3 GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-TROI: Captain, I'd like to introduce you to the
-winners of the primary school science fair. This is Marissa, Jay
-Gordon, and Patterson. They're here for their tour. 
-PICARD: Hello. 
-PATTERSON: Can we see the battle bridge and torpedo bay? 
-PICARD: No, I'm afraid not. But we will be visiting the hydroponics and
-astrophysics laboratories. 
-TROI: I'm sure you'll have a wonderful time. 
-PICARD: Well. If you'll come with me. 
-(Picard and children go into the turbolift as O'Brien comes out) 
-O'BRIEN: I'm not sure who to feel sorry for, the Captain or the kids.
+GUEST4: (female helm) What happened? 
+GUEST3: (man at ops) Sensors are picking up subspace distortions and
+high energy particles directly to starboard. 
+GUEST4: Looks like we ran into a quantum filament. Damage report? 
+O'BRIEN: We've lost primary life support. Switching to secondary
+systems. Impulse and warp engines are offline. 
+GUEST3: There's another filament moving toward us, sir. 
+GUEST4: All decks brace for impact! 
+(Thump! and it all goes dark - except for the opening titles) 
+O'BRIEN: Counsellor? 
+TROI: I'm all right. Medical team to the Bridge. Troi to Sickbay.
+Counsellor Troi to Captain Picard. Troi to Engineering. Counsellor Troi
+to any crew member, please acknowledge. 
+(Mandel tries to open the turbolift doors) 
+TROI: Medical team to the Bridge. 
+O'BRIEN: The computer's down. It looks like we still have impulse power
+but not much else. 
+TROI: Lieutenant Monroe! 
+(She's dead) 
+GUEST3: Chief O'Brien. The turbolifts aren't working. We're trapped up
+here.
 
 [Turbolift]
 
-PICARD: I want you to know we're very proud of the
-science fair winners. Perhaps some of you will choose to pursue a
-career in Starfleet. Well, then. What did you do for your science
-projects? 
-PATTERSON: I planted radishes in this special dirt and they came up all
-weird! 
-PICARD: I see. That's very, very commendable. And you? 
-JAY GORDON: An analysis of the life span of the swarming moths of Gonal
-Four. They only live for twenty hours, then they all die. 
-PICARD: How interesting. And you 
-(but before the shy girl can answer, something happens)
-PICARD: We're falling! 
-(all over the ship, power drops and everything is shaken violently. Red
-Alert goes off automatically)
+(three crying children and an injured adult) 
+PICARD: Are you, are you children all right? 
+(His leg is broken) 
+PICARD: Bridge, this is Picard. This is the Captain. Can anyone hear
+me? 
+GUEST1: Why don't they answer? 
+PICARD: I don't know. 
+JAY GORDON: They're all dead. 
+PICARD: They're not dead. Communication is down, that's all. 
+JAY GORDON: We're going to die, too. 
+PICARD: We most certainly are not. Now listen to me. No one here is
+going to die. The bridge will be sending a rescue party as soon as
+possible. So I want you all to stop crying. Everything is going to be
+all right. 
+(they cry even more)
 

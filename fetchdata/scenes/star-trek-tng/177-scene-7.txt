@@ -1,57 +1,36 @@
-RIKER LAFORGE WORF PICARD KOPF WESLEY COMPUTER DATA
+RIKER OBRIEN LAFORGE WORF PICARD WESLEY COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-KOPF: Our velocity is holding steady at warp nine
-point three. Do you wish to override, Commander? 
-LAFORGE: No, not yet. Computer, isolate cause of life support failure. 
-COMPUTER: Atmosphere conditioning pumps on deck one are operating in
-negative mode. 
-LAFORGE: How could that be? There are seven independent safety
-interlocks to prevent that. 
-(Picard and Worf enter, then others) 
-LAFORGE: Captain, I believe we've found the problem, but it really
-doesn't make sense. 
-PICARD: Bring the Enterprise to a full stop, Commander. 
-LAFORGE: Aye, sir. Full stop, Ensign. 
-KOPF: It's not responding, sir. 
-LAFORGE: I'm going to have to do this at the manual input level, sir.
-Wes. 
-RIKER: We're still at the altered heading, Captain, holding at warp
-nine point three. 
-WORF: Captain. Force fields have been established on all main Bridge
-turbolift doors and service crawlways. 
-PICARD: Computer, locate Lieutenant Commander Data. 
-COMPUTER: Commander Data is on the main Bridge. 
-RIKER: What the hell is he up to? 
-PICARD: Number One, take a security team up to deck two. Try and break
-through from below. Commander? 
-LAFORGE: Everything's locked up, Captain. We have no control of impulse
-or warp engines from here. 
-WESLEY: Navigation's not responding either, sir. 
-PICARD: Picard to main bridge. 
 [Bridge]
 
-PICARD [OC]: Commander Data, do you hear me? I
-repeat. Data, do you hear 
-(Data cuts off the comm.) 
-DATA: Computer. Recognise Data, Lieutenant Commander. Alpha One
-clearance. 
-COMPUTER: Priority clearance recognition Alpha One. 
-DATA: Maintain minimum auxiliary power and disengage subspace
-communications. 
-COMPUTER: Acknowledged.
+(The Enterprise has established orbit around a
+green world) 
+DATA: Computer, prepare to transport me directly to the following
+coordinates. 
+COMPUTER: Site to site transport interlocks have been manually
+deactivated. 
+DATA: Can you override? 
+COMPUTER: Negative. 
+DATA: Show me the shortest route to Transporter room one. Computer,
+prepare to activate cascade force field sequence in the following
+progression.
 
 [Engineering]
 
-WESLEY: He is on the Bridge, sir. 
-PICARD: Mister La Forge, prepare for saucer separation. 
-WESLEY: Sir, we're at Warp nine three. 
-PICARD: I am aware of the risks, Ensign. When the umbilical splits, we
-should regain primary control, do you agree? 
-LAFORGE: Yes, sir. 
-PICARD: The saucer module should fall out of warp in two minutes. Be
-prepared to sweep back. Pull it in with a tractor beam. 
-WORF: Aye, sir. 
-PICARD: Initiate auto sequence.
+LAFORGE: No matter what we try, the computer will
+only accept commands from the Bridge, sir. 
+WORF: He has blocked every subspace channel, sir. We cannot even call
+for help. 
+PICARD: Have you tried tracing back navigation inputs? 
+WESLEY: We don't even know what star system we're in, sir. 
+RIKER: The only way we knew we'd come out of warp was by looking out a
+window. 
+O'BRIEN [OC]: O'Brien to Captain Picard. 
+PICARD: Go ahead, Chief. 
+O'BRIEN [OC]: Captain, he's up to something. 
+PICARD: What now?
 
+[Transporter room]
+
+O'BRIEN: He discovered the site to site lockout. I
+wouldn't be surprised if he 

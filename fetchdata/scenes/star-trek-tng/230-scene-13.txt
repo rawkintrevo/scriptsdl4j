@@ -1,38 +1,45 @@
-PICARD RIKER DATA LAFORGE
-
-[Ready room]
-
-PICARD: Come. 
-(Geordi enters) 
-PICARD: Mister La Forge, I understand that before the Jenolen crashed,
-it had conducted an extensive survey of the Dyson sphere. Have we been
-able to access any of those records? 
-LAFORGE: We did try to download their memory core, but it was pretty
-heavily damaged in the crash. We actually haven't been able to get much
-out of it. 
-PICARD: Perhaps Captain Scott could be of use in accessing that
-material. 
-LAFORGE: It's possible. He does know those systems better than any of
-us. I'll have Lieutenant Bartel beam down with him. 
-PICARD: Mister La Forge, I would like you to accompany Captain Scott. 
-LAFORGE: Me, sir? 
-PICARD: Yes. Look, this is not an order, it's a request and it's one
-which you must feel perfectly free to decline. You see, one of the most
-important things in a person's life is to feel useful. Now, Mister
-Scott is a Starfleet officer and I would like him to feel useful again.
-
-LAFORGE: I'll go with him, sir. 
-PICARD: Thank you.
+PICARD DATA LAFORGE WORF SCOTT
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Commander, I believe I have found something
-on the sphere which could be a communications device. There's an
-antenna array approximately four hundred thousand kilometres south of
-our present position. It is emitting low intensity subspace signals. 
-RIKER: Can you open a channel? 
-DATA: No, sir, not from our present orbit. The array is currently
-directed away from us. 
-RIKER: Ensign, prepare to put us in orbit above those coordinates.
-Captain Picard to the Bridge, please.
+DATA: The sphere appears to be abandoned. Sensors
+show that the star is extremely unstable. It is experiencing severe
+bursts of radiation and matter expulsions. 
+PICARD: Then that would explain why they abandoned it. But if there's
+no one still living there, how were we brought inside? 
+DATA: I believe we triggered a series of automatic piloting beams
+designed to guide ships into the sphere. 
+WORF: Sir, Sensors show a large magnetic disturbance on the star's
+surface. 
+DATA: It is a solar flare, Captain. Magnitude twelve, class B. 
+PICARD: Shields? 
+WORF: Shields are up, but only at twenty three percent. 
+DATA: The star has entered a period of increased activity. Sensors
+indicate that the solar flares will continue to grow. In three hours,
+our shields will no longer be sufficient to protect us, sir.
+
+[Jenolen]
+
+SCOTT: Shunt the deuterium from the main cryo-pump
+to the auxiliary tank. 
+LAFORGE: The tank can't withstand that kind of pressure. 
+SCOTT: Where'd you get that idea? 
+LAFORGE: What do you mean, where did I get that idea? It's in the
+impulse engine specifications. 
+SCOTT: Regulation forty two slash fifteen, pressure variances on IRC
+tank storage? 
+LAFORGE: Yeah. 
+SCOTT: Forget it. I wrote it. A good engineer is always a wee bit
+conservative, at least on paper. Just bypass the secondary cut-off
+valve and boost the flow. It'll work. 
+LAFORGE: Okay. 
+SCOTT: If we've done our jobs properly, the engines should be coming
+back online about now. 
+LAFORGE: Hey, you were right. The auxiliary tank is holding. 
+SCOTT: Take the Bridge, Commander. 
+LAFORGE: Oh, no, you're the senior officer here. 
+SCOTT: I may be captain by rank, but I never wanted to be anything else
+but an engineer. 
+LAFORGE: All right.
 

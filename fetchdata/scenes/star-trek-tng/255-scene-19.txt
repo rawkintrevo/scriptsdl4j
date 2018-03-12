@@ -1,65 +1,44 @@
-PICARD RIKER CRUSHER DATA LAFORGE
+GUEST1 DATA LAFORGE WORF RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Raman corridor]
+[Raman Auxiliary control]
 
-LAFORGE: It's a mess in here. There must be a
-breach in the hull someplace. I'm picking up atmospheric gasses in the
-corridor. Methane and ammonia, primarily. That break in the hull might
-even be on the Bridge itself.
-I'm heading towards the Bridge. I've found someone. 
-DATA [OC]: What is your position? 
-LAFORGE: About twelve metres up the main corridor. He's trapped under
-some conduit from the bulkhead. I can't move it. I'm going to need more
-power to the tractor beam. 
-CRUSHER [OC]: Go to eighty percent of tolerance, Data. No higher. 
-(Geordi pulls off a metal bar and checks the man's pulse) 
-LAFORGE: He's dead. Data, that door at the end of this corridor. What's
-it lead to? 
-DATA [OC]: A magnetic storage bay. 
-LAFORGE: If there was a break in the Bridge, that'd be the safest place
-to go. Data, give me a phaser burst. Narrow focus, level four
-intensity. 
-(Geordi blows the lock off the door) 
-LAFORGE: I've found them. They're dead. All of them. There's a fire in
-here. Argh!
+LAFORGE: It's working.
 
 [Laboratory]
 
-CRUSHER: Data, disconnect! What happened? Geordi? 
-LAFORGE: I don't know. My hands. 
-CRUSHER: They're burned. 
-[Sickbay]
+DATA: When we are ready to disconnect the
+interface, we must allow enough time to lower the input levels,
+otherwise your nervous system will go into shock from the sudden drop
+in input.
 
-(Geordi's hands are in the healing box) 
-PICARD: How did this happen? 
-CRUSHER: There was some kind of energy discharge in the interface suit.
+[Raman Auxiliary control]
 
-PICARD: But shouldn't the safety overrides have prevented that? 
-CRUSHER: Yes, but I have a theory why they didn't. The tolerance levels
-of the interface were set extremely high. I think Geordi's neural
-response to the input was so strong that it created a feedback loop. 
-LAFORGE: The sensors that were transmitting the sensation of heat to my
-hands must've overloaded. 
-PICARD: The crew of the Raman are dead. I would like to retrieve them
-and their vessel, but not if it means putting Geordi's safety at risk. 
-LAFORGE: If we turn down the sensory input on the probe, I should be
-fine. Seven people lost their lives down there, Captain. We should at
-least retrieve the information they were collecting. 
-PICARD: Doctor? 
-CRUSHER: If we operate the interface at lower input levels, I'd say the
-risk is acceptable. 
-PICARD: Picard to Riker. 
-RIKER [OC]: Riker here. 
-PICARD: We will proceed with the probe. 
+LAFORGE: Once I initiate the warp cascade we can
+start dropping the gain. 
+DATA [OC]: Understood. 
+LAFORGE: We'll be in sensor range of the Hera within a few minutes.
+Mom, I'm really sorry I didn't by to see you a few weeks ago. 
+GUEST1: You were too busy with work. 
+LAFORGE: Yeah, well, I'm sorry. It won't happen again.
+
 [Bridge]
 
-RIKER: We'll have to take it into the Raman's
-auxiliary control room. Their Bridge is too badly damaged. 
-[Sickbay]
+WORF: Captain, the Raman is descending toward the
+planet. 
+RIKER: Geordi. 
+[Laboratory]
 
-PICARD: How long before you have it in position? 
-RIKER [OC]: A couple of hours. We have to cut through the bulkhead. 
-PICARD: Acknowledged. 
-CRUSHER: Well, it looks like you'll have time to recuperate. 
-LAFORGE: Yeah. There's something I've got to do anyway.
+DATA: We are at ninety percent of tolerance. My
+calculations show you will reach one hundred percent of tolerance
+before you are in range of the Hera. 
+LAFORGE: Then we're going to have to go beyond tolerance. 
+DATA: That would not be advisable. You must cease your descent.
+
+[Raman Auxiliary control]
+
+GUEST1: No, Geordi, don't, please. 
+LAFORGE: Data, I'm taking this ship down. Now, if you don't boost the
+gain past tolerance levels, I'll lose the interface when we go out of
+range and my system will go into shock.
 

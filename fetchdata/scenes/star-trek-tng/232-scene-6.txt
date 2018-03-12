@@ -1,32 +1,5 @@
-TROI LAFORGE PICARD RIKER Q CRUSHER DATA AMANDA
-
-[Engineering]
-
-LAFORGE: this is the main control area. We can
-access any of the primary circuits from all of these panels. Over here
-is a Jeffries tube. 
-AMANDA: Where most of the major conduits are routed. 
-LAFORGE: You've been doing your homework. 
-AMANDA: It's hard to imagine how much energy is being harnessed in
-there. 
-DATA: Imagination is not necessary. The scale is readily quantifiable.
-We are presently generating twelve point seven five billion gigawatts
-per 
-(an alarm goes off) 
-DATA: Temperature in the reaction chamber has increased by forty seven
-percent. 
-LAFORGE: Injector couplings are frozen. I can't slow down the reaction.
-
-DATA: Temperature increase is at one hundred six percent and rising. 
-LAFORGE: La Forge to Bridge! We're looking at a core breach! We're
-going to have to try and vent the plasma! 
-DATA: Plasma inductors are not responding. 
-LAFORGE: We're going to lose containment. All right, everybody out of
-here now. Let's go! Let's move it! Data, bring down the isolation door.
-We're going to have to eject the warp core. 
-(the chamber explodes, but Amanda holds out her hands and pushes the
-reaction back inside and seals it again) 
-DATA: Temperature in the reaction chamber has returned to normal.
+TROI LAFORGE PICARD RIKER Q CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Observation lounge]
 

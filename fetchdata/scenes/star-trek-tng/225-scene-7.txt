@@ -1,103 +1,27 @@
-RIKER WORF PICARD ELINE ENSIGN ADMINISTRATOR CRUSHER DATA BATAI
+RIKER CRUSHER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Riker to Sickbay. The Captain's hurt. 
-(Beverly is scanning Picard) 
-CRUSHER: Pulse and blood pressure are normal I'm getting hyperactive
-fibrogenic activity. This is odd. 
-RIKER: What is it? 
-CRUSHER: There's no evidence of any injury or trauma. Vital signs are
-normal, but neurotransmitter production is off the scale. What's going
-on? 
-RIKER: That probe is doing something to him. Anything yet, Data? 
-DATA: No, sir. The particle emission is most unusual. I am unable to
-block it. 
-WORF: We should destroy the probe. Phasers are armed and ready. 
-CRUSHER: I don't think that's wise. Not until we know exactly what it's
-doing to him. 
-RIKER: Agreed. Stand down phasers, Mister Worf. In the meantime, take
-us out of range. Ensign. Thrusters only, one hundred kph nice and easy 
-ENSIGN: Aye, sir. 
-RIKER: Data? 
-DATA: The probe is moving with us, sir, holding relative position. 
-CRUSHER: It's connected itself to him, like a tether.
-
-[Courtyard]
-
-ELINE: You've been dreaming of that starship of
-yours again, haven't you? 
-PICARD: I'm just charting progress of the course of the sun. It might
-give a clue to the cause of this drought. 
-ELINE: I think you're still trying to figure out where you are. Where
-that ship of yours is. How to get back to that life. 
-PICARD: The memory is five years old now, but it's still inside me. 
-ELINE: Was your life there so much better than this? So much more
-gratifying, so much more fulfilling, that you cling to it with such
-stubbornness? 
-PICARD: Eline. 
-ELINE: It must have been extraordinary. But never in all of the stories
-you've told me have you mentioned anyone who loved you as I do. 
-PICARD: It was real. It was as real as this is. And you can't expect me
-to forget a lifetime spent there. 
-ELINE: Yes, I can. I've been patient, Kamin. For five years I've shared
-you with that other life. I've listened, I've tried to understand, and
-I have waited. When do I get you back? 
-PICARD: I know. I know. It has been hard on you. 
-ELINE: When will you let go? When will you start living this life? When
-will we start a family? 
-BATAI: Kamin, Eline, good morning. 
-PICARD: Good morning, Batai. 
-BATAI: Are you ready? The Administrator's already arrived. 
-PICARD: Yes. Will you come along? 
-ELINE: No, thank you. You do very well on your own. 
-BATAI: She always was strong-minded, even when she was a child. 
-PICARD: It's not her fault. These past few years have been very
-difficult for her. 
-BATAI: And for you, I think.
-
-[Town square]
-
-ADMINISTRATOR: There you are, Batai. Perhaps you
-can explain to me, when crops are dying all over, how this tree is
-flourishing? 
-BATAI: This tree is our symbol, our affirmation of life. Everyone in
-this town gives part of their water rations to keep it alive. We've
-learned, Administrator, that hope is a powerful weapon against
-anything. Even drought. 
-ADMINISTRATOR: A good point. Perhaps I shall recommend a symbolic tree
-in each of my communities. Now. What business do we have today? 
-BATAI: We need help if we're to increase the water supply. We think
-there are ways to reclaim some of our water. 
-ADMINISTRATOR: Batai, you're being a bit of an alarmist. True, we are
-in a drought, but water rationing has produced a sizeable savings. 
-PICARD: If the weather pattern doesn't change, rationing will not be
-enough. We'll run out of water. 
-ADMINISTRATOR: Who is this? 
-BATAI: Kamin, sir. 
-ADMINISTRATOR: Kamin. Do I know you? 
-PICARD: No. I haven't spoken to you before. 
-ADMINISTRATOR: Well, Kamin, I'm open to all the people of this town.
-I'm delighted to hear what you have to say. 
-PICARD: I suggest that we build atmospheric condensers which could
-extract water from the air. 
-ADMINISTRATOR: I don't mean to quash your very creative ideas but
-building atmospheric condensers would be a monumental undertaking. We
-could not hope to sustain such a project. 
-PICARD: Each community would be responsible for its own. Condensers
-could make the difference between watering our crops or watching them
-die. 
-ADMINISTRATOR: Well, I'll be glad to pass along your idea. You'll see
-that this kind of participatory government works for everyone. Be well,
-Batai. I shall see you next month. Good to meet you, Kanin. 
-BATAI: Go carefully, Administrator. 
-(The Administrator leaves) 
-BATAI: That went very well. I think he was impressed with you. 
-PICARD: But there'll be no atmospheric condensers. 
-BATAI: These things take time, but it will happen. I'm sure of it. 
-PICARD: Come and have supper tonight, my friend. I'll make some
-vegetable stew. Let's talk about building our own condenser. 
-BATAI: Kamin. Hearing you talk to the Administrator, I realised that
-for the first time in years, you were speaking as though you were truly
-a member of the community. It was good to hear that again.
+RIKER: Geordi, any progress identifying the probe? 
+LAFORGE: Maybe. I've picked up some residue on the probe's shell. I
+think it came from the propulsion system. Looks like it used a solid
+propellant as fuel. 
+RIKER: Solid propellant? 
+LAFORGE: Sensors read this stuff as crystalline emiristol. It produces
+a radioactive trail that ought to be traceable. 
+RIKER: Then we should be able to send out a probe of our own, trace it
+back to the origin. 
+LAFORGE: I'll get right on it. 
+DATA: Commander, I have been analysing the nucleonic beam. I believe it
+would be possible to reflect the particles back toward the probe in a
+way that would disrupt the signal. 
+RIKER: Doctor? 
+CRUSHER: I simply don't know the risk of shutting down the beam. 
+RIKER: I'm not willing to let this thing keep drilling into him. 
+CRUSHER: If somebody gets stabbed, you don't necessarily pull the knife
+out right away. It might do more harm than leaving it there. 
+WORF: The Captain is under attack. We must act. 
+RIKER: I'm inclined to agree. Doctor, monitor him closely. Mister Data,
+prepare to disrupt the beam. We're going to try to cut this cord.
 

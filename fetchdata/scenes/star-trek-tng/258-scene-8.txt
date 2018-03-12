@@ -1,67 +1,39 @@
-PICARD TROI DATA LAFORGE
+TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Troi's office]
 
-LAFORGE [OC]: Warp power at your discretion,
-Captain. 
-PICARD: Acknowledged. Ensign Gates, set course for Starbase two
-nineteen, warp six. Engage. 
-(the lady Ensign does so, but the stars don't change) 
-PICARD: Engage. Bridge to Engineering. Mister La Forge, why isn't my
-ship 
-[Engineering]
-
-PICARD [OC]: Moving? 
-LAFORGE: I'm on it, sir. There's a warp plasma conduit out of
-alignment, but I think I've got it fixed now. Ready, sir. 
-[Bridge]
-
-PICARD: Very well. Ensign Gates? 
-(all the lights go out) 
-PICARD: Mister La Forge? 
-[Engineering]
-
-LAFORGE: Stand by, Captain. 
-DATA: Captain, I am taking the warp-coil engines offline. 
-(the lights come back on) 
-LAFORGE: La Forge to Bridge. I'm sorry, sir, but we're going to have to
-reconfigure this plasma conduit. It's going to take at least a couple
-of hours, sir.
-
-[Data's quarters]
-
-(Data is closely gazing at Spot lying on the bed
-when the doorbell rings) 
-DATA: Enter. 
-TROI: Hello, Data. 
-DATA: Counsellor. 
-TROI: What are you doing? 
-DATA: I have been watching Spot sleep. In the past fifteen minutes, he
-has had twelve muscles spasms, which indicates he was dreaming. I have
-often wondered what Spot dreams about. His twitching and his rapid
-breathing would seem to suggest anxiety, but Spot has never seen a
-mouse or any other form of rodentia. He has never encountered an
-insect, or been chased by a canine. 
-TROI: I understand you've had some interesting dreams recently. Geordi
-was worried about you and he wanted me to check in and see how you were
-doing. 
-DATA: That was very thoughtful of him. I've been debating whether or
-not to initiate another dream sequence. 
-TROI: Because of the nightmares? 
-DATA: I have found them to be quite unsettling. 
-TROI: Data, you shouldn't be afraid of dark imagery in your dreams.
-It's a natural expression of your unconscious, if you have an
-unconscious. I'm not really sure how your positronic brain works but if
-it's anything like ours, then there's part of you that's trying to
-express itself through your dream state. And I think you should allow
-yourself to experience it. As Sigmund Freud said, dreams are the royal
-road to the knowledge of the mind. 
-DATA: Thank you, Counsellor. I believe I will initiate a dream
-programme now. 
-TROI: Let me know how it goes. Goodnight, Data. 
-DATA: Goodnight, Counsellor. Goodnight, Spot. 
-(Data plumps the pillow, gets under the sheet fully
-clothed,kicking
-Spot off, and approximates a yawn) 
-DATA: Computer, dim lights.
+(Data is still holding the brace coil) 
+DATA: Everything seems to remind me of the nightmare. Objects, sounds,
+smells. And now I have seen elements of the dream in a waking state. I
+cannot explain it. 
+TROI: Data, if you were one of my human patients, I might be concerned
+right now. I'd say you had a waking dream or an hallucination. But
+you're not human. I think we might be looking at some kind of
+technological problem. 
+DATA: I have run three complete self diagnostics. All of my systems are
+functioning normally. Perhaps Doctor Freud was correct. The knife I
+dreamed about is the
+embodiment of my unconscious desire to inflict violence. 
+TROI: Data, even Freud said, sometimes a cigar is just a cigar. But the
+bottom line is, I think you're developing an almost obsessive interest
+in your own inner workings. I'd almost call it the beginnings of a
+neurosis. 
+DATA: That is not possible. 
+TROI: Why not? You've eliminated all the technical explanations. And it
+makes sense that as your neural net becomes more complex, more human,
+that you might experience the same kind of psychological complexities
+as a human. 
+DATA: Do you really think it is possible? 
+TROI: Data, you must be the first person who's come into my office and
+been excited at the prospect of a new neurosis. But yes, I do think
+it's possible, and I'd like to start counselling you on a regular
+basis. 
+DATA: Daily? 
+TROI: No, we'll start weekly. And as a first step, I'd like you to shut
+down your dream
+programme until our next session, just to be on the safe side. Give
+yourself a chance to reflect on this experience. 
+DATA: Thank you, Counsellor. I look forward to our next meeting. 
+TROI: And Data? Next time, see me before you see Sigmund.
 

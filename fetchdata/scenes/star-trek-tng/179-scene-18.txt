@@ -1,74 +1,57 @@
-TROI LAFORGE PICARD RIKER CRUSHER DATA
+RIKER LAFORGE PICARD TRAVELLER COMPUTER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Engineering]
 
-(There's a flashing light, then a strong wind
-starts sucking Beverly towards a funnel. She holds onto a doorway arch
-as bits of paper go flying past. Then it all stops)
+LAFORGE: Fifteen metres per second. We're going to
+lose it in about four minutes. 
+TRAVELLER: It is time, Wesley. 
+(eyes closed, Wesley enters commands on the big table) 
+LAFORGE: We're ready, Commander. 
+RIKER [OC]: Proceed. 
+[Bridge]
 
-[Observation lounge]
+PICARD: I'll be in Engineering.
 
-LAFORGE: I've had a team in Sickbay for two hours.
-We've run the mass spectrometer on all particulates. We've scanned the
-EM spectrum in case there was a wave guide somehow leaking radiation.
-We've even crawled in the life support ductwork. Captain, I don't know
-what this vortex was that Doctor Crusher saw. 
-CRUSHER: I didn't just see it. I felt it. I barely escaped from it. 
-LAFORGE: Well, there's nothing there now. And no sign there ever was. 
-PICARD: Is there any possible connection with Mister Crusher's
-experiment? Could this warp bubble be floating around the ship perhaps?
+[Engineering]
 
-LAFORGE: No, sir. That bubble was definitely contained in Engineering.
-There's no way it could possibly have affected anything up on deck
-twelve. 
-(Data enters) 
-DATA: Sir, I have completed level one computer diagnostics. There are
-no malfunctions. 
-RIKER: Any other ships respond to our queries, Data? 
-DATA: The Wellington is the only Federation vessel in this sector. It
-reports normal operations. A Ferengi ship within communications range
-also reports nothing unusual. 
-CRUSHER: Are all members of the crew accounted for? 
-DATA: Yes, Doctor. 
-CRUSHER: How many are there? 
-DATA: There are one hundred and fourteen people on the Enterprise. 
-CRUSHER: What? 
-DATA: That is the exact number there should be. 
-CRUSHER: There are now over nine hundred missing. Deck after deck of
-this ship is deserted now. How do you account for all the empty rooms?
-If there are supposed to be only a hundred and fourteen people on
-board, why all the extra space? 
-DATA: Transportation of colonists, diplomatic missions, emergency
-evacuations. 
-PICARD: Thank you, Mister Data. Have security confine all nonessential
-personnel to their quarters. Computer, go to Red Alert. 
-(Riker leaves) 
-CRUSHER: I'd like Lieutenant Worf to programme onboard sensors to
-monitor all personnel. If we can catch the exact moment someone
-disappears 
-PICARD: I'm sorry, whom did you say? 
-CRUSHER: Worf. Chief of Security. The big guy who never smiles? The
-Klingon!
+TRAVELLER: Let it go, Wesley. Let go of the
+anticipation, the expectations, the demands upon yourself. Let it all
+go. Leave it behind. Yes. The ability is there inside of you. You do
+not need to look for it. 
+[Bridge]
 
-[Corridor]
+COMPUTER: Three minutes thirty seconds to life
+support failure. 
+CRUSHER: The Traveller used his thoughts to alter warp fields. Thoughts
+became reality. Now I'm in a warp field. Could my thoughts have changed
+this reality? Come on, Beverly! What's the next step? What was I
+thinking at the moment Wesley's bubble formed? Dalen Quaice. He said
+all the people he'd known were gone. I thought of Jack, I went to see
+Wesley, the flash in Engineering. That's when it started. That's when I
+started losing everybody. My thoughts created this universe. Can they
+get me out of it again? 
+COMPUTER: That information is not available. 
+CRUSHER: I'm not talking to you. Click my heels together three times
+and I'm back in Kansas. Can it be that simple? 
+(Picard arrives in Engineering to watch the Traveller do his phasing
+thing) 
+COMPUTER: Two minutes, thirty seconds to life support failure. 
+CRUSHER: Computer, hypothetical situation. A person is trapped inside
+of a static warp bubble. Determine a means of escape.
 
-CRUSHER: Deanna. I need you to tell me if I've gone
-completely mad. 
-TROI: If you can ask the question, I'd say no. 
-CRUSHER: Don't evade the question. 
-TROI: Then ask me one I can answer. 
-CRUSHER: Deanna, I've delivered babies that no longer exist. No one
-else remembers them. Yet I can close my eyes, and see their faces as
-clearly as I see yours now. What if it's not some huge conspiracy? What
-if it is just me? 
-TROI: What if it is just you? 
-CRUSHER: Then I've delayed a mission, frightened a lot of people
-including myself. 
-TROI: So what? You've acted in the best interest of your ship and crew.
-What more could you ask of yourself? If it turns out to be a mistake,
-then we'll be a little late arriving at Durenia Four. That's all. 
-CRUSHER: It's not a mistake. I wish it were. 
-TROI: When we reach Starbase, I'll order a complete workup, both
-physical and psychological. 
-CRUSHER: If we reach Starbase. Wesley. Where's Wesley?
+COMPUTER: Escape would theoretically depend on establishing a stable
+threshold between the warp field and the outer environment. 
+CRUSHER: Describe this threshold. 
+COMPUTER: Negative. There are no known practical applications of this
+theory. 
+CRUSHER: Extrapolate from theoretical database. How would it manifest
+itself? 
+COMPUTER: A dynamic atmospheric disturbance of great intensity. 
+CRUSHER: Disturbance? The vortex. They must have been trying to reach
+me! But how do I find it? Wesley, where do I go? Help me. 
+CRUSHER: Stable threshold. They've been trying to create a stable
+threshold. Where are they trying to do it? Where did they do it the
+first time? Engineering! 
+COMPUTER: One minute, thirty seconds to life support failure.
 

@@ -1,72 +1,66 @@
-RIKER LAFORGE WORF TASHA PICARD PRIETO COMPUTER LYNCH CRUSHER DATA
+TROI CRUSHER LAFORGE WORF PICARD RIKER ARMUS DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Shuttlecraft]
 
-LYNCH [OC]: But there are no guarantees. 
-PRIETO [OC]: Captain, we're out of control. We're caught in the
-planet's gravity. 
-Captain's log, supplemental. We've lost all contact
-with shuttlecraft thirteen, and can only assume they've crash-landed on
-Vagra Two.
-Meanwhile, main Engineering is trying to return us to warp power.
+(Armus has slithered over the shuttlecraft, and
+Troi has found her communicator doesn't work) 
+ARMUS [OC]: Your friends have deserted you. They're not coming back. 
+TROI: You're wrong. 
+ARMUS [OC]: I killed one of them. 
+TROI: Yes. I know. 
+ARMUS [OC]: How could you be in there and know that? 
+TROI: I felt her die. 
+ARMUS [OC]: Do you want to know why I killed her? 
+TROI: Your answer would be meaningless. That act had no reason. 
+ARMUS [OC]: Exactly. It had no meaning. I did it because I wanted to.
+It amused me. 
+TROI: No. You thought it would amuse you, but it didn't. You felt no
+satisfaction. 
+ARMUS [OC]: No. It was too easy. 
+TROI: You wanted her to suffer. You have a great need. 
+ARMUS [OC]: I need nothing. 
+TROI: Liar. End this. Let us go. 
+ARMUS [OC]: Not yet. 
+TROI: They won't give you what you want. 
+ARMUS [OC]: And what is that? 
+TROI: To break their spirit. 
+ARMUS [OC]: Oh, is that what I want? If breaking their spirit will
+amuse me, then that's what I will have. 
+TROI: Never.
 
-[Engineering]
+[Observation lounge]
 
-LYNCH: Forget the final check. Initiate start-up
-sequence. 
-COMPUTER: Beginning check list. 
-LYNCH: Override. We are going directly to start-up. 
-COMPUTER: That procedure is not recommended. 
-LYNCH: Understood. Now. Prime matter-antimatter injectors. Set ratio at
-twenty-five to one 
-COMPUTER: Ratio set. 
-LYNCH: Power engine core. Inject reactants. 
-[Bridge]
+CRUSHER: She didn't do anything. Her phaser was
+lowered. 
+DATA: She only wanted to get to Troi and Lieutenant Prieto. 
+RIKER: There was nothing provocative about what she did. 
+CRUSHER: She was killed in a brutal, senseless act. 
+PICARD: Lieutenant Yar's death is very painful for all of us. We will
+have to deal with it as best we can for now. Until the shuttle crew is
+safely beamed aboard this ship, our feelings will have to wait. Is that
+understood? Lieutenant Worf, you are now Acting Chief of Security. 
+WORF: I will do my best, sir. 
+PICARD: Doctor, what is the state of the shuttle crew? 
+CRUSHER: We're still receiving faint life signs, but the sensor
+readings are fluctuating. They may not be accurate. 
+DATA: Armus is capable of creating undefined forcefields. In effect, we
+are powerless to communicate or use the transporter unless it allows
+it. 
+PICARD: A creature against whom we seem to have no defence. Number One?
 
-LYNCH [OC]: Leland T. Lynch here, Captain. We now
-have minimum warp drive. 
-LAFORGE: Course plotted and set for Vagra Two. 
-PICARD: Warp eight. 
-LYNCH [OC]: I said minimum warp drive, Captain. 
-PICARD: You heard the order, Mister Lynch. Make it so. 
-LYNCH [OC]: Yes, sir. 
-(later) 
-LAFORGE: Approaching Vagra Two, Captain. 
-DATA: Strange, sir. There's no emergency signal from the shuttle as
-yet. 
-PICARD: What is this place, Mister Data? 
-DATA: There is little information in the library computer other than
-the fact of its existence. Our sensor show no signs of life forms,
-virtually no vegetation. 
-RIKER: Atmosphere? 
-DATA: Minimum for our needs, sir. 
-PICARD: Standard orbit. 
-LAFORGE: Aye, sir. Standard orbit. 
-WORF: I've located the shuttle. 
-PICARD: Life signs? 
-WORF: Not yet, sir. Still probing. It appears to be buried under a lot
-of debris. I may have something, sir. Faint life signs. Very faint. 
-RIKER: How many? 
-WORF: There's no way of telling from here. 
-PICARD: Data, can we beam up the injured? 
-DATA: No, sir. Our sensors are not fully penetrating whatever the
-debris is. 
-PICARD: That's very unusual. 
-DATA: Yes, sir. I cannot explain. 
-PICARD: Number One, prepare your away team. 
-RIKER: Right away. Data, Yar. 
-PICARD: Doctor Crusher, have you been monitoring all this? 
-CRUSHER [OC]: Yes. I'll meet the away team in transporter room four. 
-[Planet surface]
-
-(The team beam down onto a barren rock-strewn
-surface under a salmon pink sky. One of the nacelles has broken off the
-little shuttlecraft) 
-CRUSHER: Let's go. The life signs are weak. 
-(Their way is blocked by what seems to be an oil slick) 
-RIKER: What is this? 
-TASHA: No idea. We'll go around, just to be on the safe side. 
-(The slick moves to stay between them and the shuttle) 
-TASHA: Let's try the other way. 
-(It moves again) 
-RIKER: Enterprise, this is Riker. We've got a problem. 
+RIKER: It's down on that planet waiting for us to come back. It killed
+Tasha and it could have killed us, but it didn't. Deanna and Ben are
+alive for a reason, and it knows we're not going anywhere as long as
+they're still alive. 
+PICARD: Are you saying it's attack on Yar was not arbitrary but part of
+some tactic? 
+RIKER: The only way to find out is to go back down. 
+LAFORGE: Commander, I may be able to see something in the creature
+which might be helpful. 
+PICARD: Agreed. Prepare your away team, Number One. 
+RIKER: Lieutenant Worf? 
+WORF: I will remain on the ship. The object here is not to engage the
+creature in battle. The goal is the safe return of Counsellor Troi and
+Lieutenant Prieto. I can best accomplish this at the Tactical Station. 
+PICARD: Very good. Number One? 

@@ -1,71 +1,33 @@
-PICARD RIKER CRUSHER DATA LAFORGE
+GUEST1 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Raman corridor]
+[Raman Auxiliary control]
 
-LAFORGE: Data, turn up the input sensors. I'm not
-seeing anything. 
-DATA [OC]: Acknowledged. 
-LAFORGE: Okay, I can see. 
+LAFORGE: Mom? Mom? 
+GUEST1: Hello, Geordi. 
+LAFORGE: Mom, how did you get here? 
+GUEST1: I'm not really with you, Geordi. I'm on my ship, on the surface.
+We were pulled into a warp funnel. 
+LAFORGE: That's just what I thought. How are we communicating? 
+GUEST1: We found a way to send a subspace signal that could cut through
+the atmospheric interference. 
+DATA [OC]: Geordi, are you seeing the image of your mother? 
+LAFORGE: Yes, and she's just 
 [Laboratory]
 
-LAFORGE: But no colours. 
-DATA: Increasing signal strength to seventy five percent of tolerance. 
-LAFORGE: Ah, that's better. 
-CRUSHER: Your pulse has gone up. Your nervous system probably has to
-get used to the input levels. 
-LAFORGE: I'm excited, that's all, Doctor. This is like being on a
-roller coaster. Or a first date. I'm all right. 
-CRUSHER: I'll be the judge of that. If your heart rate gets too high,
-we're going to disconnect you. 
-LAFORGE: Understood. 
-[Raman corridor]
+LAFORGE: Confirmed everything I've been saying. 
+DATA: I am reading unusual subspace energy in your vicinity, similar to
+what the probe sensor recorded the first time you encountered your
+mother. 
+LAFORGE: That's how she's communicating with me. It's the only kind of
+signal they could send that could cut through the interference.
 
-LAFORGE: It's a mess in here. There must be a
-breach in the hull someplace. I'm picking up atmospheric gasses in the
-corridor. Methane and ammonia, primarily. That break in the hull might
-even be on the Bridge itself.
-I'm heading towards the Bridge. I've found someone. 
-DATA [OC]: What is your position? 
-LAFORGE: About twelve metres up the main corridor. He's trapped under
-some conduit from the bulkhead. I can't move it. I'm going to need more
-power to the tractor beam. 
-CRUSHER [OC]: Go to eighty percent of tolerance, Data. No higher. 
-(Geordi pulls off a metal bar and checks the man's pulse) 
-LAFORGE: He's dead. Data, that door at the end of this corridor. What's
-it lead to? 
-DATA [OC]: A magnetic storage bay. 
-LAFORGE: If there was a break in the Bridge, that'd be the safest place
-to go. Data, give me a phaser burst. Narrow focus, level four
-intensity. 
-(Geordi blows the lock off the door) 
-LAFORGE: I've found them. They're dead. All of them. There's a fire in
-here. Argh!
+[Raman Auxiliary control]
 
-[Laboratory]
+GUEST1: We need your help. 
+LAFORGE: I've been thinking about this. I'm going to take the Raman
+into a low stationary orbit and initiate an inverse warp cascade. 
+GUEST1: Why? 
+LAFORGE: The subspace distortion from the cascade should reverse the
+warp funnel. Your ship will end up right back where it started.
 
-CRUSHER: Data, disconnect! What happened? Geordi? 
-LAFORGE: I don't know. My hands. 
-CRUSHER: They're burned. 
-[Sickbay]
-
-(Geordi's hands are in the healing box) 
-PICARD: How did this happen? 
-CRUSHER: There was some kind of energy discharge in the interface suit.
-
-PICARD: But shouldn't the safety overrides have prevented that? 
-CRUSHER: Yes, but I have a theory why they didn't. The tolerance levels
-of the interface were set extremely high. I think Geordi's neural
-response to the input was so strong that it created a feedback loop. 
-LAFORGE: The sensors that were transmitting the sensation of heat to my
-hands must've overloaded. 
-PICARD: The crew of the Raman are dead. I would like to retrieve them
-and their vessel, but not if it means putting Geordi's safety at risk. 
-LAFORGE: If we turn down the sensory input on the probe, I should be
-fine. Seven people lost their lives down there, Captain. We should at
-least retrieve the information they were collecting. 
-PICARD: Doctor? 
-CRUSHER: If we operate the interface at lower input levels, I'd say the
-risk is acceptable. 
-PICARD: Picard to Riker. 
-RIKER [OC]: Riker here. 
-PICARD: We will proceed with the probe. 

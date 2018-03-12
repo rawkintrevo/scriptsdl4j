@@ -1,37 +1,56 @@
-PICARD CRUSHER
+TROI WORF PICARD RIKER COMPUTER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-CRUSHER [OC]: I was beginning to find out that
-investigating a murder was a little more perilous than I'd thought. And
-for everything I'd been though, I didn't have any more insight than I
-did before I started.
+TROI: Captain, I'm concerned about Beverly. I've
+tried several times to talk to her, but she's been avoiding me. 
+PICARD: I'm not surprised. 
+TROI: This entire experience has been 
+DATA: Captain, an unscheduled launch is taking place in Shuttlebay two.
 
-[Morgue]
+RIKER: No idea. No one's filed a flight plan. 
+PICARD: On screen. 
+(a shuttle takes off) 
+RIKER: That's the Justman, the shuttle Reyga modified. 
+PICARD: Open a hailing frequency. 
+(Beverly's face on the viewscreen) 
+PICARD: Doctor Crusher, what do you think you're doing? 
+CRUSHER [on viewscreen]: Testing a theory, Captain. 
+PICARD: A theory? 
+CRUSHER [on viewscreen]: I think Doctor Reyga's shield does work. 
+PICARD: Return to the ship immediately. 
+CRUSHER [on viewscreen]: I'm sorry. 
+PICARD: Mister Worf, override the shuttle's computer. Return it to the
+shuttlebay. 
+WORF: Aye, sir. Sir, she has isolated her navigational control. It will
+not be possible to establish remote operation. 
+RIKER: Get a tractor beam on her. 
+WORF: I cannot establish a lock. She is too close to the star. Solar
+interference is too high. 
+PICARD: Mister Data, what is her heading? 
+DATA: Bearing two seven one mark four, sir. She is headed into the
+sun's corona. 
+CRUSHER [on viewscreen]: Computer, begin monitoring external
+temperature. 
+COMPUTER: External temperature zero point eight million Kelvins and
+rising. 
+PICARD: Beverly, what do you hope to accomplish? 
+CRUSHER [on viewscreen]: I think Doctor Reyga was right about his
+shield. The only reason it failed is because it was sabotaged, and I'm
+going to prove it. 
+PICARD: But you can't be certain of that. You're betting your life on a
+hypothesis. 
+CRUSHER [on viewscreen]: I'm not wrong. 
+COMPUTER: External temperature one point nine million Kelvins. 
+DATA: Sir, the shuttle is entering the corona. 
+PICARD: Beverly, what's happening? 
+CRUSHER [on viewscreen]: I'm all right. Computer, shield status? 
+COMPUTER: Metaphasic shield holding. All systems within normal
+operating parameters. 
+CRUSHER [on viewscreen]: Congratulations, Doctor Reyga. You did it.
+Captain, I want you to post security guards around the three visiting
+scientists. One of them has to be responsible for sabotaging the first
+test. I think if we 
+WORF: Sir, we have lost contact.
 
-CRUSHER [OC]: Which brought me back to Reyga's
-body. Because the more I thought about it, the more it seemed that the
-answers had to be there. DNA traces, tissue anomalies, a wealth of
-forensic clues that could shed some light on the mystery. So I made the
-decision. 
-(and Reyga's body is slid out of the chamber)
-
-[Picard's quarters]
-
-PICARD: Come. Beverly. 
-CRUSHER: Jean-Luc, I want to tell you something that you need to know,
-but you're not going to like it. I did an autopsy on Doctor Reyga. 
-PICARD: What did you find? 
-CRUSHER: Nothing. I'm sorry. I know I shouldn't have done it. 
-PICARD: You most certainly should not. I made it clear to you that the
-family would not allow it. Not only have you disobeyed my orders, but
-you've interfered in the burial rituals of another culture. You've put
-both of us in a very difficult position. The family will have to be
-notified. I don't doubt that they will react strongly. If the Ferengi
-government becomes involved, as I'm certain they will, this could have
-very significant repercussions. I'm not sure how much I can protect
-you. 
-CRUSHER: You don't have to, Jean-Luc. I knew what I was doing and I'm
-prepared to accept the consequences. 
-CRUSHER [OC]: I could tell that he was terribly disappointed in me, and
-that was almost the hardest part of all. 

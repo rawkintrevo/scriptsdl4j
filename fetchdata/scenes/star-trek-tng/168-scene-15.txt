@@ -1,103 +1,39 @@
-RIKER LAFORGE WORF PICARD WESLEY TAM DATA
+WORF PICARD WESLEY ROMULAN TAM DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Gomtuu corridor]
+
+(Tam's hand sinks into the organic wall) 
+TAM: Yes. 
+(But for Data it is a solid surface) 
+DATA: There is a large chamber twenty metres ahead. 
+TAM: I know. I know everything now. Come on. 
+(further on, a door opens for them)
+
+[Pilot chamber]
+
+(it seems empty) 
+DATA: Intriguing. 
+TAM: This is the control centre, where Gomtuu's crew guided their
+journeys. The ship and the crew existed symbiotically. They needed one
+another. When Gomtuu had no one left to care for, it no longer had a
+reason to exist. 
+DATA: Is that the purpose of existence? To care for someone? 
+TAM: It is for me. Deanna was right. I'll lose myself here. 
+(a chair grows up out of the floor) 
+DATA: I must remind you that our objective is to bring Tin Man out of
+danger and report our findings to Starfleet. 
+TAM: I'm not going back, Data. I'm staying here.
 
 [Bridge]
 
-PICARD: If the Romulans wish the honour of the
-first contact, let them have it. 
-TAM: You're out of your mind, Picard! What if the Romulans find a way
-to persuade Tin Man to 
-PICARD: I think the chances of that is remote. And if you will be
-still, Mister Elbrun, you may learn. 
-TAM: What? 
-PICARD: That being first, at any cost, is not always the point. Mister
-Data, while we await repairs, I want Life Sciences and Engineering to
-continue collecting information on the alien. And query the Vega Nine
-probe, long range sensors. 
-DATA: Aye, sir.
-
-[Data's quarters]
-
-TAM: You do a lot of your work here? 
-DATA: Yes. I have configured these instruments to display information
-with greater speed and efficiency than stations used by the others. 
-TAM: Nice. A little Spartan. 
-DATA: Spartan? 
-TAM: Lots of work space, not much room to live. I don't guess you
-sleep. 
-DATA: I have tried it from time to time. But you are correct. I do not
-require rest. 
-TAM: But you paint. 
-DATA: The creature's anatomy appears most peculiar. 
-TAM: In what way? 
-DATA: It is indeed laid out as a vessel with what appear to be
-corridors and chambers. An internal environment suitable for carbon
-based life forms is being maintained, yet there is no evidence of a
-crew aboard. Tin Man is a living being which has been bred or has
-adapted itself to serve a purpose. I find that interesting. 
-TAM: Why? Must living beings have a purpose? Or do we exist for no
-reason but to exist? 
-DATA: I do not believe I am qualified to express an opinion. 
-TAM: Ah, Data, you're uniquely qualified. You think a great deal about
-humanity and you're an honest researcher. You don't
-treat anything as trivial, or irrelevant. You want to try it all. 
-DATA: You said in the transporter room that you could not read my mind.
-
-TAM: True enough. But I think I understand you pretty well. It worries
-you that I can't read your mind? 
-DATA: Perhaps there is nothing to read. Nothing more than mechanisms
-and algorithmic responses. 
-TAM: Perhaps you're just different. Not a sin, you know, though you may
-have heard otherwise.
-
-[Bridge]
-
-DATA: Captain, the Romulan ship is hailing the
-alien using their equivalent of linguacode. 
-RIKER: Response? 
-DATA: Nothing so far, Commander. 
-TAM: Why should it answer? What could it possibly have in common with
-them? 
-RIKER: But you're so sure it'll talk to you. 
-WORF: Captain, the Romulans are arming all disruptors. 
-PICARD: Yellow alert. Prepare for evasive action at the first change in
-the Romulan's course. 
-RIKER: With our shields in their present condition, we can't 
-TAM: No! No! We're not the target. It's Tin Man. 
-PICARD: What do you mean? Do they intend to destroy it? 
-TAM: Those are their orders if they can't secure the alien. 
-PICARD: Increase speed to intercept the Romulan vessel. 
-WESLEY: Their lead is too great, sir. 
-PICARD: Hail them. We cannot allow them 
-TAM: They won't listen to you! 
-(Tam closes his eyes and clenches his fists) 
-TAM: Danger. Gomtuu. Do not allow. 
-(Tin Man turns, presents its stern? to the Romulans and emits an energy
-pulse that blows the green machine to atoms. The pulse then hits the
-Enterprise, knocking everyone over and triggering Red Alert) 
-PICARD: Damage report! 
-WORF: Nothing available yet, sir. We have partial failure of the main
-computer. 
-PICARD: It seems you woke your Tin Man.
-
-[Engineering]
-
-LAFORGE: We've got impulse power, but I've got to
-take the warp engines offline while we recalibrate the intermix
-regulators. 
-RIKER: How long? 
-LAFORGE: For everything, or just for the warp engine? 
-RIKER: All of it. 
-LAFORGE: Commander, we're looking at twenty hours work here, double
-shifts. 
-RIKER: We don't know that we have twenty hours. That star could explode
-at any moment. 
-LAFORGE: I know. Okay, first thing we need to do is get the main
-computer working right. 
-RIKER: No, we fix the shields first. 
-LAFORGE: Commander, whatever Tin Man hit us with, it fried circuits I
-thought were unfryable. 
-RIKER: I'm not worried about Tin Man. It's more Romulans showing up. 
-LAFORGE: Right. First priority, get the shields up. Only let's not have
-any more surprises till I'm done, okay? 
-RIKER: Don't ask me about surprises. Ask Tam Elbrun.
+WORF: Sir, the Romulans are hailing us. 
+ROMULAN [on viewscreen]: Captain Picard, if you interfere with us, we
+will fire upon you as well. 
+PICARD: Commander, we are prepared to defend the life of the alien.
+Screen off. Shields up. 
+WORF: Power levels aboard the alien are increasing, sir. 
+WESLEY: Captain, the diameter of the star has decreased by one hundred
+thousand kilometres. 
+PICARD: It's beginning.
 

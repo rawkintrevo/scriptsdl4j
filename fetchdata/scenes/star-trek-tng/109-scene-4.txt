@@ -1,47 +1,60 @@
-BOY RIKER LIATOR LAFORGE PICARD RIVAN OFFICER GIRL DATA
+LAFORGE PICARD GUEST8 GUEST3 GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Outside the Council Chambers]
+[Lounge]
 
-(A low rise building with formal fountains in front
-of it) 
-RIVAN: Good health! I thought you might be out of breath. 
-RIKER: We may surprise you in a lot of ways. 
-LIATOR: Children, we've brought you a new friend!
-BOY: Well, hello. Join us. 
-GIRL: Yes, please. 
-(Wesley runs off with the two boys and girl) 
-RIVAN: And now it's time for you to meet some new friends. 
-[Council Chambers]
+(Geordi finds a window with a good view of the
+other thing) 
+LAFORGE: Lieutenant La Forge to Captain. 
+[Bridge]
 
-(Musicians are playing gentle tunes, some couples
-are dancing, others strolling with glasses of drink. One man is getting
-a massage) 
-RIVAN: Everyone! We've brought the visitors! 
-LIATOR: Please enjoy what we have! 
-(And the team are lead away to - whatever)
+PICARD: Go ahead, LaForge. What can you make out?
+
+[Lounge]
+
+LAFORGE: This is something I've never seen before,
+sir. After complete spectral analysis, well it's as if it's not really
+there.
 
 [Bridge]
 
-DATA: I've traced it through our sensor channel,
-sir It is not a glitch or any other form of error or malfunction. 
-LAFORGE: Confirmed by my readings, Captain. It's a shadow something. 
-DATA: Exactly. As if it were neither in or out of our dimension. 
-PICARD: What is, Commander? 
-DATA: Whatever is sitting out there without triggering our alarm
-relays, sir. 
-PICARD: Centre main viewer on that area. I see nothing, Commander. 
-DATA: Enterprise to object off our starboard bow. Request that you
-identify yourself. 
-(And something appears) 
-LAFORGE: Shields and deflectors up full, sir. Main phaser banks ready. 
-PICARD: Hailing frequencies. Any reply? 
-DATA: It was something unintelligible, Captain. Now running it through
-language and logic circuits. 
-PICARD: Geordi. 
-LAFORGE: Sir. 
-PICARD: Have a real look. 
-LAFORGE: Aye, sir. 
-OFFICER: (At Tasha's station) Sir, my sensors read it. Well, it's half
-there. It does look as if it were partly transparent. 
-PICARD: Data, what the hell is it?
+GUEST3 [OC]: I don't understand it. 
+DATA: I've got some information on its first transmission, sir. It
+translates as stand by. 
+GUEST2:: Sir, I see show something coming out of that ship. 
+DATA: Verified, sir. Something very small. 
+(A little globe of light passes through the shields, and the hull, and
+the bulkheads) 
+GUEST2: Intruder alert, sir. I don't show a location. 
+DATA: The away team signal's been cut off, Captain. We've lost contact
+with our people.
+
+GUEST2: Intruder relays do show something. 
+PICARD: Why has everything become a something, or a whatever? 
+(The globe has arrived on the Bridge, and is face to face with Picard.
+When it speaks, everything shakes) 
+GUEST8: State the purpose. (it tones down) State the purpose of what you
+have done. 
+PICARD: I'm Captain Picard, commanding this Federation starship. 
+GUEST8: State the purpose of your visit here. 
+PICARD: We have sent down what we call an away team to make peaceful
+contact here. 
+GUEST8: Do you plan to leave life forms here? 
+PICARD: No. We are merely visiting here. 
+GUEST8: But you did more at the world you just left. Why have you left
+your own life forms there? 
+DATA: The colony we just planted, sir. 
+PICARD: We found that world uninhabited. The life forms we left there
+had, had sought the challenge. At least, that is the basic reason. Had
+sought the challenge of creating a new lifestyle, a new society there.
+Life on our world is driven to protect itself by seeding itself as
+widely as possible. 
+GUEST8: Do not interfere with my children below. 
+(The globe goes over to Data) 
+DATA: Captain, I do not understand how, but it is asking me if I was
+constructed for information exchange. 
+PICARD: If there is any way of finding out whatever is out there, Data.
+
+(The globe shrinks and attaches itself to Data's forehead. He falls
+backwards onto the floor.)
 

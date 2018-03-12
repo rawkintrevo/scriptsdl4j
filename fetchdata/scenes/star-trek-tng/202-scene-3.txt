@@ -1,4 +1,5 @@
-RIKER WORF PICARD TAMARIAN DATA DATHON
+RIKER WORF PICARD GUEST0 DATA DATHON
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Planet surface]
 
@@ -23,9 +24,9 @@ in apparent good health, approximately twenty metres from each other.
 RIKER: Hail the Tamarian ship. 
 WORF: On screen. 
 RIKER: You are holding our captain. I want him released. 
-TAMARIAN [on viewscreen]: Darmok at Tanagra. 
+GUEST0 [on viewscreen]: Darmok at Tanagra. 
 RIKER: Your action could be interpreted as an act of war. 
-TAMARIAN [on viewscreen]: Kiteo. His eyes closed. Chenza at court. The
+GUEST0 [on viewscreen]: Kiteo. His eyes closed. Chenza at court. The
 court of silence. Chenza! 
 RIKER: Is there any way to get through to them? 
 DATA: Not without further study. 

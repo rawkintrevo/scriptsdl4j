@@ -1,46 +1,65 @@
-PICARD RIKER LWAXANA ALEXANDER
+GUEST2 WOMAN GUEST0 LWAXANA COMPUTER GUEST4 ALEXANDER GUEST1 MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
-PICARD: Married? She's getting married? 
-RIKER: Yes. If we stay on our present course, we should rendezvous with
-her intended groom in thirty one hours. 
-PICARD: I will not continue have that woman continuing to use this ship
-for her convenience, simply because her daughter happens to be one of
-my officers. 
-RIKER: Apparently, Deanna being on board is only part of the reason. 
-PICARD: The other reason being? 
-RIKER: She thinks the honour of giving away the bride should fall on
-you. 
-PICARD: Permission for an on-board wedding is granted, Number One.
-Nothing would please me more than to give away Mrs. Troi. 
-(as they walk on, something moves along a bulkhead joist)
+LWAXANA: I'll bet you've never been to a colony of
+free spirits. 
+ALEXANDER: What do they do there? 
+LWAXANA: Whatever they want. Artists, philosophers, free thinkers and
+people who don't quite fit other people's rules. Personally, I come for
+the mud baths. You, oh, you're going to adore the mud baths. Computer?
+I'm assuming you have the Parallax Colony of Shiralea VI? 
+COMPUTER: That programme is available. 
+LWAXANA: Oh, good. Then run it for us, dear.
 
-[Troi's office]
+[Holodeck - Shiralea]
 
-(Alexander is playing with a table monitor when
-Lwaxana enters) 
-LWAXANA: Ah! My little warrior. And how are you this morning? Oh, I
-see. Being punished for something, are we? 
-ALEXANDER: It's just my regular time to meet with Counsellor Troi.
-She's not here yet. 
-LWAXANA: Then you're early. That's very responsible of you. 
-ALEXANDER: No, I just wanted to be out of my room before 
-LWAXANA: Before what? Now, if we're to be real friends, we've got to
-share only the truth. 
-ALEXANDER: Why? 
-LWAXANA: Well, for one thing, it's easier. When you tell the truth, you
-never have to remember later what you lied about. But mostly, a true
-friend is a person you can always tell the truth to without worrying
-about it. 
-ALEXANDER: I wanted to leave before my father got back. 
-LWAXANA: Oh. 
-ALEXANDER: I hate him. I wish my mother was here. But she died. 
-LWAXANA: That's not very fair, is it. 
-ALEXANDER: All he cares about are rules. I'm supposed to do everything
-right all the time. I don't know how. 
-LWAXANA: To tell you the truth, little warrior, neither do I. But, I do
-know one marvellous thing we can do with rules. 
-ALEXANDER: I'm supposed to wait for Counsellor Troi. 
-LWAXANA: Exactly.
-
+(they're greeted by a multicoloured head in a
+bubble, who pulls faces and changes his colours)
+ALEXANDER: What's that? 
+LWAXANA: A Wind Dancer. He stands guard. You see, only those whose
+hearts are joyous may enter. Come on. 
+(a fire eater blows a perfect triangle of flame, then a five pointed
+star) 
+LWAXANA: Fire sculptor. We'll chat with her later if you're not wearing
+anything flammable. 
+GUEST2: Hello. A few of us were just gathering together for our
+laughing hour. Would you care to come laugh with us? 
+LWAXANA: Actually, we were about to experience a mud bath. 
+GUEST2: Were you? What an idea! My friends and I will join you. One
+can always laugh in the bath. 
+ALEXANDER: Do you ever drop one? 
+GUEST2: Oh, no. No, no. These are my worlds. I protect them. I am a
+master of worlds, and they fly only as I wish. (to an identical couple)
+We're having guests for laughing hour. Would you care to join us! 
+YOUNG MAN: We'd love to! (see end of transcript as well) 
+YOUNG WOMAN: No, thank you. 
+YOUNG MAN: Yes. 
+YOUNG WOMAN: No. 
+YOUNG MAN: Why do you always say no when I say yes? 
+YOUNG WOMAN: I don't. 
+YOUNG MAN: You just did. 
+YOUNG WOMAN: There you go again. You are the most negative person! 
+ALEXANDER: Why are they arguing? 
+GUEST2: They're friends. They love contradiction. They thrive on
+challenge. They flourish in conflict. 
+ALEXANDER: Then why are they friends? 
+LWAXANA: Who else are you going to fight with if not your friends? 
+GUEST4: Hold! What is the lesson for today? 
+LWAXANA: Damned if we know. We're just here for some fun and a mud
+bath. 
+GUEST4: Every moment requires a purpose. 
+LWAXANA: No, it doesn't. 
+GUEST4: Every purpose requires a plan. 
+GUEST2: He does this every day. Usually while everybody's food gets
+cold. It's rather boring. 
+GUEST4: The higher the fewer! 
+LWAXANA: Well that's a conversation stopper if I ever heard one. 
+WOMAN: I am not! 
+MAN: Yes, you are. 
+WOMAN: I am not. 
+ALEXANDER: Excuse me! If you're going to argue, you should remember,
+the higher the fewer. 
+LWAXANA: So, my little warrior wants to see more in life than just
+fighting. The mind opens, and in creeps wisdom. 

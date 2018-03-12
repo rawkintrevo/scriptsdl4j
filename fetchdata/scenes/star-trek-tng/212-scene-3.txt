@@ -1,4 +1,5 @@
-TROI JEV LAFORGE WORF PICARD RIKER INAD CRUSHER DATA TARMIN
+TROI JEV LAFORGE WORF PICARD RIKER GUEST2 CRUSHER DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Turbolift]
 
@@ -18,54 +19,54 @@ LAFORGE: It would seem.
 JEV: This library of ours has been in the planning
 stages for years. A collection of the retrieved memories of races from
 many different star systems. 
-TARMIN: What my son means to say is, we think of ourselves as
+GUEST0: What my son means to say is, we think of ourselves as
 archaeologists of the mind. We believe that the history of a
 world is contained in the personal experience of its people. 
 PICARD: Rather like the ancient oral historians on Earth. 
-TARMIN: Exactly. The library we propose will be a vast storehouse of
+GUEST0: Exactly. The library we propose will be a vast storehouse of
 these individual memories. 
 RIKER: That sounds like quite a project. How long will it take to
 finish your studies on Kaldra? 
-INAD: (a silver-haired woman) Many months. We've been working for
+GUEST2: (a silver-haired woman) Many months. We've been working for
 years, and we've surveyed only eleven planets in eight star systems. 
 JEV: But it's our way of life. We wouldn't want to do anything else. 
 CRUSHER: Captain, Mister Tarmin gave us a demonstration of his
 abilities this afternoon. It's fascinating. Perhaps you would like to
 resurrect some memories. 
-TARMIN: I'd be happy to probe your recollections, Captain. Most people
+GUEST0: I'd be happy to probe your recollections, Captain. Most people
 find it an enjoyable experience. 
 PICARD: I'm sure. However, I don't think I would make a particularly
 good subject. 
 CRUSHER: I'm sure you'd be ideal, and you must have some intriguing
 memories. 
-TARMIN: We won't be on your ship for long. This may be your last
+GUEST0: We won't be on your ship for long. This may be your last
 chance. 
 PICARD: Yes. Well. 
-INAD: Tarmin, we mustn't influence people. We must let them come to us
+GUEST2: Tarmin, we mustn't influence people. We must let them come to us
 willingly. 
-TARMIN: I have found over the years there are many who want the
+GUEST0: I have found over the years there are many who want the
 experience of memory retrieval, but who lack some encouragement in
 order to come forward. 
-TARMIN: You, Mister Worf? I would love to explore Klingon memories. 
+GUEST0: You, Mister Worf? I would love to explore Klingon memories. 
 WORF: Klingons do not allow themselves to be probed. 
-TARMIN: But there is nothing to fear. 
+GUEST0: But there is nothing to fear. 
 JEV: Father. 
 WORF: I am not fearful. 
-TARMIN: Commander La Forge, you? 
+GUEST0: Commander La Forge, you? 
 LAFORGE: I don't think so. Thanks anyway. 
-TARMIN: I have rarely encountered such squeamish people. Doctor
+GUEST0: I have rarely encountered such squeamish people. Doctor
 Crusher? Commander Riker? 
 TROI: Mister Tarmin, are all Ullians able to read memories? 
-TARMIN: Oh, no, my dear. The technique requires special training. It is
+GUEST0: Oh, no, my dear. The technique requires special training. It is
 a serious commitment. 
-INAD: It takes years of study. Tarmin is the most proficient of our
+GUEST2: It takes years of study. Tarmin is the most proficient of our
 group. 
-TARMIN: Once Jev spent two days with a contingent of elderly Gentons.
+GUEST0: Once Jev spent two days with a contingent of elderly Gentons.
 He couldn't get anything from them. I spent only one hour with them and
 retrieved a fragment from the Gentonian trade wars. 
 JEV: Excuse me. 
 (Jev exits hurriedly) 
-INAD: Exactly how long will it be before we reach Kaldra, Captain? 
+GUEST2: Exactly how long will it be before we reach Kaldra, Captain? 
 PICARD: Mister Data? 
 DATA: Four days, eleven hours.
 

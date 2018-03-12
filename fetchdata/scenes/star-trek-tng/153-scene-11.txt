@@ -1,90 +1,51 @@
-TROI JEREMY LAFORGE WORF PICARD RIKER DATA
+GUEST0 PICARD TROI JEREMY WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Teacher's office]
+[Jeremy's quarters]
 
-PICARD: Jeremy, I have some bad news. There has
-been an accident. Your mother has died. 
-JEREMY: How, sir? 
-PICARD: An explosive device at the mission site. She died instantly. 
-JEREMY: I understand. 
-TROI: Jeremy, I know your mother loved you very much. 
-PICARD: I'm told that your father is also dead. 
-JEREMY: Yes, sir. He died five years ago from a Rushton infection. I'm
-all alone now, sir. 
-PICARD: Jeremy, on the starship Enterprise, no one is alone. No one.
-
-[Ten forward]
-
-DATA: Excuse me, sir. Am I intruding? 
-RIKER: No, sit down. 
-DATA: How well did you know Lieutenant Aster? 
-RIKER: We spent some time together. Not very well. How well did you
-know her? 
-DATA: Why do you ask? 
-RIKER: Well, you just asked me. 
-DATA: But why do you ask the question? Since her death, I have been
-asked several times to define how well I knew Lieutenant Aster. And I
-heard you ask Wesley on the Bridge how well he knew Jeremy. Does the
-question of familiarity have some bearing on death? 
-RIKER: Do you remember how we all felt when Tasha died? 
-DATA: I do not sense the same feelings of absence that I associate with
-Lieutenant Yar, although I cannot say precisely why. 
-RIKER: Just human nature, Data. 
-DATA: Human nature, sir? 
-RIKER: We feel a loss more intensely when it's a friend. 
-DATA: But should not the feelings run as deep regardless of who has
-died? 
-RIKER: Maybe they should, Data. Maybe if we felt the loss of any life
-as keenly as we felt the death of those close to us, human history
-would be a lot less bloody. 
-LAFORGE [OC]: La Forge to Riker 
-RIKER: You're back, Geordi 
-LAFORGE [OC]: Yes, sir, and we've brought back a souvenir. 
-[Ready room]
-
-LAFORGE: There are five more just like them. All
-identical to the one that killed Lieutenant Aster. 
-DATA: They employ a subspace proximity detonator. A normal tricorder
-would never detect it. 
-PICARD: How long would you say they've been there, Data? 
-DATA: It comes from the time of the Koinonian Wars, sir. 
-RIKER: Did you find them all, Geordi? 
-LAFORGE: Yeah, but, well, it seemed like they were left there to be
-found. 
-PICARD: Left by whom? There are no indications of life on this planet. 
-LAFORGE: I don't know, Captain, but it was pretty obvious that they'd
-been recently pulled out of the ground and defused.
-
-[Room]
-
-WORF: I have made my report to the Captain. 
-TROI: I'm more interested in how you feel about what happened. I sense
-great anger. 
-WORF: I cannot seek revenge against an enemy who's turned to dust
-centuries ago. Her death was senseless. The last
-victim of a forgotten war. 
-TROI: Go on. 
-WORF: There's nothing more to be said. 
-TROI: A person died under your command. It may happen again. If you
-can't learn to release the anger and the guilt, to talk about it 
-WORF: A leader must stand alone. As Captain Picard does. 
-TROI: Captain Picard talks to me. 
-WORF: Then may I seek your counsel about my plan to make the R'uustai
+WORF: Lieutenant Aster is here. In her quarters
 with the boy. 
-TROI: The Bonding. 
-WORF: It is my right. 
-TROI: It's very generous, Worf, but he's not a Klingon child. He has
-different sensibilities. 
-WORF: He is an orphan. I am an orphan. He will understand. 
-TROI: Right now, there isn't much he can understand. He's holding all
-his feelings inside. Children often feel they must be true to the
-memory of a lost parent. If you offer affection to them too soon they
-can feel guilty returning that affection. As if they're betraying the
-love of the parent. 
-WORF: I only wish to honour his mother. 
-TROI: I know. And I understand this means a great deal to you. But you
-must be prepared. He's very angry too, but his anger is deep inside
-him. When he touches it, it will strike out in many directions,
-including yours. Be with him. Talk to him. But don't rush this. When
-he's ready, we'll know.
+PICARD [OC]: Do not provoke her 
+[Bridge]
 
+PICARD: Or interfere in any way until I arrive.
+Picard out. Number One, have Security moving that way but tell them to
+keep their distance. You have the Bridge. Counsellor. 
+[Jeremy's quarters]
+
+GUEST0: There is nothing to worry about. I'm going
+to take care of Jeremy and make him happy. It's time to go. 
+WORF: Where are you taking the child? 
+JEREMY: To the planet. 
+GUEST0: Come, Jeremy. 
+(Jeremy has to open the door for her) 
+WORF: Worf to Picard, they're leaving their quarters. 
+[Turbolift]
+
+WORF [OC]: Captain, I believe we're headed for
+transporter room three.
+PICARD: We're on our way.
+
+[Transporter room]
+
+GUEST0: Chief O'Brien, Jeremy and I are going down
+to the surface. 
+(She and Jeremy get on the pads as Picard and Troi arrive) 
+PICARD: Who are you? 
+GUEST0: I'm Marla Aster. 
+JEREMY: It's my mother, Captain. She's alive. 
+PICARD: What do you want? 
+GUEST0: To take my child down to the planet. 
+PICARD: I cannot permit that. The boy is my responsibility. 
+GUEST0: I'm here to care for him. He needs me. Why do you resist? 
+PICARD: Because I don't know who or what you are. 
+JEREMY: Can't you see who it is, Captain? 
+PICARD: Jeremy, she appears to be your mother, but she is not. 
+JEREMY: What do you mean? 
+GUEST0: You're confusing the boy. 
+(Worf grabs Jeremy and takes him off the transporter pad) 
+JEREMY: Hey! Wait! Stop! No! No! Wait! Stop! 
+(Marla vanishes) 
+JEREMY: Mom! Mom? 
+TROI: Jeremy 
+JEREMY: Wait a minute. Let go of me. She was right there! 

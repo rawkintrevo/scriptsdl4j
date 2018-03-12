@@ -1,37 +1,5 @@
-TROI GIUSTI LAFORGE WORF PICARD RIKER BARAN DATA NARIK
-
-[Bridge]
-
-GIUSTI: They're preparing to activate their warp
-drive, Commander. 
-WORF: Sir, we cannot be able to track them with our sensors if they go
-to warp. I can still disable them 
-DATA: I am aware of the tactical situation, Lieutenant. Let them go. 
-(after the opening credits, at the science station) 
-TROI: I've gone over every word, every inflection, every facial
-response, and I still can't find any kind of code or hidden message. 
-DATA: I agree the existence of such a message is remote, but I believe
-we should check. 
-TROI: I'll keep trying. 
-WORF: Two starships have been sent to intercept the mercenaries at
-Yadalla Prime and Draken Four, in case they attempt to attack those
-planets. 
-DATA: Inform Starfleet Command that we will hold this position until
-further notice. 
-WORF: So, we are just going to remain here? 
-DATA: Yes, but we will continue to pursue all avenues of investigation.
-
-WORF: If we had not let them to escape, this would not be necessary. 
-DATA: That is correct. But I believe Commander Riker wanted us to let
-them escape. 
-LAFORGE: Commander, I think I've got something. I've been studying the
-comm. link Commander Riker used to transmit his command codes. I didn't
-see anything at first, but then I ran the transmission through a
-subharmonic analysis. I found this. It was sent by the same carrier
-wave as the command codes. 
-TROI: It might be the message we've been looking for. 
-DATA: Possibly. I will attempt to resequence the signal. Begin running
-a search for a decryption key.
+RIKER PICARD TALLERA COMPUTER BARAN NARIK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Mercenary Bridge]
 
@@ -54,3 +22,29 @@ RIKER: I don't know. How did that feel?
 BARAN: That's enough. Galen, go down to the cargo hold and check out
 those artefacts. Move.
 
+[Mercenary Cargo hold]
+
+(Tallera enters) 
+PICARD: You can tell Baran that I'm working as fast as I can. What? 
+TALLERA: I'm trying to decide if you're incredibly stupid or incredibly
+smart. Why didn't you continue to fire on the Enterprise when their
+shields dropped? 
+PICARD: You were there. The disruptors lost power. Computer, reset for
+diagnostic of new sample. Begin scan. 
+TALLERA: I've watched you handle the weapon systems before. You know
+exactly how to bypass a problem like that.
+And why do you continue to argue with Riker? It should be obvious that
+by alienating Riker you also alienate Baran, and yet you continue to do
+so. Why? 
+COMPUTER: Scan complete. Terikon profile negative. 
+PICARD: Computer, reset diagnostic for new sample and begin scan. Look
+this isn't a Romulan labour camp. I don't have to answer your
+questions. And I don't give a damn what you think. 
+COMPUTER: Scan complete. Terikon profile positive. Ninety eight percent
+probability of match. 
+PICARD: Well, whatever it is we're looking for, it seems we've found
+it. 
+TALLERA: Tallera to Captain. 
+BARAN [OC]: Yes, what is it? 
+TALLERA: I'm in the cargo hold. Galen's made a positive Terikon match
+on 

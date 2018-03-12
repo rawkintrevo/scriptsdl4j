@@ -1,116 +1,70 @@
-RIKER CONDUCTOR LAFORGE WORF RUSTIC GANGSTER CREWMAN DATA ENGINEER
+TROI LAFORGE WORF PICARD CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jefferies tube]
+[Cargo bay]
 
-LAFORGE: I just don't get it, Data. What would
-cause the engines to suddenly jump into warp? 
-DATA: Perhaps the engines were activated by a random power fluctuation.
+LAFORGE: La Forge to Data
 
-LAFORGE: Which occurred just in time to save the ship? 
-DATA: It is improbable, but it is possible. 
-LAFORGE: I don't know. I don't think I'm ready to start believing in
-luck. 
-(they stop by an access panel) 
-DATA: There is another possibility. 
-LAFORGE: Yeah, what's that. 
-DATA: The sensors apparently detected a dangerous anomaly that
-threatened the Enterprise. It is possible that they triggered a safety
-device which caused the ship to avoid destruction. 
-LAFORGE: Yeah, but there's no direct link between the warp engines and
-the sensors. 
-(they open the panel) 
-LAFORGE: Whoa. What is that? It's some kind of new circuit node and
-it's connected to at least half a dozen points in the sensor array. 
-DATA: It appears to be connected to several other systems as well,
-including the warp control circuits. 
-LAFORGE: I guess there's a connection between the warp engines and the
-sensors after all. 
-(a forcefield blocks access to the node) 
-LAFORGE: A force field. Where did that come from? 
-DATA: I am not certain. Perhaps it came from the node itself. 
-LAFORGE: Well, wherever it came from, it sure doesn't want us messing
-with this node. 
-DATA: It appears to be protecting itself.
+[Holodeck - street]
 
-[Engineering]
+LAFORGE: Stop what you're doing. 
+DATA: Acknowledged. 
+(the quake stops)
 
-LAFORGE: We found these nodes in several systems
-around the ship. At some level or another, they're all connected. 
-DATA: These nodes were linking the sensors to our warp control and
-defensive systems. We believe this is why the ship jumped to warp. 
-LAFORGE: When the sensors detected danger, the defensive systems
-reacted to the threat and activated the warp engines to protect us. 
-RIKER: Where did these nodes come from? 
-DATA: It is possible that the magnascopic storm we recently experienced
-had an unexpected effect on the ship's systems. 
-LAFORGE: Wherever they come from, they seem to be multiplying. 
-DATA: As they increase, it will become progressively more difficult to
-control the ship. 
-RIKER: What do you propose we do? 
-LAFORGE: Well, getting rid of them isn't going to be so easy. When we
-attempted to examine the circuitry of one of the nodes, it generated a
-force field to keep us out. 
-RIKER: Whatever's going on. our first priority is getting back control
-of the ship. 
-DATA: Agreed. All of the nodal connections intersect in holodeck three.
-It appears to be a focal point of some kind. 
-LAFORGE: We might be able to find a way to use the holodeck circuitry
-to disable the nodes permanently. 
-RIKER: All right. Let's do it.
+[Holodeck - wall]
 
-[Corridor]
+WORF: Are you all right? 
+TROI: I'm fine. 
+[Cargo bay]
 
-DATA: Commander, the holodeck appears to be in
-operation. 
-RIKER: I thought you shut down the entire system. 
-DATA: I did, but it has reactivated itself and it will not disengage. 
-WORF: Which programme is running? 
-DATA: Several different programs are running simultaneously. 
-RIKER: This should be interesting. 
-[Holodeck- train]
+LAFORGE: Data, I think we ought to get together and
+compare notes. 
+DATA [OC]: Agreed. 
+[Sickbay]
 
-(a knight in armour is cutting a newspaper, a
-rustic is standing, two 1920's women and a man are working on a jigsaw,
-a gunslinger takes a piece out of his pocket and adds it to the jigsaw)
+(Troi is having her grazes healed) 
+TROI: The ship was protecting itself again. Stopping us from
+interfering. Whatever it's doing it intends to continue. 
+LAFORGE: I'm betting it all has something to do with that object that's
+forming in the cargo bay. 
+TROI: I think he's right, Captain. Look at the common themes playing
+out on the holodeck. A puzzle being put together, a foundation being
+laid, a paper doll being fashioned. They're all images of something
+being constructed. 
+LAFORGE: And some kind of object in the cargo bay that's being
+constructed atom by atom. 
+PICARD: What is that object? 
+LAFORGE: I have no idea. It's composed of silica polymers, duranium,
+and a couple of other compounds we
+haven't been able to identify yet.
+But creating it has had quite an effect on our systems. Warp power has
+dropped forty seven percent. 
+PICARD: Counsellor, did you draw any other conclusions from your
+experiences on the holodeck? Anything that would help us to understand
+this situation? 
+TROI: The holodeck was full of metaphoric imagery like it was having
+some kind of daydream. It may not make literal sense, but symbolically
+it probably does have some kind of logic to it. 
+CRUSHER: The characters you spoke to, do they have any significance? 
+TROI: I think they represent different aspects of the ship. The
+Engineer, for instance, may represent the navigational system, the
+gunslinger could be the weapon system. 
+PICARD: Is there any way that we can persuade them to give back control
+of the ship? 
+TROI: I don't think it's possible to reason with them. Many of them are
+genuinely unaware of what's going on. It's as though this emergent
+intelligence is like an infant acting on impulse, trying to figure
+itself out as it goes. The only source of experience it can draw on is
+ours through our holodeck programs. 
+PICARD: Is there a way that we can relate to them on their own level,
+find some way to influence their behaviour? 
+TROI: Maybe there is. I'd like to go back and try. 
+LAFORGE: Counsellor, we haven't been able to re-establish the safeties.
 
-RIKER: You weren't kidding, Mister Data. 
-DATA: No, sir. I estimate that this scene consists of portions of seven
-distinct holodeck programs. 
-RIKER: See if you can access the circuits that have been affected by
-the nodes. 
-(an American train conductor enters) 
-CONDUCTOR: Tickets! Tickets please. Please have your tickets ready.
-Thank you, sir. Thank you, madam. Thank you. Thank you, sir. Tickets
-please. 
-RUSTIC: You know, I've never even been away from home. Now I'm going
-all the way to Vertiform City! 
-CONDUCTOR: Very nice, sir. Enjoy your trip. Tickets please. Tickets.
-Thank you sir. 
-(The conductor clips one of the knight's string of paper dolls) 
-CONDUCTOR: Tickets please. Tickets please. 
-DATA: Commander. I have located a large concentration of nodes behind
-this wall. They appear to be connected directly to the holodeck's main
-power coupling. 
-RIKER: All right, go ahead and depolarise the entire power grid. 
-DATA: The power grid is located beneath this deck, sir. 
-CONDUCTOR: Get away from there. Would you gentlemen care to show me
-your tickets? 
-RIKER: I believe we left our tickets in our compartments. Mister Worf,
-I told you to bring the tickets. 
-WORF: I forgot. 
-CONDUCTOR: I don't think you folks belong on this train. 
-ENGINEER: Hold it! You leave these people alone. They're only trying to
-help. 
-CONDUCTOR: You go back to the engine. This doesn't concern you. 
-ENGINEER: They're all trying to hijack the train. 
-RUSTIC: Hey, if you're the Engineer, who's doing the drivin'? 
-(a gangster shoots the Engineer in the back) 
-GANGSTER: I am.
+CRUSHER: The injuries you suffered on the holodeck weren't severe, but
+next time they might kill you. 
+TROI: I'm aware of that. 
+PICARD: Very well, Counsellor, go ahead. But bear in mind that whenever
+we have tried to hinder their efforts, we've failed. Perhaps it's time
+to cooperate with them.
 
-[Engineering]
-
-(a console explodes in front of Geordi, throwing
-him backwards) 
-CREWMAN: Easy, sir, easy. I've got you.
-LAFORGE: I'm all right, thanks. It looks like the navigational relay's
-overloaded. 

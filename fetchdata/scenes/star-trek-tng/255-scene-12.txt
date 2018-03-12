@@ -1,84 +1,71 @@
-SILVA LAFORGE PICARD HOLT RIKER CRUSHER DATA
+PICARD GUEST1 CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
-
-PICARD: Hello, Marcus. 
-HOLT [on monitor]: Jean-Luc. 
-PICARD: How's life on DS Three? 
-HOLT [on monitor]: We're hosting this year's palio. The Ferengi have
-already been accused of trying to bribe the Breen pilot into throwing
-the race. 
-PICARD: There's nothing unusual about that. 
-HOLT [on monitor]: Nothing at all. I wish I could say I was just
-calling to catch up on things. Nine days ago, the Hera left here on a
-routine courier mission. We were in contact with them for five of those
-days. Then the ship disappeared without a trace. 
-PICARD: The Hera? 
-HOLT [on monitor]: I'm afraid so. The Excelsior and the Noble have been
-retracing its course for the last seventy two hours. Nothing. I'm going
-to keep them at it for another seventy two. But to be honest, I don't
-think another week would make any difference. 
-PICARD: I'll inform Commander La Forge. 
 [Laboratory]
 
-PICARD: Mister Data, I'd like a word with Commander
-La Forge. 
-DATA: Aye, sir. I will be on the Bridge. 
+CRUSHER: Geordi, report. 
+[Raman Auxiliary control]
+
+LAFORGE: Hang on, Doctor. Why? Why do we have to go
+down to the surface? 
+GUEST1: We're dying. 
+LAFORGE: We? The Hera? You mean the Hera is down there? 
+CRUSHER [OC]: We're disconnecting you right now. 
+LAFORGE: No, wait. 
+GUEST1: We need your help. I need your help. Geordi 
+LAFORGE: Mom. 
+(Geordi touches her, and gets a big shock) 
+[Laboratory]
+
+DATA: The cut off has been automatically activated.
+
+CRUSHER: He's in neural shock.
+
+[Sickbay]
+
+CRUSHER: The sensory overload didn't cause any
+permanent damage, but I wouldn't want to expose his brain to that kind
+of stimulus again. 
+PICARD: Is there any indication what caused this hallucination? 
+CRUSHER: His brain functions are normal. 
+LAFORGE: I told you, I wasn't hallucinating. 
+DATA: Geordi, I have analysed the probe's sensor logs. There are no
+record to indicate the presence of a living human on board the Raman. 
+LAFORGE: Well she wasn't actually there. Her ship is down on the
+surface. 
+PICARD: So you believe that what you saw was some kind of transmission?
+
+LAFORGE: Somehow she has managed to communicate with me. 
+DATA: We have no indication of a transmission of any kind. 
+LAFORGE: Maybe I'm the only one who can detect it because I'm
+interfaced with the probe. 
+DATA: The probe does allow Geordi to sense quantum fluctuations,
+subspace anomalies, and other phenomenon not perceptible by any other
+kind of sensors. 
+PICARD: Granted, but how could he perceive his mother visually as if
+she were standing there in the room? 
+CRUSHER: I'm not sure, I do know that our brains weren't designed to
+process the kind of sensory information Geordi was getting. When the
+brain receives something it can't understand, it interprets the input
+as best it can, sometimes as a smell or a sound, sometimes visually. 
+LAFORGE: You see? 
+CRUSHER: But Geordi, I'm not saying that your mother was really
+communicating with you. I'm just trying to give you a reason why you
+might've thought that she was. 
+LAFORGE: Look, I'm telling you my mother's ship is trapped down there
+and we've got to help them. 
+PICARD: Geordi, the Hera's last reported location was three hundred
+light years away. How could it end up here? 
+DATA: If the Hera is on the surface, its hull could not possibly
+withstand the pressure of the atmosphere. 
+LAFORGE: Well at least let me go back down there just to be sure. 
+CRUSHER: I do not recommend that he use the interface again. The
+sensory overload almost killed you. 
+LAFORGE: I'll be all right. 
+PICARD: No, no, I'm sorry, Geordi. I'm not prepared to risk your life.
+Data, find another way of salvaging the Raman. I want an alternate plan
+in two hours. 
 (Data leaves) 
-PICARD: Geordi, I've just spoken with Starfleet. The Hera is missing. 
-LAFORGE: Missing? My mother? 
-PICARD: Captain La Forge has disappeared along with the rest of her
-crew. 
-[La Forge's quarters]
-
-(Geordi is watching an old letter) 
-SILVA [on monitor]: I saw your father last week and your sister about
-ten days before that. I decided I missed my favourite son. 
-LAFORGE: Your only son, Ma. 
-SILVA [on monitor]: You're going to have to see the Hera again. We've
-got a lot of new faces on board, including a Chief Engineer who juices
-up the nacelles every chance she gets. I think she's the best
-technician in the fleet. Okay, second best. 
-(doorbell) 
-LAFORGE: Come in. 
-RIKER: I'm sorry, I didn't know you were 
-LAFORGE: Don't worry about it. 
-SILVA [on monitor]: Maybe you should meet her. We're going to be in the
-same sector next week. Take a shuttle over and I'll introduce you. 
-LAFORGE: My mother's always trying to find me a wife. 
-SILVA [on monitor]: But if you're too busy, I'll see you at your
-father's birthday party. Remember, if you talk to him it's a surprise. 
-(message ends) 
-LAFORGE: This came in about three weeks ago. I never got back to her. 
-RIKER: Geordi, the probe has entered the planet's atmosphere and I'm
-ready to take it onto the ship. If you would like to take a couple of
-days off, I'll run the interface. 
-LAFORGE: The interface is calibrated specifically to my visor's inputs.
-It would take you at least ten hours to convert it, and those crewmen
-down there can't wait. 
-RIKER: The interface doesn't have to be fully compatible. I could run
-it right now. I wouldn't have the same control that you have, but it
-would still work. 
-LAFORGE: Forget it. I'm the best person for the job, and there's no
-reason why we shouldn't proceed as planned. 
-RIKER: The Hera is reason enough. 
-LAFORGE: The Hera is missing, that's all. Now until I hear something
-different, my mother might just as well have taken the crew on an
-unscheduled holiday. Let's go.
-
-[Bridge]
-
-RIKER: Captain, the probe is through the airlock
-and in position aboard the Raman. 
-PICARD: Picard to Commander Data. Report.
-
-[Laboratory]
-
-DATA: We are ready to bring the interface online,
-sir. 
-PICARD [OC]: Proceed. 
-DATA: Activating the remote sensors. Initiating interface now. 
-CRUSHER: Vital signs normal. Geordi, how do you feel? 
-LAFORGE: Fine. 
-DATA: Do you have visual contact? 
-LAFORGE: Not yet. 
+PICARD: Geordi, I'd like you to talk to Counsellor Troi. She's
+expecting you. 
+LAFORGE: Aye, sir. 

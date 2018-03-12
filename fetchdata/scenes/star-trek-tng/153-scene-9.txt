@@ -1,63 +1,39 @@
-TROI JEREMY LAFORGE PICARD RIKER DATA
+GUEST0 TROI JEREMY LAFORGE PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Worf's quarters]
+[Bridge]
 
-(Worf extinguishes a candle with a dagger blade)
+RIKER: Data, run comparison of known phenomena. 
+DATA: The pattern has no exact match in Federation records, sir. 
+PICARD: Is it alive? 
+DATA: A possibility. 
+LAFORGE [OC]: Captain, I'm getting an unusual magnetic flux reading
+from the anti-matter containment pods. 
+TROI: My God.
 
-[Turbolift]
+[Jeremy's quarters]
 
-TROI: I sense the weight of this duty on you,
-Captain. 
-PICARD: I really wonder. Halt. I've always believed that carrying
-children on a starship is a very questionable policy.
-Serving on a starship means accepting certain risks, certain dangers.
-Did Jeremy Aster make that choice? 
-TROI: Death and loss are an integral part of life everywhere. Leaving
-him on Earth would not have protected him. 
-PICARD: No, but Earth isn't likely to be ordered to the Neutral Zone,
-or to repel a Romulan attack, It was my command which sent his mother
-to her death. She understood her mission and my duty. Will he? 
-TROI: In time, and with help. Wesley Crusher does. He does. And so will
-Jeremy. 
-PICARD: Resume.
+(Jeremy is back to his happy memory movies) 
+JEREMY [OC]: Wait a minute, wait a minute. Okay, you've got ten seconds
+more, Mom. No peeking. Come on, Patches, in here. Shh. Okay, Mom, we're
+ready. 
+GUEST0 [on monitor]: Jeremy? I'm getting closer. Jeremy, I'm going to
+find you. You must be in here somewhere. 
+GUEST0: Jeremy!
+JEREMY: Mom?
 
-[Teacher's office]
+[Bridge]
 
-PICARD: Jeremy, I have some bad news. There has
-been an accident. Your mother has died. 
-JEREMY: How, sir? 
-PICARD: An explosive device at the mission site. She died instantly. 
-JEREMY: I understand. 
-TROI: Jeremy, I know your mother loved you very much. 
-PICARD: I'm told that your father is also dead. 
-JEREMY: Yes, sir. He died five years ago from a Rushton infection. I'm
-all alone now, sir. 
-PICARD: Jeremy, on the starship Enterprise, no one is alone. No one.
-
-[Ten forward]
-
-DATA: Excuse me, sir. Am I intruding? 
-RIKER: No, sit down. 
-DATA: How well did you know Lieutenant Aster? 
-RIKER: We spent some time together. Not very well. How well did you
-know her? 
-DATA: Why do you ask? 
-RIKER: Well, you just asked me. 
-DATA: But why do you ask the question? Since her death, I have been
-asked several times to define how well I knew Lieutenant Aster. And I
-heard you ask Wesley on the Bridge how well he knew Jeremy. Does the
-question of familiarity have some bearing on death? 
-RIKER: Do you remember how we all felt when Tasha died? 
-DATA: I do not sense the same feelings of absence that I associate with
-Lieutenant Yar, although I cannot say precisely why. 
-RIKER: Just human nature, Data. 
-DATA: Human nature, sir? 
-RIKER: We feel a loss more intensely when it's a friend. 
-DATA: But should not the feelings run as deep regardless of who has
-died? 
-RIKER: Maybe they should, Data. Maybe if we felt the loss of any life
-as keenly as we felt the death of those close to us, human history
-would be a lot less bloody. 
-LAFORGE [OC]: La Forge to Riker 
-RIKER: You're back, Geordi 
-LAFORGE [OC]: Yes, sir, and we've brought back a souvenir. 
+LAFORGE: All systems are functioning normally.
+Still, there's this fluctuation in the containment field. I can't
+account for it. 
+RIKER: Data, is this possibly related to the energy fields on the
+planet? 
+TROI: Captain 
+DATA: There is a beam of highly charged particles emanating from the
+planet, sir, but I cannot pinpoint the location yet. 
+TROI: Captain, there's a presence on the Enterprise. 
+PICARD: An alien presence? 
+DATA: No intruder noted by the sensors, sir. 
+TROI: There is a presence. 
+RIKER: Security, all decks yellow alert. Possible intruder. 

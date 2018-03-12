@@ -1,42 +1,54 @@
-RIKER OBRIEN WORF PICARD MENDON DATA KARGAN
+KLAG RIKER GUEST1 KARGAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Pagh corridor]
 
-WORF: Commander. 
-(He gives Riker a small metal tube) 
-RIKER: An emergency transponder? 
-WORF: Slightly altered to transmit an omnidirectional signal and an
-emergency call. 
-RIKER: You suspect trouble? 
-WORF: Simply a security precaution. I want to insure your return to
-this ship. 
-RIKER: Sentiment, Lieutenant Worf? 
-WORF: Efficiency, Commander. 
-RIKER: I understand. Thank you.
+(Riker is being escorted along a gloomy corridor) 
+RIKER: Is something wrong? 
+GUEST1: No. It's just I have never seen anyone of your species before 
+RIKER: I'm just an average, everyday human who happens to be a
+Commander. Now, what were your orders? 
+GUEST1: To escort you to the Captain. 
+RIKER: Proceed. 
+GUEST1: Yes, Commander. 
+[Pagh Bridge]
 
-[Bridge]
+(The Bridge is also dimly lit with red light.
+Support struts form obstacles) 
+RIKER: Commander William Riker of the Starship Enterprise. 
+KARGAN: That is incorrect. 
+RIKER: I don't understand. 
+KARGAN: You are Commander William Riker, First Officer of the Klingon
+cruiser, the Pagh. Or do you intend to disobey Federation orders? 
+RIKER: I have no such intention, sir. 
+KARGAN: Exactly where are your loyalties, Commander? 
+RIKER: I'm afraid I still don't understand, sir. 
+KARGAN: This ship is equipped with our best weapons and our finest
+warriors. Although we are on a peaceful mission, we are ready to go
+into battle instantly. I know I can count on every Klingon warrior in
+this crew to serve and die in that battle. So I ask you again,
+Commander Riker. Where are your loyalties? 
+RIKER: I have been assigned to serve this ship and to obey your orders.
+And I will do exactly that. 
+KARGAN: Will you take an oath to that effect? 
+RIKER: I just did. 
+KLAG: (in Klingon) Do not believe him! He lies! 
+KARGAN: (in Klingon) Speak in their language. This is your Second
+Officer, Lieutenant Klag. 
+RIKER: Is there something you wanted to say to me, Lieutenant? 
+KLAG: Yes sir. I do not believe you. 
+RIKER: Then I take it you challenge my authority over you. 
+KLAG: Correct. 
+RIKER: And your position on this, Captain? 
+KARGAN: I would say it your first command decision. 
+(Riker looks around and thumps Klag in the stomach before throwing him
+on the floor, then kicking him down before he can get up again, and
+finally ramming his head into a computer panel. Lots of sparks. Kargan
+laughs)
+RIKER: My oath is between Captain Kargan and myself. Your only concern
+is with how you obey my orders. Or do you prefer the rank of prisoner
+to that of Lieutenant? 
+KLAG: I will take your orders. 
+KARGAN: And you, Commander Riker, will obey my orders. 
+RIKER: Of course, Captain Kargan.
 
-WORF: We have a Klingon vessel approaching. 
-PICARD: Hailing frequencies. 
-WORF: Open. They are returning our hail in proper language. It is the
-Pagh. 
-PICARD: On viewscreen. I'm Captain Picard of the Enterprise. 
-KARGAN [on viewscreen]: This is Captain Kargan of the Klingon vessel,
-the Pagh. Beam your First Officer on board immediately. 
-PICARD: We are preparing to do so. And, Captain, you're getting a fine
-officer. 
-KARGAN: Thank you for your opinion, but I will judge that for myself.
-Screen off. 
-MENDON: Not very hospitable, are they? 
-WORF: That is not your concern. Observe your station, Ensign Mendon. 
-MENDON: Didn't mean to offend you. 
-WORF: You didn't. Yet. 
-(Mendon's duty station has a scan of the Pagh. The computer has
-detected something on the hull. Mendon puts in a command - Request
-substance analysis. Answer - inconclusive. Category - Microbiotic
-colony. Bacterial colony. Subatomic. Life form analysis - inconclusive)
-
-PICARD: Transporter, prepare to beam Commander Riker aboard the Pagh. 
-O'BRIEN [OC]: Acknowledged, Captain. 
-PICARD: Mister Data, you have the Bridge. 
-DATA: Aye, sir. 

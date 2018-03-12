@@ -1,31 +1,5 @@
-RIKER WORF JELLICO SOLDIER PICARD CRUSHER
-
-[Holodeck caves]
-
-(black-clad Worf and Beverly run along a tunnel
-then set a forcefield to protect their rear. A Cardassian soldier
-confronts them) 
-SOLDIER: Halt! 
-PICARD: Computer, freeze programme. You were five seconds slower that
-time. 
-WORF: You increased the difficulty level, sir. 
-PICARD: Mister Worf, it's going to be far more difficult where we're
-going. 
-CRUSHER: Which is where exactly? 
-PICARD: I'm sorry, I can't tell you that yet. 
-WORF: It would be helpful to know something about our mission. 
-PICARD: Mister Worf, I have my orders. I'm sure you understand that.
-Now Doctor, this deflector wasn't set properly. It must be positioned
-so that the emitter array blocks the entire passageway, or it's
-useless. 
-CRUSHER: Sorry. I was concentrating on getting away from the last
-Cardassian. Or maybe it was the falling rocks. 
-PICARD: I understand this is difficult. All I can do is ask you to
-trust me. 
-CRUSHER: All right, let's do it again. 
-PICARD: All right, Mister Worf. I want you to time the Doctor and me
-through that first tunnel. And this time we're going to pick up those
-five seconds.
+JELLICO RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
@@ -37,4 +11,24 @@ RIKER: Thank you. And I you.
 JELLICO: I'm sure this change in command has taken everyone a little by
 surprise. 
 RIKER: Well, yes, sir.
+
+[Corridor]
+
+JELLICO: It caught me by surprise too. I must
+admit, I miss the Cairo already. But a Galaxy class ship, that's
+something special. I can understand why you turned down a ship of your
+own to remain aboard. 
+RIKER: Yes, sir. 
+JELLICO: How many duty watches does the crew stand? 
+RIKER: We've a standard three shift rotation. 
+JELLICO: I'd like to change that to four starting tonight. I'd also
+like to examine the duty roster and the crew evaluations as soon as
+possible. I want readiness reports from each department head by
+fourteen hundred hours, and a meeting of the senior staff at fifteen
+hundred. Do you prefer Will or William? 
+RIKER: Er, Will, sir. 
+(Jellico steps into a turbolift) 
+JELLICO: Where are my quarters, Will? 
+RIKER: We have you assigned to cabin seven thirty five. Deck si 
+JELLICO: Deck seven. I'll see you at thirteen hundred hours.
 

@@ -1,30 +1,5 @@
-PICARD RIKER
-
-[Ready room]
-
-PICARD: Come. 
-(Riker enters) 
-PICARD: Fermat's last theorem. You're familiar with it? 
-RIKER: Vaguely. I spent too many math classes daydreaming about being
-on a starship. 
-PICARD: When Pierre de Fermat died they found this equation scrawled in
-the margin of his notes. X to the nth plus Y to the nth equals Z to the
-nth, where n is greater than 2, which he said had no solution in whole
-numbers. But he also added this phrase.
-Remarkable proof. 
-RIKER: Yeah, that's starting to come back to me. There was no proof
-included. 
-PICARD: For the eight hundred years people have been trying to solve
-it. 
-RIKER: Including you. 
-PICARD: I find it stimulating. Also, it puts things in perspective. In
-our arrogance we feel we are so advanced, and yet we cannot unravel a
-simple knot tied by a part-time French mathematician working alone,
-without a computer. 
-RIKER: Captain, we've detected some sort of debris in a loose orbit. 
-PICARD: Can you identify it? 
-RIKER: No, sir. I suggest we beam a section aboard for analysis. 
-PICARD: Make it so, Number One.
+WESLEY RIKER DATA TROI PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
@@ -38,3 +13,21 @@ behold, a US flag and the letters NASA. The camera drools over it
 lovingly. Why couldn't it be ESA for once?) 
 PICARD: We've got ourselves a puzzle, Number One. 
 RIKER: Yes sir. I think we have. 
+[Observation lounge]
+
+DATA: Analysis bears out that the object was
+definitely terrestrial in origin, dated mid twenty first century. 
+PICARD: No, no. No Earth ship of that time could have travelled out
+this far. 
+DATA: Nevertheless, that is what our tests indicate. And the markings
+we discovered are consistent with this hypothesis. 
+TROI: Any indication of what destroyed it, Data? 
+DATA: That is even more significant than the object itself, Counsellor.
+On several of its surfaces, the molecules seem to have disintegrated 
+RIKER: Disintegrated? How? 
+DATA: Almost as if they were hit by a weapon from our time. 
+PICARD: Curiouser and curiouser. 
+(Alice's
+Adventures in Wonderland, if you needed reminding.) 
+WESLEY [OC]: Captain, we've detected a large structure on the planet.
+

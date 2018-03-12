@@ -1,70 +1,48 @@
-RIKER WORF PICARD WAKASA WESLEY JACK SECURITY
+RIKER CREWMAN PICARD GUEST3 GUEST6 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Village]
+[Bridge]
 
-(the fire is still between Wesley and the figure) 
-JACK: Wesley. 
-WESLEY: Dad? 
-JACK: You've reached the end, Wesley. 
-WESLEY: The end of what? 
-JACK: This journey. The one you started a long time ago, when I left
-you and your mother. 
-WESLEY: You mean when you died. 
-JACK: You set out on a journey that wasn't your own. Now it's time to
-find a path that is truly yours. Don't follow me any further. 
-WESLEY: I don't understand. 
-JACK: Yes, you do. It's just hard for you to accept. Goodbye, Wesley,
-and good luck. 
-WESLEY: Dad, wait!
-
-[Habak]
-
-(the fire has gone out)
-
-[Village]
-
-WORF: Mister Crusher. Are you all right? 
-WESLEY: Yeah, Worf, I'm fine. 
-WORF: (to security woman) Lay out a confinement beam trace along the
-southeastern side of the village. Be discreet. We do not wish to alarm
-these people. 
-SECURITY: Yes, sir. 
-WESLEY: Worf, what are you doing? 
-WORF: We are laying out transporter coordinates for a security
-perimeter. It may be necessary to remove these people by force. 
-WESLEY: Worf, we can't do this. These people deserve better than to be
-removed from their homes. 
-WORF: I understand, but now is not the time or the place to 
-WESLEY: (shouts) Do you know what they're trying to do? They're
-preparing to beam you away and take you to their ship. You're not going
-to let them do that, are you? 
-WAKASA: No, we won't. Leave now.
-
+(Red alert) 
+RIKER: The Cardassian ship is powering its weapons and it's
+transporters. 
+GUEST6 [OC]: This is the Vetar to Gul Evek. Our troops are under attack.
+They're requesting immediate assistance. What are your orders? 
+PICARD: Evek, the last war caused massive destruction and cost millions
+of lives. Don't send our two peoples back down that same path again.
+Not like this. Now the future lies in your hands right now. Give us one
+last chance for peace. 
+GUEST6 [OC]: Gul Evek! What are your orders? Can we open fire? 
+GUL EVEK: Evek to the Vetar. Lock on to our troops on the surface and
+beam them aboard. 
+GUEST6 [OC]: But, sir, they've been fired upon. 
+GUL EVEK: Those are my orders! Carry them out. 
+GUEST6 [OC]: Yes, sir. 
+PICARD: Beam up the away team immediately. 
+CREWMAN: Aye, sir. 
+GUL EVEK: I lost two of three sons in the war, Captain. I don't want to
+lose the last one. 
 [Observation lounge]
 
-PICARD: Inexcusable. You defied the orders of the
-ranking officer on the scene. You put the lives of the entire away team
-in jeopardy, and you made an already tense situation worse. Your
-actions reflect very badly on this ship and on that uniform. Now, I
-want an explanation, Mister Crusher, and I want it now. 
-WESLEY: What you're doing down there is wrong. These people are not
-some random group of colonists. They're a unique culture with a history
-that predates the Federation and Starfleet. 
-PICARD: That does not alter the fact that my orders are to 
-WESLEY: I know Admiral Necheyev gave you an order, and she was given an
-order from the Federation Council. But it's still wrong. 
-PICARD: That decision is not yours to make, Cadet. I don't know what
-has got into you lately, and frankly right now I don't care. But I will
-tell you this. While you wear that uniform, you will obey every order
-you're given and you will conform to Starfleet regulations and rules of
-conduct. Is that clear? 
-WESLEY: Yes, sir, it is. But I won't be wearing this uniform any
-longer. I'm resigning from the Academy. 
-(Wesley puts his comm. badge on the table and leaves) 
-RIKER [OC]: Riker to Captain. 
-PICARD: Go ahead, Number One. 
-RIKER [OC]: Gul Evek wants to meet with you to discuss the situation on
-the surface. 
-PICARD: Let him come aboard. I'll see him in here. 
-RIKER [OC]: Aye, sir.
+PICARD: Anthwara, I want to make absolutely sure
+that you understand the implications of this agreement. By giving up
+your status as Federation citizens, any future request you or your
+people make to Starfleet will go unanswered. You will be on your own
+and under Cardassian jurisdiction. 
+GUEST1: I understand, Captain. And we are prepared to take that risk.
+Will the Cardassian government honour your agreement here? 
+GUL EVEK: I believe I can convince them that this is an equitable
+solution. I cannot speak for every Cardassian you may encounter, but if
+you leave us alone I suspect that we will do the same. Will this be
+acceptable to the Starfleet Command? 
+PICARD: It will not be easy, but with Admiral Necheyev's support, I
+think they will go along with it in the end. 
+GUL EVEK: Then if there's nothing else, I will return to my ship. I
+have a rather long report to write. Captain. Anthwara. 
+(Evek leaves) 
+GUEST1: I was right, Captain. You did not take us from our land and
+you have wiped clean a very old stain of blood.
 
+Captain's log, stardate 47755.3. The Enterprise is
+preparing to leave Dorvan Five, but former cadet Wesley Crusher will be
+staying behind. 

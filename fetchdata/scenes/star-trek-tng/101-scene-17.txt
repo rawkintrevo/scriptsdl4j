@@ -1,89 +1,55 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA
+WORF PICARD WESLEY GUEST5 SECURITY CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Battle bridge]
-
-DATA: They say you will be doing this manually,
-sir. No automation. 
-RIKER: As ordered. 
-(They approach the saucer from astern, of course) 
-RIKER: Velocity to one half metre per second. Adjust pitch angle,
-negative three degrees. Watch your roll angle, conn. All stations,
-prepare for reconnection. Thrusters to station keeping. All velocity
-zero. Her inertia should do the job now. Lock up now. 
-(The clamps rise and the two parts of the ship meet again) 
-[Ready room]
-
-PICARD: A fairly routine manoeuvre but you handled
-it quite well. 
-RIKER: Thank you, sir. I hope I showed some promise. 
-PICARD: I do have some questions for you though.
-RIKER: Yes, sir, I thought you might. 
-PICARD: I see in your file that Captain DeSoto thinks very highly of
-you. One curious thing, however, you refused to let him beam down to
-Altair Three. 
-RIKER: In my opinion, sir, Altair Three was too dangerous to risk
-exposing the Captain. 
-PICARD: I see. A Captain's rank means nothing to you. 
-RIKER: Rather the reverse, sir. But a Captain's life means a great deal
-to me. 
-PICARD: Isn't it just possible that you don't get to be a Starfleet
-Captain without knowing whether it's safe to beam down or not? Isn't it
-a little presumptuous of a first officer to second guess his captain's
-judgment? 
-RIKER: Permission to speak candidly, sir? 
-PICARD: Always. 
-RIKER: Having been a first officer yourself, you know that assuming
-that responsibility must by definition include the safety of the
-captain. I have no problem with following any rules you lay down, short
-of compromising your safety. 
-PICARD: And you don't intend to back off that position? 
-RIKER: No, sir, 
-PICARD: One further thing. A special favour. 
-RIKER: Anything, sir. 
-PICARD: Using the same kind of strength you showed with Captain DeSoto,
-I would appreciate it if you can keep me from making an ass of myself
-with children. 
-RIKER: Sir? 
-PICARD: I'm not a family man, Riker, and yet, Starfleet has given me a
-ship with children aboard. 
-RIKER: Yes, sir. 
-PICARD: And I don't feel comfortable with children. But, since a
-captain needs an image of geniality, you're to see that's what I
-project. 
-RIKER: Aye, sir. 
-PICARD: Welcome to the Enterprise, Commander Riker. 
-[Sickbay]
-
-CRUSHER: Naturally I've heard of your case. The
-visor implants you wear 
-LAFORGE: Is a remarkable piece of bio-electronic engineering by which I
-quote see much of the EM spectrum ranging from simple heat and infrared
-through radio waves et cetera, et cetera, and forgive me if I've said
-and listened to this a thousand times before. 
-(Without the Visor, Geordi La Forge's eyes are white sightless orbs,
-and he has flashing red lights at his temples) 
-CRUSHER: You've been blind all your life? 
-LAFORGE: I was born this way. 
-CRUSHER: And you've felt pain all the years that you've used this? 
-LAFORGE: They say it's because I use my natural sensors in different
-ways. 
-CRUSHER: Well, I see two choices. The first is painkillers. 
-LAFORGE: Which would affect how this works. No. Choice number two? 
-CRUSHER: Exploratory surgery. Desensitise the brain areas troubling
-you. 
-LAFORGE: Same difference. No, thank you, Doctor. 
-CRUSHER: I understand. 
-LAFORGE: See you. 
 [Bridge]
 
-(Riker enters) 
-WORF: Yes sir? 
-RIKER: Where will I find Commander Data? 
-WORF: Commander Data is on special assignment, sir. He's using our
-shuttlecraft to transfer an admiral over to the Hood. 
-RIKER: An admiral? 
-WORF: He's been aboard all day, sir, checking over medical layout. 
-RIKER: Why a shuttlecraft? Why wouldn't he just beam over? 
-WORF: I suppose he could, sir, but the Admiral's a rather remarkable
-man.
-
+(The turbolift doors open, and Wesley is standing
+there) 
+PICARD: Children are not allowed on the Bridge. 
+(Crusher appears from where she was hiding) 
+CRUSHER: Permission to report to the captain 
+PICARD: Doctor Crusher. 
+CRUSHER: Captain. Sir, my son is not on the Bridge. He merely
+accompanied me on the turbolift. 
+PICARD: Your son? 
+CRUSHER: His name's Wesley. You last saw him years ago when 
+PICARD: Well, as long as he's here. I knew your father, Wesley. Want a
+look around? 
+(Wesley steps onto the Bridge) 
+PICARD: But don't touch anything! Try it out. (the captain's chair) The
+panel on your right is for log entries, library computer access and
+retrieval, viewscreen control, intercoms, and so on. Here we have 
+WESLEY: And here, the backup conn and ops panels, plus shield and
+armoury controls. 
+PICARD: The forward viewscreen is controlled from the ops position
+there 
+WESLEY: Which uses high resolution, multi-spectral imaging sensor
+systems 
+PICARD: How the hell do you know that, boy? 
+WESLEY: Perimeter alert, Captain! 
+CRUSHER: Wesley! 
+WESLEY: I'm sorry. 
+CRUSHER: You shouldn't have touched anything 
+PICARD: Off the bridge! Both of you. 
+WORF: You have a perimeter alert, sir. 
+CRUSHER: As my son tried to tell you! 
+(Crusher and Wesley step back into the turbolift) 
+PICARD: Picard. Go ahead. 
+SECURITY [OC]: Ship's sensors have detected the presence of a vessel
+approaching this planet. No ship is scheduled to arrive at this time,
+sir. 
+PICARD: Have Commander Riker and his team beam back up. Security, could
+that be the Hood returning here? 
+SECURITY [OC]: The vessel does not match the Hood's configuration or ID
+signal. 
+PICARD: Put it on main viewer. Identification? 
+WORF: Vessel unknown, configuration unknown, sir. 
+(It looks like a classic flying saucer) 
+PICARD: Hail it. 
+WORF: We've been trying, sir. No response. 
+PICARD: Raise all shields, phasers at ready. 
+WORF: Shields up, sir. Phasers ready. 
+PICARD: Get me Groppler Zorn. And continue universal greetings on all
+frequencies. 
+GUEST5 [OC]: This is Zorn, Captain. 
+PICARD: Zorn, an unidentified vessel has entered into orbit with us. 

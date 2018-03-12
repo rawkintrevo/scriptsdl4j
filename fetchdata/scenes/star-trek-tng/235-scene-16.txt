@@ -1,151 +1,43 @@
-FARALLON LAFORGE WORF PIERSON COMPUTER CRUSHER DATA
+RIKER FARALLON DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Bridge]
 
-(they wire up the exocomp to a wall display) 
-FARALLON: The exocomp came out of the plasma conduit. We tried to
-override the commands and send it back in, but it just shut down. It's
-been completely unresponsive ever since. 
-LAFORGE: Well, let's see what our computer has to say. 
-DATA: Geordi, the interface circuitry which links the exocomp to the
-control pad is completely burned out. 
-LAFORGE: That's strange. is there any evidence of secondary power
-surges? 
-DATA: No. 
-LAFORGE: But what's going on there? Data, increase the magnification of
-section gamma four. 
-DATA: Interesting. The number of new circuit pathways has increased by
-six hundred thirty two percent. 
-FARALLON: Oh, no. 
-LAFORGE: What is it? 
-FARALLON: Sometimes an exocomp starts forming large numbers of new
-pathways totally at random. Eventually, it reaches a point where it
-shuts down. Just like this one. 
-DATA: Doctor, the new pathways do not appear to be interfering with the
-original circuitry. 
-FARALLON: Once the exocomp is this badly corrupted, it's useless. You
-have to erase the unit and start all over again, and there's no time
-for that now. 
-LAFORGE: That leaves you with only two. It's going to slow you down. 
-FARALLON: Yes, Commander. You have the right to point out that you told
-me so. 
-LAFORGE: I only wanted to say that we'd be happy to add on an extra
-shift to pick up the slack. 
-FARALLON: I'm sorry. I guess I'm touchy these days. 
-LAFORGE: It's okay. You've got a lot on your shoulders. 
-FARALLON: Well, I'd better get back to it. Thanks, Commander. 
-(Farallon leaves) 
-LAFORGE: I feel sorry for her. This project has had nothing but
-problems. Why did that plasma conduit explode? 
-DATA: Apparently there was a micro-fracture in the conduit wall. The
-fault did not register on our instruments. 
-LAFORGE: I guess it's a good thing the exocomp malfunctioned. Almost
-seems like it knew just when to leave. 
-DATA: Geordi, are you implying the exocomp exhibited some form of
-self-preservation? 
-LAFORGE: Of course not. 
-PIERSON [OC]: Lieutenant Pierson to Commander La Forge. Sir, could you
-join us in the systems monitor room? 
-LAFORGE: On my way.
-
-[Data's quarters]
-
-DATA: Computer perform a level one diagnostic of
-the exocomp's command module. 
-COMPUTER: The command pathways are functioning normally. 
-DATA: How can that be, if the interface circuitry is burned out? 
-COMPUTER: The interface circuitry has been repaired. 
-DATA: Curious. Computer, access the exocomp's sensor logs. Confirm that
-there was a failure of the interface circuitry within the last twelve
-hours. 
-COMPUTER: Confirmed. Interface failure occurred at eleven hundred fifty
-hours today, when the exocomp produced a power surge which burned out
-the linkage. 
-DATA: How and when was it repaired? 
-COMPUTER: The exocomp activated a self-repair programme at thirteen
-hundred forty hours. 
-DATA: Why would the exocomp burn out its own interface circuitry and
-repair it two hours later? 
-COMPUTER: Unknown.
-
-[Ten Forward]
-
-LAFORGE: Here you are. I thought you'd be hard at
-work by now. 
-FARALLON: I wanted a quiet cup of tea before I went back. Gathering
-strength, I guess. 
-LAFORGE: I've come to tell you I've assigned two engineering teams to
-work on the particle fountain. 
-FARALLON: Thank you, Commander. I'm grateful. 
-LAFORGE: You know, I really want you to know that I do admire the work
-that you've done. And I'm sorry the exocomps aren't working out. 
-FARALLON: You were right. I'm trying to move too fast. I guess I lack
-that conservative streak most scientists have. I always seem to be out
-there on the edge, taking chances. 
-LAFORGE: You know, I'll bet you were the kind of little girl who was
-always climbing one branch higher than the other kids. 
-FARALLON: Anything to get to the top of the tree. 
-LAFORGE: And I bet you never fell. 
-FARALLON: Oh, no I fell all the time. Usually breaking a bone in the
-process. I just never let it stop me. 
-LAFORGE: Well, if it comes down to sheer determination, I know you'll
-get this particle fountain built. 
-FARALLON: You're right about that, Commander. I've spent the last six
-years of my life on this project. It's the first thought I have when I
-wake up, and the last before I go to bed. Whatever it takes to prove
-this technology, I'll do it.
-
-[Sickbay]
-
-(Crusher is making repairs to her own right arm) 
-WORF: Doctor, if you wish to master the bat'telh sword, you must learn
-to strike and avoid in the same motion. 
-CRUSHER: I almost got in under your guard, Worf. 
-WORF: Almost. 
-CRUSHER: Well, I'll keep that in mind next lesson. 
-(Data enters) 
-DATA: Doctor, are you injured? 
-CRUSHER: Only my pride, Data. (to Worf) Thanks. 
-(Worf leaves) 
-DATA: Doctor, what is the definition of life? 
-CRUSHER: (pause) That is a big question. Why do you ask? 
-DATA: I am searching for a definition that will allow me to test an
-hypothesis. 
-[Crusher's office]
-
-CRUSHER: Well, the broadest scientific definition
-might be that life is what enables plants and animals to consume food,
-derive energy from it, grow, adapt themselves to their surroundings and
-reproduce. 
-DATA: And you suggest that anything which exhibits these
-characteristics is considered alive? 
-CRUSHER: In general, yes. 
-DATA: What about fire? 
-CRUSHER: Fire? 
-DATA: Yes. It consumes fuel to produce energy, it grows, it creates
-offspring. By your definition, is it alive? 
-CRUSHER: Fire is a chemical reaction. You could use the same argument
-for growing crystals, but obviously we don't consider them alive. 
-DATA: And what about me? I do not grow. I do not reproduce. I am
-considered to be alive. 
-CRUSHER: That's true, but you are unique. 
-DATA: I wonder if that is so. 
-CRUSHER: Data, if I may ask. Have a seat. What exactly are youe getting
-at? 
-DATA: I am curious as to what transpired between the moment when I was
-nothing more than an assemblage of parts in Doctor Soong's laboratory,
-and the next moment, when I became alive. What was it that endowed me
-with life? 
-CRUSHER: I remember Wesley asking me a similar question when he was
-little, and I tried desperately to give him an answer, but everything I
-said sounded inadequate. Then I realised that scientists and
-philosophers had been grappling with that question for centuries
-without coming to any conclusion. 
-DATA: Are you saying the question cannot be answered? 
-CRUSHER: No, I think I'm saying that we struggle all our lives to
-answer it, but it's the struggle that's important. That's what helps us
-to define our place in the universe. 
-DATA: I believe I understand, Doctor. 
-CRUSHER: I don't think I've been very much help, Data. 
-DATA: On the contrary, you have been a great deal of help. Thank you.
+DATA: A force field was activated on the station a
+few moments ago. It is possible that Commander La Forge has established
+a low intensity deflector field. 
+RIKER: It won't last long in that radiation. 
+DATA: No, sir. My readings indicate that it will fail in approximately
+twenty two minutes. 
+(Farallon enters) 
+RIKER: Okay, we've got twenty two minutes. I want some options. 
+WORF: Can we send a shuttlecraft to evacuate them? 
+FARALLON: We'd never get there in time. 
+RIKER: Then we need to shut down the particle fountain. What if we
+detonated a low yield photon torpedo within the particle stream?
+Wouldn't that shut it down? 
+FARALLON: We'd have to configure the torpedo very carefully. The shape
+of the shock wave would be critical. But it could work. 
+RIKER: How long would it take to set that up? 
+DATA: I estimate that it would take a minimum of sixty five minutes to
+properly configure the torpedo. 
+RIKER: We don't have that kind of time. 
+FARALLON: Commander, maybe the exocomps can help us. I can programme
+their boridium power cells to explode on command. They can be
+configured just like a photon torpedo, but it would only take a couple
+of minutes. 
+DATA: Commander. I must object to that plan. 
+RIKER: Data, we've been through this. We tested the exocomp and it
+failed. 
+DATA: Doctor Crusher and I discovered that the exocomp did not fail the
+test. It is still my belief we are dealing with a new life form. 
+RIKER: Mister Data, you know how much I respect your judgment, but I
+can't risk the Captain and Geordi on the basis of your belief. Prepare
+the exocomp, Doctor. 
+DATA: Commander, if I am correct, the exocomps will not allow
+themselves to be destroyed. They have a sense of survival, and they
+will shut down before they will comply with the order. 
+FARALLON: I could disconnect their command pathways before I programme
+them. 
+RIKER: Do it.
 

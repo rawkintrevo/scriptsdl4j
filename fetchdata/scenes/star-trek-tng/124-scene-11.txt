@@ -1,44 +1,43 @@
-PICARD RIKER DATA CHIEF
+PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
-
-RIKER: What was that? 
-DATA: I believe what could be termed the Manheim Effect is becoming
-more pronounced. 
-RIKER: This is where we started, if we are us. 
-DATA: Oh, we are us, sir, but they are also us. So indeed, we are both
-us at different points along the same time continuum. 
-(A turbolift arrives, they look inside and enter) 
-PICARD: Bridge. 
-[Ready room] 
-PICARD: What have you learned? 
-DATA: We have completed a scan of the planet surface. 
-RIKER: We've discovered the second lab is on the far side of the
-planet, completely destroyed. Unable to determine what caused it.
-Otherwise, very little to clarify the situation. 
-DATA: Our sensors show an immense volume of energy emanating deep
-within the planet, and concentrated near Manheim's remaining
-laboratory. 
-PICARD: How is the energy being used. 
-RIKER: No idea. 
-PICARD: What's it's source? 
-DATA: I cannot be sure, sir, but I believe Manheim has developed a
-method for harnessing energy from the pulsar. 
-RIKER: It comes down to this, Captain. We've learned everything we can
-from here, and we are no closer to understanding it than we were twelve
-hours ago. Manheim is unable to help us, but hopefully, having been a
-good scientist, he kept notes. 
-DATA: I would need to study Manheim's records. 
-RIKER: And in order to do that we're going to have to go down there. 
-PICARD: What about the defence system Mrs. Manheim spoke of? 
-RIKER: It may have been connected to the main system, and when she
-lowered the shield she may have turned that off as well. If not, we'll
-deal with it as best we can. 
-PICARD: Prepare your team. 
-RIKER: Aye, sir. 
 [Transporter room]
 
-RIKER: Coordinates set? 
-CHIEF: Yes, sir.
-RIKER: Energise. 
-CHIEF: There's a lack of integrity at the landing point. 
+LAFORGE: All right. We have the coordinates exactly
+as the Professor specified. 
+[Vandor corridor]
+
+(Data arrives safely) 
+DATA: Enterprise. 
+PICARD [OC]: Picard. 
+DATA: I am proceeding to the lab, sir. 
+PICARD [OC]: Maintain an open frequency, Mister Data. 
+DATA: Aye, sir. 
+(Then he has to dodge a laser beam and take out the emitters)
+
+[Bridge]
+
+ PICARD: Mister Data, what's going on? 
+[Vandor corridor]
+
+DATA: Doctor Manheim forgot to mention one of his
+security precautions, sir. I am proceeding into the laboratory. 
+[Laboratory]
+
+(The code works, but the fluorescent tubes only
+open part way. Data enters cautiously. In the centre is a distortion)
+PICARD [OC]: Mister Data, this channel will remain open. Please
+continue to report. 
+DATA: This appears to be the instrument Doctor Manheim described. It
+should confirm when the next time effect will occur. 
+RIKER [OC]: Data?
+
+[Bridge]
+
+RIKER: Did Manheim give you enough information to
+decipher the security code? 
+[Laboratory]
+
+DATA: I will know in a moment, sir. According to
+calculations, the next time effect will occur in one minute thirty
+seconds. 

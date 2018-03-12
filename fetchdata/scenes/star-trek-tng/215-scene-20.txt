@@ -1,51 +1,50 @@
-TROI OBRIEN WORF PICARD RIKER RO DATA
-
-[Ready room]
-
-TROI: I've never felt anything like it. It was as
-though they were calling to me. 
-PICARD: Are you saying someone was communicating telepathically? 
-TROI: Perhaps, for an instant. It was like their voices were being
-carried on the wind. 
-PICARD: What were they trying to communicate? 
-TROI: I'm not sure, but they were calling me to the southern polar
-region. I believe that's where we should look for the Essex. 
-[Bridge]
-
-RO: Commander, did you override my orbital heading?
-
-RIKER: Override them? 
-RO: We've moved into a polar orbit and I'm locked out. The helm isn't
-responding. 
-RIKER: Do you know anything about this, Mister Data? Data? 
-(Riker touches Data's shoulder, and Data thumps him in the chest) 
-RIKER: Security to the Bridge! 
-(O'Brien disarms Worf and pushes him over the railing and the Captain's
-chair. Ro shoots at O'Brien but misses, so he shoots her) 
-RIKER: Computer, transfer command to Engineering. Full security alert! 
-(O'Brien shoots Riker. Data fails to override Riker's last command and
-thumps the blank console in frustration) 
-(In the Ready room, Troi knocks out Picard, then enters the Bridge) 
-O'BRIEN: This way! 
-TROI: What happened? 
-DATA: He would not move to a polar orbit. 
-TROI: You couldn't wait? The Captain would have done it for me. 
-[Turbolift]
-
-O'BRIEN: Deck thirty six. Engineering.
+TROI OBRIEN LAFORGE PICARD RIKER SECURITY RO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Computer, re-enable Bridge control. Security
-protocol, Riker omega Three. 
-PICARD: Report. 
-RIKER: Data, O'Brien and Troi tried to commandeer the ship. 
-WORF: They're in turbolift four. Engaging override controls now. 
-[Turbolift]
+RIKER: Security teams, stand by. 
+RO: They're heading through section five. 
+[Deck 10 Corridor]
 
-(the lift jerks to a halt) 
-DATA: They've trapped us. 
-TROI: What deck is this? 
-O'BRIEN: We're on deck ten. 
-TROI: Can you move us again? 
-O'BRIEN: I know how to override the bridge command. 
+(Past the watchful eyes of security guards, the
+group get into a turbolift)
+
+[Bridge]
+
+RIKER: Mister La Forge, Doctor, they'll be at their
+destination in less than a minute. 
+RO: They've stopped at deck eighteen, sir. 
+RIKER: Security, allow them access into cargo bay four. 
+SECURITY [OC]: Aye, sir.
+
+[Cargo bay]
+
+O'BRIEN: I will require assistance. 
+PICARD: Captain Shumar, how do you intend to achieve this rest that you
+so desire? 
+TROI: What do you mean? 
+PICARD: Well, how do you intend to free yourselves of this existence
+that has so trapped your consciousness? 
+TROI: It will fade as we move further from this planet. 
+PICARD: Really? What is your scientific basis for that? 
+TROI: I don't need a scientific basis. Just be quiet. 
+PICARD: Captain Shumar, when are you going to tell me who you really
+are? 
+O'BRIEN: I've initialised the transporter signal. 
+TROI: Proceed.
+
+[Bridge]
+
+RO: They're powering up the transporter, Commander.
+
+RIKER: Mister LaForge. 
+LAFORGE: I've isolated cargo bay four with a neutrino field, sir, but
+it'll only take Data and O'Brien a couple of minutes to override it,
+once they discover that it's there. 
+RIKER: I hope that'll give the Captain enough time to play his hand. 
+RO: Do you know what he's going to do? 
+RIKER: There's only one reason he chose cargo bay four. If it becomes
+necessary, Ensign, you will blow the cargo bay hatch on my orders. 
+RO: Yes, sir.
+

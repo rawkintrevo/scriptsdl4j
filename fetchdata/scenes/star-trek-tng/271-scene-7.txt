@@ -1,38 +1,48 @@
-TROI BARCLAY LAFORGE WORF RIKER
-
-[Engineering]
-
-BARCLAY: We removed the torpedo bay's primary
-guidance module and found a power fluctuation in the forward sensor
-cluster. Now we think it may be a radial imbalance in the phase
-discriminator. Now what we want to do next is run a level four
-diagnostic, but we're going to have to shut down auxiliary power to
-nineteen decks and 
-RIKER: Wait a minute. Slow down. I lost you back there. Which sensor
-clusters? 
-BARCLAY: The forward. It's, it's a power fluctuation in the converter
-nodes. It's a minor adjustment. It's minor. 
-LAFORGE: It's all right in here in on diagram, Commander. 
-RIKER: I'll look this over later. Go ahead. You run your diagnostic.
-I'll inform the other departments about the power systems. 
-(an alarm beeps) BARCLAY: I'll check that. 
-RIKER: He's full of energy today. 
-LAFORGE: I can't get him to slow down. He's been working like that
-since last night, 
-BARCLAY: Looks like a plasma conduit cut out in junction seventeen.
-I'll go look at it. 
-LAFORGE: Wait a minute, Reg, I'll go with you. Keep you posted.
+RIKER WORF TROI GUEST1 OGAWA CRUSHER NURSE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(Troi is the Bridge Officer, and is shivering) 
-TROI: Computer, increase ambient temperature by two degrees Centigrade
-and increase relative humidity by ten percent. 
-WORF: Computer, reset environmental controls to standard. 
-TROI: Worf, it's freezing in here. 
-WORF: You have already raised the temperature three times. It is too
-hot. 
-TROI: Live with it. Computer, execute my original command. 
-(she finally can't stand it) 
-TROI: I need a bath. You have the Bridge.
+GUEST1: (at the helm) Commander, we received a
+communication from Starfleet. They wanted to know when they could
+expect your performance analysis of the new weapon systems. 
+RIKER: The weapon systems? 
+GUEST1: Yes, sir. The ones we've been testing for the past few days? 
+RIKER: That's right. 
+GUEST1: What should I tell them, sir? 
+RIKER: Tell them, tell them we haven't finished yet. 
+[Troi's quarters]
 
+(Troi is in a bath, fully clothed, when Worf
+enters) 
+TROI: What are you doing here? 
+WORF: I had to be near you. 
+TROI: Computer, increase temperature by five degrees. 
+WORF: Get out of that water now. 
+TROI: Leave me alone! 
+(Worf grabs her arm and bites her on the cheek)
+
+[Sickbay]
+
+TROI: Can I have a glass of water? It's so cold in
+here. 
+CRUSHER: Your temperature has dropped almost eight degrees. I want to
+run a hypothalamic series right away. 
+OGAWA: Doctor, we've had three other crewmembers complaining about the
+temperature levels. Some feel like they have fevers, others are
+freezing like Counsellor Troi. 
+CRUSHER: Call Doctor Selar and Doctor Hacopian. It looks like we've got
+some sort of viral infection going on around here. I want to check on
+Lieutenant Worf. 
+(at another bed, Worf is under guard) 
+CRUSHER: Worf, have you had any unusual symptoms lately? Headaches,
+nausea, dizziness? Worf? Worf, do you hear me? I going to run a full
+bioscan. I want you to lie down. (he doesn't move.) Okay, we can do
+this sitting up. What is this? (a growth on his
+jaw line) Worf, how long have you had this on your neck? It looks like
+it's full of some bioacidic compound, almost like a venom sac. Worf,
+open your mouth. 
+(Worf opens his mouth and sprays venom into Beverly's face. She
+collapses, screaming in pain and Worf escapes) 
+OGAWA: Get a hypospray. 
+NURSE: Right away. 

@@ -1,138 +1,51 @@
-TROI GRAVES KAREEN WORF PICARD SELAR DATA
+PICARD TROI DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Living room]
+[Data's quarters]
 
-PICARD [OC]: At all costs. 
-DATA: Understood, sir. I suggest we look around to see if anybody is
-home. 
-WORF: No need, Commander. 
-KAREEN: You heard me. Thank God. I'm Kareen Brianon, Doctor Graves'
-assistant. 
-TROI: We're from a ship called the Enterprise. We monitored your
-distress call but then you never acknowledged our response. 
-KAREEN: I'm sorry, I couldn't take the chance. 
-TROI: Chance? What chance? 
-(A door opens and a crotchety old man enters) 
-GRAVES: The chance that I might find out someone was coming. Kareen
-knew full well that I would not be pleased, to put it mildly. 
-KAREEN: I had no choice. I refuse to stand by and watch you
-deteriorate. 
-SELAR: (a Vulcan lady played by Susie Plaxton) What symptoms have you
-noticed? 
-KAREEN: He has pain, shortness of breath, irritability. 
-GRAVES: Ridiculous! I'm as healthy as a Rigelian ox! 
-KAREEN: He's not himself, believe me. His temper is completely out of
-control. 
-GRAVES: Nonsense! 
-KAREEN: Ira! 
-SELAR: I am a doctor. Lieutenant Selar. 
-GRAVES: No offense, but I don't want you touching me in any way. It's
-no secret that I don't like people much, and I like doctors even less. 
-TROI: That's funny, I thought most doctors were people. 
-GRAVES: Then you're wrong. Ask any patient. Although I will admit, for
-a doctor you're not a bad looking woman. Well, well, well, what have we
-got here? Another lovely specimen of womanhood. 
-TROI: I thought you didn't like people. 
-GRAVES: Women aren't people. They're women. (he kisses her hand) 
-TROI: I'm Deanna Troi. It's an honour to meet you, Doctor Graves. 
-GRAVES: Yes, of course it is. This is one of the truly great moments of
-your life. 
-KAREEN: Excuse me, sir. Are you a Romulan? 
-WORF: Hardly. 
-GRAVES: He's a Klingon, Kareen. Kareen has lived here since her father
-died when she was very young. Her only knowledge of unhuman races comes
-from me. Klingons and Romulans don't look much alike, Kareen, even
-though they act much alike. 
-WORF: Must I stand here and be insulted? 
-GRAVES: No insult intended, Mister Klingon. You see, Doctor, there's
-nothing wrong with my hearing. My, my, my, my. 
-DATA: Lieutenant Commander Data 
-GRAVES: Shhh! Absolutely no aesthetic value whatsoever. Looks like
-Soong's work. 
-(Selar is examining Graves behind his back) 
-DATA: Quite correct, sir! Did you know Doctor Soong? 
-GRAVES: Know him?! I taught him everything he knows. You could say that
-I was the father of his work. Which kind of makes me your grandfather,
-doesn't it sonny? Damn doctors! Always sneaking up on one. Attacking
-from the rear. Go on, gorgeous. Spit it out. Whatever the hell it is, I
-can take it. 
-SELAR: I've checked twice to make certain. You have Darnay's disease.
-I'm sorry, Doctor Graves. It's in it's final stage. 
-KAREEN: Can't you do something for him? 
-SELAR: In all cases, Darnay's is terminal. 
-Captain's log, Stardate 42437.7. We've successfully
-repaired the stricken liner, Constantinople. Forty six of her people
-suffered injuries, mostly minor. They have been treated and supplied
-with the proper medicines. Our task complete, we are heading back to
-Gravesworld with great dispatch.
+TROI: Now, Data, you remember the psychotronic
+stability examination. We all had to take it before graduating from the
+Academy. 
+DATA: It was a waste of time then and it is a waste of time now. 
+TROI: It will just gauge your psychological reactions to the images it
+projects. Watch the screen and let your mind go blank. The device will
+do the rest. 
+(She puts cortical monitors on his forehead and a series of images
+flashes on a screen, including a waterfall, Kareen, fire, Graves,
+Tasha, Kareen again, Picard and other crew members. They get faster and
+he gets more tense)
 
-[Graves' laboratory] 
-(Graves is whistling 'If I only had a heart' from
-the Wizard of Oz in between coughing at his desk) 
-DATA: I have noticed, Doctor 
-GRAVES: Call me Grandpa. Seems more touching in my final hours. 
-DATA: I have noticed, Grandpa, that you keep repeating the same notes
-of a musical phrase I am unfamiliar with. 
-GRAVES: It's an ancient little tune called 'If I Only Had A Heart.' A
-plaintive lament sung by a mechanical man who longs to be human. It's
-his only wish. 
-DATA: What happens to this man? 
-GRAVES: He finds out he's human after all. Always was. Just worried so
-much, he never realised it. 
-DATA: A happy ending. The mechanical man gets his wish. 
-GRAVES: Stories often have happy endings. It's life that throws you for
-a loop. It must be so hard for you, to be so close to being human and
-yet never really knowing what it's like to know pain. 
-DATA: But pain is unpleasant, is it not? 
-GRAVES: Pain. Lust. Envy. Pleasure. Desire. Do you know what desire is,
-Data? 
-DATA: Desire? To long for, to crave, a wish, a request, a 
-GRAVES: Do you know what desire is? 
-DATA: No. I do not suppose I will ever really know. 
-GRAVES: I feel pity for you. Your existence must be a kind of walking
-purgatory. Neither dead nor alive. Never really feeling anything. Just
-existing. Just existing. Listen to me. A dying man takes the time to
-mourn a man who will never know death. Funny, isn't it? 
-DATA: Funny. I have had great difficulty determining what funny is. 
-GRAVES: I've had the same difficulty most of my life. We're much alike.
+[Ready room]
 
-[Living room]
-
-SELAR: I'd say he has a week, but that's only an
-estimate. We do know that the disease attacks the brain and nervous
-system. We can expect more of the erratic behaviour of the kind you've
-been noticing. 
-TROI: His feelings towards you are very warm. He's attracted to you in
-many ways. 
-KAREEN: Attracted? I know I've felt certain feelings from him. And for
-him. Had I been older, perhaps we could've been. That's not the way it
-worked out. And now it's like he's afraid to face me. The only one he
-talks to is your friend, Data.
-
-[Graves' laboratory]
-
-DATA: You mentioned your impending death, Grandpa.
-May I say you face it with remarkable courage and stoicism. 
-GRAVES: That is because I am an incredible man, possessing an iron will
-and nerves of steel. Two traits that helped me become the genius I am
-today as well as the lady killer I was in days gone by. 
-DATA: You condone homicide, sir? 
-GRAVES: It's an expression, Data. It means I was once as beautiful as I
-am smart. 
-DATA: Really, Grandpa? 
-GRAVES: No, not really. But what the hell. I'm dying. I can remember my
-life any way I want. And I'll let you into a little secret, Sonny. I
-don't really believe I will be dying. 
-DATA: But the Doctor 
-GRAVES: Oh, I'll die, but I won't really be dead. You see, I believe
-I've learned to transfer the wealth of my knowledge into
-a computer. Before I die, I plan to transfer my great intelligence into
-this machine, thus cheating the Grim Reaper of his greatest prize. But
-what would you know of death? It is a subject forever alien to you. 
-DATA: That is not necessarily true, Grandpa. I do have an off button,
-if you will. Its activation robs me of my consciousness, therefore
-rendering me dead for all intents and purposes. It is not something I
-enjoy contemplating. 
-GRAVES: I can understand that. Just where would Soong position such a
-device? Don't tell me, let me guess.
-
+PICARD: It's safe to say that you're his best
+friend. Is it possible to speculate about what's happening to him? 
+LAFORGE: Well, sir, it's just a guess, but, sometimes he wants to be
+human so badly he can taste it. I think he just tends to get confused
+when his human qualities surface. 
+PICARD: Go on. 
+LAFORGE: Witnessing Graves' death may have been some sort of catalyst
+for the way he 
+(Troi enters, interrupting) 
+TROI: I have the results of the tests. I ran them several times to be
+sure. 
+PICARD: To be sure of what? 
+TROI: There are two disparate personalities within Lieutenant Commander
+Data. Each distinctly different. A dominant and a recessive. 
+PICARD: But he's an android. Is that possible! 
+TROI: It must be. The dominant personality is unstable. Brilliant but
+vain, sensitive yet paranoid. And I believe it is prone to
+irrationality. 
+PICARD: Of course. 
+TROI: Sir? 
+PICARD: Nothing. Go on. 
+TROI: It seems to have an especially strong hatred of you, Captain, or
+to a lesser degree, any authority figure. And worst part is, it's
+growing. 
+PICARD: How do you mean? 
+TROI: The alien persona is getting stronger and gobbling up what is
+left of the weaker ego, the Data we know. If something isn't done to
+stop it immediately, we will lose our Data forever. 
+Captain's personal log. We have arrived at Starbase
+Six where Miss Brianon will await transport back to Earth. I am greatly
+troubled by the unusual behaviour of Commander Data and fear that
+somehow it is directly related to the experiments of Ira Graves. 

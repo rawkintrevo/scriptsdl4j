@@ -1,57 +1,40 @@
-RIKER LAFORGE WORF PICARD LENOR BRIAM COMPUTER OFFICER QOL
+DATA RIKER GUEST1 KAMALA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Ten Forward]
 
-OFFICER: Got them, sir. 
-(one of whom - Lenor - is Max Grodenchik, practising to play Quark's
-idiot brother, Rom)
-
-[Bridge]
-
-RIKER: Mister Worf, escort our Ferengi guests to
-quarters. Not too close to mine. 
-WORF: Understood.
-
-[Corridor]
-
-WORF: Unless you can arrange your own transport,
-you will have to remain on the Enterprise until we complete our
-mission. 
-QOL: That will not be a problem. 
-LENOR: We are in no hurry. 
-QOL: We look forward to enjoying the comforts of your fine ship. 
-
-[Ferengi quarters]
-
-QOL: Quite acceptable. Not what we're used to, you
-understand, but it will do. 
-LENOR: Perhaps your captain would care to invite us to join him for
-dinner this evening? 
-WORF: The captain dines alone. 
-(Worf leaves) 
-QOL: A pity. That was too easy.
-
-[Corridor]
-
-LAFORGE: We've been working from your drawings,
-Ambassador. I hope we're in the ballpark. 
-BRIAM: Ball park? 
-PICARD: That's an old human expression. Mister LaForge hopes that we've
-got close to achieving what you wanted. 
-LAFORGE: Computer, run holodeck programme Krios One. 
-COMPUTER: Enter when ready. 
-[Holodeck - Temple]
-
-(stonework, a raised altar platform, a central
-chandelier) 
-BRIAM: Astonishing. It is the ancient Temple of Akadar. It is this
-temple that bonds Krios and Valt, gentlemen. Two brothers ruled a vast
-empire from this site until they were torn apart by their love for an
-extraordinary woman. This is where the wars began. And this is where
-they shall end.
-
-[Cargo bay]
-
-(Qol sneaks in to view the giant golden glowing egg
-supported by three golden beams of light.)
+(as predicted, all male eyes turn to Kamala, and
+she loves it) 
+RIKER: (to Worf) I'll check in with you later. 
+(Riker leaves) 
+GUEST1 1: Excuse me, but I'm absolutely certain that we met once at
+Paloris Colony. 
+KAMALA: I've never been to Paloris Colony. 
+GUEST1 1: Neither have I. Why don't we find out what else we have in
+common. 
+DATA: Extremely rude behaviour. 
+KAMALA: He's just being playful. 
+DATA: Perhaps you would care for something to drink? 
+KAMALA: What are you all having, boys? 
+GUEST1 2: Aldorian Ale's our drink. 
+KAMALA: Then, it's mine too. 
+DATA: Bartender! 
+DATA: There do not seem to be enough waiters on duty. 
+GUEST1 3: I believe they're having a minor problem with the replicator. 
+GUEST1 2: They could use a hand, Commander. 
+DATA: Excuse me. I believe I will stay. 
+KAMALA: Mister Data's protecting me tonight. 
+GUEST1 2: Protecting you? From what? 
+KAMALA: From you, I guess. I told the Captain not to worry, I just want
+to have a good time like anybody else. 
+GUEST1 1: Come on down to deck seven, we'll show you a good time 
+GUEST1 2: Get rid of the android. We'll have some fun. 
+WORF: Is there a problem here? 
+GUEST1 1: No, sir. 
+GUEST1 2: No problem.
+GUEST1 3: Tell him, lady. 
+DATA: Thank you, Lieutenant. The crowd seemed a bit too ebullient for
+comfort. Perhaps you would enjoy a quiet visit to the arboretum. 
+(Data leads Kamala away, then she turns and growls. Data hauls her out
+of the room before Worf growls back and then catches himself)
 

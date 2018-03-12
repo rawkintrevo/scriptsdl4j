@@ -1,116 +1,49 @@
-RIKER LAFORGE WORF PICARD RASMUSSEN MOSELEY CRUSHER DATA
+DATA RASMUSSEN WORF LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Data's quarters]
 
-(Rasmussen walks in and goes to the bar) 
-RIKER: Look who's here. 
-WORF: I hate questionnaires. 
-CRUSHER: Professor, come and join us. 
-RASMUSSEN: I hope I'm not intruding. 
-CRUSHER: Not at all. I'm sure you're the topic of conversation at every
-table in this room. 
-RASMUSSEN: As I promised, here are your assignments. I'm sure they'll
-be painless. Please try and complete them by tomorrow. 
-(hands out transparent chips, taking time to hold Beverly's hand while
-he does it) 
-WORF: Tomorrow? 
-RIKER: No problem, Professor. 
-RASMUSSEN: You're all very calm. 
-RIKER: Is there some reason we shouldn't be? 
-RASMUSSEN: History always records where people were, what they were
-doing, when important events took place. But it rarely remembers their
-activities say, a week before, or a day or even an hour. 
-WORF: Are you suggesting that an important event is imminent? 
-RASMUSSEN: I didn't say that, did I? Please, just go on doing what you
-were doing and pretend I'm not here. 
-RIKER: Why is there no record of other future historians travelling
-back to witness important events? 
-RASMUSSEN: We're obviously very careful. As a matter of fact, a
-colleague and I recently paid a call on a twenty second century vessel.
+(Rasmussen walks into a cacophony of sound) 
+RASMUSSEN: What in God's name is that? 
+DATA: Music, Professor. 
+RASMUSSEN: Music? 
+DATA: Yes, sir. Mozart's Jupiter symphony in C major, Bach's
+Brandenburg Concerto number three, Beethoven's Ninth Symphony, second
+movement, molto vivace and La Donna e Mobile from Verdi's Rigoletto. 
+RASMUSSEN: Do you think you could thin it out a bit? 
+DATA: Computer, eliminate programme one. Computer, eliminate programme
+two. (glances at Rasmussen) Computer, eliminate
+programme three. Computer, half volume. 
+RASMUSSEN: How the hell can you listen to four pieces of music at the
+same time? 
+DATA: Actually, I am capable of distinguishing over one hundred and
+fifty simultaneous compositions, but in order to analyse the
+aesthetics, I try to keep it to ten or less. 
+RASMUSSEN: Only four today? 
+DATA: I am assisting Commander La Forge with a very complex
+calculation. It demands a great deal of my concentration. 
+RASMUSSEN: Well, I came to thank you for answering my questions, though
+I probably should have asked you to limit yourself to fifty thousand
+words. 
+DATA: You did ask me to be thorough. 
+RASMUSSEN: I realise it's hard to believe, Data, but very few records
+of Doctor Soong's work survived to the twenty sixth century, so it
+would be invaluable to myself and other historians, if you could
+provide us with some schematics. 
+DATA: Certainly, as soon as my work here is completed. 
+RASMUSSEN: As long as it's before oh nine hundred tomorrow. That's when
+I'll be heading back. 
+WORF [OC]: Bridge to Commander Data. 
+DATA: Yes, Worf. 
+WORF: Commander La Forge is hailing you from the surface, sir. 
+DATA: Patch him through, please. 
+LAFORGE [on monitor]: Have you rerun the phase reversal figures, Data? 
+DATA: There were no errors, Geordi. The variance must be no more than
+point zero six terawatts. 
+LAFORGE [on monitor]: Well, I don't see any other choice. We'll
+continue to run the numbers down here but I doubt we'll come up with
+anything different. You better inform the captain of the good news and
+the bad news. La Forge out. 
+(Rasmussen pockets a tricorder) 
+RASMUSSEN: Which do you suppose he's going to want to hear first?
 
-CRUSHER: They hadn't perfected quarantine fields. You probably saw some
-surgical masks and gloves. 
-RASMUSSEN: Isn't it fascinating how everyone has different interests
-when it comes to history. Different perspectives on progress. 
-(Rasmussen opens a ring and looks inside) 
-RIKER: Would you mind telling me what that is? 
-RASMUSSEN: Just checking the time. No problem. 
-RIKER: Is something important supposed to be happening here? 
-RASMUSSEN: No, it's nothing, nothing. What about you, Commander? What
-do you see as the most important example of progress in the last two
-hundred years? 
-RIKER: I suppose the warp coil. Before there was warp drive, humans
-were confined to a single sector of the galaxy. 
-RASMUSSEN: Spoken like the consummate explorer. 
-RIKER: What is going on? Are you expecting someone? 
-WORF: Phasers. 
-RASMUSSEN: I beg your pardon? 
-WORF: There were no phasers in the 22nd century. 
-RASMUSSEN: Ah, you see, Doctor? Our Klingon friend is a perfect example
-of what I was trying to tell you. He views history through the eyes of
-a hunter, a warrior. His passion lies in the perfection of the tools of
-violence. How delightfully primitive.
-
-[Engineering]
-
-LAFORGE: (to a crewwoman) As soon as we input this
-atmospheric data from Moseley, the computer should tell us how many
-holes we'll have to
-punch. 
-DATA: What have you learned about the tectonic stability around the
-drilling sites? 
-LAFORGE: Couldn't be better. Our scans were all clear and Moseley says
-there hasn't been so much as a quiver down there in well over a
-century. 
-RASMUSSEN: Ah ha, just the two I'm looking for. I've brought you the
-forms I need you to complete. Shouldn't take any more than a couple of
-hours. 
-LAFORGE: We're kind of busy here, Professor. Tomorrow would probably be
-better. Data, we've got about twenty three thousand thermal
-simulations. You think you could check them through for anomalies? 
-DATA: Certainly. 
-(Data starts working at the console at fast-forward speed)
-
-RASMUSSEN: Is that as fast as he can go? 
-LAFORGE: Not fast enough for you, Professor? 
-RASMUSSEN: There's little known about Data's efficiency. Almost nothing
-about his part in this mission. It's a topic of great conjecture. 
-DATA: Two hundred nine anomalies all within acceptable parameters. 
-LAFORGE: Thanks, Data. You're here to witness this mission. That's it,
-isn't it? 
-RASMUSSEN: It'd be best if you just thought of me as a fly on the wall,
-and went about your business. 
-DATA: I will have your answered questions as soon as possible,
-Professor. 
-RASMUSSEN: Data at Penthara Four! 
-LAFORGE: If you'll excuse me. 
-RASMUSSEN: Your prosthesis. What do you call it again? 
-LAFORGE: A visor. 
-RASMUSSEN: Visor. Right. A visor. You know, I have a picture of you
-wearing that in my
-office. How do you like it? 
-LAFORGE: It allows me to see. I like it just fine. 
-RASMUSSEN: You know, Homer was blind and Milton. Bach, Monet, Wonder. 
-LAFORGE: A fly on the wall, huh? 
-RASMUSSEN: A fly on the wall. 
-DATA: The computer has configured the drilling pattern and specified
-depths. 
-LAFORGE: Captain, we've got everything we need. I'm ready to transport
-down to the surface. 
-PICARD [OC]: I'll notify Doctor Moseley. Good luck, Geordi. 
-LAFORGE: Gentlemen. 
-(Geordi leaves and Rasmussen pockets a PADD) 
-RASMUSSEN: Who said these moments were any less exciting when you know
-the outcome? 
-DATA: I know of no one who said that, Professor.
-
-[Penthara Science lab]
-
-LAFORGE: The Enterprise will monitor the CO2
-concentrations at six different altitudes. If all goes well, it
-shouldn't take more than twenty bore sites. 
-MOSELEY: Let's hope all goes well. 
-LAFORGE: La Forge to Commander Riker. How are you doing? 
-RIKER: We've gotten word from the monitoring stations. They're all
-online. We're ready when you are, Geordi. 
-LAFORGE: That's excellent. All we need now is an open channel to Data. 

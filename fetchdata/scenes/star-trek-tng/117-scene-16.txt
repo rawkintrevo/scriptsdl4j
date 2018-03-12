@@ -1,50 +1,30 @@
-PICARD DATA LAFORGE BENSEN
+RIKER PICARD GUEST3 GUEST4 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Hydraulics room]
+[Observation Lounge]
 
-DATA: But this is almost as if the laser drill
-seemed to operate itself with a will 
-[Control room]
-
-DATA [OC]: Separate from it's control console. 
-BENSEN: I can't explain it. 
-[Hydraulics room]
-
-DATA: The laser blasts seemed to end when the
-yelling stopped. 
-[Control room]
-
-BENSEN: Maybe Arthur stopped it, only not in time. 
-[Hydraulics room]
-
-DATA: Not possible. 
-[Control room]
-
-LAFORGE: Then what are you suggesting? 
-[Hydraulics room]
-
-DATA: Uncertain. Geordi, please return power to the
-control console in this room. I wish to reactivate the
-programme. 
-[Control room]
-
-LAFORGE: You got it. 
-[Hydraulics room]
-
-(The laser powers up, turns, and fires a shot into
-a tunnel cut in the wall. Then it does the same in the opposite wall) 
-DATA: I am running the base drilling programme. 
-(The little red light focuses on the back of Data's neck and the doors
-slam shut. Data turns and dodges the deadly beams)
-
-[Control room]
-
-DATA [OC]: Geordi, servos off. 
-BENSEN: They are off. 
-LAFORGE: Data, what's happening? 
-DATA [OC]: Too much to explain. 
-(Benson and La Forge run to the Hydraulics room door) 
-LAFORGE: Can you open that? La Forge to Enterprise. We have a problem. 
-[Bridge]
-
-PICARD: Be specific. 
+GUEST4: Picard, if it did try to communicate with
+us, we didn't understand that. 
+PICARD: It has declared a state of war and we are on the defensive. We
+have no control over our Medical Lab nor our computer. At this moment
+it has the power to destroy this ship and everybody on it. I need your
+help. 
+GUEST4: Unbelievable.
+PICARD: It said you killed some of them. I need to know how. 
+GUEST4: I don't know. 
+PICARD: What was Malencon doing when he was killed? 
+GUEST3: There is a very thin layer of highly saline water under the
+sandy top soil. He was siphoning that off. 
+CRUSHER: Perhaps somehow that saline water sustained them. 
+DATA: It connected them. 
+GUEST3: I don't understand. 
+CRUSHER: The microbrains may be like our own brain cells. Individually,
+a cell has life but not intelligence. Yet when interconnected, their
+combined intelligence is formidable. 
+DATA: The saline fluid is their circuitry, and to prevent its loss,
+they killed Malencon. 
+GUEST3: If we had continued to remove that water, we would have
+destroyed them all. 
+PICARD: Reason enough for anyone to go to war. 
+RIKER [OC]: Captain, it's happening again. I think you'd better get in
+here. 

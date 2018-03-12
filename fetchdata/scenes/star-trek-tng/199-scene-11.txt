@@ -1,48 +1,69 @@
-TROI COMPUTER DATA LAFORGE WORF
+DATA GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]
+[Jenna's quarters]
 
-LAFORGE: Maybe someone came in while you were away,
-let him out by accident. Has anything been disturbed? 
-DATA: It does not appear so. Computer, has anyone been in my quarters
-in the last twelve hours other than Commander La Forge and myself? 
-COMPUTER: Negative. 
-LAFORGE: That's really strange. You know, to be on the safe side maybe
-I should report a possible unauthorised entry to Security. 
-DATA: Geordi, may I ask your advice in a personal matter? 
-LAFORGE: Sure, Data. 
-DATA: Should I pursue a relationship with Lieutenant D'Sora? 
-LAFORGE: I thought she and Jeff Arton 
-DATA: They have discontinued their association. She has made the first
-move in initiating a relationship with me. What should I do? 
-LAFORGE: She's just coming out of a bad situation. You know, sometimes
-it takes people a while, Data, but then, if they jump right into
-another relationship, you see, that can be trouble, unless, of course,
-she's really ready, and then I guess it depends on whether or not
-you're really serious. This can be a little complicated. Listen, my
-advice is ask somebody else for advice. At least someone who's got more
-experience at giving advice.
+DATA: Honey? I'm home. 
+GUEST2: Hi. 
+DATA: Hi. 
+GUEST2: Any luck with your diagnostic? 
+DATA: Negative. We found no malfunctions. 
+GUEST2: We did a full security sweep. Nothing. 
+DATA: May I get you a drink, dear? 
+GUEST2: Well, yes. I'll have a Calaman Sherry. 
+DATA: Excellent choice. I'll join you. Computer, two Calaman sherries.
+Would you care for some dinner as well? 
+GUEST2: I'm too tired to think about what I want. Maybe later. 
+DATA: Whatever you wish, dear. There we are. 
+(he stops her from taking a drink) 
+DATA: Darling, you remain as aesthetically pleasing as the first day we
+met. I believe I am the most fortunate sentient in this sector of the
+galaxy. Now, you relax. Put your feet up and I will take care of
+everything. 
+(Data starts by picking up her discarded clothing) 
+DATA: I could organise your closets for you. I have found that by
+grouping apparel first by function, and then by colour from light to
+dark, one can more easily find one's desired choice. 
+GUEST2: Data, that's all right. You don't have to do that. 
+DATA: But I am happy to do it. 
+GUEST2: Please, just put them down. 
+(so he drops the clothes back on the floor) 
+DATA: What do you wish me to do, dear? Am I not paying enough attention
+to you? 
+GUEST2: Oh, no, that's not it. 
+DATA: Perhaps I am not giving you enough compliments? Your hair is
+looking particularly silky tonight. 
+GUEST2: Data, there's just something strange about the way you're
+acting. 
+DATA: Am I not behaving as a solicitous mate? 
+GUEST2: Well, yes, but. 
+DATA: Tending to your every need? 
+GUEST2: What's wrong with you tonight? 
+DATA: My most recent self-diagnostic revealed no malfunctions. Perhaps
+there is something wrong with you. 
+GUEST2: I've never seen you behave so foolishly. Why are you doing this?
 
-[Troi's office]
-
-TROI: I think you should be careful. This isn't
-just some experiment you're running, Data. Jenna is a living, breathing
-person with needs and feelings that have to be considered. 
-DATA: Then you do not believe I should pursue this any further. 
-TROI: I didn't say that. I just want you to be aware that this is
-unlike any other more casual relationship that you've attempted. 
-DATA: I have studied much human literature on the subject of love and
-romantic liaisons. There are many role models for me to emulate. 
-TROI: Ultimately, Jenna will care for you for what you are, not what
-you imitate out of a book. 
-DATA: My programming may be inadequate to the task. 
-TROI: We're all more than the sum of our parts, Data. You'll have to be
-more than the sum of your programming.
-
-[Bridge]
-
-WORF: Klingons do not pursue relationships. They
-conquer that which they desire. However, Lieutenant D'Sora serves under
-my command. If she were mistreated, I would be very displeased, sir. 
-DATA: I understand.
+DATA: You don't tell me how to behave. You're not my mother. 
+GUEST2: What? 
+DATA: You are not my mother. That is the appropriate response for your
+statement that I am behaving foolishly. 
+GUEST2: Data, I think you should just leave. 
+DATA: You do not wish to continue our lovers quarrel? 
+GUEST2: Is that what this is? 
+DATA: In my study of interpersonal dynamics, I have found that conflict
+followed by emotional release often strengthens the connection between
+two people. 
+GUEST2: But there's something so forced and artificial about the way
+you're doing it, Data. It's just not the real you. 
+DATA: With regard to romantic relationships, there is no real me. I am
+drawing upon various cultural and literary sources to help define my
+role. 
+GUEST2: Kiss me. 
+(they kiss) 
+GUEST2: What were you just thinking? 
+DATA: In that particular moment, I was reconfiguring the warp field
+parameters, analysing the collected works of Charles Dickens,
+calculating the maximum pressure I could safely apply to your lips,
+considering a new food supplement for Spot. 
+GUEST2: I'm glad I was in there somewhere.
 

@@ -1,111 +1,48 @@
-TROI GIUSTI WORF PICARD TALLERA KORAL DATA NARIK
+TROI WORF PICARD RIKER CRUSHER DATA NARIK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Mercenary Cargo hold]
+[Observation lounge]
 
-(Narik is working at a small wall panel) 
-PICARD: We need a new captain and I've come to one inescapable
-conclusion 
-NARIK: I agree. But I don't think that's you. 
-PICARD: Oh? 
-NARIK: I don't trust you, Galen. I don't think the rest of the crew
-does either. They're not going to follow you. 
-PICARD: Then who will they follow? You? 
-NARIK: No, but they will follow Tallera and so will I. 
-(Narik leaves and Tallera enters) 
-TALLERA: Who are you? 
-PICARD: What? 
-TALLERA: You're no smuggler and I don't think your name's Galen. You
-will tell me who you really are and what you are doing on this ship or
-I will kill you right here. 
-PICARD: What are you talking about? 
-TALLERA: I will not play games with you. I found the message you sent
-to the Enterprise. When Riker was using his command codes to drop their
-shields, you sent them a transmission on the same carrier wave. You're
-a Starfleet officer. Do not deny it. It is the only logical conclusion.
-My name is actually T'Paal, and I am a member of the V'Shar. 
-PICARD: Vulcan Security? 
-TALLERA: That is correct. I infiltrated this ship a year ago posing as
-a Romulan mercenary. I'm here to investigate a possible threat to
-Vulcan. 
-PICARD: What sort of threat? 
-TALLERA: First things first, Galen. Who are you? 
-PICARD: I'm Captain Jean-Luc Picard of the Enterprise. 
-TALLERA: Very well. To answer your question, for several years now,
-there has been a small but growing movement of extreme isolationists on
-Vulcan. A group that believes contact with alien races has polluted our
-culture and is destroying Vulcan purity. This group advocates the total
-isolation of Vulcan from the rest of the galaxy and the eradication of
-all alien influences from our planet. 
-PICARD: That sounds like an illogical philosophy. 
-TALLERA: Agreed. But extremists often have a logic all their own. 
-PICARD: Tell me, Tallera, what are these artefacts we've been
-collecting? I know that they are Vulcan in origin. 
-TALLERA: I am sure you are familiar with the ancient history of my
-people, before we found logic, before we found peace. 
-PICARD: You were much as my people once were. Savage, warlike. 
-TALLERA: There was even a time when we used our telepathic abilities as
-a weapon. A time when we learned to kill with a thought. 
-PICARD: The Stone of Gol! 
-TALLERA: You know of it? 
-PICARD: I know the story from Vulcan mythology. 
-TALLERA: The Stone of Gol is real, but there is nothing supernatural or
-magical about it. It is a psionic resonator, a device which focuses and
-amplifies telepathic energy. It is one of the most devastating weapons
-ever conceived. 
-PICARD: But according to the legend, the Stone was destroyed by the
-gods when the Vulcan people found the way to peace. 
-TALLERA: The resonator was believed to have been destroyed during the
-Time of the Awakening. Only one piece is known to have survived and it
-was placed in a Vulcan museum under heavy guard. A year ago, that piece
-was stolen from the museum. Soon after, mercenary ships began raiding
-archaeological sites across the quadrant. We believe a member of the
-isolationist movement is attempting to reassemble the resonator. 
-PICARD: A telepathic weapon. 
-TALLERA: My orders are to find that assassin and stop him. 
-PICARD: It would seem that Baran has to deliver these artefacts to the
-assassin in order to get paid. Therefore, you and I should continue our
-masquerade. 
-TALLERA: Agreed. But Captain, I cannot allow the resonator to be
-assembled. If necessary, I will destroy this ship, its crew, all of us
-to prevent that from happening.
+TROI: I'm sure the health and safety inspection
+won't last much longer. And in the meantime, I'm really glad that we
+have this opportunity to get to know you. May I ask what business
+you're in? 
+(silent stare) 
+DATA: Lieutenant Worf has programmed our replicators to make a very
+good approximation of Klingon bloodwine. I believe you will find it to
+your liking. 
+(Koral pours it onto the carpet)
 
-Acting Captain's log, stardate 47160.1. The
-Enterprise is entering the Hyralan Sector, which I believe to be the
-next destination of the mercenary ship. 
-[Bridge]
+[Shuttlebay]
 
-GIUSTI: I'm picking up a small vessel bearing one
-two seven mark three three five. 
-DATA: Is it the mercenary ship? 
-GIUSTI: No, sir. It's a Klingon ship. 
-WORF: A Toron class shuttlecraft. One person. 
-DATA: Open a channel. This is Lieutenant Commander Data of the
-Federation Starship Enterprise. 
-KORAL [on viewscreen]: Koral. 
-DATA: I take it that is your name? May I inquire as to your
-destination? 
-KORAL [on viewscreen]: No. 
-DATA: May I ask the purpose of your journey? 
-KORAL [on viewscreen]: No. 
-DATA: Perhaps I have not made our intentions clear. We are
-investigating 
-(transmission ends) 
-DATA: He seems most uncooperative. 
-TROI: He may have been curt, but he was also very worried and even a
-little scared. 
-WORF: Sir, may I recommend that we bring the shuttle aboard with our
-tractor beam, search it, and interrogate Koral. 
-DATA: According to the terms of the Klingon-Federation Treaty, Koral
-has every right to free transit through Federation space. We cannot
-board or search his vessel without cause. 
-WORF: Yes, sir. However, the Treaty does give us the right to conduct
-health and safety inspections of any ship in our space. 
-TROI: Health and safety inspections? 
-DATA: I am not sure that using this clause as an excuse to conduct a
-search would be consistent with the spirit of the Treaty. 
-WORF: Yes, sir. 
-DATA: However, if Koral wishes to contest our actions he can file a
-protest with the Judge Advocate General's office. Bring the shuttle
-aboard. Then you and Doctor Crusher can begin the inspection. 
-WORF: Aye, sir.
+CRUSHER: Well, that's my third scan and I still
+haven't find anything out of the ordinary. 
+WORF: He must be hiding something. We should download his computer
+memory and analyse it. 
+CRUSHER: I'd have a hard time defending that as part of a safety
+inspection. 
+WORF: We could claim that the computer was generating abnormal
+radiation signatures. 
+CRUSHER: Worf, we're on pretty shaky ground as it is. We can't just 
+(the raiding party beams in. Riker stuns an incoming crewman) 
+PICARD: Don't! 
+RIKER: Watch that door. 
+WORF: What is going on? 
+NARIK: Shut your mouth, Klingon. 
+RIKER: I guess you're surprised to see me, Doctor. 
+CRUSHER: You could say that. 
+RIKER: I've had a change of profession. 
+PICARD: It's not in here. Hey, you, where's the artefact? 
+WORF: I do not know what you're talking about. 
+RIKER: Use your brain. They wouldn't be searching the shuttle if they
+had the artefact. Koral must have it. Where is that Klingon pilot? 
+CRUSHER: In the Observation lounge with Data and Troi. 
+NARIK: How far? 
+RIKER: Twelve decks away. 
+WORF: Security will not allow you to get that far. 
+RIKER: They won't get the chance. We'll use the transporter in that
+shuttle. We'll beam directly to the Observation lounge. Sorry about
+this. 
+(Riker shoots Worf and Crusher) 
+RIKER: Let's go.
 

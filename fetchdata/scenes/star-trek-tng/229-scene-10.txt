@@ -1,56 +1,37 @@
-RIKER PICARD TROI ALKAR COMPUTER CRUSHER
+TROI GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Alkar's quarters]
+[Troi's office]
 
-(Maylor is rigid on the floor) 
-CRUSHER: Forty cc's inaprovaline.
-RIKER: I'm sorry, Ambassador.
-ALKAR: She was ill. I should never have brought her along. She was
-ninety three. She'd lived a long life. I should be grateful for that. 
-TROI: Alkar, is there anything I can do? 
-ALKAR: Counsellor, there's a funeral meditation. Part of our rituals.
-As an empath, you're the only person on board who could perform it with
-me.
-TROI: I'll be glad to help. 
-(later - the room is darkened, and Alkar takes a pair of crystals from
-a box) 
-ALKAR: This meditation is one of our most sacred ceremonies. Hold the
-stone like this. Rohm gah sevi rohm. Say after me. An end to grief.
-TROI: An end to grief.
-ALKAR: An end to pain.
-TROI: An end to pain.
-ALKAR: Strength comes from love.
-TROI: Strength comes from love.
-ALKAR: And courage from wisdom.
-TROI: And courage from wisdom.
-(Alkar moves his crystal towards Troi's, and it glows. When they touch,
-both crystals glow, then just Troi's. Her eyes snap open in horror.) 
-ALKAR: Thank you.
-
-[Troi's quarters]
-
-(Deanna checks herself in a mirror. Is that a
-wrinkle? ) 
-TROI: Computer today's appointment calendar.
-COMPUTER: Oh nine hundred hours, counselling session with Ensign
-Janeway. Ten hundred hours, counselling session with 
-TROI: Cancel them. Cancel everything till after lunch.
-COMPUTER: Acknowledged.
-
-[Morgue]
-
-(Maylor is laid out) 
-PICARD: You wanted to see me, Doctor?
-CRUSHER: Yes, Captain. I'm sorry to bother you, but I'm a little
-concerned. I haven't been able to determine the cause of death. She was
-elderly. and Alkar said she had been ill, but I found no evidence of
-any disease. I did find abnormally high levels of neurotransmitter
-residue in her cerebral cortex.
-PICARD: What are you suggesting?
-CRUSHER: I'd like to do an autopsy. I've already spoken to Alkar, and
-he informs me that Lumerian custom forbids it. Could you speak with him?
-PICARD: Do you suspect that her death poses some kind of threat to the
-Enterprise?
-CRUSHER: Well, no.
-PICARD: Then we have no alternative but to concur with his wishes.
+GUEST1: (a woman) I know it must be my
+imagination, but it seems as though Lieutenant Pinder just doesn't want
+me in his section.
+TROI: What makes you think that?
+GUEST1: He's so critical. I can't ever do anything to please him and I
+try, Counsellor, I try to make sure there's nothing he could find fault
+with.
+TROI: Give me an example of what you mean.
+GUEST1: Well, yesterday I was running routine diagnostics on the
+sensor pallets. They checked out, but Lieutenant Pinder questioned me
+because I'd allowed a point oh two three variance. That's well within
+specifications. He goes out of his way to criticise me.
+TROI: Do you know of any reason why he might do that?
+GUEST1: No, that's why I'm here.
+TROI: Well, maybe he's just tired of hearing you complain.
+GUEST1: Pardon me?
+TROI: I know I'm certainly tired of it. How do you think it feels to
+sit and listen to someone whine about themselves all the time?
+GUEST1: I didn't realise I was 
+TROI: This isn't Starfleet Academy. You're not going to be coddled. If
+you can't take it here, then you might think about a transport ship.
+There's a lot less pressure there.
+GUEST1: But I love being on the Enterprise I don't want to be anywhere
+else.
+TROI: If you aren't up to it then you don't deserve to be here. Isn't
+that right?
+GUEST1: I guess so.
+TROI: So you'd better take a hold of yourself, or be prepared for a
+transfer.
+GUEST1: I will, Counsellor. Thank you.
+TROI: Glad I could help.
 

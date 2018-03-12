@@ -1,41 +1,57 @@
-RIKER LAFORGE TASHA BENSEN LUISA DATA
+RIKER LAFORGE PICARD COMPUTER GUEST3 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Control room]
+[Luisa's quarters]
 
-BENSEN: All set. 
-LAFORGE: Data, we have your section completely powered down now. Bensen
-has just locked the master servomotor drive system. 
-[Hydraulics room]
+(Luisa has been crying when the door bell rings) 
+GUEST3: It's not locked. 
+RIKER: Mind a visitor? 
+GUEST3: Is it true? Did you really find a life form? 
+RIKER: The debate is still going on in some quarters, but I think so,
+yes. 
+GUEST3: What's it like? 
+RIKER: We have nothing we can compare it with. It's microscopic. It
+seems colonial, simple. But it's inorganic. Which is why the recon
+scouts missed it. It was not your mistake. 
+GUEST3: Everything I've worked so hard for is falling apart. 
+RIKER: Luisa, it's very beautiful. I could arrange for you to see it if
+you like. 
+GUEST3: Perhaps later.
 
-LAFORGE [OC] So it should be safe in there now. 
-TASHA: I'm going in. 
-DATA: I will go with you. 
-TASHA: Transporter Room, this is Lieutenant Yar. Two to beam up to
-Sickbay. 
-(Tasha and Malencon are beamed away) 
-LUISA: I want to go. We should be with him. Kurt, please come too. 
-RIKER: Transporter Room, this is Commander Riker. Beam up four at my
-co-ordinates. 
-(Riker, Troi, Luisa and Mandl are beamed away) 
-[Control room]
+[Bridge]
 
-DATA [OC]: Geordi, this is intriguing. I have seen
-malfunctions 
-[Hydraulics room]
+(The image from the lab is on the viewscreen) 
+CRUSHER [OC]: Captain, this is Doctor Crusher. I think you'd better
+come to the Medical Lab.
 
-DATA: But this is almost as if the laser drill
-seemed to operate itself with a will 
-[Control room]
+[Medical lab]
 
-DATA [OC]: Separate from it's control console. 
-BENSEN: I can't explain it. 
-[Hydraulics room]
-
-DATA: The laser blasts seemed to end when the
-yelling stopped. 
-[Control room]
-
-BENSEN: Maybe Arthur stopped it, only not in time. 
-[Hydraulics room]
-
-DATA: Not possible. 
+PICARD: What is it? 
+CRUSHER: Geordi observed movement. 
+LAFORGE: Not movement exactly, but a definite shift in the energy
+pattern. 
+DATA: Without external influence. 
+PICARD: The hum has gone too. Why? 
+DATA: Unknown, sir. Perhaps it is scanning us. 
+PICARD: Scanning us? Why? What could it hope to learn? 
+DATA: Unknown at this time, sir. 
+LAFORGE: It's changing. 
+PICARD: I don't see anything. 
+LAFORGE: The infrared range is increasing. 
+COMPUTER: Warning. Input overload. 
+CRUSHER: The hum is back. 
+DATA: It is projecting an energy field. 
+LAFORGE: And it's intensifying! 
+COMPUTER: Magnification deactivated. 
+(Now there are two bright lights in the bell jar, instead of one) 
+CRUSHER: Two of them! 
+DATA: Only life can replicate itself, Doctor. Inorganic or not, it is
+alive. 
+CRUSHER: Activate quarantine field. (but something is pushing against
+it) Quarantine field full. Full shield backup! 
+(The shield fails) 
+CRUSHER: Evacuating lab. 
+COMPUTER: Translation request being patched. 
+PICARD: Translation? From whom? 
+COMPUTER: (gibberish) 
+CRUSHER: Evacuate. 

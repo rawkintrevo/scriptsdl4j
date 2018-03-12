@@ -1,55 +1,62 @@
-RIKER WORF PICARD TROI DATA CRUSHER JONO
+PICARD TROI JONO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Guest quarters]
+[Picard's quarters]
 
-JONO: Why are you here, Klingon, with them? Did
-they capture you too? 
-WORF: They are not my captors. They are my comrades. 
-JONO: Why do you take orders from a female? 
-WORF: Doctor Crusher. She is my superior officer. 
-JONO: Among my people, a female can never outrank a man. 
-WORF: You are human, and among humans, females can achieve anything the
-males can. 
-JONO: I am no more human than you are. I am Talarian. 
-WORF: You are confused. 
-(Jono starts keening again) 
-WORF: Stop that! 
-JONO: I will make the B'Nar, the mourning, until I am back with my
-brothers!
-
-[Observation lounge]
-
-DATA: By matching DNA gene types, Starfleet was
-able to identify the boy as Jeremiah Rossa. 
-RIKER: Rossa? 
-PICARD: As in Admiral Rossa? 
-DATA: She is his grandmother, Captain. He was born fourteen years ago
-on the Federation colony, Galen Four. His parents, Connor and Moira
-Rossa, were killed three years, nine months later when their colony was
-overrun by Talarian forces. 
-PICARD: I remember. There were no survivors. 
-DATA: The boy was listed as missing, presumed dead. 
-RIKER: I heard another Rossa was killed in action at the Krasner
-outpost. 
-PICARD: Tragedy seems to follow that family. The Admiral lost both her
-sons. 
-CRUSHER: And now she'll have something to celebrate. 
-TROI: Captain, if Jeremiah is returned to his family in his present
-condition, it would be a wrenching experience for everyone. Especially
-for him. He needs to re-discover his identity, make some connection
-with his roots. 
-PICARD: I agree. Do what you can to accomplish that, Counsellor. 
-TROI: I don't think I can do anything, Captain. 
+PICARD: Well, I'm sure you'll see there's nothing
+here to appeal to a young person. 
+(Jono picks up an ornate dagger in a scabbard from the desk) 
+PICARD: Put that down, please. 
+JONO: It's Klingon. 
+PICARD: Yes. Would you put it back where you got it. 
+(Jono wrenches a sextant from it's display stand, then puts it back) 
+PICARD: Well. Here we are, eh, Jono? 
+PICARD: I notice you haven't taken off your gloves. 
+JONO: Not here. 
 PICARD: Why not? 
-CRUSHER: Troi's right. It's very clear that the boy does not respond
-well to women. 
-DATA: The Talarians are a rigidly patriarchical society, sir. 
-TROI: Jeremiah needs to build a relationship with a man, a father
-figure with whom he can explore his origins. And I think it should be
-you, Captain. 
-PICARD: Oh, no, Counsellor! Oh, no, Counsellor, I don't think so. He
-needs someone who is trained in these things. 
-TROI: But you are the only person with whom he has shown any
-connection. If he is to find his humanity then you are the only one who
-can help him. It's up to you, Captain.
+JONO: So that I don't have to touch an alien. 
+PICARD: Jono, your Captain, Endar, has he ever hurt you? Inflicted
+pain? 
+JONO: Pain is not a consideration. 
+PICARD: Then he has? 
+JONO: I did not say that. Don't you understand? Pain is not what
+matters. Passing the tests is everything. 
+PICARD: Is that what they are? Tests of pain? 
+JONO: You understand nothing. 
+PICARD: It's true, I don't fully understand Talarians. But you are not
+Talarian. 
+JONO: I will not listen to this. I will not listen to your lies. 
+[Ready room]
+
+PICARD: Come. 
+TROI: You wanted to see me, Captain? 
+PICARD: Yes, Counsellor. Please, come in, sit down. 
+(She sits) 
+PICARD: You're probably not aware of this, but I have never been
+particularly comfortable around children. 
+TROI: Really? 
+PICARD: For some reason, they just don't seem to respond to me. 
+TROI: I see. 
+PICARD: Frankly, I think my time would be best served carrying out the
+duties and responsibilities of a Starfleet Captain. 
+TROI: Seldom have I heard an explanation so well-rehearsed. 
+PICARD: Look, Counsellor, I just feel that I'm not the right person for
+this job. 
+TROI: Strange, isn't it? You'll travel light years, dodge asteroid
+storms, brave hostile aliens, and yet when asked to assume a parental
+role, you cringe. Why do you suppose that is? 
+PICARD: I'm not cringing. I'm just acknowledging my limitations. 
+TROI: When you were a child, did you have any friends? Other children
+you played with? 
+PICARD: I don't think that has anything to do with anything. Well,
+perhaps it was because. This is foolish. 
+TROI: What were you going to say? 
+PICARD: it's just that ever since I was a child I've always known
+exactly what I wanted to do. Be a member of Starfleet. Nothing else
+mattered to me. Virtually my entire youth was spent in the pursuit of
+that goal. In fact, I probably skipped my childhood altogether. 
+TROI: You know, Captain, almost no one is born being a good parent.
+Most people just have to muddle through and do the best that they can. 
+PICARD: Are you saying that's what I'm going to have to do? 
+TROI: Yes. And you might be surprised at just how good you can be.
 

@@ -1,38 +1,70 @@
-RIKER OBRIEN LAFORGE WORF PICARD WESLEY DATA
+TROI LAFORGE GUEST1 PICARD RIKER WESLEY DATA GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WESLEY: It's a building of some sort, situated on a
-plain of frozen methane, smack in the middle of a tremendous storm
-belt. 
-RIKER: I don't believe this. That structure is surrounded by breathable
-air. 
-PICARD: Is there any connection between that structure and the ship
-fragment we found? 
-LAFORGE: Unknown, sir. 
-PICARD: Suggestions? 
-RIKER: Just one, sir. We could go down there and have a look. 
-PICARD: Breathable air. No life forms that might be dangerous. I think
-we could risk a minimal away team, Number One. 
-[Transporter room]
+PICARD: Status report. 
+WESLEY: We're attempting to employ alternate encoding schemes. 
+LAFORGE: There could be hundreds of possible combinations. 
+PICARD: Is there an intelligence causing this interference? 
+LAFORGE: That's impossible to tell, Captain. 
+PICARD: It's unlike Commander Riker not to follow procedure. When he
+lost contact with the Enterprise, he should have returned immediately
+to the beam down coordinates. 
+TROI: I don't feel he's in any danger. In fact, if I could choose one
+word to assess his mood, it would be amused. 
+PICARD: Amused? 
+[Casino]
 
-(Riker, Data and Worf are the away team) 
-O'BRIEN: Give me a moment, gents. We're dealing with an extremely
-narrow access point. 
-RIKER: Phasers on stun. Ready when you are. 
-O'BRIEN: I believe we've got it now. You have a green light, Commander.
-
-RIKER: Energise.
-
-[Planet surface]
-
-(Nothing. Absolute void, except for..) 
-DATA: Those ammonia storms are less than a kilometre away, yet they do
-not appear to penetrate this breathable zone. 
-RIKER: It's like the eye of a hurricane. 
-WORF: Commander, what is that? 
-(It is a revolving door, with art nouveau decoration. No building, just
-the turning door and it's frame) 
-RIKER: A door. 
-DATA: The structure must be here, yet we cannot see it. 
-RIKER: Enterprise, this is Commander Riker. 
+(Good ol' Tex is settling himself at a blackjack
+table, next to a blonde lady. Data goes up to the table) 
+GUEST5: Put some chips there, mister. Yes, sirree! You're new around
+here, aren't you? 
+DATA: Yes, sir. 
+GUEST5: Sit down. I'm going to teach you how this game is played, boy.
+Go ahead. Ante up. 
+(Tex puts his Stetson on Data, and Data sits the other side of him) 
+GUEST1: He wants you to cut the cards. 
+DATA: Ah, is this poker? 
+GUEST5: No, no, blackjack. 
+DATA: Blackjack. Accessing. Ah. Also known as twenty one, a number
+which defines the object of the game. Picture cards are worth ten, aces
+one or eleven, all other cards face value. 
+GUEST5: Boy, you're right. You are right. 
+(Data does a one-handed cut of the pack, and Vanessa whistles at his
+skill) 
+GUEST5: Pretty smooth. Run 'em, boy. Make 'em nice and friendly. 
+GUEST1: Twenty one, twenty one. 
+GUEST5: Don't look at your hand, honey. That gal has got to win. Now,
+honey, you got fifteen and the dealer's showing ten. 
+GUEST1: Do I hit, Texas, or do I stand? 
+GUEST5: If you've got to win, you've got to hit. 
+GUEST1: Hit me. (a king) Damn! 
+GUEST5: Shoot. Hit me. Twenty one, and a winner. Yes, sirree. 
+DATA: Hit me. Another please. 
+GUEST5: Do you think you've had about enough? 
+DATA: If the objective of the game is to approach a total of twenty one
+points, I will definitely need another card. 
+GUEST1: Yeah. 
+GUEST5: Boy, you have got the brass. Do you know what the odds are on a
+five card charlie? Hell, you're just throwing your money away. 
+DATA: Hit me. 
+(Even with the final nine, the two twos and the two threes keep him
+from going bust) 
+GUEST5: How'd you? Shut my mouth. Hey, you're not one of them card
+counting fellas, are you? 
+DATA: The number of the cards and their values remain quite constant.
+What would be the purpose in counting them? 
+GUEST1: Yeah. 
+RIKER: Having fun, Data? 
+DATA: Fun, sir? While there is a certain amount of enjoyment involved,
+I am mainly conducting research into 
+RIKER: Save it. We're getting out of here. 
+DATA: Understood, sir. 
+GUEST5: Guys, you're holding up the game. 
+RIKER: Our apologies, sir. 
+GUEST5: I'll watch your chips. 
+DATA: Thank you, sir. 
+GUEST5: Hey. The hat. 
+DATA: Sorry, sir. 
+GUEST5: Deal them up. 

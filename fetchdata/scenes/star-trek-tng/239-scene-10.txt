@@ -1,82 +1,38 @@
-RIKER LAFORGE WORF PICARD TORAK CRUSHER AQUIEL
+RIKER AQUIEL WORF LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Aquiel's shuttlecraft]
 
-WORF: Governor Torak, sir. 
-PICARD: Governor. Welcome aboard. 
-TORAK: Do not bore me with your human pleasantries. I told you we did
-not kill the woman. Now I will prove it to you. ghoS! 
-(a Klingon escorts a woman into the room) 
-TORAK: This is Lieutenant Aquiel Uhnari. 
-(soon after) 
-AQUIEL: We were running a level two diagnostic of the message buffer,
-Nothing special. Rocha had been on edge all morning, but he'd been
-irritable ever since he got there, so I didn't think anything of it. We
-were halfway through the procedure when suddenly he attacked me. He
-grabbed me, threw me against a bulkhead. I yelled at him to stop but he
-wouldn't listen. He took me by the throat. I broke free and tried to
-get to the weapons locker. I'm not sure what happened next but somehow
-I got aboard the shuttle and left. 
-TORAK: We found her on our side of the border heading toward Sector two
-five two zero. She is lucky my patrol ship did not destroy her vessel
-on sight. 
-PICARD: Lieutenant, why didn't you contact Starfleet? Let them know
-what happened on board the station? 
-AQUIEL: I don't know, sir. Maybe I passed out. I'm not even sure how
-long I was in the shuttle before the Klingons picked me up. 
-LAFORGE: Forty six hours. You've been gone forty six hours. 
-CRUSHER: We presumed you were dead. Your blood stains were found at the
-murder scene. 
-AQUIEL: I must have cut my head when he pushed me against the bulkhead.
+(Worf finds a phaser) 
+WORF: Commander. It is set to kill.
 
-WORF: Then the remains we found must be those of Lieutenant Rocha. 
-CRUSHER: I can't confirm that. Until we're able to separate the
-cellular residue from the
-deck plate, I won't be able to do a clear DNA scan. 
-RIKER: You said you were trying to get to the weapons locker. Is there
-a possibility
-that you did? 
-AQUIEL: No, I didn't. 
-RIKER: You're sure? 
-AQUIEL: I don't remember exactly what happened to me after I was
-attacked. I'm sorry. It's as if all my memories were drained out of me.
+[Guest quarters]
 
-LAFORGE: Your logs said that a Commander Morag had been harassing you.
-Did you let him or any other Klingon aboard the station? 
-AQUIEL: Absolutely not. 
-WORF: If that is true, then Morag or some other Klingon must have
-boarded the station after she left. We found traces of Klingon DNA on
-the station. 
-TORAK: You still try to blame us. 
-WORF: Have the courage to admit your mistakes. Or are you a lo'Be Vos? 
-TORAK: At least I do not wear the uniform of the P'tak! 
-PICARD: Governor, we are merely exploring all the possibilities.
-Lieutenant Uhnari's logs reported that Commander Morag had been
-harassing the station. 
-TORAK: He was doing his job. 
-PICARD: If he was only doing his job, then I'm sure you won't mind if
-we spoke with him. 
-TORAK: Very well. In the interests of diplomacy, I will allow you to
-speak to Morag. But my patience has limits. 
-(Torak and his aide storm out) 
-LAFORGE: Lieutenant, I know a friend of yours who's very eager to see
-you. 
-AQUIEL: Who? 
-LAFORGE: Come with me.
-
-[La Forge's quarters]
-
-AQUIEL: Maura! Come here, girl. Come on, Maura.
-LAFORGE: Maura. That's the name. 
-AQUIEL: Yes, it's from Cold Moon Over Blackwater. Have you read it? 
-LAFORGE: I'm not much for gothic fiction. 
-AQUIEL: Not many people are nowadays. Oh, your shoe. 
-LAFORGE: Yeah, Maura got a little restless. 
-AQUIEL: Maura, shame on you. That's not like you. What a naughty dog. 
-LAFORGE: It's all right, don't worry about it. At least she's chewing
-them up in pairs. I'll arrange quarters for you. I'm sure you want some
-time alone. 
-AQUIEL: Actually I've been stuck on that station for over nine months.
-I wouldn't mind going someplace with some activity. 
-LAFORGE: I know just the place.
+RIKER: We found this type two phaser in your
+shuttlecraft. It was taken from the weapons locker on the station. 
+AQUIEL: I told you I don't remember what happened. Maybe I did make to
+the weapons locker. 
+RIKER: It was set to level ten. Standard procedure requires that all
+phasers are set on level one when they're in storage. 
+WORF: That means that someone deliberately changed the setting. And
+then there is the matter of your conflict with Lieutenant Rocha. 
+AQUIEL: Rocha and I had our disagreements but that does not mean I
+would kill him. 
+RIKER: Have you been able to remember anything that happened after he
+attacked you? 
+AQUIEL: No. Nothing. I suppose maybe in self-defence I 
+RIKER: Doctor Crusher tells me that in order to inflict the kind of
+molecular damage found in Rocha's remains, it would take a sustained
+phaser discharge of at least thirty to forty seconds. That doesn't
+sound like self-defence to me. 
+LAFORGE: Now wait a minute. We haven't even established this phaser is
+the murder weapon yet. And even at level ten I don't see how it could
+have done the damage the medical evidence says it did. A phase
+disruptor like a Klingon weapon, maybe. 
+RIKER: Look, we're not here to make accusations. We're trying to find
+out what happened. Commander Morag is due here in two hours. Let's see
+what he has to say. 
+LAFORGE: Fine. In the meantime I'd like to go back to the station and
+see if I can access Rocha's personal logs again. 
+RIKER: Good idea.
 

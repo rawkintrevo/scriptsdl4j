@@ -1,38 +1,31 @@
-PICARD WAKASA TROI ANTHWARA
+WESLEY LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Meeting room]
+[Engineering]
 
-(the five members of the tribal council are sitting
-around the table) 
-PICARD: Anthwara, there's very little I can do. The decision about this
-planet was made at the very highest level of Starfleet. 
-WAKASA: (a young man) Do you know how long we have searched for a home?
-Almost two hundred years. Then we found this world. Can you blame us
-for not wanting to give it up? 
-PICARD: I understand and I respect your people's long journey, but I
-believe that I can help you to find a new home. 
-TROI: As you can see, there are three other planets in this sector that
-have environmental conditions similar to those here on Dorvan Five.
-They're all uninhabited and could be colonised immediately. 
-PICARD: And if none of these worlds meet with your approval, then we'll
-find you other choices. 
-ANTHWARA: (a lovely mane of white hair) You do not understand, Captain.
-The choice of this world was not only because of environmental
-conditions. There were other more intangible concerns as well. When I
-came here twenty years ago, I was welcomed by the mountains, the
-rivers, the sky.
-WAKASA: Anthwara, he's laughing at you. He thinks you're talking about
-old superstition and nonsense. 
-PICARD: This is not true. I have the deepest deal of respect for your
-beliefs and the meaning that they hold for your people. 
-ANTHWARA: Then you can respect the fact that this planet holds a deep
-spiritual significance for us. It has taken us two centuries to find
-this place. We do not want to spend another two hundred years searching
-for what we already have. 
-TROI: Captain, I suggest we adjourn. Allow us all time to think about
-what's been said. 
-ANTHWARA: Agreed. We will reconvene tomorrow. 
-PICARD: And in the meantime, I would like to invite you all to join us
-this evening on the Enterprise. 
-ANTHWARA: Thank you. We look forward to it.
+(Wesley is not in uniform) 
+LAFORGE: Thanks, Ensign. Hey, Wes! There you are. Come here for a
+second. I've got something I want to show you. Come on, come on. You've
+got to take a look at this. Now, remember how we always used to talk
+about improving quantum efficiency by creating a new plasmadyne relay?
+Well, take a look at this. 
+WESLEY: You've only got one microfusion interrelay in there? Your
+converter interface'll never hold up. 
+LAFORGE: Hey, I ran these diagnostics myself. This little baby will
+withstand over five hundred Cochranes of warp field stress. 
+WESLEY: I don't think so. You better put a secondary phase inverter in
+there. Look at your subprocessor matrix. It needs an overhaul. 
+LAFORGE: Well, that may be your opinion, Cadet, but I stand by my work.
+
+WESLEY: Read the latest paper from Doctor Vassbinder. He has brilliant
+new theories on warp propulsion inter-relays. He's say all this stuff
+is obsolete. 
+LAFORGE: I don't know what's gotten into you, Wes. 
+WESLEY: Look, do you want my help or not? 
+LAFORGE: With this kind of an attitude, absolutely not. You're
+dismissed. 
+Captain's log, supplemental. The Enterprise has
+arrived at Dorvan Five and I have spoken to the Leader of the Tribal
+Council. He has agreed to meet with us this afternoon to discuss the
+situation.
 

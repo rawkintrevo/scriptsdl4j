@@ -1,78 +1,37 @@
-PICARD RIKER CRUSHER DATA NELLA
+RIKER LAFORGE WORF NELLA PICARD HELM DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Engineering]
 
-(a shared meal) 
-PICARD: And so the upshot is that we'll be close enough for you to slip
-away for a few days and see Wesley. 
-CRUSHER: Oh, that's wonderful. Thank you, Jean-Luc. This is delicious. What is it? 
-PICARD: It's an herbal tea blend. I, er, found it in the replicator
-files. Have you met any of the new crewmembers who came aboard at
-Starbase two eighteen? 
-CRUSHER: In fact, I have a new nurse, Beck. He's an obstetrics
-specialist. 
-PICARD: I met the new head of Stellar Sciences last night. Lieutenant
-Commander Daren. 
-CRUSHER: Yes. Nella Daren. She came into Sickbay for her physical last
-week. I like her. Very forthright. 
-PICARD: Did you know it is now possible to predict the configuration of
-a star system which won't be formed for another two million years? 
-CRUSHER: Really? No, I didn't. 
-PICARD: It's really quite intriguing. The whole thing is made possible
-by a complex mathematical construct based on fractal particle motion.
-But that's only the foundation. The modeling itself is done by
-gravimetric wave input. 
-CRUSHER: I see. 
-PICARD: Well, I know this is all pretty dry stuff. Stellar cartography
-isn't everybody's cup of tea. 
-CRUSHER: I'm sure it's really quite fascinating. 
-PICARD: You know, we'd should be getting along to Ten Forward. We're
-going to be late for the concert.
+(Geordi can hear the music, and goes into the main
+Jefferies tube access to investigate) 
+DATA: Is there a problem, Geordi? 
+LAFORGE: I hear music. 
+DATA: Music? I do not hear anything. 
+LAFORGE: Are you sure? I know I heard something. Oh, it's stopped. 
+(because the musicians are kissing)
 
-[Ten Forward]
+[Turbolift]
 
-(the raised area in front of the windows is the
-stage. Data and a cellist enter, then the pianist, Nella. Troi picks up
-Picard's emotions during the performance) 
-(afterwards, at the bar) PICARD: Thank you. 
-NELLA: Well done, Mister Data. Well done. 
-PICARD: Commander, that was a remarkable performance. 
-CRUSHER: You are very talented. 
-NELLA: Thank you. 
-DATA: I noticed that the applause this evening exceeded average decibel
-levels. 
-NELLA: I guess that means they enjoyed themselves. 
-PICARD: I think that much was obvious. 
-DATA: Excuse me. I have not yet congratulated Ensign Cheney. 
-CRUSHER: I'll go with you. 
-PICARD: Commander, you must have been playing since you were young. I
-played the piano for a while when I was small, but I didn't put in the
-practice you must have. 
-NELLA: Practising was never my problem. In fact, my parents had to make
-me go out and play. 
-PICARD: I wanted to ask, during the second arpeggio in the first
-movement, I noticed that you played an F minor chord instead of a
-diminished D. 
-NELLA: You're a musician. What's your instrument? We should play some
-time. 
-PICARD: No, no, no, I'm just an amateur. But your choice in that
-arpeggio was delightful. Not at all what one would expect. 
-NELLA: Well, Captain, now that I'm on your ship, maybe you should start
-expecting the unexpected.
+NELLA: I'd heard about Kerelian tenors all my life,
+but nothing could've prepared me for this man's voice. Soaring,
+incredible range. Wonderful. 
+PICARD: I understand there are nuances that only Kerelians can pick up.
+We just don't have the ears for it. 
+(a crewwoman enters) 
+NELLA: I should be finished with my survey by eleven hundred hours. 
+PICARD: Very good, Commander.
 
 [Bridge]
 
-(at the nebula) 
-NELLA: Excuse me, sir. I was hoping that my people in Spectral Analysis
-could have another few hours on the main sensor array? 
-RIKER: I'm sorry, the array has already been allocated to Engineering.
-They're running some warp field tests. 
-NELLA: If we go offline now, we'll lose the gas flow pattern we've been
-tracking. 
-RIKER: I understand, but there are other departments waiting to use the
-array. 
-NELLA: We're at a critical juncture, sir. 
-RIKER: Commander. I'll see what I can do to find you some more time
-tomorrow. 
-NELLA: Tomorrow? Tomorrow. Thank you, sir.
+WORF: Captain. The Federation Outpost on Bersallis
+Three reports that they are entering a period of fire storm activity. 
+LAFORGE: Bersallin fire storms happen on seven year cycle. They're not
+expecting any for another eight months. 
+PICARD: We don't rendezvous with the Havana for another two days.
+That'll give us plenty of opportunity to study this phenomenon. 
+RIKER: Helm, set course for Bersallis Three. Warp five. 
+HELM: Aye, sir. 
+PICARD: Counsellor, could I speak with you in my Ready room? You have
+the Bridge, Number One.
 

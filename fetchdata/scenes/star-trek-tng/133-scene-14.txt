@@ -1,86 +1,30 @@
-TROI OBRIEN LAFORGE WORF PICARD PULASKI KINGSLEY
+PULASKI PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Science lab]
+[Bridge]
 
-O'BRIEN [OC]: It has to be right the first time. 
-PICARD: Well take all the time you need. 
-O'BRIEN [OC]: Entering corrections now, sir. 
-[Transporter room]
-
-O'BRIEN: Ready, Captain. 
-[Science lab]
-
-PULASKI: Doctor Kingsley, are you ready to
-transport? 
-KINGSLEY [OC]: You have the coordinates. We have one twelve year old
-male encased in number six styrolite. 
-LAFORGE: Transporter, energise. 
-(A male older than twelve appears on the table) 
-WORF: A trick! 
-LAFORGE: Transporter, reverse 
-PICARD: One moment, Lieutenant. Whoever he is, he's still in stasis. 
-PULASKI: The styrolite is intact, Captain. 
-PICARD: Force field down. 
-TROI: Captain, there's a definite presence, a distinct personality.
-Even in stasis it's quite strong. The child is unquestionably
-telepathic. 
-PULASKI: A child this mature? We could be looking at the future of
-humanity. 
-PICARD: At least Doctor Kingsley's vision of it. 
-(Later, as two nurses do most of the examining with various
-instruments, Picard returns to the lab) 
-PULASKI: This child is in better health than we are. His immune system
-is so advanced it may not be possible for him to contract disease. I
-want to free him from the styrolite. 
-PICARD: That seems rather risky, Doctor. 
-PULASKI: I can do no further tests until he's out of it. 
-PICARD: But what if you're wrong? You saw what happened on the Lantree.
-
-PULASKI: I know I'm right. 
-PICARD: I can't expose the Enterprise until I know where this disease
-came from and how it is transmitted. 
-PULASKI: I realise that, Captain. Naturally, we'll establish a force
-field containment. 
-PICARD: But if we lose the force field for any reason, we lose the
-ship. Force fields can fail, and until 
-PULASKI: We don't have that kind of time. These children can't survive
-in the lab once their parents are dead. Look at him, Captain. He's a
-human being who needs our help. 
-PICARD: But the risk is 
-PULASKI: Minimal. 
-PICARD: If you can demonstrate that he is biologically harmless without
-risk to the crew, I'll do everything in my power to assist. And Doctor,
-God knows I'm not one to discourage input, but I would appreciate it if
-you'd let me finish my sentences once in a while.
-
-[Corridor]
-
-PULASKI: Deanna, do you have a minute? You've known
-the Captain for some time. I think I need some advice. I don't seem to
-be dealing with him very well. 
-TROI: Why do you say that? 
-PULASKI: Well, my arguments don't seem to have any affect on him. We
-just end up quoting regulations to each other. He has such a consuming
-dedication to his ship, he doesn't seem able to step back to see the
-human side of the equation. 
-(Troi smiles) 
-PULASKI: What's the matter? 
-TROI: Kate, I don't think he'd be where he is if he couldn't see the
-human side of the equation. Perhaps the two of you aren't all that
-different. 
-PULASKI: What do you mean? 
-TROI: Let's just say you both have well established personalities.
-
-[Doctor's office]
-
-PULASKI: Doctor Kingsley, this is Kate Pulaski. 
-KINGSLEY [on monitor]: Doctor? Do you have a decision? 
-PULASKI: I'm afraid it's bad news. 
-KINGSLEY [on monitor]: How can that be?! 
-PULASKI: The risk to the ship and crew is too great. Until we
-absolutely know the cause of the disease, the children 
-KINGSLEY [on monitor]: The children are harmless. Every test on them
-has been negative. I demand that you do something to save them. Please,
-Doctor. For God's sake, we haven't got much time. 
-PULASKI: Stand by. I'll get back to you.
-
+PICARD: Have you made any progress, Doctor? 
+PULASKI [on viewscreen]: I'm afraid so, Captain. The children don't
+carry the disease, they are the cause. 
+PICARD: What do you mean? 
+PULASKI [on viewscreen]: Their advanced immune system has created an
+antibody that changes normal DNA. The altered genes are the ones that
+control aging. 
+PICARD: Then why did it attack you more quickly than Doctor Kingsley? 
+PULASKI [on viewscreen]: The enclosed environment of the shuttlecraft
+concentrated my exposure. The Lantree's First Officer carried the
+antibody onto his ship. It had the same effect on his crew. 
+PICARD: Right, what's the next step? 
+PULASKI [on viewscreen]: The children will survive, but the rest of us
+are just about out of time. 
+PICARD: Doctor, I want you back aboard this ship. We'll beam you up in
+suspended animation like the boy. That will give us more time. 
+PULASKI [on viewscreen]: Captain, I appreciate what you're trying to
+do, but I got into this by leaping before I looked, and I won't allow
+you to make the same mistake. Chief Medical Officer's log. This will be
+my final report to the Enterprise. Just as changes in evolution are
+known to be caused by changes in the environment, we now know the
+process also works in reverse. An attempt to control human evolution
+has resulted in a new species that's lethal to its predecessors. The
+children will be condemned to live out their lives in isolation.
+Quarantine of the Darwin Station must be maintained for ever. 

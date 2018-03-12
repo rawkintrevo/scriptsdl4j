@@ -1,51 +1,41 @@
-RIKER OBRIEN LAFORGE WORF PICARD CRUSHER
+GUEST1 LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Pit]
+[Cave]
 
-LAFORGE: Worf! Commander Riker! 
-[Galorndon Core]
-
-RIKER: Hold your position, Mister Worf.
-(Worf, Riker and the Romulan are beamed away)
-
-[Pit]
-
-LAFORGE: Worf!
-
-Captain's log, Stardate 43349.2. An unidentified
-distress signal has led to the discovery of a crashed Romulan vessel on
-the surface of Galorndon Core, a Federation planet. We have recovered
-one survivor, but Lieutenant Commander La Forge did not report back
-with the away team and is still missing.
-
-[Transporter room]
-
-CRUSHER: Get him to Sickbay. 
-WORF: Secure Sickbay. Post a guard in visual contact at all times. 
-CRUSHER: He's not going anywhere, Lieutenant. 
-O'BRIEN: I'm sorry, Commander. There's just no way to lock in on
-anything down there. 
-RIKER: Keep trying, O'Brien. 
-O'BRIEN: The electrical storm's creating thousands of ghosts. 
-RIKER: Well beam some of those ghosts back. One of them may be Geordi.
-Permission to lead another away team, sir. 
-PICARD: Denied. When we get another window in the storms. The crash
-site?
-
-[Corridor]
-
-RIKER: The Romulan craft is a total loss. There's
-nothing there to salvage unless you want to use tweezers. 
-PICARD: No sign of others? 
-RIKER: You couldn't see two metres in front of yourself down there. 
-PICARD: It certainly is the last place one would expect Romulan
-encroachment. On the other hand, Galorndon Core
-would provide ideal cover for an opening move of a new offensive. 
-RIKER: I doubt if they were there for the climate.
-
-[Pit]
-
-(Geordi has spotted some medal ore in the wall of
-the pit. He makes a groove in the mud, puts the nodules in it then uses
-his phaser to melt them into a dagger shape)
+LAFORGE: I sure wish you'd put that away. 
+GUEST1: You're afraid of dying. 
+LAFORGE: You bet I am. Who isn't? 
+GUEST1: I'm not. 
+LAFORGE: Right. 
+GUEST1: To die in the service of my people. 
+LAFORGE: Ah, the Romulan path to glory. 
+GUEST1: You can be sarcastic now, but in a few millennia, when humans
+are extinct and the Romulan Empire spans the galaxy. 
+LAFORGE: You really believe that stuff, don't you, Commodore? 
+GUEST1: You may address me as Centurion Bochra. 
+LAFORGE: Bochra? Good, solid Romulan name. What's the matter? 
+GUEST1: Nothing. 
+LAFORGE: Wrong. Your heart rate just shot way up. (taps the Visor) It
+translates a wide range of radiation into neural impulses. Allows me to
+see. 
+GUEST1: Without it, you're blind? 
+LAFORGE: Yes. 
+GUEST1: How did this happen? 
+LAFORGE: I was born that way. 
+GUEST1: And your parents let you live? 
+LAFORGE: What kind of question is that? Of course they let me live. 
+GUEST1: No wonder your race is weak. You waste time and resources on
+defective children. 
+LAFORGE: Whoa. I must be having some sort of polarity shift. The
+diagnostic insists everything's fine. Hey, hey, your body temperature's
+gone up another full point. 
+GUEST1: What are you saying? 
+LAFORGE: I don't know. It must be this place, all that electromagnetic
+soup, it's wreaking havoc on our nervous systems. Your metabolism's
+messed up, so's my interface with the Visor. We've got to get out of
+here while we still can. 
+GUEST1: Sit down. 
+LAFORGE: Bochra 
+GUEST1: Sit down!
 

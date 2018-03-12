@@ -1,85 +1,40 @@
-RIKER ISHARA LAFORGE WORF PICARD TANTSU CRUSHER DATA
+RIKER WOMAN LAFORGE WORF GUEST3 OBRIEN GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Tunnel]
+
+GUEST3: Let's check five. 
+GUEST3 2: Yes, sir. 
+GUEST3 [OC]: Check on three. 
+WOMAN [OC]: Checking. 
+(Ishara makes her way through the area, and her proximity alarm goes
+off again) 
+WOMAN: Somebody's here. 
+GUEST3: Watch your backs. 
+GUEST4: I'm right behind you. 
+(Their proximity alarms go off too) 
+WOMAN [OC]: This way. 
+GUEST3 [OC]: Go, go. 
+[Level 3C, 547]
+
+LAFORGE: Damn! 
+RIKER: Geordi, what is taking so long? 
+LAFORGE: There's a lot of damage here. The myographic scanner is
+operational, but the power source keeps fluctuating. 
+RIKER: Can you fix it? 
+LAFORGE: I can probably run a shunt from the convertor. 
+RIKER: How long will that take? 
+LAFORGE: Ten minutes? 
+RIKER: Do it. O'Brien, lock onto Ishara and get her out of here!
 
 [Transporter room]
 
-DATA: Welcome to the Enterprise, Ishara. I am
-Commander Data. 
-ISHARA: You're not human. 
-DATA: I am an android. 
-ISHARA: Built for fighting? 
-DATA: On what do you base that assumption? 
-ISHARA: A cybernetic device serving on a starship. 
-DATA: The Enterprise is not a ship of war. It is a ship of exploration.
+O'BRIEN: There's a transformer substation directly
+above the chamber she just entered. It's masking her signal.
 
-ISHARA: The first thing to do is help you map the colony. This is a
-general grid of the tunnel system. I can fill in the specific details
-from memory. 
-DATA: My orders are to escort you to the Observation Lounge. Please
-come with me.
+[Level 3C, 547]
 
-[Corridor]
-
-DATA: Your sister never spoke of you. 
-ISHARA: That's not surprising. 
-DATA: It is surprising to me. Tasha and I spent much time together. We
-had a considerable number of conversations. 
-ISHARA: Did she talk at all about the colony? 
-DATA: Only to say that she was lucky to have escaped. 
-ISHARA: It wasn't luck. It was cowardice. 
-DATA: Cowardice is a term that I have never heard applied to Tasha. 
-ISHARA: Is something wrong? 
-DATA: No. It is just that for a moment, the expression on your face
-reminded me of her. 
-ISHARA: It's been fifteen years. I don't even remember what she looked
-like.
-
-[Observation lounge]
-
-(Data and Ishara enter) 
-ISHARA: You don't believe I'm Tasha's sister. 
-PICARD: We have considered the possibility. 
-ISHARA: I'm not surprised. You can sample my DNA if you like. 
-CRUSHER: Yes, I will. 
-PICARD: Please, sit down. 
-(Riker offers her his seat) 
-ISHARA: Thank you. 
-PICARD: Perhaps it would help if you gave us some idea of what we're
-dealing with on Turkana Four. The last information describes a colony
-in almost complete disarray. 
-ISHARA: It started falling apart almost thirty years ago. There were
-dozens of factions. They fought until the city above ground was in
-ruins. 
-RIKER: The Coalition and the Alliance are all that's left? 
-ISHARA: We were the two strongest factions. When the government
-couldn't stop the violence, they gave us police powers. The proximity
-detectors were originally designed by the government to keep us under
-control. 
-PICARD: Apparently, that part of the plan didn't work very well. 
-ISHARA: No. After a few months, we didn't need the government any more.
-
-LAFORGE: Tasha left you in the middle of all that? 
-ISHARA: She didn't abandon me, if that's what you mean. Tasha asked me
-to go with her, but I had already joined the Coalition. They were my
-family. Captain, we don't have a lot of time. Maybe we should get
-started. 
-WORF [OC]: Incoming transmission from the colony, Captain. 
-PICARD: On screen. 
-TAN TSU [on monitor]: Enterprise, I'm being held by Turkana Four
-Alliance. I've been instructed to say that you have twenty hours to
-make reparations for Federation intrusion into this colony, or my pilot
-and I will be killed. 
-CRUSHER: Ask them if we can at least send some medical 
-(transmission ends) 
-ISHARA: Take that threat seriously, Captain. They'll torture them and
-then they'll kill them. My cadre has never recovered a hostage alive
-from the Alliance. Your crewmen could be held in any number of places.
-The Alliance has two main headquarters and thirteen ancillary bases of
-operation. All underground, all heavily guarded. 
-LAFORGE: Captain, if I could get to the myographic scanner. 
-ISHARA: What's that? 
-DATA: A sensing device from the escape pod. It monitors the bioelectric
-signatures of the crew, in the event they get separated from the pod. 
-LAFORGE: I could install a booster on the device that would relay its
-signals to the Enterprise. Then we could track the men from up here. 
-PICARD: Unfortunately, we don't know where the escape pod is. 
-ISHARA: Level three C, section five four seven. We have our sources. 
+RIKER: Stand by. Stay here and cover La Forge. 
+WORF: Commander! 
+RIKER: That's an order. Return to the ship as soon as you're finished.
+I'll signal for transport as soon as I can. 

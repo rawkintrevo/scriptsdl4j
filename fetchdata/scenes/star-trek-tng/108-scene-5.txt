@@ -1,45 +1,47 @@
-LAFORGE TASHA PICARD GEORDI CRUSHER DATA
+TROI LAFORGE WORF PICARD WESLEY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Sickbay]
+
+(Work is on a bed, with Beverly tending to him,
+when blue energy comes out of him, up her arms. She sags, then Troi
+enters) 
+TROI: He's reading normal now. How did you manage that? 
+CRUSHER: Yes. Normal. 
+TROI: Are you all right? 
+CRUSHER: Yes, perfectly. Both of us. Quite normal now. 
+(Worf wakes suddenly) 
+WORF: What? Where am I? 
+TROI: Don't you remember? You were in the sensor maintenance room. 
+WORF: I remember monitoring the sensor console. What am I doing here? 
+TROI: That's a story the Doctor will tell you. 
+(But Crusher walks out)
 
 [Bridge]
 
-TASHA: We're making a close sensor pass on an
-unusual object, Geordi. Any problems? 
-GEORDI [OC]: Not at all, Lieutenant. All equipment on line and
-functioning. 
-TASHA: Sensors ready, sir. 
-PICARD: Life form reading? 
-DATA: No life form reading, sir. 
-PICARD: Begin the pass. 
-(The Enterprise approaches the blue cloud) 
-DATA: Sir, it is changing shape. 
-PICARD: Any readings of matter there? 
-DATA: Negative, Captain. Energy only. 
-(The Enterprise enters the cloud)
+(At a rear science station) 
+PICARD: Obviously you feel it's something we should look at more
+carefully. 
+DATA: A mystery is only a mystery as long as it remains uninvestigated,
+sir. 
+PICARD: I love a mystery, Data, but this one will have to to wait until
+we deliver the delegates to their peace conference on Parliament. Time
+and tide, Lieutenant La Forge. Go to warp eight. 
+LAFORGE: Warp eight, sir. 
+[Crusher's quarters]
 
-[Sensor Maintenance]
-
-(Worf goes over to a wall panel, and puts his pen
-device on it. Blue energy goes up his arm and he cries out. Then he is
-flung back to the floor) 
-LAFORGE: Worf! La Forge to Sickbay. We havd a medical emergency in
-sensor maintenance. I repeat, this is a medical emergency. 
-(after the titles, Crusher and a medic dash in) 
-CRUSHER: What happened? 
-LAFORGE: I don't know. He got hit by some sensor feedback, maybe. 
-(Worf suddenly wakes up and starts fighting the medic. Geordi lies
-across him so Crusher can inject him) 
-LAFORGE: You got it, Doc? 
-CRUSHER: I got it. Lieutenant Worf, can you hear what I'm saying? Let's
-get him up. 
-GEORDI: Okay. Come on, big guy. On your feet. Here we go. That's it. 
-CRUSHER: (to medic) Are you okay?
-
-[Ready room]
-
-LAFORGE: He was just monitoring the sensor console
-when he jerked as though something hit him. What my sensors showed was
-a glow, just for a second. I can't explain it. 
-PICARD: Could your Visor device have malfunctioned? 
-LAFORGE: I doubt it, sir. It seemed what I was seeing was something
-real.
-
+WESLEY: Him Mom. You're back early. 
+CRUSHER: Yes. 
+(She looks at the computer monitor he's studying) 
+WESLEY: Physical sciences class. We're studying Doctor Channing's
+theory on dilithium crystals. 
+CRUSHER: Tell me about it. 
+WESLEY: Really? You never seemed that interested in warp theory before.
+Doctor Channing thinks it's possible to force dilithium into even more
+useful crystals. If as shown here, matter and antimatter could be
+aligned even more efficiently 
+CRUSHER: Would that affect navigation? 
+WESLEY: This is engineering, not helm control. 
+CRUSHER: Oh yes, the helm's located on the Bridge. 
+(Beverly leaves) 
+WESLEY: Mom, is something wrong? 

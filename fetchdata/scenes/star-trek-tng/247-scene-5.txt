@@ -1,35 +1,6 @@
-TROI LAFORGE CREWMAN MEDIC RIKER NURSE CRUSHER
+RIKER TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
-
-CRUSHER: Boy, you will do anything to get out of
-doing this play, but you're going to have to do something better than
-this. 
-RIKER: The play's not till tomorrow night. I've still got twenty four
-hours. 
-(she removes the cut) 
-CRUSHER: Don't get any ideas. I will see you on stage at eighteen
-hundred hours. 
-RIKER: Right. That still hurts. 
-CRUSHER: There was no damage to the nerves so you shouldn't be feeling
-any pain. 
-RIKER: Probably just a symptom of stage fright. 
-(La Forge and a college bring in a badly burned engineer) 
-CREWMAN: It hurts! 
-LAFORGE: He was working on a conduit on deck thirty nine. A plasma
-torch blew up in his hands. 
-CREWMAN: It hurts! Please! 
-CRUSHER: Hypospray. 
-MEDIC: Yes, Doctor. 
-(this dialogue gets very faint as we concentrate on Riker and the eyes
-of the injured man) 
-CRUSHER: Get me twenty cc's of opporozine. Treat the surface burns with
-the anabolic stabiliser. 
-MEDIC: Yes, Doctor. 
-NURSE: Should we get a stasis unit? 
-CRUSHER: Have one standing by just in case. Get me an epidermal sample.
-Begin dermal regeneration. Have tissue regrowth standing by. I want him
-sedated. 
 [Ten Forward]
 
 RIKER: I've been on a lot of missions, seen a lot

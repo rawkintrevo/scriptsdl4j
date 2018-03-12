@@ -1,60 +1,68 @@
-DTAN PICARD SPOCK PARDEK ROMULAN
+PICARD RIKER SPOCK GUEST4 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cafe]
-
-(the soldier puts the flower in a glass) 
-ROMULAN 1: Allow me to brighten your table. Jolan tru.
-SPOCK: The Senate has adjourned. Pardek will be here shortly.
-PICARD: How widespread is this movement?
-SPOCK: There are groups in every populated area. I've personally spoken
-with members from four provinces. It has become a serious concern for
-the Romulan leadership.
-PICARD: Serious enough for the leaders to suddenly embrace a Vulcan
-peace initiative? I have some difficulty in accepting that.
-SPOCK: I sense you have a closed mind, Captain. Closed minds have kept
-these two worlds apart for centuries. In the Federation, we have
-learned from experience to view the Romulans with distrust. We can
-either choose to live with that enmity or seek an opportunity to change
-it. I choose the latter. 
-PICARD: I will be the first to cheer when the Neutral Zone is
-abolished. But I wonder if this movement is strong enough to reshape
-the entire Romulan political landscape.
-SPOCK: One can begin to reshape the landscape with a single flower,
-Captain.
-D'TAN: Jolan Tru, Mister Spock. Here, look what I've brought you. 
-(it is a small book) 
-SPOCK: This is my friend, D'Tan. He's very curious about Vulcan. 
-PICARD: Hello, D'Tan. 
-SPOCK: Where did you get this? This is very old. 
-D'TAN: They read to us from it at the meetings. It tells the story of
-the Vulcan separation. 
-PARDEK: D'Tan, you should not bring that out here. You've been told
-many times. 
-D'TAN: I just wanted to show it to Mister Spock. 
-PARDEK: Off with you. We'll see you later tonight. 
-D'TAN: Will you tell us more stories about Vulcan?
-SPOCK: Yes, I will. 
-D'TAN: Jolan Tru.
-PARDEK: Perhaps this is not such a good place to talk. 
 [Romulan street]
 
-PARDEK: So, what do you think of your enemy,
+GUEST4: So, what do you think of your enemy,
 Captain Picard?
 PICARD: These people are no one's enemy, Senator.
-PARDEK: Many of my colleagues fear what they have to say. But I have
+GUEST4: Many of my colleagues fear what they have to say. But I have
 learned to listen carefully. Children like D'Tan are our future. Old
 men like me will not be able to hold on to ancient prejudice and
 hostility. Young people won't allow it. But now, now that they've met
 their first real Vulcan, it has only inspired them more. I am sure that
 is evident to you, Spock. 
 SPOCK: I did not anticipate such a passionate response to my arrival.
-PARDEK: Romulans are passionate people. The Vulcans will learn to
+GUEST4: Romulans are passionate people. The Vulcans will learn to
 appreciate that quality in us.
 SPOCK: If we are successful.
-PARDEK: We will know soon. The Proconsul has agreed to meet with you.
+GUEST4: We will know soon. The Proconsul has agreed to meet with you.
 
 First Officer's log, stardate 45245.8. The
 Enterprise remains at Qualor Two as we continue to investigate the
 theft of a surplus Vulcan ship. The trail has led us to the former wife
 of a deceased smuggler.
+
+[Piano bar]
+
+(Riker takes a drink from the tray of a Zakdorn
+waiter, and goes over to a large, four-armed lady piano player) 
+GUEST3: A new face.
+RIKER: Same one I've always had.
+GUEST3: And what would you like to hear?
+RIKER: Know some blues?
+GUEST3: Look at me, Mister. What do you think? Seven different shades
+of them. How about some Andorian blues? Suck salt?
+RIKER: Never cared for it.
+GUEST3: Good for you. Nasty habit. So who are you looking for?
+RIKER: Who says I'm looking for anybody?
+GUEST3: Your face. Your uniform. In a place like this.
+RIKER: Okay. I'm looking for you.
+GUEST3: Oh, you just made my day.
+RIKER: I have to ask you about your husband.
+GUEST3: Well, it was nice while it lasted. Which husband?
+RIKER: The dead one, I'm afraid.
+GUEST3: Oh, you must be from the Enterprise. You destroyed his ship.
+RIKER: He was into some bad business. He took the evidence with him.
+GUEST3: His one endearing quality, he always cleaned up after himself.
+And what do you want from me?
+RIKER: I was hoping you might know his business partners.
+GUEST3: And why should I help you?
+RIKER: To be honest, I can't think of a good reason.
+GUEST3: Well, you did kill my ex-husband, and that's not a bad start.
+So why don't you drop a few coins in the jar and I'll see what I
+remember.
+RIKER: I don't carry money.
+GUEST3: Well, you don't offer much, do you?
+RIKER: Move over.
+GUEST3: Oh, just what I need. Another set of hands.
+RIKER: You know this one? Twentieth century, Earth. Maybe I can teach
+you a lick or two.
+GUEST3: You already have.
+RIKER: So, what do you say?
+GUEST3: You going to be around for a couple of days?
+RIKER: I can be.
+GUEST3: Sooner or later, a man named Omag will come by for a song.
+Always wants to hear the same thing, Melor Famagal. (she shudders) He's
+an arms trader. A fat Ferengi.
 

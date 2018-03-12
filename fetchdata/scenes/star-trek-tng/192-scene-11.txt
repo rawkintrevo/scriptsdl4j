@@ -1,44 +1,43 @@
-CRUSHER LAFORGE SUSANNA
-
-[Engineering]
-
-(Geordi is watching the sensor log, and Susanna is
-increasingly jumpy) 
-LAFORGE: Freeze visuals. 
-SUSANNA: We're wasting our time. 
-LAFORGE: That's not how you felt before. It was your idea to look for
-some sort of commonality. 
-SUSANNA: Yeah, well, I was wrong. We're not going to find anything this
-way. We should go back to the planet. It's all down
-there. Everything we need to know. 
-LAFORGE: That's just not an option. At least, not until Captain Picard
-says it is. Computer, resume. 
-SUSANNA: I can't look at that anymore. It hurts my eyes. I can't think.
-My brain feels like it's wrapped up in a blanket. 
-LAFORGE: Take a break, all right? I'll work on this. 
-SUSANNA: I don't need a break. I need to get off the ship. 
-LAFORGE: Susanna, why don't we go and see Doctor Crusher? 
-SUSANNA: Forget Crusher and forget your logs. Tarchannen's down there,
-Geordi. It's waiting for us. That's where we should go. 
-LAFORGE: Susanna, you can't leave. Susanna. Susanna! 
-SUSANNA: Geordi! 
-(She has a sort of fit and falls to the floor. There are strange veins
-showing on the back of her neck and the three middle fingers of each hand are fusing
-together)
+COMPUTER OGAWA CRUSHER LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
-CRUSHER: Her blood pressure's still falling. Apply
-the T-cell stimulator. We have got to stabilise her immune system. 
-(Alyssa goes off, Picard and Geordi enter) 
-CRUSHER: She has developed an extreme sensitivity to light. We're
-trying to make her as comfortable as we can. 
-(Picard and Crusher leave Geordi to approach Susanna, who is covered in
-protruding blue veins on purple skin. Her eyes are green vertical slits
-on yellow) 
-LAFORGE: Oh, God. 
-SUSANNA: Geordi? 
-LAFORGE: Susanna, hold on, okay? Doctor Crusher will help you, so just
-hold on. 
-SUSANNA: It's inside of me, Geordi. I can't fight it. It's winning. 
-LAFORGE: Don't give up. Do you hear me? You can't give up, Suz. 
+OGAWA: Sorry to disturb you, Doctor. 
+CRUSHER: That's all right. What's happened? 
+OGAWA: I thought you should see this. 
+(Alyssa shines a torch on Susanna) 
+CRUSHER: Her skin is simulating light. A radiant reaction. Some sort of
+mimetic ability? 
+OGAWA: That's not all. Her body temperature is dropping. 
+CRUSHER: It's as if she's generating a disruptive field. I can barely
+get any readings off her now. What's her rate of transformation? 
+OGAWA: It's increasing. 
+CRUSHER: That's not possible. It should have been inhibited by the
+T-cell stimulator. Unless. If there's a foreign body inside her that's
+producing these changes, something like a viral crche. 
+OGAWA: A very small one if our scans haven't found it. 
+CRUSHER: I want a full genetic analysis. We're going to examine any
+abnormality we find no matter how insignificant it seems.
+
+[Engineering]
+
+GUEST2 [on monitor]: One to transport. 
+LAFORGE: Computer, delete the audio. 
+LAFORGE: Wait a minute. Freeze visual. Whose shadow is that? 
+COMPUTER: Please restate question. 
+LAFORGE: Computer, the shadow currently displayed in section B three,
+what is its source? 
+COMPUTER: Unknown. 
+LAFORGE: Come on, it's got to belong to somebody. Computer, replay a
+visual of the last time index. No audio, and slow to fifty percent.
+Okay, Brevelle's behind the camera ,Susanna and I head off in that
+direction. Mendez moves off that way. Freeze visual. Now, magnify four
+times, and spectrally enhance those shadows. (there's the other shadow
+in the background) Computer, do you have sufficient data to compile a
+holographic simulation of this visual record? 
+COMPUTER: A simulation would be limited to areas scanned by the visual
+recording device. 
+LAFORGE: Good, fine. Scan the entire record and then recreate it on
+holodeck three.
+

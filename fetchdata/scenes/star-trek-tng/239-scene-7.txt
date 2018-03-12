@@ -1,33 +1,67 @@
-RIKER COMPUTER LAFORGE WORF AQUIEL
+RIKER LAFORGE WORF PICARD GUEST1 CRUSHER AQUIEL
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[La Forge's quarters]
+[Observation lounge]
 
-LAFORGE: Computer access the personal logs of
-Aquiel Uhnari. 
-COMPUTER: Logs accessed. 
-LAFORGE: Begin playback. 
-AQUIEL [on monitor]: Shiana, you always said I'd look great with a wig,
-so here it is. What do you think? 
-LAFORGE: Definitely not you. 
-AQUIEL [on monitor]: (taking the huge construction off) Okay, maybe I'm
-getting a little crazy. You would too, if you were stuck on a relay
-station in the middle of nowhere with no one for company except an
-egomaniac like Keith Rocha. I took a big risk today. I countermanded an
-order he gave. I agreed to handle the comm. traffic for Relay Station
-one nine four while they shut down for maintenance. Rocha said we
-couldn't handle the additional signal load, but I think he's wrong.
-When he finds out he'll be furious. It's days like this I wish I was
-home. You know what I miss most? Muskan seed punch. Real Muskan seed
-punch. You can get it from the replicator, but it's not the same. I'd
-give anything for some of the punch Mother used to make with chunks of
-the seeds still in it. (noises off) Keith, is that you? Keith?
-(recording ends)
+WORF: Governor Torak, sir. 
+PICARD: Governor. Welcome aboard. 
+GUEST1: Do not bore me with your human pleasantries. I told you we did
+not kill the woman. Now I will prove it to you. ghoS! 
+(a Klingon escorts a woman into the room) 
+GUEST1: This is Lieutenant Aquiel Uhnari. 
+(soon after) 
+AQUIEL: We were running a level two diagnostic of the message buffer,
+Nothing special. Rocha had been on edge all morning, but he'd been
+irritable ever since he got there, so I didn't think anything of it. We
+were halfway through the procedure when suddenly he attacked me. He
+grabbed me, threw me against a bulkhead. I yelled at him to stop but he
+wouldn't listen. He took me by the throat. I broke free and tried to
+get to the weapons locker. I'm not sure what happened next but somehow
+I got aboard the shuttle and left. 
+GUEST1: We found her on our side of the border heading toward Sector two
+five two zero. She is lucky my patrol ship did not destroy her vessel
+on sight. 
+PICARD: Lieutenant, why didn't you contact Starfleet? Let them know
+what happened on board the station? 
+AQUIEL: I don't know, sir. Maybe I passed out. I'm not even sure how
+long I was in the shuttle before the Klingons picked me up. 
+LAFORGE: Forty six hours. You've been gone forty six hours. 
+CRUSHER: We presumed you were dead. Your blood stains were found at the
+murder scene. 
+AQUIEL: I must have cut my head when he pushed me against the bulkhead.
 
-[Relay Station ops]
+WORF: Then the remains we found must be those of Lieutenant Rocha. 
+CRUSHER: I can't confirm that. Until we're able to separate the
+cellular residue from the
+deck plate, I won't be able to do a clear DNA scan. 
+RIKER: You said you were trying to get to the weapons locker. Is there
+a possibility
+that you did? 
+AQUIEL: No, I didn't. 
+RIKER: You're sure? 
+AQUIEL: I don't remember exactly what happened to me after I was
+attacked. I'm sorry. It's as if all my memories were drained out of me.
 
-WORF: Commander, there are DNA traces here.
-Klingon. 
-RIKER: So Klingons did board the station? 
-WORF: Yes, but I only found DNA from one Klingon so far. I will
-continue to scan.
+LAFORGE: Your logs said that a Commander Morag had been harassing you.
+Did you let him or any other Klingon aboard the station? 
+AQUIEL: Absolutely not. 
+WORF: If that is true, then Morag or some other Klingon must have
+boarded the station after she left. We found traces of Klingon DNA on
+the station. 
+GUEST1: You still try to blame us. 
+WORF: Have the courage to admit your mistakes. Or are you a lo'Be Vos? 
+GUEST1: At least I do not wear the uniform of the P'tak! 
+PICARD: Governor, we are merely exploring all the possibilities.
+Lieutenant Uhnari's logs reported that Commander Morag had been
+harassing the station. 
+GUEST1: He was doing his job. 
+PICARD: If he was only doing his job, then I'm sure you won't mind if
+we spoke with him. 
+GUEST1: Very well. In the interests of diplomacy, I will allow you to
+speak to Morag. But my patience has limits. 
+(Torak and his aide storm out) 
+LAFORGE: Lieutenant, I know a friend of yours who's very eager to see
+you. 
+AQUIEL: Who? 
+LAFORGE: Come with me.
 

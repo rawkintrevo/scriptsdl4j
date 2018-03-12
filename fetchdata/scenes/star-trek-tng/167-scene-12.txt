@@ -1,101 +1,91 @@
-PICARD VASH AJUR BORATUS
+PICARD VASH GUEST4 GUEST0 RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's room]
-
-(Picard walks in on the two aliens scanning his
-room) 
-PICARD: What the hell are you doing in my room? 
-AJUR: We are Vorgons. I am Ajur. This is Boratus. 
-BORATUS: We come from the twenty seventh century. We travelled three
-hundred years into the past to find you. 
-PICARD: All right, let's assume for the moment I believe you, that you
-are indeed from the future. What is it that you want from me? 
-AJUR: Have you heard of the Tox Uthat? 
-PICARD: What? I'm aware of the legend. It tells of a visitor from the
-future who left behind a mysterious device known as the Tox Uthat. 
-AJUR: Essentially that story is correct. 
-PICARD: Then the Uthat actually exists? 
-BORATUS: Yes. It was invented by a scientist named Kal Dano in the mid
-twenty seventh century. The Uthat is a quantum phase inhibitor capable
-of halting all nuclear reaction within a star. 
-PICARD: But why bring such a powerful weapon into the past? 
-BORATUS: Criminals attempted to steal the device, so he fled back to
-the twenty second century where he hid it. Ajur and I were the security
-team assigned to retrieve the Uthat.
-PICARD: I gather you were unsuccessful. 
-BORATUS: Yes. When we returned we began to search through the
-historical records for some clue to the Uthat's fate. 
-PICARD: And your search led you to me? 
-AJUR: We came upon a brief account stating you had discovered an object
-of unknown origin while vacationing on Risa. From its description, a
-crystal cube that fits in the palm of the hand, we surmised it could
-very well be the Tox Uthat. 
-PICARD: I'm sorry to disappoint you, but I haven't found anything,
-including peace, which is the only thing I'm looking for. 
-BORATUS: You will find such a device, Captain. To us, it is already
-part of history. 
-PICARD: And if I do find it, what then? 
-AJUR: You will give it to us immediately so that we may return with it.
-
-PICARD: Well, the Uthat belongs to your time, not mine. 
-(The aliens touch the sides of their heads, and vanish. Then Picard
-discovers the disc Vash dropped into his pocket) 
 [Vash's room]
 
-PICARD: May I come in? 
-VASH: Excuse the mess. Sovak has taken to searching my room
-periodically. 
-PICARD: Is this what he's looking for? 
-(He holds up the disc) 
-VASH: I'm sorry I had to hide it like that. I was afraid he'd start
-searching me next. 
-PICARD: This disc must contain some very valuable information. 
-VASH: I doubt it's anything you'd be interested in. 
-PICARD: Depends. 
-VASH: On what? 
-PICARD: On whether or not it has something to do with the Tox Uthat. 
-VASH: Did Sovak tell you that? 
-PICARD: Well, let's just say I've heard rumours that the Uthat is
-located somewhere on Risa. 
-VASH: Look, the last thing I need is a partner. 
-PICARD: So it's true. 
-VASH: Have a seat. I don't suppose you ever heard of Professor Samuel
-Estragon? 
-PICARD: Yes, as a matter of fact, I have. He spent half his life
-searching for the Tox Uthat. 
-VASH: I served as his personal assistant for the past five years.
-Shortly before he died, he uncovered new data pinpointing its location.
-And that disc contains his research notes and maps. 
-PICARD: And you're continuing his work? 
-VASH: Exactly. 
-PICARD: With a Ferengi as an associate? 
-VASH: Sovak and I are definitely not working together. 
-PICARD: But the two of you are very well acquainted. 
-VASH: Well, at times he aided the professor in his explorations.
-Especially in situations that weren't quite ethical. 
-PICARD: And now, with typical Ferengi logic, he's convinced that the
-Tox Uthat belongs to him. 
-VASH: All he cares about is selling it to the highest bidder. 
-PICARD: Whereas you, of course, have a nobler purpose in mind. 
-VASH: I told the professor I'd present it to the Daystrom Institute for
-study. But first I have to find it. And that won't be easy with Sovak
-watching me every minute. 
-PICARD: I'll go in your place. 
-VASH: And what about me? 
-PICARD: You'll remain here. It's safer. 
-VASH: Is that an order? 
-PICARD: Absolutely. 
-VASH: This isn't a starship, Jean-Luc. I don't follow orders. 
-PICARD: Oh, I see. 
-VASH: Besides, you'd never find it without me. The professor's notes
-are in code. 
-PICARD: From the moment I met you, I knew you were going to be trouble.
+VASH: Five years of my life, wasted. 
+PICARD: There will be other treasures to be found, Vash. 
+VASH: Not like the Uthat. I hope you won't mind, but I need to be
+alone. 
+[Picard's room]
 
-VASH: You look like a man who could handle trouble. 
-PICARD: So, where exactly is the location? 
-VASH: It's about twenty seven kilometres due east. There are some
-subterranean caves there. That's where you'll find the Uthat. 
-PICARD: I'll meet you in the lobby in fifteen minutes. Be punctual. Oh,
-and I advise you to change your clothing. 
-VASH: Jean-Luc. We're going to make a wonderful team.
+RIKER [OC]: Enterprise to Captain Picard. 
+PICARD: Picard here.
+
+[Bridge]
+
+PICARD [OC]: Go ahead, Commander. 
+RIKER: We hope we're not interrupting anything important, Captain, but
+we wanted to inform you that we have achieved orbit around Risa and
+we're ready to beam you aboard at your convenience. 
+[Picard's room]
+
+PICARD: I'll be returning shortly, Commander. In
+the interim, stand ready to initiate transporter code fourteen at my
+signal. 
+[Bridge]
+
+RIKER: Transporter code fourteen? 
+[Picard's room]
+
+PICARD: You heard me, Number One. 
+[Bridge]
+
+RIKER: Yes, sir. 
+[Picard's room]
+
+PICARD: Picard out.
+
+[Resort lobby]
+
+PICARD: Leaving so soon? 
+VASH: Jean-Luc. I was just about to come say goodbye. 
+PICARD: Well then, I've saved you the bother. 
+VASH: I want to put all this behind me as soon as possible. You
+understand? 
+PICARD: Of course. There's just one last thing you can do for me. 
+VASH: Anything. 
+PICARD: Tell me where you've hidden the Tox Uthat. 
+VASH: That's not funny. 
+PICARD: You never intended to burn that second disc. If you had, you
+wouldn't have been so careless as to allow Sovak to salvage any of it.
+You wanted him to follow us, so that he could see for himself that the
+Uthat wasn't at the cave site. That was the only way he could be
+convinced that your quest had been futile. 
+VASH: But how could I have known the Uthat wasn't there? 
+PICARD: Because you'd already been there once before, probably the
+moment you arrived on the planet. That's when you found it. 
+VASH: You're a man of many talents, Jean-Luc. 
+(She picks up a Horga'hn and opens it's head) 
+VASH: A piece of the future. 
+(Picard takes the multi-faceted crystal) 
+PICARD: A very dangerous piece. Were you really going to give this to
+the Daystrom
+Institute? 
+VASH: Well, maybe not give it. Five years is a huge investment,
+Jean-Luc. I deserve to make a reasonable profit. 
+GUEST4: Congratulations Picard. We knew you would not fail us. 
+VASH: You're not going to just hand it over, are you? You didn't trust
+me. What makes you think you can trust them? 
+PICARD: I assume the Vorgons have proof to back up their claim. 
+GUEST0: Our being here is proof enough. 
+VASH: Wait a second, Vorgons? The professor's notes said it was two
+Vorgons, a male and a female, who attempted to steal the Uthat in the
+first place. For all we know it could be them. 
+PICARD: You're going to have to prove that you are who you say you are.
+
+GUEST4: You yourself said, the Uthat belongs to the future. 
+PICARD: But not necessarily to you. 
+GUEST0: You will return what is ours. 
+VASH: No! 
+(Boratus uses an energy beam on her) 
+PICARD: Enterprise. Code fourteen. Lock on present coordinates. Two
+second delay. Mark! 
+(He puts the crystal on the ground and goes to Vash. The crystal
+explodes before Ajur can reach it)
+
+PICARD: Are you all right? (to the aliens) Go. Return to your own time.
+There's nothing for you here. 
+GUEST0: History recorded that you destroyed the Uthat. 
+GUEST4: You have fulfilled your destiny all too well, Picard.
 

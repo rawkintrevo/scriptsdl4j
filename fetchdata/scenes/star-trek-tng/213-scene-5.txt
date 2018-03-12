@@ -1,50 +1,36 @@
-HANNAH TROI LAFORGE CONOR MARTIN
+PICARD TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Laboratory]
+[Ready room]
 
-HANNAH: The biosphere's superstructure will never
-withstand the tectonic shocks. The environment would be compromised. 
-LAFORGE: That's how I see it. 
-HANNAH: Your ship. What kind of energy output is it capable of
-generating? 
-LAFORGE: We have a matter-antimatter warp reaction system, the most
-powerful in the Starfleet. Normally, it kicks plasma up into the
-terawatt range. Why? 
-HANNAH: Well, either we're going to have to move or that fragment is. 
-LAFORGE: We can move a small moon or an asteroid, but a stellar core
-fragment? That's much too massive for our tractor beam. 
-(she calls up a diagram on a screen) 
-LAFORGE: What's that? 
-HANNAH: A wild idea, purely theoretical. 
-LAFORGE: A multiphase tractor beam? 
-HANNAH: When we first spotted the fragment approaching, I came up with
-the idea, but we can't generate the kind of energy we would need. You
-can.
-
-[Courtyard]
-
-(they are discussing it round a small table) 
-LAFORGE: We'd need Hannah on the ship. 
-MARTIN: No. 
-HANNAH: With my theories and their equipment, we might be able to alter
-the fragment's path. It's our only chance to avoid evacuation. 
-CONOR: No one had ever come here and no one had ever left, until today.
-This is a date to note in our history books. 
-MARTIN: This is in direct violation of the intentions of our founders,
-Aaron. 
-CONOR: I don't think they intended us to die, Martin. 
-MARTIN: Her absence will create an additional imbalance. 
-CONOR: Temporarily. The circumstances require us to be flexible. 
-MARTIN: We have no idea how molecular transport will affect her DNA. 
-LAFORGE: It won't affect her DNA at all. There's been over a century of
-evidence to prove that. 
-CONOR: You can go, Hannah. 
-TROI: May I return later? 
-CONOR: I look forward to it. 
-LAFORGE: Enterprise, three to beam up. Energise.
-
-Captain's log, supplemental. Commander La Forge and
-Hannah Bates have spent three days trying to find a way to adjust the
-path of the core fragment. If they do not succeed in the next forty
-eight hours, we will need to begin evacuation.
+TROI: I believe some will choose to risk death
+rather than leave, Captain. 
+PICARD: You've spent a good deal of time on the surface. How do you
+suggest we change their minds? 
+TROI: I'm not sure we can. It would mean abandoning their fundamental
+way of life. 
+PICARD: They've managed to turn a dubious scientific endeavour into
+dogma. 
+TROI: You don't approve of genetic engineering. 
+PICARD: It was a bad idea whose time is long past. 
+TROI: They seem to have made it succeed. 
+PICARD: They've given away their humanity with this genetic
+manipulation. Many of the qualities that they breed out, the
+uncertainty, the self-discovery, the unknown, those are many of the
+qualities that make life worth living. Well, at least to me.
+I wouldn't want to live knowing that my future was written, that my
+boundaries had been already set, would you? 
+TROI: I've asked myself that question a lot during the past few days. I
+don't know. I doubt it. Nevertheless, it's what they believe in, and it
+won't be an easy matter to talk them into leaving. 
+PICARD: This leader of theirs, Conor, he seems to be a reasonable man. 
+TROI: I find him very reasonable. Open to suggestions, thoughtful,
+quite disarming. The perfect administrator. 
+PICARD: I'm sure. Will he leave when he sees there's no other choice? 
+TROI: I don't know. I hope so. 
+PICARD: You admire him. 
+TROI: Yes. 
+PICARD: Then help him to see the reality of what may happen to his
+colony. If he makes the right decision, if he's as good a leader as
+he's designed to be, then perhaps the others will follow.
 

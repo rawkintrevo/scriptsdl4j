@@ -1,43 +1,38 @@
-RIKER CREWMAN PICARD STUBBS WESLEY DATA
+PICARD CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Engineering]
 
-RIKER: Forget to set your alarm, Wesley? 
-WESLEY [OC]: Yes, sir. 
-[Laboratory]
+LAFORGE: We're analysing the engineering systems
+data, Captain. So far we're showing nothing unusual 
+[Ready room]
 
-WESLEY: I'm very sorry. I'll be right there. this.
+LAFORGE [OC]: In the computer log for that time
+period. 
+PICARD: Run a level one diagnostic series. Come. I want a computer
+that's one hundred percent to expedite Doctor Stubbs' experiment. As
+well as the food slots in Sickbay. Picard out. 
+CRUSHER: Which seem to be working again, for the moment anyway. 
+PICARD: What can I do for you, Doctor? 
+CRUSHER: Jean-Luc, how would you feel if you were a seventeen year old
+and the only Starfleet Officer whose mother was on board? 
+PICARD: Inhibited, I suppose. But then, I'm not Wesley. And if you are
+concerned about him, I see no evidence that there is a problem. 
+CRUSHER: I know, but, in a funny kind of way, that's exactly my point.
+We talk. We smile. It's almost too polite. 
+PICARD: Beverly, isn't it just a matter of time? I know how difficult
+it was for you being away. 
+CRUSHER: Tell me about him. 
+PICARD: Well, he's becoming a very fine officer. He works as hard as
+any member of the crew. Riker says his studies are on line. 
+CRUSHER: No. Tell me about him. 
+PICARD: He's his father's son. Honest, trusting, strong. 
+CRUSHER: Does he have many friends? Has he ever been in love? Jean-Luc,
+I'm worried. He's come so far, so fast, And since I've been back, I
+don't feel 
+PICARD: His dependence. Beverly, look, he's seventeen years old. 
+CRUSHER: What were you doing when you were seventeen? 
+PICARD: Probably getting into more trouble than Wesley, I can assure
+you. 
+CRUSHER: So was I. Isn't that what seventeen's supposed to be?
 
-Captain's log, Stardate 43125.8. We have entered a
-spectacular binary star system in the Kavis Alpha sector on a most
-critical mission of astro-physical research. Our eminent guest, Doctor
-Paul Stubbs, will attempt to study the decay of neutronium expelled at
-relativistic speeds by a massive stellar explosion which will occur
-here in a matter of hours. 
-[Bridge]
-
-(Wesley dashes in and takes his seat) 
-RIKER: Ensign, our position. 
-WESLEY: Approaching one million kilometres from the neutron star, sir. 
-RIKER: Slow to one third impulse power. 
-STUBBS: (wearing the C24 equivalent of corduroy) Spectacular, isn't it,
-my young friend? 
-WESLEY: Yes sir. 
-STUBBS: Over and over again, the intense gravitational pull of the
-little neutron star sucks up the star material from the red giant, and
-it builds up on the surface until it explodes, every one hundred and
-ninety six years. Like clockwork. And it is but eighteen hours away. 
-DATA: Eighteen hours, seven minutes, and ten seconds, Doctor. 
-STUBBS: The interstellar counterpart to Earth's Old Faithful. The only
-predictable burst of energy in the universe that can accomplish our
-goal. 
-(Picard enters) 
-PICARD: Doctor Stubbs, if you would like to make one final inspection
-of the unit. 
-STUBBS: Captain, I've been inspecting the Egg for the last twenty
-years. You may lay it when ready. 
-PICARD: Begin launch sequence. 
-RIKER: Shuttlebay two, stand-by to launch the Egg. 
-[Shuttlebay]
-
-CREWMAN: Standing by, Commander. 

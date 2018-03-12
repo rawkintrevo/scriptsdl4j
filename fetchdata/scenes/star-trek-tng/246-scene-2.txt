@@ -1,110 +1,51 @@
-PICARD RIKER GALEN
+PICARD GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
-
-(the room is dark when Picard enters. On the table
-is a stylistic pottery item,
-semi-Buddha shaped) 
-PICARD: Oh, my God. 
-GALEN: Then you can identify this object, Mister Picard. 
-PICARD: Professor Galen? 
-RIKER: Computer, lights up. 
-GALEN: I suppose I should say Captain Picard. 
-RIKER: Professor Galen contacted me from his shuttle an hour ago. He
-suggested that we surprise you. 
-GALEN: To clarify. I insisted and your First Officer was good enough to
-accommodate me. I trust I'm not being overly presumptuous, now that my
-star pupil is master of the stars. 
-PICARD: No one is could be more welcome on the Enterprise. I never
-thought I would see a Kurlan naiskos. Fifth Dynasty? 
-GALEN: Is that your conclusion, Mister Picard. Forgive me again. I
-should say Captain. 
-PICARD: Oh, please, Mister will do fine. Well, the overall
-configuration is certainly Fifth Dynasty. The surface ornamentation. 
-GALEN: Yes? 
-PICARD: Green polychrome over the eyes, and the eyes themselves are
-closed. This is third Dynasty. From the workshop of the Master of
-Tarquin Hill. 
-GALEN: Well done. 
-PICARD: Will, the Master of Tarquin Hill designed ceramic objects that
-were three hundred years ahead of their time. All we know of him is the
-work. His name has never been discovered. This object is over twelve
-thousand years old. 
-RIKER: The planet Kurl? It's a hell of a long way outside Federation
-territory. 
-PICARD: Indeed. I thought your study of Kurlan artefacts was done long
-ago. 
-GALEN: I happened to be in the neighbourhood last summer. I couldn't
-resist. Go ahead. 
-PICARD: You mean it's complete? 
-(Picard raises the top half of the pot to reveal a cluster of little
-pots inside it) 
-PICARD: Will, the Kurlan civilisation believed that an individual was a
-community of individuals. Inside us are many voices, each with its own
-desires, its own style, its own view of the world. The Kurlan
-civilisation died out thousands of years ago. It is extraordinarily
-rare to find a figurine intact. Professor, this is an incredible find. 
-GALEN: It's yours, Jean-Luc. 
-PICARD: Oh, no. No. How can I accept this? 
-GALEN: Graciously, Mister Picard. You could accept it graciously. 
-PICARD: Thank you. How long can you stay? There's so much to talk
-about. 
-RIKER: The Professor is scheduled to meet a Vulcan transport the day
-after tomorrow. 
-PICARD: Two days? But that's not enough time. 
-GALEN: We may have considerably more than that. 
-PICARD: I don't understand. 
-GALEN: I am currently on an expedition. A journey into an unexplored
-and historical territory, and I intend to take you with me.
-
-Captain's log, supplemental. It's been over thirty
-years since I last saw my archaeology professor. His presence has taken
-me back to a time when I had considered a very different career. 
 [Ten Forward]
 
 PICARD: May I ask you a frank question? 
-GALEN: Please. 
+GUEST2: Please. 
 PICARD: Your published writings have been sporadic for the last decade.
 Your appearance at symposia has been rare, or scheduled and then
 cancelled at the last moment. The finest archaeologist of the century
 is now shrouded with a cloak of mystery. 
-GALEN: And as a result my reputation has no doubt grown. 
+GUEST2: And as a result my reputation has no doubt grown. 
 PICARD: I've never heard of anyone that didn't love a good mystery. 
-GALEN: The Satarran of Sothis Three disdained them, but as a general
+GUEST2: The Satarran of Sothis Three disdained them, but as a general
 idea, your statement holds. 
 PICARD: So, what have you been doing for the past decade? 
-GALEN: Are you familiar with micropaleontology? 
+GUEST2: Are you familiar with micropaleontology? 
 PICARD: Yes, it's the study of fossil records at the microscopic level.
 I read your papers on the subject, but that was years ago. It seemed as
 though the work had stopped. 
-GALEN: No. The work continued. I made a discovery so profound in its
+GUEST2: No. The work continued. I made a discovery so profound in its
 implications that silence seemed the wisest course. This work has
 occupied my every waking thought, it's intruded upon my dreams, it's
 become my life. When finished and I announce my findings, it will be
 heard half way across the galaxy. 
 PICARD: Tell me. 
-GALEN: I'm cannot, Mister Picard. That information comes with a price.
+GUEST2: I'm cannot, Mister Picard. That information comes with a price.
 Your agreement to join me on the final leg of this expedition. 
 PICARD: For how long? 
-GALEN: Three months, perhaps a year. If I had complete diplomatic
+GUEST2: Three months, perhaps a year. If I had complete diplomatic
 access and a starship, it'd be a matter of weeks. But as it is, we'll
 have only my shuttle and whatever arrangement we can make with
 transports, combined with our talents. 
 PICARD: Why do you need my help in this? 
-GALEN: I'm not a young man. There will be hazards along the way. I
+GUEST2: I'm not a young man. There will be hazards along the way. I
 don't want my own inadequacies to jeopardise the completion of this
 work. 
 PICARD: I'm deeply honoured that you'd think of me, but I have
 responsibilities. 
-GALEN: To History. What if you could have helped Schliemann discover
+GUEST2: To History. What if you could have helped Schliemann discover
 the City of Troy, or been with M'Tell as she first stepped on Ya'Seem.
 How could anything compare? 
 PICARD: May I sleep on it? 
-GALEN: Dream not of today, Mister Picard. 
+GUEST2: Dream not of today, Mister Picard. 
 PICARD: Dream not of today. The night blessing of the Yash-El. 
-GALEN: As I recall, you missed that question on the final exam. 
+GUEST2: As I recall, you missed that question on the final exam. 
 PICARD: Well, I've had a few years to look it up. Professor, the
 Enterprise is yours for as long as you're here. 
-GALEN: Thank you. 
+GUEST2: Thank you. 
 PICARD: Dream not of today.
 

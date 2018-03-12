@@ -1,58 +1,29 @@
-RIKER TAITT SALAZAR HELM CRUSHER POWELL
+GUEST1 HELM GUEST5 CRUSHER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER [OC]: The Captain's team. 
-CRUSHER: I'm not going to leave you down there. 
-[Planet surface]
-
-RIKER: You pull as many people off the surface as
-you can and get back to the transwarp conduit. The Captain's orders
-were to get the Enterprise back to Federation space. 
-[Bridge]
-
-CRUSHER: Acknowledged. 
-RIKER [OC]: Riker out. 
-CRUSHER: Prepare to leave orbit. 
-TAITT: Sir, the Borg ship is powering up its forward weapons array.
-They'll be in firing range in, in twenty seconds. 
-CRUSHER: Salazar, how many people do we still have down there? 
-SALAZAR [OC]: Seventy three, sir. 
-CRUSHER: Put the Borg ship onscreen. 
-TAITT: Should I raise shields, sir? 
-CRUSHER: Not yet. I want to keep bringing people up until the last
-possible second. 
-TAITT: Ten seconds. 
-CRUSHER: Stand by to raise shields and break orbit on my mark. 
-TAITT: Five seconds. 
-CRUSHER: Mark. 
-(an energy bolt hits) 
-TAITT: Shields down to seventy percent. 
-CRUSHER: Establish a frequency shift firing pattern and return fire. 
-TAITT: Er, right. 
-(two torpedoes are fired) 
-TAITT: Direct hit, no damage. 
-CRUSHER: Helm, set course for the conduit, maximum warp. 
+(at an aft station)
+GUEST5: Sensors still can't locate the Borg ship. I'm trying to filter
+out the interference. 
+GUEST1: We'll be within transporter range in nineteen seconds. 
+GUEST5: I'm starting to get sensor resolution. There's the ship. 
+CRUSHER: We'll enter orbit here. 
+GUEST1: Helm, new course, heading zero five two mark seven. 
 HELM: Aye, sir. 
-TAITT: Sir, the Borg aren't following us. 
-CRUSHER: Salazar 
-[Transporter room]
-
-CRUSHER [OC]: How many people did we leave behind? 
-SALAZAR: Forty seven, sir.
-
-[Bridge]
-
-CRUSHER: Another minute and we would have had them.
-
-[Planet surface]
-
-RIKER: Riker to any team leader. 
-POWELL [OC]: Lieutenant Powell here, sir. 
-RIKER: Round up everybody who was left behind. Take cover. Try to avoid
-any contact with the Borg. 
-POWELL [OC]: Aye, sir. 
-RIKER: Riker out. Even if Beverly can get back to Federation space,
-it'll be a few days before Starfleet can get any ships here. Until
-then, we're on our own.
-
+GUEST1: Stand by to drop out of warp in eight seconds. 
+GUEST5: Once we're in orbit, we should have about forty five seconds
+before they intercept us. 
+CRUSHER: Let's hope it's enough time. 
+GUEST1: Emergency deceleration in five seconds. 
+CRUSHER: Hold on. 
+(whoomph) 
+CRUSHER: Report. 
+GUEST5: We're in standard orbit, sir. The Borg ship is on the planet's
+far side, and is moving to intercept. 
+CRUSHER: Bridge to Transporter rooms. Begin evacuations. 
+GUEST1: The Borg will be in weapons range in thirty two seconds. We
+still can't locate Captain Picard's team and there's no sign of
+Commander Riker or Lieutenant Worf. 
+CRUSHER: Crusher to Salazar. Report. 
+GUEST2 [OC]: We're pulling the last teams off right now. 

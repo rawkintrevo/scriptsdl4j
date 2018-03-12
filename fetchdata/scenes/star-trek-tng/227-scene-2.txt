@@ -1,22 +1,5 @@
-TROI LAFORGE PICARD RIKER CRUSHER CARMICHAEL
-
-[Morgue]
-
-RIKER: (dressed as a policeman) The coroner said
-this is where they kept all the cholera victims. 
-CRUSHER: (taking tricorder scans) It doesn't make sense that so many
-people are dying of cholera. It just isn't that virulent. Will, this is
-strange. 
-RIKER: What is it? 
-CRUSHER: The cerebellum, the cerebral cortex, the brain stem, the
-entire nervous system has been depleted of electrochemical energy.
-Here's another one. Same neural depletion. These people did not die of
-cholera. They died because their neural energy was drained somehow. 
-RIKER: Drained and taken to Devidia Two for those aliens to ingest? If
-you were a time traveller with a taste for human neural energy where
-would you get your supply? 
-CRUSHER: I would travel back to a time when there were plagues and
-epidemics, so I could murder and use disease as a cover.
+TROI LAFORGE PICARD RIKER CRUSHER GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Rented room]
 
@@ -40,22 +23,22 @@ Almost anything could interfere.
 (there's a knock at the door) 
 LAFORGE: She's back. 
 (Geordi takes off his visor) 
-CARMICHAEL [OC]: Mister Pikerd! 
+GUEST0 [OC]: Mister Pikerd! 
 PICARD: Yes, Mrs. Carmichael. 
-CARMICHAEL: (Irish accent) Mister Pikerd. I'll be reminding you that
+GUEST0: (Irish accent) Mister Pikerd. I'll be reminding you that
 it's one o'clock. 
 PICARD: Yes. 
-CARMICHAEL: One o'clock on a Thursday. I'm sure I made it clear to you
+GUEST0: One o'clock on a Thursday. I'm sure I made it clear to you
 that the rent is always due, payable in full, by one o'clock on
 Wednesdays. 
 PICARD: Ah, yes, er, the rent. Mrs. Carmichael, even now my troupe are
 in rehearsals for a new production. 
-CARMICHAEL: Oh? I haven't heard of any new production. What play is it?
+GUEST0: Oh? I haven't heard of any new production. What play is it?
 
 PICARD: The play? A Midsummer Night's Dream. We have performed in
 London, Paris, Milan. Milan. To sold out houses. I assure you, you will
 have the rent, in full, with a bonus. 
-CARMICHAEL: Oh, no, no, no, no. I've heard you silver-tongued devils
+GUEST0: Oh, no, no, no, no. I've heard you silver-tongued devils
 before. I'll have the rent in full tomorrow by one o'clock or you'll be
 out performing on the street.
 

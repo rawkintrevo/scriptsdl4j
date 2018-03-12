@@ -1,67 +1,44 @@
-RIKER OBRIEN LAFORGE PICARD HAYES DATA BARCLAY
+OGAWA CRUSHER COMPUTER BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Sickbay]
 
-O'BRIEN: You're sure about this, sir? 
-BARCLAY: Sure. Please proceed. 
-O'BRIEN: It'll only take a minute. It should be a smooth ride over. 
-BARCLAY: Good. Good. 
-O'BRIEN: I know how you feel about this, sir. 
-BARCLAY: You're afraid of transporting, too? 
-O'BRIEN: No. Arachnids. Sickening, crawly little things, don't you
-think? All those legs. 
-BARCLAY: Spiders? They've never bothered me. 
-O'BRIEN: A few years back, I was called in to re-route an emitter array
-at a Starbase on Zayra Four. Turns out the entire system was infested
-with Talarian hook spiders. You ever seen a Talarian hook spider? Their
-legs are half a metre long. Well, I had a choice. Do I walk away and
-let the emitter blow itself to hell, or do I crawl in the Jeffries tube
-with twenty hook spiders? 
-BARCLAY: What happened? 
-O'BRIEN: It was the hardest thing I ever did, but I got through it.
-After that, I was never quite as afraid of spiders. 
-BARCLAY: Thanks. 
-O'BRIEN: Energising.
+(the autopsy is underway) 
+CRUSHER: I'd like to take a closer look at those burns. Take a tissue
+sample, please. 
+OGAWA: Yes, Doctor. 
+CRUSHER: Damage to the epidermis only. Initiate a circulatory probe. 
+OGAWA: Doctor Crusher! 
+CRUSHER: His heart's beating! Cardio-stimulator. Now. It's gone. 
+OGAWA: Neuro-electrical activity in the cerebral cortex. Nothing. 
+CRUSHER: Now the respiratory system's active. What the hell is going
+on? 
+[Ten Forward]
 
-[USS Yosemite Bridge]
+(Barclay goes to a table with a glass of water,
+then clutches his arm. He pulls up the sleeve to reveal that his skin
+is glowing purple, then it returns to normal.)
 
-LAFORGE: Reg. Welcome aboard. You ready to work? 
-BARCLAY: Yes, sir. 
-LAFORGE: Good. Why don't you start by downloading the ship's science
-logs over there. 
-BARCLAY: Aye, sir. 
-RIKER: Still four members of the crew unaccounted for. Did you come up
-with anything? 
-LAFORGE: I don't know how these fit in, but I found them all around the
-transporter platform. 
-RIKER: What are they? 
-LAFORGE: They look like pieces of a standard sample container. 
-RIKER: Take them back to the ship, analyze them there. Mister Barclay.
-Glad you could join us. 
-BARCLAY: Me too, sir.
+[Barclay's quarters]
 
-[Ready room]
-
-HAYES [on monitor]: The Ferengi are claiming two of
-their freighters were destroyed by a Cardassian warship in your sector.
-
-PICARD: Is there any evidence to support this? 
-HAYES [on monitor]: Although I'm loathe to believe the Ferengi about
-anything, there was evidence of Cardassian weapons. If the Cardassians
-also attacked the Yosemite, it could indicate a large scale movement
-into this sector. 
-PICARD: I have an away team on board the ship. The initial report
-indicates there was an explosion on board, but we're not sure if it was
-from an attack. 
-HAYES [on monitor]: How soon until you know? 
-PICARD: A few hours. If it looks like Cardassians, I'll contact you
-immediately. 
-HAYES [on monitor]: Very well. 
-(transmission ends) 
-DATA [OC]: Bridge to Captain Picard. 
-PICARD: Go ahead, Mister Data. 
-DATA [OC]: The away team is returning to the Enterprise, sir. 
-PICARD: Acknowledged. Have Commander Riker come to my Ready room as
-soon as he's on board. 
-DATA [OC]: Aye, sir.
+BARCLAY: Water, ten degrees Celsius. Computer,
+access Starfleet Medical Database. Tell me about, er. Describe the
+disorder transporter psychosis. 
+COMPUTER: Transporter psychosis was diagnosed in the year twenty two oh
+nine by researchers on Delinia Two. 
+BARCLAY: No, no stop. All I need is, what causes it? 
+COMPUTER: It is caused by a breakdown of neuro-chemical molecules
+during transport, affecting the body's motor functions, autonomic
+systems, and the brain's higher reasoning centres. 
+BARCLAY: What are the symptoms? 
+COMPUTER: Victims suffer from paranoid delusions, multi-infarct
+dementia, hallucinations. 
+BARCLAY: Hallucinations? What kind of hallucinations? 
+COMPUTER: Victims experience somatic, tactile and visual
+hallucinations, accompanied by psychogenic hysteria. Peripheral
+symptoms include sleeplessness, accelerated heart rate, diminished
+eyesight leading to acute myopia, painful spasms in the extremities,
+and in most cases, dehydration. 
+BARCLAY: Computer what is the treatment for transporter psychosis? 
+COMPUTER: There is no known treatment.
 

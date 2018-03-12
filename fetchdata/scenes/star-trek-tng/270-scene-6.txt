@@ -1,81 +1,31 @@
-TROI KWAN LAFORGE WORF PICARD RIKER COMPUTER NARA DATA
+TROI GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-PICARD [OC]: Report. 
-LAFORGE: I can't shut down the plasma injectors. Somebody's locked out
-the controls.
-
-[Bridge]
-
-DATA: The plasma venting system has engaged.
-
-[Jefferies tube]
-
-(climbing ladders) 
-WORF: Two more decks. 
-RIKER: Riker to Bridge. We've almost reached the nacelle tube. 
-PICARD [OC]: Acknowledged.
-
-[Bridge]
-
-PICARD: Release the exterior hull plate. We may
-have to jettison the core. 
-DATA: Aye, sir. 
 [Nacelle control]
 
-(there is a man poised to jump into the plasma) 
-RIKER: What happened? 
-NARA: (alien woman) He locked out the controls. Before we knew what was
-happening, he stepped up onto the walkway. 
-RIKER: (to Worf) See if you can help shut down the plasma flow. 
-NARA: I'm afraid if we try to get any closer, he will jump through the
-forcefield. 
-RIKER: Dan, it's me. It's Will Riker. I was here yesterday, remember? 
-KWAN: (alien man) I didn't want to do it. But I saw them. And they
-laughed at me. They laughed. 
-(Riker is on the walkway) 
-RIKER: Whatever happened, we can talk about it. I want to help. 
-KWAN: Stay away! 
-RIKER: I just want to see your face, that's all. So we can talk. 
-KWAN: I know what I have to do. 
-RIKER: Dan, no! 
-WORF: I have unlocked the controls. 
-COMPUTER: Shutdown procedure initiated. 
-NARA: There's still plasma in the injector. It'll take time to vent
-off. 
-RIKER: Tell me what happened. Maybe I can help. 
-KWAN: I know what I have to do. 
-(and he jumps into the plasma stream. Riker hits the bulkhead in anger
-and frustration and despair)
-
-[Ready room]
-
-RIKER: A few more seconds I could've saved his life
-
-WORF: Commander, you did everything you could. It was not your fault. 
-RIKER: It was strange. I felt as if he didn't even recognise me,
-although I was with him just the other day when I supervised the tube
-refit. 
-PICARD: How did he seem then? 
-RIKER: Fine. I complimented him on getting the refit done faster than
-expected. He was pleased that I'd noticed. 
-TROI: I met with him about six weeks ago, during the crew evaluations.
-He was very positive. He was looking forward to being posted to the
-nacelle tube. 
-RIKER: He was a good officer with a fine career ahead of him. I don't
-understand why he wanted 
-PICARD: In my years as a Starship Captain, I've had to notify many
-parents of the loss of loved ones, but never before a suicide. I would
-like to be able to offer Lieutenant Kwan's parents some explanation of
-what happened, to try to help them make sense of this. 
-WORF: Maybe he left a message of some kind, explaining why he did it. 
-PICARD: I would like the two of you to piece together a picture of his
-last few days. 
-TROI: If he made any personal logs, it might be helpful to look through
-them. 
-PICARD: You're authorised to do so. 
-(Troi and Worf leave) 
-LAFORGE [OC]: La Forge to Captain. 
-PICARD: Go ahead.
-
+GUEST4: Can I help you? 
+TROI: Oh, I didn't see you there. You're Lieutenant Nara, aren't you? 
+GUEST4: Can I do something for you, Counsellor? 
+TROI: I'm investigating Lieutenant Kwan's death, and I just wanted to
+look around. 
+GUEST4: It's such a shame. He was a good man. 
+TROI: Did you notice any change in his behaviour recently? 
+GUEST4: No. I've been going over the last few days in my mind, trying to
+see if I, if I missed any warning signs. It's as if something in him
+just snapped. 
+TROI: How was his job performance? 
+GUEST4: Excellent. He knew this ship better than most people, probably
+because he helped build it back at Utopia Planitia. 
+TROI: Did he get along with his coworkers? 
+GUEST4: He was ambitious. He came in here with all sorts of new ideas
+about how to do things. Some of them very good ideas. 
+TROI: But not all? 
+GUEST4: No. But after he settled in, we got along fine. 
+(a crewman enters) 
+GUEST4: Excuse me a minute. Feel free to look around. 
+TROI: Where was Lieutenant Kwan's station? 
+GUEST4: Right there. 
+(Nara leaves with the crewman. Troi goes up the ladder to the walkway
+and gets a sense of terror by the hatch. She hurries back down again.) 
+GUEST4: Are you all right? 
+TROI: I don't know. 

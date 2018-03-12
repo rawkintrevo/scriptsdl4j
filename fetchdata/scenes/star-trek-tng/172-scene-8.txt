@@ -1,59 +1,33 @@
-FAREK LAFORGE WESLEY TROI LWAXANA DATA TOG
+PICARD RIKER DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Tog's quarters]
+[Bridge]
 
-LWAXANA: I should have known. Even their
-transporters can't be trusted. 
-TROI: Why have you removed our clothing? 
-FAREK: Females do not deserve the honour of clothing. 
-LWAXANA: They're as bad as humans. Look at the leer on his face. 
-TOG: No. His is an expression of revulsion. But it is a feeling that I
-do not share, Lwaxana. 
-(Lwaxana picks up a couple of bedsheets or something, and hands one to
-Deanna. They wrap them around themselves) 
-LWAXANA: Well, it's cold in here. Do you want me to become ill? 
-TOG: You must forgive the doctor. He is not accustomed to dealing with
-Betazoid females. Now, Lwaxana, I have a business proposition for you. 
-LWAXANA: Thanks, but I'm not interested in any of your propositions. 
-TOG: Hear me out. Your telepathic powers could bring us both great
-profit. 
-LWAXANA: Huh. Why would I want to bring you profit? 
-FAREK: In order to keep your daughter alive and healthy, for one. 
-TOG: There's no need for threats. Lwaxana is a sensible female 
-TROI [telepath]: I don't like the sound of this, mother. 
-LWAXANA [telepath]: I believe I can control him, Little One. 
-LWAXANA: I'm sure we can talk about this. Just the two of us. 
-TOG: A wise choice. Farek, leave us. And you may rejoin your friend. 
-TROI [telepath]: Mother, are you sure? 
-LWAXANA [telepath]: I'll be fine. 
-(Deanna vanishes) 
-TOG: And now, Lwaxana Troi, let us talk. 
-(He presses a button and a bed slides out from the wall)
+DATA: Initial scans of ionisation patterns
+complete, sir. Now correlating sensor readings. 
+PICARD: It's almost incomprehensible, the amount of energy being
+expended. 
+DATA: Actually, it is five point three four times ten to the forty
+first watts, sir. Well within the norm for this type of phenomena. 
+PICARD: Yes, yes, yes. Perhaps, Data, but that takes away none of the
+wonder.
 
-[Engineering]
+[Holding room]
 
-LAFORGE: Fifteen hours from Gamma Erandi, and
-already the subspace static is playing hell with communications. 
-WESLEY: Just what you'd expect from a stellar nursery. 
-DATA: Wesley, congratulations on passing your Starfleet written
-examination. An excellent achievement. 
-WESLEY: Thanks, Data. Now if I can just do well on the oral exams. 
-LAFORGE: Not to worry, you will. And when you return, we'll be gaining
-the best ensign in the fleet. 
-DATA: There is no guarantee that Wesley will be reassigned to the
-Enterprise. Ninety one per cent of Starfleet graduates are not posted
-to Galaxy class starships on their first assignment. 
-WESLEY: I never thought of that. I always assumed I'd be coming back to
-the Enterprise. 
-LAFORGE: I'm sure Captain Picard will request you. That is, if he's
-still commanding the Enterprise when you graduate. 
-WESLEY: I never thought of that, either. I never thought I'd feel this
-way about leaving you guys and the Enterprise. 
-DATA: Is that not a part of the human experience? Growth and change? 
-WESLEY: I suppose so, but. 
-LAFORGE: Listen, Wesley. I felt the same way when I left my family to
-go to the Academy. But it was one of the best times of my life. You're
-going to meet new friends and have adventures that you can't even
-imagine yet.
-WESLEY: I hope you're right, Geordi.
+GUEST1: Check. 
+RIKER: I'm sick of this game. 
+GUEST1: Of course, now that you're losing. 
+RIKER: Who's losing? I'm just tired of standing up. 
+GUEST1: You can't resign now. 
+RIKER: It's hard to play from in here. I can't even see the whole
+board. 
+GUEST1: Ah, then you'll finish the game if I let you out of the cell? 
+RIKER: I might. 
+GUEST1: Clever, human, but I'm not that foolish. 
+RIKER: What, do you think I'm going to try to escape? What would that
+get me? You've already got her. Besides, where would I go? 
+GUEST1: I do not trust you. 
+RIKER: Fine. Thanks for the game. 
+GUEST1: Come out here. (puts the forcefield back up) Now save your rook,
+if you can.
 

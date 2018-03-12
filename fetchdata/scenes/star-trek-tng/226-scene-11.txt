@@ -1,38 +1,80 @@
-TROI LAFORGE WORF PICARD RIKER DATA
+GUEST5 GUEST1 GUEST6 DATA GUEST3 MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Poker room]
 
-LAFORGE [OC]: To the temporal distortions. 
-DATA: Acknowledged.
+(Data enters the smoke-filled room. Four men sit
+around the table. The gambler character is played by Marc Alaimo.) 
+GUEST3: Fold. 
+MAN: Me too. 
+GUEST5: Go to blazes. (and folds) 
+GUEST3: A poker face carved in marble. 
+DATA: Excuse me, gentlemen. 
+GUEST5: What in hell do you want? 
+DATA: I would like to join the game. 
+GUEST6: Pale face. 
+GUEST5: I don't like Easterners, personally. 
+DATA: I am a Frenchman. 
+GUEST3: Ah. Mes parents sont originaires de Bourgonais. Je suis ne a
+la New Orleans. 
+DATA: Alors, nous sommes presque frres. Je suis heureux de vous
+connaitre. 
+GUEST3: Please, sir. 
+(Data sits between the man and the seaman) 
+GUEST3: The game is poker. The deal is yours. The ante is four bits. 
+(Data puts his comm. badge on the table) 
+GUEST3: Family heirloom? 
+DATA: In a manner of speaking. It is a crystalline composite of
+silicon, beryllium, Carbon seventy, and 
+GUEST5: Gold. 
+DATA: Gold. 
+GUEST3: I'll give you three bucks for it. 
+DATA: I accept. (and deals)
 
-[Devidia cavern]
+[Data's hotel room]
 
-(moving to a natural amphitheatre, with columns
-around supporting the roof) 
-RIKER: Deanna? 
-TROI: There's life here. A child. An old woman. Dozens more. Hundreds.
-Terrified. 
-RIKER: Terrified? 
-TROI: My God, Will. They're human.
+(Data has acquired the Native's bowler hat with
+feather, and the gambler's fancy waistcoat) 
+GUEST1: Did you see the looks on their faces? I did everything I could
+not to laugh. 
+DATA: To whom are you referring? 
+GUEST1: Frederick La Rouque and Joe Falling Hawk. Those guys are card
+sharks. Oh sure, they play easy at first not to scare off the marks,
+but you give them a little time, they'll bleed a man dry. Especially an
+out-of-towner like yourself.. 
+DATA: What was the source of your jocular reaction? What was it you
+found humorous? 
+GUEST1: Don't you see? They had you pegged for a sap. The clothes you
+got on, the way you talk, it's like you were born yesterday. You sure
+fooled them, though. 
+DATA: It was not my intention to deceive. 
+GUEST1: Have it your way. This is the place. Breakfast is six to
+eight. Checkout's at noon when you're ready to leave. 
+(hands over the key and holds out his hand) 
+DATA: Thank you. (shakes his hand) It has been a pleasure. 
+(the Bellboy coughs) 
+DATA: It would be advisable to monitor that cough. I have read that
+there is currently a cholera epidemic in San Francisco. 
+GUEST1: Never felt better. 
+DATA: Of course. The gratuity. Thank you for your assistance. 
+GUEST1: A dollar? If there's anything you need. It can get lonely in
+San Francisco. You might want some company. I can introduce you to
+Lillian. 
+DATA: I have no need for companionship. However I do require some
+supplies. 
+GUEST1: Anything you need. I can get it for you wholesale. I can get
+it for you less than wholesale if you don't ask me where it came from. 
+(Data has been writing a list) 
+GUEST1: What do you need all this stuff for? 
+DATA: I am an inventor. 
+GUEST1: No kidding. Well, this stuff's going to take a while. I'll
+have to go clear cross town. And it's not
+going to be cheap. 
+(Data takes a wad of notes from his waistcoat pocket) 
+DATA: Will this be enough? 
+GUEST1: More than enough. 
+DATA: You may retain the surplus for yourself. 
+GUEST1: Keep the change? 
+DATA: Exactly. 
+GUEST1: Done.
 
-[Bridge]
-
-RIKER [OC]: Whatever they are, Troi's convinced
-they're human. They may be trapped somehow. We're not sure. 
-DATA: Captain, the results of my temporal analysis may be pertinent. 
-PICARD: Go ahead. 
-DATA: Geordi, it indicates a synchronic distortion in the areas
-emanating 
-[Devidia cavern]
-
-DATA [OC]: Triolic waves. 
-LAFORGE: That explains a few things. How much, Data? 
-DATA [OC]: A positive displacement of point zero zero four percent. 
-LAFORGE: Well, whatever or whoever is there, we're out of phase with
-it, but we're only talking by a fraction of a second. 
-WORF: A fraction of a second would make them invisible? 
-LAFORGE: A millisecond, a year, it wouldn't make any difference. If
-what we're reading is true, then we're occupying the same space but in
-a different time. 
-RIKER: How do we compensate? 
-DATA [OC]: Commander, we might be able to 

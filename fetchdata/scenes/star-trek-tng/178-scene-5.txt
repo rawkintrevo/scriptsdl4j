@@ -1,18 +1,19 @@
-PICARD ROBERT CRUSHER TROI
+PICARD GUEST0 CRUSHER TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Vineyard]
 
 (Robert is tasting the red grapes, making sure they
 are all right) 
-ROBERT: So, you arrived all right. Welcome home, Captain. 
+GUEST0: So, you arrived all right. Welcome home, Captain. 
 PICARD: Hello, Robert. 
-ROBERT: You've shuttled in from the village? 
+GUEST0: You've shuttled in from the village? 
 PICARD: No I decided to walk. I met Marie and Rene. 
-ROBERT: Good. Good. 
+GUEST0: Good. Good. 
 PICARD: It's good to see you. 
-ROBERT: Are you tired? 
+GUEST0: Are you tired? 
 PICARD: No. 
-ROBERT: Make yourself at home. You know where everything is. We
+GUEST0: Make yourself at home. You know where everything is. We
 generally eat about eight. I must try and cure this poor, sick vine.
 I'll see you shortly. 
 [Crusher's quarters]

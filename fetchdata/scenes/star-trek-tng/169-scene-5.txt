@@ -1,54 +1,54 @@
-WESLEY BARCLAY LAFORGE DUFFY
+TROI LAFORGE WESLEY GUEST5 DATA BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cargo bay]
+ [Troi's office]
 
-(Barclay is cross-legged on the floor, examining
-the components of the anti-grav sled) 
-LAFORGE: Hey, Reg. How, er, how's it going? 
-BARCLAY: Oh, it's, er, I still haven't traced down the problem,
-Commander. 
-LAFORGE: That's all right. There's no problem. 
-BARCLAY: I've been planning to run diagnostics on the graviton invertor
-circuits. 
-LAFORGE: Smart plan. I'd say we're in good hands here. 
-BARCLAY: I'll see you get a preliminary report. 
-LAFORGE: Whenever. 
-BARCLAY: Before the end of the day. 
-LAFORGE: Fine. Say, Reg, how about sitting in on the mission briefing
-with my senior officers in the morning? 
-BARCLAY: The briefing? Me? 
-LAFORGE: I'd like your input. 
-BARCLAY: What on? Do, do, do you want me to prepare a 
-LAFORGE: No, no, just be there. Eight hundred hours. 
-BARCLAY: I'll be on time, sir. 
-LAFORGE: Good. Good. Carry on. 
-[Engineering]
+BARCLAY: I just didn't know what to say. 
+TROI: What do you wish you had said? 
+BARCLAY: I should have told him to mind his own damned business. I knew
+about the flux capacitor. I didn't need to hear about it from some
+seventeen year old kid. 
+TROI: You're letting it get you much too upset. 
+BARCLAY: You think so? 
+TROI: Why are you so hard on yourself? 
+BARCLAY: You don't know. It's hard out there. 
+TROI: I understand, but let go of it. You're here now. 
+BARCLAY: You're right, of course. 
+TROI: Of course. Let me help you relax. 
+(She starts massaging his shoulders) 
+BARCLAY: I'd like that. 
+TROI: I knew you would. 
+(They kiss) 
+BARCLAY: That's nice, but I'm in the mood for someplace a little more
+unusual. Computer. Run Barclay
+programme fifteen. 
+(And the office transforms into)
 
-LAFORGE: Morning. Start your brains, gentlemen, and
-let's do it. Has anybody seen Lieutenant Barclay? 
-DUFFY: Not yet, sir. 
-LAFORGE: Okay. 
-(Barclay arrives) 
-LAFORGE: Okay. This trip to Nahmi Four is pretty routine, so we'll have
-plenty of time to realign the magnetic capacitors on both the matter
-and anti-matter injectors. Duffy, Costa, that'll be your assignment. 
-DUFFY: We probably ought to do the flow regulator maintenance at the
-same time, Commander. 
-LAFORGE: That's a good idea. Ensign Crusher will putting in some hours
-with us this week as part of his training duties, so I'll be assigning
-him to assist you, Mister Myers. Be sure and teach him the difference
-between impulse and warp drive, please. Lieutenant Barclay has working
-on the mystery of the anti-grav failure we had yesterday. Your
-preliminary report had a couple
-of interesting theories, Reg. Why don't you bring us all up to speed on
-your findings so far. 
-BARCLAY: Yes. It wasn't a maintenance problem. Everything checked out.
-I, I'm going to check for a surge in the transfer coils. 
-WESLEY: A coil surge wouldn't have resulted in field dissipation. 
-BARCLAY: I, I, I realise that 
-LAFORGE: But we shouldn't ignore the possibilities, Wes. 
-WESLEY: You ought to check the flow capacitor. A breakdown of that
-could have caused a chain collapse of the antigrav fields. 
-BARCLAY: I, I was going to. 
-LAFORGE: Good. Okay, then let's go over the realignment procedure.
-Gentlemen. 
+[Holodeck - Glade]
+
+(Deanna is in Grecian robes) 
+TROI: I am the goddess of Empathy. Cast off your inhibitions and
+embrace love, truth, joy. 
+(Barclay embraces her, passionately) 
+[Ten Forward]
+
+WESLEY: But I thought that's the point of the
+briefing. To discuss different approaches. 
+LAFORGE: It's not that you did anything wrong, Wes. It's just that
+Barclay's, well, he's my new project. 
+GUEST5: Yeah, Broccoli's a real project all right. 
+LAFORGE: I just need to draw him out some more. 
+WESLEY: And I shut him down. Poor Broccoli. 
+DATA: Pardon me, but why is Lieutenant Barclay being referred to
+clandestinely as a vegetable? 
+WESLEY: It's a joke, Data. You know, a nickname. 
+DATA: Nicknames generally denote fondness, a diminutive shared between
+friends. 
+LAFORGE: Data's absolutely right. The nickname stops here and now.
+Captain's orders. 
+(Duffy picks up his glass, which has an impression of his fingers on it
+and promptly leaks from the bottom) 
+GUEST5: What the hell? 
+WESLEY: What happened to your glass? 
+(Data's glass is the same)
+

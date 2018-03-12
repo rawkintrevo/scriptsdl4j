@@ -1,61 +1,40 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+DATA LAFORGE MARR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-LAFORGE: Yes, sir. Something strange is going on.
-There are violent disruptions in the atmosphere. 
-[Bridge]
-
-PICARD: Ensign, increase to warp eight.
-
-[Melona colony]
-
-RIKER: Come on, keep moving. 
-[Cave]
-
-(with a convenient flight of steps downwards) 
-CRUSHER: Watch your step but keep moving. 
-RIKER: Let's go, let's go. Keep moving. Deeper into the cave. Come on.
-Deeper into the cave. Keep moving. 
-(the last of the survivors are in) 
-RIKER: How much protection will this cave give us? 
-DATA: The refractory metal in the rock formations may act as an
-effective barrier. 
-RIKER: Let's seal off this entrance. 
-(they use their phasers to make a rockfall that blocks the entity's
-ray) 
-CRUSHER: Let's hope there's enough air in here. 
-RIKER: There's got to be a ventilation source somewhere. We need some
-light. 
-(the devastation can be heard going on outside as Riker and Data use
-the phasers to make the ceiling glow) 
-RIKER: How are the others? 
-CRUSHER: Just scrapes and bruises, I think. I'll check further. Where's
-Carmen? 
-RIKER: She didn't make it. She was trying to save an old man who'd
-fallen. 
-CRUSHER: I'm sorry. 
-RIKER: I think we're going to be all right in here. I'm not sure about
-the air supply, so stay put, don't move around. Don't expend
-unnecessary energy. With any luck, we'll be able to wait this thing
-out. 
-RIKER: Riker to Enterprise. Riker to Enterprise. 
-DATA: Commander, the refractory metals in the rock strata may also
-interfere with communication. 
-RIKER: Data we've only seen the Crystalline Entity once before. How do
-you know these metals will protect us? 
-DATA: I am not entirely certain they will, sir. 
-RIKER: I was afraid you were going to say something like that. 
-[Bridge]
-
-WORF: Sir, the disturbance on Melona is becoming
-more intense. 
-PICARD: Keep hailing them. All channels, Mister Worf. 
-TROI: Captain, the fact that they're not responding doesn't necessarily
-mean there's anything wrong. The atmospheric disturbance could be
-jamming the signal. 
-PICARD: I know, Counsellor. 
-WORF: Still no response, sir. 
-PICARD: Increase to warp nine. How long, Mister Worf? 
-WORF: Six hours.
+LAFORGE: Okay, Doctor. We've input all the data you
+collected on the surface. 
+MARR: Just a minute, Commander. I have some cellulose readings from
+soil samples that weren't included. 
+(she inputs them herself) 
+LAFORGE: You handle that unit like a veteran, Doctor. 
+MARR: One thing about spending your life gathering information, you
+learn your way around computers. Hydrocarbons slightly elevated,
+bitrious filaments in trace amounts, lanthanides, nitrates all normal.
+Nothing different. Everything falls within the parameters I established
+at the other attack sites. 
+DATA: Were you expecting a different result this time, Doctor? 
+MARR: I've never surveyed a site so soon after an attack. I thought
+maybe I'd find something new. Something that would make a difference. 
+DATA: Doctor, have you ever scanned your samples for gamma radiation? 
+MARR: Why would I do that? 
+DATA: We are seeing high energy reactions that may show up in a gamma
+scan. 
+LAFORGE: And if they do, we might find a pattern, a kind of marker left
+behind by the Entity. That's a good idea, Data. 
+MARR: Frankly, I just don't see what that would get us. 
+DATA: If the Entity left a residual trace of antiproton in the samples
+we collected, a gamma radiation scan would reveal that. 
+LAFORGE: Getting that readout now, Data. 
+DATA: If we try a logarithmic scale, we will have better resolution. 
+LAFORGE: There it is. Do you see it? 
+DATA: Yes. Doctor? 
+MARR: A sharp spike at ten keV. Another. A pattern. 
+LAFORGE: So we know the Entity leaves antiprotons behind. 
+MARR: If it also deposits antiprotons in space as it travels, can we
+detect them? 
+LAFORGE: Sure. We can set the ship's lateral sensors for gamma
+radiation. 
+MARR: Well, let's get to it, shall we?
 

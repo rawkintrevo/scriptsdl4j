@@ -1,38 +1,58 @@
-PICARD RIKER DATA LAFORGE WORF
+PICARD RIKER CRUSHER TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Turbolift]
 
-DATA: Although Alpha Onias three is a class M
-planet, our survey teams have listed it as barren and inhospitable. 
-RIKER: Any life signs? 
-DATA: No, sir, but we have traced residual energy readings to a cavern
-two kilometres beneath the surface. 
-WORF: Romulans? 
-DATA: It is possible. 
-PICARD: I suppose you'll just have to go down there and find out. 
-RIKER: Geordi, Worf, you're with me. 
-PICARD: Number One. Happy birthday.
+RIKER: Transporter room six. 
+CRUSHER: How are you holding up? 
+RIKER: I could get used to the idea of a Ferengi ensign, but Admiral
+Picard on a Romulan warbird? What is that all about? 
+CRUSHER: I think I should leave all the explanations to the Admiral.
 
-[Cavern]
+[Transporter room]
 
-(They beam into a place of extraordinary
-stalagmites and a wonderfully flat floor) 
-LAFORGE: I'm detecting high levels of volcanic gases. Sulphur dioxide,
-methane, hydrogen sulphide. 
-RIKER: Toxic? 
-LAFORGE: We're okay for now, but I wouldn't want to spend my vacation
-here. 
-RIKER: What about energy readings? 
-WORF: Magnetic clutter is increasing. I cannot make an accurate
-determination. 
-LAFORGE: Same here, Commander. I'm getting a lot of confusing readings
-here, 
-PICARD [OC]: Commander Riker, please acknowledge. 
-RIKER: Riker here.
+RIKER: Whenever you're ready, Chief. 
+(Picard and Troi are beamed aboard) 
+PICARD: Captain Riker. it's good to see you have recovered. 
+RIKER: I'm not exactly sure you can call it a recovery, sir. 
+TROI: Then there has been some memory loss. 
+PICARD: How much? 
+CRUSHER: Everything since Alpha Onias three.
 
-[Bridge]
+[Observation lounge]
 
-RIKER [OC]: We're having trouble reading you. 
-PICARD: And we are having similar difficulties reading you. I am
-advising you and your away team
+PICARD: To lose sixteen years. It's almost beyond
+belief. 
+RIKER: I have trouble believing it myself. 
+TROI: It's overwhelming to have so much of your life missing. 
+PICARD: And it couldn't have happened at a worse time. A few more days
+of relatively simple negotiations, and the treaty will be signed. 
+RIKER: What negotiations? What treaty? 
+PICARD: Sorry. I'll start at the beginning, which is four years ago. A
+Romulan battle cruiser strayed into Federation space. Its warp coils
+had collapsed, life support was failing. 
+TROI: You saved them, Will, you and the Enterprise. 
+PICARD: The Romulans were impressed, to say the least. After years of
+distrust and conflict, they started to talk. You were our key spokesman
+in securing the alliance with the Romulans. 
+RIKER: How far have these negotiations progressed? 
+PICARD: The preliminaries are over. All we need do now is escort the
+Romulan Ambassador to the final session. 
+TROI: Where you will complete the negotiations and sign the treaty. 
+RIKER: Captain. Admiral. I am in no condition to negotiate with the
+Romulans or with anyone else. 
+PICARD: Will, you're sound of mind and body. If you are properly
+briefed, you will still be able to fulfill your duty. 
+RIKER: With a sixteen year gap in my head? 
+PICARD: We do need you. 
+RIKER: Sir, I'm not fit to resume command. 
+PICARD: I appreciate your candour, but despite your condition there is
+no one better equipped to deal with these Romulans than you. 
+RIKER: When do we leave? 
+PICARD: As soon as the Ambassador transports over from the Decius. We
+will get through this, as we have many times before. 
+(Picard leaves) 
+RIKER: I hope so. 
+TROI: Let me take you to your quarters. 
+RIKER: Good idea. I've had enough surprises for one day.
 

@@ -1,34 +1,30 @@
-PICARD TROI
+RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Observation lounge]
 
-(Picard is in casual clothes, packing a case) 
-TROI: So, where have you decided to go? 
-PICARD: Hmm? What? Oh, er, France. Labarre. My home village. 
-TROI: Really? 
-PICARD: Yes. It's the first time in almost twenty years. 
-TROI: Interesting. 
-PICARD: Counsellor. 
-TROI: I just find it interesting. Captain Jean-Luc Picard, the man who
-couldn't be pried out of his seat for a vacation for three years 
-PICARD: It's Earth. It's home. Do I need another reason? 
-TROI: I don't know. What do you think? 
-PICARD: Your help has been invaluable during my recovery, but, look,
-I'm better. The injuries are healing. 
-TROI: Those you can see in the mirror. 
-PICARD: The nightmares have ended. All I need now is a little time to
-myself. 
-TROI: I agree. In fact, I'm delighted you're going. It's just that the
-choice of where you're going could stand some scrutiny. 
-PICARD: If you wish to believe that my going home is a direct result of
-being held captive by the Borg, be my guest. 
-TROI: Is that what you believe? 
-PICARD: I hate it when you do that. 
-TROI: Captain, you do need time. You cannot achieve complete recovery
-so quickly. And it's perfectly normal, after what you've been through,
-to spend a great deal of time trying to find yourself again. 
-PICARD: And what better place to find oneself than on the streets of
-one's home village. 
-TROI: Interesting. Have a good trip, Captain. 
-(She kisses his cheek and leaves him to his packing. He decides against
-some books, takes a final look around and walks out) 
+RIKER: Thank you. Please take that to Engineering. 
+(Crewwoman leaves with PADD, Worf enters) 
+WORF: Phaser upgrades are complete, Commander. 
+RIKER: Already? 
+WORF: And we have begun power supply calibration. 
+RIKER: You're just too damned efficient, Lieutenant. 
+WORF: Thank you, sir. 
+RIKER: Continue with the testing, Mister Worf. Here's the final
+schedule for the shore leave and for the personnel transfers. By the
+way, I'm looking forward to meeting your parents. 
+WORF: Sir? 
+RIKER: They're on the visitors' list. You didn't know? 
+WORF: No, sir. It is inappropriate for a Klingon to receive family
+while on duty. As humans, my parents do not understand. 
+RIKER: Well, I'm not sure that I would either, Worf, since this isn't a
+Klingon ship. If you don't want to see your parents, that's your
+business, but we don't get to Earth all that often. I'm sure we can
+arrange for you to have more off duty time while they're here. 
+WORF: No, sir. That will not be necessary. 
+RIKER: Dismissed. Mister Worf, if you're worried that they might learn
+about what happened on the Klingon planet 
+WORF: Not at all. I have already informed them by correspondence of my
+discommendation. I do not believe any human can truly understand my
+dishonour. 
+

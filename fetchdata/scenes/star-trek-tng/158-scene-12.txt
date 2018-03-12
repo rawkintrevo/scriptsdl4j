@@ -1,132 +1,79 @@
-RIKER LAFORGE WORF PICARD SETAL COMPUTER CREWMAN CRUSHER DATA
+GUEST2 PICARD GUEST3 COMPUTER GUEST4 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Corridor]
 
-WORF: Weapons on the warbird are fully powered,
-sir. 
-PICARD: Lock phasers. Open a channel. 
-WORF: Ready. 
-PICARD: Romulan vessel, you are now in Federation territory. Unless you
-withdraw 
-(The warbird does a 180 and cloaks) 
-RIKER: No argument? 
-WORF: Warbird has re-entered the Neutral Zone. Heading for Romulan
-territory. 
-DATA: Massive power failure to the scout ship, sir. All systems are
-going offline, including life support. 
-PICARD: Transporter two, prepare to beam the occupant of the scout ship
-directly aboard. 
-CREWMAN [OC]: Aye, sir.
-RIKER: Mister Worf. 
-PICARD: Mister Data, lock onto the scout ship. Take it in tow.
+COMPUTER: Programme complete. 
+DATA: Run programme. 
+(the holodeck doors open) 
+DATA: After you.
 
-[Transporter room]
+[Holodeck]
 
-RIKER: Energise. 
-SETAL: I must see your captain immediately. 
-RIKER: We'll take you to Sickbay, after that 
-SETAL: This cannot wait. I have information vital to your survival.
+(It is a landscape of bizarre rock formations under
+a massive moon, and its smaller companion) 
+GUEST3: The valley of Chula. I know it well. 
+DATA: You are free to stay here as long as you wish. 
+GUEST3: I no longer live here. Turn it off. 
+DATA: Cancel programme. 
+GUEST3: This. This is my home now. My future. I have sacrificed
+everything. It must not be in vain. Arrange a meeting between myself
+and Captain Picard. Tell him Admiral Jarok wants to see him.
 
-Captain's log, Stardate 43462.5. We have beamed
-aboard an apparent Romulan defector, who claims to be a low ranking
-logistics officer with extraordinary information about a secret
-offensive.
+[Ready room]
 
-[Observation lounge]
+GUEST4 [on monitor]: Captain, we have confirmed that
+you are holding Admiral Alidar Jarok. He has been identified as the
+commander at the massacre at the Norkan outposts. The Council strongly
+advises that you to consider Jarok an unreliable source of information.
 
-SETAL: The humiliating defeat at the Battle of
-Cheron has not been forgotten. The new leaders have vowed to discard
-the treaty and claim the Neutral Zone. Nelvana Three is just the first
-step. 
-RIKER: You're saying an entire base has already been established there?
-
-SETAL: In forty-eight hours, the reactor core will be online. 
-RIKER: So the Federation sensors that monitor the Neutral Zone just
-missed it? 
-SETAL: It would seem so. In two days, a fleet of Romulan warbirds will
-be within striking distance of fifteen Federation sectors. 
-WORF: The Federation will not permit that. 
-SETAL: Then it is war that we're talking about, isn't it? Destroy the
-base now and the threat is over. 
-PICARD: Well, I'm sure you are fatigued by your ordeal and you require
-medical attention. Lieutenant Worf, will you accompany Sublieutenant
-Setal to the Sickbay. We will attend to your quarters. 
-SETAL: No doubt you will wish to question me further. 
-PICARD: No doubt. 
-(Worf, Setal and guard leave) 
-RIKER: He tells a hell of a story. 
-PICARD: You don't believe it? 
-RIKER: The Empire knows that we'd never allow them to maintain a base
-within the Neutral Zone. 
-DATA: Commander, that would not be an atypical Romulan ploy. In their
-long history of war, the Romulans have rarely attacked first. They
-prefer to test their enemy's resolve. 
-RIKER: I think he's a plant to draw us into the Neutral Zone. Then
-we'll look like the aggressors. 
-PICARD: And the Romulans would have a legitimate excuse for responding
-in force. 
-RIKER: Exactly. 
-DATA: That would also not be an atypical Romulan ploy, sir. 
-PICARD: It's always a chess game with them, isn't it? 
-LAFORGE: Well, at least he's given us the chance to get a look at some
-Romulan technology close up. 
-PICARD: Mister La Forge, you will lead the away team over to the scout.
-Commander, you and Counsellor Troi will conduct Setal's interrogation. 
-DATA: Captain, permission to observe the interrogation? 
-PICARD: No, Mister Data. I need you on the Bridge with me. There is
-much to be done. We have less than forty eight hours to prevent a war.
-Or perhaps to start one. This will depend on establishing the truth of 
-(And the scout ship goes Ka-boom!)
-
-[Sickbay]
-
-(Beverly is treating Setal's wounds) 
-SETAL: I set the auto-destruct sequencer before I left the ship. 
-RIKER: Why? 
-SETAL: Wouldn't you? To prevent your ship from being captured? 
-RIKER: Excuse me for being a little confused, Setal, but I thought you
-were defecting. 
-SETAL: I am not a traitor. All you can see is the opportunity to
-exploit me. The Federation credo, exploitation. You couldn't get aboard
-my ship fast enough. Strip it down. What secrets might it reveal that
-we can use? You're a short sighted people. Can't you understand? I came
-to stop a war. 
-CRUSHER: If you could just hold still? With your metabolism, this will
-heal in a few moments. 
-SETAL: Thank you, Doctor. How fortunate you know something of Romulan
-medicine. 
-CRUSHER: Yes. I had a chance to gain some experience recently. 
-SETAL: Ah, yes. The incident at Galorndon Core. The two officers. 
-WORF: You are aware of a great deal for a logistics clerk. 
-SETAL: It was common knowledge. I can show you my rating code. 
-WORF: Forged credentials are a simple matter for a spy. 
-SETAL: How do you allow Klingon pahtk to walk around in a Starfleet
-uniform? 
-WORF: You are lucky this is not a Klingon ship. We know how to deal
-with spies. 
-SETAL: Remove this tohzah from my sight. 
-RIKER: Your knowledge of Klingon curses is impressive. But as a Romulan
-might say, only a veruul would use such language in public. Mister
-Worf, please see to the security arrangements for our guest's stay. 
-WORF: Aye, sir. 
-(Worf leaves) 
-RIKER: You find something amusing? 
-SETAL: Lieutenant Worf. I like him. To be more accurate, I understand
-him. A warrior, proud, fearless, living only for combat. Exactly the
-type that will get us all killed, if we're not careful.
-
-[Guest quarters]
-
-RIKER: This is the food station. You can reach me
-through the comm. panel. Later, we'd like to ask you a few more
-questions. 
-(Riker leaves) 
-SETAL: Computer, water. 
-COMPUTER: Temperature? 
-SETAL: Twelve onkians. 
-COMPUTER: This system is calibrated to the Celsius metric system. 
-SETAL: Any temperature at all on the cold side of whatever your system
-is. 
-(He takes a sip, has a quick look around, then sits on the bed and
-takes an orange disc from his boot)
+PICARD: Bring him in. 
+(Setal, now Jarok, enters with a guard) 
+PICARD: Ensign, will you wait outside? Have a seat, Admiral Jarok. 
+GUEST2: Captain, there is no more time. 
+PICARD: Admiral, have a seat. You see, I'm just not convinced that you
+are telling the truth. 
+GUEST2: What must I do? 
+PICARD: You must convince me. If I had irrefutable evidence? But you
+did not bring irrefutable evidence. You brought no evidence at all.
+Now, here, you are not the man you claimed to be. Admiral, your
+credibility is stretched beyond belief. A Romulan defector is almost a
+contradiction in terms. But Admiral Jarok crossing the lines? 
+GUEST2: I explained my motives to your interrogators. 
+PICARD: Yes, yes, yes, yes, yes. Peace in our galaxy. Except, Admiral,
+you are not a man of peace. Your military record, what we know of it,
+is clear. 
+GUEST2: which is precisely why I chose an alternate identity here. 
+PICARD: The massacres in the Norkan outposts, for example. 
+GUEST2: What you call massacres were called the Norkan Campaign on my
+world, Captain. One world's butcher is another world's hero. Perhaps I
+am neither one. 
+PICARD: On what basis, Admiral, am I to decide? Your good word? Are you
+willing to help us overpower the Romulan B-type warbirds we may
+encounter? Are you prepared to help us detect them through their
+cloaking shields? You see my problem, Admiral. You ask us for faith in
+circumstances which are hardly possible to believe, compounded by lies
+and your refusal to tell us all you know. 
+GUEST2: I cannot betray my people. 
+PICARD: You've already betrayed your people, Admiral. You've made your
+choices, sir. You're a traitor. Now, if the bitter taste of that is
+unpalatable to you, I am truly sorry. But I will not risk the lives of
+my crew because you think you can dance on the edge of the Neutral
+Zone. You've crossed over, Admiral. You make yourself comfortable with
+that. 
+GUEST2: Do you have any children, Captain Picard? A family? 
+PICARD: No. 
+GUEST2: Then you have sacrificed too much for your career. 
+PICARD: Yes, this is all very interesting. 
+GUEST2: There comes a time in a man's life that you cannot know. When he
+looks down at the first smile of his baby girl and realises he must
+change the world for her. For all children. It is for her that I am
+here. Not to destroy the Romulan Empire, but to save it. For months, I
+tried desperately to persuade the High Command that another war would
+destroy the Empire. They got tired of my arguments. Finally I was
+censured, sent off to command some distant sector. This was my only
+recourse. I will never see my child smile again. She will grow up
+believing that her father is a traitor. But she will grow up. If you
+act, Picard. If we stop the war before it begins 
+PICARD: I can't. And I won't. Unless I have unequivocal cooperation.
 

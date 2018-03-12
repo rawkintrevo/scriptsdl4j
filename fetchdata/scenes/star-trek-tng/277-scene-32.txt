@@ -1,99 +1,54 @@
-WORF PICARD Q CHILTON CRUSHER DATA
+RIKER OBRIEN LAFORGE WORF TASHA PICARD TROI CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Future - USS Pasteur Bridge]
+[Future - Bridge]
 
-PICARD: On screen! On screen! Let's see it! 
-(just a starfield) 
-DATA: As you can see, sir, there's nothing there. 
-(a little later) 
-DATA: Still nothing, Captain. I've conducted a full sensor sweep out to
-one light year from the Pasteur. No temporal anomalies, no particle
-fluctuations, nothing. 
-PICARD: I don't understand. It was here in the other two time periods.
-Why isn't it here now? 
-WORF: Captain. I have been monitoring Klingon communication channels.
-Several warships have been dispatched to this sector to search for a
-renegade Federation vessel. 
-PICARD: You're not thinking about leaving? 
-CRUSHER: There's nothing here, Jean-Luc. 
-PICARD: There should be! There has to be! Data, is there some other way
-to scan for a temporal disturbance? Something that isn't covered in a
-normal sensor sweep. 
-DATA: There are several methods of detecting temporal disturbances, but
-we're limited by the equipment on the Pasteur. 
-CRUSHER: We should head back to Federation territory. 
-DATA: However, it may be possible to modify the main deflector to emit
-an inverse tachyon pulse, which could scan beyond the subspace barrier.
+PICARD: I've shut off the tachyon pulses in the
+other time periods but it hasn't changed the
+anomaly. 
+DATA: It remains unaffected here as well, sir. 
+CRUSHER: What do we do? 
+LAFORGE: The only way to stop this thing's to repair the rupture at the
+focal point where time and anti-time are converging. 
+RIKER: How do we do that? 
+DATA: It would require taking the ship into the anomaly itself. Once
+inside, we may be able to use the engines to create a static warp
+shell. 
+LAFORGE: Yeah, Data, that's right. And the shell would act as an
+artificial subspace barrier separating time and anti-time. 
+DATA: Collapsing the anomaly and restoring the normal flow of time. But
+this would have to be done in the other two time periods as well. 
+PICARD: That could be a problem. The anomaly's so much larger in the
+other two time periods 
+[Past - Bridge]
 
-PICARD: That's it. Make it so. 
-CRUSHER: Wait a minute. Data, how long would this take? 
-DATA: To make the modifications and search the entire Devron system
-will take approximately fourteen hours. 
-CRUSHER: All right. Data, begin to modify the tachyon pulse. Ensign
-Chilton, lay in a course back to the Federation. We'll stay here for
-six more hours, and if we haven't found anything we're heading back,
-maximum warp. 
-CHILTON: Aye, sir. 
-PICARD: But six more hours may not be enough. We have to stay here
-until we find it, no matter how long it takes. 
-CRUSHER: Carry out my orders. May I see you a moment?
-
-[Future - USS Pasteur Ready room]
-
-PICARD: Beverly, I cannot believe that you are not
-willing to stay here until we 
-CRUSHER: Don't you ever question my orders on the Bridge of my ship
-again! 
-PICARD: Damn it, I was just trying to. Look, there are larger concerns
-here. What you don't understand is that 
-CRUSHER: I understand that you would never have tolerated that kind of
-behaviour back on the Enterprise and I won't here. I don't care if
-you're my ex-Captain or my ex-husband. 
-PICARD: You're right. I was out of line. It won't happen again. But
-what you have to understand is what is at stake here. Q has said that
-all of humanity will be destroyed. 
-CRUSHER: I know. That's why I've allowed us to stay here longer and
-keep looking. But I also want you to allow for the possibility that
-none of what you're saying is real. 
-PICARD: What? 
-CRUSHER: Jean-Luc, I care for you too much not to tell you the truth.
-You have advanced Irumodic Syndrome. It's
-possible that all of this is in your mind. I'll stay here six hours
-longer and then we're heading home. I want you to remember, if it were
-anyone but you, we wouldn't even be here. 
-(Crusher leaves, Q appears as a ancient man with an ear trumpet) 
-Q: Eh? What was that she said, sonny? I couldn't quite hear her. 
-PICARD: Q? What is going on here? Where is the anomaly? 
-Q: Where's your mommy? Well, I don't know. 
-PICARD: Answer me. 
-Q: There is an answer, Jean-Luc, but I can't hand it to you. Although
-you do have help. 
-PICARD: What help? 
-Q: You're not alone, you know. What you were and what you are to become
-will always with you. 
-PICARD: My time shifting. The answer does lie there, doesn't it. Now,
-tell me one thing. This anomaly we're looking for, will that destroy
-humanity? 
-Q: You're forgetting, Jean-Luc. You destroy humanity. 
-PICARD: By doing what? When? How can 
-[Bridge]
-
-PICARD: Report, Mister Data. 
-DATA: The anomaly is two hundred million kilometres in diameter. It is
-a highly focused temporal energy source which is emitting approximately
-the same energy output as ten G type stars. 
-PICARD: What is the source of this energy? 
-DATA: I am uncertain, sir. Sensors are unable to penetrate the anomaly.
-
-PICARD: What if we modified the main deflector to emit an inverse
-tachyon pulse. That might be able to scan beyond the subspace barrier.
-That might give us some idea of what the interior of this thing looks
-like. 
-DATA: That is a most intriguing idea, sir. I do not believe a tachyon
-beam was ever used in such a way. I had no idea you were so versed in
-the intricacies of temporal theory, sir. 
-PICARD: I have some friends who are quite well versed in it. Make it
-so. 
-DATA: I believe we can make the necessary modifications in main
-Engineering, sir.
+PICARD: It may be dangerous to take the ship in. 
+O'BRIEN: Take the ship in where, sir? 
+PICARD: Into the anomaly, Chief. Lay in a course for the exact centre
+and transfer all available power to the shields. 
+TASHA: Sir? Can you give us some explanation? 
+PICARD: No, Lieutenant, I cannot. 
+TASHA: Captain, so far we've obeyed every order, no matter how far
+fetched it might have seemed. But if we're to risk the safety of the
+ship and crew I think we have to ask you for an explanation. 
+PICARD: I understand your concerns, Lieutenant, and I know if I were in
+your position I would be doing the same thing. Looking for answers. But
+you're not going to find any because I don't have any to give you. I
+know it is difficult for you to understand, but we have to take the
+ship into the very centre of the phenomenon and create a static warp
+shell. Now, this will put the ship at risk. Quite frankly, we may not
+survive. But I want you to believe that I am doing this for a greater
+purpose, and that what is at stake here is more than any of you can
+possibly imagine. I know you have your doubts about me, about each
+other, about the ship. All I can say is that although we have only been
+together for a short time, I know that you are the finest crew in the
+fleet and I would trust each of you with my life. So, I am asking you
+for a leap of faith, and to trust me. 
+TASHA: Shields up, maximum strength. 
+WORF: Boosting field integrity to the warp nacelles. We may encounter
+shearing forces once we enter the anomaly. 
+DATA: I am preparing to initiate a static warp shell. 
+O'BRIEN: Course laid in, sir. 
+TROI: All decks report ready, sir. 
+PICARD: Take us in, Chief.
 

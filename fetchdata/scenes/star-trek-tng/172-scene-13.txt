@@ -1,46 +1,51 @@
-RIKER PICARD NIBOR LWAXANA DATA TOG
+LAFORGE WORF PICARD WESLEY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Turbolift]
+
+WESLEY: Deck six.
+
+[Transporter room]
+
+CRUSHER: Wesley? 
+(She hands him his case, and hugs him) 
+CRUSHER: Take care. 
+WESLEY: You too, Mom. 
+CRUSHER: Something the matter? 
+WESLEY: We've been scanning Ferengi transmissions, trying to find the
+Krayton. One of the signals was, I don't know, familiar somehow. 
+CRUSHER: Something in the message? 
+WESLEY: No, the message was scrambled. It was the static! 
+CRUSHER: Where are you going?
 
 [Bridge]
 
-DATA: Initial scans of ionisation patterns
-complete, sir. Now correlating sensor readings. 
-PICARD: It's almost incomprehensible, the amount of energy being
-expended. 
-DATA: Actually, it is five point three four times ten to the forty
-first watts, sir. Well within the norm for this type of phenomena. 
-PICARD: Yes, yes, yes. Perhaps, Data, but that takes away none of the
-wonder.
+WORF: Captain. The Bradbury has informed us they
+can wait no longer for Mister Crusher to come aboard. 
+(Wesley dashes in)
+PICARD: Wesley.
+WESLEY: Captain, I think there's a pattern to the subspace interference
+I heard on one of the Ferengi messages. 
+PICARD: Wesley, unless you leave immediately, you're going to miss the
+Bradbury. 
+WESLEY: The interference itself could be a message. If I could just
+hear a replay of the subspace scans. 
+PICARD: Signal the Bradbury they may leave. Play back the Ferengi
+transmissions. 
+WESLEY: Wait. Repeat that one. Put it on a continuous replay. Hear that
+popping noise? Data, can you filter out everything but that sound? 
+LAFORGE: That's Cochrane distortion. A fluctuation in the phase of the
+subspace field. All warp engines generate that kind of interference. 
+WESLEY: But listen to the pattern. It's the Algolian ceremonial rhythm
+that the musician played at the reception. 
+DATA: Mister Crusher is correct, sir. There is a temporal correlation. 
+PICARD: Then it is a signal from Commander Riker. Ingenious. He
+selected a signal we'd recognise but one the Ferengi would dismiss as
+static. 
+WORF: Signal source located, Captain. 
+PICARD: Plot an intercept course. 
+WESLEY: Course plotted and laid in, sir. 
+PICARD: Well done, Mister Crusher. Warp eight. 
+WESLEY: Aye, sir. 
+PICARD: Engage.
 
-[Holding room]
-
-NIBOR: Check. 
-RIKER: I'm sick of this game. 
-NIBOR: Of course, now that you're losing. 
-RIKER: Who's losing? I'm just tired of standing up. 
-NIBOR: You can't resign now. 
-RIKER: It's hard to play from in here. I can't even see the whole
-board. 
-NIBOR: Ah, then you'll finish the game if I let you out of the cell? 
-RIKER: I might. 
-NIBOR: Clever, human, but I'm not that foolish. 
-RIKER: What, do you think I'm going to try to escape? What would that
-get me? You've already got her. Besides, where would I go? 
-NIBOR: I do not trust you. 
-RIKER: Fine. Thanks for the game. 
-NIBOR: Come out here. (puts the forcefield back up) Now save your rook,
-if you can.
-
-[Tog's quarters]
-
-LWAXANA: And that was my first husband. Not much of
-a conversationalist, but what a lover. Well, then I met Zarn 
-TOG: I do not want to hear about your other romances. It makes me
-jealous. 
-LWAXANA: My, my. What big ears you have. Has anyone ever told you how
-attractive they are? 
-(She strokes the edges) 
-TOG: Some females think they are my best feature. No one has ever given
-me oo-mox like this before. 
-LWAXANA: Oo-mox? 
-TOG: There is no translation. But the ear is one of our most erogenous
-zones. 

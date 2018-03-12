@@ -1,137 +1,68 @@
-RIKER WORF PICARD BYLETH TROI LOQUEL ANNA
+PICARD GUEST3 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Precipice]
 
-WORF: I am going to kill him! With my bare hands, I
-will take him by the throat and I will rip out his oesophagus 
-RIKER: Worf. 
-WORF: I have failed in my mission, Commander. I am clearly a bad
-diplomat. For the sake of the ship and the Federation, I request
-reassignment. 
-RIKER: Denied. 
-WORF: Commander, these Iyaarans are arrogant, irritating. They cannot
-be reasoned with! 
-TROI: Ambassador Loquel's quite pleasant. I will admit though, he's a
-little unusual. 
-RIKER: What have you been able to find out about him so far? 
-TROI: He seems preoccupied with recreation. I've spent more time in Ten
-Forward in the last two days than I have in the past two months. And
-he's obsessed with food. Especially chocolate. 
-RIKER: You must be in heaven. 
-TROI: To be honest, he's testing even my limits. 
-WORF: You see? You see? They are insane! 
-TROI: Worf, you've been very patient with Ambassador Byleth, and that's
-good. But maybe it's time to let him know that some behaviour is
-unacceptable to us. I think it's all right to suggest limits for the
-Ambassador. 
-WORF: Bah. 
-RIKER: Maybe we should loosen things up a little bit, meet in a less
-official capacity. How about a friendly game of poker?
+(clouds drift just below the edge of the drop) 
+PICARD: Anna! Anna! 
+GUEST2: Captain, this ridge extends for a kilometre in either direction.
 
-[Freighter]
-
-(Picard is walking around in some discomfort) 
-ANNA: What are you doing? You should be in bed. 
-PICARD: Anna, why was this door locked from the outside? 
-ANNA: For your protection. 
-PICARD: From what? 
-ANNA: There are dangerous animals here. Come sit down. Look, I have the
-comm. panel. 
-PICARD: Good. 
-ANNA: It wasn't easy. I had to force it out of the equipment bay. 
-PICARD: If we can boost the output field, I might be able to send a
-distress signal.
-Something seems to be wrong with it. 
-ANNA: What's the matter? 
-PICARD: This transmitter module has been totally destroyed. How could
-that happen? It looks as though it's been hit by a phaser blast. 
-ANNA: I used a phaser to cut it free. Maybe I accidentally damaged it.
-You can fix it, can't you? 
-PICARD: No. 
-ANNA: I'm sorry. I'm sorry. I'm sorry. 
-PICARD: Anna, we will get out of here. It's not going to be easy, but
-we need to work together. 
-ANNA: I can't believe I did that. That I damaged our only chance. I've
-waited for so long. At first, I had hoped that I'd be rescued. I kept
-setting up microfusion flares and looking up at the sky and waiting for
-someone to come and take me away. But it never happened. There's a
-precipice near here. I used to go there and stare down at the gorge and
-I'd think, I can just step over the edge and end it all.
-And then I realised it was the hope that was driving me crazy, that I
-had to accept that I would never get out of here. 
-PICARD: Anna, no matter how long it takes, we will get out of here. 
-ANNA: I knew from the moment I saw you that you were here to save me.
-I'll do anything you want. Just don't leave me. I don't ever want to be
-alone again. 
-(Anna kisses Picard) 
-ANNA: I love you. 
-(later, Picard is working on some equipment when Anna comes in) 
-ANNA: I found some coltayin roots. They're not much to look at but they
-taste good. What are you doing? You're going to hurt yourself. 
-PICARD: No, no, no, it's all right. I'm just trying to dislodge this
-power cell. Nearly got it. There. No, no, it's all right. The energy
-relays are corroded but I think it should be able to hold one more
-charge. If I can regenerate this, then I may be able to reactivate the
-shuttlecraft's engines. 
-ANNA: Well, I'd say this is cause for celebration. I may still have
-some Terellian spices around here, and I'll boil these roots and make
-us a nice broth. 
-PICARD: That sounds delightful. 
-ANNA: If we ever do get out of here, will you promise to show me this
-starship of yours? This Enterprise? 
-PICARD: Of course. Anna, would you pass me that tricorder, I'm going to
-try to repair these energy relays. 
-ANNA: I meant what I said before. I do love you. 
-PICARD: Anna, I'm grateful to you for saving my life, and I think that
-you are a warm and compassionate person, and I feel a great sympathy
-for what you've been through alone here on this planet, but I don't
-think that you can really be in love with me. 
-ANNA: How can you say that? Of course I love you. 
-PICARD: No, I'm the first person you've seen in seven years. I'm
-bringing you the hope of leaving this place. Don't you think that you
-could possibly be just a little confused right now? 
-ANNA: So you're not attracted to me. 
-PICARD: I think that's a little premature. We hardly know anything
-about each other. 
-ANNA: I understand, and I'm sorry if I made you uncomfortable. 
-PICARD: No harm done. It's going to take at least a couple of hours to
-charge this cell. Then as soon as it's done, we should get it over to
-the shuttle immediately. This cell casing is already beginning to break
-down. Anna, we are going to get out of here.
-
-[Riker's quarters]
-
-(Loquel is eating chocolates and the game is five
-card draw) 
-RIKER: The bet is ten. That's to you, Ambassador. 
-LOQUEL: I will see the bet, and raise ten. 
-TROI: I'm in for twenty. 
-WORF: (rearranging his cards) I'm in. And I raise twenty. 
-BYLETH: You are (thinks) bluffing. 
-(Byleth takes some chips from Worf's pile and throws them into the pot)
-
-WORF: Excuse me, Ambassador. Those are my chips. 
-BYLETH: You are in error. Those chips are mine. 
-WORF: I saw you take two chips from my pile. 
-BYLETH: You would dare to accuse me of stealing? 
-WORF: Yes. 
-BYLETH: You are lying because you are losing the game. 
-WORF: I am losing because you've been cheating all along! 
-RIKER: Wait a minute. Calm down. 
-BYLETH: (standing) Even if I were cheating, how would a plodding animal
-like you know it? 
-WORF: You are an insulting, pompous fool, and if you were not an
-Ambassador, I would disembowel you right here! 
-BYLETH: Do not let my title inhibit you, Klingon! 
-(Byleth prods Worf in the chest, so Worf grabs his arm and throws him
-across the room) 
-BYLETH: Yes. Good. 
-(Byleth kicks Worf in the chest and they get into a proper fight.
-Loquel keeps eating, unconcerned. Worf
-head-butts Byleth and Riker grabs him) 
-RIKER: Stop, Mister Worf! That is an order! 
-BYLETH: Wonderful. Very good! Thank you. Lieutenant Worf. I think I
-understand now. That was a very effective demonstration. 
-WORF: What? 
-BYLETH: If you'll excuse me, I would like to document this experience.
-
+PICARD: We can search it twice as fast if we separate. 
+(so they head off in opposite directions) 
+PICARD: Anna! Anna! 
+(Picard sees Anna standing by the edge in the other direction) 
+PICARD: Anna, Anna. 
+GUEST3: Stay away from me. 
+PICARD: You don't have to do this. I found Voval, the shuttle pilot,
+he's still alive. He can help us get away from here. 
+GUEST3: I don't care. I'll jump unless you promise to love me. 
+PICARD: No. No, I won't promise. You have been manipulating me, haven't
+you? 
+GUEST3: Jean-Luc, what are you saying? 
+PICARD: The necklace. It broke. I saw it in the cargo freighter, on the
+floor by the fire. I left it there. Now it's around your neck. It's
+whole. How? 
+GUEST3: Tell me you love me. I must know. 
+PICARD: Where's Voval? Isn't it convenient that he arrived moments
+after you left? That he insisted that I come here to look for you? That
+I find you, here on the ledge, ready to jump? That's very good timing,
+don't you think? 
+GUEST3: Jean-Luc. 
+PICARD: Are you and Voval working together? He's the only one who could
+have brought you the necklace. 
+GUEST3: Tell me about your love or I'll jump! 
+PICARD: Go ahead. Why don't you do it? It's a long way down. Must be
+two hundred metres. You'd die instantly, if that's what you want. But I
+don't think that it really is. 
+(Anna touches her pendent and turns into Voval) 
+GUEST2: I have failed. 
+PICARD: Failed? Voval, what is going on? 
+GUEST2: My name is Ambassador Voval. 
+PICARD: Ambassador? 
+GUEST2: My mission was to study human intimacy, specifically the concept
+you call love. In our study of your culture, we did not understand
+certain concepts. So we sent three representatives to study them, to
+experience them. 
+PICARD: But why did you believe that bringing me here would give you a
+better understanding of love? 
+GUEST2: Several years ago, we discovered the remains of the Terellian
+freighter on this planet. The ship contained logs made by a single
+survivor, a human woman. That was our first contact with human culture.
+The woman lived alone here for seven years until another human crashed
+on this planet. A human male. 
+PICARD: And the man was injured and she nursed him back to health, and
+they fell in love. 
+GUEST2: In the logs, she described many concepts we found difficult to
+understand. Pleasure, antagonism, love. These were alien to us. We
+wished to experience them for ourselves. Ambassador Loquel was sent to
+experience pleasure. Byleth was sent to experience antagonism. And I
+was sent to experience love. Was this wrong? 
+PICARD: Let me just say that we would not take such a direct approach.
+Ambassador, I have tell you that in my culture, what you have done
+would be considered a crime. 
+GUEST2: Crime? 
+PICARD: Well, we'll can talk about it later. For now, I think we should
+get off this planet. Am I in assuming the damage the shuttle is not as
+bad as it seems? 
+GUEST2: That is correct. We can leave at any time. 
+PICARD: I think that now would be quite nice. 

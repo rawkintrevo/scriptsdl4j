@@ -1,47 +1,39 @@
-WAITER DATA COMPUTER SCOTT
+RIKER LAFORGE WORF PICARD SCOTT DATA RAGER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Transporter room]
 
-WAITER: May I help you, sir? 
-SCOTT: Aye, lad. Scotch, neat. 
-WAITER: There you go, sir. 
-SCOTT: Thank you. 
-(takes a drink) 
-SCOTT: What in blazes is this? 
-WAITER: Didn't you order Scotch? 
-SCOTT: Laddie, I was drinking Scotch a hundred years before you were
-born and I can tell you that whatever this is, it is definitely not
-Scotch. 
-DATA: I believe I may be of some assistance. Captain Scott is unaware
-of the existence of synthehol. 
-SCOTT: Synthehol? 
-DATA: Yes, sir. It is an alcohol substitute now being served aboard
-starships. It simulates the appearance, taste and smell of alcohol, but
-the intoxicating affects can be easily dismissed. 
-SCOTT: You're not quite human, are you? 
-DATA: No, sir. I am an android. Lieutenant Commander Data. 
-SCOTT: Synthetic Scotch, synthetic commanders. 
-DATA: I believe Guinan does keep a limited supply of non-syntheholic
-products. Perhaps one of them would be to your liking. 
-(Data goes behind the bar and comes out with a bottle) 
-SCOTT: What is it? 
-DATA: It is (looks at bottle) It is (sniffs contents) 
-It is
-green. 
-(Scott drinks) 
-SCOTT: Ah! 
-[Corridor]
+LAFORGE: Are you feeling all right? 
+SCOTT: Never get drunk unless you're willing to pay for it the next
+day. I'll manage. 
+LAFORGE: Okay. Energise.
 
-(bottle and glass in hand, Scott walks carefully to
-the holodeck) 
-COMPUTER: Please enter programme. 
-SCOTT: The android at the bar said you could show me my old ship. Let
-me see it. 
-COMPUTER: Insufficient data. Please specify parameters. 
-SCOTT: The Enterprise. Show me the Bridge of the Enterprise, you
-chattering piece of 
-COMPUTER: There have been five Federation ships with that name. Please
-specify by registry number. 
-SCOTT: NCC One Seven Oh One. No bloody A, B, C, or D. 
-COMPUTER: Programme complete. Enter when ready.
+[Bridge]
+
+DATA: Sensors indicate that the large circle is a
+portal or airlock, possibly leading to the interior of the sphere. 
+RIKER: This looks like the front door. Should we ring the bell? 
+PICARD: Mister Worf, open a channel to that communications array. 
+WORF: Aye, sir. 
+(there's a jolt, and Red alert goes off) 
+DATA: Some type of tractor beam has locked onto us. 
+RIKER: Helm, get us out of here! 
+RAGER: We've lost main power. Auxiliary power down to twenty percent. 
+(the viewscreen shows four beams pulling the Enterprise towards the
+opening spacedoors) 
+WORF: We're being pulled inside. 
+RAGER: Auxiliary power failing. 
+DATA: The resonance frequency of the tractor beams is incompatible with
+our power systems. Warp and impulse engine relays have been overloaded.
+I am attempting to compensate. 
+(Enterprise is slung into inner space) 
+RAGER: The tractor beams have released us, sir. 
+RIKER: Hold position here until we can get our bearings. 
+PICARD: Full sensor sweep, Mister Data. Where are we? 
+DATA: Approximately ninety million kilometres from the star's
+photosphere. I am reading a great deal of surface instability. It may
+be 
+RAGER: Sir! The inertial motion from the tractor beams is still
+carrying us forward. Impulse engines are offline and I can't stop our
+momentum. We're falling directly into the star.
 

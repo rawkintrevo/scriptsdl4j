@@ -1,51 +1,40 @@
-Q PICARD CRUSHER DATA AMANDA
+Q PICARD CRUSHER AMANDA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ready room]
 
-PICARD: Mister Data, I want you to access any
-available records on Amanda Rogers. 
-DATA: Yes, Captain. 
-PICARD: I want to know about her biological parents, about their death.
-I find it odd that any Q could die in an accident. 
-DATA: It is not consistent with what we know of them, sir. 
-PICARD: I'm convinced that Q isn't telling us everything. See what you
-can find out. 
-DATA: Aye, sir.
-
+PICARD: You agreed that she has a right to choose
+her own future. The first chance you get you try to abduct her. 
+Q: You're overreacting as usual, Picard. I was merely testing her
+power. She's quite a little spitfire, now isn't she? 
+PICARD: What's going on, Q? What's your real purpose here? 
+Q: I think I've been perfectly clear. The Continuum has a vested
+interest in this young woman. 
+PICARD: If you wish to protect that investment, I suggest that you
+approach her differently. 
+Q: She was being impetuous. She'll just have to start behaving like a
+Q. 
+PICARD: If I'm not mistaken, she just did. 
 [Amanda's quarters]
 
-AMANDA: It started happening about six months ago.
-Things that I would wish for would just suddenly appear. I thought I
-was going crazy. In a funny way, finding this out is kind of a relief. 
-CRUSHER: I can understand that. This person I mentioned, from the Q
-Continuum, would like to meet you. If it's all right with you. 
-AMANDA: I'm ready. 
-CRUSHER: Good. 
-(Beverly goes to open the door, but Q walks straight through) 
-Q: There's my girl! 
-(Picard enters the conventional way) 
-PICARD: Amanda, allow me to introduce, er, Q. He's er, he's an
-acquaintance of ours. We've er, we've known him for years. 
-Q: Very impressive the way you contained that explosion. What else have
-you done? 
-AMANDA: I don't understand. 
-Q: Telekinesis? Teleportation? Spontaneous combustion of someone you
-didn't like? That sort of thing. 
-PICARD: Amanda, what Q is asking is have you ever deliberately used
-your abilities? 
-AMANDA: Not until I came here. The first time it happened was when the
-container almost fell on Commander Riker. 
-Q: And you handled that very well. That's why I gave you a greater
-challenge. The warp core breach. 
-(Q grasps her face and stares into her eyes) 
-Q: She has potential, this one. I see no reason why she can't come back
-to the Continuum right now. 
-AMANDA: What? 
-PICARD: Q 
-AMANDA: I don't want to go anywhere. 
-Q: Don't worry. With time you'll overcome the disadvantages you
-suffered as a child. No one will hold it against you for having been
-human. Let's go. 
-(Amanda sends Q flying across the room) 
-AMANDA: Leave me alone! I'm not going anywhere with you!
+AMANDA: You understand, don't you? It's just that I
+have these things that I want to do. I'm going to the Academy. I want a
+career, and I want to join Starfleet. 
+CRUSHER: You can still do those things. 
+AMANDA: It just seems so complicated now. These powers that I have are
+just going to stand in the way. I don't want to have to deal with it. 
+CRUSHER: Well, you're going to have to. Listen, I can only imagine how
+you feel. And it would be easier if this had never happened or if it
+would just go away. But it's not going to go away. And you need someone
+to help you. And the person who can help you is Q. 
+AMANDA: He's so horrible. 
+CRUSHER: He is the only one who can help you to understand who you are.
+Amanda, you are going to have to make some hard choices about your
+future, and you can't make them if you're going to ignore the truth. 
+AMANDA: Yeah. I know. But I don't want any of this to disrupt my time
+here. I want to do everything that I'm expected to do, and I don't want
+you to treat me any differently. Please? 
+CRUSHER: You've got a deal. The first free hour you have, I want to see
+you in the medical lab. I have an experiment I need help with. 
+AMANDA: Yes, ma'am.
 

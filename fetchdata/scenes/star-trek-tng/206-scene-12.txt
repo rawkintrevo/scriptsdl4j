@@ -1,35 +1,30 @@
-PICARD RIKER CRUSHER LAFORGE
+WESLEY GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Laboratory]
 
-CRUSHER: He came in complaining of a servo
-malfunction but my scans came out negative. Then he just collapsed. 
-PICARD: What have you found? 
-CRUSHER: His biosystems and positronic functions seem to check out, and
-his power cells are active. 
-LAFORGE: From what I can tell, his higher functions are intact, but the
-signals aren't getting from his brain to the rest of his body. It's
-like he's in a coma. 
-RIKER: Data performs self diagnostic routines on a regular basis. We
-should take a look at his logs. They may reveal something. 
-LAFORGE: I recommend going through his quarters, as well. You never
-know what we might find. 
-PICARD: Agreed. Continue the analysis. Keep me informed.
-
-[Data's quarters]
-
-RIKER: Standard security sweep shows nothing out of
-the ordinary. 
-LAFORGE: Personal logs, diagnostics, duty logs, they all appear normal.
-There's no evidence of anything that could lead to Data's shutdown. 
-RIKER: Maybe we should ask his cat. 
-LAFORGE: I guess I'd better get back to Sickbay, see if there's any
-change in his condition. 
-RIKER: Doctor Crusher's got everything under control, Geordi. If
-there's any change, you'll be the first to know. 
-LAFORGE: I guess so. 
-RIKER: Looks to me like you need a break. Unwind a little. 
-LAFORGE: Yeah, maybe you're right. 
-RIKER: I've got just the thing. Why don't you join me in Ten Forward?
-There's something I'd like you to try.
+WESLEY: I've loaded the neurological behaviour
+programme. This sensor pad should allow the computer to process
+whatever information the game sends at it. 
+GUEST1: Let's see what happens. 
+WESLEY: Okay. 
+GUEST1: It's activating the reticular formation. 
+WESLEY: There's heavy synaptic activity all over the place. 
+GUEST1: I wonder what happens after prolonged exposure? 
+WESLEY: Speed up the processor and we'll find out. 
+GUEST1: The effect seems centred around the frontal lobe. 
+WESLEY: Computer, enhance frontal lobe, full spectrum. 
+GUEST1: It's stimulating the septal area. 
+WESLEY: That's the pleasure centre of the brain. Whatever this thing
+does, it must feel pretty good. 
+GUEST1: No wonder it's so popular. 
+WESLEY: Look at this. Serotonin levels are way off. Let's run a
+neurochemical analysis. 
+GUEST1: I'm seeing widespread bonding to neuro-receptors. 
+WESLEY: Correct me if I'm wrong, but this looks like a psychotropic
+reaction. 
+GUEST1: Are you saying you think the game's addictive? 
+WESLEY: What's going on in the prefrontal cortex? 
+GUEST1: Doesn't that area control higher reasoning? 
+WESLEY: Yeah, it sure does. I'd better go talk to the Captain.
 

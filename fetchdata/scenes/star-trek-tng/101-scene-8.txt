@@ -1,114 +1,69 @@
-RIKER OBRIEN LAFORGE PICARD WESLEY ZORN CRUSHER DATA
+PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Battle Bridge]
+[Battle ready room]
 
-(O'Brien is unaware the four were ever away) 
-DATA: What is present course, conn? 
-O'BRIEN: It's what it's been all along, sir. Direct heading to Farpoint
-Station. 
-DATA: Confirm. We are on that heading, sir. 
-O'BRIEN: Know anything about Farpoint Station, sir? Sounds like a
-fairly dull place. 
-PICARD: We've heard that we may find it rather interesting. 
-Personal log, Commander William Riker. Stardate
-41153.7. The USS Hood has dropped me off at Farpoint Station, where I
-await the arrival of the new USS Enterprise to which I have been
-assigned as First Officer. Meanwhile I have been asked to visit the
-Farpoint Administrator's Office, in the old city.
+PICARD: Come. 
+RIKER: Not exactly a run of the mill happening, Captain. 
+PICARD: It seems we're alive only because we have been placed on
+probation. A very serious kind of probation. (answers
+comm.) Go. 
+DATA [OC]: The saucer module is now entering orbit with us, sir. 
+PICARD: Acknowledged. Commander Riker will conduct a manual docking.
+Picard out. 
+RIKER: Sir? 
+PICARD: You've reported in, haven't you? You are qualified? 
+RIKER: Yes, sir. 
+PICARD: Then I mean now, Commander. 
+[Battle bridge]
 
-[Zorn's office]
+DATA: They say you will be doing this manually,
+sir. No automation. 
+RIKER: As ordered. 
+(They approach the saucer from astern, of course) 
+RIKER: Velocity to one half metre per second. Adjust pitch angle,
+negative three degrees. Watch your roll angle, conn. All stations,
+prepare for reconnection. Thrusters to station keeping. All velocity
+zero. Her inertia should do the job now. Lock up now. 
+(The clamps rise and the two parts of the ship meet again) 
+[Ready room]
 
-(It is a standard wooden room, a desk with a bowl
-of fruit on it. Zorn is humanoid in loose clothing with long straight
-hair) 
-ZORN: Ah, Commander Riker, I thought you'd want to know we've still no
-word from your vessel. I trust we made your waiting comfortable? 
-RIKER: Luxurious is more like it. 
-ZORN: Good. (gets muddled over a handshake) Good. 
-RIKER: Would I seem ungrateful if I ask for some information? 
-ZORN: Anything. 
-RIKER: Fascinating, the advanced materials used in constructing this
-space station. Your energy supply must be as abundant as I've heard. 
-ZORN: Geothermal energy is the one great blessing of this planet. I'll
-have all the details of that sent to your quarters. 
-RIKER: Thank you. But it still seems incredible to me that you could
-have constructed this station so rapidly and so, so perfectly suited to
-our needs. 
-ZORN: Would your care for an Earth delicacy, Commander? 
-RIKER: (looking at the bowl of fruit) If there's an apple? 
-ZORN: I'm sorry, Commander. 
-RIKER: It doesn't matter. What I was saying was (suddenly there is a
-second bowl of apples) I'll be damned. 
-ZORN: Ah yes, there was another selection here 
-RIKER: Groppler, I could have sworn it wasn't here a minute ago. 
-ZORN: And did your failure to notice it make it unwelcome? 
-RIKER: Not at all, Groppler. 
-ZORN: I trust it will be the same with Farpoint Station, Commander. A
-few easily answered questions about it won't make Starfleet appreciate
-it less. 
-RIKER: And it's delicious. Thank you. Good morning, Groppler Zorn. 
-ZORN: Good morning. 
-(Riker leaves with his apple) 
-ZORN: (to the air) You have been told not to do that. Why can't you
-understand? It will arouse their suspicion. And if that happens, we
-will have to punish you. We will, I promise you.
-
-[Market place]
-
-RIKER: Doctor Crusher! 
-WESLEY: Mother, it's Commander Riker. 
-RIKER: Hello, Wes. Enjoying Farpoint Station? 
-WESLEY: Yes, sir. 
-RIKER: I saw you. I thought I might join you for a stroll. 
-CRUSHER: Actually, we were about to do some shopping. 
-RIKER: I've been meaning to visit the mall myself. 
-CRUSHER: Of course. 
-WESLEY: If you're wondering about Mom, Commander Riker, she's not
-unfriendly. She's just shy around men she doesn't know. 
-CRUSHER: Wesley! I believe that means he would like us to be friends. 
-RIKER: I'm willing, Doctor. Although we're not officially part of the
-Enterprise, I thought there might be something useful we can do while
-we wait. 
-CRUSHER: Useful? How, Commander? 
-RIKER: Investigating some things that I've noticed since I've been
-here. The last was a piece of fruit. 
-CRUSHER: (examining a bolt of cloth) Gold would be lovely with this. I
-am sure, Commander, there are reasons for a first officer to want to
-demonstrate his energy and alertness to a new captain. But since my
-duty and interests are outside the command
-structure 
-(Suddenly the bolt of cloth has a gold pattern on it) 
-RIKER: Isn't it remarkable they happen to have exactly what you asked
-for? 
-CRUSHER: Thank you. I'll take the entire bolt. Send it to our starship
-when it arrives. Charge to Doctor Crusher. 
-(they walk away from the stall) 
-RIKER: Let's see, where were we? 
-CRUSHER: I was accusing you of inventing work in order to curry favour
-with our new captain. I apologise. 
-WESLEY: Mom, that gold pattern wasn't there. 
-CRUSHER: Maybe this is something Jean-Luc would like looked into. 
-RIKER: Jean-Luc Picard? You know the Captain? 
-WESLEY: When I was little, he brought my father's body home to us. 
-CRUSHER: Yes, Wes, long, long ago. A pleasure to meet you, Commander.
-You will excuse us. 
-RIKER: My pleasure, Doctor. Wes. 
-WESLEY: Sir? 
-RIKER: See you on board. 
-WESLEY: Yes, sir. 
-(Crusher and Wesley leave Riker, and another uniformed man arrives,
-wearing a device across his eyes) 
-LAFORGE: Sir, the Enterprise is arriving 
-RIKER: Is this an official report, Lieutenant? 
-
-LAFORGE: Sorry, Commander. Sir, Lieutenant La Forge reporting. The
-Enterprise arriving, but without the saucer section, sir. 
-RIKER: Stardrive section only? What happened? 
-LAFORGE: I don't know, sir. Captain Picard has signalled for you to
-beam up immediately. 
-RIKER: Our new captain doesn't waste time. It's a good idea. Thank you,
-Lieutenant. 
-LAFORGE: Aye, sir. 
-RIKER: (moves into a clear space) Enterprise, this is Commander Riker
-at Farpoint Station. Standing by
-to beam up. 
+PICARD: A fairly routine manoeuvre but you handled
+it quite well. 
+RIKER: Thank you, sir. I hope I showed some promise. 
+PICARD: I do have some questions for you though.
+RIKER: Yes, sir, I thought you might. 
+PICARD: I see in your file that Captain DeSoto thinks very highly of
+you. One curious thing, however, you refused to let him beam down to
+Altair Three. 
+RIKER: In my opinion, sir, Altair Three was too dangerous to risk
+exposing the Captain. 
+PICARD: I see. A Captain's rank means nothing to you. 
+RIKER: Rather the reverse, sir. But a Captain's life means a great deal
+to me. 
+PICARD: Isn't it just possible that you don't get to be a Starfleet
+Captain without knowing whether it's safe to beam down or not? Isn't it
+a little presumptuous of a first officer to second guess his captain's
+judgment? 
+RIKER: Permission to speak candidly, sir? 
+PICARD: Always. 
+RIKER: Having been a first officer yourself, you know that assuming
+that responsibility must by definition include the safety of the
+captain. I have no problem with following any rules you lay down, short
+of compromising your safety. 
+PICARD: And you don't intend to back off that position? 
+RIKER: No, sir, 
+PICARD: One further thing. A special favour. 
+RIKER: Anything, sir. 
+PICARD: Using the same kind of strength you showed with Captain DeSoto,
+I would appreciate it if you can keep me from making an ass of myself
+with children. 
+RIKER: Sir? 
+PICARD: I'm not a family man, Riker, and yet, Starfleet has given me a
+ship with children aboard. 
+RIKER: Yes, sir. 
+PICARD: And I don't feel comfortable with children. But, since a
+captain needs an image of geniality, you're to see that's what I
+project. 
+RIKER: Aye, sir. 
+PICARD: Welcome to the Enterprise, Commander Riker. 

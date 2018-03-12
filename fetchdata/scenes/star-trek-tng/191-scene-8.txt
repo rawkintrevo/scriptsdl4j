@@ -1,44 +1,37 @@
-PEEPLES TROI OBRIEN HAGAN LAFORGE KEIKO
+PICARD RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
- [Brittain Bridge]
+[Corridor]
 
-LAFORGE: I'm going to try re-calibrating the field
-generators. I still don't see why we can't get the engines started. It
-just doesn't make any sense. 
-PEEPLES: Someone's still here. 
-LAFORGE: What did you say, Ensign? 
-PEEPLES: Can't you hear it? There's someone still alive on the ship! I
-heard, I mean, I thought I heard something. 
-LAFORGE: The ship was searched thoroughly. There's nobody left on
-board. 
-PEEPLES: Sorry, sir. My mistake. 
-LAFORGE: Don't worry about it. There were thirty four people were found
-dead on this ship. That's enough to make anybody uneasy. 
-PEEPLES: Thank you, sir.
+RIKER: The only one who doesn't seem affected by
+all this is Data. 
+[Turbolift]
 
-[Sickbay]
+RIKER: Bridge. 
+PICARD: (looking old, drawn, tired) Number One, how? 
+RIKER: Sir? 
+PICARD: Any hallucinations, nightmares? 
+RIKER: No. I'd be a liar if I said I felt like myself. I've had to bite
+my tongue to keep from snapping at people. A couple of times, I've gone
+to my quarters and felt as if there was someone in there, waiting for
+me. 
+PICARD: I've had similar feelings. With everyone succumbing it's even
+more important that one of us attempt to keep control of his faculties.
+I want you to turn in, take a nap. I'll be on the Bridge. You can
+relieve me in four hours. 
+RIKER: Yes, sir. Deck eight. 
+(Riker leaves and Picard shudders) 
+[Riker's quarters]
 
-TROI [OC]: I'm here. Can you hear me? Tell me about
-the voices you hear. 
-HAGAN [OC]: Bright. Bright out there. 
-TROI [OC]: I don't understand. Bright what? Tell me more. 
-[O'Brien's quarters]
+(Riker keeps hearing floorboards creak behind him) 
+[Turbolift]
 
-(Miles is pacing when Keiko enters) 
-KEIKO: Boy, what a day this was. I'm doing an isozyme study on some
-populations of Cardilia but they're turning out to have these really
-weird polymorphisms. What a headache! 
-O'BRIEN: Is that why you're late? 
-KEIKO: Oh, no, I had a conference with Doctor Balthus. She wants to do
-a study on the laticifer ontogeny of the Kaladian Thorn Flower, but I
-don't have time to oversee another project. 
-O'BRIEN: Was Tom Corbin there? 
-KEIKO: What? 
-O'BRIEN: Tom Corbin from the science lab. Remember him? 
-KEIKO: Of course I remember him, but 
-O'BRIEN: You use any excuse you can to pay him a visit. 
-KEIKO: Miles, what are you saying? 
-O'BRIEN: I think you know exactly what I'm saying. 
-KEIKO: If I didn't know better, I'd say you were jealous. 
-O'BRIEN: Do you take me for a fool?
+(Picard sees the ceiling coming down towards him) 
+PICARD: No! 
+(the doors open at the Bridge and Worf hears his screams) 
+WORF: Sir? 
+[Bridge]
+
+PICARD: As you were. Mister Data, will you join me
+in my Ready room.
 

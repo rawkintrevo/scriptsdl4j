@@ -1,66 +1,36 @@
-TROI LAFORGE PICARD RIKER Q DATA
+Q PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Doctor's office]
+[Turbolift]
 
-PICARD: Beverly, something's happened to me. I'm
-not sure 
-Q: (German accent) Vell, vell, vell. Vhat seems to be de trouble,
-Lieutenant Picard? 
-PICARD: Q, what have you done? 
-Q: I've done exactly as I promised. I've returned you to the present. 
-PICARD: But this is not the present I remember. You said nothing would
-change. 
-Q: Nothing has changed, Jean-Luc, except for you. But then again,
-that's what you wanted, wasn't it? To change the man you were in your
-youth? Well, you did it. This is the man you are today. And You should
-be happy. You have a real heart beating in your chest, and you get to
-live out the rest of your life in safety, running tests, making
-analyses, and carrying reports to your superiors.
+PICARD: Main Engineering. Are you having a good
+laugh now, Q? Does it amuse you to think of me living out the rest of
+my life as a dreary man in a tedious job?
 
-[Ten Forward]
+[Limbo]
 
-(Riker and Troi are at a table) 
-PICARD: Excuse me, am I interrupting? 
-RIKER: No, not at all. Have a seat. 
-PICARD: Thank you. I'd like to talk to you for a moment about my future
-on the Enterprise. 
-RIKER: Of course, Lieutenant. Jean-Luc, isn't it? 
-TROI: Maybe I should go. 
-PICARD: No, please, Counsellor, I would very much like to hear your
-thoughts. First of all, and I would like you to be absolutely
-straightforward with me. How would you evaluate me as an officer? 
-TROI: Well, er, your performance records have always been good. You're
-thorough, dedicated. 
-RIKER: Reliable, steady, (searching desperately) punctual. 
-PICARD: I see. What would you say if I told you that I believed that I
-was capable of being very much more. 
-RIKER: Perhaps we should discuss this at your next evaluation. 
-PICARD: I would appreciate it if we could discuss it now. You see, I
-feel that I would like to move beyond astrophysics to Engineering or
-Security, something that might even lead to Command. 
-RIKER: Frankly, Lieutenant, I don't think that's realistic. 
-PICARD: Why? 
-TROI: I really don't think this is the place to be discussing this. 
-PICARD: Please. This is important to me. I believe that I can do more. 
-TROI: Hasn't that been the problem all along? Throughout your career
-you've had lofty goals, but you've never been willing to do what's
-necessary to attain them. 
-PICARD: Would that be your evaluation as well, Commander? 
-RIKER: I think I have to agree with the Counsellor. If you want to get
-ahead, you have to take chances, stand out in a crowd, get noticed. 
-PICARD: I see. 
-RIKER: Now, we don't want to lose you. You're a very good officer. 
-PICARD: Just not one who stands out. 
-RIKER: Why don't I talk to Commander La Forge in Engineering and we'll
-see what we can do. 
-PICARD: But, Command? 
-RIKER: Well, we'll see. 
-DATA [OC]: Senior officers, please report to the Captain's Ready room. 
-RIKER: Acknowledged. 
-TROI: We should talk about this later. 
-(Riker and Troi leave) 
-PICARD: All right, Q, that's enough. You've made your point. Q? 
-LAFORGE [OC]: La Forge to Lieutenant Picard. I'm still waiting for that
-statistical analysis. 
-PICARD: I'm on my way, sir.
-
+Q: I gave you something most mortals never
+experience. A second chance at life. And now all you can do is
+complain? 
+PICARD: I can't live out my days as that person. That man is bereft of
+passion and imagination. That is not who I am. 
+Q: Au contraire, he's the person you wanted to be. One who was less
+arrogant, and undisciplined as a youth. One who was less like me. The
+Jean-Luc Picard you wanted to be, the one who did not fight the
+Nausicaan, had quite a different career from the one you remember. That
+Picard never had a brush with death, never came face to face with his
+own mortality, never realised how fragile life is or how important each
+moment must be. So his life never came into focus. He drifted for much
+of his career, with no plan or agenda, going from one assignment to the
+next, never seizing the opportunities that presented themselves. He
+never lead the away team on Milika Three to save the ambassador, or
+take charge of the Stargazer's Bridge when its Captain was killed. And
+no one ever offered him a command. He learned to play it safe. And he
+never, ever got noticed by anyone. 
+PICARD: You're right, Q. You gave me the chance to change and I took
+the opportunity. But I admit now, it was a mistake. 
+Q: Are you asking me for something, Jean-Luc? 
+PICARD: Give me a chance to put things back the way they were before. 
+Q: Before you died in Sickbay. Is that what you want? 
+PICARD: I would rather die as the man I was than live the life I just
+saw. 

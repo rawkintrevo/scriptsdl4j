@@ -1,44 +1,49 @@
-KURN WESLEY RIKER LAFORGE WORF
+KURN RIKER LAFORGE PICARD TROI CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Corridor]
 
-RIKER: Mind if I join you? 
-WESLEY: No, sir. 
-RIKER: Is there something wrong, Wes? Commander Kurn perhaps? 
-WESLEY: He just doesn't seem to like me. I can't do anything right for
-him. Every time I respond to an order he jumps down my throat. I don't
-know what I'm doing wrong. 
-RIKER: Problem, Geordi? 
-LAFORGE: Yes, sir. It's our new first officer. 
-RIKER: I take it he found something wrong in Engineering? 
-LAFORGE: Just the entire section. He pulled a surprise inspection in
-the middle of a maintenance cycle! I tried to explain it to him 
-RIKER: But he wouldn't listen. 
-LAFORGE: We're all going to be doing double shifts down there just to
-ready for the next inspection. 
-RIKER: His style of command is just different. Klingons believe in
-obedience and a strict formality of command. 
-LAFORGE: Yeah, but this isn't a Klingon vessel. He's going to have to
-loosen up, Commander. 
-WESLEY: It's not just us. He's been leaning into everybody pretty hard,
-except 
-LAFORGE: Except the one guy who wouldn't really mind it.
+RIKER: This is not a Klingon ship, sir. 
+KURN: No, Commander, it is not. If it were a Klingon ship, I would have
+killed you for offering your suggestion.
 
-[Bridge]
+[Captain's Mess]
 
-WORF: Sensors picking up asteroidal debris ahead,
-Commander. 
-KURN: Can you identify the coordinates, Mister Worf? 
-WORF: Bearing zero zero one mark point oh three. Range, three hundred
-thousand kilometres. 
-KURN: Excellent. Please scan the asteroid field for me, Lieutenant, and
-report. 
-WORF: Approximately two thousand small objects. None in our direct
-flight path, sir. 
-KURN: So, no course correction is necessary. Is that what you are
-saying? 
-WORF: It should not be needed, sir. 
-KURN: Very good, Lieutenant. You handled that well. 
-(Worf starts to square up to him) 
-KURN: Yes?
+(Picard is carving a roast turkey for the buffet) 
+KURN: How long has the bird been dead? It appears to have been lying in
+the sun for quite some time. 
+LAFORGE: It's not dead, it's been replicated. You do understand that we
+cook most of our foods. 
+KURN: Ah, yes. I was told to prepare for that. I shall try some of your
+burned replicated bird meat. 
+(He rips off a leg and plonks it on his plate) 
+PICARD: I have attempted to select a menu that will allow you to sample
+a variety of dishes, Commander. 
+CRUSHER: Try some caviar. 
+KURN: The odour is not palatable. What is it? 
+DATA: The unhatched eggs of a large scaleless 
+PICARD: Later, Data. A fish, Commander. A delicacy from the Caspian Sea
+on Earth It's a favourite of mine. Our replicator's never done it
+justice, but I managed to store a few cases for special occasions. 
+KURN: I am honoured, Captain. 
+(They all sit round the table) 
+TROI: Are you adjusting to your new environment, Commander? 
+(Kurn starts eating. No one else is) 
+KURN: I find the constraints a bit difficult to conform to. Just a
+short while ago, I had to stop myself from killing Commander Riker. I
+believe he was trying to communicate the crew's sense of discomfort
+with my style of command. Under different circumstances, I would
+consider that a challenge to my authority. 
+PICARD: One of the aims of the exchange programme, Commander, is for
+all of us to learn tolerance. As for my crew, it may be healthy to
+shake up the status quo occasionally. 
+RIKER: The Commander certainly appears to have the crew on its toes 
+LAFORGE: And then some. No offence, sir. 
+KURN: None taken. I never kill anyone at the supper table, Mister La
+Forge. 
+CRUSHER: Don't you like it, Commander? 
+KURN: Our food has much more taste to it. While I'm sure this is well
+prepared, it is far too bland for the stomach of a Klingon. 
+LAFORGE: It seems to agree with Worf. 
+KURN: Yes.
 

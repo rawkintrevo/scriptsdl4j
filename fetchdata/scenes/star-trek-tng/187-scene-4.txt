@@ -1,53 +1,30 @@
-PICARD RIKER CHIEF CLARK WORF
+PICARD GUEST4 GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WORF: They are transmitting again. 
-PICARD: On screen, before we lose contact. 
-CLARK [on viewscreen]: Enterprise, Enterprise! Do you read me?
-Emergency! We need help! 
-PICARD: Doctor Clark, this is Captain Picard. We are ready to beam you
-and your staff on board the 
-CLARK [on viewscreen]: They're in! 
-PICARD: Transporter room three. Lock onto the science team and beam
-them aboard. 
-CHIEF [OC]: I've locked onto Doctor Clark. I can't pick out the others.
-It's a mess down there. 
-PICARD: Then beam Doctor Clark aboard by himself. 
-CHIEF [OC]: Yes, Captain. 
-PICARD: Mister Worf, will you escort him to my ready room. 
-WORF: Aye, sir. 
-PICARD: Number One, try to make some sense out of this mess.
+GUEST4: Jared, you must secure the release of my
+people. I can't believe you would allow this. 
+GUEST5 [on viewscreen]: Howard, my friend, you know how I abhor all acts
+of violence, but events are out of my control. 
+PICARD: I'm Captain Jean-Luc Picard. Is there nothing you can do? 
+GUEST5 [on viewscreen]: As the hour of Ardra's return approaches, fear
+has overwhelmed my people. It has been a thousand years. The prophecies
+have come true. 
+PICARD: Prophecies? 
+GUEST4: Ardra's arrival was supposed to be heralded by the shaking of
+the cities. Now there has been a series of geological tremors on the
+planet. Minor quakes, nothing extraordinary. 
+PICARD: Poorly timed. 
+GUEST5 [on viewscreen]: There is more. For several nights there have
+been visions of Ardra. Again, just as the contract said would occur
+before her return. 
+PICARD: Visions? Do you mean dreams? 
+GUEST5 [on viewscreen]: No. She has appeared. I myself have seen her. 
+PICARD: Jared, tell your people, if the hostages are released, I am
+prepared to offer Federation assistance should this, this Ardra return.
 
-[Ready room]
-
-CLARK: The people in Ventax Two live in an agrarian
-society. At least, they do now. 
-PICARD: What do you mean, now? 
-CLARK: It's an interesting anthropological question. One we were
-studying before the trouble began. In the distant past, the Ventaxian
-culture had achieved an extremely advanced scientific level, but a
-millennium ago they turned their backs on technology. 
-PICARD: They reverted to a simpler existence? 
-CLARK: And remained that way for centuries. First contact was made by a
-Klingon expedition seventy years ago. Since then, the new technology
-has been available to the Ventaxians. They simply are not interested in
-it. Virtually no social problems to be found on this planet, In fact, I
-would have described their society as idyllic until 
-PICARD: Until what, Doctor? 
-CLARK: It's hard to believe. Several years ago, Acost Jared, the
-Ventaxian head of state, began to grow increasingly obsessed with the
-legend of Ardra. With each passing day, he grew more anxious, and he
-talked about little else. Ardra is coming back. Ardra will be here
-soon. We must all leave before Ardra returns. 
-PICARD: And who is this Ardra? 
-CLARK: For all intents and purposes, the devil. Captain, these people
-actually believe they've sold their souls to the devil. 
-RIKER [OC]: Riker to Captain Picard. 
-PICARD: Have you located the science team, Number One? 
-RIKER [OC]: Evidently they're being held hostage. 
-CLARK: Hostage? 
-RIKER [OC]: There's a Ventaxian leader on the viewscreen, name of Acost
-Jared. 
-PICARD: Doctor.
-
+GUEST5: I am afraid it will not matter. They know your weapons are
+useless against her, Captain. I will make inquiries concerning the
+hostages. The innocent should not suffer from our sins. But I can make
+no promises. 

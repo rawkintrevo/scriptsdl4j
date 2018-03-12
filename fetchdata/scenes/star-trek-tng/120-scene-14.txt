@@ -1,57 +1,44 @@
-PICARD RIKER DATA LAFORGE
+CREWMAN TASHA PICARD GUEST1 GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Batris Corridor]
+[Brig]
 
-RIKER: Sir, I hate to break this up, but 
+(The prisoners are taking elements from their
+belts, the hooks from their boots and building a gun of some sort. Then
+Korris uses a metal piece to deactivate the forcefield)
+
+[Corridor]
+
+GUEST1: This is Ramos. The forcefield in Security
+Three has been broken. 
+(He tries to go in, and gets shot) 
+(Another guard dodges Konmel's shots and gets him, although it takes
+three blasts to put him down. Korris uses Ramos's phaser to kill the
+guard) 
+TASHA: Lieutenant Yar to Bridge. 
 [Bridge]
 
-PICARD: Oh, yes, of course, Number One. Proceed. 
-[Batris Corridor]
+TASHA [OC]: There's been an escape. At least one of
+my security is dead. 
+[Corridor]
 
-RIKER: Let's go. 
-(As they move on, a conduit falls. This ship is ready to fall apart) 
-DATA: I am detecting high levels of deuterium gas, probably from the
-leakage in the drive system. 
-RIKER: Toxic? 
-DATA: Not as yet, sir. The life signs are emanating from the far side
-of Engineering. 
-RIKER: What's the safest way around? 
-DATA: All routes are equally dangerous, sir. 
-LAFORGE: Well, what's the least dangerous route, Data? 
-DATA: There is no significant difference. 
-RIKER: Steady on. 
-LAFORGE: Commander Riker! Commander. 
-RIKER: Yes, Geordi. 
-LAFORGE: There's a fissure developing in the bulkhead. The skin of the
-ship is losing its integrity. 
-RIKER: Where is it? I can't see it. 
-LAFORGE: Right there.
-
+TASHA: So is Konmel. Korris is loose and armed. 
+PICARD: Keep me informed, Lieutenant. 
+TASHA: Aye, sir. 
 [Bridge]
 
-PICARD: Geordi, step closer. It looks to me like a
-spectrograph indicating metal fatigue. 
-[Batris Corridor]
+PICARD: Data, visual on K'Nera. 
+DATA: Visual on, sir. 
+PICARD: Captain, there will be a short delay. Korris has escaped. 
+K'NERA [on viewscreen]: He is a trained Klingon warrior, Captain.
+Perhaps more than you can handle. It is not a disgrace to request our
+assistance. 
+PICARD: I think we can handle the situation.
 
-PICARD [OC]: Is that how you interpret it? 
-LAFORGE: Very good, Captain. Exactly right. 
-RIKER: How long before this hull ruptures? 
-LAFORGE: It's impossible to be exact. I'd say five minutes. Probably
-less. 
-RIKER: Let's go.
+[Engineering]
 
-[Bridge]
-
-PICARD: Geordi, we've lost transmission. 
-[Batris Engineering]
-
-(As well as debris, there is a bright light source)
-
-LAFORGE: Signal overload. I'm surprised it lasted this long. 
-RIKER: We've reached the core, Captain. 
-DATA: The life signs are very strong now, sir. They are coming from
-over there. 
-RIKER: Is there any other way around? 
-DATA: Negative. This is the only way. The safest way to proceed is for
-me to cross alone. The heat and toxic gases have less effect on me. 
-RIKER: Agreed. Captain, Data's gone ahead. 
+(Korris runs in and sees the warp core. He heads up
+a ladder. Tasha enters) 
+CREWMAN: He's up there! 
+TASHA: Captain, Korris is in main Engineering. 
+PICARD [OC]: Commander Korris. 

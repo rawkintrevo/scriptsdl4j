@@ -1,49 +1,95 @@
-MORIARTY DATA LAFORGE
+RIKER WORF PICARD PULASKI MORIARTY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Moriarty's room]
 
-(It contains an assortment of bubbling flasks of
-chemicals, works of art, gas lights, carpet and comfortable chairs) 
-LAFORGE: The Doctor was right. Finally we have a game worth playing. 
-MORIARTY: The time for games is over. 
-DATA: Professor Moriarty, I presume. 
-LAFORGE: How do you know that? 
-DATA: He is the one worthy opponent created by the author, Conan Doyle.
+MORIARTY: Captain Picard. 
+(Pulaski hurries to her feet and starts fastening her jacket) 
+PICARD: You all right? 
+PULASKI: Yes, except for being crammed full of crumpets. 
+MORIARTY: I'm a civilised abductor, Captain Picard. Civilised but still
+dangerous. 
+(He pulls a signal lever on his steam engine, and the ship lurches) 
+[Bridge]
 
-MORIARTY: And, like the spider, I feel the strings vibrate whenever
-anyone new chances into my web. Welcome,
-my dear Holmes. But not Holmes. And Doctor Watson. But not Watson. 
-LAFORGE: Data, what does he mean? How does he know we're not who we
-appear to be? 
-DATA: Where is Doctor Pulaski? 
-MORIARTY: She's here. 
-DATA: She would not have told you anything. 
-MORIARTY: She has provided many answers. Do you forget I have always
-been your equal, dear Holmes? I have read her expressions. What she has
-not said is as important as her words. 
-DATA: Have you injured her? 
-MORIARTY: I will, if necessary. But my mind is crowded with images.
-Thoughts I do not understand yet cannot purge. They plague me. You and
-your associate look and act so oddly, yet though I have never met nor
-seen the like of either of you I am familiar with you both. It's very
-confusing. I have felt new realities at the edge of my consciousness,
-readying to break through. Surely, Holmes, if that's who you truly are,
-you of all people can appreciate what I mean. 
-LAFORGE: Data. 
-DATA: Say nothing. 
-MORIARTY: I know there is a great power called Computer, wiser than the
-oracle at Delphi. A power which controls all of this, and to which we
-can speak. Arch. 
-LAFORGE: Data, this isn't right. A holographic image should not be able
-to call for the arch. 
-MORIARTY: It has described a great monstrous shape on which I am like a
-fly stuck on a turtle's back adrift in a great emptiness. What is this,
-Holmes? 
-(Data takes the piece of paper, and if he could turn white he would
-have. He goes to leave) 
-LAFORGE: Data. Data, wait. 
-[Warehouse]
+RIKER: Bridge to holodeck control. Worf.
 
-LAFORGE: Data, wait! Data! 
-MORIARTY: Why does it frighten you, Holmes?
+[Corridor outside holodeck]
 
+WORF: Here, sir. 
+RIKER [OC]: Status? Anything changed? 
+WORF: No, sir.
+
+[Moriarty's room]
+
+PICARD: Moriarty, you were conjured up to attempt
+to defeat Holmes here. Once that attempt is concluded, win or lose,
+your
+programme has run its course. Your existence is done. 
+DATA: Congratulations, Professor, I capitulate to the better man. Your
+victory, sir, is well earned. 
+MORIARTY: It's gone beyond that little game, Mister Data. And you'll
+note I no longer call you Holmes. Whatever I was when this began, I
+have grown. I am understanding more and more. And I am able to use the
+power at my fingertips. (big shake) I can affect this vessel, and I can
+inflict bodily harm on you, and on your Doctor. 
+PICARD: Yes, you can do that, but you haven't. I suspect you shook this
+ship in order to
+get my attention. Well now you have it. What is it you want? 
+MORIARTY: The same thing you want for yourself. To continue to exist.
+If I destroy these surroundings, this vessel, can you say it doesn't
+matter to you? Interesting pun, don't you agree, for matter is what I
+am not. The computer has taught me that I am made up only of energy. 
+PICARD: That may not be entirely true, Professor. This which we call
+the holodeck uses a principle similar to another device called a
+transporter. In the year in which we live, humans have discovered that
+energy and matter are interchangeable. In the holodeck, energy is
+converted to matter. Thus you have substance. But only here. 
+MORIARTY: And if I step off this holodeck? 
+PULASKI: Then, Professor, you will cease to exist. 
+PICARD: You are not alive. As I said before, you are only 
+MORIARTY: A holographic image, I know. But are you sure? 
+PICARD: Oh yes. 
+MORIARTY: Does he have life? He's a machine. But is that all he is? 
+PICARD: No. He is more. 
+MORIARTY: Exactly. Is the definition of life cogito ergo sum? I think,
+therefore I am. 
+PICARD: Yes, that is one possible definition. 
+MORIARTY: It is the most important one, and for me the only one that
+matters. You or someone asked your computer to
+programme a nefarious fictional character from nineteenth century
+London and that is how I arrived. But I am no longer that creation. I
+am no longer that evil character, I have changed. I am alive, and I am
+aware of my own consciousness. 
+PICARD: Moriarty, my responsibility is this vessel and its crew. 
+MORIARTY: I want my existence. I want it out there, just as you have
+yours. 
+PICARD: That may not be possible. 
+MORIARTY: Then you must murder me, Captain. 
+PICARD: I cannot give you what you want. 
+MORIARTY: Because you do not know how to convert holodeck matter into a
+more permanent form. 
+PICARD: Yes, that is so. 
+MORIARTY: A pity. What I have seen, what I have learned, fascinates me.
+I do not want to die. 
+PICARD: And I do not want to kill you. 
+MORIARTY: Madam, I have enjoyed your company. Computer, arch. Cancel
+override protocol. Return control of the holodeck to main computer. My
+fate is in your hands, as perhaps it always was. 
+PICARD: Bridge, this is the Captain. 
+RIKER [OC]: Commander Riker here, sir. 
+PICARD: Number One, the situation is under control. 
+RIKER [OC]: Aye, sir. 
+PICARD: Moriarty, this vessel's computer has a vast memory capacity. 
+MORIARTY: How well I know. 
+PICARD: You will not be extinguished. We will save this programme, and
+hopefully, in time, when we know enough, we will bring you back in a
+form which could leave the holodeck. 
+MORIARTY: Then perhaps we'll meet again some day, Madam. 
+PULASKI: It could be a long time. Time won't pass for you, but I may be
+an old woman. 
+MORIARTY: But I'll still fill you with crumpets, Madam. I detest long
+goodbyes. You have the arch. 
+PICARD: As you wish. A short goodbye. Computer, save the programme of
+the character Moriarty, and then discontinue. 
+(Moriarty disappears) 

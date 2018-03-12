@@ -1,34 +1,58 @@
-KURN RIKER WORF
+KURN WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Kurn's quarters]
 
-WORF: Sensors picking up asteroidal debris ahead,
-Commander. 
-KURN: Can you identify the coordinates, Mister Worf? 
-WORF: Bearing zero zero one mark point oh three. Range, three hundred
-thousand kilometres. 
-KURN: Excellent. Please scan the asteroid field for me, Lieutenant, and
-report. 
-WORF: Approximately two thousand small objects. None in our direct
-flight path, sir. 
-KURN: So, no course correction is necessary. Is that what you are
-saying? 
-WORF: It should not be needed, sir. 
-KURN: Very good, Lieutenant. You handled that well. 
-(Worf starts to square up to him) 
-KURN: Yes?
+KURN: Enter. 
+(Worf is at the door) 
+KURN: 'el. 
+WORF: Permission to speak freely, sir? 
+KURN: For what purpose? 
+WORF: I have questions I wish to pose. 
+KURN: Are your quarters so comfortable? 
+WORF: They serve me. 
+KURN: This entire ship seems built on comfort, relaxation, being at
+ease. It is not the ship of a warrior, not the ship of a Klingon. You
+cannot ask these questions within the boundaries of protocol? 
+WORF: They are of a personal nature, sir. 
+KURN: Permission granted. Pose your questions. 
+WORF: I wish to know if I have given you offence. 
+KURN: I am not human. If you had given offence, you would not need to
+ask. 
+WORF: Perhaps I have not performed my duties to your satisfaction? 
+KURN: I find you to be a capable Starfleet officer. A credit to your
+ship. 
+WORF: Yet you dishonour me at every opportunity. 
+KURN: Have I? I did not know that being polite to a Starfleet officer
+would bring dishonour on him. 
+WORF: I am a Klingon. 
+KURN: Really? Perhaps your blood has thinned in this environment. I
+simply don't want to hurt you. 
+(Worf throws a chair across the room in rage) 
+KURN: mev yap! So your blood is not so thin after all. 
+WORF: I am a Klingon! if you doubt it, a demonstration can be arranged.
 
-[Turbolift]
+KURN: That is the response of a Klingon. The response I would expect
+from my older brother. 
+(collective gasps and a quick advert break) 
+KURN: I was barely a year old when you left for the Khitomer Outpost.
+You, our mother and father were not going to stay long. It was decided
+that I did not need to go. I was left to stay with our father's friend,
+Lorgh, until you returned. You never did. 
+WORF: The Starfleet officer that rescued me was told by the Klingon
+High Command that I had no living relatives. 
+KURN: They assumed that I was killed with the family at Khitomer. Lorgh
+had no sons. He took me into his family. It was not until I had reached
+the Age of Ascension that I was told the truth. 
+WORF: So you asked to serve aboard the Enterprise to watch me. 
+KURN: It was an excellent opportunity to see what kind of Klingon you
+were, or if you were Klingon at all. 
+WORF: Your deception offends me, brother. 
+KURN: It should. But it was required. 
+WORF: To satisfy your curiosity. 
+KURN: No. Much more. You are the eldest son. The challenge is yours to
+make. 
+WORF: Challenge? 
+KURN: The Klingon High Council has judged our father a traitor to the
+Empire.
 
-RIKER: Commander. Captain's mess? 
-KURN: Yes. 
-RIKER: Resume. 
-RIKER: Your knowledge of our systems and procedures is very impressive,
-Sir. I would like to make one suggestion, sir. 
-KURN: A suggestion? 
-RIKER: When I served aboard the Pagh, the hardest part for me was
-recognising and adapting to the demands of the crew. They needed an
-iron hand. I imagine it must be very difficult for you to work with a
-crew that is so different. I would be happy to guide you in that
-regard, if it would be helpful. 
-KURN: No, Commander. It wouldn't. 

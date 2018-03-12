@@ -1,135 +1,37 @@
-RIKER WORF WESLEY PICARD TROI PATAHK DATA CRUSHER TOMALAK
+PICARD CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Pit]
+[Ready room]
 
-(Geordi has spotted some medal ore in the wall of
-the pit. He makes a groove in the mud, puts the nodules in it then uses
-his phaser to melt them into a dagger shape)
+PICARD: Come. 
+WORF: You wished to see me, Captain. 
+PICARD: Yes, Lieutenant. I assume you know what it's about. 
+WORF: Yes. 
+PICARD: The Romulan ship will reach us within the hour. If our patient
+dies it may be just the excuse the Romulan commander needs to start an
+incident. The death of a Romulan officer at the hands of the
+Federation. Think of it. 
+WORF: I have, Captain. 
+PICARD: So, there is no question that the Romulan officer is more
+valuable to us alive than dead. 
+WORF: I understand. 
+PICARD: Lieutenant, sometimes the moral obligations of command are less
+than clear. I have to weigh the good of the many against the needs of
+the individual, and try to balance them as realistically as possible.
+God knows, I don't always succeed. 
+WORF: I have not had cause to complain, Captain. 
+PICARD: Oh, Lieutenant, you wouldn't complain even if you had cause. 
+WORF: If you order me to agree to the transfusion, I will obey, of
+course. 
+PICARD: I don't want to order you. But I ask you. I beg you to
+volunteer. 
+WORF: I cannot. 
+PICARD: Lieutenant. 
+WORF: Sir? 
+PICARD: That will be all. 
+(Worf leaves) 
+PICARD: Picard to Doctor Crusher. 
+CRUSHER [OC]: Go ahead. 
+PICARD: Do not continue to enlist the cooperation of Lieutenant Worf. 
+CRUSHER [OC]: I won't have to, Captain. The Romulan has died.
 
-[Sickbay]
-
-(Crusher is operating on the injured Romulan) 
-CRUSHER: We thought it would be like working on Vulcans, but there are
-subtle differences. Too many of them. 
-PICARD: Can you treat him? 
-CRUSHER: He has cell damage to vital areas. He's going to need a
-transfusion of compatible ribosomes in order to recover.
-I'm setting up a schedule to test every member of the crew. 
-PICARD: We can't use the replicator? 
-CRUSHER: The molecules are too complex. 
-RIKER: Will he survive? 
-CRUSHER: I can't answer that yet. 
-RIKER: Well let me put it another way. Will he survive long enough to
-tell us what he was doing here? 
-PICARD: Doctor, it's an important consideration. 
-CRUSHER: I can bring him around for a few minutes. But there is one
-serious complication. His brainwaves indicate early neural-pathway
-degeneration. 
-RIKER: Head injury? 
-CRUSHER: There's no obvious cranial trauma. I'm guessing his exposure
-to the magnetic fields on the surface was slowly breaking down his
-synaptic connections. 
-RIKER: Will it affect Geordi the same way? 
-(She nods, then injects the Romulan) 
-CRUSHER: He'll be conscious for a minute or two. 
-RIKER: You are on board the Federation Starship Enterprise. We're
-treating your injuries. How long were you down on Galorndon Core? Do
-you understand me? 
-PATAHK: I will not answer questions. 
-RIKER: We need to know if there are other survivors on the surface. 
-PATAHK: I am alone. I will not answer any questions. 
-RIKER: Do you have a mother ship who should be advised of your
-condition? 
-(He passes out again)
-PICARD: The only answer he wants to give is that he was alone. 
-RIKER: Which suggests that he wasn't.
-
-[Pit]
-
-(Geordi is using two home-made picks to help him
-climb out of the pit. It's hard work, but he makes it back onto the
-surface)
-
-[Bridge]
-
-RIKER: Something, anything to can cut through the
-storm. Some way to get a signal through to him. 
-WESLEY: A neutrino pulse. We could build a portable neutrino source and
-send it in a probe to the planet surface. It'll act like a beacon. 
-DATA: A neutrino pulse would send non-charged particles back up through
-the atmosphere and would be detectable by Geordi's Visor. 
-WESLEY: He can show us that he's found it by modifying the pulse 
-PICARD: Make it so. 
-DATA: Captain, I have a new transmission on a parallel frequency to the
-distress call. 
-PICARD: From the surface? 
-DATA: No, sir. From inside the Romulan Zone. We should be able to view
-the transmission. 
-PICARD: On screen. 
-(everyone, say Hi! to Andreas Katsoulis aka G'Kar the Narn from Babylon
-5) 
-TOMALAK [on viewscreen]: Tomalak to Pi. We have received your distress
-signal. Respond. If you can hear me, we are entering the Neutral Zone
-now. We will reach you in six hours. 
-PICARD: Mister Worf, hail the Romulan vessel. 
-WORF: Hailing frequencies open, sir. 
-PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the
-Federation Starship Enterprise. 
-WORF: The frequency is open, sir. 
-PICARD: Commander Tomalak, we have intercepted your transmission. You
-are not to enter Federation space. 
-TOMALAK [on viewscreen]: Captain Picard, my apologies. Had I known you
-were in this sector, I certainly would have advised you before crossing
-the Neutral Zone. 
-PICARD: Indeed? 
-TOMALAK [on viewscreen]: I'm sure you will understand when I explain.
-One of our ships had a slight navigational error and apparently crashed
-on Galorndon Core. 
-PICARD: A slight navigational error? Nearly half a light year past the
-Neutral Zone? 
-TOMALAK [on viewscreen]: I assure you, Captain, no aggression was
-intended. 
-PICARD: Commander, we have recovered one of your survivors. 
-TOMALAK [on viewscreen]: He is on board your ship? 
-PICARD: He is being treated for severe injuries. 
-TOMALAK [on viewscreen]: And his craft? 
-PICARD: Destroyed, deliberately, after the crash. 
-TOMALAK [on viewscreen]: I'm sure you are prepared to leave at once and
-rendezvous with me in the Neutral Zone. 
-PICARD: I have an away team on the planet. We are waiting for a window
-in the storm to beam them up. 
-TOMALAK [on viewscreen]: And then you will return my officer? 
-PICARD: Are there any other Romulans we should be looking to recover
-from Galorndon Core? 
-TOMALAK [on viewscreen]: No. It was a one-man craft. Captain, we will
-be at the Federation border of the Neutral Zone in roughly five hours.
-We will expect you to rendezvous at that time. 
-(transmission ends) 
-PICARD: Counsellor? 
-TROI: There's great hostility behind his smile. He'll stop at nothing
-to complete his mission. 
-RIKER: Including the Neutral Zone border. 
-WORF: Captain, I see no reason to return the Romulan to his ship. He
-should be held and interrogated. 
-RIKER: We have every right to detain him, sir. 
-PICARD: Without evidence of intent, Number One, it will not be a simple
-matter. 
-RIKER: It obviously wasn't pilot's error. I think it demands a response
-from us. 
-PICARD: But we must measure our response carefully, or history may
-remember Galorndon Core along with Pearl Harbour and Station Salem One
-as the stage for a bloody preamble to war.
-
-[Sickbay]
-
-CRUSHER: I want him off all the drugs. They're not
-doing anything. Doctor Crusher to Picard. 
-PICARD [OC]: Go ahead, Doctor. 
-CRUSHER: My patient is not responding
-
-[Bridge]
-
-CRUSHER [OC]: To treatment. 
-PICARD: You haven't found a compatible ribosome donor? 
-CRUSHER: The lab is still processing the tests. Early results indicate
-humans have far 

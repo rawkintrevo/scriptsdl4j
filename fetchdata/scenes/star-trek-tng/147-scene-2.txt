@@ -1,43 +1,5 @@
-PULASKI PICARD RIKER KOLRAMI DATA
-
-[Observation
-lounge]
-
-(Kolrami
-is giving a
-presentation at the viewscreen.)
-
-KOLRAMI:
-The Braslota System. In orbit around the second planet is the
-eighty-year old Starcruiser, Hathaway.
-He is still your first choice? 
-PICARD: Commander Riker will captain the Hathaway. 
-KOLRAMI: You will have forty eight hours to ready your vessel before
-the Enterprise attacks. 
-RIKER: And we'll experience actual battle conditions? 
-KOLRAMI: Correct. Engineering will disconnect the Enterprise's weapons
-and link the system with the modified laser-pulse beam. All hits will
-be recorded electronically. If the computer registers damage, it will
-act
-accordingly, shutting down the affected areas for the appropriate
-repair time. Additional questions? Captain Picard, it is my
-understanding that you initially resisted Starfleet's request for this
-simulation. 
-PICARD: Yes. 
-KOLRAMI: May I know why? 
-PICARD: Starfleet is not a military organisation. Its purpose is
-exploration. 
-KOLRAMI: Then why am I here? 
-PICARD: With the Borg threat, I decided that my officers and I needed
-to hone our tactical skills. In a crisis situation, it is prudent to
-have several options. 
-RIKER: I prefer brains over brawn as well. I think it's a waste of
-effort to test our combat skills. It's a minor province in the make-up
-of a starship captain. 
-KOLRAMI: Your objection is noted. Let us hope your distaste for the
-exercise will not affect your strategic abilities. 
-RIKER: Mister Kolrami, when I agree to do something. I do it. Do you
-care to surrender now, Captain?
+RIKER KOLRAMI LAFORGE PICARD PULASKI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -62,4 +24,25 @@ PULASKI: Captain, he needs an attitude adjustment.
 DATA: The Zakdornian culture is replete with self-assuredness and
 confidence. Seldom is it undeserved. For example, Kolrami is a third
 level grand master at the game of Strategema.
+
+[Engineering]
+
+
+(Adjustments
+are being made
+to something on the warp
+core.) 
+LAFORGE:
+Another millimetre. That's it. A little more. There. That's
+excellent. 
+RIKER: Lieutenant? 
+LAFORGE: Yes, Commander. 
+RIKER: You've heard of the simulation aboard the Hathaway? 
+LAFORGE: Yes, sir, and the best of luck to you. I've researched the old
+Avidyne engines. They're archaic by our standards, very touchy. 
+(The first of many Buckaroo Banzai references in this story) 
+RIKER: Anticipating the worst, do you think they can be whipped into
+shape in forty eight hours? 
+LAFORGE: I've already taken the liberty of putting together a few
+necessities.
 

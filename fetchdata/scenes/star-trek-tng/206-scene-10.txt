@@ -1,51 +1,38 @@
-RIKER PICARD WESLEY COMPUTER CRUSHER DATA
+WESLEY CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Crusher's quarters]
 
-DATA: You wanted to see me, Doctor? 
-CRUSHER: Yes, Data. I need to ask you to do something for me. I'm
-working on a new experiment with bioactive silicon. Would you
-reprogram this tricorder to these specifications? 
-DATA: Certainly. 
-CRUSHER: I'm sorry to bother you with it, but I need it done quickly. 
-DATA: It does not bother me. In fact, I am happy to 
-(Crusher switches Data off, then Troi and Riker enter. Will puts Data
-on a biobed) 
-RIKER: Computer, secure Sickbay. 
-COMPUTER: All entries to Sickbay are secured. 
-(Crusher opens a panel at the back of Data's head and starts working)
+(Beverly's playing the game at high level, and
+getting a lot of pleasure from it) 
+WESLEY: Mom? 
+CRUSHER: Wesley. 
+WESLEY: What are you doing? 
+CRUSHER: I'm embarrassed to say. This was meant for you. But it was so
+much fun, I couldn't resist. 
+WESLEY: What is it? 
+CRUSHER: It's a game. Riker brought it back from Risa. Everybody's
+playing it. Want to try? 
+WESLEY: Maybe later. How's Data? 
+CRUSHER: Geordi's still working on him. He's going to be fine. 
+WESLEY: I think I should go give him a hand. 
+CRUSHER: No. Wesley, you are on vacation. You have done enough already.
 
-[Ready room]
-
-(a chat over afternoon tea served in the silver tea
-service) 
-WESLEY: Let's see. I have Novakovich for anthropology and Horne for
-creative writing. 
-PICARD: Walter Horne? Is he still teaching? 
-WESLEY: Yeah, he is. And he's good too. And you'll be pleased to know I
-took your advice. The first week that I was there, I went and met
-Boothby. 
-PICARD: How is old Boothby? I hope he didn't tell you a lot of stories
-about me. 
-WESLEY: He didn't remember you, sir. At first. I found an old yearbook
-photo and he remembered you right away. He said he's very proud of you
-that you're Captain of the Enterprise. 
-PICARD: Is he still tending grounds, or have the years finally caught
-up with him? 
-WESLEY: Not that I can tell. He took me on a grand tour of the place.
-He showed
-me every single blade of grass, practically. 
-PICARD: I had the very same tour. 
-WESLEY: Sir, what do the initials A F stand for? 
-PICARD: AF? 
-WESLEY: Boothby said he caught you carving those initials into his
-prized elm tree. 
-PICARD: AF. Just an acquaintance of mine. (goes misty) Wesley, if you
-meet someone whose initials you might want to carve into that elm tree,
-don't let it interfere with your studies. I failed organic chemistry
-because of AF. 
-CRUSHER [OC]: Crusher to Captain Picard. 
-PICARD: Go ahead, Doctor. 
-CRUSHER [OC]: I need you in Sickbay immediately. 
-PICARD: On my way.
+WESLEY: Yeah, maybe you're right. Computer, increase light level. 
+CRUSHER: Are you in a hurry? 
+WESLEY: Yeah, I'm late for a dinner date. 
+CRUSHER: Really. With who? 
+WESLEY: Robin Lefler from Engineering. 
+CRUSHER: Why don't you invite her here? We can all play the game
+together. I can replicate a couple more. 
+WESLEY: Mom. 
+CRUSHER: Sorry. It's just that I want to spend some time together while
+you're here. 
+WESLEY: We'll have time together. I promise. 
+CRUSHER: Okay. 
+WESLEY: Okay. 
+CRUSHER: Just one game. Come on, try it on for size. 
+WESLEY: Mom! I really need to get ready. 
+CRUSHER: Have a good time. 
+WESLEY: Thanks. I will.
 

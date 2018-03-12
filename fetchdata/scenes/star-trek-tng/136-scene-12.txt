@@ -1,112 +1,28 @@
-TROI LAFORGE WORF PICARD SALIA RIKER WESLEY COMPUTER GIRL DATA
+WORF ANYA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Corridor]
 
-RIKER: Captain, we've broken orbit and laid in a
-course for Daled Four. We will remain on impulse power until Lieutenant
-La Forge completes his adjustments. 
-PICARD: Mister Worf, have our passenger's accommodations met with their
-approval? 
-WORF: I doubt if anything ever meets with that woman's approval, sir. 
-TROI: Captain, I'm concerned our new passengers. Their emotions do not
-fit who they are and what they're doing. 
-PICARD: Are you suggesting they're not who they say they are? 
-TROI: Actually no, it's more like they're not what they say they are. 
-PICARD: Picard to Salia's quarters. 
-SALIA [OC]: Yes? 
-PICARD: May we turn on the viewer? 
-SALIA [OC]: Yes, of course.
-PICARD: Are your quarters satisfactory? 
-SALIA [on viewscreen]: Yes, very. Tell me, Captain, who was the young
-man I met before? 
-[Salia's quarters]
-
-PICARD [on monitor]: That was Ensign Wesley
-Crusher. 
-(Anya enters) 
-SALIA: Thank you for checking on us, Captain. I only hope our quarters
-on Daled Four will be this luxurious. 
-PICARD [on monitor]: Please feel free to contact me at any time. Picard
-out.
-
-[Bridge]
-
-TROI: What I sensed before hasn't changed. 
-DATA: What puzzles me, Captain, is how she is expected to bring peace
-to Daled Four. Its inhabitants have been fighting throughout their
-recorded history. 
-PICARD: What do we know about the cause of these wars? 
-DATA: Only that it is the difference between night and day. 
-RIKER: Data, you used a colloquialism. 
-DATA: Did I? What I meant, sir, is that Daled Four rotates only once
-per revolution. Therefore one side is constantly dark, and the other
-side constantly light. One might surmise that the two hemispheres have
-developed disparate cultures, which is a major cause of most wars. 
-PICARD: This child is supposed to bring them together. 
-RIKER: She seems too delicate for such a task. 
-WORF: Do not be fooled by her looks. The body is just a shell.
-
-[Salia's quarters]
-
-(Salia is talking to another teenaged girl. Where
-did she come from?) 
-SALIA: How can I be a leader if I don't know anything about my people? 
-GIRL: You will lead because you are accepted by both sides. And because
-it is in your blood. 
-SALIA: What is expected of me once I'm there? 
-GIRL: You will know. 
-SALIA: How? 
-GIRL: You just will. Salia, you must arrive with an open mind, without
-preconceived ideas of the worlds
-you will find or the people on either side. 
-SALIA: It's very frustrating. 
-GIRL: You feel the weight of so much responsibility, you're not sure
-you'll live up to everyone's expectations. 
-SALIA: It's not only that. Nobody's even asked me if this is something
-I want. 
-GIRL: It is your duty. 
-SALIA: And I have no choice. 
-GIRL: It won't be as bad as you think. In fact, it could be quite
-wonderful. Besides, you are the last and only chance. 
-(The girl changes into a short, big-eyed, hairy creature that chatters
-at her in alien) 
-SALIA: Don't you think I'm going to need more than instinct to do
-whatever is expected of me on Daled Four?
-
-[Engineering]
-
-LAFORGE: Energy depletion level? 
-COMPUTER: (male) Point oh four percent and increasing. 
-LAFORGE: Wesley? Wesley, you haven't found that defocused area yet? 
-(Wesley is on the upper catwalk) 
-WESLEY: I'm looking. 
-LAFORGE: Yeah, I see the way you're looking. Wesley! 
-WESLEY: What? (drops the equipment) Sorry. I've got my mind on
-something. 
-LAFORGE: I can see that. 
-WESLEY: It's this girl they beamed up, Geordi. She's perfect.
-Absolutely perfect. 
-LAFORGE: Now I understand why you can't concentrate. 
-WESLEY: I'll do better. 
-LAFORGE: Okay. 
-COMPUTER: Warning, resonant field applied. 
-LAFORGE: What is it? What happened? 
-WESLEY: Nothing. I had it on the wrong setting. 
-LAFORGE: I suppose it had to happen to you. It usually does at about
-this age. 
-WESLEY: What usually does? 
-LAFORGE: Glands erupting with hormones. It happens to all of us. 
-WESLEY: Just because I said that I think she's interesting 
-LAFORGE: You said she was perfect. Come on down. You're no use around
-here for now. Come on down. Go talk to her. Use the ladder. 
-(Wesley comes down to Geordi) 
-WESLEY: That's silly, Geordi. But since you recommended it, how should
-I approach her? If she'll talk to me, what should I say? 
-LAFORGE: Just say, 'Hi, I'm Wesley Crusher. I'd like to talk to you'. 
-WESLEY: And then what? 
-LAFORGE: Whatever occurs to you. 
-WESLEY: What if nothing occurs to me? 
-LAFORGE: Look, Wes, I don't have time for this. You're going to have to
-ask somebody else. 
-WESLEY: Okay.
-
+(Anya is escorted to Salia's quarters) 
+WORF: Remain here. You are restricted to these quarters for the
+remainder of this voyage. 
+ANYA: You are the protector of this ship, are you not? 
+WORF: I am in charge of Security. 
+ANYA: You must understand my duties as well. If you confine me to this
+cell, I cannot protect Salia. 
+WORF: There is no need for concern. She is safe on this ship. 
+ANYA: You must understand that I cannot make such an assumption. 
+WORF: You no longer have the choice. You have to trust me to protect
+her. 
+ANYA: No. A true protector cannot have two charges. Your responsibility
+is to the ship. My duty is to Salia. 
+WORF: My responsibility to the ship includes protecting Salia. 
+ANYA: You know I'm stronger than you. 
+WORF: I was unprepared. 
+ANYA: You underestimated me in your Sickbay. That is usually fatal. 
+WORF: Still, you are here, confined to your room. 
+ANYA: I ceased my struggle by choice, not because of you or your
+Captain. 
+WORF: I would have stopped you. If not me, someone else. 
+ANYA: No, you cannot control me. 
+WORF: We will see. 

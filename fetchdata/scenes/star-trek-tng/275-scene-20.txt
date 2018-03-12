@@ -1,138 +1,36 @@
-TROI LAFORGE CONDUCTOR PICARD RIKER RUSTIC GANGSTER WORF CRUSHER DATA
+GUEST1 DATA LAFORGE GUEST0 PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Holodeck - Engine room]
 
-PICARD [OC]: Geordi, what's going on? We just went
-into warp. 
-LAFORGE: We've lost engine and helm control again, Captain, but this
-time, they're completely burned out. I don't know if we can stop the
-ship.
+GUEST0: That's far enough. 
+GUEST1: Sorry to spoil your party, pal. It's nothing personal. 
+DATA: I can get us there more quickly. I know a shorter route. 
+GUEST1: Don't listen to him. He's up to somethin'. 
+GUEST0: A shorter route? 
+DATA: Yes, if you will let me handle the controls. 
+GUEST1: Don't do it. 
+GUEST0: Well we're already behind schedule. If you can get us there
+on time. All right, go on, but no funny stuff. 
+DATA: Data to Captain Picard. I have taken control of the engine room. 
+[Bridge]
 
-[Holodeck- train]
+PICARD: Stand by. Are we within sensor range of the
+nebula? 
+LAFORGE: Yes, Captain, we are. 
+PICARD: Mister Data, I need you to slow us to impulse speed. 
+[Holodeck - Engine room]
 
-DATA: I believe we have changed direction. 
-CONDUCTOR: Now we're on the right track. Ladies and gentlemen, we are
-on our way! 
-(cheers all round and the gangster takes a house brick from the
-engineer's overalls) 
-GANGSTER: I was right. He was trying to make off with my brick. 
-CONDUCTOR: You take good care of that. We can't afford to lose it. Now,
-are you people going to leave or are we going to have to throw you off
-the train? 
-DATA: Commander. According to my tricorder, the holodeck safeties have
-been disengaged. His weapon could be lethal. 
-RIKER: All right, let's get out of here.
+DATA: I will attempt to do so. 
+GUEST0: I hope you know what you're doing. 
+(Data closes a valve and pulls on the brake)
 
-[Engineering]
+[Bridge]
 
-DATA: The number of systems now being affected by
-the nodes has increased considerably. Sensors, engines, replicators,
-propulsion, they are all working together now, almost independently of
-the main computer. And the nodes link them all through the holodeck. 
-RIKER: But why the holodeck? It doesn't make any sense. 
-DATA: Commander, I believe what happens on the holodeck has a direct
-effect on the ship. When we attempted to destroy the nodes, the
-characters on the train responded almost immediately to stop us. 
-RIKER: And when the engineer tried to protect us, one of the characters
-shot him. 
-DATA: Then the conductor then signalled for the train to change
-directions, and at approximately the same time 
-LAFORGE: The Enterprise also took off in a new direction. 
-RIKER: Are you saying the ship is under the control of the holodeck? 
-DATA: Not precisely. Geordi, does the configuration of connection nodes
-look familiar to you? 
-LAFORGE: Yeah. Yeah, it looks a little like the structure of your
-positronic brain. 
-DATA: That is correct. It would appear that the nodes are in the
-process of creating a rudimentary neural net. 
-RIKER: Data, what are you suggesting? 
-DATA: Unlikely as it may sound, I believe that the Enterprise may be
-forming an intelligence.
-
-[Observation lounge]
-
-DATA: This is a synaptic map of the human
-neo-cortex. This is a cross section of my positronic net. And this is a
-schematic of the connection nodes linking the ship's systems. I believe
-some sort of neural matrix is forming on the ship. It is still
-relatively primitive, but it is an intelligence nonetheless. 
-TROI: How could that happen? 
-DATA: I believe it is an emergent property. 
-PICARD: Explain. 
-DATA: Complex systems can sometimes behave in ways that are entirely
-unpredictable. The human brain, for example, might be described in
-terms of cellular functions and neurochemical interactions. But that
-description does not explain human consciousness, a capacity that far
-exceeds simple neural functions. Consciousness is an emergent property.
-
-LAFORGE: In other words, something that's more than just the sum of its
-parts. 
-DATA: Exactly. 
-CRUSHER: How does that explain what's happening to the Enterprise? 
-DATA: The Enterprise contains a vast database of information which is
-managed by a sophisticated computer. This complex system gives the ship
-many of the characteristics of a biological organism. 
-RIKER: That's true. It sees with its sensors, it talks with its
-communications systems. 
-CRUSHER: In a sense, it almost reproduces with the replicators. 
-PICARD: And you think that the ship has somehow gone beyond those
-functions and is developing a new capacity? 
-DATA: Yes, sir. I believe a self-determining intelligence is emerging. 
-WORF: If that is so, what does the ship want? Where is it taking us? 
-DATA: I believe the key to understanding the ship's behaviour lies in
-the holodeck. All of the connection nodes intersect at that location.
-It is clearly some kind of processing centre. 
-PICARD: Processing centre? 
-DATA: Yes, sir. A focal point where all the ideas and instincts of this
-emerging intelligence are first expressed in some form. 
-TROI: Almost like an imagination. Captain, I'd like to go to the
-holodeck. I could interact with the characters and maybe find some
-clues to help us understand what's happening. 
-PICARD: Very well. Mister Data, Mister Worf, I want you to go along.
-See if you can to re-establish control of the ship without damaging the
-nodes. If the ship is truly an emerging intelligence, then we have a
-responsibility to treat it with the same respect as any other being.
-
-[Holodeck - train]
-
-(things have changed. A flapper is repeatedly
-tapping a goblet against the knight's helm. The gunslinger is tied up
-while the gangster plays cards with him.)
-WORF: Welcome aboard, Counsellor. 
-DATA: If you will distract these people, I will attempt to depolarise
-the power grid. 
-(Troi and Worf go over the rustic and the other flapper who are working
-on the jigsaw) 
-WORF: Excuse me. Have you finished the puzzle yet? 
-RUSTIC: Not yet, but we're gettin' close. 
-WORF: Do you recognise it? 
-TROI: No. 
-WORF: I would like to help. Tell me. What exactly are you making? 
-RUSTIC: What do you think we're making? A puzzle! 
-WORF: No, I meant the picture. What is it? 
-RUSTIC: Well, I don't know. 
-(Troi goes to the card game) 
-TROI: Can you deal me in? 
-GANGSTER: Sorry. It's a two man game. 
-(Troi reaches for the brick)
-GANGSTER: Hey! Get your hand off of that. 
-TROI: Is that why you killed the Engineer? To get this brick? 
-GANGSTER: I had to get it back. You know how much it's worth, lady?
-Plenty. And I
-got to get it to Keystone City. 
-TROI: Why? What's at Keystone City? 
-GANGSTER: That's where everything begins. Gin. 
-(his five cards all show the jigsaw) 
-WORF: Are you succeeding, Commander? 
-DATA: I am ready to access the main power grid. 
-CONDUCTOR: Keystone City, next stop. Keystone City. Well, look who's
-back. 
-WORF: We do not want any trouble. We are simply passengers. 
-CONDUCTOR: Well then I'm sure you wouldn't mind showing me your
-tickets? Right. Sorry, boys. You're getting off right here. 
-GANGSTER: This is my stop. 
-TROI: Wait. What happens at Keystone City? Why are you taking the brick
-there? 
-GANGSTER: Excuse me. 
-TROI: I think we should follow that man. That brick may be an important
-clue. 
+PICARD: Are the modifications to the torpedoes
+complete? 
+LAFORGE: Aye, sir. 
+PICARD: Launch torpedo. 
+(whoosh, KaBOOM) 
+LAFORGE: It's working, Captain. The reaction is producing vertion
+particles. 

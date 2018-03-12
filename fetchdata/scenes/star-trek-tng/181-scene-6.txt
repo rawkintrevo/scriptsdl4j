@@ -1,95 +1,56 @@
-TROI WORF PICARD RIKER KMPEC KEHLEYR DATA ALEXANDER
-
-[Turbolift]
-
-K'EHLEYR: Not even a bite on the cheek for old
-time's sake? 
-WORF: Perhaps you're not aware of my dishonour. I have accepted
-discommendation. 
-K'EHLEYR: I've heard. So now what? I have to perform some ridiculous
-ritual to talk to you? 
-WORF: You may not respect our traditions, but I do. 
-K'EHLEYR: Sorry. I just thought you might want to talk. A few minutes
-ago, you looked like someone with a question to ask. 
-WORF: Must I ask the question? 
-K'EHLEYR: Yes, you must. 
-(Worf gets out of the turbolift) 
-K'EHLEYR: What should I tell Alexander? That he has no father?
-
-[Observation lounge]
-
-K'EHLEYR: The Klingon Empire is at a critical
-juncture. We may be facing civil war. 
-RIKER: War over what? 
-K'EHLEYR: The usual excuses. Tradition, duty, honour. 
-DATA: The word excuses implies ulterior motives for a conflict. 
-K'EHLEYR: I won't bore you with the intricacies of Klingon politics.
-Basically, two factions are trying to seize power. 
-PICARD: Do you believe there is a threat to the Federation in this
-struggle? 
-K'EHLEYR: Klingon wars seldom remain confined to the Empire. Sooner or
-later they'll drag in the neighbouring star systems, then the Tholians,
-the Ferengi. The Federation won't be able to stay out of it for long.
-This has been coming for some time. Only K'mpec, the head of the
-Council, has been able to maintain the peace. 
-TROI: Now something has changed that. 
-K'EHLEYR: Correct. K'mpec is dying. He is aboard the cruiser. He has
-come specifically to meet with you, Captain. Alone.
+DURAS PICARD GOWRON WORF KEHLEYR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [K'mpec's quarters]
 
-(Picard is escorted into K'mpec's quarters. There's
-a lot of red in the decor, and the chairs are massive) 
-K'MPEC: It's about time you arrived, Picard. Sit. 
-(He dismisses the guard with a wave of his hand) 
-K'MPEC: I need your help. 
-PICARD: If the Enterprise medical facility can do anything to help. 
-K'MPEC: Too late. For some months I have been poisoned with small doses
-of Veridium six. The wine. There is no cure. 
-PICARD: What do you want of me? 
-K'MPEC: After I die, you will act in my name to arbitrate the struggle
-for power. 
-PICARD: I will? 
-K'MPEC: No one on the Council can be trusted, and I have my reasons for
-wanting an outsider. 
-PICARD: K'mpec, you cannot possibly be serious. A Federation officer
-has no business in 
-K'MPEC: Nonsense. You are an accomplished mediator. This is no
-different than any other dispute requiring your services. 
-PICARD: On the contrary, I think this is very different. And I must
-respectfully decline. 
-K'MPEC: If you refuse the dying request of the Klingon Supreme
-Commander it will be a insult by the Federation to all Klingons.
-Besides, I've already sent the order to the leaders of the two opposing
-factions. They're on their way. 
-PICARD: You had no right to involve me without my permission. 
-K'MPEC: If I'd asked, you would have said no. 
-PICARD: This is not a case of simple mediation. You are asking me to
-choose the next leader of the Klingon Empire. 
-K'MPEC: No. By tradition, the two strongest challengers fight for the
-right of succession. As mediator, only you can designate those
-challengers. 
-PICARD: But you have just said there are only two challengers arriving.
-What is the point? 
-K'MPEC: I want you to discover which one of them has killed me. Gowron
-or Duras. Yes, Duras. I thought you would find that interesting. 
-PICARD: Interesting? You could say that, since he tried to have me
-killed, and conspired to strip Worf of his good name. 
-K'MPEC: And I approved. All for the glory of the Empire. That should be
-my epitaph. Find the assassin. The Klingon who kills without showing
-his face has no honour. He must not lead the Empire. Such a man would
-be capable of anything. Even war with the Federation. 
-PICARD: Very well. I accept. 
-(K'mpec takes another drink of poisoned wine) 
-Captain's log, supplemental. K'mpec, who ruled the
-Klingon Empire longer than anyone in history, is dead. We await the
-arrival of Duras and Gowron, rivals for the leadership of the High
-Council.
+(K'mpec's body is still sitting in his chair.
+Picard and K'Ehleyr stand beside it. She is holding a painstick.) 
+K'EHLEYR: That's Gowron. 
+PICARD: I hope this will be brief. 
+K'EHLEYR: It will be just long enough to prove that K'mpec is dead. 
+(Duras enters with two guards. K'Ehleyr hands the painstick to Picard.
+He stands in front of K'mpec's body) 
+PICARD: Qab jIH nagil (and presses the painstick to the corpse) 
+GOWRON: Qab jIH nagil! 
+(he does the same with a painstick he has brought) 
+DURAS: Qab jiH nagil! 
+(slightly more sadistically than Gowron) 
+K'EHLEYR: Sonchi. 
+DURAS: Now, complete the Rite of Succession. It's obvious who the two
+challengers are. 
+PICARD: We will proceed according to the traditions and the precedents
+set down in Klingon law. 
+GOWRON: What do you know of Klingon law, human? 
+PICARD: We will reconvene on the Enterprise, wherein 
+DURAS: No! Finish it here, now! 
+(There's an explosion, people go flying)
 
-[Schoolroom]
+[K'Ehleyr's quarters]
 
-(Alexander is not playing nicely and sharing the
-toys. Note, he is about half the height of Worf) 
-WORF: There is no honour in attacking the weak. 
-ALEXANDER: I would have won. 
-WORF: No. You must earn victory. 
+WORF: I have not received your report on the
+explosion. 
+K'EHLEYR: Two Klingons killed. A few minor injuries. Were you concerned
+about me? 
+WORF: As Head of Security, it is my duty to be concerned. 
+K'EHLEYR: Is that it? Just official concern for my well being? 
+WORF: You know my feelings. 
+K'EHLEYR: Maybe I've forgotten. 
+WORF: You were right. I would have insisted we take the oath. But not
+just because of tradition. 
+K'EHLEYR: I thought about telling you. Wanted to tell you. But I wasn't
+ready. When I left, you said you'd never be complete without me. It
+took some time but, I came to realise I need you too. You're part of
+me, Worf. 
+WORF: jIH dok. 
+K'EHLEYR: maj dok. 
+(a long pause as they gaze into each others eyes) 
+WORF: No, I cannot allow you to suffer my humiliation. 
+K'EHLEYR: There would be no suffering I don't care what other Klingons
+think of you. 
+WORF: But what of the boy? He may want to live in the Empire someday.
+He would be an outcast. Another traitor from a family of traitors. 
+K'EHLEYR: Family of traitors. I don't believe that for a minute. 
+WORF: Respect my wishes in this matter. I cannot take the oath with
+you. Nor can I claim your son. 
+K'EHLEYR: If you cannot be his father, at least be his friend.
+

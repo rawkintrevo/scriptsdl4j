@@ -1,47 +1,62 @@
-RIKER LAFORGE BELL PICARD POLICEMAN WHALEN CRUSHER DATA
+GUEST3 TROI LAFORGE TASHA PICARD GUEST7 RIKER WESLEY CRUSHER DATA GUEST9
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Police Station]
+[Bridge]
 
-(Crusher enters, wobbling a little on her stiletto
-heels) 
-DATA: (Bogart) Hiya Doc. What's cooking? 
-CRUSHER: You know I had some trouble getting through. Where's Captain
-Picard? 
-DATA: He's on ice. 
-CRUSHER: Pardon? 
-DATA: He's being grilled. 
-CRUSHER: What is he, a fish? 
-WHALEN: H's being interrogated. They think he's committed a murder. 
-CRUSHER: Why aren't we all being interrogated? Maybe I should go and
-help him. 
-WHALEN: No, relax. He's having the time of his life in there. 
-CRUSHER: Well, why should he have all the fun? 
-(She sits down and copies the woman next to here by crossing her legs
-and pulling up her skirt slightly) 
-POLICEMAN: Come on, Toots, let's go.
+TROI: We can't delay much longer. 
+RIKER: We're going to have to tell them something. Open hailing
+frequencies. 
+TASHA: Frequencies open, sir. 
+RIKER: This is Commander Riker, aboard the Enterprise. We demand that
+you (ear splitting noise) Cut that off! They're not going to be
+satisfied with anyone less than the Captain. 
+[Outside Holodeck]
 
-[Interrogation room]
+LAFORGE: La Forge to Bridge. 
+RIKER [OC]: Riker here. 
+LAFORGE: We think we have something, sir. I'll let Ensign Crusher
+explain. 
+WESLEY: The bi-converter interface has been affected 
+[Bridge]
 
-BELL: Spill it! 
-PICARD: I've told you everything I know. 
-BELL: Well, you'll just have to tell us again. From the top. From the
-top! 
-PICARD: Oh, very good. I've read all this before, you know. It's
-absolutely as it should be. 
-BELL: Spill it!
+RIKER: Forget the explanation! Can you do it?
 
 [Outside Holodeck]
 
-LAFORGE: LaForge to Bridge. 
-RIKER [OC]: Riker here. 
-LAFORGE: I can't find the Captain, sir. 
-RIKER [OC]: I told you, he's in the holodeck.
-LAFORGE: I'm at the holodeck. Something's gone wrong.
-RIKER [OC]: What are you saying? 
-LAFORGE: I can't communicate with him, I can't access the programme,
-and I can't open the doors.
+WESLEY: I don't know if I should. If this isn't
+done correctly, the programme could abort and everyone inside could
+vanish. 
+[Bridge]
 
-Enterprise log, supplemental. First Officer
-reporting. Due to an unknown breakdown in the holodeck, we are unable
-to contact the Captain.
+RIKER: Do you need more time to study it? 
+WESLEY [OC]: Whether we do it now or later, the risk is the same. 
+RIKER: Do it. 
+[Hill's Office]
 
+PICARD: If we can find away of getting him to our
+Sickbay by fixing our computer 
+GUEST3: Computer? I don't know that word. 
+DATA: An electronic or mechanical apparatus capable of carrying out
+repetitious or complex mathematical operations at high speed. Computers
+are used to control, process, perform, or store 
+GUEST9: Enough! Let me kill him. He's really beginning to irritate me. 
+(Wesley does something, and the office briefly turns into an arctic
+snowstorm) 
+CRUSHER: Captain, the exit. 
+PICARD: That's it. The way into our world. 
+GUEST3: Remarkable. Is this a two-way passage? Can one enter your
+world and return to this one simply by stepping through? 
+PICARD: Oh, yes. Allow us to help Mister Whalen, and we will return
+with the item. 
+GUEST3: You really are a scamp, aren't you. Do you actually think I'd
+stay here 
+DATA: If you were going to go through yourself, sir, that is not
+possible. 
+GUEST3: One look at you, sir, is proof that anything is possible.
+Step back, Mister Hill. I'd shoot you myself, but I don't want to
+deprive my assistant of his greatest pleasure. After we've gone, kill
+them all. Make sure the bodies are never found. 
+GUEST7: You're insane. You think you can kill a cop and get away with
+it? 
+GUEST3: Why not? I've done it before. Come on, Mister Leech. Au
+revoir et bonne chance, mon ami. Our destiny awaits. 

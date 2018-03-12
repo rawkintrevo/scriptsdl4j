@@ -1,43 +1,51 @@
-PICARD TROI RIKER WORF WESLEY
+TROI LAFORGE WORF PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Ready room]
 
-PICARD: Lieutenant? 
-WORF: We had completed our investigation of the third tunnel. Our scans
-had indicated no weapons or traps of any kind. Lieutenant Aster was
-three metres behind me. An explosive device went off. There was no
-warning. Lieutenant Aster bore the full brunt of the detonation. 
-(Troi enters) 
-TROI: Lieutenant Aster is survived by a son, Jeremy. Twelve years old.
-He's aboard the Enterprise, sir. 
-PICARD: And his father? 
-TROI: He's also deceased. His only living relatives are an aunt and
-uncle residing on Earth. 
-PICARD: Where is he now? 
-TROI: In class. I've alerted the teacher to expect us.
-WORF: Captain. I must accompany you. I commanded the away team. 
-PICARD: I appreciate your offer, Lieutenant, but this is my
-responsibility. 
-[Corridor]
+LAFORGE: There are five more just like them. All
+identical to the one that killed Lieutenant Aster. 
+DATA: They employ a subspace proximity detonator. A normal tricorder
+would never detect it. 
+PICARD: How long would you say they've been there, Data? 
+DATA: It comes from the time of the Koinonian Wars, sir. 
+RIKER: Did you find them all, Geordi? 
+LAFORGE: Yeah, but, well, it seemed like they were left there to be
+found. 
+PICARD: Left by whom? There are no indications of life on this planet. 
+LAFORGE: I don't know, Captain, but it was pretty obvious that they'd
+been recently pulled out of the ground and defused.
 
-PICARD: Picard to Bridge. 
-RIKER [OC]: Yes, Captain. 
-PICARD: Assign Commander La Forge to lead another away team to the dig
-site. I want to know why this happened. 
-RIKER [OC]: Yes, Captain. 
-PICARD: I will be with Counsellor Troi
+[Room]
 
-[Bridge]
-
-PICARD [OC]: And young Jeremy Aster. 
-RIKER: I understand. Riker out. 
-WESLEY: He had to do the same thing for me. 
-RIKER: Do you know Jeremy well? 
-WESLEY: But I know this is going to be like for him. 
-RIKER: That's part of life in Starfleet, Wesley. 
-WESLEY: I know. They're very careful to prepare us for anything, but
-still 
-RIKER: I know. 
-WESLEY: How do you get used to it? Telling them? 
-RIKER: You hope you never do.
+WORF: I have made my report to the Captain. 
+TROI: I'm more interested in how you feel about what happened. I sense
+great anger. 
+WORF: I cannot seek revenge against an enemy who's turned to dust
+centuries ago. Her death was senseless. The last
+victim of a forgotten war. 
+TROI: Go on. 
+WORF: There's nothing more to be said. 
+TROI: A person died under your command. It may happen again. If you
+can't learn to release the anger and the guilt, to talk about it 
+WORF: A leader must stand alone. As Captain Picard does. 
+TROI: Captain Picard talks to me. 
+WORF: Then may I seek your counsel about my plan to make the R'uustai
+with the boy. 
+TROI: The Bonding. 
+WORF: It is my right. 
+TROI: It's very generous, Worf, but he's not a Klingon child. He has
+different sensibilities. 
+WORF: He is an orphan. I am an orphan. He will understand. 
+TROI: Right now, there isn't much he can understand. He's holding all
+his feelings inside. Children often feel they must be true to the
+memory of a lost parent. If you offer affection to them too soon they
+can feel guilty returning that affection. As if they're betraying the
+love of the parent. 
+WORF: I only wish to honour his mother. 
+TROI: I know. And I understand this means a great deal to you. But you
+must be prepared. He's very angry too, but his anger is deep inside
+him. When he touches it, it will strike out in many directions,
+including yours. Be with him. Talk to him. But don't rush this. When
+he's ready, we'll know.
 

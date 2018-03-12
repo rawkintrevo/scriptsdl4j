@@ -1,72 +1,44 @@
-GUINAN DATA JENNA LAFORGE
+PICARD DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Torpedo bay]
+[Bridge]
 
-JENNA: Sometimes in the summer we'd go on cookouts.
-Just my little brother and me, and mother. She was hopeless without a
-replicator. We didn't care. 
-DATA: Children often do not develop discerning palettes until well
-beyond adolescence. 
-JENNA: It's wasn't that. It's just that we felt so good being together,
-you know, as a family. We didn't have much of that after my father
-died. so those times were really special. I wish we were back there
-now, you and I. 
-DATA: The unidirectional nature of the time continuum makes that an
-unlikely possibility. 
-JENNA: That what I love about you, Data. You make me laugh. I don't
-know why I keep falling for the wrong man. Why can't I fall for
-somebody like you. You're perfect. 
-DATA: That is not true. I have no human feelings. 
-JENNA: But you give me so much. You spend time with me when I was
-lonely, you encouraged me when I'm down. No man has ever been kinder to
-me. Those are the things that matter. I'd better be going. With your
-permission, Commander. 
-DATA: Permission granted. 
-(she gives him a kiss on the cheek) 
-JENNA: I don't know if you're aware of this, but you're very handsome. 
-(she gives him a full on kiss) 
-JENNA: I'll see you tomorrow. 
-[Ten Forward]
+PICARD: Estimated time of arrival, Mister Data? 
+DATA: We will reach the class M planet in approximately eleven hours,
+sir. 
+PICARD: You have the Bridge, Number One.
 
-(Guinan pours yellow and blue liquids into a tall
-glass) 
-GUINAN: Hello, Data. Would you like to try something new? It's a
-concoction I heard about on Prakal Two. I think it's wonderful but I
-need a second opinion. 
-DATA: Eighty seven percent Saurian Brandy. Targ milk and Danisian mead
-comprise the rest. There is an unusually high concentration of fructose
-compounds and monosaccharides. 
-GUINAN: Too sweet? Data, if I didn't know you better, I would say you
-were a little preoccupied. 
-DATA: Lieutenant D'Sora just gave me what could be considered a very
-passionate kiss in the torpedo bay. 
-GUINAN: Really? And? 
-DATA: I was intrigued. Jenna seemed to be displaying genuine affection
-for me. 
-GUINAN: Well, what do you think of her, Data? 
-DATA: I find her to be a competent officer. Highly motivated, though
-somewhat lacking in her understanding of the theory underlying the
-dilithium matrix application. 
-GUINAN: I meant personally? 
-DATA: I look forward to the time we spend together. 
-GUINAN: Well, then it seems the next move is yours. What are you going
-to do? 
-DATA: I do not know. I have no experience in such matters. I require
-advice. 
-GUINAN: Don't look at me. No, no, Data, I simply mean that I can't give
-you any advice here. It's not good to advise people about their first
-love affairs. That's kind of something they have to figure out for
-themselves. 
-DATA: But I am not capable of love. 
-GUINAN: Then it's going to be a very unique experience.
+[Ready room]
 
-[Corridor]
+(the desk monitor is lying under the desk, in
+pieces) 
+PICARD: Picard to Lieutenant Worf. 
+[Bridge]
 
-LAFORGE: Data. Missing someone? I found Spot
-wandering through the corridor two sections away. 
-DATA: Thank you. 
-LAFORGE: Forget to secure the door when you left? 
-DATA: The door sensor is programmed to recognise only humanoid forms
-for
-entry and egress. Spot could not have triggered the mechanism.
+WORF: Yes, Captain. 
+PICARD [OC]: Would you step into my Ready room, please. And bring a
+tricorder with you. 
+WORF: Aye, Captain. 
+[Ready room]
+
+WORF: Captain? 
+PICARD: What do you make of this? 
+(Worf scans the wreckage) 
+WORF: I am puzzled, sir. 
+PICARD: So am I, Mister Worf. 
+WORF: Captain, the only detectable bioelectric residuals are your own.
+You did not 
+PICARD: No. I did not. Perhaps we have a poltergeist. 
+WORF: Sir? 
+PICARD: A mischievous spirit. 
+WORF: Sir. 
+PICARD: Perhaps not. 
+WORF: I cannot explain how an intruder entered this room, but I
+recommend we go to Red Alert. 
+PICARD: Not yet. 
+WORF: Then I will order one of my officers to stand watch. Worf to
+Ensign 
+PICARD: That's alright, Mister Worf. I think, for now, circumstances
+warrant caution, nothing more. 
+WORF: As you wish, Captain.
 

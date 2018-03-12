@@ -1,31 +1,5 @@
-PIKER PICARD RIKER CRUSHER TROI
-
-[Bridge]
-
-RIKER: Welcome back, Deanna. 
-TROI: It's good to be back. The last two weeks have been gruelling. 
-RIKER: I take it the Captain was able to negotiate an agreement
-mutually beneficial to both parties. 
-TROI: He was. I don't know how he managed it. The Gemarians and the
-Dachlyds are both incredibly stubborn people. 
-RIKER: The more difficult the task, the sweeter the victory. 
-(Picard enters) 
-PICARD: Go to warp four, Mister Bennett. Set a course for Starbase
-twelve. Report. 
-RIKER: Everything status quo, sir. 
-PICARD: Very well. If anyone needs me, I'll be in my Ready Room. 
-RIKER: Sir. Congratulations. 
-PICARD: About what? 
-PIKER: About the trade agreement. 
-(Picard leaves) 
-RIKER: Is it my imagination, or is something bothering the Captain? 
-TROI: He has been under a great deal of strain lately. While we were on
-Gemaris, he ate sparingly and slept even less. 
-RIKER: Anything we can do? 
-TROI: Actually, I have a solution in mind, but I doubt he'll agree to
-it. 
-RIKER: What would that be? 
-TROI: Our captain needs a vacation.
+PICARD CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 

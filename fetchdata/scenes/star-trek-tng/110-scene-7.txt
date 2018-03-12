@@ -1,32 +1,60 @@
-LAFORGE WORF TASHA PICARD CRUSHER DATA
+PICARD RIKER DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Stargazer Bridge]
+[Picard's quarters]
 
-(Tasha and Data are exploring by torchlight) 
-DATA: (reading the plaque) USS Stargazer. Constellation Class.
-Starfleet Registry NCC 2893. 
-(lights come on and Geordi enters) 
-LAFORGE: I activated the emergency power cells. Amazing they still
-work. 
-WORF: The rest of the ship is clear of surprises, Lieutenant Yar. 
-LAFORGE: I read about this ship at the Academy, I never dreamed I'd
-ever be on her. 
-TASHA: Yar to Enterprise. All clear, sir.
-(Picard and Crusher beam in) 
-PICARD: Hello, old friend. 
-DATA: You'll find this most intriguing, sir. 
-PICARD: What did you find, Data? 
-DATA: The last entry dated nine years ago, sir. By you. (reading
-screen) We are forced to abandon our starship. May she find her way
-without us. Apparently she did, sir. 
-CRUSHER: How do you feel, Captain? 
-PICARD: Oh, I'm fine, Doctor. Lieutenant Yar, run a structural analysis
-on the Stargazer for an impulse tow. Data, download all computers to
-the Enterprise and file. I'm going to look at my old cabin.
+(The trunk has been delivered. Picard goes to lie
+down on his bed) 
+GUEST0 [OC]: Shields weakening, Captain. Torpedoes armed. Where are
+they? Oh my god, sir! Fire! Fire!
 
-[Stargazer Captain's Quarters]
+[Ready Room]
 
-(Picard is going through the books he left behind,
-and a trunk of clothes. Inside the trunk, something lights up, and he
-doubles over in agony)
+RIKER: What is it, Data? Why all the mystery? 
+DATA: The records of the Stargazer, sir. What the Ferengi call the
+Battle of Maxia. It seems the Captain's personal log contains a much
+different version of that conflict than the official historic account. 
+RIKER: What are you saying? 
+DATA: It would appear that the starship which Captain Picard attacked,
+had in fact, been under a flag of truce. 
+RIKER: What? 
+DATA: And apparently, the Captain destroyed the ship without notice or
+provocation. 
+RIKER: Impossible. What about the fire aboard the Stargazer? 
+DATA: An accident in Engineering. 
+RIKER: And what proof? 
+DATA: It is logged in his own voice, sir. Would you care to hear it,
+sir? Sir?
 
+[Picard's quarters]
+
+PICARD [Stargazer log]: This is a confession given
+by me, Jean-Luc Picard commanding USS Stargazer. 
+PICARD: What does this mean? 
+RIKER: I don't know, sir. It sounds like your voice. 
+PICARD: It is, Number One. 
+RIKER: I refuse to believe you ever said that. 
+PICARD [Stargazer log]: I admit I must have mistaken their subspace
+antenna for a weapons cluster. Unfortunately, I fired our main phasers
+and our direct hit destroyed the unknown vessel. 
+RIKER: I've assumed they've simulated your voice somehow. I've already
+put Data to work on it. 
+PICARD: Thank you, Will. I never made that log entry, of course, but it
+still leaves you with a duty to perform. 
+RIKER: I know, sir, I must report it to Starfleet. That's at least one
+full day for subspace communications to reach there. 
+PICARD: And one more full day for their answer to return. I'd like the
+truth on this by then. I'd hate to have to prepare a formal defence. 
+RIKER: I can't believe they'd ask for your command. 
+PICARD: Why wouldn't they? With the Ferengi making these friendship
+overtures, I could become a severe
+embarrassment to Starfleet. 
+RIKER: I'm certain the Ferengi are behind the faked log. No wonder
+they're waiting out there. Headache back, sir? 
+PICARD: Damn! I'll call the Doctor again. 
+RIKER: It's no wonder, with all this going on. Try to relax. 
+(Riker leaves) 
+PICARD [Stargazer log] This is a confession given by me, Jean-Luc
+Picard, commanding USS Stargazer, in the hopes that my belated honesty
+will be taken into account by Starfleet when judging my actions during
+a confrontation with an unidentified vessel. 

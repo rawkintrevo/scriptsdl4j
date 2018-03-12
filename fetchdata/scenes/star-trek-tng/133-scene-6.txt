@@ -1,66 +1,71 @@
-LANTREE WORF PICARD PULASKI WESLEY KINGSLEY
+TROI OBRIEN LAFORGE WORF PICARD PULASKI GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Science lab]
 
-WORF: Quarantine warnings active on all
-frequencies, Captain. 
-LANTREE [OC]: Extreme caution. The USS Lantree is a quarantined vessel
-by order of Starfleet Command. Do not board. 
-PICARD: Set course for Gagarin Four, warp seven. 
-WESLEY: Course and speed set, sir. 
-PICARD: Engage. 
-Captain's log, supplemental. We're en route to the
-Federation Research station on Gagarin Four. The mere thought of a
-possible connection between the Lantree tragedy and a genetic research
-facility fills me with profound apprehension. 
-[Bridge]
+LAFORGE: The forcefield's ready, Captain. 
+PICARD: Activate it. 
+(The forcefield goes up around a single examination table in the middle
+of the room) 
+PICARD: Transporter? 
+O'BRIEN [OC]: This is Chief O'Brien, sir. Almost ready. 
+PICARD: Is there a problem? 
+[Transporter room]
 
-WESLEY: We're approaching Gagarin Four, Captain. 
-PICARD: Standard orbit, Mister Crusher. 
-WESLEY: Aye, sir. 
-PICARD: Hailing frequencies. 
-WORF: Open. 
-PICARD: Darwin Station, this is Captain Jean-Luc Picard of the USS
-Enterprise. 
-(A middle aged woman comes on the viewscreen. She seems harassed) 
-KINGSLEY [on viewscreen]: Enterprise, this is Darwin Station. I'm
-Doctor Kingsley. We've just declared a medical emergency here. We need
-your help. 
-PULASKI: Doctor Kingsley, what is the nature of your emergency? 
-KINGSLEY [on viewscreen]: To whom am I speaking, please? 
-PULASKI: I'm Doctor Pulaski, Chief Medical Officer. 
-KINGSLEY [on viewscreen]: Katherine Pulaski, author of Linear Models of
-Viral Propagation? 
-PULASKI: That was a long time ago. 
-KINGSLEY [on viewscreen]: But still the standard. I can't think of
-anyone I'd rather be dealing with. Doctor, we're experiencing the rapid
-onset of geriatric phenomena. The first symptom is sudden, acute
-arthritic inflammation. Then the aging process accelerates. 
-PULASKI: The Lantree. 
-KINGSLEY [on viewscreen]: Doctor Pulaski, I celebrated my thirty fifth
-birthday a week ago. 
-PULASKI: Doctor, we understand that Darwin Station is involved in
-genetic research. Is there a possible connection? 
-KINGSLEY [on viewscreen]: Our research here is limited to human
-genetics. I can assure you we're not dealing with something that got
-away from us. We believe that we were infected by a supply ship that
-was here three days ago. 
-PICARD: Doctor, if you're speaking of the Lantree, we encountered it a
-few hours ago. All the crew members were dead. 
-KINGSLEY: Which would seem to confirm our suspicion. Were you able to
-establish a pathology, Doctor? 
-PICARD: Doctor, did you hear what I said? All the twenty six men and
-women aboard that ship were dead. 
-KINGSLEY: I heard you, Captain, and the prognosis is alarming, but my
-immediate concern is our children. 
-PULASKI: Children? 
-KINGSLEY: They represent years of advanced genetic research. You must
-evacuate them as soon as possible. 
-PICARD: I'm sorry, but under the circumstances, until we know what's
-going on I'm imposing a full quarantine on Darwin Station. 
-KINGSLEY: But the children have been in protective isolation since this
-was detected. They show no symptoms. You cannot leave them here to die!
+O'BRIEN: It's the styrolite. I'm altering the
+delta-T so the styrolite coding materialises two micro-seconds ahead of
+the child.
 
-PICARD: Doctor, our options in a quarantine situation are extremely
-limited. We are going to consider the possibilities. I suggest you do
-the same. 
+[Science lab]
+
+O'BRIEN [OC]: It has to be right the first time. 
+PICARD: Well take all the time you need. 
+O'BRIEN [OC]: Entering corrections now, sir. 
+[Transporter room]
+
+O'BRIEN: Ready, Captain. 
+[Science lab]
+
+PULASKI: Doctor Kingsley, are you ready to
+transport? 
+GUEST0 [OC]: You have the coordinates. We have one twelve year old
+male encased in number six styrolite. 
+LAFORGE: Transporter, energise. 
+(A male older than twelve appears on the table) 
+WORF: A trick! 
+LAFORGE: Transporter, reverse 
+PICARD: One moment, Lieutenant. Whoever he is, he's still in stasis. 
+PULASKI: The styrolite is intact, Captain. 
+PICARD: Force field down. 
+TROI: Captain, there's a definite presence, a distinct personality.
+Even in stasis it's quite strong. The child is unquestionably
+telepathic. 
+PULASKI: A child this mature? We could be looking at the future of
+humanity. 
+PICARD: At least Doctor Kingsley's vision of it. 
+(Later, as two nurses do most of the examining with various
+instruments, Picard returns to the lab) 
+PULASKI: This child is in better health than we are. His immune system
+is so advanced it may not be possible for him to contract disease. I
+want to free him from the styrolite. 
+PICARD: That seems rather risky, Doctor. 
+PULASKI: I can do no further tests until he's out of it. 
+PICARD: But what if you're wrong? You saw what happened on the Lantree.
+
+PULASKI: I know I'm right. 
+PICARD: I can't expose the Enterprise until I know where this disease
+came from and how it is transmitted. 
+PULASKI: I realise that, Captain. Naturally, we'll establish a force
+field containment. 
+PICARD: But if we lose the force field for any reason, we lose the
+ship. Force fields can fail, and until 
+PULASKI: We don't have that kind of time. These children can't survive
+in the lab once their parents are dead. Look at him, Captain. He's a
+human being who needs our help. 
+PICARD: But the risk is 
+PULASKI: Minimal. 
+PICARD: If you can demonstrate that he is biologically harmless without
+risk to the crew, I'll do everything in my power to assist. And Doctor,
+God knows I'm not one to discourage input, but I would appreciate it if
+you'd let me finish my sentences once in a while.
+

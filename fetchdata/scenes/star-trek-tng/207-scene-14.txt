@@ -1,76 +1,71 @@
-OMAG RIKER WORF PICARD ENSIGN TROI DATA
+TROI GUEST0 LAFORGE WORF PICARD SELA SPOCK RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
+RIKER: Any signs of life, Mister La Forge?
+LAFORGE: Negative, Commander.
+TROI: The Romulans could have a cloaked base on the surface. 
+RIKER: Or anywhere else along the Neutral Zone.
+WORF: Sir, a coded subspace signal from Romulus. It's the Captain. 
+TROI: What? 
+RIKER: Maintain position at Galorndon Core. Diplomatic initiative
+appears to be succeeding. Will advise.
+WORF: The message did employ the proper coded sequence.
+RIKER: Yeah. I'm sure it did.
 
-WORF [OC]: Has just entered the establishment.
-RIKER: Is that Melor Famagal I hear?
-WORF [OC]: It is.
-RIKER: I'm on my way.
+[Romulan office]
 
-[Piano bar]
-
-OMAG: Where's the waiter? Is there a waiter in this
-sorry place?
-RIKER: Is there a problem?
-OMAG: Yes. I need more napkins.
-RIKER: Use your sleeve.
-OMAG: What did you say?
-RIKER: Or use one of their sleeves, I don't care.
-OMAG: Who are you?
-RIKER: Commander William Riker, USS Enterprise.
-OMAG: Am I supposed to stand up and salute?
-RIKER: We're investigating the disappearance of a Vulcan ship. 
-OMAG: Well you've got the wrong Ferengi. I never trade in Vulcan ships.
-
-RIKER: We know that you're involved. 
-OMAG: Who would want a Vulcan ship? Vulcans are pacifists. I deal in
-warships. Can somebody get me a napkin?
-RIKER: Who would want a Vulcan ship?
-OMAG: Hypothetically speaking? 
-RIKER: Hypothetically speaking.
-OMAG: I never learned to speak hypothetical.
-(so Riker tips Omag's dinner onto his lap then grabs him by his lapels)
-
-OMAG: Are you crazy?
-RIKER: Let me explain what'll happen to you if you don't tell me about
-the Vulcan ship. Your right of passage
-through this sector will be revoked and more than that, I will be very
-unhappy.
-OMAG: I delivered it to a Barolian freighter. 
-RIKER: At what coordinates?
-OMAG: I don't remember. Ow! Watch it! You're stretching my neck.
-RIKER: Co-ordinates?
-OMAG: At Galorndon Core. Near the Neutral Zone. That's all I know. I
-swear it.
-RIKER: Enjoy your dinner.
-
-[Bridge]
-
-RIKER: As soon as I heard this Barolian ship was at
-the Galorndon Core, I started to think Romulans. 
-PICARD [on viewscreen]: And the Romulans are suddenly very interested
-in bonding with the Vulcans. Spock has been meeting with the new Senate
-Proconsul about reunification. 
-RIKER: Reunification?
-PICARD [on viewscreen]: The Proconsul says that he is prepared to
-endorse peace talks. 
-RIKER: And Spock?
-PICARD [on viewscreen]: The Ambassador is sceptical, but he cares a
-great deal about reunification. As long as there's a chance of success,
-he's prepared to pursue it.
-TROI: I'm afraid I don't see how a stolen Vulcan ship fits into all
-this. 
-PICARD [on viewscreen]: Neither do I, Counsellor. How soon can you be
-at Galorndon Core, Number One?
-RIKER: A little over eight hours.
-PICARD [on viewscreen]: Well, this may prove to be a wild goose chase,
-but I don't see that we have any other choice, do you?
-RIKER: Agreed.
-DATA: We are losing our Romulan carrier wave, sir. 
-PICARD [on viewscreen]: We'll advise you further as soon as you reach
-your destination, Number One. Picard out.
-(transmission ends)
-RIKER: Ensign, set a course to Galorndon Core. Take us to warp eight. 
-ENSIGN: Aye, sir.
-
+SELA: Come in, gentlemen. Take a seat, please. (she
+continues working on a PADD) Excuse me, I'm just finishing up a speech.
+For you, Mister Spock. I rather enjoy writing. I don't get to do it
+often in this job. 
+DATA: Perhaps you would be happier in another job.
+SELA: Please feel free to change any words that you wish. I've tried to
+make it sound Vulcan. A lot of unnecessarily long words. In a few
+hours, you will deliver this statement alongside our Senate Proconsul.
+It will announce to the Vulcan people that a peace envoy is on its way
+from Romulus. We will transmit it on all Federation subspace
+frequencies.
+PICARD: Peace envoy, in a stolen Vulcan ship. 
+SELA: Actually, three Vulcan ships, Captain. The Enterprise is only
+aware of the one we stole from Qualor Two. We have been following your
+investigation. It has forced us to make some minor changes. One of
+them, a message sent in your name, ordering them to stay where they are.
+PICARD: The moment those Vulcan ships appear in the Neutral Zone, the
+Enterprise will move to intercept. 
+SELA: In that event, the Enterprise will be given more important
+matters to attend to. In the meantime, Ambassador Spock will be telling
+his people to welcome the peace envoy. And when they do, our forces
+will seize control before anyone realises what has happened.
+PICARD: Do you seriously believe that the Federation will not
+immediately intervene?
+SELA: Of course it will, and we're fully prepared for it. But we will
+be there, entrenched, and it will be very difficult to get us out once
+we are. Reunification will become a fact of life.
+SPOCK: I will not read this or any other statement.
+SELA: If you do not, you will die. All of you will die.
+SPOCK: Since it is logical to conclude that you will kill us in any
+event, I choose not to cooperate.
+SELA: I hate Vulcans. I hate the logic. I hate the arrogance. Very
+well. Computer, holographic
+programme Spock One. By taking advantage of holographic sampling during
+the last several days, we have created a programmable Spock. Run
+programme!
+HOLO-SPOCK: This is Ambassador Spock of Vulcan. By now, Federation
+sensors are tracking three Vulcan ships crossing the Neutral Zone.
+These ships carry the future of the Romulan and Vulcan people. Our long
+conflict is finally over. 
+SELA: Freeze. We would have preferred an interactive Spock who could
+have responded to questions, but this will have to suffice. 
+PICARD: You can hardly believe this will convince anyone.
+SELA: I don't need to convince them. Just confuse them long enough to
+reach Vulcan. End
+programme. If you'll excuse me, it's time to send our ships on their
+journey. 
+(Sela and the guards leave) 
+PICARD: Suggestions?
+SPOCK: Commander Data, are they still unaware that we have access to
+their computers?
+DATA: I believe so, Ambassador.
+SPOCK: Then perhaps you and I can find a way to create a diversion. 

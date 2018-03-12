@@ -1,35 +1,35 @@
-TROI WORF WESLEY PICARD RIKER LWAXANA DATA PILOT
+PULASKI PICARD OBRIEN WORF WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Transporter room]
 
-RIKER: So what did you think of the Antedeans,
-Wesley? 
-WESLEY: They are rather strange-looking, Commander. 
-DATA: Judging a being by its physical appearance is the last major
-human prejudice, Wesley. 
-PICARD: Your point is well taken, Mister Data. I'm sure that to the
-Antedeans, we are equally unattractive. 
-WORF: Captain, we are being hailed by a small transport vessel, just
-coming into range. 
-TROI: Oh, my God. 
-PICARD: What's the problem? 
-TROI: What's she doing here? 
-WESLEY: On screen, Captain. 
-PILOT [on viewscreen]: Starship Enterprise, come in. 
-RIKER: We have you on our viewer, pilot. 
-PILOT [on viewscreen]: Enterprise, I have a passenger. A VIP passenger
-who I'm ordered to 
-LWAXANA [on viewscreen]: Oh, let me talk to them. I'm sure I'm more
-articulate than that. 
-TROI: Mother. 
-DATA: Captain, we are receiving Starfleet orders granting a Lwaxana 
-LWAXANA: Lwaxana Troi, daughter of the Fifth House, Holder of the
-Sacred Chalice of Rixx, Heir to the Holy Rings of Betazed. 
-DATA: Full ambassadorial status, sir. 
-RIKER: It looks like it's back into that dress uniform, sir. 
-DATA: And yours as well, Commander. She is listed as representing the
-Betazed government at the conference. 
-TROI: Mother, please, don't do this to me. 
-LWAXANA [on viewscreen]: Do what to you, Little One? Oh, Jean-Luc. What
-naughty thoughts. But how wonderful you still think of me like that.
+(Picard is in dress uniform, showing off his
+calves) 
+PICARD: I thought you might find this interesting, Mister Crusher. Few
+humans have ever seen an Antedean in the flesh. 
+(Two aliens and a barrel are beamed aboard) 
+PICARD: Welcome. I'm Jean-Luc Picard, Captain of the Enterprise. 
+WESLEY: Are they alright, Captain? 
+PICARD: Yes. This is their preferred way of space travel. 
+PULASKI: Their physical condition is good enough, considering the
+circumstances. 
+PICARD: It is a self-induced catatonic state. Their way of dealing with
+the trauma of spaceflight. 
+WESLEY: Will we try to revive them? 
+PICARD: No, not until we reach the Pacifica conference, three days from
+now. Doctor, have you prepared a Sickbay facility to
+accommodate our guests? 
+PULASKI: As soon as I can make some adjustments. Their physiology is
+unusual. You can store them for a few hours? 
+O'BRIEN: Sure. I'll have them kept out of the way here. 
+PICARD: Mister Worf, provide security. 
+WORF: Aye, sir. 
+(Picard leaves) 
+WESLEY: What's in that container? 
+PULASKI: Vermicula. It's their food. When they come out of stasis,
+they'll be very hungry. 
+(live fish-like things) 
+WESLEY: They eat this? 
+PULASKI: In great quantities. 
+WORF: What a handsome race.
 

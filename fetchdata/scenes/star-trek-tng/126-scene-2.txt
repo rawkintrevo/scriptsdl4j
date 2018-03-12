@@ -1,17 +1,5 @@
-DATA WORF
-
-[Derelict ship]
-
-DATA: Minimal oxygen atmosphere. An ancient solar
-generator, still operating. 
-WORF: Commander, look at this. 
-DATA: The on-board computers have ceased functioning. I may be able to
-download this old style disk drive back to the Enterprise. 
-(Worf tries to walk through the next hatch, but it does not
-automatically open for him) 
-WORF: It must be sealed, probably with age. (he prepares his phaser) 
-DATA: Not necessary. 
-(Data pulls the lever and the doorway opens)
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Cryo chamber]
 
@@ -28,3 +16,15 @@ WORF: Were they frozen for an extended journey?
 DATA: If that were the purpose, there would be evidence of a more
 sophisticated monitoring system. These containers were designed solely
 for refrigeration. 
+[Bridge]
+
+LAFORGE: The Captain's shuttle is approaching the
+main Shuttlebay, sir. 
+PICARD: [OC]: Enterprise, this is the Captain. Number One, I want to
+get underway as soon as the shuttle is secure. 
+RIKER: Aye, sir. We'll make all preparations. Commander Data, return to
+the Enterprise immediately. 
+DATA: [OC]: We have run into an unusual situation, sir. There are
+people on board. Frozen. 
+RIKER: Frozen. How many?
+

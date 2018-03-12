@@ -1,40 +1,66 @@
-WESLEY RIKER ROBINSON WORF OKONA
+GUEST0 RIKER WORF PICARD TROI OKONA WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Bridge]
 
-(The lady transporter chief has very long hair, and
-will eventually achieve fame as Lois Lane in the TV show. She beams
-Okona aboard with his broken guidance module) 
-WORF: Your weapons, please. 
-OKONA: A Klingon Security officer. 
-WORF: Yes. 
-OKONA: No wars available, eh? 
-(He hands over his gun belt, and Worf holds his hand out for the rest.
-The knife is down the back of Okona's thigh boots) 
-OKONA: It's more of a piece of jewellry than a weapon. A remembrance. 
-RIKER: Welcome aboard, Captain Okona. I'm Commander Riker. If you'll
-turn over the inoperative part to Commander Data, we can begin repairs.
+WORF: Unidentified vessel approaching. 
+DATA: Sensor readings show it to be a small class-nine vessel, probably
+an interplanetary cargo ship. 
+WORF: One life sign aboard, sir. It appears to be humanoid. 
+DATA: I have its call sign now, sir. 
+WORF: Confirmed. Armed with lasers only. 
+DATA: Its cargo holds are empty. The readout shows its guidance system
+is malfunctioning. The pilot is attempting to hold course manually. 
+RIKER: I recommend we set the Enterprise on an intercept course in case
+he needs emergency assistance. 
+PICARD: Make it so, Mister Crusher. 
+(The little ship comes up astern of the majestic vessel) 
+RIKER: We're in position now, Captain. 
+PICARD: Open hailing frequencies. 
+WORF: Hailing frequencies open. 
+PICARD: On viewer. This is the USS Enterprise. Captain Jean Luc Picard.
 
-OKONA: I'd be most happy to do the work myself, Commander. I'm sort of
-the hands-on type. 
-RIKER: I think you'd find the tools we use rather unusual, sir. 
-OKONA: I can believe that. May I at least watch? 
-RIKER: That can be arranged. 
-OKONA: Good then. Commander, I leave this in your capable hands. 
-(And gives the module to Wesley) 
-WESLEY: Sir, this is Commander Data. I'm just an acting ensign. 
-OKONA: Well, acting ensigns have names, don't they? 
-WESLEY: Wesley. Wesley Crusher. 
-OKONA: Nice to meet you Acting Ensign Wesley Wesley Crusher. (to
-Robinson) And thank you for beaming me here and enabling me to see a
-truly beautiful woman. You have the majestic carriage and loveliness
-that could surely be traced back to the noblest of families. 
-ROBINSON: Well, I'm sure that you've said that to many ladies before,
-and it was no more true then than it is now. 
-OKONA: But it's how I say it that's really important. The warmth, the
-attraction that I have for you. The attraction that we share. 
-RIKER: Mister Okona seems to have excellent vision as well as a healthy
-libido. 
-ROBINSON: (quietly) It's eight oh six. 
-RIKER: Captain Okona, if you follow Commander Data, you can get started
-right away. 
+OKONA [on viewscreen]: (bending over, bottom towards us) And this is
+the cargo carrier Erstwhile. Captain Okona at your service, sir.
+There's no need for your phasers, Captain. I'm harmless and not quite
+yet ready for mercy killing. 
+PICARD: You were never considered a danger to us, Captain. 
+OKONA [on viewscreen]: Oh, that's a shame. I can remember when I was at
+least considered a risk. 
+(Okona is a handsome, long-haired pirate of a man, and he sits down to
+face us) 
+OKONA [on viewscreen]: I'm the owner and operator of this craft and
+since we both know that you've already scanned it, you know I'm alone
+and empty, which is truly a rare occasion for a man of my charm and
+talent. 
+PICARD: Mute main viewer. Counsellor? 
+TROI: His emotions suggest that he's mischievous, irreverent and
+somewhat brazen. The word that seems to best describe him is rogue. 
+DATA: Rogue? Ah. Cad, knave, rake, rascal, villain, wild element. 
+TROI: Yes, Data, but there is no malevolence or ill will. 
+PICARD: Audio on. You have a burn-out in your guidance system, Captain.
+
+OKONA: Whoa. Since you're able to diagnose my problems, how about
+helping me fix them? 
+WESLEY: Captain, we could easily repair the type of system he uses. 
+PICARD: We can accommodate you, Captain. 
+RIKER: This is the First Officer, sir. If you prepare to shut down your
+engines, we can lock on the tractor and beam you over here. 
+WORF: Sir, recommend limited access to our ship. 
+PICARD: Agreed. 
+RIKER: Data, lock on the tractor beam. Transporter Chief, prepare to
+him beam aboard. 
+GUEST0 [OC]: Ready on your command, sir. 
+OKONA [on viewscreen]: Excuse me, Commander. Is that a woman's voice I
+hear? 
+PICARD: Yes. Now please follow Commander Riker's instructions so our
+ship can get back to its normal routine. 
+OKONA [on viewscreen]: Whatever you say, Captain. 
+PICARD: Something funny? 
+RIKER: Well, the unexpected is our normal routine. Hold it steady,
+Wesley. Ready to link up on my command 
+WESLEY: Aye, sir. 
+RIKER: Easy. Easy. Engage. Captain Okona, shut down your engines. 
+OKONA [OC]: Understood. 
+RIKER: Transporter room, prepare for the beaming operation. We're on
+our way. Wesley, Data, let's go. 

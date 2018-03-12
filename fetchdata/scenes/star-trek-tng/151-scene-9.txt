@@ -1,78 +1,54 @@
-TROI LAFORGE WORF PICARD RIKER WESLEY DATA
+RIKER WORF PICARD MEDIC WESLEY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Troi's quarters]
 
-TROI: Don't listen. Think of something else. Stop!
-Please, stop! 
-(The doorbell chimes and she pulls herself together) 
-TROI: Yes? 
-(Picard enters) 
-PICARD: I was concerned. I came to see if I could be of any help. 
-TROI: I'm fine. There's nothing wrong. I'm just tired, that's all. 
-PICARD: Now, I may not have your gifts at reading emotions, Counsellor,
-but I can tell when someone is in pain and hiding it. 
-TROI: It's so silly. I hear music. In my mind. Music that won't stop. 
-PICARD: Perhaps it's a symptom of fatigue. We've all been inflicted one
-time or another with that melody that won't go away. 
-TROI: No, it's deeper than that. The song doesn't stops for an instant.
-It plays in perfect clarity from beginning to end over and over again.
-I don't even know what song it is. I never heard it before. 
-PICARD: When did this start? 
-TROI: A few hours ago, while the away team was on the surface. I was
-trying to, I was thinking of Rishon and Kevin. 
-PICARD: Rishon and Kevin? And? 
-TROI: I can't explain it, Captain. They're elusive. They're, I'm sorry 
-PICARD: Well, try and rest. Take the necessary sleep inducements if you
-have to. 
-(Red alert sounds)
+CRUSHER: I don't understand it. I've inhibited
+almost all the activity of the neocortex and she continues to behave as
+if she's hearing the music. We're going to have to shield her from all
+outside stimuli by inducing coma.
 
 [Bridge]
 
-RIKER: Data, give us a visual. Magnification factor
-fifty. 
-(a dagger shaped warship comes into view) 
-WESLEY: Look at the size of that! 
-(Picard enters) 
-PICARD: Now where did that come from? 
-RIKER: Apparently it was riding a Lagrange point, hiding behind Rana
-Four's furthest moon. 
-DATA: Our vehicle classification index can put no identity to it. Its
-design is completely foreign. 
-RIKER: But that's our boy. Approximately five times our mass and
-carrying enough armament to pulverize a planet. 
-PICARD: Lieutenant? 
-WORF: I, er, cannot explain this, Captain. 
-RIKER: It's heading for the planet. 
-PICARD: Hailing frequencies. 
-WORF: Open. 
-PICARD: Mister Data, ask them to identify themselves and match our
-orbit. 
-DATA: They have received the message, Captain, but are ignoring it. 
-PICARD: Maximum shields, ready all weapon systems. 
-WORF: Aye, sir. 
-RIKER: It's assuming an attack posture. Don't be surprised if 
-(Boom) 
-WORF: The vessel is firing jacketed streams of positrons and
-antiprotons. Equivalent firepower, forty megawatts. Shields are
-holding. (Boom, boom) Again, forty megawatts. No damage. 
-RIKER: If that's the best they can do, this should last about five
-minutes. 
-PICARD: Mister Worf, let's raise our voice a little. Fire phasers. Just
-a warning shot. Mister Data, invite them to stand to. 
-(One feeble phaser shot and the ship high-tails it away) 
-DATA: The vessel has assumed a position outside of the Rana system, and
-it is rapidly increasing velocity. 
-PICARD: Helm, initiate pursuit. 
-WESLEY: Aye, sir. The vessel has reached warp two and continues on a
-steady acceleration curve. We're not getting any closer, Commander. 
-RIKER: Give us a superior curve, Mister Crusher. 
-WESLEY: Warp three. Warp four. The warship continues to match our curve
-simultaneously point for point. Warp four point five. Warp five. Warp
-five point five. 
-RIKER: Riker to La Forge. Give us everything you can to close the gap,
-Geordi. 
-LAFORGE [OC]: Yes, sir. 
-[Engineering]
+(Red alert) 
+DATA: I have a positive identification, Commander. It is the vessel
+that attacked us earlier. It is re-entering the system at high velocity
+and is approaching Rana Four. 
+RIKER: Give us a tight visual, Data. Is it my imagination or does it
+look a lot meaner this time? Shields up. Weapons ready. 
+(Picard and Worf enter) 
+RIKER: Our friend is back. 
+PICARD: I'm not surprised. Mister Worf, open a hailing frequency. Warn
+the vessel to stay clear of the planet. 
+WORF: Aye, sir, but they are already within firing range. 
+(Three massive blasts of energy hit the Enterprise) 
+WORF: Shields are down. Captain, they hit us with four hundred
+gigawatts of particle energy. 
+PICARD: Damage? 
+WORF: Superficial, but I'm having trouble reassembling the shields.
+(another hit) Shields down. There is thermal damage to the hull. 
+DATA: The warship is capable of striking us with far more powerful
+bursts. 
+WESLEY: They're manoeuvring to come between the Enterprise and Rana
+Four. 
+PICARD: Number One, we have been exemplary in our patience. 
+RIKER: Lieutenant Worf, fire phasers on full with a simultaneous spread
+of torpedoes. 
+(He does so) 
+DATA: The vessel appears undamaged, sir. Its defences are apparently
+able to absorb incoming matter and energy. 
+RIKER: Commence rapid fire with all weapons on full. 
+(The enemy returns fire and things go bang this time) 
+WORF: Shields down. Internal damage. Weapon systems control has been
+lost. 
+RIKER: Riker to Sickbay. Medical assistance to the Bridge! 
+MEDIC [OC]: On our way, Commander. 
+PICARD: Mister Crusher, move the Enterprise out of range of the
+attacking vessel. 
+WESLEY: Aye, sir. 
+PICARD: Mister Worf? 
+WORF: The vessel has terminated its pursuit. It is assuming an orbit
+around Rana Four. 
+RIKER: Kevin and Rishon? 
+PICARD: We can't help them. But it's my guess they're in no danger.
 
-LAFORGE: I'll get you to nine point three seven in
-fifteen seconds. 

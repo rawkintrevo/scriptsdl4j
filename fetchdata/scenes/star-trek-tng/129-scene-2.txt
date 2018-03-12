@@ -1,4 +1,5 @@
-LESTRADE COMPUTER DATA LAFORGE
+GUEST0 COMPUTER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Outside holodeck]
 
@@ -45,28 +46,28 @@ DATA: Be a good fellow and answer that. Let's not keep the Inspector
 waiting. 
 LAFORGE: Inspector who? 
 DATA: Lestrade of course. 
-LESTRADE [OC]: Holmes, are you there, man? 
+GUEST0 [OC]: Holmes, are you there, man? 
 (La Forge opens the door and two men enter) 
-LESTRADE: Thank the Almighty you're available today, Holmes, I'm in a
+GUEST0: Thank the Almighty you're available today, Holmes, I'm in a
 deuce of a dilemma. 
 DATA: Then may I say your perturbation becomes you, Inspector Lestrade,
 whilst simultaneously affording me yet again the opportunity to serve
 Queen and country. 
 LAFORGE: Data, Holmes really talked like that? 
 DATA: Absolutely. 
-LESTRADE: We need your help, Holmes. You see, this gentleman here, the
+GUEST0: We need your help, Holmes. You see, this gentleman here, the
 emissary of a foreign government, has been the victim of a most
 accidentally wicked crime. 
 LAFORGE: (trying to turn on a table lamp) Damn. Haven't they invented
 the electric light by now? 
-LESTRADE: What, dear fellow? 
+GUEST0: What, dear fellow? 
 DATA: Watson. Pray continue, Inspector. 
-LESTRADE: To put the matter simply, Holmes, this man was accosted by
+GUEST0: To put the matter simply, Holmes, this man was accosted by
 gypsies intent on depriving him of his most valuable possessions. And
 in the process of picking his pockets clean, they also happened to bag
 a photograph this man was carrying. 
 (Data gets up, rips the lining of the man's jacket to reveal - )
-LESTRADE: Great Scott! The photograph! 
+GUEST0: Great Scott! The photograph! 
 DATA: I believe you will find, Inspector, that this emissary here works
 not for but against the King of Bohemia, and that photograph of the
 king and his mistress is to be used as blackmail. Further, upon deeper

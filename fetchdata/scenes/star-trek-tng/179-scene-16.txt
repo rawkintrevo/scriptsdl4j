@@ -1,57 +1,40 @@
-PICARD RIKER CRUSHER DATA
+RIKER LAFORGE PICARD TRAVELLER WESLEY COMPUTER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Has something else happened? 
-CRUSHER: Sickbay is totally empty. Apparently I no longer have any
-staff. 
-RIKER: And that surprises you, Doctor? 
-CRUSHER: Surprises me? I'll say it surprises me. There should be at
-least four members of my staff on duty at all times. 
-DATA: I am afraid ship's records do not concur. Doctor. 
-CRUSHER: What are you talking about? 
-DATA: You do not have a staff. 
-CRUSHER: You're telling me I'm the sole medical officer on a ship with
-over a thousand people on board? 
-DATA: Excuse me, Doctor, but the entire ship's complement is two
-hundred and thirty. 
-CRUSHER: What? 
-PICARD: Doctor, may I see you in my Ready room?
+CRUSHER: Starbase one three three, this is the
+Enterprise. Starbase one three three, this is the Enterprise. Please
+acknowledge. Viewscreen on. 
+(no stars, just blue) 
+CRUSHER: It's not just people. Everything is disappearing! Computer,
+what is that mist I'm seeing? 
+COMPUTER: Sensors indicate it to be a mass energy field seven hundred
+and five metres in diameter. 
+CRUSHER: It surrounds the ship? 
+COMPUTER: Affirmative. 
+CRUSHER: If there's nothing wrong with me, maybe there's something
+wrong with the universe. Computer, what is beyond the mass energy
+field? 
+COMPUTER: Sensors cannot penetrate the field. 
+CRUSHER: Here's a question you shouldn't be able to answer. What is the
+nature of the universe? 
+COMPUTER: The universe is a spheroid region seven hundred and five
+metres in diameter.
 
-[Ready room]
+[Bridge]
 
-PICARD: Would you care for something? So, Beverly.
-Tea, Earl Grey, hot. You're saying this ship has lost nearly eight
-hundred of its personnel? 
-CRUSHER: I know how it sounds. 
-PICARD: None of the scans show any anomalies. No signs of an intruder.
-Wesley's experiment clearly did not have the scope to affect an entire
-starship. 
-CRUSHER: Captain, the Enterprise is in serious danger. You must believe
-me. 
-PICARD: I have no choice but to believe you. The safety of my entire
-crew is at stake, but I must be sure. 
-CRUSHER: That I haven't lost my mind? I just examined myself. And being
-the only doctor on board, I had to do it myself. There were no signs of
-dysfunction. Yes, there was an increased elevation of adrenalin, but I
-think is understandable. 
-PICARD: Did you find anything that might suggest why you're apparently
-the only one among us unaffected by this, this phenomenon? 
-CRUSHER: No. I'll talk to Troi. 
-PICARD: It wouldn't do any harm. 
-CRUSHER: Captain, please. Return this ship to Starbase one three three
-for a full diagnostic. I realise you have my word only to convince you.
+DATA: Captain, approaching Starbase one three
+three. 
+PICARD: Slow to ten metres per second. 
+RIKER: Mister La Forge, prepare for precision 
+[Engineering]
 
-PICARD: Mister Riker? 
-RIKER [OC]: Captain? 
-PICARD: Set a course for a return to Starbase one three three
-immediately. 
-RIKER [OC]: Aye, sir. 
-PICARD: Your word has always been good enough for me.
-
-[Sickbay]
-
-(There's a flashing light, then a strong wind
-starts sucking Beverly towards a funnel. She holds onto a doorway arch
-as bits of paper go flying past. Then it all stops)
+RIKER [OC]: Station keeping. 
+LAFORGE: Acknowledged. Readying thrusters. 
+TRAVELLER: There. There it is. We're moving into phase now. There's
+your warp bubble, Wesley. 
+(Wesley opens his eyes again and looks at the monitor) 
+WESLEY: What? What's wrong. 
+TRAVELLER: It is collapsing.
 

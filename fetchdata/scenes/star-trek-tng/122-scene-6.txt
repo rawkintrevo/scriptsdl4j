@@ -1,62 +1,45 @@
-RIKER LAFORGE WORF PICARD PRIETO COMPUTER LYNCH CRUSHER DATA
+PICARD NURSE CRUSHER RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-LYNCH: Working on it, Captain. Three minutes. 
 [Bridge]
 
-LYNCH [OC]: But there are no guarantees. 
-PRIETO [OC]: Captain, we're out of control. We're caught in the
-planet's gravity. 
-Captain's log, supplemental. We've lost all contact
-with shuttlecraft thirteen, and can only assume they've crash-landed on
-Vagra Two.
-Meanwhile, main Engineering is trying to return us to warp power.
+PICARD: Transporter room, get them up, now. 
+Transporter Room]
 
-[Engineering]
-
-LYNCH: Forget the final check. Initiate start-up
-sequence. 
-COMPUTER: Beginning check list. 
-LYNCH: Override. We are going directly to start-up. 
-COMPUTER: That procedure is not recommended. 
-LYNCH: Understood. Now. Prime matter-antimatter injectors. Set ratio at
-twenty-five to one 
-COMPUTER: Ratio set. 
-LYNCH: Power engine core. Inject reactants. 
+CRUSHER: I need her in Sickbay now. 
 [Bridge]
 
-LYNCH [OC]: Leland T. Lynch here, Captain. We now
-have minimum warp drive. 
-LAFORGE: Course plotted and set for Vagra Two. 
-PICARD: Warp eight. 
-LYNCH [OC]: I said minimum warp drive, Captain. 
-PICARD: You heard the order, Mister Lynch. Make it so. 
-LYNCH [OC]: Yes, sir. 
-(later) 
-LAFORGE: Approaching Vagra Two, Captain. 
-DATA: Strange, sir. There's no emergency signal from the shuttle as
-yet. 
-PICARD: What is this place, Mister Data? 
-DATA: There is little information in the library computer other than
-the fact of its existence. Our sensor show no signs of life forms,
-virtually no vegetation. 
-RIKER: Atmosphere? 
-DATA: Minimum for our needs, sir. 
-PICARD: Standard orbit. 
-LAFORGE: Aye, sir. Standard orbit. 
-WORF: I've located the shuttle. 
-PICARD: Life signs? 
-WORF: Not yet, sir. Still probing. It appears to be buried under a lot
-of debris. I may have something, sir. Faint life signs. Very faint. 
-RIKER: How many? 
-WORF: There's no way of telling from here. 
-PICARD: Data, can we beam up the injured? 
-DATA: No, sir. Our sensors are not fully penetrating whatever the
-debris is. 
-PICARD: That's very unusual. 
-DATA: Yes, sir. I cannot explain. 
-PICARD: Number One, prepare your away team. 
-RIKER: Right away. Data, Yar. 
-PICARD: Doctor Crusher, have you been monitoring all this? 
-CRUSHER [OC]: Yes. I'll meet the away team in transporter room four. 
+PICARD: Go to Yellow Alert, Lieutenant Worf. I'll
+be in Sickbay. 
+WORF: Aye, sir.
+
+[Sickbay]
+
+PICARD: Status, Doctor? 
+CRUSHER: Unchanged. 
+PICARD: Can you bring her back? 
+CRUSHER: We'll see. Neural stimulator. 
+NURSE: Neural stimulator locked in. 
+CRUSHER: Interlock current feeds. Set sensitivity factor to four point
+four. 
+NURSE: Affirmative. 
+NURSE 2: Monitoring two point three, one point eight. 
+RIKER: You did it. 
+CRUSHER: No. I've got her on full support. There is no independent
+brain function. 
+NURSE 2: Current feeds operating. 
+NURSE: She's not responding, Doctor. Her synaptic network is breaking
+down. 
+CRUSHER: Inject norep. 
+NURSE: Neurons are beginning to depolarise. 
+CRUSHER: Let's go for direct reticular stimulation. 
+NURSE: Direct? 
+CRUSHER: Do it! (Tasha jerks from the shock) Increase to seventy
+microvolts. 
+(Tasha moves less this time) 
+CRUSHER: Eighty five microvolts. (nothing) Again. (still nothing)
+Ninety. Again. Again. She's gone. 
+PICARD: Gone? 
+CRUSHER: There was too much synaptic damage. That thing just sucked the
+life right out of her. There's nothing I can do.
+

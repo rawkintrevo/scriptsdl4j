@@ -1,34 +1,36 @@
-PICARD RIKER DATA LAFORGE WORF
+PICARD GUINAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ten Forward]
 
-RIKER [OC]: Whatever they are, Troi's convinced
-they're human. They may be trapped somehow. We're not sure. 
-DATA: Captain, the results of my temporal analysis may be pertinent. 
-PICARD: Go ahead. 
-DATA: Geordi, it indicates a synchronic distortion in the areas
-emanating 
-[Devidia cavern]
+(Guinan is concocting a drink, sprinkling stuff in
+and stirring carefully)
+PICARD: I'm afraid to interrupt. 
+GUINAN: Captain, you didn't have to come all the way down here. I
+would've been more than happy to come up to you. 
+PICARD: And miss all this? I haven't seen such a complex operation
+since the Academy lab final in exochemistry. 
+GUINAN: It's a Tzartak aperitif. It's very, very touchy. The trick is
+to change the evaporation point of the main ingredient. You want the
+temperature where the liquid goes to vapour to be a half a degree below
+the body temperature of the customer.
+That way, when the liquid touches the tongue, it evaporates, and the
+flavour is carried entirely by the vapour. A few molecules off, the
+vapour point crashes, and poof! It's all gone. All of it. 
+PICARD: What is it you wanted to see me about? 
+GUINAN: I hear you're sending an away team down to the surface. Are you
+going? 
+PICARD: Well, now, this is rather unusual for you to be curious about
+an away mission. 
+GUINAN: Maybe it's an unusual away mission. 
+PICARD: If you have something to say, I'm listening. 
+GUINAN: Starfleet captains don't usually accompany away teams. 
+PICARD: It's general policy. 
+GUINAN: This time, you have to. 
+PICARD: Why? 
+GUINAN: You just do. Do you remember the first time we met? 
+PICARD: Of course. 
+GUINAN: Don't be so sure. I just mean, if you don't go on this mission,
+(the aperitif
+evaporates) we'll never meet.
 
-DATA [OC]: Triolic waves. 
-LAFORGE: That explains a few things. How much, Data? 
-DATA [OC]: A positive displacement of point zero zero four percent. 
-LAFORGE: Well, whatever or whoever is there, we're out of phase with
-it, but we're only talking by a fraction of a second. 
-WORF: A fraction of a second would make them invisible? 
-LAFORGE: A millisecond, a year, it wouldn't make any difference. If
-what we're reading is true, then we're occupying the same space but in
-a different time. 
-RIKER: How do we compensate? 
-DATA [OC]: Commander, we might be able to 
-[Bridge]
-
-DATA: Manipulate the synchronic distortion. 
-LAFORGE [OC]: Maybe. If we were to create a contained subspace force
-field. 
-[Devidia cavern]
-
-LAFORGE: But to get a point zero zero four
-variance, we'd need an incredibly sensitive phase discriminator, Data.
-I don't think we've got one that would come close. 
-DATA [OC]: Yes, we do. 

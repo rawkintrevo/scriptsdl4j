@@ -1,46 +1,31 @@
-ANTICAN RIKER LAFORGE WORF TASHA PICARD TROI CRUSHER DATA
+TASHA GUEST0 RIKER WORF PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Antican quarters]
 
-(The Anticans have long white eyebrows, and white
-facial hair, and have sharp teeth like a mongoose) 
-TASHA: Sorry to call you, sir. Not strictly security. It's about the
-dietary requirements of the Antican delegates. 
-RIKER: I thought that had been taken care of in advance, Tasha. 
-TASHA: So did we, sir. Their live animals were beamed aboard. We were
-going to preserve the meat for them, but they say we must bring it to
-them alive. 
-RIKER: Then do so. Lieutenant Yar was confused. We no longer enslave
-animals for food purposes. 
-ANTICAN: But we have seen humans eat meat. 
-RIKER: You've seen something as fresh and tasty as meat, but
-inorganically materialised out of patterns used by our transporters. 
-ANTICAN: This is sickening. It's barbaric.
-
-[Sickbay]
-
-(Work is on a bed, with Beverly tending to him,
-when blue energy comes out of him, up her arms. She sags, then Troi
-enters) 
-TROI: He's reading normal now. How did you manage that? 
-CRUSHER: Yes. Normal. 
-TROI: Are you all right? 
-CRUSHER: Yes, perfectly. Both of us. Quite normal now. 
-(Worf wakes suddenly) 
-WORF: What? Where am I? 
-TROI: Don't you remember? You were in the sensor maintenance room. 
-WORF: I remember monitoring the sensor console. What am I doing here? 
-TROI: That's a story the Doctor will tell you. 
-(But Crusher walks out)
+RIKER: These weapons were taken from two of your
+people who were loitering out of sight in the vicinity of the Selay
+delegation quarters. Would you care to explain, sir? 
+GUEST0: These are not weapons, First Officer. They are tools. We use
+these to dispatch the animals we consume. 
+TASHA: Your food supply is not on the same deck as the Selay
+delegation, sir. 
+RIKER: And you have to admit that these could kill. 
+GUEST0: I admit some of my people are impulsive. and we all have
+reason to hate the Selay. 
+TASHA: They appear to have the same feelings about you, sir. 
+GUEST0: The nature of politics. 
+RIKER: Nevertheless, Chief Delegate, you're on notice that all of your
+weapons, no matter what their basic function, are being confiscated.
+Violence will not be tolerated on the Enterprise. 
+GUEST0: Of course not. And if any does occur, let me assure you it
+will not be we Anticans who start it. 
+TASHA: Thank you, sir. 
+(Riker and Tasha leave) 
+GUEST0: But we will finish it.
 
 [Bridge]
 
-(At a rear science station) 
-PICARD: Obviously you feel it's something we should look at more
-carefully. 
-DATA: A mystery is only a mystery as long as it remains uninvestigated,
-sir. 
-PICARD: I love a mystery, Data, but this one will have to to wait until
-we deliver the delegates to their peace conference on Parliament. Time
-and tide, Lieutenant La Forge. Go to warp eight. 
-LAFORGE: Warp eight, sir. 
+WORF: Sir, warp power is fading. 
+PICARD: Picard to Engineering. 
+

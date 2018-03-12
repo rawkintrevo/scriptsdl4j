@@ -1,87 +1,29 @@
-RIKER WORF PICARD VOICES Q GUINAN COMPUTER DATA WAITRESS
+Q PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Ready room]
 
-Q: I've never eaten before. What do I ask for? 
-DATA: The choice of meal is determined by individual taste. 
-Q: What do you like? 
-DATA: Although I do not require sustenance, I occasionally ingest
-semi-organic nutrient suspension in a silicon-based liquid medium. 
-Q: Is it good? 
-DATA: It would be more accurate to say it is good for me, as it
-lubricates my bio-functions. 
-Q: It doesn't sound very appealing. What else is there? 
-DATA: A wide variety of items. The replicator can make anything you
-desire. 
-Q: How do I know what I desire? 
-DATA: I have observed that the selection of food is often influenced by
-the mood of the person ordering. 
-Q: I'm in a dreadful mood. Get me something appropriate. 
-DATA: When Counsellor Troi is unhappy, she usually eats something
-chocolate. 
-Q: Chocolate? 
-DATA: A chocolate sundae, for example. Although I do not speak from
-personal experience, I have seen it have a profound psychological
-impact. 
-Q: I'll have ten chocolate sundaes. 
-WAITRESS: Ten? 
-DATA: I've never seen anyone eat ten chocolate sundaes. 
-Q: I'm in a really bad mood, and since I've never eaten before, I
-should be very hungry. 
-(We hear the doors open and close) 
-Q: This is not a moment I've been looking forward to. 
-GUINAN: I hear they drummed you out of the Continuum. 
-Q: I like to think of it as a significant career change. 
-GUINAN: Just one of the boys, ay? 
-Q: One of the boys with an IQ of two thousand and five. 
-DATA: The Captain and many of the crew are not yet convinced he is
-truly human. 
-GUINAN: Really? 
-(So she picks up a fork and stabs it into Q's hand) 
-Q: Argh! 
-GUINAN: Seems human enough to me. 
-Q: This is a dangerous creature. You have no idea. Why Picard would
-make her a member of the crew and not me 
-GUINAN: It must be terribly frightening for you, to be totally
-defenceless after all of those centuries being omnipotent. 
-Q: I'm warning you. I still have friends in high places. 
-GUINAN: Frightening one race after the other, teasing them like
-frightened animals, and you enjoying every moment of your victims
-fears. 
-Q: From now on I'll do missionary work, okay? 
-DATA: That would be a most noble cause, Q. 
-GUINAN: You could learn a lot from this one. 
-Q: Sure, the robot who teaches the course in humanities. 
-DATA: I am an android, not a robot. 
-Q: I beg your pardon. 
-GUINAN: I'd enjoy that, and you'd better get used to it. 
-Q: What? 
-GUINAN: Begging. You're a pitiful excuse for a human. The only way
-you're going to survive is by the charity of others. 
-(Ten chocolate sundaes arrive) 
-Q: I'm not hungry.
+PICARD: Come. 
+Q: You're right, of course. I am extraordinarily selfish. But it has
+served me so well in the past. 
+PICARD: It will not serve you here. 
+Q: Don't be so hard on me, Jean-Luc. You've been a mortal all your
+life. You know all about dying. I've never given it a second thought.
+Or a first one, for that matter. I could have been killed. If it hadn't
+been for Data and that one brief delay he created, I would have been
+gone. No more me. And no one would have missed me, would they? Data may
+have sacrificed himself for me. Why? 
+PICARD: That is his special nature. He learned the lessons of humanity
+well. 
+Q: When I ask myself if I would have done the same for him, And I am
+forced to answer no, I feel, I feel ashamed. 
+PICARD: Q, I'm not your father confessor. You will receive no
+absolution from me. You have brought nothing but pain and suffering to
+this crew. And I'm still not entirely convinced that all this isn't
+your latest attempt at a puerile joke. 
+Q: It is a joke. A joke on me. The joke of the universe. The king who
+would be man. As I learn more and more what it is to be human, I am
+more and more convinced that I would never make a good one. I don't
+have what it takes. Without my powers, I'm frightened of everything.
+I'm a coward, and I'm miserable, and I can't go on this way.
 
-[Bridge]
-
-WORF: Captain, sensors are picking up a cloud of
-energetic plasma. Bearing, three-four one mark two zero. Range, twelve
-kilometres and closing. 
-PICARD: On screen. 
-WORF: Energy patterns are reading as highly organized. 
-RIKER: A lifeform? 
-PICARD: Attempt to make contact, Mister Worf. 
-WORF: Receiving a signal, sir. On speaker. 
-(but it's unintelligible) 
-RIKER: Computer, analyse signal 
-COMPUTER: Signal patterns indicate intelligence. Unable to derive
-necessary referents
-to establish translation matrix.
-
-[Ten Forward]
-
-(The fuzzy thing can be seen through the windows,
-but Q is sulking and doesn't notice it) 
-VOICES: What's that? I don't know. 
-GUINAN: Calamarain. 
-(A white globe comes through the window and envelopes Q. He leaps up,
-trying to brush it off) 

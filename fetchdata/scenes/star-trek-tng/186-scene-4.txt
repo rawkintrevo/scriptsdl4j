@@ -1,21 +1,22 @@
-RIKER WORF PICARD TROI HADEN DATA
+RIKER WORF PICARD TROI GUEST4 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 
-HADEN [on monitor]: Captain, we've confirmed your
+GUEST4 [on monitor]: Captain, we've confirmed your
 report. It was the starship Phoenix, under the command of Benjamin
 Maxwell. 
 PICARD: Ben Maxwell? But he's one of Starfleet's finest captains. He
 must have had provocation. 
-HADEN [on monitor]: I wish we knew. He's gone on silent running.
+GUEST4 [on monitor]: I wish we knew. He's gone on silent running.
 Doesn't answer our
 communiqus. 
 PICARD: Then he's still in Cardassian space? 
-HADEN [on monitor]: The station he destroyed was in sector twenty one
+GUEST4 [on monitor]: The station he destroyed was in sector twenty one
 five oh five. You're the nearest starship. We want you to go in and
 find him. 
 PICARD: Will the Cardassians cooperate? 
-HADEN [on monitor]: They've granted you safe passage. We've agreed that
+GUEST4 [on monitor]: They've granted you safe passage. We've agreed that
 you'll take along a delegation of observers as a show of good faith.
 Jean-Luc, I don't have to tell you the Federation is not prepared for a
 new sustained conflict. You must preserve the peace, no matter what the

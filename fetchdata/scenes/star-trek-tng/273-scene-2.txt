@@ -1,35 +1,46 @@
-SINGER LAFORGE WORF MOLOR CRUSHER ALEXANDER
+PICARD RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Maranga Outpost]
+[Observation lounge]
 
-(solid stone masonry and a joyous festival with
-open air interactive opera including flailing bat'leths. Worf buys some
-sweets from a woman) 
-LAFORGE: Who's that? 
-WORF: It is the tyrant Molor. He was so strong no one could stand
-against him. 
-SINGER: Nok'tar be'got, hosh'ar te'not? 
-CRUSHER: What's he saying? 
-WORF: He is asking if anyone else will have the courage to stand up to
-Molor. 
-SINGER: Nok'tar be'got, hosh'ar te'not? 
-(Worf looks round, then goes forward to take the bat'leth) WORF:
-(sings) Ki'rok, Molor, ki'rok! 
-MOLOR: Ni'tokor bak'to! Ba'jak tu'mo! 
-(the mock fight begins, the blades always a good foot apart) 
-WORF: O'tak tu'ro! 
-(Worf pretends to be beaten) 
-WORF: Nok'tar be'got? Hosh'ar te'not? 
-(he stares at Alexander, who finally gets the message) 
-ALEXANDER: Ki'rok Molor, ki'rok! 
-MOLOR: What is this? 
-(of course, Alexander can't just pretend fight, and the blades clash) 
-MOLOR: Jik'ta. You have wounded me. 
-WORF: You fought well. 
-ALEXANDER: What happens now? 
-WORF: There is only one man can stand against Molor. 
-SINGER: Nok'tar Kahless. 
-ALEXANDER: It's Kahless! 
-WORF: Kahless would rather die than live under Molor's tyranny. 
-ALEXANDER: Ni'lot Kahless!
-
+PICARD: As a result, we won't be able to rendezvous
+with the Kearsarge for another four days. 
+RIKER: Will we be holding position here until it arrives? 
+PICARD: Yes. And, as it would seem we're in for a relatively quiet
+time, I shall use this opportunity to visit the Hatarian System. There
+are some ancient ruins that are just being excavated. 
+DATA: The delay will also make it possible for Stellar Dynamics to
+complete their study of the Vodrey Nebula. 
+RIKER: I'll let them know they can have more access to the lateral
+sensor grid. 
+PICARD: We could use this time to recalibrate the weapon targeting
+array. Mister Worf? 
+WORF: (comes back from wherever) Yes, sir. I will begin the procedure
+immediately. 
+PICARD: Very good. Dismissed. Lieutenant, could I have a word with you
+for a moment? 
+(Riker and Data leave) 
+PICARD: I noticed several times during the briefing that you appeared
+to be a bit distracted. 
+WORF: I apologise. In the future, I will make sure my personal affairs
+do not interfere with my duties. 
+PICARD: Is everything all right? 
+WORF: I am having problems with Alexander. He has made it clear he does
+not wish to participate in the First Rite of Ascension. 
+PICARD: Oh, I see. 
+WORF: I have tried to tell him that it is an important part of a young
+Klingon's
+life, but he does not understand. 
+PICARD: But he's had so little opportunity to spend time with Klingons.
+You know, the festival of Kot'baval is tomorrow. If he could take part
+in that, I'm sure he would more fully appreciate what a rich cultural
+heritage he comes from. There is the Klingon outpost on Maranga Four.
+I'm sure they'll be celebrating the festival. 
+WORF: Yes. But the outpost is on the other side of the Vodrey Nebula.
+It would take three days by shuttle to get there. 
+PICARD: The Enterprise could be there in a fraction of the time, and
+still be back in time for the rendezvous. 
+WORF: Captain, I cannot ask you 
+PICARD: Mister Worf, Stellar Dynamics would like nothing better than a
+trip around the nebula. 
+WORF: Thank you, sir. 

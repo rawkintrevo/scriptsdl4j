@@ -1,41 +1,51 @@
-PICARD RO DATA KALITA WORF
-
-[Ro's ship]
-
-KALITA: They're scanning our last position. 
-RO: All right, I've locked onto their sensor beam. I'm going to use it
-to manoeuvre into transporter range. 
-KALITA: How are we going to beam through their shields? 
-RO: We can't. If we're going to get those medical supplies, we're going
-to have to take this ship through their shields.
+SANTOS WORF PICARD RIKER RO DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Sir, I am scanning the area from which the
-distress signal was sent, but I am unable to detect a vessel. 
-WORF: Captain, the computer has detected a piggyback communication on
-the last distress signal. 
-PICARD: Can you decode it? 
-WORF: It will take a few moments. 
-PICARD: Do it.
+DATA: Sir, the vessel being piloted by Lieutenant
+Ro is firing a low intensity particle beam into the nebula. 
+PICARD: What the hell is she doing? 
+DATA: The polarising effect being created by the beam may make it
+possible for us to be detected. 
+PICARD: Can you counter the effect? 
+DATA: I will attempt to do so.
 
+[Santos's ship]
+
+SANTOS: Ro, why are you firing? 
+RO [OC]: Scan the nebula. 
 [Ro's ship]
 
-RO: The Enterprise shields have a weak point. When
-the ship is at impulse, the thrust destabilises the shield
-configuration right at this point. (between the nacelles) I'm going to
-try to punch through there. 
-KALITA: Won't they detect us? 
-RO: They'll know something's penetrated the shields. With all the
-interference it'll take them a few seconds to find us. We'll have to
-beam the medical supplies aboard and get out fast. 
+RO: There's a Starfleet attack force hiding inside
+it.
+
+[Santos' ship]
+
+SANTOS: I see it! Squad leader to all ships. Abort
+the mission. Repeat, abort the mission.
+
 [Bridge]
 
-WORF: The message is difficult to decode.
-Interference has garbled much of the transmission, but it seems to be
-from Lieutenant Ro. 
-PICARD: Ro is on that ship? 
-DATA: Sir, a vessel of some kind is attempting to penetrate our aft
-shields. 
-PICARD: Let it through.
+DATA: Sir, the Maquis ships are breaking formation.
+
+PICARD: Have they crossed the border? 
+DATA: No, sir. They are withdrawing. 
+WORF: Captain, Lieutenant Ro's ship is not retreating with the others.
+It is heading toward us. 
+PICARD: When she comes aboard take her into custody. 
+[Ro's ship]
+
+RO: Alpha Seven to Alpha Nine. 
+GUEST3 [OC]: Go ahead. 
+RO: Stand by to beam me aboard. 
+GUEST3 [OC]: Standing by. 
+RO: You can take this ship back to the Enterprise. 
+RIKER: You're going with them? 
+RO: It's been a long time since I really felt like I really belonged
+somewhere. Could you tell Captain Picard something for me? 
+RIKER: Of course. What is it? 
+RO: Tell him I'm sorry. 
+RIKER: So long, Ro. Take care of yourself. 
+RO: Goodbye, Will. Energise.
 

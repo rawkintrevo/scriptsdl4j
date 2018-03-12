@@ -1,61 +1,47 @@
-PICARD RIKER QUINN
+PICARD GUEST1 GUEST0 RIKER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Dining room]
 
-PICARD: Welcome aboard, Greg. 
-QUINN: Good to see you. 
-PICARD: You remember Commander Riker. 
-QUINN: Hello again, Commander. 
-PICARD: I must say, you're looking remarkably well. 
-QUINN: Never felt better in my life. 
-PICARD: When you were here last, you were saying that you were feeling
-tired. 
-QUINN: Tired of life I was, but not anymore. I'm ready for new
-challenges now. What about another look at this ship?
+(Three curved tables with two chairs each, to form
+a circle. There is a covered bowl in front of each person) 
+GUEST1: Please, sit down, Captain. We've been waiting. Go ahead and
+start, Captain. We don't stand on ceremony here. 
+(The bowl contains live mealworms. Picard recoils) 
+GUEST1: Oh do eat up, Picard. Raise your hand if you want seconds. 
+(Picard gets up and starts to back out of the room) 
+PICARD: Riker! Thank God. We're leaving. 
+RIKER: You're not going anywhere. You'll be one of us soon. 
+GUEST1: You were meant for the Doctor. 
+RIKER: It couldn't be helped. Riker walked in on us unexpectedly. 
+(Aaron checks the back of his neck. The gill is there) 
+GUEST2: No matter. The Doctor will soon be joining us. All in good time.
 
-[Corridor]
-
-PICARD: Remember what you told me back at Relva
-Seven, About the threat that you perceived to the very fabric of the
-Federation? 
-QUINN: Is that why you're here? Because of what I said? 
-PICARD: It's one of the reasons, yes. 
-QUINN: But Jean-Luc, you took me far too literally. I was only
-referring to the problems involved in assimilating new races into the
-Federation. It's an ongoing, tumultuous process which can cause stress
-and strain on every aspect of our alliance. 
-PICARD: I'm sorry, I must have misunderstood. 
-QUINN: It's not for you to apologise. If I led you up the garden path,
-I humbly ask your forgiveness. 
-PICARD: Of course. 
-QUINN: Now, gentlemen, you have a dinner to attend to, while I would
-like to go and freshen up before I look around a little bit more. 
-RIKER: We've arranged your usual accommodation, sir. 
-QUINN: That's outstanding. 
-PICARD: Yes, I should be getting down to the planet. Commander Riker
-will be available here to show you anything that you want to see. 
-QUINN: It's really not necessary. 
-PICARD: I insist. (to Riker) When you've finished showing the Admiral
-anything that he needs, you can join me down on Earth. 
-QUINN: I may want to stay a while, Jean-Luc. 
-PICARD: Of course. Stay as long as you wish. (Quinn goes on) No. 
-[Transporter room]
-
-PICARD: It's not Gregory Quinn. It may look like
-him and sound like him, but it isn't him. 
-RIKER: Are you absolutely certain, Captain? 
-PICARD: I'm certain, Number One. I want you to stay close. Keep your
-eye on his every move. Have Beverly concoct some reason for giving him
-a full medical examination. 
-RIKER: How? 
-PICARD: I don't know, just do it. 
-RIKER: He's a senior Admiral. 
-PICARD: It's not him, Will. I know that now. What I have to find out is
-how this happened, and who or what is behind it. 
-RIKER: Captain, if you're right. 
-PICARD: I'm right. 
-RIKER: Should you be beaming down there alone, unarmed? 
-PICARD: I'll take care. Find out what you can, then join me, in force
-if necessary. Energise. 
-RIKER: Good luck, sir.
+(Tryla Scott enters) 
+GUEST2: Well, Captain Scott. Good. Now the setting is complete. 
+GUEST1: You don't really think we were in the dark about your
+intentions, do you? 
+GUEST2: Patience is one of our virtues, Captain. We didn't go after you,
+we allowed you to come after us. 
+GUEST1: More dramatic that way, don't you think? 
+GUEST0: Yes, the one thing both races share is a love of theatre. And
+you've put on a fine show. 
+PICARD: What race are you? Where are you from? 
+GUEST2: It's not important. Let us just say we've come a long way to
+join you. 
+GUEST0: It's a perfect match. We're the brains, you're the brawn. 
+RIKER: You'll understand soon, Picard. 
+GUEST2: Indeed. We've been moving slowly, cautiously, for many months
+now. Careful to cover our tracks. Careful not to arouse suspicion,
+until it's too late. 
+RIKER: And now it's too late. For you, that is. 
+GUEST1: Well said, brother. Picard and Riker control the Enterprise,
+which means we control the Enterprise. 
+GUEST2: Eat hearty, brother! Relish your new body! 
+(Riker takes a handful of mealworms, and is about to eat them when
+instead he draws his phaser and shoots the other person sitting
+opposite. Picard disarms Tryla Scott so Riker can shoot her, Aaron runs
+out, the parasite leaves Tryla and Savar neck-pinches Riker. Picard
+shoots Savar before Riker passes out) 
+PICARD: Aaron!
 

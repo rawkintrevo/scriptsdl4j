@@ -1,41 +1,51 @@
-TECHNICIAN TPEL OBRIEN DATA LAFORGE
+PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Sickbay]
 
-DATA [OC]: My friend Chief O'Brien often says that
-above all else, he wants to make Keiko happy. Since cancelling the
-wedding will make her happy, I must conclude the Chief will be pleased
-at her decision. 
-DATA: I have good news. 
-O'BRIEN: Oh? 
-DATA: Keiko has made a decision designed to increase her happiness. She
-has cancelled the wedding. 
-O'BRIEN: She what? Cancelled the wedding? Today? Without even a word?
-Of all the childish, selfish, irresponsible things to do! 
-(O'Brien storms out) 
-LAFORGE: Next time, maybe I should break the good news. 
-DATA [OC]: Commander Maddox, it would appear that my programme designed
-to predict the emotional responses needs adjustment.
+DATA [OC]: I am rarely in need of Doctor Beverly
+Crusher's professional services as my bio-mechanical maintenance
+programme is self sufficient. But I often observe as she practices
+medicine on others and have learned a great deal about human
+interaction from her. 
+DATA: Doctor, may I ask a favour of you? 
+CRUSHER: Of course, Data. 
+DATA: Would you teach me how to dance?
 
-Second Officers personal log, supplemental. This is
-the one thousand five hundred fiftieth day since the Enterprise was
-commissioned.
-Besides the arrival of Ambassador T'Pel, other events occurring today
-include four birthdays, two personnel transfers, a celebration of the
-Hindu Festival of Lights, two chess tournaments, one secondary school
-play, and four promotions. Overall, an ordinary day.
+[Crusher's office]
 
-[Transporter room]
+CRUSHER: What? 
+DATA: I would like to learn how to dance. 
+CRUSHER: Why me? 
+DATA: It was in your service record. Awarded first prize tap and jazz
+competition, Saint Louis Academy. 
+CRUSHER: Okay, okay. 
+DATA: Have I said something to upset you? 
+CRUSHER: It's just that, that was a long time ago, and I don't want to
+be known as the dancing doctor. Again. 
+DATA: Then your answer is no. 
+CRUSHER: All right. But let's keep this between you and me. 
+DATA: Of course, Doctor. 
+PICARD [OC]: Commander Data, please report to the Bridge. 
+DATA: Acknowledged.
 
-TECHNICIAN: The Zhukov is ready for transport, sir.
+[Bridge]
 
-DATA: Energise. 
-DATA: Welcome aboard the Enterprise, Ambassador. 
-T'PEL: I would meet with your Captain.
+(T'Pel is with Picard) 
+PICARD: Data, I want a tactical projection of possible future Romulan
+deployments along the Neutral Zone. Access all Federation records on
+the subject and report to my Ready Room. 
+DATA: Captain, is there a specific area you wish me to study? 
+PICARD: No. Ambassador. Number One, set a course one three zero mark
+two four six, warp seven. 
+RIKER: That will take us very close to the Neutral Zone, Captain. 
+PICARD: I'm aware of that, Number One. Proceed. 
+(Picard and T'Pel go back into the Ready room) 
+RIKER: Lay in the course. 
+DATA [OC]: It is fortunate that I am able to perform my duties without
+emotional distractions. If that were not the case, a sudden course
+correction toward the Neutral Zone would make me very nervous.
 
-[Turbolift]
-
-DATA [OC]: Sine I am not affected by emotional
-considerations, I am closer to being Vulcan than human. However, while
-their devotion to logic does have a certain appeal, I find their stark
-philosophy to be somewhat limited. 
+DATA [OC]: Personal Log, supplemental. Commander
+Maddox, there are still many dynamics of social interaction which I do
+not understand. 

@@ -1,39 +1,36 @@
-KMTAR WORF
+RIKER KMTAR WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Worf's quarters]
+[Observation lounge]
 
-K'MTAR: I will send Kurn a message telling him what
-happened, but he will not receive
-it for days. He's gone to the Hitora colony 
-WORF: Why did you treat Commander Riker so disrespectfully? You were
-rude. 
-K'MTAR: I may have been rude by human standards. I meant no disrespect.
-What is the matter, Worf? Have you been living so long among humans
-that you have forgotten how Klingons behave? 
-WORF: I have not forgotten. I am merely stating that their ways our
-different than ours. 
-K'MTAR: I trust you have made your son aware of that fact as well. 
-WORF: Yes, of course I have. 
-K'MTAR: Good. Because someday Alexander may be called upon to lead the
-house of Mogh. Kurn has no male heir. He wants to make sure that
-Alexander is preparing himself. 
-WORF: Does my brother doubt my ability to raise my son as a Klingon? 
-K'MTAR: No. But you are alone among humans. It cannot be easy to keep
-our ways. 
-WORF: No. It has not been easy. 
-K'MTAR: How are his fighting skills? Can he handle a bat'leth? 
-WORF: He is learning. He could be better. 
-K'MTAR: He must. He's nearing the age of ascension. 
-WORF: Actually, Alexander has not yet committed himself to undergoing
-the Rite. 
-K'MTAR: What? 
-WORF: I have tried to explain to him how important it is, but he will
-not listen to me. 
-K'MTAR: Perhaps together, you and I can find a way to spark the boy's
-interest in his heritage. 
-WORF: I would be grateful for any help you could offer. 
-K'MTAR: Tomorrow, then. 
-WORF: Tomorrow. 
-K'MTAR: May I say goodnight to the boy? 
-WORF: Yes, of course.
+WORF: He is gin'tak to the house of Mogh. 
+RIKER: Gin'tak? 
+WORF: An advisor so trusted that he is become part of a family. 
+RIKER: Do you have any idea who was behind the attack? 
+K'MTAR: It is a Klingon matter. It is not your concern. 
+RIKER: One of my officers was almost killed. That makes it my concern. 
+K'MTAR: Recently, rumours began to circulate on the homeworld that an
+assassination attempt was going to be made on the family of Mogh. Kurn
+sent me here to make sure nothing happened to Worf. 
+RIKER: Why didn't you warn him before the attack was made? 
+K'MTAR: I tried to contact him over subspace. I was told he was not
+aboard. I decided to beam directly to the surface. 
+RIKER: Why didn't you let us know about it? 
+K'MTAR: Forgive me for being blunt, Commander, but when it comes to
+protecting the house to which I have pledged my life, I trust no one. 
+WORF: I have full confidence in the officers with whom I serve. One of
+the attackers dropped this dagger. The design represents the house of
+Duras. 
+K'MTAR: We have other evidence that indicates the Duras sisters, Lursa
+and B'Etor, were behind the attack. 
+RIKER: What do you think they were after? 
+K'MTAR: Kurn's seat on the Council, of course. 
+WORF: We can not allow their attack on our house to go unanswered. 
+K'MTAR: First, we must to find them. 
+RIKER: At one point they were at Deep Space Nine, trying to sell
+bilitrium explosives. 
+K'MTAR: That was months ago. No one knows where they went from there. 
+RIKER: Maybe we can find them. We've arranged for quarters on the ship,
+if you'd like to stay. 
+K'MTAR: I would. Worf and I have much to discuss.
 

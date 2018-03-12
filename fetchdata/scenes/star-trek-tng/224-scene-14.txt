@@ -1,109 +1,44 @@
-RIKER CRUSHER WORF PICARD MIROK VAREL MCDOWELL RO DATA
+RIKER GUEST5 LAFORGE PICARD GUEST1 GUEST0 RO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER [OC]: I need replacement personnel, sir. 
-PICARD: Mister Data, you may continue the diagnostic of the transporter
-systems at another time. Take a shuttlecraft and two more engineers
-down to the Romulan ship. 
-DATA: Aye, sir. 
-PICARD: Mister McDowell, alert the main shuttlebay to have all
-available ships and pilots standing by in case we need them. 
-MCDOWELL: Aye, sir. 
-PICARD: Ensign, lay in a course away from the Romulan vessel. Engage at
-warp one if you detect any sign it's going to explode.
+LAFORGE: There's still no indication that the
+Romulans set up a muon wave in our dilithium chamber. 
+RO: It's there, and when they go to warp 
+GUEST0: Incoming message from the Romulan ship, Captain. 
+PICARD: On screen. 
+LAFORGE: Now what? 
+GUEST5 [on viewscreen]: Installation of the new engine core has been
+completed. We are ready to switch to internal power, Enterprise. 
+PICARD: Understood. Disconnect the power-transfer beam. 
+GUEST5 [on viewscreen]: We are now on internal power. Captain Picard,
+please accept my sincere thanks on behalf the Romulan Empire. 
+RO: Don't listen to him, Captain. 
+PICARD: It was our pleasure, Mirok. And I hope that this example of
+cooperation between our two peoples will not be an isolated incident. 
+GUEST5 [on viewscreen]: As do I, Captain. 
+(transmission ends) 
+PICARD: Set a course for the Garadius system. Warp six. 
+LAFORGE: No, Captain wait. 
+RO: Don't do it, sir. 
+GUEST1: Captain. I'm still running the decontamination programme.
+Mister Data believes we shouldn't engage the warp drive until I've
+cleared all the chroniton fields from the ship. 
+PICARD: Very well. Let me know when you finished your sweep. 
+GUEST1: Yes, sir. 
+RO: If we can get to the locations that she's decontaminating, maybe
+the anyon emissions would re-phase us enough for someone to see us. 
+LAFORGE: Yeah, well the beam strength would have to be pretty strong in
+order for us to be visible for more than a millisecond. Somebody's
+going to have to be looking directly at us. 
+RO: Then we're going to have to go somewhere with an awful lot of
+people. 
+(Riker enters) 
+RIKER: It's time, sir. We should go. 
+PICARD: You have the Bridge, Mister McDowell. I'll be at the service in
+Ten Forward. 
+LAFORGE: Ten Forward? Well, that's perfect. We'll create as many
+chroniton fields in there as we can. Get them to flood that room with a
+stronger beam.
 
-[Romulan Engineering]
-
-MIROK: Pressure in the containment chamber has
-increased fifteen melakols in the last two minutes. 
-RIKER: What can we do to stop the overload? 
-MIROK: Most of the conduits were damaged during the explosion. I can't
-even access the central computer. 
-WORF: Commander. Emergency bulkheads have sealed this section off from
-the rest of the ship. There is no way to gain access to the main Bridge
-or control centres. 
-RIKER: Survivors? 
-WORF: Readings indicate at least seventy three Romulans are still
-alive. 
-VAREL: Seventy three. 
-(an alarm sounds) 
-MIROK: The pressure has jumped two hundred melakols! 
-VAREL: I've lost control of the containment chamber. 
-MIROK: It's going to implode. 
-RIKER: We'll need to dump the entire engine core. Do you have an
-auto-eject system? 
-MIROK: Yes, but it's not functioning. I'll have to do it manually. 
-RIKER: Mister Worf, you two seal the chamber. 
-VAREL: Implosion will occur in one minute five seconds. 
-RIKER: Enterprise, we need to jettison the entire engine core. You'll
-need to extend the shields once it clears the hull. 
-PICARD [OC]: Understood, Number One. We'll stand by for your signal. 
-(Worf and Varel have got to the manual latches and undone them) 
-WORF: We must get the doors closed. 
-(but Worf can't move the debris jamming them open) 
-WORF: Commander! 
-RIKER: Time? 
-VAREL: Thirty seconds. 
-(the three men finally shift the girder and start to pull the doors
-shut) 
-MIROK: I'm ready, Commander. 
-RIKER: Stay there! Eject the chamber on my order! 
-DATA: Excuse me, sir. 
-(Data takes over and pulls the doors shut) 
-MIROK: Implosion in five seconds) 
-RIKER: Now. 
-(everything shakes as the core is ejected) 
-RIKER: Enterprise, extend shields! 
-(KaBOOM) 
-RIKER: Well, we're still here. 
-MIROK: Yes.
-
-[Bridge]
-
-RIKER [OC]: We'll have a complete power survey done
-within the hour. We'll probably have to supply them with energy for
-life support, and they'll need a new engine core to get home. 
-PICARD: Understood, Commander. Keep us informed of your efforts. Picard
-out. I'll be in Sickbay. 
-MCDOWELL: Aye, sir.
-
-[Corridor]
-
-(Picard walks past Ro lying on the floor. She wakes
-up) 
-RO: Ensign Ro to the Bridge. This is Ensign Ro reporting in. I'm at
-section twenty three baker, near Sickbay. (she wobbles) Sickbay. 
-[Sickbay]
-
-(the door doesn't open for her, but she gets in
-when a man walks out) 
-RO: Excuse me, I need some help. Excuse me? Excuse me, I need some
-help. 
-(but everyone ignores her) 
-RO: Excuse me! I need some help! 
-[Crusher's office]
-
-CRUSHER: We shouldn't make any hasty decisions,
-Jean-Luc. The transporter could've beamed them somewhere else. The
-Romulan ship, another deck of the Enterprise. 
-PICARD: We've already checked those possibilities. The initial findings
-would seen to indicate that there was a radiation surge from the
-Romulan engine core which disrupted the signal. They never
-rematerialised. 
-CRUSHER: We should check again. There might be something that we've
-overlooked and 
-PICARD: Beverly, we've done everything that we can. 
-CRUSHER: You're right. I just hate making out death certificates. Does
-Ensign Ro have any family? 
-RO: Captain, I'm right here. 
-PICARD: None that I know of, but I'll check with the Bajoran liaison
-Office. 
-RO: I'm not dead! 
-CRUSHER: I'll have the official reports ready within the hour. 
-RO: Captain, I don't know what's going on 
-(Picard walks straight through Ro and out of the office) 
-RO: Doctor. Doctor Crusher. Doctor Crusher, I'm right here. Damn it. 
-(Ro's fist goes straight through the desk, so she tests it out on a
-desk console. Then she looks at what Beverly is doing, updating her
-personnel file to current status - deceased) 

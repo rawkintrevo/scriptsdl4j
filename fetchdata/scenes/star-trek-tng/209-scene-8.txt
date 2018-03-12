@@ -1,36 +1,40 @@
-DATA RASMUSSEN
+RIKER LAFORGE WORF RASMUSSEN GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Penthara Science lab]
 
-(Rasmussen is peering closely at Data) 
-RASMUSSEN: This is really a thrill, Data, like running across a
-Redstone missile or a Gutenberg bible. To think, the Model T of
-androids.
+LAFORGE: The Enterprise will monitor the CO2
+concentrations at six different altitudes. If all goes well, it
+shouldn't take more than twenty bore sites. 
+GUEST0: Let's hope all goes well. 
+LAFORGE: La Forge to Commander Riker. How are you doing? 
+RIKER: We've gotten word from the monitoring stations. They're all
+online. We're ready when you are, Geordi. 
+LAFORGE: That's excellent. All we need now is an open channel to Data. 
+[Bridge]
 
-[Corridor]
+RIKER: Open a channel, Mister Worf, and prepare to
+fire at target one. 
+WORF: The computer has locked in phaser depth calculations. 
+RIKER: Mister Data? 
+DATA [OC]: Ready, sir. 
+RIKER: Fire. 
+(two shots hit the snow-covered ground)
 
-DATA: If you're referring to the first production
-model automobile of the twentieth century, perhaps the subsequent Model
-A might be a more apt analogy, since I am Doctor Noonian Soong's
-revised prototype. 
-RASMUSSEN: I stand corrected.
+[Engineering]
 
-[Rasmussen's quarters]
+DATA: Target one is emitting two thousand cubic
+metres per second. 
+[Penthara Science lab]
 
-DATA: Is there a problem, Professor? 
-RASMUSSEN: I suppose it will have to do, for now. I'll get you a list
-of the things I'll be needing, okay? 
-DATA: Would I be correct, Professor, in assuming that you know whether
-or not I am still alive in the twenty sixth century? 
-(Rasmussen washes his hands and then holds them out for a towel. Data
-obliges) 
-DATA: Since you seemed to know so much about Captain Picard and the
-ship, I assumed that you would. 
-RASMUSSEN: It'd be best if you kept your assumptions to yourself,
-wouldn't it? 
-DATA: Yes, sir. Sorry, sir.
+DATA [OC]: Target two, one thousand six hundred. 
+GUEST0: Surface wind patterns over the target are stable. 
+LAFORGE: You picking up anything at altitude, Data? 
+[Bridge]
 
-Captain's log, stardate 45350.3. We have arrived at
-Penthara Four and can see for ourselves the atmospheric devastation
-caused by the asteroid impact.
-
+DATA [OC]: CO2 concentrations remain unchanged at
+upper elevations. 
+(three more phaser shots, then Rasmussen enters) 
+RASMUSSEN: Have I missed much? 
+WORF: Target fourteen complete, sir. 
+RIKER: Data? 

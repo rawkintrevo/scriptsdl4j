@@ -1,73 +1,33 @@
-TROI MAQUES PICARD LWAXANA HEDRIL CRUSHER
+LWAXANA TROI CRUSHER GUEST0 PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Arboretum]
-
-(two children are rolling a ball by a small pool) 
-TROI: This is the ship's arboretum. 
-HEDRIL: Arbor means tree. 
-TROI: Very good, Hedril. This is where people come to relax, enjoy
-themselves in a natural setting. 
-(Maques pricks his finger on a rose thorn) 
-TROI: Flowers of all hue, and without thorn the rose. It's an old earth
-poem by John Milton. 
-MAQUES: Please, what is a poem? 
-TROI: Poetry is an art form that uses words, put together in new and
-unexpected ways, sometimes in rhyme. Milton was speculating that in
-Heaven, roses wouldn't have thorns. 
-HEDRIL: Heaven? 
-TROI: Oh. Er, Heaven is. Well, it's, how can I put it? 
-(Maques looks at Lwaxana) 
-MAQUES: Yes, I see. Thank you. Heaven. 
-TROI: Mother, you're supposed to be avoiding telepathy. 
-LWAXANA: I'm only trying to help, dear. 
-TROI: You don't look well. 
-LWAXANA: I'm just tired. Maybe I'll sit down. 
-(Hedril goes to play with the other children) 
-TROI: Don't worry she'll be fine. This is something I think you'll find
-interesting. It's a jewel plant from Folnar Three. The plant secretes a
-resin which is collected within the blossom. By the time the bloom has
-faded, the resin has hardened into a rare and beautiful gem. 
-(Hedril is walking on the stones around the pond. She falls into the
-water, and stands up giggling. It's about 6 inches deep.) 
-TROI: Mother! 
-(Lwaxana is out cold on the ground) 
-TROI: Mother? Troi to Sickbay. Medical emergency in the arboretum. 
 [Sickbay]
 
-CRUSHER: She's not responding to cortical
-stimulation. I'm not sure what else I can do. 
-TROI: I don't understand. She was fine just yesterday. 
-CRUSHER: It's so strange. It's almost as if her brain has shut itself
-down. 
-PICARD: Is there a physiological cause? 
-CRUSHER: I'm running a subneural scan. As far as I can see there's no
-tissue damage, no neurochemical imbalance, no sign of infection,
-nothing. 
-PICARD: Yet her neural activity is practically non-existent. 
-CRUSHER: The only exception is in the paracortex. Activity there is
-almost off the scale. 
-TROI: The paracortex is the Betazoid telepathic lobe. She communicated
-with Maques telepathically just before she fell. 
-PICARD: Might there be some side effect of Cairn telepathy of which
-we're unaware? 
-CRUSHER: It's a possibility. 
-PICARD: I think it's time that you and I had a talk with Maques.
+CRUSHER: I'll be monitoring her throughout the
+entire procedure. If anything goes wrong, Maques can break the
+telepathic link. 
+GUEST0: Your mother. Part of her is very frightened. She may resist
+you. 
+TROI: I understand.
 
-[Maques' quarters]
+[Corridor]
 
-MAQUES: I am very apologetic for what has happened
-to your mother. 
-PICARD: Maques, is it possible that your telepathic communications with
-Mrs Troi harmed her in some way? 
-MAQUES: No. I tried to explain before. Bad thoughts, they hurt her. 
-TROI: What thoughts? Take your time. 
-MAQUES: Inside her, the dark place. 
-TROI: I don't understand. 
-MAQUES: She is, what are the words? I don't have the words. 
-(So he sends Troi the pictures instead, and Troi puts her hands over
-her ears) 
-PICARD: Counsellor? Stop it! 
-TROI: It's all right. I'm fine. He was just trying to communicate with
-me telepathically. 
-MAQUES: Do you understand now? 
-TROI: I'm not sure. 
+LWAXANA [OC]: Help me. 
+TROI: Mother? 
+LWAXANA [OC]: Help me. 
+(there's the repeated sound of something falling into water) 
+PICARD: Counsellor? Can you hear me? 
+TROI: Captain? 
+PICARD: Deanna, Doctor Crusher's become concerned that your
+paracortical readings have become erratic. 
+TROI: Are you talking to me from Sickbay? 
+PICARD: Yes. I want you to sever your connection to your mother. 
+TROI: Why don't you ask Maques to do it? 
+PICARD: I'm asking you. That is an order, Counsellor. 
+TROI: You're not Captain Picard. 
+PICARD: (with Lwaxana's voice) Leave me alone, please. 
+(Troi walks on down the corridor until a wolf blocks her way) 
+TROI: This isn't real. None of this is real. 
+(but when it snarls, she turns and runs, and the wolf follows. Troi
+gets into a room just before it catches her)
+

@@ -1,36 +1,5 @@
-PICARD RIKER CRUSHER QUINT WORF
-
-[Graveyard]
-
-(Beverly is in local garb, and Ned is tidying the
-edges of the grave) 
-QUINT: You probably want to be alone. I'll leave. 
-CRUSHER: No, Ned, it's okay. Look, I'm sorry we got off to a bad start
-yesterday. I've been reading my grandmother's journals and I know how
-much you meant to her. 
-QUINT: Aye, she was a grand lady. You'll not see many more like her.
-You have your grandmother's fire, that's for sure. 
-CRUSHER: Ned, you're welcome to stay at the house after I've gone. I
-need someone to take care of the place. 
-QUINT: That's verra kind of you, lass, but I'll ne'er set foot in that
-house again. And I recommend that you dinna, either. 
-CRUSHER: Why? 
-QUINT: Like I tried to tell your grandmother, the hoose is haunted. 
-CRUSHER: Haunted? 
-QUINT: You believe what you want, lass. Just dinna light that candle. 
-CRUSHER: Why not? 
-QUINT: It'll bring the ghost. It's his home. Oh, he's out now,
-wanderin' across the land, angry, angry at being driven out. That's why
-he's bringing the storms. 
-CRUSHER: Ned, the weather systems control is malfunctioning. The
-Enterprise is trying to repair it. 
-QUINT: Oh, sure. But who do you think is causing the malfunction? 
-CRUSHER: I think your imagination is 
-QUINT: Think what you want. See what you want. Just do as I say. Dinna
-light that candle or dinna go to that hoose, or before you know it,
-they'll be burying another Howard in this cemetery. 
-(Ned leaves. Lightning flashes and the grave is now covered in
-camellias. Beverly flees)
+RIKER LAFORGE WORF PICARD GUEST3 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -40,3 +9,66 @@ PICARD: On screen.
 WORF: It is growing in intensity, sir. 
 RIKER: That's one hell of a thunderstorm. 
 PICARD: Bridge to Engineering. Mister Data, we're reading 
+[Engineering]
+
+PICARD [OC]: An extremely large storm system over
+the Caldos colony. 
+[Bridge]
+
+PICARD: I thought that the weather control
+malfunction was not severe.
+
+[Engineering]
+
+DATA: It began as a minor power fluctuation, sir,
+but the effect has spread throughout the control grid. It has caused an
+unusual concentration of cumulonimbus activity above the colony. 
+LAFORGE: Captain, I suggest we set up a power transfer between the
+Enterprise and the weather substations. Try to give them enough power
+to stabilise the storm. 
+PICARD [OC]: Make it so. 
+[Howard home]
+
+(Beverly enters, soaked from the storm. The house
+is filled with camellias) 
+CRUSHER: Who's there? Ned? Is that you? Hello? I know somebody's here,
+so I suggest you 
+(a mirror bounced against the wall. She removes it and is about to put
+it back when she sees the reflection of a man behind her. She drops the
+mirror, but there is no one there) 
+CRUSHER: All right now, that's it. If you don't show yourself right now
+I am calling the Enterprise and there will be ten security guards here
+within thirty seconds. 
+GUEST3 [OC]: Beverly. Beverly, I've come back for you 
+CRUSHER: Who are you? 
+GUEST3 [OC]: Don't you remember? I came to you last night while you were
+asleep. 
+CRUSHER: No, that was a dream. I'm calling the Enterprise. 
+(she goes weak at the knees) 
+GUEST3 [OC]: Now do you remember me? 
+CRUSHER: Yes. What's, what's happening to me? Right now I feel so
+strange. 
+GUEST3 [OC]: I love you, Beverly, just as I loved Felisa before you. 
+CRUSHER: Are you Ronin? 
+GUEST3 [OC]: Yes. You saw me at the funeral. 
+(Beverly has a little orgasm) 
+CRUSHER: Who are you? 
+GUEST3 [OC]: I'm a spirit. 
+CRUSHER: I don't believe in 
+GUEST3 [OC]: Ghosts? Nor did I in the beginning. I was born in sixteen
+forty seven, in Glasgow on Earth. 
+CRUSHER: You're telling me that you're an eight hundred year old ghost?
+
+GUEST3 [OC]: I found a home with Jessel Howard. She was a pretty lass
+with a mane of red hair, and eyes like diamonds. I loved her very much.
+When she died, I stayed with her daughter, and her daughter, and on
+down through the years, generation after generation. 
+CRUSHER: And now you're here on Caldos, two hundred light years away? 
+GUEST3 [OC]: When your family moved out into the galaxy, I moved with
+them. 
+CRUSHER: I don't believe you. 
+GUEST3 [OC]: I believe you are the most beautiful women I have ever
+known. 
+CRUSHER: What's, what's happening to me? 
+GUEST3 [OC]: We're becoming one, Beverly. We're going to be together. 
+CRUSHER: I don't understand. Stop it! 

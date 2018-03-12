@@ -1,40 +1,5 @@
-RIKER LAFORGE WORF PICARD DATA BARCLAY
-
-[Shuttle]
-
-LAFORGE: Enterprise, this is shuttle five in
-position, ready to begin a short-range scan. 
-RIKER [OC]: Proceed, shuttle five. 
-LAFORGE: Reg, why don't we begin with the passive high-res series, all
-right? 
-BARCLAY: Electromagnetic band? 
-LAFORGE: Give it a try. 
-BARCLAY: I'm picking up visual wavelengths only. Between forty five
-hundred and seven thousand angstroms. 
-LAFORGE: Let's try the neutron densitometer. 
-BARCLAY: Nothing. 
-LAFORGE: Hmm. Doesn't seem to want to give up any secrets. Let's go to
-active scan. 
-BARCLAY: No, no modulation. 
-LAFORGE: Really? You are definitely not from our neighbourhood.
-Increase to three point zero. 
-BARCLAY: Commander? 
-LAFORGE: Yeah, Reg? 
-BARCLAY: Thanks for assigning me to this mission. 
-LAFORGE: Don't mention it. You're one of my top engineers. It's about
-time you got in on some of the interesting stuff. This, this is why I'm
-in Starfleet. 
-BARCLAY: There's still no modulation. 
-LAFORGE: Hit it with a positron emission. 
-(there's a big flare of light from the probe) 
-LAFORGE: What was that? Computer's down, Reg. Reg? 
-(but Barclay is spark out on the floor)
-
-Captain's log, supplemental. An intense energy
-surge from the alien probe has severely
-disabled the shuttle's onboard computer. The away team has been
-transported directly to Sickbay, where Lieutenant Barclay remains under
-observation.
+RIKER LAFORGE WORF PICARD CRUSHER DATA BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -48,4 +13,25 @@ WORF: Captain, the probe has begun to move. It is approaching the
 Enterprise. 
 RIKER: Shields up. 
 WORF: Aye, sir.
+
+[Sickbay]
+
+CRUSHER: There was enough energy in that flash to
+overload your optic nerves. It knocked you unconscious. 
+LAFORGE: My visor must have filtered it out. 
+CRUSHER: Exactly. But there was no apparent retinal damage and the
+cornea looks fine. But I'm still waiting for a full
+sero-amino readout. I'll call you when it comes in. (to a medtech) I'd
+like this done as quickly as possible, Ensign. 
+BARCLAY: You shouldn't have to wait too long for the results. 
+CRUSHER: What do you mean? 
+BARCLAY: Couldn't you use a global mode in your scanner? It would be a
+lot faster. 
+CRUSHER: That's not possible. We're talking about human cells here, not
+isolinear circuits. I think you'd better stick to engineering,
+Lieutenant. 
+BARCLAY: A cell has a an electromagnetic signature just like a circuit
+element does. Theoretically, it should work with just a few
+adjustments. I could set it up for you, if you'd like. 
+(Red alert sounds)
 

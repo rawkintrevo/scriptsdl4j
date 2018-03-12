@@ -1,83 +1,55 @@
-RIKER WORF KENNELLY PICARD DATA MAN
-
-[Bridge]
-
-PICARD: Report. 
-RIKER: The signal ended abruptly at oh four five five. Unable to raise
-them on subspace. 
-PICARD: Hail them on upper and lower band frequencies, Mister Worf. 
-WORF: I've tried. No response. 
-PICARD: Time to the Solarion system? 
-DATA: Twenty six minutes, Captain. 
-PICARD: I understand you've been discussing alternative adversarial
-engagement strategy with Mister Mot. 
-RIKER: It would be more accurate to say he was discussing them with me.
-He's the best barber in Starfleet. What can you do? 
-WORF: Sir, receiving another signal of a vessel leaving orbit of
-Solarion Four. New frequency, low band, audio only. 
-PICARD: Open a channel. 
-MAN [OC]: This is the Bajora. We claim responsibility for the
-destruction of the Federation colony on Solarion Four. As long as we
-are without our homeland, no one will be safe in this sector.
-
-Captain's log, stardate 45076.3. We have arrived at
-Lya Station Alpha with survivors from Solarion Four. Admiral Kennelly
-has rendezvoused to discuss the Bajoran terrorist attack.
-
-[Observation lounge]
-
-(at the orbiting space station of standard
-Starfleet design, the Admiral is sneezing very well) 
-KENNELLY: Sorry. 
-PICARD: Ginger tea with honey, eighty degrees Celsius. 
-KENNELLY: Ginger tea? 
-PICARD: My Aunt Adele's cure for the common cold. 
-KENNELLY: Common, hell. I picked this up from the Cardassian liaison
-last weekend. It's some damn virus they've sicked on me. 
-PICARD: Did he have anything to say about this attack? 
-KENNELLY: It's the same old story for the Cardassians. They've had
-terrorist problems ever since they annexed the Bajoran home world forty
-years ago. 
-PICARD: But in forty years, they've never attacked a Federation target.
-
-KENNELLY: A new militant splinter group has broken away from the
-Bajoran settlement camps. The leader's name is Orta. Apparently he's
-willing to do whatever he has to to get attention. 
-PICARD: And our response? 
-KENNELLY: Listen, Jean-Luc, I'm the first to say that the Bajora
-deserve attention. Chased off their own planet by the Cardassians,
-forced to wander the galaxy, settling wherever they can find room. It's
-tragic. 
-PICARD: On many worlds we've been to, they are isolated, treated as
-pariahs. 
-KENNELLY: The Federation is sympathetic to their cause, but they're not
-helping themselves with an attack like this.
-That's what I want you to communicate to them. 
-PICARD: But this could be done through diplomatic channels, Admiral.
-What do you really want of us? 
-KENNELLY: Find this terrorist leader, Orta, and get him back where he
-belongs any way you can. 
-PICARD: Any way I can? 
-KENNELLY: The Federation has dozens of settlements in that sector. We
-can not allow the violence to continue. 
-PICARD: And what do I have to offer Orta that might persuade him to
-cooperate? 
-KENNELLY: Amnesty. 
-PICARD: Admiral. 
-KENNELLY: And a promise that we will immediately begin to address this
-issue with the Cardassians. Quietly, behind the scenes, using every
-legitimate means possible. But the Bajora must be patient. 
-PICARD: Admiral, they've endured generations of sympathy and promises.
-How can I believe this Orta will be satisfied with more of the same? 
-KENNELLY: It's your job to see to it that he does, Jean-Luc. 
-RIKER [OC]: Riker to Captain Picard. 
-PICARD: Go ahead. 
-RIKER [OC]: Have you approved
+PICARD RIKER RO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
-RIKER: The transfer of a new officer to the
-Enterprise? 
-PICARD [OC]: Negative 
-RIKER: Well, we've got one, waiting to beam aboard complete with
-orders. 
+(a young woman in red uniform beams in, wearing a
+sullen expression and a fancy earring) 
+RO: Ensign Ro Laren reporting as ordered, Commander. 
+RIKER: You will follow Starfleet uniform code aboard this ship, Ensign.
+
+(she removes the earring)
+
+[Ready room]
+
+RIKER: There will be members of this crew who will
+not want to serve with Ensign Laren, sir. 
+PICARD: They'll have to learn to live with it. 
+RIKER: I intend to demand the highest level of performance from her. 
+PICARD: I would expect nothing less. It won't be for long, Will.
+(doorbell) Come. 
+(Ro Laren enters) 
+PICARD: Yes, Ensign Laren, please have a seat. 
+RO: Ensign Ro, sir. 
+PICARD: I beg your pardon? 
+RO: The Bajoran custom has the family name first, the individual's
+second. I am properly addressed as Ensign Ro. 
+PICARD: I'm sorry, I didn't know. 
+RO: No, there's no reason you should. It's an old custom. Most Bajora
+these days accept the distortion of their names in order to assimilate.
+I do not. 
+PICARD: I wish to be candid with you, Ensign. 
+RO: Please. 
+PICARD: I'm fully aware of your Starfleet record, your problems on
+other ships, and the incident on Garon Two that led to your court
+martial. And I'm concerned about your presence on this delicate
+mission. 
+RO: I don't want to be here any more than you want me to be here, sir. 
+RIKER: Then why did you accept this assignment? 
+RO: If I may be equally candid? It's better than prison. 
+RIKER: Better than prison? There are officers who wait years to serve
+on this ship. 
+RO: Being called back into Starfleet was not my idea. 
+RIKER: Nor ours. 
+PICARD: Nevertheless, we will all be serving together. Commander Riker
+and I have expectations of you. 
+RO: Captain, I know the routine. You don't have to worry about me.
+We're stuck with each other. So let's just get this over with as
+quickly as possible and we can go our own separate ways, okay? 
+(Ro leaves) 
+PICARD: Dismissed.
+
+Captain's log, supplemental. We are approaching the
+Valo system on the outskirts of Cardassian territory, where many
+Bajorans have resettled.
+

@@ -1,68 +1,24 @@
-KURN PICARD DURAS KMPEC WORF
+PICARD WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ready room]
 
-PICARD: Commander Kurn 
-KURN: Sir. 
-PICARD: We're changing course. Set coordinates for the First City of
-the Klingon Imperial Empire. 
-[Ten Forward]
+PICARD: I do not pretend to fully understand the
+nuances of your world's law or culture, Lieutenant, but I do understand
+when somebody is trying to hide something. 
+WORF: K'mpec urged me to drop my challenge, abandon my family honour.
+It was impossible to believe I was hearing a Klingon speak 
+PICARD: Obviously, they did not expect and never wanted this challenge.
+You're getting close to something, Lieutenant. Something they care a
+great deal about protecting. 
+WORF: If it is true, it is not just Duras but the High Council itself
+that is my enemy. Captain, I must choose another cha'DIch. I would like
+your permission to ask one of the crew. 
+PICARD: Well of course, Lieutenant. Choose whomever you wish. 
+WORF: Then I would ask you to stand with me. You may refuse with no
+dishonour. 
+PICARD: Thank you, Lieutenant. I appreciate the gesture, but I know
+that there are stronger and younger men from whom to choose. 
+WORF: I can think of no one I would rather have at my side. 
+PICARD: jIlajneS. ghIj qet jaghmeyjaj. I accept.
 
-KURN: We arrive within the hour. 
-WORF: Yes. 
-KURN: The Council will receive you at high sun in the Great Hall of 
-WORF: I know the procedure for the challenge. 
-KURN: You'll need a cha'DIch to defend you. While you are accused, you
-will not be allowed combat. I would be honoured if you chose me. 
-WORF: I ask you to stand with me, to be my cha'DIch. 
-KURN: jIlajneS. ghIj qet jaghmeyjaj. The two sons of Mogh. Together, we
-will restore the family honour. 
-WORF: No. For the proceeding, you will not reveal your true father. 
-KURN: I must. 
-WORF: You will not. 
-KURN: Because it would mean my death as well if you fail? A Klingon's
-honour means more to him than his life. Perhaps your human values have
-clouded your judgment. I insist. 
-WORF: On this ship, you are my commander, and I obey. In Council
-chamber, you are my cha'DIch. You do not insist. You obey. 
-KURN: Yes, brother.
-
-[Great Hall]
-
-(Everything is done by shouting here) 
-WORF: I am Worf, son of Mogh. I have come to challenge the lies that
-have been spoken of my father. 
-K'MPEC: Worf, son of Mogh, you have challenged the judgment of the
-council. Are you prepared to answer for this if you fail? 
-WORF: Yes. With my life. 
-K'MPEC: Why do you come before us, Commander? 
-KURN: I am Kurn, son of Lorgh. I will stand by Worf's side. I am
-cha'DIch. 
-(He is handed a ceremonial something) 
-DURAS: You claim a birthright you have forsaken? 
-WORF: I have not forsaken my heritage. I am Klingon. My heart is of
-this world. My blood is as yours. 
-DURAS: Yet you come to us wearing a child's uniform, and you bring
-outsiders to our Great Hall. 
-PICARD: I am here at my own request. I am Captain Jean-Luc Picard of
-the Enterprise. 
-DURAS: Your words mean nothing here. 
-K'MPEC: Duras, let him speak. 
-PICARD: Lieutenant Worf has served under my command with distinction.
-He has earned my admiration and my respect. It is my greatest wish that
-this Council, in its wisdom, will clear his family name and return him
-to duty. 
-K'MPEC: The trust of a commanding officer is admirable. The council has
-noted it. Speak the accusation. 
-DURAS: For many turns, the truth about Khitomer has lain dormant.
-Unknown. Now the truth has been revealed. The traitor Mogh sent the
-defence access codes to the Romulan patrol ships, allowing them to
-destroy the outpost. Thousands died on Khitomer. My father died on
-Khitomer. Their deaths must be avenged. Your father was a traitor. By
-posing this challenge, you are a traitor. 
-(Duras tears off Worf's baldric) 
-DURAS: You will not wear the emblems of our people. You are a fool and
-your challenge can only result in a fool's death. 
-WORF: It is a good day to die, Duras, and the day is not yet over. 
-K'MPEC: The council stands in recess. We will return for the Mek'ba,
-when the evidence will be presented. Qapla' 

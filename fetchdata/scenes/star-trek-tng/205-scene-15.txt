@@ -1,68 +1,56 @@
-PATTERSON JAYGORDON MARISSA PICARD CRUSHER LAFORGE
+TROI RO DATA RIKER OBRIEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Bridge]
 
-(with Jay Gordon on Picard's shoulders, they get
-the hatch open) 
-PICARD: Can you climb up? 
-JAY GORDON: Yes, I think so. 
-PICARD: Good. Now look down the sides of the lift. Can you see two big
-clamps? 
-JAY GORDON: Yes, I see them. 
-PICARD: Can you see if those clamps are attached to long beams inside
-big grooves? 
-JAY GORDON: Yes. But one of them looks broken. It's half out of the
-groove. 
-PICARD: All right. Come down. 
-(Picard catches him) 
-PICARD: All right. Number One, those big clamps are part of the
-emergency system. If something goes wrong, they're designed to hold the
-turbolift in place. But it would seem that they're damaged. 
-MARISSA: Is that why we keep shaking? 
-PICARD: That's right. Now, when they give way, we shall fall. So you've
-got to get your crew out of here before that happens. Now, there is a
-ladder along the wall of the shaft. You can climb up that until you
-come to an open doorway. 
-MARISSA: What about you? 
-PICARD: My ankle is broken. I will just slow you down when you need to
-move quickly. Now, you are the leader. And that's an order. 
-MARISSA: We have to climb up the shaft. 
-PATTERSON: I want to stay here with you, Captain. 
-PICARD: Patterson, you're an officer. You have to obey orders. 
-PATTERSON: I don't want to be an officer any more. I want to stay here
-with you. 
-JAY GORDON: If the captain stays here, we won't make it. We'll all die.
+RO: The field strength is down to twenty percent.
+We cannot run the risk of staying here any longer. 
+O'BRIEN: We're in no danger until it drops below fifteen percent. We
+can afford to wait and see if anyone in Engineering notices those
+monitors. 
+TROI: Have you made preparations to separate the Saucer section? 
+RO: Yes, sir. We're in stand by mode for docking latches. 
+O'BRIEN: Ensign there's a thermal inversion in the power coupling! 
+RO: Quick, cross-connect to the transfer coil. That was close. 
+TROI: What happened? 
+RO: Exactly what I said might happen. The power coupling overheated and
+the entire containment field almost collapsed.
+O'Brien's fixed it temporarily, but this could happen again at any
+moment, and next time we might not be able to stop it. You
+can't let wishful thinking guide your decision, Counsellor. It's time
+to leave. 
+TROI: We will separate the ship when I decide that it's time, and not
+before. Is that clear, Ensign? 
+RO: Yes. Perfectly.
 
-PICARD: We don't have time to argue. You must go now. 
-MARISSA: The crew has decided to stick together. We all go or we all
-stay. 
-PICARD: All right. I'll try. But I want you to know this is mutiny.
-Now, Number One, look at that control panel. Now, the yellow control
-pad, hit that once. Now the one below it, hit twice. Now that should
-release the panel underneath. 
-MARISSA: Yes, it did. 
-PICARD: Now, you can pull it away. 
-MARISSA: Okay. 
-PICARD: Good. Now, that bundle of wires, that's optical cabling. See
-how much of that you can pull out. 
-[Cargo bay]
+[Engineering]
 
-(they've moved the containers) 
-CRUSHER: The levels are still rising. There must be some way to put
-that fire out. 
-LAFORGE: The energy's being fed by the ship's internal power grid and
-we can't even get near that. The only way to stop it would be to
-eliminate its supply of oxygen. Wait a minute. Doctor, I've got an
-idea. It's kind or wild, but we just might be able to kill two birds
-with one stone. 
-CRUSHER: Let's hear it. 
-LAFORGE: Okay. We open the external door. That would depressurise the
-cargo bay and suck all of those containers out into space. At the same
-time, the lack of oxygen should put out the plasma fire. 
-CRUSHER: What about us? 
-LAFORGE: We just need to find something in here to hold onto while the
-air is evacuating. Then, we close the door, repressurise the bay. 
-CRUSHER: What about this? 
-(a ladder up to the second level) 
-LAFORGE: Yeah, that ought to do it.
-
+(Data's head is on a shelf, laced up to a panel.
+Riker is working on another one) 
+RIKER: Okay, try it. 
+DATA: Very good, Commander. You have established a connection. I can
+now raise the door. 
+(the blast door goes up to reveal Geordi's office area all lit up) 
+RIKER: There's no power on this entire deck, yet somehow these monitors
+are working. 
+DATA: The power reaching those monitors has been diverted from the
+Bridge, sir. 
+RIKER: But why? Unless there's something they want us (pause) something
+they need us to see. Wait a minute. Data, the containment field
+strength is down to eighteen percent. Can you stabilise it? 
+DATA: No, sir. I do not have access to the containment field. You will
+have to establish a new link. Locate the ODN conduit, sir. 
+(Riker probes Data's exposed circuits) 
+RIKER: Got it. 
+DATA: Yes, sir. You must now change the input matrix in my secondary
+optical port and then connect the ODN conduit. 
+(his right eye closes) 
+DATA: That is not the correct port, sir. 
+RIKER: Sorry. 
+DATA: You must hurry, Commander. The containment field has dropped to
+sixteen percent. 
+RIKER: I'm trying. You need a bigger head. 
+DATA: The field continues to drop, sir. Collapse is imminent. 
+RIKER: Try it now. 
+DATA: I have a connection, sir. I am now stabilising the containment
+field. 

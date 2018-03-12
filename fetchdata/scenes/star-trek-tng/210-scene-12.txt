@@ -1,109 +1,49 @@
-TROI LAFORGE WORF PICARD RIKER FELTON JADAR DATA
+TROI WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Troi's office]
 
-TROI: Worf. 
-WORF: Counsellor? 
-TROI: I just wanted to know how the field trip went yesterday. 
-WORF: You have not heard? 
-TROI: No. Why?
-
-[Turbolift]
-
-WORF: Bridge. There was an incident. Alexander
-stole a small model and then told a falsehood. But I have remedied the
-situation. 
-TROI: May I ask how? 
-WORF: I pointed out his error, told him about Kahless and Morath, and
-explained the value of honour. The boy understood. 
-TROI: I see. Sometimes these things aren't over as quickly as they seem
-to be. I'd be happy to help if you have any further problems. 
-WORF: Thank you, that will not be necessary. Alexander will not repeat
-this mistake.
-
-[Bridge]
-
-DATA: The prototype has been towed into position,
-Captain. 
-RIKER: Initiate a radio link to the ship. 
-LAFORGE: Link established. Receiving prelaunch telemetry now. 
-WORF: Incoming message from Doctor Ja'Dar. 
-PICARD: On screen. 
-JA'DAR [on viewscreen]: Captain, we're ready to begin the launch
-sequence. 
-PICARD: Mister Riker? 
-RIKER: All science labs standing by. 
-FELTON: Course laid in, sir. 
-PICARD: The Enterprise is ready, Doctor. 
-JA'DAR [on viewscreen]: This is Doctor Ja'Dar to all stations. You may
-begin the launch sequence. 
-PICARD: And Doctor? Good luck. 
-JA'DAR [on viewscreen]: Thank you, Captain. 
-(transmission ends) 
-DATA: Sensors indicate the field generators on the planet surface are
-charging, Captain. 
-LAFORGE: The soliton wave has been initiated. It's heading for the test
-ship. 
-(a blue wave rushes out to the vessel and off they rush) 
-DATA: The test ship has successfully entered warp, sir. 
-PICARD: Ensign, engage. 
-(Enterprise goes to warp) 
-PICARD: Ensign, bring us to within twenty kilometres of the test ship. 
-FELTON: Aye, sir. 
-LAFORGE: Telemetry looks good. Soliton wave is steady. 
-DATA: The test ship is maintaining at warp two point three five, sir. 
-LAFORGE: That's a little faster than they anticipated, but still well
-within mission parameters. 
-FELTON: We're at twenty kilometres, Captain. 
-PICARD: Mister Data, is the wave affecting our warp drive? 
-DATA: No, sir. The effect has been localised to within two kilometres
-of the wavefront. 
-RIKER: Mister La Forge, what is the power efficiency of the wave? 
-LAFORGE: Energy transfer is ninety eight percent! 
-RIKER: Ninety eight? 
-LAFORGE: Yes, sir. There's less than a two percent energy loss between
-the wave and the ship. 
-DATA: That is four hundred and fifty percent more efficient than our
-own warp drive. 
-PICARD: Astonishing. Commander Riker, have science lab three begin a
-series of gamma emission tests. 
-DATA: Sir, the wave's power signature is fluctuating. 
-LAFORGE: Wave efficiency has dropped to seventy three percent. 
-RIKER: The test ship's warp field is becoming unstable. Sensors show
-multiple disruptions. 
-FELTON: I'm reading a severe subspace distortion, sir. 
-DATA: It is expanding toward us, sir. It appears to be interfering with
-our engines, Captain. 
-LAFORGE: I can't compensate for it. 
-PICARD: Bring us out of warp, Ensign. All stop. 
-FELTON: Aye, sir. All stop. 
-RIKER: Damage report. 
-(the test ship goes KaBOOM and everyone gets thrown out of their seats)
-
-PICARD: Hold on! 
-RIKER: Damage report. 
-LAFORGE: Sensors and warp drive are offline. Deflectors down to fifteen
-percent. 
-WORF: Several injuries reported on deck twenty seven. No fatalities. 
-PICARD: What happened to the test ship? 
-DATA: Our last readings indicate the craft exploded due to extreme
-shearing stress. 
-WORF: Incoming message from Bilana Three, Captain. 
-PICARD: On screen. 
-JA'DAR [on viewscreen]: Captain, are you all right? Was anyone hurt? 
-PICARD: We sustained some minor damage. Do you know what happened? 
-JA'DAR [on viewscreen]: The preliminary data we received indicate a
-transient power imbalance. 
-LAFORGE: That would be consistent with our telemetry readings from the
-ship. We detected a sudden drop in transfer efficiency just before the
-explosion. 
-JA'DAR [on viewscreen]: Are you still tracking the wave? 
-LAFORGE: No, the explosion damaged our main sensor array, but I think
-we'll have it repaired in a couple of hours. 
-PICARD: We'll contact you as soon as the sensors are back online. 
-LAFORGE: Doctor. You did it. Warp without warp drive. For a while there
-it was really something to see. 
-JA'DAR [on viewscreen]: Well, I hope you're here to see it next time we
-try, Mister La Forge. 
-LAFORGE: So do I, Doctor.
+TROI: Are you sure this is what you want? 
+WORF: It is not a question of what I want. It is a question of what is
+best for the boy. He will be better off at a Klingon school. 
+TROI: Have you discussed this with Alexander? 
+WORF: He is a child. I informed him of my decision. 
+TROI: I see. 
+WORF: You disapprove? 
+TROI: I'm not here to approve or disapprove of the way you raise your
+son. My concern right now is how this decision is going to affect you.
+How will you feel when Alexander's gone? 
+WORF: I will be pleased that he is receiving the guidance he requires. 
+TROI: Is that how you felt when he left to live with your parents? 
+WORF: That was different. At the time, I felt he needed a home, a
+family. Things I could not provide for him. 
+TROI: I understand. The idea of raising a child can seem a tremendous
+burden, particularly to a solitary parent. 
+WORF: He was no burden. I simply knew that a Klingon child required
+more attention than I could provide. 
+TROI: I see. Have you ever wondered how Alexander felt about being sent
+away? 
+WORF: He was very young. I'm sure he was confused. 
+TROI: Do you think he felt abandoned? After all, he left very soon
+after K'Ehleyr's death. In a way, he not only lost his mother, he lost
+his father as well. 
+WORF: Are you saying that his misconduct is a result of feeling
+abandoned? 
+TROI: It's possible. Children don't have the experience to handle
+emotional crises. Instead of dealing with their feelings, they act on
+them. Tell me about the last time you spoke with K'Ehleyr, the night
+she died. 
+WORF: We argued. 
+TROI: What about? 
+WORF: Alexander. About how she did not tell me about him when he was
+born. 
+TROI: So you were angry with her? 
+WORF: Yes. 
+TROI: Are you still angry with her? 
+WORF: Of course not. 
+TROI: It would be very normal to be angry with her. Angry because she
+died and left you alone with a son you never knew you had. Being angry
+doesn't mean you loved her any less, Worf, but you can't hide from your
+feelings, just as Alexander cannot hide from his. You both have a lot
+of healing to do. Perhaps you should think about doing it together.
 

@@ -1,46 +1,54 @@
-RIKER WORF PICARD RO DATA KALITA
+GUEST2 SANTOS RO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Settlement]
 
-RIKER: We picked up a request for emergency
-assistance from a Federation science ship in the Topin system. 
-PICARD: Are there any other ships in the vicinity? 
-RIKER: We're the closest. 
-PICARD: Helm, set course for the Topin system. Mister Data, will you
-signal the science ship that we're on our way. 
-DATA: It is unlikely that they would receive our communication, sir.
-The Topin system contains an unstable protostar. It generates
-significant magnetoscopic interference. 
-PICARD: Can we use our sensors to find them? 
-DATA: Most of our sensors would be ineffective, although our
-directional array should cut through the interference. 
-RIKER: That array has such a narrow scan field. We might as well break
-out the palm beacons and try to find them that way.
+GUEST2: I've sent a communication to the others.
+When this is over, we'll celebrate. 
+RO: When it's over? 
+GUEST2: When Cardassia realises they can't intimidate us into leaving
+our colonies. 
+RO: Something tells me it'll be a long time before we'll be
+celebrating. 
+GUEST2: Don't be discouraged, Ro. It'll take time, but the important
+thing is that we not give up. 
+RO: I spent ten years in the camps. I don't give up. 
+GUEST2: I've been thinking a long time about what our celebration will
+be like. We'll have a huge dinner. You'll make hasperat and I'll make
+blueberry pie. We'll drink wine and we'll dance. I'll even play the
+belaklavion. That'll give everyone a laugh. 
+RO: You play the klavion? 
+GUEST2: Yes, badly. It's a difficult instrument, but I enjoy the
+challenge. 
+RO: My father played the klavion. When I was very young and afraid of
+monsters under my bed, he'd play for me. He said that the klavion had
+special powers. Monsters were afraid of it and when they heard it they
+would disappear. When I listened to that music he played for me I was
+never afraid to go to sleep. When he died I realised even he couldn't
+make all the monsters go away. 
+GUEST2: Why wait? Let's go to the market. Let's get food for a feast,
+for a celebration. 
+RO: A celebration of what? 
+GUEST2: Of absolutely nothing. Just to celebrate. 
+RO: I'd like that. 
+(they go walking off across the square and their dialogue is under the
+music) 
+GUEST2: Come, let's go to the market. If I'm going to make a pie, we'll
+have to find a substitute for blueberries. Haven't seen real ones in
+years. 
+RO: On Bajor, there's a berry 
+GUEST2: Yes, I know it, very sweet. 
+(three cowled figures go up some steps then reveal themselves to be
+Cardassians. They start shooting the people. Santos comes with weapons)
 
-[Ro's ship]
-
-KALITA: This is insane. We're sitting here, no
-sensors, blind to the outside, waiting for a galaxy class Starship to
-come swooping down on us. 
-RO: Don't worry. It'll be hard for them to locate us with just the
-directional sensors. Besides, they're looking for a damaged science
-ship that wants to be found. They're here. Standby to engage thrusters.
-
-[Bridge]
-
-RIKER: Anything? 
-DATA: No, sir. It will take approximately six hours to scan this
-system. 
-WORF: Captain, the distress call is being repeated. 
-PICARD: Data, can you locate the signal? 
-DATA: I am attempting to do so.
-
-[Ro's ship]
-
-KALITA: They're scanning our last position. 
-RO: All right, I've locked onto their sensor beam. I'm going to use it
-to manoeuvre into transporter range. 
-KALITA: How are we going to beam through their shields? 
-RO: We can't. If we're going to get those medical supplies, we're going
-to have to take this ship through their shields.
+SANTOS: Ro! 
+(she takes one, and others get handed out. Santos kills one Cardassian,
+Kalita another, then Macias goes to help a wounded man and gets shot
+himself. Ro kills the last Cardassian) 
+RO: Macias? 
+GUEST2: They must have found out that there was a Maquis cell here. 
+RO: Kalita, get one of the medkits. Hurry. You have to hang on. 
+GUEST2: When an old fighter like me dies someone always steps forward
+to take his place. 
+(and he dies)
 

@@ -1,42 +1,44 @@
-PICARD RIKER ODAN WORF
+PICARD RIKER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Sickbay]
 
-RIKER: Lieutenant. We'll be entering the upper
-ionosphere in two minutes and twenty seconds. 
-[Bridge]
+CRUSHER: His vital functions are overworked. His
+immune system is under attack. I can only guess that he's suffering
+from classic rejection syndrome. 
+PICARD: Is there any treatment you can give him? 
+CRUSHER: I can administer an immunosuppressant. That could help relieve
+the symptoms but it Can't correct the underlying cause. There is a
+foreign organism in his body. Medical school didn't exactly prepare me
+for situations like this. 
+PICARD: You're doing all you can. 
+CRUSHER: Don't worry about me, Captain. I'm fine. 
+PICARD: Ambassador, when you feel up to it, would you join me in my
+Ready room? 
+RIKER: Of course. 
+(Picard leaves) 
+CRUSHER: I'm giving you something that should help with the pain. At
+least for a little while. 
+RIKER: The pain's gone. Thank you. 
+(he takes her arm) 
+CRUSHER: Please don't. 
+RIKER: Please let me touch you, just for a moment. 
+(he leans in for a kiss) 
+CRUSHER: No. Please.
 
-WORF: Sir, an unidentified ship is emerging from
-the limb of the moon. 
-PICARD: Hail the vessel. 
-RIKER [OC]: I have visual contact. I don't recognise it. 
-WORF: It claims to be an escort vessel from the Beta moon. 
-PICARD: There was no mention of an escort. Request a security clearance
-code. 
-WORF: They do not answer, sir. 
-PICARD: Commander Riker, prepare to return to the shuttlebay. 
-RIKER [OC]: Acknowledged. 
-WORF: Captain, they are loading its phaser banks. 
-[Shuttlecraft]
+[Ready room]
 
-RIKER: Increasing power to the shields. 
-(the ship starts taking pot-shots at them. at least one hits them) 
-RIKER: Coming about. 
-(Odan is thrown out of his seat and the shuttle is damaged) 
-[Bridge]
-
-PICARD: Engage tractor beam. Report, Number One. 
-RIKER [OC]: We've lost port thrusters 
-[Shuttlecraft]
-
-RIKER: And both backup stabilisers. I'm losing
-control. 
-PICARD [OC]: We're bringing you in. 
-(the tractor beam grabs them and the other ship veers off) 
-RIKER: Captain, the shuttle hull has been weakened. We're breaking up.
-You can't tow us. You'd better beam us directly on board. 
-ODAN: No, don't do it. 
-RIKER: I can't stabilise the shuttle. 
-ODAN: If you transport me, it will kill me. Please. 
-PICARD [OC]: Number One we're ready to beam you aboard. 
-RIKER: Belay that order, Captain. I'll bring her in manually. 
+PICARD: It was a fast decision, which we must take
+as positive. The Alphan representative has agreed, however reluctantly.
+to let you mediate the dispute. 
+RIKER: I knew they would. They are reasonable people, they're just
+trapped in their own anger. 
+PICARD: I have no doubt, however, that they will bolt if something goes
+wrong in the discussion. 
+RIKER: Then it's my job to see nothing goes wrong. Did I said something
+wrong, Captain Picard? 
+PICARD: No, it's just that for a moment you sounded more like Will
+Riker. We have received information that the new host will arrive in
+eighteen hours. Will you be all right until then? 
+RIKER: The medication Doctor Beverly gave me has helped. I will find a
+way to keep going. 

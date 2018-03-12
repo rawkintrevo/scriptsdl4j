@@ -1,39 +1,15 @@
-PICARD RIKER CHIEF WORF CLARK
-
-[Bridge]
-
-RIKER: We've received an emergency transmission
-from the science station on Ventax Two, sir. 
-PICARD: What's the nature of the emergency? 
-RIKER: Uncertain. The signal was interrupted. 
-WORF: Contact reestablished with Ventax Two, sir. 
-RIKER: On screen. 
-(a very static-laden image) 
-CLARK [on viewscreen]: I am Doctor Howard Clark, director of the
-science station here on Ventax Two. Thank you for responding. 
-PICARD: Worf, can you improve our reception? 
-WORF: The trouble is at the transmission source, sir. 
-PICARD: Doctor Clark, we are barely able maintain communication with
-you. Can you boost the level of your power source? 
-CLARK [on viewscreen]: I'm afraid not, Captain. It's under attack. 
-PICARD: Under attack? 
-CLARK [on viewscreen]: There's a mob outside the door, trying to break
-into the station. The planet is in chaos. Lootings, fires, mass
-hysteria. These people are all convinced their world is coming to an
-end. Tomorrow. Please, we must have your immediate 
-Captain's log, stardate 44474.5. We have reached
-Ventax Two and are attempting to contact the Federation science
-station, which at last report was under siege by an angry mob.
+PICARD RIKER CHIEF GUEST4 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
 WORF: They are transmitting again. 
 PICARD: On screen, before we lose contact. 
-CLARK [on viewscreen]: Enterprise, Enterprise! Do you read me?
+GUEST4 [on viewscreen]: Enterprise, Enterprise! Do you read me?
 Emergency! We need help! 
 PICARD: Doctor Clark, this is Captain Picard. We are ready to beam you
 and your staff on board the 
-CLARK [on viewscreen]: They're in! 
+GUEST4 [on viewscreen]: They're in! 
 PICARD: Transporter room three. Lock onto the science team and beam
 them aboard. 
 CHIEF [OC]: I've locked onto Doctor Clark. I can't pick out the others.
@@ -43,4 +19,36 @@ CHIEF [OC]: Yes, Captain.
 PICARD: Mister Worf, will you escort him to my ready room. 
 WORF: Aye, sir. 
 PICARD: Number One, try to make some sense out of this mess.
+
+[Ready room]
+
+GUEST4: The people in Ventax Two live in an agrarian
+society. At least, they do now. 
+PICARD: What do you mean, now? 
+GUEST4: It's an interesting anthropological question. One we were
+studying before the trouble began. In the distant past, the Ventaxian
+culture had achieved an extremely advanced scientific level, but a
+millennium ago they turned their backs on technology. 
+PICARD: They reverted to a simpler existence? 
+GUEST4: And remained that way for centuries. First contact was made by a
+Klingon expedition seventy years ago. Since then, the new technology
+has been available to the Ventaxians. They simply are not interested in
+it. Virtually no social problems to be found on this planet, In fact, I
+would have described their society as idyllic until 
+PICARD: Until what, Doctor? 
+GUEST4: It's hard to believe. Several years ago, Acost Jared, the
+Ventaxian head of state, began to grow increasingly obsessed with the
+legend of Ardra. With each passing day, he grew more anxious, and he
+talked about little else. Ardra is coming back. Ardra will be here
+soon. We must all leave before Ardra returns. 
+PICARD: And who is this Ardra? 
+GUEST4: For all intents and purposes, the devil. Captain, these people
+actually believe they've sold their souls to the devil. 
+RIKER [OC]: Riker to Captain Picard. 
+PICARD: Have you located the science team, Number One? 
+RIKER [OC]: Evidently they're being held hostage. 
+GUEST4: Hostage? 
+RIKER [OC]: There's a Ventaxian leader on the viewscreen, name of Acost
+Jared. 
+PICARD: Doctor.
 

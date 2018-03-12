@@ -1,41 +1,55 @@
-RIKER CRUSHER OBRIEN
+RIKER LAFORGE WORF PICARD WESLEY CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Engineering]
 
-O'BRIEN: Doctor Quaice? Was he part of the regular
-crew rotation? 
-RIKER: No. He's a friend of Doctor Crusher's. 
-O'BRIEN: When did he arrive? 
-CRUSHER: Yesterday at sixteen hundred hours. 
-O'BRIEN: That was my watch. I beamed this man onboard? 
-CRUSHER: Yes. I was here to greet him. An elderly man, not in the best
-of health. 
-O'BRIEN: I'm sorry. I remember you were here for a short while, but you
-were alone. 
-CRUSHER: Was he invisible? Did I carry on a conversation with thin air?
+WESLEY: There's something down here I think you'd
+better see. It may be connected to Doctor Quaice's disappearance. 
+PICARD [OC]: On my way.
 
-O'BRIEN: No, Doctor. As I recall, you came in and you looked around for
-a few moments. I asked you if I could help you with anything. All you
-said was 'Thank you.' I said, 'My pleasure,' or something, and that was
-the end of it. There was no one else here.
+[Bridge]
 
-[Turbolift]
+PICARD: Progress, Number One? 
+RIKER: No one's seen him. The replicator in his quarters has not been
+used. 
+PICARD: Mister Worf, check hull and shield integrity for any sign of
+intruders. 
+WORF: Yes, sir, but I have been closely monitoring all on-board
+sensors. There has been no indication that any 
+PICARD: Then give me a Level One diagnostic of any onboard sensors, and
+run a manual sweep of any anomalous airborne or electromagnetic
+readings. I want some answers.
 
-CRUSHER: I can't believe that Chief O'Brien might
-be lying. 
-RIKER: He believes what he says. And there is no trace imprint for
-Doctor Quaice. 
-CRUSHER: Will, I didn't conjure up one of my best friends from a test
-tube. 
-RIKER: If the ship's records have been tampered with, then transporter
-records could have been changed as well. 
-CRUSHER: And with everybody coming and going yesterday, maybe O'Brien
-just doesn't remember, or 
-RIKER: Or? 
-CRUSHER: It might be a good idea to run a diagnostic on him. 
-RIKER: To make sure he wasn't tampered with? 
-CRUSHER: What do you think? 
-RIKER: It's worth a try. I'll check the replicator activity logs.
-Eighteen hours is a long time to go without food. Or without someone
-seeing him.
+[Engineering]
+
+WESLEY: I've been experimenting with Kosinski's
+warp field equations, trying to improve engine efficiency. 
+PICARD: I've read your reports. 
+LAFORGE: We did a test run while we were still at the starbase. Here's
+what the computer recorded. 
+WESLEY: This is the static warp field we created inside the warp drive.
+The experiment was designed to see if we could keep a bubble like this
+intact. 
+LAFORGE: As you'll see in a moment, we couldn't. 
+LAFORGE: There was a momentary flash of light. It was all over the
+spectrum. 
+CRUSHER: I remember that. 
+PICARD: Are you suggesting that a bubble could have made Doctor Quaice
+disappear? 
+WESLEY: If he were caught in it, yes, sir, it would seem to us like
+he'd disappeared. 
+CRUSHER: Where would he go? 
+LAFORGE: Who knows. He could even end up outside of our space time
+continuum. 
+PICARD: Was Doctor Quaice in Engineering during your experiment? 
+LAFORGE: No, sir. 
+PICARD: And the bubble never expanded beyond Engineering? 
+WESLEY: No, sir. 
+PICARD: Then how could it have trapped Doctor Quaice or the others? 
+LAFORGE: There are others missing? 
+CRUSHER: Yes, and they weren't anywhere near Engineering. 
+WESLEY: It doesn't make sense. 
+PICARD: I doubt the warp bubble could alter computer records, or erase
+memories. Keep at it, Ensign, Mister La Forge. It's our only working
+theory for now.
 

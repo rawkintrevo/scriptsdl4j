@@ -1,92 +1,31 @@
-TROI GRAVES KAREEN WORF PICARD SELAR DATA
+TROI WORF PICARD COMPUTER DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Graves' laboratory] 
-(Graves is whistling 'If I only had a heart' from
-the Wizard of Oz in between coughing at his desk) 
-DATA: I have noticed, Doctor 
-GRAVES: Call me Grandpa. Seems more touching in my final hours. 
-DATA: I have noticed, Grandpa, that you keep repeating the same notes
-of a musical phrase I am unfamiliar with. 
-GRAVES: It's an ancient little tune called 'If I Only Had A Heart.' A
-plaintive lament sung by a mechanical man who longs to be human. It's
-his only wish. 
-DATA: What happens to this man? 
-GRAVES: He finds out he's human after all. Always was. Just worried so
-much, he never realised it. 
-DATA: A happy ending. The mechanical man gets his wish. 
-GRAVES: Stories often have happy endings. It's life that throws you for
-a loop. It must be so hard for you, to be so close to being human and
-yet never really knowing what it's like to know pain. 
-DATA: But pain is unpleasant, is it not? 
-GRAVES: Pain. Lust. Envy. Pleasure. Desire. Do you know what desire is,
-Data? 
-DATA: Desire? To long for, to crave, a wish, a request, a 
-GRAVES: Do you know what desire is? 
-DATA: No. I do not suppose I will ever really know. 
-GRAVES: I feel pity for you. Your existence must be a kind of walking
-purgatory. Neither dead nor alive. Never really feeling anything. Just
-existing. Just existing. Listen to me. A dying man takes the time to
-mourn a man who will never know death. Funny, isn't it? 
-DATA: Funny. I have had great difficulty determining what funny is. 
-GRAVES: I've had the same difficulty most of my life. We're much alike.
+[Corridor]
 
-[Living room]
+PICARD: Where is Data now? 
+TROI: He should be in his quarters. You ordered him not to leave. 
+(Picard activates the computer interface) 
+PICARD: Tell me, where is Lieutenant Commander Data? 
+COMPUTER: Current location, Ten forward. 
+PICARD: Lieutenant Worf, will you go to Ten forward and keep an eye on
+Data? Don't interfere with his actions unless you hear otherwise from
+me. 
+WORF [OC]: Worf here, sir. Acknowledged. 
+PICARD: I want to know more about what happened down on Gravesworld.
+Lieutenant Selar, report to the Captain's ready room. 
+[Ten forward]
 
-SELAR: I'd say he has a week, but that's only an
-estimate. We do know that the disease attacks the brain and nervous
-system. We can expect more of the erratic behaviour of the kind you've
-been noticing. 
-TROI: His feelings towards you are very warm. He's attracted to you in
-many ways. 
-KAREEN: Attracted? I know I've felt certain feelings from him. And for
-him. Had I been older, perhaps we could've been. That's not the way it
-worked out. And now it's like he's afraid to face me. The only one he
-talks to is your friend, Data.
-
-[Graves' laboratory]
-
-DATA: You mentioned your impending death, Grandpa.
-May I say you face it with remarkable courage and stoicism. 
-GRAVES: That is because I am an incredible man, possessing an iron will
-and nerves of steel. Two traits that helped me become the genius I am
-today as well as the lady killer I was in days gone by. 
-DATA: You condone homicide, sir? 
-GRAVES: It's an expression, Data. It means I was once as beautiful as I
-am smart. 
-DATA: Really, Grandpa? 
-GRAVES: No, not really. But what the hell. I'm dying. I can remember my
-life any way I want. And I'll let you into a little secret, Sonny. I
-don't really believe I will be dying. 
-DATA: But the Doctor 
-GRAVES: Oh, I'll die, but I won't really be dead. You see, I believe
-I've learned to transfer the wealth of my knowledge into
-a computer. Before I die, I plan to transfer my great intelligence into
-this machine, thus cheating the Grim Reaper of his greatest prize. But
-what would you know of death? It is a subject forever alien to you. 
-DATA: That is not necessarily true, Grandpa. I do have an off button,
-if you will. Its activation robs me of my consciousness, therefore
-rendering me dead for all intents and purposes. It is not something I
-enjoy contemplating. 
-GRAVES: I can understand that. Just where would Soong position such a
-device? Don't tell me, let me guess.
-
-[Living room]
-
-PICARD [OC]: Captain to away team. We're standing
-by. 
-SELAR: I do not wish to interrupt Data and the Doctor. They seem to
-have developed a genuine rapport. But the Enterprise has reached it's
-orbit and I'd like to transport Graves to the ship as soon as possible.
-
-(Data enters) 
-DATA: That will not be necessary, Doctor. He is gone. 
-WORF: Gone? 
-DATA: It happened just a few moments ago, in my arms. Ira Graves is
-dead.
-
-Captain's log, supplemental. I leave Gravesworld
-with an empty feeling and the knowledge that our mission was
-unsuccessful. Whatever scientific secrets Ira Graves was about to
-unlock have been lost forever. Our immediate priority is to reach the
-nearest starbase so that Graves' assistant can get on with her life.
-
+DATA: Hello, Kareen. Don't you think it's time we
+stopped pretending? You know who I am. 
+GUEST1: You're Data. 
+DATA: You do know who I am. 
+GUEST1: Ira? 
+DATA: It is me. I am here. I am alive. 
+GUEST1: How? 
+(Worf enters, and Data notices him) 
+DATA: I deactivated Data and transferred my mind into his frame. I
+never imagined how much of my self I would retain. My feelings, my
+dreams. 
+GUEST1: They won't let you get away with it. They'll try to stop you. 
+DATA: How can they? It is my body now. It is out of their hands. 

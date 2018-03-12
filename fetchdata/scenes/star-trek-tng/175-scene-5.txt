@@ -1,77 +1,30 @@
-RIKER LAFORGE WORF SHELBY HANSON DATA
+RIKER DATA WORF SHELBY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
-
-RIKER: Mister Crusher suggests we might design a
-chip that would automatically retune the phasers to a random setting
-after each discharge. Engineering.
-WORF: That would be a great advantage.
-RIKER: We should also see if there's some way that we can neutralise
-their forcefields. We've got to let them know that we can adapt too,
-Mister Worf. We're no longer just fighting the Borg, we're fighting the
-life experience they've stolen from Captain Picard. Now how the hell do
-we defeat an enemy that knows us better than we know ourselves?
-WORF: The Borg have neither honour nor courage. That is our greatest
-advantage.
-RIKER: I hope it's enough.
-
-[Engineering]
-
-SHELBY: Accelerator coils are responding normally. 
-LAFORGE: Excellent. Forward shields at fifty eight percent. Aft shields
-sensors must be down 
-SHELBY: Checking. Sensors are fine. No. Aft shields have completely
-failed. Damn it. Auxiliary generators are out again. 
-LAFORGE: Just the man I need. We're having some problems with the aft
-shields. Generators going on and offline. I could really use your help,
-Worf 
-RIKER: How soon do we get underway, Geordi?
-LAFORGE: Still a couple hours. Commander Shelby can fill you in. 
-SHELBY: The main navigational deflector is functional again. Sherbourne
-and Barclay are running through the final testing sequence now. 
-RIKER: The warp reactor core?
-SHELBY: Reconstruction is proceeding normally. It's slow work. If we
-can nail down this shield generator problem, I agree with La Forge. We
-should be at
-operating capacity in two to three hours. 
-RIKER: Good. 
-SHELBY: Anything else, sir?
-RIKER: Yes. You did a good job on the Borg ship.
-SHELBY: I didn't get Picard.
-RIKER: You stopped them. You gave us our shot.
-SHELBY: Sir, I 
-RIKER: Commander, we don't have to like each other to work well
-together. As a fact of fact, I'd like you to continue to keep me on my
-toes.
-SHELBY: Some might define that as the role of a first officer.
-RIKER: Damn, you are ambitious, aren't you, Shelby. 
-SHELBY: Captain Riker, based on our past relationship, there's no
-reason for me to expect to become your first officer except you need
-me. I know how to get things done, and I have the expertise in the
-Borg. 
-RIKER: And you have a lot to learn, Commander.
-SHELBY: Yes, sir.
-RIKER: Almost as much as I had to learn when I came aboard as Captain
-Picard's first officer. A fact he reminded me of when I commented on
-what a pain in the neck you are.
-SHELBY: Yes, sir.
-DATA [OC]: Data to Riker. Message from Starfleet, Captain.
-RIKER: Go ahead, Data.
-DATA [OC]: Starfleet reports 
 [Bridge]
 
-DATA: It has engaged the Borg at Wolf three fifty
-nine, sir. 
-(Riker enters) 
-DATA: Admiral Hanson on subspace, Captain. 
-RIKER: On screen. Admiral? 
-(The image is very broken up. He's bouncing around a lot) 
-HANSON [on viewscreen]: The fight does not go well, Enterprise. We're
-attempting to withdraw and regroup. Rendezvous with fleet 
-(transmission lost)
-
-Captain's Log, stardate 44002.3. Repairs are
-complete, and the Enterprise is warping to rendezvous with Starfleet at
-Wolf three five nine. Communications from the site of battle have been
-cut off, possibly by Borg interference.
+RIKER: Slow to impulse. Take us to the battle
+coordinates, Mister Crusher. Yellow alert. 
+WORF: Sensors are picking up several vessels, Captain. 
+RIKER: The fleet?
+DATA: No active subspace fields. Negligible power readings. 
+RIKER: Life signs? 
+DATA: Negative, sir.
+WORF: Visual contact.
+RIKER: On screen.
+(Fragments of starships, some with flashes of fires still burning) 
+SHELBY: The Tolstoy, the Kyushu, the Melbourne. 
+(Riker bows his head briefly for the crew that might have been his) 
+WORF: Sir, sensors are picking up unusually strong eddy currents,
+bearing two zero zero, mark two one one.
+RIKER: Data, analysis? 
+DATA: It could indicate the course of the Borg ship, sir. 
+RIKER: Ensign Crusher, set in a course that follows those currents.
+Commander Shelby, prepare to initiate your plan to separate the saucer
+section when we find the Borg.
+SHELBY: Sir. I must remind you that Captain Picard was briefed on that
+plan. The Borg will be prepared for it 
+RIKER: I'm aware of that, Commander. In fact, I'm counting on it.
+SHELBY: Crusher, Cartaino, Gleason. Report to the Battle Bridge. 
+RIKER: Mister Data, Mister Worf? I have a special mission for you.
 

@@ -1,87 +1,47 @@
-RIKER OBRIEN LAFORGE WORF PICARD PATAHK CRUSHER
+GUEST1 RIKER CRUSHER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Pit]
+[Cave]
 
-LAFORGE: Worf!
+LAFORGE: Bochra. Bochra, you're in bad shape and my
+vision's getting worse. Now there's a beacon out there that'll get us
+back to my ship, but not if I can't find it. 
+GUEST1: I cannot surrender to the Federation. 
+LAFORGE: Then stay here and die. 
+GUEST1: If the situation were reversed would you not die to avoid
+capture? 
+LAFORGE: I don't know. I might, if I thought it was necessary. If the
+stakes were high enough. But they'd have to be pretty damn high. I
+guess I'd make a pretty lousy Romulan, huh? 
+GUEST1: I no more wish to die than you do. 
+LAFORGE: Bochra, there are times when it is necessary to die for one's
+ideals. Do you believe this is one of those times? 
+(Bochra puts down the phaser) 
+LAFORGE: Come on. Let's go find that beacon. Whoa! 
+GUEST1: What is it? 
+LAFORGE: Everything's gone blank. I'm blind.
 
-Captain's log, Stardate 43349.2. An unidentified
-distress signal has led to the discovery of a crashed Romulan vessel on
-the surface of Galorndon Core, a Federation planet. We have recovered
-one survivor, but Lieutenant Commander La Forge did not report back
-with the away team and is still missing.
+[Riker's quarters]
 
-[Transporter room]
-
-CRUSHER: Get him to Sickbay. 
-WORF: Secure Sickbay. Post a guard in visual contact at all times. 
-CRUSHER: He's not going anywhere, Lieutenant. 
-O'BRIEN: I'm sorry, Commander. There's just no way to lock in on
-anything down there. 
-RIKER: Keep trying, O'Brien. 
-O'BRIEN: The electrical storm's creating thousands of ghosts. 
-RIKER: Well beam some of those ghosts back. One of them may be Geordi.
-Permission to lead another away team, sir. 
-PICARD: Denied. When we get another window in the storms. The crash
-site?
-
-[Corridor]
-
-RIKER: The Romulan craft is a total loss. There's
-nothing there to salvage unless you want to use tweezers. 
-PICARD: No sign of others? 
-RIKER: You couldn't see two metres in front of yourself down there. 
-PICARD: It certainly is the last place one would expect Romulan
-encroachment. On the other hand, Galorndon Core
-would provide ideal cover for an opening move of a new offensive. 
-RIKER: I doubt if they were there for the climate.
-
-[Pit]
-
-(Geordi has spotted some medal ore in the wall of
-the pit. He makes a groove in the mud, puts the nodules in it then uses
-his phaser to melt them into a dagger shape)
-
-[Sickbay]
-
-(Crusher is operating on the injured Romulan) 
-CRUSHER: We thought it would be like working on Vulcans, but there are
-subtle differences. Too many of them. 
-PICARD: Can you treat him? 
-CRUSHER: He has cell damage to vital areas. He's going to need a
-transfusion of compatible ribosomes in order to recover.
-I'm setting up a schedule to test every member of the crew. 
-PICARD: We can't use the replicator? 
-CRUSHER: The molecules are too complex. 
-RIKER: Will he survive? 
-CRUSHER: I can't answer that yet. 
-RIKER: Well let me put it another way. Will he survive long enough to
-tell us what he was doing here? 
-PICARD: Doctor, it's an important consideration. 
-CRUSHER: I can bring him around for a few minutes. But there is one
-serious complication. His brainwaves indicate early neural-pathway
-degeneration. 
-RIKER: Head injury? 
-CRUSHER: There's no obvious cranial trauma. I'm guessing his exposure
-to the magnetic fields on the surface was slowly breaking down his
-synaptic connections. 
-RIKER: Will it affect Geordi the same way? 
-(She nods, then injects the Romulan) 
-CRUSHER: He'll be conscious for a minute or two. 
-RIKER: You are on board the Federation Starship Enterprise. We're
-treating your injuries. How long were you down on Galorndon Core? Do
-you understand me? 
-PATAHK: I will not answer questions. 
-RIKER: We need to know if there are other survivors on the surface. 
-PATAHK: I am alone. I will not answer any questions. 
-RIKER: Do you have a mother ship who should be advised of your
-condition? 
-(He passes out again)
-PICARD: The only answer he wants to give is that he was alone. 
-RIKER: Which suggests that he wasn't.
-
-[Pit]
-
-(Geordi is using two home-made picks to help him
-climb out of the pit. It's hard work, but he makes it back onto the
-surface)
+RIKER: Come. Worf. 
+WORF: You are busy. Forgive my intrusion. 
+RIKER: For what it's worth, I understand your bitterness. 
+WORF: With respect, sir, you cannot. I am asked to give up the very
+lifeblood of my mother and my father to those who murdered them. 
+RIKER: Must you blame all Romulans for that? 
+WORF: Yes. 
+RIKER: Forever? What if some day the Federation made peace with the
+Romulans. 
+WORF: Impossible. 
+RIKER: That's what your people said a few years ago about humans. Think
+how many died on both sides in that war. Would you and I be here now
+like this if we hadn't been able to let go of the anger and the blame?
+Where does it end, Worf? If that Romulan dies, does his family carry
+the bitterness on another generation? 
+WORF: Then you believe I should? 
+RIKER: What I believe doesn't matter. 
+WORF: My Starfleet training tells me one thing, but everything I am
+tells me another. 
+CRUSHER [OC]: Lieutenant Worf, report to Sickbay. 
+WORF: Acknowledged.
 

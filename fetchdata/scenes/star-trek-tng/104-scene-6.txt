@@ -1,79 +1,71 @@
-RIKER LAFORGE TASHA PICARD HAGON TROI LUTAN DATA
-
-[Holodeck]
-
-(Tasha enters a command on a control, and puts on
-the robe it creates) 
-TASHA: Aikido one. (a mat and a white clothed figure appear) It won't
-move until my actions activate it. 
-LUTAN: You can create people? Without a soul? 
-TASHA: It's not a real person, Lutan. It has no life. Everything it
-does is controlled by computer. Who am I? Do you hear me? 
-(It only moves when she feints an attack) 
-TASHA: But it will feel real when it hits you. 
-(She demonstrates a couple of throws) 
-HAGON: A force like that cannot possibly come from an image, Lutan. 
-LUTAN: Then you will show me, Hagon. 
-(Hagon gets thrown) 
-LUTAN: Thank you, Lieutenant. How very enlightening. 
-TASHA: Aikido, vanish. I could create two, even three, but really one
-is enough. As you fight with it, it learns, and before long it knows
-exactly how to defeat you. 
-LUTAN: Even the extraordinary Lieutenant Yar? 
-TASHA: It forces us to keep improving. 
-LUTAN: Your skill impresses me. I like you. 
-[Cargo Bay One]
-
-LUTAN: Farewell, my new friends of the noble
-Enterprise. 
-PICARD: Understanding has made friends of many different people. We've
-had a good beginning, Lutan. 
-LUTAN: May I also extend a personal farewell to Lieutenant Yar? In your
-Federation terms. 
-(He shakes her hand then pulls her close so she, Lutan and Hagon are
-beamed out together) 
-PICARD: Picard to Bridge. Red alert.
+TROI LAFORGE PICARD RIKER WESLEY LUTAN CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: (at Tasha's station) Shields up, photon
-torpedoes activated, sir. 
-PICARD: What comm. contact have we had with them? 
-DATA: With their orbital control station, sir. 
-PICARD: Make contact there and on all hailing frequencies. This is the
-Enterprise to Lutan and the Ligonian government. You have committed an
-unfriendly act. We insist that you reply immediately. 
-RIKER: Photon torpedoes ready, sir. 
-PICARD: Set them for a display blast a thousand metres short of the
-planet's surface. 
-RIKER: Set. 
-PICARD: Fire. 
-RIKER: Do we know the source of their transporter beam? 
-LAFORGE: Our own transporter people have tried to trace it, sir, but to
-no effect. 
-DATA: It reads similar to early Starfleet efforts but uses the
-Heglenian shift to convert matter and energy in different. (turns)
-Which is actually not important at this time. 
-PICARD: This is Captain Picard of the Enterprise with a message to
-Lutan, whom I have so far acknowledged as a friend. But you have now
-committed what our laws regard as an attack upon us. Since you have
-visited our vessel, you most certainly know the
-power of it. We insist that you reply to this message. Opinion,
-Counsellor. Will they injure Lieutenant Yar? 
-TROI: I believe not, sir. They seem mainly curious. In the case of
-Lutan, however, I did feel other needs. 
-RIKER: What kind of needs? 
-TROI: Some sexual attraction from all the males. Lieutenant Yar is
-physically very attractive. But with Lutan I felt something else.
-Something more like avarice or ambition. 
-PICARD: Other comments? 
-DATA: If I may, sir. One of the things about them in the briefing
-studies was their respect for patience. 
-RIKER: Strongly emphasized. And you can see it in the precise,
-ritualistic way they do things. I'm worried about Lieutenant Yar too,
-sir, but maybe we should sit and wait them out. 
-Stardate 41235.32. I am concerned. Over a full day
-of waiting with no response from Lutan. We are now testing whether they
-are aware of our sensors probing them. So far, we believe we have
-pinpointed Lutan's government compound.
+PICARD: Wesley? 
+WESLEY: I haven't stepped one foot on your Bridge, Captain. 
+RIKER: It's all right, sir, I'll see that he leaves immediately. 
+PICARD: No. 
+RIKER: No? 
+PICARD: Why don't you sit at Ops next to Lieutenant La Forge. 
+WESLEY: Sir? 
+LAFORGE: Sir? 
+PICARD: Is the whole ship deaf?! Sit down over there, young man.
+Temporarily. 
+TROI: Captain, we have more information from the briefing studies on
+Ligon. 
+PICARD: Excuse me. Doctor Crusher, some of this may interest you. Lets
+hear the analysis. 
+DATA: It is a highly structured society in which people live by strict
+codes of honour. For example, what Lutan did is similar to what certain
+American Indians once did called counting coup. That's from an obscure
+language called French. Counting coup 
+PICARD: Mister Data, the French language for centuries on Earth
+represented civilisation. 
+DATA: Indeed? But surely, sir 
+RIKER: I suggest you drop it, Mister Data. 
+DATA: Yes, sir. Counting coup could be as simple as touching an enemy
+with a stick in battle, or taking something from him and escaping. It
+was considered extremely heroic. 
+RIKER: And under these circumstances Lutan considers himself heroic,
+risking literally everything in the face of our superior power. 
+TROI: And it fits Lutan's personality profile as well. He has an
+abnormally high need for achievement. Self image to him is a function
+of what he thinks he's achieved. Those who set their standards too high
+can kill to meet them. 
+CRUSHER: Why Tasha? 
+TROI: As a Starfleet Security Officer, she may have represented his
+riskiest prize. 
+DATA: Transmission from the planet surface, sir, Main viewer on. 
+PICARD: Well, Lutan, what do you want? 
+LUTAN [on viewscreen]: You will display your image, please. 
+PICARD: What is required is an image of Lieutenant Yar, well and 
+LUTAN [on viewscreen]: Are you making demands, Captain? 
+TROI: Sir. According to the Ligon Code of Honour, Lutan has done what
+he set out to do, achieve recognition for being daring and bold. 
+RIKER: We've studied this in some depth now, sir. The proper thing for
+you to do now is to ask to get Tasha back. 
+PICARD: Ask for her? 
+DATA: Politely, Captain. 
+PICARD: And now, Lutan, you have boldly taken Lieutenant Yar from us,
+and we ask that you now please return her. 
+LUTAN [on viewscreen]: Then come visit us, Captain, and we will return
+her to you. 
+(a little later) 
+TROI: Commander. 
+RIKER: Commander? That's quite formal. 
+TROI: So is this request, sir. We believe it would be preferable if the
+Captain led this away party. 
+DATA: Agreed, sir. Their customs concerning guests make it much
+preferable. 
+RIKER: And I'm very much against that idea. Lutan is clearly a liar,
+and devious. Counsellor Troi has admitted she believes he's capable of
+killing. It is my duty to keep the Captain from danger, sir. 
+DATA: Except that Ligonian custom makes it clear that a visiting leader
+becomes an honoured guest. Not us, not second in command, him. 
+TROI: And the custom requires that Lutan should die rather than violate
+that. 
+RIKER: Yes, it seems reasonable put that way. But I warn you, if you
+get hurt, I'll put you on report, Captain.
 

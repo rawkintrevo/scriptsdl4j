@@ -1,56 +1,5 @@
-PULASKI COMPUTER DATA LAFORGE
-
-[Ten Forward]
-
-(still in costume) 
-LAFORGE: Data, what was the point in going to the holodeck? 
-DATA: To solve a Sherlock Holmes mystery. 
-LAFORGE: Exactly, but, you've got them all memorised. The first time
-someone opens their mouth, you've got it solved, so there's really no
-mystery. If there's no mystery, there's no game. No game, no fun. I'm
-not upset with you, Data, really. It's just that we go through all the
-trouble to arrange the time to go down to the holodeck, to get the
-proper wardrobe, to get into character, and then boom, before we even
-get started you jump to the end. You see, I was looking forward to the
-mystery. 
-DATA: Then I should have extended the sequence of events. 
-LAFORGE: Oh, I'm not getting through. The fun in the programme, Data,
-was in the attempt to solve a mystery. 
-DATA: Is that not exactly what we were doing. 
-PULASKI: You are wasting your breath, Lieutenant. Saying that to Data
-is asking a computer not to compute. 
-DATA: Am I so different from you, Doctor? Are you able to cease
-thinking on command? 
-PULASKI: In medicine I'm often faced with puzzles that I do not know
-the answer to. 
-LAFORGE: She's right, Data. You always know the answer. 
-PULASKI: To feel the thrill of victory there has to be the possibility
-of failure. Where's the victory winning a battle you can't possibly
-lose? 
-DATA: Are you suggesting that there is some value in losing? 
-PULASKI: Yes. Yes, that's the great teacher. We humans learn more often
-from a failure or a mistake than we do from an easy success. But not
-you. You learn by rote. To you all is memorisation and recitation. 
-LAFORGE: I don't know about that. Deductive reasoning is one of Data's
-strengths. 
-PULASKI: Yes, and Holmes too. But Holmes understood the human soul. The
-dark flecks that drive us, that turn the innocent into the evil. That
-understanding is beyond Data. It comes from life experience which he
-doesn't have combined with human intuition for which he cannot be
-programmed. 
-LAFORGE: Now you're just being unfair, Doctor. 
-PULASKI: I don't think so, Lieutenant. Your artificial friend doesn't
-have a prayer of solving a Holmes mystery that he hasn't read. 
-DATA: I have read them all. 
-PULASKI: You see? LAFORGE: Maybe the computer could create one in the
-Holmes style. One where you wouldn't know the outcome. 
-PULASKI: As I said, he wouldn't have a prayer. 
-DATA: I accept your challenge, Doctor. 
-LAFORGE: Good for you, Data. 
-DATA: We will return to the holodeck, where I will dare it to defeat
-me. And you, Madam, are invited to be a witness. 
-PULASKI: I wouldn't miss it. 
-DATA: Come, Watson.
+PULASKI DATA COMPUTER GUEST3 LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Outside Holodeck]
 
@@ -62,4 +11,63 @@ computer?
 DATA: Exactly. Will that be sufficient, Doctor? 
 PULASKI: We'll see. 
 COMPUTER: Programme complete. You may enter.
+
+[Street]
+
+(Near the river, with a ship's fog horn going and
+hawkers crying their wares. The sign says Tovey Street) 
+PIE MAN: Pies, pies, Some are meat, some are sweet. 
+PULASKI: Very impressive. 
+LAFORGE: Your first visit to a holodeck, Doctor? 
+PULASKI: Well, with this level of sophistication. How does this work?
+The real London was hundreds of square kilometres in size. 
+DATA: This is no larger than the holodeck, of course, so the computer
+adjusts by placing images of more distant perspectives on the holodeck
+walls 
+LAFORGE: But with the image so perfect you'd have to touch the wall to
+know it was there. And the computer fools you in other ways. I say,
+Holmes, where shall we head? The theatre? Rule's? A concert perhaps? 
+(A young boy dashes between them) 
+PIE MAN: Stop him! Stop him! He stole my goods! 
+DATA: No. It is a ruse. This way. 
+(Outside the headquarters of the Red-Headed League) 
+LAFORGE: What's over here, Data? 
+PULASKI: What are you doing, Data? Tell us 
+DATA: The running youth was a ploy. The real crime is here. And the
+intended victim is that man. Mister Jabez Wilson, employee of the Red
+Headed League, dupe of a gang of criminals. 
+DATA: I saw the plaque 'The Home of the Red Headed League' and this
+rope dangling from the bell, which enabled me to deduce that Mister
+Jabez Wilson was headed here to meet a most distasteful and untimely
+demise. From this. 
+(He pulls the rope to ring the bell and a snake falls to the ground) 
+PULASKI: Fraud. You didn't deduce anything. All you did was recognise
+elements from two different Holmes stories. Fraud. 
+DATA: Reasoning. From the general to the specific. Is that not the very
+definition of deduction? Is that not the way Sherlock Holmes worked? 
+PULASKI: Variations on a theme. Now, now do you see my point? All that
+he knows is stored in his memory banks. Inspiration, original thought,
+all the true strength of Holmes is not possible for our friend. I'll
+give you credit for your vast knowledge, but your circuits would just
+short out if confronted by a truly original mystery. It's elementary,
+dear Data. 
+LAFORGE: Now wait a minute, Doctor. We'll see whose circuits short out.
+
+(They return to where they entered, under the watchful gaze of a man) 
+LAFORGE: Computer, arch. 
+PULASKI: Are you sure you want to put yourself through this,
+Lieutenant? Better wilted laurels than no laurels at all. 
+LAFORGE: Computer, override previous programme. Okay. A programme that
+definitely challenges Data. 
+PULASKI: Now it has to deal with events that he has no previous
+knowledge of. 
+LAFORGE: Computer, in the Holmesian style, create a mystery to confound
+Data with an opponent who has the ability to defeat him. 
+COMPUTER: Define parameters of programme. 
+PULASKI: What does that mean? 
+LAFORGE: Computer wants to know how far to take the game. 
+PULASKI: You mean it's giving you a chance to limit your risk. 
+LAFORGE: No, the parameters will be whatever is necessary in order to
+accomplish the directive. Create an adversary capable of defeating
+Data.
 

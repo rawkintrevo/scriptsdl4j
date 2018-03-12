@@ -1,36 +1,66 @@
-PICARD RIKER LAFORGE WORF
+GUEST0 AQUIEL LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Relay Station ops]
+[La Forge's quarters]
 
-WORF: Commander, there are DNA traces here.
-Klingon. 
-RIKER: So Klingons did board the station? 
-WORF: Yes, but I only found DNA from one Klingon so far. I will
-continue to scan.
+AQUIEL: Maura! Come here, girl. Come on, Maura.
+LAFORGE: Maura. That's the name. 
+AQUIEL: Yes, it's from Cold Moon Over Blackwater. Have you read it? 
+LAFORGE: I'm not much for gothic fiction. 
+AQUIEL: Not many people are nowadays. Oh, your shoe. 
+LAFORGE: Yeah, Maura got a little restless. 
+AQUIEL: Maura, shame on you. That's not like you. What a naughty dog. 
+LAFORGE: It's all right, don't worry about it. At least she's chewing
+them up in pairs. I'll arrange quarters for you. I'm sure you want some
+time alone. 
+AQUIEL: Actually I've been stuck on that station for over nine months.
+I wouldn't mind going someplace with some activity. 
+LAFORGE: I know just the place.
 
-[Aquiel's quarters]
+[Ten Forward]
 
-(Geordi is looking at Aquiel's novel) 
-LAFORGE: How could she read this stuff? 
-RIKER: How's it going? 
-LAFORGE: I've managed to access all of Lieutenant Uhnari's logs. I'm
-still looking for Lieutenant Rocha's. Whatever happened to the
-encrypted messages had a cascade effect on the whole storage system. I
-can't find his files anywhere. I'm running a level three diagnostic
-now. 
-RIKER: Maybe Rocha didn't make the official logs. Uhnari could have
-been responsible for them. 
-LAFORGE: I don't think so. Aquiel was the junior officer here. 
-RIKER: Aquiel? 
-LAFORGE: Lieutenant Uhnari. I've been up all night watching her
-personal logs. I guess I'm starting to feel like I know her. 
-RIKER: What was she like? 
-LAFORGE: Well she was Hahliian. She had one sister named Shiana, she
-drank muskan seed punch. She had a quirky sense of humour. She liked to
-sing. She had questionable taste in literature. 
-PICARD [OC]: Enterprise to Commander Riker. 
-RIKER: Riker here. 
-PICARD: The Klingon ship Qu'Vat has arrived with Governor Torak. Please
-report to the Observation lounge. 
-RIKER: We're on our way.
+GUEST0: Here you are, sir. 
+(Geordi takes two glasses to a table) 
+AQUIEL: Thank you. 
+LAFORGE: You're welcome. 
+AQUIEL: Mmmm. Have you ever tried Muskan seed punch? 
+LAFORGE: Yeah. It nearly made me sick. 
+AQUIEL: You have to be raised on it. It's very nutritious. The taste
+grows on you. 
+LAFORGE: Batar al nalia. 
+AQUIEL: You speak Hahliian. 
+LAFORGE: We travelled around quite a bit when I was growing up. I
+picked up a couple of languages along the way. 
+AQUIEL: We never travelled. My family lived in the same house for five
+generations. 
+LAFORGE: The one on the hill. 
+AQUIEL: How do you know about that? 
+LAFORGE: Well, to be honest, when we thought you were dead I needed to
+review your logs and personal correspondence for any possible clues
+about what happened. 
+AQUIEL: All of it? 
+LAFORGE: Most of it, yeah. You need to understand that we thought you'd
+been murdered. We needed information. 
+AQUIEL: I'm sorry. It's just that I tell my sister things I wouldn't
+tell anyone else. I guess I was feeling a little exposed. 
+LAFORGE: I'd feel the same way. 
+AQUIEL: Especially if I had seen you in that wig. 
+LAFORGE: It really wasn't you. 
+AQUIEL: I'm curious. Now that you've met me, am I what you expected? 
+LAFORGE: Actually, I'm not sure. The woman I saw in those logs is very
+complicated. I think there's more to you than meets the eye,
+Lieutenant. 
+AQUIEL: In what way? 
+LAFORGE: Well, your relationship with Lieutenant Rocha, for example. He
+was only there for five days and yet there was evidence of plenty of
+friction. You seemed to delight in doing things that you knew would
+upset him. Why take on extra comm. traffic when you knew it was going
+to make him angry? 
+AQUIEL: Is that a personal question or part of a murder investigation? 
+LAFORGE: I don't know. Maybe both. 
+AQUIEL: Keith Rocha was obnoxious from the minute he reported to duty.
+He treated me as though I was beneath contempt. I felt like I had to
+battle him to hold my own. But I didn't want to see him dead. 
+LAFORGE: Why do you think he attacked you? 
+AQUIEL: I don't know.
 

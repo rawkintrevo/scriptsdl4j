@@ -1,70 +1,36 @@
-TROI LAFORGE WORF PICARD RIKER DATA
+RIKER OBRIEN LAFORGE WORF PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Communications as long as conditions permit.
-
-DATA: Commander. I am reading a power surge in the Tamarian plasma
-reactor. 
-RIKER: Lieutenant Worf! Evasive manoeuvre sequence delta! 
-[Shuttlecraft]
-
-RIKER [OC]: Manoeuvre sequence delta.
-
-[Bridge]
-
-DATA: Commander, the shuttle has been hit. 
-RIKER: Damage? 
-DATA: The starboard nacelle has been rendered inoperable. 
-RIKER: That's all? Riker to Worf.
-
-[Shuttlecraft]
-
-RIKER [OC]: Report. 
-WORF: Starboard thrusters destroyed. I may be able to land but I will
-not be able to take off.
-RIKER [OC]: Understood. Return to the Enterprise, Mister Worf. 
-WORF: Aye, sir.
-
-[Bridge]
-
-RIKER: Enough to turn them back, but not enough to
-hurt them. 
-DATA: Yes, sir. The phaser pulse appears to have been carefully
-attenuated for just that effect. 
-RIKER: Nice shooting.
-
-[Observation lounge]
-
-(Atmospheric ionisation scan 927 is on the wall
-monitor) 
-LAFORGE: I'm pretty sure I can punch up the annular confinement beam
-enough to transport the captain through the field, but it's going to
-take me at least a full day to do it. 
-TROI: Captain Picard could be dead by then. 
-WORF: I do not believe so. I have confidence in his ability as a
-warrior. He will be victorious. 
-TROI: You're still assuming this is some sort of a challenge ritual. We
-can't be certain of that. 
-RIKER: Agreed. We're only making educated guesses about their
-motivations, no more than that. 
-WORF: Then why do we wait? If we attack the ship now, they will not be
-able to maintain their scattering field. 
-RIKER: Which might start a shooting match, and for all we know, a war,
-and we still might not be able to save the captain. 
-WORF: It would end this stalemate. 
-RIKER: It's too much of a risk. I'll take that course when it's the
-last one left. Who the hell are these people?
-There's got to be some way to get through to them. 
-DATA: As I have said, with further study it may be possible 
-RIKER: Then do it. Deanna, help him. I want something by oh nine
-hundred hours.
+WORF: Phasers nearly ready, sir. 
+RIKER: Stand by to fire, Mister Worf. 
+DATA: Commander. The Tamarian's bioscan is becoming unreadable. He may
+be dead, sir. 
+RIKER: If we know that, so do the Tamarians. Riker to La Forge. 
+LAFORGE [OC]: La Forge here. 
+RIKER: I need those phasers. 
+DATA: Sir, sensors are tracking the entity. It is approaching Captain
+Picard's position.
 
 [Planet surface]
 
-(Daytime, and the birds are singing again) 
-PICARD: Now, where have you gone to, my friend? 
-(Picard strolls over to Dathon's camp site) 
-PICARD: Forgive the intrusion, Captain, but I need some answers. 
-(he finds what looks like a journal, and sits down to read)
+(Picard has laid out Dathon, with his dagger, when
+he hears the beast roar) 
+PICARD: I understand your sacrifice, Captain. Unfortunately, if our
+friend out there has its way, no one will ever know what you tried to
+do.
 
+[Bridge]
+
+DATA: Nine metres and closing. The energy output of
+the entity has doubled, Commander. Six metres. 
+LAFORGE [OC]: La Forge to Bridge. You have phasers. 
+RIKER: Fire! 
+WORF: Their particle beam emitters are inoperative, sir. 
+DATA: Scattering field is down, sir. 
+RIKER: O'Brien, energise. 
+(Picard is beamed away just as the beast attacks) 
+[Transporter room]
+
+O'BRIEN: We got him, Commander. 

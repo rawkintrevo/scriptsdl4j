@@ -1,82 +1,46 @@
-TROI LAFORGE WORF PICARD RIKER WESLEY FAJO DATA TOFF
+GUEST1 DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Jovis Cargo bay]
 
-WORF: Bridge. Promotion due to the death of a
-crewmate is commonplace on Klingon ships. 
-TROI: I know, but this isn't a Klingon ship and Data was your friend.
-And it's the second time you've replaced a crewmate who's died. 
-WORF: I honour Data's memory, as I did Lieutenant Yar's, by attempting
-to perform their duties as well as they did. 
-TROI: In true Klingon fashion. 
-WORF: I appreciate your concern.
+DATA: Perhaps I should attempt to communicate with
+the Enterprise. 
+GUEST0: You can't. Fajo has communications access restricted to the
+bridge. Once we're out, the shuttlepod will emit an emergency beacon.
+We'll just have to hope somebody responds before Fajo is able to
+destroy us. 
+DATA: I am trained in evasive manoeuvres. 
+GUEST0: We'll need a few. Let's get going. As soon as I start the
+escape sequence, an alarm will sound. We won't have much time. 
+(Data gets in the pod, Varria goes to a control station and presses
+buttons. The alarm sounds, a man runs in. She points the disrupter at
+him, then is jumped from behind by another crewman and disarmed. Man
+number one cancels the sequence while Data rescues Varria. Data ends up
+throwing both men across the bay. They go to start again, when Fajo
+enters. The disrupter is lying on the floor. Varria dives for it but
+lands short. Fajo aims another disrupter at her. For a moment, he
+starts to turn away, then fires. Varria screams for several seconds
+before she finally disintegrates. Data comes out of the pod) 
+GUEST1: It's your fault. You knew the price for disobedience. And so did
+she. Well, there's always another Varria. 
+(Data picks up the disrupter and points it at Fajo) 
+GUEST1: You won't hurt me. Fundamental respect for all living beings.
+That is what you said. I'm a living being, therefore you can't harm me.
 
-[La Forge's office]
-
-LAFORGE: Computer, now replay shuttle audio
-transmission time index zero four two three. This is Data's second
-trip. 
-DATA [OC]: Proceeding with departure. Enterprise shuttlebay two,
-prepare for docking. Level one precautions remain in effect. Shuttle
-has cleared the Jovis cargo bay. 
-WESLEY: Sounds just like the first trip. 
-LAFORGE: Exactly the same. That's protocol. And that's Data. Following
-protocol to the letter. Okay, computer, now replay shuttle audio
-transmission, time index zero four three nine. Third and final trip. 
-DATA [OC]: Loading is complete. I am proceeding with departure.
-Enterprise shuttlebay two, prepare for docking. Level one precautions
-remain in effect. 
-LAFORGE: That's it. That's the last communication. 
-WESLEY: He didn't report the shuttle clearing the cargo bay of the
-Jovis. 
-LAFORGE: Of course, there really wasn't any reason for him to make
-voice contact. He knew we'd be monitoring his position. Any other pilot
-might not bother, but Data? not following standard procedures? 
-WESLEY: What do you think it means? 
-LAFORGE: I'm not sure, Wes. I suppose he could've been too busy. Maybe
-he saw something was wrong. 
-WESLEY: Without communicating it? That doesn't sound like Data either. 
-LAFORGE: Which means maybe something was wrong with him. But there's no
-other indication of that. Nothing he said or did during the entire
-mission. None. I sure wish I could talk to the last people who saw him
-alive.
-
-[Fajo's den]
-
-(Data is in the overall when Fajo and Varria enter
-with a guest) 
-TOFF: I've added a Veltan sex idol to my collection. 
-FAJO: I've got four of them. 
-TOFF: What? With the pearls intact? 
-FAJO: Please. Pearls were added by the Ferengi agents to increase the
-value. 
-TOFF: What is that? Something new? And you didn't tell me. 
-FAJO: Mister Data, I'm delighted to see that you dressed for the
-occasion. Say hello to my very good friend, Palor Toff. 
-(Data remains still and silence. Passive resistance in action) 
-FAJO: Data, say hello. No need to be shy. 
-TOFF: It's a mannequin of some sort. 
-FAJO: This is not a mannequin. This is Data. This is formerly
-Lieutenant Commander Data of the Federation Starfleet. The only
-sentient
-android in existence. 
-TOFF: It doesn't seem particularly sentient right now. 
-FAJO: That's because it's playing a stupid little game with us. 
-TOFF: Well, someone has certainly played a game on you, Fajo. 
-FAJO: I don't find this amusing. I demand that you behave normally.
-Behave normally! I know you can hear me! 
-(Fajo raises his hand to Data, which means the proximity field hits,
-and Data topples forward stiff as a board) 
-TOFF: He falls well. 
-FAJO: I apologize for this. 
-TOFF: Do not be upset, my friend. I'm having a delightful visit. Come
-along, Varria. You're much more fun to play with than Fajo's new toy. 
-FAJO: (to Data) You'll regret this.
-
-[Bridge]
-
-WESLEY: Now entering the Beta Agni system, sir. 
-RIKER: Take us to half impulse, Mister Crusher. 
-LAFORGE [OC]: La Forge to bridge. 
-PICARD: Go ahead, Commander. 
-LAFORGE [OC]: Captain. 
+DATA: You will surrender yourself to the authorities. 
+GUEST1: Or what? You'll fire? Empty threat and we both know it. Why don't
+you accept your fate? You will return to your chair and you will sit
+there. You will entertain me and you will entertain my guests. And if
+you do not, I will simply kill somebody else. Him, perhaps. It doesn't
+matter. Their blood will be on your hands too, just like poor Varria's.
+Your only alternative, Data, is to fire. Murder me. That's all you have
+to do. Go ahead. Fire. If only you could feel rage over Varria's death.
+If only you could feel the need for revenge, then maybe you could fire.
+But you're just an android. You can't feel anything, can you? It's just
+another interesting intellectual puzzle for you. Another of life's
+curiosities. 
+DATA: I cannot permit this to continue. 
+(He levels the disrupter at Fajo again) 
+GUEST1: Wait. Your programme won't allow you to fire. You cannot fire.
+No. 
+(A transporter beam takes hold of Data) 

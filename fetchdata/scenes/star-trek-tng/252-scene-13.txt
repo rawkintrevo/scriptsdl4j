@@ -1,99 +1,52 @@
-RIKER LAFORGE WORF PICARD HUGH COMPUTER CRUSHER DATA
+PICARD RIKER CRUSHER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Planet surface]
+
+(near the shuttlecraft El-Baz, in a very gold-brown
+tint) 
+RIKER: Riker to Enterprise. We're on the surface. There's no sign of
+any Borg, or Data. The shuttle appears to be abandoned. 
+WORF: The EM interference is limiting the tricorder range. It is
+useless beyond one hundred metres. 
+RIKER: There are
 
 [Bridge]
 
-RIKER: Red alert! All hands to battle stations. Lay
-in a course. Engage warp nine. 
-(Picard enters) 
-RIKER: We received a distress call from the New Berlin Colony. They're
-under attack. 
-PICARD: What's our ETA? 
-WORF: At warp nine, fifteen minutes, thirty seconds. 
-PICARD: Contact the Crazy Horse and the Agamemnon. Have them standing
-by in case we need them. 
-WORF: Captain, incoming message from the New Berlin Colony. They have
-cancelled their distress call. Evidently a Ferengi trading ship entered
-their system and someone panicked. 
-RIKER: Third time today. Stand down Red alert. Reduce speed. Return to
-our patrol route. 
-PICARD: Mister Worf, acknowledge the signal from New Berlin and
-transmit another copy of Starfleet's ship-recognition protocols and
-tell them to read it this time. 
-WORF: Aye, sir.
+RIKER [OC]: No structures in the area. They
+could've gone anywhere. 
+PICARD: Can you determine how long they've been gone from the
+shuttlecraft? 
+[Planet surface]
 
-Captain's log, supplemental. We have been on patrol
-for sixteen hours, and there are no reports of further Borg activity.
-But tensions continue to run high on the colonies and outposts in this
-sector.
+RIKER: The engine's been off a little over three
+hours. 
+[Bridge]
 
-[Ready room]
+PICARD: Stand by, Number One. Assuming that they're
+still together, how far could they have travelled in three hours? 
+LAFORGE: Well, Data can move pretty fast even over rough terrain, but
+based on what we know about the Borg, I don't think they should be able
+to move any faster than you or I. They might have been able to get
+fifteen or twenty kilometres from the shuttle by now. 
+PICARD: Picard to Riker. 
+RIKER [OC]: Riker here. 
+PICARD: I'm going to start sending down other away teams. Set up a
+command post and begin mapping out a search plan. 
+RIKER [OC]: Understood, sir. 
+PICARD: Picard out. I want to use the shuttlecraft for low level
+reconnaissance. Have the designated pilots assemble at main shuttlebay.
 
-(Picard is reviewing a record from 45855.4 - 07 18
-51.4 onwards)
-HUGH [on monitor]: Do I have a name? 
-CRUSHER [OC]: I'm Beverly, he's Geordi, and you, you 
-LAFORGE [OC]: No, wait a minute. That's it. Hugh. 
-HUGH [on monitor]: We are Hugh. 
-(doorbell) 
-PICARD: Come. 
-RIKER: I thought you might like to see this. Geordi's analysis of the
-subspace distortion the Borg used to escape. 
-PICARD: An artificially created energy conduit? That could be anything.
-
-RIKER: We don't have enough information at this point 
-PICARD: I don't want excuses, Number One. I want answers! I'm sorry. He
-was in this room, Will. I could have rid the Federation of a mortal
-threat, and I let him go. 
-RIKER: Sending Hugh back to the Borg was a very risky, a very dangerous
-choice, but it was the moral thing to do. 
-PICARD: It may turn out that the moral thing to do was not the right
-thing to do.
-
-[Holodeck - Outpost]
-
-(Geordi enters as Data throttles a Borg
-dispassionately) 
-DATA: Stop it. Stop. Stop. Stop. Stop. Stop. 
-LAFORGE: Data, am I interrupting something? 
-DATA: Yes, but it is all right. Do you need me? 
-LAFORGE: I wanted to see if you were ready to return to duty. I need
-some help with an analysis of the ship the Borg were using. 
-DATA: I believe I am able to resume my duties. 
-LAFORGE: Data, exactly what is it that are you're doing here? 
-DATA: I am attempting to recreate the experience which caused to my
-initial burst of anger. 
-LAFORGE: Any luck? 
-DATA: None so far. I have almost completed this experiment. May I
-finish before we return to Engineering? 
-LAFORGE: Yeah, sure. 
-DATA: Computer, reset Borg simulation to time index two point one.
-Increase Borg strength by twenty percent. Run
-programme. 
-(the Borg leaps up to throttle Data again. This time it is harder for
-Data to break free) 
-DATA: Stop it. Stop. Stop. Stop. Stop. Computer, reset simulation to
-time index two point one. Increase Borg strength by thirty percent. 
-COMPUTER: Unable to comply. A thirty percent increase would exceed
-safety limits. 
-DATA: Geordi, the computer will require the voice authorisations of two
-senior officers in order to disable the safety routine. Will you help
-me? 
-LAFORGE: Data, wait a minute. That thing could kill you. 
-DATA: During the original incident the Borg presented a genuine danger
-to my life. Since the Holodeck safety routine is in place, I know my
-life is not in danger. Since I am trying to duplicate the conditions of
-the original incident as closely as possible, I must also attempt to
-duplicate the jeopardy as well. 
-LAFORGE: Data, we're talking about an experiment here. You can't put
-your life on the line just to prove some theory. 
-DATA: This experiment may hold the key to something I have sought all
-my life. 
-LAFORGE: It's crazy. There's got to be another way. Can't you think of
-something other way to make yourself angry. 
-DATA: I have tried other stimuli, but they have been unsuccessful. I
-understand your objections, but it is my life and I have a right to
-risk it if I choose. 
-LAFORGE: Yeah, and I'm your friend and I'm not going to just stand
-around and let you do this. 
-RIKER [OC]: Red alert. All hands, battle stations.
+LAFORGE: Aye, sir. 
+PICARD: And all available personnel, including you and me, will begin
+to put together four man away teams. We'll leave a skeleton crew on
+board the ship. 
+LAFORGE: Who'll be in command of the Enterprise? 
+(later) 
+CRUSHER: Any last orders? 
+PICARD: If the Borg should attack, don't wait for me or anyone else to
+return to the ship but take the Enterprise to the transwarp conduit.
+Return to Federation space. 
+CRUSHER: Got it. Good luck, Jean-Luc. 
+PICARD: Good luck, Captain.
 

@@ -1,74 +1,50 @@
-RIKER VENDOR LAFORGE BELL TASHA PICARD MCNARY TROI WHALEN DATA JARADAN
+RIKER LAFORGE GUEST10 PICARD GUEST7 WESLEY GUEST2 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Street]
+[Police station]
 
-(It has been raining, the tarmac glistens and cars
-sound their horns) 
-VENDOR: Extra! Extra! Read all about it. 
-(The group cross the street to the news stand) 
-VENDOR: Hey Dix. How's tricks? 
-PICARD: Oh, she's fine, fine. 
-WHALEN: He actually thinks you're Dixon Hill. 
-PICARD: Say Mac, I would like to buy a newspaper too, but I don't have
-any money. 
-VENDOR: You catch me next time, Dix. 
-PICARD: Thank you. (reads) Hitler on the move. Roosevelt presses
-Congress for British aid. DiMaggio streak reaches thirty seven? 
-DATA: DiMaggio, sir. Jolting Joe, the Yankee clipper. 
-WHALEN: Baseball, sir. It was a national obsession at the time. 
-DATA: The streak they refer to will eventually reach fifty six games.
-And be snapped by a pair of journeyman hurlers for the Cleveland
-Indians. 
-VENDOR: Cleveland? Ha! They got no pitchers! They ain't never got no
-pitchers. What are you, nuts or something? 
-DATA: The record will stand until the year 2026, when a shortstop for
-the London Kings 
-VENDOR: Hey Dix, what gives with this guy? He's not from around here,
-is he. 
-PICARD: No he's not. He's er, he's from South America. 
-VENDOR: Yeah. He's got a nice tan. 
-(Picard reads the inside headline - Wealthy Socialite Murdered. Police
-have several leads in brutal slaying of Mrs. Arthur Clinton Bradley) 
-PICARD: I should have listened to her. She told me someone was trying
-to kill her. 
-WHALEN: Captain, she's a page from a book. That's all she ever was. 
-BELL: Well, well, look what the cat dragged in. 
-DATA: Cat? 
-BELL: Where the hell did he come from? 
-VENDOR: South America. Can't you tell? 
-BELL: Wherever you're from, while you're in my town, keep your nose
-clean. Well, tough guy, this time you've really done it. Your goose is
-cooked but good. 
-MCNARY: I'm sorry about this, Dix. 
-BELL: Don't apologise to him. Where were you last night between ten and
-midnight? 
-PICARD: That would be a bit hard to explain. 
-BELL: Yeah? Well you'll have plenty of time to come up with something.
-You're going downtown. 
-PICARD: What for? 
-BELL: For the murder of Jessica Bradley. We found this in her purse.
-(the business card)
+(Crusher is continuing to try and imitate the other
+women, this time by powdering her nose. The Desk Sergeant is enjoying
+the view) 
+CRUSHER: Something on your mind? 
+GUEST2: Yeah, nut I'm not sure it can be repeated in mixed company.
+(he offers her gum) You're a pretty hep lookin' broad. 
+CRUSHER: Is that good? 
+GUEST2: It ain't bad. You like Tommy Dorsey? (she nods) I got two
+tickets for the dance tomorrow night. 
+(Crusher swallows the gum) 
+[Outside Holodeck]
 
-[Bridge]
+RIKER: Have you tried the intercom? 
+LAFORGE: Yes. 
+RIKER: Riker to holodeck. Riker to holodeck! 
+(Wesley takes a piece of equipment and uses it to 'look' at the
+holodeck controls) 
+RIKER: Are you seeing anything? 
+WESLEY: No, sir. 
+RIKER: What can I do? 
+LAFORGE: Not a thing. We have to go through this millimetre by
+millimetre. 
+RIKER: All right. Get it fixed. 
+LAFORGE: Easy, Wes. Slow it down. If there's an anomaly, you could go
+right past it, okay? 
+[Interrogation room]
 
-RIKER: Status report. 
-TASHA: We're being probed, sir. 
-TROI: The Jarada. 
-TASHA: Most likely, but it's long range. Can't be certain where it's
-originating.
-(The ship shakes as a beam passes through it, including the holodeck,
-whose controls flicker and door briefly opens and closes a few times) 
-RIKER: One could get the feeling they don't exactly trust us. 
-LAFORGE: Commander, I'm receiving a subspace message from the Jarada. 
-RIKER: That's not part of the plan. Pipe it through. 
-JARADAN [OC]: En-ter-prise. We speak to you in your language. The time
-has come to honour us in ours. 
-RIKER: This is Commander Riker, First Officer of the Enterprise. 
-JARADAN [OC]: You are not captain? 
-RIKER: No sir, I'm not. I suggest we commence with screen to screen
-communication so we can see each other 
-JARADAN [OC]: You offend us! We will not show ourselves to a mere
-subordinate. We await your Captain's greeting with growing unrest. End
-of communication. 
-RIKER: Terrific. Find the Captain. He's in the Holodeck. 
-LAFORGE: Aye, sir. 
+GUEST7: Okay, Dix, we're cutting you loose. 
+PICARD: That's welcome news. 
+GUEST10: You better not try to leave town. 
+PICARD: If I leave town, the town leaves with me. I get the feeling
+your friend doesn't like me. 
+GUEST7: We know you're dealing with Redblock, Dixon. Take it from a
+friend, it doesn't help your case. 
+PICARD: Redblock? I'll keep it in mind. Thank you for helping me. 
+(Takes a cigarette, inhales and coughs) 
+GUEST7: Forget it. Hey, Dix, when are you coming over for supper? The
+kids'd love to see you, and you know how much you love Sharon's
+cooking. 
+PICARD: Soon, my friend. For the moment, I have other duties. 
+GUEST7: Blonde or brunette? 
+PICARD: She's a lady, all right, and her name is Enterprise. 
+GUEST7: Sounds like a working girl to me. I'll stop by the office with
+a bottle of scotch. You can tell me all about her.
+

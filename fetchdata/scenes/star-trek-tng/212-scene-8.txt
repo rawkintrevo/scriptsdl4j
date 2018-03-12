@@ -1,79 +1,32 @@
-TROI JEV PICARD RIKER MARTIN CRUSHER
+PICARD CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Troi's quarters]
+[Observation lounge]
 
-(Troi is brushing her hair when she gets an image
-of falling coins, then - ) 
-RIKER [OC]: Have you stopped thinking about us? 
-TROI: Hot chocolate. 
-(she sees herself lying down on the floor, with Will. She sits on the
-corner of her bed to sip her chocolate, and she's back at the end of a
-poker game, packing up the chips then dropping them) 
-TROI: Imzadi, we can't. Not when we're serving on the same ship. 
-RIKER: Have you stopped thinking about us? Just answer that. I can't
-stop thinking about you. 
-TROI: Will, don't. 
-TROI [OC]: Imzadi, we can't. Not when we're serving on the same ship. 
-RIKER: Have you stopped thinking about us? 
-TROI: We mustn't do this. Will, don't. Will, no! 
-(Then suddenly it isn't Riker lying on top of her any more) 
-JEV: Imzadi. Have you stopped thinking about us? Just answer that. 
-TROI: No! No! No! Don't! 
-JEV: I can't stop thinking about you. Imzadi. Have you stopped thinking
-about us? 
-TROI: No! 
-(and the nightmare leaves Troi lying unconscious on the floor) 
-
-Captain's log, stardate 45430.9. Counsellor Troi
-has fallen into a deep coma. After a thorough examination, Doctor
-Crusher has been unable to find signs of illness or infection.
-
-[Sickbay]
-
-CRUSHER: Any change, Doctor Martin? 
-MARTIN: No. I'm still getting unusual neurotransmitter readings in the
-diencephalon, but they might be a result of the coma. 
-PICARD: Can you bring her out of it? 
-CRUSHER: I've tried standard revival techniques. She doesn't respond.
-Until I find out what's caused this, I don't want to try anything more
-extreme. 
-RIKER: Do we know what she was doing when this happened? 
-CRUSHER: No. She was found in her quarters this morning when she didn't
-show up for an appointment. She was dressed for bed but the bed hadn't
-been slept in. 
-PICARD: Who was the last person to speak with her? 
-RIKER: She left the dinner last night with one of the Ullians. I'll
-talk to him. 
-PICARD: Ask if they would consent to an examination, just to be
-certain. 
-CRUSHER: I'll check the biofilter readings from the Ullian transporter
-log. It's possible they could still be carrying a harmful organism. 
-[Ten Forward]
-
-RIKER: May I join you? 
-JEV: Commander. Of course. Something's wrong? 
-RIKER: Counsellor Troi's ill. 
-JEV: I'm sorry to hear it 
-RIKER: She's more than ill, she's in a coma. Doctor Crusher doesn't
-know what's causing it or how to treat her. 
-JEV: When did this happen? 
-RIKER: Apparently some time last night. That's why I wanted to talk to
-you. You may have been the last person to see her. Did you go with her
-into her quarters? 
-JEV: Are you suggesting that I behaved improperly, Commander? 
-RIKER: Not at all. I'm just trying to trace her steps. 
-JEV: We talked in a turbolift, briefly. She got out at deck eight. I
-did not go with her. 
-RIKER: Jev, I'm not accusing you of anything. Did she mention feeling
-ill? 
-JEV: She seemed fine. She has a wonderful sense of humour. 
-RIKER: If you have no objections, Doctor Crusher would like to examine
-you and your group. 
-JEV: To what end? 
-RIKER: She's just trying to eliminate the possibility that one of you
-might be carrying an organism that was harmful to Deanna.
-I'm not implying that you did anything intentional. I'm just trying to
-get to the bottom of the mystery. 
-JEV: We have nothing to hide. If you wish to spend time examining us. 
-RIKER: Fine. Thank you.
+CRUSHER: I compared Deanna's brain scan to one that
+I took during her last physical. There is a difference. This time
+there's a trace of electropathic activity. 
+PICARD: And Commander Riker? 
+CRUSHER: I found the same pattern. If I didn't know better, I'd say
+they both had Iresine syndrome. That's the only medical condition that
+would produce that pattern. 
+WORF: What is Iresine syndrome? 
+CRUSHER: A very rare neurological disorder first diagnosed in the
+twenty third century. It's characterised by an identical electropathic
+residue. 
+PICARD: Why discount the possibility that it's responsible for these
+comas? 
+CRUSHER: Iresine is always accompanied by a severely decreased
+histamine count. Both Will and Deanna showed normal levels.
+I've asked Commander La Forge to conduct a shipwide diagnostic to
+determine any other agent that might cause the same electropathic
+pattern. 
+WORF: Commander Riker and Counsellor Troi were in perfect health until
+the Ullians arrived. It would be wise to quarantine the aliens. 
+PICARD: I believe that it would be premature to take that action,
+Mister Worf. There's no real evidence linking these comas with the
+Ullians. 
+CRUSHER: That's true, but there is something curious. The electropathic
+residue I discovered is located in the thalamus. That's the area of the
+cerebral cortex that involves memory function.
 

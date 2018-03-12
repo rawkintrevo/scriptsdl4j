@@ -1,54 +1,42 @@
-RIKER PICARD MEDIC KRITE SOREN CRUSHER
+TROI SOREN RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Woods]
 
-SOREN: Heading confirmed. Energy readings are
-normal, with power reserves stabilised at one hundred percent. 
-RIKER: Acknowledged. 
-SOREN: It's dead ahead, approximately fifty kilometres. 
-RIKER: Riker to Enterprise, we're taking her in. 
-(and the little craft disappears) 
-RIKER: Riker to Enterprise? Riker to Enterprise. 
-SOREN: Power reserves are down to eighty four percent. 
-RIKER: Look. (the other shuttle) Try hailing them. 
-SOREN: Calling the Taris Murn. Do you read me? 
-RIKER: Getting sensor readings. They're unconscious but they're alive.
-Stand by. I'm going to transport them over here. 
-SOREN: Power reserves at sixty eight percent and dropping. 
-(two figures start to materialise then vanish again) 
-RIKER: The null space must be affecting the annular confinement beam. 
-SOREN: We used ten megajoules with that attempt. We're down to thirty
-four percent of reserves. 
-RIKER: We can give it one more try. More than that, we won't have
-enough power to get ourselves out of here. 
-(this time the two bodies solidify) 
-SOREN: They need medical attention quickly. 
-RIKER: Okay. Stand by to transport to the Enterprise. Here we go. 
-(but that doesn't work) 
-RIKER: Energy consumption? 
-SOREN: We're down to nine percent. We don't have enough to get back. 
-RIKER: If we just sit here, we'll lose all of our systems within an
-hour, including life support. Okay, I'm rerouting the propulsion
-system to the transporter. Re-channel the navigation systems. Let's
-transfer every microjoule of energy we've got. Sensors, life support.
-This might give us one last shot. 
-SOREN: But if we use an energy shift of that size, it'll overload the
-phase compensators. The shuttle 
-RIKER: Will explode. But if we stay here, we're dead anyway. Maximum
-energy levels, five seconds. See you in a minute. 
-(KaBOOM)
+SOREN: One of my favourites is this menellen tree.
+The leaves first turn pure white, and then blue, when the weather gets
+cold. This is called a falla bush. It produces a fragrant flower on
+only one day of the year. 
+(and finally they get down to the real purpose of the walk, with Riker
+trying to eat her tonsils)
 
-[Sickbay]
+Captain's log, stardate 45620.4. In the hope that a
+detailed map of null space will prevent the loss of other ships, we
+remain in orbit of J'naii, charting the anomaly.
 
-(and the four materialise safely) 
-CRUSHER: They've been oxygen deprived. There doesn't seem to be any
-significant damage. Prepare some dexalin. 
-MEDIC: Yes, Doctor. 
-KRITE: Commander, thank you. 
-RIKER: Your colleague Soren was very helpful. 
-KRITE: Captain, would you all join us this evening? We would like to
-express our gratitude. 
-PICARD: We'd be happy to. 
-KRITE: Noor will be eager to get a first hand report. We should return
-to the surface. 
-SOREN: I will see you later tonight, Commander. 
+[Troi's quarters]
+
+(Troi is taking a woollen doll from a suitcase when
+the doorbell rings) 
+TROI: Come in. Hello, Will. 
+RIKER: What's all this? 
+TROI: Wonderful things. My mother sent me a box that belonged to one of
+my father's ancestors. It was stored on Earth and just recently turned
+up. 
+RIKER: Do you know who any of these people are? 
+TROI: No. Some of the pictures have names on, but most of them don't. I
+look at these faces and I wonder who they are and if they could be
+related to me. 
+RIKER: This one looks like you. (a cuddly toy) Deanna, I have something
+on my mind. I had to see you. 
+TROI: Has something happened? 
+RIKER: I've met someone. Someone who's becoming important to me. 
+TROI: Soren. 
+RIKER: Yes. You're my friend. I thought, I don't know, I thought I
+should tell you. 
+TROI: I'm glad you did. 
+RIKER: Nothing will change between us, will it? 
+TROI: Of course it will. All relationships are constantly changing. But
+we'll still be friends, maybe better friends. You're a part of my life,
+and I'm a part of yours. That much will always be true. 
+(and they kiss, too) 

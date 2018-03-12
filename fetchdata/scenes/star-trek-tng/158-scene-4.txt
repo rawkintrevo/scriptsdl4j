@@ -1,65 +1,49 @@
-PICARD SETAL DATA RIKER WORF
+RIKER LAFORGE WORF PICARD GUEST3 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation lounge]
 
-RIKER: Unidentified craft in the Neutral Zone. 
-[English camp at Agincourt]
+GUEST3: The humiliating defeat at the Battle of
+Cheron has not been forgotten. The new leaders have vowed to discard
+the treaty and claim the Neutral Zone. Nelvana Three is just the first
+step. 
+RIKER: You're saying an entire base has already been established there?
 
-RIKER [OC]: It's heading toward Federation space. 
-PICARD: On our way. Picard out. We'll get to the rest of the act
-another time, Data. Computer, file
-programme and clear. 
-DATA: Captain, why should a king wish to pass as a commoner? If he is
-the leader, should he not be leading? 
-[Corridor]
+GUEST3: In forty-eight hours, the reactor core will be online. 
+RIKER: So the Federation sensors that monitor the Neutral Zone just
+missed it? 
+GUEST3: It would seem so. In two days, a fleet of Romulan warbirds will
+be within striking distance of fifteen Federation sectors. 
+WORF: The Federation will not permit that. 
+GUEST3: Then it is war that we're talking about, isn't it? Destroy the
+base now and the threat is over. 
+PICARD: Well, I'm sure you are fatigued by your ordeal and you require
+medical attention. Lieutenant Worf, will you accompany Sublieutenant
+Setal to the Sickbay. We will attend to your quarters. 
+GUEST3: No doubt you will wish to question me further. 
+PICARD: No doubt. 
+(Worf, Setal and guard leave) 
+RIKER: He tells a hell of a story. 
+PICARD: You don't believe it? 
+RIKER: The Empire knows that we'd never allow them to maintain a base
+within the Neutral Zone. 
+DATA: Commander, that would not be an atypical Romulan ploy. In their
+long history of war, the Romulans have rarely attacked first. They
+prefer to test their enemy's resolve. 
+RIKER: I think he's a plant to draw us into the Neutral Zone. Then
+we'll look like the aggressors. 
+PICARD: And the Romulans would have a legitimate excuse for responding
+in force. 
+RIKER: Exactly. 
+DATA: That would also not be an atypical Romulan ploy, sir. 
+PICARD: It's always a chess game with them, isn't it? 
+LAFORGE: Well, at least he's given us the chance to get a look at some
+Romulan technology close up. 
+PICARD: Mister La Forge, you will lead the away team over to the scout.
+Commander, you and Counsellor Troi will conduct Setal's interrogation. 
+DATA: Captain, permission to observe the interrogation? 
+PICARD: No, Mister Data. I need you on the Bridge with me. There is
+much to be done. We have less than forty eight hours to prevent a war.
+Or perhaps to start one. This will depend on establishing the truth of 
+(And the scout ship goes Ka-boom!)
 
-PICARD: Listen to what Shakespeare is telling you
-about the man, Data. A king who had a true feeling for his soldiers
-would wish to share their fears with them on the eve of battle. 
-DATA: Sir, will I be able to schedule a performance for the crew in the
-near future? 
-PICARD: Let's not rush it, shall we?
-
-[Bridge]
-
-RIKER: Outpost Sierra Six confirms our readings,
-sir. They identify it as a Romulan scout ship. Bearing two seven zero
-mark one four. 
-PICARD: A scout ship? What would a scout ship be doing this far into
-the Neutral Zone? 
-WORF: Captain. Shall we transmit a warning to withdraw, sir? 
-PICARD: Open a hailing frequency. 
-WORF: Aye, sir. Captain, the Romulan is hailing us. 
-PICARD; Visual. 
-WORF: Not within range yet. 
-PICARD: Open a channel. 
-SETAL [OC]: Federation ship, do you read? I require urgent assistance. 
-PICARD: This is Captain Jean-Luc Picard of the USS 
-SETAL [OC]: Federation ship. Please, help me. Requesting asylum. Under
-pursuit. 
-RIKER: Pursuit? 
-WORF: Visual range. On screen, Captain. 
-(A big mean warbird decloaks behind the little green ship, and opens
-fire) 
-PICARD: Red Alert. Open a channel to the warship. 
-RIKER: Come to intercept course. Keep us out of the Neutral Zone. 
-WORF: Channel is open. 
-RIKER: how long before they cross over into Federation territory? 
-DATA: Forty-one seconds, sir. 
-PICARD: Romulan warbird, this is Captain Jean-Luc Picard of the
-Federation vessel Enterprise. You have crossed into the Neutral Zone
-and are engaged in hostile action. Explain yourself and your intent. 
-WORF: No reply, sir. 
-PICARD: Hail the scout. 
-WORF: Responding. 
-PICARD: On screen. 
-SETAL [on viewscreen]: Federation craft. Please, you must help me! 
-PICARD: We are moving to intercept. Maintain your course and power. 
-(The picture breaks up. The little ship has been hit) 
-DATA: Scout ship is severely damaged, Captain. Engines inoperative,
-shields are down. 
-RIKER: Position? 
-DATA: Coordinates one four zero by two zero five, sir. 
-RIKER: Federation space. 
-PICARD: Right. Move to within five kilometres. Mister La Forge, prepare
-to extend 

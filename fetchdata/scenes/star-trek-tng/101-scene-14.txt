@@ -1,61 +1,71 @@
-TASHA PICARD RIKER Q DATA
+WESLEY RIKER COMPUTER ENSIGN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Corridor]
 
-TASHA: Battle bridge. That's for the Captain to
-explain, sir.
+RIKER: Ensign, can you help me find Commander Data?
+I understand he's somewhere on this deck. 
+ENSIGN: This way, sir. You must be new to these Galaxy class starships,
+sir. (to wall) Tell me the location of Commander Data. 
+COMPUTER: Lieutenant Commander Data now located in Holodeck area 4J. 
+ENSIGN: And as you see, sir, it's pointing you that way. 
+RIKER: Thank you 
+ENSIGN: You're welcome, sir. 
+(She appreciates the sight as he walks away) 
+COMPUTER: The next hatchway on your right. 
+RIKER: Thank you. 
+COMPUTER: You're welcome, Commander Riker. And if you care to enter,
+Commander? 
+RIKER: I do. 
+(The holodeck doors open to show trees and vegetation. There is
+birdsong)
 
-[Battle bridge]
+[Forest]
 
-PICARD: Do we have clearance? 
-DATA: Aye, sir, into the standard parking orbit. 
-PICARD: Make it so. 
-TASHA: Commander Riker, sir. 
-RIKER: Riker, WT, reporting as ordered, sir. 
-PICARD: Is the viewer ready? 
-TASHA: All set up, sir. 
-PICARD: We'll first bring you up to date on a little adventure we had
-on our way here, Commander. Then we'll talk. Welcome aboard. 
-TASHA: (to Riker) This way, sir. 
-(She sits him down in front of a screen and runs a tape of the Q
-encounter on the Bridge) 
-Q [on monitor]: Thou art directed to return to thine own solar system
-immediately. Go back or thou shalt most certainly die. You can't deny
-you're still a dangerous, savage, child race. 
-DATA: Message from the saucer module, sir. It will arrive here in fifty
-one minutes. 
-PICARD: Inform them we'll connect as soon as they arrive. And sent the
-Commander to me when he's finished. 
-TASHA: Yes, sir. 
-(Picard leaves) 
-Q [on monitor]: And four hundred years before that, you were murdering
-each other in quarrels over tribal god images. Since then there are no
-indications that humans will ever change. There are preparations to
-make, and when we next meet, Captain, we'll proceed exactly as you
-suggest. 
-RIKER: He calls that a little adventure? 
-[Battle ready room]
-
-PICARD: Come. 
-RIKER: Not exactly a run of the mill happening, Captain. 
-PICARD: It seems we're alive only because we have been placed on
-probation. A very serious kind of probation. (answers
-comm.) Go. 
-DATA [OC]: The saucer module is now entering orbit with us, sir. 
-PICARD: Acknowledged. Commander Riker will conduct a manual docking.
-Picard out. 
-RIKER: Sir? 
-PICARD: You've reported in, haven't you? You are qualified? 
-RIKER: Yes, sir. 
-PICARD: Then I mean now, Commander. 
-[Battle bridge]
-
-DATA: They say you will be doing this manually,
-sir. No automation. 
-RIKER: As ordered. 
-(They approach the saucer from astern, of course) 
-RIKER: Velocity to one half metre per second. Adjust pitch angle,
-negative three degrees. Watch your roll angle, conn. All stations,
-prepare for reconnection. Thrusters to station keeping. All velocity
-zero. Her inertia should do the job now. Lock up now. 
-(The clamps rise and the two parts of the ship meet again) 
+RIKER: Hello? 
+(He crosses a stream by stepping stones. One wobbles. Someone is trying
+to whistle 'Pop goes the Weasel'. Riker finishes the tune) 
+DATA: Marvellous. How easily humans do that. I still need much
+practice. 
+RIKER: There are some puzzles down on the planet that the Captain wants
+answered. He suggests that I take you with me on the away team that
+I'll be leading. 
+DATA: I shall endeavour to function adequately, sir. 
+RIKER: Yes. When the captain suggested you, I looked up your record. 
+DATA: Yes, sir. A wise procedure, sir, always. 
+RIKER: Then your rank of Lieutenant Commander is honorary? 
+DATA: No, sir. Starfleet class of '78. Honours in probability mechanics
+and exobiology. 
+RIKER: Your file says that you're an 
+DATA: Machine, Correct, sir. Does that trouble you? 
+RIKER: To be honest, yes, a little. 
+DATA: Understood, sir. Prejudice is very human. 
+RIKER: Now that does trouble me. Do you consider yourself superior to
+us? 
+DATA: I am superior, sir, in many ways, but I would gladly give it up
+to be human. 
+RIKER: Nice to meet you, Pinocchio. A joke. 
+DATA: Ah. Intriguing. 
+RIKER: You're going to be an interesting companion, Mister Data. 
+DATA: This woodland pattern is quite popular, sir. Perhaps because it
+duplicates Earth so well. Coming here almost makes me feel human
+myself. 
+RIKER: I didn't believe these simulations could be this real. 
+DATA: Much of it is real, sir. If the transporters can convert our
+bodies to an energy beam, then back to the original pattern again 
+RIKER: Yes, of course. And these rocks and vegetation have much simpler
+patterns. 
+DATA: Correct, sir. The rear wall. 
+RIKER: I can't see it. 
+DATA: We're right next to it. 
+(He throws a rock at it, and the image pixilates on impact) 
+RIKER: Incredible! 
+WESLEY [OC]: Commander Riker! 
+WESLEY: (at the stream) Commander Riker, isn't this great? This is one
+of the simpler patterns. They've got thousands more. Some you just
+can't believe. 
+RIKER: Careful, the next rock is loose! 
+(Wesley falls in the water) 
+RIKER: Wesley! 
+(Data rushes down and hauls the boy out with one hand) 
+WESLEY: Wow! 

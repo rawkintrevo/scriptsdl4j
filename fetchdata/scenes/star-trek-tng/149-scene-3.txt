@@ -1,26 +1,27 @@
-PICARD RIKER HARITATH DATA KENTOR
+PICARD RIKER GUEST0 DATA GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Planet surface]
 
 (The shuttlecraft has landed on a convenient piece
 of flat ground surrounded by vertical
 cliffs. Two locals approach) 
-HARITATH: I think it's some sort of shuttlecraft. 
-KENTOR: Where's it from? 
-HARITATH: Look at the markings. It must be from the Federation. 
+GUEST0: I think it's some sort of shuttlecraft. 
+GUEST4: Where's it from? 
+GUEST0: Look at the markings. It must be from the Federation. 
 DATA: Greetings, gentlemen. 
-HARITATH: We saw your ship You're the first visitor we've had in 
-KENTOR: The first visitor we've ever had. 
-HARITATH: You're not human. 
+GUEST0: We saw your ship You're the first visitor we've had in 
+GUEST4: The first visitor we've ever had. 
+GUEST0: You're not human. 
 DATA: That is correct. I am an android. I am Lieutenant Commander Data
 of the Federation Starship Enterprise. 
-HARITATH: Our great-grandparents were citizens of the Federation. But
+GUEST0: Our great-grandparents were citizens of the Federation. But
 you don't want to waste time talking to us. 
-KENTOR: You want to speak to Gosheven. We'll take you to him. 
-HARITATH: I'm sure the Federation will be very proud of us. Wait until
+GUEST4: You want to speak to Gosheven. We'll take you to him. 
+GUEST0: I'm sure the Federation will be very proud of us. Wait until
 you see all we've accomplished. 
 DATA: And who, precisely, is us? 
-HARITATH: Don't you know? Oh, no, I don't guess you would. We're
+GUEST0: Don't you know? Oh, no, I don't guess you would. We're
 descendants of the original settlers, from the colony ship Artemis.
 
 [Bridge]

@@ -1,117 +1,34 @@
-KURN TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+PICARD COMPUTER GUEST1 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Captain's Mess]
+[Bridge]
 
-(Picard is carving a roast turkey for the buffet) 
-KURN: How long has the bird been dead? It appears to have been lying in
-the sun for quite some time. 
-LAFORGE: It's not dead, it's been replicated. You do understand that we
-cook most of our foods. 
-KURN: Ah, yes. I was told to prepare for that. I shall try some of your
-burned replicated bird meat. 
-(He rips off a leg and plonks it on his plate) 
-PICARD: I have attempted to select a menu that will allow you to sample
-a variety of dishes, Commander. 
-CRUSHER: Try some caviar. 
-KURN: The odour is not palatable. What is it? 
-DATA: The unhatched eggs of a large scaleless 
-PICARD: Later, Data. A fish, Commander. A delicacy from the Caspian Sea
-on Earth It's a favourite of mine. Our replicator's never done it
-justice, but I managed to store a few cases for special occasions. 
-KURN: I am honoured, Captain. 
-(They all sit round the table) 
-TROI: Are you adjusting to your new environment, Commander? 
-(Kurn starts eating. No one else is) 
-KURN: I find the constraints a bit difficult to conform to. Just a
-short while ago, I had to stop myself from killing Commander Riker. I
-believe he was trying to communicate the crew's sense of discomfort
-with my style of command. Under different circumstances, I would
-consider that a challenge to my authority. 
-PICARD: One of the aims of the exchange programme, Commander, is for
-all of us to learn tolerance. As for my crew, it may be healthy to
-shake up the status quo occasionally. 
-RIKER: The Commander certainly appears to have the crew on its toes 
-LAFORGE: And then some. No offence, sir. 
-KURN: None taken. I never kill anyone at the supper table, Mister La
-Forge. 
-CRUSHER: Don't you like it, Commander? 
-KURN: Our food has much more taste to it. While I'm sure this is well
-prepared, it is far too bland for the stomach of a Klingon. 
-LAFORGE: It seems to agree with Worf. 
-KURN: Yes.
+PICARD: Mister Data, find out everything you can
+about the destruction of the Khitomer outpost. Cross reference with
+Romulan tactics and strategic information on the region, and request
+access to the Klingon central information net. Computer, presentation
+overview of Klingon custom and law pertaining to familial
+accountability. 
+COMPUTER: Accessing. 
+PICARD: In my ready room. 
+[Great Hall]
 
-[Kurn's quarters]
+(in a side colonnade) 
+K'MPEC: Worf. I would speak with you. Alone. 
+(Kurn leaves them and is handed a message by a woman. He leaves) 
+K'MPEC: You should not have brought the challenge. There was no risk to
+you. What does it matter? 
+WORF: I am Klingon. 
+K'MPEC: Of that I have no question. But your life in the Federation
+would not be affected by this judgement. 
+WORF: My father 
+K'MPEC: Is dead. He died long ago. I knew your father, served with him.
+This is not how I wanted to remember him. We must let the past be and
+protect what we have now. If you leave before the Mek'ba, no shame will
+come on you. Return to your ship. Go back to your life. The challenge
+will be forgotten. 
+WORF: Why would you ask me to lay aside the honour of my father, my
+family? Are these the words of the council? 
+K'MPEC: I will not be questioned by you! Leave, now, or you too will be
+condemned as a traitor.
 
-KURN: Enter. 
-(Worf is at the door) 
-KURN: 'el. 
-WORF: Permission to speak freely, sir? 
-KURN: For what purpose? 
-WORF: I have questions I wish to pose. 
-KURN: Are your quarters so comfortable? 
-WORF: They serve me. 
-KURN: This entire ship seems built on comfort, relaxation, being at
-ease. It is not the ship of a warrior, not the ship of a Klingon. You
-cannot ask these questions within the boundaries of protocol? 
-WORF: They are of a personal nature, sir. 
-KURN: Permission granted. Pose your questions. 
-WORF: I wish to know if I have given you offence. 
-KURN: I am not human. If you had given offence, you would not need to
-ask. 
-WORF: Perhaps I have not performed my duties to your satisfaction? 
-KURN: I find you to be a capable Starfleet officer. A credit to your
-ship. 
-WORF: Yet you dishonour me at every opportunity. 
-KURN: Have I? I did not know that being polite to a Starfleet officer
-would bring dishonour on him. 
-WORF: I am a Klingon. 
-KURN: Really? Perhaps your blood has thinned in this environment. I
-simply don't want to hurt you. 
-(Worf throws a chair across the room in rage) 
-KURN: mev yap! So your blood is not so thin after all. 
-WORF: I am a Klingon! if you doubt it, a demonstration can be arranged.
-
-KURN: That is the response of a Klingon. The response I would expect
-from my older brother. 
-(collective gasps and a quick advert break) 
-KURN: I was barely a year old when you left for the Khitomer Outpost.
-You, our mother and father were not going to stay long. It was decided
-that I did not need to go. I was left to stay with our father's friend,
-Lorgh, until you returned. You never did. 
-WORF: The Starfleet officer that rescued me was told by the Klingon
-High Command that I had no living relatives. 
-KURN: They assumed that I was killed with the family at Khitomer. Lorgh
-had no sons. He took me into his family. It was not until I had reached
-the Age of Ascension that I was told the truth. 
-WORF: So you asked to serve aboard the Enterprise to watch me. 
-KURN: It was an excellent opportunity to see what kind of Klingon you
-were, or if you were Klingon at all. 
-WORF: Your deception offends me, brother. 
-KURN: It should. But it was required. 
-WORF: To satisfy your curiosity. 
-KURN: No. Much more. You are the eldest son. The challenge is yours to
-make. 
-WORF: Challenge? 
-KURN: The Klingon High Council has judged our father a traitor to the
-Empire.
-
-[Ready room]
-
-PICARD: What are the allegations, Worf? 
-WORF: My father is accused of aiding and abetting the Romulan attack on
-the Khitomer outpost. 
-PICARD: The attack in which he himself was killed? But why now, after
-twenty years? 
-WORF: I do not know, Captain. I will hear the evidence when I arrive.
-The charge has been made by Duras, the son of my father's greatest
-rival. Our family name will be disgraced for seven generations. It is
-my responsibility to clear his name or answer for his crimes. 
-PICARD: Answer for them? 
-WORF: The family of a Klingon warrior is responsible for his actions
-and he is responsible for theirs. If I fail in my challenge, I will be
-executed. Will you grant my leave, Captain? 
-PICARD: No. If I understand correctly, a Starfleet officer, a respected
-member of my crew, could be accused of a capital crime. Your actions in
-this matter will reflect on this ship and on the Federation. Therefore,
-it seems only appropriate that your captain should be at your side
-while you make your challenge. I'm sure you would do no less for me. 

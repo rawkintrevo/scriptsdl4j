@@ -1,70 +1,26 @@
-PICARD RIKER CRUSHER JEV MARTIN
+PICARD GUEST2 CRUSHER JEV GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Ullian's quarters]
 
-CRUSHER: Any change, Doctor Martin? 
-MARTIN: No. I'm still getting unusual neurotransmitter readings in the
-diencephalon, but they might be a result of the coma. 
-PICARD: Can you bring her out of it? 
-CRUSHER: I've tried standard revival techniques. She doesn't respond.
-Until I find out what's caused this, I don't want to try anything more
-extreme. 
-RIKER: Do we know what she was doing when this happened? 
-CRUSHER: No. She was found in her quarters this morning when she didn't
-show up for an appointment. She was dressed for bed but the bed hadn't
-been slept in. 
-PICARD: Who was the last person to speak with her? 
-RIKER: She left the dinner last night with one of the Ullians. I'll
-talk to him. 
-PICARD: Ask if they would consent to an examination, just to be
-certain. 
-CRUSHER: I'll check the biofilter readings from the Ullian transporter
-log. It's possible they could still be carrying a harmful organism. 
-[Ten Forward]
+GUEST0: I've been accused of putting people to
+sleep with one too many stories, Captain, but this is the first time
+it's ever been suggested that I might be the cause of someone's coma. 
+PICARD: I mean no disrespect, but we are faced with an alarming
+situation 
+GUEST2: Why do you suspect us, Captain? 
+PICARD: Suspect is perhaps too strong a word. I'm simply trying to
+determine what has caused two of my officers to fall into comas. 
+JEV: But you've already examined us. We aren't carrying anything
+harmful. 
+CRUSHER: In further study of the victims, I detected some abnormal
+patterns in the area of the brain that involves memory. 
+PICARD: In light of your telepathic abilities, it raises the question. 
+GUEST2: Captain, it is not our wish to obstruct you. What would you like?
 
-RIKER: May I join you? 
-JEV: Commander. Of course. Something's wrong? 
-RIKER: Counsellor Troi's ill. 
-JEV: I'm sorry to hear it 
-RIKER: She's more than ill, she's in a coma. Doctor Crusher doesn't
-know what's causing it or how to treat her. 
-JEV: When did this happen? 
-RIKER: Apparently some time last night. That's why I wanted to talk to
-you. You may have been the last person to see her. Did you go with her
-into her quarters? 
-JEV: Are you suggesting that I behaved improperly, Commander? 
-RIKER: Not at all. I'm just trying to trace her steps. 
-JEV: We talked in a turbolift, briefly. She got out at deck eight. I
-did not go with her. 
-RIKER: Jev, I'm not accusing you of anything. Did she mention feeling
-ill? 
-JEV: She seemed fine. She has a wonderful sense of humour. 
-RIKER: If you have no objections, Doctor Crusher would like to examine
-you and your group. 
-JEV: To what end? 
-RIKER: She's just trying to eliminate the possibility that one of you
-might be carrying an organism that was harmful to Deanna.
-I'm not implying that you did anything intentional. I'm just trying to
-get to the bottom of the mystery. 
-JEV: We have nothing to hide. If you wish to spend time examining us. 
-RIKER: Fine. Thank you.
-
-[Sickbay]
-
-RIKER: Deanna, I don't know if you can hear me.
-I've heard doctors say that even when someone's in a coma, they may be
-able to hear when people talk to them. That it might help stimulate the
-brain, speed the healing. In fact, I think you did that for me once,
-when I was in pretty bad shape. I just thought it might help to hear a
-friendly voice, even if you don't know you're hearing it. We've been
-busy mapping the sector. It's been pretty routine. The most unusual
-thing we've seen is a binary star system. Let's see, what else? I
-finished the personnel review that we were working on. You can check it
-out when you wake up. I miss you. Please don't stay away too long. 
-CRUSHER: Will? Will, I promise I'll let you know the minute that she
-regains consciousness. 
-RIKER: I know. 
-CRUSHER: There's nothing you can do here. You'll wear yourself out. 
-RIKER: Right.
-CRUSHER: It's late. Go to bed. That's an order.
+CRUSHER: If I could do further examinations tomorrow. Perhaps monitor
+you during a memory probe. 
+GUEST0: Scrutiny does not frighten us. 
+JEV: We will be happy to cooperate, Doctor. 
+CRUSHER: Thank you. I'll contact you in the morning.
 

@@ -1,63 +1,44 @@
-TROI OBRIEN LAFORGE WORF PICARD RIKER CRUSHER
+PICARD TROI DATA RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Ten Forward]
+
+TROI: Five of your people have been injured. 
+PICARD [OC]: How serious is their condition? 
+TROI: You, Klingon, tell him. 
+WORF: Captain, one person has suffered what looks like a level-five
+phaser hit, and four others have secondary burns. They require medical
+attention. And our captors are not affected by phaser stun settings. 
+DATA: Silence, Klingon. 
+[Bridge]
+
+PICARD: Ten Forward, you must release these people
+so that they can receive proper medical attention. 
+[Ten Forward]
+
+TROI: I will release no one.
 
 [Bridge]
 
-LAFORGE [OC]: His chances of getting down there
-safely are no better than fifty-fifty, in my opinion. 
-WORF: Captain, a major storm front is moving in on the away team's
-coordinates. 
-PICARD: You're aware of the risks, Mister O'Brien? 
-O'BRIEN [OC]: Yes sir.
+PICARD: If you will release them, I will take their
+place.
 
-[Transporter room]
+[Ten Forward]
 
-O'BRIEN: I think I can make it. 
-PICARD [OC]: All right then. Good luck. 
-O'BRIEN: Aye, sir.
+DATA: I don't trust him. It may be a deception. 
+TROI: The crew values Picard's life above all others. Captain Picard,
+we agree to your proposal.
 
-[Moon surface]
+[Bridge]
 
-RIKER: Mister O'Brien! Nice of you to join us. 
-O'BRIEN: Nice spot for a picnic, sir. We need to distribute these
-enhancer rods at seven metre lengths. That should do it. 
-RIKER: Is this storm front going to interfere with the transport,
-Chief? 
-O'BRIEN: I'd really like to get us out of here before it hits,
-Commander. I'm supposed to be feeding the baby lunch. Molly gets in a
-terribly foul mood if I'm late. 
-RIKER: I'm with you. 
-(the sky is very angry) 
-RIKER: Lunch time, Miles! Let's do it! 
-(O'Brien goes to turn on the pattern enhancers, and gets hit by
-lightning. They all fall down. Balls of light descend on them, but one
-flies away from Riker, who wakes up. He activates the enhancers and
-they are all beamed away)
-
-[Sickbay]
-
-(Troi wakes with a scream) 
-CRUSHER: Easy, Deanna. 
-TROI: Where? 
-CRUSHER: Back on the Enterprise. You're going to be okay. 
-TROI: My skin, it's tingling. 
-CRUSHER: You're experiencing the afterimages of the electromagnetic
-discharge. The sensation will pass. They're all fine, too. Now, I want
-you to take your time, Counsellor. Doctor's orders. 
-(Picard enters) 
-PICARD: Injury report, Doctor? 
-CRUSHER: Mostly minor abrasions. Commander Riker took the worst of it
-with a broken arm.
-PICARD: Mister Data. Good work, Chief. 
-O'BRIEN: Thank you, sir. 
-RIKER: Ready for duty, sir. 
-PICARD: You're sure, Number One? 
-RIKER: It's not the first bone I've ever broken. 
-PICARD: And how are you, Counsellor? 
-TROI: Very glad to be here. 
-PICARD: Good. Let's go. 
-[Corridor]
-
-PICARD: So what happened down there? 
-RIKER: It was just one hell of a storm. It moved in on our position
-faster than anything I've ever seen. 
-PICARD: Was there any evidence of life? 
+PICARD: Expect a medical team to accompany me. 
+TROI [OC]: Acknowledged. 
+PICARD: Sickbay, this is Picard. Have an emergency medical team meet me
+outside Ten Forward. 
+RIKER: Sir, putting you down there only strengthens their position. 
+PICARD: Number One, so long as they're on board this ship, I'm a
+hostage no matter where I am. We all are. I must find out who we're
+dealing with. If La Forge and Ro can attempt a rescue in short order,
+then let them proceed. If they can't, I will provide you with another
+opportunity. Watch for it. 
+RIKER: Yes, sir. 

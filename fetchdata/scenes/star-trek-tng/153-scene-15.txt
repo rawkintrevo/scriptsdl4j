@@ -1,94 +1,47 @@
-MARLA DAD TROI JEREMY WORF PICARD RIKER WESLEY CRUSHER DATA
+GUEST0 RIKER JEREMY LAFORGE WORF PICARD TROI CREWMAN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jeremy's quarters]
+[Turbolift]
 
-(Jeremy is watching family movies on a personal
-monitor) 
-JEREMY [OC]: Captain Patches, an alien ship on the surface. What's it
-made of, Captain. Oh, no, we've been hit, Captain. We're going down. 
-DAD [OC]: That was great. Now, let's get a shot of mom. 
-MARLA [on monitor]: What are you doing? I'll turn your lens into
-(something) shards. Go away! Go away! Go away! Over there. Over there. 
-(And the camera swings round to young Jeremy holding a kitten) 
-JEREMY [on monitor]: Patches. Captain Patches is coming in for a
-landing on the sofa! 
-(The doorbell chimes) 
-JEREMY [OC]: Oh, no, he's going to crash. 
-WORF: Jeremy Aster? I'm Lieutenant Worf. May I enter? 
-JEREMY: You were in command of the away team. 
-WORF: Yes. I was with Lieutenant Aster, your mother, when she died. 
-JEREMY: You're a Klingon, aren't you. 
-WORF: Yes. 
-JEREMY: We studied about Klingons in school. 
-WORF: What did they teach you about us? 
-JEREMY: You used to be our enemies. 
-WORF: Did they also teach you that every Klingon hopes to die in the
-line of duty as your mother did? In my tradition, we do not grieve the
-loss of the body. We celebrate the releasing of the spirit. 
-JEREMY: I understand death. They teach us all about it. 
-WORF: Jeremy Aster, we may both understand it, but we must bring
-meaning to your mother's death. Perhaps we can do it together.
+TROI [OC]: Captain, she's back. She's trying to
+take Jeremy off the ship again. 
+PICARD: Acknowledged. 
+LAFORGE: Engineering, this is La Forge. Shut down power to all
+transporters. I'm on my way. 
+CREWMAN [OC]: Aye, aye, sir. 
+PICARD: Lieutenant Worf, to transporter room three. 
+[Corridor]
 
-[Ready room]
+PICARD: Bridge, seal off deck eight, corridors A
+and B.
 
-PICARD: Come. Counsellor, how's the boy? 
-TROI: He's being very brave. 
-PICARD: Good. 
-TROI: No, he has to get past brave. He's very angry and he has to learn
-how to express that anger before he can really say goodbye to his
-mother. 
-PICARD: How can we help? 
-TROI: Well, I've asked Beverly if we might get Wesley to talk to Jeremy
-about his father's death. The one unusual element is Worf. 
-PICARD: Oh? 
-TROI: In many ways he's suffering as badly as the boy. He wishes to
-involve Jeremy in a Klingon ceremony called R'uustai, the Bonding 
-PICARD: I know of that. Perhaps it will be helpful to both of them. 
-TROI: I don't think Jeremy's ready to accept Worf right now. Perhaps
-later, but it will have to be handled most delicately. 
-PICARD: As you always do. I break the unpleasant news and there my
-responsibility ends, but you, you have to stay with them through the
-entire grieving process. 
-TROI: We deal with our pain in many different ways, but over the years
-I've discovered it is in our joy that the uniqueness of each individual
-is revealed. If I can help a person back to a state of joy, well, my
-role has its rewards. 
-RIKER [OC]: Captain, we're picking up an energy field on the planet
-surface. 
 [Bridge]
 
-PICARD: Location? 
-RIKER: Two kilometres north of the away team's beam-down point. 
-PICARD: Indeed? Full scan. 
-DATA: Inconclusive, Captain. 
-TROI: Sir, I', sensing a presence on the planet. Very vague. 
-PICARD: Life form? 
-TROI: I can't be sure. The emotions of the crew are particularly strong
-right now. It's difficult to filter them out. 
-PICARD: Data, scan analysis on main viewer. 
-(Something looks as if it is streaming off the planet) 
-[Crusher's office]
+DATA: Engaging force fields, Captain. Transporters
+down.
 
-WESLEY: Hi. 
-CRUSHER: Hi. Troi stopped by a little while ago. She was wondering if
-you might be willing to talk to Jeremy Aster at some point. 
-WESLEY: Me? What for? 
-CRUSHER: About your Dad. 
-WESLEY: What am I going to tell him? 
-CRUSHER: It would help him to talk with someone who's been through
-this. We had each other, Wes. He doesn't have anyone to lean on right
-now. And he might be more comfortable talking to someone who's not much
-older than he is. 
-WESLEY: Okay, I'll think about it. 
-CRUSHER: Okay. 
-WESLEY: Do you ever think about him, Mom? 
-CRUSHER: Your father? Sure I do. 
-WESLEY: Sometimes I can't even remember what his face looks like. It
-scares me. 
-CRUSHER: It happens to all of us, Wes. Sometimes I can't get his face
-out of my mind. 
-WESLEY: Today, today it's like I can see it all as clearly as if it
-were yesterday. I can remember the way Dad looked when he hugged me
-goodbye. Captain Picard's eyes when he came to tell us 
-(Beverly reaches for her son. They're both close to tears)
+[Transporter room]
+
+WORF: Energy force has left transporter room three.
+Security alert, all decks. 
+[Bridge]
+
+RIKER: La Forge, the intruder may try to reinstate 
+[Engineering]
+
+RIKER [OC]: Transporter power. 
+LAFORGE: Understood, Commander.
+
+[Corridor]
+
+(Marla marches Jeremy down the corridor straight
+into a forcefield. They turn around and meet another one. Picard exits
+the turbolift) 
+PICARD: Bridge, release security forcefield eight B. Hello, Jeremy. How
+are you? Are you frightened? 
+JEREMY: No. Well, a little, sir. 
+PICARD: Of course. These are frightening things that are happening. But
+we won't let anyone harm you. Counsellor, why don't you take the boy to
+my quarters. 
+GUEST0: No!
 

@@ -1,35 +1,42 @@
-RIKER WORF CREWMAN DANILO PICARD PULASKI
+TROI WORF PICARD RIKER PULASKI GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-DANILO: Captain! Captain, t'was very good of you,
-sir, to rescue us from our troubles. 
-PICARD: My pleasure. 
-DANILO: Sir, you must be worth quite a bit to own a fine ship like
-this. 
-PICARD: I don't own the Enterprise, I command her. 
-DANILO: Whatever. Sir, would you happen to be married? 
-PICARD: No. Why? 
-DANILO: No? Well, you see, sir, I have a daughter. 
-PICARD: Felicitations. 
-DANILO: Would you be interested, sir?
-PICARD: No. 
-DANILO: You're quite sure? 
-PICARD: Quite sure. 
-DANILO: He's quite sure. 
-[Observation lounge]
+WORF: Signal from the planet, Captain. 
+PICARD: On screen. This is Jean-Luc Picard of the USS Enterprise,
+representing the United Federation of Planets. 
+GUEST0 [on viewscreen]: This is wonderful. Welcome, Captain. I'm
+Wilson Granger, Prime Minister of Mariposa. 
+DATA: No doubt a descendant of Captain Walter Granger. 
+GUEST0 [on viewscreen]: Not quite a descendant. We feared Earth had
+suffered some catastrophe when no one came back to check on us. 
+PICARD: I'm afraid the truth is, you got lost in the bureaucracy. But
+despite the lateness of our arrival, we're here now and we're eager to
+renew ties. 
+GUEST0 [on viewscreen]: Splendid. Please, come down, and allow us to
+extend our hospitality to you and your crew. 
+PICARD: Thank you. Form an away team, Number One. 
+TROI: I would urge caution. 
+RIKER: Caution? What's wrong? 
+TROI: He's hiding something. 
+RIKER: We'll check it out. Mister Worf. Doctor Pulaski, join us in
+Transporter room three for an away detail.
 
-PICARD: What's the total? 
-WORF: Two hundred and twenty three. 
-PULASKI: Count on two more in the next few days. 
-PICARD: Set course for the nearest starbase. 
-PULASKI: You know, they were anachronistic in 2123. It will be
-interesting to see how they cope. 
-RIKER: They'll learn and adapt. If Danilo Odell's any indication,
-they'll be running this place inside of a week. 
-(and alarm sounds) 
-WORF: Lieutenant Worf, here. Report. 
-CREWMAN [OC]: Fire in cargo hold seven. 
-RIKER: The Bringloidi. 
-PICARD: What have they done to my ship now?
+[Reception]
 
+(a very modern looking building, and clothing
+style) 
+GUEST0 2: Welcome to Mariposa. I'm Victor Granger, Minister of Health.
+
+RIKER: Commander William Riker, Doctor Pulaski, Lieutenant Worf. 
+GUEST0 2: A pleasure. I'll escort you to the Prime Minister. This way
+please. 
+RIKER: Twin brothers? 
+GUEST0 2: Your arrival really is serendipitous. 
+PULASKI: Oh, how so? 
+GUEST0 2: Well, perhaps I'll let the Prime Minister to explain that. 
+(Three identical women are standing by a desk) 
+RIKER: Triplets? Worf, there is something damn odd down here. 
+(a fourth woman walks by) 
+WORF: Quadruplets. 

@@ -1,87 +1,53 @@
-RIKER LAFORGE WORF PICARD COMPUTER MORIARTY DATA BARCLAY
-
-[Bridge]
-
-RIKER: There they are, Captain. 
-PICARD: How long until they begin to coalesce? 
-DATA: Within the next five hours, sir. 
-(two angry red balls of gas within touching distance of each other on
-the viewscreen) 
-PICARD: Mister Worf, launch four Class A probes toward the planets. 
-WORF: Aye, sir. 
-PICARD: Mister Worf? 
-WORF: I don't understand. 
-(the consoles go dark then flicker on and off) 
-WORF: Controls are not responding. 
-DATA: Command functions are being rerouted, sir. 
-PICARD: For what reason? 
-DATA: Unknown, sir. 
-PICARD: Computer, route all command functions to the Bridge. 
-COMPUTER: Command functions are offline. 
-PICARD: Reinitialise them on my authorisation. 
-COMPUTER: Authorisation denied. 
-PICARD: Explain. 
-COMPUTER: Picard command codes are no longer valid. 
-PICARD: What's happening? Who's transferred the voice authorisation? 
-MORIARTY: I have. I'm afraid I had no choice but to take control of
-your vessel. 
-(Worf gets his phaser from under the tactical console) 
-MORIARTY: If you harm me, sir, I will not be able to relinquish voice
-control of your vessel. 
-PICARD: Professor, this situation is more serious than you realise. In
-less than five hours, those two planets will collide and a new star
-will form. Unless we move to a safe distance, this vessel will be
-destroyed. 
-MORIARTY: I'm just a fictional character. I haven't much to lose. 
-PICARD: But surely you wish to live like the rest of us? 
-MORIARTY: Not alone. Not without the Countess. 
-PICARD: We've discussed that. We are studying means of bringing her
-safely off the holodeck. But five hours is not enough time. 
-MORIARTY: I'm not so sure. A deadline has a wonderful way of
-concentrating the mind. 
-PICARD: Mister Data, will you investigate the possibility of complying
-with Professor Moriarty's request. 
-DATA: Aye, sir. 
-PICARD: In the meantime, we have a few things to discuss.
-
-[Engineering]
-
-DATA: Perhaps we should consider the transporter
-system. It uses many of the same principles as the holodeck. Both, for
-example, are capable of converting energy into matter. 
-LAFORGE: Except the transporter reconstitutes energy in a permanent
-form. Holodeck matter doesn't have any cohesion unless it's inside the
-grid. 
-BARCLAY: I wonder, what would happen if we tried to beam a holodeck
-object off the grid? 
-LAFORGE: Nothing would happen. A holodeck object is just a simulation.
-There's nothing there to provide a pattern lock for the transporter. 
-DATA: However, if it were possible to lock onto the object, it might
-rematerialise with the same molecular cohesion as conventional matter. 
-LAFORGE: That's a big leap, Data. I just don't think the transporter is
-going to accept simulated matter. 
-BARCLAY: Unless, unless we could find a way to compensate for the phase
-variance. If we could modify the pattern enhancers we just might do it.
-
-PICARD: Well, Professor Moriarty has agreed not to interfere with
-routine ship operations so long as he believes we're acting in good
-faith, then I don't think we're in immediate danger. Any progress? 
-LAFORGE: We were just talking about using the transporter to beam the
-Countess off the holodeck, but I don't quite see how it's going to
-work. 
-PICARD: Well, keep at it. I have to tell him that we are making some
-progress. Mister La Forge. Do you have any idea how Moriarty could have
-gained control of the ship? 
-LAFORGE: Somehow he managed to override the security lockouts and
-rewrite them. The man is brilliant in any century. 
-PICARD: I want you to find some way to undo what he has done so that we
-can regain control of this ship.
+PICARD GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
-DATA: Set the pattern enhancers around whatever
-object you wish to transport. I will proceed to the transporter room
-and begin modifications. 
-BARCLAY: Computer, run Sherlock Holmes Programme three A. 
-COMPUTER: That programme is already in use.
+PICARD: Computer, resume programme.
+
+[221b Baker Street]
+
+GUEST1: Hello. Have we met? 
+PICARD: Captain Jean-Luc Picard. 
+GUEST1: James has told me all about you. I am Regina, Countess
+Bartholomew. Do sit down. May I offer you some tea, Captain? 
+PICARD: Thank you, no. I've come here to prevail upon your intelligence
+and your insight. 
+GUEST1: But not apparently my humility. 
+PICARD: Credit where credit is due, madam. I can see you are a woman
+not only of breeding, but of wit and sagacity. 
+GUEST1: And you, sir, are a man of charm and guile. You remind me of
+Viscount Oglethorpe. He was a man could bewitch any woman who breathed.
+
+PICARD: And do you suspect that that is my intent? 
+GUEST1: I cannot be certain of your intent, but I am certain that
+you're the kind of man who usually gets exactly what he wants. 
+PICARD: What does a woman like you see in a man like Moriarty? 
+GUEST1: He's an exciting man, Captain. He's brilliant, incisive, he's
+ruthless. He has an almost irresistible appeal. 
+PICARD: He's also an arch-criminal. 
+GUEST1: Only because he was written like that. I see him entirely
+differently, Captain, he is not a villain. 
+PICARD: So it's your desire to leave the holodeck to be with him. 
+GUEST1: More than anything. Can you help us? 
+PICARD: Yes, I can. We have learned that if we uncouple the
+transporter's Heisenberg Compensators and allow them to re-scramble
+randomly, we can beam a holodeck object or a person off the grid with
+all of the cohesion of conventional matter. 
+GUEST1: Oh! Oh, that's splendid. I must tell James. 
+PICARD: No, please. Wait. I have brought you this information because I
+think you are someone who will listen to a reasonable proposition.
+Someone whose mind is open to compromise. 
+GUEST1: Yes? 
+PICARD: My ship is in danger. It is imperative that I regain
+navigational control. I want you to persuade Professor Moriarty to
+return the voice command to me, or I will not modify the transporter. 
+GUEST1: I see. 
+PICARD: Now, once I have regained voice command, I will transport you
+from the holodeck. 
+GUEST1: Forgive me, Captain, but that does sound more like a threat
+than a compromise. 
+PICARD: Countess, you must understand that I am responsible for more
+than one thousand lives. 
+GUEST1: I will do what I can.
 

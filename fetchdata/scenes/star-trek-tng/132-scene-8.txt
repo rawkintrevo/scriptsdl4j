@@ -1,39 +1,68 @@
-PICARD TROI RIKER WORF
+RIKER WOMAN GUEST0 WORF GUEST3 LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
-(O'Brien is transporter chief today) 
-WORF: Coordinates have been input, sir. 
-TROI: Have your sensors indicated any problem down there,
-Lieutenant?
-WORF: None. 
-TROI: But you're feeling a certain confusion about this mission. 
-WORF: No. 
-TROI: Yes. I've never known you to have such strong emotions, except
-when you're expecting to do battle. 
-WORF: I am not expecting battle. 
-RIKER: Then what is bothering you? 
-WORF: Riva. 
-PICARD: Ah. Riva negotiated several treaties between the Klingons and
-the Federation.
-WORF: Before him, there was no Klingon word for peacemaker. 
-RIKER: Then I can understand why you're feeling uneasy. 
-PICARD: Now look, this is a simple ceremonial greeting, nothing more.
-All right? 
-WORF: Aye, sir. 
-(Picard, Troi and Worf get on the transporter pads) 
-PICARD: Energise.
+RIKER: Phasers on stun, Mister Worf. 
+GUEST0: You won't need those. 
+RIKER: I'm sure we won't. Energise. 
+(O'Brien beams the six away) 
+[Hilltop]
 
-[Room]
+(A flat area with the top of the mountain forming a
+back wall. It's windy and desolate.)
+GUEST0: Yes, this will do. It is important that we set this up
+properly. Commander. If it be possible, I would like torches here and
+here. 
+RIKER: Engineering. 
+[Engineering]
 
-(They arrive in a marbled room, and walk forward to
-an area with a slightly raised
-dais in front of a stained glass window. There is no one there.)
+RIKER [OC]: This is the away team. 
+LAFORGE: Yes, Commander. 
+RIKER [OC]: We are going to need your help. 
+LAFORGE: I thought you might.
 
-[Bridge]
+[Hilltop]
 
-RIKER: Captain, this is the Enterprise. 
-[Room]
+RIKER: We would like two torches. Head high? (Riva
+nods) And what else? 
+GUEST0: A table here. 
+RIKER: Describe it. 
+GUEST0: Three sided, and if possible made to resemble indigenous rock.
 
-PICARD: We've arrived safely, Number One, but so
-far we've been ignored. I'll keep you informed. 
+[Engineering]
+
+RIKER [OC]: Did you read that, Geordi? 
+LAFORGE: I did. That should be no problem.
+
+[Hilltop]
+
+RIKER: When will the emissaries arrive? 
+GUEST0: It shouldn't be too long. 
+RIKER: And how long do you think the negotiations will take? 
+GUEST0: They won't go quickly. 
+WORF: They're coming, Commander. 
+GUEST0: The first few minutes will be very tense. Please stay calm,
+and do not respond even if you are provoked. 
+RIKER: We'll do our best. 
+(The first pair enter) 
+GUEST3 1: Who is Riva? 
+WOMAN: I am Riva. 
+(The other faction enters.) 
+WOMAN: Be at ease. I commend you both. To come here proves not only
+your courage, but your wisdom. Please, give this conference a chance. 
+GUEST0: I have no magic. You have been fighting all your lives. You
+know only 
+(The second faction's guard interrupts him) 
+GUEST3 3: No, no, never! Death first! 
+RIKER: Riva! 
+(Riker gets Riva out of the line of fire, but the Chorus are
+vapourised) 
+GUEST3 2: Don't! Traitor! 
+(And he kills the assassin himself. The first faction draw their
+weapons) 
+GUEST3 2: No, wait. Wait. 
+RIKER: Away team to Enterprise. Beam us up. Now! 
+GUEST3 2: His words are not mine. Please, Riva. 
+(But Riker, Worf and Riva are beamed away) 
+GUEST3 2: We need you. We need you! 

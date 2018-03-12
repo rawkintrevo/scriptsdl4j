@@ -1,47 +1,44 @@
-ZEROZERO RIKER CRUSHER ONEONE COMPUTER
+LAFORGE WORF TASHA CHIEF COMPUTER CRUSHER DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Doctor's office]
+[Transporter room]
 
-RIKER: You look like you're packing to leave
-forever. 
-CRUSHER: Oh, Commander Riker. No, I'm just gathering my notes.
-Professor Terence Epstein is at this starbase. 
-RIKER: Is that someone I should know of? 
-CRUSHER: He's the leading mind in cybernetics. He lectured at my
-medical school. You know the disaster at Micromius? 
-[Corridor]
+(the queue is back into the corridor and Wesley and
+a couple of children and parents beam out) 
+CHIEF: Hold your positions please. Prepare to energise. And energise. 
+COMPUTER: Decks seventeen through twenty eight proceed to transporters
+eleven, twelve, thirteen and fourteen. 
+[Airlock]
 
-CRUSHER: Well, since then I've been working on an
-approach that combines cybernetics and regeneration. It sounds
-impossible, I know, but I have found an approach which will work. I
-mean, what an opportunity. To have a chance to talk with Doctor
-Epstein. Sorry, Will, I'd love to chat, but I have to go.
+COMPUTER: Decks twenty nine through forty two,
+proceed to transporters fifteen, sixteen, seventeen, eighteen, nineteen
+and twenty. This is not a drill. This is not a drill.
 
-[Outside holodeck]
+[Starbase Command Centre]
 
-(Bynars with a different style of clothes are
-working) 
-RIKER: How's it going? 
-ZERO ZERO: (left hand side) We are almost done. 
-ONE ONE: (right hand side) The deviation 
-ZERO ZERO: caused by a previous 
-ONE ONE: probe has been corrected 
-ZERO ZERO: You may use the equipment 
-ONE ONE: anytime you wish. 
-RIKER: How much has been changed? What exactly did you do? 
-ONE ONE: Enhancement. 
-ZERO ZERO: Nothing more. 
-(They talk to each other in binary) 
-ZERO ZERO: Would you like to try 
-ONE ONE: the enhancement? 
-RIKER: All right. What should I choose? Computer, I'd like some place
-to play some music. A little atmosphere. 
-COMPUTER: Specify. 
-RIKER: Jazz. 
-COMPUTER: Era? 
-RIKER: Circa 1958. 
-COMPUTER: Location. 
-RIKER: Kansas City. No, wait. New Orleans. Bourbon Street Bar, New
-Orleans. Around two a.m. 
-COMPUTER: Programme complete. Enter when ready.
+(Tasha and Worf enter. Crusher is already there
+with Quinteros) 
+WORF: What's going on? 
+GUEST0: Please stand out of the way. 
+CRUSHER: The Enterprise is being evacuated. 
+WORF: Why? 
+CRUSHER: Some problem in Engineering. 
+TASHA: Get a Security team together. 
+WORF: Aye, Lieutenant.
+
+Ship's log, supplemental. This is Lieutenant
+Commander Data. I have put the ship on automated departure and ordered
+the complete evacuation of the Enterprise. Everyone remaining is
+leaving on foot or beaming off.
+
+[Bridge]
+
+DATA: Computer, where are the Captain and Commander
+Riker? 
+COMPUTER: (female) All decks empty. 
+DATA: Curious. The Captain is usually the last to leave. 
+LAFORGE: Let's go. We've only got forty one seconds. 
+(They step into the turbolift) 
+LAFORGE: I think we're the last. 
+DATA: I hope we are.
 

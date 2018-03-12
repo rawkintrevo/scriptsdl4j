@@ -1,37 +1,38 @@
-HANSEN DATA LAFORGE COMPUTER
+TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+ [Observation lounge]
 
-(La Forge is doing something with a device to the
-dilithium crystals) 
-DATA: Geordi, there has been a slight drop in sensor efficiency.
-Perhaps we should examine the phase buffers. 
-LAFORGE: No problem, Data. I'll be right with you. Okay, Hansen,
-transfer EPS conduit thirteen to the stabiliser matrix. 
-HANSEN: Aye, sir. 
-DATA: Is there a problem with the engines? 
-LAFORGE: No. 
-DATA: Then why are you stabilizing the EPS conduit? 
-LAFORGE: I'm just trying to get a slightly higher power conversion
-level. 
-DATA: But that would not affect the engines in any way. 
-LAFORGE: I know that, Data. It's not the point. 
-DATA: What is the point? 
-LAFORGE: I'm just trying to get a higher conversion level, that's all. 
-DATA: Why? 
-LAFORGE: You know the Intrepid? 
-DATA: Yes. 
-LAFORGE: Well, their Chief Engineer is Commander Donald Kaplan. He and
-I went through the Academy together. I just like to make sure that our
-power conversion levels are a little higher than theirs. 
-DATA: I understand. You are in competition with Mister Kaplan. 
-LAFORGE: You might say that. This is the flagship. We should be better
-than everybody else. 
-DATA: Then you are trying to outperform the Intrepid. 
-LAFORGE: Actually it's more a point of personal pride. These are my
-engines. And there's nothing wrong with a little friendly rivalry.
-Okay. Computer, how much have the conversion levels increased? 
-COMPUTER: Levels are unchanged. 
-LAFORGE: All right, I'll deal with of this later. Let me give you a
-hand with those sensors.
+RIKER: The Fleming's last contact with Starfleet
+was four days ago. According to them, there was nothing out of the
+ordinary when they entered the Corridor. 
+PICARD: Data. 
+(Data explains the wall monitor display) 
+DATA: The unusually intense tetryon fields in this sector pose a severe
+navigational hazard to
+warp driven vessels. The Hekaras Corridor is the only route through the
+area which is free of tetryon fields. Ships travelling at warp must use
+the Corridor to ensure safe passage through the region. 
+PICARD: How long will it take to complete a level one search? 
+DATA: At least two days, sir. The Corridor is over twelve light years
+long, and the surrounding tetryon interference will limit our sensor
+range. 
+WORF: Could we send out reconnaissance probes to supplement the
+sensors? 
+LAFORGE: They won't be very effective. The interference will make it
+difficult to maintain contact with the probes. The best we can do is to
+increase sensor efficiency. We've installed multiphase buffers on all
+the sensor modules, Captain. It should help a little. 
+TROI: Hekaras Two is inhabited, isn't it? Maybe they've had contact
+with the Fleming. 
+RIKER: They haven't. I've already spoken to the Hekaran government.
+According to them, only one ship has passed through the system in the
+last week. It was a Ferengi trader. 
+CRUSHER: The Fleming was carrying a supply of rare biomimetic gel,
+which is very valuable. Is it possible that the Ferengi might have
+hijacked it? 
+RIKER: I wouldn't put it past them. I think we should prepare for that
+contingency. 
+PICARD: I agreed. All right then. Mister Worf, initiate your search
+pattern. Let's head in.
 

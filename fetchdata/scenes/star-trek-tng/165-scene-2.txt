@@ -1,19 +1,5 @@
-KURN PICARD CREWWOMAN RIKER WESLEY
-
-[Transporter room]
-
-CREWWOMAN: Commander Kurn is ready for transport,
-Captain. 
-PICARD: Energise. 
-(a tall Klingon arrives, disrupter pistol hanging from his belt) 
-PICARD: Welcome aboard the Enterprise, Commander. I'm Captain Picard.
-This is Commander William Riker. He will be yielding the first
-officer's position to you during your tour. 
-KURN: You are relieved. May I take my station, Captain? 
-RIKER: I thought that I might show you your quarters first. 
-KURN: I am ready for duty, sir. I ask that I be allowed to take my
-station. 
-PICARD: Very well. If you will accompany us to the Bridge.
+KURN PICARD RIKER LAFORGE WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -35,4 +21,28 @@ power.
 WESLEY: Aye, sir. 
 KURN: Execute. 
 WESLEY: Engaged. Increasing to one third impulse power, sir.
+
+[Ten Forward]
+
+RIKER: Mind if I join you? 
+WESLEY: No, sir. 
+RIKER: Is there something wrong, Wes? Commander Kurn perhaps? 
+WESLEY: He just doesn't seem to like me. I can't do anything right for
+him. Every time I respond to an order he jumps down my throat. I don't
+know what I'm doing wrong. 
+RIKER: Problem, Geordi? 
+LAFORGE: Yes, sir. It's our new first officer. 
+RIKER: I take it he found something wrong in Engineering? 
+LAFORGE: Just the entire section. He pulled a surprise inspection in
+the middle of a maintenance cycle! I tried to explain it to him 
+RIKER: But he wouldn't listen. 
+LAFORGE: We're all going to be doing double shifts down there just to
+ready for the next inspection. 
+RIKER: His style of command is just different. Klingons believe in
+obedience and a strict formality of command. 
+LAFORGE: Yeah, but this isn't a Klingon vessel. He's going to have to
+loosen up, Commander. 
+WESLEY: It's not just us. He's been leaning into everybody pretty hard,
+except 
+LAFORGE: Except the one guy who wouldn't really mind it.
 

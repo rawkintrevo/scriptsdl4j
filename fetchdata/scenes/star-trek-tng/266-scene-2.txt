@@ -1,36 +1,56 @@
-DATA MATURIN LAFORGE
+TROI CRUSHER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Howard home]
 
-DATA: The colony's aqueduct system is functioning
-normally, as are the communication relays. 
-MATURIN: We've been having a few tremors over the past couple of
-months. Could you check the seismic stabilisers? 
-DATA: Certainly. 
-MATURIN: You can't imagine what it's like trying to enjoy afternoon tea
-while the earth is shaking. 
-LAFORGE: Governor, did you know you had a power fluctuation in your
-weather control system? 
-MATURIN: No. Our weather control's been working perfectly for the last
-twenty two years. 
-LAFORGE: I can't isolate the exact source, but the fluctuation seems to
-be originating from one of the substations that regulates atmospheric
-humidity for the colony. 
-MATURIN: Is this going to be a problem? 
-LAFORGE: No, not yet, but power distribution patterns are already off
-by five percent. 
-DATA: I suggest we analyse the planet's weather patterns to see if they
-have been affected. I am reading unusually high humidity across the
-entire southern desert region and there is increasing cloud activity
-above the northern coastal area. Possibly the formation of a storm
-system. 
-MATURIN: A storm? It's the middle of summer. We don't have rain at this
-time of year. 
-LAFORGE: Data, let's see if we can correct this. I'll check out the
-colony's climatic flow array. 
-DATA: I will run a diagnostic on the thermal regulators. 
-LAFORGE: Don't worry, Governor. We'll keep you dry. 
-MATURIN: I certainly hope so. There's a caber toss scheduled for
-tomorrow afternoon. I'd hate to see it spoiled by an unexpected
-downpour.
-
+(C19 romantic style with lots of wood and bunches
+of dried lavender. Beverly pokes at a fire in the hearth) 
+TROI: Your grandmother had remarkable green eyes. 
+CRUSHER: Every woman in the Howard family has had green eyes, except
+for my mother and me. 
+TROI: How well do you remember your mother? 
+CRUSHER: Very well. I loved her very much. I can remember her face
+smiling down at me, and I can remember the sound of her voice and her
+scent. But mostly I remember Nana, who raised me after my mother died. 
+(she picks up a pierced metal lamp with a flickering candle in it) 
+TROI: That's beautiful. 
+CRUSHER: It's a family heirloom. It's been in the Howard clan for
+generations. It's supposed to symbolise the enduring Howard spirit.
+Wherever they may go, the shining light to guide them through their
+fortune. Nana always kept it lit. I remember sitting here listening to
+ghost stories with only the candle burning. 
+TROI: You should take it with you. 
+CRUSHER: I think I will. 
+TROI: I'm going to head back to the ship. 
+CRUSHER: You don't have to leave. 
+TROI: I just thought you'd like some time alone. I'll see you later. 
+CRUSHER: Thanks. 
+(Troi leaves. Beverly wraps herself in a blanked and goes upstairs
+reading Felicia's journal) 
+(a middle aged man comes in and blows out the candle) 
+CRUSHER [OC]: Who's there? 
+(Beverly runs down stairs and grabs the lamp) 
+CRUSHER: What the hell are you doing? Get out of my house. 
+GUEST2: I wouldna be so high and mighty with me, Beverly Howard Crusher.
+I've spent more time here in the past five years than ye have in the
+past twenty. 
+CRUSHER: How do you know who I am? 
+GUEST2: I'm Ned Quint. I took care of your grandmother's house and her
+affairs. 
+CRUSHER: Nana never mentioned you. 
+GUEST2: There's a lot of things she didna talk about. Let me get rid of
+that candle. 
+CRUSHER: Why? 
+GUEST2: That candle has brought nothing but misery and bad luck to your
+grandmother. 
+CRUSHER: Look, Mister Quint, I don't know what your relationship was
+with my grandmother, but this is my house now and these are my things. 
+GUEST2: That candle has been a curse on your family for generations. If
+ye have a lick of sense, you'll listen to me right now and do away with
+it. Now give it to me. 
+CRUSHER: This is a family heirloom and I intend to keep it. Now would
+you please get out of my house. Now! 
+GUEST2: Howard women. Always the same stubborn fools. I wash my hands of
+it now. You stay on in this house and you keep that damned candle. I'll
+not be responsible for what happens. 
+CRUSHER: Get out. 

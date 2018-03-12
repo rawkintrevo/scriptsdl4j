@@ -1,63 +1,75 @@
-TROI LAFORGE WORF TASHA PICARD RIKER CRUSHER
+BEATA RIKER TASHA GUEST2 GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WORF: Bridge to Captain Picard. 
-PICARD: [OC]: Go ahead, Lieutenant. 
-WORF: The away team requests that we scan the planet surface for traces
-of platinum. 
-PICARD: [OC]: Have Mister La Forge break fixed orbit and initiate a
-search pattern. 
-WORF: Aye, Captain. Geordi. 
-LAFORGE: Search pattern initiated now. 
+DATA: To be precise, Commander, you ordered me to
+reach the Neutral Zone before it is too late. 
 [Guest quarters]
 
-(Riker enters, and Troi hands him a local male
-outfit on a hangar) 
-TROI: This was delivered for you. 
-RIKER: Good. It's for my meeting with Beata. 
-TROI: You're not going to wear that. 
-RIKER: Of course. Part of this mission is diplomatic. I have requested
-an audience with a head of state, and I will honour her by wearing
-indigenous apparel.
-TASHA: I don't believe this. You're going to put that thing on and
-parade around like one of them? 
-RIKER: Why, what is this attitude? On Kabatris I had to wear furs to
-meet the leadership council. And on Armus Nine I wore feathers. This
-objection doesn't have anything to do with the fact that Beata is a
-woman, and an attractive one, does it?
-
- [Ready Room]
-
-(The Captain is obviously ill) 
-PICARD: This is quite unnecessary, Doctor. I'm fine. 
-CRUSHER: You're infected with the virus. Captain. In my opinion, you
-are no longer physically able to effectively command this vessel. 
-PICARD: That is ridiculous, Doctor. I have an away team down there, in
-less than friendly territory, and in addition I have an appointment
-with several Romulan battlecruisers. 
-CRUSHER: You have an appointment in your cabin, Captain. With your bed.
-
-PICARD: Is that an order, Doctor? 
-CRUSHER: Yes. 
+DATA: After relieving Lieutenant La Forge, I
+computed the length of time the border outpost 
 [Bridge]
 
-WORF: I think I may sneeze.
-LAFORGE: A Klingon sneeze?
-WORF: Only kind I know. 
-(Picard and Crusher enter) 
-PICARD: Lieutenant La Forge, you have command until further notice.
-Please, make the proper ship's log entries. 
-LAFORGE: Aye, sir. 
-(Geordi goes and sits in the Captain's chair) 
-WORF: Scanners indicate a platinum trace. Should I notify the away
-team? 
-LAFORGE: Make it so. 
+DATA: And the USS Berlin can safely withstand a
+Romulan attack, and deducted our time to destination at maximum warp
+speed. That leaves Doctor Crusher forty eight minutes to develop an
+inoculants to the virus. 
 [Guest quarters]
 
-TROI: Tasha. 
-(Riker emerges in full local costume, left breast and chest hair to the
-waist fully on show. The women find it highly amusing) 
-RIKER: What do you think? 
-TASHA: Well, I got to say, it's kind of sexy. 
-RIKER: Thank you, Lieutenant. Actually it feels quite comfortable. 
+TASHA: Which means there's still time for us to do
+something. 
+RIKER: Forty-eight minutes. 
+[Bridge]
+
+DATA: Forty seven, sir. 
+[Guest quarters]
+
+RIKER: Perhaps, Data, perhaps. Thank you 
+[Bridge]
+
+RIKER [OC]: For following my orders so precisely,
+Data. 
+[Guest Quarters]
+
+RIKER: On second thought, Trent, we would be
+honoured to witness your moral imperative in action.
+
+[Great Hall]
+
+BEATA: (upset) We have determined that the
+heretical teachings of Ramsey and his followers are
+inconsistent with harmonious life on Angel One. Our patient efforts to
+silence revolutionary voices have failed. Therefore we are left with
+none but the most final alternative. 
+(There is a large jar between two devices. Trent puts his hands on a
+glass globe, it glows purple, the devices light up and disintegrate the
+jar) 
+BEATA: As you can see, we are not without compassion. Your deaths will
+be swift and painless. 
+RIKER: Mistress Beata, before we see living examples of your
+compassion, may I speak? 
+BEATA: Is this a plea for leniency? 
+RIKER: Nothing of the sort. As the governing body of Angel One, you're
+entitled to execute your laws or your citizens as you see fit. 
+BEATA: Make your point, so we can proceed with this unpleasant
+business. 
+RIKER: When you spoke of the prisoners, you used the term
+revolutionary. Indeed, death has been known to stop revolutions. But I
+suspect it's not a revolution that Angel One is hoping to stop. It's
+evolution. Mister Ramsey and the Odin survivors did not initiate the
+waves of dissent that are rippling through your planet. Their presence
+here merely reinforced the change in attitudes between men and women
+that was already well under way. They became symbols around whom others
+who shared their views could gather. You may eliminate the symbols, but
+that does not mean death to the issues which those symbols represent.
+No power in the universe can hope to stop the force of evolution. Be
+warned. The execution of Mister Ramsey and his followers may elevate
+them to the status of martyrs. Martyrs cannot be silenced. 
+(Ramsey is taken to the place of execution. Trent starts to lower his
+hand)
+GUEST2: Beata! 
+BEATA: Stop. We will adjourn to consider your words. 
+(The council leaves) 
+GUEST0: Thank you. 
+RIKER: I don't know if it was enough. 

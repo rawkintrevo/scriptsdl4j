@@ -1,49 +1,35 @@
-SERGEY OBRIEN WORF FEMALE HELENA
+PICARD TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Picard's quarters]
 
-WORF: They still have not signalled? 
-O'BRIEN: No sir. 
-WORF: My mother is never on time. It is so human of her. 
-O'BRIEN: Well, you know women. 
-WORF: I am not looking forward to this. I wish they would come so it
-would begin and end sooner. 
-O'BRIEN: I know what you mean, Lieutenant. 
-WORF: Unlikely. 
-O'BRIEN: Last time my old man was on board I found him chasing Nurse
-Stanton around a biobed in Sickbay. 
-WORF: I am not concerned about my father chasing nurses. 
-O'BRIEN: Yeah, but it's always something with parents, isn't it. 
-FEMALE [OC]: Enterprise, this is Earth Station Bobruisk. Two to
-transport aboard. 
-O'BRIEN: Energising. 
-(A big, stocky silver-haired man, and a mature woman with lots of brown
-hair appear) 
-WORF: Mother. Father. 
-HELENA: Worf! 
-SERGEY: You look good, son. Put on a little weight, huh? 
-WORF: No. 
-SERGEY: Sure you have. Looks good on you. Still working out with those
-Holodeck monsters, I bet. 
-WORF: Let me take you to 
-SERGEY: Always good to meet another Chief Petty Officer. Sergey
-Rozhenko, formerly of the USS Intrepid. 
-(shakes hands) 
-O'BRIEN: Miles Edward O'Brien, sir. Good to meet you. 
-SERGEY: Don't call me sir. I used to work for a living. 
-HELENA: He's joking. The proudest day of his life was when Worf earned
-his commission. 
-SERGEY: Can you imagine an old enlisted man like me raising a boy to be
-an officer? 
-HELENA: Come on, Sergey. There's plenty of time to chat with the boys.
-Your father has been so looking forward to this. 
-SERGEY: Yes, I want to see everything. The whole ship. At home I have
-all the specs and diagrams of the Galaxy-class starships. 
-WORF: We are in the midst of a repair. I cannot give you a complete
-tour. 
-SERGEY: I'm sure if you asked the Captain 
-HELENA: You agreed not to embarrass him. Besides, we have come to see
-Worf, not the ship. 
-SERGEY: Fine. Fine. Okay. 
-HELENA: Your hair's a little longer, isn't it, Worf?
-
+(Picard is in casual clothes, packing a case) 
+TROI: So, where have you decided to go? 
+PICARD: Hmm? What? Oh, er, France. Labarre. My home village. 
+TROI: Really? 
+PICARD: Yes. It's the first time in almost twenty years. 
+TROI: Interesting. 
+PICARD: Counsellor. 
+TROI: I just find it interesting. Captain Jean-Luc Picard, the man who
+couldn't be pried out of his seat for a vacation for three years 
+PICARD: It's Earth. It's home. Do I need another reason? 
+TROI: I don't know. What do you think? 
+PICARD: Your help has been invaluable during my recovery, but, look,
+I'm better. The injuries are healing. 
+TROI: Those you can see in the mirror. 
+PICARD: The nightmares have ended. All I need now is a little time to
+myself. 
+TROI: I agree. In fact, I'm delighted you're going. It's just that the
+choice of where you're going could stand some scrutiny. 
+PICARD: If you wish to believe that my going home is a direct result of
+being held captive by the Borg, be my guest. 
+TROI: Is that what you believe? 
+PICARD: I hate it when you do that. 
+TROI: Captain, you do need time. You cannot achieve complete recovery
+so quickly. And it's perfectly normal, after what you've been through,
+to spend a great deal of time trying to find yourself again. 
+PICARD: And what better place to find oneself than on the streets of
+one's home village. 
+TROI: Interesting. Have a good trip, Captain. 
+(She kisses his cheek and leaves him to his packing. He decides against
+some books, takes a final look around and walks out) 

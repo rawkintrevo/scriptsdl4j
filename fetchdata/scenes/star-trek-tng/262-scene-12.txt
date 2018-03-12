@@ -1,74 +1,41 @@
-RIKER JULIANA DATA WORF
+RIKER CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Sickbay]
 
-DATA: We are within two kilometres of the magma
-pocket. 
-JULIANA: Another five seconds should do it. We've broken through. 
-[Bridge]
+(Geordi has got Juliana's forehead open) 
+LAFORGE: Basically she's a Soong-type android, except everything about
+her is designed to fool you into thinking she's human. 
+CRUSHER: She's got tear ducts, sweat glands, even veins and capillaries
+underneath her skin. 
+RIKER: Why does the scanner read her as a human? 
+CRUSHER: Because she has a feedback processor designed to send out a
+false bio-signal. 
+LAFORGE: It's part of her aging programme. Not only does she age in
+appearance like Data, her vital signs change too. 
+CRUSHER: What I can't figure out is why she lost consciousness. As far
+as I can see, everything is fine. She should be awake. 
+DATA: Check her positronic matrix. There may be a cascade anomaly. 
+RIKER: You said you knew she was an android. How? 
+DATA: The first indication occurred when we were digging. I saw her
+perform complex calculations without the assistance of the computer. 
+RIKER: That could have just meant she was good at math. 
+DATA: That is true, but it was enough to get my attention. Later, I
+noticed something odd about the way she blinked her eyes. The intervals
+between blinks were governed by the Fourier system, the same
+mathematical formula my father used to give my blinking pattern the
+appearance of randomness. 
+RIKER: Only you could have noticed something like that. 
+DATA: Then there was the concert in Ten Forward. 
+RIKER: What about it? 
+DATA: We had practised the piece, and I noticed that she played it the
+same way during the performance. Every pitch, every intonation, was
+exactly the same. Only an artificial life form could have done that. 
+RIKER: Does her husband know anything about this? 
+DATA: I do not believe so. He is on the surface monitoring the plasma
+infusion. 
+RIKER: Probably just as well. 
+LAFORGE: Data, come take a look at this. 
+DATA: It appears to be an information module. With a holographic
+interface.
 
-WORF: Terminating the beam. 
-[Engineering]
-
-JULIANA: The pocket seems stable. 
-DATA: I detect no increase in the stress levels of the surrounding
-magma. 
-RIKER [OC]: Good work, Data. 
-[Bridge]
-
-RIKER: I don't think we could have gotten it any
-cleaner. 
-JULIANA [OC]: We have Data to thank for that. I couldn't have done it
-without him. His figures were perfect. 
-[Engineering]
-
-DATA: The drilling process has raised the
-temperature in the magma pockets by almost three hundred degrees
-Celsius. It will be several hours before it cools enough for us to
-enter. 
-JULIANA: Data, do you have any plans right now? 
-DATA: I do not. 
-JULIANA: Maybe we should spend a little time together? I'd love to see
-your quarters. 
-[Data's quarters]
-
-(Data plays violin for her. Juliana applauds) 
-DATA: Thank you. I will be playing this piece at a recital tomorrow
-evening. 
-JULIANA: That was beautiful. 
-DATA: I have been told that my playing is technically flawless, but no
-one has described it as beautiful. 
-JULIANA: It was, really. 
-DATA: Are you certain you are not saying this because you are my
-mother? I have noticed that parents tend to exaggerate when it comes to
-their children's accomplishments. 
-JULIANA: I suppose there's a certain amount of vanity involved,
-considering that giving you a creative aspect was my idea. Your father
-didn't really see the point. He thought that since you didn't have
-emotions, there would be no real need for you to express yourself.
-Somehow I had the feeling the opposite would be true. 
-DATA: I do not know for certain, but I believe it is during my creative
-endeavours that I come closest to experiencing what it must be like to
-be human. 
-JULIANA: Well, I'm glad I insisted. 
-DATA: As am I. 
-JULIANA: Data, I'm very familiar with that Handel piece. How would you
-feel about my playing the viola part tomorrow? 
-DATA: I would like that very much. 
-JULIANA: I'll have to practice. You don't have a viola? 
-DATA: I could replicate one for you. Computer, please replicate one
-viola. 
-JULIANA: Did you paint these? 
-DATA: Yes. I am attempting to master all known styles of painting. This
-one is in the style of the early French impressionists. 
-JULIANA: It's very good. Who's this? 
-DATA: That is Lal, my daughter. 
-JULIANA: Your daughter? 
-DATA: I created her, using myself as a model. 
-JULIANA: Where is she now? 
-DATA: The positronic matrix I designed for her was unstable. She only
-lived a short time. 
-JULIANA: I see. 
-DATA: In a sense, you were her grandmother. Would you like to practice
-now? 
-JULIANA: Yes. Yes, of course. 

@@ -1,4 +1,5 @@
-PICARD RIKER DATA CLARK WORF
+PICARD RIKER DATA GUEST4 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
@@ -27,15 +28,15 @@ RIKER: Uncertain. The signal was interrupted.
 WORF: Contact reestablished with Ventax Two, sir. 
 RIKER: On screen. 
 (a very static-laden image) 
-CLARK [on viewscreen]: I am Doctor Howard Clark, director of the
+GUEST4 [on viewscreen]: I am Doctor Howard Clark, director of the
 science station here on Ventax Two. Thank you for responding. 
 PICARD: Worf, can you improve our reception? 
 WORF: The trouble is at the transmission source, sir. 
 PICARD: Doctor Clark, we are barely able maintain communication with
 you. Can you boost the level of your power source? 
-CLARK [on viewscreen]: I'm afraid not, Captain. It's under attack. 
+GUEST4 [on viewscreen]: I'm afraid not, Captain. It's under attack. 
 PICARD: Under attack? 
-CLARK [on viewscreen]: There's a mob outside the door, trying to break
+GUEST4 [on viewscreen]: There's a mob outside the door, trying to break
 into the station. The planet is in chaos. Lootings, fires, mass
 hysteria. These people are all convinced their world is coming to an
 end. Tomorrow. Please, we must have your immediate 

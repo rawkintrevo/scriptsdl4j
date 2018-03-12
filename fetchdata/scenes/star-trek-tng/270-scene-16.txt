@@ -1,178 +1,37 @@
-TROI WOMAN WORF CALLOWAY RIKER BARMAN COMPUTER CRUSHER NARA
+TROI WORF GUEST1 COMPUTER CREWWOMAN SECURITY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Turbolift]
 
-CALLOWAY: I can't believe he's really gone. I keep
-thinking he's going to show up and tell me there's been some kind of
-terrible misunderstanding. 
-TROI: I thought you might like to know that in his personal logs, Dan
-talked about you a great deal. He loved you very much. 
-CALLOWAY: If that's true, then how could he leave me like this? 
-TROI: That's what I'm trying to find out. I know it's hard to talk
-right now, but it would be very helpful if you could tell me a few
-things about him. When was the last time you saw him? 
-CALLOWAY: Two nights ago. We were planning our next shore leave
-together. 
-TROI: Did he mention anything that had happened recently, anything that
-might have upset him? 
-CALLOWAY: No, not really. He did say something about work, about
-Lieutenant Nara, but it wasn't anything serious. 
-TROI: Nara. She's his superior officer in the nacelle tube? 
-CALLOWAY: Yes. Dan sensed that she, well, that she felt threatened by
-him. That she thought he was after her position. 
-TROI: Was he prone to mood swings or depression? 
-CALLOWAY: No, but he was very sensitive to other people's moods. He
-used to look at me and know exactly what I was feeling. I always loved
-that about him. 
-TROI: Well, Napeans are partially empathic. He may have inherited some
-of his mother's abilities. 
-CALLOWAY: He used to tease me that when I met her, I wouldn't be able
-to get away with anything. Dan and I knew each other for over two
-years, but we didn't get together until a few months ago. We took it
-slow. We thought we had all the time in the world. Something must have
-happened to him, Counsellor. Something terrible, because it's not like
-Dan to take his own life. 
-TROI: I understand. 
-CALLOWAY: Please, find out what it was.
-
-[Nacelle control]
-
-NARA: Can I help you? 
-TROI: Oh, I didn't see you there. You're Lieutenant Nara, aren't you? 
-NARA: Can I do something for you, Counsellor? 
-TROI: I'm investigating Lieutenant Kwan's death, and I just wanted to
-look around. 
-NARA: It's such a shame. He was a good man. 
-TROI: Did you notice any change in his behaviour recently? 
-NARA: No. I've been going over the last few days in my mind, trying to
-see if I, if I missed any warning signs. It's as if something in him
-just snapped. 
-TROI: How was his job performance? 
-NARA: Excellent. He knew this ship better than most people, probably
-because he helped build it back at Utopia Planitia. 
-TROI: Did he get along with his coworkers? 
-NARA: He was ambitious. He came in here with all sorts of new ideas
-about how to do things. Some of them very good ideas. 
-TROI: But not all? 
-NARA: No. But after he settled in, we got along fine. 
-(a crewman enters) 
-NARA: Excuse me a minute. Feel free to look around. 
-TROI: Where was Lieutenant Kwan's station? 
-NARA: Right there. 
-(Nara leaves with the crewman. Troi goes up the ladder to the walkway
-and gets a sense of terror by the hatch. She hurries back down again.) 
-NARA: Are you all right? 
-TROI: I don't know. 
-[Sickbay]
-
-TROI: I don't know how to describe it. I was
-suddenly overwhelmed by a flood of emotions. Fear, rage, panic. And the
-sensations didn't seem to be coming from any person. They were just
-there, in the room. 
-RIKER: Whose emotions were they? I thought you said were alone. 
-TROI: I was. 
-WORF: I scanned the area. I found no anomalous readings. 
-RIKER: How could you get an empathic impression from an empty room? 
-TROI: I don't know. 
-CRUSHER: Could the fact that Lieutenant Kwan was partially empathic
-have anything to do with it? 
-RIKER: What do you mean? 
-CRUSHER: I'm not sure, but certainly the feelings Troi described are
-consistent with suicide. 
-RIKER: Could his death have left some sort of empathic echo? 
-TROI: I don't see how. But if I went back to the nacelle tube, I might
-get a better sense of what I experienced. 
-CRUSHER: I don't think I'd recommend that right now. You're showing
-elevated levels of psilosynine. 
-WORF: Psilosynine? 
-CRUSHER: It's a neurotransmitter involved in telepathy. The experience
-overwhelmed you the first time. I think you should wait until your
-levels return to normal. 
-RIKER: How long? 
-CRUSHER: Three, maybe four hours. 
-RIKER: This time I want someone with you. 
-WORF: I shall accompany you, Counsellor.
-
-Captain's log, stardate 47623.2. We've arrived at
-Starbase three twenty eight on schedule. After taking aboard medical
-supplies, we will depart for Barson Two.
+WORF: Deck ten. 
+TROI: Worf, can I ask you something? Do you regret what happened last
+night? 
+WORF: No, of course not. 
+TROI: Are you sure? Because I don't want anything to jeopardise our
+friendship. 
+WORF: Deanna, I do not regret being with you. What is wrong? 
+TROI: I'm not feeling myself. Maybe it's the inhibitor. I'm so used to
+sensing what people are feeling, and now I can't. 
+WORF: Perhaps I should talk to Lieutenant Pierce alone. 
+TROI: That might be a good idea. 
+WORF: I will meet you in your quarters later. 
+TROI: I'll be waiting for you. 
+(Worf leaves) 
+TROI: Deck eight.
 
 [Troi's quarters]
 
-TROI: Come in. Hello, Worf. 
-WORF: Counsellor. Have you found anything in Lieutenant Kwan's logs? 
-TROI: Everything I've read suggests that he was well-adjusted and
-optimistic. It just doesn't make any sense. Can I get you anything? 
-WORF: No. No, nothing. 
-TROI: Yridian tea. I've been thinking about what happened to me in the
-nacelle tube. Whether it was an empathic echo left by Kwan's death. 
-WORF: In the past, have your empathic experiences always involved the
-physical presence of another person? 
-TROI: All the ones I'm sure of, yes. 
-WORF: What do you mean, sure of? 
-TROI: Well, when I was a young girl, my grandfather used to tell me
-stories by the fire. I would close my eyes and listen to his mind for
-hours on end. 
-WORF: He would tell you these stories telepathically? 
-TROI: My grandfather rarely spoke. He said that was for off-worlders
-and people who didn't know any better. Now the only time I can remember
-his stories is when I go home and sit by the fireplace. Sometimes when
-I'm alone there, it's almost as if I can hear his voice inside my head.
+TROI: Come in. 
+(it's Pierce) 
+TROI: Security to Counsellor Troi's quarters. 
+SECURITY [OC]: Acknowledged. 
+GUEST1: I don't understand. Lieutenant Worf said you wanted to talk to
+me about something. 
+TROI: Where is he? 
+GUEST1: He said he had to go somewhere. 
+TROI: Troi to Worf. Computer, where is Lieutenant Worf? 
+COMPUTER [OC]: Lieutenant Worf is in Ensign Calloway's quarters. 
+(Security arrive) 
+CREWWOMAN: Counsellor? 
+TROI: Take Lieutenant Pierce to his quarters and hold him there.
 
-WORF: Yes. Yes, I too have sought visions in fire. 
-TROI: I can't explain it, but it feels real to me. Just like what
-happened in the nacelle tube. 
-WORF: There are things we do not understand, yet they exist
-nonetheless. Perhaps I should let you get some rest. 
-TROI: Oh, it's all right. 
-WORF: If you will excuse me, Counsellor.
-
-[Ten Forward]
-
-(Riker is in casual clothes with a woman. He comes
-to the bar where Worf is standing) 
-RIKER: Mister Worf. 
-WORF: Commander. 
-RIKER: Two Til'amin froths, please. 
-BARMAN: Yes, sir. 
-WORF: Lieutenant Corell seems to be enjoying your company. 
-RIKER: I'd like to think so. 
-WORF: Are you involved with her? 
-RIKER: I'm not sure yet. Why, are you interested? 
-WORF: No. But if I were, I would of course discuss the situation with
-you before proceeding further. 
-RIKER: I appreciate it, but that really wouldn't be necessary. 
-WORF: I mean I would never want to come between you and someone you are
-involved with, or had ever been involved with. 
-RIKER: Is there someone in particular that you're talking about? 
-WORF: No. Is there someone in particular you would rather I not be
-involved with? 
-RIKER: Mister Worf, you sound like a man who's asking his friend if he
-can start dating his sister. 
-WORF: No, no, I was merely. Never mind. Excuse me, sir.
-
-[Nacelle control]
-
-(Troi goes up to the hatch again) 
-TROI: Could you open this door for me? 
-WORF: Yes, but only for a short time. After ninety seconds the plasma
-venting system will engage to prevent degradation of the forcefield. 
-TROI: I just want to take a quick look. 
-WORF: May I ask what you're looking for? 
-TROI: I'm not sure. 
-(the hatch rises and the stream of energy is visible) 
-COMPUTER: Warning plasma venting system will engage in ninety seconds. 
-WOMAN: No! No, no, please. Please, please. No! Don't! No! 
-COMPUTER: Warning. Plasma venting system will engage in eighty seconds.
-
-(a man is staring at her) 
-TROI: Worf? 
-(a toolbox is present labelled Utopia Planetia - and the nacelle is not
-completed) 
-TROI: Worf? 
-(Troi goes back down the ladder and hears laughter from the junction
-room. She opens the door to see another man and the woman kissing. They
-laugh at her) 
-WORF: Counsellor, are you all right? 
-(the room is back as it should be) 
-TROI: Let's get out of here. 

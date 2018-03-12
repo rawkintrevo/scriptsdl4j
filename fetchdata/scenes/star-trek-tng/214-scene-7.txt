@@ -1,52 +1,54 @@
-RO RIKER MACDUFF LAFORGE WORF KRISTIN CRUSHER
+TROI CREWMAN WORF RIKER RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Corridor]
 
-WORF [OC]: Remain where you are and stay calm.
-Bridge out. 
-KRISTIN: Well, that helps a lot. 
-CRUSHER: Report on our status? I wonder if every one else is in the
-same condition as we are. 
-KRISTIN: This hurts. 
-(Crusher treats her arm) 
-CRUSHER: How's that? 
-KRISTIN: Thanks. 
-CRUSHER: I didn't even think. I just picked it up and knew how to use
-it. At least I have an idea of what I'm doing here. 
-KRISTIN: But what about me? I mean, I'm a patient in a bathing suit.
-That doesn't say much. 
-CRUSHER: No, it doesn't. 
-KRISTIN: Do you have any clothes around here I could borrow? At least
-until I figure out where the swimming pool is?
+(a crewman is standing in a doorway) 
+CREWMAN: I guess these are my quarters, but I don't remember anything. 
+RIKER: If it's any comfort, we're all in the same situation, so stay
+put for now. We'll be back in touch. 
+CREWMAN: Okay, sir. Thanks. 
+RO: That's all I need for now. 
+(the crewwoman she has been talking goes back into her quarters) 
+RO: Well, that's it for the living quarters on this deck. What's next? 
+RIKER: There's a large room up ahead called Ten Forward. 
+RO: Let's go. So if everything were back to the way it was supposed to
+be, what do you think you'd be doing right now? 
+RIKER: I'd be having more fun than searching the ship, I'd imagine. 
+RO: Fun? 
+RIKER: Well, with that holodeck we just saw. I think I could conjure up
+an interesting
+programme or two. 
+RO: Now that's disappointing. 
+RIKER: Why? 
+RO: You don't strike me as a man who needs a holodeck to have a good
+time.
 
-[Bridge]
+[Ten Forward]
 
-(everyone is working at the rear stations except
-Worf, who is in the Captain's chair) 
-MACDUFF: We've heard from all decks. There are over a thousand people
-on board. Everyone's had their memories affected in the same way we
-have. 
-WORF: I have completed a survey of our tactical systems. We are
-equipped with ten phaser banks, two hundred and fifty photon torpedoes,
-and a high capacity shield grid. 
-MACDUFF: We're a battleship. 
-WORF: It appears so. 
-RO: This turbolift system gives us access to the rest of the ship. 
-RIKER: That sounds like the next logical step. Start with the most
-crucial areas. 
-RO: Main Engineering, deck thirty six. I'm on my way. 
-RIKER: Whoa, wait a minute. We've got to coordinate our efforts here
-first. 
-RO: I just need to do something. 
-RIKER: Look, I feel the same way. We all do. But if anything's going to
-get done. 
-RO: I know, I just. It's really an ugly feeling I don't like being so
-out of control. 
-RIKER: Well, we're going to have to depend on each other if we're going
-to get through this, okay? 
-RO: Okay. 
-RIKER: We're going to search the ship. 
-WORF: Very well. Proceed. 
-LAFORGE: I'll go with you. I want to get my hands on the computer core.
-See if we can re-establish control from there.
+RIKER: Who reported to the Bridge from this group? 
+TROI: I did. 
+RIKER: Have you found anything that might give us some insight into
+what happened? 
+TROI: Not specifically, but there are two things that seem unusual. The
+bartender is an artificial lifeform. 
+DATA: Can I get you something? A beverage? 
+RIKER: No, thank you. 
+RO: I'm fine. 
+RIKER: Your memories are gone as well? 
+DATA: The databanks that identify who I am are not functioning. 
+RIKER: You were going to mention something else? 
+TROI: I don't know if this means anything, but I seem to have an
+ability that the others don't. I have a very strong sense of what other
+people are feeling at times it's almost 
+RIKER: Is something wrong? 
+TROI: No. Just for a moment, you seemed familiar. 
+RIKER: You remember me? 
+TROI: Not exactly. I mean, I don't know who you are, but there's
+something about you. 
+WORF [OC]: Bridge to survey team. 
+RIKER: Survey team here. Go ahead. 
+WORF [OC]: We have accessed the personnel files. Report to the Bridge
+immediately. 
+RO: We're on our way.
 

@@ -1,61 +1,40 @@
-TROI KOLRAMI LAFORGE WORF PICARD RIKER PULASKI DATA
-
-[Ten
-Forward]
-
-(Troi
-putting the finger
-controls on Kolrami, while Worf is Riker's second. They
-are staring at each other
-across a board which will project a
-vertical game board)
-PULASKI:
-Against an opponent of approximate skill, Strategema can last
-well over one thousand moves. 
-LAFORGE: I wouldn't bet on us being here that long. 
-WORF: I have wagered heavily in the ship's pool that you will take him
-past the sixth plateau. 
-RIKER: And if I don't? 
-WORF: I will be irritated. 
-DATA: Forever curious, this urge to compete. 
-PULASKI: It's a human response. That inborn craving to gauge your
-capabilities through conflict. 
-DATA: Doctor, there are other ways to challenge oneself. 
-PULASKI: Perhaps, but they all lack a certain thrill. 
-TROI: Data, humans sometimes find it helpful to have an outsider set
-the standard by which they're judged. 
-DATA: To avoid deceiving oneself. 
-PULASKI: Maybe you should challenge Kolrami to Strategema. 
-DATA: Why, Doctor? 
-PULASKI: Because when someone is that smug, you occasionally have to
-deflate them just a little. 
-LAFORGE: Yeah, Data, I'd like to see your neural flex tear him down a
-peg. 
-DATA: To what end? 
-WORF: Computer. Actuation positions for Strategema. Ready? Begin. 
-LAFORGE: Come on, Commander, come on now. 
-TROI: Will. 
-LAFORGE: You can do it. You can get him. Come on, Commander. Come on,
-you got him, you got him, watch out. Here you go. 
-(And the score at the top of the board reads - Riker 023, Kolrami 100) 
-PULASKI: That's it? 
-RIKER: I'm afraid so. 
-PULASKI: But but you only made twenty-three moves. 
-RIKER: Yes. Congratulations.
-<
+PICARD RIKER KOLRAMI GUEST3 WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
 
-The
-Hathaway is old,
-battered, with that nacelle
-design of two above, two below)
-PICARD:
-Commander Riker, there's your next challenge. 
-WORF [OC]: Away team assembled and ready to transport, Commander. 
-RIKER: I may get over there and want to come right home. 
-PICARD: Good luck, Number One. Captain. 
-KOLRAMI: The simulation will commence in forty eight hours.
+GUEST3:
+Message from the Hathaway, sir.
+PICARD: On screen. 
+RIKER [on viewscreen]: Request permission for Ensign Crusher to reboard
+the Enterprise. 
+PICARD: Why? 
+RIKER [on viewscreen]: Apparently he was so anxious to be join the away
+team, he left a very critical experiment unattended. 
+PICARD: Have you any objection? 
+KOLRAMI: He should be escorted, and have no contact with anything save
+his research. 
+PICARD: Permission granted. Mister Burke, will you handle that? 
+GUEST3: Aye, sir. 
+KOLRAMI: I saw no sense in Riker choosing him anyway. Just a
+non-commissioned child.
+
+
+[Engineering]
+
+
+WESLEY:
+I can't believe I forgot about this. It's a good lesson not to let
+excitement cloud your thinking.
+GUEST3: Yeah. 
+WESLEY: It's very dull. I spent six weeks setting this up. 
+GUEST3: Lot of work. 
+WESLEY: Oh, no. This is ruined. 
+GUEST3: That's too bad. Look, is this going to take much longer? 
+WESLEY: I'm going to have to dispose of this safely It's very volatile.
+I'll beam it off the Enterprise and leave it particalised. 
+GUEST3: Fine, let's just do it. 
+WESLEY: I'll transfer the coordinates to the transporter room.
 
 

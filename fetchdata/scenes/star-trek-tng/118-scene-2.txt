@@ -1,52 +1,5 @@
 TROI LAFORGE WORF TASHA PICARD RADUE RIKER RASHELLA CRUSHER DATA
-
-[Bridge]
-
-CRUSHER: You're limping. 
-RIKER: Had a small run-in with an aspiring sprinter. 
-PICARD: Number One. 
-RIKER: Problem, Captain? 
-PICARD: No, more a curiosity. For the past few hours we've been
-tracking faint energy readings in an attempt to locate the source. It's
-like following a trail of bread crumbs. The pathfinder lead here and
-stopped, which is what I knew would interest you. 
-RIKER: What's our position, Geordi? 
-LAFORGE: The Epsilon Mynos system, sir. 
-RIKER: Thank you, Captain, you're right. I wouldn't miss this for
-anything. 
-TASHA: What's so interesting about this system? 
-RIKER: Aldea. Tasha, I'm surprised you haven't heard the stories about
-Aldea, the
-wondrous mythical world. Like Atlantis of ancient Earth or Neinman of
-Xerxes Seven. Advanced culture, centuries old. Self-contained,
-peaceful. Incredible technical sophistication providing the daily needs
-for all the citizens, so that they could turn themselves over to art
-and culture. 
-TASHA: Where is it supposed to be? 
-RIKER: That's the myth. Somehow, as the legend goes, the Aldeans were
-able to cloak their planet in darkness and go unseen by marauders, and
-other hostile passers-by who might rob and plunder. 
-TASHA: What a wonderful fairy tale. 
-DATA: Scanners still show nothing, sir. 
-TROI: Scanners may show nothing, sir, but I'm sensing something very
-strong. Thousands of minds. 
-PICARD: From where? 
-TROI: Very close. 
-PICARD: All stop, and hold this position. 
-LAFORGE: Aye, sir. All stop, and hold. 
-PICARD: Anything? 
-WORF: Captain, I'm recording a distortion in quadrant one, mark nine
-zero. 
-PICARD: On screen. 
-(The stars wobble) 
-PICARD: Shields and deflectors up. 
-TASHA: Aye, sir. 
-(Then a golden planet comes into view) 
-RIKER: It's Aldea, Captain. It has to be.
-
-Captain's log, stardate 41509.1. Either by chance
-or intent, we've been led to the planet Aldea, which appeared out of
-nowhere, hidden behind a sophisticated shielding device.
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 

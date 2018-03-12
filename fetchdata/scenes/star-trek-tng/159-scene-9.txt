@@ -1,37 +1,30 @@
-RIKER OBRIEN SECURITY
+GUEST3 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Brig]
 
-O'BRIEN: We're holding the contents in stasis
-pending arrival of security. An illicit weapon has been detected in the
-transport beam, sir. 
-[Bridge]
-
-O'BRIEN: It's been rendered inoperable. 
-RIKER: Work, let's greet our guest.
-
-[Transporter room]
-
-SECURITY: Bring him in, Mister O'Brien. 
-(The escaped prisoner raises his weapon.) 
-SECURITY: Just stay where you are. 
-(The security guard fires, but it has almost no effect. They are jumped
-by the prisoner) 
-O'BRIEN: More security, transporter room four. More security! More
-security! 
-(O'Brien tries to help out by getting the prisoner in a head lock, but
-he is easily
-thrown off. The two guards grab the man and they tumble out into)
-
-[Corridor]
-
-(Where one is thrown off down a side passage and
-the other nearly has his arm pulled out. O'Brien shoots the prisoner in
-the back with a phaser, but again, it has little effect. O'Brien gets a
-return shot for his trouble. The turbolift doors open, and Worf pushes
-Riker out of the line of fire just in time. They rush to help the guard
-who had been thrown down the passage and finally Worf pins down their
-quarry) 
-RIKER: Get him to a detention cell. Set phasers on maximum stun. 
-O'BRIEN: Commander.
+GUEST3: What do you want? 
+DATA: Am I disturbing you? 
+GUEST3: Yes. 
+DATA: Then I will leave. 
+GUEST3: NO. Wait, wait. I'd rather talk to someone. Why do you have
+yellow eyes? 
+DATA: I am an android. I believe you and I have something in common. 
+GUEST3: We do? 
+DATA: Yes. We have both been programmed. 
+GUEST3: Ah, yes, yes. You've been talking to Counsellor Troi. It is not
+at all the same, android. 
+DATA: I do not mean to belittle your condition. I understand your
+dilemma. But I am curious. My
+programme can be altered. Yours cannot? 
+GUEST3: The man I was is still inside me, but this conditioning has been
+imposed. Woven together with my thoughts and my feelings and my
+responses. How do you separate the programme from the man? 
+DATA: Without further analysis of your condition from Counsellor Troi
+or Doctor Crusher, I cannot say. But I believe it is possible. 
+GUEST3: Yeah, doctors! The Angosian doctors did this to me. If it could
+be undone, wouldn't they undo it? 
+DATA: I cannot answer that. 
+GUEST3: Nor can I, yet I ask myself that question every moment of every
+day.
 

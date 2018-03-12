@@ -1,4 +1,5 @@
-KURN RIKER WORF PICARD HELM SHANTHI
+KURN RIKER WORF PICARD HELM GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
  [Kurn's Bridge]
 
@@ -33,7 +34,7 @@ proposal to Fleet Admiral Shanthi.
 PICARD: There have been three major engagements in
 the last two weeks, all of them won by ships loyal to the Duras family.
 
-SHANTHI: (a lady Admiral of African descent) None of which is our
+GUEST0: (a lady Admiral of African descent) None of which is our
 concern, Jean-Luc. The Klingon civil war is, by definition, an internal
 matter of the Empire. 
 PICARD: Agreed. But if the Duras are being aided by the Romulans, it
@@ -43,26 +44,26 @@ the same time, the Duras have been secretly conspiring with the
 Romulans. Doesn't it strike you as odd that the Duras are able to field
 such an overpowering force against Gowron? That they outmatch him at
 almost every turn? 
-SHANTHI: Some would call it good leadership. 
+GUEST0: Some would call it good leadership. 
 PICARD: And some would say they must be getting help. The Romulans are
 prepared to take enormous risks to gain any advantage over the
 Federation. Can we seriously believe that now, with the future of the
 Klingon Empire in the balance, they are content to stand by and watch? 
-SHANTHI: What is it you propose, Captain? 
+GUEST0: What is it you propose, Captain? 
 PICARD: We must stop the flow of supplies and equipment to the Duras
 from the Romulans. What I propose is that we send a fleet to the
 Romulan-Klingon border. We'll take no offensive action, but we will be
 in a position to expose any Romulan supplies that attempt to cross the
 border. 
-SHANTHI: A blockade. 
+GUEST0: A blockade. 
 PICARD: Exactly. 
-SHANTHI: But how would you overcome the Romulan cloaking device? 
+GUEST0: But how would you overcome the Romulan cloaking device? 
 PICARD: My Chief Engineer has developed a system that should nullify
 that advantage. Each ship will send out an active tachyon beam to the
 other blockading ships. Now, in theory, any cloaked vessel that
 attempts to pass between our ships must cross that beam and be
 detected. 
-SHANTHI: I'll have to clear this with the Federation Council. In the
+GUEST0: I'll have to clear this with the Federation Council. In the
 meantime, assemble your fleet, Captain. 
 (Shanthi and her aide leave) 
 RIKER: Nicely done. I hope we know what we're doing. 

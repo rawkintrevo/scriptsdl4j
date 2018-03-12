@@ -1,51 +1,40 @@
-RIKER CRUSHER OBRIEN LAFORGE BARCLAY
-
-[USS Yosemite]
-
-(just down the corridor) 
-CRUSHER: Lieutenant Joshua Kelly. He was the ship's engineer. 
-RIKER: How did he die? 
-CRUSHER: He has second and third degree burns over most of his body,
-but I don't think they were the cause of his death. I'm like to take
-him back to do an autopsy.
+OBRIEN LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
-O'BRIEN: You're sure about this, sir? 
-BARCLAY: Sure. Please proceed. 
-O'BRIEN: It'll only take a minute. It should be a smooth ride over. 
-BARCLAY: Good. Good. 
-O'BRIEN: I know how you feel about this, sir. 
-BARCLAY: You're afraid of transporting, too? 
-O'BRIEN: No. Arachnids. Sickening, crawly little things, don't you
-think? All those legs. 
-BARCLAY: Spiders? They've never bothered me. 
-O'BRIEN: A few years back, I was called in to re-route an emitter array
-at a Starbase on Zayra Four. Turns out the entire system was infested
-with Talarian hook spiders. You ever seen a Talarian hook spider? Their
-legs are half a metre long. Well, I had a choice. Do I walk away and
-let the emitter blow itself to hell, or do I crawl in the Jeffries tube
-with twenty hook spiders? 
-BARCLAY: What happened? 
-O'BRIEN: It was the hardest thing I ever did, but I got through it.
-After that, I was never quite as afraid of spiders. 
-BARCLAY: Thanks. 
-O'BRIEN: Energising.
-
-[USS Yosemite Bridge]
-
-LAFORGE: Reg. Welcome aboard. You ready to work? 
-BARCLAY: Yes, sir. 
-LAFORGE: Good. Why don't you start by downloading the ship's science
-logs over there. 
-BARCLAY: Aye, sir. 
-RIKER: Still four members of the crew unaccounted for. Did you come up
-with anything? 
-LAFORGE: I don't know how these fit in, but I found them all around the
-transporter platform. 
-RIKER: What are they? 
-LAFORGE: They look like pieces of a standard sample container. 
-RIKER: Take them back to the ship, analyze them there. Mister Barclay.
-Glad you could join us. 
-BARCLAY: Me too, sir.
+O'BRIEN: The confinement beam subsystems check out.
+So do the phase transition coils. 
+LAFORGE: The pattern buffer is fine. 
+O'BRIEN: Emitter pads, targeting scanners, they're all working fine.
+This system's clean. So is the science vessel's. 
+LAFORGE: Reg, there's a lot of energy floating around in the beam.
+Maybe you saw a surge in the matter stream. 
+BARCLAY: Yeah. 
+O'BRIEN: I'll run a scan on the Heisenberg compensators. 
+BARCLAY: No, Chief, you've done enough already. 
+O'BRIEN: It's no problem. Why don't you give me a hand? 
+BARCLAY: You know, maybe ignorance really is bliss. 
+O'BRIEN: Sir? 
+BARCLAY: Well, if I didn't know so much about these things, maybe they
+wouldn't scare me so much. I can still remember the day in Doctor
+Olafson's Transporter Theory class when he was talking about the body
+being converted into billions of kiloquads of data, zipping through
+subspace, and I realised there's no margin for error. One atom out of
+place and poof! You never come back. It's amazing people aren't lost
+all the time. 
+O'BRIEN: With all due respect, sir, I've been doing this for twenty two
+years and I haven't lost anybody yet. 
+BARCLAY: Yes, but you realise if these imaging scanners are off even a
+thousandth of a percent. 
+O'BRIEN: That's why each pad has four redundant scanners. If any one
+scanner fails, the other three take over. 
+LAFORGE: Reg, how many transporter accidents have there been in the
+last ten years? Two? Three? There are millions of people who transport
+safely every day without a problem. 
+BARCLAY: I've heard of problems. What about transporter psychosis? 
+O'BRIEN: Transporter Psychosis? There hasn't been a case of that in
+over fifty years. Not since they perfected the multiplex pattern
+buffers. 
+LAFORGE: Reg, transporting really is the safest way to travel.
 

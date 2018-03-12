@@ -1,81 +1,66 @@
-RIKER LAFORGE TASHA PICARD Q COMPUTER DATA
-
-[Bridge]
-
-PICARD: Captain's log 
-COMPUTER: Captain's log 
-PICARD: Damn it. I can't even make a log entry. 
-TASHA: I wish I could help you, Captain.
-PICARD: Where is everyone else? 
-TASHA: Down on some planet. 
-PICARD: Some planet? What are you doing here? 
-TASHA: Well, I, er. It sounds strange, but I'm in a penalty box. 
-PICARD: A penalty box? 
-TASHA: Q's penalty box. It sounds strange, but it definitely isn't. I
-know that one more penalty by anyone and I'm gone. 
-PICARD: Gone? 
-TASHA: Yes! I am gone! It is so frustrating to be controlled like this!
-
-PICARD: Lieutenant. Tasha, it's all right. 
-TASHA: What the hell am I doing? Crying? 
-PICARD: Don't worry. There's a new ship's standing order on the Bridge.
-When one is in the penalty box, tears are permitted. 
-TASHA: Captain. Oh, if you weren't a captain. 
-Q: Consorting with lower rank females, Captain? Especially ones in
-penalty boxes? Destructive to discipline, they say. But then again,
-you're what? You're only human? Penalty over. 
-PICARD: A marshal of France? Ridiculous! 
-Q: One takes what jobs he can get. For example, star log entry,
-stardate today. This is Q, speaking for Captain Jean-Luc Picard, who we
-consider too bound by Starfleet customs and traditions to be useful to
-us. The Enterprise is now helpless, stuck like an Earth insect in amber
-while its bridge crew plays out a game whose real intent is to test
-whether the First Officer is worthy of the greatest gift the Q can
-offer. 
-PICARD: So you're taking on Riker this time. Excellent. He'll defeat
-you just as I did. 
-Q: Shall we wager on that, Captain? Your starship command against? 
-PICARD: Against your keeping out of humanity's path for ever. Done? 
-Q: Done! You've already lost, Picard. Riker will be offered something
-impossible to refuse.
+RIKER LAFORGE WORF TASHA PICARD Q WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Planet surface]
 
-RIKER: Geordi, can you see Worf? 
-LAFORGE: I'd see the freckles on his nose if he had them, sir. He's at
-the third ridge. 
-DATA: The third ridge? 
-LAFORGE: Moving well too. Oh, oh. Good, he sees them. 
-(Them being soldiers in an camp. And they grunt like pigs. Worf runs
-back) 
-[Ready Room]
-
-PICARD: Listen to me, Q. You seem to have some need
-for humans. 
-Q: Concern regarding them. 
-PICARD: Whatever it is, why do you demonstrate it through this
-confrontation? Why not a simple, direct explanation, a statement of
-what you seek? Why these games? 
-Q: Why these games? Why, the play's the thing. And I'm surprised you
-have to ask when your human Shakespeare explained it all so well. 
-PICARD: So he did, but don't depend too much on any single viewpoint 
-Q: It's a pity you don't know the content of your own library. Hear
-this, Picard, and reflect. All the galaxy's a stage. 
-PICARD: World, not galaxy. All the world's a stage. 
-Q: Oh, you know that one? Well, if he were living now he would have
-said galaxy. How about this? Life is but a walking shadow, a poor
-player that struts and frets his hour upon the stage and then is heard
-no more. It is a tale told by an idiot, full of sound and fury,
-signifying nothing. 
-PICARD: I see. So how we respond to a game tells you more about us than
-our real life, this tale told by an idiot? Interesting, Q. 
-Q: Oh, thank you very much. I'm glad you enjoyed it. Perhaps maybe a
-little Hamlet? 
-PICARD: Oh, no. I know Hamlet. And what he might said with irony, I say
-with conviction. What a piece of work is man. How noble in reason. How
-infinite in faculty. In form, in moving, how express and admirable. In
-action, how like an angel. In apprehension, how like a god. 
-Q: Surely you don't really see your species like that, do you? 
-PICARD: I see us one day becoming that, Q. Is it that what concerns
-you?
+(Riker is sitting on a rock, laughing) 
+Q: Something amuses you? Perhaps you'll share the joke with me? 
+RIKER: The joke is you. 
+Q: Strange gratitude, from one who has been granted a gift beyond any
+human dream. How can you not appreciate being able to send your friends
+back to their ship, or sending the soldiers back to the nothingness
+from which they came?
+Certainly, you must understand that at this moment you can send
+yourself back to the ship or to Earth, or change your shape and become
+anything else you want to be. 
+RIKER: What do you need, Q? 
+Q: Need? 
+RIKER: You want something from us, desperately. What is it? 
+Q: Want something from you foolish, fragile, non-entities? Oh come,
+Riker. You're beginning to sound like your Captain. 
+RIKER: Now that's a compliment, Q. But that's not an answer. 
+Q: Riker, we have offered you a gift beyond all other gifts! 
+RIKER: Out of the goodness of your heart. 
+Q: After Farpoint, I returned to where we exist. The Q Continuum. 
+RIKER: Which means exactly what? 
+Q: The limitless dimensions of the galaxy in which we exist. 
+RIKER: I don't understand. 
+Q: Of course you don't, and you never will until you become one of us. 
+RIKER: Until? Would you mind going over that again? 
+Q: Well if you'll stop interrupting me. This is hardly a time to be
+teaching you the true nature of the universe. However, at Farpoint we
+saw you as savages only. We discovered instead that you are unusual
+creatures in your own limited ways. Ways which in time will not be so
+limited. 
+RIKER: We're growing. Something about us compels us to learn, explore. 
+Q: Yes, the human compulsion. And unfortunately for us, it is a power
+which will grow stronger century after century, aeon after aeon. 
+RIKER: Aeons. Have you any idea how far we'll advance? 
+Q: Perhaps in a future that you cannot yet conceive, even beyond us. So
+you see, we must know more about this human condition. That's why we've
+selected you, Riker, to become part of the Q, so that you can bring to
+us this human need and hunger, that we may understand it. 
+RIKER: I suppose you mean that as a compliment, Q. Or maybe it's my
+limited mind. But to become a part of you? I don't even like you. 
+Q: You're going to miss me! 
+(Q vanishes and the Bridge crew appear) 
+LAFORGE: Come on, not again! 
+WESLEY: Commander Riker, what's going on? I was sitting in school and 
+TASHA: Worf, my phaser's gone. Are you armed? 
+WORF: No. 
+(The animal solders advance) 
+PICARD: Where is Q? If you have any answer to any of this? 
+(Worf charges to meet their enemy. He knocks two down before being
+bayoneted in the stomach) 
+WESLEY: Worf! 
+(He dashes to Worf) 
+RIKER: Look out! 
+PICARD: Wesley, no! 
+(Wesley gets bayoneted from behind. I confess, I cheered) 
+RIKER: Wesley! 
+PICARD: Wesley! 
+RIKER: No! Damn it! Damn it to hell! 
+(Riker throws up a Q forcefield in front of the soldiers) 
+PICARD: Riker. You! You did that! 
+RIKER: And that's not all!
 

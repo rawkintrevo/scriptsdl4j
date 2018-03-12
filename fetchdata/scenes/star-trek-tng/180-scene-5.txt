@@ -1,72 +1,55 @@
-PASSERBY RIKER OBRIEN WORF PICARD CRUSHER DATA MAN
+RIKER ISHARA WORF GUEST2 PICARD TROI CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: We are now entering the Turkana system, sir. 
-PICARD: Slow to impulse. 
-DATA: Visual contact. 
-RIKER: Get them out of there, O'Brien. 
-(There's a bright flash on the viewscreen) 
-RIKER: Status, O'Brien? 
-O'BRIEN [OC]: There's nothing to lock onto, Commander. 
-DATA: I am reading an ion trail characteristic of a freighter escape
-pod. 
-WORF: Unable to establish contact. 
-PICARD: It could have been damaged by the explosion. They may have been
-able to maintain orbit. 
-RIKER: Let's hope they stay clear of the colony. 
-DATA: That is exactly where the ion trail is leading, Commander. 
-PICARD: Hail the colony. 
-WORF: I've been trying to, Captain. No response. 
-RIKER: They haven't been able to maintain reliable communications since
-their government fell apart. 
-DATA: The last Federation vessel to make contact was the Potemkin, six
-years ago. They were warned that anyone transporting down to the colony
-would be killed. 
-PICARD: Number One, ready an away team.
+RIKER: According to Hayne, the Coalition and the
+Alliance raid each other for supplies, much of it non-essential. 
+PICARD: Why? 
+WORF: A battle exercise. 
+RIKER: Their defences apparently prevent deep strikes into each other's
+territory. Minor skirmishes are all that's left. 
+PICARD: Coalition. Alliance. It all sounds so reasonable, but what
+you've described is the behaviour of urban street thugs. We certainly
+won't trade weapons for crewmen. How do you suggest we deal with them? 
+RIKER: We have to tell them something. 
+WORF: No promises, no denials. 
+PICARD: For now, Hayne's Coalition is our only safe access to the
+colony. We'll keep the door open, see where it leads us. 
+WORF: Captain. Transmission coming in from Turkana Four, on a secure
+channel. 
+PICARD: On screen. 
+GUEST2 [on viewscreen]: Hello, Enterprise. Commander Riker, would you
+introduce me to your Captain? 
+PICARD: I'm Captain Jean-Luc Picard. 
+GUEST2 [on viewscreen]: I have someone here you might like to meet. This
+is Ishara. Ishara Yar. 
+ISHARA [on viewscreen]: Tasha was my sister. 
+GUEST2 [on viewscreen]: There's an old saying, Captain. The enemy of my
+enemy is my friend. I've decided it's in my best interest to help you
+get your crewmen back. 
+PICARD: With nothing from us in return? 
+GUEST2 [on viewscreen]: You could be forced into paying my adversary a
+ransom in weapons. I'll do anything I can to avoid that possibility. 
+PICARD: What do you propose? 
+GUEST2 [on viewscreen]: Ishara will be our liaison. 
+ISHARA [on viewscreen]: I know Alliance territory. I can help you with
+a rescue plan. 
+PICARD: One moment. 
+WORF: Mute. 
+PICARD: Reactions? 
+WORF: I do not trust him. 
+RIKER: She could be a fake. We told him a member of our crew was from
+the colony. 
+CRUSHER: All Hayne had to do was search through their database had on
+Starfleet to come up with Tasha's name. 
+PICARD: Counsellor? 
+TROI: He's deceiving us, and he's clearly hoping to manipulate us. As
+for the identity of the young woman, I can't really tell. 
+PICARD: Neverthe less, this is an option we cannot neglect. We'll
+continue on other fronts as they present themselves. For now, let's see
+what she has to say. 
+WORF: Open. 
+PICARD: I have decided to accept your proposal. 
+GUEST2 [on viewscreen]: Thank you. Good luck.
 
-Captain's log, supplemental. We are in orbit above
-Turkana Four, an Earth colony that severed relations with the
-Federation nearly fifteen years ago. I am concerned about sending an
-away team, but if we are to discover the fate of the two missing
-Federation crewmen, I see no alternative.
-
-[Transporter room]
-
-DATA: The surface settlement appears to be all but
-destroyed. Sensors show that the colonists now live in structures that
-extend nearly three kilometres beneath the city. 
-RIKER: Have you located the escape pod's landing point, Chief? 
-O'BRIEN: Yes, sir. Three hundred metres beyond the colony perimeter. 
-WORF: Sir, we can anticipate a violent response to our presence.
-Perhaps the Doctor should wait here until we signal. 
-CRUSHER: I appreciate your concern. I think it's exaggerated. 
-WORF: The colony is completely lawless. Lieutenant Yar spoke of rape
-gangs and 
-CRUSHER: Mister Worf, I can handle myself. 
-RIKER: She's coming. The Arcos crewmen may require immediate medical
-assistance. Phasers on maximum stun. Energise.
-
-[Tunnel]
-
-(very man-made, with iron bars, neon signs, and
-other metallic detritus) 
-DATA: The dispersion trail continues in this direction. The
-concentration gradient definitely increases along this vector.
-The escape pod was apparently moved into the tunnels ahead of us. 
-(The people they meet take no obvious notice of them, but carry on with
-what they are doing) 
-RIKER: Hardly the response we expected. 
-PASSER-BY: Pardon me. 
-CRUSHER: Maybe things have changed here. 
-(Then an alarm goes off, and an armed group appears) 
-MAN: Freeze! Identify yourselves. 
-RIKER: We're from the Federation Starship Enterprise. We tracked two of
-our crewmen to this area. Do you know anything about them? 
-MAN: Possibly. 
-RIKER: What do you mean? 
-(A light on the man's chest flashes yellow) 
-MAN: They found us. 
-WORF: Proximity detectors. I've seen them used on Manu Three. 
-MAN: Follow me. 
-(His group run off, carrying a case. The away team follow) 

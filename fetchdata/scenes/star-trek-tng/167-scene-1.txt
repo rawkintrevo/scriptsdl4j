@@ -1,4 +1,5 @@
-TROI BORATUS PICARD RIKER COMPUTER PIKER AJUR
+TROI GUEST0 PICARD RIKER COMPUTER GUEST2 GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
   [Resort
 Lobby]
@@ -6,14 +7,14 @@ Lobby]
 (Scantily clad holiday makers stroll to and fro, as
 two aliens beam in and go to the information desk) 
 COMPUTER: Welcome to Risa. All that is ours is yours. 
-AJUR: (the female alien) We are looking for the lodging chamber of
+GUEST4: (the female alien) We are looking for the lodging chamber of
 Captain Jean-Luc Picard. 
 COMPUTER: A file scan reveals no record of a Captain Picard currently
 visiting Risa. 
-AJUR: When is he expected to arrive? 
+GUEST4: When is he expected to arrive? 
 COMPUTER: Where is no arrival date on file for any such individual. 
-BORATUS: (the male alien) Could we have been mistaken? 
-AJUR: He will come.
+GUEST0: (the male alien) Could we have been mistaken? 
+GUEST4: He will come.
 
 First officer's log, Stardate 43745.2. We have
 departed Gemaris Five, where for the past two weeks Captain Picard has
@@ -36,7 +37,7 @@ RIKER: Everything status quo, sir.
 PICARD: Very well. If anyone needs me, I'll be in my Ready Room. 
 RIKER: Sir. Congratulations. 
 PICARD: About what? 
-PIKER: About the trade agreement. 
+GUEST2: About the trade agreement. 
 (Picard leaves) 
 RIKER: Is it my imagination, or is something bothering the Captain? 
 TROI: He has been under a great deal of strain lately. While we were on

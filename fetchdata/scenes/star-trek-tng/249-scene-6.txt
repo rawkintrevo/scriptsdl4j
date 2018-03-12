@@ -1,42 +1,36 @@
-ALL WORF DIVOK KOROTH TORIN KAHLESS
+PICARD RIKER CRUSHER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Lava cave]
+[Observation lounge]
 
-(Divok is pouring something on the fire as Worf
-meditates) 
-WORF: Torva luk do shel. Torva luk 
-(a figure appears) 
-WORF: I see Kahless. 
-(Divok runs out. The figure walks forward and holds out his arms. Worf
-touches his hands.) 
-WORF: You are real. 
-(the other Klingons enter) 
-KAHLESS: I am Kahless, and I have returned.
-
-[Temple]
-
-(Kahless and the group march in, and Kahless picks
-up the bat'leth from the throne) 
-KOROTH: What are you doing? Who are you? 
-DIVOK: It is Kahless. 
-KAHLESS: I have returned. You doubt me. Who here knows the story of how
-this sword was forged? 
-TORIN: No one knows. It is not written in the sacred texts. 
-KAHLESS: I went into the mountains, all the way to the volcano at
-Kri'stak. There I cut off a lock of my hair and thrust it into the
-river of molten rock which poured from the summit. The hair began to
-burn. Then I plunged it into the lake of Lusor and twisted it into this
-sword. And after I used it to kill the tyrant Molor I gave it a name.
-Bat'leth. The sword of honour. 
-KOROTH: You know. The story of the sword is known only to the High
-Clerics. It was never written down, so that if he returned, we could be
-sure it was Kahless. 
-KAHLESS: I have returned because there is a great need in my people.
-They fight among themselves in petty wars and corrupt the glory of the
-Klingon spirit. They have lost their way. But it is not too late. I
-have returned and I will lead my people again. 
-(Koroth kneels) 
-KOROTH: Vorcha doh baghk, Kahless! 
-ALL: (kneeling) Vorcha doh baghk, Kahless! Vorcha doh baghk, Kahless!
-(all, that is, except for Worf)
+CRUSHER: Did you take any other tricorder readings?
+An anatomical profile or a neurophysiology scan? 
+WORF: No. 
+CRUSHER: It's going to be very difficult to eliminate any possibilities
+at this point. He may be a coalescent being taking Klingon form, or a
+bioreplicant or even a Klingon who has been surgically altered to look
+like Kahless. 
+WORF: There is another possibility. He could be the real Kahless. He
+may have actually returned as he promised. 
+DATA: The appearance of Kahless in the lava caves is consistent with
+the stories found in the Klingon sacred texts. 
+RIKER: Worf, no offence, but I have trouble believing that the man I
+that escorted to deck eight is supernatural. 
+WORF: I did not say that he is. I merely think we should not completely
+reject the possibility. 
+PICARD: Look, we have no reason to rule out anything. We are not
+ordered to investigate the origins of our guest, nor tell anyone what
+they should believe. We are simply to transport Kahless to the Home
+World. And while he's here with us, he will be treated as an honoured
+guest. 
+(as everyone starts to leave) 
+DATA: Lieutenant? May I ask a question? In the absence of empirical
+data, how will you determine whether or not this is the real Kahless? 
+WORF: It is not an empirical matter. It is a matter of faith. 
+DATA: Faith? Then you do believe Kahless may have supernatural
+attributes? As an android, I am unable to accept
+that which cannot be proven through rational means. I would appreciate
+hearing your insights on this matter. 
+WORF: Perhaps some other time, Commander. I do not believe I can
+provide much insight at this minute.
 

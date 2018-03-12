@@ -1,79 +1,33 @@
-TROI CRUSHER LAFORGE WORF PICARD RIKER OGAWA RO DATA
+PICARD CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Crusher's quarters]
 
-PICARD: Report. 
-RO: Sensors didn't detect the phenomenon until we were almost on top of
-it, sir. 
-WORF: It is a highly localised distortion of the space-time continuum. 
-RIKER: On screen. 
-(a blue weird thing) 
-PICARD: Back us off, Ensign. Nice and slow. 
-RO: Aye sir. Captain, manoeuvring thrusters are not responding. 
-DATA: The distortion field is fluctuating. 
-LAFORGE: All main systems just went down. Power levels are dropping
-rapidly. 
-RIKER: Red alert. 
-DATA: There is an energy build up in the distortion field. 
-TROI: We have to get out of here now. 
-DATA: Captain, something is emerging. 
-(it's a smaller starship) 
-RIKER: Shields up. Evasive manoeuvres. 
-WORF: Shields inoperative. 
-RO: The helm's not responding. 
-DATA: The vessel is on a collision course. Impact in thirty six
-seconds. 
-PICARD: Hail them. 
-WORF: No response. 
-PICARD: Suggestions? 
-RIKER: Decompress main shuttlebay. The explosive reaction may kick us
-out of the way. 
-DATA: Captain, I suggest we use the tractor beam to alter the other
-ship's trajectory. 
-PICARD: Mister Worf, make it so. 
-WORF: Engaging tractor beam. 
-(but the NCC 1841 clips the nacelle anyway) 
-RIKER: Damage report! 
-CRUSHER: Casualty reports coming in from all over the ship. 
-DATA: Starboard nacelle sustained a direct impact. Venting drive
-plasma. 
-LAFORGE: Initiating emergency core shutdown. 
-RO: Inertial dampers failing. We're losing attitude control. 
-RIKER: This is the Bridge. All hands to emergency escape pods. 
-DATA: Core shutdown was unsuccessful. We are losing antimatter
-containment. 
-LAFORGE: We've got to eject the engine core! 
-DATA: Ejection systems are offline. Core breach is imminent. 
-PICARD: All hands, abandon ship! Repeat, all hands abandon 
-(KaBOOM!!!!)
+(Beverly is about to dead-head a plant, when she
+stops. She sips her night-cap, sits on the bed and gives the glass a
+quizzical look. Then she sets it down, turns out the lights and lies
+down. The voices start up. Reaching for the lights, she knocks over the
+glass, and the voices stop) 
+CRUSHER: Crusher to Captain Picard. 
+PICARD [OC]: Yes, Doctor? 
+CRUSHER: Do you have a minute, Jean-Luc?
 
-Captain's log, stardate 45652.1. The Enterprise has
-entered an area of space known as the Typhon Expanse. We are the first
-Starfleet vessel to chart this unexplored region.
+[Ready room]
 
-[Someone's quarters]
-
-RIKER: Sometimes I wonder if he's stacking the
-deck. 
-DATA: I assure you, Commander, the cards have been sufficiently
-randomised. 
-WORF: I hope so. 
-DATA: Eight. Ace. Queen. The dealer receives a four. 
-WORF: No bet. 
-DATA: Ten. Seven. No help there. A pair of ladies for the Doctor.
-Dealer receives a nine. Doctor? May I remind you since you show the
-highest hand, you control the next bet. 
-WORF: Is there something wrong, Doctor? 
-CRUSHER: No. I bet ten. 
-DATA: Jack. Four. Deuce. Six. 
-CRUSHER: Twenty. 
-RIKER: Your twenty and I'll raise you fifty. You're going to call my
-bluff, aren't you. I think I'll quit while I'm ahead. 
-CRUSHER: How did you know I was going to call your bluff? 
-RIKER: I just had a feeling. 
-CRUSHER: Me too. 
-OGAWA [OC]: Ogawa to Doctor Crusher. 
-CRUSHER: Go ahead. 
-OGAWA [OC]: Commander La Forge needs you in Sickbay. 
-CRUSHER: On my way.
+PICARD: My Aunt Adele cured a lot of sleepless
+nights with this steamed milk. 
+CRUSHER: Thank you. Mmm, nutmeg. 
+PICARD: Whenever I get insomnia, I try to perfect the recipe. 
+CRUSHER: It was the eeriest feeling. When the glass broke, it triggered
+the sensation even more intensely that I'd done it all before. 
+PICARD: You know, earlier, I was reading this book, and I had the
+distinct feeling I'd read certain paragraphs before. But I assumed I'd
+read the book years ago and I'd forgotten. 
+CRUSHER: I've had this feeling for hours. And then the voices. 
+PICARD: Well, it could be nothing more than the result of a sleepless
+night. But let's be sure. Have Data and Geordi run a shipwide
+diagnostic, concentrating on the time and place you heard the voices,
+and we'll discuss the results tomorrow at seven hundred hours. 
+CRUSHER: Thank you. For everything. 
+PICARD: Thank Aunt Adele.
 

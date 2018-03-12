@@ -1,47 +1,82 @@
-ARMUS PICARD RIKER CRUSHER DATA
+RIKER CRUSHER WORF PICARD ARMUS DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Planet surface]
 
-RIKER: Analysis, Mister Data. 
-DATA: Inconclusive, sir. I cannot tell you what it is, but I can tell
-you what it is not. 
-RIKER: Explain. 
-DATA: There is no evidence of neural or circulatory systems. No
-internal organs. Cellular structure unknown. It does not have any
-proteins which are known to us. 
-CRUSHER: It's narrower over here. We can get over it. 
-RIKER: How is it moving, Data? 
-DATA: I do not know, sir. It does not appear to have a skeletal
-framework or musculature. 
-RIKER: Then what's causing it to move? 
-DATA: It appears to be following us, sir. 
-RIKER: No sign of intelligence, no brain as we know it, yet evidence of
-thought, Mister Data? 
-DATA: Insufficient information, sir. 
-[Bridge]
+(Picard is with the team. Armus slithers over to
+them) 
+ARMUS: You are the one in charge? 
+PICARD: (to Data) Is Commander Riker alive? 
+ARMUS: Answer, Tin Man. 
+DATA: I would guess that death is no longer sufficient entertainment to
+alleviate its boredom. Therefore, Commander Riker is alive. 
+ARMUS: Maybe. Don't you want to ask me what I want? 
+PICARD: No. 
+ARMUS: Not even to protect your own existence? 
+PICARD: I want to see my people in the shuttle. 
+ARMUS: Entertain me. (Picard shakes his head) Then I will do it myself.
+You, Tin Man. 
+(Data moves jerkily, and points his phaser at Beverly, then Picard) 
+ARMUS: Now tell me, how would you feel if you were the instrument of
+death for your leader? 
+PICARD: Don't struggle, Data. 
+DATA: I have no control over what you do with the phaser. Therefore, I
+would not be the instrument of his death. 
+ARMUS: Perhaps killing the Doctor would engender more feeling? 
+DATA: No, the control is still yours. 
+ARMUS: And what about you, Doctor? Are you ready to die? Tell me you
+are not afraid. 
+CRUSHER: I am afraid. 
+ARMUS: Beg me to spare you. 
+CRUSHER: No. 
+ARMUS: One of you is going to die, and you, Doctor, get to choose. You
+don't like that, do you? 
+CRUSHER: Then I choose myself. 
+ARMUS: No. You are going to live. One of them dies. 
+(Data's arm swings around and ends pointing the phaser at his own head)
 
-PICARD: Is it a life form, Data? 
-DATA [OC]: Again, insufficient information, sir. 
-PICARD: Theorise.
-
-[Planet surface]
-
-DATA: It is possible. 
-(The oil slick ripples, and speaks) 
-ARMUS: Very good, tin man. 
-
-[Bridge]
-
-PICARD: What is it, Number One? What are you
-seeing? 
-[Planet surface]
-
-(As a vaguely humanoid shape rises wet and
-glistening from the slick) 
-RIKER: Trouble.
-
-Captain's log, supplemental. While on a mission to
-rescue survivors from an unexplained shuttle crash, the away team has
-encountered a strange creature which seems able to assume different
-forms, including one which resembles humanoid.
-
+ARMUS: Maybe this one. Though I would not call it death, since he is
+only a device. Tell me, Tin Man, how does it feel to face your own
+extinction. 
+DATA: Curious. (the phaser drops) You are capable of great sadism and
+cruelty. Interesting. No redeeming qualities. 
+ARMUS: So what do you think? 
+DATA: I think you should be destroyed. 
+ARMUS: A moral judgment from a machine. 
+PICARD: Data. Armus, we're finished dealing with you. 
+ARMUS: I have your man in here, and the others in the shuttle. 
+PICARD: It doesn't matter. We will no longer be a source of amusement. 
+ARMUS: I can kill them. 
+PICARD: Yes. You can. But only I can command them. They follow my
+orders. 
+ARMUS: Have them amuse me. 
+PICARD: Only if you let me see my people on the shuttle first. I must
+see them. 
+ARMUS: Not possible. 
+PICARD: Then our business with you is concluded. 
+ARMUS: And you claim you care about your comrades. 
+PICARD: I care. Which is why I must see them. 
+ARMUS: You want to see your people? Then, here. Look at this one. 
+(Riker is tossed out of the slick, covered in oil) 
+CRUSHER: He's alive. Don't move. 
+PICARD: Is he all right? 
+CRUSHER: All signs show normal. 
+RIKER: So much frustration. It had to get rid of me. 
+PICARD: Now, let me see the others. 
+ARMUS: No. 
+PICARD: I will not allow my people to entertain you until you do. 
+ARMUS: They are incapable of entertaining me. 
+PICARD: I want the four of you out of here. Enterprise, beam up the
+away team immediately. 
+WORF [OC]: Aye, sir. 
+PICARD: They're no longer involved. This is between you and me. 
+ARMUS: They may leave. 
+(The team are beamed away) 
+PICARD: Now. 
+ARMUS: I want to leave this place. 
+PICARD: You want me to give you transportation? 
+ARMUS: For which I will trade you lives. 
+PICARD: I must see my people in the shuttle. 
+ARMUS: Will you give me what I want? 
+PICARD: I have the means. But first I must see my people. 
+ARMUS: If you must. 

@@ -1,82 +1,31 @@
-TROI CRUSHER PICARD RIKER OBRIEN RO DATA
+RO CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Moon surface]
+[Jefferies tube]
 
-RIKER: Mister O'Brien! Nice of you to join us. 
-O'BRIEN: Nice spot for a picnic, sir. We need to distribute these
-enhancer rods at seven metre lengths. That should do it. 
-RIKER: Is this storm front going to interfere with the transport,
-Chief? 
-O'BRIEN: I'd really like to get us out of here before it hits,
-Commander. I'm supposed to be feeding the baby lunch. Molly gets in a
-terribly foul mood if I'm late. 
-RIKER: I'm with you. 
-(the sky is very angry) 
-RIKER: Lunch time, Miles! Let's do it! 
-(O'Brien goes to turn on the pattern enhancers, and gets hit by
-lightning. They all fall down. Balls of light descend on them, but one
-flies away from Riker, who wakes up. He activates the enhancers and
-they are all beamed away)
-
-[Sickbay]
-
-(Troi wakes with a scream) 
-CRUSHER: Easy, Deanna. 
-TROI: Where? 
-CRUSHER: Back on the Enterprise. You're going to be okay. 
-TROI: My skin, it's tingling. 
-CRUSHER: You're experiencing the afterimages of the electromagnetic
-discharge. The sensation will pass. They're all fine, too. Now, I want
-you to take your time, Counsellor. Doctor's orders. 
-(Picard enters) 
-PICARD: Injury report, Doctor? 
-CRUSHER: Mostly minor abrasions. Commander Riker took the worst of it
-with a broken arm.
-PICARD: Mister Data. Good work, Chief. 
-O'BRIEN: Thank you, sir. 
-RIKER: Ready for duty, sir. 
-PICARD: You're sure, Number One? 
-RIKER: It's not the first bone I've ever broken. 
-PICARD: And how are you, Counsellor? 
-TROI: Very glad to be here. 
-PICARD: Good. Let's go. 
-[Corridor]
-
-PICARD: So what happened down there? 
-RIKER: It was just one hell of a storm. It moved in on our position
-faster than anything I've ever seen. 
-PICARD: Was there any evidence of life? 
-[Turbolift]
-
-RIKER: No, but if Troi was right, we were very
-close to it. 
-PICARD: Bridge. How do you suggest we proceed? 
-RIKER: We need to adjust the scanners so they can penetrate those
-storms. Do you have any ideas, Data? 
-DATA: We might be able to employ virtual imaging to interpolate
-(metallic sound) missing data. 
-PICARD: Is something wrong, Commander?
-
-DATA: My apologies. It seems my primary speech processors are
-experiencing a minor fluctuation. I will have it corrected in a moment.
-
+(Geordi and Ro are pushing some equipment in front
+of them) 
+LAFORGE: Section two B, A, section one. 
+RO: Finally. I never want to see this part of the Enterprise again. 
+LAFORGE: I hear you. This is what starship designers call easy access.
+Yeah, yeah, this is it. I thought we might have a problem with conduit
+number two twenty seven but it looks like we're going to be able to get
+by it. 
+(They remove deck grills and he hands Ro a small device) 
+RO: Thanks. 
+(She cuts through circuitry) 
+RO: We're through. 
+LAFORGE: Good. Let's hook up the scanner and see what we've got. 
+(She places the big device over her tiny hole and looks at the scene
+below on a monitor) 
+RO: Got it. All three have got to be in the circle if this is going to
+work. 
+LAFORGE: We're halfway home. La Forge to Crusher. How're you doing? 
+CRUSHER [OC]: I think I've come up with an idea for a containment
+field. 
 [Bridge]
 
-TROI: Captain, may I speak with you a moment in
-private? 
-PICARD: Of course. You have the Bridge, Number One. 
-RIKER: Mister Data, deploy sensor scans when you're ready. Ensign, take
-us to a synchronous orbit aligned around our crash site. 
-(Picard and Troi leave) 
-RO: Aye, sir. 
-DATA: Sir, given the EM field properties of this moon, I recommend a
-search pattern beginning in the southern polar region. 
-RIKER: The polar region? That would be starting from scratch, Mister
-Data. Our latest
-readings would suggest that we begin our scan around our crash site. 
-DATA: The Essex signal was never clearly located, sir. A systematic
-survey of the moon from a polar orbit might be more practical. 
-RIKER: Well, you might be right, but I'd like to give the crash site a
-once over first. Maintain our current orbit. 
-DATA: Understood, sir.
-
+(magnetic flux density analysis 4077) 
+CRUSHER: This anionic energy seems to be vulnerable to the same
+magnetic flux density we monitored in the storms. If we can duplicate
+it, we can trap it 

@@ -1,81 +1,26 @@
-RIKER LAFORGE WORF PICARD HOLT CRUSHER DATA
+PICARD RIKER CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jefferies tube]
+[Sickbay]
 
-LAFORGE: There it goes. I'm on my way down.
+(Geordi's hands are in the healing box) 
+PICARD: How did this happen? 
+CRUSHER: There was some kind of energy discharge in the interface suit.
 
-[Laboratory]
-
-RIKER: Why the body suit? 
-DATA: It provides tactile sensations so that Geordi can feel he's in
-the same environment as the probe. 
-(Geordi is 'walking' past a panel and sees the probe as his reflection.
-He leans forward to examine it) 
-CRUSHER: Geordi, what's wrong? 
-LAFORGE: Nothing. I'm seeing my reflection in a panel. 
-[Engineering]
-
-LAFORGE: I forgot what a handsome guy I am.
-
-Captain's log, stardate 47215.5. We are responding
-to a distress call from the science vessel Raman, which is apparently
-trapped inside the turbulent atmosphere of an unusual gas giant planet.
-We will use an experimental interface probe in our attempt to rescue
-it.
-
-[Bridge]
-
-DATA: I have reviewed the vessel's mission plans.
-The Raman was to descend to the lower atmosphere, eleven thousand
-kilometres below its current position. The crew was to sample the
-atmosphere at that level, and then return to a safer orbit. 
-LAFORGE: Something must have happened down there. Maybe the shields
-failed, or they had some kind of inversion reaction in the nacelles. 
-PICARD: Any life signs? 
-LAFORGE: Our biosensors are useless. There's too much interference in
-the atmosphere. 
-RIKER: The crew might still be alive. There's no way we can tell from
-up here. 
-PICARD: Will the probe be able to transmit through that interference? 
-DATA: The probe sends information via a focused particle beam. It
-should be able to cut through the interference. 
-LAFORGE: But we may have to operate the probe at close to tolerance
-levels. 
-PICARD: Will your nervous system be able to handle that much sensory
-input? 
-LAFORGE: We've already tested the interface at about seventy percent
-tolerance. 
-RIKER: We shouldn't have any trouble going higher. The safety override
-will kick in at about ninety eight percent tolerance, and that'll
-disengage the interface. 
-WORF: Captain, I am receiving a transmission from Starfleet Command.
-Admiral Holt. 
-PICARD: In my ready room. The seven people on that ship are our first
-priority. Is the probe ready for launch?
-DATA: Yes, sir. 
-PICARD: Send it directly to the aft section of the Raman through the
-secondary air lock. That way it should put it just one bulkhead away
-from the Bridge. 
-LAFORGE: I'll interface with the probe as soon as it's ready, take it
-the rest of the way from there. 
-PICARD: Make it so.
-
-[Ready room]
-
-PICARD: Hello, Marcus. 
-HOLT [on monitor]: Jean-Luc. 
-PICARD: How's life on DS Three? 
-HOLT [on monitor]: We're hosting this year's palio. The Ferengi have
-already been accused of trying to bribe the Breen pilot into throwing
-the race. 
-PICARD: There's nothing unusual about that. 
-HOLT [on monitor]: Nothing at all. I wish I could say I was just
-calling to catch up on things. Nine days ago, the Hera left here on a
-routine courier mission. We were in contact with them for five of those
-days. Then the ship disappeared without a trace. 
-PICARD: The Hera? 
-HOLT [on monitor]: I'm afraid so. The Excelsior and the Noble have been
-retracing its course for the last seventy two hours. Nothing. I'm going
-to keep them at it for another seventy two. But to be honest, I don't
-think another week would make any difference. 
-PICARD: I'll inform Commander La Forge. 
+PICARD: But shouldn't the safety overrides have prevented that? 
+CRUSHER: Yes, but I have a theory why they didn't. The tolerance levels
+of the interface were set extremely high. I think Geordi's neural
+response to the input was so strong that it created a feedback loop. 
+LAFORGE: The sensors that were transmitting the sensation of heat to my
+hands must've overloaded. 
+PICARD: The crew of the Raman are dead. I would like to retrieve them
+and their vessel, but not if it means putting Geordi's safety at risk. 
+LAFORGE: If we turn down the sensory input on the probe, I should be
+fine. Seven people lost their lives down there, Captain. We should at
+least retrieve the information they were collecting. 
+PICARD: Doctor? 
+CRUSHER: If we operate the interface at lower input levels, I'd say the
+risk is acceptable. 
+PICARD: Picard to Riker. 
+RIKER [OC]: Riker here. 
+PICARD: We will proceed with the probe. 

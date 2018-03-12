@@ -1,47 +1,32 @@
-RIKER OBRIEN WORF PICARD CRUSHER DATA
+WESLEY CRUSHER OBRIEN COMPUTER PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-RIKER: Course laid in for Durenia Four, sir. 
-PICARD: Thank you, Number One. Mister Data? 
-DATA: Sir, Starbase one three three has no record at all of a Doctor
-Dalen Quaice. 
-PICARD: You said he was stationed there for six years. 
-DATA: Not according to their computer. I have also accessed Starfleet
-records. There is no doctor currently serving in Starfleet named
-Quaice. In fact, I can find no service record whatsoever. There are no
-birth records with that name. I find no 
-CRUSHER: Data, I interned with him on Delos Four. I've known him for
-fifteen years. 
-DATA: I do not doubt you, Doctor, but I have tried one hundred seventy
-three phonetic variations of the name, and I 
-CRUSHER: His name is Dalen Quaice. Q U A I C E. Whatever your records
-say, they're wrong. 
-PICARD: Mister Worf? 
-WORF: We have completed our search, Captain. We cannot locate Doctor
-Quaice. 
-RIKER: You're not alone. 
-CRUSHER: He was on board. I met him myself in Transporter room three. 
-PICARD: Then it appears, for reasons unknown, someone has gone to great
-pains to erase all traces of this man. 
-RIKER: Who was on transporter duty when he came aboard?
+CRUSHER: Chief, this examination should only take a
+few minutes. 
+O'BRIEN: But I feel fine. 
+CRUSHER: Sit down. 
+O'BRIEN: Doctor, it's no use checking my eyesight. I didn't see your
+friend. 
+CRUSHER: I'll be a little more comprehensive than that, Chief. Doctor
+Crusher to Doctor Hill. Respond, please. Doctor Selar, your present
+location? Computer, current whereabouts of Doctors Hill and Selar. 
+COMPUTER: There is no Doctor Hill or Doctor Selar aboard the
+Enterprise.
 
-[Transporter room]
+[Ready room]
 
-O'BRIEN: Doctor Quaice? Was he part of the regular
-crew rotation? 
-RIKER: No. He's a friend of Doctor Crusher's. 
-O'BRIEN: When did he arrive? 
-CRUSHER: Yesterday at sixteen hundred hours. 
-O'BRIEN: That was my watch. I beamed this man onboard? 
-CRUSHER: Yes. I was here to greet him. An elderly man, not in the best
-of health. 
-O'BRIEN: I'm sorry. I remember you were here for a short while, but you
-were alone. 
-CRUSHER: Was he invisible? Did I carry on a conversation with thin air?
-
-O'BRIEN: No, Doctor. As I recall, you came in and you looked around for
-a few moments. I asked you if I could help you with anything. All you
-said was 'Thank you.' I said, 'My pleasure,' or something, and that was
-the end of it. There was no one else here.
-
+CRUSHER: Doctors Hill and Selar, and four other
+members of my medical staff have all vanished. All record of their ever
+having been on the Enterprise has been excised from the computer's
+memory. 
+PICARD: Did they come aboard with Doctor Quaice? 
+CRUSHER: No. They've been on board for months. But my two duty nurses
+don't remember them. Their families don't even remember them. 
+PICARD: As O'Brien didn't remember Doctor Quaice. 
+CRUSHER: I checked O'Brien thoroughly. I found no physiological
+abnormalities. 
+WESLEY [OC]: Crusher to Captain Picard. 
+PICARD: Go ahead, Ensign. 
+WESLEY [OC]: I'm in Engineering, sir. 

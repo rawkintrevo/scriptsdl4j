@@ -1,30 +1,36 @@
-TALUR DATA GIA GARVIN
+GUEST3 DATA GUEST2 GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Garvin's home]
+[Town square]
 
-(at evening meal) 
-TALUR: It's perfectly understandable. Your people probably all have
-great strength. It will allow them to fight off the ferocious creatures
-that live in the Vellorian Mountains. 
-DATA: You have told me no one from the village has ever been to the
-Vellorian Mountains. How can you be certain there are ferocious
-creatures there? 
-TALUR: It's a well known fact. 
-DATA: But no one has actually seen one? 
-TALUR: Well, not to my knowledge, but 
-GIA: Father, are you all right? 
-GARVIN: I've been tired since this afternoon. I'm sure it's nothing. 
-TALUR: You feel slightly warm. Some fresh air and a brisk walk will do
-you good. 
-GARVIN: That sounds like a good idea. I'll be back soon. 
-(Garvin and Talur leave) 
-GIA: You didn't like it? 
-DATA: I neither liked it nor disliked it. I simply had no appetite. 
-GIA: Father's cooking isn't as good as mother's. He tries, though. 
-DATA: Where is your mother? 
-GIA: She died about a year ago. Father says she went to a beautiful
-place where everything is peaceful and everyone loves each other, and
-no one ever gets sick. Do you think there's really a place like that? 
-(Data gazes out at the moon and stars) 
-DATA: Yes. I do.
+(at the blacksmith's forge) 
+GUEST2: You, Ice man, where'd you find this? 
+DATA: I do not know. 
+GUEST3: I told you, he's lost his memory and we're calling him Jayden
+for now. 
+GUEST2: Jayden, huh? The metal is slightly warm. 
+GUEST3: All the fragments are like that. 
+(Skoran hit's it with a hammer on the anvil) 
+GUEST2: It's obviously been tempered and milled. The lustrous quality
+of the metal is so pure. This wasn't made in any forge I've ever seen.
+Will you sell them? 
+GUEST3: You want them? 
+GUEST2: The metal's malleable enough to make some jewellry. 
+GUEST3: They belong to Jayden. Do you want to sell them? You're going
+to need money. 
+DATA: You may be right. But I do not wish to sell all the fragments.
+They may provide a clue to my identity. 
+GUEST2: I'll give you twenty doraks for half the lot. 
+GUEST3: Agreed. 
+(the wooden base of the anvil cracks, and the anvil falls on the
+apprentice's leg) 
+GUEST0: My leg! My leg! Get it off! Get it off! 
+(townsfolk rush to help) 
+GUEST2: We need a lever. 
+GUEST3: It'll be all right. Don't struggle. It will only 
+(Data lifts the anvil easily) 
+GUEST3: Jayden, put it down. 
+DATA: I believe the support structure on the anvil collapsed because
+some of the wood had rotted. Did I do something wrong, Garvin? 
+GUEST3: No, just unexpected.
 

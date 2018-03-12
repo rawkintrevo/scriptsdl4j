@@ -1,55 +1,41 @@
-RIKER PICARD Q CRUSHER DATA AMANDA
+Q PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Medical lab]
+[Ready room]
 
-Q: Well, if it isn't Number Two. 
-RIKER: I was looking for Doctor Crusher. I didn't know what nutrients
-she wanted to send with the bacilli. 
-AMANDA: I'm not sure. I'll tell her to contact you. 
-RIKER: Thanks. 
-AMANDA: You could stay here and wait for her, if you, you know, wanted
-to. 
-RIKER: Just tell her I'll be in shuttlebay two. 
-(Riker leaves with a big grin) 
-Q: You're attracted to him. 
-AMANDA: I am not. 
-Q: I think you are. How repulsive. How do you stand that hair all over
-his face? 
-(Beverly enters) 
-AMANDA: Doctor, Commander Riker was just here looking for you. He said
-he'd be in Shuttlebay Two. 
-CRUSHER: Thank you. Have you finished already? 
-AMANDA: Yes. 
-CRUSHER: How did you do it so quickly? 
-AMANDA: Q helped me. It took us about half the time that it would have
-normally taken us. 
-CRUSHER: That explains this data. I needed to know the rates of
-mitosis. By artificially inflating them you made the experiment
-useless. Now I have to do it all over again. 
-AMANDA: I'm sorry, Doctor. 
-Q: Don't be sorry. If she wants to make things difficult on herself,
-that's her business. 
-CRUSHER: Why did you interfere with what she was doing? 
-Q: She's a Q. Making her plod through human chores is beneath her. 
-CRUSHER: She has asked not to be treated differently. 
-Q: That doesn't mean she should be bored to death. 
-CRUSHER: I don't interfere with what you're teaching her. 
-Q: You wouldn't be capable of interfering. 
-CRUSHER: I don't think it's too much to ask for you to do the same. 
-(Beverly is suddenly turned into a red setter dog. Amanda restores her
-to human)
-CRUSHER: And you stay out of mine. 
-Q: Well, when you put it like that, I think you're absolutely right.
+Q: Bon jour, mon Capitane. You wanted to talk with
+me? 
+PICARD: I wanted to ask you about Amanda's biological parents. When
+they decided to remain on Earth, what was the reaction in the Q
+Continuum? 
+Q: We found it incomprehensible. 
+PICARD: Were they pressured to return? Were they threatened with any
+punishment if they didn't? 
+Q: What are you driving at, Picard? 
+PICARD: Well, the circumstance of their death's quite odd. A tornado
+somehow escaped the weather modification net and touched down in only
+one spot. Amanda's home. 
+Q: Well, you never can predict the weather. 
+PICARD: But tornadoes develop from existing storm fronts. But you see,
+there were no storm fronts in Kansas that day. Witnesses reported that
+the funnel materialised spontaneously directly over Amanda's home,
+destroyed it, and disappeared. 
+Q: If you say so. I wasn't there. 
+PICARD: Were Amanda's parents executed by the Q Continuum? 
+Q: And what if they were? 
+PICARD: Then I think she has a right to know that before she makes a
+choice about her future. 
+Q: Don't be foolish, Picard. She has no choice. She never did. If she's
+truly Q, then she must return to the Continuum where she belongs. But
+if she were some kind of hybrid, neither human nor Q, then (a gesture) 
+PICARD: You would be so despicable? 
+Q: Don't be naive. You have no idea what it means to be Q. With
+unlimited power comes responsibility. Do you think it is reasonable for
+us to allow omnipotent beings to roam free through the universe? 
+PICARD: So what have you concluded? Does she live or does she die? 
+Q: I haven't decided yet.
 
-[Bridge]
-
-DATA: Captain. 
-PICARD: Yes, Mister Data? 
-DATA: I have further information regarding the tornado that killed
-Amanda Rogers' parents. 
-PICARD: What is it? 
-DATA: It was unusually compact, yet extremely powerful. Its recorded
-wind velocity was characteristic of a funnel three times its size. 
-PICARD: Download the files to my Ready room. I'll study them there. 
-DATA: Aye, sir. 
+Captain's log, stardate 46193.8. We have arrived at
+Tagra Four and have begun delivering supplies. In the meantime, I am
+faced with a crisis of a different nature.
 

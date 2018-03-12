@@ -1,61 +1,98 @@
-BOOTHBY PICARD CADET LOCARNO SITO
-
-[Academy gardens]
-
-(Picard strolls across the Japanese bridge) 
-BOOTHBY [OC]: Hey! Can't you see that's a flower bed? 
-CADET [OC]: Sorry. I'm really sorry. 
-(A cadet has been sitting under a tree. The old gardener goes to repair
-the damage caused) 
-PICARD: Boothby? Jean-Luc Picard, class of twenty seven. 
-BOOTHBY: I know that. What happened to your hair? 
-PICARD: How are you? 
-BOOTHBY: I'm pretty damned cranky, thank you. I've already replanted
-this bed four times this week. 
-PICARD: Let me give you a hand. 
-BOOTHBY: You? 
-PICARD: I've acquired an interest over the years. 
-BOOTHBY: Well, don't plant 'em too deep. The stems 
-PICARD: Will rot. 
-BOOTHBY: Captain Picard. Of the Enterprise, no less. And giving the
-commencement address. 
-PICARD: You sound surprised. 
-BOOTHBY: Surprised? Uh, uh. Nothing you ever did surprised me, son.
-Except that time you caught that Ligonian with a reverse body lift and
-pinned him in the first fourteen seconds of the match. Didn't think you
-had it in you. 
-PICARD: Well, it was all in the legs, all that running I did. Boothby. 
-BOOTHBY: Hmmm? 
-PICARD: I don't think I ever. I don't think I ever told you how much I
-appreciate. 
-BOOTHBY: There's nothing to tell. 
-(They go walking) 
-PICARD: Yes, there is. I just wanted to, while I was here. Look, you
-know as well as I do I would never have graduated if you 
-BOOTHBY: You made a mistake. There isn't a man among us who hasn't been
-young enough to make one. 
-PICARD: Nevertheless. 
-BOOTHBY: You did what you had to do. You did what you thought was best.
-I just made sure that you listened to yourself. 
-PICARD: At the time I thought you were a mean-spirited, vicious old
-man. 
-BOOTHBY: I was. And by the way, I was about the same age you are now. 
-PICARD: I didn't speak to you for months. 
-BOOTHBY: You needed to get your bearings. I knew that. The important
-thing is, what you did with your life afterwards. Seems you did okay.
-That's thanks enough for me. 
-PICARD: Did you know the boy from Nova Squadron who was killed? 
-BOOTHBY: Josh Albert? Yeah. Crusher, Hajar, Sito, Locarno. I know them
-all.
+SITO PICARD GUEST4 GUEST3 GUEST5 GUEST1 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Wesley's room]
 
 (Locarno is inspecting his troops) 
-LOCARNO: You nervous? 
+GUEST1: You nervous? 
 SITO: (a Bajoran woman) No. Yes. 
-LOCARNO: That's okay. So am I. But we're going to be all right. We've
+GUEST1: That's okay. So am I. But we're going to be all right. We've
 got some tough times ahead but we've always come through for each
 other. Whatever happens, I want you all to know that leading this team
 has been the high point of my years at the Academy. No one could have
 asked for a better team, or better friends. Let's go.
+
+[Academy hearing room]
+
+(There's a bigger audience as Nick stands by a
+diagram of Saturn and its moon's orbits is on the screen) 
+GUEST1: At this point, we accelerated and executed a starboard turn of
+twenty seven degrees. We came out of the turn on course for Titan. 
+GUEST4: And you were still in the lead position? 
+GUEST1: Yes, sir. 
+GUEST4: Continue. 
+GUEST1: As we entered Titan's gravitational sphere, I gave the signal
+to tighten up and move into a diamond slot formation. Remaining in the
+diamond formation, we executed a low apogee turn around Titan then
+began a z-plus twenty five degree climb in preparation for a Yeager
+loop. 
+(named for Chuck Yeager, who broke the sound barrier in 1947) 
+GUEST1: Approximately nine seconds later, Cadet Albert's ship collided
+with Cadet Hajar's. We had less than two seconds to
+activate our emergency transporters and beam to the evac stations at
+Mimas. Everyone made it except Josh. 
+GUEST4: Thank you, Mister Locarno. Cadet Hajar. 
+(the young woman stands up) 
+GUEST4: As team navigator, you filed a flight plan with the Academy
+Range Officer before the exercise. Correct? 
+GUEST5: Yes, sir. 
+GUEST4: Did Nova Squadron deviate from that flight plan after you
+entered the Saturn range? 
+GUEST5: No, sir. 
+GUEST4: Then how do you explain the fact that the low apogee turn around
+Titan was at least two thousand kilometres closer to the moon than
+indicated in your plan? 
+GUEST5: We were still within flight safety parameters, sir. 
+GUEST4: That was not my question, Cadet. 
+GUEST5: We had discussed changing our approach after I filed the flight
+plan. The final decision was made en route to Saturn. I didn't consider
+it significant enough to mention here. I apologise for the confusion,
+sir. I should have been more precise. 
+GUEST3: (a Vulcan) Did you see Mister Albert's ship break formation
+before it collided with your ship? 
+GUEST5: No, sir. My first indications of trouble was when my proximity
+alarm went off. 
+GUEST3: You may be seated. Did any of you see the collision take place?
+
+GUEST1: No, sir. 
+GUEST3: Cadet Sito, you were in the tail position, therefore you should
+have seen any sign of trouble from Cadet Albert. Yet you saw nothing? 
+SITO: That is correct, sir. 
+GUEST3: Did your attention falter? 
+SITO: No, sir. I was flying solely on sensor readings at the time. I
+did not have any visual contact with Cadet Albert's ship when he broke
+formation. 
+GUEST3: Sensor readings? 
+(a murmur goes around the room) 
+CRUSHER: What's wrong? 
+PICARD: Well, it's unusual to fly on sensors alone in this type of
+manoeuvre. The pilot relies on visual clues from the other ships to
+maintain formation. 
+GUEST4: If you were flying on sensors alone, perhaps you could tell us
+the orientation of his ship before the collision. 
+SITO: I don't know, sir. 
+GUEST4: You were flying a ship, travelling eighty thousand kph, with
+Cadet Albert's ship less than ten metres away and you don't know what
+his orientation was? 
+SITO: I don't remember, sir. 
+GUEST1: Sir, may I? 
+GUEST4: Go ahead. 
+GUEST1: Admiral, Josh was a good pilot but lately he'd been having
+difficulties. He'd get nervous during close fly-bys and pull away in
+the final seconds. His formation flying was a little erratic. 
+GUEST4: And you didn't report this to anyone? 
+GUEST1: No, sir, I didn't. We'd flown together a long time. I thought
+he could handle it if I gave him a chance. I was wrong. 
+GUEST4: Then you are saying that the accident was Cadet Albert's fault? 
+GUEST1: I think Josh got frightened and tried to pull out of the turn
+prematurely, and then crashed into Cadet Hajar. Josh was our friend. We
+didn't want him to be remembered as someone who panicked. 
+GUEST4: Please be seated. I'm very disturbed by what I've heard here
+today. By your own admission, you allowed your teammate to fly when you
+knew he was having difficulties maintaining formation. That
+demonstrates a serious lack of judgment. I am also disturbed by the
+fact that you did not come forward with this information immediately.
+We should have the first data from Mister Crusher's flight recorder
+tonight. We will reconvene at thirteen hundred hours tomorrow. 
+GUEST1: Everything's fine. Trust me.
 

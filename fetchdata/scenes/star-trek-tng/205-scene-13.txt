@@ -1,78 +1,38 @@
-TROI RO DATA RIKER OBRIEN
+PICARD ALL GUEST1 GUEST0 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Turboshaft]
 
-(at a rear science station) 
-O'BRIEN: There. Just before the second time we were hit. See the
-subspace distortion? 
-TROI: Yes. How big is a quantum filament? 
-O'BRIEN: It can be hundreds of metres long, but it has almost no mass,
-which makes it very difficult to detect. 
-TROI: So, it's like a cosmic string? 
-O'BRIEN: No. that's a completely different phenomenon. 
-(another station comes online) 
-O'BRIEN: How did you do that? 
-RO: I diverted power from the phaser array and I dumped it into the
-engineering control system. 
-O'BRIEN: You what? 
-RO: Engineering station's online, Counsellor. 
-O'BRIEN: But that's a completely improper procedure. You can't just
-dump that much raw energy into a bridge terminal without blowing 
-RO: We're not going to get out of this by playing it safe. 
-TROI: What is our engine status, Ensign? 
-RO: We've got half impulse power available, but I'm getting some odd
-readings from the warp drive. I'm reading a spike in the warp field
-array. It looks like a containment deviation. 
-O'BRIEN: Switch to primary bypass. 
-RO: Nothing. Field strength's at forty percent and falling. We've got a
-problem. The quantum resonance of the filament caused a polarity shift
-in the antimatter containment field. 
-O'BRIEN: When the filament hit us, the ship was momentarily charged, as
-if it had come into contact with a live electrical wire. 
-RO: That weakened the containment field surrounding the antimatter
-pods. The field strength is at forty percent and it is still falling. 
-O'BRIEN: If it falls to fifteen percent the field will collapse and
-we'll have a containment breach. 
-TROI: Which means? 
-RO: Which means the ship will explode.
+(using the optical cable as a rope, the group have
+climbed up to the next deck) 
+PICARD: I can't open this door. We're going to have to climb up to the
+next deck. 
+GUEST1: What if that one doesn't open either? 
+JAY GORDON: Then we'll never get out. 
+GUEST2: Quiet, both of you. That's an order. 
+PICARD: We're going up. Ready? 
+GUEST2: Ready, sir. 
+(everything shakes) 
+PICARD: The lift's falling! Hang on! 
+PICARD: We're all right. We're going to keep on climbing. Just don't
+look down. 
+JAY GORDON: What's wrong? 
+GUEST2: He's scared. 
+PICARD: We're right with you, Patterson. You're not going to fall.
+Everything will be all right if you just keep climbing.
+What we need is a climbing song. Marissa, is there a song you sing at
+school? 
+GUEST2: The Laughing Vulcan and His Dog? 
+PICARD: I'm afraid I don't know that one. I know. Frere Jacques. That's
+a song I used to sing when I was at school. Patterson, do you know that
+one? Good. It goes like this. Frere Jacques, Frere Jacques, dormez
+vous? Dormez vous? 
+ALL: Sonnez les matines, sonnez les matines, ding ding dong, ding ding
+dong. 
+PICARD: Very good. Now, keep singing. 
+ALL: Frere Jacques, frere Jacques, dormez vous? Dormez vous? Sonnez les
+matines, sonnez les matines. Ding ding dong, ding ding dong. Frere
+Jacques, frere Jacques, dormez vous? Dormez vous? Sonnez les matines,
+sonnez les matines. Ding ding dong, ding ding dong.
+Frere Jacques, frere Jacques
 
-[Jefferies tube]
-
-DATA: Commander, the current cannot be off down
-from this relay box. 
-RIKER: We can't just sit here. 
-DATA: If the energy flowing through that arc were interrupted by a
-nonconductive material, it is likely the circuit would be broken. 
-RIKER: I don't see any material in here that could handle that much
-current. 
-DATA: Commander, much of my bodyframe is made up of tripolymers, a non
-conductive material. 
-RIKER: Are you suggesting we use your own body? 
-DATA: Yes, sir. 
-RIKER: Data, there's half a million amps flowing through that arc.
-Could your body handle that much current? 
-DATA: The power surge would cause a system failure in my internal
-processors and melt my primary power couplings.
-However, there is a chance that the damage would not be irreparable. 
-RIKER: No. 
-DATA: Commander, our options are very limited. 
-RIKER: First of all, android or not, I wouldn't ask anyone to take that
-kind of risk. Second, if the computer is not working in Engineering,
-I'm going to need your help to get control of the ship. 
-DATA: My positronic brain has several layers of shielding to protect me
-from power surges. It would be possible for you to remove my cranial
-unit and take it with you. 
-RIKER: Let me get this straight. You want me to take off your head? 
-DATA: Yes, sir. Is something wrong, sir? 
-RIKER: Well, Data, would you be all right? 
-DATA: My memory core and neural nets are self-contained. I would be
-fine, sir. 
-RIKER: Well, like you said, our choices are very limited. 
-(Data walks forward into the currents, they stop and he falls
-forward)
-RIKER: Data? Data! Data. 
-DATA: A remarkable experience, Commander. 
-RIKER: Are you all right? Did the shielding work? 
-DATA: Apparently so, sir. My neural nets are still fully operational.
-You may begin by opening the ventral access panel located two
-centimetres beneath my right ear. 

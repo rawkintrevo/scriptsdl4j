@@ -1,88 +1,43 @@
-MADDOX PHILLIPA DATA PICARD
-
-[Data's quarters]
-
-(Data is packing a very small carry case. It's
-contents include a small holo-projector that displays an image of Tasha
-Yar, an impressive collection of medals, He puts a book on the desk and
-then Maddox walks in without even knocking. Data comes back with
-another item to find Maddox reading) 
-MADDOX: 'When in disgrace with fortune and men's eyes, I all alone
-beweep my outcast
-state'. Is it just words to you, or do you fathom the meaning? 
-(Shakespeare's
-sonnet 29) 
-DATA: Is it not customary to request permission before entering an
-individual's quarters? 
-MADDOX: I thought that we could talk this out, that I could try to
-persuade you. Your memories and knowledge will remain intact. 
-DATA: Reduced to the mere facts of the events. The substance, the
-flavour of the moment, could be lost. Take games of chance. 
-MADDOX: Games of chance? 
-DATA: Yes, I had read and absorbed every treatise and textbook on the
-subject, and felt myself well prepared for the experience. Yet, when I
-finally played poker, I discovered that the reality bore little
-resemblance to the rules. 
-MADDOX: And the point being? 
-DATA: That while I believe it is possible to download the information
-contained in the positronic brain, I do not think you have acquired the
-expertise necessary to preserve the essence of those experiences. There
-is an ineffable quality to memory which I do not believe can survive
-your procedure. 
-MADDOX: Ineffable quality. I had rather we had done this together, but
-one way or the other, we are doing it. You are under my command. 
-DATA: No, sir, I am not under your nor anyone else's command. I have
-resigned from Starfleet. 
-MADDOX: Resigned? You can't resign. 
-DATA: I regret the decision, but I must. I am the culmination of one
-man's dream. This is not ego or vanity, but when Doctor Soong created
-me he added to the substance of the universe. If by your experiments I
-am destroyed, something unique, something wonderful will be lost. I
-cannot permit that, I must protect his dream. 
-MADDOX: And so must I. But keep packing, because one way or the other,
-you will be reporting. 
-Captain's log, supplemental. Commander Bruce
-Maddox, having been thwarted by Data's abrupt resignation, is now
-seeking a legal remedy for his woes. Captain Louvois has requested my
-presence at those discussions.
+GUEST2 GUEST0 PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [JAG office]
 
-MADDOX: Your response is emotional and irrational. 
+GUEST2: Your response is emotional and irrational. 
 PICARD: Irrational? 
-MADDOX: You are endowing Data with human characteristics because it
+GUEST2: You are endowing Data with human characteristics because it
 looks human. But it is not. If it were a box on wheels I would not be
 facing this opposition. 
-PHILLIPA: Overt sentimentality is not one of Captain Picard's failings.
+GUEST0: Overt sentimentality is not one of Captain Picard's failings.
 Trust me, I know. 
 PICARD: I will tell you again. Data is a valued member of my crew. He
 is an outstanding Bridge officer. 
-MADDOX: If I am permitted to make this experiment, the horizons for
+GUEST2: If I am permitted to make this experiment, the horizons for
 human achievement become boundless. Consider, every ship in Starfleet
 with a Data on board. Utilising its tremendous capabilities, acting as
 our hands and eyes in dangerous situations. 
-PHILLIPA: Look, you're preaching to the choir here. Why don't you get
+GUEST0: Look, you're preaching to the choir here. Why don't you get
 to the point? 
-MADDOX: Data must not be permitted to resign. 
+GUEST2: Data must not be permitted to resign. 
 PICARD: Data is a Starfleet officer. He still has certain rights. 
-MADDOX: Rights! Rights! I'm sick to death of hearing about rights! What
+GUEST2: Rights! Rights! I'm sick to death of hearing about rights! What
 about my right not to have my life work subverted by blind ignorance? 
-PHILLIPA: We have rule of law in this Federation. You ca not simply
+GUEST0: We have rule of law in this Federation. You ca not simply
 seize people and experiment with them to prove your pet theories. 
 PICARD: Thank you. 
-MADDOX: Now you're doing it. Data is an extraordinary piece of
+GUEST2: Now you're doing it. Data is an extraordinary piece of
 engineering, but it is a machine. If you permit it to resign it will
 destroy years of work in robotics. Starfleet does not have to allow the
 resignation. 
 PICARD: Commander, who do you think you're working for? Starfleet is
 not an organisation that ignores its own regulations when they become
 inconvenient. Whether you like it or not, Data does have rights. 
-MADDOX: Let me put it another way. Would you permit the computer of the
+GUEST2: Let me put it another way. Would you permit the computer of the
 Enterprise to refuse a refit? 
-PHILLIPA: That's an interesting point. But the Enterprise computer is
+GUEST0: That's an interesting point. But the Enterprise computer is
 property. Is Data? 
-MADDOX: Of course. 
-PHILLIPA: There may be law to support this position. 
+GUEST2: Of course. 
+GUEST0: There may be law to support this position. 
 PICARD: Then find it. A ruling with such broad ranging implications
 must be supported. Phillipa, I hope you will use the same zeal that you
 did in the Stargazer court martial.

@@ -1,122 +1,35 @@
-BOY TROI WOMAN LAFORGE WORF TASHA PICARD RIVAN RIKER EDO WESLEY LIATOR GEORDI OFFICER GIRL DATA MAN
+TROI PICARD GUEST5 GUEST8 CHIEF CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Lounge]
 
-LAFORGE: This is something I've never seen before,
-sir. After complete spectral analysis, well it's as if it's not really
-there.
-
-[Bridge]
-
-GEORDI [OC]: I don't understand it. 
-DATA: I've got some information on its first transmission, sir. It
-translates as stand by. 
-OFFICER:: Sir, I see show something coming out of that ship. 
-DATA: Verified, sir. Something very small. 
-(A little globe of light passes through the shields, and the hull, and
-the bulkheads) 
-OFFICER: Intruder alert, sir. I don't show a location. 
-DATA: The away team signal's been cut off, Captain. We've lost contact
-with our people.
-
-OFFICER: Intruder relays do show something. 
-PICARD: Why has everything become a something, or a whatever? 
-(The globe has arrived on the Bridge, and is face to face with Picard.
-When it speaks, everything shakes) 
-EDO: State the purpose. (it tones down) State the purpose of what you
-have done. 
-PICARD: I'm Captain Picard, commanding this Federation starship. 
-EDO: State the purpose of your visit here. 
-PICARD: We have sent down what we call an away team to make peaceful
-contact here. 
-EDO: Do you plan to leave life forms here? 
-PICARD: No. We are merely visiting here. 
-EDO: But you did more at the world you just left. Why have you left
-your own life forms there? 
-DATA: The colony we just planted, sir. 
-PICARD: We found that world uninhabited. The life forms we left there
-had, had sought the challenge. At least, that is the basic reason. Had
-sought the challenge of creating a new lifestyle, a new society there.
-Life on our world is driven to protect itself by seeding itself as
-widely as possible. 
-EDO: Do not interfere with my children below. 
-(The globe goes over to Data) 
-DATA: Captain, I do not understand how, but it is asking me if I was
-constructed for information exchange. 
-PICARD: If there is any way of finding out whatever is out there, Data.
-
-(The globe shrinks and attaches itself to Data's forehead. He falls
-backwards onto the floor.)
-
-[Planet surface]
-
-BOY: Watch! I bet you can't do this! 
-(He walks along in a hand-stand.) 
-WESLEY: Watch this. 
-(He does a series of cart wheels) 
-GIRL: I want to do something too. With you. 
-WESLEY: Er. What? 
-GIRL: It's something you can teach me. Will you? 
-WESLEY: Er. Well, actually, there are some games I don't quite know yet
-
-GIRL: It's playing ball. Will you teach me? 
-WESLEY: Oh, sure! If you have a bat for the ball, I can show you my
-favourite. A bat? A stick or branch, about this thick, this long. 
-GIRL: We can get it in the gardens. Come on. 
-[Council Chambers]
-
-MAN: This will please you. Join us. 
-RIKER: Thanks. Another time. 
-WOMAN: Joy and happiness. 
-RIKER: It certainly is. The good life, Worf. 
-WORF: I am not concerned with pleasure, Commander. I am a warrior. 
-RIKER: Even Klingons need love now and then. 
-WORF: For what we consider love, sir, I would need a Klingon woman. 
-RIKER: What about plain old basic sex? You must have some need for
-that. 
-WORF: Of course, but with the females available to me, sir, Earth
-females, I must restrain myself too much. They are quite fragile, sir. 
-RIKER: Worf, if anyone else had said that, I'd suspect he was bragging.
-
-WORF: Bragging, sir? 
-RIKER: I think I'll pass on that. I'd better check in. Enterprise, come
-in. Captain, do you read me? Let's. This may be nothing, but let's move
-all our people together. 
-WORF: Including Wesley, the boy? He's outside. 
-TROI: Is there a problem? 
-RIKER: We've lost contact with our ship. 
-TROI: It's nothing these people have done. I'm certain of that. Their
-minds are so open. 
-RIKER: Help me locate Wes. He's wandered off. 
-(Riker and Troi leave. Worf goes over to Tasha, who is with Rivan and
-Liator) 
-TASHA: That is extraordinary. 
-WORF: Can I take a moment of your time, Lieutenant? 
-TASHA: Yes, Worf, but you've got to hear this. Are you telling me that
-there's no crime here whatsoever? No one breaks any laws? 
-LIATOR: Once they did. Long, long ago there was much disorder. But not
-now. 
-TASHA: But I seen no sign of police. Those who enforce laws. 
-RIVAN: Oh, we have very few. They are called Mediators. And they are
-needed only in one place each day. 
-LIATOR: The punishment zone. An area that's selected for a period of
-time. 
-TASHA: It's a completely random selection? 
-LIATOR: No one but our Mediators know what place or for how long. We're
-very proud of the wisdom of our ancestors. No person ever knows where
-or when a zone will be. 
-RIVAN: And so no one risks death. 
-WORF: Death? 
-RIVAN: by breaking any law. 
-TASHA: Wait. Explain this. 
-LIATOR: Only one punishment for any crime. 
-WORF: Anyone who commits any crime in the punishment zone dies? 
-LIATOR: The law is the law. Our peace is built on that. 
-TASHA: Even a small thing? Such as ignoring the rule, keep off the
-grass? 
-RIVAN: Then no one breaks that rule. Who wants to risk execution? And
-there's always a white wall or fence to remind anyone of a forbidden
-area like that. 
-TASHA: And just who tells visitors about these rules? 
-WORF: We'd better find Wesley.
-
+(As soon as Rivan sees the other vessel, she drops
+to her knees, head bowed) 
+PICARD: I'm sorry, Rivan, but this was necessary. Do you know what that
+is? 
+TROI: Can you tell us what it is? 
+PICARD: Is it God? (she nods) Now, it's very important you answer
+something. How do you recognise what it is? 
+TROI: Nothing will harm you, I promise. Just tell us how you recognise
+it. 
+GUEST5: It has appeared before. 
+PICARD: Can you speak to it? Does it speak to you? 
+TROI: Captain! 
+(The vessel becomes even more visible) 
+GUEST8 [OC]: Return my child. 
+CRUSHER: Return? 
+TROI: It's coming toward us. 
+PICARD: Picard to Transporter Room, come in. 
+(He puts his comm. badge on Rivan) 
+TROI: Yes, do that. But hurry! 
+CRUSHER: It's still coming toward us. 
+CHIEF [OC]: Transporter Chief to Captain. 
+PICARD: One to beam down to away team location. Hurry! Engage!
+Transporter Room. Urgent! Engage! 
+(And Rivan is beamed away. The Edo vessel backs off) 
+CRUSHER: It seems the Edo's god is very protective of its children. 
+PICARD: I had no choice but to learn about that thing from her. I'm
+sorry I had to. She was so frightened. 
+TROI: It's understandable, sir. Sharing an orbit with God is no small
+experience. 
+PICARD: Let's go see your patient, Doctor. 

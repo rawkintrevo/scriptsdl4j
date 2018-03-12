@@ -1,67 +1,56 @@
-PICARD TROI DATA ARDRA
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Science station]
 
-PICARD: Come. 
-DATA: You wished to see me, sir? 
-PICARD: Yes, Mister Data. A wise man once said, there is a sucker born
-every minute. 
-DATA: Barnum, sir. PT. 
-PICARD: I've been examining the dynamics of what used to be called the
-con game. Quite fascinating. Worthy of your study, Data. 
-DATA: Sir, do you believe Ardra is, to use the vernacular, a con
-artist? 
-PICARD: Yes, I do, Data. And I believe it is our job to out-con the con
-artist. 
-DATA: Sir, I must point out that the Ventaxians did have one thousand
-years of peace and tranquility as promised by Ardra. 
-PICARD: We can only speculate what occurred on that planet a thousand
-years ago. Maybe a Ventaxian leader saw the destruction of his society
-at hand and he conceived this Contract of Ardra to motivate change. Or
-maybe there was an Ardra of some sort who is the basis of this
-mythology. Who knows? The point is that somehow a fundamental theology
-was created which transformed this society, but in the process of
-change, created this latent fear which has been passed down through
-generations. Data, from your own experience of performing Ebenezer
-Scrooge, you're aware how fear can be a very powerful motivator. 
-DATA: Indeed, sir. In the story, the spirits used fear to motivate
-Scrooge to reform his character. 
-PICARD: And in the hands of a con artist, fear can be used to motivate
-obedience, capitulation, the exploitation of innocent people. And that
-is what I believe has happened here. I intend to prove that. I need to
-find a loophole, some way of challenging the validity of this contract.
+LAFORGE: Captain Picard? Captain, I wasn't
+expecting you here. 
+PICARD: Neither was I. 
+LAFORGE: La Forge to Enterprise. 
+WORF [OC]: Go ahead. 
+LAFORGE: Worf, Captain Picard is here. 
+[Bridge]
 
-DATA: Sir, the language of the contract seems carefully chosen to avoid
-any loopholes. 
-PICARD: Check it again, Mister Data, and check every Ventaxian legal
-precedent for the last one thousand years. We'll talk again in the
-morning. 
-DATA: Aye, sir, 
-[Picard's quarters]
+LAFORGE [OC]: You'd better transport him back on
+board. 
+WORF: The Captain? But I have no 
+PICARD [OC]: It's all right, Mister Worf. 
+[Science station]
 
-(Picard has fallen asleep with a book. He is woken
-by a strong breeze and sees Ardra standing there in a negligee. He's
-not wearing much more himself.) 
-PICARD: Picard to Bridge. Intruder alert. Picard to Bridge. 
-ARDRA: Oh, I've arranged for a bit of privacy. 
-(Picard gets up and walks to the door, but it doesn't open) 
-ARDRA: Just the two of us. 
-PICARD: This is becoming very tiresome. 
-ARDRA: Oh, come now, Picard. You know you find me tantalising. Give in
-to your desires. 
-PICARD: You know, there's nothing about you I find tantalising. On the
-contrary, I find you obvious and vulgar. 
-ARDRA: Easily fixed. (Victorian clothing) I can be your ideal woman,
-Picard. Prim and proper. And chaste, until I succumb to your charms. Or
-would your fantasies turn more toward a professional woman, one perhaps
-who wears a Starfleet uniform? Perhaps I could even be 
-TROI: Someone close at hand and yet unattainable. I can do anything for
-you, Captain. Anything you could ever imagine. 
-ARDRA: I could give you a night that would light fire in your dreams
-until you die and you would reject me? 
-PICARD: Oh, yes. 
-ARDRA: You shall regret that. 
-PICARD: I think not. 
-ARDRA: Oh, but you will. 
-(and Picard vanishes)
+PICARD: Ardra somehow transported me here. Will you
+beam me directly to my quarters. 
+WORF [OC]: Aye, sir. We're locked on to you. 
+[Bridge]
+
+WORF: Transporter is malfunctioning, Captain. 
+[Science station]
+
+WORF [OC]: Some sort of interference. Checking. 
+PICARD: Just have Mister Data fetch me in a shuttle. And have him bring
+along a uniform. 
+[Bridge]
+
+WORF: Did you say uniform? 
+PICARD [OC]: Yes, I did. 
+WORF: Aye, sir.
+
+[Shuttlecraft]
+
+PICARD: Mister La Forge and Doctor Clark have made
+no headway. Commander Riker and Lieutenant Worf have picked nothing up
+anything on their scans. 
+DATA: Sir, I believe I have found an obscure precedent in Ventaxian law
+which may be of interest. 
+PICARD: Yes? 
+DATA: The case involves a contract dispute over services rendered by a
+Klingon craftsman on the construction of a Ventaxian home. Because the
+dispute involved an alien culture, the parties decided that arbitration
+rather than the courts, should resolve the issue. Both sides agreed to
+choose an arbiter. It is the only known case involving an alien
+claimant. 
+PICARD: That's exactly what I needed. Well done, Data. 
+DATA: Shuttlecraft One to Enterprise. Prepare for docking sequence 
+RIKER [OC]: Proceed, Shuttle One. 
+(and then the Enterprise vanishes) 
+PICARD: Enterprise. Enterprise, do you read me? Enterprise, come in.
 

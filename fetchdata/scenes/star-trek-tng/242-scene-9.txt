@@ -1,80 +1,26 @@
-BASHIR TROI DATA LAFORGE WORF
+GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Worf's quarters]
+[Shrek's shuttlecraft]
 
-(he is practising his martial arts, but gets angry
-and smashes a glass table. The doorbell chimes) 
-WORF: Enter. 
-TROI: Did the table do something wrong? 
-WORF: No. 
-TROI: I'm glad you weren't that hard on Ensign Lopez. 
-WORF: He made a mistake. The duty roster was inaccurate. 
-TROI: Would you like to talk about what's bothering you or would you
-like to break some more furniture? 
-WORF: Today on the Promenade, a Yridian approached me. He knew who I
-was and tried to sell me information about Mogh. 
-TROI: Your father? 
-WORF: He claimed that he's alive and is being held captive in a Romulan
-prison camp. 
-TROI: My god. Could it be true? 
-WORF: A Klingon would never allow himself to be captured. A warrior
-fights to the death. If my father were alive it would dishonour his
-sons and their sons for three generations. Even Alexander would bear
-the burden of guilt. 
-TROI: So, you're willing to ignore the possibility because you're
-concerned about dishonour? 
-WORF: My father is dead. That Yridian is selling lies! 
-TROI: If you're so sure about that, why are you still so upset? Worf,
-you can't deny the possibility just because you don't want it to be
-true. If you want to talk about this, you know where to find me.
-
-[Engineering]
-
-DATA: If we transfer twenty megajoules of energy
-from the dilithium chamber into the plasma inputs, it should be
-sufficient to activate the device. 
-LAFORGE: It's worth a try. You two can begin by connecting the coil to
-the chamber. I'll configure the energy transfer. 
-BASHIR: Right. Data, can I ask you a personal question? 
-DATA: Certainly. 
-BASHIR: Does your hair grow? 
-DATA: I can control the rate of my follicle replenishment. However, I
-have not yet had a reason to modify the length of my hair. Why do you
-ask? 
-BASHIR: Just curious. 
-DATA: Power conduits are ready. Is something wrong, Doctor? 
-BASHIR: You're breathing. 
-DATA: Yes. I do have a functional respiration system. However, its
-purpose is to maintain thermal control of my internal systems. I am, in
-fact, capable of functioning for extended periods in a vacuum. 
-BASHIR: And you have a pulse. 
-DATA: My circulatory system not only produces bio-chemical lubricants,
-it regulates micro-hydraulic power. Most people are interested in my
-extraordinary abilities. How fast I can compute, my memory capacity,
-how long I will live. No one has ever asked me if my hair will grow, or
-noticed that I can breathe. 
-BASHIR: Your creator went to a lot of trouble to make you seem human. I
-find that fascinating. 
-LAFORGE: Okay, I think we're ready to begin the transfer. 
-DATA: Power connections are complete. 
-BASHIR: I'll monitor the coil's transfer rate. Will you keep an eye on
-the transient power response? 
-DATA: Of course. We are ready, Geordi. 
-LAFORGE: Okay. Initiating energy transfer. 
-(an orange light appears between the two sections of the device)
-BASHIR: Power levels are holding steady. 
-DATA: Transient response is normal. 
-BASHIR: Hold on. I'm picking up a power surge. Reduce the transfer
-rate. 
-LAFORGE: Reducing rate by twenty percent. 
-(a crackle of energy lances out and hits Data. He falls back, rigid) 
-LAFORGE: What happened? 
-BASHIR: The power connections blew. It sent out some kind of plasma
-shock. 
-LAFORGE: His synaptic energy is dropping. 
-[Corridor]
-
-(Data is having a vision. He follows the sound of
-metal on metal to discover a young Noonian Soong pounding on an anvil
-with a hammer.)
+GUEST3: The Romulan guards have a detection
+perimeter. It will be necessary to transport you to the surface thirty
+kilometres from the prison camp. 
+WORF: The foliage is very dense. It will take me approximately twelve
+hours to reach the camp. I may have to travel during the night. 
+GUEST3: That would be unwise. This is not an empty jungle. There are
+many predators. 
+WORF: I am prepared. 
+GUEST3: Very well. But I recommend that you look up from time to time.
+The arboreal needle snake likes to attack from above. I will provide
+you with a map of the camp. 
+WORF: How did you learn of this camp? 
+GUEST3: It is not important for you to know. 
+WORF: Why have you not informed the Klingon government of this place? 
+GUEST3: I sell information. I do not give it away. 
+WORF: You do this for profit. 
+GUEST3: I have my reasons, Mister Worf. 
+WORF: What reasons could you have for letting these people suffer? 
+GUEST3: We will arrive in the Carraya Sector in approximately three
+hours. I suggest you get some rest.
 

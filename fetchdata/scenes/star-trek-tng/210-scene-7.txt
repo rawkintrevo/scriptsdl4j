@@ -1,44 +1,29 @@
-TROI LAFORGE WORF JADAR RIKER PICARD DATA
+WORF ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Worf's quarters]
 
-(an alien humanoid is giving a presentation) 
-JA'DAR: Twenty three field coils, working in concert, will generate the
-soliton wave from this point on the planet surface.
-We will have our test ship towed to a position approximately two
-million kilometres from Bilana Three. If our theories are correct, the
-wave will envelop the ship and push it into warp. 
-PICARD: Warp without warp drive. 
-RIKER: They're going to put you out of a job, Geordi. 
-LAFORGE: I hope so, Commander. 
-DATA: Doctor Ja'Dar, how closely will the Enterprise need to follow the
-test vehicle? 
-JA'DAR: The soliton emits a great deal of subspace radio interference.
-You'll need to remain within twenty kilometres in order to receive
-telemetry. 
-PICARD: Doctor, how will you end the experiment? 
-JA'DAR: The wave will be directed toward Lemma Two, about three light
-years distance. Our sister facility there which will generate a
-scattering field which will dissipate the wave and bring the ship out
-of warp. I'll be sending you more detailed operational plans within the
-hour. 
-PICARD: Very well, Doctor. We'll contact you again once we've finished
-studying the mission specs.
-
-[Bridge]
-
-TROI: Worf. I was just talking with Mrs. Kyle the
-primary school teacher. She told me you enrolled Alexander in her class
-this morning. 
-WORF: Yes. 
-TROI: I'm sure he'll do very well. She's a wonderful teacher. 
-WORF: Good. 
-TROI: Did she tell you about the father-son field trip this afternoon? 
-WORF: Yes. We cannot attend. 
-TROI: Why not? 
-WORF: I have a personnel review scheduled at thirteen hundred hours. 
-TROI: This would be a good opportunity for you to meet some of the
-other students and parents. 
-WORF: I might be able to reschedule the review. 
-TROI: Good. I'll let them know you're coming.
+WORF: A Klingon's honour is more important to him
+than his life. A Klingon would gladly face the most horrible punishment
+rather than bring shame or disgrace to his family name. His word is his
+bond. Without it, he is nothing. Do you understand? 
+(a tiny nod) 
+WORF: Why did you lie to me? 
+ALEXANDER: I don't know. 
+WORF: Did you fear the punishment you would receive? 
+ALEXANDER: I don't know. 
+WORF: You don't know why you lied, and yet you did. You don't know why
+you stole, and yet you did! Alexander, come here. When I was a child,
+younger than you, I lost my parents, my family, my people. Everything I
+had was taken from me except my sense of honour. It was the one thing I
+had which was truly Klingon and which no one could take away. Do you
+know who they are? 
+(a statuette of two semi-naked klingon wrestlers) 
+ALEXANDER: Kahless? 
+WORF: And his brother, Morath. They fought for twelve days and twelve
+nights because Morath had broken his word and brought
+shame to his family. When you lie or steal, you not only dishonour
+yourself, but your family. You dishonour me. 
+ALEXANDER: I'm sorry, Father. I won't do it ever again. I promise. 
+WORF: I accept your word. We will not speak of this matter again.
 

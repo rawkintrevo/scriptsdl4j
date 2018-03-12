@@ -1,167 +1,75 @@
-ALEXANA RIKER WORF PICARD TROI WESLEY FINN CRUSHER DATA
-
-[Observation lounge]
-
-DATA: A transporter would leave residual ionization
-in the air. Our tricorder readings found no trace after the incident. 
-RIKER: People don't just appear and disappear. There must be some way
-to track her. 
-DATA: We have been unable to detect a signal from her communicator.
-Either it has been deactivated or she is being held in a shielded
-location. 
-PICARD: Why her? 
-WORF: Sir, I believe she was the intended target of the abduction. 
-RIKER: Why would they want to take a Federation hostage? Their fight
-doesn't involve us. 
-WORF: It does now.
+PICARD CRUSHER FINN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Side cave]
 
-(A man enters carrying a plate with what look like
-pieces of meat on it)
-FINN: You hungry? You want something to eat? 
-(Beverly stares impassively straight ahead) 
-FINN: I doesn't matter to me. You want to be hungry, be hungry. What's
-your name? You're a doctor on a Federation starship. I always wondered
-what it would be like to travel across the galaxy. It's not something
-I've exactly had time for. This isn't the best way to meet new people,
-is it? If you need anything, ask for me. My name is Kyril Finn. They
-know me.
-
-[Ready room]
-
-TROI: We have no reason to believe she's been hurt
-in any way. 
-PICARD: In fact, it's more than likely that they will take good care of
-her, if they want to use her as a bargaining chip. 
-WESLEY: Bargaining chip? 
-TROI: The innocent often become the pawns in conflicts of this type,
-Wes. 
-PICARD: You see, the Ansata separatists have been trying for
-generations to freed themselves from the rule of the eastern continent.
-If they can get the government just to acknowledge their demands, then
-kidnapping your mother will have served its purpose. I think that may
-be what they're after, but it may not. Frankly, Wesley, I don't care.
-My only concern is to get your mother back. Very shortly, we shall be
-leaving to have a meeting with the authorities. 
-WESLEY: Request permission to be on the away team, sir. 
-PICARD: No. You have an important job to do here. If we are to free
-your mother, then we have to be able to trace the movements of the
-terrorists. I want you to work with the team that are investigating
-this new technology of theirs. 
-WESLEY: I understand. 
-PICARD: Report to Mister Data. Dismissed. 
-(Wesley leaves) 
-TROI: He needs your strength right now. 
-PICARD: History has shown us that strength may be useless when faced
-with terrorism.
-
-[Alexana's office]
-
-(The police chief's office is full of wall monitors
-and such like) 
-PICARD: And what exactly is Ansata policy with regard to hostages? 
-ALEXANA: I doubt they have one. They don't usually take hostages. These
-are not people we're dealing with here. They're animals. Fanatics who
-kill without remorse or conscience. Who think nothing of murdering
-innocent people. 
-PICARD: But they could just as easily have shot her where she stood. 
-ALEXANA: Don't ask me to explain them. I can't. The atrocities that
-I've seen. And now they have this new device that makes them even more
-deadly. How do I combat an enemy who fails to register on any scanner
-until they're literally standing in front of you, pointing a phaser at
-your head? 
-RIKER: What can you tell us about this device? 
-ALEXANA: Not much, really. They first started using it two months ago.
-We've taken several of these off dead terrorists.
-Our people have looked at them Nothing they can explain 
-RIKER: Do you mind if we take one of these with us and have our people
-study it? 
-ALEXANA: Not at all. And I'll put you in touch with our research
-people, if you wish. 
-PICARD: I appreciate your help. 
-ALEXANA: Perhaps if we found ourselves in possession of some of that
-advanced Federation weaponry of yours, it would shift the balance of
-power back to our favour. 
-PICARD: Of course you know that is out of the question. 
-ALEXANA: Yes, of course. 
-PICARD: I would like to leave Commander Riker to assist in your search
-for Doctor Crusher. 
-ALEXANA: If you like. 
-RIKER: You don't sound very optimistic. 
-ALEXANA: I know my enemy, Commander. They don't leave much room for
-optimism.
-
-[Side cave]
-
-(Beverly is lying down, trying to sleep) 
-FINN: You hungry? You want something to eat? Relax, relax. I'm just
-going to 
-(He unshackles her ankles and then her wrists) 
-FINN: Now eat something. What's the point of not eating? You're the
-only one who suffers. Do I look like it's bothering me? Okay, it's
-bothering me. Come on. 
-(She takes the plate from him, and eats) 
-FINN: No forks. Sorry. Did I mention my name is Finn? And you're? 
-CRUSHER: Why have you brought me here? 
-FINN: I need a doctor. 
-CRUSHER: There are doctors on Rutia. 
-FINN: I need someone better. I heard you were with the Federation
-flagship and I knew you had to be. 
-CRUSHER: Who told you that? 
-FINN: I heard. Now you'll help me, just like you helped them. 
-CRUSHER: What are you talking about? 
-FINN: Your ship carries medical supplies for them, for the other side.
-Why does the Federation ally itself with the Rutians? 
-CRUSHER: We don't. All we did was bring 
-FINN: Medical supplies. 
-CRUSHER: People were hurt. 
-FINN: I know. I hurt them. You're finished eating. Get up. Get up! 
-CRUSHER: I have a son. 
-FINN: You'll be with him again, Doctor. I see no reason to kill you. 
-[Infirmary]
-
-(The whole place is a very big cavern, with
-lighting, and people working. Finn hands Beverly her tricorder and
-takes her behind a glass wall to the infirmary area) 
-CRUSHER: I need some instruments from my ship in order to diagnose
-this. 
-FINN: You think if I allow you to contact your ship, they will
-transport the instruments? 
-CRUSHER: When I inform the Captain how serious the situation is, I'm
-sure he'll agree. I've told you, Finn, the Federation is not allied
-with Rutians. We're here on an errand of mercy. 
-FINN: And since the Federation does not wish to take sides, they will
-send the supplies that you need. 
-CRUSHER: Absolutely. 
-FINN: I've anticipated your needs. 
-(A boy comes in carrying boxes) 
-CRUSHER: These are Federation supplies. The ones we had delivered to
-the medical dispensary. 
-FINN: I heard.
-
-[Alexana's office]
-
-RIKER: You mean to tell me all these people belong
-to the Ansata? 
-ALEXANA: No, not really. We suspect the organisation itself only to
-consist of some two hundred members. There are over five thousand names
-on this list, citizens we know to be sympathetic to their cause. They
-pass along weaponry and information, march in pro-Ansata
-demonstrations, participate in general strikes or the occasional riot. 
-RIKER: How did this ever get started? 
-ALEXANA: Seventy years ago we denied them independence. That gave them
-a noble cause. Now it's just an excuse for more violence. 
-RIKER: You hate them as much as they hate you. 
-ALEXANA: Believe it or not, I always considered myself moderate. 
-RIKER: What changed your mind? 
-ALEXANA: Being stationed here for six months, watching the body count
-grow. The three assassination attempts on my life. 
-RIKER: Well, that'll change your point of view. 
-ALEXANA: The event that really opened my eyes took place only a few
-days after my arrival. A terrorist bomb destroyed a shuttlebus. Sixty
-schoolchildren. There were no survivors. The Ansata claimed that it was
-a mistake, that their intended target was a police transport. As if
-that made everything all right. That day I vowed that I would put an
-end to terrorism in this city. And I will.
+PICARD: Worf went down. I don't know if he's alive
+or dead. And there were other casualties. 
+CRUSHER: Was Wes on the Bridge? 
+PICARD: Yes. He took cover. I didn't see any more than that. But you
+all right though? 
+CRUSHER: Yes, they needed a doctor. 
+PICARD: The side effects of the transport? 
+CRUSHER: Yes. 
+PICARD: We're getting closer to tracing their movements. Actually, it
+was Wesley who put us onto this dimensional jump of theirs. He has been
+extraordinary, Beverly. He's going to make a very fine officer. 
+CRUSHER: He's had good role models. I'm sorry. If I'd only gone back to
+the ship. 
+PICARD: I should have beamed you up. 
+CRUSHER: You wouldn't dare. 
+PICARD: Oh yes I would, and should. 
+CRUSHER: Without my permission? 
+PICARD: If you don't follow orders. 
+CRUSHER: If you'd give reasonable orders, I'd obey. 
+PICARD: Doctor, I will be the judge of reasonable. 
+CRUSHER: There aren't any exits to the surface. 
+PICARD: So the only way out is by the transporter. Or the dimensional
+jump. 
+CRUSHER: A mode of travel I'd encourage you to avoid. It's killing
+them. 
+PICARD: They're mad. 
+CRUSHER: I don't know any more. The difference between a madman and a
+committed man willing to die for a cause. It's all become blurred over
+the last few days. 
+PICARD: Beverly, I don't have to remind you of the psychological impact
+of being a hostage. 
+CRUSHER: I know. I understand that. But their leader, Finn, he's not
+what you'd expect. 
+PICARD: No, he's certainly not what I would expect. Without cause or
+reason, he and his little band of outlaws has attacked my ship!
+CRUSHER: But he did have reasons. The medical supplies, the arrests.
+Jean-Luc, if we really examined our role in all this 
+PICARD: Beverly, you are arguing for a man who may have murdered your
+son. 
+FINN: I didn't kill your son, Beverly. We weren't able to destroy the
+ship. We had to settle for him. She wouldn't even tell me her name. I
+call her Doctor. 
+PICARD: You have made a grave miscalculation. 
+FINN: Oh? 
+PICARD: You have assaulted a Federation starship, killed and wounded
+several members of her crew, kidnapped two of her officers, and you
+don't expect a response? 
+FINN: On the contrary, I'm counting on it. 
+PICARD: You want Federation involvement? 
+FINN: Captain, the Federation has a lot to admire in it, but there's a
+hint of moral cowardice in your dealings with non-aligned planets.
+You're doing business with a government that is crushing us and you say
+you're not involved. You're very, very much involved. You just don't
+want to get dirty. 
+PICARD: You accuse us of cowardice while you plant bombs in shadows? 
+FINN: I am been fighting the only war that I can against an intractable
+enemy. Now, I'm fighting a big war against a more powerful adversary.
+Can't you see how that helps me? 
+CRUSHER: I'm afraid I can't. 
+PICARD: He's added another chair to the negotiating table. 
+FINN: You added the chair, Captain. I am simply forcing you to sit in
+it. The Federation will quickly tire of our little war. They'll want
+you back. They will want to get as far away from Rutia as they can. And
+I will not make it easy. Eventually, the Federation will force the
+government into make concessions. And then a few more, and then a few
+more. Until we can finally reach an honourable agreement that saves
+face for all sides. Except we win. 
+PICARD: You understand I will not cooperate with you in any way. 
+FINN: You've already cooperated, Captain, just by coming here.
 

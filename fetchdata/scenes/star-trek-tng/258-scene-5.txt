@@ -1,65 +1,64 @@
-PICARD TYLER DATA LAFORGE
+DATA LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-DATA: Geordi, have you ever had a nightmare? 
-LAFORGE: Yeah, sure, Data. Everybody does from time to time. 
-DATA: I have had one hundred eleven dreams since I first discovered
-this programme
-nine months ago. In all of that time, I have never experienced such
-strange and disturbing imagery. I believe it was a nightmare. 
-LAFORGE: Nightmares are part of dreaming, Data. Maybe you've just
-discovered another new level to your
-programme. 
-DATA: Perhaps. I have also noted that I am spending an inordinate
-amount of time thinking about nightmare imagery. One could almost say I
-am preoccupied. 
-LAFORGE: Well, it's perfectly normal, Data. Sometimes when I have a
-nightmare, I can't shake that weird feeling for a couple of days. 
-TYLER: Commander La Forge? 
-LAFORGE: Speaking of nightmares. 
-TYLER: (a petite dark lady) I just finished recalibrating the starboard
-EPS module. 
-LAFORGE: That's great, Ensign. Thank you. 
-TYLER: It's just like you said. Reset the power tap and the module came
-right online. You have such a wonderful grasp of engineering
-principles. I'm learning so much just by being around you. 
-LAFORGE: I'll tell you what. Why don't you help Farrell check the
-deuterium cartridges. I'm just about to bring the warp core online. All
-right?
-TYLER: Anything you say. 
-(Tyler goes off with a big smile) 
-DATA: Geordi, you do not seem to appreciate Ensign Tyler's enthusiasm. 
-LAFORGE: She's enthusiastic all right. About me. 
+LAFORGE: I can't find anything wrong with your
+internal time base. As far as I can tell, your primary systems check
+out fine. 
+DATA: I will compare my autonomic logs with the ship's chronometer.
+Perhaps we have overlooked something. 
+LAFORGE: You know, Data, there's an awful lot we don't know about your
+dream programme. Maybe it was designed to cause side effects. I mean,
+for all we know, Doctor Soong might have intended for you to oversleep
+from time to time. It's part of the human experience. 
+DATA: It is a possibility. However, I would prefer to make certain
+there are no anomalies in my neural net. 
+LAFORGE: You know, I'm curious. What were you dreaming about when we
+woke you up? 
+DATA: I have not fully assimilated its impact. I would prefer to study
+the images further before discussing them. 
+LAFORGE: Sounds like it must have been pretty strange. 
+DATA: Strange is not a sufficient adjective to describe the experience.
+
+[Holodeck - Freud's consulting room]
+
+GUEST2: Tell me more about this cake. 
+DATA: It is difficult to explain. Counsellor Troi's body was a cake. 
+GUEST2: Her upper body. Describe the knife you used to cut the
+Counsellor. 
+DATA: It had a black handle and a serrated blade, and it was quite
+long. 
+GUEST2: How long? 
+DATA: Twenty five centimetres in length. 
+GUEST2: And what happened next? 
+DATA: One of the workmen pointed to her right shoulder. At that moment,
+I had an overwhelming urge to cut a piece out of the cake. 
+GUEST2: And did you? 
+DATA: Yes. As I began slicing the cake, she reacted as though I was
+causing her pain. Yet I could not stop cutting. That is when I woke up.
+Doctor Freud, I am curious. 
+(Data starts to sit up from the couch and is gestured to lie down
+again) 
+DATA: I am curious. What do my nightmares mean? 
+GUEST2: I believe you are experiencing a classic dismemberment dream. Or
+in your case, being a mechanical man, a dismantlement dream. 
 DATA: I do not understand. 
-LAFORGE: She's got a crush on me, Data. 
-DATA: You do not share her affection? 
-LAFORGE: Exactly. And quite frankly, it's beginning to get a little bit
-uncomfortable. 
-DATA: I believe I understand. You are concerned about unintentionally
-hurting Ensign Tyler's feelings. 
-LAFORGE: Yeah, something like that. 
-DATA: It would appear that you require a third party to intervene on
-your behalf. I will be happy to speak to her. 
-LAFORGE: No, Data! I'll take care of it myself. Thanks. 
-DATA: Geordi, when I first awoke from my nightmare, there was a brief
-moment when I 
-PICARD [OC]: Bridge to Commander La Forge. What's our status? 
-LAFORGE: We're ready to bring the new core online, Captain. Stand by.
-All right, let's do it. Initializing deuterium infusion sequence. It's
-a thing of beauty, isn't it? Now let's see how fast she can run. La
-Forge to Bridge. 
-[Bridge]
+GUEST2: Your mechanistic qualities are trying to reassert themselves
+over your human tendencies. Ego and id struggling for domination. The
+workmen symbolise the ever present id constantly working to destroy the
+ego. Now the image of Counsellor Troi, a female, is devoured by you,
+clearly indicating an unconscious desire to possess your own mother. 
+DATA: But I do not have a mother. 
+GUEST2: Do not interrupt. The knife in its violent connotation suggests
+a certain feeling of sexual inadequacy. 
+DATA: but I have no sexual desire. 
+GUEST2: Ach! Impotence on top of everything. It is all becoming clear to
+me now. There might be a paper in this. 
+DATA: I do not believe I am being helped by this session. 
+GUEST2: Classic transference. Your anger toward me is, in fact, the
+animosity you feel toward your father. You are a polymorphously
+perverse individual, Mister Data, and I recommend full psychoanalysis.
+I believe I can fit you in next Tuesday. 
+DATA: That will not be necessary. Computer, end programme.
 
-LAFORGE [OC]: Warp power at your discretion,
-Captain. 
-PICARD: Acknowledged. Ensign Gates, set course for Starbase two
-nineteen, warp six. Engage. 
-(the lady Ensign does so, but the stars don't change) 
-PICARD: Engage. Bridge to Engineering. Mister La Forge, why isn't my
-ship 
-[Engineering]
-
-PICARD [OC]: Moving? 
-LAFORGE: I'm on it, sir. There's a warp plasma conduit out of
-alignment, but I think I've got it fixed now. Ready, sir. 

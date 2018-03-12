@@ -1,129 +1,37 @@
-TROI LAFORGE CLANCEY PICARD RIKER PULASKI WORF KEHLEYR DATA
+RIKER GUEST1 WORF PICARD KEHLEYR GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Acknowledged. Number One? 
-RIKER: I'll welcome our visitor. 
-PICARD: Resume original course and speed. 
-CLANCEY: Aye, sir. 
-[Transporter room]
+GUEST1: Approaching the coordinates. 
+PICARD: Slow to impulse. 
+GUEST0: Short and long-range sensor scans negative, Captain. 
+PICARD: Lay in a standard search pattern. 
+GUEST1: Search pattern laid in. 
+PICARD: Full impulse. Engage. 
+RIKER: I hope we find them before they come out of their nap. 
+PICARD: Agreed. There's not an outpost in this area could defend itself
+against a Klingon warship.
 
-(O'Brien starts pushing buttons on the probe. Riker
-enters) 
-LAFORGE: All yours, Commander. 
-(La Forge leaves. The probe case unlocks, and Riker helps O'Brien lift
-off the top. The inside is filled with a person. Pulaski scans and
-shakes her head) 
-RIKER: Something wrong, Doctor? 
-PULASKI: I'm not sure. The readings are quite interesting. 
-(The figure removes the lift support mask and reveals herself to be a
-Klingon woman) 
-K'EHLEYR: I greet you. I am K'Ehleyr. 
-RIKER: nuqneH. qaleghneS. 
-K'EHLEYR: You speak Klingon. 
-RIKER: A little. I am Commander William Riker. This is Chief Medical
-Officer Katherine Pulaski. I hope your voyage wasn't too unpleasant. 
-K'EHLEYR: Klingons are not supposed to mind hardship. Nonetheless, I am
-delighted to be out of that damned coffin. 
-RIKER: I don't blame you. It's not the most luxurious accommodation
-Starfleet has to offer. 
-K'EHLEYR: Whoever said that getting there was half the fun never rode
-in a class eight probe. 
-PULASKI: How are you feeling? Your vital signs are rather atypical for
-a Klingon. 
-K'EHLEYR: No doubt because I am only half Klingon. 
-PULASKI: Oh? 
-K'EHLEYR: Yes. My father was Klingon. My mother was human. 
-(And the lovely Susie Plaxton previously played a Vulcan on TNG)
+[Tactical room]
 
-[Observation Lounge]
-
-RIKER: Captain, allow me to present Special
-Federation Emissary K'Ehleyr. 
-PICARD: Welcome aboard. I'm Jean-Luc Picard. This is Counsellor Troi,
-Lieutenant Commander Data, and this is Lieutenant 
-K'EHLEYR: Worf. So this is where you've been hiding. I told you we'd
-meet again. Aren't you going to greet me? 
-WORF: I have nothing to say to you. 
-K'EHLEYR: Haven't changed a bit. Well, I missed you, too. Two days ago,
-Starbase Three Three Six received an automated transmission from a
-Klingon ship, the T'Ong.
-That ship was sent out over seventy five years ago. 
-RIKER: When the Federation and the Klingon Empire were still at war. 
-K'EHLEYR: The message was directed to the Klingon High Command. It said
-only that the ship was returning home and was about to reach its
-awakening point. 
-PICARD: Which suggests that the crew had been in cryogenic sleep for
-that long journey. 
-K'EHLEYR: Exactly. 
-RIKER: And when this crew is revived? 
-K'EHLEYR: We'll have a ship full of Klingons who think the war is still
-going on. 
-PICARD: So our task is to find the ship, and tell the Klingons they're
-no longer at war. 
-RIKER: Why us? Wouldn't a Klingon ship be a better choice? 
-K'EHLEYR: A Klingon ship, the P'rang, is on its way, but it's two days
-behind us. That may be too late. 
-TROI: Why too late? 
-RIKER: When the T'Ong crew awakens it will be within striking range of
-several Federation outposts. 
-DATA: There are thirteen colonies with minimal defences in that sector.
-
-K'EHLEYR: Nice, ripe targets for a Klingon warship. 
-TROI: And you believe you can convince these Klingons that the humans
-are now their allies? 
-K'EHLEYR: No, not a chance. If you ask me, talking will be a waste of
-time. Klingons of that era were raised to despise humans. We'll try
-diplomacy. But I promise you it won't work. And then you'll have to
-destroy them. 
-PICARD: No. 
-K'EHLEYR: No. Captain, these Klingons are killers. You'll have no
-choice. 
-PICARD: We shall find another choice. I want options and I want them
-before we encounter the Klingon ship. Lieutenant, I'm assigning you to
-help the Emissary. Dismissed. 
-TROI: I will escort you to the guest quarters. 
-K'EHLEYR: Captain. 
-(All leave except Picard and Worf) 
-PICARD: Lieutenant? 
-WORF: Sir. I suggest Commander Riker or Data would better serve Special
-Emissary K'Ehleyr. 
-PICARD: Are there any personal reasons you don't want the assignment? 
-WORF: Yes. 
-PICARD: Any professional reasons? 
-WORF: No. (Picard's left eyebrow raises slightly) I withdraw my
-request, Captain. 
-PICARD: Good.
-
-[Corridor]
-
-TROI: I didn't know it was possible for a human and
-a Klingon to produce a child. 
-K'EHLEYR: Actually, the DNA is compatible, with a fair amount of help.
-Rather like my parents. 
-TROI: I know exactly what you mean. My father was human and my mother
-is a Betazoid. 
-K'EHLEYR: Really? It was the other way around for me. My mother was
-human. You must've grown up like I did, trapped between cultures. 
-TROI: I never felt trapped. I tried to experience the richness and
-diversity of the two worlds. 
-K'EHLEYR: Perhaps you got the best of each.
-
-[K'Ehleyr's quarters]
-
-K'EHLEYR: Myself, I think I got the worst of each. 
-TROI: Oh, I doubt that. 
-K'EHLEYR: Oh, yes. Having my mother's sense of humour is bad enough.
-It's gotten me into plenty of trouble. 
-TROI: And your Klingon side? 
-K'EHLEYR: That, I keep under tight control. It's like a terrible
-temper. It's not something I want people to see. 
-TROI: Everyone has tempers. 
-K'EHLEYR: Not like mine. Sometimes I feel there's a monster inside of
-me, fighting to get out. 
-TROI: And it frightens you. 
-K'EHLEYR: Of course it does. My Klingon side can be terrifying, even to
-me. 
-TROI: It gives you strength. It's a part of you. 
-K'EHLEYR: That doesn't mean I have to like it.
-
+(Worf enters, with Data) 
+K'EHLEYR: I've been working on our assignment, trying a few computer
+simulations. 
+WORF: Your devotion to duty is commendable, if belated. 
+K'EHLEYR: Unwilling to be alone with me? 
+WORF: I asked Lieutenant Commander Data to help us analyse the
+alternatives. 
+K'EHLEYR: An android chaperon. 
+DATA: Android, of course, is correct, but I fail to see how chaperon is
+applicable in this situation. 
+K'EHLEYR: Never mind. I guess I can't blame you. Tell me one thing. You
+would have gone through with the oath, wouldn't you? Regardless of the
+consequences to our careers, to our lives? 
+WORF: Honour demanded no less. 
+K'EHLEYR: What do you want? Is honour all you care about? Don't you
+feel anything else? No comment, huh? Poor android. Whose behaviour do
+you find more perplexing? Human or Klingon? 
+DATA: At the moment, I would find it difficult to choose. 
+K'EHLEYR: So would I. Okay. When we locate the T'Ong, there are two
+possibilities. First 

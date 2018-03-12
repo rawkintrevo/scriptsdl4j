@@ -1,51 +1,41 @@
-LIEUTENANT RIKER CRUSHER DATA
+RIKER CRUSHER DATA GUEST2 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Theatre - Asylum cell]
+[Asylum common area]
 
-DATA: Perhaps we should continue this discussion
-next week 
-RIKER: No. I want to talk about this now. 
-DATA: You're starting to sound angry again. Maybe you need another
-treatment. 
-RIKER: What I need is to get out of this cell. I'm locked up in here
-for days. You've controlled my every move. You've told me what to eat,
-what to think, what to say. 
-(Riker sees the attendant looking through the cell door. He checks that
-there is an audience watching and the face is gone.) 
-CRUSHER: (prompt) And when I show a glimmer of independent thought 
-RIKER: And when I show a glimmer of independent thought, you strap me
-down, inject me with drugs and call it a treatment. 
-DATA: You're becoming agitated. 
-RIKER: You bet I'm agitated! I may be surrounded by insanity, but I am
-not insane. And there is nothing you 
-(he's detracted by the sound of a door, and for a moment the audience
-is gone) 
-RIKER: What's happening? 
-DATA: I can see we have a lot of work to do. 
-(Data exits) 
-RIKER: Nothing you can do will change the fact that I'm innocent. I'm
-not crazy. I'm not 
-(the alien officer is back between Picard and Riker) 
-RIKER: You're the key to all this, aren't you? Who are you? Who are
-you? 
-LIEUTENANT: Lieutenant Suna, sir. 
-CRUSHER: Will, are you all right? 
-RIKER: I. Yes. I don't know 
-CRUSHER: Why don't we get him to Sickbay. 
-[Sickbay]
+(Riker is slowly eating a plate of mush when
+Beverly enters in civilian clothes) 
+RIKER: It's not real. 
+(she sits down opposite him) 
+CRUSHER: Commander, do you know who I am? Do you know where you are? If
+you can't answer, just listen. You were on an undercover mission to
+Tilonus Four. Something happened. We were told that you killed
+somebody, but we do not believe it's true. We're being blocked at every
+turn. The hospital Administrator denies you're here at all. We're
+beginning to think that there's some kind of a conspiracy going on. I
+had to come in here posing as a health official. Sit tight, Commander.
+We're going to get you out of here. 
+(she leaves) 
+RIKER: Not real. 
+[Asylum cell]
 
-CRUSHER: There's nothing wrong with you
-neurologically, and I can't find anything that could cause the
-hallucinations. But your heart rate is way up and your blood pressure's
-way above normal. And you're physically exhausted. 
-RIKER: This is not a case of simple fatigue. 
-CRUSHER: Will, you know that when you're under conditions of extreme
-stress the mind can manufacture all kinds of things. 
-RIKER: Drugs. They injected me with me drugs. See if the drug's in my
-system. 
-CRUSHER: Nothing. 
-RIKER: In that dream they gave me drugs. Didn't anybody at the theatre
-see anything strange happen during the performance? 
-CRUSHER: No, nobody. Get some rest, Will. The play is over. Don't give
-it another thought. 
-RIKER: Right. 
+(Riker wakes to see someone forcing open his cell
+door. Worf and Data enter) 
+DATA: Commander. 
+RIKER: Get away from me! 
+WORF: Commander, you must come with us. You are in danger here. 
+RIKER: No! 
+WORF: Silence. 
+[Asylum Corridor]
+
+(Data hauls Riker out into the corridor, where he
+collapses) 
+DATA: Commander, are you all right? 
+(Riker breaks away and runs) 
+RIKER: Help me! Help me! 
+(the attendant and guard come round the corner. Riker grabs Worf's
+phaser and runs behind them)
+GUEST2: Who are you? Take them to Security Ward. 
+(Data deals with the guard, and Worf takes out the attendant. Data
+grabs Riker and drags him to -)
+

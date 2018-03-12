@@ -1,67 +1,38 @@
-LAL TROI DATA
+LAL GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Holodeck]
+[Teacher's office]
 
-(Data gently wakes Deanna and helps her to her
-feet) 
-DATA: Counsellor? Lal has narrowed the choices to four. Would you like
-to see? 
-TROI: Yes, yes, of course, Data. 
-DATA: Computer, Lal gender sequence finalists. Begin. An Andorian
-female. 
-TROI: Interesting. You'll be the only one on board the Enterprise, Lal.
+GUEST0: She achieved a very high score on a test
+of academic achievement. 
+DATA: A perfect score? 
+GUEST0: Yes, which is why we started her out with the older children.
+But Lal couldn't understand the nuances of how they related to each
+other. 
+DATA: I see. 
+GUEST0: We decided the best thing to do would be to put her with
+younger children. 
+DATA: That would seem to be reasonable. 
+GUEST0: It isn't working out that way. 
+(She shows him the classroom. Lal is standing by the wall while the
+children are around a table together) 
+GUEST0: The children were afraid of her.
 
-DATA: That could make socialisation more difficult. A human male. 
-TROI: Very attractive. There's no problem with socialisation here. 
-DATA: A human female. 
-TROI: I like her. 
-DATA: A Klingon male. 
-TROI: A friend for Worf. They're all very interesting. Do you have a
-favourite? 
-LAL: Yes. I have chosen.
+[Turbolift]
 
-[Laboratory]
-
-DATA: I have completed the assembly of the
-replicated anatomy. I was able to provide Lal with more realistic skin
-and eye colour than my own. 
-(Down comes the platform. It's the human brunette) 
-TROI: Congratulations, Data. It's a girl.
-
-[Data's quarters]
-
-DATA: This is home, Lal.
-LAL: Home. Place of residence. Social unit formed by a family living
-together. 
-DATA: Yes. We are a family, Lal. Chair. To sit in. Sit. Good. Painting.
-
-LAL: Painting. Colours produced on a surface by applying a pigment. 
-DATA: Yes. I will teach you to recognise the artistry in paintings. 
-(But Lal has moved on from the chair to the sofa) 
-LAL: Soft. 
-DATA: Yes, very good, Lal. You have correctly processed the sense of
-touch. There are many fascinating experiences I wish to share with you.
-
-LAL: Painting. 
-DATA: No, that is a flower, Lal. Inhale. 
-LAL: Smell! 
-DATA: Yes. 
-LAL: Show me more, Father.
-
-Second officer's science log, supplemental.
-Training in social skills at the most elementary level has begun. Lal
-is progressing very slowly but is not deterred by early setbacks. While
-motor coordination has improved twelve percent, reflexes still need to
-develop. Visual comprehension is especially difficult for Lal.
-Translating her vast data banks into recognisable applications may
-improve with additional transfers. She is also learning to supplement
-her innate android behaviour with simulated human responses. And it is
-interesting to note that as I observe Lal learning about her world, I
-share in her experience, almost as though I am learning things over
-again.
-
-(Beneath that narrative, we see Lal taking a drink
-but not swallowing, putting her hand up to catch the ball a good two
-seconds too late, being shown how to blink, and finally eating a
-dessert in Ten Forward, then using her napkin)
+LAL: Father, what is the significance of laughter? 
+DATA: It is a human physiological response to humour. 
+LAL: Then judging from their laughter, the children at school found my
+remarks humorous. So without understanding humour, I have somehow
+mastered it. 
+DATA: Deck fifteen. Lal. 
+LAL: Yes, Father? 
+DATA: The children were not laughing with you, they were laughing at
+you. 
+LAL: Explain. 
+DATA: One is meant kindly, the other is not. 
+LAL: Why would they wish to be unkind? 
+DATA: Because you are different. Differences sometimes scare people. I
+have learned that some of them use humour to hide their fear. 
+LAL: I do not want to be different.
 

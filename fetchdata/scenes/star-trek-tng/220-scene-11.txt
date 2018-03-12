@@ -1,48 +1,44 @@
-LWAXANA TROI DATA LAFORGE
+COMPUTER DATA LAFORGE WORF ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Troi's quarters]
+[Bridge]
 
-TROI: Mother, I'm trying to help the boy learn the
-value of responsibility. You're not helping by giving him a lot of
-mixed messages. 
-LWAXANA: I exposed you to all sorts of mixed messages when you were
-that age. You still turned out deadly dull. What are you so worried
-about? 
-TROI: Among other things, his relationship with his father. No more
-holodeck, Mother. Please. And why aren't you all absorbed in your
-wedding plans? It's only three days away. 
-LWAXANA: I'm letting Mister Homn take care of all the mundane details.
-He knows my tastes. 
-TROI: Mother. 
-LWAXANA: Deanna, there's absolutely nothing to do, you nosey little
-girl. Campio's already sent me his mother's wedding gown, which Mister
-Homn is now altering for me. Outside of that there really isn't
-anything else 
-TROI: Wedding gown? Mother, stop. You're telling me you're not going to
-be naked at your own wedding? 
-LWAXANA: Campio is from a different planet with different traditions.
-He would not approve of a traditional Betazoid wedding, so I am happily
-adapting. Now it's as simple as that. I need some tea. 
-TROI: I can't believe I'm hearing this from the Heir to the Holy Rings
-of Betazed, holder of the Sacred Chalice of Rixx. 
-LWAXANA: Oh, why can't I ever work this replicator? 
-TROI: Mother, I think it's time you tell me about this mysterious
-marriage to a man you've never met. 
-LWAXANA: Computer, some jestral tea, please. Anyway, why shouldn't I
-get married if I choose to? You make everything into such a mystery.
-There is no mystery, Deanna, except about this Petrokian sausage.
-(which has just arrived in the tea cup) The tea. All I wanted was a cup
-of tea. Oh dear, I think your replicator's having a nervous collapse.
+(working at the science station) 
+LAFORGE: Well, it looks like the only alloy common to both the
+replicator and the stabiliser is nitrium. Computer, analyze the nitrium
+content of both the affected stabiliser and replicator. 
+COMPUTER: There is no nitrium present in the affected stabiliser or
+replicator. 
+DATA: There is none present in the residue, either. 
+LAFORGE: According to the mass spectrometer, the elements in the
+residue have been broken down into simpler molecular structures. 
+DATA: That would suggest the nitrium has been organically metabolised. 
+LAFORGE: Maybe that's it, Data. If a living organism ingested the
+nitrium. 
+DATA: This residue would be the waste left behind. 
+LAFORGE: If that's true, if something's eating away at the nitrium on
+the ship. That means the dilithium chamber is vulnerable, as well as
+the power transfer conduits. We'd better get to Engineering.
 
-[Engineering]
+[Worf's quarters]
 
-DATA: A level-four diagnostic of the food
-replication systems has failed to detect any faults in the orientation
-terminals. 
-LAFORGE: That may be, but we've still got over two hundred reports of
-malfunctioning replicators. 
-DATA: There is an energy fluctuation in one of the utility access
-corridors. 
-LAFORGE: Well, we'd better look into it, whatever it is, before the
-captain decides to order dinner.
+ALEXANDER: Ha! Ha! 
+WORF: Eat, son. 
+ALEXANDER: Ha! 
+WORF: What are you doing? What is that noise? 
+ALEXANDER: Ha! It's my laughing hour. Ha! Ha! 
+WORF: That is enough, please. It is your dinner hour. Eat. 
+ALEXANDER: Ha! I promised to meet Mrs. Troi for another lesson in happy
+wisdom. Ha! 
+WORF: Will you stop doing that, please? Alexander, eat your food.
+Wisdom will wait, I assure you. 
+ALEXANDER: I promised. Should I break my promise, Father? 
+WORF: A Klingon ever breaks his word. 
+WORF: Where are you going? 
+ALEXANDER: You said no Klingon ever breaks his word. 
+WORF: I did not mean now. Now just sit down and eat. 
+ALEXANDER: I don't understand, Father. You're confusing me. 
+WORF: Understand later. Just eat. 
+ALEXANDER: Father? The higher, the fewer. 
+(and Alexander leaves) 
 

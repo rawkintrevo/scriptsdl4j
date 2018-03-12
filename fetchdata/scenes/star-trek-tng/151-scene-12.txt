@@ -1,52 +1,49 @@
-RIKER PICARD TROI WESLEY RISHON CRUSHER KEVIN
+PICARD RIKER DATA WORF WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WESLEY: Warp eight point five. Warp nine. The
-warship continues to match our acceleration curve perfectly. 
-PICARD: Number One, I have the distinct impression that we're being
-toyed with. Take us back to Rana Four. 
-RIKER: Back? 
-PICARD: We have unfinished business there. I need to have a talk with
-those two people. You have the Bridge. 
-RIKER: Reduce speed. Bring us around on a return course. This one's
-getting away.
+PICARD: Number One, an update, please. 
+RIKER: Little change, Captain. Our shields are still inoperable. We
+have partial control of our weapons, and I've doubled the repair crews.
 
-[Garden]
-
-(Picard and Worf beam is as Kevin and Rishon are
-tending some shrubs) 
-PICARD: Good afternoon. I'm sorry if I startled you. I'm Jean-Luc
-Picard, Captain of the Enterprise. I have brought you something you
-will need if you're going to stay on Rana Four. It's a matter
-replicator. It has limited capabilities, but 
-KEVIN: Thank you, but we have no use for such a thing. 
-PICARD: It will provide you with clothing, food and clean water.
-Lieutenant Worf demonstrate its operation. 
-KEVIN: We don't need it. 
-RISHON: Kevin, you know we do. Thank you, Captain. Kevin and I were
-about to have afternoon tea. You and Mister Worf must join us. 
-PICARD: I'd like that very much. 
-KEVIN: Rishon, they only want to spy on us like this morning. 
-RISHON: Kevin Uxbridge, I have never turned anyone away from this
-house, and I'm not going to start now. Captain. 
-PICARD: Thank you. 
-[Troi's quarters]
-
-TROI: Stop! Stop! Please, I'll do anything! Make it
-stop! 
-(Crusher enters the darkened room) 
-CRUSHER: Please. I'm here to help. 
-TROI: It's so loud! It's getting louder! Please, I can't stand it. Make
-it stop! 
-CRUSHER: Move her to the bed. 
-(two assistants get Troi out of the chair) 
-CRUSHER: This will help you relax. 
-TROI: I hear it. It's still there! It's so loud! 
-CRUSHER: Take her to Sickbay. 
-TROI: No, I want to stay in my quarters. 
-CRUSHER: I can get you to sleep. 
-TROI: I don't want to sleep. The music will only follow me. 
-CRUSHER: I can induce delta sleep. Lock out even your deepest dreams. 
-TROI: It's not a dream. It's real.
+DATA: The warship is approaching from high orbit. It is very close
+three hundred thousand kilometres distant. 
+RIKER: How is that possible? Is something wrong with the sensors? 
+PICARD: That's no concern, Number One. It's here and it's precisely on
+schedule. 
+DATA: The vessel has altered its course to a direct intercept with the
+Enterprise. 
+RIKER: Worf, arm phasers and photon torpedoes. Prepare to fire. 
+PICARD: Belay those orders, Mister Worf. 
+DATA: The vessel is now within twenty thousand kilometres of the
+Enterprise and closing. 
+PICARD: Let it come, let it come. Activate the main viewer. 
+WORF: Evasive action, sir? 
+PICARD: The Enterprise will hold its position, Mister Worf. 
+WORF: Weapons, sir? 
+PICARD: On my orders, not before. 
+DATA: The vessel is entering a low orbit around Rana Four. It appears
+it is preparing to fire at the planet, Captain. 
+PICARD: Understood. 
+DATA: My calculations indicate that its target is the house of Kevin
+and Rishon Uxbridge. 
+PICARD: There will be no interference from us, Mister Data. 
+WORF: The house has been obliterated. 
+PICARD: Scan for survivors. 
+WORF: There are no survivors. 
+PICARD: Mister Worf, prepare a photon torpedo. Fire at the enemy vessel
+when ready. 
+WORF: Aye, sir. 
+(And a single photon does what the salvo could not do earlier.
+Ka-Boom)
+PICARD: Number One, what reason does the Enterprise have for remaining
+at Rana? 
+RIKER: The unknown vessel has been destroyed. The Uxbridges have been
+destroyed. There's no reason for the Enterprise to remain. 
+PICARD: Good. Helm, move us into a higher orbit so that we may keep the
+surface of the planet under surveillance. 
+WESLEY: Aye, sir. But, Captain, what are we watching for? 
+PICARD: Anything. Everything. I'll be in my Ready room if I'm needed.
+That will be all for now.
 

@@ -1,83 +1,43 @@
-BEATA TROI LAFORGE WORF TASHA PICARD RIKER ARIEL CRUSHER
+BEATA RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Guest quarters]
-
-(Riker enters, and Troi hands him a local male
-outfit on a hangar) 
-TROI: This was delivered for you. 
-RIKER: Good. It's for my meeting with Beata. 
-TROI: You're not going to wear that. 
-RIKER: Of course. Part of this mission is diplomatic. I have requested
-an audience with a head of state, and I will honour her by wearing
-indigenous apparel.
-TASHA: I don't believe this. You're going to put that thing on and
-parade around like one of them? 
-RIKER: Why, what is this attitude? On Kabatris I had to wear furs to
-meet the leadership council. And on Armus Nine I wore feathers. This
-objection doesn't have anything to do with the fact that Beata is a
-woman, and an attractive one, does it?
-
- [Ready Room]
-
-(The Captain is obviously ill) 
-PICARD: This is quite unnecessary, Doctor. I'm fine. 
-CRUSHER: You're infected with the virus. Captain. In my opinion, you
-are no longer physically able to effectively command this vessel. 
-PICARD: That is ridiculous, Doctor. I have an away team down there, in
-less than friendly territory, and in addition I have an appointment
-with several Romulan battlecruisers. 
-CRUSHER: You have an appointment in your cabin, Captain. With your bed.
-
-PICARD: Is that an order, Doctor? 
-CRUSHER: Yes. 
 [Bridge]
 
-WORF: I think I may sneeze.
-LAFORGE: A Klingon sneeze?
-WORF: Only kind I know. 
-(Picard and Crusher enter) 
-PICARD: Lieutenant La Forge, you have command until further notice.
-Please, make the proper ship's log entries. 
-LAFORGE: Aye, sir. 
-(Geordi goes and sits in the Captain's chair) 
-WORF: Scanners indicate a platinum trace. Should I notify the away
-team? 
-LAFORGE: Make it so. 
-[Guest quarters]
+CRUSHER: [OC]: Sickbay to Bridge. 
+DATA: Go ahead, Doctor. 
+CRUSHER [OC]: Bingo, Data. 
+DATA: Bingo? I fail to see the relevance, Doctor. Is that not a
+reference to an ancient Earth game? 
+[Sickbay]
 
-TROI: Tasha. 
-(Riker emerges in full local costume, left breast and chest hair to the
-waist fully on show. The women find it highly amusing) 
-RIKER: What do you think? 
-TASHA: Well, I got to say, it's kind of sexy. 
-RIKER: Thank you, Lieutenant. Actually it feels quite comfortable. 
-[Beata's quarters]
+CRUSHER: It's also a reference to success, Data.
+I've got the inoculants. 
+[Bridge]
 
-(They also double as her private office) 
-BEATA: How handsome you look. 
-RIKER: Thank you, The Enterprise reports a possible location for Mister
-Ramsey and the other survivors. 
-BEATA: So soon? I'm impressed.
-ARIEL: I suspicious. 
-RIKER: You don't believe me? 
-ARIEL: Not yet. I hear the words, but not the sincerity. 
-BEATA: You had your opportunity to object, Ariel. You were in the
-minority. 
-ARIEL: After seven years, the great ship Enterprise come to repatriate
-a small group of insignificant people. 
-RIKER: Mistress Ariel, I hear the words but not the sincerity. 
-ARIEL: You should listen more carefully. Excuse me, Mistress. I have
-matters to attend to elsewhere. 
-(Ariel leaves, and Trent follows) 
-RIKER: With your permission, we'd like to begin our search immediately.
-BEATA: By all means. But I'm sure that Counsellor Troi and the others
-can do that without you. If I recall, you had a gesture of goodwill you
-wished to give to me? 
-RIKER: Certainly that can wait until we've recovered the survivors. 
-BEATA: Are you suggesting that the women in your party are incapable of
-accomplishing their task without the help of a man? 
-RIKER: Not at all. Lieutenant Yar and Counsellor Troi are completely
-qualified. 
-BEATA: You're very generous with your praise. Inform them you will
-remain here with me.
-RIKER: Riker to Lieutenant Yar. 
+DATA: Excellent, Doctor. We still have seventeen
+minutes left. I will inform the away team immediately. Enterprise to
+Riker. 
+[Great hall]
+
+DATA [OC]: We are ready to have you beamed up,
+Commander. 
+RIKER: Data, Ramsey and the prisoners are with us in the Great Hall. I
+want you to lock the transporter. Prepare to evacuate the entire group.
+
+[Bridge]
+
+RIKER [OC]: But for now, stand by. 
+DATA: Understood, Commander. 
+[Great hall]
+
+(Beata and the council enter) 
+BEATA: After careful consideration, this legislature has voted to stay
+the execution of the prisoners. Their children will be returned to them
+immediately. Do not rejoice prematurely. Ramsey and his followers are
+to be exiled to a distant and unpopulated region. Life will be
+difficult there with little time for revolutionary or evolutionary
+upheaval. As some have observed, we may be able to stop evolution, but
+perhaps we can reduce it to a slow crawl. For a man, you can be very
+clever, Commander Riker. 
+RIKER: Riker to Enterprise. Belay my previous order, Mister Data. There
+will now be only three to beam up. Energise. 

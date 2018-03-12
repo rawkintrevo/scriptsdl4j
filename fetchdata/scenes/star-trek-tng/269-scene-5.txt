@@ -1,37 +1,5 @@
 PICARD RIKER DATA LAFORGE WORF
-
-[Engineering]
-
-RIKER: These symbols don't match anything in the
-Federation linguistic banks. 
-LAFORGE: Some kind of alien information has been downloaded into our
-computer core. I don't know how it's working, but it's reconfiguring
-our systems. 
-RIKER: How did it get in? 
-LAFORGE: I was able to trace its path from the replicators to the
-sensor array. 
-RIKER: The sensors? They've been scanning that comet for the past
-eighteen hours. 
-LAFORGE: Those energy readings from the comet's core, that sensor echo.
-We still don't know what's inside that thing. 
-RIKER: Maybe it's about time we found out. Could we use the phasers to
-melt down the shell of the comet? 
-LAFORGE: Yeah, a dispersed wide-field beam might do the trick. It
-wouldn't take long to come up with the firing parameters. What do you
-think, Data? 
-(Data is still staring at the screen) 
-LAFORGE: Data? What's wrong? 
-DATA: I believe I recognise these symbols. 
-RIKER: How? 
-DATA: I do not know. 
-LAFORGE: Do you think maybe your systems have been affected? 
-DATA: It is a possibility. I do not believe my systems are currently
-impaired, but I will run a full diagnostic to make certain. 
-RIKER: What do you think they mean? 
-DATA: Boundary. Border. Road. Companion. Message. Messenger. 
-(a golden sun-face fills the screen) 
-LAFORGE: What's that one? 
-DATA: Death.
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 

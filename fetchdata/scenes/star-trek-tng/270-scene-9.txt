@@ -1,112 +1,52 @@
-TROI KWAN LAFORGE WORF PICARD RIKER COMPUTER DATA NARA
+RIKER WOMAN WORF TROI COMPUTER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ten Forward]
 
-PICARD: Release the exterior hull plate. We may
-have to jettison the core. 
-DATA: Aye, sir. 
+(Riker is in casual clothes with a woman. He comes
+to the bar where Worf is standing) 
+RIKER: Mister Worf. 
+WORF: Commander. 
+RIKER: Two Til'amin froths, please. 
+GUEST2: Yes, sir. 
+WORF: Lieutenant Corell seems to be enjoying your company. 
+RIKER: I'd like to think so. 
+WORF: Are you involved with her? 
+RIKER: I'm not sure yet. Why, are you interested? 
+WORF: No. But if I were, I would of course discuss the situation with
+you before proceeding further. 
+RIKER: I appreciate it, but that really wouldn't be necessary. 
+WORF: I mean I would never want to come between you and someone you are
+involved with, or had ever been involved with. 
+RIKER: Is there someone in particular that you're talking about? 
+WORF: No. Is there someone in particular you would rather I not be
+involved with? 
+RIKER: Mister Worf, you sound like a man who's asking his friend if he
+can start dating his sister. 
+WORF: No, no, I was merely. Never mind. Excuse me, sir.
+
 [Nacelle control]
 
-(there is a man poised to jump into the plasma) 
-RIKER: What happened? 
-NARA: (alien woman) He locked out the controls. Before we knew what was
-happening, he stepped up onto the walkway. 
-RIKER: (to Worf) See if you can help shut down the plasma flow. 
-NARA: I'm afraid if we try to get any closer, he will jump through the
-forcefield. 
-RIKER: Dan, it's me. It's Will Riker. I was here yesterday, remember? 
-KWAN: (alien man) I didn't want to do it. But I saw them. And they
-laughed at me. They laughed. 
-(Riker is on the walkway) 
-RIKER: Whatever happened, we can talk about it. I want to help. 
-KWAN: Stay away! 
-RIKER: I just want to see your face, that's all. So we can talk. 
-KWAN: I know what I have to do. 
-RIKER: Dan, no! 
-WORF: I have unlocked the controls. 
-COMPUTER: Shutdown procedure initiated. 
-NARA: There's still plasma in the injector. It'll take time to vent
-off. 
-RIKER: Tell me what happened. Maybe I can help. 
-KWAN: I know what I have to do. 
-(and he jumps into the plasma stream. Riker hits the bulkhead in anger
-and frustration and despair)
+(Troi goes up to the hatch again) 
+TROI: Could you open this door for me? 
+WORF: Yes, but only for a short time. After ninety seconds the plasma
+venting system will engage to prevent degradation of the forcefield. 
+TROI: I just want to take a quick look. 
+WORF: May I ask what you're looking for? 
+TROI: I'm not sure. 
+(the hatch rises and the stream of energy is visible) 
+COMPUTER: Warning plasma venting system will engage in ninety seconds. 
+WOMAN: No! No, no, please. Please, please. No! Don't! No! 
+COMPUTER: Warning. Plasma venting system will engage in eighty seconds.
 
-[Ready room]
-
-RIKER: A few more seconds I could've saved his life
-
-WORF: Commander, you did everything you could. It was not your fault. 
-RIKER: It was strange. I felt as if he didn't even recognise me,
-although I was with him just the other day when I supervised the tube
-refit. 
-PICARD: How did he seem then? 
-RIKER: Fine. I complimented him on getting the refit done faster than
-expected. He was pleased that I'd noticed. 
-TROI: I met with him about six weeks ago, during the crew evaluations.
-He was very positive. He was looking forward to being posted to the
-nacelle tube. 
-RIKER: He was a good officer with a fine career ahead of him. I don't
-understand why he wanted 
-PICARD: In my years as a Starship Captain, I've had to notify many
-parents of the loss of loved ones, but never before a suicide. I would
-like to be able to offer Lieutenant Kwan's parents some explanation of
-what happened, to try to help them make sense of this. 
-WORF: Maybe he left a message of some kind, explaining why he did it. 
-PICARD: I would like the two of you to piece together a picture of his
-last few days. 
-TROI: If he made any personal logs, it might be helpful to look through
-them. 
-PICARD: You're authorised to do so. 
-(Troi and Worf leave) 
-LAFORGE [OC]: La Forge to Captain. 
-PICARD: Go ahead.
-
-[Engineering]
-
-LAFORGE: I've just finished my damage assessment.
-We should be able to get underway I'd say within the hour. 
-PICARD [OC]: Mister La Forge
-
-[Ready room]
-
-PICARD: The medical situation on Barson Two has
-worsened. Starfleet has given us permission to exceed warp speed
-limitations so as to get back on schedule.
-
-[Engineering]
-
-LAFORGE: We'll be able to give you warp eight if
-you need it. 
-PICARD [OC]: Acknowledged. 
-DATA: Geordi, would you agree that the instinct for self-preservation
-is shared by most life forms? 
-LAFORGE: I'd say it's probably the most basic instinct, Data. 
-DATA: That being the case, I find it difficult to understand why
-someone would deliberately terminate their own existence. 
-LAFORGE: I don't know, Data. All I can think is that maybe Lieutenant
-Kwan felt that there was something wrong in his life, something he felt
-powerless to fix. 
-DATA: I believe I understand. I have been in a similar situation. 
-LAFORGE: Really? 
-DATA: The first months following my activation were a difficult period
-for me. There were many problems associated with my becoming sentient. 
-LAFORGE: Because your neural net was still forming. 
-DATA: As I acquired new skills, neural pathways would form replacing
-other less complex pathways. It was very disorienting. 
-LAFORGE: I bet. 
-DATA: As my systems grew in complexity, it became increasingly
-difficult to integrate new pathways into my existing neural net. The
-probability of cascade failure grew with each additional pathway. I
-came to the conclusion it would be safer and easier to shut myself down
-and start again. 
-LAFORGE: Yeah, but if you had done that, you wouldn't have remembered
-any of the things that had happened to you. 
-DATA: In a way, it would have been like committing suicide. 
-LAFORGE: So what did you do? 
-DATA: I decided against the procedure. I chose instead to treat the
-problems I was having with my systems as challenges to overcome, rather
-than obstacles to be avoided. 
-LAFORGE: Great way of looking at it, Data. I wish Lieutenant Kwan had
-been able to look at his problems the same way.
-
+(a man is staring at her) 
+TROI: Worf? 
+(a toolbox is present labelled Utopia Planetia - and the nacelle is not
+completed) 
+TROI: Worf? 
+(Troi goes back down the ladder and hears laughter from the junction
+room. She opens the door to see another man and the woman kissing. They
+laugh at her) 
+WORF: Counsellor, are you all right? 
+(the room is back as it should be) 
+TROI: Let's get out of here. 

@@ -1,56 +1,35 @@
-TROI NEIL KELSEY RIKER POMET CRUSHER DATA
+TROI PICARD KELSEY RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Arkaria base]
 
-(Hutch is covered in a purple curtain) 
-TROI: They haven't tried to communicate with the outside. 
-RIKER: No demands, no political statements, no theft. They must want
-something. 
-TROI: Orton is not as calm as he looks. He's very agitated and nervous,
-as if something's gone wrong. 
-DATA: It is possible that Geordi upset their timetable when he saw the
-hidden weapons. 
-RIKER: Orton may be improvising. Maybe he didn't plan to take us
-hostage so early and now he doesn't know what to do. 
-DATA: If they do not have a plan for this contingency, we may have the
-initiative. 
-RIKER: Maybe, but we need to figure out how to use it. How is he? 
-CRUSHER: There's no permanent damage. I've adjusted the optical
-transducer in his visor to block some of the pain receptors in his
-brain. It's only partially effective. I need to get him to a medical
-facility. 
-RIKER: I doubt if they'll agree to that. But maybe if we tell them
-Geordi's dying, they would give us access to a medical kit. We might be
-able to use some of the tools to make a weapon. 
-DATA: Perhaps we can use the visor as a weapon. If the optical
-transducer were modified, we might be able to generate a hypersonic
-pulse. 
-CRUSHER: A hypersonic pulse would overload the audio receptors of
-everyone in the room. It would cause immediate unconsciousness. 
-RIKER: Can you make the adjustments on the visor by yourself? It'll
-look suspicious if you're both working on it. 
-CRUSHER: I'll try. I might need Geordi to help me through some of it. 
-RIKER: All right. Be as casual as you can. Let us know when you're
-ready.
+TROI: I thought you were just going to talk to him.
 
-[Engineering]
+RIKER: I did. He just didn't like what I had to say. 
+(an alarm sounds, and Orton goes to a computer terminal in a recess) 
+DATA: That was a perimeter warning from the Remmler Array. A small ship
+is approaching. I believe Mister Orton has dropped his defence shields.
 
-POMET: Ready. 
-KELSEY: Begin draining the trilithium at one hundred milligrams per
-minute. 
-(Picard gets the laser out of his belt and plugs it into a power socket
-behind his back. An alarm goes off as a vent blows.) 
-KELSEY: Neil, what's going on? Neil, get over here. Put that down. 
-(Picard knocks over Satler) 
-NEIL: Don't worry, I've got it. I'll be right there. 
-(Picard does something to the inducer then dashes out of Engineering as
-the blast door comes down. He climbs the ladder of a Jefferies tube.
-Satler chases him. Picard opens a bulkhead to see the baryon sweep
-heading towards them. A few minutes later, Satler comes to the same
-bulkhead, now shut. Picard's jacket is on the deckplate. He lifts it to
-see an open panel, then the sweep comes through the bulkhead.)
-
+RIKER: This must be the sign they were waiting for. Mister Data, you
+will be the only one unaffected by the hypersonic burst. As soon as
+every else is unconscious, I need you to get to the computer panel and
+stop that ship somehow. 
+DATA: I will try, sir. 
+CRUSHER: Now. 
+(an ear-splitting noise fills the room, and all the people drop. Data
+takes the weapons and starts work on the computer) 
 [Corridor]
 
-(Satler's death scream reaches Picard as he walks
-along) 
+PICARD: Kelsey, perhaps we can work out a deal. 
+KELSEY: You're the only one who needs a deal, Mot. 
+PICARD: My name isn't Mot. It's Jean-Luc Picard. 
+KELSEY: Captain Picard. This is all beginning to make sense. 
+PICARD: Leave the trilithium here and take me with you. You can use me
+as a hostage instead of threatening 
+KELSEY: I'm not a terrorist Captain, nor do I have a political agenda,
+although I know some people who do have agendas. And they are very
+interested in this little container. 
+PICARD: Profit. This is all about profit. 
+KELSEY: I prefer to think of it as commerce. Open the door. Now go
+through, slowly.
+

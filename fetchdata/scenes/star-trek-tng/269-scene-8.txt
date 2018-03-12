@@ -1,63 +1,5 @@
-TROI LAFORGE DATAIHAT PICARD DATAVICTIM DATA
-
-[Engineering]
-
-LAFORGE: Lower synaptic functions are completely
-normal. Autonomous systems all check out. 
-DATA: I suggest we examine the memory subsystem next. 
-LAFORGE: All right. (Data twitches) Data, what's wrong? 
-DATA: I am not certain. I am experiencing a curious sensation. 
-LAFORGE: Well, what is it? 
-DATA: An impulse. 
-LAFORGE: Impulse? What kind of impulse? 
-DATA: I do not know. 
-LAFORGE: I'm going to check out your higher functions. 
-DATA: Geordi, what does it feel like when a person is losing his mind? 
-LAFORGE: Data, come on, you're scaring me now. What's going on? 
-DATA: I do not know. I am different. 
-LAFORGE: Well, you're going to be all right. You're with me, okay? 
-DATA: Okay. 
-LAFORGE: Listen, I'm going to disconnect you. (does so) What's going
-on? 
-(Data's circuitry has changed) 
-LAFORGE: Data. 
-(Data has the compass symbol on his forehead and a wicked grin) 
-DATA-IHAT: Masaka is waking. 
-(after the break, Data is sitting on the warp core as Picard enters.
-There is a symbol on his chest.) 
-LAFORGE: Captain 
-DATA-IHAT: Captain. I've been waiting for you. You should feel
-honoured. I don't usually wait for anyone. 
-PICARD: What is it you want? 
-DATA-IHAT: Masaka is waking. 
-PICARD: Are you Masaka? 
-DATA-IHAT: I am not Masaka. I am Ihat. 
-PICARD: What have you done to Commander Data? 
-DATA-IHAT: Commander Data? You mean the one who was here? 
-PICARD: Yes. 
-DATA-IHAT: He's gone. Who can say where? 
-PICARD: Picard to Counsellor Troi. Report to main Engineering
-immediately. 
-DATA-IHAT: Picard to Counsellor Troi. Report to main Engineering
-immediately. 
-PICARD: Ihat, this place you come from, is it a cultural archive of
-your species? 
-DATA-IHAT: I come from Masaka's city. 
-PICARD: Are there others like you there? 
-(Data goes to lie on the 'pool table') 
-DATA-IHAT: There are no others like me. 
-PICARD: Who is Masaka? 
-DATA-IHAT: You will find out. 
-PICARD: I would like to know Masaka, speak with her. 
-DATA-IHAT: Do you understand pain? Death? That is all you need to know
-of Masaka. It is what she is. Go. Leave this place before she finds
-you. It can be done. I did it. 
-(Troi enters) 
-DATA-IHAT: Masaka. 
-(Data kneels before her in fear, and when he looks up again, there is a
-different symbol on his chest) 
-DATA-VICTIM: I am yours. Every part of me is yours. 
-PICARD: We should confine him to quarters.
+TROI LAFORGE PICARD GUEST4 GUEST0 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Observation lounge]
 
@@ -76,3 +18,30 @@ PICARD: Geordi, I want you to continue to scan the archive. See if you
 can find some way to access it. And in the meantime, I'll see what I
 can learn from these people inside Data.
 
+[Data's quarters]
+
+PICARD: I'm not going to hurt you. 
+DATA-VICTIM: Only Masaka can hurt me. I am for her alone. 
+PICARD: I need to speak with Ihat. Do you understand? Ihat. 
+DATA-IHAT: Captain. That was a cruel joke you played on me. For a
+moment, a brief moment, I actually thought that woman was Masaka. 
+PICARD: Whoever took your place wasn't afraid of Masaka. He seemed
+eager for his fate. 
+DATA-IHAT: Pitiful, isn't it. You won't catch me humiliating myself for
+a woman even if she were a queen. 
+PICARD: Then Masaka is your queen? 
+DATA-IHAT: She's a lazy creature. She spends most of her time sleeping.
+The problem is, what she does when she's awake. 
+PICARD: Then should we try to keep her asleep? 
+DATA-IHAT: Try to stop the sun from climbing the sky? Only Korgano can
+do that, and he's not here. 
+PICARD: Where is he? 
+DATA-BOY: Help me. Please. 
+PICARD: What's wrong? 
+DATA-BOY: I'm afraid. 
+PICARD: Of what? 
+DATA-BOY: Of her. 
+PICARD: Masaka? 
+DATA-BOY: Her! 
+(the lights go out) 
+PICARD: Picard to Bridge. 

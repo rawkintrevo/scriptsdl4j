@@ -1,55 +1,39 @@
-PULASKI PICARD TROI LAFORGE RIKER
+WESLEY COMPUTER DATA GUEST1 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Geophysics lab]
 
-RIKER: We've entered the first system. I think you
-might want to come to the Bridge. 
-[Meadow]
+(A young scientist is reducing a rock to ash for
+analysis)
+WESLEY: Ensign Davies? 
+GUEST2: You got him. 
+WESLEY: Wesley Crusher. I've been put in charge of the planetary
+geological surveys, and I'd like to have you on the team. 
+GUEST2: Sounds great. Who else is on it? 
+WESLEY: I have Prixus and Alans and Hildebrandt. 
+GUEST2: It's a shame you didn't talk to me first. It's just personal
+opinion, but I like to break up married teams. 
+WESLEY: I hadn't thought of that. 
+GUEST2: Don't worry, they'll probably work out fine. And if you need
+any help, just give me a signal and I'll take over for you. We don't
+want you to get too beat up on your first command. 
+WESLEY: Thanks, but I'm pretty sure I'll be all right.
 
-PICARD: Something interesting? 
-RIKER [OC]: Spectacular. And a little terrifying. 
-PICARD: I'm on my way.
+[Data's quarters]
 
-[Bridge]
-
-RIKER: The first long range reading. Magnification
-ten to the sixth. 
-PICARD: Quite impressive. 
-(The planet is glowing red and black, like a huge ball of lava) 
-RIKER: And deadly. The last unmanned probe showed a thriving ecosystem.
-Now there's nothing.
-
-[Observation lounge]
-
-PICARD: This is Commander Riker's meeting. 
-RIKER: I'll need your advice and recommendations. As you know, I've
-been given the responsibility of overseeing Wesley's education. To
-further that goal, I would like to put him in charge of the planetary
-mineral surveys. 
-PULASKI: It's a big job with a lot of responsibility. 
-RIKER: The game isn't big enough unless it scares you a little. 
-LAFORGE: To do the job, Wesley's going to need a team. It takes command
-presence to lead. Do you think he's ready for that? 
-TROI: Leadership grows from self-confidence, which is also part of a
-Starfleet officer's education. 
-PICARD: All of this is true, but there is an old horse trainer's adage
-about putting too much weight on a young back. We don't want him to
-break under pressure. 
-PULASKI: We seem to be shifting the focus here. Are we talking about a
-young officer on the fast track to the Academy, or are we talking about
-a young man that we are guiding through adolescence and into adulthood?
-
-TROI: You can't guide someone into adulthood. The experiences are
-unique to each person. Whether Wes succeeds or fails, he will learn
-from the experience. 
-PULASKI: I agree. I'm just questioning the speed at which we're moving.
-
-LAFORGE: You think we're pushing him too hard? 
-PULASKI: I think that's a valid concern. 
-PICARD: Tempering is taken to extremes. 
-PULASKI: He is a boy, not a sword. 
-PICARD: Who will one day be a man and, to extend the metaphor, will
-need a fine edge that won't dull at the first touch of resistance. 
-RIKER: Sooner or later he'll have to feel the burden of command. Ensign
-Crusher.
+DATA: Computer, identify please. 
+COMPUTER: Sensors indicate low-level rf waves. 
+DATA: Is there a pattern? 
+COMPUTER: Affirmative. 
+DATA: Naturally occurring? 
+COMPUTER: Negative. 
+DATA: Key universal translator, please. 
+COMPUTER: Unable to comply. Weak signal. 
+DATA: Lock on comm. link and boost. 
+COMPUTER: Lock on complete. 
+DATA: Read, please. 
+COMPUTER: Insufficient signal strength. 
+DATA: Enhance, please. 
+GUEST1 [OC]: Is anybody out there? 
+DATA: Yes.
 

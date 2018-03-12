@@ -1,78 +1,34 @@
-GATES RIKER TASHA PICARD TROI COMPUTER TOMOLAK DATA
+RIKER LAFORGE PICARD COMPUTER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Past - Ready room]
+[Future - Enterprise guest quarters]
 
-TROI: Captain, I just wanted to voice my concerns
-about the way the crew is responding to your unexpected orders. 
-PICARD: They don't trust me. They think that I'm behaving erratically. 
-TROI: Some do. Others are confused. It takes some time for a new crew
-to get to know their Captain, and for him to know them. 
-PICARD: I understand, but I also know what this crew is capable of,
-even if they don't. 
-TROI: It would also help if they knew what was going on. 
-PICARD: I know it's difficult operating in the dark, but right now I
-don't think I have any other choice. 
-TASHA [OC]: Yar to Captain Picard. I have Commander Riker for you, sir.
+(Picard wakes up) 
+PICARD: Computer, where is Admiral Riker? 
+COMPUTER: Admiral Riker is in Ten Forward.
 
-PICARD: Excuse me. Put him through here. Commander Riker. I wanted to
-inform you that we'll be delayed in picking you up at Farpoint Station.
+[Future - Ten Forward]
 
-(we see Farpoint Riker on the monitor, but cut away when he's supposed
-to be speaking) 
-RIKER [OC]: I see. May I ask how long? 
-PICARD: I can't say. I'll keep you updated. Will you inform Doctor
-Crusher and Lieutenant La Forge of our delay? 
-RIKER [on monitor]: Understood. 
-RIKER [OC]: Riker out. 
-PICARD: Is there anything else, Counsellor? 
-TROI: Actually, sir, there is. I was debating whether to mention it,
-and perhaps. It's about Commander Riker. 
-PICARD: What about him? 
-TROI: I think you should know he and I have had a prior relationship. 
-PICARD: I see. Do you think this will interfere with your duties? 
-TROI: Not at all. It happened several years ago and it's well behind
-both of us now. I just thought you should know. 
-PICARD: I appreciate your telling me, but I'm quite sure that the two
-of you will find some way to deal with the situation. 
-TROI: Thank you, sir. 
-(Troi leaves) 
-PICARD: Tea, Earl Grey, hot. 
-COMPUTER: That beverage has not been programmed into the replication
-system.
-
-[Bridge]
-
-TOMOLAK [on viewscreen]: So, Captain how long shall
-we stare at each other across the Neutral Zone? 
-PICARD: There is an alternative, Tomolak. We each know why we're here.
-We could each send one ship into the Neutral Zone to investigate the
-anomaly in the Devron System. 
-TOMOLAK [on viewscreen]: Has Starfleet Command approved this
-arrangement? 
-PICARD: No. 
-TOMOLAK [on viewscreen]: I like it already. Agreed. One ship from each
-side. But I warn you, if another Federation starship tries to enter the
-Zone. 
-PICARD: There is no need to make threats. We each know the
-consequences. 
-TOMOLAK [on viewscreen]: Very well. I'll see you in the Devron system. 
-(transmission ends) 
-PICARD: Helm, set course for the Devron system, warp five. 
-GATES: Aye, sir. 
-PICARD: Engage. 
-(whoosh, and later) 
-DATA: Sensors are picking up a large subspace anomaly directly ahead. 
-PICARD: All stop. On screen. Full scan, Mister Data. 
-DATA: Aye, sir. 
-PICARD: We have to get as much information as possible about that
-anomaly. 
-[Past - Bridge]
-
-DATA: We are approaching the Devron system,
-Captain. Sensors are picking up a large subspace anomaly directly
-ahead. 
-PICARD: All stop. On screen. Then it is larger in the past. 
-TROI: Sir? 
-PICARD: Nothing. Full scan, Mister Data. 
-DATA: Aye, sir.
+LAFORGE: The ship has held up pretty well over the
+years. 
+RIKER: They tried to decommission her about five years ago. One of the
+advantages of being an Admiral is you get to choose your own ship. 
+CRUSHER: Will, how long is this thing between you and Worf going to go
+on? 
+RIKER: It's been going on for over twenty years. Doesn't look like it's
+going to end any time soon. 
+DATA: I suspect the last thing Counsellor Troi would have wanted is for
+the two of you to be alienated. 
+CRUSHER: I agree. I think it's time to put it behind you. 
+RIKER: I tried at Deanna's funeral. He wouldn't even talk to me. 
+LAFORGE: Might have been tough for him then. He took her death pretty
+hard. 
+RIKER: Oh, yeah? Well he wasn't the only one. 
+CRUSHER: I know, but I think in his mind you were the reason that he
+and Deanna never got together. 
+RIKER: I never did anything to stand in his way. 
+CRUSHER: Didn't you, Will? 
+RIKER: Did I? I didn't want to admit that it was over. I always thought
+that we'd get together again. And then she was gone. You think you have
+all the time in the world, until. Yeah.
 

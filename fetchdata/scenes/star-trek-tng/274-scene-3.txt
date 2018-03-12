@@ -1,34 +1,37 @@
-PICARD JASON
+PICARD RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Bridge]
 
-(A young man in the act of rock climbing nearly
-falls over) 
-JASON: What the? This is a Federation ship. 
-PICARD: That's right. I'm Captain Picard. Jean-Luc Picard. 
-JASON: I realise I wasn't supposed to be spelunking that cave, but
-don't you have something better to do? 
-PICARD: We thought you were at risk. 
-JASON: Oh. Well, I wasn't, so maybe you should just beam me back where
-I was? 
-PICARD: Are you Jason Vigo? 
-JASON: I, er, I know him. Is he in trouble? 
-PICARD: In a manner of speaking. Someone has made a threat against his
-life. Jason, I'm an old friend of your mother's. I'm here because
-you're in danger. 
-JASON: Why would anybody want to kill me? 
-PICARD: The person who has made the threat is under the impression that
-you are my son. 
-JASON: Am I? 
-PICARD: I don't know. 
-JASON: My mother never told me who my father was. Just that he was in
-Starfleet. 
-PICARD: Maybe we should contact her. 
-JASON: She died a few years ago. 
-PICARD: Oh, I'm sorry. Jason, I think it's important that we find out
-one way or another. Would you be willing to permit a genetic test? 
-JASON: If I'm not your son, is this person still going to want to kill
-me? 
-PICARD: I doubt it. 
-JASON: In that case, you won't mind my saying that I hope you're not my
-father. 
+(at the science station) 
+RIKER: Anything? 
+WORF: There are no Ferengi vessels within range of our scanners. 
+DATA: Captain, I am unable to find any information on Jason Vigo's
+current whereabouts. 
+PICARD: What about his mother? 
+DATA: No, sir. 
+PICARD: Miranda was trained as a botanist. She always used to talk
+about running a farm one day. Maybe we should concentrate on the
+agricultural areas. 
+DATA: That would significantly narrow our search. The only cultivated
+land is on the southern continent, and there are relatively few people
+engaged in agricultural activities. 
+PICARD: There cannot be many non-Camorites among them. Scan for human
+life signs. 
+DATA: I am detecting eight humans. Three are female. However, they are
+all too young to be Miranda Vigo. 
+PICARD: What about males? 
+DATA: One is an infant. Another is elderly. Two are middle aged. 
+PICARD: That's seven. You said there were eight. 
+DATA: I am having difficulty getting a clear reading on the eighth. The
+individual appears to be approximately two kilometres beneath the
+planet's surface. 
+PICARD: Male or female? 
+DATA: Male, between twenty and thirty years old. 
+RIKER: No one in their right mind would go that far underground alone. 
+PICARD: Unless he were forced to. 
+WORF: Captain, I am reading seismic instability in the area. He is in
+danger. 
+PICARD: Relay his coordinates to the transporter room. Have them beam
+him aboard. 
+DATA: Aye, sir. 

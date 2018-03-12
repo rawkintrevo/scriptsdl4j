@@ -1,75 +1,62 @@
-RIKER LAFORGE WORF PICARD HELM PRAK DATA
+RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Jefferies tube]
 
-WORF: We are within visual range, sir. 
-PICARD: On screen. 
-WORF: It is a Ferengi transport ship, D'Kora class. 
-RIKER: That's the same Ferengi vessel that entered the Corridor a week
-ago. 
-LAFORGE: Captain, there are no emissions from their plasma vents. Their
-warp drive must be completely inactive. 
-DATA: That is correct, sir. Their impulse system is down as well, Power
-generation is at extremely low levels. 
-PICARD: What about life signs? 
-DATA: Life support systems are also functioning at low levels. There
-are approximately four hundred fifty Ferengi on board. That is a
-standard complement for a ship of that class. 
-PICARD: Mister Worf, open a hailing frequency. 
-WORF: There is no response on any channel, sir. 
-LAFORGE: I'm not picking any subspace emissions from the ship at all,
-Captain. It looks like every one of their field coils has been
-overloaded. 
-RIKER: That would explain why they haven't respond to our hails. 
-DATA: It would also explain the failure of their warp drive. 
-LAFORGE: Captain, Ferengi sensors are still online. I could modify one
-of our deflector emitters to transmit old style delta waves. If I
-modulate that with a comm. signal, the Ferengi should be able to pick
-that up. 
-PICARD: Make it so. 
-RIKER: If they did hijack the Fleming, they sure didn't get very far
-with the cargo. 
-PICARD: Mister Worf, have tractor beams standing by. We may have to
-take them under tow. Helm, take us within tractor range. 
-HELM: (female) Aye, sir. 
-WORF: Captain, I am picking up power emissions from the Ferengi ship.
-They are locking weapons. 
-PICARD: Shields up. 
-(the Enterprise gets hit) 
-RIKER: Ready phasers. Prepare to return fire. 
-PICARD: Target their weapons array only. 
-WORF: Phasers locked. 
-PICARD: Fire. 
-DATA: Direct hit. Their weapon systems are down. 
-PICARD: Damage report. 
-WORF: We sustained minimal damage to decks five and seven, sir. 
-DATA: Sir, the Ferengi ship's power has stabilised. They appear to have
-impulse capability. 
-RIKER: They were just playing dead. Conserving power until we got in
-close enough. 
-PICARD: But why would they attack us in the first place? 
-RIKER: Somehow I don't think they'll let us beam over there and ask
-them. 
-PICARD: Mister La Forge, how are you coming with that comm. link? 
-LAFORGE: Almost ready, Captain. All right, let's give it a try. 
-PICARD: Open a channel. 
-(a fuzzy viewscreen image that La Forge cleans up) 
-PICARD: This is Captain Jean-Luc Picard of the Enterprise. Will you
-please explain why you attacked us? 
-PRAK [on viewscreen]: Our attack? We were defending ourselves. Do you
-deny that you are responsible for disabling my vessel? 
-PICARD: DaiMon, your ship was adrift, your communications inoperative.
-We were attempting to assess your status. 
-PRAK [on viewscreen]: You were attempting to move in for the kill. Do
-not toy with me, Picard. We are obviously at your mercy, but know this.
-When the Ferengi Council learns of your actions, they will consider
-this an act of war. 
-PICARD: DaiMon, clearly there has been some misunderstanding. I think
-it would be in all interests if you were to come aboard and we discuss
-this situation. 
-PRAK [on viewscreen]: I see no reason to trust you, human. 
-PICARD: In that case, we'll be on our way. I'll relay your position to
-your government if you wish, in case you're unable to complete your
-repairs and you remain stranded. 
-PRAK [on viewscreen]: Perhaps it would be better to discuss the
-situation. 
+(at a panel in a junction) 
+LAFORGE: How's that? 
+DATA: One moment. The phase buffer is functioning within normal
+parameters. Sensor efficiency has increased by six point seven percent.
+
+LAFORGE: Six point seven? One of the stages must still be out of
+alignment. Let's try junction A nine. 
+(they climb down one level) 
+DATA: Geordi, I have taken your suggestion regarding Spot. 
+LAFORGE: Coming down. 
+DATA: I have begun training her. 
+LAFORGE: Really? 
+DATA: Yes. I am studying several new techniques. 
+(crawling along) 
+DATA: I began with simple conditioned response exercises and followed
+with environmental enhancement. Next I plan to explore bioconditioning
+devices. 
+LAFORGE: Devices? 
+DATA: Such as sensor nets for behaviour modification or biofeedback
+motivators. Unfortunately, I have been less than successful. 
+LAFORGE: I've got an idea. How about a phaser? A low stun setting at
+just the right moment might do the trick. 
+DATA: Geordi. I cannot stun my cat. 
+LAFORGE: I was kidding, Data. (at a panel) Let's see what we've got.
+No, this isn't it, either. 
+DATA: Clearly there is a misalignment somewhere in this system. 
+LAFORGE: That's for sure. Well, we've got one more possibility.
+Junction C twelve. 
+DATA: I am somewhat concerned that my training efforts will ultimately
+fail. 
+LAFORGE: Maybe you're just going about it the wrong way, Data. 
+DATA: I have consulted numerous animal training manuals. Some of them
+claim that cats are inherently untrainable. 
+LAFORGE: I don't believe that for a second. Listen to me. My sister
+didn't know a thing about animals and she was able to train her cat.
+How complicated could it be? 
+DATA: What did she train her cat to do? 
+LAFORGE: She had that cat jumping into her arms on command. 
+DATA: Interesting. Perhaps I could modify your sister's techniques to
+keep Spot from jumping on console. Do you know how she was able to
+train her cat? 
+LAFORGE: Well, as I recall, she walked around for two months with a
+piece of tuna in her blouse. 
+(at the next junction) 
+LAFORGE: I was right. This buffer is out of alignment. Okay, try that. 
+DATA: Phase alignment is stabilised. However, sensor efficiency has
+increased by only an additional one point three percent. 
+LAFORGE: It's not much, but every little bit going to help. 
+RIKER [OC]: Riker to Data. 
+DATA: Data here. 
+RIKER [OC]: We're picking up a ship ahead on long range sensors. If you
+and Geordi are through down there, we'd like to have you on the Bridge.
+
+LAFORGE: We're not going to squeeze anything else out of these systems.
+
+DATA: Acknowledged, sir. We are on our way.
+

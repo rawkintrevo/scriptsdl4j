@@ -1,108 +1,50 @@
-PICARD RIKER TALLERA NARIK
+RIKER GUEST2 PICARD GUEST3 BARAN CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's room]
+[Shuttlebay]
 
-(Picard pulls a weapon as the door opens) 
-RIKER: Good to see you, too. 
-PICARD: I've had some unpleasant surprises. Will, this isn't a good
-idea. Baran might grow suspicious. 
-RIKER: As a matter of fact, it was Baran who sent me here. He told me
-to pretend to be friendly with you and help you organise a mutiny, so
-he can determine who your supporters in the crew and then eliminate
-them. 
-PICARD: What a tangled web we weave. I have difficulty remembering
-whose side I'm on. So, what have you been able to find out? 
-RIKER: When we reach the Hyralan Sector, we're supposed to rendezvous
-with a Klingon transport ship. I'm not sure, but I think they may be
-delivering another of the Romulan artefacts to us. 
-PICARD: A second artefact? Oh, by the way, that first artefacts is not
-Romulan. It's Vulcan. 
-RIKER: Vulcan? 
-PICARD: I have been looking over the glyphs and pictograms from the
-Calder Two artefact. And although I don't have enough data to translate
-all the inscriptions, the alphabet and symbology is much more
-consistent with early Vulcan than Romulan. 
-RIKER: Do these artefacts have some religious or cultural significance,
-something that would make them valuable enough to kill for? 
-PICARD: I don't know. If I could just get access to the Enterprise
-computer just for a few moments. So, what will Baran do once he's
-obtained the second artefact? 
-RIKER: You're supposed to verify its authenticity, and then I'm
-supposed to kill you, and I take your place. 
-PICARD: Will, you always seem to be after my job. Well, as soon as
-Baran feels that I've outlived my usefulness, he can kill me simply by
-using the neural servo. So, I think we had better start planning a
-mutiny.
+(Koral is the tallest Klingon in the galaxy,
+standing head and shoulders above the shuttlecraft hatch, let alone
+Worf) 
+CRUSHER: Hello. I'm Doctor Crusher, and this is Lieutenant Worf. We're
+here to conduct a health and safety inspection of your ship. 
+GUEST3: Health and safety inspection? 
+CRUSHER: That's right. You know, radiation leaks, biochemical
+contamination, other health hazards. Excuse me. 
+(Crusher goes inside the shuttlecraft) 
+CRUSHER: Well, no radiation so far. I'm sure you're glad to hear that.
+Right.
 
-[Mercenary Cargo hold]
+[Mercenary Bridge]
 
-(Narik is working at a small wall panel) 
-PICARD: We need a new captain and I've come to one inescapable
-conclusion 
-NARIK: I agree. But I don't think that's you. 
-PICARD: Oh? 
-NARIK: I don't trust you, Galen. I don't think the rest of the crew
-does either. They're not going to follow you. 
-PICARD: Then who will they follow? You? 
-NARIK: No, but they will follow Tallera and so will I. 
-(Narik leaves and Tallera enters) 
-TALLERA: Who are you? 
-PICARD: What? 
-TALLERA: You're no smuggler and I don't think your name's Galen. You
-will tell me who you really are and what you are doing on this ship or
-I will kill you right here. 
-PICARD: What are you talking about? 
-TALLERA: I will not play games with you. I found the message you sent
-to the Enterprise. When Riker was using his command codes to drop their
-shields, you sent them a transmission on the same carrier wave. You're
-a Starfleet officer. Do not deny it. It is the only logical conclusion.
-My name is actually T'Paal, and I am a member of the V'Shar. 
-PICARD: Vulcan Security? 
-TALLERA: That is correct. I infiltrated this ship a year ago posing as
-a Romulan mercenary. I'm here to investigate a possible threat to
-Vulcan. 
-PICARD: What sort of threat? 
-TALLERA: First things first, Galen. Who are you? 
-PICARD: I'm Captain Jean-Luc Picard of the Enterprise. 
-TALLERA: Very well. To answer your question, for several years now,
-there has been a small but growing movement of extreme isolationists on
-Vulcan. A group that believes contact with alien races has polluted our
-culture and is destroying Vulcan purity. This group advocates the total
-isolation of Vulcan from the rest of the galaxy and the eradication of
-all alien influences from our planet. 
-PICARD: That sounds like an illogical philosophy. 
-TALLERA: Agreed. But extremists often have a logic all their own. 
-PICARD: Tell me, Tallera, what are these artefacts we've been
-collecting? I know that they are Vulcan in origin. 
-TALLERA: I am sure you are familiar with the ancient history of my
-people, before we found logic, before we found peace. 
-PICARD: You were much as my people once were. Savage, warlike. 
-TALLERA: There was even a time when we used our telepathic abilities as
-a weapon. A time when we learned to kill with a thought. 
-PICARD: The Stone of Gol! 
-TALLERA: You know of it? 
-PICARD: I know the story from Vulcan mythology. 
-TALLERA: The Stone of Gol is real, but there is nothing supernatural or
-magical about it. It is a psionic resonator, a device which focuses and
-amplifies telepathic energy. It is one of the most devastating weapons
-ever conceived. 
-PICARD: But according to the legend, the Stone was destroyed by the
-gods when the Vulcan people found the way to peace. 
-TALLERA: The resonator was believed to have been destroyed during the
-Time of the Awakening. Only one piece is known to have survived and it
-was placed in a Vulcan museum under heavy guard. A year ago, that piece
-was stolen from the museum. Soon after, mercenary ships began raiding
-archaeological sites across the quadrant. We believe a member of the
-isolationist movement is attempting to reassemble the resonator. 
-PICARD: A telepathic weapon. 
-TALLERA: My orders are to find that assassin and stop him. 
-PICARD: It would seem that Baran has to deliver these artefacts to the
-assassin in order to get paid. Therefore, you and I should continue our
-masquerade. 
-TALLERA: Agreed. But Captain, I cannot allow the resonator to be
-assembled. If necessary, I will destroy this ship, its crew, all of us
-to prevent that from happening.
+GUEST2: There's an incoming message. It's from the
+Klingon shuttle. It was sent approximately fifteen minutes ago. He's at
+the rendezvous coordinates but he's been detained by the Enterprise.
+That's all there is. He's stopped transmitting. 
+BARAN: The Enterprise. 
+PICARD: How could they have found out about the rendezvous, Commander? 
+BARAN: Quiet! All that matters now is that the Enterprise has the
+second artefact in their possession. We don't have a choice. We'll have
+to board the Enterprise and take the artefact. 
+PICARD: Do you have any idea how many security officers there are on
+board a ship like that? 
+BARAN: No, I don't. But he does. 
+RIKER: I could get us on the Enterprise. I can find the artefact. 
+PICARD: Oh, yes, very convenient. We beam you back aboard your old ship
+and we have to take a risk that you won't change your mind and betray
+us. 
+RIKER: I have saved your life twice already, Galen. I would think you'd
+begin to show some gratitude by now. 
+BARAN: Galen, if you're so worried about Riker, then you can go on the
+raiding party and watch him. 
+PICARD: Agreed. 
+BARAN: Draw weapons and equipment for a raiding party of five. 
+(Picard leaves) 
+BARAN: If you're thinking of betraying us to your friends on the
+Enterprise, you might remember that I still have the ability to kill
+you at the first sign of trouble. 
+RIKER: I haven't forgotten. 
+BARAN: I have an additional task for you, one that will prove your
+loyalty. This raid is an opportunity to get rid of Galen. Once you've
+found that artefact, kill him.
 
-Acting Captain's log, stardate 47160.1. The
-Enterprise is entering the Hyralan Sector, which I believe to be the
-next destination of the mercenary ship. 

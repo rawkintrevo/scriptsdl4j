@@ -1,45 +1,58 @@
-RIKER OBRIEN LAFORGE KYLE PULASKI WESLEY MAN
+RIKER LAFORGE WORF KYLE PULASKI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-(Hoards of Starbase Techs are swarming around
-Engineering) 
-LAFORGE: You know, Starbase Montgomery really didn't have to send me
-all this help, because we've already checked the entire dilithium
-spectrum for anomalous frequencies, so you don't have to waste your
-time on that. 
-(Wesley enters) 
-LAFORGE: Wes. Are you okay? 
-WESLEY: I was just talking to Worf. He's really eccentric at times. 
-LAFORGE: That's one word for it. 
-WESLEY: He was really upset. I must've said something wrong. 
-LAFORGE: Maybe Worf's not too thrilled with the idea of losing
-Commander Riker to a new assignment. I know I'm not. 
-WESLEY: Neither am I. But with Worf it was something else. Something's
-really bothering him. 
-LAFORGE: Think so? 
 [Ten Forward]
 
-(Kate is at the bar, O'Brien and a moody Riker are
-at a table) 
-O'BRIEN: Female? 
-RIKER: No. 
-O'BRIEN: Career? Career? 
-RIKER: Family. 
-O'BRIEN: That is trouble. You choose your enemies, you choose your
-friends, but family? That's in the stars. 
-RIKER: So I've heard. 
-(Kyle Riker enters and surveys the room) 
-MAN: Kyle Riker! Excuse me, ladies. Great to see you. 
-MAN 2: Kyle. Been a long time. 
-PULASKI: This is more than a surprise. It's total shock. 
-KYLE: You mean you didn't bake me a cake? 
-PULASKI: You're actually here. 
-KYLE: That makes two of us. How about a drink? 
-PULASKI: How about a kiss? 
-(A quick peck and a hug) 
-RIKER: They know each other. 
-O'BRIEN: No kidding. I know her too, but we don't do that. 
-(Kyle and Kate sit together) 
-KYLE: You look wonderful.
+(Fresh drinks are brought to Kyle and Kate, and
+Riker finally can't stand it. He goes over) 
+KYLE: Thank you. And after working out the Fuurinkazan battle
+strategies at the Tokyo Base, I was asked to come here to work for
+Starfleet as a tactical advisor. 
+PULASKI: I'm surprised you stayed our of the action as long as you did.
+Will, please join us. Your father and I are just catching up. 
+RIKER: You never told me you knew him. 
+PULASKI: Well, it wasn't exactly a secret. It just never really came
+up. 
+KYLE: Sit down, son. 
+RIKER: I'm ready for that briefing whenever you are. 
+(Riker stalks out. A little later, Data and Geordi enter) 
+KYLE: Good to see you too, Graham. 
+PULASKI: You wouldn't be running for mayor, would you? 
+KYLE: Do pick up work for the Federation long enough and it'll happen
+to you, too. I thought about you a lot. 
+PULASKI: Kyle, I don't need to hear what you don't need to say. 
+KYLE: We could've been great together. 
+PULASKI: Possibly. 
+KYLE: Is it true you got married? 
+PULASKI: Again and again. 
+KYLE: That make you three for three, doesn't it? 
+PULASKI: I'm not complaining. Each was good a man and we're all still
+good friends. 
+KYLE: Like us? 
+PULASKI: Close, but different. They were all a little more in touch
+with themselves. 
+KYLE: Ouch. 
+PULASKI: Face facts, Kyle. You're crusty. You have a reputation for
+being hard as nails and getting the job done. Underneath it all, you're
+not so bad. Some of us even love you. And then there's Will. 
+KYLE: Then there's Will. 
+(Worf is standing staring out of the window) 
+LAFORGE: Wesley should really be doing this on his own. 
+DATA: But he needs his study time. 
+LAFORGE: I can't believe you fell for that. I don't know, Data. He
+looks perfectly normal to me. 
+DATA: In solitude, there is nothing to trigger unusual behaviour. 
+LAFORGE: Good point. Let's not tamper with the status quo. 
+DATA: But that would defeat the opportunity for our behavioural
+research. In all probability, he is simply lonely. We can relieve his
+anxiety through socialisation. 
+LAFORGE: Be my guest. 
+(Data goes over to Worf) 
+DATA: Excuse me, Lieutenant. You seem to have lost the will to
+communicate with others. You have friends here. We, we care about you.
+Why, just recently, Geordi, Wesley and I were saying 
+WORF: With all due respect, be gone! Sir. 
+(The blast jolts Data backwards. He returns to Geordi) 
+DATA: He seems quite sincere in his desire for solitude. 
+LAFORGE: Seeing is believing, huh?
 

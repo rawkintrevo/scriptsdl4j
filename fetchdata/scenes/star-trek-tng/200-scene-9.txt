@@ -1,127 +1,57 @@
-KURN GOWRON WORF PICARD GUINAN COMPUTER
+PICARD RIKER LURSA BETOR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Bridge]
 
-WORF: Dismissed. 
-(the transporter technician leaves) 
-WORF: I would speak with you. 
-GOWRON: I do not hear the words of traitors. 
-WORF: I am not a traitor. 
-GOWRON: You admitted your guilt before the Council. 
-WORF: I accepted discommendation to protect the Empire. 
-GOWRON: Protect it? How? 
-WORF: It was Duras' father who betrayed our people to the Romulans at
-Khitomer, not mine. 
-GOWRON: Duras? There is proof of this? 
-WORF: There is. 
-GOWRON: Why would you accept dishonour to protect Duras? 
-WORF: His family was too powerful. To expose him would have split the
-Empire. Instead, the Council chose to blame my father. 
-GOWRON: The Council knew? 
-WORF: I believe you to be a man of honour, Gowron. I ask you, restore
-my family name. 
-GOWRON: Worf, you killed Duras. I consider that no small favour. But
-what you ask is impossible. 
-WORF: But after your installation 
-GOWRON: The grasp of Duras reaches out from the grave. Much of the
-Council is still loyal to his family. I must have the Council's support
-to survive. I cannot expose their treachery. You chose to accept this
-disgrace for the good of the Empire. Now you must live with your
-decision, like a Klingon.
-
-[Phaser range]
-
-(Worf is practicing shooting moving coloured
-targets when someone enters) 
-WORF: Guinan? 
-GUINAN: It's a little quiet down in Ten Forward, so I thought I'd get
-off a little target practice. Do you mind if I join you? 
-WORF: You? Practise? 
-GUINAN: I like to keep my eye sharp. 
-WORF: I practice at level fourteen. 
-GUINAN: Guess I could come down to that level for a while. Begin
-programme. 
-(and Guinan gets the first target before Worf realises it has started) 
-GUINAN: You know, I had a bet with the Captain that I could make you
-laugh before you became Lieutenant Commander. 
-WORF: Not a good bet today. 
-GUINAN: I've seen you laugh. I like it. 
-WORF: Klingons do not laugh. 
-(he misses) 
-GUINAN: Oh yes they do. Absolutely they do. You don't. But I've heard
-some Klingon belly laughs that would curl your hair. 
-(Guinan gets three hits, Worf gets two hits and a miss) 
-GUINAN: Your son laughs. He's a Klingon. 
-WORF: He is a child and part human. 
-GUINAN: That's right. And you're not, you're full Klingon except you
-don't laugh. 
-WORF: I do not laugh because I do not feel like laughing. 
-GUINAN: Other Klingons feel like laughing. What does that say about
-you? 
-WORF: Perhaps it says that I do not feel like other Klingons. 
-(another miss) 
-COMPUTER: Programme complete. 
-GUINAN: Good game. Don't feel bad. I was doing this long before you
-were born. So how is he? Your son. 
-WORF: He is having difficulty adjusting to life on Earth. 
-GUINAN: I can see where it might be hard for the little guy. Living
-with humans, being Klingon. Could be very confusing. 
-WORF: It will not be easy for him. 
-GUINAN: No, it won't. But at some point he's going to want to know what
-it's like to really be a Klingon. Just as you're learning.
-
+RIKER: There's a message coming in for you from the
+surface. It's coded personal. 
 [Ready room]
 
-PICARD: Come. 
-WORF: Captain, I request a leave of absence. 
-PICARD: Mister Worf, request granted. 
-WORF: Thank you, sir. 
-PICARD: Lieutenant. Qapla! 
-(Worf leaves) 
-PICARD: And good luck.
+PICARD: Send it through.
 
-Lieutenant Worf, personal log, stardate 44996.1. I
-have located the Klingon ship on which my brother Kurn serves as
-captain, and have arranged to join him.
+[Duras home]
 
-[Kurn's ready room]
-
-KURN: It has been too long, my brother. 
-WORF: Too long. We have much to discuss. I have asked Gowron to restore
-our family honour. He has refused. 
-KURN: Gowron will not live to see the day he leads the Council. 
-WORF: What do you mean? 
-KURN: He stands alone, surrounded by his enemies. Lursa and B'Etor will
-have him killed. And if they don't, I will. 
-WORF: You will? 
-KURN: Gowron is weak. The family of Duras must never be allowed to lead
-the Council. Our leaders have failed us. They no longer deserve our
-loyalty. It is time to sweep away the old Council and put a new one in
-its place. 
-WORF: How can this be done? 
-KURN: I already have the support of four squadron commanders in key
-strategic sectors. When the time comes, they will follow me. Join us,
-Worf, and we will usher in a new era and regain our family name. 
-(Worf thinks about it) 
-WORF: No. 
-KURN: What? 
-WORF: Gowron has completed the Rite of Succession. It is our duty to
-support him. 
-KURN: Gowron spits in your face when you ask him to give back what is
-rightfully ours and you would support him? 
-WORF: We cannot regain honour by acting dishonourably. 
-KURN: I will not support Gowron. 
-WORF: I am the elder brother, Kurn. I speak for our family. We will
-back Gowron. But not now. Not yet. We will wait until he feels the
-grasp of his enemies around his throat. Then we will offer him our
-support. And the price will be the restoration of our family name. 
-KURN: It will be difficult to convince my allies to back Gowron. But I
-will try. I must go to the Mempa sector to meet with the other squadron
-commanders. 
-WORF: Contact me when you have gained their support. Then I will be
-ready for Gowron.
-
-Captain's log, stardate 44996.8. My role as Arbiter
-of Succession has again brought me to the Great Hall of the Klingon
-High Council.
+B'ETOR: Captain, welcome. Please, come in. Be
+seated. 
+(B'Etor is a very tactile woman, she likes to touch people) 
+LURSA: Something to drink, Captain? Tea. Earl Grey, perhaps? 
+PICARD: Thank you. 
+B'ETOR: You come alone, and unarmed 
+PICARD: Nothing would be served by killing the Arbiter before his
+decision. 
+B'ETOR: Nevertheless, a brave act, Captain. 
+LURSA: B'Etor. 
+PICARD: Your invitation was unexpected. 
+B'ETOR: We should have extended it much sooner. 
+LURSA: We don't want you to judge us by your experience with our
+brother. 
+B'ETOR: Duras was a fool. 
+LURSA: He deserved to die. 
+B'ETOR: Forget him. We have. 
+LURSA: We do not wish to be your enemy. 
+B'ETOR: Quite the opposite. 
+PICARD: That pleases me. 
+LURSA: Have you made your decision regarding Toral's challenge? 
+PICARD: I am pursuing it with due vigilance. 
+(B'Etor kneels by Picard) 
+B'ETOR: Allow me to heat your tea. 
+LURSA: Toral has the bloodline to lead the Empire into the next
+century. He has the support of the people. 
+PICARD: Then it remains to see if he has the support of the law. 
+B'ETOR: But he must. Surely, you can see that. 
+PICARD: I'll tell you what I see. If I find Toral's challenge valid,
+the two of you will very quickly gain control of the Council and Gowron
+will be found dead shortly thereafter. If I reject Toral's claim, you
+will accuse me of serving Federation interests. It will serve as a
+rallying cry to declare war and overthrow Gowron. 
+LURSA: You see very clearly, Captain. But one thing is missing. If you
+rule against us and we are victorious in a war against Gowron. 
+B'ETOR: Which we would be 
+LURSA: It will mean the end of the alliance with the Federation. 
+B'ETOR: And we would hate to see that happen as much as you would. 
+LURSA: This is not a threat, Captain. Just an unfortunate truth. 
+B'ETOR: So why be our enemy, when you can be our friend? 
+PICARD: You have manipulated the circumstances with the skill of a
+Romulan. My decision will be announced at high sun tomorrow. Excellent
+tea. Good day, ladies.
 

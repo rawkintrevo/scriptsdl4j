@@ -1,105 +1,34 @@
-RIKER CRUSHER LAFORGE BARNABY PICARD TROI SALAZAR HELM TAITT DATA POWELL
-
-[Bridge]
-
-CRUSHER: Acknowledged. 
-RIKER [OC]: Riker out. 
-CRUSHER: Prepare to leave orbit. 
-TAITT: Sir, the Borg ship is powering up its forward weapons array.
-They'll be in firing range in, in twenty seconds. 
-CRUSHER: Salazar, how many people do we still have down there? 
-SALAZAR [OC]: Seventy three, sir. 
-CRUSHER: Put the Borg ship onscreen. 
-TAITT: Should I raise shields, sir? 
-CRUSHER: Not yet. I want to keep bringing people up until the last
-possible second. 
-TAITT: Ten seconds. 
-CRUSHER: Stand by to raise shields and break orbit on my mark. 
-TAITT: Five seconds. 
-CRUSHER: Mark. 
-(an energy bolt hits) 
-TAITT: Shields down to seventy percent. 
-CRUSHER: Establish a frequency shift firing pattern and return fire. 
-TAITT: Er, right. 
-(two torpedoes are fired) 
-TAITT: Direct hit, no damage. 
-CRUSHER: Helm, set course for the conduit, maximum warp. 
-HELM: Aye, sir. 
-TAITT: Sir, the Borg aren't following us. 
-CRUSHER: Salazar 
-[Transporter room]
-
-CRUSHER [OC]: How many people did we leave behind? 
-SALAZAR: Forty seven, sir.
-
-[Bridge]
-
-CRUSHER: Another minute and we would have had them.
-
-[Planet surface]
-
-RIKER: Riker to any team leader. 
-POWELL [OC]: Lieutenant Powell here, sir. 
-RIKER: Round up everybody who was left behind. Take cover. Try to avoid
-any contact with the Borg. 
-POWELL [OC]: Aye, sir. 
-RIKER: Riker out. Even if Beverly can get back to Federation space,
-it'll be a few days before Starfleet can get any ships here. Until
-then, we're on our own.
+PICARD TROI DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Holding cell]
 
-PICARD: Data, you must realise that something has
-happened to you. The Data I know would never have agreed to be a
-willing party to Lore's plan. 
-DATA: (taking the comm. badges) I now realise that my life aboard the
-Enterprise was a waste. My quest to become human was misguided. An
-evolutionary step in the wrong direction. 
-TROI: Data, all I'm sensing from you is anger and hatred. Have you felt
-any other emotions? 
-DATA: There are no other emotions. 
-LAFORGE: Data, just because you haven't experienced certain emotions
-doesn't mean they don't exist. Lore is only feeding you the negative
-ones. 
-DATA: Counsellor Troi told me herself that feelings are not negative or
-positive. It is how we act on them that makes them good or bad. 
-PICARD: Fine. But what about the things that Lore is proposing? What
-about the lives that have already been lost? 
-DATA: You simply do not understand. In a quest such as ours, sacrifices
-have to be made. It is regrettable, but the greater good must be
-served. Give me your visor. 
-LAFORGE: Why? 
-DATA: Give it to me or I will take it by force. 
-(Geordi takes it off) 
-DATA: I am not your puppet anymore. 
-(he turns on the forcefield and walks away)
+PICARD: Well, I've done everything that Geordi
+said. Now to activate it. 
+TROI: How are we going to know whether the pulse reboots Data's ethical
+programme? 
+PICARD: We'll only tell that when we see his behaviour. 
+TROI: Won't he realise something's happened to him? 
+PICARD: No, it's one programme among thousands. I just hope this force
+field has enough energy to trigger the pulse. 
+(he slides the tiny device forward, and the blue is sucked into it) 
+[Lore's lab]
 
-[Bridge]
+LAFORGE: You know, Data, I've been thinking about
+some of the times we've had. Like that time we went sailing on Devala
+Lake. You remember that? 
+DATA: I have a complete memory record of that day. 
+LAFORGE: You decided to go swimming, and when you jumped out of the
+boat you sank straight to the bottom. 
+DATA: I did not have enough buoyancy to get back to the surface. 
+LAFORGE: You had to walk over a kilometre along the bottom to get back
+to shore. 
+DATA: One kilometre forty six metres. 
+LAFORGE: It took almost two weeks to get the water out of your servos. 
+DATA: I am ready to irradiate your existing brain cells. 
+LAFORGE: Data, if you ever go back to the way you were, you might not
+be able to forgive yourself for what you're about to do. 
+DATA: I am getting some anomalous readings from your neural net. I will
+need to do further testing before I proceed. Someone will come and take
+you back to your cell.
 
-(relief crew enter the Bridge) 
-TAITT: Sir, we've reached the coordinates of the conduit. The tachyon
-matrix is energised and ready to go. And Lieutenant Barnaby has
-returned from the surface. He'll be relieving me. 
-CRUSHER: Right. Stand by to trigger the conduit. Taitt. I want you to
-stay on the Bridge. I'll need a Science Officer at the aft station. 
-TAITT: Yes, sir. 
-CRUSHER: Helm, set a course to return to the planet. 
-HELM: Aye, sir. 
-CRUSHER: I'm not leaving those people stranded back there. An emergency
-buoy can transmit a copy of our log entries to Starfleet just as easily
-as we can. Ensign, prepare a buoy and launch it when ready. 
-TAITT: Aye, sir. 
-CRUSHER: Lieutenant, open the conduit. 
-TAITT: Launching buoy now, sir. 
-CRUSHER: Lieutenant, scan for any Borg ships between here and the
-planet. 
-BARNABY: Sensors detect no vessels. 
-TAITT: We have to assume the ship that attacked us is still in orbit. 
-CRUSHER: How long will we have before they can detect us and intercept?
-
-TAITT: If their sensors function as well as ours it could be as little
-as thirty seconds. 
-CRUSHER: Crusher to Salazar. How long will it take to get the rest of
-the crew off the surface? 
-SALAZAR [OC]: One minute should do it. 
-CRUSHER: We don't have one minute. How much can you shave off that? 

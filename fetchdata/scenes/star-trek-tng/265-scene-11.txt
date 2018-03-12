@@ -1,90 +1,44 @@
-NIKOLAI LAFORGE WORF PICARD CRUSHER DATA
+GUEST3 RIKER WORF GUEST4 GUEST0 PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Bridge]
 
-WORF: Bridge. 
-NIKOLAI: It's a simple plan, really. That's the beauty of it. Worf,
-trust me. This is going to work. 
-WORF: Trust you? You never had any intention of obeying the Captain. 
-NIKOLAI: I wasn't going to let those people die just because your
-Captain started quoting Federation dogma to me. 
-WORF: Your duty was to respect the Captain's orders and to uphold the
-Prime Directive. 
-NIKOLAI: Duty. That's all that really matters to you, isn't it? Well, I
-refuse to be bound by an abstraction. The lives of the people of Boraal
-are far more important to me. You worry too much, Worf. You always did.
-Everything will work out. 
-WORF: You have disgraced yourself and you have disgraced me. I want
-nothing more to do with you.
+DATA [OC]: It is Vacca Six in the Cabral sector. 
+RIKER: We can reach that in forty two hours at maximum warp, sir. 
+PICARD: Very well. Helm, set course for Vacca Six. 
+GUEST3: Aye, sir. 
+[Holodeck Cavern]
 
-[Ready room]
-
-PICARD: You realise your career is finished. 
-NIKOLAI: I know that, Captain, and I would do it all again. 
-PICARD: What do you expect us to do now? You have left us with a colony
-of Boraalans who think they're still on their planet. 
-NIKOLAI: I didn't beam them up without a plan. I've given this a lot of
-thought. I think we can find a new planet, an M class world, that can
-be their new home. 
-PICARD: A home which would look very different from Boraal. You can't
-really believe that they'll be fooled. 
-NIKOLAI: That's where the holodeck comes in. I'll go back and tell the
-Boraalans we're going on a journey, to a different place where they'll
-be safe from the storms. The holodeck can gradually change the terrain
-as we travel, so that at the end, the holodeck simulation will match
-the conditions on the new planet. Then we'll simply beam them down. 
-PICARD: What if it doesn't work? What if they become aware that
-something strange is going on? 
-NIKOLAI: Captain, I can't prepare for every contingency, but I assure
-you I'm accustomed to thinking on my feet. I'll deal with the situation
-as it evolves. 
-PICARD: I'm not enthusiastic about this plan, but I don't see that we
-have another option. Very well, let's give it a try. 
-NIKOLAI: Thank you, Captain.
-
-[Stellar cartography]
-
-CRUSHER: There are countless M class planets in
-Federation space which can support the Boraalans. We need to narrow the
-parameters. 
-DATA: It will take approximately nine and one half hours to complete
-the analysis. 
-PICARD: Even then there's no guarantee that we'll find a suitable
-planet. 
-DATA: That is correct, sir. 
-LAFORGE: Captain, you'd better take a look at this. 
-PICARD: What is it? 
-LAFORGE: We've got a problem, sir. I don't think it's going to be
-possible to keep this holodeck simulation stable. 
-PICARD: Why not? 
-LAFORGE: The plasmonic energy surges from the planet are affecting the
-ship's systems. We're having problems with the EPS systems and the
-power distribution matrix. 
-NIKOLAI: And as a result, the holodeck imaging processor has been
-severely destabilised. 
-LAFORGE: It's not a question of whether the simulation will break down,
-it's a question of when. 
-PICARD: There's no way round it? 
-LAFORGE: Not while it's running. In order to fix it, I'd have to shut
-down all of the holodecks and re-initialise the entire system. 
-PICARD: That will take hours. 
-NIKOLAI: We'll just have to hope the simulation holds long enough. 
-PICARD: Very well. Let's try it. Mister La Forge, I want you to monitor
-the situation very carefully, and keep an open comm. link with the
-Holodeck so as to be apprised of any problems. 
-LAFORGE: Aye, sir. 
-NIKOLAI: Captain, I'll return to the holodeck as soon as my surgical
-alterations are completed and I'll prepare the Boraalans for their
-journey. 
-PICARD: Considering the situation you have put us in, I don't think
-it's wise to leave you alone with those people. Mister Worf will
-accompany you. 
-WORF: Sir, perhaps someone else would be a better choice. Counsellor
-Troi is familiar with 
-PICARD: Mister Worf, the Boraalans already know you. There's no need to
-introduce them to anyone new. 
-WORF: Aye, sir. 
-(Nikolai leaves) 
-PICARD: Keep a close eye on your brother. I don't want him making this
-situation worse than it is.
+(the meal is ending and Vorin is writing on a
+series of thin wooden sheets) 
+WORF: What is this? 
+GUEST4: Our chronicle. The history of our village. Doesn't your village
+keep a chronicle? 
+WORF: Not in this manner. 
+GUEST4: Then how do you teach your children their history, who their
+ancestors were, where they come from? 
+WORF: We tell each other stories, make up songs. 
+GUEST4: Stories change with each person who tells them. This, this will
+always be the same. Our chronicle has been maintained for seventeen
+generations. I was only able to save the last six. This shows the
+destruction of our village. This is you and Nikolai leading us to
+safety. 
+WORF: We must leave. Gather your belongings. 
+GUEST4: One of the scrolls is gone. I must have dropped it in the
+passageway. I'll go find it. 
+WORF: We must stay together. We will have to leave it behind. 
+GUEST4: Worf, the chronicle is the life of our village. Without that
+past, our future means nothing. I must find it. 
+WORF: Go, and return quickly. 
+GUEST0: Seer. I am an old man. Would you help me with my gear? 
+WORF: Of course. 
+GUEST0: That is Tarrana, my daughter. I am fortunate she was old
+enough to survive the storms. 
+WORF: She is a fine girl. 
+GUEST0: She is a beautiful girl. She has not been promised to anyone.
+If I do not reach our new home, I would like her to become your wife. 
+WORF: You will reach your new home. I promise. 
+(meanwhile, Vorin has found his scroll, and the arch partly showing in
+the rock. He touches it and the door appears. He steps forward, it
+opens and out he goes)
 

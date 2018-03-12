@@ -1,34 +1,44 @@
-PICARD RIKER DATA LAFORGE WORF
+PICARD RIKER ENSIGN WORF RASMUSSEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-LAFORGE: I'm afraid the numbers coming in are
-already indicating climatic changes, Commander. 
-RIKER: What kind of drop can we expect? 
-DATA: If the Pentharan spheral forecasts are correct, ten to twelve
-degrees Celsius within the first ten days. 
-LAFORGE: If it continues like that, their entire ecosystem will be shot
-to hell. 
-RIKER: And I doubt they're prepared to cope with the kind of cold
-that's coming. 
-PICARD [OC]: Commander Riker. 
-RIKER: Yes, sir. 
 [Bridge]
 
-PICARD: Would you join me on the bridge, please. 
-RIKER [OC]: Right away, sir. 
-PICARD: Are you certain, Mister Worf? 
-WORF: There was a space-time distortion, sir, and there is something
-back there. We passed within three hundred kilometres of it. 
-PICARD: It's too close to be a coincidence. Mister La Forge? 
-LAFORGE [OC]: Yes, Captain? 
-PICARD: Would a delay of one hour affect your plans?
+PICARD: Ensign, bring the ship about. Let's take a
+look at Mister Worf's distortion. 
+ENSIGN: Aye, sir. 
+RIKER: Mister Worf's what? 
+PICARD: The Lieutenant's sensors detected a temporal distortion almost
+in our current course. There's a small object back there that wasn't
+there a few moments ago. 
+WORF: The object is fifty kilometres ahead, sir. 
+PICARD: Full stop, Ensign. 
+ENSIGN: Aye, sir. 
+PICARD: On screen. 
+RIKER: Dimensions, Worf? 
+WORF: Approximately five metres in length, sir. 
+PICARD: Lifesigns? 
+WORF: No signs of any kind. Our sensors do not penetrate the hull. 
+PICARD: Try hailing it. 
+WORF: That's odd. 
+RIKER: What's odd? 
+WORF: We've received a response, sir, but 
+PICARD: Yes, Mister Worf? 
+WORF: They want you to move over, sir. 
+PICARD: Reply that the Enterprise isn't going anywhere, Lieutenant. 
+WORF: Not the Enterprise, Captain. You. 
+PICARD: What are you trying to tell me? 
+(and as Picard walks back towards Worf a figure appears where he was
+standing)
 
-[Engineering]
-
-LAFORGE: Not unless another asteroid decides to pay
-a call on Penthara, sir. 
-DATA: The odds of that occurring, Captain, are extremely unlikely,
-given the time frame. 
-PICARD [OC]: Thank you, Mister Data.
+RASMUSSEN: Oops. Excuse me, Captain, but you were standing right where
+I needed to be. 
+PICARD: Who are you? 
+RASMUSSEN: Rasmussen's the name, sir. Professor Berlinghoff Rasmussen.
+Ah, this is wonderful. Actually, quite a bit larger than I thought. 
+PICARD: Really? 
+RASMUSSEN: Where I come from, every historian knows the bridge of old
+1701D. 
+PICARD: Where exactly do you come from? 
+RASMUSSEN: Why, Earth. Late twenty sixth century Earth, to be exact.
+I've travelled back nearly three hundred years just to find you.
 

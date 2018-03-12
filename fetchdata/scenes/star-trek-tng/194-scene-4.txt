@@ -1,37 +1,6 @@
-VASH LAFORGE CREWMAN PICARD RIKER WORF CRUSHER DATA
+VASH TROI LAFORGE WORF PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
-
-CRUSHER: And this is Ten Forward, where the
-Council's welcoming reception will be held today. 
-VASH: Well, I can't think of a better location. Tell me, does Jean-Luc
-come here often? 
-CRUSHER: Not often. The Captain is a very private man. Would you like
-something to drink? 
-VASH: Please. 
-RIKER: Eternity never looked so lovely. 
-VASH: Excuse me? 
-RIKER: I was referring to the view. Eternity never looked so lovely. 
-VASH: You must be Commander Riker. 
-RIKER: I'm afraid you have me at a disadvantage. 
-VASH: I didn't mean to interrupt. I believe you were about to tell me
-that my eyes are as mysterious as the stars. 
-RIKER: You're Betazoid. 
-VASH: Not at all. It's just that Jean-Luc does a very good imitation of
-you. 
-RIKER: He does? 
-CRUSHER: I see you two have met. 
-RIKER: Not exactly. 
-CRUSHER: This is Vash, a member of the Archaeology Council. And a
-friend of the Captain's. 
-RIKER: So I've gathered. 
-CRUSHER: They met during his visit to Risa. 
-RIKER: On Risa? That vacation must have been better than he let on. 
-VASH: You mean he never mentioned me to you, either? 
-CREWMAN [OC]: Doctor Crusher, please report to Sickbay. 
-CRUSHER: I'm afraid I won't be able to finish our tour. But perhaps
-Commander Riker could take over for me. 
-RIKER: It would be my pleasure. 
 [Bridge]
 
 RIKER: This is the main Bridge, the command centre
@@ -60,3 +29,35 @@ PICARD: By all means. Well, I suppose I'll see you then, then.
 VASH: I look forward to it. 
 (Vash leaves) 
 RIKER: Fascinating woman. 
+[Ten Forward]
+
+VASH: I don't understand, I thought being the
+ship's Counsellor meant the Captain confided in you. 
+TROI: He does, when he thinks it's necessary. 
+VASH: And he never spoke to you about me? 
+TROI: Not that I recall. 
+VASH: Not even a hint? 
+TROI: You must understand, the Captain is a very 
+TROI + VASH: Private man. 
+VASH: I know. Excuse me? 
+TROI: Of course. 
+WORF: Nice legs. For a human. 
+VASH: Jean-Luc, we need to talk. 
+PICARD: Excuse me. 
+(they go to a quiet corner) 
+PICARD: The reception seems to be going well. 
+VASH: Forget the reception for a moment. Why have you never mentioned
+me to your friends? 
+PICARD: What would you have me tell them? 
+VASH: Maybe that we met, for one thing. That we had an adventure
+together, some fun. 
+PICARD: It wouldn't be possible. 
+VASH: Why not? 
+PICARD: It would be inappropriate. 
+VASH: I wasn't expecting you to go into intimate details. 
+PICARD: A Captain does not reveal his personal feelings with his crew. 
+VASH: Is that a Starfleet regulation, or did you just make that up
+yourself? 
+PICARD: I'm sorry if you're upset. 
+VASH: And I'm sorry if my being here embarrasses you.
+

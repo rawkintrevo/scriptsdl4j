@@ -1,73 +1,75 @@
-RIKER LAFORGE BARRON PICARD LIKO WORF OGAWA CRUSHER DATA
+RIKER GUEST0 NURIA PICARD TROI LIKO GUEST1 OJI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Hillside]
+[Bridge]
 
-(Liko and Oji have climbed up to investigate the
-flashes, and can see the duckblind quite clearly now) 
-LIKO: You wait here, Oji. 
-(Liko climbs right up to the window and looks inside) 
-[Duck blind]
+TROI [OC]: We set him free. Riker and I do not
+believe in these fables about an Overseer. 
+LIKO [OC]: Don't you realise what you've done? You've angered the
+Picard and we may all suffer for it. I know. I've seen him. He is
+all-powerful. 
+[Assembly hall]
 
-CRUSHER: Enterprise, beam Martinez and his patient
-directly to Sickbay. 
-DATA: Commander. 
-(Liko touches the metal frame and gets a shock. He falls from the cliff
-face) 
-[Hillside]
+LIKO: Fanto, weren't there stories about the
+Overseer destroying those who offended him? 
+GUEST1: Stories, nothing more. 
+NURIA: Liko, we'll get Palmer back. Riker was carrying him. They can't
+have gone far. 
+LIKO: Still, the Picard may blame us for letting Palmer escape. Perhaps
+we should punish her. Let the Overseer know 
+[Bridge]
 
-RIKER: Doctor, be careful. 
-CRUSHER: I've got to get down there. 
-(Oji hides and watches as Crusher runs down to Liko, scans him then
-makes her decision) 
-CRUSHER: Crusher to Enterprise. Medical emergency. Two to beam directly
-to Sickbay. 
-OGAWA [OC]: Aye, Doctor. 
-(Oji sees the strange woman and her father vanish) 
-[Duck blind]
+LIKO [OC]: That she and Riker acted alone. 
+[Assembly hall]
 
-LAFORGE: That should do it. 
-(It does. Oji sees the window disappear and be replaced by the cliff
-face. Curious, she investigates) 
-[Sickbay]
+NURIA: We will keep Troi captive. 
+LIKO: That's not enough. 
+NURIA: You would have us harm her? 
+LIKO: If it will hold off the Picard's anger, yes. I've seen how
+powerful he is. 
+NURIA: I am unwilling to hurt her needlessly. We will wait for Hali to
+return. 
+OJI: And if they don't find Palmer? 
+NURIA: Then we may have to do as Liko suggests.
 
-CRUSHER: (to nurse) You increased the levels of
-tricordrazine? (re Barron) Let me see his chart, please. 
-(dialogue too faint to make out, and Picard enters) 
-PICARD: Doctor Crusher. 
-CRUSHER: Before you start quoting me the Prime Directive, he'd already
-seen us. The damage was done. It was either bring him aboard or let him
-die. 
-PICARD: Then why didn't you let him die? 
-CRUSHER: Because we were responsible for his injuries. 
-PICARD: I'm not sure that I concur with that reasoning, Doctor. But now
-that he's here, you must remove all memory of his encounter with the
-away team. 
-CRUSHER: By erasing short term recall? 
-PICARD: It has been accomplished before. 
-CRUSHER: I am familiar with Doctor Pulaski's technique. I can't
-guarantee it will be effective on Mintakan brain chemistry. Their
-lie-zone levels are much lower. 
-BARRON: Wait. No! No! We must evacuate. 
-CRUSHER: Doctor Barron, you're on the Enterprise. You're safe. 
-BARRON: The others? 
-PICARD: Doctor Warren is here. We're doing all we can. 
-(Liko wakes up and listens) 
-BARRON: And Palmer? Where is Palmer? 
-PICARD: Still on Mintaka Three. 
-BARRON: Picard, you have to find him. 
-PICARD: We will. 
-BARRON: He may be hurt. 
-PICARD: Rest assured we shall not leave until he is located. 
-BARRON: Thank you, Picard. 
-PICARD: Picard to bridge. Report. 
-WORF [OC]: Scans of the planet detect no humans, Captain. 
-PICARD: Very well. Put us into a close orbit. 
-WORF [OC]: Sir, a close orbit will increase sensor efficiency by only
-four percent. 
-PICARD: I want that four percent, Lieutenant. 
-WORF [OC]: Aye, sir. 
-PICARD: Picard out. 
-LIKO: Picard? 
-CRUSHER: Damn. 
-PICARD: Well, Doctor. Your next task is clear.
+[Observation lounge]
+
+PICARD: Doctor, you believe the Mintakans are
+capable of harming Counsellor Troi? 
+GUEST0: They are not normally a violent people but these are
+extraordinary circumstances. They're trying to comprehend what they
+believe to be a god. 
+PICARD: Recommendations? 
+GUEST0: The Mintakans wish to please the Overseer, but they can only
+guess what he wants. They need a sign. 
+PICARD: Are you suggesting? 
+GUEST0: You must go down to Mintaka Three. 
+RIKER: Masquerading as a god? 
+PICARD: Absolutely out of the question. The Prime Directive 
+GUEST0: Has already been violated. The damage is done. All we can do
+now is minimise it. 
+PICARD: By sanctioning their false beliefs? 
+GUEST0: By giving them guidelines. Letting them know what the Overseer
+expects of them. 
+PICARD: Doctor Barron, I cannot, I will not, impose a set of
+commandments on these people. To do so violates the very essence of the
+Prime Directive. 
+GUEST0: Like it or not, we have rekindled the Mintakans' belief in the
+Overseer. 
+RIKER: And are you saying that this belief will eventually become a
+religion? 
+GUEST0: It's inevitable. And without guidance, that religion could
+degenerate into inquisitions, holy wars, chaos. 
+PICARD: Horrifying. Doctor Barron, your report describes how rational
+these people are. Millennia ago, they abandoned their belief in the
+supernatural. Now you are asking me to sabotage that achievement, to
+send them back into the Dark Ages of superstition and ignorance and
+fear? No! We will find some way to undo the damage we've caused. Number
+One, tell me about this group's leader. 
+RIKER: Nuria. Exceptionally clear-minded, sensible. The Mintakans trust
+her judgment. If we can convince her that you are not a god 
+PICARD: She might be able to persuade the others. 
+GUEST0: And how do you propose to convince her? 
+PICARD: She believes the Picard is a magical figure. I'm going to show
+her how the magic works. I'm going to bring her aboard.
 

@@ -1,59 +1,62 @@
-RIKER LAFORGE WORF PICARD COMPUTER CRUSHER DATA
+PICARD RIKER COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation lounge]
 
-PICARD: Take us out of orbit, Mister La Forge. 
-LAFORGE: Aye, sir. 
-PICARD: Resume heading to Pacifica, warp factor eight. 
-LAFORGE: Aye sir, warp eight. 
-DATA: At that speed sir, we should arrive nine point six three hours
-behind the original schedule, sir. 
-PICARD: Very good. Data, I have an assignment for you. One especially
-suited to your talents.
+RIKER: There's no proof of anything. 
+PICARD: The last time I saw Admiral Quinn he tried to warn me about a
+subversion within the Federation. Then Walker tried, and he's dead. 
+RIKER: Subversion? Personally, I don't believe this conspiracy theory.
 
 [Ready room]
 
-DATA: Computer, this is Lieutenant Commander Data.
-Please access all Starfleet Command orders to starships, starbases and
-colonies for the past six months. 
-COMPUTER: Working.
+(Information is still flashing in front of Data's
+eyes) 
+DATA: Startling. Quite extraordinary, in fact. 
+COMPUTER: Directions unclear. Please repeat request. 
+DATA: That was not a request. I was simply talking to myself. A human
+idiosyncrasy, triggered by fascination with a particular set of facts.
+Or sometimes brought about by senility. Or used as a means of weighing
+information before reaching a conclusion. Or, as a 
+COMPUTER: Thank you, sir. I comprehend. Please specify how you would
+like to proceed, sir. 
+DATA: Please continue with record scan. Intriguing.
 
-[Bridge]
+[Observation lounge]
 
-PICARD: Doctor. 
-CRUSHER: I understand the Horatio was in orbit around Dytallix. Did you
-see Walker? 
-PICARD: No. 
-CRUSHER: Oh. I would have loved to have seen him. 
-PICARD: It wasn't possible, Doctor. 
-WORF: Captain, I am picking up an unusual disturbance in a nearby
-quadrant. 
-LAFORGE: Confirmed, sir. Sector sixty three. 
-PICARD: Specify. What kind of disturbance? 
-WORF: Hard to say at this distance, sir. 
-RIKER: I guess the trip Pacifica will have to wait. 
-PICARD: Let's investigate. Maintain speed. Alter course accordingly. 
-LAFORGE: Aye, sir. Changing course to three five one mark four. 
-(After a quick trip) 
-LAFORGE: Approaching sector sixty three, sir. 
-PICARD: Slow to impulse. 
-LAFORGE: Aye, sir. Going to impulse power, now. 
-WORF: Sensors beginning to pick up small objects, sir. 
-PICARD: On screen. 
-(The objects are radiating out from a single location) 
-RIKER: It doesn't look natural. 
-PICARD: Agreed. Enlarge and identify. 
-WORF: It looks like debris. From a space vessel of some kind. 
-RIKER: It could be one of those ships that was orbiting Dytallix. 
-LAFORGE: We are in close proximity to that planet. 
-PICARD: Identifying marks, Mister Worf? 
-WORF: Nothing so far. Sensors not detecting any bodies in the flotsam,
-but from the amount of wreckage. I'm sorry sir. It can only be the
-Horatio. From the looks of it, she's been totally destroyed.
+RIKER: But we have no facts. We have to assume the
+explosion was an accident. 
+(Data enters) 
+PICARD: Number One, I believe what happened on the Horatio was
+sabotage. 
+RIKER: But we can't be certain. 
+DATA: Perhaps we can. My orders were to search for abnormal patterns in
+Starfleet's directives. I believe I have found just that. 
+(He puts a data disc into a desk monitor) 
+DATA: These are various outposts and starbases where I have detected
+unusual activity over the past few months. 
+PICARD: What sort of activity? 
+DATA: An uncustomary reshuffling of personnel, usually in the command
+areas. The new officers have had frequent contact with the highest
+levels of Starfleet Command. 
+RIKER: Why hasn't anybody discovered this before? 
+DATA: The orders were given with great subtlety. To use an aphorism,
+Starfleet's left hand did not know what its right hand was doing. 
+PICARD: Data, can you speculate as to the purpose of these
+reassignments? 
+DATA: I believe it is a clandestine attempt to control vital sectors of
+Federation territory. 
+RIKER: This could be a prelude to an invasion. But who's behind it? 
+DATA: There is insufficient data to make such an assessment, sir. 
+RIKER: Are you suggesting that we warp over to Starfleet headquarters
+and demand to know what's going on? 
+DATA: Why not? 
+PICARD: Yes, why not? We're talking about a threat to the entire future
+of the Federation. I don't think any of us can rest easy until we've
+been to the source.
 
-Captain's personal log, stardate 41776.1. The
-apparent death of Walker Keel has had a powerful impact on me. I now
-believe there may be a cancer growing within the ranks of Starfleet. As
-a result, I have alerted my Executive Officer to the suspicions voiced
-by Keel and the others.
+Captain's personal log, supplemental. While it is
+quite unusual for a starship to return to Earth, we seem to be left
+with no other choice. I have apprised the remaining bridge crew of our
+situation.
 

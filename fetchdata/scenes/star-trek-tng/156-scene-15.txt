@@ -1,58 +1,41 @@
-GOSS RIKER WORF MENDOZA PICARD WESLEY CRUSHER
+RAL RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Ten Forward]
 
-(Mendoza staggers in) 
-CRUSHER: Mister Mendoza. 
-MENDOZA: I seem to be a bit warm. 
-(he collapses) 
-CRUSHER: I need some help here 
-[Ready room]
-
-GOSS: You attempt to gain every unfair advantage,
-Picard. 
-PICARD: Premier Bhavani has no objection. 
-GOSS: Well, I most certainly do. First, you conveniently arrange to
-play host, then you plan to send your own manned probe into the
-wormhole. The Federation thinks it can do anything it wants to. Well, I
-will not tolerate it! 
-PICARD: I will gladly share the results of our exploration with all the
-delegates. 
-GOSS: And you expect us to believe what you report? 
-RIKER: Then send in your own probe, Goss. 
-GOSS: That's exactly what I intend to do. And I should strongly suggest
-you stay out of our way. 
-(The Ferengi's leave) 
-PICARD: Tell Data and La Forge to do themselves a favour, and stay out
-of their way. 
-(Riker leaves) 
-CRUSHER [OC]: Captain Picard, please come to Sickbay. 
-PICARD: Acknowledged, Doctor.
-
-[Sickbay]
-
-CRUSHER: Whatever he's got is obviously not life
-threatening. It's some kind of system-wide histaminic reaction. He
-certainly can't go back to negotiations for several days. 
-PICARD: Will you keep me informed? 
-[Corridor]
-
-PICARD: The Federation's top negotiator taken out
-by a mysterious ailment. Suspicions? 
-RIKER: With the Ferengi around? Always. 
-PICARD: You'll have to fill in, Number One. 
-RIKER: Me? 
-PICARD: Well, I'm the designated host. It would be a most awkward
-transition. You're the next likely choice. And Mister Mendoza
-will certainly agree. He's quite impressed by your natural instincts. 
-RIKER: Excuse me, sir, but those weren't natural instincts. Those were
-poker instincts. A card game doesn't exactly prepare me for this. 
-PICARD: Yes, the stakes are higher. But then, isn't that when the game
-gets interesting, Commander?
-
-[Bridge]
-
-WESLEY: The wormhole will reappear in thirty
-seconds, sir. 
-WORF: The Ferengi pod is moving into position. 
-PICARD: Shuttle nine, stand by. 
+RAL: May I join you, Commander? 
+RIKER: Bought out the Ferengi yet, Ral? 
+RAL: Think I should give it a try? 
+RIKER: No, but I think that you will. One way or another, it's going to
+come down to you and me. 
+RAL: You know, you're very good at this. Very good. Much better than
+you realise. 
+RIKER: I hope I'm better than you realise. 
+RAL: The last mile of the marathon is always the toughest. That's when
+the winners are willing to take the big risks. Are you willing to do
+that? 
+RIKER: We'll see, won't we? 
+RAL: Well, let's see now. I'm prepared to reach a firm agreement with
+Bhavani before we learn the outcome of your probe's expedition. Are
+you? Well, well, well. That would not be looked upon favourably by the
+Federation, I'd imagine. See, you have to be willing to
+take that last step alone or it just isn't worth playing. 
+RIKER: Your point of view, not mine. 
+RAL: Oh, I see that, Commander, I see that. Otherwise you wouldn't be
+second in command of this starship. You know, I feel responsible for
+you in a way. Related. Deanna. We both love Deanna. Oh, in different
+ways, of course. 
+RIKER: I will remove the burden of that responsibility right now. My
+relationship with Deanna stands very well on its own without any help
+from you. 
+RAL: Of course it does. Of course it does. It's just that, well, she's
+an extraordinary woman. Brilliant. Lovely. Very passionate. And she
+could have been yours, Will, but you just didn't do enough to keep her.
+And now, well, I'm here, and I'm going to take her too. 
+RIKER: That's the first bad play I've seen you make. If you can bring
+happiness into Deanna's life, nothing would please me more. You know,
+you're really not such a bad sort, Ral, except you don't have any
+values, beyond the value of today's bid, that is. Deanna is just the
+woman to bring some meaning to your sorry existence, if you're smart
+enough to take it. I doubt that you are. To the last mile. 
+(Riker finishes his drink and leaves) 

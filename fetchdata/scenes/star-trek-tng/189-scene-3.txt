@@ -1,24 +1,25 @@
-MIRASTA TAVA DURKEN KROLA BEREL VOICE NILREM
+GUEST0 GUEST6 GUEST1 GUEST3 GUEST5 VOICE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Medical Facility Corridor]
 
-NILREM: Genetic irregularities? That thing isn't
+GUEST2: Genetic irregularities? That thing isn't
 even the same species as we are. 
-BEREL: Keep your voice down. The last thing we need is a panic in here
+GUEST5: Keep your voice down. The last thing we need is a panic in here
 over some 
-NILREM: It's all the space flights. They have attracted creatures from
+GUEST2: It's all the space flights. They have attracted creatures from
 outer space. 
-BEREL: That's exactly the kind of thing I don't want to hear. 
-TAVA: What are you going to do? 
-BEREL: Of all the medical facilities available, why did he have to end
+GUEST5: That's exactly the kind of thing I don't want to hear. 
+GUEST6: What are you going to do? 
+GUEST5: Of all the medical facilities available, why did he have to end
 up here? 
-NILREM: I think we ought to call Central Security. 
-BEREL: Well, I'm not calling anybody yet. Not till we've done a lot
+GUEST2: I think we ought to call Central Security. 
+GUEST5: Well, I'm not calling anybody yet. Not till we've done a lot
 more. A lot more. I want his story checked out. Run a complete search
 through the medical library. Be absolutely certain there's never been
 anything like him. 
-NILREM: What if there're more of them? They could be everywhere. 
-BEREL: Cordon off the wing. I want security on his door twenty nine
+GUEST2: What if there're more of them? They could be everywhere. 
+GUEST5: Cordon off the wing. I want security on his door twenty nine
 hours a day, and I want this kept quiet. 
 VOICE [OC]: Code three drill
 in B wing. All instructors report immediately. 
@@ -26,30 +27,30 @@ in B wing. All instructors report immediately.
 
 (Everyone say hi to Carolyn Seymour, taking a break
 from being a Romulan) 
-MIRASTA: At twelve point four after launch, the warp field generator
+GUEST0: At twelve point four after launch, the warp field generator
 will be activated. 
-DURKEN: That's when it would break the light barrier? 
-MIRASTA: Yes, Chancellor. If we're successful, the craft will leave our
+GUEST1: That's when it would break the light barrier? 
+GUEST0: Yes, Chancellor. If we're successful, the craft will leave our
 star system, and in a matter of minutes will be on its way to the Garth
 system. 
-KROLA: And then what? 
-MIRASTA: And then, Krola, we'll see what's there. 
-DURKEN: How long, Mirasta? 
-MIRASTA: We have the prototype design for the warp engine. It would
+GUEST3: And then what? 
+GUEST0: And then, Krola, we'll see what's there. 
+GUEST1: How long, Mirasta? 
+GUEST0: We have the prototype design for the warp engine. It would
 simply be a matter of building the actual production units. If I get
 your approval today, ten months, maybe less. 
-KROLA: Chancellor, I'll admit Mirasta's enthusiasm for her work is
+GUEST3: Chancellor, I'll admit Mirasta's enthusiasm for her work is
 seductive, but perhaps we're moving too fast. Your opponents will see
 this as another example of your determination to pull us further from
 our traditional ways. 
-DURKEN: My opponents look back as I look forward. I cannot believe that
+GUEST1: My opponents look back as I look forward. I cannot believe that
 my people would choose to retreat after all we've done. 
-MIRASTA: I agree. 
-KROLA: The people were willing to accept your social reforms because
+GUEST0: I agree. 
+GUEST3: The people were willing to accept your social reforms because
 they believe in you, Chancellor. But there are many who say we have
 gone far enough. All these new ideas, new technology, and now space
 travel? It confuses them, frightens them. 
-DURKEN: I will not allow them to remain in the dark ages. The warp
+GUEST1: I will not allow them to remain in the dark ages. The warp
 programme will proceed as you have outlined, Mirasta. And then we will
 slow down, Krola, to let everyone catch their breath. Including you.
 

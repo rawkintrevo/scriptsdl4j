@@ -1,94 +1,112 @@
-RIKER PICARD ENSIGN WESLEY COMPUTER CRUSHER DATA
+RIKER WORF TASHA PICARD TROI Q GUEST5 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-RIKER: Ensign, can you help me find Commander Data?
-I understand he's somewhere on this deck. 
-ENSIGN: This way, sir. You must be new to these Galaxy class starships,
-sir. (to wall) Tell me the location of Commander Data. 
-COMPUTER: Lieutenant Commander Data now located in Holodeck area 4J. 
-ENSIGN: And as you see, sir, it's pointing you that way. 
-RIKER: Thank you 
-ENSIGN: You're welcome, sir. 
-(She appreciates the sight as he walks away) 
-COMPUTER: The next hatchway on your right. 
-RIKER: Thank you. 
-COMPUTER: You're welcome, Commander Riker. And if you care to enter,
-Commander? 
-RIKER: I do. 
-(The holodeck doors open to show trees and vegetation. There is
-birdsong)
+TROI [OC]: There's a different feeling here than in
+the tunnel. Very different. 
+[Alien vessel]
 
-[Forest]
+GUEST5 [OC]: No! Please! No more! Please, no more!
+Please, please, make it stop! Please! Please! Please! Make it stop!
+Please! 
+(They find Zorn suspended in a force field, in pain) 
+GUEST5: No! Please! No more, please! No more! Please! 
+RIKER: Zorn. Can you hear me? 
+GUEST5: The pain! No! 
+TROI: Has the alien communicated? 
+GUEST5: Please! Please! Please, no more! 
+TROI: That's it, sir. It's just one alien that I'm sensing here. 
+GUEST5: Please! I don't understand what you want! 
+TROI: Not true. He does know. 
+GUEST5: No, please, no more. No more! No, no, no, don't! 
+(Riker and Data modulate their phasers to disrupt the force field, and
+Zorn drops onto a big soft mattress. The alien ship is not pleased
+about this) 
+[Bridge]
 
-RIKER: Hello? 
-(He crosses a stream by stepping stones. One wobbles. Someone is trying
-to whistle 'Pop goes the Weasel'. Riker finishes the tune) 
-DATA: Marvellous. How easily humans do that. I still need much
-practice. 
-RIKER: There are some puzzles down on the planet that the Captain wants
-answered. He suggests that I take you with me on the away team that
-I'll be leading. 
-DATA: I shall endeavour to function adequately, sir. 
-RIKER: Yes. When the captain suggested you, I looked up your record. 
-DATA: Yes, sir. A wise procedure, sir, always. 
-RIKER: Then your rank of Lieutenant Commander is honorary? 
-DATA: No, sir. Starfleet class of '78. Honours in probability mechanics
-and exobiology. 
-RIKER: Your file says that you're an 
-DATA: Machine, Correct, sir. Does that trouble you? 
-RIKER: To be honest, yes, a little. 
-DATA: Understood, sir. Prejudice is very human. 
-RIKER: Now that does trouble me. Do you consider yourself superior to
-us? 
-DATA: I am superior, sir, in many ways, but I would gladly give it up
-to be human. 
-RIKER: Nice to meet you, Pinocchio. A joke. 
-DATA: Ah. Intriguing. 
-RIKER: You're going to be an interesting companion, Mister Data. 
-DATA: This woodland pattern is quite popular, sir. Perhaps because it
-duplicates Earth so well. Coming here almost makes me feel human
-myself. 
-RIKER: I didn't believe these simulations could be this real. 
-DATA: Much of it is real, sir. If the transporters can convert our
-bodies to an energy beam, then back to the original pattern again 
-RIKER: Yes, of course. And these rocks and vegetation have much simpler
-patterns. 
-DATA: Correct, sir. The rear wall. 
-RIKER: I can't see it. 
-DATA: We're right next to it. 
-(He throws a rock at it, and the image pixilates on impact) 
-RIKER: Incredible! 
-WESLEY [OC]: Commander Riker! 
-WESLEY: (at the stream) Commander Riker, isn't this great? This is one
-of the simpler patterns. They've got thousands more. Some you just
-can't believe. 
-RIKER: Careful, the next rock is loose! 
-(Wesley falls in the water) 
-RIKER: Wesley! 
-(Data rushes down and hauls the boy out with one hand) 
-WESLEY: Wow! 
-[Corridor]
+WORF: Captain! 
+PICARD: Transporter chief, yank them back now! Riker, acknowledge! 
+(Flash! Q is in a Starfleet uniform) 
+Q: Your time is up, Captain. 
+PICARD: Transporter Chief, do you have their coordinates? Transporter
+Chief! 
+Q: He can't hear you, Captain. 
+PICARD: Transporter Chief, come in! I've people in trouble over there,
+Q. 
+(Q sits himself in the Captain's chair) 
+PICARD: Everyone at ease. That's an order. Q, my people are in trouble.
+Let me help them, please. I'll do whatever you say. 
+(The away team and Zorn materialise on the Bridge) 
+Q: You'll do whatever I say? 
+PICARD: It seems I did make that bargain. 
+TROI: The agreement isn't valid, sir. It wasn't Q that saved us. 
+Q: Save yourself. It may attack you now. 
+RIKER: It was that which sent us back, Captain. 
+TROI: Yes sir. It is not merely a vessel, sir. Somehow it is alive. 
+Q: She lies. Destroy it while you have a chance. Make phasers and
+photon torpedoes ready. 
+PICARD: No! Do nothing he demands. 
+GUEST5: Captain, that thing was killing my people! 
+PICARD: Was there a reason? 
+Q: It is an unknown, Captain. Isn't that enough? 
+PICARD: If you'd earned that uniform you're wearing, you'd know that
+the unknown is what brings us out here. 
+Q: Wasted effort, considering the human intelligence. 
+PICARD: Let's test that. Beginning with the tunnels you have under
+Farpoint, Groppler. 
+RIKER: Identical to the ones on the space vessel lifeform over there.
+Why was it punishing you, Groppler? 
+PICARD: In return for some pain you'd given other creature? 
+GUEST5: We've done nothing wrong. It was injured. We helped it. 
+PICARD: Thank you. That was the missing part. Lieutenant Yar, rig main
+phaser banks to deliver an energy beam. 
+TASHA: Aye, sir. 
+RIKER: You're right, Captain. It has to be conceivable that somewhere
+in this galaxy there could exist creatures able to convert energy into
+matter. 
+PICARD: And into specific patterns of matter, just as our transporters
+do. 
+TASHA: On the viewer, Captain! 
+(The alien vessel transforms into a giant space jellyfish) 
+PICARD: Groppler, you captured something like that, didn't you? 
+GUEST5: Warn my people, please, to leave Farpoint Station immediately! 
+Q: He lies, Captain. Shouldn't you let his people die? 
+PICARD: Transmit the message, leave Farpoint Space Station immediately.
 
-RIKER: Mister Data has agreed to join me on the
-away team, Captain. 
-PICARD: Very good, Commander. 
-WESLEY: Sir, maybe I should get something to wipe this water up. 
-PICARD: Good idea.
-
-[Sickbay]
-
-WESLEY: There's a low gravity gymnasium, too. It'd
-be hard to get bored on this ship. 
-CRUSHER: Good. 
-WESLEY: Mom, could you get me a look at the Bridge? 
-CRUSHER: That's against the Captain's standing orders. 
-WESLEY: Are you afraid of the Captain too? 
-CRUSHER: I certainly am not. 
-WESLEY: But Captain Picard is a pain, isn't he? 
-CRUSHER: Your father liked him very much. Great explorers are often
-lonely. No chance to have a family. 
-WESLEY: Just a look, at the Bridge. I'll stay in the turbolift when the
-doors open. I won't get off. 
-CRUSHER: You are asking for trouble, Wes. We'll see what we can do.
+TROI: Then it was a pair of creatures I was sensing. One down there in
+grief and pain, the other up here, filled with anger. 
+DATA: And firing not on the new space station, but on the Bandi and
+their city. 
+PICARD: Attacking those who had captured, capture its mate. 
+TASHA: Energy beam ready, sir. 
+PICARD: Lock it in on Farpoint Station. 
+Q: I see now it was too simple a puzzle. Generosity has always been my
+weakness. 
+PICARD: Let it have whatever it can absorb. Energise. 
+(A stream of light bathes Farpoint) 
+TASHA: Now getting feedback on the beam, sir. 
+PICARD: Discontinue. Groppler Zorn, there'll soon be no Farpoint
+Station, if I'm right about this. 
+Q: A lucky guess. 
+(Farpoint transforms into another space jellyfish) 
+GUEST5: Please believe me, we meant no harm to the creature. It was
+starving for energy. 
+PICARD: Which your world furnishes you in plenty. 
+GUEST5: We did feed it. 
+PICARD: Only enough to keep it alive, so that you could force it to
+shape itself into whatever form you needed! 
+(The second jellyfish takes off, and the two touch tendrils, lovingly,
+before leaving) 
+TROI: Sir! Wonderful! A feeling of great joy. And gratitude. Great joy
+and gratitude, from both of them. 
+PICARD: Why do you use other lifeforms for recreation? 
+Q: If so, you've not provided the best. 
+PICARD: Leave us! We've passed your little test. 
+Q: Temper, temper, mon Capitaine. 
+PICARD: Get off my ship. 
+Q: I do so only because it suits me to. But I will not promise never to
+appear again. 
+Captain's log, stardate 41174.2. The agreement for
+the rebuilding Farpoint Station has been completed per my instructions.
 

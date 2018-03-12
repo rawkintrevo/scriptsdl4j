@@ -1,57 +1,53 @@
-RIKER LAFORGE WORF PICARD KYLE JADAR CRUSHER DATA
+TROI KYLE WORF ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Bridge]
 
-PICARD: Come. Mister Worf, I thought our meeting
-was scheduled for eleven hundred hours. 
-WORF: I apologise for being late, Captain. I was detained in school. I
-was enrolling my son in class. 
-PICARD: I see. Well, Mister Worf, as you're aware, several new security
-officers will be transferring to the Enterprise next week and I would
-like to discuss. 
-KYLE [OC]: Kyle to Lieutenant Worf. 
-WORF: Worf here. 
-KYLE [OC]: I'm sorry to bother you again, Lieutenant, but I forgot to
-mention that we need to arrange for a series of placement examinations
-for Alexander. If you could tell me when 
-WORF: This is not a good time. I will contact you shortly, Miss Kyle.
-Sorry, Captain. 
-PICARD: I would like to discuss with you the specific areas of ship's
-security that I would like 
-CRUSHER [OC]: Sickbay to Worf. 
-WORF: Yes, Doctor? 
-CRUSHER [OC]: I need to schedule a physical examination for Alexander.
-I also need his complete medical records from Earth and the medical
-records of his 
-WORF: I would rather discuss this at a later time. 
-CRUSHER [OC]: There's no rush. Crusher out. 
-PICARD: Mister Worf. You are not the first officer on this ship to have
-a new family member. Take care of your son. The security matters can
-wait. 
-WORF: Thank you, Captain.
+TROI: Worf. I was just talking with Mrs. Kyle the
+primary school teacher. She told me you enrolled Alexander in her class
+this morning. 
+WORF: Yes. 
+TROI: I'm sure he'll do very well. She's a wonderful teacher. 
+WORF: Good. 
+TROI: Did she tell you about the father-son field trip this afternoon? 
+WORF: Yes. We cannot attend. 
+TROI: Why not? 
+WORF: I have a personnel review scheduled at thirteen hundred hours. 
+TROI: This would be a good opportunity for you to meet some of the
+other students and parents. 
+WORF: I might be able to reschedule the review. 
+TROI: Good. I'll let them know you're coming.
 
-[Observation lounge]
+[Biolab]
 
-(an alien humanoid is giving a presentation) 
-JA'DAR: Twenty three field coils, working in concert, will generate the
-soliton wave from this point on the planet surface.
-We will have our test ship towed to a position approximately two
-million kilometres from Bilana Three. If our theories are correct, the
-wave will envelop the ship and push it into warp. 
-PICARD: Warp without warp drive. 
-RIKER: They're going to put you out of a job, Geordi. 
-LAFORGE: I hope so, Commander. 
-DATA: Doctor Ja'Dar, how closely will the Enterprise need to follow the
-test vehicle? 
-JA'DAR: The soliton emits a great deal of subspace radio interference.
-You'll need to remain within twenty kilometres in order to receive
-telemetry. 
-PICARD: Doctor, how will you end the experiment? 
-JA'DAR: The wave will be directed toward Lemma Two, about three light
-years distance. Our sister facility there which will generate a
-scattering field which will dissipate the wave and bring the ship out
-of warp. I'll be sending you more detailed operational plans within the
-hour. 
-PICARD: Very well, Doctor. We'll contact you again once we've finished
-studying the mission specs.
+(there are models, and things in display cases) 
+KYLE: As the value of their horns increased, the number of white rhinos
+in the wild kept falling, until they finally became extinct about two
+centuries ago. Now, I'd like to show you a pair of animals we're trying
+to save from extinction. Would you follow me? They're from Corvan Two,
+where their homes in the rainforests are being threatened by industrial
+pollutants. They're called Corvan gilvos. They're a little shy. 
+(something moves in the cage) 
+KYLE: The eating habits of gilvos are very similar to those of Earth's
+Draco lizards, which died out over three hundred years ago. There
+are only fourteen gilvos left on Corvan Two. We're transplanting these
+two to the protected planet Brentalia, where they should thrive. Well,
+why don't you all have a look around on your own for a while. If you
+have any questions, please feel free to ask. 
+(the others disperse, but Alexander is completely taken by the gilvos) 
+KYLE: Alexander, I'm sorry. I forgot to tell everyone that the models
+on the tables were for everyone to play with. So I guess you didn't
+know you weren't supposed to take them. I saw you playing with the
+lizard model a little while ago. Do you still have it? 
+WORF: Are you accusing him of stealing? 
+KYLE: Lieutenant Worf, I can only tell you that 
+WORF: Alexander, did you take the model of the lizard from the table? 
+ALEXANDER: No, sir. 
+KYLE: Lieutenant, I saw Alexander put the model inside of his jacket. 
+(Worf checks Alexander's pockets, and find it)
+
+Lieutenant Worf, personal log, stardate 45376.8.
+Alexander has acted shamefully, and as his father I must now deal with
+him. But I find that I would gladly fight ten armed Baldur warriors
+rather than face one small child.
 

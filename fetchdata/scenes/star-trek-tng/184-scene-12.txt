@@ -1,47 +1,36 @@
-TROI LAFORGE WORF PICARD RIKER ALLENBY CRUSHER DATA
+TROI LAFORGE RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Troi's quarters]
 
-LAFORGE [OC]: Recommend full stop while I check it
-out. 
-PICARD: Back to full stop, Ensign. 
-ALLENBY: Aye, sir. 
-DATA: All decks reporting minor injuries only. 
-PICARD: Damage? 
-DATA: None, sir. 
-WORF: Weapons and shields normal. 
-RIKER: Go to yellow alert. 
-ALLENBY: Captain, we've started moving again. Something is pulling us. 
-[Troi's office]
-
-(Deanna has woken, but is still in pain) 
-TROI: Troi to Doctor Crusher. 
-[Sickbay]
-
-CRUSHER: Yes, Deanna? 
-TROI [OC]: Beverly 
-[Troi's office]
-
-TROI: I'm feeling very dizzy. 
-CRUSHER [OC]: Did you hit your head? 
-TROI: I'm not sure. I'm not sure what happened. 
-[Sickbay]
-
-CRUSHER: Lie down, breathe deeply and stay calm.
-I'm getting calls from all over the ship. I'll be there as quickly as I
-can.
-
-[Bridge]
-
-ALLENBY: New heading confirmed. Zero two five mark
-two seven three. Speed is holding at one tenth impulse. 
-RIKER: Whatever's pulling us sure isn't in a hurry. 
-PICARD: Picard to La Forge. 
-LAFORGE [OC]: Go ahead, Captain. 
-PICARD: If your engines are functioning we'll attempt to break free.
-
-[Engineering]
-
-LAFORGE: Everything down here seems normal enough,
-sir, but I suggest we take it a bit slower this time.
+TROI: Come in. 
+(Riker enters) 
+TROI: I really would rather be alone right now. 
+RIKER: Too bad. 
+(he pulls her towards him, and she cries in his arms) 
+TROI: Is this how you handle all of your personnel problems? 
+RIKER: Sure. You'd be surprised how far a hug goes with Geordi, or
+Worf. 
+TROI: Will, I don't know what to do. 
+RIKER: So you resign? You walk away from all the people who care about
+you? 
+TROI: I look around me and all I see are surfaces without depth.
+Colourless. Hollow. Nothing seems real. 
+RIKER: I'm real. 
+TROI: No, you're not. You're a projection, with no more substance to me
+than a character on the holodeck. 
+RIKER: I don't believe that. 
+TROI: You have no idea how frightening it is to just be here without
+sensing you, without sharing your feelings. 
+RIKER: That's it, isn't it? We're on equal footing now. 
+TROI: What? 
+RIKER: You always had an advantage. A little bit of control of every
+situation. That must have been a very safe position to be in. To be
+honest, I'd always thought there was something a little too
+aristocratic about your Betazoid heritage. As if your human side wasn't
+quite good enough for you. 
+TROI: That isn't true. 
+RIKER: Isn't it? 
+LAFORGE [OC]: La Forge to Riker. 
+RIKER: Go ahead, Geordi.
 

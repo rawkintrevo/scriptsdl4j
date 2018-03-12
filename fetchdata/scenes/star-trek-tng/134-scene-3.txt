@@ -1,36 +1,5 @@
-PICARD RIKER WORF
-
-[Phaser range]
-
-(Target practice involves shooting at moving
-coloured lights) 
-PICARD: I was wondering if you had any feelings about the Officer
-Exchange Programme initiated by Starfleet Command. 
-RIKER: Just positive ones, sir. Actually, I just welcomed Ensign Mendon
-on board. He certainly seems eager to please. 
-PICARD: Well, that's a Benzite trait. It's been suggested that an
-officer from the Enterprise might participate in the programme. 
-RIKER: That's probably a good idea. 
-PICARD: Well, there is a Klingon vessel in the area. 
-RIKER: I don't recall hearing of a Federation officer serving ever on a
-Klingon vessel. 
-PICARD: No, no, neither have I. 
-RIKER: It might prove to be beneficial. 
-PICARD: Having Worf on board certainly has been. 
-RIKER: Yes, sir. Who did you intend to send, sir? 
-PICARD: I thought of asking for a volunteer. 
-RIKER: I might be interested, sir. 
-PICARD: (missing a target) Damn. Sorry, Number One, what was that? 
-RIKER: I said I wouldn't mind the assignment, sir. 
-PICARD: Any particular reason? 
-RIKER: Because nobody's ever done it before. 
-PICARD: I'll notify Starbase of your acceptance They'll contact the
-Klingon vessel, make the arrangements.
-
-Captain's log, stardate 42506.5. We have departed
-from Starbase one seven nine and are headed for a rendezvous with the
-Klingon vessel, Pagh. I have informed the staff of Commander Riker's
-temporary assignment.
+GUEST2 RIKER CREWMAN WORF WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
@@ -49,4 +18,27 @@ RIKER: The method of attrition must take a little getting used to.
 WORF: The Klingon system has operated successfully for centuries. 
 RIKER: It is different. 
 WORF: Many things will be different.
+
+[Bridge]
+
+(Mendon leaves his aft station and has a look
+around) 
+CREWMAN: (at Worf's station) Can I help you, sir? 
+GUEST2: That's a wonderful method of maintaining a constant control
+factor over defensive shields, but I'm sure there's a way to improve
+response time. Sorry. Didn't mean to interrupt you. Just thought I
+could be of some help. However, I am correct in what I said. 
+(He moves on down to the helm and ops stations) 
+GUEST2: That is superb designing. Absolutely first rate. 
+WESLEY: Yes, it is. Would you care to be more specific? 
+GUEST2: The input sampling. It's simple yet efficient enough. Of course
+a minor change of the helm readout would be much more helpful in
+emergency situations. 
+WESLEY: We've never had any problems with it. Have you seen it work? 
+GUEST2: Not in a practical exercise, but in theory, my theory, it would
+be more than a marginal improvement. I'll have to mention this to the
+Captain. He is open to some astute observations, isn't he? 
+WESLEY: I've never known the Captain not to listen to one of his
+officers. 
+GUEST2: Outstanding. Soon we'll get things running perfectly.
 

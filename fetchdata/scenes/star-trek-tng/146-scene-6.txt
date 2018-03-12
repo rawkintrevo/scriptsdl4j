@@ -1,55 +1,54 @@
-RIKER OBRIEN LAFORGE WORF PICARD PULASKI KEHLEYR CLANCEY
+WORF KEHLEYR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Tactical room]
 
-LAFORGE: Transporter ready, Captain.
-
-[Bridge]
-
-WORF: Range now seventy five hundred. 
-PICARD: Steady as she goes 
-WORF: Probe is standing abeam. 
-PICARD: Engage tractor. 
-O'BRIEN [OC]: Transporter beam locked, Captain. 
-PICARD: Energise.
-
-[Transporter room]
-
-(Pulaski enters) 
-O'BRIEN: Probe aboard, Captain. 
-[Bridge]
-
-PICARD: Acknowledged. Number One? 
-RIKER: I'll welcome our visitor. 
-PICARD: Resume original course and speed. 
-CLANCEY: Aye, sir. 
-[Transporter room]
-
-(O'Brien starts pushing buttons on the probe. Riker
-enters) 
-LAFORGE: All yours, Commander. 
-(La Forge leaves. The probe case unlocks, and Riker helps O'Brien lift
-off the top. The inside is filled with a person. Pulaski scans and
-shakes her head) 
-RIKER: Something wrong, Doctor? 
-PULASKI: I'm not sure. The readings are quite interesting. 
-(The figure removes the lift support mask and reveals herself to be a
-Klingon woman) 
-K'EHLEYR: I greet you. I am K'Ehleyr. 
-RIKER: nuqneH. qaleghneS. 
-K'EHLEYR: You speak Klingon. 
-RIKER: A little. I am Commander William Riker. This is Chief Medical
-Officer Katherine Pulaski. I hope your voyage wasn't too unpleasant. 
-K'EHLEYR: Klingons are not supposed to mind hardship. Nonetheless, I am
-delighted to be out of that damned coffin. 
-RIKER: I don't blame you. It's not the most luxurious accommodation
-Starfleet has to offer. 
-K'EHLEYR: Whoever said that getting there was half the fun never rode
-in a class eight probe. 
-PULASKI: How are you feeling? Your vital signs are rather atypical for
-a Klingon. 
-K'EHLEYR: No doubt because I am only half Klingon. 
-PULASKI: Oh? 
-K'EHLEYR: Yes. My father was Klingon. My mother was human. 
-(And the lovely Susie Plaxton previously played a Vulcan on TNG)
+((K'Ehleyr has changed into a red leather catsuit) 
+WORF: You are late. 
+K'EHLEYR: Sorry. Had to make myself beautiful. 
+WORF: I fail to understand why. 
+K'EHLEYR: Worf, we're alone now. You don't have to act like a Klingon
+glacier. I don't bite. Well, that's wrong, I do bite. 
+WORF: Shall we proceed with our assigned duties? 
+K'EHLEYR: You weren't this aloof six years ago. Or don't you remember? 
+WORF: There is nothing wrong with my memory. 
+K'EHLEYR: Well there's something wrong with the rest of you. You're not
+even looking at me. 
+WORF: I am familiar with your appearance. 
+K'EHLEYR: And it gives you no pleasure to see me again. It isn't as if
+we tried it and it didn't work, you know. You never gave it a chance. 
+WORF: I never? 
+K'EHLEYR: I mean, as I see it, we have some unfinished business, you
+and I. 
+WORF: Not as far as I'm concerned. According to the library computer,
+the captain of the T'Ong is K'Temoc. But there is nothing regarding the
+ship's mission. 
+K'EHLEYR: Probably some secret military objective. 
+WORF: Perhaps, but we have no evidence of that. 
+K'EHLEYR: Why else would there be no record of the mission? 
+WORF: The records may simply have been lost. 
+K'EHLEYR: What does it matter? Our concern is the present, the possible
+threat. 
+WORF: And to contend with that threat, we need information. 
+K'EHLEYR: We have all the information we need. 
+WORF: That is foolish. Knowing their mission might help us understand
+them. 
+K'EHLEYR: There is nothing to understand. These are Klingons. They'll
+attack. In their minds, we're the enemy, and there's no way we're going
+to talk them out of that! 
+WORF: And I do not appreciate being interrupted. 
+K'EHLEYR: And I do not appreciate wasting my time. 
+WORF: We were instructed to come up with options. 
+K'EHLEYR: There aren't any. The assignment's hopeless. 
+WORF: There are always options. 
+K'EHLEYR: Oh, are there? Tell me, whatever happened to that wonderful
+Klingon fatalism of yours? 
+WORF: My experiences aboard this ship have taught me that most problems
+have more than one solution. 
+K'EHLEYR: Starfleet hasn't improved you one bit. You're as stubborn as
+ever. 
+WORF: Are you going to carry out your duties, or aren't you? 
+K'EHLEYR: All right, I will. Upon due consideration of the problem and
+careful examination of all possible options, my original recommendation
+stands. Meeting adjourned.
 

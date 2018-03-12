@@ -1,52 +1,124 @@
-RIKER MAROUK PICARD YUTA WESLEY DATA
+GUEST0 TROI LAFORGE WORF PICARD GUEST4 RIKER GUEST5 WESLEY GUEST2 CRUSHER DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Sovereign Marouk, welcome to the Bridge. 
-MAROUK: Thank you, Captain. 
-PICARD: How soon will you be ready to leave Acamar? 
-MAROUK: I am ready now, Captain. I need only bring aboard two more
-servants. 
-RIKER: I'll see to that, and to your accommodations. 
-MAROUK: I have reason to believe there is a Gatherer encampment
-somewhere in the Hromi Cluster. 
-PICARD: Mister Data? 
-DATA: The Federation has charted but not explored several class M
-planets in that area. Any one of these planets might well serve as a
-base. 
-PICARD: Mister Crusher, set course for the Hromi Cluster. 
-WESLEY: Aye, sir.
+WESLEY: Now entering standard orbit of Gamma Hromi
+Two, sir. 
+DATA: Captain, I am detecting life readings from the planet surface, as
+well as several small areas of thermal radiation and carbon dioxide
+emissions, indicative of combustion. 
+WESLEY: Campfires, Data. 
+DATA: Is that not what I said? 
+RIKER: It's worth a look. 
+PICARD: Make it so. 
+RIKER: Data, Worf. 
+[Gatherer camp]
 
-[Marouk's quarters]
+(It looks like a junk yard) 
+LAFORGE: Artonian lasers. Tonkian homing beacons. Quite a collection. 
+DATA: Noranium alloy, sir. It's salvage value is quite low. 
+RIKER: Looks like these Gatherers weren't too discriminating in what
+they steal. 
+WORF: Commander? Ambush! 
+(The Gatherers start firing at them as they hide behind barrels)
+DATA: Rigelian phaser rifles, sir. Not particularly powerful. 
+RIKER: Powerful enough. We came to talk! 
+WORF: Your words are wasted, Commander. They understand only this. (a
+phaser) 
+RIKER: We're here to establish a dialogue, Worf. 
+RIKER: Data, tell me about noranium. It vaporises at? 
+DATA: Two thousand three hundred fourteen degrees. Of course, noranium
+carbide 
+RIKER: Thank you, Data.
+LAFORGE: Setting seven ought to do it. 
+RIKER: Three, two, one, now! 
+(They fire at some of the metal junk, which creates a smoke screen.) 
+RIKER: Enterprise, four to beam up. 
+GUEST4: Cowards! 
+(He puts the fire out with a bucket of soil) 
+WORF: Your ambushes would be more successful if you bathed more often. 
+RIKER: We've brought the Sovereign of Acamar. 
+GUEST4: Marouk? Here? 
+RIKER: With an offer of amnesty. 
+(Later, Yuta is tasting a drink again, this time from a metal jug) 
+GUEST3: Full dispensation will be extended to all Gatherers who are
+willing to return to Acamar Three. 
+GUEST4: You don't trust me, Marouk. 
+GUEST3: Should I? 
+(Marouk drinks from the goblet, then Yuta takes it to Brull)
+GUEST4: But you expect me to trust you. Maybe you just poisoned it
+yourself. Taste this, Temarek. 
+(Temarek doesn't want to, so Brull pushes him down and pours some on
+his face before taking a drink himself)
+GUEST3: Barbarians. This is futile. 
+PICARD: Sovereign. Brull! 
+GUEST4: Go home, old woman. 
+GUEST3: You people haven't changed in a hundred years. 
+GUEST4: You should know. You were there. 
+PICARD: Sit down! Please. Please. Now, we're here to talk. 
+GUEST3: It's a waste of time, Captain. They don't care about how they
+live. 
+GUEST4: Am I supposed to believe that you care how we live? 
+GUEST3: Yes. 
+PICARD: Brull, she's here, isn't she? 
+GUEST4: Maybe you forced her to come, Picard. 
+GUEST3: Nobody forces me anywhere, Brull. 
+GUEST4: What is there for us on Acamar Three? 
+GUEST3: A life. A home. You can end your wanderings, your miserable
+existence. 
+GUEST4: Do I look miserable to you? 
+GUEST3: The clan wars are over, Brull. It is a past we're ashamed of.
+It is why you had to leave. Now, it is time to come home. 
+GUEST4: I want to speak privately with Sovereign Marouk and Picard.
+Everyone else, get out. 
+(We follow the followers leaving their masters) 
+RIKER: Any insights? 
+TROI: Brull's ready to negotiate. He just wants privacy so that he
+won't appear weak in front of the other Gatherers. 
+GUEST5: You are of the clan Lornak. 
+GUEST2: (an old man) What of it? I've seen you before. 
+GUEST5: Yes. 
+GUEST2: But it's impossible. 
+GUEST5: No. Look closer. I am Yuta of the clan Tralesta. 
+(She touches his cheek and he falls backwards in agony) 
+GUEST5: I am the last of my line, but my clan will outlive yours. 
+(Back at the camp fire) 
+GUEST4: Marouk's offer has value. 
+PICARD: Commander. 
+GUEST4: But still, I don't know. 
+PICARD: But you'll agree it is enough to present to your leader. 
+GUEST4: Chorgan is a better judge of these matters. I will take it to
+him. You will hear from me in twenty days. 
+PICARD: Brull, in twenty days, I hope to be very far away from here. 
+GUEST3: With all due respect, Brull, I would like to make the offer to
+Chorgan myself. 
+PICARD: We'll gladly take you with us on the Enterprise. How many of
+your men do you want to accompany you? 
+GUEST4: I'll come alone. If this is a trap. 
+GUEST3: Oh, it isn't. 
+GUEST4: Mallon, you'll be in charge while I'm gone. If I'm not back in
+ten days 
+GUEST0: Brull! Brull! 
+(They dash to where Volnoth is lying) 
+GUEST4: Volnoth. 
 
-MAROUK: A fine ship, Commander. 
-RIKER: We're all very proud of her. 
-MAROUK: Yuta, a light meal in twenty minutes. 
-YUTA: (a young woman) May I be shown the kitchen, Commander? 
-RIKER: You're the chef? 
-YUTA: Yes. I'll prepare all meals for the Sovereign and her servants. 
-RIKER: We can provide you with a kitchen, but it won't really be
-necessary. These food dispensers can synthesise anything that you may
-been. I'll show you. Sovereign, may I offer you a drink? 
-MAROUK: Yes, thank you. Cold water. 
-RIKER: Computer, a glass of water, five degrees. 
-YUTA: Please. 
-(She takes the glass and sips it)
-RIKER: You're also the food taster? 
-YUTA: That's part of the cook's duty. 
-(She takes the drink to Marouk) 
-YUTA: I'm sure the Sovereign will wish to sample many of the cuisines
-your ship has to offer, but there are
-some Acamarian dishes that she will insist upon. 
-RIKER: I will arrange for a technician to help programme your recipes
-into the computer. Of course, I'll have to try some of them. What's
-your specialty? 
-YUTA: I have none. 
-RIKER: Don't be modest. You can't tell me you haven't come up with a
-few culinary delights. 
-YUTA: There is a spiced parthas dish. 
-RIKER: Parthas? 
-YUTA: A green vegetable with fleshy roots. 
-RIKER: Parthas a la Yuta. I look forward to tasting it. Sovereign.
-Chef.
-
+RIKER: Away team to Enterprise. Medical Emergency. 
+GUEST4: Volnoth was an old man. There's nothing to be done. 
+RIKER: There's a chance that our doctors can do something. 
+GUEST4: You found him? 
+GUEST0: Yes. And there are no other members of the Lornak clan here,
+so I claim his possessions. 
+GUEST4: Granted. 
+(Temarek pulls off Volnoth's boots) 
+GUEST3: Have you no respect for the dead? 
+GUEST4: What's there to respect about a corpse? 
+(Crusher beams down. Riker pulls Temarek off) 
+GUEST4: Temarek, no. Calm down. 
+CRUSHER: He's been dead too long. 
+RIKER: How? 
+CRUSHER: Cardiac arrest? 
+RIKER: You don't sound convinced. 
+CRUSHER: No, he died of a heart attack, all right, but I can't find the
+cause. His cardiac muscle is strong and there's no sign of arterial
+occlusion. 

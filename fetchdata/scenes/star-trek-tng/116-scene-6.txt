@@ -1,66 +1,58 @@
-RIKER ONEZERO WORF TASHA PICARD WESLEY COMPUTER ZEROONE
+GUEST6 GUEST1 RIKER COMPUTER GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Outside holodeck]
 
-PICARD: Bridge. Well, I have a little work to
-finish up, then I'm going to my cabin. I'm going to put my feet up, I'm
-going to turn on my personal relaxation light and I'm going to lose
-myself in the pages of some old novel. What about you, Number One?
-You've earned a rest. 
-RIKER: I've never been very good at organising my time off.
-Something'll turn up. It always does. 
-[Bridge]
+(Bynars with a different style of clothes are
+working) 
+RIKER: How's it going? 
+ZERO ZERO: (left hand side) We are almost done. 
+ONE ONE: (right hand side) The deviation 
+ZERO ZERO: caused by a previous 
+ONE ONE: probe has been corrected 
+ZERO ZERO: You may use the equipment 
+ONE ONE: anytime you wish. 
+RIKER: How much has been changed? What exactly did you do? 
+ONE ONE: Enhancement. 
+ZERO ZERO: Nothing more. 
+(They talk to each other in binary) 
+ZERO ZERO: Would you like to try 
+ONE ONE: the enhancement? 
+RIKER: All right. What should I choose? Computer, I'd like some place
+to play some music. A little atmosphere. 
+COMPUTER: Specify. 
+RIKER: Jazz. 
+COMPUTER: Era? 
+RIKER: Circa 1958. 
+COMPUTER: Location. 
+RIKER: Kansas City. No, wait. New Orleans. Bourbon Street Bar, New
+Orleans. Around two a.m. 
+COMPUTER: Programme complete. Enter when ready.
 
-(There are four Bynars at a rear computer station.
-Wesley is watching them as Riker and Picard enter) 
-PICARD: I'll be in my ready room. And Number One, good work. 
-RIKER: I thought there were only going to be two of you. 
-ONE ZERO: Because of the limited time allotted us 
-ZERO ONE: We need others 
-RIKER: Is there a problem? 
-ZERO ONE: No. 
-ONE ZERO: No. No problem. 
-RIKER: Then why are you acting so excited? 
-ZERO ONE: Because we have to 
-ONE ZERO: The stacking 
-ZERO ONE: To reconfigure the computer 
-ONE ZERO: To communicate with itself 
-ZERO ONE: More efficiently 
-ONE ZERO: And at higher speeds. 
-(They turn back to their work) 
-WESLEY: You act like you don't believe them. 
-RIKER: I'm not sure that I do. Maybe it's probably nothing. 
-WESLEY: Perhaps it's just how another species behaves. 
-RIKER: Maybe. I'm going to stroll the ship. You've got the Bridge. Keep
-your eye on them. 
-WESLEY: Yes, sir.
+[Holodeck]
 
-[Corridor]
-
-(Tasha, Worf and two others are wearing vivid blue
-catsuits with knee and elbow pads) 
-TASHA: We've been challenged to a friendly game of Parrises Squares by
-some of the maintenance personnel. Want to join us on the starbase? 
-RIKER: You've already got all the players you need. 
-TASHA: We can switch off. 
-RIKER: No, you know if you do that in Parrises Squares you lose the
-rhythm of the game. 
-TASHA: I can't talk you into coming with us? 
-RIKER: No. But win, all right? The pride of the Enterprise goes with
-you. 
-WORF: Rest assured, Commander, we will be victorious. At whatever the
-cost. 
-RIKER: Worf, it's just a game. A little friendly competition, You work
-up a sweat, you have a few laughs, and you make new friends. 
-WORF: If winning is not important, then, Commander, why keep score? 
-TASHA: I think he's pulling your leg. Believe it or not, Worf is
-developing a sense of humour. 
-RIKER: I hope so, for their sake. 
-(The team go down another corridor, then the lights go out. Riker
-activates panel 40271)) 
-RIKER: Computer. There's a power reduction in section L-Ninety Four.
-Explain. 
-COMPUTER: Unoccupied sections are being closed down in order to clear
-space in the main computer banks. It is necessary to facilitate the
-system upgrade. Full power can be restored if needed.
+(A nightclub with a slightly raised stage, tables
+with candles for light) 
+RIKER: Very good. Very good indeed. Now I'll need someone to play with.
+A trio. Piano, bass and drums, and a 'bone for me. 
+(The musicians appear) 
+RIKER: Now an audience. Whoa. Too many. I was thinking of something a
+little more intimate. 
+(A single blonde in a red dress) 
+RIKER: Great job, boys. But, computer, blondes and jazz seldom go
+together. (a red-head) Now that is truly exceptional. But more sultry. 
+(A brunette at the bar) 
+RIKER: Gentlemen, if this is what you call enhancement, you've got a
+gift for understatement. 
+(The Bynars work on the internal controls as the band starts playing) 
+RIKER: What's your name? Tell me you love jazz. 
+GUEST6: My name is Minuet and I love all jazz except Dixieland. 
+RIKER: Why not Dixieland? 
+GUEST6: You can't dance to it. 
+RIKER: My girl. What's a knockout like you doing in a
+computer-generated gin joint like this? 
+GUEST6: Waiting for you. 
+RIKER: Waiting for me? You can't be serious. 
+GUEST6: Oh yes, Will. I've never been more serious in my life. 
+(The Bynars leave)
 

@@ -1,58 +1,29 @@
-RIKER WORF SHELBY PICARD GLEASON DATA
+PICARD RIKER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-RIKER: Slow to impulse. Take us to the battle
-coordinates, Mister Crusher. Yellow alert. 
-WORF: Sensors are picking up several vessels, Captain. 
-RIKER: The fleet?
-DATA: No active subspace fields. Negligible power readings. 
-RIKER: Life signs? 
-DATA: Negative, sir.
-WORF: Visual contact.
-RIKER: On screen.
-(Fragments of starships, some with flashes of fires still burning) 
-SHELBY: The Tolstoy, the Kyushu, the Melbourne. 
-(Riker bows his head briefly for the crew that might have been his) 
-WORF: Sir, sensors are picking up unusually strong eddy currents,
-bearing two zero zero, mark two one one.
-RIKER: Data, analysis? 
-DATA: It could indicate the course of the Borg ship, sir. 
-RIKER: Ensign Crusher, set in a course that follows those currents.
-Commander Shelby, prepare to initiate your plan to separate the saucer
-section when we find the Borg.
-SHELBY: Sir. I must remind you that Captain Picard was briefed on that
-plan. The Borg will be prepared for it 
-RIKER: I'm aware of that, Commander. In fact, I'm counting on it.
-SHELBY: Crusher, Cartaino, Gleason. Report to the Battle Bridge. 
-RIKER: Mister Data, Mister Worf? I have a special mission for you.
-
-[Borg ship]
-
-(The Borg ship drops out of warp. A fully Borgified
-Picard looks at the Enterprise approaching) 
-RIKER [on viewscreen]: Locutus of Borg, this is Captain William T.
-Riker of the USS Enterprise.
-PICARD: You may speak.
-
-[Battle bridge]
-
-RIKER: We wish to end the hostilities.
-PICARD [on viewscreen]: Then you must unconditionally surrender.
-RIKER: We are prepared to meet to discuss your terms.
-PICARD [on viewscreen]: It is unlikely you are prepared to discuss
-terms. It is more likely that this is an attempt at deception.
-RIKER: Come now, Locutus. If Picard's knowledge and experience is part
-of you, then you know I've never lied to him. You should also
-implicitly trust me, is that not so?
-PICARD [on viewscreen]: Picard implicitly trusted you.
-RIKER: Then trust me now. Meet to discuss terms.
-PICARD [on viewscreen]: Discussion is irrelevant. There are no terms.
-You will disarm all your weapons and escort us to Sector zero zero one
-where we will begin assimilating your culture and technology.
-(mute) 
-RIKER: Mister Gleason, can you pinpoint the source of the Borg
-transmission?
-GLEASON: I can put you within thirty meters of it, sir. 
-RIKER: O'Brien, report.
+CRUSHER: There is extensive infiltration of
+microcircuit fibers into the surrounding tissue. His DNA is being
+rewritten. 
+RIKER: Can you revive him?
+CRUSHER: I'd like more time to study the structural changes in the
+motor pathways. 
+RIKER: We don't have more time, Doctor. Once he was wired into the
+Borg, they knew everything that he knew. I just hope it goes both ways.
+If we're lucky, he had access to everything we need to know about them,
+especially their vulnerabilities.
+CRUSHER: Jean Luc? It's Beverly. can you hear me? 
+PICARD: Beverly. Crusher. Doctor. 
+CRUSHER: Yes. Don't try to move. 
+PICARD: I am on board the Enterprise.
+RIKER: That's right.
+(Picard sits up slowly) 
+PICARD:: A futile manoeuvre. Incorrect strategy, Number One. To risk
+your ship and crew to retrieve only one man. Picard would never have
+approved. You underestimate us if you believe this abduction is any
+concern. There is no need for apprehension. I intend no harm. No harm.
+I will continue, aboard this ship, to speak for the Borg, while they
+continue without further diversion to Sector zero zero one, where they
+will force your unconditional surrender.
 

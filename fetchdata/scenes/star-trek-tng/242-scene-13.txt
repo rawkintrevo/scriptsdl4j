@@ -1,82 +1,47 @@
-DATA SHREK WORF
+GUEST0 DATA LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Engineering]
 
-(Data is about to speak, then changes his mind) 
-WORF: Wait. What is it, Commander? 
-DATA: I am sorry to bother you, but I have a question of a personal
-nature. Do you have a moment? 
-WORF: A moment. 
-DATA: I have heard you mention that you once experienced a vision. 
-WORF: Yes. When I was young my adoptive parents arranged for me to
-partake in the Rite of MajQa. 
-DATA: I understand it involves deep meditation in the lava caves of
-No'Mat. That prolonged exposure to the heat induces a hallucinatory
-effect. 
-WORF: Why are you asking me about this? 
-DATA: I have recently had an unusual experience, which might be
-described as a vision. 
-WORF: What happened? 
-DATA: An accident in Engineering shut down my cognitive functions for a
-short period of time, yet I seemed to remain conscious. I saw my
-father. 
-WORF: You are very fortunate. That is a powerful vision. 
-DATA: If it was a vision, I do not know how to proceed. 
-WORF: You must find its meaning. If it has anything to do with your
-father, you must learn all you can about it. In the Klingon MajQa
-ritual, there is nothing more important than receiving a revelation
-about your father. Your father is part of you, always. Learning about
-him teaches you about yourself. That is why no matter where he is or
-what he has done, you must find him. 
-DATA: But I am not looking for my father. 
-WORF: Yes, of course. Do not stop until you have the answer. 
-DATA: Thank you, Worf.
+LAFORGE: Okay, Data, we're going to monitor every
+subsystem in your positronic net. If I see any neural pathways overload
+beyond sixty five percent, I'm shutting down the experiment. 
+DATA: Agreed. 
+GUEST0: We're ready. 
+LAFORGE: Initiating energy transfer. Get ready, Data. 
+GUEST0: Power levels are rising. 
+LAFORGE: It should be any second now. 
+(the energy burst knocks the tricorder out of Data's hand)
 
-[Promenade]
+[Corridor]
 
-(Morn is in conversation with a blue-skinned woman
-when Worf spots Shrek on the upper level) 
-SHREK: Lieutenant Worf. You have reconsidered. 
-WORF: Yes. I wish to go to the Romulan prison camp. 
-SHREK: Excellent. I can provide you with the coordinates. 
-WORF: No. You will take me there. 
-SHREK: No, it's not possible. I have no means of transportation. 
-WORF: I checked the station records. You have a vessel that is capable
-of warp speed. 
-SHREK: I, I do not have the time. I have other business. 
-(Worf dangles Shrek over the railing) 
-WORF: What is the real reason you do not wish to take me? Is it because
-what you have told me is not true? 
-SHREK: No. The camp is located on the edge of Romulan space. It is a
-dangerous journey. 
-WORF: Dangerous? It would be more dangerous for you to refuse. 
-SHREK: Very well. But I will require full payment in advance. 
-WORF: No. No, I will pay you after. 
-SHREK: But 
-(Worf leans him further over the railing) 
-SHREK: Yes, yes, of course. After. 
-WORF: If you are lying, if there is no prison camp, I will kill you.
+(Once again, Data finds Soong at the anvil. He
+plunges a bird's wing into water, and steam rises. When it clears,
+Soong is gone and a raven is there. It flies off down the corridor) 
+DATA: The bird did not appear in my original experience. This vision is
+different. 
+[Bridge]
 
-[Shrek's shuttlecraft]
-
-SHREK: The Romulan guards have a detection
-perimeter. It will be necessary to transport you to the surface thirty
-kilometres from the prison camp. 
-WORF: The foliage is very dense. It will take me approximately twelve
-hours to reach the camp. I may have to travel during the night. 
-SHREK: That would be unwise. This is not an empty jungle. There are
-many predators. 
-WORF: I am prepared. 
-SHREK: Very well. But I recommend that you look up from time to time.
-The arboreal needle snake likes to attack from above. I will provide
-you with a map of the camp. 
-WORF: How did you learn of this camp? 
-SHREK: It is not important for you to know. 
-WORF: Why have you not informed the Klingon government of this place? 
-SHREK: I sell information. I do not give it away. 
-WORF: You do this for profit. 
-SHREK: I have my reasons, Mister Worf. 
-WORF: What reasons could you have for letting these people suffer? 
-SHREK: We will arrive in the Carraya Sector in approximately three
-hours. I suggest you get some rest.
-
+(There is no furniture, no equipment) 
+GUEST2: Of course it's different. It's never the same. Always changing.
+Unpredictable. It doesn't make sense. 
+DATA: What is happening, Father? 
+GUEST2: I don't know, Data. What is happening? 
+DATA: We are on the Bridge of the Enterprise. My cat is present, my
+potted plant, and my paintings. 
+GUEST2: A beginning. Still a little grounded in the mundane, but showing
+promise. 
+DATA: I do not understand. 
+GUEST2: You're not supposed to. No man should know where his dreams come
+from. It spoils the mystery, the fun. I'm proud of you, son. I wasn't
+sure you'd ever develop the cognitive abilities to make it this far.
+But if you're here, if you can see me, you've crossed over the
+threshold from being a collection of circuits and subprocessors and
+have started a wonderful journey. 
+DATA: What type of journey? 
+(Data is lying on a bed) 
+GUEST2: Think of it, think of it as an empty sky. 
+DATA: I do not understand. 
+GUEST2: Shh. Just dream, Data. Dream. Data, you are the bird. 
+(and he flies along the corridor, past Soong and out into the wonders
+of space before waking up again in Engineering) 

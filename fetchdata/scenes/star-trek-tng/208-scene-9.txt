@@ -1,49 +1,39 @@
-PICARD KLINGON DATA KVADA
-
-[Klingon Bridge]
-
-K'VADA: I know my duty, Captain. When I am given
-orders, I follow them, but I do not like secrets. I want to know why we
-are going on this mission.
-PICARD: I'm sorry. It's a classified matter.
-K'VADA: You're going after the defector, aren't you?
-PICARD: Defector? 
-K'VADA: Do you think information like that stays a secret? Ambassador
-Spock has gone to Romulus and you are going after him.
-PICARD: Captain, your orders are to take us to a set of co-ordinates
-near Romulus and to bring us back, and that is all I am prepared to
-discuss.
-K'VADA: If we are discovered by the Romulans it means death for us all.
-PICARD: I realise that.
-K'VADA: Hechu' ghoS. Very well, Captain. We have set a course for
-Romulus.
+PICARD DATA GUEST6
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Klingon quarters]
 
-K'VADA: It may not be what you're used to on a
-Starfleet ship.
-PICARD: Quite nice. Thank you.
-DATA: Captain K'Vada, is this the Captain's quarters, or my own?
-K'VADA: Both. We have limited space. We are a military ship, not a
-pleasure craft.
-PICARD: Of course. This will be fine.
-K'VADA: You'll sleep Klingon style. We do not soften our bodies by
-putting down a pad.
-PICARD: Good. I prefer it that way.
-K'VADA: You'll take your meals with us but we do not serve Federation
-food.
-PICARD: I've been looking forward gagh. Haven't had it for quite a
-while. Very fresh.
-KLINGON [OC]: MeH HoD.
-K'VADA: Jatlh! 
-KLINGON [OC]: MeHmaH ghoS. 
-K'VADA: So'wl'chu'. Well, Captain, we're at the border of the Neutral
-Zone. You mean to do this, do you?
-PICARD: Yes. I do.
-
-First Officer's log, stardate 45240.6. The
-Enterprise is nearing Qualor Two, home of a Federation surplus depot
-operated
-by the Zakdorn. We hope to find out how the salvaged deflector array
-ended up in the hands of the Ferengi.
+DATA: These quarters were obviously intended for
+one crewmember, sir. There is but a single sleeping space.
+PICARD: I'm sure the Klingons found it amusing to put us in here
+together.
+DATA: Since I do not require sleep, I propose you take the shelf, sir.
+I am content to stand.
+PICARD: Very well, Mister Data. Thank you.
+(Picard lies down on the metal shelf with a bulkhead only just above
+his head) 
+DATA: Are you comfortable, sir?
+PICARD: I suppose so.
+DATA: Good night, Captain. Sleep well, sir.
+PICARD: Thank you.
+PICARD: What are you doing?
+DATA: Sir? Was I making noise, sir?
+PICARD: No, not exactly 
+DATA: I was processing all of the information we have accumulated on
+Romulan society. I am preparing for the task of impersonating a Romulan.
+PICARD: I see.
+DATA: Would you like me to discontinue, sir?
+PICARD: No. Please go on.
+PICARD: What are you looking at?
+DATA: I am not looking at anything, sir. I am continuing to organise my
+files.
+PICARD: But you're looking at me.
+DATA: I am sorry if I was disturbing you, sir. I will not look in your
+direction.
+(Data turns around, Picard gives up and gets up) 
+DATA: Do you not wish to sleep, sir?
+PICARD: I don't think so, Mister Data. Let's go on with the files. 
+DATA: I would be happy to. I have been studying the Krocton segment, as
+you asked, and have selected an appropriate site for our transport. 
+K'VADA [OC]: Captain K'Vada to Picard. Please come to the bridge.
 

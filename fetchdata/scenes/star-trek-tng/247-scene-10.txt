@@ -1,66 +1,69 @@
-JAYA RIKER CRUSHER MAVEK
+GUEST6 RIKER GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Asylum common area]
+[Turbolift]
 
-(the inmates are doing things that the mentally
-disturbed are assumed to do - clay modelling, painting etc.) 
-MAVEK: I'll be back with your lunch. 
-(a female inmate sits opposite Riker) 
-JAYA: I hear you're a Starfleet officer. I'm Commander Bloom from the
-Yorktown. There are at least a dozen of us here, maybe more. We were
-kidnapped, brought here against our will. Sanders was on the Yosemite.
-They did something to his mind. I think they're trying to get
-neurochemicals from our brains. Stafko was with me on the Yorktown. I
-don't know what they did to him. We're going to get out of here. I've
-made a communicator. 
-RIKER: You have? 
-JAYA: Yes. There are three starships in orbit. They're going to beam us
-out of here any day now. I'll tell them to get you out, too. (into
-spoon) Lieutenant Bloom to Yorktown. Come in, Yorktown. I've made
-contact with another officer. 
-MAVEK: Talking to your Starship again, Jaya? 
-JAYA: No. Don't let them tell you you're crazy. 
-(she leaves the table) 
-MAVEK: You know you're not supposed to take utensils from the common
-area. 
-(Jaya gives him the spoon) 
-MAVEK: You're welcome to try. 
-RIKER: I'm not that far gone, am I? 
-MAVEK: Of course you are. 
-RIKER: Your name is Mavek. 
-MAVEK: That's right. Not bad for a crazy man. 
-RIKER: I am beginning to remember certain things. Why am I here? 
-MAVEK: I remember when they brought you in. You were struggling,
-screaming. We could barely hold you down. In fact, just getting the
-blood off your hands took over an hour. 
-RIKER: Blood? 
-MAVEK: On your hands, clothes. You didn't just kill that man, you
-mutilated him. 
-RIKER: What are you talking about? I didn't kill anybody. 
-MAVEK: I'm afraid you did. You stabbed him. They found you near the
-body, the knife in your hand. 
-RIKER: No. It's not true. 
-MAVEK: Yes it is. And if you get out of here, you're going to stand
-trial. 
-RIKER: You're lying! 
-MAVEK: I imagine the punishment will be quite severe, considering you
-stabbed him nine times. 
-RIKER: No! 
-(and he tries to strangle the attendant, but is dragged off and
-injected with something) 
+(the doors open onto the asylum corridor) 
+RIKER: It's not real. It's not real. 
+(he closes his eyes and when he opens them again)
+
+[Corridor]
+
+(he walks round a corner and meets) 
+GUEST6: Don't let them tell you you're crazy. 
+(Riker runs the other way and dashes into )
+
 [Riker's quarters]
 
-(and wakes up with a start in his own bed) 
-(Later, Riker is getting made up for the play) 
-RIKER: I was there, in Ward forty seven, just like in the play.
-Everyone thought that I was insane, that I'd actually killed someone.
-But it was all real. 
-CRUSHER: Deanna mentioned that you went to bed early because you were
-feeling a little anxious about the play, but I had no idea. You said
-that in your dream, we performed the play. How'd it go? 
-RIKER: It was a smash. We got a standing ovation. 
-CRUSHER: Let's hope it goes that well tonight. Well, we have got one
-hour before curtain. How are you feeling? 
-RIKER: I feel like an actor. 
-CRUSHER: Well, you're certainly beginning to look the part.
+(the door that shuts behind him is the asylum cell
+door)
+
+[Asylum cell]
+
+RIKER: No! Let me out of here! Let me out of here!
+Help me! (quiet) Help me. 
+[Asylum common area]
+
+RIKER: I need help. I don't want to be at the mercy
+of these hallucinations any more. 
+GUEST4: So you've accepted you're not from a starship? That it's all a
+delusion? 
+RIKER: All I know is when I go back to the ship, reality breaks apart.
+Nothing makes sense. And then when it's over, it fades away like a
+dream. But when I'm in the hospital, everything here seems real and I
+remember everything that happens here. 
+GUEST4: And what about how you got here? 
+RIKER: Maybe I did kill someone. I don't know. But I want to know how. 
+GUEST4: I'm glad to hear you say that, because I just had a long talk
+with the hospital Administrator. He told me there are certain legal
+questions that have to be resolved relatively soon. 
+RIKER: Meaning? 
+GUEST4: Meaning we can't keep you here much longer. We're the only
+mental health facility on Tilonus Four. We have many people who need
+our help. I don't want to put any undue stress on you but we have to
+settle this case one way or another within the next few days. 
+RIKER: What does that mean? 
+GUEST4: You're facing a choice. We can try to help you remember what
+happened using Reflection therapy. If it's successful, you would be fit
+to stand trial. 
+RIKER: Reflection therapy? 
+GUEST4: It's a way for you to interact with the various facets of your
+personality. We scan the regions of your brain that control emotions
+and memory, and then project them holographically. 
+RIKER: And what is the second option? 
+GUEST4: A complete synaptic reconstruction of your cerebral cortex. 
+RIKER: Surgery. 
+GUEST4: We would neutralise the synaptic pathways responsible for your
+mental instability. 
+RIKER: It doesn't sound like you care for that option. 
+GUEST4: I don't. The procedure is irreversible. You'd be left with a
+completely altered personality. The person you are now would cease to
+exist. 
+RIKER: Option one is beginning to sound better. 
+GUEST4: I agree. 
+RIKER: Reflection therapy, then. When do we begin? 
+GUEST4: This afternoon, if you're ready. I want you to understand that
+this isn't going to be easy. You'll be interacting with aspects of your
+psyche you've never dealt with before, and you may be disturbed by what
+they have to say.
 

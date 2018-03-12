@@ -1,64 +1,58 @@
-RIKER LAFORGE WORF PICARD WESLEY DATA
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
+PICARD [OC]: Engineering. 
 LAFORGE: La Forge. 
-PICARD [OC]: What progress on the matter-antimatter scan? 
-LAFORGE: Everything continues to check out. I'm starting an analysis on
-the magnetic coils. 
+PICARD [OC]: Lieutenant 
 [Bridge]
 
-PICARD: When the Yamato was probed, where was she? 
-DATA: In orbit around a planet at coordinates two two seven mark three
-five nine, sir. 
-PICARD: ETA at warp factor eight? 
-DATA: Twelve hours sixteen minutes, sir. 
-WORF: Sir, that would put us substantially close to the Romulan side of
-the Neutral Zone. 
-PICARD: That can't be helped. Ensign, lay in a course. Warp factor
-eight. 
-WESLEY: Aye, sir. 
-PICARD: We're going to assume the Yamato's mission. 
-RIKER: And risk a war? 
-PICARD: Perhaps prevent one.
+PICARD: Are you making any progress toward solving
+our problems? 
+LAFORGE: Solving them, no sir, but I can eliminate one worry. It is not
+a design flaw. 
+[Engineering]
 
-[Ready room]
+LAFORGE: I've been reviewing the Yamato's log, and
+I think maybe that alien probe had something to do with her problems. 
+PICARD [OC]: How? 
+LAFORGE: I need to see the thing. 
+[Bridge]
 
-PICARD: Come. 
-WESLEY: Sir, may I speak with you for a minute? 
-PICARD: Yes, of course. Well, what is it, Wesley? 
-WESLEY: It's about the Iconians, sir. I was told they were just a myth.
+PICARD: If it was the probe, that explains the
+Yamato. But how do you account for the difficulties the Enterprise is
+experiencing? 
+[Engineering]
 
-PICARD: China was thought to be only a myth until Marco Polo travelled
-there. No, the Iconians were certainly real. Sit down. We know that
-three systems within this sector had a number of cultural similarities.
-Similarities which could only be explained by there being a single
-unifying influence. 
-WESLEY: So they colonised those worlds? 
-PICARD: Probably conquered. 
-WESLEY: You mean they were warlike? 
-PICARD: Perhaps. Ancient texts did speak of 'Demons of Air and
-Darkness'. 
-WESLEY: Air and darkness? 
-PICARD: Legend has it that they travelled without the benefit of
-spaceships, merely appearing out of thin air on distant planets. 
-WESLEY: Sounds like magic. 
-PICARD: Well, we would appear magical to Stone Age people. 
-WESLEY: How did you find all this out? 
-PICARD: Archaeology has been a hobby since Academy days. But why don't
-we talk about what really brought you here? 
-WESLEY: It's the Yamato, Captain. I can't stop thinking about her. All
-those people dead. I don't know how you and Commander Riker and Geordi,
-how you handle it so easily. 
-PICARD: Easily? Oh no, not easily. We handle it because we're trained
-to, as you will be. Tea, Earl Grey, hot. But if the time ever comes
-when the death of a single individual fails to move us (a pot plant
-appears in the replicator) 
-WESLEY: Didn't you order tea, sir? 
-PICARD: Now that should not have happened.
+LAFORGE: I can't. 
+PICARD [OC]: Lieutenant, Are our problems likely to attain the
+seriousness of those on the Yamato? 
+LAFORGE: If you're asking for speculation, I'd say yes, sir, they are.
+I need time. 
+[Bridge]
 
-Captain's log, supplemental. As happened with our
-sister ship, the Enterprise is being to experience a series of system
-failures. So far they are random, but I fear they could be early
-symptoms of what happened to the Yamato.
-
+PICARD: Mister La Forge, time is the one thing
+which we do not have in abundance. 
+(Enterprise arrives at a brown and battered planet) 
+PICARD: Analysis, Mister Data. 
+DATA: Scanning, sir. 
+PICARD: Well, Mister Data? 
+DATA: No life-form readings, sir. 
+WORF: All major cities have been heavily damaged, and the pattern of
+destruction is that consistent with large-scale orbital bombardment. 
+PICARD: How long ago? 
+DATA: Approximately two hundred thousand years, sir. 
+WORF: There is an energy source in the mountains of the smaller
+continent. 
+PICARD: Magnify. 
+RIKER: Is that Iconia? 
+PICARD: Captain Varley died believing that it was. 
+(There's a little flash from the cross shape inside the crater on the
+surface) 
+RIKER: Did you see that? 
+WORF: Captain. Projectile launched from the planet's surface. 
+DATA: Its size and composition match the probe which scanned the
+Yamato, sir. 
+PICARD: Shields up. Prepare a tractor beam. Mister La Forge, I'm going
+to assist you in your research. A probe has been launched from Iconia. 

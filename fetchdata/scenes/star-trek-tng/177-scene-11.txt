@@ -1,31 +1,128 @@
-RIKER LAFORGE WORF PICARD WESLEY COMPUTER DATA
-
-[Engineering]
-
-LAFORGE: The separation sequence has been aborted,
-Captain. 
-PICARD: Computer, recognise Jean-Luc Picard, Alpha Two priority, and
-re-establish separation procedure immediately. 
-COMPUTER: Orders regarding command functions are no longer accepted
-from your present location. 
-PICARD: And just what location are they accepted from? 
-COMPUTER: Interface terminals on main Bridge only. 
-WESLEY: You're the only one who has clearance to localise command
-functions. 
-PICARD: It seems Commander Data has it them as well. 
-[Jefferies tube]
-
-(Riker is up the ladder, Worf at the bottom) 
-WORF: The isolinear subprocessor extends three point five metres. 
-RIKER: I've got a clear path to panel J14 baker. What's that going to
-do for us? 
-WORF: J14 baker backs onto science station two, Commander. 
-RIKER: Have they reinverted the environmental control sequencer? 
-WORF: Yes, sir. Life support has been re-established. 
-RIKER: Then you and Casey get up here. Let's get to it.
+RIKER LAFORGE WORF PICARD COMPUTER LORE GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Computer, configure a perimeter field charge,
-sections Nine K through Twelve T.
+WORF: Captain, we are in. 
+PICARD [OC]: We're on our way, Lieutenant. 
+WORF: Computer, restore tactical station. 
+COMPUTER: Deactivation of command function overrides requires Alpha Two
+clearance.
 
+[Turbolift]
+
+RIKER: Beverly thinks its going to be tight. Let's
+hope he didn't take us too far off course. 
+PICARD: Let's hope.
+
+[Bridge]
+
+WORF: It won't answer to my clearance, sir. 
+PICARD: Computer, this is Captain Picard. Return all command functions
+to the stations. 
+COMPUTER: Alpha Two clearance recognised. Please enter security code. 
+PICARD: Security code? 
+LAFORGE: Data! I was afraid of something like this. 
+WORF: Sensors are operative. 
+RIKER: Well, at least that's something. What have you got? 
+WORF: No fix on Data, but I am picking up a single life form on the
+surface, sir. It appears human. 
+PICARD: That's a human that has the answers to a lot of questions. 
+WORF: Something else. 
+PICARD: What is it? 
+WORF: A small vessel, entering orbit. I detect no lifeforms aboard,
+sir.
+
+[Soong's lab]
+
+(Data is rubbing his stomach while patting his
+head) 
+GUEST1: Good. Good, good, good. Keep it up. Keep it up. Old Tom Handy
+swore you'd never master that. Data, Data, whistle for me. 
+(Data does his bad, off-key 'Pop goes the Weasel') 
+GUEST1: Oh, well. All right, that's enough. Sit down. (he inspects a
+plant) Beautiful, beautiful. You know, I've been able to keep track of
+you from time to time. You've become something of a celebrity in
+cybernetic circles. Data, why Starfleet? 
+DATA: Sir? 
+GUEST1: I gave you the ability to choose whatever you wanted. To do
+whatever you wanted. Why Starfleet? 
+DATA: It was Starfleet officers who rescued me. 
+GUEST1: Ah. So you decided to emulate your emancipators, huh? How
+disappointing. 
+DATA: What choice of vocation would have met with your approval, sir? 
+GUEST1: Well, I often hoped you might become a scientist. Perhaps even a
+cyberneticist. 
+DATA: To follow in your footsteps, as it were? 
+GUEST1: I see nothing wrong with that. 
+DATA: May I ask you a question, sir? 
+GUEST1: Certainly. Anything you like. 
+DATA: Why did you create me? 
+GUEST1: Why does a painter paint? Why does a boxer box? You know what
+Michelangelo used to say? That the sculptures he made were already
+there before he started, hidden in the marble. All he needed to do was
+remove the unneeded bits. It wasn't quite that easy with you, Data. But
+the need to do it, my need to do it, was no different than
+Michelangelo's need. Now let me ask you a question. Why are humans so
+fascinated by old things? 
+DATA: Old things? 
+GUEST1: Old buildings, churches, walls, ancient things, antique things,
+tables, clocks, knick knacks. Why? Why, why? 
+DATA: There are many possible explanations. 
+GUEST1: If you brought a Noophian to Earth, he'd probably look around
+and say, tear that old village down, it's hanging in rags. Build me
+something new, something efficient. But to a human, that old house,
+that ancient wall, it's a shrine, something to be cherished. Again, I
+ask you, why? 
+DATA: Perhaps, for humans, old things represent a tie to the past. 
+GUEST1: What's so important about the past? People got sick, they needed
+money. Why tie yourself to that? 
+DATA: Humans are mortal. They seem to need a sense of continuity. 
+GUEST1: Ah hah!! Why? 
+DATA: To give their lives meaning. A sense of purpose. 
+GUEST1: And this continuity, does it only run one way, backwards, to the
+past? 
+DATA: I suppose it is a factor in the human desire to procreate. 
+GUEST1: So you believe that having children gives humans a sense of
+immortality, do you? 
+DATA: It is a reasonable explanation to your query, sir. 
+GUEST1: And to yours as well, Data. 
+(The door opens and someone else enters) 
+DATA: Lore! 
+GUEST1: Looks like we have ourselves a family reunion. 
+(A little later, Soong is performing the same dentistry on Lore that he
+did on Data) 
+GUEST1: Open. 
+DATA: I implore you, do not reactivate him. 
+GUEST1: Don't be ridiculous, Data. Lore is far from the maniacal android
+you have made him out to be. In any case, he'll obey me. He always did.
+
+DATA: But he admitted to an alliance with the Crystal Entity. To gain
+its favour, he betrayed the colonists and would have betrayed the
+Enterprise as well had I not 
+GUEST1: Shh! One more. That should do it. 
+(Lore wakes, sees Data, and makes a lunge for him. Soong intervenes) 
+LORE: So, you're still alive. I'm surprised you woke me. Why didn't you
+just take me apart again and be done with it? That is why the two of
+you captured me,
+isn't it? 
+GUEST1: Data had nothing to do with this, Lore. And nobody captured you.
+Not exactly, that is. You see, both of your brains contain a simple
+homing device. Data's was activated purposefully. Yours, well, until
+you walked through that door I had no idea you'd ever been reassembled.
+
+LORE: No thanks to you. But thanks to you, dear brother, I spent nearly
+two years drifting in space. If it hadn't been for a fortunate
+encounter with a Pakled trade ship, I'd still be out there. 
+DATA: I had no alternative. You would have destroyed the Enterprise. 
+LORE: Well, since I appear to be an uninvited guest at your little
+party, I'll leave you with your beloved son and be on my way. 
+GUEST1: Lore, wait. There are questions I can answer. You'll have no
+chance to ask them later. You see, I'm dying. 
+(That stops Lore in his tracks) 
+GUEST1: Yes, I'm dying. 
+DATA: Dying from what, sir? 
+LORE: Wait a minute. Wait a minute. What do you mean, you're dying? You
+look fine. You're not that old. You look fine. What is this? Some kind
+of a trick? 
+GUEST1: I wish it were. 

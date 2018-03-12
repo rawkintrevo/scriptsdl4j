@@ -1,72 +1,39 @@
-TROI OBRIEN LAFORGE PICARD RIKER BARCLAY
+RIKER LAFORGE PICARD WESLEY COMPUTER DATA GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Engineering]
 
-LAFORGE: On my way, Chief. Listen, Reg. I really do
-want you to talk to Counselor Troi. 
-BARCLAY: Troi? No, no, no, no, no. I couldn't. 
-LAFORGE: I mean it. As your friend and as your commanding officer.
+GUEST5: Route primary coupling through starboard
+transfer conduit. 
+WESLEY: Routing. Ready for engine core injection. 
+COMPUTER: At current acceleration, structural failure will occur in
+forty five seconds.
 
-[Transporter room]
+[Bridge]
 
-O'BRIEN: I was synchronising the phase transition
-coils, I didn't do anything I haven't done a hundred times before. The
-test object is made of pure duranium. 
-LAFORGE: Seems normal enough to me. 
-O'BRIEN: Watch this. 
-(He beams the test cylinder from one side of the pads to the other and
-back again. It ends up in two pieces, and steaming gently) 
-LAFORGE: I'm glad I don't have anywhere to go.
+DATA: Injector conduit temperature minus one
+hundred degrees Celsius. 
+PICARD: Transfer injector control to manual. 
+DATA: Ready, sir. Temperature now minus one hundred ninety degrees.
+Minus two hundred degrees, sir. 
+RIKER: Injector status? 
+DATA: Matter injector is online. Antimatter injector still locked. 
+COMPUTER: At current acceleration, structural failure will occur in
+thirty seconds. 
+PICARD: Cycle power through ventral relay. 
+DATA: Antimatter injector online. Reducing flow capacity. Commencing
+warp engine shut down, sir. 
+PICARD: Stand down from red alert. 
+RIKER: Nice work, Geordi.
 
-Chief Engineer's log, stardate 43808.2. A systems
-analysis of transporter room three has yielded no suggestion of a cause
-for the latest malfunction aboard the Enterprise.
+[Cargo bay]
 
-[Transporter room]
-
-PICARD: Is this part of the same pattern? 
-LAFORGE: We don't know, sir. And we don't know why only transporter
-room three is affected. None of the other transporter rooms are
-malfunctioning. 
-RIKER: Yet. 
-PICARD: We reach Nahmi Four in twenty two hours. We'll want all
-transporters operational by then. I want a level one diagnostic across
-the board. 
-RIKER: Advise Mister Barclay to join us on the Bridge immediately. 
-LAFORGE: Could we make that fourteen hundred hours, sir? I've got him
-working on something. 
-RIKER: Fourteen hundred hours. Mister O'Brien, no maintenance on the
-transporters until further notice. 
-O'BRIEN: Aye, sir.
-
-[Troi's office]
-
-TROI: I know this is difficult for you. Is there
-anything I can do to make you more comfortable? 
-BARCLAY: No. 
-TROI: Have you ever been with a counsellor before? 
-BARCLAY: Yes. No. 
-TROI: Which one? 
-BARCLAY: Yes, but she, it wasn't. It wasn't really a counsellor. 
-TROI: Most people find a counsellor intimidating at first. It's okay if
-you feel that way toward me. 
-BARCLAY: Not at all. 
-TROI: Good. Now, lean back, close your eyes. 
-BARCLAY: Why? 
-TROI: I want to make you more comfortable. 
-BARCLAY: You do? 
-TROI: Yes. 
-(She dims the lights slightly and sits next to him) 
-TROI: It's okay. Close your eyes. 
-BARCLAY: What are you going to do? 
-TROI: Just listen to the sound of my voice. Take a slow deep breath in
-through your nose and let it out through your mouth just as slowly.
-That's better, isn't it? 
-BARCLAY: Much better. Oh, yes. Oh, yes, that's, that's much better.
-That is extremely helpful. Thank you for your time. 
-TROI: But 
-BARCLAY: Really. That's very helpful. In through the nose, out through
-the mouth. I'm going to practise that and I'll let you know. Thank you
-again. 
-(And he beats a rapid retreat)
+LAFORGE: Mister Barclay and I thank you, sir. 
+RIKER [OC]: Acknowledged. 
+LAFORGE: The ship has been seriously contaminated with invidium, sir.
+Recommend we set course for Starbase one two one for a
+complete systems and bio-decontamination. 
+PICARD [OC]: Understood. Picard out. 
+LAFORGE: Glad you were with us out here in the real world today, Mister
+Barclay.
 

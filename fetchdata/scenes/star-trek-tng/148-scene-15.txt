@@ -1,106 +1,41 @@
-PULASKI PICARD RIKER DATA LAFORGE
-
-[Transporter room]
-
-DATA: I must reiterate, it would be better if I
-went alone. 
-LAFORGE: Don't like my company? 
-DATA: Your company is not at issue. Your vulnerability to the
-microorganism is. 
-LAFORGE: I'll watch where I step. Besides, how do we know that this bug
-doesn't like androids more than it likes humans? 
-DATA: Possible, but highly unlikely. In any event, why risk both of us?
-
-LAFORGE: Because I know exactly where Commander Riker was when it
-happened. 
-DATA: Mister O'Brien, energise. 
-[Steamy mangrove swamp]
-
-LAFORGE: He was right over here. 
-DATA: I am detecting no animal life within fifty kilometres. However, I
-am reading extensive animal remains, mostly fossilised. 
-LAFORGE: A graveyard? 
-DATA: I do not know. 
-LAFORGE: Data, that a look at this. 
-(an external root) 
-DATA: The structure is rhizomatous. 
-LAFORGE: Careful. 
-DATA: I am always careful. 
-DATA: It appears to be dead. 
-LAFORGE: I'm not so sure. I can see thermal variations. Let it go for a
-second, Data. Let's try something. Perhaps it likes humans more than
-androids. 
-DATA: If you are correct, you are placing yourself in grave danger. 
-LAFORGE: I'm counting on those great android reflexes of yours. 
-(Even as he spoke, the root moved towards Geordi, and Data grabbed it) 
-LAFORGE: That must be what we're looking for. 
-DATA: I would tend to agree. 
-(Geordi phasers the wicked thorn from the side of the root. This seems
-to hurt the plant) 
-LAFORGE: Stand by, O'Brien. Got it. Energise!
-
-[Transporter room]
-
-LAFORGE: Thanks, O'Brien. Another minute, and we'd
-have been fossils ourselves. 
-DATA: Not precisely, Geordi. True fossilisation requires several
-millennia. 
-LAFORGE: Here's your sample, Captain. 
-PICARD: Get it to Sickbay right away. 
-(La Forge leaves) 
-PICARD: Report. 
-DATA: Captain, Commander Riker's injury was not accidental. Certain
-vines on the planet evidently seek out warm-blooded beings and
-deliberately infect them. 
-PICARD: To what end? 
-DATA: Unknown, sir. It is conceivable there is a symbiotic relationship
-involved. 
-PICARD: Go on. 
-DATA: There are numerous animal remains in the area, leading me to
-hypothesize that the vines could be predatory. 
-PICARD: Vines infect animals in order to kill them? 
-DATA: It is possible. For Commander Riker's sake, I hope my hypothesis
-is in error. 
-PICARD: Unfortunately, Mister Data, your hypotheses rarely are.
-
-[Pulaski's office] 
-PULASKI: All negative. 
-PICARD: Is there nothing that will cure this infection?
-PULASKI: This microorganism is very mysterious. I can't even figure out
-what's keeping it alive. 
-PICARD: Or how to kill it. 
-PULASKI: Oh, I can kill it but not without destroying the nerves it's
-inhabiting. 
-PICARD: I know you're doing your best, Doctor. 
-PULASKI: My best may not be good enough.
+TROI PICARD RIKER TJON PULASKI ARMUS DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
-PICARD: Comfortable? 
-RIKER: Why wouldn't I be comfortable? They're waiting on me hand and
-foot. I hope that they don't find out that I'm faking it. 
-PICARD: I wish you were faking it. I've seen the thorn. 
-RIKER: Yes, Doctor showed it to me, too. Rather harmless-looking thing,
-I thought. 
-PICARD: And deadly. I'm sorry. 
-RIKER: Well, these things happen. 
-PICARD: When least expected. 
-RIKER: I'm surprised they don't happen more often. After all, we are
-exploring the unknown. 
-PICARD: And the unknown can be benign or malevolent. 
-RIKER: Captain, one of the things I've learned anything on these
-voyages, on this ship, and from you, is that most life forms act out of
-an instinct for survival, not out of malice. 
-PICARD: It's an important lesson, and I admire your lack of resentment,
-Number One. 
-RIKER: If you drop a hammer on your foot, it's hardly useful to get mad
-at the hammer.
+TROI: He's getting weaker, isn't he? 
+PULASKI: Respiration shallow, heartbeat extremely irregular, but we
+can't delay any longer.
 
-[Pulaski's office]
+[Symbiosis - Observation lounge]
 
-PICARD: Anything? 
-PULASKI: Not yet. 
-PICARD: What can I do? 
-PULASKI: You can get out of my hair. 
-PICARD: Aye aye, Doctor.
+(T'Jon uses his electric power on Riker) 
+T'JON: You will take us to our planet and leave us there with our
+medicine or this person dies. Don't you see I have no choice? We were
+sent to bring the felicium back. The suffering on my planet is too
+great. People are dying. It doesn't matter whether we're entitled to it
+or not. We must have it. 
+PICARD: Let him go. 
+T'JON: You will take us there now, or give us a shuttle. But we must
+have the medicine. If you refuse, this person will die. 
+PICARD: I will not be coerced. 
+T'JON: I will do it. I will kill him. 
+
+[The Last Outpost]
+
+(The Ferengis are watching them. Little crouching
+men with whips in their hands) 
+RIKER: Who are you? 
+(The Ferengi let fly energy bolts from their whips, knocking the three
+men out. Actually, it takes two jolts to knock out Riker)
+
+[Skin of Evil]
+
+(Riker is grabbed by an invisible force and dragged
+by the feet to the slick) 
+RIKER: Help! Data, something's got me! 
+ARMUS: Touch him and he dies. 
+RIKER: No! No, don't! 
+(Riker disappears into the slick) 
+DATA: Enterprise?
 

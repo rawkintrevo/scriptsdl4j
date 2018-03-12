@@ -1,63 +1,50 @@
-TROI WORF PICARD RIKER Q WESLEY COMPUTER DATA
+RIKER LAFORGE WORF PICARD Q WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+PICARD [OC]: For as long as we can hold it. 
+LAFORGE: Yes, sir. We are passing warp eight point five.
 
 [Bridge]
 
-TROI: Where's the Captain?
-RIKER: In his quarters? 
-TROI: Captain, this is Counsellor Troi.
-RIKER: Computer locate Captain Picard.
-COMPUTER: The Captain is not on the ship.
-WORF: Commander, there is a shuttle missing from bay two.
-RIKER: All stop.
-WESLEY: Answering all stop, sir.
-WORF: I have hailed the shuttle on all frequencies. No response.
-DATA: Sensors indicate no shuttle or other ships in this sector.
-RIKER: We think we can assume the Captain is aboard that shuttle.
-WESLEY: How could he get to the shuttlebay and leave the Enterprise
-without us knowing?
-That's not possible.
-RIKER: Take it easy, Wes. We're going to find him. I want to begin a
-methodical search. Worf, set sensors on maximum scan. Data, use our
-present location as a centre. Plot a search pattern from these
-coordinates to cover the most area in the least time.
-DATA: Search pattern has been input, sir.
-RIKER: Engage, Mister Crusher.
+LAFORGE [OC]: Eight point eight. Warp nine.
+RIKER: Arm the photon torpedoes. See if we can slow them down.
+WORF: Torpedoes armed.
+PICARD: Fire.
+(Two nice big fireballs on the cube) 
+WORF: They had no effect.
+LAFORGE [OC]: Bridge, this is Engineering. We are now at warp nine
+point six five. 
+WORF: The Borg are still gaining.
+Q: They will follow this ship until you exhaust your fuel. They will
+wear down your defences. Then you will be theirs. Admit it, Picard.
+You're out of your league. You should have stayed where you belonged.
 
-First officer's log, stardate 42761.3. We have not
-been able to determine why, or how, Captain Picard left the Enterprise.
-We can't even be certain he is in the missing shuttle, although that is
-the assumption on which we are
-proceeding. For the last six hours, we have been searching without
-success.
+Captain's log supplemental. We are unable to
+maintain the gap between the Enterprise and the Borg ship.
 
 [Bridge]
 
-DATA: We have covered the area in a spherical
-pattern which a vessel without warp drive could traverse in the time
-allotted.
-RIKER: Widen the area. 
- [Shuttlecraft]
-
-(Q is doing his Virgil Hilts impression with a
-baseball, glove and bulkhead) 
-Q: Do we stay out here years? Decades? I am ageless, Picard. You are
-not.
-PICARD: The Enterprise will continue with Riker as Captain. 
-Q: You are an impossibly stubborn human. 
-PICARD: Return me to my ship! 
-Q: If I return you to your ship, will you agree to give my request a
-full hearing?
-
-[Ten forward]
-
-(a seamless transition to an empty room) 
-Q: You're right Picard. This is the proper venue for our discussion. 
-(Guinan pops up from behind the bar) 
-
-[Bridge]
-
-WORF: Commander. My status board indicates that the
-shuttle is back in bay two.
-RIKER: Computer, locate Captain Picard.
-COMPUTER: Captain Picard is in Ten Forward.
+LAFORGE [OC]: Engineering to Bridge. 
+PICARD: Go ahead.
+LAFORGE [OC]: You've got all we can give you. 
+PICARD: I understand, Mister La Forge.
+WORF: Captain, the enemy vessel is firing on us. There are no reports
+of any damage to the Enterprise.
+DATA: Captain, the target was not the ship. The weapon was designed to
+drain the shields.
+WORF: Confirmed. Shield effectiveness has been reduced twelve percent.
+WESLEY: Captain, the Borg ship is closing.
+WORF: They're firing again. Shields have been reduced forty one
+percent. Another hit and we will be defenceless.
+RIKER: Arm the photon torpedoes.
+WORF: Torpedoes armed.
+PICARD: Fire the photons.
+WORF: The Borg ship was not damaged.
+Q: You can't outrun them. You can't destroy them. If you damage them,
+the essence of what they are remains. They regenerate and keep coming.
+Eventually you will weaken, your reserves will be gone. They are
+relentless.
+WORF: The Borg ship is firing. We have lost shields again.
 

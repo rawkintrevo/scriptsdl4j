@@ -1,71 +1,59 @@
-PULASKI PICARD DATA WORF
+RIKER WORF PICARD TROI PULASKI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Pulaski's office]
 
-WORF: I am fine. 
-PULASKI: You're not fine. You fainted. 
-WORF: I did not faint. Klingons do not faint. 
-PULASKI: Excuse me, I'll rephrase. This Klingon suffered a dramatic
-drop in blood pressure, his blood glucose level dropped, there was
-deficient blood flow resulting from circulatory failure. In other
-words, he curled up his toes and laid unconscious on the floor. 
-WORF: Doctor, there is no need to insult me. 
-PULASKI: Worf, I am worried. Now, something is wrong. Klingons don't
-faint. Forgive me. I just can't think of another word that applies.
-You're sick. 
-WORF: Klingons do not give in to illness. 
-PULASKI: Just stay right where you are. I have to check something with
-the computer. Lieutenant, you have rop'ngor. 
-WORF: But that is a childhood ailment! 
-PULASKI: Yes. 
-WORF: How shall I live down the humiliation? 
-PULASKI: Worf, you can't help. 
-WORF: Still, for a warrior to find himself in such a situation. 
-PULASKI: So you've got the Klingon version of the measles. 
-WORF: How would Commander Riker feel if he had the measles. 
-PULASKI: Pretty silly. 
-PICARD [OC]: Doctor Pulaski, how is Lieutenant Worf? 
-PULASKI: He's in no danger. Worf was just observing a Klingon ritual
-involving fasting, and he didn't take into account that you have to
-decrease your physical activity as you decrease your caloric intake.
-Pulaski out. 
-WORF: Thank you. I am in your debt. 
-[Ready room]
+(Worf is carrying a tray) 
+WORF: Doctor. I wished to thank you for protecting my 
+PULASKI: Your secret is safe with me. Worf, I'm honoured. No one has
+ever performed the Klingon tea ceremony for me. 
+(She places some stones and a flower in the cups) 
+PULASKI: There, that should do it. 
+WORF: You know the ceremony? 
+PULASKI: I understand the externals, not the mysteries. I'm not a
+Klingon. 
+WORF: You must not drink the tea. It is deadly to humans. 
+PULASKI: And none too good for Klingons. 
+WORF: It is a test of bravery, of one's ability to look at the face of
+mortality. It is also a reminder that death is an experience best
+shared, like the tea. 
+PULASKI: Worf, you're a romantic. 
+WORF: It is among the Klingons that love poetry achieves its fullest
+flower. 
+PULASKI: Hold that thought. 
+(She dashes into Sickbay, returns with a hypo and injects herself) 
+PULASKI: Antidote. If we're going to share, let's share. (they drink)
+Now, quote me a little of that poetry.
 
-PICARD: Come. 
-(Data enters) 
-DATA: Captain, I have been considering the problem of the missing ship.
-Although there is no record of a launch to the Ficus sector, which
-would not be unusual considering the chaos of the early twenty second
-century, someone had to load that ship. 
-PICARD: The manifest. 
-DATA: Yes, sir. 
-PICARD: There it is. SS Mariposa, loaded 27th November, 2123.
-Destination Ficus sector. Captain Walter Granger, commanding. 
-DATA: Mariposa. The Spanish word for butterfly. 
-PICARD: Thank you, Data. 
-DATA: I thought it might be significant, sir. 
-PICARD: It doesn't appear to be, Data. 
-DATA: No, sir. 
-PICARD: You learn a lot about people from their luggage. Two hundred
-and twenty five Yoshimitsu computers, five monitor beacon satellites,
-seven
-hundred cellular commlinks, fifty spinning wheels. 
-DATA: (over Picard) Spinning wheels? Accessing. A device for spinning
-yarn or thread that consists of a large foot or hand driven wheel and
-one spindle. 
-PICARD: Cattle, chickens, pigs. Not DNA, the actual livestock.
-Incredible. Why would anyone carry such an insane mix of cargo? 
-DATA: Spindle, a thin rounded tapering rod 
-PICARD: Data! 
-DATA: Perhaps they were planning for the worst, sir. 
-PICARD: Theorise, Data. Give me some background. 
-DATA: In the early twenty-second century, Earth was recovering from
-World War Three. A major philosopher of the period was Liam Dieghan,
-founder of the Neo-Transcendentalists, who advocated a return to a
-simpler life in which one lived in harmony with nature, and learned
-under her gentle tutelage 
-PICARD: Thank you, Data. But if this was a ship full of utopians, why
-carry all this technological baggage? 
-DATA: I have insufficient information from which to form a cogent
-theory, sir. 
+[Bridge]
+
+PICARD: Initiate sensor sweeps. 
+DATA: Aye, sir. The system's sun has entered a period of severe flare
+activity. 
+RIKER: Now we know what triggered the SOS. 
+DATA: Class M readings from the fifth planet in the system. 
+PICARD: Take us in. 
+WORF: Shields at maximum. 
+DATA: Sensors indicate human life form readings thirty metres below the
+planet's surface. 
+WORF: Hailing on all frequencies. No response so far, but the flares
+may be interfering with communications. 
+DATA: There is no evidence of an advanced communication network. 
+PICARD: They brought a lot of technology. Where is it? 
+WORF: There is no artificial power source on the planet. 
+DATA: The stellar flares are increasing in magnitude and frequency.
+Computer projections indicate they will brush the planet in three point
+six hours. 
+WORF: Evacuation will be difficult. We can lower our shields for
+transport only between the flares. 
+TROI: Captain, these people have been isolated for three hundred years.
+They could be very unsophisticated. The shock of suddenly being
+transported onto a spaceship could frighten them, to say the least. 
+PICARD: Your point is well taken, Counsellor. Number One, you're going
+to have to go down there. 
+RIKER: On my way.
+
+Captain's log, stardate 42827.3. Commander Riker
+has reached the caverns, where he is making preparations to begin the
+evacuation.
+

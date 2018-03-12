@@ -1,104 +1,25 @@
-TROI LAFORGE WORF PICARD RIKER DATA CRUSHER ALLENBY
-
-[Engineering]
-
-LAFORGE: Everything down here seems normal enough,
-sir, but I suggest we take it a bit slower this time.
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Ensign, bring us around ninety degrees to
-starboard. 
-ALLENBY: New course laid in at ninety degrees to starboard. 
-PICARD: One quarter impulse, engage. 
-ALLENBY: Aye, sir. Nothing, Captain. Speed and course are unaffected. 
-PICARD: One half impulse. 
-ALLENBY: No change. 
-PICARD: Full impulse. Rotate heading in five degree increments. 
-ALLENBY: Aye, sir. 
-(the ship shakes) 
-RIKER: La Forge? 
-[Engineering]
-
-LAFORGE: There's nothing wrong down here. The
-engines are fine.
-
-[Bridge]
-
-DATA: Integrity field stress exceeding eighty two
-million kilodynes. Recommend immediate shutdown, sir. 
-PICARD: Make it so, Ensign. 
-ALLENBY: All engines down. We're still being pulled. Same heading, same
-speed.
-
-[Troi's office]
-
-CRUSHER: I got here as quickly as I could. I've got
-a Sickbay filled with headaches. How are you? 
-TROI: Well, when I first called you I was feeling intense pain. Now
-it's gone, but I'm feeling a bit foggy. 
-CRUSHER: I'd like to take you to Sickbay and run an inner nuncial
-series. Can you walk? 
-RIKER [OC]: All senior staff report to the Observation Lounge. 
-CRUSHER: Are you up to that? 
-TROI: I think so. 
-(then she gets a look of horror on her face) 
-CRUSHER: What is it? 
-TROI: Nothing. Nothing, I'm fine.
-
-[Observation lounge]
-
-RIKER: Could it be some sort of tractor beam? 
-DATA: No other ship is indicated. 
-PICARD: Mister Worf, what is your analysis? 
-WORF: Tactical sensor readings are indeterminant. 
-LAFORGE: They don't even give us enough for an educated guess. 
-RIKER: And yet all sensors are operating properly. 
-PICARD: Can there be an intelligence at work here? Counsellor, do you
-sense a lifeform out there? 
-TROI: No, I don't think so. No. There's nothing. Nothing. I sense
-nothing. 
-PICARD: It's alright, Counsellor. Perhaps there's nothing out there to
-sense. 
-DATA: Indeed, there are many races that are not empathically
-detectable. The Breen, the Ferengi, the 
-TROI: No, you don't understand. I don't sense anything. Not out there,
-not in here. All of you, you're all blank to me. 
-[Sickbay]
-
-CRUSHER: No indication of a concussion or a blow to
-the head. Just a pattern of unresponsive neural cells throughout the
-cerebellum and cerebral cortex. 
-TROI: Unresponsive? 
-CRUSHER: There's brain damage. How serious, I can't tell yet. 
-TROI: But I feel perfectly fine otherwise. 
-RIKER: Can you treat it? 
-CRUSHER: I'm not sure. I have to review the database on Betazoid
-neurophysiology. 
-TROI: The Betazoid brain has a remarkable ability to heal itself. This
-condition could just reverse itself time. 
-CRUSHER: It might. But you are half human. That changes the map a
-little. I don't want to offer you any false hopes. 
-TROI: It's just hope, Beverly. Not false hope. 
-RIKER: What would cause something like this? Because it started at the
-same time we encountered the anomaly. 
-CRUSHER: There may be a connection. I don't know. If you were anyone
-else, you know the first thing I'd do? I'd send you to Counsellor Troi.
-
-TROI: Well, then I have an advantage, don't I? I see her quite often. 
-CRUSHER: Deanna, it's no different than one of us suddenly going blind.
-
-TROI: You don't have to tell me, Beverly. I understand the psychology. 
-CRUSHER: You may understand it but you've never had to live with it. 
-TROI: I may be perfectly fine by tomorrow. 
-CRUSHER: And you may not. Now, I'll do my homework. I'll see what I can
-do to regenerate those cells. In the meantime, I want you to talk to
-someone. There are several people on board who have degrees in
-psychology, who are qualified therapists. 
-TROI: Okay, fine, if I need to. Right now, I just want to go back to
-work. 
-RIKER: Deanna. 
-TROI: If there are no medical objections? 
-CRUSHER: No medical objections. 
-TROI: Thank you, Beverly. Will.
-
+DATA: If Counsellor Troi's supposition is correct,
+a replica of the string projected behind the cluster could induce them
+to reverse course, disrupting the graviton wake long enough for us to
+escape. 
+PICARD: How do you simulate a cosmic string? It has the gravitational
+force of a hundred stars. 
+DATA: I do not suggest simulating the gravitational field of the string
+fragment, rather the string's vibration. 
+RIKER: Vibration? We're not talking about a violin, Data. 
+LAFORGE: No, Data's right. The principle is still the same. A cosmic
+string emanates a characteristic set of subspace frequencies as atomic
+particles decay along its event horizon. I could use the ship's
+parabolic dish to amplify and reflect those frequencies back toward the
+cluster. The Enterprise itself would echo the cosmic string. 
+PICARD: How much time do we have, Mister Worf? 
+WORF: Twenty three minutes, sir. 
+PICARD: Make it so. 
+(less than twenty three minutes later) 
+DATA: Frequency-scan detectors engaged. 
+LAFORGE [OC]: Receiving. 

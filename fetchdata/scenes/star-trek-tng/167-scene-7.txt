@@ -1,36 +1,65 @@
-PICARD RIKER TROI WORF
+GUEST3 VASH GUEST4 GUEST0 PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Resort lobby]
 
-(Picard is in casual clothes - brown trousers and
-light blue top, if you really want to know) 
-RIKER: I'll see to it that these bags are beamed directly to your room,
-sir. 
-TROI: You look very handsome, if I might saying so Captain. 
-RIKER: Are you taking all these books? 
-PICARD: I thought I'd take some light reading in case I got bored. 
-RIKER: Ulysses by James Joyce? Ethics, Sophistry and the Alternate
-Universe by Ving Kuda. You call that light reading? 
-PICARD: To each his own, Number One. 
-RIKER: Have I mentioned how imaginative the Risian women are, sir? 
-TROI: Too often, Commander.
+VASH: What did he tell you? I'm sure there wasn't a
+bit of truth to it. 
+GUEST3: And you said you didn't know her. 
+PICARD: I don't. And I don't want to. 
+GUEST3: Return the disc to me and all will be forgiven. 
+VASH: The disc doesn't belong to you, Sovak. It never did. 
+PICARD: It would seem you two have a lot to discuss. If you'll excuse
+me. 
+VASH: Jean-Luc, I'm sorry. Perhaps one day I could explain all this to
+you later. 
+(She slips something into his pocket) 
+PICARD: Perhaps you can. 
+(Picard leaves) 
+GUEST3: I have a proposal I believe you'll find most interesting. 
+VASH: Save your breath. 
+GUEST3: I am willing to pay you your weight in gold in exchange for the
+disc. Is that not a generous offer? 
+(Vash leaves) 
+GUEST3: I must have that woman.
 
-[Corridor]
+[Picard's room]
 
-RIKER: I do have one request, sir. 
-PICARD: You want me to bring you back a souvenir? 
-RIKER: It's called a Horga'hn. I don't think you'll have any trouble
-finding one. 
-PICARD: Consider it done. 
-WORF: Captain, I would feel better if you would allow me to assign a
-security officer to you. We will be out of communication range when we
-leave orbit. 
-PICARD: I really don't think that will be necessary, Mister Worf. Risa
-has a reputation of being a most peaceful planet. 
-WORF: Aye, sir. 
-PICARD: Well, the ship is yours, Number One. 
-TROI: Enjoy your trip, Captain. 
-PICARD: I'll try, Counsellor. 
-(Picard enters the transporter room) 
-RIKER: He's going to have a great time.
+(Picard walks in on the two aliens scanning his
+room) 
+PICARD: What the hell are you doing in my room? 
+GUEST4: We are Vorgons. I am Ajur. This is Boratus. 
+GUEST0: We come from the twenty seventh century. We travelled three
+hundred years into the past to find you. 
+PICARD: All right, let's assume for the moment I believe you, that you
+are indeed from the future. What is it that you want from me? 
+GUEST4: Have you heard of the Tox Uthat? 
+PICARD: What? I'm aware of the legend. It tells of a visitor from the
+future who left behind a mysterious device known as the Tox Uthat. 
+GUEST4: Essentially that story is correct. 
+PICARD: Then the Uthat actually exists? 
+GUEST0: Yes. It was invented by a scientist named Kal Dano in the mid
+twenty seventh century. The Uthat is a quantum phase inhibitor capable
+of halting all nuclear reaction within a star. 
+PICARD: But why bring such a powerful weapon into the past? 
+GUEST0: Criminals attempted to steal the device, so he fled back to
+the twenty second century where he hid it. Ajur and I were the security
+team assigned to retrieve the Uthat.
+PICARD: I gather you were unsuccessful. 
+GUEST0: Yes. When we returned we began to search through the
+historical records for some clue to the Uthat's fate. 
+PICARD: And your search led you to me? 
+GUEST4: We came upon a brief account stating you had discovered an object
+of unknown origin while vacationing on Risa. From its description, a
+crystal cube that fits in the palm of the hand, we surmised it could
+very well be the Tox Uthat. 
+PICARD: I'm sorry to disappoint you, but I haven't found anything,
+including peace, which is the only thing I'm looking for. 
+GUEST0: You will find such a device, Captain. To us, it is already
+part of history. 
+PICARD: And if I do find it, what then? 
+GUEST4: You will give it to us immediately so that we may return with it.
 
+PICARD: Well, the Uthat belongs to your time, not mine. 
+(The aliens touch the sides of their heads, and vanish. Then Picard
+discovers the disc Vash dropped into his pocket) 

@@ -1,46 +1,40 @@
-RIKER LAFORGE CREWMAN PICARD TAURIK WORF OGAWA CRUSHER DATA
+GUEST2 SITO TAURIK LAVELLE OGAWA CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-RIKER: We're holding position in the Argaya System.
-
-PICARD: Anything? 
-WORF: No, sir. I detect no vessels in the vicinity. 
-PICARD: How close to the Cardassian border are we? 
-DATA: Less than five thousand kilometres, sir. 
-WORF: Sir, I am detecting an object five metres in length. It appears
-to be an escape pod. 
-RIKER: They must have been forced to abandon the ship. 
-PICARD: How far inside Cardassian space is it? 
-WORF: Fifty thousand kilometres. 
-PICARD: How the hell are we going to get it out of there? 
-DATA: Sir, the pod's life support system is failing. 
-RIKER: Notify Doctor Crusher. 
-PICARD: Can we get within transporter range without crossing into
-Cardassian territory? 
-DATA: We would need to boost the gain on the confinement beam by at
-least seven percent. 
-PICARD: Mister La Forge?
-
-[Engineering]
-
-LAFORGE: I'm on it, Captain. There, try that. 
-TAURIK: The pod is still too far away. 
-LAFORGE: I'm going to try augmenting the frequency spread. 
-TAURIK: Bio readings indicate that passenger's humanoid. Attempting
-life form identification. 
-LAFORGE: No one told you to do that, Ensign. Let's just get him aboard
-safely. There, that should do it. 
-TAURIK: Confinement beam's at one hundred nine percent of normal. 
-LAFORGE: Transporter room, you should be able to get a lock now. 
-CREWMAN [OC]: Aye, sir. 
 [Sickbay]
 
-PICARD [OC]: Doctor Crusher, are you ready? 
-CRUSHER: Stand by. Alyssa, I'm afraid I'm going to have to ask you to
-leave now. 
-OGAWA: All right, Doctor. 
-(Alyssa leaves) 
-CRUSHER: Transporter room. go ahead. 
-CREWMAN [OC]: Aye, sir.
+CRUSHER: Alyssa, thank you for coming so quickly.
+We have to prepare for surgery. We have a comatose patient with a
+subdural hematoma. 
+OGAWA: Yes, sir. 
+CRUSHER: I want to make it clear that you are not to discuss what you
+see here with anyone. 
+OGAWA: I understand. 
+(their patient is a spoon-head) 
+CRUSHER: We'll need to synthesise at least a litre of Cardassian blood.
+
+[Lavelle + Taurik's quarters]
+
+(five card stud game in progress) 
+GUEST2: It's your bet, Taurik. What I can't understand is why we're just
+sitting here so close to the Cardassian border. 
+LAVELLE: It must have something to do with that escape pod we picked
+up. Don't you think, Sito? 
+SITO: Maybe. 
+LAVELLE: I wonder who was in it? 
+GUEST2: You know what I heard? It was Ambassador Spock. 
+TAURIK: That is most unlikely. 
+GUEST2: That's what I was told. 
+TAURIK: By whom? 
+GUEST2: I can't say. 
+LAVELLE: They beamed whoever was in it right to Sickbay. Did you see
+anything when you went down there? 
+OGAWA: No. Doctor Crusher just asked me to help her with the laboratory
+schedule. 
+TAURIK: I thought Lieutenant Powell was going to join us tonight? 
+OGAWA: He had to do a double shift. 
+LAVELLE: That's too bad. He must be the worst poker player I've ever
+met. 
+GUEST2: It's your bet, Sam. 
+(with four clubs showing, Lavelle checks his hole card and grins)
 

@@ -1,36 +1,63 @@
-PICARD DATA LAFORGE OFFICER
+GUEST7 RIKER WORF GUEST0 TASHA WESLEY GUEST6
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Planet surface]
 
-DATA: I've traced it through our sensor channel,
-sir It is not a glitch or any other form of error or malfunction. 
-LAFORGE: Confirmed by my readings, Captain. It's a shadow something. 
-DATA: Exactly. As if it were neither in or out of our dimension. 
-PICARD: What is, Commander? 
-DATA: Whatever is sitting out there without triggering our alarm
-relays, sir. 
-PICARD: Centre main viewer on that area. I see nothing, Commander. 
-DATA: Enterprise to object off our starboard bow. Request that you
-identify yourself. 
-(And something appears) 
-LAFORGE: Shields and deflectors up full, sir. Main phaser banks ready. 
-PICARD: Hailing frequencies. Any reply? 
-DATA: It was something unintelligible, Captain. Now running it through
-language and logic circuits. 
-PICARD: Geordi. 
-LAFORGE: Sir. 
-PICARD: Have a real look. 
-LAFORGE: Aye, sir. 
-OFFICER: (At Tasha's station) Sir, my sensors read it. Well, it's half
-there. It does look as if it were partly transparent. 
-PICARD: Data, what the hell is it?
+(The children are running and laughing near
+cold-frames, nicely marked out with low white fences around them, and
+throwing the ball back and forth) 
+GUEST6: You're very clever at this. 
+WESLEY: At home we play a lot of it. Here, toss the ball ahead of me. 
+(A boy does, and Wesley runs back to catch it, not watching where he is
+going) 
+GUEST6: No, Wes! 
+GUEST7: No! It's forbidden to disturb new plants! 
+(But Wesley jumps to catch the ball, and clears the fence, smashing
+into the cold frame) 
+GUEST7: Couldn't you see the fence? It's for new plants. Don't ever go
+past a white marker. 
+WESLEY: It's okay. I'm fine. 
+(Two burley men come running) 
+GUEST6: Oh, no! Oh, please, no! 
+GUEST0 2: Speak the truth. We are mediators. 
+WESLEY: I said I was fine. 
+GUEST6: He doesn't know. He's from another place. 
+GUEST0 2: How very sad. But this zone has been selected. 
+GUEST7: But he doesn't understand. 
+GUEST0: It's always sad. Now doubly so. 
+(Riker and Troi arrive) 
+WESLEY: I was chasing a ball and I fell into that. I'm really sorry! 
+GUEST0: You admit you did that? Freely? 
+WESLEY: I'm with Starfleet. We don't lie. 
+RIKER: It won't happen again. We apologise. 
+GUEST0: We're sorry, too. But that changes nothing. 
+(Tasha and Worf arrive) 
+TASHA: Careful, Commander. They've got some strange laws here. 
+RIKER: I thought you reviewed their laws. 
+TASHA: But they listed nothing about punishment. 
+GUEST0: One moment, please. Is there a witness to this transgression?
 
-[Lounge]
-
-(Geordi finds a window with a good view of the
-other thing) 
-LAFORGE: Lieutenant La Forge to Captain. 
-[Bridge]
-
-PICARD: Go ahead, LaForge. What can you make out?
+GUEST7: But it was my fault. I threw the ball past him. 
+GUEST0: We have a visible transgression, ample witnesses, and an
+admission of guilt. And though it deeply pains us to do it, we must. 
+(He takes a small hypodermic needle from his belt pouch) 
+GUEST0: Are you prepared for punishment? 
+WORF: Punishment? If you mean what the others were talking about. 
+RIKER: What punishment? Name it! 
+GUEST0: Death, of course. Don't make it difficult for the boy. 
+(The other mediator goes to take Wesley, and Riker knocks him down.
+Tasha and Worf draw their phasers) 
+WORF: Drop it. Drop it now! 
+(He drops the needle and Tasha picks it up) 
+TASHA: It's a kind of syringe. 
+RIKER: What is this? You said death. Is this poison? 
+GUEST0: But of course it is. Completely painless. The boy would have
+felt nothing. But look at him now. You've frightened him. 
+WESLEY: He was going to kill me? 
+GUEST0 2: And if this Zone were still in effect, you would all
+deserve death. 
+GUEST0: It was announced you came as friends. Is this how friends
+act? 
+RIKER: Enterprise from away team, come in. Are you receiving us,
+Enterprise?
 

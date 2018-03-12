@@ -1,39 +1,36 @@
-RIKER LAFORGE WORF RASMUSSEN MOSELEY DATA
+DATA RASMUSSEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Penthara Science lab]
+[Time ship]
 
-LAFORGE: The Enterprise will monitor the CO2
-concentrations at six different altitudes. If all goes well, it
-shouldn't take more than twenty bore sites. 
-MOSELEY: Let's hope all goes well. 
-LAFORGE: La Forge to Commander Riker. How are you doing? 
-RIKER: We've gotten word from the monitoring stations. They're all
-online. We're ready when you are, Geordi. 
-LAFORGE: That's excellent. All we need now is an open channel to Data. 
-[Bridge]
+(tricorder, the neural stimulator, a hypospray, one
+of Geordi's visors, a PADD, a Klingon knife) 
+DATA: I do not believe any of these items belong to you, Professor. 
+RASMUSSEN: Nor does this. This phaser is set at the highest stun
+setting. If I'm correct, that is sufficient to immobilise even you. 
+DATA: Why have you stolen these objects? To put in a museum? 
+RASMUSSEN: Far too valuable for that. You see, in the century I come
+from, they haven't even been invented yet. 
+DATA: But this vessel? And the temporal distortion that coincided with
+your arrival? 
+RASMUSSEN: Oh, this is a time pod, and it is from the twenty sixth
+century. At least that's what the poor fellow said. You see, he decided
+to travel back to the twenty second century, that's my time, and he had
+the misfortune of meeting me. His clothes fit quite well, don't you
+think? Took me weeks to figure out how to work this thing. 
+DATA: Then you are not an historian. 
+RASMUSSEN: More of an inventor. Up till a few weeks ago, a dismally
+unsuccessful one. 
+DATA: What are your intentions, Professor? 
+RASMUSSEN: Well, thanks to your captain, it seems my intentions have
+changed slightly. I was quite content with the notion of returning with
+those trinkets. I'd invent about one a year. But now, look what fortune
+has graced me with. You will take a little longer to figure out than a
+tricorder, but it should be well worth the effort. If the auto timer is
+programmed the way I think it is, in about two minutes we should be on
+our way back to a place called New Jersey. I'm afraid you won't be
+awake for the ride. 
+(but the phaser doesn't fire) 
+DATA: I assume your hand print will open the door whether you are
+conscious or not.
 
-RIKER: Open a channel, Mister Worf, and prepare to
-fire at target one. 
-WORF: The computer has locked in phaser depth calculations. 
-RIKER: Mister Data? 
-DATA [OC]: Ready, sir. 
-RIKER: Fire. 
-(two shots hit the snow-covered ground)
-
-[Engineering]
-
-DATA: Target one is emitting two thousand cubic
-metres per second. 
-[Penthara Science lab]
-
-DATA [OC]: Target two, one thousand six hundred. 
-MOSELEY: Surface wind patterns over the target are stable. 
-LAFORGE: You picking up anything at altitude, Data? 
-[Bridge]
-
-DATA [OC]: CO2 concentrations remain unchanged at
-upper elevations. 
-(three more phaser shots, then Rasmussen enters) 
-RASMUSSEN: Have I missed much? 
-WORF: Target fourteen complete, sir. 
-RIKER: Data? 

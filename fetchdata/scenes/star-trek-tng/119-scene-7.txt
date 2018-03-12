@@ -1,58 +1,32 @@
-RIKER PICARD REMMICK MORDOCK WESLEY COMPUTER W OLIANA
+TROI REMMICK LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+REMMICK: So, you are saying Captain Picard had no
+control over this vessel. He handed it over to Kosinski, who took the
+entire crew to the edge of the universe. 
+LAFORGE: No, sir. That's not what I'm saying. Now, Kosinski was sent by
+Starfleet to improve our warp drive system. Captain Picard was ordered
+to take him aboard. 
+REMMICK: According to his own logs, his Bridge crew didn't think highly
+of Mister Kosinski's theories, yet the Captain allowed him to access to
+the engines anyway. Is that true, La Forge? 
+LAFORGE: Not exactly, sir. 
+REMMICK: One way or the other, La Forge, Picard lost control of this
+ship. Is that true? 
+LAFORGE: Yes, but that's not how it happened. 
+REMMICK: So, the answer is yes.
 
 [Ready room]
 
-PICARD: Come. 
-RIKER: Captain, may I speak frankly? 
-PICARD: Always, Number One. 
-RIKER: As First Officer, I should be informed. I should know everything
-that you know. 
-PICARD: That's right, you should. 
-RIKER: Then what's this about? Remmick is going to turn this ship
-upside down. 
-PICARD: That's his job. 
-RIKER: And my job is to see that this ship runs smoothly. 
-PICARD: Which you do very well. 
-RIKER: Sir, am I under investigation? 
-PICARD: I don't know. 
-RIKER: And if you did? 
-PICARD: I couldn't tell you. 
-RIKER: I don't understand, sir. This is extremely frustrating. 
-PICARD: No less so for me. But I promised cooperation, and that's what
-we shall give. 
-RIKER: Sir.
+REMMICK: Do you believe the captain is emotionally
+and psychologically fit for command of this starship? There is nothing
+in his history or his personality that would suggest mental lapses? 
+TROI: Nothing. 
+REMMICK: Not even the Ferengi incident with his old ship, the
+Stargazer? 
+TROI: He was being controlled by a mind altering machine, Commander.
+Without his knowledge. 
+REMMICK: I would call that a mental lapse.
 
-[Bridge]
-
-REMMICK: I want some answers from you now,
-Commander Riker. 
-RIKER: Later. 
-REMMICK: You were ordered to cooperate 
-RIKER: Not now. (enters turbolift) When it doesn't interfere with my
-duties, Remmick.
-
-[Classroom]
-
-COMPUTER: Last question on the hyperspace physics
-test. If the matter and antimatter tanks on a Galaxy class starship are
-nine tenths depleted, calculate the intermix ratio necessary to reach a
-starbase a hundred light years away at warp factor eight. Begin. 
-(Wesley is straight in with 1:1. Oliana runs out of time) 
-COMPUTER: Time elapsed. You now have one hour free before the next
-test. 
-MORDOCK: I must admit, Wesley, you have a very fast mind. 
-WESLEY: Once as I realised it was a trick question, there was only one
-answer. 
-MORDOCK: Yes, there is only one ratio with matter antimatter. One to
-one. 
-OLIANA: You don't know how lucky you are. I can't imagine what it would
-be like to have things come so easily. I have to push every step of the
-way. 
-WESLEY: Oh, no, Oliana, it doesn't come that easily. I have to study
-all the time. 
-OLIANA: It's a good thing you're cute, Wesley, or you could really be
-obnoxious. See you later. 
-(Oliana leaves) 
-WESLEY: Did you hear what she said, Mordock? She said I was cute. 
-MORDOCK: Is that good, Wesley? 
-WESLEY: Yes! I think. 

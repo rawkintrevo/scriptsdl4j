@@ -1,33 +1,5 @@
-HANNAH TROI LAFORGE CONOR
-
-[Shrubbery]
-
-TROI: You're sure my being here is not going to be
-disruptive? 
-CONOR: Disruptive? You mean, what Martin was saying. 
-TROI: Well, I certainly wouldn't wish to throw off your entire balance.
-
-CONOR: Too late. The damage is done. 
-TROI: Seriously. 
-CONOR: I sometimes think that strict interpreters like Martin have
-forgotten we're still human. We'll adjust, accommodate. 
-TROI: There must be other unexpected events you have to deal with. An
-untimely death, an accident. 
-CONOR: Our geneticists are able to screen out any congenital health
-risks before conception. Our population is diverse enough to maintain a
-genetic balance in the event of accidental death. But very little that
-is unexpected occurs here. Am I making this sound incredibly dull? 
-TROI: Not at all. 
-CONOR: I'll tell you the truth, but I'll deny it if you tell Martin.
-I've found today exhilarating. Meeting you, meeting new people, with
-new ideas. 
-TROI: I feel the same about being here. I'm something of a student of
-human nature, and I find this all fascinating. 
-CONOR: A student of human nature? 
-TROI: I'm the ship's Counsellor. 
-CONOR: Ah, I'm afraid you wouldn't find much work here, Counsellor. 
-TROI: I'd book my next vacation at your hotel, if you had one. 
-CONOR: Well in that case, I shall have to have them build one.
+HANNAH TROI LAFORGE CONOR MARTIN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Laboratory]
 
@@ -49,4 +21,31 @@ LAFORGE: A multiphase tractor beam?
 HANNAH: When we first spotted the fragment approaching, I came up with
 the idea, but we can't generate the kind of energy we would need. You
 can.
+
+[Courtyard]
+
+(they are discussing it round a small table) 
+LAFORGE: We'd need Hannah on the ship. 
+MARTIN: No. 
+HANNAH: With my theories and their equipment, we might be able to alter
+the fragment's path. It's our only chance to avoid evacuation. 
+CONOR: No one had ever come here and no one had ever left, until today.
+This is a date to note in our history books. 
+MARTIN: This is in direct violation of the intentions of our founders,
+Aaron. 
+CONOR: I don't think they intended us to die, Martin. 
+MARTIN: Her absence will create an additional imbalance. 
+CONOR: Temporarily. The circumstances require us to be flexible. 
+MARTIN: We have no idea how molecular transport will affect her DNA. 
+LAFORGE: It won't affect her DNA at all. There's been over a century of
+evidence to prove that. 
+CONOR: You can go, Hannah. 
+TROI: May I return later? 
+CONOR: I look forward to it. 
+LAFORGE: Enterprise, three to beam up. Energise.
+
+Captain's log, supplemental. Commander La Forge and
+Hannah Bates have spent three days trying to find a way to adjust the
+path of the core fragment. If they do not succeed in the next forty
+eight hours, we will need to begin evacuation.
 

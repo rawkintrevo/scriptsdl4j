@@ -1,45 +1,39 @@
-PULASKI RIKER OBRIEN LAFORGE
+PULASKI RIKER TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Sickbay]
 
-LAFORGE [OC]: O'Brien, what's the hold up? 
-O'BRIEN: The transporter's detected unidentified microbes in Commander
-Riker's body. 
-[Steamy mangrove swamp]
+(A male nurse is scanning Riker to check the
+progress of the infection) 
+RIKER: This bug is persistent, I'll admit that. But I'm not worried. We
+Rikers are ornery, too. As a matter of fact, my great grandfather once
+got bit by a rattlesnake. After three days of intense pain, the snake
+died. 
+TROI: You're a very entertaining patient. 
+RIKER: I try. 
+TROI: Yes. you're making quite an effort to be cheerful. 
+RIKER: You, of all people, should know. 
+TROI: You feel what anyone in your position would feel. 
+RIKER: As the First Officer on this ship, I have to set an example. 
+TROI: Even now? 
+RIKER: Now more than ever. Deanna, facing death is the ultimate test of
+character. I don't want to die, but if I have to, I'd like to do it
+with a little pride. 
+TROI: And a lot of impudence. 
+RIKER: You bet. Dying is bad enough but, to lose my sense of humour?
+Forget it. 
+TROI: Imzadi. 
+RIKER: I haven't given up yet. 
+(But his eyes close and the machine beeps a warning as his indicators
+drop into the red. Pulaski runs in) 
+PULASKI: It's spread to the spinal column. It's weakening his autonomic
+nervous system. Judging by its present rate of growth and its
+infiltration pattern, the infection will spread to the brain within an
+hour.
 
-LAFORGE: Well, can't the bio-filter screen them
-out? 
-O'BRIEN [OC]: Apparently not.
+Medical log, Stardate 42976.3. I can't keep the
+alien infection from spreading to Commander Riker's brain. Once there,
+it will kill him by dampening neural impulses. The only way I can keep
+him alive is to force the neurons to stay active by stimulating them
+directly with electrical impulses.
 
-[Transporter room]
-
-O'BRIEN: But Doctor Pulaski has been notified. 
-[Steamy mangrove swamp]
-
-LAFORGE: Acknowledged. 
-RIKER: I wasn't ready to leave here anyway. 
-
-[Transporter room]
-
-O'BRIEN: Here's the biofilter's analysis of the
-microbes. 
-PULASKI: That's not much to go on. 
-O'BRIEN: I can override and beam Commander Riker aboard . 
-PULASKI: No. I'd better go down and make an evaluation there. 
-(She takes a deep, reluctant breath and gets on the pad) 
-O'BRIEN: I hope these are the right coordinates. Just kidding, Doctor.
-I know how much you love the transporter. 
-PULASKI: About as much as I love comical Transporter Chiefs. 
-O'BRIEN: Ready? 
-[Steamy mangrove swamp]
-
-RIKER: Over here, Doctor. 
-PULASKI: Fill me in. 
-RIKER: I was walking along minding my own business, doing a simple
-geological sweep. Something stuck me in the leg. 
-PULASKI: Any pain? 
-RIKER: No. Just a little numb, that's all. 
-PULASKI: Do you know what it was that stuck you? 
-LAFORGE: We've been looking for it. No luck. 
-PULASKI: Well, whatever it was, it left something behind. I'm going to
-take you up to Sickbay. O'Brien, this is Doctor Pulaski. 

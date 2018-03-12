@@ -1,31 +1,70 @@
-PICARD RIKER DATA LAFORGE HOBSON
+KURN PICARD SELA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sutherland Bridge]
+[Klingon bar]
 
-HOBSON: We've arrived at the designated
-coordinates, Captain. 
-DATA: All stop. Notify the flagship that we have assumed station. 
-HOBSON: Starboard power coupling has overloaded. We've got a radiation
-leak on decks ten through twelve. 
-DATA: Why are the backups not functioning? 
-HOBSON: There wasn't enough time to test all the backups before we left
-the yard. Terry, I want you down in Engineering working on a new
-coupling. 
-DATA: You have taken the phaser and torpedo control units offline. 
-HOBSON: Keith, you and I will start bringing the radiation 
-DATA: Mister Hobson, it is inappropriate for you to determine a course
-of action without consulting the commanding officer. 
-HOBSON: I was trying to safeguard the lives of people on those decks,
-but you're right. Belay those orders, everyone.
-Phasers and torpedoes are back online. What should we do, sir? 
-DATA: You will take the phasers and torpedo units offline and begin
-repairs of the starboard power coupling. 
-HOBSON: Thank you, sir. You heard the Captain, everyone.
+WORF: We are at war. Gowron should forbid any
+challenges until we are victorious. 
+KURN: A Klingon does not postpone a matter of honour. 
+WORF: A Klingon should place the good of the Empire above his own
+pride. 
+KURN: So now Gowron no longer suits you. Perhaps you mean to challenge
+him for the leadership of the Council? 
+WORF: No. 
+KURN: Then do not speak of this again! I did not wish to follow Gowron.
+You came to me and insisted we support Gowron against the Duras family.
+The time for debate is over. We are Klingons. He is our leader. If that
+is not enough for you, then perhaps you made the wrong choice when you
+put on that uniform. 
+(Kurn leaves, and two Klingons attack Worf, knocking him out and
+dragging him away)
 
-[Bridge]
+[Observation lounge]
 
-RIKER [on monitor]: We're ready, sir. 
-PICARD: Mister La Forge, how long do you think it will take the
-Romulans to detect the tachyon field once it's activated? 
-LAFORGE [on monitor]: Not long Romulan sensors are as good as ours. 
-PICARD: Very well. Energise the network. 
+SELA: Well, Captain, what is this urgent matter we
+need to discuss? 
+PICARD: Please, won't you sit down? 
+(she folds her arms and remains standing) 
+PICARD: I'm afraid that you have misinterpreted our presence here. I
+want to reassure you that we have no hostile intention. 
+SELA: Ah. Then I can tell my superiors that a fleet of twenty three
+Federation starships is on our border for, what, humanitarian reasons? 
+PICARD: It is our intent to prevent any external power from interfering
+in Klingon affairs. 
+SELA: Nor do we have any plan to do so. But Captain, if for any reason
+we chose to enter Klingon territory, how would you stop us? With our
+cloaking devices we can slip by you at will. 
+PICARD: Then why don't you just take your ships across? 
+SELA: You sound eager for us to try. Perhaps you've discovered a method
+in detecting our ships? However, I don't think you
+asked me here to discuss our military situation. 
+PICARD: All right. Why did I invite you here? 
+SELA: You want the answer to the only question on your mind. How could
+Tasha Yar be my mother? 
+PICARD: It's been suggested that she was aboard the Enterprise C when
+it was destroyed twenty four years ago, that she was one of the
+survivors and that obviously you are a product of a union between her
+and a Romulan. 
+SELA: But you know that's impossible. She would have been a child when
+that battle occurred. 
+PICARD: And yet you claim that it is possible, that you're the daughter
+of Tasha Yar. 
+SELA: Yes, she was on that ship twenty four years ago. She was sent
+there by you from the future. She was among those few who survived.
+They were all to have been executed after the interrogation, but a
+Romulan general saw her and became enamoured with her. So a deal was
+struck. Their lives would be spared if she became his consort. I was
+born a year later. 
+PICARD: I want to meet your mother. Can you arrange that? 
+SELA: One night, when I was four years old, she came to me. She bundled
+me up and she told me to stay quiet as we left the compound. I realised
+she was taking me away. She was taking me away from my home, my father,
+so I cried out. My father offered her life.
+He gave her a home, gave her a child, and how did she repay him? By
+betrayal. They executed her. Everything in me that was human died that
+day with my mother. All that's left is Romulan. Never doubt that. 
+PICARD: Doubts? I'm full of them. But nothing in my experience can
+persuade me that what you have told me is true. And I do know one
+thing. It will not affect my judgment at our next encounter. 
+SELA: You have fourteen hours, Captain. I suggest you use them wisely.
+

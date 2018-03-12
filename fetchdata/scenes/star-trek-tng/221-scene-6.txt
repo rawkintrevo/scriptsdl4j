@@ -1,45 +1,39 @@
-RIKER WORF PICARD LENOR OFFICER CREWWOMAN QOL DATA
-
-[Bridge]
-
-DATA: The Ferengi report their containment field is
-collapsing. 
-WORF: Within visual range, Captain. 
-PICARD: On screen. 
-DATA: Their reactor core is unstable, Captain. 
-PICARD: How many on board? 
-DATA: Two, sir. 
-RIKER: Bridge to transporter room three. Boost your output and lock on
-to the two Ferengi on board the shuttle. 
-[Transporter room]
-
-RIKER [OC]: We may need to attempt a long range
-transport. 
-CREWWOMAN: Standing by. 
-[Bridge]
-
-(there's an explosion on the shuttle) 
-PICARD: Energise. 
-(KaBOOM)
-
-[Transporter room]
-
-OFFICER: Got them, sir. 
-(one of whom - Lenor - is Max Grodenchik, practising to play Quark's
-idiot brother, Rom)
-
-[Bridge]
-
-RIKER: Mister Worf, escort our Ferengi guests to
-quarters. Not too close to mine. 
-WORF: Understood.
+RIKER KAMALA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
-WORF: Unless you can arrange your own transport,
-you will have to remain on the Enterprise until we complete our
-mission. 
-QOL: That will not be a problem. 
-LENOR: We are in no hurry. 
-QOL: We look forward to enjoying the comforts of your fine ship. 
+RIKER: Why were you in stasis? 
+KAMALA: Metamorphs have a long and complex sexual maturing process. I
+am in the Finiis'ral, the third and final stage. It can be an
+uncomfortable transition Not only for me, but for the men around me. 
+RIKER: In what way? 
+KAMALA: My body is producing an unusually elevated level of what you
+would call pheromones. The effect can be quite provocative. Perhaps you
+sense it? 
+RIKER: Ah, unfortunately, I'm not an empath. 
+KAMALA: Oh, I think you are more empathic than you admit. At least when
+it comes to women. 
+RIKER: I think you have me at a disadvantage. 
+[Kamala's quarters]
+
+RIKER: This is the comm. panel, the replicator. You
+can lower the lights on a verbal command. If you have any questions you
+can just ask the computer, 
+(they kiss) 
+RIKER: I'm beginning to sense the elevated pheromones you were
+referring to. 
+KAMALA: You were curious, weren't you? 
+RIKER: Curious isn't exactly how I'd describe it. 
+KAMALA: Do you know what's remarkable about empathic metamorphs? 
+RIKER: You mean there's something even more remarkable about you? 
+KAMALA: We learn so quickly what stimulates a man, that the second
+time's even better than the first. 
+(she initiates another long, long, kiss) 
+RIKER: Listen. This has been educational but I make it a policy never
+to open another man's gift. 
+KAMALA: I know my role in history, Commander. But it's going to be a
+long voyage. 
+RIKER: It certainly is. We'll try to make you as comfortable as
+possible.
 

@@ -1,100 +1,31 @@
-TASHA PICARD DATA JESSEL LAFORGE
+TASHA PICARD TROI OBRIEN WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Future Vineyard]
+[Past - Bridge]
 
-LAFORGE: Captain. What's wrong? 
-PICARD: This is not my time. I don't belong here. 
-LAFORGE: What? 
-PICARD: I was somewhere else a few moments ago. 
-LAFORGE: What do you mean? You've been right here with me. 
-PICARD: No, no, no! I was somewhere else. I was, it was a long time
-ago. There was someone talking. I was talking to someone. Beverly. I
-was talking to Beverly. 
-LAFORGE: It's okay, Captain. Everything's going to be all right. 
-PICARD: I'm not senile, you know. This did happen. I was here, I was
-talking to you, and then I was somewhere else. I was on the Enterprise.
-I was back on the Enterprise. At least, I think that's where it was. I
-was in Sickbay. Well, it might have been a hospital. 
-LAFORGE: Captain, I think we should go back to the house and call your
-doctor 
-PICARD: Yes, yes, I know what you're thinking. It's the Irumodic
-Syndrome. He's beginning to lose his mind, the old man. Well, it's not
-that. And I'm not daydreaming either. 
-LAFORGE: Well, all right. All right. So, what do you want do about it? 
-PICARD: Data. I want to see Data. 
-LAFORGE: Data? Why? 
-PICARD: Because I think he can help. 
-LAFORGE: Help how? 
-PICARD: I don't know! I don't know! I want to see Data! 
-LAFORGE: Okay, then, all right, let's go see Data. He's still at
-Cambridge, isn't he? 
-PICARD: Yes, I think he is. 
-(six tatty humans jeering) 
-PICARD: You see them, don't you? 
-LAFORGE: See who? 
-PICARD: They're everywhere. They're laughing at me. Why are they
-laughing? 
-LAFORGE: Come on, Captain. Let's go see Data. 
-PICARD: Yes, Data. We'll go see Data.
-
-[Future Cambridge University - Data's
-library]
-
-(a roaring fire, plenty of cats and an obviously
-fake streak of white in his hair) 
-PICARD: I know how it sounds but it happened. It was real. I was there,
-back on board the Enterprise. 
-JESSEL: (cod English housekeeper) How do you like your tea? 
-PICARD: Tea? Earl Grey. Hot. 
-JESSEL: Course it's hot. What do you want in it? 
-PICARD: Nothing. Well, Data, I must say, this is a fine place you have
-here. They certainly treat professors pretty well at Cambridge 
-DATA: Holding the Lucasian Chair does have its perquisites. This house
-originally belonged to Sir Isaac Newton when he held the position. It's
-become the traditional residence. 
-JESSEL: Here you go. 
-LAFORGE: Thank you. 
-JESSEL: If you're really his friend, you'll get him to take that grey
-out of his hair. Looks like a bloody skunk. 
-DATA: Jessel. She can be frightfully trying at times, but she does make
-me laugh. 
-LAFORGE: Data, what is it with the hair anyway? 
-DATA: I found that a touch of grey adds an air of distinction. 
-PICARD: You say this is Earl Grey? I'd swear that it was Darjeeling. 
-(Jessel leaves) 
-DATA: Captain, how long has it been since you've seen a physician about
-your Irumodic Syndrome? 
-PICARD: A week. They've prescribed peridaxon. 
-DATA: But sir, peridaxon 
-PICARD: Yes, I know, it's not a cure, There's nothing that can prevent
-the deterioration of the synaptic pathways. You think that I'm senile,
-that all this is just a delusion. 
-LAFORGE: Now come on, Captain, no one said anything of the kind. 
-DATA: In all honesty, Captain, the thought has occurred to me. However,
-there's nothing to disprove what you're saying. So it's possible
-something is happening to you. The first thing we should do is run a
-complete series of neurographic scans. We can use the equipment at the
-biometrics lab here on the campus. Jessel, ask Professor Ripper to take
-over my lecture for tomorrow. Possibly for the rest of the week.
-Captain, we'll get to the bottom of this. 
-PICARD: That's the Data that I remember. I knew I could count on you.
-
-[Past Shuttlebay]
-
-TASHA: Commanding officer Enterprise arriving. 
-(Picard is piped aboard. Troi is back in her mini-uniform but not the
-bun.) 
-PICARD: To Captain Jean-Luc Picard, stardate 41148 
-(three people jeering from the upper level) 
-PICARD: You are hereby requested and required to take command 
-(four of them behind him) 
-PICARD: to take command of the USS Enterprise as of this date. Signed
-Rear Admiral Norah Satie, Starfleet Command. 
-(just as he goes to shake Troi's hand, he sees more) 
-PICARD: Red Alert! All crew to battle stations. 
-(Guy Vardeman, Colm Meaney and the others hesitate) 
-TASHA: You heard him. Move! 
-Personal log, stardate 41153.7. Recorded under
-security lockout Omega three two seven. I have decided not to inform
-this crew of my experiences. If it's true that I've travelled to the
-past, I cannot risk giving them foreknowledge of what's to come. 
+O'BRIEN: Sir, Starfleet has just issued an alert.
+It appears a number of vessels are moving toward the Neutral Zone
+between Romulan and Federation space. 
+TASHA: What kind of vessels? 
+O'BRIEN: Freighters, transports, all civilians. None of them Starfleet
+ships. 
+PICARD: This tells me that a large spatial anomaly has appeared in the
+Neutral Zone, in the Devron System. 
+WORF: Captain, it could be a Romulan trick to lure our ships into the
+Neutral Zone as an excuse for a military strike. 
+O'BRIEN: Starfleet's cancelling our mission to Farpoint Station and
+ordering us to the Neutral Zone as soon as we leave the Spacedock. 
+PICARD: No, we'll proceed to Farpoint. 
+TASHA: Sir? 
+PICARD: You heard me. 
+WORF: Captain, the security of the Federation could be at stake. 
+PICARD: Mister Worf, will you man your station. 
+WORF: Aye, sir. 
+TROI: Captain, perhaps if we understood your thinking, if you could
+explain 
+PICARD: I've no intention of explaining to anyone. We will proceed with
+our mission to Farpoint as planned. Chief O'Brien, am I right in
+thinking that you're having a problem with the warp plasma inducers. 
+O'BRIEN: That's right, sir. 
+PICARD: Well I know how to get them back online. You're with me. We'll
+be in main Engineering. 

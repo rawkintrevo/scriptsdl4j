@@ -1,30 +1,6 @@
-PICARD RIKER DATA WORF
+PICARD RIKER OBRIEN DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-RIKER: We're picking up a signal, coordinates two
-one one mark six one. 
-PICARD: It would seen to be an ancient interplanetary code. Mister
-Data? 
-DATA: Confirmed, sir. 
-RIKER: Survivors on Orelious Nine after all this time? Not possible. 
-PICARD: Well, hardly possible, Number One. Lay in a course to the
-source of the signal. 
-(short trip through the rubble) 
-DATA: Approaching the source, Captain. 
-PICARD: Put it on the viewer. 
-WORF: A Promellian battle cruiser? 
-PICARD: With its Lang-cycle fusion engines still intact. 
-DATA: Sensors indicate no life signs aboard, Captain. 
-PICARD: I should hope not, Mister Data. That ship belongs in a museum.
-I'm afraid we're a little late. That call for help was probably
-initiated over a thousand years ago.
-
-Captain's log, Stardate 43205.6. We have arrived at
-Orelious Nine, to chart the battle in which the Menthars and
-Promellians fought to their mutual extinction. Among the ruins we have
-found a relic, a Promellian battle cruiser that has withstood the
-centuries. 
 [Corridor]
 
 PICARD: Indulge me, Number One. 
@@ -40,4 +16,24 @@ RIKER: Sir?
 PICARD: The ship in the bottle. Model air ships. I used to build them
 when I was a child. My God, I bet I had a Promellian battle cruiser
 too.
+
+[Transporter room]
+
+PICARD: Ready to beam down to the vessel? 
+O'BRIEN: Locked on to the main bridge, Captain. 
+RIKER: You're certain about the atmospheric conditions, Data ? 
+DATA: There is adequate oxygen for life support, Commander. 
+PICARD: It is exactly as they left it, Number One. In the bottle. The
+ship in the bottle. Good Lord, didn't anybody here build ships in
+bottles when they were boys? 
+WORF: I did not play with toys. 
+DATA: I was never a boy. 
+O'BRIEN: I did, sir. 
+PICARD: Thank you, Mister O'Brien. Proceed. 
+(Picard, Worf and Data are beamed away) 
+O'BRIEN: I did. I really did. Ships in bottles. Great fun. 
+(The lights dim) 
+RIKER: What's that? 
+O'BRIEN: I'm not sure. The secondary power bus may need adjusting. 
+RIKER: Keep me posted.
 

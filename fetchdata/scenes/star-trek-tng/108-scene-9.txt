@@ -1,46 +1,42 @@
-TROI LAFORGE WORF PICARD WESLEY CRUSHER DATA
+PICARD RIKER DATA GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Engineer's office]
 
-(Work is on a bed, with Beverly tending to him,
-when blue energy comes out of him, up her arms. She sags, then Troi
-enters) 
-TROI: He's reading normal now. How did you manage that? 
-CRUSHER: Yes. Normal. 
-TROI: Are you all right? 
-CRUSHER: Yes, perfectly. Both of us. Quite normal now. 
-(Worf wakes suddenly) 
-WORF: What? Where am I? 
-TROI: Don't you remember? You were in the sensor maintenance room. 
-WORF: I remember monitoring the sensor console. What am I doing here? 
-TROI: That's a story the Doctor will tell you. 
-(But Crusher walks out)
-
+PICARD [OC]: What is the problem? 
+GUEST3: We have lost the warp engine computer tie. 
 [Bridge]
 
-(At a rear science station) 
-PICARD: Obviously you feel it's something we should look at more
-carefully. 
-DATA: A mystery is only a mystery as long as it remains uninvestigated,
-sir. 
-PICARD: I love a mystery, Data, but this one will have to to wait until
-we deliver the delegates to their peace conference on Parliament. Time
-and tide, Lieutenant La Forge. Go to warp eight. 
-LAFORGE: Warp eight, sir. 
-[Crusher's quarters]
+WORF: Warp five, four, three, two 
+PICARD: State of the art vessel? Data, signal Parliament we'll be
+delayed. We will send a new arrival time as soon as it is determined. 
+DATA: Sir, subspace radio is out.
 
-WESLEY: Him Mom. You're back early. 
-CRUSHER: Yes. 
-(She looks at the computer monitor he's studying) 
-WESLEY: Physical sciences class. We're studying Doctor Channing's
-theory on dilithium crystals. 
-CRUSHER: Tell me about it. 
-WESLEY: Really? You never seemed that interested in warp theory before.
-Doctor Channing thinks it's possible to force dilithium into even more
-useful crystals. If as shown here, matter and antimatter could be
-aligned even more efficiently 
-CRUSHER: Would that affect navigation? 
-WESLEY: This is engineering, not helm control. 
-CRUSHER: Oh yes, the helm's located on the Bridge. 
-(Beverly leaves) 
-WESLEY: Mom, is something wrong? 
+[Ready room]
+
+PICARD: All right, gentlemen, your theories on this
+sudden vulnerability of these systems.
+DATA: If the Enterprise were really this fragile, sir, she never would
+have left Spacedock. Therefore, her systems' failures are not endemic
+to the ship, but are the result of the actions of an unknown adversary.
+
+RIKER: We have a saboteur aboard. 
+DATA: I believe I said that. 
+PICARD: Gentlemen. The question is, who? I can't believe it's one of
+our people. 
+RIKER: Agreed. It must be someone from either alien delegation. Now, if
+the Ferengi could have bought or bribed even one of them, that's all
+that they'd need. 
+DATA: Ferengi contacts have been detected on both Selay and Antica,
+sir. 
+PICARD: Can any of you suggest any other suspects? 
+RIKER: You're sounding like a private eye, sir. 
+DATA: Inquiry. Private eye? 
+PICARD: A private consulting investigator, Data, who solves crimes. 
+DATA: A most interesting occupation. 
+PICARD: In the world of fact, probably not. However, in literature,
+criminal detection can be a fascinating exercise. The immortal Sherlock
+Holmes would have an interesting view of our mystery, I believe. 
+RIKER: But I'm afraid we're going to have to find our solution without
+history's greatest Consulting Detective.
+

@@ -1,34 +1,58 @@
-JAMESON PICARD CRUSHER
+JAMESON PICARD GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Jameson's quarters]
 
-PICARD: Admiral, we're approaching the Idini Star
-Cluster. Would you like to take the conn as we make transit? 
-JAMESON: Thank you, Captain. I would. 
-(And he gets out of his wheelchair and walks a little unsteadily down
-the slope to Geordi's station) 
-PICARD: Well, Admiral, quite a little surprise you've pulled on us. 
-CRUSHER: Yes, quite. 
-JAMESON: Neglected to mention I began some new therapy before I left.
-Seems to be working. I haven't felt this good since the last time I was
-in space. The Gettysburg. All I needed to get me out of that chair was
-the thought of walking the decks in command of a starship again. 
-PICARD: Admiral, you only have the conn temporarily. 
-JAMESON: A figure of speech. Of course she's your ship. I'll just keep
-an eye on her for a while.
-
-[Ready room]
-
-PICARD: The admiral displayed a remarkable
-improvement out there, wouldn't you say? 
-CRUSHER: Captain, no one recovers from Iverson's Disease. There is no
-known cure, and there are no cases where it has gone into remission. I
-have never heard of any therapy that would produce results like that. 
-PICARD: Then how do you account for it? 
-CRUSHER: I can't. All I can tell you is that the Admiral has been
-confined to his support chair for the last four years by the effects of
-Iverson's. By all the medical facts we know, he should never have
-walked again. 
-PICARD: I want you to look into it, Doctor. Thoroughly. 
-CRUSHER: Yes, sir.
+GUEST2: Captain. 
+PICARD: Mrs. Jameson, I have to ask the Admiral some questions. 
+JAMESON: Ask away. There's nothing to hide now. 
+(He is a lot younger, thirties or forties) 
+PICARD: Admiral, in addition to your rank, you are a particularly
+valuable commodity just now. Starfleet has a right to some answers. 
+JAMESON: I've planned this for a long time, ever since I learned I had
+Iverson's Disease. Since it put me in that chair. 
+GUEST2: What did you do, Mark? 
+JAMESON: There's a planet in the Cerebus system, Cerebus Two. They say
+the natives have a process that rejuvenates the body, gives you your
+youth back. 
+PICARD: Yes, I've heard of that story. It's a myth. 
+JAMESON: It's true, Picard. I'm living proof. Oh, it's dangerous. The
+mortality rate is high, and it's very painful. Aliens are seldom
+allowed to obtain the process, but I managed it. I negotiated a treaty
+for Cerebus Two some years ago, and they felt obligated to honour my
+request for the process. 
+PICARD: Obviously it works very rapidly, but how does it work? 
+JAMESON: The herb and drug combinations are self-administered slowly
+over a period of two years. Every response is different, depending on a
+being's DNA. I got enough for both of us, Annie, but I had to test it
+on myself first. I couldn't risk you. If I died, well, I was half a
+man, so what did it matter. 
+GUEST2: It would matter to me. 
+JAMESON: But I was starting to change, Anne. It was almost
+undetectable, but the improvement was there. Then when this hostage
+situation came up, I knew I'd have to be at my peak to deal with it. I
+didn't have time to wait for the drug to work naturally. 
+PICARD: So you took the whole dose. 
+JAMESON: I took both of them. And look at me, Annie, look at me. I'm
+strong. I'm alert, Fit. I'm fitter than you are, Picard. And I'm
+getting younger! 
+PICARD: The only question I have, Admiral, is why you thought it
+necessary to be young to negotiate the release of the hostages. Even
+willing to put your life at risk for it. I'll be on the Bridge,
+Admiral, if you want to talk further. 
+(Picard leaves) 
+GUEST2: Why didn't you tell me, Mark? We've always been honest with each
+other, until now. 
+JAMESON: Annie, I did it for us. 
+GUEST2: Oh, I'm sure you believed that, until you had a chance to head up
+a mission, to command again, and then you just upended the bottle or
+whatever it was, and damn everything. Did you think about me at all? 
+JAMESON: I obtained enough of the dosage for both of us. 
+GUEST2: But you never asked if I wanted it. It's just like you, Mark, to
+assume that what you felt was right was the only answer. 
+JAMESON: But it was the right answer for me. It was killing you, having
+to take care of an invalid. Annie, what good was I to you? We can be
+together again. 
+GUEST2: Let me go! 
+JAMESON: I can get you another supply of the drug.
 

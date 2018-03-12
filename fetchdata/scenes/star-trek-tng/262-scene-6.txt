@@ -1,66 +1,45 @@
-RIKER LAFORGE WORF JULIANA DATA PRAN
+JULIANA DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Data's quarters]
 
-JULIANA: I wanted to make you female, but your
-father insisted on a son. We argued about it endlessly, right up until
-we were ready to assemble you. 
-DATA: How did you decide? 
-JULIANA: Noonian walked in with your head in his hand and, innocent as
-you please, said it was up to me. He knew perfectly well what he was
-doing. Once again he had made it in his own image. What could I
-possibly say? (reads door name plate) Deanna Troi, is that who you're
-going to visit? 
-DATA: Yes. 
-JULIANA: Your father would be so pleased. 
-DATA: Pleased? 
-JULIANA: He was worried that the sexuality programme he designed for
-you wouldn't work. 
-DATA: You misunderstand. Counsellor Troi is a therapist. 
-JULIANA: Goodnight. 
-[Engineering]
-
-DATA: We will be in position over the drilling site
-in three minutes twenty nine seconds. 
-(Juliana rests her hand on his shoulder) 
-DATA: These scans indicate that the magma pockets where we plan to set
-up the infusion units are somewhat unstable. 
-JULIANA: I'm going to monitor the density of the rock layers and adjust
-the strength of the particle beam as we go. That should minimise the
-seismic stress that we generate while we're drilling. 
-LAFORGE: Data, I reconfigured the phasers to create the most highly
-focused particle beam possible. 
-DATA: Thank you, Geordi. 
-JULIANA: I'm just so pleased you've got good manners. It wasn't easy to
-strike the right balance with your programming. At first you couldn't
-have cared less about the social niceties like please and thank you.
-You were downright rude, in fact. 
-LAFORGE: Data? That's hard to picture. 
-JULIANA: That was nothing to the problems we encountered. Never mind. I
-don't want to embarrass you. 
-DATA: I am incapable of embarrassment. Please continue. 
-JULIANA: Well, the one thing we couldn't anticipate was that you didn't
-seem to mind about being naked. Some of the colonists objected to
-having an anatomically correct android running around without any
-clothes on. We asked you to dress, but you didn't feel it was necessary
-because you didn't suffer from the elements. We actually had to write a
-modesty sub-routine to get you to keep your clothes on. 
-RIKER [OC]: Bridge to Engineering. 
-LAFORGE: La Forge here. Go ahead, Commander. 
-RIKER [OC]: We've established a synchronous orbit over the drilling
-site. 
-LAFORGE: Phaser modifications are online, sir. 
-DATA: My calculations indicate 
-[Bridge]
-
-DATA [OC]: The first phaser blast will be
-approximately nineteen seconds in duration. 
-RIKER: Acknowledged. 
-PRAN: Someone's checked his calculations, of course. 
-RIKER: No, but I'm sure Mister Data knows what he's doing. 
-PRAN: Even so, he is a machine. Someone should check up on him. 
-RIKER: I have complete confidence in Mister Data's ability to check up
-on himself. Mister Worf? 
-WORF: Phasers locked on target. 
-RIKER: Fire when ready.
-
+(Data plays violin for her. Juliana applauds) 
+DATA: Thank you. I will be playing this piece at a recital tomorrow
+evening. 
+JULIANA: That was beautiful. 
+DATA: I have been told that my playing is technically flawless, but no
+one has described it as beautiful. 
+JULIANA: It was, really. 
+DATA: Are you certain you are not saying this because you are my
+mother? I have noticed that parents tend to exaggerate when it comes to
+their children's accomplishments. 
+JULIANA: I suppose there's a certain amount of vanity involved,
+considering that giving you a creative aspect was my idea. Your father
+didn't really see the point. He thought that since you didn't have
+emotions, there would be no real need for you to express yourself.
+Somehow I had the feeling the opposite would be true. 
+DATA: I do not know for certain, but I believe it is during my creative
+endeavours that I come closest to experiencing what it must be like to
+be human. 
+JULIANA: Well, I'm glad I insisted. 
+DATA: As am I. 
+JULIANA: Data, I'm very familiar with that Handel piece. How would you
+feel about my playing the viola part tomorrow? 
+DATA: I would like that very much. 
+JULIANA: I'll have to practice. You don't have a viola? 
+DATA: I could replicate one for you. Computer, please replicate one
+viola. 
+JULIANA: Did you paint these? 
+DATA: Yes. I am attempting to master all known styles of painting. This
+one is in the style of the early French impressionists. 
+JULIANA: It's very good. Who's this? 
+DATA: That is Lal, my daughter. 
+JULIANA: Your daughter? 
+DATA: I created her, using myself as a model. 
+JULIANA: Where is she now? 
+DATA: The positronic matrix I designed for her was unstable. She only
+lived a short time. 
+JULIANA: I see. 
+DATA: In a sense, you were her grandmother. Would you like to practice
+now? 
+JULIANA: Yes. Yes, of course. 

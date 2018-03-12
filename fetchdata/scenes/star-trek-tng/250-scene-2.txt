@@ -1,35 +1,5 @@
 RIKER DATA WORF CREWMAN
-
-[Bridge]
-
-(at the science stations) 
-RIKER: You wanted to see me, Mister Data? 
-DATA: Yes, sir. It appears we will be able to transport to the surface
-sooner than anticipated. 
-RIKER: Is the planet's distortion field re-phasing sooner than we
-predicted? 
-DATA: No, sir. Using the Potemkin's transport logs from the original
-evacuation, Commander La Forge and I were able to modify the
-transporters. 
-RIKER: So we can beam through a higher distortion field. 
-DATA: The transporters are considerably more efficient than those used
-on the Potemkin eight years ago. 
-RIKER: That's a good thing. I almost didn't make it off the surface.
-When can we get started? 
-DATA: Ninety seven minutes, sir. 
-RIKER: How long will the transport window be open? 
-DATA: Twenty six minutes. After that, the distortion field will
-re-phase. 
-RIKER: That doesn't give us much time to retrieve the database. 
-DATA: The planet's proximity to its sun will create two additional
-transport windows in the next three days. 
-RIKER: Let's hope that's enough. 
-DATA: It will have to be, sir. The next transport window will not occur
-for another eight years, when the planet's orbit will bring it close
-enough to the sun to de-phase the distortion field. 
-RIKER: Okay, notify the away team that we're going in ahead of
-schedule. I'll tell the Captain. 
-DATA: Aye, sir.
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Research station]
 

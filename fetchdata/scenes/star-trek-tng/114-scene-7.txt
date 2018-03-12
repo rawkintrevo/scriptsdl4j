@@ -1,105 +1,75 @@
-RIKER LAFORGE TASHA PICARD ARGYLE CRUSHER DATA
+LORE DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Laboratory]
+[Corridor]
 
-(The lights come on. The apparatus is still
-functioning. Lasers and indicators are flashing and blinking) 
-RIKER: The colony laboratory. Extremely well equipped. Does this stir
-any memories, Data?
-DATA: Only a vague impression of some of my functions being tested here.
-(There are crude pictures on a notice board of a spiky object in the
-sky) 
-RIKER: Posted by proud parents? 
-DATA: It depicts something that feels familiar, sir. And dangerous. But
-I have no idea what it represents. And that is all. Except for an
-impression of this being a Doctor Soong's work area.
-RIKER: Who? You don't mean Doctor Noonien Soong?
-DATA: He was called that here, but his memories indicate he travelled
-here under a different name.
-LAFORGE: Doctor Noonien Soong, my friend, happens to have been Earth's
-foremost robotics scientist. 
-TASHA: Until he tried to make Asimov's dream of a positronic brain come
-true.
-RIKER: A positronic brain. He promised so much. And then when he failed
-completely, Doctor Soong disappeared. Now we know he went somewhere
-else to try a second time. Data, Geordi, we'll get a close look at this
-lab. You and Lieutenant Worf reconnoitre where these corridors lead.
-TASHA: Aye, sir. 
-(Tasha and Work leave) 
-(Riker presses a button and a cover slides back to reveal a transparent
-torso and face mask. Data puts the mask over his own face)
-LAFORGE: Data, it's you.
-RIKER: An epidermal mold. Made to give your exterior the desired finish.
-TASHA [OC]: Lieutenant Yar to Commander Riker.
-RIKER: Come in, Lieutenant.
-TASHA [OC]: Sir, this installation is big enough to hold hundreds of
-people. But all that's here now is empty beds.
-RIKER: Thank you, Lieutenant. Complete your record scans and report
-back here.
-LAFORGE: Commander Riker, looks like some sort of storage area.
-(Data opens the new door and dry ice pours out before revealing another
-android, in pieces) 
-RIKER: How many more Datas are there?
-LAFORGE: Looks like just these two. I mean, that and the real Data.
-DATA: Commander, can this be another me? Or possibly my brother?
-RIKER: I honestly don't know, Data.
-DATA: He needs assembling.
-RIKER: He? Data, we don't know that this can become alive.
-DATA: It is very important for me to know that, sir. I never dreamed it
-was possible I might find some link with some form like my own.
-RIKER: Understood. We'll take it back to the ship with us.
+DATA: Do you realise that Commander Riker's
+hypotenuse question tricked you into showing your knowledge was greater
+than you were indicating?
+LORE: He didn't seem that clever. I'll be more careful.
+DATA: You tend to underestimate humans, my brother. Praising young
+Wesley on the helm, for example
+LORE: A child!
+DATA: He has a child's body, but we have found him to be much more.
+LORE: Thank you for that information, too. You do care about how I
+perform. I pledge to be worthy of your teaching, my brother. Try not to
+be jealous of my abilities. 
+[Data's Quarters]
 
-Captain's log, Stardate 41242.45. Despite having
-only a few hours in which to explore Data's home planet we've
-discovered something which may explain Data's beginnings, if we can
-properly assemble and communicate with what we've found.
+(Data sits at a computer terminal) 
+LORE: What information are you requesting?
+DATA: Everything available on a Doctor Noonien Soong.
+LORE: Good old Often Wrong Soong. A joke, brother. Actually, he was a
+genius by human standards.
+DATA: But he had destroyed his own reputation by making what seemed
+wild promises about his positronic brain design, almost all of which
+failed.
+LORE: Promises he later proved to be true. Which made you and me
+possible, brother. Our beloved father. Will I soon have a uniform like
+that, brother?
+DATA: If you get one the way I did, Lore, it will mean four years at
+the Academy, another three as ensign, ten or twelve on varied space
+duty in the lieutenant grades.
+LORE: A system designed to compensate for limited human ability. And
+you, brother, are beginning to think as a human. You and I are
+completely different from them. Are you truly satisfied with the
+knowledge and memory of a few hundred human colonists? Suppose it could
+reflect thousands? Or millions? Or the knowledge of hundreds of
+millions of life forms of every kind?
+DATA: How?
+LORE: We will discuss that in time.
+DATA: And will we also discuss, Lore, which of us was constructed first?
+LORE: It would be foolish to underestimate you, brother. Yes, I lied
+when I said you were made first, but with good reason. Doctor Soong
+made me perfect in his first attempt. But he made me so completely
+human the colonists became envious of me. 
+DATA: You lived with the colonists?
+LORE: Until they petitioned Soong to make a more comfortable, less
+perfect android. In other words, you, brother. Haven't you noticed how
+easily I handle human speech? I use their contractions. For example, I
+say can't or isn't, and you say cannot or is not. (sings) I say tomato,
+you say tomahto. I say potato, you say potahto. (laughs) A very old
+joke. But then you also have trouble with their humour. Am I right?
+DATA: Quite true. I keep trying to be more human, and keep failing. 
+LORE: Do you realise, brother, I can help you become more human?
+DATA: And do you realise, Lore, that I am obligated to report all of
+this to our ship's Captain?
+LORE: I assumed as much when I began studying you. May I use this to
+learn more of this vessel and its customs?
+DATA: Use it also to describe for the Captain the time you spent among
+the colonists. Including everything you know about what happened to
+them.
+LORE: I promise a report of great detail and accuracy.
+DATA: Thank you, Lore. I now have duties to perform. Unless of course,
+you need something more.
+LORE: I have more than I dreamed possible, brother. 
+(And Lore starts accessing ship's records at great speed from terminal
+40271)
 
-[Laboratory]
-
-(A mass of people are working on putting the pieces
-together, while Data looks on) 
-CRUSHER: Signal from the Captain. They need you at the debriefing.
-DATA: I've been most anxious to hear the Chief Engineer's opinion,
-Mister Argyle. Do you believe he can be made to function?
-ARGYLE: It appears to include all the components in your body. Not that
-we fully understand your construction either.
-CRUSHER: We have our top specialists working on its construction,
-Mister Data.
-ARGYLE: Just one thing. Without disassembling you, of course, if we
-should need more
-CRUSHER: If we should need to compare this with the way you're put
-together? 
-(Data nods)
-
-[Observation Lounge]
-
-PICARD: Bringing it up here was the right thing to
-do, Number One. We were just saying, Data, that if your duplicate
-functions, it might answer a lot of questions.
-RIKER: Does it appear to have all your parts?
-DATA: Completely, sir.
-LAFORGE: Will we know how to turn it on?
-PICARD: All right, all right. Legitimate questions about any of this
-need not be asked apologetically. You feel uncomfortable about aspects
-of your duplicate, Data. We feel uncomfortable too, and for no logical
-reason. If it feels awkward to be reminded that Data is a machine, just
-remember that we are merely a different variety of machine. In our
-case, electrochemical in nature. Let's begin to handle this as we would
-do anything else.
-LAFORGE: Agreed, Captain.
-PICARD: Let's begin with you, Data.
-DATA: Well, sir, a good starting point may be, why was I given human
-form?
-LAFORGE: Well, to make it easier for humans to relate to you. Had to
-be. But your designer may have had something else to prove as well.
-PICARD: That human-shaped robots need not be clumsy or limited. You
-certainly operate as well as we do, Data 
-DATA: Better in some ways, sir. 
-RIKER: You might want to have a look at this, Captain. Could be a link
-to the disappearance of the colonists. It was displayed in the lab, no
-doubt by proud parents. It could be just a child's imagination, but
-several children did similar drawings.
-CRUSHER [OC]: Doctor Crusher to Captain. At this point, sir, we very
-much need Mister Data's help.
-PICARD: He's on his way, Doctor.
+Captain's log, stardate 41242.5. Thanks to Lore's
+report, we now know what happened to the colonists. Beginning with a
+child's drawing, enhanced by Lore's description, our computer has
+constructed the image of a great crystalline entity which feeds on
+life, insatiably ravenous for the life force found in living forms,
+capable of stripping all life from an entire world.
 

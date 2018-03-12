@@ -1,93 +1,44 @@
-TROI HUTCH NEIL LAFORGE WAITER PICARD KELSEY RIKER POMET SATLER ORTON DATA KIROS
+PICARD KELSEY GUEST7
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Jefferies tube]
 
-(Picard is caught trying to climb up. It's Patricia
-Tallman in alien makeup as Kiros) 
-[Arkaria base]
+KELSEY: Three more decks, then we take corridor
+fifteen B all the way to Ten Forward. 
+(She stops climbing. The next set of ladders is missing.) 
+GUEST7: What's wrong? 
+KELSEY: We have to find another way up. The rungs are cut. 
+[Sickbay]
 
-DATA: Yes, but Tyrellian laser art is very similar
-in both form and composition. 
-HUTCH: Of course. You know, funny you should mention that. I used to be
-stationed on Tyrellia. 
-DATA: Really? Did you know that there are currently five Tyrellians
-serving aboard the Enterprise. 
-HUTCH: That's fascinating. Not too many people know this, but Tyrellia
-is one of only three known inhabited worlds without a magnetic pole. 
-DATA: I was aware of that. But are you aware that Tyrellia is one of
-seven known planets with no atmosphere whatsoever. 
-HUTCH: Really? 
-TROI: They're still at it. 
-RIKER: Non-stop. I have to admit it has a certain strange fascination.
-How long can two people talk about nothing? 
-(Geordi is helping himself to the buffet when his visor picks up
-something.) 
-WAITER: Is something wrong? 
-LAFORGE: I don't know. I was just getting some very strange energy
-readings from your table here. 
-WAITER: I'm sure it's nothing serious. Perhaps the heating element
-under the table is malfunctioning. 
-LAFORGE: Maybe I should take a look at it for you. 
-ORTON: I'm sure we can handle this, whatever it is, Commander. There's
-no need to concern yourself. 
-LAFORGE: Well, maybe I should look at the heating element. I mean, in
-case it 
-ORTON: It's all right. Please, don't worry. 
-RIKER: What was all that about? 
-ORTON: I assure you it's all right. We'll look into it. You don't have
-to concern yourself. 
-WAITER: Orton, now! 
-(Orton knocks Geordi over. The waiter gets a rifle from under the table
-and fires it at Geordi, hitting him square in the chest. Orton gets a
-gun for himself.) 
-HUTCH: What is going on? 
-(Orton shoots him) 
-ORTON: Stay right where you are.
+(Picard is mixing up ingredients) 
+KELSEY [OC]: That wasn't very clever, Mister Mot.
 
-[Engineering]
+[Jefferies tube]
 
-SATLER: (a human male) Reduce the plasma pressure
-to zero point six percent nominal. 
-POMET: (an alien male) Zero point six. 
-SATLER: How does the conduit look? 
-POMET: It's clear. 
-SATLER: All right. The main plasma flow has been shunted to the aft
-conduit. We're ready here. 
-NEIL: Okay. That should do it. I think. 
-KELSEY: (did I mention she's a redhead?) Be sure, Neil. 
-NEIL: Yes. Yes, that does it. All right. Transfer five hundred
-milligrams from the reserve system to the engine core. 
-(Satler does it) 
-NEIL: Perfect. 
-KELSEY: Adequate. Disable the containment overrides and get the
-interlocks off the magnetic seal. Pomet, prepare the transport
-assembly. Keep watching the power flow. It might 
-(Picard is brought in.) 
-KELSEY: Keep working. Where did he come from? 
-KIROS: I found him on deck seven. 
-KELSEY: Who are you? 
-PICARD: My name is Mot. I'm the barber. 
-KELSEY: The barber? What the hell are you doing here? Everyone was
-supposed to be evacuated to the surface. 
-PICARD: Yes, I know. But I wanted to go riding, but I didn't have my
-saddle, so I went back to get it and 
-KELSEY: Your saddle? 
-PICARD: Yes, that's right. It's on deck seven. I left it in the
-corridor. And then the power went out and I got lost 
-KELSEY: All right, all right, shut up. Shut up! Any sign of Devor? 
-KIROS: No. 
-KELSEY: Satler. Get down here and keep an eye on our barber. All right,
-go see if you can find Devor. Make sure nothing's wrong. 
-(Kiros leaves) 
-SATLER: Sit down. 
-PICARD: All right. Just don't point that thing at me. 
-SATLER: Just do what I tell you, and you won't have to worry. 
-KELSEY: How long until you're ready? 
-POMET: Forty, maybe fifty minutes. 
-KELSEY: The baryon sweep hits this compartment in thirty minutes. 
-POMET: The field diverter will protect us. 
-KELSEY: It's not us I'm worried about, it's that storage unit. I want
-the trilithium resin in there and secured before the sweep gets here. I
-don't want to take any chances. 
-POMET: Understood.
+KELSEY: If you knew where we were, you should have
+attacked us. Now we'll just take another route. One you might not be
+able 
+[Sickbay]
 
+KELSEY [OC]: To predict. 
+PICARD: There are only so many ways to Ten Forward. Ten Forward is the
+logical place to be if you want to stay ahead of the baryon sweep. 
+[Jefferies tube]
+
+KELSEY: That sweep is just as big a threat to you
+as it is to us. In fact, if I were you, Mister Mot 
+[Sickbay]
+
+KELSEY [OC]: I'd be trying to find a way off this
+ship. 
+(Picard's test concoction flares nicely) 
+PICARD: I plan on leaving the same way you do. On your ship. 
+[Jefferies tube]
+
+KELSEY: What ship?
+PICARD [OC]: Come on, Kelsey. 
+[Sickbay]
+
+PICARD: If you've been planning this so long, you
+must have a way of getting off the Enterprise and leaving this system.
+I think you have a ship coming for you. I plan to be on it. 

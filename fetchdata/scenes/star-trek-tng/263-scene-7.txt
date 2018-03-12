@@ -1,74 +1,40 @@
-PICARD CRUSHER DATA LAFORGE WORF
+GUEST0 RIKER WORF PICARD GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Bridge]
 
-DATA: We have analysed the imaging logs. It appears
-the Array was reprogrammed to observe several Federation sites. 
-LAFORGE: This is Deep Space Five. Starbase Forty seven. The Iadara
-Colony and the Utopia Planitia Shipyards. 
-PICARD: They're responsible for new starship development. 
-WORF: Someone is using the Array for covert surveillance of the
-Federation. 
-DATA: That is our theory. We believe unauthorised access was made six
-days ago. The imaging logs from that day show a ship approaching the
-Array. 
-WORF: That's a Cardassian ship. Galor Class. 
-LAFORGE: We're only three light years from Cardassian space. They would
-have easy access to the Array. 
-PICARD: Mister Worf, start a long range scan of the region. See if
-there are any Cardassian ships nearby. 
-WORF: Aye sir. 
-LAFORGE: Worf, here's a propulsion analysis of the Cardassian ship. You
-might try scanning for its energy configuration. 
-(Worf has a dizzy moment and Data supports him) 
-DATA: Lieutenant, are you all right? 
-WORF: I feel dizzy. 
-(it's now Geordi supporting the swaying Worf. Picard is missing) 
-LAFORGE: Worf, you don't look so good. Maybe you ought to go to
-Sickbay. 
-WORF: Yes. Yes, perhaps I will.
+(blink and they are at red alert with a Cardassian
+ship bearing down on them) 
+PICARD: Now, Mister Worf! Now! 
+RIKER: What are you waiting for? Raise the shields. 
+(the tactical station has a raised box behind the Captain's chair) 
+WORF: This panel configuration has been altered. I do not know how 
+(Boom) 
+DATA: Direct hit. Engineering Section and deck forty two. Shield
+generators are overloading. 
+(Boom) 
+PICARD: Number One. 
+RIKER: (taking over tactical) Firing photon torpedoes. Full spread. 
+RIKER: Direct hit on their main reactor. They're returning fire. 
+(Boom) 
+DATA: Captain, we have sustained heavy damage to the deflector systems.
+Hull breaches on decks seventeen and thirty six. 
+PICARD: Ensign, take us out of here, maximum warp. 
+GUEST0: Aye, sir. 
+PICARD: Are they pursuing us? 
+RIKER: No, sir. They are firing on the Argus Array. They destroyed it,
+sir. 
+PICARD: Bridge to Engineering. Mister La Forge, what's your status? 
+GUEST1 [OC]: This is Ensign Hayes, sir. Commander La Forge has been
+taken to Sickbay with plasma burns. There's serious damage to the
+secondary plasma conduit but I think we've got it under control. 
+PICARD: Acknowledged. Ensign, lay in a course to Starbase one two nine.
 
-[Sickbay]
-
-CRUSHER: Any nausea or blurred vision? 
-WORF: No. However, I did experience some dizziness earlier today at my
-birthday celebration. 
-CRUSHER: Sounds like you're having some of the side effects from the
-concussion. I can give you some vertazine for the dizziness but I'd
-like you to rest. 
-WORF: Doctor, perhaps you are thinking of another patient. I have no
-concussion. 
-CRUSHER: Worf, you came in here this morning complaining of ringing in
-your ears. I scanned you. You had a concussion. You don't remember any
-of this? 
-WORF: No. 
-CRUSHER: Temporary memory loss is common for this kind of injury. Do
-you remember telling me about the Bat'leth tournament? You said that
-one of the competitors hit you over the head. That's why you lost the
-match. 
-WORF: I won that tournament. And I can prove it to you.
-
-[Worf's quarters]
-
-(the trophy is smaller) 
-CRUSHER: What's wrong? 
-WORF: It says ninth place. This is not the same trophy. Someone is
-playing a trick on me. 
-CRUSHER: Worf, try to stay calm. Memory loss can be very disorienting. 
-WORF: The log. I recorded a personal log on my way back to the
-Enterprise. Computer, access personal logs on Shuttlecraft Curie. Show
-my log entry for Stardate 47391.2. 
-WORF [on monitor]: Personal log, stardate 47391.2. I am returning from
-the Bat'leth competition on Forcas Three. The conditions were
-difficult. Several contenders were maimed. One of the contenders used
-an illegal T'gha manoeuvre against me. The judges chose to ignore it
-and I was robbed of my rightful standing. I was awarded ninth place. I
-am looking forward to resuming my duties aboard the En 
-WORF: I do not understand. 
-CRUSHER: Worf, I'm sure this is very disturbing for you, but don't
-worry, your memories will return. The best thing you could do right now
-is to settle back into your normal routine, but slowly. 
-WORF: Thank you, Doctor. 
-CRUSHER: Let me know if you have any more problems with dizziness. I'll
-give you a hypospray.
+GUEST0: Aye, sir. 
+PICARD: What happened back there, Lieutenant? 
+WORF: I believe I experienced another memory loss. 
+RIKER: Memory loss? What are you talking about? 
+WORF: I do not feel well. Request to be temporarily relieved of duty,
+sir. 
+PICARD: Granted.
 

@@ -1,30 +1,46 @@
-TROI LAFORGE WORF BARCLAY
+OGAWA COMPUTER RIKER LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation lounge]
 
-(Troi is the Bridge Officer, and is shivering) 
-TROI: Computer, increase ambient temperature by two degrees Centigrade
-and increase relative humidity by ten percent. 
-WORF: Computer, reset environmental controls to standard. 
-TROI: Worf, it's freezing in here. 
-WORF: You have already raised the temperature three times. It is too
-hot. 
-TROI: Live with it. Computer, execute my original command. 
-(she finally can't stand it) 
-TROI: I need a bath. You have the Bridge.
+OGAWA: I managed to get her into stasis before the
+venom paralysed her. She's going to need reconstructive surgery, but I
+think she'll be all right. 
+BARCLAY: (who can't stay still) Sir, we've analysed the venom and
+compared it to the acidic compound found in junction seventeen and on
+decks ten and twelve. They all have the same enzymatic composition. 
+RIKER: Are you saying that Worf is spraying this 
+BARCLAY: Venom. 
+RIKER: Venom all over the ship? 
+BARCLAY: I'd say so. 
+OGAWA: Sixty crewmen have begun exhibiting strange behavioural changes.
+Memory loss, fatigue, headaches. I think one thing is clear. There's
+some sort of disease aboard the Enterprise and it's spreading. 
+RIKER: I'm having trouble concentrating myself. It's like my mind keeps
+wandering. I can't 
+(La Forge runs in) 
+LAFORGE: Commander, I've got seven security teams out hunting for Worf,
+but for some reason sensors are having a difficult time locking onto
+him. I've called for a level two security alert. Do you think we should
+go to a Level One? 
+RIKER: I don't know. What do you think? 
+LAFORGE: I think we should. 
+RIKER: Okay. Sounds good. Then you'll take care of that security thing?
 
-[Jefferies tube]
+LAFORGE: Yes, sir. I will. 
+RIKER: Okay, I'll notify Starfleet. I'll let them know what's
+happening. You have your orders. (Barclays already out the door)
+Dismissed. 
+(Ogawa stands, resting with her knuckles on the desk, looks around then
+walks out with a very rolling gait.) 
+RIKER: Computer, send a subspace message to Starfleet command. Security
+channel authorisation. 
+COMPUTER: Alpha four seven authorisation required to activate security
+channel. 
+RIKER: Computer. 
+COMPUTER: Awaiting authorisation. 
+(too late, he's off with the fairies)
 
-(a panel has been eaten by acid or something) 
-BARCLAY: Here we are. Looks like a conduit ruptured. No problem, I'll
-just bypass it. 
-LAFORGE: Reg, wait a second here. Take a look at these corroded edges
-here. It looks like something has dissolved the bulkhead and eaten
-right through the conduit. There are high levels of cholic acid here.
-Enzymatic agents. You know, I wouldn't be surprised if that solvent was
-organic. 
-BARCLAY: Maybe we should run a biospectral analysis on the solvent.
-Take a closer look. 
-LAFORGE: That's a very good idea, but first we should take a break. 
-BARCLAY: You go ahead, sir. I'll take care of it.
-
+Captain's log, supplemental. Commander Data and I
+have recovered the stray torpedo after a three day search. We are
+enroute back to the Enterprise. 

@@ -1,41 +1,91 @@
-RIKER LAFORGE WORF VARRIA PICARD DATA
+GUEST1 DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jovis Cargo bay]
+[Fajo's den]
 
-DATA: Data to Enterprise. 
-PICARD [OC]: Go ahead, Mister Data. 
-DATA: This will be the last trip, sir. 
-[Bridge]
-
-DATA [OC]: The remaining cases of hytritium are now
-being loaded.
-PICARD: Acknowledged. Mister Worf, advise Beta Agni Two that our
-departure is imminent. 
-WORF: Aye, Captain. 
-RIKER: At warp six, we should be there in just over sixteen hours.
-
-[Jovis Cargo bay]
-
-(The rear hatch on shuttlepod Pike closes and Data
-gets into the pilot's seat) 
-DATA: Loading is complete. I am proceeding with departure. Enterprise
-shuttlebay two, prepare for docking, level one
-precautions for incoming material remain in effect. 
-VARRIA: If you'll just acknowledge this last load, Commander 
-(Data puts his thumb on the PADD and is enveloped in electricity. He is
-knocked out cold. Varria takes back the PADD then she scans him) 
-VARRIA: Twenty six point eight kilos of tripolymer composites. Eleven
-point eight kilos of molybdenum-cobalt alloy. One point three kilos
-Bioplast sheeting. 
-[Bridge]
-
-LAFORGE: Shuttle twelve containment field reads
-nominal. Now leaving the Jovis. 
-PICARD: On viewer. 
-LAFORGE: Containment field stable. Gravitational fluctuations within
-acceptable parameters. Flight pattern 
-(Shuttlepod Pike goes Ka-BOOM! Stunned expressions all round)
-WORF: Data. 
-Captain's log, supplemental. As the result of a yet
-unexplained shuttle explosion, Lieutenant Commander Data has been lost.
+(It's a large, clean room with ornamentation
+arranged on display around the walls and a red circular seat in the
+middle. The rigid Data is currently laid across it. He suddenly reboots
+and sits up. His communicator is gone) 
+DATA: What am I doing here? 
+(Fajo and Varria enter) 
+GUEST1: Wondrous. The detail. The balance. Was I not right, Varria? What
+a remarkable piece of work. 
+DATA: Why have I been brought here? 
+GUEST1: The voice simulation. it's perfection. The inflections, the
+timing. 
+(Fajo snaps his fingers to test Data's responses, then speaks to him as
+if Data does not understand English, complete with gestures) 
+GUEST1: It took great effort. Effort. to bring you here. I was sure he'd
+be worth it. I was right. 
+DATA: I've been delivered here against my wishes. I would like to know
+the reason. 
+GUEST1: Certainly. You have been brought here for my enjoyment and my
+appreciation. 
+DATA: Am I to infer that you intend to keep me captive? 
+GUEST1: Captive? Captive? That's such an inappropriate description. My
+dear android. May I call you Data? 
+DATA: It is my name. 
+GUEST1: Data. You will be catered to, fawned over, cared for as you never
+have been before. Your every wish will be fulfilled 
+DATA: I wish to leave. 
+GUEST1: Almost every wish. 
+DATA: This is unacceptable, sir. I have no desire to remain here and
+even if I did, my Starfleet duties would not allow it. 
+GUEST1: It's so single minded, isn't it? 
+GUEST0: Very persistent. 
+GUEST1: But it's very polite, which is a very nice touch. I decline to
+allow you to go. 
+DATA: Then I am forced to attempt escape. 
+(Data tries to force the door open) 
+GUEST1: Ten androids just like you might be able to force that thing
+open. But then again, there aren't any more just like you, are there?
+It's keyed to galvanic skin responses and DNA patterns. Sorry. 
+DATA: Then you will have to open it for me. 
+(But as soon as Data gets to almost arms reach of Fajo, he is stopped
+by a green forcefield. He tries again at a run and is thrown back
+across the room) 
+GUEST1: Oh. Really, I wouldn't do that again if I were you. This is a
+proximity-actuated field. It impedes positron flow.
+It's very bad for the brainpaths in the long term. 
+DATA: I fail to understand the value you place on my presence. 
+GUEST1: Well, just look around the room. There are items her gathered
+from half the galaxy. Right here. This is the very first Basotile ever
+created. (a sort of avant-guard sculpture) Sorry. (Fajo moves so Data
+can see it) It's very, very ancient. Hundreds of years old. It's
+priceless. 
+(He goes past a beautiful porcelain urn on a stand to an orange
+rectangular thing) 
+GUEST1: Come. This vase is made by Mark, the late Mark Off-Zel from
+Sirrie Four. (painting) Dali. This is the only known Roger Maris
+trading card from Earth circa 1962. The smell? Bubblegum. I've
+preserved the scent. What? A Lapling. 
+(A glove puppet with huge blue eyes in a case) 
+DATA: I thought they were extinct. 
+GUEST1: Extinct? Good. That is what is generally believed. She is the
+last surviving member of her species. They're very defenseless
+creatures, really.
+Everything that you see in the room here, everything. One of its kind.
+Unique. All original. Just as you are. There. (a chair) That is your
+place of honour. Sit, sit. Sit! You think perhaps it might be
+uncomfortable? But then again, you don't give a thought to comfort, do
+you. (to Varria) When Palor Toff learns of that, he'll swallow his
+tongue with envy. I can't wait to see his face. You are the crown jewel
+of my
+collection. You're a treasure beyond comparison. 
+(The comm. beeps) 
+GUEST0: Yes, go ahead. 
+GUEST1: I think you should be flattered. 
+DATA: I am not, sir. Most intelligent lifeforms find involuntary
+confinement offensive and inequitable. Moreover, you have
+violated Federation law 
+GUEST1: I know, I know. What I've done is evil, selfish, immoral,
+unprincipled, illegal. Well, I've learned to live with it. 
+GUEST0: The Andorians wish to make a bid on the shipment of Tellurian
+spices you offered. 
+GUEST1: They've had four days to decide! Why do they have to decide
+right! Sorry. 
+DATA: I must emphasize, Mister Fajo, that I consider this captivity a
+hostile act on your part. 
+GUEST1: You'll get used to it.
 

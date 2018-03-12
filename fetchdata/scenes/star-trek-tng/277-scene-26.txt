@@ -1,68 +1,33 @@
-RIKER OBRIEN WORF TASHA PICARD TROI CHILTON CRUSHER DATA
+PICARD CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Corridor]
 
-PICARD: All stop. Initiate long range scans. 
-DATA: Captain, there are four warbirds holding position on the Romulan
-side of the Neutral Zone. 
-WORF: The Federation Starships Concord and Bozeman are holding position
-on our side. 
-RIKER: A face off. The question is, who's going to move first? 
-PICARD: We are. Mister Worf, hail the Romulan flagship. 
-WORF: The warbird Terix is responding. 
-PICARD: On screen. 
-WORF [on viewscreen]: Captain Picard.
+(as Picard passes out in the future, he bumps into
+a crewman in the present)
 
-[Future - USS Pasteur Bridge]
+[Sickbay]
 
-CRUSHER: Hello, Worf. It's been a long time. 
-WORF [on viewscreen]: It is good to see you again. 
-CRUSHER: Have you had a chance to read our request? 
-WORF [on viewscreen]: Yes. But you must realise I am no longer a member
-of the High Council. 
-PICARD: But surely, Worf, you must still have some influence. We have
-to get into the Neutral Zone. Can't you just get us permission to cross
-the border? 
-WORF [on viewscreen]: I must refuse. It is for your own safety. The
-Neutral Zone is extremely volatile. If Admiral Riker had given you a
-starship with a cloak, you would have been safe. It is hard to believe
-that even he would refuse to help you. 
-PICARD: I don't care what kind of ship we go in. We have to get to the
-Devron System. 
-WORF [on viewscreen]: I am sorry. My first duty is to the Empire. I
-must adhere to regulations. 
-PICARD: I know that I'm an old man and I'm out of touch, but the Worf
-that I remember was more concerned with things like honour and loyalty
-than rules and regulations. But that was a long time ago. Maybe you're
-not the Worf once I knew. 
-WORF [on viewscreen]: Dor sHo GHA! You have always used your knowledge
-of Klingon honour and tradition to get what you want from me. 
-PICARD: Because it always works, Worf. Your problem is that you really
-do have a sense of honour and you really do care about trust and
-loyalty. Don't blame me for knowing you so well. 
-WORF [on viewscreen]: Very well. You may cross the border. But only if
-I come with you. I am familiar with the Neutral Zone. 
-PICARD: Terms accepted. 
-(transmission ends) 
-CRUSHER: Inform transporter room two to beam the Governor aboard. I
-must make one thing very clear, Jean-Luc. If we run into any serious
-opposition, I'm taking us back into Federation territory. We aren't
-well armed and wouldn't last long in a fight. 
-CHILTON: Governor Worf is aboard, Captain. 
-CRUSHER: All right. Set course for the Devron system, warp thirteen.
-(pause) Once more, for old time's sake? 
-(Picard sits in the Captain's chair and raises his hand) 
-PICARD: Engage.
-
-[Past - Bridge]
-
-O'BRIEN: Engage to where, sir? 
-PICARD: Set a course for the Devron system, and engage at warp nine. 
-TASHA: The Devron System is inside the Neutral Zone, sir. 
-PICARD: I'm aware of that, Lieutenant. Carry out my orders, Chief. 
-O'BRIEN: Aye, sir. 
-TROI: Captain, may I have a word with you in private? 
-PICARD: Yes of course, Counsellor. Contact Farpoint Station. I wish to
-speak with Commander Riker. 
-TASHA: Aye, sir.
+CRUSHER: Your visual acuity's improving by the
+hour, Geordi. 
+(she goes over to another bed) 
+CRUSHER: I'm sorry, Alyssa. May I take another look? You'll have a
+little tenderness for a few days. That's to be expected. 
+(Picard enters) 
+CRUSHER: Jean-Luc. I'll be right back, Alyssa. 
+(she moves away from Alyssa and her husband) 
+CRUSHER: Alyssa lost the baby. I think it's the same phenomenon that
+affected Geordi. Somehow, the temporal energy from the anomaly caused
+the foetal tissue to revert to an earlier stage of development. It's as
+if the unborn child began to grow younger, until finally the DNA itself
+began to break down. 
+PICARD: How is she? 
+CRUSHER: Physically, she's fine for now. But if this temporal reversion
+continues, I don't think any of us are going to be fine for much
+longer. 
+PICARD: So this is affecting the entire crew. 
+CRUSHER: Our cellular structures appear to be coalescing, reverting to
+earlier forms. In some cases, this has caused old injuries to be
+healed, but the effect is only temporary. Eventually, may kill all of
+us.
 

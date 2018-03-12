@@ -1,39 +1,49 @@
-KEIKO CRUSHER LAFORGE WORF
+TROI RO OBRIEN KEIKO WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cargo bay]
+[Bridge]
 
-(they've moved the containers) 
-CRUSHER: The levels are still rising. There must be some way to put
-that fire out. 
-LAFORGE: The energy's being fed by the ship's internal power grid and
-we can't even get near that. The only way to stop it would be to
-eliminate its supply of oxygen. Wait a minute. Doctor, I've got an
-idea. It's kind or wild, but we just might be able to kill two birds
-with one stone. 
-CRUSHER: Let's hear it. 
-LAFORGE: Okay. We open the external door. That would depressurise the
-cargo bay and suck all of those containers out into space. At the same
-time, the lack of oxygen should put out the plasma fire. 
-CRUSHER: What about us? 
-LAFORGE: We just need to find something in here to hold onto while the
-air is evacuating. Then, we close the door, repressurise the bay. 
-CRUSHER: What about this? 
-(a ladder up to the second level) 
-LAFORGE: Yeah, that ought to do it.
+O'BRIEN: Sir, the field strength is stabilising.
+Eighteen percent, twenty, twenty five. 
+RO: I guess they got our message. I was wrong, Counsellor. 
+TROI: You could have easily been right.
+
+[Corridor]
+
+(a turbolift door opens, and Picard hauls himself
+onto the deck like a seal hauling itself onto land, followed by the
+children. They sit panting)
 
 [Ten Forward]
 
-(Keiko is doing some bandages) 
-KEIKO: There that should do it. 
-WORF: (to man with broken leg) There will be a sharp pain as I set the
-bone. Prepare yourself. Good. Good, you bore that well. 
-(Keiko gasps) 
-WORF: Keiko? 
-KEIKO: I'm all right. I think. 
-WORF: Perhaps you should lie down. 
-KEIKO: Oh, oh, oh. I'm having contractions. 
-WORF: I believe that is not uncommon in the late months of pregnancy. 
-KEIKO: No, I mean contractions. I'm going into labour. 
-WORF: You cannot. This this is not a good time, Keiko. 
-KEIKO: It's not open for debate. Like it or not, this baby is coming.
+WORF: Congratulations. You are fully dilated to ten
+centimetres. You may now give birth. 
+KEIKO: That's what I've been doing. 
+WORF: Bearing down is the next stage. It should start at full dilation.
+Why has it not begun? 
+KEIKO: I don't know. I don't think it's up to me. It happens when it
+happens. 
+WORF: The computer simulation was not like this. That delivery was very
+orderly. 
+KEIKO: Well, I'm sorry! 
+WORF: Did you feel an uncontrollable urge to push? 
+(screams with a nod) 
+WORF: Good. You are bearing down. Now you must push with each
+contraction and I must urge you gently but firmly to push harder. Push,
+Keiko. Push hard. Push, Keiko. Push. Push. 
+KEIKO: I am pushing! 
+WORF: The baby is emerging head first. One more contraction. 
+KEIKO: Okay. 
+WORF: That's good. Push. Push. Hard. I have the baby. I will smack the
+child to induce breathing. 
+(waaa!) 
+WORF: Now I will cut the umbilical cord. Blanket. I believe she looks
+like Chief O'Brien. 
+(he hands the baby to Keiko) 
+KEIKO: Hello. You were wonderful, Worf. I couldn't have done it without
+you. Hello.
+
+Captain's log, supplemental. We are en route to
+Starbase sixty seven, to undergo repairs. Life aboard the Enterprise is
+slowly returning to normal.
 

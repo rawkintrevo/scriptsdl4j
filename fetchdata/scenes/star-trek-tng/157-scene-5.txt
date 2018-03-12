@@ -1,47 +1,95 @@
-RIKER MAROUK PICARD YUTA WESLEY DATA
-
-[Marouk's quarters]
-
-MAROUK: A fine ship, Commander. 
-RIKER: We're all very proud of her. 
-MAROUK: Yuta, a light meal in twenty minutes. 
-YUTA: (a young woman) May I be shown the kitchen, Commander? 
-RIKER: You're the chef? 
-YUTA: Yes. I'll prepare all meals for the Sovereign and her servants. 
-RIKER: We can provide you with a kitchen, but it won't really be
-necessary. These food dispensers can synthesise anything that you may
-been. I'll show you. Sovereign, may I offer you a drink? 
-MAROUK: Yes, thank you. Cold water. 
-RIKER: Computer, a glass of water, five degrees. 
-YUTA: Please. 
-(She takes the glass and sips it)
-RIKER: You're also the food taster? 
-YUTA: That's part of the cook's duty. 
-(She takes the drink to Marouk) 
-YUTA: I'm sure the Sovereign will wish to sample many of the cuisines
-your ship has to offer, but there are
-some Acamarian dishes that she will insist upon. 
-RIKER: I will arrange for a technician to help programme your recipes
-into the computer. Of course, I'll have to try some of them. What's
-your specialty? 
-YUTA: I have none. 
-RIKER: Don't be modest. You can't tell me you haven't come up with a
-few culinary delights. 
-YUTA: There is a spiced parthas dish. 
-RIKER: Parthas? 
-YUTA: A green vegetable with fleshy roots. 
-RIKER: Parthas a la Yuta. I look forward to tasting it. Sovereign.
-Chef.
+TROI GUEST3 PICARD GUEST4 RIKER GUEST5 WESLEY CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WESLEY: Now entering standard orbit of Gamma Hromi
-Two, sir. 
-DATA: Captain, I am detecting life readings from the planet surface, as
-well as several small areas of thermal radiation and carbon dioxide
-emissions, indicative of combustion. 
-WESLEY: Campfires, Data. 
-DATA: Is that not what I said? 
-RIKER: It's worth a look. 
-PICARD: Make it so. 
-RIKER: Data, Worf. 
+PICARD: Brull, will you show Mister Crusher the
+course to set to the Hromi Cluster? 
+GUEST4: A child? This doesn't inspire my confidence. 
+(Picard gives him a withering glare. Brull goes over to the console but
+clearly doesn't know what he's looking at) 
+WESLEY: This is our present position. 
+GUEST4: Set a heading for three four three mark seven two. 
+WESLEY: That's going to take us through the centre of an asteroid belt.
+
+GUEST4: What's the matter, kid? Can't you fly yourself around a couple
+of rocks? 
+WESLEY: Sure I can, but if we take this heading we can avoid the belt
+completely, and only lose twelve point one minutes at warp seven. 
+GUEST4: Have it your way, kid.
+
+[Ten Forward]
+
+GUEST3: For centuries, my planet was in chaos.
+Loyalty to one's clan was absolute. The slightest injury to one member
+demanded violent retaliation. 
+PICARD: And these blood feuds could last for decades? 
+GUEST3: The obsession with vengeance would be passed from generation to
+generation. And with each act of retribution, the violence would
+escalate. 
+PICARD: It's not unlike much the history of my own planet. 
+(Troi and Riker enter) 
+GUEST5: Your pardon, Sovereign. May I be excused briefly? Commander Riker
+requested that I prepare him an Acamarian dish. 
+GUEST3: Of course, Yuta. 
+(Brull enters and goes straight to the bar. He takes another man's
+drink then heads over to Wesley's window seat) 
+GUEST4: What are you doing? 
+WESLEY: Homework. 
+GUEST4: What is this? 
+WESLEY: Math. 
+GUEST4: I can see that, but what does it mean? 
+WESLEY: This is the locally Euclidean metrisation of a k-fold
+contravariant Riemannian tensor field. 
+GUEST4: You good at it? You don't like me. 
+WESLEY: I didn't say that. 
+GUEST4: No problem. I have many friends that don't like me. But what do
+you know about me? 
+WESLEY: You're a thief. 
+GUEST4: I do it to survive, not because I enjoy it. We Gatherers value
+our freedom. We do as we want and we answer to no creature. 
+WESLEY: Then why are you helping Sovereign Marouk to change all that? 
+GUEST4: Maybe because I want something better for me, and for my
+children. 
+WESLEY: You have children? 
+GUEST4: Yeah, two sons. One's just about your age. He's not any good at
+math. 
+(Yuta brings a tray to Troi and Riker's table) 
+RIKER: Parthas a la Yuta. 
+GUEST5: With the help of one of your food stations. 
+TROI: It's wonderful. 
+RIKER: Truly excellent. 
+GUEST5: Thank you. 
+RIKER: Would you care to join us? 
+GUEST5: I don't want to intrude. 
+TROI: You're not. I was just leaving. Please, sit down. 
+(Troi leaves) 
+RIKER: It really is delicious. 
+GUEST5: I'm glad it pleases you, Commander. 
+RIKER: I'm not your commander. My name is William. 
+GUEST5: I will call you William if you prefer. 
+RIKER: I do. When you say Commander you say it like you say Sovereign
+to Marouk. 
+GUEST5: As a servant. You're an excellent commander, but you'd make a
+poor sovereign. 
+RIKER: Why's that? Not that I disagree. 
+GUEST5: You're not comfortable with servants. 
+RIKER: No, I prefer the company of equals. 
+GUEST5: So you treat me as an equal. 
+RIKER: And you're not comfortable with that? 
+GUEST5: I'm not used to it. I've always been a servant. Not that I'm
+complaining. The Sovereign treats me well. I have all that I could
+want. 
+RIKER: What about freedom? 
+GUEST5: I can never have that. 
+RIKER: Because you're the property of the Sovereign? 
+GUEST5: No. I'm not her slave. I can leave whenever I wish. 
+RIKER: But you have no place to go? 
+GUEST5: Just the opposite. My path is all too clear. 
+RIKER: Yuta, you're an excellent chef, but you speak in riddles. 
+GUEST5: I've never been very good at conversation. 
+GUEST3: Yuta. 
+GUEST5: I believe the Sovereign wants me to return. Enjoy the parthas. 
+CRUSHER [OC]: Sickbay to Commander Riker. I've discovered something
+interesting, Will. 
+RIKER: On my way. 

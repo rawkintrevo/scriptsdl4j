@@ -1,54 +1,77 @@
-RIKER TASHA PICARD CASTILLO CREWWOMAN DATA
+LAFORGE CREWMAN TASHA PICARD GUEST1 GUEST0 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[1701C Bridge]
+[Bridge]
 
-CASTILLO: I just can't quite make myself believe
-it. Twenty two years! 
-TASHA: I'm reading forty percent on forward shields. What do you have
-on aft? 
-CASTILLO: Forty percent. 
-TASHA: That won't cut it. Commander, advise Lieutenant La Forge that
-shields are below minimum. 
-RIKER: Acknowledged. 
-CASTILLO: We'll never see our homes again. Our families. 
-TASHA: How do you know your family's not still alive? 
-CASTILLO: You're right, I don't. But imagine coming home after
-twenty-two years. Would I even recognise them? 
-TASHA: What are the stats on main phaser banks? 
-CASTILLO: Emitters available, sixty percent forward, fifty two percent
-aft. 
-TASHA: Good. Let's take a look at the torpedo launchers. 
-CASTILLO: I guess I'm lucky to be alive at all. 
-TASHA: You may not like the future. It's been a long war. The
-Federation has lost more than half of Starfleet to the Klingons. 
-CASTILLO: We were negotiating a peace treaty when I left. 
-TASHA: A lot of changes, Lieutenant. A lot of changes. 
-CASTILLO: When we get a break, maybe you could fill me in on some of
-them. 
-TASHA: Photon banks are depleted. Auxiliary fusion generators are down.
+CRUSHER: If she's right, we may not even be in an
+alternate time line.
+LAFORGE: Yeah, who knows if we're dead or alive.
 
-[1701D Bridge]
+[Turbolift]
 
-DATA: There is a high degree of probability that
-the temporal rift is symmetrical, Captain. 
-PICARD: Then what would happen if the Enterprise C were to fly back
-through it? 
-DATA: Back, sir? The Enterprise C would emerge in her own time period
-at almost the same instant she left. 
-PICARD: Right in the middle of the battle with the Romulans. 
-DATA: Yes, sir. 
-PICARD: Is there any possibility she could survive?
-DATA: None, sir. 
-PICARD: Then sending them back would be a death sentence.
+DATA: Engineering. Is Engineering your destination
+as well? 
+TASHA: What? Oh, deck six. Sorry. 
+DATA: If I interpret your facial expressions correctly, you are
+preoccupied with something unpleasant. 
+TASHA: No, I was just thinking about a lot of things. I've been working
+with one of the officers on the Enterprise-C. He's nice. I like him.
+I'm worried about what's going to happen to him. 
+DATA: We may never know what happens. If they succeed, we will not even
+realise that these events occurred. 
+[1701-C Bridge]
 
-[Corridor]
-
-CREWWOMAN [OC]: Lieutenant Barrett to
-communications. 
-TASHA: She was the first Galaxy Class warship built by the Federation.
-Forty two decks. Capable of transporting over six thousand troops. 
-CASTILLO: How long have you been on board? 
-TASHA: Four years. Straight out of the Academy. I was lucky to get the
-Enterprise. 
-CASTILLO: Yeah, me too. I mean, my Enterprise.
-
+GUEST0: Shields are up to seventy two percent.
+That's better. 
+TASHA: Good. 
+GUEST1: Do you believe this Guinan? 
+PICARD: I discovered long ago that she has a special wisdom. I've
+learned to trust it. I could arrange for you to speak with her if you
+wish. 
+GUEST1: Captain, I would be lying to you if I told you there was a
+chance in hell of coming out of this alive. Why doesn't your ship come
+back with us? The Romulans would be no match for your weaponry. 
+PICARD: I can't do that. 
+GUEST1: No, I suppose not. You don't belong in our time any more than
+we belong in yours. To be honest, Picard, a significant number of my
+crewmembers have expressed a desire to return, even knowing the odds.
+Some because they can't bear to live without their loved ones, some
+because they don't like the idea of slipping out in the middle of a
+fight. But I have told them that in the here and now, the Federation
+needs another ship against the Klingons. And we'd better get used to
+being in the here and now. 
+PICARD: But if you go back, it could be a great deal more helpful. The
+war is going very badly for the Federation, far worse than is generally
+known. Starfleet Command believes defeat is inevitable. Within six
+months we may have no choice but to surrender. 
+GUEST1: And you're saying all this may be a result of our arrival
+here? 
+PICARD: One more ship will make no difference in the here and now. But
+twenty two years ago, one ship could have stopped this war before it
+started. 
+GUEST1: Mister Castillo. 
+GUEST0: Yes, Captain? 
+GUEST1: Inform the crew we're going back. 
+GUEST0: Yes, Captain. 
+GUEST1: The Romulans will get a good fight. We'll make it one for the
+history books. 
+PICARD: I know you will, Captain. Lieutenant Yar? 
+TASHA: Permission to remain for a moment, sir. 
+PICARD: Granted. 
+GUEST1: Transporter room, Captain Picard is ready to return to his
+ship. 
+CREWMAN [OC]: Aye, Captain. 
+TASHA: I just wanted to say good luck. 
+GUEST0: I'll try to put some of your tactical briefing to good use
+when we get back. 
+TASHA: Your ship has much more manoeuvrability than the Romulan
+counterparts of that era. Actually, if you could just isolate... You'll
+do fine. 
+GUEST0: If you get back to Earth and you see a man, say, in his late
+fifties taking a hard look across a crowded room. Hey, you never know. 
+TASHA: Goodbye, Lieutenant. 
+(weapons impact. Tasha dives to the ops console and starts working) 
+GUEST1: Red Alert! Full power to shields. 
+TASHA: Shields are up. Functioning. 
+GUEST0: Initiating evasive manoeuvres. Gamma sequence. 
+GUEST1: Ready phasers. Enterprise-D 

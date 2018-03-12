@@ -1,36 +1,45 @@
-PICARD RIKER OBRIEN DATA WORF
+TROI LAFORGE WORF PICARD GUEST4 RIKER GUEST3 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
-
-(Riker, Data and Worf are the away team) 
-O'BRIEN: Give me a moment, gents. We're dealing with an extremely
-narrow access point. 
-RIKER: Phasers on stun. Ready when you are. 
-O'BRIEN: I believe we've got it now. You have a green light, Commander.
-
-RIKER: Energise.
-
-[Planet surface]
-
-(Nothing. Absolute void, except for..) 
-DATA: Those ammonia storms are less than a kilometre away, yet they do
-not appear to penetrate this breathable zone. 
-RIKER: It's like the eye of a hurricane. 
-WORF: Commander, what is that? 
-(It is a revolving door, with art nouveau decoration. No building, just
-the turning door and it's frame) 
-RIKER: A door. 
-DATA: The structure must be here, yet we cannot see it. 
-RIKER: Enterprise, this is Commander Riker. 
 [Bridge]
 
-RIKER [OC]: As your read out shows, this is an
-unusual place.
+LAFORGE: We're almost there, Captain. We'll be able
+to attempt contact in a few minutes. 
+TROI: Captain, the situation down there has changed. 
+PICARD: In what way? 
+TROI: Commander Riker has become tense. Closed in, he's feeling
+trapped. 
+[Casino]
 
-[Planet surface]
+WORF: Phasers are totally ineffective on all
+surfaces. 
+DATA: Sir, our options appear quite limited. 
+RIKER: We don't have any. If we're going to get out of here, we're
+going to have to do it on our own. I'm going to get some answers out of
+that desk clerk. 
+[Lobby]
 
-RIKER: Completely calm, no sound, no movement, yet
-a few hundred metres away a storm is raging. 
-PICARD [OC]: Any information about the structure. 
-RIKER: Yes, sir. There is an antique revolving door. It could be an
-entrance. 
+(The bellboy has taken a gun from a drawer) 
+GUEST4: Are you crazy? 
+GUEST3: Wrong. I'm finally getting some smarts. 
+GUEST4: You think you're going to scare Mickey D with that gun? 
+GUEST3: I'm going to make him leave Rita alone. 
+GUEST4: Kid, she's a big girl, and she's Mickey D's girl. 
+GUEST3: Not any more. Not after tonight. 
+GUEST4: Look, kid. I like you. I don't want to see you get hurt,
+especially over some dame 
+GUEST3: Don't call her that. You'll see. You'll see how tough Mickey D
+is. He's nothing. 
+RIKER: I want some answers. 
+GUEST4: I'm sure the concierge will be delighted 
+RIKER: We would like to get out of here. Now. 
+GUEST4: The Royale's exits are clearly marked. 
+RIKER: That's not good enough. 
+GUEST4: If you have a complaint about the service you've received during
+your stay here, you can always take it up with the manager. 
+RIKER: Fine. I'd like to see him, immediately. 
+GUEST4: I'm afraid the manager is very busy. 
+(The desk clerk leaves) 
+PICARD [OC]: (faint) Riker, can you read me? 
+RIKER: Yes.
+

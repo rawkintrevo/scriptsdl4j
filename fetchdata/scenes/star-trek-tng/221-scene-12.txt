@@ -1,68 +1,37 @@
-LAFORGE WORF PICARD LENOR BRIAM COMPUTER QOL
-
-[Corridor]
-
-WORF: Unless you can arrange your own transport,
-you will have to remain on the Enterprise until we complete our
-mission. 
-QOL: That will not be a problem. 
-LENOR: We are in no hurry. 
-QOL: We look forward to enjoying the comforts of your fine ship. 
+GUEST2 GUEST5 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ferengi quarters]
 
-QOL: Quite acceptable. Not what we're used to, you
-understand, but it will do. 
-LENOR: Perhaps your captain would care to invite us to join him for
-dinner this evening? 
-WORF: The captain dines alone. 
-(Worf leaves) 
-QOL: A pity. That was too easy.
+(Briam walks in, with coins in his hand) 
+GUEST3: Ambassador. 
+GUEST2: What is the meaning of this? 
+GUEST3: Ah, I see you got our message. 
+GUEST2: Is this some sort of bribe? I am not amused. 
+GUEST5: No, Ambassador. Your attitude is quite understandable. 
+GUEST3: This is just a sample. 
+GUEST5: The bribe is ten thousand more. 
+GUEST3: Ludugial gold. The purest in the galaxy. 
+GUEST5: We know the lifestyle of a Kriosian Ambassador is far from
+comfortable. 
+GUEST3: You deserve to live a life of luxury. 
+GUEST2: How dare you suggest 
+(He throws the coins on the floor) 
+GUEST5: Our money! What? You drive a hard bargain. 
+GUEST3: Twenty thousand, but not an ingot more. 
+GUEST5: We must have the metamorph. 
+GUEST3: She is the answer to a Ferengi prayer. 
+GUEST5: We have a ship waiting to rendezvous with us in three hours. We
+can all transport off together. 
+GUEST2: Thank you for sharing that information. I shall pass on along to
+Captain Picard. 
+GUEST3: You can't do that. 
+GUEST2: Let go of me. 
+(The pair haul Briam away from the door and he is thrown into a glass
+table, which of course shatters)
 
-[Corridor]
+Captain's log, supplemental. The Ferengi have been
+dispatched via shuttle to Starbase one one seven. What charges will
+be brought against them depends on whether or not Ambassador Briam
+recovers.
 
-LAFORGE: We've been working from your drawings,
-Ambassador. I hope we're in the ballpark. 
-BRIAM: Ball park? 
-PICARD: That's an old human expression. Mister LaForge hopes that we've
-got close to achieving what you wanted. 
-LAFORGE: Computer, run holodeck programme Krios One. 
-COMPUTER: Enter when ready. 
-[Holodeck - Temple]
-
-(stonework, a raised altar platform, a central
-chandelier) 
-BRIAM: Astonishing. It is the ancient Temple of Akadar. It is this
-temple that bonds Krios and Valt, gentlemen. Two brothers ruled a vast
-empire from this site until they were torn apart by their love for an
-extraordinary woman. This is where the wars began. And this is where
-they shall end.
-
-[Cargo bay]
-
-(Qol sneaks in to view the giant golden glowing egg
-supported by three golden beams of light.)
-
-[Holodeck - Temple]
-
-BRIAM: There are some details to be added, of
-course. 
-PICARD: Commander La Forge will be entirely at your disposal,
-Ambassador. 
-[Corridor]
-
-LAFORGE: Just let me know what you need. 
-BRIAM: Yes, of course. I must consult several of the historical volumes
-I brought with me, so perhaps we can reconvene later. 
-LENOR: Excuse me! Excuse me! Is it true? Is a Kriosian ambassador
-aboard this vessel? 
-BRIAM: Yes. Can I help you? 
-PICARD: The Ambassador's very busy. 
-LENOR: Ah, do you schedule his appointments? 
-PICARD: I'm the Captain of the ship. What is it you want? 
-LENOR: Allow me to present myself. Par Lenor of the Ferengi Trade
-Mission. We are pleased to hear, Ambassador, that you have at last
-negotiated peace with the Valtese, Ambassador. Peace is good for trade,
-unless you happen to be an arms merchant. 
-PICARD: Excuse us. 
-LENOR: Arms merchant! 

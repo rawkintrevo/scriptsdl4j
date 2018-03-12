@@ -1,4 +1,5 @@
-PICARD COMPUTER DATA PHILLIPA
+PICARD COMPUTER DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 
@@ -26,31 +27,31 @@ COMPUTER: Working.
 
 [JAG office]
 
-PHILLIPA: My God, twice in as many days. 
+GUEST0: My God, twice in as many days. 
 PICARD: I need your help. 
-PHILLIPA: An historic moment. 
+GUEST0: An historic moment. 
 PICARD: I have been trying to make sense of this gobbledygook, but it's
 beyond me. The fact is, my android officer, Data, is being transferred
 compulsorily to be made part of a highly dangerous, ill-conceived
 experiment, and I want it stopped. 
-PHILLIPA: He can refuse to undergo the procedure, but we can't stop the
+GUEST0: He can refuse to undergo the procedure, but we can't stop the
 transfer. 
 PICARD: Once this Maddox has got control of Data, anything could
 happen. I don't trust that man. 
-PHILLIPA: We agree to certain risks when we join Starfleet. 
+GUEST0: We agree to certain risks when we join Starfleet. 
 PICARD: Yes. Acceptable risks, justified risks, but I can't accept
 this. It's unjustified. It's unfair. He has rights. 
-PHILLIPA: All this passion over a machine? 
+GUEST0: All this passion over a machine? 
 PICARD: Don't start. This is important to me. Is there an option? 
-PHILLIPA: There is always an option. He can resign. 
+GUEST0: There is always an option. He can resign. 
 PICARD: I see. 
-PHILLIPA: So you came to me for help. 
+GUEST0: So you came to me for help. 
 PICARD: Yes, I came to you. You're the JAG officer for this sector. I
 had no choice but to come to you. 
-PHILLIPA: Wait! I didn't mean it that way. I'm glad that you felt you
+GUEST0: Wait! I didn't mean it that way. I'm glad that you felt you
 could, well, come to me. 
 PICARD: The word trust just isn't in your vocabulary, is it. Good try,
 nine out of ten for effort. 
-PHILLIPA: I wish things were different. 
+GUEST0: I wish things were different. 
 PICARD: I wish I could believe that.
 

@@ -1,43 +1,31 @@
-MENDON RIKER CREWMAN WORF WESLEY
+PULASKI PICARD RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Ten Forward]
 
-WORF: I have studied and know everything about my
-heritage. 
-RIKER: Then you're just the person I need to talk to, clear something
-up. It's my understanding that one of the duties of the First Officer
-of a Klingon ship is to assassinate his Captain? 
-WORF: Yes, sir. 
-RIKER: Wouldn't that bring about chaos? 
-WORF: Of course not. When and if the Captain becomes weak and unable to
-perform, it is expected that his honourable retirement should be
-assisted by his First. Your Second Officer will assassinate you for the
-same reasons. 
-RIKER: The method of attrition must take a little getting used to. 
-WORF: The Klingon system has operated successfully for centuries. 
-RIKER: It is different. 
-WORF: Many things will be different.
-
-[Bridge]
-
-(Mendon leaves his aft station and has a look
-around) 
-CREWMAN: (at Worf's station) Can I help you, sir? 
-MENDON: That's a wonderful method of maintaining a constant control
-factor over defensive shields, but I'm sure there's a way to improve
-response time. Sorry. Didn't mean to interrupt you. Just thought I
-could be of some help. However, I am correct in what I said. 
-(He moves on down to the helm and ops stations) 
-MENDON: That is superb designing. Absolutely first rate. 
-WESLEY: Yes, it is. Would you care to be more specific? 
-MENDON: The input sampling. It's simple yet efficient enough. Of course
-a minor change of the helm readout would be much more helpful in
-emergency situations. 
-WESLEY: We've never had any problems with it. Have you seen it work? 
-MENDON: Not in a practical exercise, but in theory, my theory, it would
-be more than a marginal improvement. I'll have to mention this to the
-Captain. He is open to some astute observations, isn't he? 
-WESLEY: I've never known the Captain not to listen to one of his
-officers. 
-MENDON: Outstanding. Soon we'll get things running perfectly.
-
+(Riker has plates and bowls of alien protein on his
+table. You expect some of it to get up and walk away) 
+PULASKI: What is that? 
+RIKER: It's a Klingon delicacy. Pipius claw. This is heart of targ.
+This, of course, is gagh. 
+PULASKI: Gagh? 
+RIKER: Yes, serpent worms. Would you like some? 
+PULASKI: No, thanks. I've never heard of a Klingon starving to death on
+his own vessels, but you might. 
+RIKER: Not if I weaken first. 
+PULASKI: I know all about that. Their beliefs are rather brutal, but
+usually what kills us kills them. 
+RIKER: That's certainly good to know. Would you like something to
+drink? 
+PULASKI: I'm abstaining in honour of your last hour on board. 
+RIKER: Your sacrifice will not go unnoticed. 
+PICARD: Well, I'm familiar with the practice of the feast before the
+transfer. I've done it dozens of times. However, I usually made more
+palatable choices. 
+RIKER: These are the more palatable choices. 
+(Riker offers Picard a jug of something rather solid-looking with
+tentacles) 
+PICARD: Thank you. We know so little about them. There really is so
+much to learn. This is a great opportunity. I envy you, Mister Riker. 
+(Another tray of dishes arrives, and Riker tucks in while Picard leans
+back and Pulaski wrinkles her nose) 

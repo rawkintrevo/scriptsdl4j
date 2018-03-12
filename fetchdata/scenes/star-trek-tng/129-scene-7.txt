@@ -1,47 +1,66 @@
-RIKER LAFORGE WORF PULASKI COMPUTER MORIARTY DATA WHORE
-
-[Bridge]
-
-WORF: What was that? 
-RIKER: Lieutenant? 
-WORF: An odd surge of power, sir. It's gone now.
+GUEST0 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Street]
 
-(No hawkers, a barking dog, drunken sailors, and
-the man puts his top hat back on) 
-PULASKI: Interesting. The same London but slightly different. 
-WHORE: Is something wrong, Professor? 
-MORIARTY: I, I feel like a new man. That dark fellow there used the
-word arch, and then. I wonder? Arch. 
-(The computer arch appears for him) 
-MORIARTY: What have we here? 
-COMPUTER: Computer standing by. 
-MORIARTY: What are you? 
-COMPUTER: If you refer to the arch you ordered, it provides computer
-control. Do you wish to input any commands? 
-MORIARTY: Not at this time. 
-(The arch disappears) 
-WHORE: It's dark magic, Moriarty. 
-MORIARTY: The best kind, I'm sure. But I need information. 
-(Further along the street) 
-LAFORGE: Data, I mean, Holmes old boy, what are we looking for? 
-DATA: For whatever finds us, my dear Watson. 
-(A scream. They run back to discover a shoe on the pavement.) 
-DATA: She has been abducted. 
-LAFORGE: Who has? 
-DATA: The good Doctor. 
-LAFORGE: I think she's hiding. She's going to lead you on a wild goose
-chase and then recount the story to everyone between here and Alpha
-Centauri. 
-DATA: Watson, the doctor has been carried off by two men. One is tall.
-The other is shorter, left handed, and is employed in a laboratory. 
-LAFORGE: And how do you know that? 
-DATA: One set of footfalls are widely spaced. The other is evenly
-spaced, closer together. Further, on the ground you can see the
-swirling scrapes made by his left shoe as he twists behind, presumably
-to see if he is being followed. Left footed means left handed. The dark
-colouring of the scrapes are the leavings of natural rubber, a type of
-non-conductive soles used by researchers experimenting with
-electricity. Finally, there can be no argument, the game is afoot!
-Come, Watson! 
+(A crowd is gathered around a body) 
+GUEST0: Make way, please, make way. Make way for Sherlock Holmes.
+It's murder, Holmes, murder most foul. 
+LAFORGE: Well, Holmes, what do you say, man? 
+DATA: There is nothing here of relevance. I do not see how this
+connects with the disappearance of the Doctor. 
+GUEST0: Doctor? Doctor Watson is right here, Holmes. 
+DATA: Doctor Kate Pulaski. But do not concern yourself, Inspector. You
+have enough on your mind. 
+GUEST0: She was with you? 
+LAFORGE: Inspector, perhaps I can be of assistance. As I take note of
+this dead man, I deduce that he was strangled.
+You see, the finger marks on his throat indicate the cause of death,
+and, as there are signs of struggle, it's quite obvious that his
+murderer was a stranger who attacked him from behind. 
+GUEST0: Is that correct, Holmes? 
+DATA: No. Look at his shoes. He's more a convict, released today from
+Dartmoor prison. (Pentonville more like, my dear Holmes)
+He spent the day in a tavern consuming large quantities of gin with his
+killer, who followed him to this spot and waited over there until the
+victim slipped into a drunken stupor. Then, out of fear, motivated only
+by self-protection, strangled him. There is your killer, Inspector. 
+(Data points at an old woman) 
+GUEST0: Seize her. 
+DATA: And when you check, I believe you will find that this poor soul
+is the victim's common-law wife, who has been dreading the release of
+this a vile and abusive man. 
+LAFORGE: Holmes, the poor woman hardly has the strength to strangle a
+man this size. 
+DATA: Not with her hands, no. But with this. (a beaded shawl) When used
+as a garrote, these beads will leave marks quite similar to
+fingerprints. And, my dear Watson, you will note from the victim's
+throat, the marks are too evenly spaced to be have been made by human
+hands. 
+GUEST0: Astounding, Holmes. 
+DATA: Not really, Inspector. And now, for strictly personal reasons, I
+must leave. Come, Watson. This murder does not connect with our case. 
+GUEST0: Come along. Hurry it up. Come on. 
+(Data and Geordi leave the crime scene) 
+LAFORGE: Data, wait. If this murder isn't connected to the
+disappearance of Doctor Pulaski, then the computer is running an
+independent
+programme. 
+DATA: Yes. 
+LAFORGE: Why? 
+DATA: I do not know, and that is what puzzles me. 
+LAFORGE: Then you don't know what's going to happen next? 
+DATA: No. 
+LAFORGE: That's what I want to hear. Where to now? 
+DATA: We will find Doctor Pulaski in here. 
+LAFORGE: How do you know that? 
+DATA: It is the only obvious choice. 
+(And where he saw Moriarty go in) 
+LAFORGE: Why is the obvious choice all of a sudden the right one? I
+mean, isn't this a game of misdirection? 
+DATA: Not any more. He wants us to find him. 
+LAFORGE: Who does? 
+DATA: The master criminal. The man Holmes could only defeat at the cost
+of his own life at Reichenbach Falls. Our adversary, my dear Watson, is
+none other than Professor Moriarty himself. 
+LAFORGE: Now this is getting interesting. 

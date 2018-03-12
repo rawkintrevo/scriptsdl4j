@@ -1,71 +1,46 @@
-RIKER LAFORGE PICARD COMPUTER OGAWA DATA BARCLAY
+PICARD COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Corridor]
 
-OGAWA: I managed to get her into stasis before the
-venom paralysed her. She's going to need reconstructive surgery, but I
-think she'll be all right. 
-BARCLAY: (who can't stay still) Sir, we've analysed the venom and
-compared it to the acidic compound found in junction seventeen and on
-decks ten and twelve. They all have the same enzymatic composition. 
-RIKER: Are you saying that Worf is spraying this 
-BARCLAY: Venom. 
-RIKER: Venom all over the ship? 
-BARCLAY: I'd say so. 
-OGAWA: Sixty crewmen have begun exhibiting strange behavioural changes.
-Memory loss, fatigue, headaches. I think one thing is clear. There's
-some sort of disease aboard the Enterprise and it's spreading. 
-RIKER: I'm having trouble concentrating myself. It's like my mind keeps
-wandering. I can't 
-(La Forge runs in) 
-LAFORGE: Commander, I've got seven security teams out hunting for Worf,
-but for some reason sensors are having a difficult time locking onto
-him. I've called for a level two security alert. Do you think we should
-go to a Level One? 
-RIKER: I don't know. What do you think? 
-LAFORGE: I think we should. 
-RIKER: Okay. Sounds good. Then you'll take care of that security thing?
+(the terrified not-yet-a-proto-lemur sneaks out
+through Crusher's office door and squirts the scent into the air,
+backing down the dark corridor. The armoured monster leaves the door
+and follows the trail)
 
-LAFORGE: Yes, sir. I will. 
-RIKER: Okay, I'll notify Starfleet. I'll let them know what's
-happening. You have your orders. (Barclays already out the door)
-Dismissed. 
-(Ogawa stands, resting with her knuckles on the desk, looks around then
-walks out with a very rolling gait.) 
-RIKER: Computer, send a subspace message to Starfleet command. Security
-channel authorisation. 
-COMPUTER: Alpha four seven authorisation required to activate security
-channel. 
-RIKER: Computer. 
-COMPUTER: Awaiting authorisation. 
-(too late, he's off with the fairies)
+[Turbolift]
 
-Captain's log, supplemental. Commander Data and I
-have recovered the stray torpedo after a three day search. We are
-enroute back to the Enterprise. 
-[Shuttlecraft]
+PICARD: Deck seventeen. Deck seventeen! 
+(the doors shut in the nick of time but it doesn't move. Worf starts
+hammering at the door and Picard escapes through the roof)
 
-DATA: Captain, the ship is not at the pre-arranged
-coordinates. 
-PICARD: Have they been delayed? 
-DATA: I do not know. I am unable to raise them on any communication
-channel. 
-PICARD: Scan the vicinity. See if you can find them. 
-DATA: I found it, sir, two light years away. 
-PICARD: Set a course. 
-(whoosh) 
-DATA: The Enterprise appears to be adrift. I am reading power
-fluctuations on all decks. 
-PICARD: Life signs? 
-DATA: There are life signs. However, sensor readings are highly
-distorted. I am unable to identify specific lifeforms. 
-PICARD: Adjust the axial stabilisers to match the attitude and rotation
-rate of the Enterprise, I'm going to dock the shuttle manually. 
-[Shuttlebay]
+[Sickbay]
 
-DATA: Main power is offline. All systems are in
-standby or emergency mode. There is no response from any manned
-station. 
-PICARD: Any sign of the crew? 
-DATA: I cannot access internal sensors from here. We will have to go to
-the Bridge. 
+(Data gives Alyssa a hypospray) 
+DATA: Computer, display progress of genetic re-sequencing.
+
+[Jefferies tube]
+
+(Worf sprays venom on Picard's arm from above
+through a grating and Picard drops the phaser)
+
+[Sickbay]
+
+COMPUTER: Genetic re-sequencing in progress. DNA to
+seventy percent normal. 
+DATA: Computer, increase nucleotide substitution by thirty two percent.
+
+[Jefferies tube]
+
+(at the point of the original hole, Picard
+insulates himself on a panel cover and jabs a live cable onto the metal
+framework. Finally Worf collapses.)
+
+[Sickbay]
+
+(Alyssa is back to normal) 
+DATA: Data to Captain Picard. 
+[Jefferies tube]
+
+PICARD: Go ahead, Data. 
+DATA: The retro virus is working, sir. 

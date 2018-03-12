@@ -1,87 +1,82 @@
-TROI LAFORGE PICARD RIKER COMPUTER OGAWA CRUSHER DATA NURSE BARCLAY
+PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+DATA: I can repair the damaged plasma vent from
+here. 
+PICARD: I'm going to check the status of the warp core. 
+(it's dark, and cobwebs are everywhere. Picard looks through a window
+at the warp core and something with half a face and a few compound eyes
+throws itself at the glass) 
+PICARD: Data! 
+(it skitters away) 
+PICARD: What was that? 
+DATA: I believe it was Lieutenant Barclay. He appeared to be partially
+transformed into an arachnid. 
+PICARD: A spider? 
+DATA: Yes, sir. Are you all right, Captain? 
+PICARD: I have these intense feelings of fear and panic. I feel as if I
+were being watched. I can't explain it. 
+DATA: You may be experiencing the initial stages of your
+transformation. Early primates were often prey to larger carnivores. As
+a result, their instincts probably included a heightened sense of
+awareness. 
+PICARD: In that case, my instincts tell me that we'd better hurry.
 
 [Sickbay]
 
-TROI: Can I have a glass of water? It's so cold in
-here. 
-CRUSHER: Your temperature has dropped almost eight degrees. I want to
-run a hypothalamic series right away. 
-OGAWA: Doctor, we've had three other crewmembers complaining about the
-temperature levels. Some feel like they have fevers, others are
-freezing like Counsellor Troi. 
-CRUSHER: Call Doctor Selar and Doctor Hacopian. It looks like we've got
-some sort of viral infection going on around here. I want to check on
-Lieutenant Worf. 
-(at another bed, Worf is under guard) 
-CRUSHER: Worf, have you had any unusual symptoms lately? Headaches,
-nausea, dizziness? Worf? Worf, do you hear me? I going to run a full
-bioscan. I want you to lie down. (he doesn't move.) Okay, we can do
-this sitting up. What is this? (a growth on his
-jaw line) Worf, how long have you had this on your neck? It looks like
-it's full of some bioacidic compound, almost like a venom sac. Worf,
-open your mouth. 
-(Worf opens his mouth and sprays venom into Beverly's face. She
-collapses, screaming in pain and Worf escapes) 
-OGAWA: Get a hypospray. 
-NURSE: Right away. 
-[Observation lounge]
+(Alyssa the ape is on a biobed and Picard is biting
+his nails) 
+DATA: Captain, I have analysed Nurse Ogawa's embryo. It has been
+unaffected by the virus. I believe I can use her amniotic fluid as a
+template for a retrovirus. It would neutralise the synthetic T-cell,
+and re-establish the original genetic patterns of each host. 
+PICARD: How soon can you do that? 
+DATA: It will not take long to isolate the appropriate genetic
+material. I will need to get the Sickbay computer back on 
+(something tries to batter down the door) 
+PICARD: What was that? 
+DATA: It is large. Approximately two hundred kilograms. It is heavily
+armored with an exoskeleton. Life signs appear to be Klingon. 
+PICARD: Worf. 
+(the door starts to buckle) 
+PICARD: Set your phaser to heavy stun. 
+DATA: We cannot be certain a stun setting will have any effect on him.
+A higher setting may kill him. 
+(the wide shot shows Riker and Troi are also on biobeds) 
+PICARD: Listen to that. He sounds very angry, really, really
+aggressive. What do you think he wants? Do you think he's responding to
+some predatory instinct? Do you think he see us as prey? 
+DATA: There are crewmembers in the corridors and other sections of the
+ship. It would be much easier for him to capture and consume one of
+them, than to attempt to break through a door. 
+PICARD: Then what does he want? Predators use vocalisations to frighten
+other predators and to mark territory, and to commence mating process.
+A mating process. Counsellor Troi was bitten by a Klingon but not in a
+place that might be life-threatening. Nowhere near a major artery or
+organ. Data, look at this. Look at this injury. This wound was never
+intended to give her any kind of serious harm. 
+DATA: Captain, what are you suggesting? 
+PICARD: Is it possible that Worf could see Counsellor Troi as his mate?
 
-OGAWA: I managed to get her into stasis before the
-venom paralysed her. She's going to need reconstructive surgery, but I
-think she'll be all right. 
-BARCLAY: (who can't stay still) Sir, we've analysed the venom and
-compared it to the acidic compound found in junction seventeen and on
-decks ten and twelve. They all have the same enzymatic composition. 
-RIKER: Are you saying that Worf is spraying this 
-BARCLAY: Venom. 
-RIKER: Venom all over the ship? 
-BARCLAY: I'd say so. 
-OGAWA: Sixty crewmen have begun exhibiting strange behavioural changes.
-Memory loss, fatigue, headaches. I think one thing is clear. There's
-some sort of disease aboard the Enterprise and it's spreading. 
-RIKER: I'm having trouble concentrating myself. It's like my mind keeps
-wandering. I can't 
-(La Forge runs in) 
-LAFORGE: Commander, I've got seven security teams out hunting for Worf,
-but for some reason sensors are having a difficult time locking onto
-him. I've called for a level two security alert. Do you think we should
-go to a Level One? 
-RIKER: I don't know. What do you think? 
-LAFORGE: I think we should. 
-RIKER: Okay. Sounds good. Then you'll take care of that security thing?
+DATA: If that is true, he must be trying to reach her now. 
+PICARD: Well, we can't just leave. We have to stay here and protect
+her. And we have to keep on working on the retrovirus. If we could
+distract him, if we could lure him away from her. 
+DATA: The mating instinct is quite strong in Klingon biology. I am not
+certain what would be an effective lure. 
+PICARD: Klingons have got a very powerful sense of smell. If we could
+duplicate Deanna's pheromones and then convince him she's no longer in
+Sickbay, that she'd gone into some other part of the ship. 
+DATA: I am extracting a blood sample from one of her sebaceous glands,
+where the pheromones are produced. I believe I can activate the
+pheromones with a bioactivant solution. 
+PICARD: Can you amplify the pheromones? They need to be much more
+powerful than Deanna's actual scent. 
+DATA: I believe this will produce the desired effect. I will use it to
+draw Worf to a another part of the ship. 
+PICARD: No, no, no. You must go on working on the retrovirus. I'll go. 
+DATA: Captain, that is extremely unwise. Worf may be much faster than 
+PICARD: No time. No time to argue.
 
-LAFORGE: Yes, sir. I will. 
-RIKER: Okay, I'll notify Starfleet. I'll let them know what's
-happening. You have your orders. (Barclays already out the door)
-Dismissed. 
-(Ogawa stands, resting with her knuckles on the desk, looks around then
-walks out with a very rolling gait.) 
-RIKER: Computer, send a subspace message to Starfleet command. Security
-channel authorisation. 
-COMPUTER: Alpha four seven authorisation required to activate security
-channel. 
-RIKER: Computer. 
-COMPUTER: Awaiting authorisation. 
-(too late, he's off with the fairies)
-
-Captain's log, supplemental. Commander Data and I
-have recovered the stray torpedo after a three day search. We are
-enroute back to the Enterprise. 
-[Shuttlecraft]
-
-DATA: Captain, the ship is not at the pre-arranged
-coordinates. 
-PICARD: Have they been delayed? 
-DATA: I do not know. I am unable to raise them on any communication
-channel. 
-PICARD: Scan the vicinity. See if you can find them. 
-DATA: I found it, sir, two light years away. 
-PICARD: Set a course. 
-(whoosh) 
-DATA: The Enterprise appears to be adrift. I am reading power
-fluctuations on all decks. 
-PICARD: Life signs? 
-DATA: There are life signs. However, sensor readings are highly
-distorted. I am unable to identify specific lifeforms. 
-PICARD: Adjust the axial stabilisers to match the attitude and rotation
-rate of the Enterprise, I'm going to dock the shuttle manually. 

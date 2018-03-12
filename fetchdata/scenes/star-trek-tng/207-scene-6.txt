@@ -1,67 +1,49 @@
-PICARD RIKER SPOCK PARDEK AMARIE
+WOMAN SPOCK GUEST6 GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Romulan street]
+[Romulan office]
 
-PARDEK: So, what do you think of your enemy,
-Captain Picard?
-PICARD: These people are no one's enemy, Senator.
-PARDEK: Many of my colleagues fear what they have to say. But I have
-learned to listen carefully. Children like D'Tan are our future. Old
-men like me will not be able to hold on to ancient prejudice and
-hostility. Young people won't allow it. But now, now that they've met
-their first real Vulcan, it has only inspired them more. I am sure that
-is evident to you, Spock. 
-SPOCK: I did not anticipate such a passionate response to my arrival.
-PARDEK: Romulans are passionate people. The Vulcans will learn to
-appreciate that quality in us.
-SPOCK: If we are successful.
-PARDEK: We will know soon. The Proconsul has agreed to meet with you.
-
-First Officer's log, stardate 45245.8. The
-Enterprise remains at Qualor Two as we continue to investigate the
-theft of a surplus Vulcan ship. The trail has led us to the former wife
-of a deceased smuggler.
-
-[Piano bar]
-
-(Riker takes a drink from the tray of a Zakdorn
-waiter, and goes over to a large, four-armed lady piano player) 
-AMARIE: A new face.
-RIKER: Same one I've always had.
-AMARIE: And what would you like to hear?
-RIKER: Know some blues?
-AMARIE: Look at me, Mister. What do you think? Seven different shades
-of them. How about some Andorian blues? Suck salt?
-RIKER: Never cared for it.
-AMARIE: Good for you. Nasty habit. So who are you looking for?
-RIKER: Who says I'm looking for anybody?
-AMARIE: Your face. Your uniform. In a place like this.
-RIKER: Okay. I'm looking for you.
-AMARIE: Oh, you just made my day.
-RIKER: I have to ask you about your husband.
-AMARIE: Well, it was nice while it lasted. Which husband?
-RIKER: The dead one, I'm afraid.
-AMARIE: Oh, you must be from the Enterprise. You destroyed his ship.
-RIKER: He was into some bad business. He took the evidence with him.
-AMARIE: His one endearing quality, he always cleaned up after himself.
-And what do you want from me?
-RIKER: I was hoping you might know his business partners.
-AMARIE: And why should I help you?
-RIKER: To be honest, I can't think of a good reason.
-AMARIE: Well, you did kill my ex-husband, and that's not a bad start.
-So why don't you drop a few coins in the jar and I'll see what I
-remember.
-RIKER: I don't carry money.
-AMARIE: Well, you don't offer much, do you?
-RIKER: Move over.
-AMARIE: Oh, just what I need. Another set of hands.
-RIKER: You know this one? Twentieth century, Earth. Maybe I can teach
-you a lick or two.
-AMARIE: You already have.
-RIKER: So, what do you say?
-AMARIE: You going to be around for a couple of days?
-RIKER: I can be.
-AMARIE: Sooner or later, a man named Omag will come by for a song.
-Always wants to hear the same thing, Melor Famagal. (she shudders) He's
-an arms trader. A fat Ferengi.
+GUEST6: Enter.
+GUEST4: Proconsul?
+GUEST6: Yes. Pardek, come in. 
+GUEST4: Ambassador Spock of Vulcan. 
+SPOCK: Proconsul.
+GUEST6: Please. I've never liked titles since I was a lowly Uhlan in the
+Romulan guard. I am Neral. How is it again, Pardek's tried to show me.
+(they swap hand gestures) 
+SPOCK: I am honoured.
+GUEST6: Good.
+GUEST4: Permit me to withdraw.
+GUEST6: Will we see you and your wife tomorrow at the state dinner?
+GUEST4: We're looking forward to it.
+(Pardek leaves) 
+GUEST6: It's been years since old Pardek's been invited to an official
+function. He's far too attached to the common man for most peoples'
+comfort.
+SPOCK: That is their loss. I have found Pardek to have a unique insight
+into many issues.
+GUEST6: Let me tell you something, Spock. We're going to start something
+here, you and I, that will redraw the face of the quadrant.
+SPOCK: Are you prepared to support reunification?
+GUEST6: I believe it must eventually come. Our two worlds need each
+other.
+SPOCK: Forgive me, I did not expect to hear a Romulan Proconsul speak
+like a member of your underground.
+GUEST6: I want you to know exactly where I stand.
+SPOCK: And do you believe that you can gain the support of your full
+Senate?
+GUEST6: Things are not what they once were in the Senate. The old
+leaders have lost the respect of the people. Involvement in the Klingon
+War, endless confrontations with the Federation, they're tired of it.
+Times are changing, and leaders who refuse to change with them will no
+longer be leaders. Spock, I am prepared to publicly endorse the opening
+of talks between our peoples. What do you think the Vulcan people think
+of that?
+SPOCK: They will be cautious. There are generations of distrust to
+overcome.
+GUEST6: But surely with a man of your influence leading the way?
+WOMAN [OC]: Proconsul, the Senate has been recalled into session.
+GUEST6: Very well. Can we meet again tomorrow?
+SPOCK: As you wish.
+GUEST6: Good. Jolan tru, Spock. Oh. Live long and prosper.
 

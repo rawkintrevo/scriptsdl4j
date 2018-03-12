@@ -1,94 +1,40 @@
-RIKER RICE TASHA PICARD TSU DATA
+TROI LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ruins]
+[Ready room]
 
-TASHA: Tritanium. It's been melted. 
-RIKER: What could do that? 
-TASHA: I don't know. Whatever it was, it's beyond our technology. 
-DATA: Over here. 
-TASHA: Wow. 
-(Data takes the moss from a big ray gun) 
-RIKER: We've never even seen anything like this. 
-TASHA: It's undamaged. 
-RIKER: Maybe a demonstration model for some potential buyer. 
-TASHA: Maybe. Let's spread out a little.
-
-[Bridge]
-
-T'SU: Commander Riker, this is Ensign T'Su. 
-[Ruins]
-
-T'SU [OC]: I'm monitoring a slight energy buildup
-near your position. I am not able to pinpoint the source. 
-RIKER: Give me a direction. 
-[Bridge]
-
-T'SU: East of your position, ten metres. I will
-continue monitoring. 
-
-[Jungle]
-
-RIKER: I can't see anything through here. The
-underbrush is too thick. 
-RICE: Hello. Commander Riker. 
-RIKER: Rice! Where did you come from? 
-RICE: I was over there. 
-RIKER: We were worried about you. I should have known you'd pop up. 
-RICE: How are you, Commander Riker? 
-RIKER: Me? Forget about me. How are you? No word, no message, nothing. 
-RICE: How many are with you? 
-RIKER: There are two others. Where's the Drake? Where's your crew? 
-PICARD [OC]: Number One, a word. We have some information you should be
-aware of.
-
-[Bridge]
-
-PICARD: Ensign T'Su?
-T'SU: Sensors indicate low level energy readings, but the only life
-signs are the away team. 
-PICARD: You copy, Number One? 
-[Jungle]
-
-RIKER: Understood. You look strange, Paul. 
-RICE: I was injured getting here. 
-(Tasha and Data arrive) 
-RIKER: Do you need medical help? 
-RICE: No. What's your purpose here? 
-RIKER: Commander Data, Lieutenant Yar. 
-DATA: Sir, other than ourselves, I am picking up no life signs here. 
-RIKER: I know. 
-RICE: Riker, you didn't answer me. Who sent you here to look for me? 
-RIKER: Your mother. She's worried about you. 
-RICE: Tell me about your ship, Riker. It's the Enterprise, isn't it? 
-RIKER: No. The name of my ship is the Lollipop. 
-RICE: I have no knowledge of that ship. 
-RIKER: It's just been commissioned. It's a good ship. 
-RICE: Refresh me, would you, Riker? What's its size, it's complement? 
-RIKER: Who is here with you? 
-RICE: What's the armament on the Lollipop? 
-RIKER: Paul, I will only answer your questions if you answer mine. Why
-do you want to know so much about my ship? 
-RICE: We're friends, aren't we? 
-RIKER: Old friends. 
-RICE: Our top speed is warp three. What's yours? 
-RIKER: Is? Then the Drake has not been destroyed. 
-RICE: The Drake? 
-RIKER: Yes, your ship. 
-RICE: Of course, my ship is the Drake. 
-RIKER: Where is it? 
-RICE: Classified. 
-RIKER: Classified? 
-RICE: Please, it's important. Our survival depends on knowing. What's
-the armament on your ship? 
-RIKER: Ten. 
-RICE: Ten? I don't understand. Ten what? 
-RIKER: Six. 
-RICE: Commander Riker, your answers make no sense. 
-RIKER: You haven't used my first name once, Paul. You remember it,
-don't you? You don't, do you? Because you don't exist. You're a fake.
-You're an image of the original, aren't you? Answer me! 
-(Paul Rice disappears and a flying machine appears) 
-PICARD [OC]: Report, Number One. 
-RIKER: The image of Rice has been replaced by something which is
-hovering several metres away.
-
+LAFORGE: Come in. 
+TROI: Lieutenant, I need to speak to you. 
+LAFORGE: Counsellor, we're a few minutes away from separating the
+battle section. I don't have a lot of time. 
+TROI: I know, but as Counsellor I have a duty to evaluate the emotional
+fitness of the crew. 
+LAFORGE: And you sense I'm nervous. Well, you're right. Counsellor,
+deep down I'm shaking. I'm about to take this ship into battle, and
+there's a good chance she'll be blasted out of the sky. I'm taking a
+huge risk here, and there are a lot of lives at stake. So, yeah, I'm
+nervous. Did you expect otherwise? 
+TROI: Not at all. You're under tremendous pressure, more than you've
+ever experienced. 
+LAFORGE: You think I'm about to crack? 
+TROI: On the contrary. You should be proud of the way you're handling
+command. You've kept a cool head, taken charge, and made some very
+difficult decisions. 
+LAFORGE: Then what did you want to see me about? 
+GUEST2 [OC]: Lieutenant La Forge. Battle bridge is manned and ready.
+However, deflectors have not yet returned to full efficiency. 
+LAFORGE: Let's get them there, Mister Solis. 
+GUEST2 [OC]: Aye, sir. 
+LAFORGE: I'll join you shortly. La Forge out. 
+TROI: Did you hear the uneasiness in his voice? 
+LAFORGE: Solis is doing a fine job. 
+TROI: Yes, but he isn't handling the stress as well as you are. Both he
+and Ensign T'Su are very young. 
+LAFORGE: No, wait. They're good officers. 
+TROI: Yes, but they lack battle experience. They're worried about
+making mistakes, and they need some encouragement. 
+LAFORGE: What do I do? 
+TROI: Just remember it's you they draw strength from. They look to you
+for guidance and for leadership. Help them. Show confidence in them. 
+LAFORGE: Like Captain Picard showed confidence in me. Right. I
+understand. Thanks, Counsellor. 

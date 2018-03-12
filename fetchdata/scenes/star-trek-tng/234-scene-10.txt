@@ -1,42 +1,48 @@
-RIKER LAFORGE PICARD COMPUTER CRUSHER DATA
+TROI GUEST1 WORF DATAGUEST6
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Sheriff's office]
 
-PICARD: Computer, activate Picard Mozart trio,
-programme one. Play back tracks one, two and three. Tempo allegro. 
-(it starts up with the music Picard was recording at the start of the
-show, then changes to Dvorak's The Slavonic Dances.) 
-PICARD: Computer, stop playback. Computer identify musical composition.
-
-COMPUTER: Picard Mozart trio, programme one.
-
-[Rehearsal room]
-
-CRUSHER: Okay, let's work through Act two from the
-beginning. Whenever you're ready. 
-(Riker mimes entering through a door, then reads from his PADD) 
-RIKER: Felis catus, is your taxonomic nomenclature. An endothermic
-quadruped, carnivorous by nature.
-CRUSHER: Hold it. Will, what are you reading? 
-RIKER: The lines. Why? 
-CRUSHER: That's not the right dialogue. 
-(She takes his PADD) 
-CRUSHER: Your visual, olfactory, and auditory senses contribute to 
-RIKER: I recognise it. This is Data's poetry. 
-CRUSHER: What? The play's gone. I just keep getting more poetry.
-
-[Engineering]
-
-(Geordi has the PADDs in pieces) 
-LAFORGE: Well, the PADDs are functioning normally. It seems to be a
-problem with the information retrieval net. Somehow when you tried to
-call up your play, the computer accessed Data's literary files. 
-DATA: Geordi, perhaps this problem is related to our interface
-experiment. 
-LAFORGE: We'd better run a level two diagnostic on the computer. See if
-this problem has spread to any other systems. 
-DATA: And I will perform a self-diagnostic. 
-LAFORGE: That's a good idea. 
-CRUSHER: You will let me know if you find the play? 
-LAFORGE: Oh yeah, don't worry. It's in here somewhere.
+(in the cell, Eli is shuffling cards with Data's
+speed) 
+DATA-GUEST6: Can I help you with somethin? 
+(there's a knock at the door. Troi lets Worf in) 
+WORF: I spoke to several witnesses who saw Alexander being abducted as
+he was leaving the bank by one of Hollander's men. We must begin a
+systematic search of the town. 
+TROI: Worf, we've got another problem. I saw Eli playing cards. He was
+shuffling the way Data does when he plays poker. He doesn't just look
+like Data, he has Data's abilities. Which means his father probably
+does also. 
+(another knock at the door. Troi gets her Winchester and Worf his
+pistol, then lets in) 
+DATA-FRANK: I've came to see my boy. 
+WORF: Remove your weapon. 
+(he does) 
+DATA-FRANK: Better take a good look at that gun, Sheriff. You might be
+seeing it again real soon. 
+DATA-GUEST6: Pa? 
+DATA-FRANK: Eli! How are they treating you, boy? 
+DATA-GUEST6: Real bad, pa. They ain't fed me since I got here and the
+Sheriff's been roughin up on me somethin fierce. 
+DATA-FRANK: Don't you worry, boy. The Sheriff's going to pay. Who's the
+stranger? 
+DATA-GUEST6: Don't know. She ain't said her name. But she's in cahoots
+with the Sheriff and she's mighty mean with that Winchester. 
+DATA-FRANK: You sit tight, boy. I'll have you home in time for supper.
+I'm going to give you one more opportunity, Sheriff, to avoid a ugly
+situation. Release my boy. 
+WORF: I have reconsidered your offer. I will release your son in
+exchange for my deputy. 
+DATA-FRANK: I thought you might have a change of heart. Meet me in two
+hours. You be in front of the saloon. I'll be in front of the livery
+station. Strangers ain't invited. 
+WORF: Agreed. 
+(Worf gives Frank his gun back and he leaves) 
+TROI: In every Western I've ever read, the villains always break their
+word. he can't be trusted. 
+WORF: But we have made an honourable agreement. 
+TROI: They're not concerned with honour, Worf. This is the Ancient
+West. There's a gunfighter out there who has the speed and accuracy of
+an android. And in two hours, he's going to try to kill you.
 

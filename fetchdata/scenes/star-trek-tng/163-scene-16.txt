@@ -1,84 +1,30 @@
-RIKER LAFORGE TASHA PICARD GUINAN CASTILLO CRUSHER DATA
+PICARD GUINAN KLINGON DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[1701D Bridge]
 
-(Guinan enters) 
-TASHA: Deflector shield technology has advanced considerably during the
-war. Our heat dissipation rates are probably double those of the
-Enterprise-C, which means we can hang in a firefight a lot longer.
-Guinan? 
-GUINAN: Have you ordered yet, Tasha? 
-TASHA: No, not yet. Is anything wrong? 
-GUINAN: Not a thing. What can I get for you? 
-TASHA: Just a couple of TKLs. We're in a hurry. Oh, this is, Lieutenant
-Castillo. 
-(Guinan moves slowly away) 
-TASHA: First time for everything. 
-CASTILLO: First time? 
-TASHA: It's just that I've never seen anything bother her before. 
-CASTILLO: What's a TKL? 
-TASHA: Standard rations. Food replicators are on minimum power, so
-everything else is diverted to defensive systems. So where was I? 
-CASTILLO: You've told me more about tactical in an hour than I learned
-my last year in the Academy. 
-TASHA: You're going to need it, Lieutenant. 
-CASTILLO: Hey, I've known you a whole day now, Lieutenant. I won't
-salute if you won't. What did she call you? Tasha? 
-TASHA: Yeah. 
-CASTILLO: Most everybody just calls me Castillo. My mother calls me
-Richard. 
-TASHA: Okay, Castillo. 
-CASTILLO: No, I think maybe I'd like it better if you called me
-Richard. 
-TASHA: Richard. 
-PICARD [OC]: This is the Captain. Senior officers will report to my
-Ready room immediately. 
-TASHA: So much for lunch.
+PICARD: How long until the Enterprise-C enters the
+rift? 
+DATA: Fifty two seconds, sir. 
+PICARD: All remaining power to the defence systems. 
+DATA: Power couplings severed in forward phaser banks. Attempting to
+bypass. Controls not responding. 
+(Riker gets killed) 
+KLINGON [OC]: Federation ship Enterprise. Surrender and prepare to be
+boarded. 
+PICARD: That will be the day. 
+(Picard jumps the rail and takes over tactical. Flames grow around him
+as we cut to a shot of the Enterprise being pounded by disruptor fire
+as C glides back into the rift. Then we're back on the Bridge, and
+Picard is in his 'peace-time' uniform) 
+PICARD: Report, Lieutenant. 
+WORF: Readings fluctuated momentarily. It appeared to be a ship, but
+then it vanished. 
+DATA: The phenomenon is closing in on itself, Captain. 
+PICARD: Very well. Prepare a class one sensor probe. We'll leave it
+behind to monitor the final closure. Mister Crusher, lay in a course
+for Archer Four. 
+GUINAN [OC]: Captain, this is Guinan. Is everything all right up there?
 
-[Ready room]
-
-CRUSHER: Captain, are you suggesting that we let
-them return and attempt to complete their mission? 
-PICARD: I am, Doctor. 
-CRUSHER: Based on Guinan's intuition? 
-RIKER: That won't accomplish anything, sir. There's no way they can
-save Narendra Three. 
-TASHA: Captain Garrett says there were four Romulan warbirds. The
-Enterprise-C would be outmanned and outgunned. 
-LAFORGE: Unless we were to re-arm them with modern 
-PICARD: We can't do that. If we send that ship back with new technology
-we will be altering the past. 
-RIKER: But that's what you're talking about anyway, isn't it? Altering
-the past. 
-PICARD: We're talking about restoring the past. 
-LAFORGE: How could Guinan know that history has been altered if she's
-been altered along with the rest of us? 
-DATA: Perhaps her species has a perception that goes beyond linear
-time. 
-PICARD: There are many things about her species we can't easily
-explained. Yet it is very possible she is correct. A ship from the past
-has travelled through time. How can we know what effect those events
-will have on the present. Indeed, we shall never know for certain, if
-Guinan is correct. But I have decided the consequences of that
-possibility are too grave to ignore. Dismissed. 
-RIKER: Sir, if you'd like my opinion 
-PICARD: I think I'm aware of your opinion, Commander. This is a
-briefing. I'm not seeking your consent. 
-RIKER: With all due respect, sir, you'd be asking one hundred and
-twenty five people to die a meaningless death. 
-DATA: Not necessarily meaningless, Commander. The Klingons regard
-honour above all else. If the crew of the Enterprise-C had died
-fighting for the survival of a Klingon outpost, it would be considered
-a meaningful act of honour by the Klingon Empire. 
-PICARD: Even their deaths might have prevented this war. If the
-Enterprise-C returns to the battle and its mission is a success,
-history will be irrevocably changed. This time line will cease to exist
-and a new future will have been created. I've considered the
-alternatives. I'll go with Guinan's recommendation. Dismissed.
-
-[Bridge]
-
-CRUSHER: If she's right, we may not even be in an
-alternate time line.
-LAFORGE: Yeah, who knows if we're dead or alive.
+PICARD: Guinan? Yes everything's fine. Is something wrong?
 

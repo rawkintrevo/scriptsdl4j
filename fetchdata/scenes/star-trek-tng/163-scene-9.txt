@@ -1,94 +1,38 @@
-RIKER TASHA PICARD GARRETT GUINAN CASTILLO CREWWOMAN CRUSHER
+TASHA PICARD GUINAN GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Ten Forward]
 
-PICARD: You must have some idea how things have
-changed. 
-GUINAN: I look at things, I look at people, and they just don't feel
-right. 
-PICARD: What things? What people? 
-GUINAN: You. Your uniform. The Bridge. 
-PICARD: What's the matter with the Bridge? 
-GUINAN: It's not right. 
-PICARD: It's the same Bridge. Nothing has changed. 
-GUINAN: I know that. I also know it's wrong. 
-PICARD: What else? 
-GUINAN: Families. There should be children on this ship. 
-PICARD: What? Children on the Enterprise? Guinan, we're at war. 
-GUINAN: No, we're not. At least, we're not supposed to be. This is not
-a ship of war. This a ship of peace. 
-PICARD: What you're suggesting 
-GUINAN: I'm not suggesting. That ship from the past is not supposed to
-be here. It's got to go back.
-
-[Sickbay]
-
-CRUSHER: Run a full electrolyte report. Boost the
-level of tricordrazine. Try to relax. 
-CREWWOMAN [OC]: Doctor Selar, report to pathology ward stat. Doctor
-Selar, report to pathology ward stat. 
-PICARD: I'm Captain Jean-Luc Picard. 
-GARRETT: Rachel Garrett. How's my ship? 
-PICARD: The support systems are being restored. We're continuing
-repairs. 
-GARRETT: Where did you come from? We weren't picking up any other
-Federation ships in this sector. 
-PICARD: What's the last thing you remember? 
-GARRETT: We were answering the distress signal. 
-PICARD: Distress signal? 
-GARRETT: You must have heard it. From the Klingon outpost, Narendra
-Three. But you didn't, did you? This Sickbay, I've never seen like it,
-even on a starbase. And your uniform. What ship is this, Captain? 
-CRUSHER: Please try to be still. 
-GARRETT: I must insist. What ship? 
-PICARD: You are aboard the Enterprise, Captain. One seven oh one D. You
-have come twenty two years into the future. 
-GARRETT: Twenty two years. Does my crew know yet? 
-PICARD: No. 
-GARRETT: I must tell them. I owe them that. 
-PICARD: If you wish, I can see that they're informed. 
-GARRETT: Is there some reason they should not be told? 
-PICARD: I am concerned that if you return to your own time with
-knowledge of the future 
-GARRETT: Return to the battle? We barely escaped with our lives. If we
-returned, we'd be destroyed. 
-PICARD: Have you any idea how this happened? 
-GARRETT: There was a fierce volley of photon torpedoes. We were hit. A
-bright light, and then here. 
-PICARD: It is possible that this exchange of fire was the catalyst for
-the formation of a temporal rift. History has no record of your battle
-with the Romulans. 
-GARRETT: We were responding to a distress call from the Klingon outpost
-on Narendra Three. The Romulans were attacking it. We engaged them, but
-there were four warbirds. 
-PICARD: The Narendra Three outpost was destroyed. It is regrettable
-that you did not succeed. A Federation starship rescuing a Klingon
-outpost might have averted twenty years of war.
-
-[1701C Bridge]
-
-CASTILLO: I just can't quite make myself believe
-it. Twenty two years! 
-TASHA: I'm reading forty percent on forward shields. What do you have
-on aft? 
-CASTILLO: Forty percent. 
-TASHA: That won't cut it. Commander, advise Lieutenant La Forge that
-shields are below minimum. 
-RIKER: Acknowledged. 
-CASTILLO: We'll never see our homes again. Our families. 
-TASHA: How do you know your family's not still alive? 
-CASTILLO: You're right, I don't. But imagine coming home after
-twenty-two years. Would I even recognise them? 
-TASHA: What are the stats on main phaser banks? 
-CASTILLO: Emitters available, sixty percent forward, fifty two percent
-aft. 
-TASHA: Good. Let's take a look at the torpedo launchers. 
-CASTILLO: I guess I'm lucky to be alive at all. 
-TASHA: You may not like the future. It's been a long war. The
-Federation has lost more than half of Starfleet to the Klingons. 
-CASTILLO: We were negotiating a peace treaty when I left. 
-TASHA: A lot of changes, Lieutenant. A lot of changes. 
-CASTILLO: When we get a break, maybe you could fill me in on some of
-them. 
-TASHA: Photon banks are depleted. Auxiliary fusion generators are down.
+(Guinan enters) 
+TASHA: Deflector shield technology has advanced considerably during the
+war. Our heat dissipation rates are probably double those of the
+Enterprise-C, which means we can hang in a firefight a lot longer.
+Guinan? 
+GUINAN: Have you ordered yet, Tasha? 
+TASHA: No, not yet. Is anything wrong? 
+GUINAN: Not a thing. What can I get for you? 
+TASHA: Just a couple of TKLs. We're in a hurry. Oh, this is, Lieutenant
+Castillo. 
+(Guinan moves slowly away) 
+TASHA: First time for everything. 
+GUEST0: First time? 
+TASHA: It's just that I've never seen anything bother her before. 
+GUEST0: What's a TKL? 
+TASHA: Standard rations. Food replicators are on minimum power, so
+everything else is diverted to defensive systems. So where was I? 
+GUEST0: You've told me more about tactical in an hour than I learned
+my last year in the Academy. 
+TASHA: You're going to need it, Lieutenant. 
+GUEST0: Hey, I've known you a whole day now, Lieutenant. I won't
+salute if you won't. What did she call you? Tasha? 
+TASHA: Yeah. 
+GUEST0: Most everybody just calls me Castillo. My mother calls me
+Richard. 
+TASHA: Okay, Castillo. 
+GUEST0: No, I think maybe I'd like it better if you called me
+Richard. 
+TASHA: Richard. 
+PICARD [OC]: This is the Captain. Senior officers will report to my
+Ready room immediately. 
+TASHA: So much for lunch.
 

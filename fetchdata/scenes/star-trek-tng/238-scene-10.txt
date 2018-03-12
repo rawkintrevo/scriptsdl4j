@@ -1,102 +1,46 @@
-TROI MORIARTY PICARD RIKER CRUSHER DATA BARCLAY
+GUEST1 COMPUTER DATA BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Transporter room]
 
-MORIARTY: My God! We're adrift in the heavens. 
-PICARD: No, not adrift. The Enterprise is a starship, capable of
-travelling through space. 
-MORIARTY: Extraordinary. Are we far from Earth? What is the range of
-this ship? What means of locomotion does it use? There's so much for me
-to learn. I hardly know where to start. 
-PICARD: I can give you books that will help. 
-MORIARTY: Good, good. I want to start making plans. Determine what I'm
-going to do with my life. 
-PICARD: I hope you will plan on remaining on board for a while. There
-is still much that we need to understand about what has happened to
-you. 
-MORIARTY: Does it really matter? The point is, I'm here, and I'm eager
-to get on with life. 
-PICARD: Professor, I feel it necessary to point out that criminal
-behaviour is as unacceptable in the twenty fourth century as it was in
-the nineteenth. And much harder to get away with. 
-MORIARTY: Don't worry, Captain. My past is nothing but a fiction. The
-scribblings of an Englishman dead now for four centuries. I hope to
-leave his books on the shelf, as it were. 
-PICARD: If that's so, then there are opportunities awaiting you that
-are beyond anything you have ever imagined. 
-MORIARTY: Your century may welcome me, but 
-PICARD: What is the matter? 
-MORIARTY: In considering all these vast possibilities, I suddenly feel
-very much alone. I am a man out of time, Captain, and that isolates me.
-You have been more gracious than I could ever have imagined, I wonder,
-may I impose on your generosity once again? There is a woman, the
-Countess Regina Bartholomew. She was created as a holodeck character
-for one of Commander Data's programs. She was designed to be the love
-of my life. Could she also be brought off the holodeck? 
-PICARD: Professor, I ask you to believe me when I say that we do not
-know how or why you are able to exist off the holodeck. 
-MORIARTY: I do. I do believe you. 
-PICARD: According to the laws of physics, this is impossible. We would
-have no idea how to do it again. 
-MORIARTY: As I understand it, I was endowed with consciousness four
-years ago when someone said to the computer, create an opponent with a
-capacity to out-think Data. or words to that effect. Could we not make
-a similar request on behalf of the Countess? 
-PICARD: Even if I had reason to believe that would be successful, I
-don't think that I could sanction it. Please understand, Professor,
-that you are in essence a new life form. One that we didn't intend to
-create and that we don't fully understand. Now the moral and ethical
-implications of deliberately creating another one like you are
-overwhelming. 
-MORIARTY: Is it morally and ethically acceptable to deny the woman I
-love so that you can put your conscience at ease? Are you saying that
-you will simply dictate how I am to live my life? 
-PICARD: I assure you, we will do everything possible to make you
-comfortable. 
-MORIARTY: So long as I accept the terms under which you dole out those
-comforts. Captain, I am a powerless man. You hold my future, my
-happiness, my very life in your hands. Please, consider my request.
+DATA: Go ahead, Lieutenant. 
+BARCLAY [OC]: I'm ready here. 
+DATA: Modifications are complete. 
+[221B Baker Street]
 
-[Observation lounge]
+DATA [OC]: Stand by. 
+BARCLAY: Standing by. 
+[Transporter room]
 
-TROI: I understand his frustration. We created him
-and we created her to be the woman he loves. Surely we have some
-responsibility to them. 
-CRUSHER: It's very romantic, but until we know just what it was that
-walked off the holodeck, I don't think we should be trying it again. 
-BARCLAY: Even if we decided to do it, there's no guarantee that we'd be
-able to. 
-DATA: There is also no way of knowing if the Professor's ability to
-exist off the holodeck is permanent. It may be unwise to consider
-creating a second individual while this uncertainty exists. 
-PICARD: Agreed. We don't have enough information about this phenomenon
-to act in a responsible way. I think we'll hold off on Professor
-Moriarty's request for now, but continue with your investigation. In
-the meantime, I have to deal with Professor
-Moriarty.
+DATA: Activating pattern enhancers. Energising. I
+am having difficulty establishing a pattern lock. (to technician) Boost
+the confinement beam, please. Pattern lock established.
 
-[Moriarty's quarters]
+ [221b Baker Street]
 
-PICARD: I feel I must postpone action until we
-learn more. 
-MORIARTY: Yes. You know all about that. I stayed in the dungeon of your
-computer for years waiting for you to learn more. It wasn't until I
-took things into my own hands that something got done. 
-PICARD: Professor, I wonder why you're in so much of a hurry. Is this
-woman involved with you in some illegal venture? 
-MORIARTY: Your computer designed her to be a person of impeccable
-integrity. She would never commit a crime. 
-PICARD: You must love her very much. 
-MORIARTY: The programme fashioned her for me to love. But I must admit,
-I would have done so anyway. She is remarkable. My life has not been
-the same since I met her. I don't simply love her, Captain. I adore
-her. 
-PICARD: Then her safety must be very important to you. Give us time to
-determine what is going on happened here. That way we can minimise the
-risks in bringing her to you. You wouldn't want to lose her because we
-acted too quickly. 
-RIKER [OC]: Riker to Captain Picard. 
-PICARD: Picard here. 
-RIKER: Could you join us on the Bridge? 
-PICARD: On my way.
+DATA [OC]: Energising. 
+(the chair disappears) 
+GUEST1: Oh! Bravo. 
+BARCLAY: Do you have the chair, Commander? 
 
+[Transporter room]
+
+DATA: No. It lost its cohesion as soon as the
+transporter cycle was complete. 
+[221b Baker Street]
+
+BARCLAY: Well, it was a long shot to begin with. 
+DATA [OC]: Agreed. However, we may be able to learn something from the
+attempt. 
+[Transporter room]
+
+DATA: Computer, display the transport logs for the
+sequence just completed. (no data available) Computer, what is being
+displayed here? 
+COMPUTER: Transport log seven five nine. 
+DATA: That is the correct log. However, no information 
+[221b Baker Street]
+
+DATA [OC]: Is being presented. 
+BARCLAY [OC]: Well, that's impossible. 
+DATA [OC]: It is almost as if 

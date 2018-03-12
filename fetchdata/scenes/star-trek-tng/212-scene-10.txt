@@ -1,55 +1,52 @@
-RIKER CRUSHER JEV
-
-[Ten Forward]
-
-RIKER: May I join you? 
-JEV: Commander. Of course. Something's wrong? 
-RIKER: Counsellor Troi's ill. 
-JEV: I'm sorry to hear it 
-RIKER: She's more than ill, she's in a coma. Doctor Crusher doesn't
-know what's causing it or how to treat her. 
-JEV: When did this happen? 
-RIKER: Apparently some time last night. That's why I wanted to talk to
-you. You may have been the last person to see her. Did you go with her
-into her quarters? 
-JEV: Are you suggesting that I behaved improperly, Commander? 
-RIKER: Not at all. I'm just trying to trace her steps. 
-JEV: We talked in a turbolift, briefly. She got out at deck eight. I
-did not go with her. 
-RIKER: Jev, I'm not accusing you of anything. Did she mention feeling
-ill? 
-JEV: She seemed fine. She has a wonderful sense of humour. 
-RIKER: If you have no objections, Doctor Crusher would like to examine
-you and your group. 
-JEV: To what end? 
-RIKER: She's just trying to eliminate the possibility that one of you
-might be carrying an organism that was harmful to Deanna.
-I'm not implying that you did anything intentional. I'm just trying to
-get to the bottom of the mystery. 
-JEV: We have nothing to hide. If you wish to spend time examining us. 
-RIKER: Fine. Thank you.
+COMPUTER CRUSHER LAFORGE KEIKO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
-RIKER: Deanna, I don't know if you can hear me.
-I've heard doctors say that even when someone's in a coma, they may be
-able to hear when people talk to them. That it might help stimulate the
-brain, speed the healing. In fact, I think you did that for me once,
-when I was in pretty bad shape. I just thought it might help to hear a
-friendly voice, even if you don't know you're hearing it. We've been
-busy mapping the sector. It's been pretty routine. The most unusual
-thing we've seen is a binary star system. Let's see, what else? I
-finished the personnel review that we were working on. You can check it
-out when you wake up. I miss you. Please don't stay away too long. 
-CRUSHER: Will? Will, I promise I'll let you know the minute that she
-regains consciousness. 
-RIKER: I know. 
-CRUSHER: There's nothing you can do here. You'll wear yourself out. 
-RIKER: Right.
-CRUSHER: It's late. Go to bed. That's an order.
+CRUSHER: You're the only person on board to undergo
+a memory probe by the Ullians. I'd like to do a neurological work up
+and see if I can detect any residual effect. Doctor Martin will monitor
+your vital signs while I conduct the scan. 
+KEIKO: I'm happy to help. 
+CRUSHER: Have you had any unusual symptoms since the probe? Headaches?
+Dizziness? 
+KEIKO: No, nothing like that. It was a wonderful experience. 
+CRUSHER: Electrical activity is normal. CPK levels are normal.
+Hippocampus is stable, and the thalamus? The thalamus is normal. There
+is no indication at all of the electropathic residual. 
+KEIKO: Is that good? 
+CRUSHER: Oh, you're fine, Keiko. But I am no closer to solving this
+mystery.
 
-[Riker's quarters]
+[Engineering]
 
-(Riker is using a PADD when suddenly he is dreaming
-about being back in - )
+LAFORGE: Computer, locate the electropathic pattern
+described in medical database four delta one. 
+COMPUTER: Electropathic pattern located. 
+LAFORGE: Okay, we're going to track down any possible cause of that
+brain pattern. First, what are the medical conditions that might
+account for it? 
+COMPUTER: Iresine syndrome is a cause of the electropathic pattern. 
+LAFORGE: Right. And Doctor Crusher already eliminated that, so how many
+non-medical forces or substances might cause the pattern? 
+COMPUTER: There are twenty two non-medical agents. 
+LAFORGE: Okay. And how many of those are present on the Enterprise? 
+COMPUTER: None are present on the Enterprise. 
+LAFORGE: Are the ship's sensors calibrated to detect all those agents? 
+COMPUTER: All agents are scanned by the sensors. 
+LAFORGE: Okay. Let's start with the chemical substances. Name them. 
+COMPUTER: Ferrazene, hylanatine, dardilion, chrysimite, and manzene. 
+LAFORGE: Ferrazene has a complex molecular structure. It breaks down
+into bilenium and tarrisite. Do the sensors scan for those? 
+COMPUTER: Ship's sensors scan for both compounds. 
+LAFORGE: And are they present on the Enterprise? 
+COMPUTER: Bilenium and tarrisite are not present. 
+LAFORGE: Do any of the substances break down into by-products that are
+not scanned for? 
+COMPUTER: Dardilion contains the byproduct nilizene. Sensors do not
+routinely scan for that substance. 
+LAFORGE: Well, this isn't a routine situation. Scan for the nilizene. 
+COMPUTER: There is no nilizene on the Enterprise. 
+LAFORGE: How did I know you were going to say that? Okay. Let's move on
+to the non-chemical agents.
 

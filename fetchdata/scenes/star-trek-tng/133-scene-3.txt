@@ -1,40 +1,35 @@
-RIKER LAFORGE WORF PICARD PULASKI COMPUTER DATA
+TROI RIKER WORF PICARD GUEST3 PULASKI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Observation lounge]
 
-PICARD: Computer, security override request. 
-COMPUTER: Identify. 
-PICARD: Picard, Jean-Luc, Captain, USS Enterprise. Request control
-access Starfleet ship USS Lantree, Isao Telaka commanding. 
-COMPUTER: Enter access code. 
-PICARD: Omicron omicron alpha yellow daystar two seven. Enable.
+RIKER: We've downloaded the Lantree's log, sir. 
+PICARD: Play back the Captain's last entry. 
+GUEST3 [OC]: Captain's log, stardate 42493.1. There are only six of us
+left. We've set course for the nearest Federation outpost, but I am
+afraid it's too late. All attempts to analyse what is happening have
+failed. In the last few hours I've watched friends grow old and die,
+and I'm seeing it happen to me. Captain L.I. Telaka, USS Lantree. 
+RIKER: Captain Telaka was my age, sir. 
+PICARD: Doctor? 
+PULASKI: Every member of the Lantree crew had a complete examination at
+the beginning of this duty cycle eight weeks ago. They were in perfect
+health. 
+TROI: Nothing else since? 
+PULASKI: A single medical entry noting that the First Officer was
+treated for Thelusian flu five days ago. 
+PICARD: Thelusian flu? 
+PULASKI: It's an exotic but harmless rhinal virus. It couldn't have
+caused this. 
+RIKER: The last port of call of the Lantree was the Darwin Genetic
+Research Station on Gagarin Four three days ago. 
+PULASKI: Whatever happened, it could be something that the Lantree crew
+already had or it could have come from Gagarin. At the very least, the
+people from Darwin Station deserve a warning. We may have to consider a
+quarantine. 
+PICARD: You'll agree that we should quarantine the Lantree. 
+PULASKI: Absolutely. 
+RIKER: Lieutenant, initiate the quarantine transmitters on the Lantree
+and activate her marker beacons. We'll need to find her again. 
+WORF: Aye, sir.
 
-[Bridge]
-
-(At the rear stations) 
-DATA: I have verified receipt of the access codes for the Lantree,
-Captain. 
-PICARD: Grand. Commence operations. 
-RIKER: Our first move will be shut down the engines. 
-LAFORGE: Standing by, Commander. 
-DATA: The Lantree computer reports access codes received and accepted,
-sir. 
-(Pulaski enters) 
-PULASKI: Sickbay on alert, Captain. 
-LAFORGE: Interlock is engaged. The Lantree is responding, sir. 
-DATA: We have override control of her Bridge, Captain. All systems
-answering. 
-PICARD: All right, let's have a look. 
-LAFORGE: Lantree Bridge monitor engaging. 
-(The viewscreen shows very old people dead in their seats) 
-PICARD: Are you reading anything, Doctor? 
-PULASKI: Still no signs of life, Captain. 
-PICARD: Magnify. That must be Captain Telaka on the left. Let's look at
-him. Closer. My God. 
-RIKER: Looks like they had a battle with time. 
-WORF: And lost. 
-PULASKI: Heart, lungs, liver, everything. 
-PICARD: What is it? 
-PULASKI: They died of natural causes. 
-PICARD: Natural causes? What in nature could cause that? 
-PULASKI: For the record, Captain, they died of old age. 

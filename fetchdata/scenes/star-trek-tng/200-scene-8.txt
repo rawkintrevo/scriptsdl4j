@@ -1,99 +1,34 @@
-RIKER GOWRON WORF PICARD GUINAN COMPUTER DATA
-
-[Bridge]
-
-PICARD: Mister Worf, would you escort our guest to
-the transporter room? 
-(Worf and Gowron enter the turbolift) 
-PICARD: Begin monitoring Romulan activity along the Neutral Zone,
-Mister Data. Have the outpost stations send us their tactical reports. 
-DATA: Aye, sir. 
-PICARD: The Duras family are preparing to move against Gowron. 
-RIKER: Backed by Romulans? 
-PICARD: I don't know. But there is too much history between the Duras
-and the Romulans to discount the possibility.
-
-[Transporter room]
-
-WORF: Dismissed. 
-(the transporter technician leaves) 
-WORF: I would speak with you. 
-GOWRON: I do not hear the words of traitors. 
-WORF: I am not a traitor. 
-GOWRON: You admitted your guilt before the Council. 
-WORF: I accepted discommendation to protect the Empire. 
-GOWRON: Protect it? How? 
-WORF: It was Duras' father who betrayed our people to the Romulans at
-Khitomer, not mine. 
-GOWRON: Duras? There is proof of this? 
-WORF: There is. 
-GOWRON: Why would you accept dishonour to protect Duras? 
-WORF: His family was too powerful. To expose him would have split the
-Empire. Instead, the Council chose to blame my father. 
-GOWRON: The Council knew? 
-WORF: I believe you to be a man of honour, Gowron. I ask you, restore
-my family name. 
-GOWRON: Worf, you killed Duras. I consider that no small favour. But
-what you ask is impossible. 
-WORF: But after your installation 
-GOWRON: The grasp of Duras reaches out from the grave. Much of the
-Council is still loyal to his family. I must have the Council's support
-to survive. I cannot expose their treachery. You chose to accept this
-disgrace for the good of the Empire. Now you must live with your
-decision, like a Klingon.
-
-[Phaser range]
-
-(Worf is practicing shooting moving coloured
-targets when someone enters) 
-WORF: Guinan? 
-GUINAN: It's a little quiet down in Ten Forward, so I thought I'd get
-off a little target practice. Do you mind if I join you? 
-WORF: You? Practise? 
-GUINAN: I like to keep my eye sharp. 
-WORF: I practice at level fourteen. 
-GUINAN: Guess I could come down to that level for a while. Begin
-programme. 
-(and Guinan gets the first target before Worf realises it has started) 
-GUINAN: You know, I had a bet with the Captain that I could make you
-laugh before you became Lieutenant Commander. 
-WORF: Not a good bet today. 
-GUINAN: I've seen you laugh. I like it. 
-WORF: Klingons do not laugh. 
-(he misses) 
-GUINAN: Oh yes they do. Absolutely they do. You don't. But I've heard
-some Klingon belly laughs that would curl your hair. 
-(Guinan gets three hits, Worf gets two hits and a miss) 
-GUINAN: Your son laughs. He's a Klingon. 
-WORF: He is a child and part human. 
-GUINAN: That's right. And you're not, you're full Klingon except you
-don't laugh. 
-WORF: I do not laugh because I do not feel like laughing. 
-GUINAN: Other Klingons feel like laughing. What does that say about
-you? 
-WORF: Perhaps it says that I do not feel like other Klingons. 
-(another miss) 
-COMPUTER: Programme complete. 
-GUINAN: Good game. Don't feel bad. I was doing this long before you
-were born. So how is he? Your son. 
-WORF: He is having difficulty adjusting to life on Earth. 
-GUINAN: I can see where it might be hard for the little guy. Living
-with humans, being Klingon. Could be very confusing. 
-WORF: It will not be easy for him. 
-GUINAN: No, it won't. But at some point he's going to want to know what
-it's like to really be a Klingon. Just as you're learning.
+PICARD RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 
-PICARD: Come. 
-WORF: Captain, I request a leave of absence. 
-PICARD: Mister Worf, request granted. 
+PICARD: Mister Worf, you're using our files on the
+Khitomer massacre as evidence against Duras' father? 
+WORF: Yes, sir. 
+PICARD: Do you not see an inherent conflict of interest here? 
+WORF: Sir, those Federation records will help me prove that my father
+was falsely accused of treason. 
+PICARD: You are using your position as a Starfleet officer to affect
+political change on your planet. There could not be a worse compromise
+of our fundamental principles. 
+WORF: Do not tie my hands now. I must be able to prove my father's
+innocence. Those Federation records can do that. 
+PICARD: Mister Worf. Here I am lecturing you on a conflict of interest
+while I'm desperately trying to avoid one of my own. Do you think I
+wish to allow the Duras family to solidify their hold on the Council?
+Do you think I cannot see for myself the implications for the
+Federation? Good Lord, Duras tried to have me killed! All of my
+instincts, my training, my very being as a Starfleet officer are at
+odds with my responsibilities as Arbiter of the Klingon High Council.
+We walk the same tightrope between two worlds, you and I. We must try
+our very best to keep those two worlds separate, or we shall certainly
+fall. 
+WORF: Yes, sir. 
+PICARD: I will make the Khitomer massacre files available to anyone who
+wants them. To the High Council, to the Duras family, to you. Anyone. 
 WORF: Thank you, sir. 
-PICARD: Lieutenant. Qapla! 
+PICARD: Mister Worf, this is as far as I can go. 
 (Worf leaves) 
-PICARD: And good luck.
-
-Lieutenant Worf, personal log, stardate 44996.1. I
-have located the Klingon ship on which my brother Kurn serves as
-captain, and have arranged to join him.
-
+RIKER [OC]: Riker to Picard. 
+PICARD: Yes, Number One. 

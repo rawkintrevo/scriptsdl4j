@@ -1,62 +1,38 @@
-PULASKI LWAXANA TROI DATA PICARD
+RIKER GUEST0 PICARD TROI PULASKI LWAXANA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Sickbay]
+
+GUEST0: Food. Food. Food. Food. Food. 
+PULASKI: Worf, the vermicula. 
+(The barrel is opened, and the two fishy aliens almost dive in head
+first) 
+PULASKI: Pulaski to Captain Picard. 
+PICARD [OC]: Go ahead, Doctor. 
+PULASKI [OC]: Our passengers are on their feet. 
+[Rex's Bar]
+
+PICARD: Understood. 
+RIKER: I'd better get to the Bridge. 
+PICARD: What's their condition? 
+[Sickbay]
+
+PULASKI: Hungry. Would you like to be shown to your
+rooms? 
+[Rex's Bar]
+
+PICARD: Are you coming, Mrs. Troi? 
+LWAXANA: Not just yet. Tell William I'm sorry, but Rex and I are
+getting married. 
+PICARD: Mrs. Troi, your government expects us to deliver you to the
+conference on time, and that's what I intend to do. 
+LWAXANA: Pity. Duty calls, darling. But I'll be back for you later. 
+PICARD: Mrs. Troi, there is something you ought to know about Rex. 
+LWAXANA: Oh? 
 [Corridor]
 
-PULASKI: Your mother seems quite an interesting
-woman, Deanna. 
-TROI: Perhaps I should tell you something about my mother's condition
-at this time. 
-PULASKI: Condition at this time? 
-TROI: It's something that occurs to Betazoid females as they enter
-mid-life. We call it the phase. 
-PULASKI: Mid-life? As in a human female's menopause? 
-TROI: Similar. It's only at mid-life that a Betazed female becomes,
-well, fully sexual, if you know what I mean. 
-PULASKI: Yes, I think I do. I also think that I saw the Captain on his
-way to her quarters. 
-TROI: I wonder if I shouldn't warn him? 
-PULASKI: No. As ship's Doctor I'd consider it excellent exercise for
-his reflexes and agility. 
-TROI: Doctor ! 
-PULASKI: For staying ahead of your mother. 
-TROI: Yes. An animal is always at its best when hunted. 
-PULASKI: Or when hunting.
+(Exiting a turbolift) 
+LWAXANA: Imagine, allowing me to go on like that with that man, who
+doesn't even exist. 
+TROI: But you always say you like surprises, Mother.
 
-[Lwaxana's quarters]
-
-(we now have a graphic presentation of a planetary
-system on the room's view screen) 
-DATA: And at this point, the second co-orbital satellite avoids a
-collision with the first. 
-(Deanna enters) 
-LWAXANA: Deanna, darling. Thank the Four Deities you're here. 
-TROI: I hope I'm not interrupting. 
-PICARD: No, I must, as a matter of fact, be getting back to the Bridge.
-
-DATA: Captain. Perhaps I should remain and further entertain our guest.
-
-LWAXANA: No! I mean, I'm sure you're needed on the Bridge as well. 
-PICARD: Well, thank you for a delicious meal. We must do this again
-sometime. 
-LWAXANA: I know we will. 
-(Picard and Data leave) 
-LWAXANA: Well, Little One, the Captain is every bit as charming as your
-father was.
-
-[Corridor]
-
-PICARD: Data, you will never know just how much I
-owe you for that. 
-DATA: Indeed, Captain? I know many more interesting anecdotes, sir. For
-example, 
-PICARD: Data. 
-DATA: Sir? 
-PICARD: Later. 
-DATA: Yes, sir. 
-[Lwaxana's quarters]
-
-TROI: Why would you come aboard at a time like
-this? 
-LWAXANA: I had no choice. I was going to Pacifica, you were going to
-Pacifica. 
-TROI: Don't be absurd, Mother. You knew what would happen. 

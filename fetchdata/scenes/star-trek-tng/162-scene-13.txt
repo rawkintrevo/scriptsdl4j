@@ -1,174 +1,80 @@
-RIKER OBRIEN LAFORGE WORF MANUA TAYNA PICARD KRAG DATA APGAR
+RIKER APGAR GUEST0 PICARD KRAG TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Holodeck - Space Station Living quarters ]
 
-O'BRIEN: I've gone through the whole system,
-Captain. I can't find any malfunction in the transporter.
+GUEST0: (handing out the drinks) Commander. 
+APGAR: To success. 
+RIKER: Success. 
+APGAR: Well, in a way, I suppose it's good that you're early. Manua's
+right, it gives me a chance to show you the progress we've been making.
 
-[Transporter room]
+RIKER: I'd appreciate it if Commander La Forge and I could stay here
+until the Enterprise returns. 
+(Riker is continually staring at Manua) 
+GUEST0: It's a little inconvenient. 
+RIKER: It would help to accelerate the process. 
+APGAR: Well, if you wish, Commander. Now, where shall I start? Well,
+first of all, you should know that I am very close to being able to
+collimate a Krieger field.
 
-O'BRIEN [OC]: Nothing that would cause an explosion
-like that 
-PICARD: Why was there a power drain before
-transport? 
-O'BRIEN [OC]: I don't know, sir. 
-PICARD: I shall want an answer to that. I'm sure the Tanugans will too.
+[Holodeck - Space Station Guest quarters]
 
-O'BRIEN [OC]: Yes, sir. 
-DATA: Captain, the radiation and debris are consistent with an overload
-of the station's reactor core. 
-PICARD: Were there any indications of reactor core problems while you
-were on the station? 
-LAFORGE: No, sir. 
-PICARD: Number One? Mister La Forge indicated that this was not an
-entirely routine mission. 
-RIKER: It's a long story, sir, but I'm sure it doesn't have anything to
-do with this accident. 
-WORF: Captain, Chief Investigator Krag of the Tanugan security force
-requests permission to beam aboard. 
-PICARD: Granted. Will you escort him to the Bridge, Mister Worf. 
-WORF: Aye, sir. 
-PICARD: Perhaps you had tell me as much as possible prior to his
-arrival, Number One.
-
-[Transporter room]
-
-(A humanoid male, hair swept up at the sides to
-give a severe look) 
-WORF: I'm Lieutenant Worf, head of ship's Security. I will take you to
-the Captain.
-
-[Bridge]
-
-PICARD: Chief Investigator, welcome to the
-Enterprise. I'm Captain Picard. This is my First Officer, Commander
-William Riker. 
-KRAG: Commander Riker, I am here to take you into custody. 
-RIKER: Custody? On what charge? 
-KRAG: Suspicion of murder. 
-RIKER: Murder? Now wait a minute, you can't come on 
-PICARD: Chief Investigator, we are perfectly willing to cooperate with
-you, but 
-KRAG: Then release the prisoner for transportation to the planet. 
-PICARD: Let's continue this discussion in private. Number One, you have
-the Bridge.
-
-[Ready room]
-
-PICARD: Just what is the evidence against my
-officer? 
-KRAG: Two witnesses have come forward to describe Commander Riker's
-threats against Doctor Apgar. 
-PICARD: Threats? I'm aware there was a private conversation between
-them. 
-KRAG: Apparently, it was much more than just a private conversation,
-but he will have a chance to prove his innocence. 
-PICARD: Investigator, in our system of jurisprudence, a man is innocent
-until proved guilty. 
-KRAG: In ours, he is guilty until he is proved innocent, and you are
-under our jurisdiction. If I understand the Federation
-regulations on these matters, and I just happened to look them up
-before I 
-PICARD: I am aware of Federation regulations, sir, and if you
-investigate them further, you will find the captain decides if
-extradition is warranted. 
-KRAG: Are you saying it is not? 
-PICARD: I'm saying, if there is sufficient cause to warrant a trial, I
-will release my officer into your custody. 
-KRAG: Would you say you're close to your First Officer, Captain? 
-PICARD: That question is irrelevant here. 
-KRAG: Really, Captain, you cannot believe that. How can I expect a fair
-and impartial decision? 
-PICARD: I must protect the rights of my officer. 
-KRAG: I can appreciate that, but you will do it on the planet, not
-here. After all, what if you were suddenly to decide to leave this star
-system? 
-PICARD: You have my word as a Starfleet officer that I will not. 
-KRAG: Unacceptable. Captain, you will turn him over to me for
-interrogation now. 
-PICARD: Interrogate him here. 
-KRAG: We must recreate, step by step, moment by moment, all the events
-leading to the explosion. We will require access to all the witnesses,
-as well as the data from the lab's ground computers. It would be
-impossible to accomplish here. 
-PICARD: Perhaps not. Mister Data, will you report to my Ready Room? 
-DATA [OC]: Aye, sir. 
-PICARD: We may be able to assist you in recreating the events. 
-(Data enters) 
-PICARD: Commander Data, this is Chief Investigator Krag. Commander, by
-taking testimony from the away team and from witnesses provided by the
-Investigator, would it be possible to programme the Holodeck to
-recreate what happened on the science station? 
-DATA: It would require construction and design specifications, full
-orthographic representations of the Krieger equipment, as well as
-visual representations and voice analyses of the persons involved. But
-it is possible. 
-KRAG: Very well. Arrangements will be made to provide you with all
-available information. I shall return shortly with our witnesses. 
-PICARD: Commander, will you escort Investigator Krag to Transporter
-Room Three.
-
-[Bridge]
-
-PICARD: Ensign Crusher, Mister La Forge, we are
-going to recreate the research station here on the holodeck. I want you
-to work with Commander Data on the preparations. In addition, Commander
-La Forge and Commander Riker, I want you to give the computer detailed
-depositions of everything you saw, everything you heard while you were
-on board. Counsellor, I want you to assist me during this inquiry. My
-decision about the extradition will be based upon the evidence
-presented during these recreations. 
-RIKER: Captain, may I have a word with you? 
-PICARD: Under these circumstances, Number One, I think that would be
-inappropriate.
-
-Second officer's log, Stardate 43611.6. Programming
-of the holodeck has taken eighteen hours eleven minutes, and is now
-complete. All participants have entered their depositions. Technical
-schematics and complete records from the lab's ground computers, as
-well as Doctor Apgar's personal logs, have been included. The
-recreations will have a nominal eight point seven percent margin of
-error.
-
-[Holodeck - Space Station Lab]
-
-(There is a curved table with chairs for Picard,
-Troi, Riker and Krag to sit at and watch the evidence) 
-PICARD: Is there anything you'd like to say before we begin, Number
-One? 
-RIKER: Just this. I'm not a murderer. I went to the Tanugan lab as an
-official representative of Starfleet. I acted
-accordingly. I was there to evaluate Doctor Apgar's progress in the
-development of a Krieger Wave converter. That's all I was interested
-in. Computer. Load deposition programme Riker one. Run the simulation. 
-(Holographic Riker and La Forge beam in) 
-RIKER: Doctor Apgar, I'm Commander William Riker. Lieutenant Commander
-Geordi La Forge. 
-APGAR: My assistant, Tayna. Well, let's get on with it, shall we? 
-MANUA: Don't be in such a hurry, dear. Perhaps our guests would care
-for some refreshments. 
-APGAR: My wife, Manua. 
-RIKER: A pleasure to meet you, Mrs. Apgar. If you're prepared to get
-started, so are we. 
-APGAR: Of course I'm prepared. 
-RIKER: All right, why don't you give me the overview of your research
-while Mister La Forge and your assistant take a look at the
-experimental data. 
-APGAR: Fine, whatever. I must say, Commander, I resent this early
-arrival. Starfleet will get its converter. I've had a few setbacks,
-that's all. 
-RIKER: We're not here to pressure you, Doctor. We just want an update
-on your progress. 
-APGAR: Tayna, show the Commander's assistant whatever he wants to see.
-Give him full access to our records. 
-TAYNA: Yes, Doctor. If you'll come with me. Our lambda field generator
-is on the planet since it requires a minimum of five thousand
-kilometres for the field to collimate. 
-(Tayna and Geordi move to the back of the set. Manua has been gazing at
-Riker all the time) 
-MANUA: Really, darling, you're being rude. After all, Commander Riker
-is willing to sit through all your prattle about Krieger Waves. Let's
-have a drink, Commander, and we'll hear all about Krieger Waves. 
-(Manua takes Riker's arm and leads him away. Apgar follows, arms
-crossed)
+GUEST0: Our guest quarters are very modest. 
+RIKER: Very charming. It has your touch. 
+GUEST0: The station is small, and we don't often have guests. I use this
+as my sanctuary. 
+RIKER: Who do you need sanctuary from? 
+GUEST0: The environmental controls are here. 
+(Riker closes the doors) 
+GUEST0: Commander, please. It's late and I'm tired. 
+RIKER: A man more interested in Krieger waves than in a lovely woman
+like you. How is that possible? 
+GUEST0: My husband is one of the great minds in the galaxy and we love
+each other very much. 
+(Riker pulls her towards him) 
+GUEST0: Please don't. 
+RIKER: It must be very lonely. A princess in a very high tower. 
+GUEST0: Please, my husband will be looking for me. 
+RIKER: Your sanctuary, remember? 
+(Riker slips her dress off her shoulders) 
+GUEST0: Commander, don't, please! 
+RIKER: (the real one) She's lying! That never happened. 
+PICARD: Freeze programme. 
+GUEST0: Please. 
+(Programme stops) 
+RIKER: Captain, you know I would never act like that. 
+PICARD: Commander Riker! 
+RIKER: This isn't me. I wasn't the one who closed the door. I didn't
+proposition her and I certainly didn't try to rape her. Why are you
+doing this? 
+GUEST0: (real one) It's exactly what happened. 
+TROI: Will, come on, sit down. 
+KRAG: Resume programme. 
+GUEST0: Please. 
+(Apgar enters) 
+APGAR: I knew you'd try this, Riker. Do you think I didn't notice how
+you looked at her? I'm not the fool you take me for. 
+(Apgar takes a swing at him, gets blocked and is given two punches to
+the stomach in return) 
+APGAR: You won't get away with this. Your career is over. I'll see to
+it. I swear I will, Riker. 
+RIKER: If you report this, you'll be making a terrible mistake, Doctor.
+A terrible mistake. 
+(Apgar and Manua leave) 
+KRAG: Freeze programme. 
+GUEST0: Your career was safe. He was a scientist. In another day some
+fascinating bit of technical trivia would have distracted him. He would
+have forgotten about you and his complaint to Starfleet. Excuse me. 
+(Manua leaves the holodeck) 
+PICARD: We'll, um, we'll take a short recess. 
+(Picard and Krag leave) 
+RIKER: Why would she lie like that? She was lying. You could tell. 
+TROI: Will, I didn't sense any deception from her. 
+RIKER: Then you think that I? 
+TROI: No! No, of course not. I know you. You don't have to convince me
+of anything. 
+RIKER: We can't both be telling the truth. 
+TROI: It is the truth as each of you remembers it. 
+RIKER: But her version puts a noose around my neck.
 

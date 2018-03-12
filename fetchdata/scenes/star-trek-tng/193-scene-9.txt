@@ -1,41 +1,52 @@
-LARSON RIKER LAFORGE WORF PICARD ANAYA DATA BARCLAY
+GUEST0 GUEST1 COMPUTER LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-LAFORGE: Attempting to now, Commander. Isolate
-phasers eighty to one twenty. Shunt all the plasma 
-BARCLAY: To the emitters. Yes, sir, I'm already on it. Ready. 
-LAFORGE: Phasers are as hot as we can make them, Captain.
+LAFORGE: Where's Lieutenant Barclay? 
+GUEST1: I stopped by his quarters on my way over. He wasn't there. 
+LAFORGE: Computer, location of Lieutenant Barclay. 
+COMPUTER: Lieutenant Barclay is on holodeck three.
 
-[Bridge]
+[Holodeck]
 
-PICARD: Mister Worf. 
-WORF: Aye, sir. 
-RIKER: Nothing. 
-PICARD: Go to warp two. 
-ANAYA: Aye, sir. Warp two. 
-WORF: The probe is still with us, sir. 
-RIKER: At warp two? 
-WORF: Yes, sir. 
-DATA: Captain, the probe's energy output is overloading our shields.
-Failure anticipated in forty seven seconds. 
-PICARD: I'm willing to entertain suggestions. 
-WORF: Captain, we're dropping to impulse.
+GUEST0: G sub I, J of t as t approaches infinity.
 
-[Engineering]
+BARCLAY: G of t over G naught. 
+GUEST0: So it is, so it is. 
+BARCLAY: I still don't see how you're going to incorporate quantum
+principle into general relativity without adjusting the cosmological
+constant a lot more than you're doing here. 
+GUEST0: If we increase the value as you suggest, we must face the
+possibility of twenty six dimensions, instead of ten. 
+BARCLAY: I don't think I could deal with that. 
+GUEST0: I certainly could not. 
+BARCLAY: If the semiset curved into the subatomic, the infinities might
+cancel each other out. 
+GUEST0: Gruss Gott. They just might. 
+LAFORGE: We had a meeting at oh seven hundred. 
+BARCLAY: I'm sorry, Commander. Thank you, Professor. End programme. 
+[Corridor]
 
-LARSON: (a lady engineer) Commander, warp power has
-been transferred to the shield grid. 
-LAFORGE: Yeah, but by whom? 
-(Reg wanders over and presses a control next to La Forge, then returns
-to his own panel) 
-LAFORGE: Barclay, what are you doing? 
-BARCLAY: Lieutenant Barclay to Captain Picard. You can fire photon
-torpedoes. 
-[Bridge]
-
-BARCLAY [OC]: Maximum yield, full spread. 
-RIKER: We're too close. 
-BARCLAY [OC]: I'm certain the shields will hold. 
-PICARD: Mister La Forge?
+LAFORGE: What was that all about? 
+BARCLAY: I had some ideas late last night. I needed to consult with the
+computer about some quantum electrodynamic calculations. A holodeck
+Einstein programme seemed like the best way. I guess I went a little
+overboard. 
+LAFORGE: A little? Most of the stuff on that blackboard was way out of
+my league. And yours too. 
+BARCLAY: Not really. I just haven't thought along those lines before.
+It's all pretty evident now, and if you were to put your mind to it I'm
+sure 
+LAFORGE: Reg, ever since our run in with that probe, something's
+different about you. 
+BARCLAY: What, because I'm beginning to behave like the rest of the
+crew? With confidence in what I'm doing? 
+LAFORGE: You just spent the entire night arguing grand unification
+theories with Albert Einstein! 
+BARCLAY: Yes, but 
+LAFORGE: Reg, something's happened to you, and we can't ignore that. 
+BARCLAY: Yes. I've finally become the person I've always wanted to be.
+Do we have to ask why? 
+LAFORGE: Yeah, I think we do.
 

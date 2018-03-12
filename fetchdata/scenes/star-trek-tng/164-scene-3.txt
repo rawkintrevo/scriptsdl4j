@@ -1,26 +1,6 @@
-WESLEY TROI DATA LAFORGE PICARD
+PICARD TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Laboratory]
-
-DATA: Lal has a positronic brain one very similar
-to my own. I began programming it at the cybernetics conference. 
-LAFORGE: But nobody's ever been able to do that, Data, at least not
-since you were programmed. 
-DATA: True, but here was a new submicron matrix transfer technology
-introduced at the conference which I discovered could be used to lay
-down complex neural net pathways. 
-WESLEY: So you did a transfer from your brain into Lal's. 
-DATA: Exactly, Wesley. I realised for the first time it was possible to
-continue Doctor Soong's work. My initial transfers produced very
-encouraging results, so I brought Lal's brain back with me. 
-PICARD: Data, I would like to have been consulted. 
-DATA: I have not observed anyone else on board consulting you about
-their procreation, Captain. 
-TROI: Why didn't you give it a more human look, Data? 
-DATA: I decided to allow my child to choose its own sex and appearance.
-
-PICARD: Commander Data, at your convenience, I would like to talk to
-you in my Ready room. Counsellor? 
 [Corridor]
 
 PICARD: I insist we do whatever we can to
@@ -34,4 +14,37 @@ PICARD: Well, if he must, but I fail to understand how a five foot
 android with heuristic learning systems and the strength of a ten men
 can be called a child. 
 TROI: You've never been a parent.
+
+[Ready room]
+
+PICARD: What you have done will have serious
+ramifications. I am truly dismayed that you told
+no one of what you were doing. 
+DATA: I am sorry, Captain. I did not anticipate your objections. Do you
+wish me to deactivate Lal? 
+PICARD: It's a life, Data. It can't be activated and deactivated
+simply. This is a most stupendous undertaking. Have you any idea what
+will happen when Starfleet learns about this? 
+DATA: I have followed all of Starfleet regulations to the best of my
+ability. I expected they would be pleased. 
+PICARD: Well, you have taken on quite a responsibility, Data. 
+DATA: To prepare, I have scanned all available literature on parenting.
+There seems to be much confusion on this issue. One traditional
+doctrine insists, spare the rod and spoil the child, suggesting a
+punitive approach. While another more liberal
+attitude would allow the child enormous freedom. 
+PICARD: Data 
+DATA: And what Klingons do to their children 
+PICARD: Data! I'm not talking about parenting. I am talking about the
+extraordinary consequences of creating new life. 
+DATA: Does that not describe becoming a parent, sir? 
+PICARD: Data, you are seeking to achieve what only your own creator has
+been able to achieve. To make another functioning, sentient, android.
+To make another Data. 
+DATA: That is why I must attempt this, sir. I have observed that in
+most species, there is a primal instinct to perpetuate themselves.
+Until now, I have been the last of my kind. If I were to be damaged or
+destroyed, I would be lost forever. But if I am successful
+with the creation of Lal, my continuance is assured. I understand the
+risk, sir. and I am prepared to accept the responsibility.
 

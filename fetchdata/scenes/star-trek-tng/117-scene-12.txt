@@ -1,44 +1,61 @@
-RIKER LAFORGE TASHA BENSEN LUISA DATA
+TROI PICARD GUEST2 GUEST3 RIKER GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Hydraulics room]
+[Observation Lounge]
 
-LAFORGE [OC] So it should be safe in there now. 
-TASHA: I'm going in. 
-DATA: I will go with you. 
-TASHA: Transporter Room, this is Lieutenant Yar. Two to beam up to
-Sickbay. 
-(Tasha and Malencon are beamed away) 
-LUISA: I want to go. We should be with him. Kurt, please come too. 
-RIKER: Transporter Room, this is Commander Riker. Beam up four at my
-co-ordinates. 
-(Riker, Troi, Luisa and Mandl are beamed away) 
-[Control room]
-
-DATA [OC]: Geordi, this is intriguing. I have seen
-malfunctions 
-[Hydraulics room]
-
-DATA: But this is almost as if the laser drill
-seemed to operate itself with a will 
-[Control room]
-
-DATA [OC]: Separate from it's control console. 
-BENSEN: I can't explain it. 
-[Hydraulics room]
-
-DATA: The laser blasts seemed to end when the
-yelling stopped. 
-[Control room]
-
-BENSEN: Maybe Arthur stopped it, only not in time. 
-[Hydraulics room]
-
-DATA: Not possible. 
-[Control room]
-
-LAFORGE: Then what are you suggesting? 
-[Hydraulics room]
-
-DATA: Uncertain. Geordi, please return power to the
-control console in this room. I wish to reactivate the
-programme. 
+PICARD: Director Mandl, I put it to you again. What
+do you know about these life forms? 
+GUEST4: Not a thing. 
+PICARD: Enough! Sit down, Lieutenant. You are deliberately evasive and
+it must stop. You have kept information from me since our first
+communication. An alien life form has taken possession of my Medical
+Lab. You knew of its existence. 
+GUEST4: Yes. 
+GUEST3: Is this true? You knew there was life on Velara Three? 
+GUEST4: I knew that there were random energy patterns, yes, I knew that.
+But not life. Not by any definition I have ever heard. 
+TROI: But you tried to keep that knowledge from us. 
+GUEST4: No! They are meaningless silicon crystals, which rebroadcast
+sunlight. 
+PICARD: It is a life form and it has intelligence. 
+GUEST4: Why do you say that? 
+PICARD: It's trying to communicate with us. 
+GUEST4: Communicate with you? 
+PICARD: When did you first become aware of them? 
+GUEST2: Tell them about the pattern in the sand. 
+PICARD: Oh, yes. Do tell us. 
+GUEST2: When we first arrived, we noticed that in certain areas the
+sand had a sparkling effect, like sunlight bouncing off new fallen snow.
+PICARD: What did you think it was? 
+GUEST2: Honestly, we did not give it any thought. 
+GUEST4: Picard, I must point out again that we were assured, not once
+but many times, by the best scientific minds in the Federation, that
+this planet has no life. No life! And we were not looking, and
+therefore we did not see. 
+PICARD: All right. At first you dismissed it. But then you began to
+understand that there was something that was different about them. 
+GUEST4: You can't know that. 
+PICARD: Your apprehension suggested it, when we first arrived. Tell me
+about these patterns. 
+GUEST2: At first we thought it was just a natural phenomenon unique to
+Velara Three. 
+GUEST4: Refraction and a thin atmosphere is interesting, but certainly
+not life. 
+GUEST3: Why was I never told about this? 
+GUEST4: Because it's not particularly important. 
+GUEST2: As the building of the terraforming station went forward, the
+patterns in the sand ceased being random and became very specific.
+Geometric shapes suddenly appearing, disappearing, changing location,
+changing size. 
+PICARD: Did you ever feel that these patterns were attempting to
+communicate? 
+GUEST4: No, never. 
+PICARD: Bensen? 
+GUEST2: I don't know. At the time, I didn't think so. But now, after
+hearing what you just said. Now, I don't know. 
+RIKER [OC]: Captain, we've regained magnification of the life form.
+It's divided again. 
+PICARD: Patch visual to Observation lounge.
+(Eight round things with a bar pattern are on the screen) 
+GUEST4: There was no indication of any of this on Velara Three. 
+GUEST2: Absolutely none. 

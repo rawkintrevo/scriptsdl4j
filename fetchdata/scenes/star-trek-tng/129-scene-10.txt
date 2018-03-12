@@ -1,75 +1,51 @@
-LESTRADE DATA LAFORGE
+PULASKI MORIARTY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Street]
+[Moriarty's room]
 
-(A crowd is gathered around a body) 
-LESTRADE: Make way, please, make way. Make way for Sherlock Holmes.
-It's murder, Holmes, murder most foul. 
-LAFORGE: Well, Holmes, what do you say, man? 
-DATA: There is nothing here of relevance. I do not see how this
-connects with the disappearance of the Doctor. 
-LESTRADE: Doctor? Doctor Watson is right here, Holmes. 
-DATA: Doctor Kate Pulaski. But do not concern yourself, Inspector. You
-have enough on your mind. 
-LESTRADE: She was with you? 
-LAFORGE: Inspector, perhaps I can be of assistance. As I take note of
-this dead man, I deduce that he was strangled.
-You see, the finger marks on his throat indicate the cause of death,
-and, as there are signs of struggle, it's quite obvious that his
-murderer was a stranger who attacked him from behind. 
-LESTRADE: Is that correct, Holmes? 
-DATA: No. Look at his shoes. He's more a convict, released today from
-Dartmoor prison. (Pentonville more like, my dear Holmes)
-He spent the day in a tavern consuming large quantities of gin with his
-killer, who followed him to this spot and waited over there until the
-victim slipped into a drunken stupor. Then, out of fear, motivated only
-by self-protection, strangled him. There is your killer, Inspector. 
-(Data points at an old woman) 
-LESTRADE: Seize her. 
-DATA: And when you check, I believe you will find that this poor soul
-is the victim's common-law wife, who has been dreading the release of
-this a vile and abusive man. 
-LAFORGE: Holmes, the poor woman hardly has the strength to strangle a
-man this size. 
-DATA: Not with her hands, no. But with this. (a beaded shawl) When used
-as a garrote, these beads will leave marks quite similar to
-fingerprints. And, my dear Watson, you will note from the victim's
-throat, the marks are too evenly spaced to be have been made by human
-hands. 
-LESTRADE: Astounding, Holmes. 
-DATA: Not really, Inspector. And now, for strictly personal reasons, I
-must leave. Come, Watson. This murder does not connect with our case. 
-LESTRADE: Come along. Hurry it up. Come on. 
-(Data and Geordi leave the crime scene) 
-LAFORGE: Data, wait. If this murder isn't connected to the
-disappearance of Doctor Pulaski, then the computer is running an
-independent
-programme. 
-DATA: Yes. 
-LAFORGE: Why? 
-DATA: I do not know, and that is what puzzles me. 
-LAFORGE: Then you don't know what's going to happen next? 
-DATA: No. 
-LAFORGE: That's what I want to hear. Where to now? 
-DATA: We will find Doctor Pulaski in here. 
-LAFORGE: How do you know that? 
-DATA: It is the only obvious choice. 
-(And where he saw Moriarty go in) 
-LAFORGE: Why is the obvious choice all of a sudden the right one? I
-mean, isn't this a game of misdirection? 
-DATA: Not any more. He wants us to find him. 
-LAFORGE: Who does? 
-DATA: The master criminal. The man Holmes could only defeat at the cost
-of his own life at Reichenbach Falls. Our adversary, my dear Watson, is
-none other than Professor Moriarty himself. 
-LAFORGE: Now this is getting interesting. 
-[Warehouse]
-
-LAFORGE: There's nothing here but these barrels. 
-DATA: And a trail, which is so well marked, that obviously we are meant
-to follow it. 
-LAFORGE: Oh, no, Data. It's another dead end. 
-DATA: No, Watson. Not a dead end at all. Hello, what's this? Can you
-see the scratches? 
-(Geordi opens the secret door, which has a bookcase on it's other side)
+PULASKI: How did you make the room shake? 
+MORIARTY: I'm not sure. Now, dear lady, will that be one lump or two? 
+(They are taking afternoon tea) 
+PULASKI: Lumps, Professor? What sort of lumps? 
+(He puts one sugar lump into her cup) 
+MORIARTY: Milk, of course? 
+PULASKI: Why not. 
+MORIARTY: Mister Computer proposes the incredible thought that we are
+all travelling in a great vessel of some sort.
+Is that true? 
+PULASKI: I don't know what you're talking about. 
+MORIARTY: The scones are likewise a must. 
+PULASKI: This is really quite excellent. 
+MORIARTY: Strange. It actually pleases me to hear you say that. 
+PULASKI: Very strange. You're beginning to sound very different from
+the Moriarty I've read about. 
+MORIARTY: You're not frightened of me? 
+PULASKI: No. 
+MORIARTY: You should be. Mister Computer, the arch, please. A few more
+questions, Mister Computer. 
+(Moriarty taps at the control panel) 
+MORIARTY: I just can't seem to remember that last command. Ah, well,
+sooner or later it'll all come to me. But, in the meantime, I have
+decided to approach the problem from a more familiar perspective.
+There's really no reason why I shouldn't be able to use some of the
+knowledge from my world in order to bring me closer to yours. 
+PULASKI: I have no idea what you're talking about. 
+MORIARTY: Of course you do, Madam. The more you proclaim your
+ignorance, the more you try to mislead me, the more I am on to you.
+Your every silence speaks volumes. 
+PULASKI: Good, then if you know what I'm saying when I'm not saying
+anything, what do you need me for? Thank you for the tea and crumpets.
+I guess I'll be going. 
+MORIARTY: Where? Back to here? 
+(A diagram of the Enterprise on his blackboard) 
+PULASKI: Yes. Would you care to join me? 
+MORIARTY: In time. In time I will leave all of this and join you out
+there. Or is this where we both are right now? 
+PULASKI: Right now, we are in London. Tell me what you want from me, or
+allow me to leave. 
+MORIARTY: Frankly, now I want nothing more than what the fisherman
+expects of the worm. You, dear Doctor, will be the lure, and this will
+be the hook for your Captain, Jean Luc Picard. 
+PULASKI: Who is that? 
+MORIARTY: How well you know.
 

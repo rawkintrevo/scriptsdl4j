@@ -1,56 +1,41 @@
-RIKER LAFORGE WORF CHRISTI CRUSHER DATA
+RIKER WORF PICARD CRUSHER DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Sickbay - room four]
 
-LAFORGE: That's her. 
-WORF: Which one? 
-LAFORGE: The one on the right. Don't stare. 
-WORF: Why not? 
-LAFORGE: Because she'll see. 
-WORF: Good. You must let her see the fire in your eyes. 
-LAFORGE: But what would I say? 
-WORF: Words come later. It is the scent that first speaks of love. 
-LAFORGE: Thanks, Worf. That helps a lot. 
-(A girl in a short skirt brings a couple of glasses back to the bar) 
-CHRISTI: Hi, Geordi. 
-LAFORGE: Hi. 
-CHRISTI: So, how have you been? 
-LAFORGE: Good. I, er.
-CHRISTI: How are things down in Engineering? 
-LAFORGE: Fine. They, they've been fine. 
-CHRISTI: Well, I'll see you around. 
-(She leaves him, and he puts his head on the bar) 
-WORF: I have much to teach you about women. 
-RIKER [OC]: Mister La Forge, report to Transporter room three.
+CRUSHER: Autonomic responses are still low. Begin
+cardiostimulation. Sixty cc's of inaprovaline. Massive infection is
+setting in. Use the protodynoplaser to stabilize his immune system. We
+need to design a virus that can infiltrate his cell structure and boost
+his ATP production. 
+GUEST1: (a female nurse) What about Commander La Forge. He's waiting in
+the diagnostic centre. 
+CRUSHER: I need you to give him a full bioscan. See if there's any
+residual effect from that energy discharge during the neurolink. Keep
+his arm in cryogenic stasis until the vital signs are strong enough to
+begin surgical procedures.
 
-[Corridor]
+[Bridge]
 
-LAFORGE: What's this all about, Commander? 
-RIKER: Sensors have discovered a small one-man spaceship crashed on the
-planet. 
-CRUSHER: We're picked up life-signs, humanoid, very faint and fading.
-
-[Planet surface]
-
-(A harsh, rocky place littered with bits of metal) 
-DATA: Radiation levels within acceptable limits. 
-(There is a man tumbled out the back of a shuttlecraft sized ship. The
-man has a badly burned face) 
-LAFORGE: We can beam him out from under there, get him right up to
-Sickbay. 
-CRUSHER: He's not stable enough for transport. There's damage to his
-brain stem, autonomic functions are failing. His heart needs active
-neurofeedback. It can't regulate itself. I need a volunteer. 
-LAFORGE: Right here. 
-CRUSHER: I'm going to hook your nervous systems to the tricorder. Your
-brain will regulate both systems. That
-should stabilise him long enough to get him up to the ship. 
-CRUSHER: Take deep, regular breaths. If anything goes wrong I'll break
-the connection. 
-LAFORGE: Okay. 
-(Something golden leaps from the injured man into Geordi's head via the
-neural thingummyjig) 
-CRUSHER: Geordi! 
-LAFORGE: I'm fine. No problem. 
-CRUSHER: Transporter room, three to beam directly to Sickbay.
+(Picard is holding an oversized blue plastic bottle
+or tube) 
+RIKER: From the size and shape of the wreckage, it appeared to be some
+kind of escape pod. Their control system was badly damaged, which is
+probably what caused the crash. 
+PICARD: An escape pod? Then he couldn't have travelled very far. Mister
+Data, are there any other signs of ships in this area? 
+DATA: I am picking up a scattering of debris in extended orbit around
+the planet. It reads as refined metals and other synthetic compounds. 
+PICARD: The remains of a larger vessel. He must have left in the pod
+before the ship was destroyed. 
+WORF: Sensors show trace elements in the debris that would indicate
+phaser fire was recently exchanged. 
+PICARD: Were you able to salvage anything else from the escape pod? 
+RIKER: This is all that was left from their computer system. 
+PICARD: Mister Data, can you access it? 
+DATA: It will take time, sir. Downloading this into our system will
+require fabrication of a matrix translator to emulate the alien's
+computer system. 
+PICARD: Keep me apprised of your progress. 
+DATA: Aye, sir.
 

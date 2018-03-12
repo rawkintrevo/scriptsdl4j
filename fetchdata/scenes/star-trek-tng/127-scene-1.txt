@@ -1,4 +1,5 @@
-REPULSE RIKER LAFORGE WORF PICARD WESLEY COMPUTER
+GUEST1 RIKER LAFORGE WORF PICARD WESLEY COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
   [Bridge]
 
@@ -7,10 +8,10 @@ three.
 RIKER: (sporting a very Naval beard) Open hailing frequencies. 
 WORF: Hailing frequencies opened. 
 RIKER: Repulse, this is the Enterprise. We are getting underway. 
-REPULSE [OC]: Acknowledged, Enterprise. Transfer complete. Good luck on
+GUEST1 [OC]: Acknowledged, Enterprise. Transfer complete. Good luck on
 your mission. 
 RIKER: And to you. 
-REPULSE [OC]: Give my regards to your Captain. Repulse out. 
+GUEST1 [OC]: Give my regards to your Captain. Repulse out. 
 WESLEY: (in new uniform) Shuttlebay is secure, sir. 
 RIKER: Thank you, Mister Crusher. Make all preparations to get
 underway.

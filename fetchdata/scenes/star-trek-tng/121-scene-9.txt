@@ -1,55 +1,61 @@
-RIKER RICE TASHA PICARD TSU DATA
-
-[Planet surface]
-
-RIKER: Aye, sir. 
-DATA: Commander, our communications are being monitored. 
-RIKER: By whom? 
-DATA: Since there is no intelligent life, the question is by what? 
-[Bridge]
-
-RIKER [OC]: Captain? 
-PICARD: Yes, we heard that, Number One. We'll try and track it down
-from here.
-
-[Ruins]
-
-TASHA: Tritanium. It's been melted. 
-RIKER: What could do that? 
-TASHA: I don't know. Whatever it was, it's beyond our technology. 
-DATA: Over here. 
-TASHA: Wow. 
-(Data takes the moss from a big ray gun) 
-RIKER: We've never even seen anything like this. 
-TASHA: It's undamaged. 
-RIKER: Maybe a demonstration model for some potential buyer. 
-TASHA: Maybe. Let's spread out a little.
-
-[Bridge]
-
-T'SU: Commander Riker, this is Ensign T'Su. 
-[Ruins]
-
-T'SU [OC]: I'm monitoring a slight energy buildup
-near your position. I am not able to pinpoint the source. 
-RIKER: Give me a direction. 
-[Bridge]
-
-T'SU: East of your position, ten metres. I will
-continue monitoring. 
+TASHA PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Jungle]
 
-RIKER: I can't see anything through here. The
-underbrush is too thick. 
-RICE: Hello. Commander Riker. 
-RIKER: Rice! Where did you come from? 
-RICE: I was over there. 
-RIKER: We were worried about you. I should have known you'd pop up. 
-RICE: How are you, Commander Riker? 
-RIKER: Me? Forget about me. How are you? No word, no message, nothing. 
-RICE: How many are with you? 
-RIKER: There are two others. Where's the Drake? Where's your crew? 
-PICARD [OC]: Number One, a word. We have some information you should be
-aware of.
+TASHA: Maybe you should wait here while Data and I
+search for the Captain and Doctor Crusher. 
+RIKER: No, I'm a little groggy, but I'll be all right. 
+DATA: I am getting energy readings. Look out! 
+(They're under attack again) 
+TASHA: We'll do it just like before. 
+(But there's a difference) 
+TASHA: It's got a deflector shield. 
+DATA: The product continues to upgrade and improve. 
+TASHA: We'll concentrate our fire and try to collapse its shield.
+Commander, we'll need you too. 
+(It drops it's shield to fire at them) 
+TASHA: Now! (Three phasers and it takes some time for it to go boom)
+You're right, they keep getting better. 
+DATA: The weapons are appearing at intervals of precisely twelve
+minutes. 
+TASHA: Well this one took everything we had. I don't know how we'll
+handle the next one. 
+RIKER: We're not going to wait around. Let's find the rest of our team.
+
+[Cavern]
+
+PICARD: We seem to be in some kind of underground
+structure, but I don't see any. Hey, no, you don't. No time to sleep. 
+CRUSHER: I'm tired. 
+PICARD: Come on, stay with me. Come on now, stay awake. That's an
+order. 
+CRUSHER: I must have lost a lot of blood. 
+PICARD: I've stopped the bleeding. 
+CRUSHER: No, there's another wound. My leg. 
+(He brushes the dirt off her leg and she winces) 
+PICARD: Not to worry, Everything is going to be fine. Now, this is
+going to hurt a bit. 
+CRUSHER: I've heard that before. 
+PICARD: Hey, hey, Doctor. Stay awake. Come on. There's a lot of blood.
+What do I do next? Doctor. 
+CRUSHER: The wound needs a clotting agent. 
+PICARD: I couldn't find your medical kit. 
+CRUSHER: Those roots. What are they? 
+PICARD: Roots? What, these? 
+CRUSHER: Break off a piece and taste it. Don't swallow it. 
+PICARD: Very bitter. 
+CRUSHER: Apply some to your hand. Is there a colour change? 
+PICARD: It's turning yellowish. 
+CRUSHER: Good. Now, spread as much of it as you can onto the wound. 
+PICARD: Hey, hey, Doctor. Now, stay awake. You've got to help me. I
+need your help. All right, now listen. Your patient has lost a great
+deal of blood from multiple lacerations. 
+CRUSHER: The patient's going into shock. 
+PICARD: So what do I do? 
+CRUSHER: Elevate the legs and try to keep her warm. 
+PICARD: Good. All right. Stay with me, Doctor. Keep talking. 
+CRUSHER: You didn't happen to bring a blanket with you, did you? 
+PICARD: No. I'm going to look for a way out. Now, you keep up your end.
+Stay awake.
 

@@ -1,48 +1,44 @@
-PICARD RIKER GOWRON WORF
+GUINAN COMPUTER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Phaser range]
 
-RIKER: We've been intercepted by the Klingon vessel
-Bortas. 
-[Worf's quarters]
-
-RIKER [OC]: They claim to be our escort. 
-WORF: No escort was scheduled.
-
-[Bridge]
-
-RIKER: The Bortas is standing by, Captain. 
-PICARD: On screen. Gowron. This is an unexpected pleasure. 
-GOWRON [on viewscreen]: I must speak with you, Picard. We will have to
-move quickly if we are to be successful. 
-PICARD: Successful? 
-GOWRON [on viewscreen]: Yes. In preventing a Klingon civil war.
-
-[Observation lounge]
-
-GOWRON: The family of Duras is massing support.
-They have many allies on the Council. 
-PICARD: Duras died in disgrace. By Klingon tradition, his family should
-share that disgrace. 
-GOWRON: Their corruption has poisoned the Empire. Honour will soon have
-no meaning. 
-PICARD: And who speaks for his family now? 
-GOWRON: Lursa and B'Etor, the sisters of Duras. 
-PICARD: And they would claim the leadership of the Council? 
-GOWRON: Women may not serve on the Council. 
-PICARD: Then how 
-GOWRON: I don't know. But they are plotting something. They have
-secured the loyalty of at least three fleet commanders. Lursa and
-B'Etor are feared, and fear is power. 
-PICARD: I do not see what I can do to assist. 
-GOWRON: You were first chosen as Arbiter of Succession because no
-Klingon could be trusted. You accepted this duty and you must see it
-through to the end. You must ensure my installation. 
-PICARD: That is beyond my purview. 
-GOWRON: You will not support me? 
-PICARD: I will not step outside the traditional role of the Arbiter. 
-GOWRON: And if they attempt to block my installation? 
-PICARD: Then I can only assure you that I will deal with any challenge
-according to Klingon law. 
-GOWRON: I fear that will not be enough.
+(Worf is practicing shooting moving coloured
+targets when someone enters) 
+WORF: Guinan? 
+GUINAN: It's a little quiet down in Ten Forward, so I thought I'd get
+off a little target practice. Do you mind if I join you? 
+WORF: You? Practise? 
+GUINAN: I like to keep my eye sharp. 
+WORF: I practice at level fourteen. 
+GUINAN: Guess I could come down to that level for a while. Begin
+programme. 
+(and Guinan gets the first target before Worf realises it has started) 
+GUINAN: You know, I had a bet with the Captain that I could make you
+laugh before you became Lieutenant Commander. 
+WORF: Not a good bet today. 
+GUINAN: I've seen you laugh. I like it. 
+WORF: Klingons do not laugh. 
+(he misses) 
+GUINAN: Oh yes they do. Absolutely they do. You don't. But I've heard
+some Klingon belly laughs that would curl your hair. 
+(Guinan gets three hits, Worf gets two hits and a miss) 
+GUINAN: Your son laughs. He's a Klingon. 
+WORF: He is a child and part human. 
+GUINAN: That's right. And you're not, you're full Klingon except you
+don't laugh. 
+WORF: I do not laugh because I do not feel like laughing. 
+GUINAN: Other Klingons feel like laughing. What does that say about
+you? 
+WORF: Perhaps it says that I do not feel like other Klingons. 
+(another miss) 
+COMPUTER: Programme complete. 
+GUINAN: Good game. Don't feel bad. I was doing this long before you
+were born. So how is he? Your son. 
+WORF: He is having difficulty adjusting to life on Earth. 
+GUINAN: I can see where it might be hard for the little guy. Living
+with humans, being Klingon. Could be very confusing. 
+WORF: It will not be easy for him. 
+GUINAN: No, it won't. But at some point he's going to want to know what
+it's like to really be a Klingon. Just as you're learning.
 

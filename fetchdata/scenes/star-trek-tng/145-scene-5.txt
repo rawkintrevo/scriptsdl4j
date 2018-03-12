@@ -1,26 +1,5 @@
-RIKER WESLEY PICARD TROI PULASKI LWAXANA DATA
-
-[Lwaxana's quarters]
-
-LWAXANA: Thank you. 
-RIKER: Glad to help. 
-(Riker leaves, Homn picks up the case as if it were empty) 
-PICARD: Well, I trust you will be comfortable here. If you will excuse
-me. 
-LWAXANA: I am be serving a Betazoid dinner of greeting tonight,
-Captain. It is an ambassadorial function. 
-PICARD: It sounds delightful. 
-(Picard leaves) 
-LWAXANA: He's a fine man. Solid, reliable. He's a little on the stuffy
-side, but, all in all, he's not that bad. 
-TROI: I can't believe you, Mother. You sound like you're sizing up a
-commodity. 
-LWAXANA: But that's exactly what men are, darling. Especially human
-men. Was your father ever unhappy with me? 
-TROI: No. He worshipped you. But I don't think I'll ever learn to see
-men the way you do. 
-LWAXANA: You will as you mature, darling. And the men in your life are
-going to bless you for it. You're so beautiful.
+PULASKI PICARD RIKER DATA WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -36,4 +15,20 @@ treated with the appropriate respect. Is that understood? Picard to
 Pulaski. 
 PULASKI [OC]: Yes, Captain. 
 PICARD: When did you last time you look in on the Antedean guests?
+
+[Transporter room]
+
+PULASKI: Doing so right now, Captain. 
+PICARD [OC]: Are they still catatonic? 
+PULASKI: Status of the beings is unchanged. Pulse, still steady.
+Respiration normal for them.
+
+[Bridge]
+
+PICARD: Understood. Keep me informed. Picard out.
+I'll be in my quarters. It will be a dress uniform dinner, gentlemen. 
+RIKER: Sir? 
+(Picard leaves) 
+DATA: To which dinner was the Captain referring, sir? 
+RIKER: Nothing I've been invited to. Any of you? Very interesting!
 

@@ -1,80 +1,35 @@
-PICARD RIKER DATA LAFORGE RABAL
-
-[Stellar Cartography]
-
-LAFORGE: Everything here supports Serova's
-theories. I can't find any way to close the rift or even reduce its
-size. 
-(rumble and shake) 
-DATA: Doctor, is it possible there are areas inside the rift which are
-stable, where we can safely use our warp engines? 
-RABAL: Perhaps. Computer, scan the rift for regions of low instability.
-
-(off the monitor display) 
-RABAL: There's no area stable enough to withstand a warp pulse. 
-LAFORGE: Wait a minute. This is strange. Computer, display grid delta
-seventeen. Enhance and magnify. What do you make of that? 
-RABAL: It's a subspace instability outside the rift. 
-DATA: That should not be possible. 
-RABAL: Commander, I'm going to begin a field enhanced scan of this
-sector. I'd like to take a closer look at this. 
-LAFORGE: In the meantime, we'd better tell the Captain we don't know
-how to get to the Fleming. 
-DATA: I am not certain that is true. I believe I have an idea.
-
-[Ready room]
-
-DATA: I suggest we coast into the rift. 
-RIKER: Coast? 
-DATA: We can initiate a brief, high intensity warp pulse from our
-current position. We should be able to attain sufficient velocity to
-enter the rift, beam the crew off the Fleming and exit without using
-our warp engines. 
-RIKER: All right, let's say we initiate a full power warp pulse. How
-much time do we need to drop out of warp? 
-DATA: If we field saturate the nacelles, we should be able to sustain
-warp speed for approximately two minutes. 
-RIKER: That doesn't give us much time, and it could get pretty rough in
-there. 
-DATA: The timing will be critical. 
-PICARD: Begin your calculations, Mister Data. We'll go as soon as
-you're ready. 
-DATA: Aye, sir.
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-DATA: I believe the maximum saturation level should
-be eighteen point three percent. 
-LAFORGE: All right. With these parameters, we should be able to
-maintain warp speed for two minutes eight seconds. I don't think we can
-get any more than that. 
-DATA: I agree. But based on the size of the rift, it should give us
-sufficient time to complete the rescue. Computer, initiate nacelle
-field saturation. 
-LAFORGE: How did we miss it, Data? 
-DATA: I beg your pardon? 
-LAFORGE: How did we miss the connection between warp drive and the
-formation of the rift? Between the two of us we've logged thousands of
-hours on these engines. We're supposed to be warp field experts. We
-certainly were wrong this time. 
-DATA: Technically, Geordi, we were not wrong. Serova's theories rested
-on assumptions which were unprovable. 
-LAFORGE: Seems to me she managed to prove them pretty conclusively. 
-DATA: By using methods any reputable scientist would never employ. 
-LAFORGE: Yeah, she was willing to die to make her point. We should have
-listened to her more closely, Data. 
-DATA: We reviewed Serova's research to the best of our abilities, and
-we were prepared to continue studying the problem. But that was not
-satisfactory. 
-LAFORGE: Yeah, I can remember times when I was a little stubborn,
-trying to get people to believe me when I didn't have enough proof. 
-DATA: I do not believe that you would have resorted to such extremes. 
-LAFORGE: But she had to, just to get us to listen. Why was I so
-resistant? 
-DATA: Perhaps because her aggressive methods created an adversarial
-situation. 
-LAFORGE: Yeah. Maybe I was taking the whole thing personally. 
-DATA: I do not understand. 
-LAFORGE: Maybe I was a little threatened. The thought that warp engines
-might be doing some kind of damage. It's going to take another half an
-hour for the nacelles to saturate. Will you call me when they're done? 
+LAFORGE: We lost it. 
+[Engineering]
+
+DATA: We were unable to maintain phase match with
+the distortion wave, sir. 
+PICARD: What went wrong, Mister La Forge? 
+LAFORGE [OC]: The speed differential was too high, Captain. 
+DATA: Another distortion wave approaching. Impact in twenty six
+seconds. 
+RIKER: Our hull stress is already critical. We can't handle many more
+jolts like that. 
+DATA: Captain, I suggest we take the ship to full impulse. If we can
+attain sufficient speed, it will lessen the shock when the wave hits. 
+PICARD: Helm, full impulse. Head us out of the rift. Mister Worf,
+channel all available power to the structural integrity fields. 
+WORF: Aye, sir. 
+PICARD: Stand by deflector shield. 
+[Engineering]
+
+LAFORGE: We're ready, Captain. 
+[Bridge]
+
+DATA: Distortion wave impact in five seconds. 
+PICARD: Engage deflector shield, now. 
+(and they start paddling hard to catch this wave. Whumph) 
+DATA: We are now within the distortion wave. Hull stresses have
+exceeded maximum tolerance. 
+WORF: Structural integrity fields are failing on decks ten through
+sixteen. Switching
+to backups. 

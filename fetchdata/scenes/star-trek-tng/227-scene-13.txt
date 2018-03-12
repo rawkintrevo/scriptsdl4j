@@ -1,36 +1,64 @@
-PICARD GUINAN RIKER
+RIKER LAFORGE WORF COMPUTER CLEMENS CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Cavern]
 
-(Guinan is just coming round) 
-PICARD: Gently. Don't sit up too quickly. 
-GUINAN: Where'd everybody go? 
-PICARD: I hope they're all safely back on the Enterprise by now. 
-GUINAN: But you're still here. 
-PICARD: You were hurt. I had to make sure you were all right. 
-GUINAN: And so you stayed for that? 
-PICARD: I didn't want anything to happen to you. You're far too
-important to me. 
-GUINAN: You know an awful lot about me. 
-PICARD: Believe me, in the future the tables will be turned. 
-GUINAN: So we become friends? 
-PICARD: It goes far beyond friendship. 
-GUINAN: Oh, but I'll have to wait almost five hundred years, and when
-we meet I won't be able to tell you about this, will I? 
-PICARD: No. Because for me, none of this will have happened yet. 
-GUINAN: What's that? 
-(Data's head) 
-PICARD: That's history fulfilling itself.
+(Picard picks up Data's head and opens the back,
+then uses a piece of metal to do something to the circuits)
 
-[Ten Forward]
+[Bridge]
 
-GUINAN: History has to fulfill itself. Even Picard
-knew that. 
-RIKER: You were there in the cavern. You know what happened. What am I
-supposed to do? 
-GUINAN: If I told you what happened in that cavern, it would affect any
-decision you'd make now. I can't do that. I won't. 
-RIKER: Not telling me might affect my decision. Did you think of that?
-We're talking about Jean-Luc Picard. I can't sit around and hope it all
-works out. I've got to do something.
+WORF: Commander, I have set the photons to fire in
+staggered rounds, detonating in ten second intervals. 
+RIKER: Very well. Fire when ready. 
+WORF: The sequence will be ready to initiate in one minute.
+
+[Science lab]
+
+LAFORGE: Computer, run another diagnostic on the
+input polarisers. 
+COMPUTER: Polariser circuits are functioning. 
+LAFORGE: Well, then, that ought to do it. Okay, Data. Come on, now. 
+DATA: Torpedoes. Phasing. Alien. I am processing a binary message
+entered into my static memory by Captain Picard. Geordi, are we
+planning to fire on the alien habitat? 
+LAFORGE: Yeah, but 
+DATA: It is imperative that we do not. I will explain later. 
+LAFORGE: La Forge to Riker. Hold your fire!
+
+[Bridge]
+
+DATA: The binary message left by the Captain is not
+entirely clear. He seemed to be concerned about the phase differential
+of our photon torpedoes. That firing them might produce catastrophic
+effects. 
+CRUSHER: Then how do we destroy their habitat? 
+DATA: If I am correct, we must modify our weapons so that the force of
+the explosion is re-phased into the aliens' time continuum. 
+LAFORGE: If we outfit the photons with phase discriminators we could
+get the variance we need. 
+RIKER: How long will it take you? 
+LAFORGE: At least a couple of hours. 
+RIKER: Fine. I'll have time to go get him. 
+DATA: Sir? 
+RIKER: I'm going back to the nineteenth century to get the Captain.
+Doctor? 
+CRUSHER: My analysis of the phasers suggests you'd be able to open the
+rift, but it won't be stable enough to transport more than one person. 
+RIKER: You mean if I go back, only one of us can return? 
+CRUSHER: That's right. 
+CLEMENS: Then I have the perfect solution for you. I'm the one who
+should return to the nineteenth century and remain there so your
+Captain can return here. 
+RIKER: There's a risk. We're not sure how stable the rift will be. 
+CLEMENS: There's risk in everything. The point is, it's the right
+choice. I've got more books to write, and your Captain has a job to do
+here. 
+RIKER: Geordi, you'll brief him on what he needs to know? 
+LAFORGE: Aye, sir. 
+CLEMENS: I'm glad I have the chance to thank you. 
+DATA: For what, sir? 
+CLEMENS: Why, for starting me out on the greatest adventure a man's
+ever had. And for helping a bitter old man to open his eyes and see
+that the future turned out pretty well after all.
 

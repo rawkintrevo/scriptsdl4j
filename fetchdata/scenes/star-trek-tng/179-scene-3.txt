@@ -1,33 +1,30 @@
-WESLEY RIKER CRUSHER LAFORGE COMPUTER
+COMPUTER CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Quaice's quarters]
 
-LAFORGE: Wes, time for the experiment is over. I
-want my warp engines back now. 
-WESLEY: Almost done, Commander. 
-LAFORGE: Almost isn't good enough. You want to be the one to explain
-when the Captain says 'Engage' and we just sit here? 
-WESLEY: I just need a couple more minutes. I'm ready to try the new
-warp field. Mom? 
-CRUSHER: Don't let me interrupt. 
-LAFORGE: Wesley! 
-WESLEY: Right! Okay! 
-(There's a sudden flash. Wesley looks concerned.) 
-LAFORGE: Computer, level two diagnostic on warp drive systems. 
-COMPUTER: Antimatter containment positive. Warp drive within normal
-parameters. 
-LAFORGE: Wesley, talk to me. 
-WESLEY: That shouldn't have happened. Why would there be any visible
-phenomena outside the drive? 
-RIKER [OC]: Prepare for umbilical disconnect. 
-LAFORGE: Are you done? 
-WESLEY: Yeah. Mom? 
-(But she's not there) 
-RIKER [OC]: Clear all moorings. Engineering, aft thrusters. 
-LAFORGE: Aft thrusters, aye. Impulse power to the helm.
-
-[Corridor]
-
-(Beverly rings the doorbell twice, then taps in an
-override code) 
+CRUSHER: Dalen? Dalen, it's Beverly. 
+(The suite is empty) 
+CRUSHER: Computer, current location of Doctor Dalen Quaice. 
+COMPUTER: There is no Doctor Dalen Quaice aboard the Enterprise. 
+(A little later, after the opening titles, the doorbell chimes) 
+CRUSHER: Come. 
+(Worf enters) 
+CRUSHER: Lieutenant Worf, yesterday, before we left starbase, an old
+friend of mine came onboard. Doctor Dalen Quaice. I requested quarters
+for him. He was assigned here. 
+WORF: I was not aware of this passenger. 
+CRUSHER: I'm sorry. I thought it was standard procedure for you to be
+notified after Captain Picard approved passage. 
+WORF: It is. Please proceed. 
+CRUSHER: We were to meet for breakfast, but I can't seem to find him or
+his belongings. 
+WORF: Computer, where is Doctor Dalen Quaice? 
+COMPUTER: There is no Doctor Dalen Quaice aboard the Enterprise. 
+CRUSHER: Lieutenant, Doctor Quaice is very old and rather frail. If he
+fell somewhere, if his communicator were damaged. 
+WORF: I will order a search immediately. 
+CRUSHER: Thank you. 
+WORF: Even if Doctor Quaice had been injured, why would his belongings
+be missing?
 

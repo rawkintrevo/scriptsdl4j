@@ -1,76 +1,33 @@
-TROI LAFORGE ARDRIAN PICARD RIKER WORF SHELIAK DATA
+RIKER DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Main square]
 
-(Le Forge and O'Brien enter) 
-RIKER: Gentlemen, we're giving you an assignment. One thing we don't
-want to hear is that it is impossible. 
-PICARD: I need the transporters to function despite the hyperonic
-radiation. 
-LAFORGE: Yeah, but that's im. Yes, sir. 
-(La Forge and O'Brien leave) 
-RIKER: Even if we get the Sheliak to talk, they're not likely to be
-accommodating. 
-TROI: Captain, when the treaty was first negotiated the Federation sent
-three hundred and seventy two legal experts. What do we have? 
-PICARD: Thee and me?
+RIKER [OC]: You'd better get innovative. Riker out.
 
-[Bridge]
+ARD'RIAN: Data? We're having an effect. So many people are asking
+questions about the Sheliak that Gosheven has called a public meeting. 
+DATA: Is there any indication that Gosheven has changed his position? 
+ARD'RIAN: No. But a meeting will give you the chance to present your
+recommendations. 
+DATA: So far, my attempts at persuasion have been ineffective. 
+(Ard'rian kisses him full on the lips) 
+DATA: Why did you do that? 
+ARD'RIAN: You appeared to need it. 
+DATA: Among humans, a kiss usually serves to seal a friendship, or
+indicate support, attraction, affection.
+In this context, I must assume that your intention was to express
+support. 
+ARD'RIAN: You don't really understand human behaviour, do you? 
+DATA: That is something of an understatement. 
+ARD'RIAN: Sometimes I don't either. androids are a lot more rational. 
+DATA: Thus far, that quality has not helped me to accomplish my
+mission. 
+ARD'RIAN: A rational argument isn't always enough. Maybe to be more
+persuasive, you need to use a little reverse psychology. 
+DATA: Elicit a desired behaviour by advocating its opposite. That
+implies deception, does it not? 
+ARD'RIAN: A little. But if it helps us get our point across. 
+DATA: Perhaps this is a situation where excessive honesty can be
+detrimental.
 
-WORF: No response. 
-PICARD: Try them again. Boost the signal strength. 
-WORF: Sheliak Corporate. This is the starship Enterprise. Respond
-please. 
-(A vaguely humanoid blob appears, looking like lumps of mud) 
-SHELIAK [on viewscreen]: Conversation is neither required nor desired. 
-PICARD: Conversation is necessary if we are to find a solution to our
-mutual problem. 
-SHELIAK [on viewscreen]: Our involvement in Federation illegality is
-not indicated. 
-PICARD: Both parties are involved, sir. 
-SHELIAK [on viewscreen]: Remove the humans from the Tau Cygna system.
-Three Earth days remain. 
-PICARD: Let us negotiate in good faith. 
-SHELIAK [on viewscreen]: Negotiate to what purpose? The treaty is
-signed. 
-PICARD: There is a thriving colony on that planet. Rather than uproot
-these people, may I offer a compromise? 
-SHELIAK [on viewscreen]: Denied. 
-PICARD: Why? 
-SHELIAK [on viewscreen]: The law is paramount. We are entitled. 
-PICARD: This is not a law. It is a treaty. It is designed to smooth
-relations between peoples. Not to act as a strait 
-(Transmission ends) 
-PICARD: Jacket.
-
-[Ard'rian's home]
-
-ARD'RIAN: You really think we'll have to leave Tau
-Cygna Five? 
-DATA: The possibility does exist, yet Gosheven seems unwilling to
-prepare for it. Why? 
-ARD'RIAN: Maybe because you're an android. I don't think Gosheven likes
-the idea of machines ordering him around. 
-DATA: I am not ordering him to do anything. I am merely trying to
-persuade him that his people should prepare to evacuate. Do you believe
-my suggested course of action should be followed? 
-ARD'RIAN: Of course. 
-DATA: In spite of the fact that I am an android? 
-ARD'RIAN: Because of that fact. I don't have any silly prejudice
-against computers. I like them. Not that any computer we have is half
-as sophisticated as you are. 
-(Data looks around) 
-DATA: No, I would say not. 
-ARD'RIAN: People can be selfish, irrational, stubborn, malicious, you
-name it. But computers don't have those failings. 
-DATA: And you conclude because of this that I am impartial. Hence, you
-accept my recommendations? Yet Gosheven does not. 
-PICARD [OC]: Picard to Commander Data. 
-DATA: Data here. 
-PICARD [OC]: The Sheliak won't bargain. 
-DATA: Understood, sir. 
-[Bridge]
-
-PICARD: I'm contacting Starfleet to arrange
-transport. Get those people prepared to evacuation. We may have to move
-quickly. 

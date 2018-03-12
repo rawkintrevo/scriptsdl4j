@@ -1,51 +1,37 @@
-PICARD RIKER GOSHEVEN DATA ARDRIAN
+RIKER WORF PICARD GUEST1 DATA GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Bridge]
+
+PICARD: Go to yellow alert. Shields up. 
+WORF: Aye, sir. 
+PICARD: Mister Riker, put us nose to nose with the Sheliak ship. Any
+move she makes, match it. 
+RIKER: Aye, sir. 
+PICARD: Mister Worf, hailing frequency. 
+WORF: Open. They are not responding. 
+PICARD: They don't have to answer. They just have to listen. Sheliak
+vessel, you will have to get past me to get at the colony on Tau Cygna
+Five. 
+WORF: No response. 
+PICARD: Close channel. And get me that treaty. They've been beating us
+over the head with it for three days. Let's see if we can't find
+something in it that we can turn to our own advantage. 
 [Main square]
 
-(It is evening) 
-GOSHEVEN: You see this? Do you have any idea what it is, or what it
-means? 
-DATA: It is water. A substance composed of two atoms of hydrogen 
-GOSHEVEN: It's not water. It's blood and it's sweat. It's the result of
-a ninety years of combined effort. This isn't a town. It's a monument
-to every man, woman, and child who's lived and died on Tau Cygna Five. 
-ARD'RIAN: Gosheven, you're talking nonsense. 
-GOSHEVEN: Am I? My grandfather is buried on that mountain. He died in a
-rock slide surveying the route for this aqueduct. This colony exists
-because of his sacrifice, and the sacrifice of thousands of others. No,
-we're not leaving. 
-DATA: The Sheliak will not accept humans on their planet, And they will
-not hesitate to use force to remove you. 
-GOSHEVEN: We will not be bullied off our land. Not by you, and not by
-the Sheliak. 
-(Gosheven walks away) 
-ARD'RIAN: Stubborn and irrational. Now what do we do? 
-DATA: Are his sentiments typical of the colonists? 
-ARD'RIAN: I hope not. 
-DATA: If I can convince enough people of the necessity of leaving 
-ARD'RIAN: Don't you mean, if we can convince? 
-[Ready room]
-
-PICARD: Come. 
-RIKER: Yes, sir? 
-PICARD: Three weeks. Starfleet is profuse in their apologies, but it
-will still be three weeks until the arrival of a colony transport ship
-equipped with dedicated personnel shuttles. 
-RIKER: We can't wait three weeks. 
-PICARD: Then the Sheliak must agree to extend our deadline. They plan
-to settle Tau Cygna Five two days from now. 
-RIKER: One of their ships must already be en route. 
-PICARD: We're going to intercept that ship. 
-RIKER: The Sheliak may interpret that as a hostile act. 
-PICARD: A risk we have to take.
-
-[Observation lounge]
-
-RIKER: The Enterprise is going to try to intercept
-the Sheliak colony ship. Your job well, you know what your job is. 
-DATA [OC]: Commander. 
-[Main square]
-
-DATA: In human parlance, I do not believe I can get
-the job done. My training has prepared me for starship command duties.
-As a cultural contact I am proving to be 
+(The elders are on a raised platform to the side,
+and four security guards are in front of the pool. Data fires at them) 
+DATA: Stop. That was the stun setting. This is not. 
+(There's a big bang, then energy is seen racing up the pipeline to the
+mountain) 
+DATA: I can reduce this pumping station to a pile of debris, but I
+trust my point is clear. I am one android with a single weapon. There
+are hundreds of Sheliak on the way and their weapons are far more
+powerful. They may not offer you a target. They can obliterate you from
+orbit. You will die never having seen the faces of your killers. The
+choice is yours. 
+GUEST4: There are other places, other challenges. 
+(The security guards recover from their stuns) 
+GUEST1: I really was willing to stay here and die for this. 
+DATA: I know that. This is just a thing, and things can be replaced.
+Lives cannot. 

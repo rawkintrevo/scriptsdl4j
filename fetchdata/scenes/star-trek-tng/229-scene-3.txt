@@ -1,35 +1,6 @@
-RIKER WORF SIMONS PICARD TROI ALKAR
+TROI WORF ALKAR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
-
-ALKAR: I am grateful for the Federation's offer to
-escort me, but if I arrive at Rekag-Seronia on board the Enterprise,
-the armed flagship of Starfleet, my mission as negotiator of peace will
-be compromised. There must be a Federation transport ship somewhere in
-the area that could take me there.
-PICARD: With all due respect. Admiral, to put the Ambassador on board
-another unarmed transport would be to invite a second assault.
-ALKAR: I believe the attack on us was an isolated incident, nothing
-more.
-SIMONS [on monitor]: Ambassador Alkar, the Rekag-Seronia dispute has
-threatened Federation ships for many months. We are grateful that you
-are willing to undertake this mission and you have our full support.
-ALKAR: Thank you, sir.
-SIMONS [on monitor]: However, we also recognise that safety is an
-issue. Not just yours, but the crew that escorts you. To send you on an
-unarmed transport puts everyone at risk. I think it best if you proceed
-to Rekag-Seronia aboard the Enterprise. 
-ALKAR: Then I have no choice.
-SIMONS [on monitor]: Once you get to Rekag-Seronia, you can conduct
-your negotiations as you see fit. Until then, you'll be in good hands
-with Captain Picard.
-ALKAR: I understand, sir.
-SIMONS [on monitor]: Good luck, and a successful journey.
-(transmission ends) 
-PICARD: Picard to Commander Riker.
-RIKER [OC]: Yes, sir?
-PICARD: Set a course for Seronia. 
-RIKER: Aye, sir. 
 [Gymnasium]
 
 (Worf is leading a Klingon Tai-chi class, including
@@ -41,4 +12,27 @@ ALKAR: I believe in a strong connection between body and mind. You
 obviously share the same convictions.
 TROI: Yes, I do. Only sometimes my body has a problem conforming to my
 mind's wishes.
+
+[Corridor]
+
+TROI: I would imagine that your self-discipline
+helps you in your work.
+ALKAR: I don't know about that. I think maybe my biggest asset is
+patience. I let everybody else talk until they're exhausted, and when I
+start, they're too tired to argue.
+TROI: You're going to need all your patience at Seronia. I can't
+imagine how you'll get the two sides talking to each other. 
+ALKAR: Neither can I. I won't know that until I get there. I tend to
+feel my way through a situation.
+
+[Turbolift]
+
+ALKAR: Deck nine. If I were empathic like you, I'd
+have a real advantage.
+TROI: I thought Lumerians were empathic.
+ALKAR: Only with each other, not other species. So, I don't have any
+idea what you might be feeling just now.
+TROI: Curiosity. What I sense from you is very unusual. Calmness,
+serenity, tranquillity. You seem to embody the very qualities that you
+hope to draw out in others.
 

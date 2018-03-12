@@ -1,32 +1,52 @@
-PICARD RIKER DATA LAFORGE WORF
+DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Devidia cavern]
-
-DATA [OC]: Triolic waves. 
-LAFORGE: That explains a few things. How much, Data? 
-DATA [OC]: A positive displacement of point zero zero four percent. 
-LAFORGE: Well, whatever or whoever is there, we're out of phase with
-it, but we're only talking by a fraction of a second. 
-WORF: A fraction of a second would make them invisible? 
-LAFORGE: A millisecond, a year, it wouldn't make any difference. If
-what we're reading is true, then we're occupying the same space but in
-a different time. 
-RIKER: How do we compensate? 
-DATA [OC]: Commander, we might be able to 
-[Bridge]
-
-DATA: Manipulate the synchronic distortion. 
-LAFORGE [OC]: Maybe. If we were to create a contained subspace force
-field. 
-[Devidia cavern]
-
-LAFORGE: But to get a point zero zero four
-variance, we'd need an incredibly sensitive phase discriminator, Data.
-I don't think we've got one that would come close. 
-DATA [OC]: Yes, we do. 
-[Bridge]
-
-DATA: It is built into my positronic decompiler. It
-will be necessary for me to join the away team, sir. 
-PICARD: (hesitation) Proceed, Mister Data.
+[Data's hotel room] 
+(in a sight reminiscent of  City on the Edge of Forever,
+Data has built a Contraption. The Bellboy staggers in with an anvil) 
+GUEST1: Sorry it took so long, Mister Data. 
+DATA: Apology is not necessary. 
+(Data picks up the anvil with one hand, then realises what he's done
+wrong and drops it) 
+DATA: Ow. 
+GUEST1: Are you all right? 
+DATA: I believe I have overexerted myself. 
+GUEST1: Yeah, I'll say. Did you get it working? 
+DATA: Yes. 
+GUEST1: Whatever it is. 
+DATA: This is for your trouble. 
+GUEST1: What are you going to do with the anvil? 
+DATA: I require a low intensity magnetic field core. I believe the iron
+mass of the anvil will provide that. 
+GUEST1: What's it going to be when it's finished? 
+DATA: What do you think it is going to be? 
+GUEST1: If I were to guess, maybe a new kind of motor for one of those
+horseless carriages. 
+DATA: That is a good guess. 
+GUEST1: Hot damn. You really think there's money in those things? 
+DATA: Perhaps. 
+GUEST1: Isn't that what makes America great? 
+DATA: To what are you referring? 
+GUEST1: Well, a man rides into town in his pajamas, wins a grub stake
+at a poker table, turns it into a horseless carriage and makes a
+million bucks. That's America. 
+DATA: I believe I have given you an erroneous impression. 
+GUEST1: You know, some day my ship's going to come in. 
+DATA: You have a ship? 
+GUEST1: Oh yeah, and it's full of gold too. I'm just biding my time
+til it gets here, raising a stake any way I can. I've been a newsie,
+cut fish at a cannery. Heck, I've even been an oyster pirate. 
+DATA: You have had a considerable spectrum of occupations. 
+GUEST1: Yeah, well, you can't stay in one place too long. I'm always
+looking for the angle, you know. Say, maybe you and I could go into
+business together, selling your horseless carriage and all. You invent
+them, I sell them. I can sell anybody anything. What do you say? 
+DATA: I believe your plan is a bit premature. 
+GUEST1: Keep it in mind, though. I better get back. Oh, I forgot. I
+got you something at the bakery on Third. 
+(puts down a newspaper with a squashed something in it) 
+DATA: Thank you, Jack. 
+GUEST1: Oh, no, no, no. It's on me, partner. 
+(in the paper is a picture of a woman exactly like our Guinan, over the
+strapline 'Literary Reception Announced')
 

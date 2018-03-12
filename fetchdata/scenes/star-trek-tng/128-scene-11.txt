@@ -1,42 +1,30 @@
-RIKER OBRIEN LAFORGE WORF PICARD COMPUTER
-
-[USS Yamato corridor]
-
-(Riker materialises alone) 
-RIKER: This isn't the Bridge. Worf? 
-(There's a peculiar noise, almost a scream, as Riker walks along. Then
-the sound of Worf, and he runs)
-RIKER: Halt! Don't fire. 
-WORF: I heard you screaming. I was coming to help. 
-RIKER: You heard me? I heard you. Transporter Chief, where do you show
-us over here? 
-O'BRIEN [OC]: (unintelligible) We show as approximately 
-RIKER: Captain, do you read me?
+RIKER PICARD TROI WESLEY COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER [OC]: (static) We're having difficulties with
-our communications. 
-PICARD: Number One, come in. Transporter Room, this is the Captain. We
-are out of contact with the away team. Beam them back immediately. 
-[Transporter room]
-
-O'BRIEN: I've lost the lock on them.
-
-[USS Yamato corridor]
-
-WORF: Nothing on my communicator, sir. (to the
-wall) Computer on. 
-RIKER: Let's find a turbolift to the Bridge.
-
-[Bridge]
-
-PICARD: Transporter room, have you been able to
-establish a lock? 
-(The lights dim) 
-COMPUTER: Emergency power engaged. 
-PICARD: Initiate full check, all systems. 
-LAFORGE: Engineering section, report. What is our situation? (silence)
-Engineering? Captain, request permission to leave the Bridge. 
-PICARD: Granted.
+COMPUTER: One minute to auto-destruct. 
+DATA: We are out of the void, sir. You may stop auto-destruct. 
+PICARD: Mister Crusher, any heading, warp six. Now! 
+COMPUTER: Fifty seconds to auto-destruct. Forty seconds to
+auto-destruct. 
+RIKER: Captain? 
+PICARD: It could all be part of the illusion. Commander Data, report. 
+DATA: All navigational systems confirm we are at warp six on course,
+sir. 
+PICARD: Counsellor Troi? 
+TROI: Captain, it has gone. I no longer feel its presence. 
+COMPUTER: Twenty seconds to auto-destruct. Ten seconds to
+auto-destruct. 
+RIKER: Captain. 
+PICARD: Abort auto-destruct sequence. 
+COMPUTER: Riker, William T. Do you concur? 
+RIKER: Yes! Absolutely! I do indeed concur wholeheartedly! 
+COMPUTER: Auto-destruct cancelled. 
+(deep signs of relief all round) 
+PICARD: A simple yes would have sufficed, Number One. 
+RIKER: I didn't want there to be any chance of a misunderstanding. 
+PICARD: Of course. You have the Bridge. 
+WESLEY: He sure held that bluff till the last second, didn't he, sir? 
+RIKER: Was he bluffing?
 

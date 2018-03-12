@@ -1,46 +1,39 @@
-PICARD MIRASTA MALE DATA DURKEN
+RIKER GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Durken's office]
+[Riker's hospital room]
 
-(The Chancellor is stamping documents) 
-MALE [OC]: Chancellor, Minister Yale of the Space Bureau would like to
-introduce you to someone. 
-DURKEN: Call her back. See if the Vice-Chancellor will do. 
-MALE [OC]: They're out here waiting to see you, sir. 
-DURKEN: All right. Send them in. 
-(Mirasta enters, follows by Picard, but Durken hasn't noticed) 
-DURKEN: Always time to meet your friends, Mirasta. 
-MIRASTA: Chancellor, I think you might want to clear your afternoon
-schedule for this. 
-(Picard walks forward, Durken's jaw drops) 
-[Bridge]
-
-PICARD: And this is the Bridge. 
-MIRASTA: Chancellor. 
-(a brief gaze at their planet on the viewscreen) 
-PICARD: Here we have Environmental and Engineering stations, mission
-operations, and the two principal science stations. 
-PICARD: Data, allow me to introduce Chancellor Avel Durken and Space
-Administrator Mirasta Yale. 
-DATA: Chancellor. Minister. 
-PICARD: Commander Data is my Second Officer. 
-MIRASTA: He's an android, Chancellor. A constructed being. 
-DURKEN: A machine? 
-DATA: In a manner of speaking. The term artificial lifeform would be
-more accurate. 
-DURKEN: Captain Picard, is there someplace we might speak together
-without distraction? 
-PICARD: Certainly. 
-MIRASTA: Chancellor, with your permission, I would like to beam to the
-surface. I have several matters to attend to. 
-DURKEN: Not a word to anyone about this, Mirasta. 
-MIRASTA: Of course. 
-PICARD: Mister Data, will you escort the Minister to the transporter
-room? Chancellor. 
-(Picard and Durken leave) 
-MIRASTA: Has there still been no communication from Commander Riker,
-Data? 
-DATA: No, Minister. He has not returned to our designated transport
-coordinates. We have continued to scan the capital city without
-success.
+(Riker is out of bed and looking for a way out when
+a woman enters) 
+GUEST4: There are guards out there. You'll never escape that way. I'm
+not afraid of you. 
+RIKER: Good. Because there's nothing to be afraid of. 
+GUEST4: We shouldn't fear the unknown. We should embrace it. 
+RIKER: Can you help me get out of here? 
+GUEST4: Are you really an alien? It's all right to tell me. 
+RIKER: No, I'm not an alien. 
+GUEST4: I don't believe you. You are an alien. 
+RIKER: I really have to leave. 
+GUEST4: I could divert the guard's attention. You might stand a chance
+if you took the service exit down the hallway to the right. 
+RIKER: To the right? Fine, let's do it. 
+GUEST4: Why should I? 
+RIKER: Well, you know why. I don't belong here. I have to get back on
+my ship, in space. 
+GUEST4: I believe you. 
+RIKER: Now, will you help me? 
+GUEST4: If you make love to me. 
+RIKER: What? 
+GUEST4: I've always wanted to make love with an alien. 
+RIKER: Listen, Miss 
+GUEST4: Lanel. 
+RIKER: Lanel, I really have to get going. All the other aliens are
+waiting for me. 
+GUEST4: Oh, it's not so much to ask, and then I'll help you escape. 
+RIKER: It's not that easy. There are differences in the way that my
+people make love. 
+GUEST4: I can't wait to learn. 
+(she takes of her spectacles) 
+RIKER: But it's 
+GUEST4: It's your only way out of here, my alien.
 

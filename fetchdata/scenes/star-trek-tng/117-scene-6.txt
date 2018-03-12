@@ -1,38 +1,38 @@
-RIKER LAFORGE TASHA PICARD BENSEN LUISA DATA
+TASHA GUEST4 DATA LAFORGE PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Hydraulics room]
+[Ready room]
 
-PICARD [OC]: Situation report, Number One. 
-RIKER: For safety reasons, we're shutting off all power to the
-Hydraulics room before entering to recover the body. Then we'll beam
-him up to Sickbay, but from the look of his wounds, it's probably
-hopeless. 
-PICARD [OC]: Keep me informed. 
-LAFORGE [OC]: Data ? 
-DATA: Go ahead, Geordi.
+DATA: We were attempting to trace the source of the
+malfunction when it attacked me. 
+GUEST4: How much more of this useless fantasy must I listen to? 
+PICARD: None at all, Mister Mandl. Until this is sorted out, I've
+provided temporary quarters for you and your staff. Perhaps you'd like
+to make use of them. 
+GUEST4: You're overstepping your authority, Picard. You have no right to
+interfere. 
+PICARD: Mister Mandl, an attack on one of my crew gives me the right. 
+GUEST4: I have a schedule to meet. 
+PICARD: Your schedule is on hold, until I have a satisfactory
+explanation of this. Director Mandl. Lieutenant Yar, would you escort
+the Director to his quarters. 
+TASHA: Aye, sir. 
+(Mandl and Tasha leave) 
+PICARD: Go on with your report. 
+DATA: It would appear the laser's drilling system was reprogrammed,
+sir. As soon as its memory bank received power, it turned itself on and
+went after me. Fortunately, I was able to cope with it. 
+LAFORGE: And not by much, from what I saw. 
+DATA: I believe it was programmed to destroy any person moving in that
+room, sir. 
+PICARD: Certainty? Or speculation? 
+DATA: Certainty. 
+LAFORGE: That would have required the talents of a master programmer. 
+DATA: But it was done. 
+PICARD: And so the question becomes not who, since it clearly was one
+of the three remaining terraformers. The question becomes why? What are
+they hiding? What could be so important that one or all of them, could
+be desperate enough to kill? 
+LAFORGE: Shall I have them brought in, sir? 
+PICARD: Not yet.
 
-[Control room]
-
-BENSEN: All set. 
-LAFORGE: Data, we have your section completely powered down now. Bensen
-has just locked the master servomotor drive system. 
-[Hydraulics room]
-
-LAFORGE [OC] So it should be safe in there now. 
-TASHA: I'm going in. 
-DATA: I will go with you. 
-TASHA: Transporter Room, this is Lieutenant Yar. Two to beam up to
-Sickbay. 
-(Tasha and Malencon are beamed away) 
-LUISA: I want to go. We should be with him. Kurt, please come too. 
-RIKER: Transporter Room, this is Commander Riker. Beam up four at my
-co-ordinates. 
-(Riker, Troi, Luisa and Mandl are beamed away) 
-[Control room]
-
-DATA [OC]: Geordi, this is intriguing. I have seen
-malfunctions 
-[Hydraulics room]
-
-DATA: But this is almost as if the laser drill
-seemed to operate itself with a will 

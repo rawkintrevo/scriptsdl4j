@@ -1,45 +1,45 @@
-PICARD TROI CRUSHER JASON
+PICARD BOK DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Picard's quarters]
 
-CRUSHER: Jean-Luc, come in. 
-PICARD: I think I need to talk to a parent. 
-CRUSHER: So, what's he like? 
-PICARD: I'm not sure that I can tell you. He puts up so many barriers I
-have no idea what's underneath. 
-CRUSHER: Keep in mind he's had twenty years to be angry that his father
-wasn't there. It's going to take some time to get over those feelings.
-But I do think it's possible. 
-PICARD: Perhaps. But surely it would be wrong to force the issue. My
-sense is that he's a very independent young man. Perhaps it would be
-best if I left him alone. Let him come to me if he wants to. 
-CRUSHER: Maybe you're right. But I think you should consider this. Are
-you doing the best thing for Jason or what's easiest for you?
+(Picard is sleeping) 
+BOK: Picard, can you hear me? 
+(Picard wakes to see Bok at the foot of his bed) 
+BOK: I will kill him, Picard. And there's nothing you can do about it. 
+PICARD: Security to Captain's quarters immediately. 
+(but Bok has vanished)
 
-[Jason's quarters]
+[Engineering]
 
-(doorbell) 
-JASON: Yeah? 
-TROI: Hello, Jason. I'm Deanna Troi, Ship's Counsellor. 
-JASON: Come in. Did Captain Picard ask you to come talk to me? 
-TROI: No, I just thought I'd come and see how you were doing. A lot's
-happened in the last few hours. I thought you might like to talk about
-it. 
-JASON: I'll be all right. People have wanted to kill me before. 
-TROI: But you've never met your father before. 
-JASON: And I have to admit I never thought I would. 
-TROI: It must be somewhat overwhelming. 
-JASON: I'm a little shaky. 
-TROI: Well, that's only natural. 
-JASON: But you know what? I feel better already just talking to you. 
-TROI: So, how did you feel about the Captain, about your father? 
-JASON: He's okay. A little stiff. But where are you from? 
-TROI: I was born on Betazed. 
-JASON: Do all the women there have eyes like yours? 
-TROI: Look Jason, I came here to talk to you because I'm the Ship's
-Counsellor. If you don't want to talk to me in that way, then I think I
-should go. 
-JASON: Fine. 
-TROI: You're welcome to make an appointment to come by my office. 
-JASON: Maybe I'll do just that.
+WORF: Our shields were up. How could he have beamed
+through them? 
+LAFORGE: I'm not sure he did. Sensors don't show any sign of an
+intruder. 
+PICARD: Could it have been another hologram? 
+LAFORGE: I don't think so, Captain. Something has to generate a
+hologram. We would have detected it. 
+PICARD: Bok once used a mind control device to make me hallucinate. 
+LAFORGE: That device emitted a very specific energy signature. I'm not
+reading anything like that. 
+WORF: Could he have modified the device so he could use it without
+being detected? 
+LAFORGE: It's possible. I'll recalibrate the sensors to scan for low
+intensity transmissions. Just to be sure, I'll sweep your quarters with
+a resonance scanner. 
+PICARD: Good. Keep me posted. 
+(La Forge leaves) 
+PICARD: Mister Worf, I want you to assign a security detail to Jason. 
+WORF: And what about yourself? 
+PICARD: I am not the target of Bok's threats. Jason is. 
+DATA: Captain, I have compiled all available records pertaining to
+Jason Vigo's criminal record, and 
+PICARD: Criminal record? 
+DATA: Yes, sir. He has been charged three times with petty theft, twice
+for disorderly conduct, and several dozen times for trespassing. 
+PICARD: Trespassing? 
+DATA: I believe the charges relate to his climbing activities in the
+caves underneath the planet's surface. This is the information you
+requested, is it not? 
+PICARD: Thank you, Mister Data.
 

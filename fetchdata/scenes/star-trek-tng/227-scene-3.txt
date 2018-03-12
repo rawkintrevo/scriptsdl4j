@@ -1,49 +1,9 @@
-TROI LAFORGE PICARD RIKER GUINAN BELLBOY CLEMENS CRUSHER DATA CARMICHAEL
-
-[Rented room]
-
-(all the away team are in period costume) 
-CRUSHER: Over half the victims whose neural energy had been drained
-came from the Sisters of Hope Infirmary. 
-RIKER: A charity hospital near the waterfront. 
-TROI: If the aliens have been killing people there, well, someone might
-have noticed something unusual. 
-PICARD: And if they're moving among humans, they must have taken on
-human form. But the question is, how do we know who we're looking for? 
-RIKER: The tricorder indicated triolic activity from most of the bodies
-we looked at. If the aliens left that sort of signature, they'll be
-detectable. 
-LAFORGE: You know, we might even be able to rig some kind of alien
-alarm system. 
-RIKER: Any luck contacting Data? 
-LAFORGE: None. The tricorder's broadcasting random emissions on all
-frequencies his sub-processors might pick up, but the range is limited.
-Almost anything could interfere. 
-(there's a knock at the door) 
-LAFORGE: She's back. 
-(Geordi takes off his visor) 
-CARMICHAEL [OC]: Mister Pikerd! 
-PICARD: Yes, Mrs. Carmichael. 
-CARMICHAEL: (Irish accent) Mister Pikerd. I'll be reminding you that
-it's one o'clock. 
-PICARD: Yes. 
-CARMICHAEL: One o'clock on a Thursday. I'm sure I made it clear to you
-that the rent is always due, payable in full, by one o'clock on
-Wednesdays. 
-PICARD: Ah, yes, er, the rent. Mrs. Carmichael, even now my troupe are
-in rehearsals for a new production. 
-CARMICHAEL: Oh? I haven't heard of any new production. What play is it?
-
-PICARD: The play? A Midsummer Night's Dream. We have performed in
-London, Paris, Milan. Milan. To sold out houses. I assure you, you will
-have the rent, in full, with a bonus. 
-CARMICHAEL: Oh, no, no, no, no. I've heard you silver-tongued devils
-before. I'll have the rent in full tomorrow by one o'clock or you'll be
-out performing on the street.
+DATA CLEMENS GUEST3 GUINAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Data's hotel room]
 
-BELLBOY: I wouldn't do this for just anybody,
+GUEST3: I wouldn't do this for just anybody,
 Mister Clemens. And I hope you won't spread it around that I let you
 in. People start talking. 
 (Clemens starts searching the room) 
@@ -51,35 +11,35 @@ CLEMENS: Of course not, Jack. And I assure you that Mister Data would
 be most upset if you didn't. If I can't find that Letter of Intent that
 he left me, our major investor is going to pull out and take his
 business elsewhere. 
-BELLBOY: It has to do with Mister Data's engine, doesn't it? 
+GUEST3: It has to do with Mister Data's engine, doesn't it? 
 CLEMENS: Engine? 
-BELLBOY: Yes. 
+GUEST3: Yes. 
 CLEMENS: Oh, yes. Yes, this is exactly what it's all about. Ow! 
 (he gets a shock from it) 
-BELLBOY: You know, Mister Clemens, I'm going to do you another favour
+GUEST3: You know, Mister Clemens, I'm going to do you another favour
 today. You're always looking for good stories, right? Well, I've got a
 real humdinger for you. The story of my life. Now, I know you may think
 I'm young, but I've covered a lot of ground and if I do say so myself,
 it'd make for some pretty fascinating reading. So, what do you think? 
 CLEMENS: About what? 
-BELLBOY: About writing my life story. You and me. Literary partners, of
+GUEST3: About writing my life story. You and me. Literary partners, of
 course. 
 CLEMENS: Young man, I have a maxim that I have always lived by. No one
 is more qualified to write your story than you are. 
-BELLBOY: Me? Be a writer? You think I could do that? 
+GUEST3: Me? Be a writer? You think I could do that? 
 CLEMENS: As long as you write what you know. You got any passions, boy?
 Any dreams? 
-BELLBOY: I'd like to do some travelling, maybe go to sea. And Alaska.
+GUEST3: I'd like to do some travelling, maybe go to sea. And Alaska.
 I've had the strangest notion to go see Alaska. 
 CLEMENS: That's a great idea, son. That's exactly what I would do if I
 were your age. Alaska, the Klondike, the Aurora Borealis. That's it.
 Follow your dreams and write about 'em. 
-BELLBOY: Thank you, Mister Clemens. You know, that is exactly what I'm
+GUEST3: Thank you, Mister Clemens. You know, that is exactly what I'm
 going to do. 
 CLEMENS: You do that, son. 
-BELLBOY: You'll see my name in print, too. 
+GUEST3: You'll see my name in print, too. 
 CLEMENS: I'm sure I will. 
-BELLBOY: Don't forget. The name's London. Jack London. 
+GUEST3: Don't forget. The name's London. Jack London. 
 CLEMENS: Goodbye now. Bye-bye. 
 (and ushers Jack out of the room and locks the door so he can examine
 the Contraption closely. There's the sound of a door, and Clemens hides

@@ -1,156 +1,34 @@
-TROI LAFORGE WORF PICARD RIKER MARR CRUSHER DATA
+RIKER LAFORGE PICARD MARR CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cave]
+[Bridge]
 
-(later, the air is starting to run out) 
-CRUSHER: I've got one man unconscious. We can't stay in here much
-longer. 
-RIKER: If I open that entrance and it's still out there, we're dead. 
-CRUSHER: If we all stay in here, we're dead. 
-DATA: It has been over an hour since we heard the Entity, sir. It may
-be gone. 
-RIKER: Or it may be out there waiting for us. 
-(there is a crash of something breaking in) 
-RIKER: Everybody stay here. 
-(the rockfall is being pushed away) 
-WORF: Commander? Commander Riker, are you there? 
-RIKER: Lieutenant Worf, I don't think I've ever seen a more beautiful
-sight. 
-LAFORGE: It's good to see you're all right, Commander. What's happened
-here? 
-RIKER: The Crystalline Entity paid us a visit. We lost two colonists,
-but we got the rest in here. 
-(they emerge to the sight of a planet stripped down to the rock and
-soil)
+RIKER: It was pretty much as we expected, sir. No
+survivors. 
+CRUSHER: Not a trace of anything that was ever alive. Not even a seed
+in their greenery storage. 
+DATA: Warp and impulse engines are down, sir, but they can be
+restarted. A skeleton crew could take the ship to a starbase. 
+PICARD: No, we don't have time for that now. Mister Worf, send a
+message to the nearest starbase. Ask them to dispatch a crew. 
+DATA: Aye, sir. 
+PICARD: Mister La Forge, make certain that we're still picking up the
+gamma radiation pattern of the Entity. 
+LAFORGE: Aye, sir. 
+PICARD: Have you and Commander Data made any progress in finding a
+means of communication? 
+MARR: I believe so. There are some details to iron out. 
+PICARD: Please keep working at it. We may need it soon.
 
-Captain's log, stardate 45122.3. We have notified
-Starfleet Command of our intention to pursue and investigate the
-Crystalline Entity. To that end, we have been joined by Doctor Kila
-Marr, a xenologist who has made studying the Entity her life's work.
+[Turbolift]
 
-[Transporter room]
-
-(a silver-haired stately woman beams aboard) 
-RIKER: Welcome to the Enterprise. I am Commander William Riker. 
-MARR: Commander, Doctor Kila Marr. 
-RIKER: Glad you're here. 
-MARR: You were on the surface during the attack? 
-RIKER: That's right. 
-MARR: Remarkable. You and your group are the only known beings ever to
-survive an assault by the Crystalline Entity. 
-RIKER: We were lucky. 
-MARR: I should say. And your android. He was there, too? 
-RIKER: Lieutenant Commander Data was there, yes. 
-MARR: Well, shall we get started? 
-RIKER: I'd be glad to show you to your quarters. 
-[Corridor]
-
-MARR: Oh, Commander. A chance to talk to survivors
-so soon after an attack? I've been waiting years for this. I don't want
-to waste a moment more.
-
-[Observation lounge]
-
-CRUSHER: And when we came out of the cave there was
-nothing left. Everywhere we looked there was complete devastation.
-Trees gone, nothing. 
-MARR: That's typical. It could take years for anything to grow again. 
-DATA: Doctor, I ran a full spectrographic analysis, section by section.
-Trace elements confirm that it is the same entity which destroyed the
-colony at Omicron Theta. 
-MARR: The Crystalline Entity seems to function like a gigantic
-electromagnetic collector. It needs a lot of power to keep going so it
-strips every form of life from the worlds it encounters and converts it
-all into energy. 
-RIKER: There's no vegetation, no insects, not even soil bacteria. It
-left nothing. 
-MARR: Except witnesses, for the first time in eleven recorded attacks.
-Now why, I wonder, did it spare your group? 
-RIKER: It didn't spare everyone, Doctor. If you'll check your reports,
-you'll find that two of the colonists didn't survive. 
-MARR: My point is that until now there have never been any survivors. 
-DATA: Doctor, the cave in which we hid was made of rock which contained
-heavy concentrations of kelbonite and fistrium. We surmise that the
-Entity was unable to penetrate that barrier. 
-MARR: I would like to do interviews with each of the survivors. Collect
-as much specific detail as I can of their observations. 
-PICARD: Of course. 
-MARR: And I'd like to inspect the remains of Melona Colony as soon as
-possible. 
-PICARD: Commander Data, you will accompany the Doctor to the surface. 
-DATA: Yes, sir. 
-MARR: If you don't mind, Captain, I prefer to choose my own team. 
-PICARD: Doctor, there is no one on this ship with more knowledge of the
-Crystalline Entity than Commander Data. He originated on Omicron Theta.
-
-MARR: I am aware of his origins. I'm very much aware that his brother,
-Lore, worked with the Crystalline Entity, led it to Omicron Theta where
-it killed every living thing. I don't think it's unreasonable that I
-should prefer to make another choice. 
-PICARD: You may request additional team members, but in the best
-interest of this investigation, I think you should work with Commander
-Data. 
-MARR: As you wish, Captain. 
-(Marr, Riker and Data leave) 
-PICARD: Well? 
-TROI: I don't think you need an empath to sense that woman's feelings.
-There's hostility that she seems to have transferred from Lore to Data.
-Perhaps you shouldn't have forced them together so soon. 
-PICARD: If her discomfort is going to affect her judgement or her
-objectivity, I need to know now.
-
-[Cave]
-
-DATA: Doctor, there is evidence of residual
-bitrious matter in the soil. It was not present before the Entity's
-attack. 
-(she keeps walking away, scanning) 
-DATA: Doctor? Doctor Marr, you have made it clear that my presence
-disturbs you. However, I do not see how we can achieve our task if you
-continue to ignore me. 
-MARR: Commander, I can hear everything you say to me. If there is
-anything worth my response, you can be sure I will not be silent. 
-DATA: Then I do not understand your lack of interest in the bitrious
-filament I mentioned. 
-MARR: It's old news to me. I found evidence of bitrium on the last
-three attack sites. It seems to be a residual that the Entity produces
-after it absorbs living matter. I'm actually more interested in this
-cave. It still amazes me that your group was spared. 
-DATA: As I have speculated, the presence of refractory metals 
-MARR: Refractory metals. Yes, I know. On two separate occasions
-settlers sought refuge in caves. Some of them deeper than this one.
-They perished anyway. 
-DATA: Were those caves laced with kelbonite or fistrium? 
-MARR: The tunnels on Forlat Three had strong deposits of kelbonite,
-yes. 
-DATA: Then perhaps the combination of the two metals prevented the
-Entity from 
-MARR: Perhaps it was you. 
-DATA: I do not understand. 
-MARR: Maybe it was your presence which made the Entity pass over the
-people in this cave. Did that occur to you? 
-DATA: I cannot see what effect my being here would have had 
-MARR: If you had been in contact with the Entity, if that's the reason
-Melona was attacked, it surely wouldn't have killed its ally. 
-DATA: Do you believe that I lured the Entity here? 
-MARR: Did you? 
-DATA: No, Doctor. Because Lore betrayed the colonists on Omicron Theta,
-you believe that I am capable of the same behaviour. You are mistaken,
-Doctor. My programming is distinctly different from Lore's. 
-MARR: You don't understand. I am accusing you of collaborating with
-that monster! 
-DATA: I do understand, and I am attempting to explain to you it is
-impossible. 
-MARR: It's amazing. You can't feel anything, can you? Nothing I say to
-you hurts you. 
-DATA: That is true, Doctor. 
-MARR: I'm getting a slight elevation on monocaladium particulates in
-this cave wall. Are you making note of it? 
-DATA: Yes, Doctor. 
-MARR: My son died on Omicron Theta. He was sixteen when the colony was
-attacked. That is the reason I have became an expert on the Crystalline
-Entity. I have spent my life studying it, tracking it, and hoping
-someday to find it. And if I learn you have been helping that thing in
-any way whatsoever, I will see to it that you are disassembled piece by
-piece.
-
+DATA: Deck seventeen. Doctor, you have seemed
+preoccupied since we surveyed the Kallisko. 
+MARR: I've found it easy to talk to you, Commander. Do you mind if I
+tell you something? 
+DATA: Not at all. 
+MARR: After hearing the screams of those men, I found it hard not to
+think about my son, about what happened to him. I've read stories about
+soldiers in the battlefield, wounded, dying. They call for their
+mothers. And I've often wondered if my son called for me. If he died
+wondering why I didn't come to him. 

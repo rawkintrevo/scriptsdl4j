@@ -1,67 +1,57 @@
-PICARD RIKER PRESSMAN LAFORGE CREWMAN
+RIKER LAFORGE WORF PICARD PRESSMAN GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-RIKER: So, who won the contest? 
-PICARD: Paul Menegay, a seven year old. He did a most interesting clay
-sculpture of my head. 
-RIKER: Was that the orange one with the lumpy skin? 
-PICARD: Yes. Oh, you'll be interested to know that I've arranged for a
-Commander Riker Day next month. I'm even considering making an entry
-myself. 
-RIKER: Great.
+DATA: Captain, we are approaching the Devolin
+system. 
+PICARD: Any sign of the Romulans? 
+DATA: No, sir. 
+PRESSMAN: Oh, they're out there. They're just waiting to see what
+you're going to do. 
+PICARD: Mister La Forge? 
+LAFORGE: There's an awful lot of ionising radiation in this system,
+Captain. That and the sheer amount of rock is going to slow down our
+search a little. 
+PICARD: How slow? 
+LAFORGE: I'd say at least 
+WORF: Sir, Romulan warbird decloaking directly ahead. 
+WORF: They are powering weapons. 
+RIKER: Shields up. Red alert. Prepare phasers. 
+WORF: Sir, they are hailing us. 
+PICARD: On screen. 
+GUEST2 [on viewscreen]: I am Commander Sirol of the Romulan vessel
+Terix. To whom do I have the honour of speaking? 
+PICARD: I am Captain Jean-Luc Picard of the Federation starship
+Enterprise. 
+GUEST2 [on viewscreen]: Captain Picard. I've heard so much about you. A
+pleasure to make your acquaintance. I hope our sudden appearance didn't
+startle you. 
+PICARD: Not at all. But your unannounced appearance might have
+unfortunate consequences. It would be an awful shame if your ship were
+damaged due to some misunderstanding. 
+GUEST2 [on viewscreen]: I am touched by your concern for my ship, but I
+doubt we were ever in any danger. May I ask what you are doing in this
+system? 
+PICARD: I might ask you the same question. 
+GUEST2 [on viewscreen]: We are conducting a survey of gaseous anomalies.
 
-[Transporter room]
-
-PICARD: Energise. 
-CREWMAN: Aye, sir. 
-PRESSMAN: Will. I'll bet you never thought you'd see me again. 
-(everyone say hi! to Terry O'Quinn, eventually to be John Locke on
-Lost) 
-RIKER: It's good to see you, sir. 
-PRESSMAN: Yeah, sure it is. You look like you're about to faint. 
-RIKER: No. It's just it's been a long time. Captain Jean-Luc Picard,
-Admiral Erik Pressman. 
-PICARD: Pressman? Yes, of course. You were Will's first commanding
-officer, on the Pegasus. 
-PRESSMAN: That's right. As a matter of fact, the Pegasus is the reason
-I'm here. 
-RIKER: Sir? 
-PRESSMAN: The Pegasus is still out there, Will. And the Romulans found
-her.
-
-[Observation lounge]
-
-PRESSMAN: As you know, the starship Pegasus was
-lost in this sector some twelve years ago along with most of its crew.
-I was the captain and Commander Riker here was my helmsman. 
-PICARD: I remember hearing about it. The ship was destroyed by a warp
-core breach as I recall. 
-RIKER: The Captain and I, along with seven others managed to get to the
-escape pod before the breach became critical. 
-PRESSMAN: From space, we saw what appeared to be a matter-antimatter
-explosion which vaporised the ship. 
-RIKER: No wreckage was found, so Starfleet officially declared the ship
-destroyed. 
-PRESSMAN: However, all that changed three days ago. Starfleet
-Intelligence has an operative in Romulan High Command. He sent us a
-message that a Romulan warbird had located a piece of debris in the
-Devolin system which was positively identified as being from the
-Pegasus. The warbird was then ordered to locate the rest of the ship,
-if possible, and retrieve it. 
-LAFORGE: What would the Romulans want with pieces of a twelve year old
-starship? 
-PRESSMAN: The Pegasus was a prototype. Experimental engine, new weapon
-systems. In fact, some of our designs were used in constructing the
-Enterprise. There are a lot of things on board the Romulans would love
-to get their hands on. 
-PICARD: What are our orders? 
-PRESSMAN: To find the ship before the Romulans do. Salvage it if
-possible, destroy it if necessary. You command the Enterprise while I
-remain in command of the overall mission. 
-LAFORGE: We'll need metallurgical and chromographic specs on the
-Pegasus in order to set up the proper search parameters. 
-PRESSMAN: I'll make the appropriate information available to you. 
-PICARD: Very well. Lay in a course for the Devolin system. 
-RIKER: Aye, sir.
+PICARD: How interesting. So are we. Perhaps we could combine our
+efforts and share our findings. 
+GUEST2 [on viewscreen]: I doubt our objectives are compatible. 
+PICARD: Perhaps you're right. 
+GUEST2 [on viewscreen]: This has been a most pleasant conversation, but
+we must return to our research. 
+PICARD: Then I won't keep you. 
+(transmission ends) 
+WORF: Sir, they are moving off, resuming their tachyon scans of the
+system. 
+PICARD: Stand down Red alert, but keep tracking their movement,
+Lieutenant. 
+WORF: Aye, sir. 
+PICARD: Commander, how long will it take us to search this system? 
+LAFORGE: At least seven days, sir. 
+WORF: And the Romulans have a two day head start. 
+PICARD: Then let's get to it. Mister Data? 
+DATA: Initiating sensor sweep of grid zero one.
 

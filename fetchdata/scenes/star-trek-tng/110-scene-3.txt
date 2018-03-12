@@ -1,4 +1,5 @@
-RIKER LAFORGE WORF TASHA PICARD TROI WESLEY BOK RATA KAZAGO CRUSHER DATA
+RIKER LAFORGE WORF TASHA PICARD TROI WESLEY BOK GUEST2 GUEST1 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
@@ -73,7 +74,7 @@ command, Data. Counsellor Troi.
 BOK: We have heard that you use females. Clothed females. Most
 interesting. 
 RIKER: They are that, sir. 
-KAZAGO: And the android was mentioned too. What is its price? We should
+GUEST1: And the android was mentioned too. What is its price? We should
 like to purchase it. 
 PICARD: He is not for sale. Commander Data is, um, is, um 
 RIKER: Is second-hand merchandise. You wouldn't want him. 
@@ -103,10 +104,10 @@ a thousand kilometres away now.
 BOK: Put it on your viewer. 
 PICARD: Main viewer. 
 BOK: There is no one aboard it. 
-RATA: The log should be downloaded into the Enterprise's records. At a
+GUEST2: The log should be downloaded into the Enterprise's records. At a
 price. 
 BOK: No price! 
-KAZAGO: No price? 
+GUEST1: No price? 
 PICARD: For what purpose? What (clutches his head in pain) 
 TROI: I just felt something too, Captain. 
 BOK: Perhaps it is his conscience? 
@@ -123,9 +124,9 @@ PICARD: Why, it's the Stargazer. It's my old ship. How did you find it?
 BOK: It was a derelict, adrift in space on the far side of this star
 system. How it got there is none of my business, Captain. But now, that
 vessel is yours, if you wish to have it. 
-KAZAGO: We are not selling it to him? 
+GUEST1: We are not selling it to him? 
 BOK: Consider it an act of friendship. 
-RATA: At no cost? Oh, ugly. Very ugly.
+GUEST2: At no cost? Oh, ugly. Very ugly.
 
 Captain's log, supplemental. Bok and his officers
 have returned to their vessel, inviting us now to officially take

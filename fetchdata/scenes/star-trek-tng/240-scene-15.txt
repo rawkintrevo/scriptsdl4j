@@ -1,89 +1,34 @@
-DESEVE RIKER PICARD TROI DATA NVEK
+PICARD TROI RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: It appears to be the remains of a ship. My
-analysis indicates that it was an Antares class freighter. 
-DESEVE: That's the ship we were supposed to meet. 
-PICARD: Could there have had some sort of malfunction? A reactor core
-breach? 
-DATA: I do not believe so, sir. That would not be consistent with the
-debris pattern. However, sensors indicate extremely high levels of
-residual antiprotons. 
-RIKER: Romulan disruptor fire. 
-DATA: Correct. Based on the antiproton decay, I would estimate the
-incident occurred within the last four point three hours. 
-PICARD: Then the Romulans could still be in the vicinity. 
-RIKER: Red alert. Shields at maximum. 
-PICARD: Whatever that freighter was carrying, they certainly didn't
-want it to reach us. Are you sure you don't know what it was? 
-DESEVE: No, sir. I swear it. 
-PICARD: All we have here are questions. Mister Data, continue with your
-scan.
-
-[Warbird - Troi's quarters]
-
-TROI: We have to get a message to the Enterprise. 
-N'VEK: That's impossible. 
-TROI: It's the perfect opportunity. The Enterprise is nearby. If we can
-communicate with them, they might be able to help us. 
-N'VEK: Counsellor, this ship is travelling under cloak. All of our
-electromagnetic emissions are being monitored. Any attempt at
-communication whatsoever and we would be discovered instantly. It could
-not succeed. We must continue to Draken Four. That is the safest
-course. 
-TROI: Is there anything you can do to the ship or to the cloaking
-device that would let the Enterprise track us? 
-N'VEK: Track us? No. We want to get into Federation territory
-undetected. 
-TROI: What we want is to get the dissidents to safety. Now answer the
-question. Is there a way? 
-N'VEK: If there were, I wouldn't do it. 
-TROI: Yes, you will. 
-N'VEK: Counsellor. 
-TROI: We're not playing it your way any more, N'Vek. I've been
-kidnapped, surgically altered, put in danger I've gone along with all
-your plans. Now you are going to listen to me. You find a way to let
-the Enterprise track us, or I will go to Toreth and tell her I've
-discovered you're a traitor. I'll order you ejected into space. Is that
-clear, Subcommander? 
-N'VEK: There is one possibility. In order for a ship to remain
-undetectable while cloaked, the radiative emissions from the warp
-engines must be precisely balanced. The ship's Engineer is a
-sympathiser. He may be able to slightly misalign one of the nullifier
-cores. It would create a small magnetic disturbance in space whenever
-we were in motion. 
-TROI: Good. Do it. 
-N'VEK: The effect would only be intermittently. They might not even
-detect it. 
-TROI: If it's the best we can do, we have to try it. 
-N'VEK: Anything more would be immediately registered on the Bridge.
-Even this slight misalignment may be detected. 
-TROI: It's a risk we have to take. You're the one who outlined the
-stakes to me, N'Vek. Are you getting squeamish now, just because things
-are getting a little more dangerous?
-
-[Bridge]
-
-DATA: Sensors are picking up a polarised magnetic
-distortion to our port side. 
-PICARD: Analysis. 
-DATA: The distortion is extremely weak, sir. It appears to be moving
-slowly. It is gone, sir. 
-RIKER: Gone? 
-DATA: The distortion no longer registers on our instruments. 
-PICARD: Could this distortion be caused by a cloaked ship? 
-DATA: Unknown, sir. Our understanding of Romulan technology is still
-limited. 
-DESEVE: Captain, Romulan ships use a forced quantum singularity as a
-power source. If that system is not functioning
-perfectly or is damaged even slightly, it might show through the cloak
-as a magnetic disturbance of some kind. 
-DATA: The distortion has reappeared, sir, bearing three three seven
-mark ten. It has disappeared again, sir. 
-PICARD: Mister DeSeve, in your opinion is it possible that we're
-picking up a cloaked Romulan ship? 
-DESEVE: It's a strong possibility, sir. 
-PICARD: Mister Data, continue your scan. Ensign, link navigational
-control to Mister Data's console and plot a course for that distortion.
-
+(the warbird decloaks) 
+WORF: Captain, we are being hailed. 
+PICARD: On screen. 
+TROI [on viewscreen]: I am Major Rakal of the Tal Shiar. 
+PICARD: I am Jean-Luc Picard of the Enterprise. 
+TROI [on viewscreen]: How can we be of help? 
+PICARD: A Corvallen freighter has been destroyed not far from here. We
+have detected the residual effects of disruptor fire. Can you shed any
+light on this? 
+TROI [on viewscreen]: A regrettable incident, Captain. The freighter
+was fired upon by the former Commander of this vessel. I have now taken
+control, and I assure you there will be no more attacks. 
+PICARD: Still, there was a considerable loss of life. 
+TROI [on viewscreen]: Captain, we do not want to exaggerate this
+incident. You and I can discuss it calmly. We can diffuse it before it
+becomes inflated. 
+PICARD: I agree. 
+TROI [on viewscreen]: I will come onto your ship. Please, lower your
+shields and prepare to beam me aboard. 
+PICARD: Very well. Mister Worf, lock onto Major Rakal. Transport on my
+command. 
+WORF: Aye, sir. 
+TROI [on viewscreen]: Thank you. 
+(transmission ends) 
+RIKER: What's she doing on that ship? 
+PICARD: I don't know, Number One, but she needs our help to get back.
+Mister Worf, keep your lock on her no matter what happens. 
+WORF: Yes, sir. 
+PICARD: Lower shields. 

@@ -1,69 +1,39 @@
-BOY LAFORGE PICARD EDO WESLEY GEORDI OFFICER GIRL DATA
+TROI GUEST4 PICARD GUEST5 GUEST1 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Go ahead, LaForge. What can you make out?
+CRUSHER: Commander Data has just regained
+consciousness. 
+PICARD [OC]: What condition? Can he talk? 
+GUEST1: He's insisting on it, sir. Urgently.
 
-[Lounge]
+[Council Chamber]
 
-LAFORGE: This is something I've never seen before,
-sir. After complete spectral analysis, well it's as if it's not really
-there.
+TROI: (whispers) Wesley. 
+PICARD: Stand by. Picard out. I want to speak to her personally about
+her son. So you promise that Wesley Crusher is safe until sundown? 
+GUEST4: You have our word. 
+PICARD: Then, will one of you return with me to our vessel? 
+GUEST5: Of course. I'll go as a hostage for the boy's safety. 
+PICARD: No, no, no. That's not it. I want you to identify something for
+me, if you can. Captain to Transporter Room. Three to beam up. 
+(Picard, Troi and Rivan move away from the group) 
+GUEST5: I'm frightened. 
+TROI: There's no reason to be. 
+PICARD: Transporter Room, energise.
 
-[Bridge]
+[Corridor]
 
-GEORDI [OC]: I don't understand it. 
-DATA: I've got some information on its first transmission, sir. It
-translates as stand by. 
-OFFICER:: Sir, I see show something coming out of that ship. 
-DATA: Verified, sir. Something very small. 
-(A little globe of light passes through the shields, and the hull, and
-the bulkheads) 
-OFFICER: Intruder alert, sir. I don't show a location. 
-DATA: The away team signal's been cut off, Captain. We've lost contact
-with our people.
-
-OFFICER: Intruder relays do show something. 
-PICARD: Why has everything become a something, or a whatever? 
-(The globe has arrived on the Bridge, and is face to face with Picard.
-When it speaks, everything shakes) 
-EDO: State the purpose. (it tones down) State the purpose of what you
-have done. 
-PICARD: I'm Captain Picard, commanding this Federation starship. 
-EDO: State the purpose of your visit here. 
-PICARD: We have sent down what we call an away team to make peaceful
-contact here. 
-EDO: Do you plan to leave life forms here? 
-PICARD: No. We are merely visiting here. 
-EDO: But you did more at the world you just left. Why have you left
-your own life forms there? 
-DATA: The colony we just planted, sir. 
-PICARD: We found that world uninhabited. The life forms we left there
-had, had sought the challenge. At least, that is the basic reason. Had
-sought the challenge of creating a new lifestyle, a new society there.
-Life on our world is driven to protect itself by seeding itself as
-widely as possible. 
-EDO: Do not interfere with my children below. 
-(The globe goes over to Data) 
-DATA: Captain, I do not understand how, but it is asking me if I was
-constructed for information exchange. 
-PICARD: If there is any way of finding out whatever is out there, Data.
-
-(The globe shrinks and attaches itself to Data's forehead. He falls
-backwards onto the floor.)
-
-[Planet surface]
-
-BOY: Watch! I bet you can't do this! 
-(He walks along in a hand-stand.) 
-WESLEY: Watch this. 
-(He does a series of cart wheels) 
-GIRL: I want to do something too. With you. 
-WESLEY: Er. What? 
-GIRL: It's something you can teach me. Will you? 
-WESLEY: Er. Well, actually, there are some games I don't quite know yet
-
-GIRL: It's playing ball. Will you teach me? 
-WESLEY: Oh, sure! If you have a bat for the ball, I can show you my
-favourite. A bat? A stick or branch, about this thick, this long. 
-GIRL: We can get it in the gardens. Come on. 
+GUEST5: But this is a city. A great city. 
+CRUSHER: Captain, I've just seen the away team report about Wesley. 
+PICARD: In a moment, Doctor. 
+CRUSHER: In a moment? 
+PICARD: Exactly. In a moment. You were about to say? 
+GUEST5: Since you have all this power, why be concerned about our laws?
+You could take the boy from us. 
+PICARD: It's not that simple. From the starboard lounge, you can see
+whatever is outside this vessel. 
+GUEST5: Do you mean my world? You said we'd be high above it. 
+PICARD: And something else that's circling your world. It's very
+important to us, and perhaps to you, to know what it is. 

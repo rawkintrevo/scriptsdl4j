@@ -1,42 +1,42 @@
-PICARD RIKER LAFORGE WORF BARCLAY
-
-[Bridge]
-
-BARCLAY [OC]: Maximum yield, full spread. 
-RIKER: We're too close. 
-BARCLAY [OC]: I'm certain the shields will hold. 
-PICARD: Mister La Forge?
+PICARD RIKER LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-LAFORGE: I don't know how he did it, but shield
-strength has been increased by three hundred percent. 
+LAFORGE: It wasn't me, sir.
+
 [Bridge]
 
-LAFORGE [OC]: It should be enough, Captain. 
-PICARD: Mister Worf. Photon torpedoes. Maximum yield, full spread. 
-WORF: Aye. 
-(three direct hits and a big light display. The ship rocks) 
-PICARD: Thank you, Mister Barclay.
+PICARD: Computer, how were the Argus reactors shut
+down? 
+BARCLAY [OC]: A neural interface was created to expedite the repairs. 
+RIKER: Barclay? 
+PICARD: Computer, respond. 
+BARCLAY [OC]: I am responding, sir. I'm sorry if I caused you any
+alarm. It was necessary in order to secure the Array. 
+RIKER: Barclay! 
+[Holodeck]
 
-[Engineering]
-
-BARCLAY: You're welcome, Captain. Barclay out. I'm
-sorry if I overstepped my authority. 
-LAFORGE: (to himself) Don't mention it.
-
-Captain's log, stardate 44705.3. The Enterprise has
-destroyed the alien probe, but now we are left with the difficult task
-of repairing the Argus Telescope. Failure to do so would represent an
-incalculable scientific loss.
-
-[Corridor]
-
-RIKER: Mister Barclay. Everyone's still trying to
-figure out exactly how you did it. 
-BARCLAY: Well, it just occurred to me that I could set up a frequency
-harmonic between the deflector and the shield grid using the warp field
-generator as a power flow anti-attenuator, and that of course naturally
-created an amplification of the inherent energy output. 
-RIKER: Uh huh. I see that.
+RIKER [OC]: Barclay, what's going on? Barclay! 
+(blue laser lights fire at Barclay's head as he sits under his holodeck
+creation) 
+BARCLAY [OC]: Yes, Commander, it's me. 
+(after a short break, Picard, Worf, Riker and La Forge have arrived on
+the holodeck) 
+BARCLAY [OC]: I'm sorry, Captain, I was only trying to help. Our
+computer was too slow to compensate for the overload on the Array. So I
+created an interface that communicated my thoughts directly to the
+central processing unit. 
+RIKER: Exactly what does that mean? 
+BARCLAY [OC]: My body is as you see it here, but much of my higher
+brain functions and memory have been transferred to the starboard
+computer core. 
+PICARD: Mister Barclay, remove yourself from the computer system. Leave
+the holodeck. 
+BARCLAY [OC]: I'm afraid I can't, sir. 
+PICARD: Why not? 
+BARCLAY [OC]: My primary cerebral functions are now operating almost
+entirely from within the computer. They have expanded to such a degree
+that it would be impossible to return to the confines of my human
+brain. Any attempt to do so would mean my death.
 

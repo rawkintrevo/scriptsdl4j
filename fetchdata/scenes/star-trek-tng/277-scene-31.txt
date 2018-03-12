@@ -1,88 +1,41 @@
-TROI WORF PICARD Q CHILTON CRUSHER DATA
+RIKER OBRIEN LAFORGE PICARD GUEST5 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Future - Bridge]
+
+GUEST5: Entering the Devron system, sir. 
+RIKER: Full stop. 
+DATA: Sensors are picking up a small temporal anomaly off the port bow.
+
+RIKER: On screen. 
+PICARD: I was right. 
+LAFORGE: It's an anti-time eruption. It seems to have been formed
+within the last six hours. 
+PICARD: We must stop it here so it can't travel back through time. 
+RIKER: Mister Data, we need a solution and we need it now. 
+DATA: The anomaly is being sustained by the continuing tachyon pulses
+in the other two time periods. I suggest shutting them down. 
+PICARD: The next time I'm there, it's the first thing I'll do. 
+RIKER: Isn't there something more we can do here to seal the rupture
+somehow? 
+DATA: I will investigate the options.
+
+[Bridge]
+
+PICARD: Data, disengage the tachyon pulse. 
+DATA: Sir? 
+PICARD: Do it. The convergence of the tachyon pulses from the three
+time periods is what is causing the anomaly. 
+DATA: Aye, sir. 
+PICARD: Is there any change in the anomaly? 
 [Past - Bridge]
 
-DATA: We are approaching the Devron system,
-Captain. Sensors are picking up a large subspace anomaly directly
-ahead. 
-PICARD: All stop. On screen. Then it is larger in the past. 
-TROI: Sir? 
-PICARD: Nothing. Full scan, Mister Data. 
-DATA: Aye, sir.
+DATA: No, sir. 
+PICARD: Disengage the tachyon pulse. 
+O'BRIEN: but e haven't finished the scan, sir. 
+PICARD: I know that. But it is imperative that you disengage the
+tachyon pulse immediately. 
+DATA: Aye, sir. Disengaging. 
+PICARD: Why isn't the anomaly being affected? 
+O'BRIEN: Why would it be, sir?
 
-[Future - USS Pasteur Bridge]
-
-PICARD: On screen! On screen! Let's see it! 
-(just a starfield) 
-DATA: As you can see, sir, there's nothing there. 
-(a little later) 
-DATA: Still nothing, Captain. I've conducted a full sensor sweep out to
-one light year from the Pasteur. No temporal anomalies, no particle
-fluctuations, nothing. 
-PICARD: I don't understand. It was here in the other two time periods.
-Why isn't it here now? 
-WORF: Captain. I have been monitoring Klingon communication channels.
-Several warships have been dispatched to this sector to search for a
-renegade Federation vessel. 
-PICARD: You're not thinking about leaving? 
-CRUSHER: There's nothing here, Jean-Luc. 
-PICARD: There should be! There has to be! Data, is there some other way
-to scan for a temporal disturbance? Something that isn't covered in a
-normal sensor sweep. 
-DATA: There are several methods of detecting temporal disturbances, but
-we're limited by the equipment on the Pasteur. 
-CRUSHER: We should head back to Federation territory. 
-DATA: However, it may be possible to modify the main deflector to emit
-an inverse tachyon pulse, which could scan beyond the subspace barrier.
-
-PICARD: That's it. Make it so. 
-CRUSHER: Wait a minute. Data, how long would this take? 
-DATA: To make the modifications and search the entire Devron system
-will take approximately fourteen hours. 
-CRUSHER: All right. Data, begin to modify the tachyon pulse. Ensign
-Chilton, lay in a course back to the Federation. We'll stay here for
-six more hours, and if we haven't found anything we're heading back,
-maximum warp. 
-CHILTON: Aye, sir. 
-PICARD: But six more hours may not be enough. We have to stay here
-until we find it, no matter how long it takes. 
-CRUSHER: Carry out my orders. May I see you a moment?
-
-[Future - USS Pasteur Ready room]
-
-PICARD: Beverly, I cannot believe that you are not
-willing to stay here until we 
-CRUSHER: Don't you ever question my orders on the Bridge of my ship
-again! 
-PICARD: Damn it, I was just trying to. Look, there are larger concerns
-here. What you don't understand is that 
-CRUSHER: I understand that you would never have tolerated that kind of
-behaviour back on the Enterprise and I won't here. I don't care if
-you're my ex-Captain or my ex-husband. 
-PICARD: You're right. I was out of line. It won't happen again. But
-what you have to understand is what is at stake here. Q has said that
-all of humanity will be destroyed. 
-CRUSHER: I know. That's why I've allowed us to stay here longer and
-keep looking. But I also want you to allow for the possibility that
-none of what you're saying is real. 
-PICARD: What? 
-CRUSHER: Jean-Luc, I care for you too much not to tell you the truth.
-You have advanced Irumodic Syndrome. It's
-possible that all of this is in your mind. I'll stay here six hours
-longer and then we're heading home. I want you to remember, if it were
-anyone but you, we wouldn't even be here. 
-(Crusher leaves, Q appears as a ancient man with an ear trumpet) 
-Q: Eh? What was that she said, sonny? I couldn't quite hear her. 
-PICARD: Q? What is going on here? Where is the anomaly? 
-Q: Where's your mommy? Well, I don't know. 
-PICARD: Answer me. 
-Q: There is an answer, Jean-Luc, but I can't hand it to you. Although
-you do have help. 
-PICARD: What help? 
-Q: You're not alone, you know. What you were and what you are to become
-will always with you. 
-PICARD: My time shifting. The answer does lie there, doesn't it. Now,
-tell me one thing. This anomaly we're looking for, will that destroy
-humanity? 
-Q: You're forgetting, Jean-Luc. You destroy humanity. 
-PICARD: By doing what? When? How can 

@@ -1,91 +1,43 @@
-TROI RIKER PULASKI WESLEY COMPUTER DAVIES SARJENKA DATA
+PICARD RIKER OBRIEN DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Transporter room]
 
-WESLEY: Hi. Can I walk with you? 
-TROI: Yes. 
-WESLEY: I need a little advice. 
-RIKER: Well, it's free. 
-WESLEY: Walking or advice? 
-RIKER: Both. 
-WESLEY: It's about my team. I'm considering so many factors I'm
-confusing myself. 
-TROI: What have you done so far? 
-WESLEY: Well, I've broken down the task and picked the best people in
-those disciplines. 
-RIKER: So who have you got so far? 
-WESLEY: I've got Prixus in mineralogy and metallurgy, Alans and
-Hildebrandt for volcanology and geomechanics. I want Davies for
-geochemistry, but 
-TROI: But they're all much older than you are. 
-WESLEY: Right, and it makes me feel strange. What do I do about
-personality conflicts? 
-RIKER: Completely irrelevant. These people are professionals. If
-there's a personality conflict, you're in charge, you settle it. 
-WESLEY: So you not only have to understand the job, you also have to be
-a ship's Counsellor. 
-TROI: Sometimes. 
-WESLEY: Well, thank you.
+RIKER: O'Brien, take a nap. You didn't see any of
+this. You're not involved. 
+O'BRIEN: Right, sir. I'll just standing over here, dozing off. 
+RIKER: Data, you've got ten minutes. That's it. If you meet anybody but
+Sarjenka 
+DATA: I will signal for immediate beam out. 
+(Data is beamed down) 
+PICARD [OC]: Commander Riker to the Bridge. 
+RIKER: Damn. 
+O'BRIEN: I just woke up, sir. 
+RIKER: You know what to do? 
+O'BRIEN: No problem, sir. I'll have him out of there as smooth as ice.
 
-Captain's log, Stardate 42696.3. We are entering
-the second Selcundi star system, where acting Ensign Crusher will begin
-his planetary mineral survey. The results of which may help unlock the
-geological puzzle. 
-[Geophysics lab]
+[Sarjenka's house]
 
-(A young scientist is reducing a rock to ash for
-analysis)
-WESLEY: Ensign Davies? 
-DAVIES: You got him. 
-WESLEY: Wesley Crusher. I've been put in charge of the planetary
-geological surveys, and I'd like to have you on the team. 
-DAVIES: Sounds great. Who else is on it? 
-WESLEY: I have Prixus and Alans and Hildebrandt. 
-DAVIES: It's a shame you didn't talk to me first. It's just personal
-opinion, but I like to break up married teams. 
-WESLEY: I hadn't thought of that. 
-DAVIES: Don't worry, they'll probably work out fine. And if you need
-any help, just give me a signal and I'll take over for you. We don't
-want you to get too beat up on your first command. 
-WESLEY: Thanks, but I'm pretty sure I'll be all right.
-
-[Data's quarters]
-
-DATA: Computer, identify please. 
-COMPUTER: Sensors indicate low-level rf waves. 
-DATA: Is there a pattern? 
-COMPUTER: Affirmative. 
-DATA: Naturally occurring? 
-COMPUTER: Negative. 
-DATA: Key universal translator, please. 
-COMPUTER: Unable to comply. Weak signal. 
-DATA: Lock on comm. link and boost. 
-COMPUTER: Lock on complete. 
-DATA: Read, please. 
-COMPUTER: Insufficient signal strength. 
-DATA: Enhance, please. 
-SARJENKA [OC]: Is anybody out there? 
-DATA: Yes.
-
-[Corridor]
-
-(Kate is passing by when she spots Wesley loitering
-with intent, and a PADD) 
-PULASKI: Wes? 
-WESLEY: Hi, Doctor Pulaski. 
-PULASKI: You have trouble behind that door? 
-WESLEY: My team's in there. I've got to assign planets, set a schedule.
-
-PULASKI: It sounds like you've got everything under control. 
-WESLEY: I haven't had to deal with them yet. Not together, not
-professionally. 
-PULASKI: Wes, the minute you walk through that door they're your team.
-You have nothing to prove. You've got the authority. 
-WESLEY: That's just 'cos Commander Riker says I do. 
-PULASKI: It's up to you to hang on to it. Now, you'd better get in
-there, and Wes, for whatever it's worth, I think you're going to do
-just fine. 
-Captain's log, stardate 42737.3. It has been six
-weeks since our entrance into the Selcundi Drema sector. Each system
-has revealed the same disturbing geological upheavals on every planet.
-
+(Constructed mainly of hexagons. There is a toy
+doll on a bed of pillows. He finds the radio. The door is a forcefield
+or hologram. Data touches it, it vanishes to reveal a red and sullen
+outside, lit by erupting volcanoes. The ground shakes so he goes back
+inside and closes the door. After a moment, a little girl runs in and
+goes straight over to the radio. She has orange skin and hair, and all
+her fingers are the same length) 
+DATA: Sarjenka? Wait! I'm Data. 
+GUEST1: Data. Data, you came. Data, where have you been? 
+DATA: It would take too long to explain. You and your family must
+leave. 
+GUEST1: We already have. We ran when the tremors began. 
+DATA: Then why are you here? 
+GUEST1: My father wouldn't let us take anything, but I had to have my
+transmitter. I knew you would come back, and I didn't want you to find
+only silence, the way I did. 
+DATA: I am sorry for that, but it is very complicated. Does your family
+know where you are? 
+GUEST1: No. 
+DATA: You cannot survive in this. 
+GUEST1: What are we going to do? 
+DATA: Enterprise, two to beam up. You must come with me. 
+GUEST1: Where are we going? (Data points upwards) To the stars? 

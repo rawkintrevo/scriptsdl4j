@@ -1,34 +1,62 @@
-PICARD TROI VASH WORF RIKER
+PICARD VASH
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Vash's room]
 
-RIKER: I do have one request, sir. 
-PICARD: You want me to bring you back a souvenir? 
-RIKER: It's called a Horga'hn. I don't think you'll have any trouble
-finding one. 
-PICARD: Consider it done. 
-WORF: Captain, I would feel better if you would allow me to assign a
-security officer to you. We will be out of communication range when we
-leave orbit. 
-PICARD: I really don't think that will be necessary, Mister Worf. Risa
-has a reputation of being a most peaceful planet. 
-WORF: Aye, sir. 
-PICARD: Well, the ship is yours, Number One. 
-TROI: Enjoy your trip, Captain. 
-PICARD: I'll try, Counsellor. 
-(Picard enters the transporter room) 
-RIKER: He's going to have a great time.
+PICARD: May I come in? 
+VASH: Excuse the mess. Sovak has taken to searching my room
+periodically. 
+PICARD: Is this what he's looking for? 
+(He holds up the disc) 
+VASH: I'm sorry I had to hide it like that. I was afraid he'd start
+searching me next. 
+PICARD: This disc must contain some very valuable information. 
+VASH: I doubt it's anything you'd be interested in. 
+PICARD: Depends. 
+VASH: On what? 
+PICARD: On whether or not it has something to do with the Tox Uthat. 
+VASH: Did Sovak tell you that? 
+PICARD: Well, let's just say I've heard rumours that the Uthat is
+located somewhere on Risa. 
+VASH: Look, the last thing I need is a partner. 
+PICARD: So it's true. 
+VASH: Have a seat. I don't suppose you ever heard of Professor Samuel
+Estragon? 
+PICARD: Yes, as a matter of fact, I have. He spent half his life
+searching for the Tox Uthat. 
+VASH: I served as his personal assistant for the past five years.
+Shortly before he died, he uncovered new data pinpointing its location.
+And that disc contains his research notes and maps. 
+PICARD: And you're continuing his work? 
+VASH: Exactly. 
+PICARD: With a Ferengi as an associate? 
+VASH: Sovak and I are definitely not working together. 
+PICARD: But the two of you are very well acquainted. 
+VASH: Well, at times he aided the professor in his explorations.
+Especially in situations that weren't quite ethical. 
+PICARD: And now, with typical Ferengi logic, he's convinced that the
+Tox Uthat belongs to him. 
+VASH: All he cares about is selling it to the highest bidder. 
+PICARD: Whereas you, of course, have a nobler purpose in mind. 
+VASH: I told the professor I'd present it to the Daystrom Institute for
+study. But first I have to find it. And that won't be easy with Sovak
+watching me every minute. 
+PICARD: I'll go in your place. 
+VASH: And what about me? 
+PICARD: You'll remain here. It's safer. 
+VASH: Is that an order? 
+PICARD: Absolutely. 
+VASH: This isn't a starship, Jean-Luc. I don't follow orders. 
+PICARD: Oh, I see. 
+VASH: Besides, you'd never find it without me. The professor's notes
+are in code. 
+PICARD: From the moment I met you, I knew you were going to be trouble.
 
-[Resort Lobby]
-
-(Picard is looking around when a woman bumps into
-him) 
-PICARD: I beg your pardon. 
-(She sees a Ferengi enter, and throws her arms around Picard's neck) 
-VASH: God, it's so good to see you again. 
-(She kisses Picard) 
-PICARD: I think you've mistaken me for someone else. 
-VASH: You know, I think you might be right. Welcome to Risa. 
-PICARD: A simple handshake would have sufficed. 
-(He walks past the aliens from the opening scene) 
+VASH: You look like a man who could handle trouble. 
+PICARD: So, where exactly is the location? 
+VASH: It's about twenty seven kilometres due east. There are some
+subterranean caves there. That's where you'll find the Uthat. 
+PICARD: I'll meet you in the lobby in fifteen minutes. Be punctual. Oh,
+and I advise you to change your clothing. 
+VASH: Jean-Luc. We're going to make a wonderful team.
 

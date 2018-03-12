@@ -1,38 +1,6 @@
-PICARD RIKER LAFORGE BARCLAY
+WESLEY BARCLAY LAFORGE GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
-
-PICARD: I'm not accustomed to seeing an
-unsatisfactory rating for one of my crew. 
-RIKER: I guess the issue is whether Mister Barclay is Enterprise
-material. 
-PICARD: I assume from your request for his transfer that you think he's
-not, Commander. 
-LAFORGE: I hate to say it but, I always thought I could work with
-anybody. But I just don't understand this guy. Broccoli makes me
-nervous, Captain. He makes everybody nervous. 
-PICARD: Broccoli? 
-RIKER: Young Mister Crusher started that. I guess it's caught on. 
-PICARD: Let's just get that uncaught, shall we? There's every
-indication he's served competently in Starfleet for years. His ratings
-aboard the Zhukov were satisfactory. In fact I recall Captain Gleason
-speaking quite highly of him before his transfer. 
-RIKER: In retrospect, I wonder if Captain Gleason wasn't buttering our
-bread a little. He knew we were looking for a diagnostic engineer. I've
-examined Barclay's psychological profile. He's a history of seclusive
-tendencies. It was noted at the Academy more than once. 
-PICARD: And yet he chose this way of life. He has made the same
-commitment to Starfleet that we all have. It's easy to transfer a
-problem to someone else. Too easy. 
-LAFORGE: Captain, it's not like I haven't tried. 
-PICARD: Try harder, Geordi. He's a member of your team. Try to find
-some way to help him to make a positive contribution. Get to know the
-man better. Make him your best friend. 
-LAFORGE: With all respect, sir, my best friend? I can barely tolerate
-being in the same room with the man. 
-PICARD: Then I suggest you put your personal discomfort on one side,
-Commander. Dismissed. 
-LAFORGE: Yes, sir. 
 [Cargo bay]
 
 (Barclay is cross-legged on the floor, examining
@@ -55,3 +23,33 @@ BARCLAY: What on? Do, do, do you want me to prepare a
 LAFORGE: No, no, just be there. Eight hundred hours. 
 BARCLAY: I'll be on time, sir. 
 LAFORGE: Good. Good. Carry on. 
+[Engineering]
+
+LAFORGE: Morning. Start your brains, gentlemen, and
+let's do it. Has anybody seen Lieutenant Barclay? 
+GUEST5: Not yet, sir. 
+LAFORGE: Okay. 
+(Barclay arrives) 
+LAFORGE: Okay. This trip to Nahmi Four is pretty routine, so we'll have
+plenty of time to realign the magnetic capacitors on both the matter
+and anti-matter injectors. Duffy, Costa, that'll be your assignment. 
+GUEST5: We probably ought to do the flow regulator maintenance at the
+same time, Commander. 
+LAFORGE: That's a good idea. Ensign Crusher will putting in some hours
+with us this week as part of his training duties, so I'll be assigning
+him to assist you, Mister Myers. Be sure and teach him the difference
+between impulse and warp drive, please. Lieutenant Barclay has working
+on the mystery of the anti-grav failure we had yesterday. Your
+preliminary report had a couple
+of interesting theories, Reg. Why don't you bring us all up to speed on
+your findings so far. 
+BARCLAY: Yes. It wasn't a maintenance problem. Everything checked out.
+I, I'm going to check for a surge in the transfer coils. 
+WESLEY: A coil surge wouldn't have resulted in field dissipation. 
+BARCLAY: I, I, I realise that 
+LAFORGE: But we shouldn't ignore the possibilities, Wes. 
+WESLEY: You ought to check the flow capacitor. A breakdown of that
+could have caused a chain collapse of the antigrav fields. 
+BARCLAY: I, I was going to. 
+LAFORGE: Good. Okay, then let's go over the realignment procedure.
+Gentlemen. 

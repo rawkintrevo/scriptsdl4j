@@ -1,50 +1,55 @@
-PICARD GULEVEK LAKANTA WORF WESLEY
-
-[Village]
-
-PICARD: Mister Worf, what is going on? 
-WORF: We have unwelcome visitors, sir. 
-(the Cardassians have arrived) 
-PICARD: I'm Captain Jean-Luc Picard of the Enterprise. 
-GUL EVEK: I am Gul Evek. What are all these people still doing here?
-The evacuation should be well underway by now. 
-PICARD: May I have a word with you, alone? 
-GUL EVEK: As you wish. Wait here. 
-PICARD: It was my understanding that there would be no Cardassian
-presence here for another six weeks. Your arrival here may have upset
-some very delicate negotiations. 
-GUL EVEK: Negotiations? The status of this planet has been settled.
-What are you negotiating? 
-PICARD: I would be very happy to explain that to you, but for now I
-must ask you and your men to leave immediately. 
-GUL EVEK: Captain, we have been sent here to perform a preliminary
-survey of all the buildings and equipment being left behind. I have no
-intention of leaving until our mission is complete. 
-PICARD: Very well. Complete your mission. But remember, this is
-Federation territory, Gul Evek, and until that changes, these people
-are under my jurisdiction and I will protect them. 
-GUL EVEK: Is that a threat? 
-PICARD: It's a fact. Bear that in mind while you conduct your survey.
+GUEST0 RIKER WORF PICARD GUEST2 WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Habak]
 
 (entered by a ladder through a hole in the floor) 
-LAKANTA: This is the Habak, the focal point of our lives. Strangers are
+GUEST2: This is the Habak, the focal point of our lives. Strangers are
 not welcome here. 
 WESLEY: When I asked to come here, you said it would be 
-LAKANTA: You're not a stranger. I told you, I've seen you here before. 
+GUEST2: You're not a stranger. I told you, I've seen you here before. 
 WESLEY: What are those figures? 
-LAKANTA: They are Mansara. Dolls that represent the different spirits
+GUEST2: They are Mansara. Dolls that represent the different spirits
 that come to this place. 
 WESLEY: This one looks like a Klingon. 
-LAKANTA: Yes. Our culture is rooted in the past, but it's not limited
+GUEST2: Yes. Our culture is rooted in the past, but it's not limited
 to the past. 
 (He scatters sand around the fire) 
-LAKANTA: The spirits of the Klingon, the Vulcan, the Ferengi come to us
+GUEST2: The spirits of the Klingon, the Vulcan, the Ferengi come to us
 just as the bear and the coyote and the parrot. There's no difference. 
 WESLEY: What should I do? 
-LAKANTA: Start the fire. Then sit and wait. 
+GUEST2: Start the fire. Then sit and wait. 
 WESLEY: What am I waiting for? 
-LAKANTA: This is your journey, Wesley. I can open the door, but only
+GUEST2: This is your journey, Wesley. I can open the door, but only
 you can go through it.
+
+[Ready room]
+
+PICARD: Admiral, the Indian Councils is adamant.
+They refuse to leave Dorvan Five. GUEST0 [on monitor]: Is there any
+indication that the Tribal Council will change their position in the
+near future? 
+PICARD: No, sir. 
+GUEST0 [on monitor]: Then I see no other choice. 
+PICARD: Admiral, I have every reason to believe that they will resist
+any attempt to remove them. I strongly urge you to request an emergency
+session of the Federation Council. The issue of Dorvan Five must be
+reopened. 
+GUEST0 [on monitor]: Captain, I made that request two days ago. The
+answer was no. I'm sorry but you have your orders. Starfleet out. 
+RIKER: So much for your reprieve from Starfleet. 
+PICARD: Anthwara believes that I am responsible for the crimes of one
+of my ancestors against his people. 
+RIKER: Do you believe that? 
+PICARD: No, of course not. I respect his belief, but I do not see how
+it can have any bearing on this mission. But even so, I can't help
+wondering if a dark chapter in my family's history is about to be
+repeated. If those people take up arms against us, then I cannot
+foresee the consequences. Mister Worf, will you come in here for a
+moment? 
+WORF [OC]: Aye, sir. 
+(Worf enters) 
+PICARD: Mister Worf, will you begin preparations to remove the
+inhabitants from Dorvan Five. 
+WORF: Aye, sir.
 

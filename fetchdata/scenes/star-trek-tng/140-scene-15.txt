@@ -1,59 +1,44 @@
-PULASKI WESLEY RIKER DATA LAFORGE
+PULASKI RIKER KYLE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Corridor]
 
-LAFORGE: Data, what if I missed something? 
-DATA: The ship's computer would have corrected immediately. 
-LAFORGE: Maybe my inputs were incorrect. 
-WESLEY: Data! Geordi! I figured out Worf's problem. 
-LAFORGE: You spoke to him? 
-WESLEY: No, no. I accessed the complete Klingon cultural database. It
-took me some time 
-LAFORGE: Okay, Wesley, slow down. What is the problem? 
-WESLEY: It's the tenth anniversary of Worf's Age of Ascension. 
-LAFORGE: His what? 
-WESLEY: The Klingon Age of Ascension. It's a ritual of great
-significance. A rite of initiation marking a new level of Klingon
-spiritual attainment. 
-DATA: And what is the significance of the anniversary of this event? 
-WESLEY: It's a day of celebration and ritual spent with one's fellow
-Klingons. Worf doesn't have any Klingon friends. 
-LAFORGE: We're his friends. 
-WESLEY: Right, but we don't practice Klingon tradition, And we're not
-Klingons. Worf is feeling culturally and socially isolated. 
-LAFORGE: So, what do you suggest we do? I'm not sure I'd like to invite
-a bunch of Klingons on board. 
-DATA: We can programme the ship's computer to supply simulations on the
-Holodeck. 
-LAFORGE: Holographic Klingons. Sure. Why not? 
-DATA: We need only to programme the computer with details of the
-specific ceremony. 
-WESLEY: The cultural database said the Klingon's family must attend. 
-LAFORGE: So? We're his family. We'll go. I just wonder what kind of
-party the Klingons had in mind.
+KYLE: I'm leaving at twenty one hundred hours. Can
+I have a minute?
 
-[Sickbay]
+[Riker's quarters]
 
-RIKER: Have you got a minute? 
-PULASKI: Sure. 
-RIKER: I wanted to apologize for my remark in Ten Forward. Your
-personal is none of my business. 
-PULASKI: Even if it involves your father? 
-RIKER: Even if it involves my father. 
-PULASKI: Did he ever tell you why he never remarried? 
-RIKER: What woman would have him with an ego like that? 
-PULASKI: I would have, in a cold minute. Twelve years ago, Kyle Riker
-was a civilian strategist advising Starfleet in its conflict with the
-Tholians. The starbase that he was operating from was attacked. None of
-the base crew was expected to live, and they all died. All except your
-father. Your father alone had the will to endure, to face the pain, to
-live. 
-RIKER: I never knew any of that about him. 
-PULASKI: I've never saw a man fight so hard in all my life. 
-RIKER: And you fell in love? 
-PULASKI: Yes. And so did he. But marriage was out of the question. He
-had other priorities. 
-RIKER: His career. 
-PULASKI: You know, if I were you, going out on the Ares, I'd jettison
-the emotional baggage you're still carrying around.
+RIKER: I've practised my best Academy courtesy, now
+it's time for you to go. 
+KYLE: It's time for us to have a talk, so lower your shields. 
+RIKER: I'm asking you to leave, or I'll 
+KYLE: You'll what? You know, it's a shame there's no anbo-jyutsu ring
+nearby. 
+RIKER: Really? There is. Deck Twelve. The gymnasium. 
+KYLE: We can clear the air once and for all. 
+RIKER: You're on.
+
+[Doctor's office]
+
+KYLE: Scuttlebutt says you wanted to see me. 
+PULASKI: That's right. I thought I knew you, Kyle. 
+KYLE: You do, as well as anyone. 
+PULASKI: Then what is this I hear about an anbo-jyutsu match with Will?
+
+KYLE: You've heard. 
+PULASKI: Haven't we grown beyond the point where we resolve our
+problems with physical conflict? 
+KYLE: I think you're overreacting. 
+PULASKI: I'm overreacting? You're the one who's going out to fight with
+his own son. 
+KYLE: Don't think of it as a fight, Kate. Think of it as more of a
+contest. 
+PULASKI: And suppose one of you is injured? 
+KYLE: I know where to find a good doctor. Kate 
+PULASKI: Kyle. 
+KYLE: Will and I have been playing anbo-jyutsu ever since he was eight
+old, and he knows how to handle himself. And so do I. 
+PULASKI: Don't take this personally, but Will is in his prime. 
+KYLE: And I'm no spring chicken, I know. Don't worry. He's never been
+able to beat me.
 

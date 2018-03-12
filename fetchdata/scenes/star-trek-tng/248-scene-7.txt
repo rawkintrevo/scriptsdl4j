@@ -1,68 +1,46 @@
-PICARD REYGA GUINAN OGAWA CRUSHER DATA
+GUEST4 WORF GUEST2 GUEST3 GUEST0 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's quarters]
+ [Science lab]
 
-CRUSHER: So that was my first experience as a
-scientific diplomat. A complete failure. I don't understand. 
-GUINAN: No? 
-CRUSHER: I mean, I've lost patients before. 
-GUINAN: But this was different. 
-CRUSHER: Mmm. 
-GUINAN: You know, when you're a doctor and you have patients, you're in
-control. But when you send someone out on a mission, all you can do is
-sit and watch. 
-CRUSHER: That's what I felt. Helpless. 
-GUINAN: Anybody would. Don't be too hard on yourself. 
-CRUSHER: You know, what you say reminds me of something Jean-Luc said
-to me when I was doing the autopsy on Jo'Bril. 
-[Sickbay]
+CRUSHER [OC]: And that made what I had to do next
+even harder. 
+CRUSHER: I'm sure you all understand that in light of what happened, I
+think it would be inappropriate to continue further testing. Perhaps if
+Doctor Reyga has perfected his metaphasic technology, we can try again.
 
-CRUSHER [OC]: It was probably the most puzzling
-autopsy I've ever performed, and the most frustrating, because
-Jo'Bril's anatomy was unlike any I'd encountered, and I've run into
-some unusual specimens. 
-PICARD: How's it going? 
-CRUSHER: I've never run into a humanoid species like this before. His
-internal physiology's baffling. He doesn't seem to have any discrete
-organs, at least not in the traditional sense. Practically every system
-is equally distributed throughout the body. That kind of physiology
-should make him incredibly resistant to injury, so whatever killed him
-must have occurred at the cellular level. 
-PICARD: Do you have any idea what it was? 
-CRUSHER: No. Something caused a massive system-wide failure, but I
-don't know what. 
-PICARD: Were the solar radiation levels high enough to kill him? 
-CRUSHER: His exposure to the star's radiation was minimal. It's all
-very strange. There's no apparent cause of death. 
-OGAWA: Doctor, here's the result of the tissue scan you asked for. 
-CRUSHER: That's odd. The rate of cellular decay is extremely low. 
-PICARD: Beverly, the answers will come. 
-CRUSHER: Maybe even minimal exposure to the radiation altered the
-cellular physiology. 
-PICARD: You know, you've been at this for hours. You might think more
-clearly if you got a good night's sleep. 
-CRUSHER: I can't sleep. I want to find out what killed him. I owe that
-to Doctor Reyga. 
-PICARD: You're doing it for Doctor Reyga, or yourself? 
-CRUSHER: What do you mean? 
-PICARD: You're the loneliest person in the world right now. No one can
-say anything, no one can do anything that will help. And you think that
-it will never go away. And you're right, it won't. But you can get used
-to it. I know it doesn't feel like that now, but you can. 
-CRUSHER [OC]: At the time, I was too preoccupied with my problems to
-understand what he was saying. I wasn't thinking about the rest of my
-life. I was trying to make sense of what had happened. 
-[Shuttlecraft]
-
-CRUSHER [OC]: And I wasn't alone. Jo'Bril's death
-had raised a lot of questions. Geordi and Data were determined to find
-out what had gone wrong, and they were busy going over every millimetre
-of the shuttle, with Doctor Reyga's help. 
-(Shuttlecraft Justman is getting a thorough going-over) 
-REYGA: Run another diagnostic on the EPS flow regulator. 
-DATA: The flow regulator is functioning properly. 
-REYGA: What about the field emitter coil? Has it maintained polarity? 
-DATA: Yes, Doctor. 
-REYGA: The radial force compensator? 
-DATA: I am unable to locate any malfunction. All systems are operating
-according to your design specifications. 
+GUEST3: Doctor Crusher, please, if I could have a little more time to
+investigate I know I could find what went wrong. 
+GUEST0: But that won't bring back Jo'Bril, will it? 
+T'PAN: I do not believe the shield will ever work. Its very concept is
+flawed. 
+GUEST3: Just one more test. 
+GUEST2: Whom do you propose we sacrifice next? 
+GUEST3: I will pilot the shuttle myself. 
+CRUSHER: I'm sorry. As Chief Medical Officer I'm responsible for the
+health and safety of all the people aboard. I will not authorise any
+further tests. 
+GUEST3: Very well. But I will prove myself. 
+CRUSHER [OC]: I couldn't help but admire his tenacity. He just wasn't
+going to accept defeat. And I hoped he would prove himself. But that
+was the last time I saw him alive.
+(later, Reyga is lying flat out on the floor. Security are present) 
+CRUSHER [OC]: We'd gone to Science Lab four when the ship's sensors
+registered a sizable plasma surge there. 
+CRUSHER: Look at this. A plasma infuser. It's completely discharged.
+The blast must have killed him instantly. 
+WORF: Perhaps he could not live with the failure of his invention and
+took his own life. 
+CRUSHER: Or perhaps someone just wanted it to look that way. Isn't it
+odd that he could hold on so tightly to the infuser when it was
+discharged. The normal reflex would have been to drop it. 
+WORF: The plasma shock could have affected his nervous system. He may
+have reacted by gripping tighter. 
+CRUSHER: I'll know for certain when I do the autopsy. 
+WORF: Is your examination complete, Doctor? 
+CRUSHER: For now. Please have his body taken to the morgue. 
+WORF: Very well. 
+CRUSHER [OC]: I remembered his passion and commitment, and his
+determination to prove himself, and I was sure that this man had not
+taken his own life. If anyone could understand that, I knew it would be
+Captain Picard. 

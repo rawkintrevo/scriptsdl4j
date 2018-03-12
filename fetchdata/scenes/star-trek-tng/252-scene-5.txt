@@ -1,33 +1,37 @@
-LAFORGE PICARD ENSIGN BOSUS TAYAR DATA
+DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Engineering]
 
-(meanwhile, the Enterprise is under attack) 
-PICARD: Evasive manoeuvres, Ensign! Return fire. 
-LAFORGE: Shields down to eighty percent. Compensating with auxiliary
-power.
+LAFORGE: Well, the positronic net checks out.
+Everything else looks fine. 
+DATA: My internal diagnostic also finds nothing wrong. 
+LAFORGE: I don't know, Data. There's nothing here that would indicate
+anything that might cause an sort of behavioural anomaly. 
+DATA: I agree. Geordi, I believe I've experienced my first emotion. 
+LAFORGE: No offence, Data, but how would you know a flash of anger from
+some odd kind of power surge? 
+DATA: You are correct in that I have no frame of reference to confirm
+my hypothesis. In fact, I am unable to provide a verbal description of
+the experience. Perhaps you could describe how it feels to be angry. I
+could then use that as a reference. 
+LAFORGE: Well, okay. When I feel angry, first I feel hostile. 
+DATA: Could you describe feeling hostile? 
+LAFORGE: It's like feeling belligerent, combative. 
+DATA: Could you describe feeling angry without referring to other
+feelings? 
+LAFORGE: No, I guess I can't. I just feel angry. 
+DATA: That was my experience as well. I simply felt angry. 
+LAFORGE: Well, let's say you're right and this is a real emotion. How
+is that possible? 
+DATA: I do not know. Perhaps I have evolved to the point where emotions
+are within my grasp. Perhaps I will experience other emotions as time
+goes by. 
+LAFORGE: Well, I hope you're right. I'd hate to think that anger is all
+you're capable of feeling. 
 
-[Outpost]
+ Captain's log, stardate 46984.6. No additional
+Borg attacks have been reported in the past two days. However,
+Starfleet has dispatched Admiral Nechayev to take command in this
+sector in preparation for a possible Borg invasion.
 
-(one Borg goes hand-to-hand with Data, and is
-knocked out. Riker manages to take down another) 
-BOSUS: You have killed Torsus. I will make you suffer for this. 
-TAYAR: Biological organism, Klingon. Biological organism, human. 
-(A Borg kills Corelki, Worf kills him. Another Borg grabs Data by the
-throat and Data does likewise, throttling him) 
-DATA: (angry) Stop it! Stop! Stop! Stop! Stop! Stop! 
-TAYAR: Artificial lifeform. Starfleet rank, Lieutenant Commander. Name,
-Data. 
-(the Borg are beamed away and their ship starts to leave)
-
-[Bridge]
-
-LAFORGE: Captain, the alien ship is breaking orbit.
-
-PICARD: Plot an intercept course, Ensign. Fire torpedoes. 
-(but they go to warp just before the torpedoes arrive) 
-LAFORGE: They're gone, sir. Our sensors indicate there was some kind of
-subspace distortion just before they disappeared. I'll have to study
-these readings before I can get more specific than that. 
-PICARD: Take us back to Ohniaka Three. 
-ENSIGN: Aye, sir. 

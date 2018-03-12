@@ -1,149 +1,66 @@
-TROI LAFORGE WORF VANESSA PICARD CLERK RIKER WESLEY BELLBOY DATA TEXAS
+RIKER GUEST0 GUEST1 PICARD DATA GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Lobby]
 
-(Worf leads the way into a very elegant foyer and
-lobby in a Middle Eastern style. Lots of marble and palm plants, very
-twenties or thirties. We hear the laughter of people having a good time
-at blackjack tables) 
-[Bridge]
+PICARD [OC]: They return home, leaving the
+assistant manager in charge. 
+RIKER: Captain, that's how we're getting out. We're buying this place.
 
-PICARD: Enterprise to away team, come in. 
-LAFORGE: We're receiving no signal at all from them, sir. 
-PICARD: Transporter room. lock on to the landing party. Beam them up. 
-LAFORGE: We've got nothing to lock on to, sir. 
-[Lobby]
-
-RIKER: Riker to Enterprise. We've entered the
-structure. Riker to Enterprise, come in. Come in, Enterprise. 
-[Bridge]
-
-WESLEY: When they went through that antique
-doorway, the signal just disappeared, sir.
-PICARD: What's causing the interference? 
-LAFORGE: Unknown. 
-PICARD: Are they receiving us? 
-LAFORGE: No. We're going to have to recalibrate all the frequencies to
-find one that'll work. 
-PICARD: Then do it.
-
-[Lobby]
-
-DATA: Sir, without communication, we should beam up
-immediately. 
-RIKER: We're here, there's no danger. We'll look around then leave. 
-BELLBOY: Checking in, gentlemen? You'll have to go to the front desk. 
-RIKER: Very good. We'll start with that. 
-CLERK: Welcome, gentlemen. Have a nice trip? 
-RIKER: Do you know us? 
-CLERK: We've been expecting you. A trio of foreign gentlemen. 
-RIKER: Yes. We're from the United Federation of Planets. 
-CLERK: Of course you are. Welcome to the Hotel Royale 
-BELLBOY: Excuse me. Did Rita call? 
-CLERK: I'm busy. 
-BELLBOY: You're busy? This is my life I'm talking about here. Now did
-Rita call or not? 
-CLERK: No, and for your own good you'd better quit thinking about Rita.
-
-BELLBOY: I'm not afraid of Mickey D. 
-CLERK: Then you're a fool. Anybody with any sense is afraid of Mickey
-D. 
-BELLBOY: If Rita calls, you let me know. 
-(Bellboy leaves) 
-CLERK: Kid's just asking for trouble. Rita's too much for him to
-handle, and Mickey D's going to plant
-his face in the pavement. Now, here are your room keys. And some
-complimentary casino chips. Enjoy. 
-WORF: What is this place? How did a being like you get here? 
-CLERK: Why, this is the Royale, of course. And my personal life is
-really none of your business, thank you. 
-RIKER: What he means is, what planet is this? 
-CLERK: I beg your pardon? 
-RIKER: This planet. What do you call it? 
-CLERK: Earth. What do you call it? 
-WORF: We call it Theta Eight. 
-CLERK: How charming. 
-(The manager returns to putting mail into pigeon holes, so the team
-take a stroll amongst the tables) 
-DATA: Commander 
-RIKER: Yes, Data? 
-DATA: None of these people are emitting life signs. 
-WORF: You mean they're not alive? 
-RIKER: Then what are they? 
-WORF: These beings, are they machines, or mere illusions designed to
-deceive us? 
-DATA: Not illusion, Lieutenant. They do exist, but they do not register
-as either man or machine. 
-DATA: Take this creature, for example. He does not exhibit any DNA
-structure. 
-TEXAS: Excuse me, son. Look who's talking. Man, you sound just like my
-ex-wife. All right. Time to get back to business! 
-DATA: What sort of business do you suppose he is getting down to?
-
-[Bridge]
-
-PICARD: Status report. 
-WESLEY: We're attempting to employ alternate encoding schemes. 
-LAFORGE: There could be hundreds of possible combinations. 
-PICARD: Is there an intelligence causing this interference? 
-LAFORGE: That's impossible to tell, Captain. 
-PICARD: It's unlike Commander Riker not to follow procedure. When he
-lost contact with the Enterprise, he should have returned immediately
-to the beam down coordinates. 
-TROI: I don't feel he's in any danger. In fact, if I could choose one
-word to assess his mood, it would be amused. 
-PICARD: Amused? 
 [Casino]
 
-(Good ol' Tex is settling himself at a blackjack
-table, next to a blonde lady. Data goes up to the table) 
-TEXAS: Put some chips there, mister. Yes, sirree! You're new around
-here, aren't you? 
-DATA: Yes, sir. 
-TEXAS: Sit down. I'm going to teach you how this game is played, boy.
-Go ahead. Ante up. 
-(Tex puts his Stetson on Data, and Data sits the other side of him) 
-VANESSA: He wants you to cut the cards. 
-DATA: Ah, is this poker? 
-TEXAS: No, no, blackjack. 
-DATA: Blackjack. Accessing. Ah. Also known as twenty one, a number
-which defines the object of the game. Picture cards are worth ten, aces
-one or eleven, all other cards face value. 
-TEXAS: Boy, you're right. You are right. 
-(Data does a one-handed cut of the pack, and Vanessa whistles at his
-skill) 
-TEXAS: Pretty smooth. Run 'em, boy. Make 'em nice and friendly. 
-VANESSA: Twenty one, twenty one. 
-TEXAS: Don't look at your hand, honey. That gal has got to win. Now,
-honey, you got fifteen and the dealer's showing ten. 
-VANESSA: Do I hit, Texas, or do I stand? 
-TEXAS: If you've got to win, you've got to hit. 
-VANESSA: Hit me. (a king) Damn! 
-TEXAS: Shoot. Hit me. Twenty one, and a winner. Yes, sirree. 
-DATA: Hit me. Another please. 
-TEXAS: Do you think you've had about enough? 
-DATA: If the objective of the game is to approach a total of twenty one
-points, I will definitely need another card. 
-VANESSA: Yeah. 
-TEXAS: Boy, you have got the brass. Do you know what the odds are on a
-five card charlie? Hell, you're just throwing your money away. 
-DATA: Hit me. 
-(Even with the final nine, the two twos and the two threes keep him
-from going bust) 
-TEXAS: How'd you? Shut my mouth. Hey, you're not one of them card
-counting fellas, are you? 
-DATA: The number of the cards and their values remain quite constant.
-What would be the purpose in counting them? 
-VANESSA: Yeah. 
-RIKER: Having fun, Data? 
-DATA: Fun, sir? While there is a certain amount of enjoyment involved,
-I am mainly conducting research into 
-RIKER: Save it. We're getting out of here. 
-DATA: Understood, sir. 
-TEXAS: Guys, you're holding up the game. 
-RIKER: Our apologies, sir. 
-TEXAS: I'll watch your chips. 
-DATA: Thank you, sir. 
-TEXAS: Hey. The hat. 
-DATA: Sorry, sir. 
-TEXAS: Deal them up. 
+DATA: It is all a question of probabilities. Quite
+simple, really, if one bets with any sequential consistency. 
+RIKER: Elaborate. 
+DATA: The combinations totalling seven or eleven have considerable
+value when achieved on the primary attempt. With eight variations
+possible to create those totals, the likelihood of those totals
+occurring is not significant. However 
+RIKER: Okay, okay. Can you do it? 
+DATA: I believe so, sir. 
+(They go to the craps table, to play dice) 
+GUEST5: Eight's a point. Eighter from Decatur. Candy see the wise. Do
+it, do it. 
+(Vanessa throws the dice. Double one.) 
+GUEST5: Oh. Snake eyes. 
+DATA: Single digits on each cube are not at all desirable. 
+GUEST1: You're almost broke. 
+GUEST5: Relax, honey. It's only money 
+GUEST1: Yeah, but if you lose it all, I won't even have a place to
+sleep. 
+GUEST5: Don't worry your little head, honey. I'd never let that happen.
+Go babe, let's go. Here they come, babe. 
+(Vanessa rolls again) 
+GUEST0: Seven. You're out. 
+GUEST5: You're turn, Slick. 
+RIKER: Go to work. 
+GUEST5: Maybe this turkey'll bring us some luck. 
+(Data gets Vanessa to blow on the dice, then rolls a double three) 
+GUEST0: Six. Six is your number. 
+GUEST5: Hell, my blind grandmother can make a six. Come on, boy, roll
+'em. 
+RIKER: I thought seven and eleven had value. 
+DATA: Actually, six is a valid point. Of course, now the objective is
+to roll a duplicate six before hitting seven. 
+RIKER: But the probability of making a six is no greater than that of
+rolling a seven. 
+DATA: There is a certain degree of random fortune involved. I believe
+that is why they call it gambling. 
+GUEST1: Yeah. 
+GUEST0: Seven. Seven away. Next shooter. 
+GUEST1: So much for your new turkey. 
+GUEST5: Give Slick another shot. I got a feeling about you, boy. 
+DATA: Commander, these cubes are improperly balanced. I believe their
+final resting position would be 
+RIKER: Can you repair them? 
+DATA: I believe so. I will make another attempt. 
+(He gives the dice a good squeeze to even them up) 
+DATA: Baby needs a new pair of shoes. 
+GUEST5: Eleven! Attaboy! Do that a few more times and we're all gonna
+get well! 
+GUEST0: Seven, a winner. 
+GUEST5: And another one. Keep going, boy. We got a hot one. Let's go.
+Let's go. 
+(Data looks smug) 
+RIKER: Double 'em up. Here we go.
+GUEST5: Keep 'em rolling, boy. Keep rolling. Seven, a winner. 

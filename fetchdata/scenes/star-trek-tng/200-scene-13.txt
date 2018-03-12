@@ -1,73 +1,43 @@
-KURN WOMAN GOWRON WORF PICARD KTAL LURSA MOVAR TORAL DATA BETOR
+KURN KLINGON GOWRON WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Great Hall]
+[Gowron's Bridge]
 
-K'TAL: naDev ghoS! 
-(Picard walks forward) 
-K'TAL: Have you reached a decision regarding the succession of power? 
-PICARD: Qaja plu d'itch jung. La woq you ghir klas qimha. Gowron. Doj
-hon. Doj hon. 
-K'TAL: Gowron, son of M'Rel, hakt'em. The Arbiter confirms that you
-have completed the Rite of Succession. Your enemies have been
-destroyed. You stand alone. Do you wish to claim leadership of the
-Council? 
-GOWRON: I wish it. 
-K'TAL: Are there no other challengers? 
-(just as Picard is about to put the cloak on Gowron's shoulders) 
-TORAL: There is one. I will challenge him. 
-GOWRON: An arrogant child! 
-K'TAL: Who are you? 
-TORAL: I am Toral, son of Duras. 
-GOWRON: Duras had no son. 
-B'ETOR: But he did, Gowron. 
-GOWRON: So, this is your doing, Lursa. 
-LURSA: We wish to address the Council. 
-K'TAL: Lursa, B'Etor, come forward. 
-LURSA: Members of the High Council, it is a day of great rejoicing for
-the family of Duras and the Klingon Empire. We have discovered that our
-brother did indeed have a son and heir. 
-GOWRON: This is outrageous. Duras had no mate. Where did you find him,
-Lursa? In a harlot's bedchamber? 
-TORAL: I will personally cut your tongue out, Yintagh! 
-GOWRON: Impudent wretch. 
-B'ETOR: A simple genetic scan will prove his bloodline is valid. 
-GOWRON: The illegitimate son of Duras cannot rule the High Council. 
-K'TAL: The Arbiter will consider his validity. Len'mat.
+KLINGON: Port shields are still down. 
+WORF: Disruptors online. 
+GOWRON: Lock on target. 
+WORF: No. Don't you see? Their sensors will detect the weapons lock. If
+they think we're helpless, they will try to board the ship.
+I can aim and fire disruptors manually when they drop their shields. 
+GOWRON: GhoS. 
+WORF: Thirty five thousand kellicams. Twenty thousand kellicams. Now
+within transporter range. 
+GOWRON: SuH. 
+WORF: They're dropping their shields. 
+GOWRON: BaH! 
+(KaBOOM) 
+WORF: Firing on second target. 
+KLINGON: They were able to raise the shields in time. Minor damage
+only. 
+(the ship fires on the Bortas) 
+WORF: Disruptors offline. 
+GOWRON: All power to shields. 
+KLINGON: Shields failing! 
+(another Klingon ship swoops in and drives off their attacker) 
+WORF: Incoming message. 
+GOWRON: On viewer. 
+KURN [on viewscreen]: This is Captain Kurn of the Hegh'ta. We come to
+defend the Empire and to follow the banner of Gowron. 
+WORF: The enemy has sustained major damage to its life support systems
+They have disengaged. 
+GOWRON: You have done well, Commander Kurn. Lursa and B'Etor have moved
+more quickly than I anticipated. We shall not
+underestimate them again. Meet us at the Great Hall. 
+(transmission ends) 
+GOWRON: Advise the Enterprise that their delegation is welcome to
+attend my installation as leader.
 
-[Duras home]
-
-(the sisters have Romulan visitors) 
-LURSA: Our allies on the Council backed Toral's claim. It's in Picard's
-hands, now. 
-MOVAR: Excellent. Everything is proceeding as scheduled. 
-TORAL: Why not just kill Picard? 
-B'ETOR: Fool! Do we want the Federation as our enemy? 
-TORAL: No. 
-(and from the shadows, that familiar voice again) 
-WOMAN: At least, not yet. But when the time is right we will deal with
-the Federation and Captain Picard.
-
-[Worf's quarters]
-
-KURN [on monitor]: I have met with the other
-squadron commanders here. Three will join us, one will not. That gives
-us enough strength to control seven key sectors. 
-WORF: Do you know the strength of our enemies? 
-KURN [on monitor]: They have at least seven squadrons, but most of the
-fleet has not decided which banner to follow. 
-WORF: Gowron is nearly out of options. Soon he will have no choice 
-KURN [on monitor]: I will return soon to the home world. We shall meet
-then.
-
-[Bridge]
-
-DATA: Do you also require the original logs
-recorded during the attack, Lieutenant? 
-WORF: Everything we have on the Khitomer massacre. 
-DATA: We can provide you with our analysis of the communications
-between the Khitomer outpost and the Romulan ships. However, for a
-complete record you will have to contact Starbase twenty four 
-PICARD: Mister Worf. Have you cancelled your leave? 
-WORF: No, sir. 
-PICARD: Lieutenant, would you join me in my Ready room?
-
+Captain's log, stardate 44998.3. With new-found
+support, Gowron has chosen to proceed with the installation ceremony.
+The Enterprise has returned so that I may perform my final duty as
+Arbiter of Succession. 

@@ -1,4 +1,5 @@
-RIKER JAMESON PICARD TROI KARNAS GEORDI CRUSHER
+RIKER JAMESON PICARD TROI GUEST0 GUEST1 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
@@ -19,24 +20,24 @@ PICARD: Yes, sir. Of course.
 
 [Bridge]
 
-GEORDI: Message coming in from Mordan, sir. 
+GUEST1: Message coming in from Mordan, sir. 
 PICARD: Put it on the screen, Mister Data. 
-KARNAS [on viewscreen]: Mordan Four to Enterprise. This is Karnas. I
+GUEST0 [on viewscreen]: Mordan Four to Enterprise. This is Karnas. I
 will speak to the Captain. 
 PICARD: I am Captain Picard, commanding the Enterprise. 
-KARNAS [on viewscreen]: Is Admiral Jameson on board? 
+GUEST0 [on viewscreen]: Is Admiral Jameson on board? 
 PICARD: He's here, beside my First Officer. Do you wish to speak to him
 now? 
-KARNAS [on viewscreen]: So, Jameson. I see time has not been kind. 
+GUEST0 [on viewscreen]: So, Jameson. I see time has not been kind. 
 JAMESON: It seldom is, Karnas. However, we could save a good deal of it
 now if you'll outline the terrorists' demands. 
-KARNAS [on viewscreen]: They insist all discussions will take place
+GUEST0 [on viewscreen]: They insist all discussions will take place
 here on Mordan. They refuse to speak to me, only to a Federation
 mediator. They say they will brook no excuses. If there are any
 offered, your ambassador and his people will die. Unpleasantly. I
 believe them. So should you, Admiral. 
 JAMESON: Tell them I accept the conditions of negotiation. 
-KARNAS [on viewscreen]: I will do so immediately. (transmission ends) 
+GUEST0 [on viewscreen]: I will do so immediately. (transmission ends) 
 RIKER: For a man in his position, he doesn't seem to know much about
 the situation. 
 JAMESON: Wrong, Number One. He told me that the terrorists are

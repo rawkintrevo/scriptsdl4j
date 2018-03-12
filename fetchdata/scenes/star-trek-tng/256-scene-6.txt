@@ -1,27 +1,5 @@
-DATA RIKER ENSIGN LAFORGE WORF
-
-[Observation lounge]
-
-DATA: Barradas Three is the only class M planet in
-this system, and it is listed as unpopulated. However, sensors have
-detected intermittent energy signals emanating from its surface. 
-RIKER: What's the source? 
-LAFORGE: The signals are difficult to localise, but they could be
-emissions from some kind of power converter. 
-WORF: Which could indicate a base or a ship. 
-RIKER: What else do we know about Barradas Three? 
-DATA: The planet was used as an outpost for the Debrune approximately
-two thousand years ago. The Federation's Archaeological survey has
-catalogued numerous ruins on the surface. 
-RIKER: Mister Worf, I'd like a security detail to accompany the away
-team to the surface. I'll lead the team. Geordi, you're with me. Mister
-Data, you have the Bridge. 
-DATA: Aye, sir. Commander, as Acting First Officer, I must question
-your decision to accompany the away team. If Captain Picard were here 
-RIKER: He's not. 
-DATA: I realise that, sir. But if he were, and he wanted to lead an
-away team, you would tell him that the Captain's place is 
-RIKER: On the Bridge. Not this time.
+RIKER ENSIGN LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ruins]
 

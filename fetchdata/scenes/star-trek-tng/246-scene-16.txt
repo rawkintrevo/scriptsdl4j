@@ -1,80 +1,93 @@
-PICARD OCETT CRUSHER DATA NUDAQ
+RIKER WORF PICARD GUEST1 GUEST0 ROMULAN GUEST3 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Transporter room]
 
-PICARD: I believe we all know why we're here. If we
-admit that, then we can move forward. 
-OCETT: We were merely scouting the planet for possible colonization 
-NU'DAQ: Pah! A ridiculous story. 
-OCETT: What were you doing here, then? 
-NU'DAQ: Scientific research. 
-OCETT: Ha! 
-PICARD: Look, if we try to deceive one other, then we shall get
-nowhere. I think we all know about Professor Galen's research, and
-about the computer programme composed of DNA fragments. I'll take your
-silence as confirmation. Now, it stands to reason that none of us has
-the DNA fragments necessary to complete the programme. You were the
-first to arrive in this system. Do you have an organic sample from the
-planet below? 
-OCETT: Yes. And I will fire on anyone who attempts to obtain another
-one. 
-NU'DAQ: As if we fear Cardassian threats. 
-PICARD: I believe that one of you has a fragment from Indri Eight. 
-NU'DAQ: Yes. And there will be no other samples from Indri Eight. 
-OCETT: What is that supposed to mean? 
-PICARD: He destroyed the biosphere of the planet after he had taken the
-sample. 
-OCETT: Typical Klingon thinking. Take what you want and destroy the
-rest. 
-PICARD: We're all missing some of the fragments, not necessarily the
-same ones. Unless we combine the ones we have, we will never learn the
-secret of the
-programme. 
-NU'DAQ: There is no secret. It is an ancient weapon design of
-incredible power. And the Klingon Empire will not allow it to fall into
-an enemy's hands. Or even a friend's. 
-OCETT: A weapon? The Yridian who sold us the information claimed that
-the programme
-would yield the key to an unlimited power source. 
-PICARD: But until we assemble it, we will never know its purpose. 
-OCETT: He's right. As far as we know, it might just be a recipe for
-biscuits. 
-NU'DAQ: Biscuits? If that is what you believe, then go back to
-Cardassia. I will send you my mother's recipe. 
-OCETT: How dare you! 
-PICARD: Myriap! Enough. Without cooperation we will get nowhere. 
-OCETT: What do you propose? 
-PICARD: If you each bring your samples on board the Enterprise, I will
-combine them with ours. And then we will all observe the results
-simultaneously, giving no one the advantage. 
-NU'DAQ: And if we refuse? 
-PICARD: Then this endeavour dies here, in this room.
+RIKER [OC]: Captain, we've located a planet that
+may still support life. We'll know in a minute. 
+PICARD: Any sign of the Cardassians? 
+RIKER [OC]: Not yet. We don't know how long it'll stay that way. 
+PICARD: Acknowledged.
 
-[Laboratory]
+[Bridge]
 
-DATA: Captain. 
-(The Klingon enters his data and more sections link up) 
-NU'DAQ: Excellent. 
-(Ocett adds her data, and it looks a good three quarters done) 
-CRUSHER: There's still one missing piece. 
-NU'DAQ: Pahk! We have surrendered what we had for nothing. 
-OCETT: You are remarkably short sighted, Nu'Daq. We are closer to the
-answer than we were. 
-PICARD: We may be very much closer indeed. 
-NU'DAQ: How can that be? We have no idea where to start looking for the
-missing DNA fragment. 
-PICARD: This is a jigsaw puzzle whose pieces are scattered across the
-galaxy. Doesn't it make it natural to assume that the original
-designers of the puzzle should want us to find it? Why else would they
-have put the pieces in our DNA? And in turn, doesn't suggest they would
-try to make it easy for us to find those pieces, that there might be
-some pattern to their distribution? 
-CRUSHER: The computer might be able to find that pattern. 
-PICARD: Doctor, programme the computer to analyse the distribution of
-the pieces that we have, correcting for changes in star configurations
-over four billion years, then extrapolate for the missing piece. 
-CRUSHER: That's going to take several hours to set up and to process.
-If you'll excuse me. 
-PICARD: If you wish, you can stay on board while we wait. 
-NU'DAQ: I intend to.
+DATA: I am reading a small pocket of vegetative
+life. A primitive lichen growing in a fossilised seabed. 
+RIKER: Transporter room one. I am programming the coordinates. Stand
+by.
+
+[Planet surface]
+
+(with rock walls on three sides, ridged as if
+eroded by water and wind to make handy ledges and paths) 
+CRUSHER: There. Over there. 
+RIKER [OC]: Captain, we've got company. I'm ready to pull you out of
+there. 
+PICARD: Wait for my order, Number One. 
+(Ocett and an aide beam in) 
+NU'DAQ: You dishonorable top'a! 
+GUEST3: Perhaps we could exchange insults some other time. I'm rather
+busy now. 
+ROMULAN: Well, it was quite a chase, wasn't it, my friends? 
+NU'DAQ: How? 
+ROMULAN: We intercepted several communiqus between the Yridians and
+Cardassia. My ship was watching under cloak when Professor Galen's
+shuttle was attacked. 
+WORF: And you have been shadowing us ever since. 
+ROMULAN: And now the reward. Step clear, please. 
+GUEST3: I shall destroy the entire rockface and every trace of DNA with
+it. You will go back to Romulus empty-handed. Your superiors will be
+quite pleased. 
+ROMULAN: Perhaps we could come to a compromise? You give us the gene
+code. 
+PICARD: (sotto to Crusher) The seabed it may be only partially
+fossilised. It could still contain organic material. 
+CRUSHER: Which would still contain the DNA. NU'DAQ: I will not be
+eliminated now. 
+ROMULAN: You can be eliminated by a disrupter. Now, what do you say to
+my offer. 
+GUEST3: How can I be sure you won't kill me if I acquiesce. 
+ROMULAN: I've given you my word. 
+NU'DAQ: Etched in stone, no doubt. No deals. There will be no deals as
+long as I'm still alive. 
+ROMULAN: Do not press me, Klingon. I don't care whether you live or
+die. 
+WORF: If you fire, others will also. Many will die. 
+(Crusher hands Picard her scan results and he adds them to his
+tricorder) 
+PICARD: The programme has been activated. I think it's reconfiguring
+the tricorder. 
+NU'DAQ: We die together, Brother. Tash Koh Tah. 
+PICARD: It's modifying the emitter diode to project something. 
+(the tricorder projects a hologram. It's Salome Jens in a blank latex
+head, the first but not the last she will wear on Trek) 
+GUEST0: You're wondering who we are, why we have done this, how it
+has come that I stand before you, the image of a being from so long
+ago. Life evolved on my planet before all others in this part of the
+galaxy. We left our world, explored the stars, and found none like
+ourselves. Our civilisation thrived for ages, but what is the life of
+one race, compared to the vast stretches of cosmic time? We knew that
+one day we would be gone, that nothing of us would survive. So, we left
+you. Our scientists seeded the primordial oceans of many worlds, where
+life was in its infancy. The seed codes directed your evolution toward
+a physical form resembling ours. This body you see before you, which
+is, of course, shaped as yours is shaped, for you are the end result.
+The seed codes also contained this message, which we scattered in
+fragments on many different worlds. It was our hope that you would have
+to come together in fellowship and companionship to hear this message.
+And if you can see and hear me, our hope has been fulfilled. You are a
+monument, not to our greatness, but to our existence. That was our
+wish, that you too would know life, and would keep alive our memory.
+There is something of us in each of you, and so, something of you in
+each other. Remember us. 
+(message ends) 
+NU'DAQ: That's all? If she were not dead, I would kill her. 
+GUEST3: The very notion. That a Cardassian could have anything in common
+with a Klingon, it turns my stomach. 
+PICARD: Picard to Enterprise. 
+RIKER [OC]: Standing by, sir. 
+Captain's log, stardate 46735.2. Our frequent use
+of high warp over the last few days has overextended the propulsion
+systems. We are finishing minor repairs before returning to Federation
+territory.
 

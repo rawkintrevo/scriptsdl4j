@@ -1,29 +1,24 @@
-DATA LAFORGE
+PICARD GUEST3 RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]
+[Ready room]
 
-(Spot is sitting on the computer console) 
-DATA: Spot. Spot. Spot, down. Spot, down. Down. Spot. (lifting the cat
-off the desk) Down. This is down. Down is good. This is up. Up is no. 
-(doorbell) 
-DATA: (to Spot) One moment. Come in. 
-LAFORGE: Data. I had another idea that might help boost the power
-conversion levels. Could you give me a hand? 
-DATA: I would be happy to. 
-LAFORGE: Don't tell me you're trying to teach the cat to use the
-console. 
-DATA: It is part of her training programme. I am teaching Spot to jump
-down from the desk on my command. 
-LAFORGE: How's it going? 
-DATA: I have not been entirely successful. 
-(Spot meows, and Data goes to the replicator) 
-DATA: Feline supplement number two twenty one. 
-LAFORGE: Data, that cat definitely has a mind of her own. Maybe she's
-just not trainable. 
-DATA: I suppose I must accept that possibility. It may be that Spot
-lacks the intelligence necessary to learn the appropriate responses to
-my commands. 
-(Spot meows again and Data fetches her a toy) 
-LAFORGE: I don't know about Spot, but it seems to me your training is
-coming along just fine. Come on, let's go.
+GUEST3: We detected what appeared to be a Federation
+signal buoy. When we approached it, it emitted a massive verteron
+pulse. Our warp drive, our sensors, our communications systems were all
+disabled. We assumed we were the victims of a new Federation weapon. 
+PICARD: The Federation established this corridor to ensure safe access
+through this sector. We have nothing to gain from mining it. 
+RIKER: Whatever happened to your ship may not have been an isolated
+incident. A Federation Medical transport was recently lost in that
+corridor. 
+GUEST3: We passed a Federation ship several days ago. It did not appear
+to be in any distress. 
+RIKER: Can you give us an idea of its heading? 
+GUEST3: It is possible that information was recorded in our sensor logs,
+Commander. Unfortunately, my entire crew is occupied with our repairs.
+I don't think there will be time to search our records. 
+PICARD: DaiMon, if we assigned an Engineering team to assist you with
+your repair efforts, would that give you time to retrieve your logs? 
+GUEST3: I believe it would, Captain.
 

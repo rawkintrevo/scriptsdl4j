@@ -1,61 +1,52 @@
-TROI WORF PICARD RIKER CONNAUGHT DATA CRUSHER JONO
+PICARD RIKER GUEST5 JONO WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Sickbay]
+
+(Jono is escorted by two security officers) 
+PICARD: Jono, why did you do it? 
+JONO: That does not matter. 
+PICARD: Yes, I think it does. It matters to me. 
+JONO: What matters is that I have attacked a Captain. I am ready to be
+put to death. 
+PICARD: You think you're going to be killed? 
+JONO: To attack a superior is the worst offence. I will die at your
+hands. 
+PICARD: Jono, you're not going to die at my hands or anyone else's. 
+JONO: But I have committed a terrible crime. 
+PICARD: What I want to know is why? You seemed so happy just a few
+hours ago. 
+JONO: I was. Then I thought about my father. I felt I had betrayed him.
+I'd be throwing away all that he's given me, all that I'd learned from
+him. My home, running along the river, playing in the games, sharing
+victory with my brothers. All the things that are part of my life. As I
+grew closer and closer to you, I knew that meant leaving more and more
+of that life behind. Forgive me, Captain, but I could not allow myself
+to do that.
 
 [Bridge]
 
-(Picard and Troi enter) 
-WORF: Captain, sensors indicate two warships approaching from the
-opposite direction along the border. 
-PICARD: Mister Data, what's their offensive potential? 
-DATA: Talarian warships are limited to neutral particle weapons, high
-energy X-ray lasers and merculite rockets. No match for the Enterprise,
-Captain. 
-PICARD: The last thing I want is to be forced into destroying one of
-their ships. 
-RIKER: They won't back off. They've been willing to fight to the death
-in past encounters. 
-PICARD: The lines are being drawn. All this for a chosen son. 
-WORF: Captain, is it worth it, to go to war over a child? 
-CRUSHER: You might not ask that, Lieutenant, if it was your child. 
-PICARD: There must be a way to avoid this. 
-TROI: If we can just reach Jono, help him make some connections with
-his origins, he may choose to come with us. 
-RIKER: You really think Endar would go along with that? 
-DATA: If Endar respects Talarian custom, he may have to. According to
-their tradition, a male child of fourteen has reached the age of
-decision. He then undergoes a ceremony of initiation, after which he
-has the freedom to make his own choices. 
-PICARD: Endar's entire claim on Jono is based on Talarian custom he'd
-have a hard time backing away from it now. 
-WORF: Captain, there is a subspace communication from Starfleet
-Command. 
-PICARD: On screen. 
-WORF: Sir, the message is for Jeremiah Rossa. 
-PICARD: Have the boy brought to my Ready Room.
+WORF: The Q'Maire is requesting communication on a
+secure channel, Commander. 
+RIKER: On screen. 
+GUEST5 [on viewscreen]: Commander Riker, you have failed to transport my
+son aboard the Q'Maire. 
+RIKER: Our intentions have not changed, Endar. We're returning him to
+Starfleet. 
+GUEST5 [on viewscreen]: I regret your stubbornness. Much will be lost. 
+PICARD: One moment, Captain. Captain Endar, last night Jono attacked me
+with a dagger. 
+GUEST5 [on viewscreen]: Which he could not have done had he been
+returned to me with the others! 
+PICARD: There was a crime committed on board this ship, but it was not
+Jono's. It was mine. When we found Jono, it seemed so clear what had to
+be done. We knew that if only we could persuade him to make the
+decision to stay, then you would most likely let him. So with the best
+of intentions, we tried to convince him, and in so doing, we thoroughly
+failed to listen to his feelings, to his needs. That was the crime, and
+it has taken a huge toll on a strong and very noble young man. And it
+must be rectified. He will return home. To the only home he's ever
+known. And to the father that he loves. To you, Endar. 
+GUEST5 [on viewscreen]: Thank you, Captain. 
+PICARD: Please transmit coordinates for immediate transport.
 
-[Ready room]
-
-(A mature woman is on the monitor) 
-CONNAUGHT [on monitor]: Jeremiah? my name is Connaught Rossa. I am your
-father's mother. I wish we could talk in person, but that will have to
-wait. When I heard the miracle that you were alive, I wanted to reach
-out to you as soon as possible. I find myself wondering what you look
-like. All I can do is imagine your father at your age. You come from a
-family that would make you proud. Many of them have given their lives
-to bring peace to the galaxy. You are the last of the Rossas. I was so
-very thankful when you were given back to us to carry on the line. Your
-grandfather and I will greet you with all the love in our hearts. Have
-a safe journey home, Jeremiah. 
-JONO: She wears a Starfleet uniform. 
-PICARD: Yes. 
-JONO: What is her rank? 
-PICARD: She is an Admiral. 
-JONO: She outranks you? 
-PICARD: Yes. 
-JONO: If I were home now, I would go to the brae, and run along the
-river run as fast as I could! 
-PICARD: Jono. 
-JONO: I can't do any of the things that calm me here. You won't let me
-have my music, you won't let me make the B'Nar! I feel if I stay still
-much longer I will die! 
-PICARD: Jono, let me show you what I do when I get those feelings. Come
-on. 

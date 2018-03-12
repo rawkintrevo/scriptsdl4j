@@ -1,35 +1,39 @@
-PICARD RIKER DATA LAFORGE
+TROI LAFORGE WORF PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Bridge]
 
-DATA: Sir, it is standard procedure that the second
-officer accompany the away team. 
-PICARD: Yes, yes, Mister Data, I am aware of that. 
-DATA: Then I must assume your decision is related to the discovery on
-Earth of 
-PICARD: I think it is reasonable to take precautions. 
-DATA: Captain, there is no rational justification for this course. 
-PICARD: Then I'll be irrational. 
-DATA: It is possible, sir, that the events leading to my death will not
-occur for years, even centuries. 
-PICARD: I hope that's true, Mister Data. Nevertheless, this
-investigation began with your death. I am simply trying to see that it
-doesn't end that way. 
-DATA: I appreciate your concern, Captain, but, to employ an aphorism,
-one cannot cheat fate. 
-PICARD: Cheat fate? Perhaps we can't, Mister Data. But at least we can
-give it a try.
+LAFORGE [OC]: To the temporal distortions. 
+DATA: Acknowledged.
 
 [Devidia cavern]
 
-(a strong light source casts the away teams shadows
-on a sheer rock wall) 
-LAFORGE: The concentration of triolic waves falls off about here. It
-increases exponentially the closer in we go. 
-RIKER: What's the source? Something underground? 
-LAFORGE: Negative, Commander. 
-RIKER: What's the explanation? 
-LAFORGE: I don't have one yet. La Forge to Enterprise. 
-DATA [OC]: Go ahead.
-LAFORGE: Data, run a spectral field correlation for me. Let's find out
-if these triolic readings are in any way related 
+(moving to a natural amphitheatre, with columns
+around supporting the roof) 
+RIKER: Deanna? 
+TROI: There's life here. A child. An old woman. Dozens more. Hundreds.
+Terrified. 
+RIKER: Terrified? 
+TROI: My God, Will. They're human.
+
+[Bridge]
+
+RIKER [OC]: Whatever they are, Troi's convinced
+they're human. They may be trapped somehow. We're not sure. 
+DATA: Captain, the results of my temporal analysis may be pertinent. 
+PICARD: Go ahead. 
+DATA: Geordi, it indicates a synchronic distortion in the areas
+emanating 
+[Devidia cavern]
+
+DATA [OC]: Triolic waves. 
+LAFORGE: That explains a few things. How much, Data? 
+DATA [OC]: A positive displacement of point zero zero four percent. 
+LAFORGE: Well, whatever or whoever is there, we're out of phase with
+it, but we're only talking by a fraction of a second. 
+WORF: A fraction of a second would make them invisible? 
+LAFORGE: A millisecond, a year, it wouldn't make any difference. If
+what we're reading is true, then we're occupying the same space but in
+a different time. 
+RIKER: How do we compensate? 
+DATA [OC]: Commander, we might be able to 

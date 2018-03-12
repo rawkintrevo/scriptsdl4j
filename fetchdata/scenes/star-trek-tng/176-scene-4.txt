@@ -1,46 +1,56 @@
-TROI WORF PICARD JONO CRUSHER DATA
+RIKER WORF PICARD TROI DATA CRUSHER JONO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Guest quarters]
 
-CRUSHER: He managed to escape radiation trauma but
-the scan shows something else. 
-PICARD: What? 
-CRUSHER: Two previously fractured ribs, a broken arm, and a low grade
-concussion. There might be neurological impairment. I'd like to examine
-him further. Jean-Luc, the Talarians have been known to be ruthless to
-their enemies. I think there's a real possibility they may have
-brutalised the child. 
-PICARD: Isn't it possible the injuries were caused prior to his
-captivity? 
-CRUSHER: Not likely. He's been with them a long time. Long enough to
-assimilate their cultural traits, and calcium trace patterns indicate
-the injuries took place during the past seven years. 
-PICARD: But if they have abused the boy, why would he so devoutly wish
-to return to them? 
-CRUSHER: It's not uncommon. It was identified centuries ago as the
-Stockholm syndrome. 
-(There's a commotion) 
-[Sickbay]
+JONO: Why are you here, Klingon, with them? Did
+they capture you too? 
+WORF: They are not my captors. They are my comrades. 
+JONO: Why do you take orders from a female? 
+WORF: Doctor Crusher. She is my superior officer. 
+JONO: Among my people, a female can never outrank a man. 
+WORF: You are human, and among humans, females can achieve anything the
+males can. 
+JONO: I am no more human than you are. I am Talarian. 
+WORF: You are confused. 
+(Jono starts keening again) 
+WORF: Stop that! 
+JONO: I will make the B'Nar, the mourning, until I am back with my
+brothers!
 
-(Jono is writhing on a bed as people try to hold
-him down. He escapes from them and runs around) 
-TROI: Jono, what is it? Jono! I just suggested he take off his gloves.
-Suddenly he lost control. 
-CRUSHER: Security, we need some assistance down here in Sickbay. 
-PICARD: Jono! 
-JONO: She won't leave me alone! She keeps trying to dissect me! 
-PICARD: She was trying to help you.! 
-JONO: I don't want her help! I should be back with my brothers! Send us
-back to Captain Endar! 
-PICARD: Jono, I want you to stop this immediately! 
-JONO: Yes, Captain. 
-PICARD: Good. That's better. Now, if we're to accomplish anything 
-DATA [OC]: Data to Picard. 
-PICARD: Go ahead. 
-DATA [OC]: We have received a subspace communiqu from Starfleet
-Command regarding the young human, sir. 
-PICARD: Very well. Doctor, Counsellor. 
-CRUSHER: Lieutenant Worf, escort this young man to quarters. He is to
-be confined there until further notice. 
-WORF: Yes, Doctor.
+[Observation lounge]
+
+DATA: By matching DNA gene types, Starfleet was
+able to identify the boy as Jeremiah Rossa. 
+RIKER: Rossa? 
+PICARD: As in Admiral Rossa? 
+DATA: She is his grandmother, Captain. He was born fourteen years ago
+on the Federation colony, Galen Four. His parents, Connor and Moira
+Rossa, were killed three years, nine months later when their colony was
+overrun by Talarian forces. 
+PICARD: I remember. There were no survivors. 
+DATA: The boy was listed as missing, presumed dead. 
+RIKER: I heard another Rossa was killed in action at the Krasner
+outpost. 
+PICARD: Tragedy seems to follow that family. The Admiral lost both her
+sons. 
+CRUSHER: And now she'll have something to celebrate. 
+TROI: Captain, if Jeremiah is returned to his family in his present
+condition, it would be a wrenching experience for everyone. Especially
+for him. He needs to re-discover his identity, make some connection
+with his roots. 
+PICARD: I agree. Do what you can to accomplish that, Counsellor. 
+TROI: I don't think I can do anything, Captain. 
+PICARD: Why not? 
+CRUSHER: Troi's right. It's very clear that the boy does not respond
+well to women. 
+DATA: The Talarians are a rigidly patriarchical society, sir. 
+TROI: Jeremiah needs to build a relationship with a man, a father
+figure with whom he can explore his origins. And I think it should be
+you, Captain. 
+PICARD: Oh, no, Counsellor! Oh, no, Counsellor, I don't think so. He
+needs someone who is trained in these things. 
+TROI: But you are the only person with whom he has shown any
+connection. If he is to find his humanity then you are the only one who
+can help him. It's up to you, Captain.
 

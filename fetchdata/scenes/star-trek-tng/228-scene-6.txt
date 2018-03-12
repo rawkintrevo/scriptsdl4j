@@ -1,51 +1,55 @@
-RIKER OBRIEN LAFORGE WORF CRUSHER BARCLAY
-
-[USS Yosemite Bridge]
-
-(a compact design, including transporter pad on the
-'bridge') 
-RIKER: There's no sign of any survivors. No sign of anyone. 
-LAFORGE: Maybe they abandoned ship. 
-WORF: Unlikely. The escape pods are still on board. 
-LAFORGE: There was an explosion. That much we do know. 
-RIKER: Any idea what caused it? 
-LAFORGE: I've ruled out a reactor core failure and there's no sign of a
-systems overload. 
-WORF: Blast analysis indicates the explosion originated here, in the
-centre of the transport chamber. 
-LAFORGE: How is that possible? The transporter is still functioning. 
-RIKER: Could they have beamed an explosive device aboard? 
-CRUSHER: Commander Riker? Could you come here, please. 
-RIKER: Excuse me. 
-[USS Yosemite]
-
-(just down the corridor) 
-CRUSHER: Lieutenant Joshua Kelly. He was the ship's engineer. 
-RIKER: How did he die? 
-CRUSHER: He has second and third degree burns over most of his body,
-but I don't think they were the cause of his death. I'm like to take
-him back to do an autopsy.
+OBRIEN LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
-O'BRIEN: You're sure about this, sir? 
-BARCLAY: Sure. Please proceed. 
-O'BRIEN: It'll only take a minute. It should be a smooth ride over. 
-BARCLAY: Good. Good. 
-O'BRIEN: I know how you feel about this, sir. 
-BARCLAY: You're afraid of transporting, too? 
-O'BRIEN: No. Arachnids. Sickening, crawly little things, don't you
-think? All those legs. 
-BARCLAY: Spiders? They've never bothered me. 
-O'BRIEN: A few years back, I was called in to re-route an emitter array
-at a Starbase on Zayra Four. Turns out the entire system was infested
-with Talarian hook spiders. You ever seen a Talarian hook spider? Their
-legs are half a metre long. Well, I had a choice. Do I walk away and
-let the emitter blow itself to hell, or do I crawl in the Jeffries tube
-with twenty hook spiders? 
-BARCLAY: What happened? 
-O'BRIEN: It was the hardest thing I ever did, but I got through it.
-After that, I was never quite as afraid of spiders. 
-BARCLAY: Thanks. 
-O'BRIEN: Energising.
+(Riker leaves) 
+LAFORGE [OC]: La Forge to Transporter room three. I'm ready to go. 
+O'BRIEN: Stand by, Commander.
+
+[USS Yosemite]
+
+(Geordi is beamed away) 
+BARCLAY: Barclay to Enterprise. One to beam back. 
+O'BRIEN [OC]: Stand by, sir. 
+(We join Reg in the transporter experience, including a maggot thing
+that bites his arm)
+
+[Transporter room]
+
+O'BRIEN: You see, sir? That wasn't so bad, was it.
+
+[Engineering]
+
+LAFORGE: Mission logs, science logs, medical logs,
+they're all scrambled. Looks like the blast wiped out the ship's core
+memory. 
+BARCLAY: We could try to reconstitute the data stream. 
+LAFORGE: It's worth a try. 
+BARCLAY: Commander, has anything strange ever happened to you during
+transport? 
+LAFORGE: Like what? 
+BARCLAY: I don't know. Anything out of the ordinary. 
+LAFORGE: No, not really. This looks hopeless. We're not going to get
+anything out of these logs. You know, maybe this broken sample
+container I found can tell us something. Let's try to get this thing
+back into one piece. 
+BARCLAY: I mean, have you ever seen anything? 
+LAFORGE: Where? 
+BARCLAY: In the, during transport. 
+LAFORGE: Sometimes my visor picks up resonance patterns from the matter
+energy conversion. It's actually kind of pretty. Why? 
+BARCLAY: Just wondering. 
+LAFORGE: Reg, what are you getting at? Did you saw something during
+transport? 
+BARCLAY: When I was returning to the Enterprise I could've sworn I saw
+something in the matter stream. 
+LAFORGE: Something? 
+BARCLAY: There was phased matter all around. At first I thought it was
+some kind of energy discharge, but then it flew toward me and it
+touched my arm. How could something be in there? Molecules flying
+apart, half phased? I mean, it's impossible, isn't it? 
+LAFORGE: We'd better check it out. When we're done here, we'll run a
+full diagnostic on the transporter, all right? 
+BARCLAY: All right.
 

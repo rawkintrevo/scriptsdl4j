@@ -1,97 +1,66 @@
-TROI MALENCON TASHA LAFORGE RIKER BENSEN LUISA MANDL DATA BENSON
+TROI LAFORGE TASHA PICARD RIKER COMPUTER GUEST4 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Control room]
+[Bridge]
 
-(The team beam into the Terraforming base control
-room) 
-LUISA: Welcome to Velara Three. Please. I want you to remember it as it
-is now, because in a couple of decades you won't recognise it. Luisa
-Kim. Gardener of Edens. 
-RIKER: Commander William Riker, USS Enterprise. This is Counsellor
-Troi, Lieutenant Yar, Lieutenant La Forge, Lieutenant Commander Data. 
-LUISA: Arthur Malencon, hydraulics specialist, (bald, middle-aged) and
-Bjorn Benson, Chief Engineer. (younger, blond) 
-BENSON: An android? 
-TASHA: And third in command of the Enterprise. 
-BENSEN: Where were you manufactured? Are there others like you? 
-DATA: Both matters are subjects of protracted discussion. 
-BENSEN: Remarkable. Excuse me. 
-(The two men go back to work) 
-LUISA: We don't get many visitors. It's exciting to have you here. 
-RIKER: We weren't sure how we would be received. Director Mandl was
-less than enthusiastic about our interest. 
-LUISA: I should apologise for him. We are at a critical phase. Usually
-he's quite charming. 
-RIKER: We'll try to stay out of the way. We've never seen a
-terraforming station, and we appreciate the opportunity. 
-LUISA: How much do you know about the process? 
-DATA: Theories, reports, but nothing first-hand. 
-LUISA: Oh, wonderful. Let me show you what we do. Newcomers find this 
-TROI: The other two are secretive, but she is as open as she appears. 
-LUISA: What we're doing is so exciting, so inspiring. We take a
-lifeless planet and little by little transform it into an M class
-environment, capable of supporting life. Terraforming makes you feel a
-little god-like. The first phase involves selecting the planet. That's
-very important. It must have the right mass and gravity, the correct
-rate of rotation, and a balanced day and night. The planet must also be
-without life or the prospect of life
-developing naturally. The Federation determines if that's so. Then, we
-take over. This station is phase two. Phase Three involves water.
-Usually we create basins using hydraulic landscaping, but the water on
-this planet is subsurface, and extremely high in salt content. We are
-just about to begin pumping and filtering the water, removing the salt,
-oxygenating and replacing. Next, we introduce micro-organisms, and when
-the process is complete eventually, we'll have a lush, arable,
-biosphere. 
-(in 30-35 years according to her display) 
-RIKER: You make it sound poetic. 
-LUISA: I think it's the best job in the universe. 
-DATA: The efficiency of your hydraulic landscaping is quite elegant. 
-MALENCON: It isn't yet, but it will be. Right now I'm disturbed by
-erratic power surges in several of the servo-mechanisms that control
-the hydraulic probes. 
-LAFORGE: Could it be the increased conductivity caused by the high
-saline content? 
-MALENCON: That was my first thought, but I 
-BENSEN: Arthur. The factors do not support that conclusion. 
-(Mandl enters) 
-MANDL: I'm Director Mandl, and I'm sorry about having been so abrupt
-during our initial contact. Being isolated, one tends to forget the
-social graces. Are you seeing everything that you want? 
-TROI: What you're doing here is miraculous. 
-MANDL: What we are doing here is working a difficult and demanding
-timetable, and there will be no miracle unless Malencon here gets the
-hydraulic probes back on line. We are set to step up to full conversion
-immediately. Shouldn't you be in the hydraulic chamber, Arthur? 
-MALENCON: Now? 
-MANDL: Yes. 
-MALENCON: All right, Kurt. 
-DATA: Geordi, this appears to be the master subsurface pump. 
-LAFORGE: You're right. Very impressive. 
-DATA: This is interesting. The water table is a thin ribbon between the
-sandy surface layer and the rocks below. 
-LAFORGE: And those two surfaces follow that contour so precisely, the
-water maintains a consistent depth between them. 
-DATA: Which would require extreme precision from the probe controls. 
-MANDL: Here we have something which may be of interest to you. A
-vegetation graph. It is really the key centre for successful
-terraforming. 
-RIKER: Incredible. It's planned month by month, decade by decade? 
-MANDL: Every single thing is specific and exact. You see grand,
-romantic concepts. I see unyielding rock under an ocean of sand. 
-TROI: Commander! 
-RIKER: What is it, Deanna? 
-TROI: Malencon. He's in trouble! 
-MALENCON [OC]: Help! Help! Argh! 
-(Screams and bangs.They run to the hydraulics room door) 
-RIKER: Can you open it? 
-MANDL: It's jammed. 
-(A last scream, and then quiet. The door opens to reveal a burnt body
-and a cylinder with a smoking hole in it. There is a laser in the room)
-
-First Officer's log, stardate 41464.3. What began
-as a routine visit to a terraforming site has turned into something far
-more serious. Arthur Malencon, the hydraulics engineer, has been
-critically injured by a laser drill which appears to have
-malfunctioned.
-
+LAFORGE: Entering standard orbit now. 
+PICARD: It takes very special people to live in such desolation. 
+TROI: Visionaries who don't see this planet as it is, but as it will
+be. 
+RIKER: I've always wanted to see terraforming in operation. 
+PICARD: Lieutenant Yar, hailing frequencies. 
+TASHA: Hailing frequencies open, sir. 
+PICARD: Velara Three base, this is Captain Picard of the starship
+Enterprise. (silence)
+TASHA: No malfunctioning equipment on either side, sir. They are
+receiving us. 
+PICARD: Velara Three base, this is the Enterprise. Come in please.
+Over. 
+LAFORGE: Maybe no one's home. 
+DATA: We are sensing life-forms, sir. 
+PICARD: Velara Three base, do you copy? 
+(A middle-aged man with a slight East European accent. Everyone say Hi!
+to General Gogol from the James Bond films) 
+GUEST4 [on viewscreen]: Velara base to Enterprise. Yes, Captain, I'm
+Director Mandl. I'm sorry about the delay, but we weren't expecting
+visitors. 
+PICARD: Terraform Command has asked us to see how you were getting
+along. 
+GUEST4 [on viewscreen]: We were a little behind, but we're back on
+schedule. I'd like to hope we'd be allowed to maintain that schedule. 
+TROI: We alarm him for some reason. 
+PICARD: Your staff is all well, I presume, Director? 
+GUEST4 [on viewscreen]: Understandably tired. We're working very hard,
+Captain. 
+PICARD: If there anything we can do to help? You and your staff are
+welcome aboard for a change of scene, rest. 
+RIKER: We have some holodecks which you might enjoy. 
+GUEST4 [on viewscreen]: No disrespect, sir, but we cannot afford the
+time. 
+COMPUTER: Channel closed. 
+TROI: His fear is escalating. 
+GUEST4 [on viewscreen]: If you will excuse me, sir, I really must get
+back to work. 
+TROI: I sense deliberate concealment, sir. 
+PICARD: Of what? 
+TROI: I don't know, but it's intense. 
+PICARD: (channel open) Director Mandl, we've heard of your remarkable
+achievements in terraforming. My crew would very much appreciate
+looking around. 
+GUEST4 [on viewscreen]: This is not really the best time. We are at a
+very critical phase just now. 
+PICARD: We would require no special attention. 
+GUEST4 [on viewscreen]: I'm trying not to be rude, sir, but this is
+really very inconvenient. 
+(channel closed) 
+TROI: He is concealing something. It's more than just being too busy.
+Your announcement about coming down has sent him almost to a point of
+panic. 
+PICARD: Well, whether he wants us or not. (channel open) Director
+Mandl, unless you're absolutely refusing permission for us to land at
+your station, prepare to receive our away team. 
+GUEST4 [on viewscreen]: As you wish. 
+PICARD: Counsellor, perhaps you'd better go along as well. 
+TROI: Aye, sir. 
+PICARD: Someone that tense could be very unpredictable. Stay on your
+toes, Number One. 

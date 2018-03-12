@@ -1,75 +1,104 @@
-RIKER LAFORGE WORF TASHA PICARD WESLEY COMPUTER ZEROONE DATA ONEZERO
+RIKER GUEST3 PICARD WESLEY GUEST6 GUEST4 GUEST7 GUEST0 GUEST8
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(There are four Bynars at a rear computer station.
-Wesley is watching them as Riker and Picard enter) 
-PICARD: I'll be in my ready room. And Number One, good work. 
-RIKER: I thought there were only going to be two of you. 
-ONE ZERO: Because of the limited time allotted us 
-ZERO ONE: We need others 
-RIKER: Is there a problem? 
-ZERO ONE: No. 
-ONE ZERO: No. No problem. 
-RIKER: Then why are you acting so excited? 
-ZERO ONE: Because we have to 
-ONE ZERO: The stacking 
-ZERO ONE: To reconfigure the computer 
-ONE ZERO: To communicate with itself 
-ZERO ONE: More efficiently 
-ONE ZERO: And at higher speeds. 
-(They turn back to their work) 
-WESLEY: You act like you don't believe them. 
-RIKER: I'm not sure that I do. Maybe it's probably nothing. 
-WESLEY: Perhaps it's just how another species behaves. 
-RIKER: Maybe. I'm going to stroll the ship. You've got the Bridge. Keep
-your eye on them. 
+WESLEY: Can I ask you a question about the Bynars? 
+GUEST0: Why not just ask them? 
+WESLEY: What is that high-speed sound you make? 
+ZERO ONE: That is our 
+ONE ZERO: primary language. 
+WESLEY: How can you process information at that speed? 
+ZERO ONE: We store the information 
+ONE ZERO: with these buffers. 
+(on their belts) 
+ZERO ONE: We receive information 
+ONE ZERO: all the time 
+ZERO ONE: and save it 
+ONE ZERO: until we need it. 
+WESLEY: How did you happen to develop this ability? 
+ONE ZERO: It happened over 
+ZERO ONE: a long period of time. 
+WESLEY: To have a society so intermixed on computers has tremendous
+advantages. 
+ONE ZERO: And a few 
+ZERO ONE: disadvantages. 
+(Picard enters) 
+PICARD: Everything under control, Ensign Crusher? 
+WESLEY: Fine, Captain. I was just trying to find something about the
+Bynars. 
+PICARD: Where's Commander Riker? 
+WESLEY: He's in holodeck four. Shall I call him for you, sir? 
+PICARD: No, I'll go down there myself. Keep me apprised. 
 WESLEY: Yes, sir.
 
-[Corridor]
+[Bourbon Street Bar]
 
-(Tasha, Worf and two others are wearing vivid blue
-catsuits with knee and elbow pads) 
-TASHA: We've been challenged to a friendly game of Parrises Squares by
-some of the maintenance personnel. Want to join us on the starbase? 
-RIKER: You've already got all the players you need. 
-TASHA: We can switch off. 
-RIKER: No, you know if you do that in Parrises Squares you lose the
-rhythm of the game. 
-TASHA: I can't talk you into coming with us? 
-RIKER: No. But win, all right? The pride of the Enterprise goes with
-you. 
-WORF: Rest assured, Commander, we will be victorious. At whatever the
-cost. 
-RIKER: Worf, it's just a game. A little friendly competition, You work
-up a sweat, you have a few laughs, and you make new friends. 
-WORF: If winning is not important, then, Commander, why keep score? 
-TASHA: I think he's pulling your leg. Believe it or not, Worf is
-developing a sense of humour. 
-RIKER: I hope so, for their sake. 
-(The team go down another corridor, then the lights go out. Riker
-activates panel 40271)) 
-RIKER: Computer. There's a power reduction in section L-Ninety Four.
-Explain. 
-COMPUTER: Unoccupied sections are being closed down in order to clear
-space in the main computer banks. It is necessary to facilitate the
-system upgrade. Full power can be restored if needed.
+(Riker joins the band with his trombone, and
+serenades Minuet with 'the nearness of you) 
+GUEST8: Hey, man, the chick digs you. 
+RIKER: What makes you say that? 
+GUEST8: Hey, look at her. 
+RIKER: Maybe it's my music. 
+GUEST7: Yeah, well, about that. Don't give up your day job. 
+RIKER: Too real. 
+GUEST8: You got that straight, Slim. Too real is too right. 
+RIKER: Thanks for letting me sit in. 
+GUEST7: Ain't nothin' to it. 
+RIKER: I'm going to have to leave for a while to see to my duties. 
+GUEST6: Your work's very important to you. 
+RIKER: It is me. It's what I am. 
+GUEST6: Can we dance once before you leave? 
+RIKER: Sure, why not. (She snuggles in close) How did you learn to
+dance so well? 
+GUEST6: From following you. I can anticipate your lead. So, tell me
+about your work. What is it about it that consumes and
+enthralls you? 
+RIKER: Interesting choice of words. That's exactly what it does. 
+GUEST6: You're very fortunate. 
+RIKER: I know that. 
+GUEST6: To be exactly where you want to be. And it's great that you
+realise it. 
+RIKER: I'd be a fool not to realise how lucky I am to be on this ship
+serving with these people. It's like a dream come true. Just like this.
 
-[Observation Lounge]
+GUEST6: A dream? Is that what this is? Is that what I am? 
+RIKER: I know you are a computer-generated image, but your smell, your
+touch, the way you feel. Even the things you say and think
+seem so real. 
+GUEST6: Thank you. 
+RIKER: How far can this relationship go? I mean, how real are you? 
+GUEST6: As real as you need me to be. 
+(They kiss for a long time, then the holodeck doors open and) 
+PICARD: Astounding. 
+RIKER: Captain. 
+PICARD: Oh, I'm sorry, Number One. I didn't mean to interrupt. 
+RIKER: No, it's all right. Come on in. 
+PICARD: You picked a wonderful locale. This is something I might have
+chosen myself. 
+GUEST6: Aren't you going to introduce me? 
+RIKER: Captain Picard, this is Minuet. Minuet, Captain Jean-Luc Picard.
 
-(Data is painting an image on glass) 
-LAFORGE: Well, what do you think? 
-RIKER: Tell me what it's supposed to be, then I'll give you my opinion.
-
-DATA: It is an attempt at pure creativity. 
-LAFORGE: What we're investigating is, can Data be creative? 
-DATA: And this is my attempt, with guidance from Geordi. 
-LAFORGE: I suggested the zylo eggs. 
-RIKER: Is that what those are? 
-RIKER: Keep notes. This project might turn out to be of interest to
-scholars in the future. 
-LAFORGE: Really? 
-RIKER: Well of course. Think about it. A blind man teaching an android
-how to paint? That's got to be worth a couple of pages in somebody's
-book.
+GUEST6: Enchantee. Comme c'est merveilleux de vous voir ici. 
+PICARD: Incroyable! Vous etes Parisienne? 
+GUEST6: Au fond, c'est vrai, nous sommes tous Parisiens. 
+PICARD: Oui, au fond, nous sommes tous Parisiens. The spirit of that
+city can always enchant my soul. 
+GUEST6: I have been hoping to meet you. 
+PICARD: Oh. Have I been the subject of conversation? 
+GUEST6: Indirectly. Come, join us, Jean-Luc. A glass of wine? 
+PICARD: Thank you. 
+GUEST6: Will was saying how much he enjoys this assignment. It's a
+credit to you. For a ship and crew to function well it always starts
+with the Captain. You set the tone. 
+PICARD: At the moment, it's you who are setting the tone. The
+sophistication of this programming is remarkable. 
+GUEST6: In what way? 
+PICARD: The holodeck has been able to give us woodlands and ski slopes,
+figures that fight and fictional characters with which we can interact,
+but you, you're very different. You adapt. You spoke to me in French. 
+GUEST6: It was very simple. When I heard your name, I merely accessed
+the foreign language bank. 
+PICARD: That's very impressive. 
+GUEST6: Oui, mon chou.
 

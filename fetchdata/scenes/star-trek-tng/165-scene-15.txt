@@ -1,45 +1,45 @@
-RIKER WORF PICARD KMPEC COMPUTER CRUSHER DATA
+PICARD GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Kahlest's home]
 
-PICARD: Mister Data, find out everything you can
-about the destruction of the Khitomer outpost. Cross reference with
-Romulan tactics and strategic information on the region, and request
-access to the Klingon central information net. Computer, presentation
-overview of Klingon custom and law pertaining to familial
-accountability. 
-COMPUTER: Accessing. 
-PICARD: In my ready room. 
-[Great Hall]
+(Picard wears a long robe and hood to disguise his
+race and uniform) 
+PICARD: Kahlest? 
+GUEST0: What do you want? 
+PICARD: Your help. 
+GUEST0: No. 
+PICARD: You don't even know what I want. 
+GUEST0: You are cha'Dich. I know. 
+PICARD: Then you also know that Worf's life is at stake. 
+GUEST0: I cannot help. I am dead. A long time dead. 
+PICARD: Were you with Worf's father just before the attack on Khitomer?
 
-(in a side colonnade) 
-K'MPEC: Worf. I would speak with you. Alone. 
-(Kurn leaves them and is handed a message by a woman. He leaves) 
-K'MPEC: You should not have brought the challenge. There was no risk to
-you. What does it matter? 
-WORF: I am Klingon. 
-K'MPEC: Of that I have no question. But your life in the Federation
-would not be affected by this judgement. 
-WORF: My father 
-K'MPEC: Is dead. He died long ago. I knew your father, served with him.
-This is not how I wanted to remember him. We must let the past be and
-protect what we have now. If you leave before the Mek'ba, no shame will
-come on you. Return to your ship. Go back to your life. The challenge
-will be forgotten. 
-WORF: Why would you ask me to lay aside the honour of my father, my
-family? Are these the words of the council? 
-K'MPEC: I will not be questioned by you! Leave, now, or you too will be
-condemned as a traitor.
+GUEST0: No. My life ended on Khitomer. I served a proud family, a
+strong house. All that is gone. 
+PICARD: Worf is not gone. The family you served needs you again. 
+GUEST0: I cannot help. 
+PICARD: Was his father a traitor? 
+GUEST0: No. Mogh was loyal to the Emperor. Mogh suspected someone of
+plotting with the Romulans and followed them to Khitomer. 
+PICARD: Who? Who was the traitor? 
+GUEST0: I do not know. 
+PICARD: Then we have no way to prove Mogh's innocence, and Worf will
+die as the son of a traitor. 
+GUEST0: You must leave now, cha'DIch. I am dead.
 
-[Bridge]
+[Street]
 
-RIKER: What Federation starship was closest to
-Khitomer at the time of the attack? 
-DATA: The USS Intrepid was the first ship on the scene, sir. 
-RIKER: Contact Starfleet, request all logs of the Intrepid. Riker to
-Doctor Crusher. 
-CRUSHER [OC]: Crusher here. 
-RIKER: Doctor, I want you to look over the medical records from all the
-rescue vessels that responded to the Khitomer massacre. See if there's
-any information on the aftermath that might help us. 
-CRUSHER [OC]: Understood. 
+(Picard is jumped by two Klingons. He manages to
+draw the dagger and stabs one of them. Kahlest gets the other one in
+the back) 
+PICARD: My appreciation, madam. 
+GUEST0: You are brave, cha'DIch. Worf chose well. 
+PICARD: Kahlest, would they recognise you? Would they know who your
+are? 
+GUEST0: K'mpec would remember Kahlest. I caught his eye back then, but
+he was too fat. 
+PICARD: Come back with me. They won't know how much you know. You may
+shake loose the truth. 
+GUEST0: I will come.
+

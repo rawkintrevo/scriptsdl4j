@@ -1,60 +1,37 @@
-OBRIEN LAFORGE TASHA PICARD OGAWA CRUSHER DATA
+Q PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Courtroom]
 
-LAFORGE: We can get more power if we reroute the
-primary EPS taps to the deflector array. 
-DATA: Agreed. Initiating tachyon pulse. 
-LAFORGE: Okay. the pulse is holding steady. We're starting to receive
-data from the scan. 
-DATA: It will take the computer some time to give us a complete picture
-of the anomaly's interior. I suggest we 
-(La Forge holds his head in pain) 
-DATA: Geordi? What is wrong? 
-LAFORGE: I don't know. It's like somebody's sticking an ice pick in my
-temples. My visor's picking up all kinds of electromagnetic
-fluctuations. 
-DATA: Data to Sickbay. Medical emergency in main Engineering.
-
-[Sickbay]
-
-CRUSHER: This is amazing. The DNA in his optic
-nerves is regenerating. Geordi, it's as if you're growing new eyes. 
-PICARD: How is this possible? 
-CRUSHER: It shouldn't be possible at all. There's no medical
-explanation for spontaneous regeneration of an organ. 
-OGAWA: Doctor we've just gotten reports from two crewmembers who say
-they have old scars which are healing themselves. 
-DATA: Captain, I believe I have a partial explanation. I have completed
-my analysis of the anomaly. It appears to be a multi-phasic temporal
-convergence in the space-time continuum. 
-CRUSHER: In English, Data. 
-DATA: It is, in essence, an eruption of anti-time. 
-PICARD: Anti-time? 
-DATA: A relatively new concept in temporal mechanics. The relationship
-between anti-time and normal time is analogous to the relationship
-between antimatter and normal matter. 
-PICARD: So if time and anti-time were to collide 
-DATA: They would annihilate one other, causing a rupture in space. I
-believe this is what happened in the Devron system. The rupture may be
-sending out waves of temporal energy which are disrupting the normal
-flow of time. 
-PICARD: Data, what could have caused this collision of time and
-anti-time? 
-[Past - Bridge]
-
-DATA: Anti-time, sir?
-PICARD: I believe that if you modify the deflectors to send out an
-inverse tachyon pulse, then you'll find that the anomaly is a rupture
-between time and anti-time. 
-DATA: That is a fascinating hypothesis. How did you formulate 
-PICARD: I don't have time to discuss it now, Mister Data. Do the
-modifications and send out the pulse. Then try working on a theory as
-to what caused this rupture. Mister O'Brien, how large is this anomaly?
-
-O'BRIEN: Approximately four hundred million kilometres in diameter,
-sir. 
-PICARD: I don't understand why it's bigger in the past. 
-PICARD: Lieutenant, you have the Bridge. I'll be in my Ready room. 
-TASHA: Aye, sir.
+(Picard is sitting with his head in his hands) 
+Q: The Continuum didn't think you had it in you, Jean-Luc, but I knew
+you did. 
+PICARD: Are you saying that it worked? We collapsed the anomaly? 
+Q: Is that all this meant to you? Just another spatial anomaly? Just
+another day at the office? 
+PICARD: Did it work? 
+Q: Well, you're here, aren't you? You're talking to me, aren't you? 
+PICARD: What about my crew? 
+Q: The anomaly. My crew. My ship. I suppose you're worried about your
+fish, too. Well, if it puts your mind at ease, you've saved humanity
+once again. 
+PICARD: Thank you. 
+Q: For what? 
+PICARD: You had a hand in helping me get out of this. 
+Q: I was the one that got you into it. A directive from the Continuum.
+The part about the helping hand, thought, was my idea. 
+PICARD: I sincerely hope that this is the last time that I find myself
+here. 
+Q: You just don't get it, do you, Jean-Luc? The trial never ends. We
+wanted to see if you had the ability to expand your mind and your
+horizons. And for one brief moment, you did. 
+PICARD: When I realised the paradox. 
+Q: Exactly. For that one fraction of a second, you were open to options
+you had never considered. That is the exploration that awaits you. Not
+mapping stars and studying nebulae, but charting the unknowable
+possibilities of existence. 
+PICARD: Q, what is it that you're trying to tell me? 
+(Q nearly whispers in Picard's ear) 
+Q: You'll find out. In any case, I'll be watching. And if you're very
+lucky, I'll drop by to say hello from time to time. See you out there.
 

@@ -1,81 +1,29 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+PICARD RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Outpost]
+[Bridge]
 
-RIKER: Data? Data, are you all right? 
-DATA: Yes, sir. 
-RIKER: What happened? 
-DATA: I got angry.
+RIKER: Red alert! All hands to battle stations. Lay
+in a course. Engage warp nine. 
+(Picard enters) 
+RIKER: We received a distress call from the New Berlin Colony. They're
+under attack. 
+PICARD: What's our ETA? 
+WORF: At warp nine, fifteen minutes, thirty seconds. 
+PICARD: Contact the Crazy Horse and the Agamemnon. Have them standing
+by in case we need them. 
+WORF: Captain, incoming message from the New Berlin Colony. They have
+cancelled their distress call. Evidently a Ferengi trading ship entered
+their system and someone panicked. 
+RIKER: Third time today. Stand down Red alert. Reduce speed. Return to
+our patrol route. 
+PICARD: Mister Worf, acknowledge the signal from New Berlin and
+transmit another copy of Starfleet's ship-recognition protocols and
+tell them to read it this time. 
+WORF: Aye, sir.
 
-Captain's log, stardate 46982.1. Because of his
-unusual behaviour on the planet surface, Commander Data has asked to be
-temporarily relieved of duty. Unfortunately, this means he will not be
-able to help us investigate a disturbing new change in the behaviour of
-the Borg.
-
-[Observation lounge]
-
-RIKER: They were fast, aggressive, almost vicious.
-it was more like fighting Klingons than Borg. No offence. 
-WORF: None taken. 
-RIKER: There was another difference. I don't believe they were part of
-the Borg collective. I think they were acting as individuals. 
-PICARD: What? 
-RIKER: One of them referred to himself as I. 
-WORF: And that Borg also showed concern for a fallen comrade. He even
-called him by name. 
-TROI: The only Borg who had a name was Hugh. And we gave it to him. 
-CRUSHER: Maybe Hugh has something to do with this change in their
-behaviour. 
-PICARD: Did they show any interest in assimilating you or your
-technology? 
-RIKER: They seemed more concerned with the death of their colleague and
-with destroying us. I didn't see anything that suggested they wanted to
-assimilate anybody. 
-PICARD: The Borg's entire existence was centred around acquiring
-cultures and technology. If that's changed, then they must have a new
-objective. We have to find out what it is. Mister Worf, from this
-moment on, I want to maintain a level two security alert. Post armed
-officers on every deck. 
-WORF: Aye, sir. 
-PICARD: Number One, I want you to analyse our sensor readings of the
-Borg ship. Try to determine if it was something they constructed or an
-alien ship which they captured. Then run an analysis of this subspace
-distortion they used to escape. 
-RIKER: Aye, sir. 
-PICARD: I'm going to contact Starfleet Command.
-
-[Engineering]
-
-LAFORGE: Well, the positronic net checks out.
-Everything else looks fine. 
-DATA: My internal diagnostic also finds nothing wrong. 
-LAFORGE: I don't know, Data. There's nothing here that would indicate
-anything that might cause an sort of behavioural anomaly. 
-DATA: I agree. Geordi, I believe I've experienced my first emotion. 
-LAFORGE: No offence, Data, but how would you know a flash of anger from
-some odd kind of power surge? 
-DATA: You are correct in that I have no frame of reference to confirm
-my hypothesis. In fact, I am unable to provide a verbal description of
-the experience. Perhaps you could describe how it feels to be angry. I
-could then use that as a reference. 
-LAFORGE: Well, okay. When I feel angry, first I feel hostile. 
-DATA: Could you describe feeling hostile? 
-LAFORGE: It's like feeling belligerent, combative. 
-DATA: Could you describe feeling angry without referring to other
-feelings? 
-LAFORGE: No, I guess I can't. I just feel angry. 
-DATA: That was my experience as well. I simply felt angry. 
-LAFORGE: Well, let's say you're right and this is a real emotion. How
-is that possible? 
-DATA: I do not know. Perhaps I have evolved to the point where emotions
-are within my grasp. Perhaps I will experience other emotions as time
-goes by. 
-LAFORGE: Well, I hope you're right. I'd hate to think that anger is all
-you're capable of feeling. 
-
- Captain's log, stardate 46984.6. No additional
-Borg attacks have been reported in the past two days. However,
-Starfleet has dispatched Admiral Nechayev to take command in this
-sector in preparation for a possible Borg invasion.
+Captain's log, supplemental. We have been on patrol
+for sixteen hours, and there are no reports of further Borg activity.
+But tensions continue to run high on the colonies and outposts in this
+sector.
 

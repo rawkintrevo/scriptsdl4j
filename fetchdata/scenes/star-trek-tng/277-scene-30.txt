@@ -1,76 +1,53 @@
-GATES TROI WORF PICARD CHILTON TOMOLAK CRUSHER DATA
+RIKER LAFORGE PICARD ENSIGN GUEST5 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Future - Corridor]
 
-TOMOLAK [on viewscreen]: So, Captain how long shall
-we stare at each other across the Neutral Zone? 
-PICARD: There is an alternative, Tomolak. We each know why we're here.
-We could each send one ship into the Neutral Zone to investigate the
-anomaly in the Devron System. 
-TOMOLAK [on viewscreen]: Has Starfleet Command approved this
-arrangement? 
-PICARD: No. 
-TOMOLAK [on viewscreen]: I like it already. Agreed. One ship from each
-side. But I warn you, if another Federation starship tries to enter the
-Zone. 
-PICARD: There is no need to make threats. We each know the
-consequences. 
-TOMOLAK [on viewscreen]: Very well. I'll see you in the Devron system. 
-(transmission ends) 
-PICARD: Helm, set course for the Devron system, warp five. 
-GATES: Aye, sir. 
-PICARD: Engage. 
-(whoosh, and later) 
-DATA: Sensors are picking up a large subspace anomaly directly ahead. 
-PICARD: All stop. On screen. Full scan, Mister Data. 
-DATA: Aye, sir. 
-PICARD: We have to get as much information as possible about that
-anomaly. 
-[Past - Bridge]
+PICARD: Ensign. How do I get to Ten Forward? 
+ENSIGN: It's four decks down, sir. Section zero zero five. 
+PICARD: Thank you.
 
-DATA: We are approaching the Devron system,
-Captain. Sensors are picking up a large subspace anomaly directly
-ahead. 
-PICARD: All stop. On screen. Then it is larger in the past. 
-TROI: Sir? 
-PICARD: Nothing. Full scan, Mister Data. 
-DATA: Aye, sir.
+[Future - Ten Forward]
 
-[Future - USS Pasteur Bridge]
+CRUSHER: Oh, my god. 
+PICARD: Will! Will, I know why it's happening. I know what's causing
+the anomaly. We have to go back. 
+RIKER: The only place we're going back to, sir, is bed. 
+PICARD: Damn it Will, I know why it's happening. We caused the anomaly
+with the tachyon pulse. It happened three times, Will. We did it in
+three different time periods! 
+CRUSHER: I think you'd better come with me. 
+PICARD: Will you leave me alone? Damn it, I'm not stupid. Will, the
+tachyon pulses, they were used in the same spot in three different time
+periods. Don't you see? When the tachyon pulse used. I mean, I mean
+when the Pasteur used the tachyon pulse, then, then, we I mean
+everything started, Will. We set everything in motion. It's like the
+chicken and the egg, Will, the chicken and the egg! We think it started
+in the past but it didn't. It started right here, in the future. That's
+why it's getting larger in the past. 
+DATA: I think I know what the Captain's talking about. If I'm not
+mistaken, he's describing a paradox. 
+PICARD: Yes! Right. That's it. 
+DATA: Intriguing. It is possible we could've caused the very anomaly
+we've been looking for. Let us assume for a moment that the Captain has
+been travelling through time. Let us also assume he has initiated an
+tachyon pulse at the same coordinates in space in all three time
+periods. In that case, it is possible that the convergence of three
+tachyon pulses could've ruptured the subspace barrier and created an
+anti-time reaction. 
+LAFORGE: I see where you're going, Data. And because anti-time operates
+opposite the way normal time does, the effects would travel backwards
+through the space-time continuum. 
+PICARD: Yes. That's why it gets larger in the past. It grows as it
+travels backwards in time. 
+RIKER: All right. Just for the moment lets say that you're right. What
+do we do? 
+PICARD: Go back, Will. We go back to the Devron System. 
+CRUSHER: He may be right. 
+DATA: If we go back to the Devron system now, we might be able to see
+the initial formation of the anomaly. 
+RIKER: Riker to Bridge. Set course for the Devron system, maximum warp.
 
-PICARD: On screen! On screen! Let's see it! 
-(just a starfield) 
-DATA: As you can see, sir, there's nothing there. 
-(a little later) 
-DATA: Still nothing, Captain. I've conducted a full sensor sweep out to
-one light year from the Pasteur. No temporal anomalies, no particle
-fluctuations, nothing. 
-PICARD: I don't understand. It was here in the other two time periods.
-Why isn't it here now? 
-WORF: Captain. I have been monitoring Klingon communication channels.
-Several warships have been dispatched to this sector to search for a
-renegade Federation vessel. 
-PICARD: You're not thinking about leaving? 
-CRUSHER: There's nothing here, Jean-Luc. 
-PICARD: There should be! There has to be! Data, is there some other way
-to scan for a temporal disturbance? Something that isn't covered in a
-normal sensor sweep. 
-DATA: There are several methods of detecting temporal disturbances, but
-we're limited by the equipment on the Pasteur. 
-CRUSHER: We should head back to Federation territory. 
-DATA: However, it may be possible to modify the main deflector to emit
-an inverse tachyon pulse, which could scan beyond the subspace barrier.
-
-PICARD: That's it. Make it so. 
-CRUSHER: Wait a minute. Data, how long would this take? 
-DATA: To make the modifications and search the entire Devron system
-will take approximately fourteen hours. 
-CRUSHER: All right. Data, begin to modify the tachyon pulse. Ensign
-Chilton, lay in a course back to the Federation. We'll stay here for
-six more hours, and if we haven't found anything we're heading back,
-maximum warp. 
-CHILTON: Aye, sir. 
-PICARD: But six more hours may not be enough. We have to stay here
-until we find it, no matter how long it takes. 
-CRUSHER: Carry out my orders. May I see you a moment?
+GUEST5 [OC]: Aye, sir. 
+RIKER: Worf, we could use a hand.
 

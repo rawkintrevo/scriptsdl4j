@@ -1,4 +1,5 @@
-DTAN PICARD SPOCK PARDEK ROMULAN
+GUEST8 PICARD SPOCK GUEST4 ROMULAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Romulan street]
 
@@ -32,11 +33,11 @@ PICARD: Hello, D'Tan.
 SPOCK: Where did you get this? This is very old. 
 D'TAN: They read to us from it at the meetings. It tells the story of
 the Vulcan separation. 
-PARDEK: D'Tan, you should not bring that out here. You've been told
+GUEST4: D'Tan, you should not bring that out here. You've been told
 many times. 
 D'TAN: I just wanted to show it to Mister Spock. 
-PARDEK: Off with you. We'll see you later tonight. 
+GUEST4: Off with you. We'll see you later tonight. 
 D'TAN: Will you tell us more stories about Vulcan?
 SPOCK: Yes, I will. 
 D'TAN: Jolan Tru.
-PARDEK: Perhaps this is not such a good place to talk. 
+GUEST4: Perhaps this is not such a good place to talk. 

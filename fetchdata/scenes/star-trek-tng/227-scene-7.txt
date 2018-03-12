@@ -1,57 +1,39 @@
-TROI LAFORGE PICARD RIKER GUINAN CRUSHER DATA CARMICHAEL
+PICARD RIKER DATA LAFORGE CLEMENS
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Rented room]
+[Cavern]
 
-LAFORGE: If we tune a phaser to the approximate
-frequency of triolic waves and lay down a field burst, it might
-respond. 
-(the phaser shot turns the cane head into a writhing snake's head) 
-TROI: The ophidian the aliens were carrying. 
-(it sends off energy charges before reverting to the cane) 
-RIKER: What the? 
-LAFORGE: These look like minute distortions in the space-time
-continuum, like the one we saw on Devidia Two. 
-RIKER: They were so small, and they lasted only a second. 
-DATA: The aliens appear to be able to concentrate the distortion and
-direct it to a specific time and place. 
-CRUSHER: Maybe they have something, a mechanism that focuses it. 
-LAFORGE: Any device like that would produce significant levels of
-triolic waves. Like the ones in the cavern where Data's head was found.
-
-DATA: I have located that cavern. 
-(knocking on the door and frantic activity) 
-CARMICHAEL [OC]: Mister Pikerd! I know you're in there. Open the door! 
-TROI: Mrs. Carmichael. 
-DATA: How now, spirit. Whither wander you? 
-CRUSHER: Over hill, over dale, thorough bush, thorough brier, 
-TROI: Mrs. Carmichael, thank goodness you're here. 
-PICARD: We need someone to read a part. You're just in time. 
-CARMICHAEL: Mister Picard, I need to be talking to you. 
-CRUSHER: My mistress would that he be gone. 
-RIKER: Ill met by moonlight, proud Titania. 
-PICARD: Now, Mrs. Carmichael Right there. 
-RIKER: Ill met by moonlight, proud Titania. 
-CARMICHAEL: What, jealous Oberon. Fairies skip hence. I have foresworn
-his bed and company. 
-PICARD: Well, I don't think I need to hear any more. That was truly
-unique. 
-CARMICHAEL: Really? 
-PICARD: Ladies and gentlemen, I think we have found our Titania. Don't
-you agree? 
-(a round of applause) 
-CARMICHAEL: Well, I did do a church play when I was a lass. 
-PICARD: Well, there you are. We start rehearsals tomorrow. 
-(Picard kisses her on both cheeks, and she turns into a simpering girl)
-
-[Data's hotel room]
-
-(Guinan is pacing when Data enters) 
-GUINAN: You're back. I have wonderful news. I've found a way to get
-into the Presidio and into the mine shaft. 
-(Picard enters) 
-DATA: It is all right. 
-GUINAN: Do you know me? 
-PICARD: Very well. 
-GUINAN: Do I know you? 
-PICARD: Not yet. But you will.
+RIKER: The triolic levels are as high as they were
+on Devidia Two. There's no indication of a control mechanism. 
+LAFORGE: I'm not so sure. My visor is picking up crystalline fractures.
+These cavern walls have undergone some kind of selective molecular
+polarisation. In fact, if I'm right this whole cavern has been
+configured to focus the space-time distortion. Just like a lens.
+Captain, we think we might be on to something. The cavern itself seems
+to be acting as a focusing mechanism. I'm willing to bet it's the same
+at their habitat back on Devidia Two. 
+PICARD: If we can get back there and destroy that site, it might put an
+end to their time travelling. 
+RIKER: We have the ophidian. 
+LAFORGE: Truthfully, I don't know that we can get back. The aliens use
+triolic energy as a power source. The energy our phasers generates
+might not be entirely compatible. 
+PICARD: We have no choice but to try. 
+CLEMENS: An event I would most certainly enjoy witnessing. However, I
+will regretfully waive that opportunity for the
+privilege of taking you all in to the authorities. 
+DATA: Mister Clemens, it is imperative that we continue our mission. 
+CLEMENS: Mister Data, I have listened to your stories and your excuses
+and your evasions, and I will listen no longer. It is my moral duty to
+protect mankind from whatever devious plan you have in mind. Now, move
+along. I suspect that even time travellers are vulnerable to the Colt
+forty five. Now, let's go. I made a young fellow a promise and I don't
+want to be late. 
+(the two aliens appear and the male grabs the cane from Troi. Data
+tackles him and gets it back. The cane activates, the woman disappears,
+there's a flash, everyone is thrown to the floor and Data's head comes
+adrift. The time portal is open. The male runs through it) 
+PICARD: Follow him! 
+(Riker, Geordi, Crusher, Troi do so, then Clemens as Picard checks on
+Guinan. The portal closes.)
 

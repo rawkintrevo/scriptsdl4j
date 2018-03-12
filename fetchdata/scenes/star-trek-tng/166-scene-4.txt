@@ -1,69 +1,39 @@
-HARO RIKER WORF PICARD THOLL DATA
+PICARD TROI DATA LAFORGE RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Data's quarters]
 
-(Picard is relaxing on a comfortable lounger. He
-puts his book down, closes his eyes, and we see a slab hovering over
-him. It scans him, then he disappears in a twinkle of lights)
+(The senior officer's floating poker game is in
+session) 
+RIKER: Five, and twenty. 
+LAFORGE: Ouch. 
+TROI: If it's too rich, Geordi, fold. 
+LAFORGE: I'm thinking, I'm thinking. 
+(The doorbell rings) 
+DATA: Enter. 
+PICARD 2: Counsellor, gentlemen. Forgive this intrusion. I was just
+passing by. 
+DATA: You are always welcome, Captain. 
+PICARD 2: I was wondering, Mister La Forge. What's our engine
+efficiency status? 
+LAFORGE: Operating at ninety three percent, sir. 
+PICARD 2: That's very good, but I would like to increase the efficiency
+to ninety five percent. 
+LAFORGE: No problem, Captain, I'll get right on it. 
+PICARD 2: That's not an order. You can get to it later. I don't want to
+disrupt your recreation. 
+LAFORGE: No Captain, it's no problem. Lady Luck left me long ago. 
+(La Forge leaves) 
+TROI: Would you care to join us, Captain? We have an opening. 
+PICARD 2: I'd rather just observe, if you don't mind. 
+RIKER: Not at all. Counsellor, twenty. 
+(She and Data see Riker's bid) 
+RIKER: Pair of threes. 
+TROI: Flush. Queen high. 
+DATA: That beats my fours. 
+PICARD 2: Well played, Counsellor. May I have a word with you for just
+a moment? 
+TROI: Certainly, sir. 
+PICARD 2: Forgive me, gentlemen. I'll return your player to you in a
+moment.
 
-[Bridge]
-
-DATA: Commander, ship's sensors detect an abnormal
-energy reading in the Captain's quarters. 
-RIKER: Type? 
-DATA: Undetermined. 
-RIKER: Riker to Captain Picard. 
-WORF: Security team to Captain's quarters.
-
-[Holding cell]
-
-(Picard wakes up in a hexagonal room with a thing
-in the middle. There are a total of four beds, two more of which are
-occupied) 
-PICARD: Picard to Enterprise. Anyone receiving this transmission,
-please respond.
-
-[Outside Picard's quarters]
-
-WORF: Security override. Priority one. 
-(The door opens to reveal - Picard holding his book and a glass of
-brandy) 
-PICARD 2: Is something the matter, Lieutenant?
-
-[Holding cell]
-
-(One of the other bed occupants is also in a
-Starfleet engineering uniform. she is a green-tinged alien) 
-PICARD: It's all right, it's al right. I'm not going to hurt you. 
-HARO: Captain. 
-PICARD: Picard, of the Enterprise. 
-HARO: Captain Picard. We studied your missions at the Academy Mitena
-Haro, first year cadet, Starfleet Academy. 
-PICARD: Cadet Haro. 
-THOLL: Perhaps you can explain what this is all about. 
-(A tall, white-skinned alien wearing a hood) 
-PICARD: Unfortunately, I can't, Mister 
-THOLL: Tholl. Kova Tholl, of Mizar Two. 
-PICARD: Well, Mister Tholl, all I know is that I've been brought here
-against my will. Wherever here is. 
-HARO: The same thing happened to me, sir. I was alone, studying and I
-fainted. When I came to, it was about three days ago. 
-PICARD: And you, sir? 
-THOLL: I've been here twelve days, possibly more. I had been meditating
-privately and for no reason whatever, I lost
-consciousness. 
-PICARD: What can you tell me about our captors? 
-THOLL: Nothing. They've never shown themselves. 
-PICARD: Four sleeping areas. That implies we may be joined by another
-captive. 
-(He goes to the central thing, which dispenses red roundels) 
-THOLL: It's edible, but I wouldn't call it food. 
-(Picard takes a tentative bite and puts it down, then goes to the panel
-by the door) 
-THOLL: I wouldn't touch that. 
-PICARD: Why not? 
-THOLL: If it's the door lock, the combination's too complex to hit at
-random. I tried it and was punished. 
-PICARD: Punished? How? 
-THOLL: Severe pain. Some sort of energy beam. I won't get near that
-panel again. 

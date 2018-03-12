@@ -1,98 +1,42 @@
-RIKER LAFORGE WORF PICARD WESLEY COMPUTER TAM DATA
-
-[Engineering]
-
-PICARD [OC]: How long to full shield restoration? 
-LAFORGE: I'm working on it. Computer, reconfigure structural integrity
-power to feed inner deflector grid. 
-COMPUTER: Unable to comply. Requested reroute would compromise
-operational safety limits. 
-LAFORGE: To hell with the limits. Override. Authorization La Forge
-theta two nine nine seven. 
-COMPUTER: Rerouting structural integrity power supply. 
-LAFORGE: Russell, watch the lateral grid balance. No. no, no, that's
-too much. We're going to have to do it manually. La Forge to Bridge. 
-PICARD [OC]: Go ahead. 
-LAFORGE: Captain, I'm trying to feed the inner grid by stealing some
-power from the structural integrity field. You should have partial
-shielding in thirty minutes. 
-PICARD [OC]: You have ten. Picard out. 
-[Bridge]
-
-PICARD: If the Romulans wish the honour of the
-first contact, let them have it. 
-TAM: You're out of your mind, Picard! What if the Romulans find a way
-to persuade Tin Man to 
-PICARD: I think the chances of that is remote. And if you will be
-still, Mister Elbrun, you may learn. 
-TAM: What? 
-PICARD: That being first, at any cost, is not always the point. Mister
-Data, while we await repairs, I want Life Sciences and Engineering to
-continue collecting information on the alien. And query the Vega Nine
-probe, long range sensors. 
-DATA: Aye, sir.
-
-[Data's quarters]
-
-TAM: You do a lot of your work here? 
-DATA: Yes. I have configured these instruments to display information
-with greater speed and efficiency than stations used by the others. 
-TAM: Nice. A little Spartan. 
-DATA: Spartan? 
-TAM: Lots of work space, not much room to live. I don't guess you
-sleep. 
-DATA: I have tried it from time to time. But you are correct. I do not
-require rest. 
-TAM: But you paint. 
-DATA: The creature's anatomy appears most peculiar. 
-TAM: In what way? 
-DATA: It is indeed laid out as a vessel with what appear to be
-corridors and chambers. An internal environment suitable for carbon
-based life forms is being maintained, yet there is no evidence of a
-crew aboard. Tin Man is a living being which has been bred or has
-adapted itself to serve a purpose. I find that interesting. 
-TAM: Why? Must living beings have a purpose? Or do we exist for no
-reason but to exist? 
-DATA: I do not believe I am qualified to express an opinion. 
-TAM: Ah, Data, you're uniquely qualified. You think a great deal about
-humanity and you're an honest researcher. You don't
-treat anything as trivial, or irrelevant. You want to try it all. 
-DATA: You said in the transporter room that you could not read my mind.
-
-TAM: True enough. But I think I understand you pretty well. It worries
-you that I can't read your mind? 
-DATA: Perhaps there is nothing to read. Nothing more than mechanisms
-and algorithmic responses. 
-TAM: Perhaps you're just different. Not a sin, you know, though you may
-have heard otherwise.
+TROI OBRIEN WORF PICARD TAM DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Captain, the Romulan ship is hailing the
-alien using their equivalent of linguacode. 
-RIKER: Response? 
-DATA: Nothing so far, Commander. 
-TAM: Why should it answer? What could it possibly have in common with
-them? 
-RIKER: But you're so sure it'll talk to you. 
-WORF: Captain, the Romulans are arming all disruptors. 
-PICARD: Yellow alert. Prepare for evasive action at the first change in
-the Romulan's course. 
-RIKER: With our shields in their present condition, we can't 
-TAM: No! No! We're not the target. It's Tin Man. 
-PICARD: What do you mean? Do they intend to destroy it? 
-TAM: Those are their orders if they can't secure the alien. 
-PICARD: Increase speed to intercept the Romulan vessel. 
-WESLEY: Their lead is too great, sir. 
-PICARD: Hail them. We cannot allow them 
-TAM: They won't listen to you! 
-(Tam closes his eyes and clenches his fists) 
-TAM: Danger. Gomtuu. Do not allow. 
-(Tin Man turns, presents its stern? to the Romulans and emits an energy
-pulse that blows the green machine to atoms. The pulse then hits the
-Enterprise, knocking everyone over and triggering Red Alert) 
-PICARD: Damage report! 
-WORF: Nothing available yet, sir. We have partial failure of the main
-computer. 
-PICARD: It seems you woke your Tin Man.
+PICARD: Picard to Tam Elbrun. 
+TAM [OC]: Captain? 
+PICARD: Report to transporter room six immediately. 
+TROI: Captain, I don't 
+PICARD: Commander Data will meet you there. 
+TAM [OC]: Yes, Captain. 
+PICARD: Counsellor, we no longer have a choice.
+
+[Gomtuu corridor]
+
+(not so much a corridor as an artery with no blood)
+
+TAM: No. No. Too much. Too much. 
+DATA: Tam? 
+TAM: I can't. 
+DATA: Data to Enterprise. Enterprise, come in. 
+TAM: No, don't. 
+DATA: If it is harming you, we must return. Enterprise, respond. 
+TAM: It's all right. It's all right now. Gomtuu was trying to
+communicate a lifetime of experiences to me in a few seconds, but I'm
+all right now.
+
+[Transporter room]
+
+O'BRIEN: O'Brien to Bridge.
+PICARD [OC]: Go ahead, Chief. 
+O'BRIEN: I lost the transporter lock on them. 
+[Bridge]
+
+O'BRIEN [OC]: Some kind of force field went up. 
+WORF: Confirmed. The alien has thrown up a shield. It is blocking all
+our sensors. Captain, the Romulans' weapons systems are now at full
+power. 
+PICARD: Follow them in, Mister Crusher. Red Alert. Mister Worf, arm
+photon torpedoes.
+WORF: Aye, sir.
 

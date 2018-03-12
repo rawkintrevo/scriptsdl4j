@@ -1,67 +1,50 @@
-SATELK WESLEY BRAND CRUSHER
+PICARD WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Academy hearing room]
+[Ready room]
 
-(it is now next morning) 
-BRAND: Are you ready, Mister Crusher? 
-WESLEY: Yes, sir. This is the beginning of our run toward Titan. I'm on
-the right wing. 
-BRAND: Where is Mister Albert at this point? 
-WESLEY: He was on my port quarter, approximately fifty metres away.
-We've just received the signal to begin the diamond slot formation.
-That's Cadet Locarno coming into view. We're in a twenty degree turn
-around Titan. We should be coming out of Titan's gravity well about
-now. 
-BRAND: That is the extent of the data we were able to recover from the
-flight recorder. Mister Crusher, would you describe what happened after
-you left orbit of Titan? 
-WESLEY: Once we cleared the moon, Mister Locarno led us into a Yeager
-loop. Approximately nine seconds later, my proximity alarm went off. I
-tried to veer away, but it was too late and I was hit. I lost control
-of my ship. A power coupling exploded in my cockpit. I don't know how,
-but I managed to activate my escape transporter, and the next thing I
-remember is finding myself on the emergency evac station on Mimas with
-the rest of the squadron, except Josh. 
-BRAND: Do you have anything to add to your testimony? 
-WESLEY: No, sir. 
-SATELK: Mister Crusher, will you describe a Yeager loop? 
-WESLEY: The ships begin in a diamond slot formation, and climb and loop
-backwards at a steep angle, and at the peak of the loop, turn over and
-accelerate in a new direction. 
-SATELK: Mister Crusher, did your team remain in formation throughout
-the loop? 
-WESLEY: Yes, sir. 
-BRAND: I want you to be absolutely clear on this point, Mister Crusher.
-Before the collision, was Nova Squadron in a diamond slot formation? 
-WESLEY: Yes, sir. 
-SATELK: Computer, display Saturn NavCon file six dash three seven nine.
-These images were obtained by a navigational control satellite in orbit
-around Saturn during a standard sensor sweep. Computer, freeze image.
-Magnify sector gamma three and enhance. 
-(the five little ships are forming a circle, not a diamond) 
-SATELK: This image was recorded when your ships moved briefly into the
-satellite's sensor range. According to the time index, what you see on
-the monitor took place seven seconds after Nova Squadron completed the
-Yeager loop. 
-BRAND: Mister Crusher, are these ships in a diamond slot formation? 
-WESLEY: No, sir. 
-BRAND: What is your explanation, Mister Crusher? 
-WESLEY: I have none, sir. 
-[Wesley's room]
-
-CRUSHER: Everything's going to be okay, Wesley.
-There must be an explanation for all this. Data and Geordi are already
-analysing the flight recorder and the satellite transmission. 
-WESLEY: Why? 
-CRUSHER: There must be something wrong with the satellite data. It
-might have been tampered with. 
-WESLEY: Mom. 
-CRUSHER: Well, there must be some explanation for this. I know you're
-telling the truth but the satellite data made it look as if you were
-lying. I've spoken with the other parents. I am going to talk to
-Admiral Brand and ask her to delay the inquiry 
-WESLEY: Mom. Don't. You can't do that. 
-CRUSHER: I'm not going to let them ruin your career, Wesley. You
-haven't done anything wrong. 
-WESLEY: Mom, don't try to protect me. Please stay out of this.
+PICARD: Come. 
+WESLEY: Captain. 
+PICARD: Can you tell me what manoeuvre this is? 
+(on the PADD we see five ships go into a circle, cross each other's
+paths and light up a five pointed star) 
+WESLEY: It's a Kolvoord Starburst, sir. 
+PICARD: Five ships crossing within ten metres of each other and
+igniting their plasma trails. One of the most spectacular and difficult
+demonstrations of precision flying. It hasn't been performed at the
+Academy team in over a hundred years. Do you know why? 
+WESLEY: It was banned by the Academy following a training accident,
+sir. 
+PICARD: An accident in which all five cadets lost their lives. I think
+that Nicholas Locarno wanted to end his Academy career in a blaze of
+glory. That he convinced the four of you to learn the Kolvoord
+Starburst for the commencement demonstration. If it worked,
+you would thrill the assembled guests and Locarno would graduate as a
+living legend. Only it didn't work, and Joshua Albert paid the price.
+Am I correct? Cadet, I asked you a question. Am I correct? 
+WESLEY: I choose not to answer, sir. 
+PICARD: You choose not to answer? But you've already given an answer to
+the inquiry, and that answer was a lie. 
+WESLEY: I said the accident occurred after the loop. It did. 
+PICARD: What you neglected to mention was that following the loop your
+team attempted a manoeuvre that was the direct cause of the crash. You
+told the truth up to a point. But a lie of omission is still a lie. Do
+you remember the day you first came aboard this ship? Your mother
+brought you on the Bridge. 
+WESLEY: Yes. 
+PICARD: You even sat in my chair. I was annoyed. Presumptuous child
+playing on my ship. But I never forgot how you already knew every
+control, every display. You behaved as though you belonged on the
+Bridge. And then later when I decided to make you an acting ensign, I
+was convinced you could be an outstanding officer. I've never
+questioned that conviction, until now. The first duty of every
+Starfleet officer is to the truth. Whether it's scientific truth, or
+historical truth, or personal truth. It is the guiding principle upon
+which Starfleet is based. If you can't find it within yourself to stand
+up and tell the truth about what happened you don't deserve to wear
+that uniform. I'm going to make this simple for you, Mister Crusher.
+Either you come forward and tell Admiral Brand what really took place,
+or I will. 
+WESLEY: Captain 
+PICARD: Dismissed.
 

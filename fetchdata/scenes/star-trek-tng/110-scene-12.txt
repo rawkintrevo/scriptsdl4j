@@ -1,60 +1,42 @@
-TROI LAFORGE PICARD RIKER VOICES KAZAGO CRUSHER DATA
-
-[Stargazer Captain's quarters]
-
-(Picard jerks up in pain and clutches at his head
-before collapsing. Crusher enters) 
-CRUSHER: Captain? Another headache? This really worries me. I want you
-back on the Enterprise. 
-PICARD: But my things 
-CRUSHER: I'll see they're sent to your Enterprise quarters.
+RIKER LAFORGE WORF TASHA PICARD TROI COMPUTER BOK CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Enterprise now taking possession of
-Stargazer, Kazago. 
-KAZAGO [on viewscreen]: Permission granted, Riker. 
-RIKER: Actually it was quite a bargain, Kazago. I thought the Ferengi
-always made a profit on things. 
-(Kazago growls and ends the transmission) 
-RIKER: Set sub-warp speed for towing, LaForge. 
-LAFORGE: Aye, sir. 
-(Picard enters, in pain) 
-DATA: Starfleet has responded to our request, sir. A tug will
-rendezvous with us and tow the Stargazer back to Xendi Starbase Nine. 
-PICARD: Very well, Data. 
-RIKER: How was it, Captain? 
-PICARD: Very strange, Number One. Like going back to the house you grew
-up in, but no one's home, except the phantoms of the past. 
-TROI: It has troubled you? 
-PICARD: Not half as much as this damn headache. Take over, Number One. 
-RIKER: Aye, sir. 
-(Picard leaves) 
-RIKER: What's wrong? 
-TROI: I wish I could say.
+CRUSHER: The captain, Commander? 
+RIKER: Resting in his quarters after ordering both of you to your duty
+stations. 
+TROI: There have been some, did he say low intensity? Some unusual low
+intensity transmissions from the Ferengi vessel. 
+RIKER: Did who say? 
+CRUSHER: My son. Transmissions which exactly match certain anomalies
+found in the Captain's brain scans. Something over there is affecting
+the Captain's thought patterns. 
+RIKER: Computer, give me a location on Captain Picard. 
+COMPUTER: Captain Picard is in Transporter room three. 
+RIKER: What? Computer, emergency order to Transporter room three. 
+COMPUTER: New information. Captain Picard is no longer aboard the
+Enterprise.
 
-[Picard's quarters]
+[Stargazer Bridge]
 
-(The trunk has been delivered. Picard goes to lie
-down on his bed) 
-VOICES [OC]: Shields weakening, Captain. Torpedoes armed. Where are
-they? Oh my god, sir! Fire! Fire!
+(Picard beams in and takes the Captain's chair) 
+BOK: Welcome back, Captain. 
+(Bok is holding the device he has been using on Picard) 
+PICARD: What is happening? 
+BOK: Shields up, computer. 
+PICARD: What are you doing? 
+BOK: Collecting on an old debt. 
+(Picard collapses in agony) 
+[Bridge]
 
-[Ready Room]
-
-RIKER: What is it, Data? Why all the mystery? 
-DATA: The records of the Stargazer, sir. What the Ferengi call the
-Battle of Maxia. It seems the Captain's personal log contains a much
-different version of that conflict than the official historic account. 
-RIKER: What are you saying? 
-DATA: It would appear that the starship which Captain Picard attacked,
-had in fact, been under a flag of truce. 
-RIKER: What? 
-DATA: And apparently, the Captain destroyed the ship without notice or
-provocation. 
-RIKER: Impossible. What about the fire aboard the Stargazer? 
-DATA: An accident in Engineering. 
-RIKER: And what proof? 
-DATA: It is logged in his own voice, sir. Would you care to hear it,
-sir? Sir?
+RIKER: Stargazer, Captain, respond! 
+TASHA: Shields up, sir. No way to beam over any help. 
+LAFORGE: Commander, I'm reading something very strange here. A low
+intensity beam of intermittent pulse inside this starship. 
+DATA: I have a fix on it, sir. Inside Captain Picard's quarters. 
+TASHA: You transferred some of his belongings from the Stargazer? 
+WORF: Yes. Including a fairly heavy chest. 
+RIKER: Go take a look, fast! 
+LAFORGE: Commander, Stargazer is now powering up, sir.
 

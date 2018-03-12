@@ -1,46 +1,50 @@
-PICARD RIKER KOLRAMI LAFORGE WORF
+TROI KOLRAMI PICARD PULASKI DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Hathaway
+Engineering]
+
+(Wesley's
+experiment apparatus beams in.)
+
+
+[Ten
+Forward]
+
+
+(The
+two
+contestants are being set up like before.)
+DATA: In the present context, what did she mean by bust him up? 
+TROI: In her own way, Doctor Pulaski was instructing you to take the
+shortest route to victory. 
+DATA: As opposed to what? 
+GUEST3: Ready? Begin. 
+(General babble of delight as Data seems to keep pace with Kolrami,
+right up to when he lost 081 to 100) 
+PULASKI: I can't believe it. The computer beaten by flesh and blood. 
+TROI: You advanced quite far against such a worthy opponent. 
+KOLRAMI: Thoroughly enjoyable, Mister Data. I am at your disposal for a
+rematch. 
+DATA: Thank you, but what would be the point? 
+(Kolrami leaves) 
+PULASKI: How can you lose? You're supposed to be infallible! 
+DATA: Obviously, I am not.
+
 
 [Bridge]
 
 
-The
-Hathaway is old,
-battered, with that nacelle
-design of two above, two below)
 PICARD:
-Commander Riker, there's your next challenge. 
-WORF [OC]: Away team assembled and ready to transport, Commander. 
-RIKER: I may get over there and want to come right home. 
-PICARD: Good luck, Number One. Captain. 
-KOLRAMI: The simulation will commence in forty eight hours.
-
-
-[Hathaway
-Bridge]
-
-
-(It
-looks like it's been
-partially stripped for spares. Everyone is using torches at
-first)
-LAFORGE:
-There should be some emergency Bridge lighting here. 
-(He finds it. We see the dust sheets and detail) 
-WORF: Not good. 
-RIKER: Ah, you're wrong, Mister Worf. It's fantastic. And it's ours.
-(offers him the First Officer's seat) Mister Worf. 
-WORF: Sir, Lieutenant La Forge is a superior officer. The honour should
-be his. 
-RIKER: Worf, this is a battle simulation. You're my Tactical Officer.
-I've discussed this with Geordi and we agreed. You need to be at my
-side. 
-LAFORGE: Besides, Worf, if Engineering's anything like the Bridge, I'm
-going to have my hands full. 
-(Riker sits and activates ship wide broadcast. We here the Original
-Series bosun whistle) 
-RIKER: Attention, crew of the USS Hathaway. This is your Captain. Over
-the next two days, you might lose a lot of sleep, but with your skill
-and your stamina, we'll have this old lady ready to fly. I want hourly
-progress reports from all stations. Riker out.
+Ensign, where is Commander Data?
+(cough - he was Lieutenant a few scenes ago!) 
+GUEST3: He has temporarily removed himself from bridge duty, sir. 
+KOLRAMI: Your crew is excellently trained, Captain. A tribute to your
+leadership. Although I doubt their extensive preparation will be
+needed. 
+PICARD: Why is that? 
+KOLRAMI: I do not expect Captain Riker will present much of a
+challenge. 
+PICARD: Mister Kolrami, may I speak with you in private?
 
 

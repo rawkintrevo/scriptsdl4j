@@ -1,33 +1,70 @@
-JELLICO RIKER
+TROI LAFORGE JELLICO RIKER COMPUTER PICARD CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Ten Forward]
 
-(a silver-haired officer beams in) 
-RIKER: Welcome aboard, sir. I'm Commander 
-JELLICO: William T. Riker. Class of fifty seven, graduated eighth in
-his class. I'm looking forward to serving with you, Commander. 
-RIKER: Thank you. And I you. 
-JELLICO: I'm sure this change in command has taken everyone a little by
-surprise. 
-RIKER: Well, yes, sir.
+(the two Captains are in dress uniform) 
+JELLICO: Yeah, I know. Wearing these uniforms reminds me of my first
+days at the Academy.
+RIKER: Attention to orders. 
+PICARD: (reading) To Captain Jean-Luc Picard, Commanding Officer USS
+Enterprise, stardate 46358.1. You are hereby requested and required to
+relinquish command of your vessel to Captain Edward Jellico, Commanding
+Officer USS Cairo as of this date. Signed, Vice-Admiral Alynna
+Nechayev, Starfleet Command. Computer, transfer all command codes to
+Captain Edward Jellico. Voice authorisation, Picard delta five. 
+COMPUTER: Transfer complete. USS Enterprise now under command of
+Captain Edward Jellico. 
+JELLICO: I relieve you, sir. 
+PICARD: I stand relieved. 
+JELLICO: Dismissed. 
+LAFORGE: I wonder how permanent this is going to be. 
+RIKER: I don't know. They don't usually go through the ceremony if it's
+just a temporary assignment. 
+TROI: Sore? 
+CRUSHER: Sore doesn't begin to describe it. I know. I wish I could talk
+about it. 
+PICARD: Most of the secondary systems were changed at the last
+overhaul. I don't think they'll give you any problems, but you might
+want to check out the port lateral 
+JELLICO: I'll take care of the Enterprise, Jean-Luc. You don't have to
+mother me. How's your team shaping up? 
+PICARD: Very well. But I would prefer more recent intelligence on the
+exact layout of the installation. The most current information we have
+is two years old. 
+JELLICO: Two years? I don't know how Nechayev ever talked you into
+this. 
+PICARD: She gave me no choice. 
+JELLICO: Well, maybe there's something we can do to help. We'll launch
+a class five probe just before we reach the border. You could pick up
+the telemetry aboard the shuttle. 
+PICARD: Now that would be extremely helpful. 
+JELLICO: Will. 
+RIKER: Captain. Captain. 
+JELLICO: I believe we're scheduled to arrive at the Cardassian border
+during delta shift. Please inform the delta tactical officer that I
+want to launch a class five probe just before we drop out of warp. 
+RIKER: I was actually going to talk to you about delta shift a little
+later, sir. Right now, gamma shift will be on duty when we arrive and I
+will tell Lieutenant McDowell about the probe. 
+JELLICO: Is there a problem with delta shift, Will? 
+RIKER: There is no delta shift yet, sir. I have spoken to the
+department heads about changing from three shifts to four, and they
+assure me it's going to cause us significant personnel problems. 
+JELLICO: So you have not changed the watch rotation. 
+RIKER: I was going to explain this to you after the ceremony, sir. 
+JELLICO: You will tell the department heads that as of now the
+Enterprise is on a four shift rotation. I don't want to talk about it.
+Get it done. Now that means delta shift will be due to come on duty in
+two hours. I expect you to have it fully manned and ready when it does.
+Is that clear? 
+RIKER: Yes, sir. If you'll excuse me, sir. Captain. 
+JELLICO: He was your first officer for five years. 
+PICARD: One of the finest officers that I have ever served with. 
+JELLICO: Of course he is, Jean-Luc. I'm sure it'll all work out.
 
-[Corridor]
-
-JELLICO: It caught me by surprise too. I must
-admit, I miss the Cairo already. But a Galaxy class ship, that's
-something special. I can understand why you turned down a ship of your
-own to remain aboard. 
-RIKER: Yes, sir. 
-JELLICO: How many duty watches does the crew stand? 
-RIKER: We've a standard three shift rotation. 
-JELLICO: I'd like to change that to four starting tonight. I'd also
-like to examine the duty roster and the crew evaluations as soon as
-possible. I want readiness reports from each department head by
-fourteen hundred hours, and a meeting of the senior staff at fifteen
-hundred. Do you prefer Will or William? 
-RIKER: Er, Will, sir. 
-(Jellico steps into a turbolift) 
-JELLICO: Where are my quarters, Will? 
-RIKER: We have you assigned to cabin seven thirty five. Deck si 
-JELLICO: Deck seven. I'll see you at thirteen hundred hours.
+Captain's log, stardate 46358.2. The Enterprise is
+on course for a rendezvous with the Cardassian ship Reklar.
+Fortunately, I still have time to prepare the ship and crew for the
+task ahead.
 

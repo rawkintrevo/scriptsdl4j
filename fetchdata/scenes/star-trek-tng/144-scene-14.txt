@@ -1,89 +1,54 @@
-PICARD RIKER BRENNA WORF DANILO
+PULASKI PICARD GUEST2 GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cargo hold]
+[Observation lounge]
 
-DANILO: What the hell was that thing? 
-WORF: Automated fire system. A force field contains the flame until the
-remaining oxygen within the field has been consumed. 
-DANILO: What if I had been under that thing? 
-WORF: You would have been standing in the fire. 
-DANILO: Well, leaving that aside for the moment, I mean, what would
-have happened to me? 
-WORF: You would have suffocated and died. 
-DANILO: Sweet mercy. 
-BRENNA: Oh, there you are. Your hospitality leaves a hell of a lot to
-be desired! You don't offer us a bite or a sup, and when we build a
-fire to cook a little something, the place goes mad! 
-PICARD: My apologies. I was unaware that you had not been instructed in
-the use of the food dispensers. 
-BRENNA: And what are you staring at? Have you never seen a woman
-before? 
-RIKER: I thought I had. 
-DANILO: Commander, may I present my daughter, Brenna Odell. 
-RIKER: Pleased to meet you, ma'am. 
-BRENNA: You may have all the time in the world, but I've dozens of
-frightened and hungry children and women to look after. 
-RIKER: And what about the men? 
-BRENNA: Well, I'm sure they'll find their comfort as they always do, in
-the bottom of a mug of home brew! 
-DANILO: Pay no heed, Commander. She's a fine girl. She's not usually so
-sharp tongued. 
-BRENNA: Dado! 
-(Danilo scuttles away across the room) 
-RIKER: Sir? (Picard is laughing) That's the last thing I expected. 
-PICARD: Sometimes, Number One, you just have to bow to the absurd. 
-DANILO: Captain, Captain, sir. How did the ship sense the fire? 
-PICARD: The ship's computer 
-DANILO: Computer? 
-PICARD: The ship's computers sense a localised increase 
-BRENNA: Men! Always talking when there's work to be done. And shouldn't
-you be flying this ship, or whatever it is you do? 
-RIKER: Sir, I think I'll stay and give her some help. 
-(Picard and Worf leave. Riker goes to where Brenna is using hay to
-clean up what animals leave lying around naturally) 
-RIKER: That isn't necessary. The ship will clean itself. 
-BRENNA: Well, good for the bloody ship. (long pause as she appraises
-him) Tell me, Commander Riker, where does a girl go to wash her feet on
-this ship? 
-RIKER: As the First Officer, I feel it's my responsibility to show you
-all the amenities.
-
-[Corridor]
-
-WORF: She is very like a Klingon woman. 
-DANILO: Ah, Captain, there's just one other thing. It slipped my mind
-in all the hustle and bustle. 
-PICARD: The point, Mister Odell. 
-DANILO: Well, in all your travels, have you heard anything from the
-other colony? 
-PICARD: The other colony?
-
-Captain's log, supplemental. A review of stellar
-charts has revealed a Class M planet only half a light year from the
-Bringloid system. I am proceeding on the premise that it was the
-destination of the colony which possessed the more sophisticated
-equipment.
-
-[Riker's quarters]
-
-BRENNA: William Riker, you're a mess. 
-(She starts picking things up) 
-RIKER: You don't have to do that. 
-BRENNA: And if I don't, who will? 
-RIKER: I can see why your father wants to marry you off. 
-BRENNA: Oh, and why is that? 
-RIKER: So he can have a pipe and mug of beer in peace. 
-BRENNA: You've shown me so many wonders on your great ship, but there's
-still one thing you haven't shown me. 
-RIKER: What's that? 
-BRENNA: I'm still waiting to wash my feet. 
-RIKER: Right behind that door. 
-BRENNA: William, is something wrong? 
-RIKER: What do you mean? 
-BRENNA: Do you not like girls? 
-RIKER: Of course I do. Oh, is there a technique to this foot washing? 
-BRENNA: You generally start at the top and work your way down. 
-RIKER: I think I can handle that. 
-(He lets down her hair and kisses her) 
-BRENNA: I was hoping you might.
+GUEST0: I'm sorry, Captain, it's out of the
+question. You're trying to dump your problems on us. We have problems
+of our own. 
+PICARD: Don't you understand? The Bringloidi can help you.
+GUEST0: Look at him. How could we ever integrate that into our
+society? 
+GUEST2: You're no prize yourself. 
+GUEST0: Primitive, hostile, disruptive. It would require enormous
+effort to even educate them. 
+GUEST2: Oh, forget it, Captain Picard. I'm not going to come in here
+with my hat in my hand begging charity from this blatherskite. 
+PICARD: Now stop! I will not allow posturing and bigotry to destroy
+this meeting. Now please, sit down. Now, Commander Riker has asked that
+your
+laboratories be inspected for stolen tissue samples, and I understand
+his concern. We may have to transport all your equipment here, to the
+Enterprise. 
+GUEST0: I see. When reason fails, you'll resort to blackmail. 
+PICARD: Fine. Destroy yourselves. 
+PULASKI: It's not so bad, Captain. In fifty years we'll have a new
+class M planet, complete with cities, and ready for colonisation. 
+PICARD: You see, the end is closer than you like to think. 
+GUEST0: I don't know. There are so many difficulties. 
+GUEST2: Look, man. We are decent, hard working people. We're willing to
+learn. 
+GUEST0: They're so different. 
+PICARD: It is the differences that have made us strong. 
+GUEST0: For three hundred years, we have denied the carnal side of our
+nature. How can we learn to put that aside? 
+GUEST2: Well, you put a young couple together and you let nature take
+its course. 
+PULASKI: Now if this is going to work, you're going to have to alter
+your society, too. Monogamous marriage will not be possible for several
+generations. 
+GUEST2: I don't quite understand. 
+PULASKI: Thirty couples are enough to create a viable genetic base. But
+the broader the base the healthier and the safer the society. So it
+will be best if each woman, Bringloidi and Mariposan, had at least
+three children by three different men. 
+GUEST2: I think I could handle that, yes. 
+GUEST0: Oh, God, it's so 
+PICARD: Frightening? 
+GUEST0: Repugnant. 
+GUEST2: So, it's a done deal? And here's my hand on it. (complete with
+spit) Right, now, let's go and stake out my three women. Send in the
+clones. 
+PICARD: I must be out of my mind. 
+PULASKI: Starfleet will probably agree with you.
 

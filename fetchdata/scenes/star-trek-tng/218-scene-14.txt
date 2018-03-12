@@ -1,48 +1,49 @@
-PICARD OGAWA CRUSHER LAFORGE
+TROI CRUSHER LAFORGE WORF PICARD RIKER RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Observation lounge]
 
-OGAWA: Sickbay here. 
-CRUSHER [OC]: Is Commander La Forge there? 
-OGAWA: No, Doctor, he's not. Wait a minute. He just came in.
-(After Geordi's examination) 
-PICARD: You wanted to see me, Doctor? 
-CRUSHER: Yes. Captain, have you been getting the feeling that you've
-experienced certain things before? A sense of repetition? 
-PICARD: Yes, recently. While I was reading. Why do you ask? 
-CRUSHER: There have been similar incidents reported all over the ship.
-Feelings of
-dj vu. I had a premonition Geordi was going to come in to Sickbay. A
-few seconds later he did, with the symptoms of an ear infection. I was
-going to run the standard tests, but somehow I had a feeling they would
-turn out negative. So I ran an optical diagnostic which traced the
-problem to Geordi's visor. His dizziness is being caused by a phase
-shift in his visual receptors. It's causing him to see images that
-aren't there. 
-LAFORGE: They're like blurry after-images. 
-CRUSHER: I ran a scan to see if I could detect what he was seeing. I
-picked up miniscule distortions in the surrounding dekyon field.
-Somehow, his visor is translating those distortions into visual
-impulses. 
-LAFORGE: It could be a malfunction in the ship's warp field generator.
-I'll check it out. 
-PICARD: Run a localised subspace scan to look for anything else. 
-LAFORGE: Aye, sir. 
-(Geordi leaves) 
-PICARD: Keep me advised.
+DATA: I have isolated three segments of this
+recording that are crucial. 
+WORF [OC]: A highly localised distortion of the space-time continuum. 
+DATA [OC]: Collision course. Impact in thirty six seconds. 
+PICARD [OC]: All hands, abandon ship! Repeat, all hands abandon 
+LAFORGE: Worf refers to a distortion. If this were a temporal
+distortion, and if we were close enough to it, it's possible that a
+large enough explosion might've ruptured the space time continuum. We
+collided, exploded, then got stuck in this repeating loop of time. 
+PICARD: If you're right about this then perhaps we can escape the loop
+by avoiding the collision. 
+LAFORGE: That's our guess. 
+WORF: Perhaps we should reverse course. 
+RIKER: For all we know, reversing course might be what leads us into
+the crash. 
+PICARD: We can't afford to start second guessing ourselves. We should
+stay on this course until we have reason to change it. But in the
+meantime, I think we should do what we can to avoid a collision. 
+LAFORGE: Captain. We've been seeing the number three all over the ship.
+On consoles, in a poker game. 
+DATA: To date we have encountered two thousand eighty five conspicuous
+examples of the number three. 
+LAFORGE: All of these threes can't be coming up by accident. 
+CRUSHER: Maybe somebody's trying to tell us something. 
+LAFORGE: We came to the same conclusion so we ran a shipwide
+diagnostic. The only unusual thing we found was a dekyon field
+modulation in Data's positronic subprocessors. 
+RIKER: What could be causing it? 
+LAFORGE: I don't know, but if I wanted to send information from one
+loop to the next I might use a method like a dekyon emission. 
+TROI: You think we sent ourselves a message? 
+LAFORGE: It would make sense. Maybe we are trying to tell ourselves
+something. 
+PICARD: If that were true, what could three indicate? 
+RIKER: Maybe we should run a level three diagnostic on all key systems.
 
-[Crusher's quarters]
+LAFORGE: It's a good idea. I'll have the computer run a pattern
+matching algorithm based on the number three. 
+RO [OC]: Bridge to Captain Picard. 
+PICARD: Go ahead. 
+RO [OC]: We're getting unusual readings twenty thousand kilometres off
+the starboard bow. 
+PICARD: On our way.
 
-(This time, Beverly isn't dressed for bed. She
-carefully puts her glass down on another table out of harm's way. As
-soon as she turns out the lights, the voices start and she grabs her
-tricorder to record them.) 
-CRUSHER: Crusher to Commander La Forge. 
-LAFORGE [OC]: La Forge here. 
-CRUSHER: Geordi, I just heard what sounded like voices in my room, but
-no one else is here. 
-LAFORGE [OC]: Sensors just picked up something strange, too. We're
-checking it out. 
-CRUSHER: I'm on my way. 
-(She grabs her lab coat and it knocks the glass of the table. Some
-things just have to happen.) 

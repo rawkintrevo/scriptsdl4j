@@ -1,69 +1,47 @@
-GUINAN COMPUTER DATA LAFORGE
-
-[Ten Forward]
-
-(Guinan pours yellow and blue liquids into a tall
-glass) 
-GUINAN: Hello, Data. Would you like to try something new? It's a
-concoction I heard about on Prakal Two. I think it's wonderful but I
-need a second opinion. 
-DATA: Eighty seven percent Saurian Brandy. Targ milk and Danisian mead
-comprise the rest. There is an unusually high concentration of fructose
-compounds and monosaccharides. 
-GUINAN: Too sweet? Data, if I didn't know you better, I would say you
-were a little preoccupied. 
-DATA: Lieutenant D'Sora just gave me what could be considered a very
-passionate kiss in the torpedo bay. 
-GUINAN: Really? And? 
-DATA: I was intrigued. Jenna seemed to be displaying genuine affection
-for me. 
-GUINAN: Well, what do you think of her, Data? 
-DATA: I find her to be a competent officer. Highly motivated, though
-somewhat lacking in her understanding of the theory underlying the
-dilithium matrix application. 
-GUINAN: I meant personally? 
-DATA: I look forward to the time we spend together. 
-GUINAN: Well, then it seems the next move is yours. What are you going
-to do? 
-DATA: I do not know. I have no experience in such matters. I require
-advice. 
-GUINAN: Don't look at me. No, no, Data, I simply mean that I can't give
-you any advice here. It's not good to advise people about their first
-love affairs. That's kind of something they have to figure out for
-themselves. 
-DATA: But I am not capable of love. 
-GUINAN: Then it's going to be a very unique experience.
-
-[Corridor]
-
-LAFORGE: Data. Missing someone? I found Spot
-wandering through the corridor two sections away. 
-DATA: Thank you. 
-LAFORGE: Forget to secure the door when you left? 
-DATA: The door sensor is programmed to recognise only humanoid forms
-for
-entry and egress. Spot could not have triggered the mechanism.
+DATA GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Data's quarters]
 
-LAFORGE: Maybe someone came in while you were away,
-let him out by accident. Has anything been disturbed? 
-DATA: It does not appear so. Computer, has anyone been in my quarters
-in the last twelve hours other than Commander La Forge and myself? 
-COMPUTER: Negative. 
-LAFORGE: That's really strange. You know, to be on the safe side maybe
-I should report a possible unauthorised entry to Security. 
-DATA: Geordi, may I ask your advice in a personal matter? 
-LAFORGE: Sure, Data. 
-DATA: Should I pursue a relationship with Lieutenant D'Sora? 
-LAFORGE: I thought she and Jeff Arton 
-DATA: They have discontinued their association. She has made the first
-move in initiating a relationship with me. What should I do? 
-LAFORGE: She's just coming out of a bad situation. You know, sometimes
-it takes people a while, Data, but then, if they jump right into
-another relationship, you see, that can be trouble, unless, of course,
-she's really ready, and then I guess it depends on whether or not
-you're really serious. This can be a little complicated. Listen, my
-advice is ask somebody else for advice. At least someone who's got more
-experience at giving advice.
+(Data is painting when the doorbell rings) 
+DATA: Enter. 
+(Jenna is carrying a sculpture) 
+GUEST2: I know it's a little unexpected. 
+DATA: You are correct. I did not anticipate your arrival until nineteen
+hundred hours. 
+GUEST2: I couldn't wait. I wanted you to have this. 
+DATA: You have often expressed dissatisfaction with the spartan nature
+of my quarters. Is this an attempt at embellishment? 
+GUEST2: The cat's out of the bag. 
+DATA: Spot? 
+GUEST2: No, I mean you've caught me in the act. I'm just trying to
+brighten things up around here. It's Tyrinean. What do you think? 
+DATA: Its line is both fluid and formal, yet retains an unpremeditated
+quality. The tactility of its surface
+embellishment is evocative of the neo-primitive period in Tyrinean
+blade carving. 
+GUEST2: I hadn't thought of it that way. I'm sorry. Don't let me
+interrupt. 
+DATA: As you wish. 
+(he returns to his painting) 
+GUEST2: Data? 
+DATA: Yes? 
+GUEST2: The Book of Love, chapter four, paragraph seventeen: When your
+girlfriend arrives with a gift, stop whatever it is you're doing, and
+give her your undivided attention. 
+DATA: I should not have resumed my painting? 
+GUEST2: No. 
+DATA: Despite your suggestion that I continue? 
+GUEST2: Exactly. 
+DATA: I have much to learn. 
+GUEST2: Why don't we start with this. A critical analysis isn't
+necessarily the best response to a gift. 
+DATA: Perhaps if I looked for a suitable place to display it? 
+GUEST2: Much better. 
+DATA: The ambient light in this location accentuates its contours.
+However, a gift should not necessarily be placed according to aesthetic
+criteria. A more central location will carry added meaning. 
+GUEST2: Data, what's important is that you're trying. You don't know how
+much that means to me. Why don't you go back to your painting? Oh, I
+really mean it this time. I'll see you tonight.
 

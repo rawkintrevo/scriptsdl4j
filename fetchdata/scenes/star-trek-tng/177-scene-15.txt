@@ -1,44 +1,61 @@
-RIKER OBRIEN WORF PICARD CRUSHER DATA
+GUEST1 RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jefferies tube]
+[Outside Soong's lab]
 
-(Riker is up the ladder, Worf at the bottom) 
-WORF: The isolinear subprocessor extends three point five metres. 
-RIKER: I've got a clear path to panel J14 baker. What's that going to
-do for us? 
-WORF: J14 baker backs onto science station two, Commander. 
-RIKER: Have they reinverted the environmental control sequencer? 
-WORF: Yes, sir. Life support has been re-established. 
-RIKER: Then you and Casey get up here. Let's get to it.
+WORF: The human is here. 
+RIKER: And Data? 
+WORF: No way of knowing. 
+RIKER: Set them on stun.
 
-[Bridge]
+[Soong's lab]
 
-DATA: Computer, configure a perimeter field charge,
-sections Nine K through Twelve T.
+LAFORGE: Down here. 
+RIKER: Worf. 
+(La Forge and Riker help Soong, who is just recovering consciousness) 
+RIKER: It's all right. Take it easy. 
+LAFORGE: This, this is Doctor Noonian Soong. 
+RIKER: That's impossible. Soong's dead. 
+LAFORGE: No, I'm telling you. Look at this stuff. It's Soong, all
+right. 
+(Worf carries in Data from the living room. He is dressed in Lore's
+clothes. Riker goes over) 
+RIKER: Here. Let me. 
+(He switches Data back on so Worf can put him down) 
+RIKER: Would you mind telling me what's going on here? 
+DATA: He surprised me. 
+LAFORGE: Commander. 
+DATA: What has happened here? Doctor. Doctor Soong. 
+GUEST1: So alike. He saw I couldn't tell you apart. There was only one
+chip. I tried to tell him, but I couldn't. If I wanted to I couldn't
+build another one. 
+RIKER: Tried to tell who? Damn it, Data, what's going on? 
+DATA: Lore, sir. He was inadvertently summoned here by the same signal
+which activated my homing circuitry. It seems that after nearly two
+years in interstellar space, he was 
+RIKER: Mister Data, there's a very sick little boy onboard the
+Enterprise who's not getting any better. We're dead in the water until
+you get us out of here. 
+GUEST1: It's all right. Access your third nested memory file and execute
+instruction five one five five. That will clear your memory block. 
+DATA: I was unaware of having caused any inconvenience, sir. 
+RIKER: We'll discuss it later, Mister Data. Doctor, you're coming with
+us, too. You need to get to Sickbay. 
+GUEST1: Young man, I've lived here a long time. I have no plans to die
+anywhere else. 
+DATA: But sir, our medical facility may be able to 
+GUEST1: Go, go, go, go Data. Go. Go with your friends. 
+DATA: May I say goodbye to Doctor Soong, sir? Alone, sir? 
+(Riker and La Forge leave) 
+GUEST1: Everybody dies, Data. Well, almost everybody. 
+DATA: Do you believe that we are in some ways alike, sir? 
+GUEST1: Yes, in many ways, I'd like to believe. 
+DATA: Then it is alright for you to die, because I will remain alive.
+You know that I cannot grieve for you, sir. 
+GUEST1: You will, in your own way. Goodbye. Goodbye, Data. 
+DATA: Goodbye, Father.
 
-[Jefferies tube]
-
-(Fizz!) 
-RIKER: What the hell was that? 
-WORF: He's activated a force field, sir. 
-RIKER: Great. Just great.
-
-[Engineering]
-
-PICARD: Chief O'Brien. 
-O'BRIEN [OC]: Yes, Captain. 
-PICARD: We had better disable the site to site transport function. 
-[Transporter room]
-
-PICARD [OC]: When we get wherever we're going, I
-don't want Mister Data beaming off the Bridge. 
-O'BRIEN: I'll get right to it, sir. 
-[Engineering]
-
-PICARD: Doctor Crusher. 
-CRUSHER [OC]: Yes, Captain. 
-PICARD: Is your quarantine intact? 
-CRUSHER [OC]: So far, sickbay force fields don't seem to have been
-affected. 
-PICARD: The boy?
+Captain's log, Stardate 44091.1. We have been at
+Starbase four one six for three days. Young Willie Potts is responding
+well to treatment and has been returned to the Enterprise.
 

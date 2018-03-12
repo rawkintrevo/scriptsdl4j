@@ -1,65 +1,102 @@
-RIKER ONEONE MINUET COMPUTER ZEROZERO CRUSHER
+RIKER LAFORGE WORF TASHA PICARD COMPUTER GUEST6 GUEST2 DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Starbase Command Centre]
 
-CRUSHER: Well, since then I've been working on an
-approach that combines cybernetics and regeneration. It sounds
-impossible, I know, but I have found an approach which will work. I
-mean, what an opportunity. To have a chance to talk with Doctor
-Epstein. Sorry, Will, I'd love to chat, but I have to go.
-
-[Outside holodeck]
-
-(Bynars with a different style of clothes are
-working) 
-RIKER: How's it going? 
-ZERO ZERO: (left hand side) We are almost done. 
-ONE ONE: (right hand side) The deviation 
-ZERO ZERO: caused by a previous 
-ONE ONE: probe has been corrected 
-ZERO ZERO: You may use the equipment 
-ONE ONE: anytime you wish. 
-RIKER: How much has been changed? What exactly did you do? 
-ONE ONE: Enhancement. 
-ZERO ZERO: Nothing more. 
-(They talk to each other in binary) 
-ZERO ZERO: Would you like to try 
-ONE ONE: the enhancement? 
-RIKER: All right. What should I choose? Computer, I'd like some place
-to play some music. A little atmosphere. 
-COMPUTER: Specify. 
-RIKER: Jazz. 
-COMPUTER: Era? 
-RIKER: Circa 1958. 
-COMPUTER: Location. 
-RIKER: Kansas City. No, wait. New Orleans. Bourbon Street Bar, New
-Orleans. Around two a.m. 
-COMPUTER: Programme complete. Enter when ready.
+(Data and Geordi beam in) 
+WORF: Did you see the Captain and Commander Riker? 
+DATA: No. Are they not here on Starbase? 
+TASHA: No, we thought 
+LAFORGE: You mean they're still on the Enterprise? 
+WORF: Yes. Sir, where is your transporter room? 
+DATA: We have to beam back and get them. 
+GUEST0: You haven't time. 
+GUEST2: This is Starbase 74. The Enterprise magnetic field is
+regenerating. 
+LAFORGE: Wait a minute. How is that possible? 
+GUEST2: Unknown. 
+TASHA: That changes nothing. The Captain and Commander Riker must be in
+trouble, or they'd be here. 
+GUEST0: Look. Your ship is almost clear. 
+(Enterprise gracefully backs out of the space doors and warps away)
 
 [Holodeck]
 
-(A nightclub with a slightly raised stage, tables
-with candles for light) 
-RIKER: Very good. Very good indeed. Now I'll need someone to play with.
-A trio. Piano, bass and drums, and a 'bone for me. 
-(The musicians appear) 
-RIKER: Now an audience. Whoa. Too many. I was thinking of something a
-little more intimate. 
-(A single blonde in a red dress) 
-RIKER: Great job, boys. But, computer, blondes and jazz seldom go
-together. (a red-head) Now that is truly exceptional. But more sultry. 
-(A brunette at the bar) 
-RIKER: Gentlemen, if this is what you call enhancement, you've got a
-gift for understatement. 
-(The Bynars work on the internal controls as the band starts playing) 
-RIKER: What's your name? Tell me you love jazz. 
-MINUET: My name is Minuet and I love all jazz except Dixieland. 
-RIKER: Why not Dixieland? 
-MINUET: You can't dance to it. 
-RIKER: My girl. What's a knockout like you doing in a
-computer-generated gin joint like this? 
-MINUET: Waiting for you. 
-RIKER: Waiting for me? You can't be serious. 
-MINUET: Oh yes, Will. I've never been more serious in my life. 
-(The Bynars leave)
+(The only red here is Minuet's dress. Riker and
+Minuet are staring into each other's eyes) 
+GUEST6: And the boy never found out? 
+RIKER: Oh, yes, but not until later when he came back into the room
+with his little sister. 
+GUEST6: I'll bet both of them were all smiles. 
+RIKER: Yes, but by that time both of them had been found out. 
+GUEST6: You handled that in a very thoughtful way. You're very good
+with people. Don't you agree, Jean-Luc? 
+PICARD: She's so very different from the images we've experienced on
+the holodeck, isn't she? She's more intuitive. 
+RIKER: It's as though she's been plugged into my subconscious. She
+already knows what I want her to say before I'm aware of it myself. 
+PICARD: I suppose it's an understandable progression. Computers make
+decisions based on inputs and we humans give off a multitude of subtle
+signs that communicate our emotions. 
+RIKER: It's uncanny. I could develop feelings for Minuet, exactly as I
+would for any woman. 
+PICARD: Doesn't love always begin that way? With the illusion being
+more real than the woman? 
+GUEST6: Oh, Jean-Luc, spoken like a true Frenchman. 
+PICARD: Well, I think I'll be leaving. 
+GUEST6: Oh, don't go. 
+PICARD: Two's company. 
+GUEST6: We have time. There's no rush. I'd really like it if you would
+stay. 
+RIKER: Yes, Captain, stay. 
+PICARD: This is your diversion, Number One, not mine. 
+GUEST6: Wait! We haven't danced. 
+PICARD: I don't dance. 
+GUEST6: Then some more wine. 
+PICARD: No, thank you. 
+GUEST6: Wait! Please! Please, don't go. You can't. Not yet. 
+RIKER: Why? What's the matter? Why can't he leave? 
+PICARD: Exit! 
+(The holodeck doors open and they seen and hear the Red Alert. Picard
+goes to the arch controls) 
+PICARD: Captain to Bridge. Situation report. 
+RIKER: Riker to Bridge. 
+PICARD: Computer, explain Red Alert. 
+COMPUTER: Initiated as a programmed response. The magnetic field
+containing the antimatter had weakened. There was no fail-safe
+available. 
+PICARD: Why wasn't I notified? 
+COMPUTER: Unknown. 
+PICARD: Present condition? 
+COMPUTER: The magnetic field is now restored. Containment is restored.
+Propulsion is at maximum efficiency. 
+PICARD: Locate Lieutenant Commander Data. 
+COMPUTER: Not on board the Enterprise. 
+PICARD: Explain. 
+COMPUTER: All Enterprise personnel except the Captain and First Officer
+have been evacuated. 
+PICARD: Evacuated? Was the condition that critical? 
+COMPUTER: Yes. 
+RIKER: Are we still docked at the starbase? 
+COMPUTER: No. 
+PICARD: Position report. 
+COMPUTER: Co-ordinates four one five nine point two six by eight one
+nine two one by three one two. Heading two three three mark four five. 
+PICARD: Destination? 
+COMPUTER: Planet Bynaus in the Beta Magellan system. 
+RIKER: The Bynars. 
+PICARD: Am I to understand the Bynars have stolen the Enterprise? 
+COMPUTER: That information is not available. 
+PICARD: It's the Bynars, and you're part of this. 
+GUEST6: Yes. 
+RIKER: They made you the lure to keep me here. They programmed you
+while I was relaxing. 
+GUEST6: Yes. When they saw your interest in me, they thought I could
+distract you and keep you here. 
+PICARD: That explains, Riker. What about me? 
+GUEST6: Your being here was just a fortunate happenstance. 
+RIKER: Why do they want with me? 
+PICARD: What do they want with the Enterprise? What's their purpose? 
+GUEST6: I'm not programmed to give you that information. 
+PICARD: Come on, Number One. We've got to regain control of our ship.
 

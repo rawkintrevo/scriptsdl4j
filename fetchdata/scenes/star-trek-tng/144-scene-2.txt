@@ -1,47 +1,6 @@
-PICARD RIKER COMPUTER DATA
+PULASKI PICARD DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
-
-PICARD: I've just come from a meeting with Admiral
-Moore. He wanted to discuss this. 
-(He plays a regular sound pattern) 
-PICARD: Recognise it? 
-RIKER: Sounds like it might be an SOS. 
-PICARD: Good guess. You're quicker than Starbase research. It took them
-hours to determine this was a distress beacon. 
-RIKER: When was it detected? 
-PICARD: Last month. Just kicked in without any warning. 
-RIKER: Who used the beacon? 
-PICARD: It's Terran. 
-RIKER: Captain, I'm familiar with most Earth codes, and 
-PICARD: Interesting. Yes, that code hasn't been used in centuries. 
-RIKER: What was its origin point? 
-PICARD: Ficus sector. 
-RIKER: Captain, I don't think there's any record of an Earth colony in
-that area. 
-PICARD: Now we know there's someone out there and they're asking for
-help. 
-RIKER: But who? 
-PICARD: Let's try and find out. Computer, download all information
-regarding signal beacon from Starbase mainframe. 
-COMPUTER: Distress beacon used by the European Hegemony. 
-RIKER: The European Hegemony? 
-PICARD: A loose alliance formed in the early part of the twenty second
-century. It was the first stirrings of world
-government. You should read more history, Number One. Computer, locate
-exact dates in which this signal beacon was in general use. 
-COMPUTER: Old Earth calendar, 2123 until 2190. 
-RIKER: No extraterrestrial source ever used this code? 
-COMPUTER: Negative. 
-PICARD: Locate all Earth deep space launches from 2123 until 2190, with
-a destination in or near the Ficus sector. 
-COMPUTER: Working. 
-(The usual list of staff names appear as commanders of various vessels,
-including Melinda Snodgrass and Gene Roddenberry) 
-RIKER: Nothing for Ficus. 
-PICARD: Damn it, who's out there? 
-RIKER: Lost sheep. 
-PICARD: Let's go see if we can find them. 
 [Bridge]
 
 (Crew are gathered around a figure on the floor) 
@@ -54,3 +13,33 @@ from Starbase Seven Three to investigate the source of the mysterious
 distress signal. Meanwhile, my Security Officer remains in Sickbay,
 where Doctor Pulaski is searching for the cause of his collapse.
 
+[Sickbay]
+
+WORF: I am fine. 
+PULASKI: You're not fine. You fainted. 
+WORF: I did not faint. Klingons do not faint. 
+PULASKI: Excuse me, I'll rephrase. This Klingon suffered a dramatic
+drop in blood pressure, his blood glucose level dropped, there was
+deficient blood flow resulting from circulatory failure. In other
+words, he curled up his toes and laid unconscious on the floor. 
+WORF: Doctor, there is no need to insult me. 
+PULASKI: Worf, I am worried. Now, something is wrong. Klingons don't
+faint. Forgive me. I just can't think of another word that applies.
+You're sick. 
+WORF: Klingons do not give in to illness. 
+PULASKI: Just stay right where you are. I have to check something with
+the computer. Lieutenant, you have rop'ngor. 
+WORF: But that is a childhood ailment! 
+PULASKI: Yes. 
+WORF: How shall I live down the humiliation? 
+PULASKI: Worf, you can't help. 
+WORF: Still, for a warrior to find himself in such a situation. 
+PULASKI: So you've got the Klingon version of the measles. 
+WORF: How would Commander Riker feel if he had the measles. 
+PULASKI: Pretty silly. 
+PICARD [OC]: Doctor Pulaski, how is Lieutenant Worf? 
+PULASKI: He's in no danger. Worf was just observing a Klingon ritual
+involving fasting, and he didn't take into account that you have to
+decrease your physical activity as you decrease your caloric intake.
+Pulaski out. 
+WORF: Thank you. I am in your debt. 

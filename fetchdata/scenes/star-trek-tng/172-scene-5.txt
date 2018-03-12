@@ -1,87 +1,50 @@
-TROI LAFORGE LWAXANA PICARD RIKER WESLEY DATA TOG
+TROI GUEST2 GUEST1 LWAXANA RIKER TOG
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Holding cell]
 
-WESLEY: Adding pre-processors to the neutrino
-counters boosted efficiency by eleven percent. Of course, Commander La
-Forge and Commander Data did most of the work. 
-LAFORGE: Not so fast, Wesley. Pre-processing the data with an optical
-chip was your idea. 
-DATA: That is correct, sir. Although Commander La Forge and I designed
-the chip, Mister Crusher derived the equation governing its operation. 
-RIKER: The point is, you've completed the upgrade well ahead of
-schedule. Very impressive. 
-PICARD: Indeed. Fine work. We shall miss you, Mister Crusher. As you've
-guessed, final entrance examination scores from Starfleet Academy have
-arrived. Congratulations. As soon as you have completed the oral exam,
-you'll be formally admitted. 
-RIKER: We'll have you back at Betazed in plenty of time to meet up with
-the Academy transport ship. 
-WESLEY: Thank you, sir. 
-PICARD: That'll be all. Number One, a moment. 
-(Wesley and Geordi leave) 
-RIKER: Yes, Captain? 
-PICARD: You'll agree that this is a fairly routine mapping mission? 
-RIKER: Yes, sir. 
-PICARD: Counsellor Troi had the good sense to ask for shore leave. I
-can see I'm going to have to suggest it to you. Have a good time,
-Number One.
+(They wake up in a large cell with a forcefield at
+the entrance. Two Ferengi are playing 3D chess outside) 
+RIKER: Lwaxana? Deanna? 
+LWAXANA: Where are we? 
+RIKER: From the smell of things, I'd say we're aboard a Ferengi vessel.
 
-[Clearing]
+LWAXANA: The Ferengi can't do that. You're Starfleet officers. 
+RIKER: Tog must have missed that chapter in the Ferengi book of
+Etiquette. (taps his comm. badge) Enterprise? Must be too far out of
+range. 
+(Riker tests the forcefield - it hurts) 
+GUEST1: DaiMon, they have regained consciousness. 
+TOG [OC]: Very good. 
+(Deanna and Lwaxana are beamed away, and their dresses fall empty to
+the floor) 
+[Tog's quarters]
 
-(Will and Deanna are strolling hand in hand through
-an exotic parkland. Both are in civilian dress)
-RIKER: I think it's around here somewhere. 
-TROI: Maybe it died. It has been a few years. 
-RIKER: Muktok live for hundreds of years. Here it is. 
-(A low growing plant with a fluffy purple flower that chimes when you
-shake it) 
-TROI: It's lovely. I remember that sound, and all the good times we
-had. 
-RIKER: I remember a certain junior officer meeting a very serious
-psychologist. The best part about being assigned to Betazed. 
-(as they kiss, they don't notice the flamboyantly dressed woman, and a
-tall man carrying picnic baskets) 
-LWAXANA: Oh, this is the perfect spot. Put the food down over there,
-Mister Homn. Isn't it a beautiful day for a picnic? They'll join us in
-a minute. No, no, no, no. Here, put the food over there. No, you can go
-back 
-TROI: Mother, how did you know about this place? 
-LWAXANA: Your father used to bring me here. Sit down. 
-RIKER: And you even brought provisions. Very thoughtful. 
-LWAXANA: Here, Will, Deanna. Try an oskoid. They're delicious. That sap
-running through the veins helps keep it warm. 
-RIKER: Very tasty. So tell us, Lwaxana. The last time we met, you were
-looking for a husband. Did you have any luck? 
-LWAXANA: Alas, no, but what happens to me isn't important. I'm much
-more concerned about other people getting on with their lives. 
-TROI: Mother. 
-LWAXANA: Mister Homn, I noticed some uttaberries back along the path.
-Pick some. 
-(Homn dutifully leaves them) 
-LWAXANA: Well, Mister Homn and I could go back home if you two would
-like to be alone. It's such a romantic setting. 
-TROI: Mother, stop it. 
-LWAXANA: Darling, you have been so excitable lately. Have you ever
-thought of a leave of absence? I could talk to Jean-Luc. 
-RIKER: Try the oskoid. Very different. 
-(A Ferengi beams in) 
-RIKER: What the? 
-TOG: For one whose beauty surpasses even these pericules. 
-RIKER: DaiMon Tog, I thought the Krayton left orbit hours ago. 
-TOG: It did. But when I tried to get the image of Lwaxana Troi out of
-my mind, I could not succeed. 
-LWAXANA: This is ludicrous. You mean you came all the way back to
-Betazed for me? 
-TOG: Why continue to search for perfection once you have found it? 
-TROI: I don't believe this. 
-LWAXANA: Look, Demon Tog, or whatever you call yourself, I am the
-Daughter of the Fifth House, Holder of the Sacred Chalice of Rixx, heir
-to the Holy Rings of Betazed. And unless you want to create an
-interstellar incident, you had better beam back to your ship. 
-TOG: Returning to my ship is exactly what I had in mind. Krayton,
-transport four immediately. 
-RIKER: No, Tog! 
-(And they all disappear. Mr. Homn returns, eating berries, and looks
-around somewhat bemused)
+LWAXANA: I should have known. Even their
+transporters can't be trusted. 
+TROI: Why have you removed our clothing? 
+GUEST2: Females do not deserve the honour of clothing. 
+LWAXANA: They're as bad as humans. Look at the leer on his face. 
+TOG: No. His is an expression of revulsion. But it is a feeling that I
+do not share, Lwaxana. 
+(Lwaxana picks up a couple of bedsheets or something, and hands one to
+Deanna. They wrap them around themselves) 
+LWAXANA: Well, it's cold in here. Do you want me to become ill? 
+TOG: You must forgive the doctor. He is not accustomed to dealing with
+Betazoid females. Now, Lwaxana, I have a business proposition for you. 
+LWAXANA: Thanks, but I'm not interested in any of your propositions. 
+TOG: Hear me out. Your telepathic powers could bring us both great
+profit. 
+LWAXANA: Huh. Why would I want to bring you profit? 
+GUEST2: In order to keep your daughter alive and healthy, for one. 
+TOG: There's no need for threats. Lwaxana is a sensible female 
+TROI [telepath]: I don't like the sound of this, mother. 
+LWAXANA [telepath]: I believe I can control him, Little One. 
+LWAXANA: I'm sure we can talk about this. Just the two of us. 
+TOG: A wise choice. Farek, leave us. And you may rejoin your friend. 
+TROI [telepath]: Mother, are you sure? 
+LWAXANA [telepath]: I'll be fine. 
+(Deanna vanishes) 
+TOG: And now, Lwaxana Troi, let us talk. 
+(He presses a button and a bed slides out from the wall)
 

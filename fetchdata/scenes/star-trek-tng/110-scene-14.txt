@@ -1,66 +1,48 @@
-PICARD RIKER DATA LAFORGE VOICES
+TROI LAFORGE PICARD RIKER GUEST0 GUEST1 VOICE DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Stargazer Bridge]
 
-(The trunk has been delivered. Picard goes to lie
-down on his bed) 
-VOICES [OC]: Shields weakening, Captain. Torpedoes armed. Where are
-they? Oh my god, sir! Fire! Fire!
+(Picard is surrounded by the ghosts of his crew,
+and the flames) 
+PICARD: Damn, I said put fusion generators under surge control. You're
+moving too slowly. Arm the torpedoes, man!
+Vigo! Get a fire control party up here! 
+GUEST0 [OC]: Shields weakening, Captain! Fusion generator online. 
+PICARD: Weapons report! 
+VOICE [OC]: Phasers coming to full charge, sir. Torpedoes armed! 
+PICARD: Who are they? Identify them! 
+VOICE [OC]: They're coming for a third pass at us, sir! 
+VOICE [OC]: We can't take another hit, Captain!
 
-[Ready Room]
-
-RIKER: What is it, Data? Why all the mystery? 
-DATA: The records of the Stargazer, sir. What the Ferengi call the
-Battle of Maxia. It seems the Captain's personal log contains a much
-different version of that conflict than the official historic account. 
-RIKER: What are you saying? 
-DATA: It would appear that the starship which Captain Picard attacked,
-had in fact, been under a flag of truce. 
-RIKER: What? 
-DATA: And apparently, the Captain destroyed the ship without notice or
-provocation. 
-RIKER: Impossible. What about the fire aboard the Stargazer? 
-DATA: An accident in Engineering. 
-RIKER: And what proof? 
-DATA: It is logged in his own voice, sir. Would you care to hear it,
-sir? Sir?
-
-[Picard's quarters]
-
-PICARD [Stargazer log]: This is a confession given
-by me, Jean-Luc Picard commanding USS Stargazer. 
-PICARD: What does this mean? 
-RIKER: I don't know, sir. It sounds like your voice. 
-PICARD: It is, Number One. 
-RIKER: I refuse to believe you ever said that. 
-PICARD [Stargazer log]: I admit I must have mistaken their subspace
-antenna for a weapons cluster. Unfortunately, I fired our main phasers
-and our direct hit destroyed the unknown vessel. 
-RIKER: I've assumed they've simulated your voice somehow. I've already
-put Data to work on it. 
-PICARD: Thank you, Will. I never made that log entry, of course, but it
-still leaves you with a duty to perform. 
-RIKER: I know, sir, I must report it to Starfleet. That's at least one
-full day for subspace communications to reach there. 
-PICARD: And one more full day for their answer to return. I'd like the
-truth on this by then. I'd hate to have to prepare a formal defence. 
-RIKER: I can't believe they'd ask for your command. 
-PICARD: Why wouldn't they? With the Ferengi making these friendship
-overtures, I could become a severe
-embarrassment to Starfleet. 
-RIKER: I'm certain the Ferengi are behind the faked log. No wonder
-they're waiting out there. Headache back, sir? 
-PICARD: Damn! I'll call the Doctor again. 
-RIKER: It's no wonder, with all this going on. Try to relax. 
-(Riker leaves) 
-PICARD [Stargazer log] This is a confession given by me, Jean-Luc
-Picard, commanding USS Stargazer, in the hopes that my belated honesty
-will be taken into account by Starfleet when judging my actions during
-a confrontation with an unidentified vessel. 
 [Bridge]
 
-RIKER: Open hailing frequencies, Geordi. 
-LAFORGE: Open, sir. 
-RIKER: I'll take it in the Ready room. Secure channel, La Forge. 
-LAFORGE: Secure, Sir.
+TROI: Sir, I now feel anger from our Captain. Fury
+over whatever it is he is reliving out there. 
+LAFORGE: The Battle of Maxia, sir. That's what it is. 
+RIKER: The Picard Manoeuvre. What is the defence against that, Data? 
+DATA: There is no defence, sir. 
+RIKER: Then devise one, fast! 
+GUEST1 [on viewscreen]: First Officer Kazago to human Riker. 
+RIKER: Not now, Kazago. 
+GUEST1 [on viewscreen]: We do not wish to become involved in what has
+become clearly a Federation matter. 
+RIKER: Fine, fine, Enterprise out! 
+GUEST1 [on viewscreen]: You should also know that DaiMon Bok no longer
+commands this vessel. His First Officer has confined him for engaging
+in this unprofitable venture. Good luck, First Officer Riker. 
+DATA: I have computed a possibility, Commander. Since even deep space
+contains trace gases, sir, a vessel in the Picard manoeuvre might seem
+to disappear, but our sensors could locate any sudden compression of
+those gases. 
+RIKER: And use it as an aiming point and blow our Captain to bits? 
+DATA: This class starship has enough power to use our tractor beam on
+it. Seize it, limit it's field of fire. 
+RIKER: Right. Concentrate shields at that point. Make it so. I hope
+you're right, Data. 
+DATA: No question of it, sir. 
+RIKER: Stand by! 
+(Stargazer suddenly appears to be in two places at once) 
+RIKER: Lock on tractor beam. 
+(And the Stargazer is held)
 

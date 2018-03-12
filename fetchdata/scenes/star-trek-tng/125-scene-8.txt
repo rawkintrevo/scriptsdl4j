@@ -1,55 +1,58 @@
-RIKER LAFORGE WORF PICARD COMPUTER CRUSHER DATA
-
-[Ready room]
-
-DATA: Computer, this is Lieutenant Commander Data.
-Please access all Starfleet Command orders to starships, starbases and
-colonies for the past six months. 
-COMPUTER: Working.
+TROI LAFORGE GUEST2 PICARD RIKER GUEST1 WORF QUINN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Doctor. 
-CRUSHER: I understand the Horatio was in orbit around Dytallix. Did you
-see Walker? 
-PICARD: No. 
-CRUSHER: Oh. I would have loved to have seen him. 
-PICARD: It wasn't possible, Doctor. 
-WORF: Captain, I am picking up an unusual disturbance in a nearby
-quadrant. 
-LAFORGE: Confirmed, sir. Sector sixty three. 
-PICARD: Specify. What kind of disturbance? 
-WORF: Hard to say at this distance, sir. 
-RIKER: I guess the trip Pacifica will have to wait. 
-PICARD: Let's investigate. Maintain speed. Alter course accordingly. 
-LAFORGE: Aye, sir. Changing course to three five one mark four. 
-(After a quick trip) 
-LAFORGE: Approaching sector sixty three, sir. 
-PICARD: Slow to impulse. 
-LAFORGE: Aye, sir. Going to impulse power, now. 
-WORF: Sensors beginning to pick up small objects, sir. 
+LAFORGE: Approaching Earth, sir. 
+PICARD: Standard orbit, Mister La Forge. 
+LAFORGE: Standard orbit, sir. 
+PICARD: Any word from Starfleet Command, Data? 
+DATA: Nothing so far, sir. 
+PICARD: Strange. 
+(Enterprise glides over the moon on final approach) 
+DATA: Captain. I am now receiving a message from Starfleet Command. 
 PICARD: On screen. 
-(The objects are radiating out from a single location) 
-RIKER: It doesn't look natural. 
-PICARD: Agreed. Enlarge and identify. 
-WORF: It looks like debris. From a space vessel of some kind. 
-RIKER: It could be one of those ships that was orbiting Dytallix. 
-LAFORGE: We are in close proximity to that planet. 
-PICARD: Identifying marks, Mister Worf? 
-WORF: Nothing so far. Sensors not detecting any bodies in the flotsam,
-but from the amount of wreckage. I'm sorry sir. It can only be the
-Horatio. From the looks of it, she's been totally destroyed.
-
-Captain's personal log, stardate 41776.1. The
-apparent death of Walker Keel has had a powerful impact on me. I now
-believe there may be a cancer growing within the ranks of Starfleet. As
-a result, I have alerted my Executive Officer to the suspicions voiced
-by Keel and the others.
-
-[Observation lounge]
-
-RIKER: There's no proof of anything. 
-PICARD: The last time I saw Admiral Quinn he tried to warn me about a
-subversion within the Federation. Then Walker tried, and he's dead. 
-RIKER: Subversion? Personally, I don't believe this conspiracy theory.
-
+(A trio of elderly Admirals are seated behind a desk. Two humans
+flanking a Vulcan) 
+GUEST2 [on viewscreen]: Greetings Enterprise. I am Admiral Savar. This
+is Admiral Aaron, and I believe you already know Admiral Quinn. 
+PICARD: Yes, indeed. It's good to see you again, Admiral. 
+QUINN [on viewscreen]: And you, Captain. 
+GUEST2 [on viewscreen]: Of course. We are always delighted when the
+Enterprise returns to the nest. Yet we are puzzled by the timing of
+your visit. 
+PICARD: Yes, sir. I can imagine you would be. 
+GUEST1 [on viewscreen]: Governor Delaplane of Pacifica informs us that
+you cancelled your scheduled stop there. Is this true? 
+PICARD: Yes, sir, it is. 
+GUEST1 [on viewscreen]: Explain yourself, Captain. Why have you returned
+to Earth? 
+PICARD: I would rather discuss in person, Admiral. 
+(Dexter Remmick appears and whispers to Savar) 
+GUEST2 [on viewscreen]: Excuse us for one moment, Captain. 
+RIKER: They seem normal enough. 
+PICARD: On the surface. Counsellor, any thoughts? 
+TROI: Hard to say. Someone is hiding something, but I can't tell who or
+what. 
+RIKER: I must say I'm not overjoyed to see Remmick again. 
+LAFORGE: Considering what we've done, their response has been pretty
+temperate. 
+WORF: I don't like it. You can't trust them. 
+GUEST2 [on viewscreen]: Forgive the delay, Captain Picard. We'd be
+delighted if you and your First Officer would join us for dinner. 
+GUEST1 [on viewscreen]: Yes. Delighted. 
+GUEST2 [on viewscreen]: It would give you a good opportunity to
+expatiate your viewpoint. 
+GUEST1 [on viewscreen]: To elaborate upon whatever it is that's
+troubling you. 
+PICARD: Thank you. We accept your gracious offer. 
+GUEST2 [on viewscreen]: Excellent. Preparations are already underway. 
+GUEST1 [on viewscreen]: We'll greet you in the reception area in, say,
+twenty minutes? 
+PICARD: Splendid. 
+QUINN [on viewscreen]: I won't be able to attend dinner, I'm afraid,
+but I would like to see the ship and say hello again, Captain. 
+PICARD: Of course. We look forward to seeing you, Admiral. Enterprise
+out. Quinn wants to see us alone. At least we know he's still on our
+side. Mister Data, you have the Bridge. 
+DATA: Aye, sir. 

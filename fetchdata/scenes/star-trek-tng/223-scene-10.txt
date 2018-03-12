@@ -1,63 +1,39 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER
-
-[Crash site]
-
-CRUSHER: I'm afraid we've turned that corner
-already.
-WORF: Kill it now. Make it appear that it died in the crash. 
-[Bridge]
-
-WORF [OC]: Leave no evidence that we were ever
-here. 
-PICARD: Security measures must be taken before we beam it on board. 
-CRUSHER [OC]: Thank you, Captain. Standing by. 
-PICARD: Mister Data, notify Security to prepare a detention cell.
-Bridge to Engineering.
-LAFORGE [OC]: La Forge here. 
-PICARD: We're bringing a Borg survivor on board. We'll need to
-neutralise the homing signal 
-[Engineering]
-
-PICARD [OC]: Prevent it from sending or receiving
-transmissions of any kind.
-LAFORGE: I'll set up a subspace damping field around the detention
-cell. 
-PICARD [OC]: Very well. 
-[Crash site]
-
-WORF: Four more. None survived.
-PICARD [OC]: Picard to Riker.
-RIKER: Go ahead, Enterprise.
+BORG PICARD RIKER DATA GUINAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: We are transporting you directly to the
-detention cell.
-CRUSHER [OC]: I need him in Sickbay, Captain.
-PICARD: The cell, Doctor. Whatever equipment you need will be brought
-to you there.
-CRUSHER [OC]: Very well. 
-(Picard goes to his Ready room, and Troi follows)
+PICARD: What is it, Number One?
+RIKER: We've picked up a vessel on the long range scanners, headed this
+way.
+PICARD: Analysis.
+DATA: The vessel is traveling at warp seven point six. Mass two point
+five million metric tons. Configuration, cubical.
+RIKER: The Borg.
+DATA: Its dimensions indicate that it is a scout ship similar to the
+one that crashed. Interference from the star's
+radiation will shield us from their sensors. We should remain
+undetected until they enter the system.
+PICARD: How long do we have?
+DATA: At present speed they will arrive in thirty one hours seven
+minutes.
 
-[Ready room]
+[Brig]
 
-PICARD: Come.
-TROI: Captain, I just wondered if there's anything you wanted to talk
-about.
-PICARD: I don't think so, Counsellor.
-TROI: I would have thought having a Borg on the ship would stir some
-feelings.
-PICARD: I'm quite recovered from my experience, thank you.
-TROI: Sometimes even when a victim has dealt with his assault there are
-residual effects of the event that linger. You were treated violently
-by the Borg. 
-Kidnapped, assaulted,
-mutilated. 
-PICARD: Counsellor. Counsellor, I very much appreciate your concern for
-me, but I can assure you it is quite misplaced. I have carefully
-considered the implications of having a Borg on this
-ship. I have weighed the possible risks, and I am convinced that we are
-doing the right thing. Now, I am quite comfortable with my decision.
-TROI: I see. Well, if at any point you want to talk more.
-PICARD: I shall certainly avail myself of your help.
+GUINAN: You don't look so tough.
+BORG: We are Borg.
+GUINAN: Aren't you going to tell me you have to assimilate me?
+BORG: You wish to be assimilated?
+GUINAN: No, but that's what you things do, isn't it?
+(a nod) 
+GUINAN: Resistance is futile. 
+BORG: Resistance is futile.
+GUINAN: It isn't. My people resisted when the Borg came to assimilate
+us. Some of us survived.
+BORG: Resistance is not futile? 
+GUINAN: No. But thanks to you, there are very few of us left. We're
+scattered throughout the galaxy. We don't even have a home any more. 
+BORG: What you are saying is that you are lonely.
+GUINAN: What?
+BORG: You have no others. You have no home. We are also lonely.
 

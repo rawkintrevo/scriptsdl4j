@@ -1,50 +1,40 @@
-TROI RIKER NIBOR LWAXANA COMPUTER TOG
+GUEST2 GUEST0 TROI LWAXANA RIKER TOG
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Holding room]
+[Ferengi lab]
 
-NIBOR: Check. 
-RIKER: I'm sick of this game. 
-NIBOR: Of course, now that you're losing. 
-RIKER: Who's losing? I'm just tired of standing up. 
-NIBOR: You can't resign now. 
-RIKER: It's hard to play from in here. I can't even see the whole
-board. 
-NIBOR: Ah, then you'll finish the game if I let you out of the cell? 
-RIKER: I might. 
-NIBOR: Clever, human, but I'm not that foolish. 
-RIKER: What, do you think I'm going to try to escape? What would that
-get me? You've already got her. Besides, where would I go? 
-NIBOR: I do not trust you. 
-RIKER: Fine. Thanks for the game. 
-NIBOR: Come out here. (puts the forcefield back up) Now save your rook,
-if you can.
-
-[Tog's quarters]
-
-LWAXANA: And that was my first husband. Not much of
-a conversationalist, but what a lover. Well, then I met Zarn 
-TOG: I do not want to hear about your other romances. It makes me
-jealous. 
-LWAXANA: My, my. What big ears you have. Has anyone ever told you how
-attractive they are? 
-(She strokes the edges) 
-TOG: Some females think they are my best feature. No one has ever given
-me oo-mox like this before. 
-LWAXANA: Oo-mox? 
-TOG: There is no translation. But the ear is one of our most erogenous
-zones. 
-[Ferengi brig]
-
-(Nibor is out cold on the floor) 
-RIKER: Those Ferengi have iron jaws. 
-(Riker releases Deanna) 
-LWAXANA [telepath]: Little One, if Tog were a kitten, he'd be purring. 
-(Riker starts working on a computer panel) 
-TROI: [telepath] Good work, Mother. [aloud] According to Mother, DaiMon
-Tog is extremely relaxed at the moment. 
-RIKER: Tell Lwaxana to keep him relaxed while we call the cavalry. 
-COMPUTER: Access to communications denied. All transmissions to be
-authorised by
-DaiMon Tog. 
-TROI: Let's see just how relaxed DaiMon Tog is.
-
+(Lwaxana is not suffering in silence. Riker and
+Troi burst in. Riker shoots at Farek) 
+RIKER: Get away from her. 
+GUEST2: What are you doing? br
+(Troi runs to her mother and Tog sneaks up from behind) 
+TOG: Stand off, Commander. 
+(Riker hands over the weapon) 
+LWAXANA: DaiMon Tog, can't we strike a bargain? All I'm concerned about
+is my daughter's safety. What happens to me isn't important. 
+TOG: What are you suggesting? 
+LWAXANA: Let me be candid, DaiMon Tog. Deanna's of no use to you. She's
+only half Betazoid. And if you keep Riker, Starfleet will never stop
+chasing for you. Release them. Release them and I will stay with you
+willingly. I'll even use my telepathy to aid you in your negotiations. 
+TOG: A tempting offer. I would like to believe you. 
+LWAXANA: The offer is genuine. I give you my word as a Daughter of the
+Fifth House of Betazed. 
+RIKER: Lwaxana, don't. 
+LWAXANA: I've made up my mind. 
+RIKER: I can't let you do this. 
+LWAXANA: William, I am a grown woman. I can make my own decisions. 
+TROI: Mother, we can't just leave you here. 
+LWAXANA [telepath]: Yes, you can, and before he changes his mind. 
+LWAXANA: Please, Little One, do this for me. Just this once. Do we have
+an agreement? 
+TOG: I give you my word. I will release your daughter and the
+Commander. 
+GUEST0 [OC]: DaiMon. A Federation ship approaching at high warp. 
+GUEST2: The Enterprise has found us 
+TOG: Slow to impulse. Raise shields. Inform the Enterprise that two of
+our guests are ready to return. The other will be
+staying with us, at her own request. 
+GUEST2: I must protest, DaiMon. 
+TOG: Lwaxana has given her word. 
+LWAXANA: Oo-mox is only the beginning. 

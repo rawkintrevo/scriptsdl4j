@@ -1,151 +1,36 @@
-RIKER WORF BARRON NURIA PICARD TROI LIKO FENTO HALI CRUSHER DATA OJI
-
-[Sickbay]
-
-CRUSHER: (to nurse) You increased the levels of
-tricordrazine? (re Barron) Let me see his chart, please. 
-(dialogue too faint to make out, and Picard enters) 
-PICARD: Doctor Crusher. 
-CRUSHER: Before you start quoting me the Prime Directive, he'd already
-seen us. The damage was done. It was either bring him aboard or let him
-die. 
-PICARD: Then why didn't you let him die? 
-CRUSHER: Because we were responsible for his injuries. 
-PICARD: I'm not sure that I concur with that reasoning, Doctor. But now
-that he's here, you must remove all memory of his encounter with the
-away team. 
-CRUSHER: By erasing short term recall? 
-PICARD: It has been accomplished before. 
-CRUSHER: I am familiar with Doctor Pulaski's technique. I can't
-guarantee it will be effective on Mintakan brain chemistry. Their
-lie-zone levels are much lower. 
-BARRON: Wait. No! No! We must evacuate. 
-CRUSHER: Doctor Barron, you're on the Enterprise. You're safe. 
-BARRON: The others? 
-PICARD: Doctor Warren is here. We're doing all we can. 
-(Liko wakes up and listens) 
-BARRON: And Palmer? Where is Palmer? 
-PICARD: Still on Mintaka Three. 
-BARRON: Picard, you have to find him. 
-PICARD: We will. 
-BARRON: He may be hurt. 
-PICARD: Rest assured we shall not leave until he is located. 
-BARRON: Thank you, Picard. 
-PICARD: Picard to bridge. Report. 
-WORF [OC]: Scans of the planet detect no humans, Captain. 
-PICARD: Very well. Put us into a close orbit. 
-WORF [OC]: Sir, a close orbit will increase sensor efficiency by only
-four percent. 
-PICARD: I want that four percent, Lieutenant. 
-WORF [OC]: Aye, sir. 
-PICARD: Picard out. 
-LIKO: Picard? 
-CRUSHER: Damn. 
-PICARD: Well, Doctor. Your next task is clear.
-
-[Hillside]
-
-(Liko is beamed down alone. He wakes up) 
-LIKO: Oji? Oji? 
-(She hears him) 
-OJI: Father? 
-LIKO: Here. Oji. 
-OJI: Father! I thought I'd never see you again. When you and the woman
-vanished, I was sure you were dead. 
-LIKO: I think I was, but I was brought back to life. Oji, I awoke in an
-incredible place and my wounds were gone. I had been healed. 
-OJI: How is that possible? 
-LIKO: Long ago, our people believed in beings with great powers. These
-beings made the rains come, told the sun when to rise, they caused all
-life to be born, to grow, to die. 
-OJI: But those are just tales, father. Old superstitions. 
-LIKO: But perhaps the beliefs of our ancestors are true. Nothing else
-can explain what's happened. Everything is changed now, Oji. We must
-tell the others.
-
-[Observation lounge]
-
-CRUSHER: Barron is stable, but Warren is still
-critical. 
-RIKER: Palmer is missing. A scan of the planet shows Mintakan life
-forms only, no humans. However 
-DATA: The area around the duck blind exhibits Karst topography.
-Sinkholes, underground rivers, and caverns. And the rock strata contain
-a high concentration of thallium compounds which may be obstructing our
-sensor beams. 
-PICARD: So if Palmer, in his delirium, fled into a cave, we may be
-unable to detect his life signs? 
-DATA: Correct, sir. 
-CRUSHER: Captain, if he is still alive, he needs medical attention. We
-must send an away team to locate him. 
-TROI: But our presence must not interfere with the cultural development
-of the Mintakans. 
-PICARD: Agreed. Further contamination must be prevented. 
-RIKER: I have a suggestion.
-
-First officer's log, Stardate 43174.2. Counsellor
-Troi and I are beaming down to Mintaka Three to locate Doctor Palmer
-and to determine the extent of the cultural contamination. Doctor
-Crusher has temporarily altered our features and skin
-colour. She's also implanted subcutaneous communicators so that any
-transmissions we receive will be inaudible to the Mintakans.
-
-[Plain]
-
-RIKER: Riker to Enterprise. Do you hear me? 
-DATA [OC]: Perfectly, Commander. I will be monitoring you continuously.
-
-TROI: Mintakan emotions are quite interesting. Like the Vulcans, they
-have highly ordered minds. A very sensible people. For example,
-Mintakan women precede their mates. It's a signal to other women. 
-RIKER: This man's taken, get your own? 
-TROI: Not precisely. More like, if you want his services, I'm the one
-you have to negotiate with. 
-RIKER: What kind of services? 
-TROI: All kinds. 
-RIKER: They are a sensible race.
+GUEST0 NURIA PICARD LIKO GUEST1 GUEST2 CRUSHER OJI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Assembly hall]
 
-(Troi and Riker enter as Liko is telling his
-experience to a grey-haired man) 
-LIKO: I understand your skepticism. Had it not happened to me, I would
-find it difficult to accept as well. 
-OJI: But it did happen, just as we've said. 
-LIKO: Fento, you know the legends better than anyone. Do they not speak
-of beings like the kind I've seen? 
-OJI: Who could vanish like smoke? 
-FENTO: There are the stories of the Overseer who could appear and
-disappear at will. 
-LIKO: And couldn't this Overseer heal the dead? 
-FENTO: He had supreme power, or so our ancestors believed. 
-LIKO: I believe I have seen the Overseer. He is called the Picard. 
-RIKER: Uh oh. 
-TROI: His memory's intact. 
-RIKER: The procedure didn't work. 
-NURIA: (a woman) Liko, all this talk of supernatural beings. No one has
-believed that for countless generations. Just as we no longer
-believe the stars control our fates, or the spirits of the dead haunt
-the living. 
-LIKO: Nuria, I'm not saying all the old beliefs are true. But I did see
-the Picard, and I was restored back to life. 
-TROI: We are visitors. We've come to trade our cloth. May we speak? 
-NURIA: Please do. We welcome outsiders. I am Nuria. 
-TROI: I am Troi and this is Riker. You've had a very interesting dream.
+OJI: Nuria can't be found. No one knows where she's
+gone. 
+LIKO: Hali, any sign of Palmer or Riker? 
+GUEST2: They have escaped us. We searched everywhere. 
+OJI: What do we do now, father? 
+LIKO: We must do as the Picard wishes. Punish those responsible. 
+GUEST1: Nuria would not allow us to 
+LIKO: Nuria isn't here. We can't wait. 
+(Liko gestures to Hali for his bow)
 
-LIKO: Dream? It was real! 
-OJI: My father and I both witnessed these beings. 
-TROI: If you are father and daughter, you may well have shared the same
-dream. 
-LIKO: That is not reasonable. 
-RIKER: Is that any less reasonable than being magically transformed to
-another place by the Picard? 
-HALI: Nuria! 
-(Two men carry in a human) 
-LIKO: It has to be Palmer! The one the Picard wished to find. 
-NURIA: Remarkable. You were speaking the truth. 
-LIKO: The Picard will be pleased. 
-(The villagers rush off and leave them) 
-RIKER: Riker to Picard. 
-PICARD [OC]: Go ahead, Number One. 
-RIKER: We have a problem. 
+[Sickbay]
+
+CRUSHER: Crusher to Picard. I think we're going to
+lose Warren. 
+PICARD [OC]: On my way. 
+GUEST0: I'm here, Mary. 
+(Picard and Nuria enter) 
+CRUSHER: Prepare two cc's of norep. 
+(but Mary Warren gives up the struggle to breathe) 
+CRUSHER: I'm sorry. 
+(Crusher and Barron leave, and Nuria approaches the death bed) 
+NURIA: Picard, you could not save her? 
+PICARD: No. 
+NURIA: You do have limits. You are not masters of life and death. 
+PICARD: No, we are not. We can cure many diseases and we can repair
+injuries, we can even extend life. But for all our knowledge, all our
+advances, we are just as mortal as you are. We're just as powerless to
+prevent the inevitable. 
+NURIA: You are a remarkable people, but you are not superior beings. My
+people must be made to understand that.
+

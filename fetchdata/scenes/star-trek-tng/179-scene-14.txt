@@ -1,66 +1,34 @@
-RIKER LAFORGE WORF PICARD WESLEY CRUSHER DATA
+CRUSHER COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-PICARD: Progress, Number One? 
-RIKER: No one's seen him. The replicator in his quarters has not been
-used. 
-PICARD: Mister Worf, check hull and shield integrity for any sign of
-intruders. 
-WORF: Yes, sir, but I have been closely monitoring all on-board
-sensors. There has been no indication that any 
-PICARD: Then give me a Level One diagnostic of any onboard sensors, and
-run a manual sweep of any anomalous airborne or electromagnetic
-readings. I want some answers.
+CRUSHER: Computer, we are going to apply precise
+diagnostic methodology. Once we've cataloged the symptoms, we will
+proceed to determine the illness, and find the cure. We will start with
+the assumption that I am not crazy. If I am, it won't matter one way or
+the other. Computer, read the entire crew roster for the Enterprise. 
+COMPUTER: Doctor Beverly Crusher. 
+CRUSHER: Have I always been the only member of the crew of the Starship
+Enterprise? 
+COMPUTER: Affirmative. 
+CRUSHER: If this was a bad dream, would you tell me? 
+COMPUTER: That is not a valid question. 
+CRUSHER: Like hell it's not. 
+[Corridor]
 
-[Engineering]
+(checking all the rooms she passes) 
+CRUSHER: What date did I report on board? 
+COMPUTER: Stardate 41154. Fourteen hundred hours, three minutes. 
+CRUSHER: That sounds about right. Computer, is there more than one USS
+Enterprise? 
+COMPUTER: This vessel is the fifth starship to bear the name USS
+Enterprise. It is currently the only one in service. 
+CRUSHER: What is the primary mission of the Starship Enterprise? 
+COMPUTER: To explore the galaxy. 
+CRUSHER: Do I have the necessary skills to complete that mission alone?
 
-WESLEY: I've been experimenting with Kosinski's
-warp field equations, trying to improve engine efficiency. 
-PICARD: I've read your reports. 
-LAFORGE: We did a test run while we were still at the starbase. Here's
-what the computer recorded. 
-WESLEY: This is the static warp field we created inside the warp drive.
-The experiment was designed to see if we could keep a bubble like this
-intact. 
-LAFORGE: As you'll see in a moment, we couldn't. 
-LAFORGE: There was a momentary flash of light. It was all over the
-spectrum. 
-CRUSHER: I remember that. 
-PICARD: Are you suggesting that a bubble could have made Doctor Quaice
-disappear? 
-WESLEY: If he were caught in it, yes, sir, it would seem to us like
-he'd disappeared. 
-CRUSHER: Where would he go? 
-LAFORGE: Who knows. He could even end up outside of our space time
-continuum. 
-PICARD: Was Doctor Quaice in Engineering during your experiment? 
-LAFORGE: No, sir. 
-PICARD: And the bubble never expanded beyond Engineering? 
-WESLEY: No, sir. 
-PICARD: Then how could it have trapped Doctor Quaice or the others? 
-LAFORGE: There are others missing? 
-CRUSHER: Yes, and they weren't anywhere near Engineering. 
-WESLEY: It doesn't make sense. 
-PICARD: I doubt the warp bubble could alter computer records, or erase
-memories. Keep at it, Ensign, Mister La Forge. It's our only working
-theory for now.
-
-[Bridge]
-
-PICARD: Has something else happened? 
-CRUSHER: Sickbay is totally empty. Apparently I no longer have any
-staff. 
-RIKER: And that surprises you, Doctor? 
-CRUSHER: Surprises me? I'll say it surprises me. There should be at
-least four members of my staff on duty at all times. 
-DATA: I am afraid ship's records do not concur. Doctor. 
-CRUSHER: What are you talking about? 
-DATA: You do not have a staff. 
-CRUSHER: You're telling me I'm the sole medical officer on a ship with
-over a thousand people on board? 
-DATA: Excuse me, Doctor, but the entire ship's complement is two
-hundred and thirty. 
-CRUSHER: What? 
-PICARD: Doctor, may I see you in my Ready room?
+COMPUTER: Negative. 
+CRUSHER: Then why am I the only crew member? Aha, got you there. 
+COMPUTER: That information is not available.
 

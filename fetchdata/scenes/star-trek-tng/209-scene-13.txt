@@ -1,75 +1,116 @@
-RIKER LAFORGE WORF PICARD RASMUSSEN MOSELEY DATA
+PICARD RIKER DATA RASMUSSEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Ready room]
 
-LAFORGE: (to a crewwoman) As soon as we input this
-atmospheric data from Moseley, the computer should tell us how many
-holes we'll have to
-punch. 
-DATA: What have you learned about the tectonic stability around the
-drilling sites? 
-LAFORGE: Couldn't be better. Our scans were all clear and Moseley says
-there hasn't been so much as a quiver down there in well over a
-century. 
-RASMUSSEN: Ah ha, just the two I'm looking for. I've brought you the
-forms I need you to complete. Shouldn't take any more than a couple of
-hours. 
-LAFORGE: We're kind of busy here, Professor. Tomorrow would probably be
-better. Data, we've got about twenty three thousand thermal
-simulations. You think you could check them through for anomalies? 
-DATA: Certainly. 
-(Data starts working at the console at fast-forward speed)
+PICARD: The good news. 
+DATA: The motion of the dust has created a great deal of electrostatic
+energy in the upper atmosphere. With a modified phaser blast, we could
+create a shock front that would encircle the planet and ionise the
+particles. 
+PICARD: That would be like striking a spark in a gas-filled room. 
+DATA: With one exception, sir. The particles would be converted into a
+high energy plasma which our shields could absorb and then re-direct
+harmlessly into space. 
+PICARD: Turn the Enterprise into a lightning rod? 
+DATA: Precisely, sir. 
+PICARD: And the bad news? 
+DATA: If our phaser discharge is off by as little as point zero six
+terawatts, it would cause a cascading exothermal inversion. 
+PICARD: Meaning? 
+DATA: We would completely burn off the planet's atmosphere.
 
-RASMUSSEN: Is that as fast as he can go? 
-LAFORGE: Not fast enough for you, Professor? 
-RASMUSSEN: There's little known about Data's efficiency. Almost nothing
-about his part in this mission. It's a topic of great conjecture. 
-DATA: Two hundred nine anomalies all within acceptable parameters. 
-LAFORGE: Thanks, Data. You're here to witness this mission. That's it,
-isn't it? 
-RASMUSSEN: It'd be best if you just thought of me as a fly on the wall,
-and went about your business. 
-DATA: I will have your answered questions as soon as possible,
-Professor. 
-RASMUSSEN: Data at Penthara Four! 
-LAFORGE: If you'll excuse me. 
-RASMUSSEN: Your prosthesis. What do you call it again? 
-LAFORGE: A visor. 
-RASMUSSEN: Visor. Right. A visor. You know, I have a picture of you
-wearing that in my
-office. How do you like it? 
-LAFORGE: It allows me to see. I like it just fine. 
-RASMUSSEN: You know, Homer was blind and Milton. Bach, Monet, Wonder. 
-LAFORGE: A fly on the wall, huh? 
-RASMUSSEN: A fly on the wall. 
-DATA: The computer has configured the drilling pattern and specified
-depths. 
-LAFORGE: Captain, we've got everything we need. I'm ready to transport
-down to the surface. 
-PICARD [OC]: I'll notify Doctor Moseley. Good luck, Geordi. 
-LAFORGE: Gentlemen. 
-(Geordi leaves and Rasmussen pockets a PADD) 
-RASMUSSEN: Who said these moments were any less exciting when you know
-the outcome? 
-DATA: I know of no one who said that, Professor.
+Captain's log, supplemental. While Doctor Moseley
+takes La Forge's plan to the leaders of the colony, I find myself
+weighing the potential consequences of a more philosophical issue.
 
-[Penthara Science lab]
+[Ready room]
 
-LAFORGE: The Enterprise will monitor the CO2
-concentrations at six different altitudes. If all goes well, it
-shouldn't take more than twenty bore sites. 
-MOSELEY: Let's hope all goes well. 
-LAFORGE: La Forge to Commander Riker. How are you doing? 
-RIKER: We've gotten word from the monitoring stations. They're all
-online. We're ready when you are, Geordi. 
-LAFORGE: That's excellent. All we need now is an open channel to Data. 
-[Bridge]
+PICARD: Come. 
+(Rasmussen enters) 
+PICARD: I imagine you know why I've asked you here. 
+RASMUSSEN: Yeah, I have a fairly good idea. 
+PICARD: I'm faced with a dilemma. There is a planet beneath us which is
+slowly turning to ice, and unless we do something about it, I'm told
+that in a matter of weeks thousands, maybe tens of thousands, will die.
 
-RIKER: Open a channel, Mister Worf, and prepare to
-fire at target one. 
-WORF: The computer has locked in phaser depth calculations. 
-RIKER: Mister Data? 
-DATA [OC]: Ready, sir. 
-RIKER: Fire. 
-(two shots hit the snow-covered ground)
+RASMUSSEN: That'd be a shame. 
+PICARD: Yes, it would. It would be quite a shame. 
+RASMUSSEN: So, what's your dilemma? 
+PICARD: Commander La Forge has a possible solution. The margins of
+error are extremely critical, but if successful, there'll be no more
+threat. 
+RASMUSSEN: And if it's not successful? 
+PICARD: Every living thing on the planet will perish. 
+RASMUSSEN: So do nothing and thousands will die. Do something and
+millions could die. That's a tough choice. 
+PICARD: Not if you were to help me. 
+RASMUSSEN: You're not suggesting I tell you the outcome of your
+efforts? 
+PICARD: Oh no, I'm not. Everything that Starfleet stands for,
+everything that I have ever believed in, tells me I cannot ask you
+that.
+But at the same time, there are twenty million lives down there, and
+you know what happened to them. What will happen to them. 
+RASMUSSEN: So, it seems you have another dilemma. One that questions
+your convictions. 
+PICARD: Well, I've never been afraid of reevaluating my convictions,
+Professor, and now, I have twenty million reasons to do so. 
+RASMUSSEN: And why did you ask to see me? 
+PICARD: Because your presence gives me potential access to a kind of
+information that I've never had available to me before, and if I am to
+re-examine my beliefs, then I must take advantage of every possible
+asset. It would be irresponsible of me not to ask you here. 
+RASMUSSEN: However you come to terms with your beliefs, Captain, I must
+tell you that I'm quite comfortable with mine. 
+PICARD: How can you be? How can you be comfortable watching people die?
+
+RASMUSSEN: Let me put it to you this way. If I were to tell you that
+none of those people died, you'd easily conclude that you tried your
+solution and it succeeded. So, you'd confidently try again. No harm in
+that. But what if I were to tell you they all died? What then?
+Obviously, you'd decide not to make the same mistake twice. Now, what
+if one of those people grew up 
+PICARD: Yes, Professor, I know. What if one of those lives I save down
+there is a child who grows up to be the next Adolf Hitler or Khan
+Singh? Every first year philosophy student have been asked that
+question ever since the earliest wormholes were discovered. But this is
+not a class in temporal logic. It's not theoretical, it's not
+hypothetical, it's real. Surely you see that? 
+RASMUSSEN: I see it all too well. But you must see that if I were to
+influence you, everything in this sector, in this quadrant of the
+galaxy could change. History, my history, would unfold in a way other
+than it already has. Now what possible incentive could anyone offer me
+to allow that to happen? 
+PICARD: I have two choices. Either way, one version of history or
+another will wend its way forward. The history you know or another one.
+Now who is to say which is better? What I do know is here, today, one
+way, millions of lives could be saved. Now
+isn't that incentive enough? 
+RASMUSSEN: Everyone dies, Captain. It's just a question of when. All of
+those people down there died years before I was born. All of you up
+here, as well. So you see, I can't get quite as worked up as you over
+the fate of some colonists who, for me, have been dead a very, very
+long time. 
+PICARD: Of course, you know of the Prime Directive, which tells us that
+we have no right to interfere with the natural evolution of alien
+worlds. Now I have sworn to uphold it, but nevertheless I have
+disregarded that directive on more than one occasion because I thought
+it was the right thing to do. Now, if you are holding on to some
+temporal equivalent of that directive, then isn't it
+possible that you have an occasion here to make an exception, to help
+me to choose, because it's the right thing to do? 
+RASMUSSEN: We're not just talking about a choice. It sounds to me like
+you're trying to manipulate the future. 
+PICARD: Every choice we make allows us to manipulate the future. Do I
+ask Adrienne or Suzanne to the spring dance? Do I take my holiday on
+Corsica or on Risa? A person's life, their future, hinges on each of a
+thousand choices. Living is making choices. Now you ask me to believe
+that if I make a choice other than the one found in your history books,
+then your past will be irrevocably altered. Well, you know, Professor,
+perhaps I don't give a damn about your past, because your past is my
+future and as far as I'm concerned, it hasn't been written yet. 
+RIKER [OC]: Captain, the electrostatic conditions are about as good as
+they're going to get. If we're going to try this, now's the time. 
+RASMUSSEN: Please don't ask me, Captain. I can't help you. I'm sorry.
 

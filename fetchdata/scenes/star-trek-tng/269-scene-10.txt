@@ -1,34 +1,51 @@
-PICARD RIKER DATAIHAT DATAVICTIM DATABOY
+TROI LAFORGE WORF PICARD RIKER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]
+[Engineering]
 
-PICARD: I'm not going to hurt you. 
-DATA-VICTIM: Only Masaka can hurt me. I am for her alone. 
-PICARD: I need to speak with Ihat. Do you understand? Ihat. 
-DATA-IHAT: Captain. That was a cruel joke you played on me. For a
-moment, a brief moment, I actually thought that woman was Masaka. 
-PICARD: Whoever took your place wasn't afraid of Masaka. He seemed
-eager for his fate. 
-DATA-IHAT: Pitiful, isn't it. You won't catch me humiliating myself for
-a woman even if she were a queen. 
-PICARD: Then Masaka is your queen? 
-DATA-IHAT: She's a lazy creature. She spends most of her time sleeping.
-The problem is, what she does when she's awake. 
-PICARD: Then should we try to keep her asleep? 
-DATA-IHAT: Try to stop the sun from climbing the sky? Only Korgano can
-do that, and he's not here. 
-PICARD: Where is he? 
-DATA-BOY: Help me. Please. 
-PICARD: What's wrong? 
-DATA-BOY: I'm afraid. 
-PICARD: Of what? 
-DATA-BOY: Of her. 
-PICARD: Masaka? 
-DATA-BOY: Her! 
-(the lights go out) 
-PICARD: Picard to Bridge. 
+(a torpedo lies on the floor) 
+LAFORGE: Okay, I've locked in the targeting parameters. What's the
+phase alignment now? 
+WORF: Less than point seven percent. 
+LAFORGE: Good, that'll do it. I'm setting the yield at maximum. 
+(and the torpedo lights go out) 
+WORF: Sir, the onboard power systems are not functioning. 
+LAFORGE: Let's see what's going on here? 
+(the torpedo is full of snakes, Masaka is on the wall monitor and there
+are vines) 
+LAFORGE: Something tells me we'd better get out of here. 
+(flames stop them) 
+WORF: Engineering to Bridge. Emergency transport. Two to beam out. 
 [Bridge]
 
-PICARD [OC]: Report. 
-RIKER: The archive just activated some kind of tractor beam, sir. We're
-not able to disengage it. 
+(it's dark and there are vines and stones here too)
+
+RIKER: Maybe we'd better talk in here. The Observation Lounge has
+turned into a swamp. 
+PICARD: So, what's our status? 
+LAFORGE: Well, so far the archive has transformed about twenty percent
+of the ship. We've lost main propulsion and weapons systems in the
+process. 
+RIKER: What about communications, sensors, life support? 
+LAFORGE: We have communications, and limited sensor control. Life
+support seems to be unaffected. 
+CRUSHER: I've analysed the alien plant forms. They've developed from
+biological matter we have on the ship. 
+LAFORGE: The stone, the artefacts, are made in much the same way,
+extrapolating from the ship's own alloys. 
+CRUSHER: Apparently the archive can reorder and transform molecular
+structure including DNA into anything it wants. 
+PICARD: So it's using our ship, our alloys, our DNA, to create elements
+of its own culture. 
+TROI: But why is this happening? What does the archive hope to
+accomplish? 
+PICARD: Well, whatever the intent that lies behind its process, I'm not
+going to permit this ship to be turned into an alien city. Mister La
+Forge, do you have any ideas? 
+LAFORGE: We still haven't been able to cut off that beam, but I have
+managed to access the archive by sending an energy pulse back along
+their signal path. If I can locate the transformation programme, I
+might be able to control it. 
+PICARD: That's a good idea, but I feel that the answer lies there, with
+Masaka. We must find her, access her. Talk to her.
+

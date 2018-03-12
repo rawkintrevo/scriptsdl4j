@@ -1,47 +1,85 @@
-WESLEY GUINAN DATA RIKER LAFORGE
+GUEST5 COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Outside Holodeck] 
+DATA: Computer, I wish to know more about humour.
+Why certain combinations of words and actions make humans laugh. 
+COMPUTER: Source material on that subject is extensive. Please specify.
 
-RIKER: Status on the repair? 
-LAFORGE: Working on it. 
-WESLEY: Commander, what do you think of Captain Okona? 
-RIKER: Well, Okona is an interesting man, certainly. We've seen how he
-handles his ship. Apparently he knows how to handle people as well. 
-WESLEY: Then why does he work alone? 
-RIKER: He's a man who lives his life by his own rules. He does what he
-does by choice. By his choice. Someday you'll make yours. 
-WESLEY: I already have.
+DATA: Animated presentation, humanoid. Interaction required. 
+COMPUTER: Physical humour, cerebral, or general raconteur. 
+DATA: Of all performers available, who is considered funniest? 
+COMPUTER: Twenty third century Stan Orega specialised in jokes about
+quantum mathematics. 
+DATA: No. Too esoteric. More generic. 
+COMPUTER: Accessing. 
+(A list of names is displayed, including David Livingston, Mike Gray,
+John Mason, Tracy Torme, Dan Curry, Wendy Neuss, Sam Freedle, Diane
+Overdiek, Ernie Dyer, Merri Howard, Robert Metoyer, and
+finally - Ronald D Moore) 
+DATA: That one. RW nine six three two one, twentieth century. 
+COMPUTER: Programme installation complete. You may enter.
 
-[Ten Forward]
+[Charnock's Comedy Cabaret]
 
-DATA: So you agree with Okona that I am missing a
-very important human factor. 
-GUINAN: I never said that. I simply said that I've never seen you
-laugh. 
-DATA: I am capable of that function when it is expected of me. 
-GUINAN: Data, do you even know what a joke is? 
-DATA: Of course I do. It is a witticism, a gag, a bon mot, a
-fluctuation of 
-GUINAN: Stop. Look, it's just you and I here. We're talking, we're
-having an intimate conversation. Why? Because you're a 'droid and I'm a
-'noid. 
-DATA: But why? 
-GUINAN: Because that's what I am. 
-DATA: Have I said something to offend you? 
-GUINAN: No. 
-DATA: Then why are you annoyed? 
-GUINAN: Because you're a 'droid and I'm a 'noid. 
-DATA: Humanoid. 
-GUINAN: Yes. 
-DATA: You told a joke. 
-GUINAN: Yes. 
-DATA: I am not laughing. 
-GUINAN: Yes. 
-DATA: Perhaps the joke was not funny. 
-GUINAN: No, the joke was funny. It's you, Data. 
-DATA: Are you sure? 
-GUINAN: Yes. 
-DATA: I agree. What do I do? 
-GUINAN: Well, under normal circumstances, I'd say seek a higher power.
-But in your case, probably a smarter computer is in order.
+(The comic is standing on a small stage behind a
+microphone stand) 
+GUEST5: Thank you ladies and gentlemen. Thank you very much. You've been
+great. As a matter of fact I'd like to take you home with me.
+Unfortunately I took the last audience home and there's no more room.
+Boom, boom. But thank you, really. Thank you. Hey, and thank you for
+bringing me here. What's up? 
+DATA: Mister Comic, I wish to know what is funny. 
+GUEST5: Funny? I don't know. It's a matter of opinion, I guess. Tip
+O'Neill in a dress? Some people say words that end with a K are funny.
+A briefcase that looks like a fish. Personally I find that hysterical. 
+DATA: Tip O'Neill. Accessing. Twentieth century male, politician,
+overweight, wearing female clothing, carrying a valise that looks like
+a fish. So, the juxtaposition of gender and an amphibian briefcase is
+funny. 
+GUEST5: Well, I think whatever makes you laugh is funny. 
+(They sit at a table) 
+DATA: Nothing makes me laugh. I wish to learn. GUEST5: How much time do
+we have here? 
+DATA: Unlimited. 
+GUEST5: We're going to need it. You, pal, are a tough room. 
+DATA: Tough room? A colloquialism meaning a severe, rigid,
+closed-minded audience. I understand. I will attempt to be an easy
+room. Show me what is funny. 
+GUEST5: All right, you're on. Jerry Lewis. 
+(The comic goes back on stage and does a Jerry Lewis impression -
+stupid noises,
+unintelligible speech with protruding teeth, knocking over the
+microphone, all that stupid rubbish) 
+GUEST5: (as Lewis) Mister Robot, would you like to come up? 
+DATA: I am an android. 
+GUEST5: (as Lewis) Oh, I'm terribly sorry, Mister Android. Here, teeth.
+Put them in your mouth. Come up with me. Where'd he go? 
+(Business up and down the steps, all terribly childish and embarrassing
+to watch but apparently Americans think it hilarious) 
+GUEST5: Try, if you would. You go Ha! 
+(They put on silly voices, and stamp around) 
+DATA: That is considered to be funny? 
+GUEST5: Actually it brought the house down in Teaneck. 
+DATA: Ah, a word that ends in K. So, if you put funny teeth in your
+mouth and jump around like an idiot, that is considered funny. 
+GUEST5: I'm sorry, I didn't get your name. 
+DATA: Data. 
+GUEST5: Data, did you consider juggling, weird bird calls, stuff like
+that? 
+DATA: That does not apply. I simply want to know what is funny. I want
+to be able to involve myself in other people's laughter. I wish to join
+in. 
+GUEST5: I think that's nice. Let's put the physical stuff aside for a
+while, all right? We'll do some jokes. See, it's not my forte, but I
+think that would work good for you. If you would just have a seat and
+we'll try some jokes like. I dunno. We'll start with the classics. See,
+there's this travelling salesman. now. He's going down the road and his
+car breaks down, right? 
+DATA: Access faster. 
+GUEST5: Comes up on this farmhouse and 
+(We are spared as the soundtrack speeds to chipmunk) 
+GUEST5: It's probably best when you do something like this. Need a cigar
+'cos it's kind a prop kind of thing and you go like this and DATA:
+Faster. Move to maximum speed.
 

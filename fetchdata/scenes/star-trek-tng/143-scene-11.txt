@@ -1,48 +1,38 @@
-TROI LAFORGE PICARD RIKER WESLEY DATA REGINOD
+PULASKI RIKER DATA GREBNEDLOG WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(The Bridge crew are watching everything on the
-viewscreen) 
-TROI: Commander? Lieutenant La Forge is on an alien ship? 
-RIKER: Yes. We're rendering assistance to some curious throwbacks. 
-DATA: How they ever mastered the rudiments of space travel is a genuine
-curiosity. 
-TROI: Commander. Those aliens. What they feel is not helplessness.
-Lieutenant La Forge is in great danger! He's in danger, great danger. 
-RIKER: Can you be more specific, Counsellor? 
-TROI: It's not our help they want. 
-RIKER: Well, our help is all they're going to get. They can't force us
-into anything, can they? 
-TROI: You think they're weak. 
-RIKER: Look at them. They're certainly not Jarada or Romulans. 
-DATA: Our Betazoid Counsellor is often aware of things beyond our
-perceptive abilities.
+DATA: They are initiating visual contact, sir. 
+RIKER: Maybe now we'll find out what they really want. 
+GREBNEDLOG [on viewscreen]: Enterprise. 
+RIKER: We demand that you return our crewmember immediately. 
+GREBNEDLOG [on viewscreen]: Request denied. 
+RIKER: Lower your shield! 
+GREBNEDLOG [on viewscreen]: Request denied. 
+(and he shoots Geordi with the phaser, again) 
+RIKER: Stop it! What do you want? 
+GREBNEDLOG [on viewscreen]: You think we are not smart. 
+RIKER: I think you need to continue to develop. 
+GREBNEDLOG [on viewscreen]: We are smart. 
+RIKER: Prove it. Return our man to us. 
+GREBNEDLOG [on viewscreen]: You want him? 
+RIKER: Yes, damn it. 
+GREBNEDLOG [on viewscreen]: Good. We want all computer information from
+your ship. Now.
 
-[Shuttlecraft]
+[Observation lounge]
 
-PICARD: Van Doren's technique has been perfected to
-two point four percent. 
-WESLEY: Sir? 
-PICARD: The cardiac replacement procedure. It has a very low mortality
-rate. Two point four percent. 
-WESLEY: Those are pretty good odds. 
-PICARD: Just not overly thrilled at the prospect of having my innards
-becoming the subject of Starfleet gossip. 
-WESLEY: Of course not, sir. Why didn't you just have Doctor Pulaski
-perform the operation? I'm sure you could've trusted her to keep it
-quiet. 
-PICARD: Let's say I have personal reasons and leave it at that, shall
-we?
-
-[Pakled ship]
-
-LAFORGE: The power needs to be rerouted through
-this venturi chamber before it can be channelled to the engine's coils.
-
-REGINOD: It is broken. 
-LAFORGE: Yeah, but not for long. See, we are going to reconfigure these
-separators, here and over here. 
-RIKER [OC]: Lieutenant La Forge, this is Commander Riker. Come in. 
-LAFORGE: Yes, Commander. Go ahead.
+RIKER: We've got a man held hostage by alien forces
+and all I have are no-option options. I need some input. 
+PULASKI: Is Geordi all right? 
+WORF: He's already been hit by multiple phaser stuns. 
+PULASKI: He could need medical attention. 
+WORF: Security team stands ready to take the initiative, sir. 
+RIKER: Data? 
+DATA: Our options have not changed. We can either respond to the Pakled
+demand or not. We can either use force or not. 
+RIKER: Allowing them access to our computer is a complete breech of
+Starfleet security. 
+WORF: Then force it must be.
 

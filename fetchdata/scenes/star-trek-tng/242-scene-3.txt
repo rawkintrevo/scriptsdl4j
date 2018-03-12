@@ -1,57 +1,34 @@
-BASHIR RIKER DATA LAFORGE WORF
+GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Replimat]
 
-WORF: What is this? 
-LAFORGE: It's pasta al fiorella. One of my favourites. Don't worry,
-you'll love it. You know, I really want to take a look at those Ktarian
-antiques. I understand they've got a twenty first century plasma coil
-in almost perfect condition. (pushes plate away) I'll have to talk to
-Chief O'Brien about these replicators. Worf, I don't see how you can
-eat that stuff. It tastes like liquid polymer. 
-WORF: Delicious. 
-LAFORGE: You know, I think I'm going to try that kiosk on the other
-side of the promenade. It looked like they had some real food. 
-[Bridge]
+(a very wrinkled alien with the voice of the modern
+Zephram Cochrane approaches Worf while he is still eating the dodgy
+pasta) 
+GUEST3: Klingon. You are Starfleet Klingon. 
+WORF: I am Lieutenant Worf. 
+GUEST3: Worf. Son of Mogh. 
+WORF: What of it? 
+GUEST3: I am Jaglom Shrek, a man with information to sell. 
+WORF: You have no information I could use. 
+GUEST3: I would not be so sure. It is about your father, Mogh. 
+WORF: My father died twenty five years ago at Khitomer. 
+GUEST3: That is what you believe. What if I tell you he is still alive? 
+[Somewhere dark and private]
 
-DATA: Commander, I am reading a minor power drain
-in the starboard EPS conduit. 
-RIKER: What's causing it? 
-DATA: The problem's originating in Sickbay. There has been an
-unauthorized access into the computer's bio-imaging systems. 
-RIKER: You'd better check it out. 
-DATA: Aye, sir.
-
-[Medical lab]
-
-(a young, eager, intense Doctor in engrossed in
-what he is doing) 
-DATA: Excuse me. Do you have authorisation to work in this area? 
-BASHIR: Come in, come in. I need a hand with this field generator. See
-if you can boost the power output to sixty five percent. 
-DATA: I am sorry, but use of sickbay equipment is limited to ship's
-medical personnel. 
-BASHIR: Ah. Doctor Julian Bashir, Chief Medical officer, Deep Space
-Nine. And you are Commander? 
-DATA: Data. 
-BASHIR: Commander Data. The synthetic lifeform. 
-DATA: Yes. 
-BASHIR: It's an honour to meet you, sir. I've heard so much about you.
-You must have a fascinating perspective into biocybernetic research.
-I'd be delighted if we could discuss the subject sometime. 
-DATA: I would be happy to do so. However, I must ask you to stop your
-experiment. 
-BASHIR: Ah, yes. I realise I should have asked before using your
-sickbay, but it would've taken me days to analyse this device with the
-computer I have on Deep Space Nine. 
-DATA: What type of device is this? 
-BASHIR: It was discovered in the Gamma Quadrant. I think it must be
-some sort of medical instrument. 
-DATA: It appears to employ plasma inputs. 
-BASHIR: I'm hoping it's a medical scanner. I wanted to use your
-computer to find out how it works. 
-DATA: I suggest we take it to Engineering and run a complete
-circuit-pathway diagnostic. 
-BASHIR: Splendid. I must admit, Commander I didn't think you'd be so
-personable.
+WORF: My father is dead. 
+GUEST3: No, he's not. I know where he is. 
+WORF: How is that possible? 
+GUEST3: I expect to be paid for my information. Perhaps we could
+negotiate an exchange. The location of your father, for 
+WORF: Tell me what you know. 
+GUEST3: Not all of the Klingons at Khitomer were killed during the
+massacre. Many were captured by the Romulans and placed in a prison
+camp on a remote planet. Your father was among them. 
+WORF: Where is this planet? 
+GUEST3: Not far from here. I could give you the location, for a price. 
+WORF: A Klingon would rather die than be taken prisoner. I should kill
+you for spreading lies about my family. My father was killed defending
+Khitomer.
 

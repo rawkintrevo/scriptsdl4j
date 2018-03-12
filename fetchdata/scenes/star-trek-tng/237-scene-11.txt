@@ -1,82 +1,32 @@
-LAFORGE WORF JELLICO PICARD CRUSHER DATA MADRED
+JELLICO LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Shuttlebay]
 
-(according to quantum resonance scan 047) 
-LAFORGE: It looks like they had some minor hull degradation along their
-warp nacelles. The distribution pattern indicates a recent exposure to
-a molecular dispersion field. 
-JELLICO: Where could they have run into a dispersion field? 
-LAFORGE: The McAllister C Five nebula's just across the border. It's
-approximately seven light years from Federation space. 
-JELLICO: Could there be Cardassian ships inside the McAllister nebula? 
-LAFORGE: It's possible, but they wouldn't be able to stay in there for
-very long. The particle flux in the nebula would begin to break down a
-ship's hull just after seventy two hours. 
-JELLICO: Is there a Federation system near the McAllister nebula that
-might interest the Cardassians? 
-LAFORGE: Minos Korva is only eleven light years from the nebula, and
-the Cardassians tried to annex it during the war. 
-JELLICO: Data, I want to be at Minos Korva in one hour. 
-DATA: Aye, sir. Set course three five zero mark two one five and engage
-at warp eight point five.
+JELLICO: How are we doing? 
+LAFORGE: We're almost done, sir. I've shielded the engine nacelles and
+the transporter system so they won't be affected by the particle flux
+from the nebula. 
+JELLICO: Good. 
+[Shuttlecraft]
 
-[Interrogation room]
-
-(Picard is lying on the floor, singing through
-parched lips) 
-PICARD: Sur le pont d'Avignon on y danse on y danse. 
-MADRED: Wake up. Where were you? 
-PICARD: At home. Sunday dinner. We would all sing afterward. 
-MADRED: What a charming picture. The Picard family, voices raised in
-song. Is this what's keeping you from breaking? Memories of home and
-hearth? Images of happier times? I must congratulate you. You're
-remarkably strong willed. I see no point in holding you further. You
-may go. Someone will give you clean clothing before we return you to
-your ship. 
-(the door is opened. Picard slowly gets to his feet and shuffles
-towards it) 
-MADRED: We will get what we need from the human female. 
-PICARD: What female are you referring to? 
-MADRED: The human who was part of your abortive assault team, of
-course. Doctor Beverly Crusher. 
-PICARD: What have you done to her? 
-MADRED: Not a thing. She's quite safe. I wanted to finish my interviews
-with you before I interrogated her. I had hoped it might not be
-necessary. 
-PICARD: Lieutenant Worf? 
-MADRED: He left us few options. We had to kill him. I'm more optimistic
-about getting what we need from the woman. 
-PICARD: Doctor Crusher has no knowledge of any of Starfleet's plans.
-She's a Medical officer. 
-MADRED: You might be right. I'll have to determine that for myself. 
-(Picard sits in the chair) 
-MADRED: Are you choosing to stay with me? Excellent! I can't tell you
-how pleased that makes me.
-
-[Observation lounge]
-
-JELLICO: Starfleet now believes the Cardassians are
-preparing to invade Minos Korva. I'm convinced their invasion fleet is
-hiding in the McAllister Nebula. I intend to hit them before they leave
-it. 
-LAFORGE: Captain, what if you're wrong? What if the Cardassians are in
-that nebula to conduct scientific research? 
-JELLICO: You'd have to have some pretty good evidence to convince me of
-that. 
-CRUSHER: You're still gambling hundreds of lives. 
-JELLICO: This discussion is moot. The plan has been approved and we are
-going ahead. Mister Data, by your calculations, how long could the
-Cardassian ships stay in the nebula? 
-DATA: In seventeen hours their hull degradation will reach dangerous
-levels. They will have to leave before that. 
-JELLICO: All right. Worf, prepare a series of five hundred antimatter
-mines with magnetic targeting capabilities. 
-WORF: Aye, sir. 
-JELLICO: Geordi, we're going to need a shuttle specially outfitted to
-operate in the nebula by fourteen hundred hours. Beverly, you'll need
-to 
-CRUSHER: Have Sickbay ready for the casualties you're about to send me.
-
-JELLICO: That's right. Dismissed.
+JELLICO: Been awhile since I flew one of these.
+You're a pilot yourself, aren't you Geordi? 
+LAFORGE: Yes, sir. 
+JELLICO: I began my career as a shuttle pilot, on the Jovian run.
+Jupiter to Saturn and back once a day, every day. 
+LAFORGE: Is that right? I was on that run myself for a while. 
+JELLICO: Then you must've done Titan's Turn. 
+LAFORGE: Oh, yeah. You set a course directly for Titan, hold it until
+you're just brushing the atmosphere, throw the helm hard over and whip
+around the moon at point seven c. 
+JELLICO: And pray like hell nobody saw you. 
+LAFORGE: You know, this trip into the nebula's going to need someone
+who can do Titan's Turn in their sleep. These mines need to be laid
+within two kilometres of the Cardassian ships. But the particle flux
+from the nebula will blind all the sensors except for this proximity
+detector. You're going to need one heck of a pilot to pull that off. 
+JELLICO: Is that you? 
+LAFORGE: I could do it, but truthfully, the man you want is Commander
+Riker. He's the best there is.
 

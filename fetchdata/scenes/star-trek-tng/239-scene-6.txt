@@ -1,47 +1,37 @@
-PICARD COMPUTER LAFORGE TORAK AQUIEL
+PICARD RIKER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Relay Station ops]
 
-TORAK [on viewscreen]: Are you saying we attacked
-your outpost? 
-PICARD: I'm merely saying that I'm following up on evidence that my
-officers discovered on board. 
-TORAK [on viewscreen]: Evidence. So you are making an accusation. The
-Klingon Empire will not stand for these kinds of lies. 
-PICARD: Governor Torak, I apologise. I can see that you honestly didn't
-know what happened aboard the station. I will just have to take this
-matter up with Gowron. I'm really sorry that we bothered you. 
-TORAK [on viewscreen]: Gowron won't bother with such a minor incident. 
-PICARD: Well, ordinarily he wouldn't, but of course I was his Arbiter
-of Succession. I'm sure that he will be happy to come here and
-investigate this matter. You needn't worry about it any longer. 
-TORAK [on viewscreen]: Gowron will come here? 
-PICARD: Oh, yes. So once again, thank you for your help. Oh, I will be
-sure to mention your name to Gowron when I speak to him. 
-TORAK [on viewscreen]: I will investigate this further, Picard. You
-need not bother Gowron with this matter. 
-PICARD: That's very kind. Qapla'! 
-TORAK [on viewscreen]: Qapla'! 
-[La Forge's quarters]
+WORF: Commander, there are DNA traces here.
+Klingon. 
+RIKER: So Klingons did board the station? 
+WORF: Yes, but I only found DNA from one Klingon so far. I will
+continue to scan.
 
-LAFORGE: Computer access the personal logs of
-Aquiel Uhnari. 
-COMPUTER: Logs accessed. 
-LAFORGE: Begin playback. 
-AQUIEL [on monitor]: Shiana, you always said I'd look great with a wig,
-so here it is. What do you think? 
-LAFORGE: Definitely not you. 
-AQUIEL [on monitor]: (taking the huge construction off) Okay, maybe I'm
-getting a little crazy. You would too, if you were stuck on a relay
-station in the middle of nowhere with no one for company except an
-egomaniac like Keith Rocha. I took a big risk today. I countermanded an
-order he gave. I agreed to handle the comm. traffic for Relay Station
-one nine four while they shut down for maintenance. Rocha said we
-couldn't handle the additional signal load, but I think he's wrong.
-When he finds out he'll be furious. It's days like this I wish I was
-home. You know what I miss most? Muskan seed punch. Real Muskan seed
-punch. You can get it from the replicator, but it's not the same. I'd
-give anything for some of the punch Mother used to make with chunks of
-the seeds still in it. (noises off) Keith, is that you? Keith?
-(recording ends)
+[Aquiel's quarters]
+
+(Geordi is looking at Aquiel's novel) 
+LAFORGE: How could she read this stuff? 
+RIKER: How's it going? 
+LAFORGE: I've managed to access all of Lieutenant Uhnari's logs. I'm
+still looking for Lieutenant Rocha's. Whatever happened to the
+encrypted messages had a cascade effect on the whole storage system. I
+can't find his files anywhere. I'm running a level three diagnostic
+now. 
+RIKER: Maybe Rocha didn't make the official logs. Uhnari could have
+been responsible for them. 
+LAFORGE: I don't think so. Aquiel was the junior officer here. 
+RIKER: Aquiel? 
+LAFORGE: Lieutenant Uhnari. I've been up all night watching her
+personal logs. I guess I'm starting to feel like I know her. 
+RIKER: What was she like? 
+LAFORGE: Well she was Hahliian. She had one sister named Shiana, she
+drank muskan seed punch. She had a quirky sense of humour. She liked to
+sing. She had questionable taste in literature. 
+PICARD [OC]: Enterprise to Commander Riker. 
+RIKER: Riker here. 
+PICARD: The Klingon ship Qu'Vat has arrived with Governor Torak. Please
+report to the Observation lounge. 
+RIKER: We're on our way.
 

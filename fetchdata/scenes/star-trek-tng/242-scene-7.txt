@@ -1,60 +1,35 @@
-RIKER SHREK TROI WORF
+DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Somewhere dark and private]
+[Ten Forward]
 
-WORF: My father is dead. 
-SHREK: No, he's not. I know where he is. 
-WORF: How is that possible? 
-SHREK: I expect to be paid for my information. Perhaps we could
-negotiate an exchange. The location of your father, for 
-WORF: Tell me what you know. 
-SHREK: Not all of the Klingons at Khitomer were killed during the
-massacre. Many were captured by the Romulans and placed in a prison
-camp on a remote planet. Your father was among them. 
-WORF: Where is this planet? 
-SHREK: Not far from here. I could give you the location, for a price. 
-WORF: A Klingon would rather die than be taken prisoner. I should kill
-you for spreading lies about my family. My father was killed defending
-Khitomer.
-
-[Bridge]
-
-WORF: Ensign Lopez. This duty roster is
-unacceptable. The assignments should be listed in order of priority.
-Prepare it
-again. I will expect it no later than oh nine hundred hours. Dismissed.
-
-RIKER: Worf, we need to get your rendezvous schedule to Commander
-Rudman on board the Merrimac as soon as you 
-WORF: I am well aware of your request, Commander. 
-RIKER: Lieutenant, are you all right? 
-WORF: Yes, sir. I am fine. I will send your schedule, sir. Excuse me.
-
-[Worf's quarters]
-
-(he is practising his martial arts, but gets angry
-and smashes a glass table. The doorbell chimes) 
-WORF: Enter. 
-TROI: Did the table do something wrong? 
-WORF: No. 
-TROI: I'm glad you weren't that hard on Ensign Lopez. 
-WORF: He made a mistake. The duty roster was inaccurate. 
-TROI: Would you like to talk about what's bothering you or would you
-like to break some more furniture? 
-WORF: Today on the Promenade, a Yridian approached me. He knew who I
-was and tried to sell me information about Mogh. 
-TROI: Your father? 
-WORF: He claimed that he's alive and is being held captive in a Romulan
-prison camp. 
-TROI: My god. Could it be true? 
-WORF: A Klingon would never allow himself to be captured. A warrior
-fights to the death. If my father were alive it would dishonour his
-sons and their sons for three generations. Even Alexander would bear
-the burden of guilt. 
-TROI: So, you're willing to ignore the possibility because you're
-concerned about dishonour? 
-WORF: My father is dead. That Yridian is selling lies! 
-TROI: If you're so sure about that, why are you still so upset? Worf,
-you can't deny the possibility just because you don't want it to be
-true. If you want to talk about this, you know where to find me.
+(Data is about to speak, then changes his mind) 
+WORF: Wait. What is it, Commander? 
+DATA: I am sorry to bother you, but I have a question of a personal
+nature. Do you have a moment? 
+WORF: A moment. 
+DATA: I have heard you mention that you once experienced a vision. 
+WORF: Yes. When I was young my adoptive parents arranged for me to
+partake in the Rite of MajQa. 
+DATA: I understand it involves deep meditation in the lava caves of
+No'Mat. That prolonged exposure to the heat induces a hallucinatory
+effect. 
+WORF: Why are you asking me about this? 
+DATA: I have recently had an unusual experience, which might be
+described as a vision. 
+WORF: What happened? 
+DATA: An accident in Engineering shut down my cognitive functions for a
+short period of time, yet I seemed to remain conscious. I saw my
+father. 
+WORF: You are very fortunate. That is a powerful vision. 
+DATA: If it was a vision, I do not know how to proceed. 
+WORF: You must find its meaning. If it has anything to do with your
+father, you must learn all you can about it. In the Klingon MajQa
+ritual, there is nothing more important than receiving a revelation
+about your father. Your father is part of you, always. Learning about
+him teaches you about yourself. That is why no matter where he is or
+what he has done, you must find him. 
+DATA: But I am not looking for my father. 
+WORF: Yes, of course. Do not stop until you have the answer. 
+DATA: Thank you, Worf.
 

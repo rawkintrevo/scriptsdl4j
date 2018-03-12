@@ -1,39 +1,27 @@
-DATA TROI CRUSHER SAKKATH
+PICARD DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Troi's office]
+[Ready room]
 
-CRUSHER: And then I just slapped him. Really hard.
-I slapped Wesley. 
-TROI: Do you know why you did it? 
-CRUSHER: I've never hit my son in his life. 
-TROI: Beverly, this is important. What were you thinking when you hit
-Wes? 
-CRUSHER: I wasn't thinking about anything. I was just angry. 
-TROI: And Wesley didn't provoke you in any way? It wasn't anything he
-said, or anything he did? 
-CRUSHER: No, that's just it. It was a sudden burst of anger. I still
-can't believe I did it. 
-TROI: I don't know why you did it either, but I can tell you that I've
-heard the same kind of story from ten different people over the last
-two days.
-
-[Bridge]
-
-SAKKATH: This is your command centre. 
-DATA: Yes. It is normally occupied by Captain Picard, Commander Riker,
-and Counsellor Troi. 
-SAKKATH: Counsellor Troi is a Betazoid? 
-DATA: Half-Betazoid. Her father was human. 
-SAKKATH: Then she is not a true telepath? 
-DATA: Her skills are empathic in nature. She is able to sense the
-emotions of other beings. 
-SAKKATH: What is Captain Picard's background in diplomacy? 
-DATA: Extensive. The Captain's first diplomatic contact dates back to 
-SAKKATH: And what of his knowledge of the Legarans? Would he be able to
-conduct negotiations with them should the need arise? 
-DATA: Do you foresee such a circumstance occurring? Is Ambassador Sarek
-unable to 
-SAKKATH: Forgive me. I was merely exploring various possible
-permutations of our mission. Your tour of the Bridge has been most
-informative.
-
+GUEST0: That's impossible, Captain Picard. I
+cannot delay the conference. Not for a day, not for an hour. The
+schedule itself required three months of negotiations. 
+PICARD: Nevertheless, we appear to be facing 
+GUEST0: I give you my word of honour that the Ambassador is in
+perfect health. Is that enough? 
+PICARD: Mister Mendrossen 
+GUEST0: You are dealing with a theory full of holes, Captain. Why
+am I not affected by Sarek's supposed condition? And Perrin. How could
+his wife function normally if this theory of yours is correct? 
+PICARD: I cannot explain that. Hundreds of others on board have not
+been affected either. I have not. It appears to be random. Proximity,
+apparently, has no bearing on the phenomenon. 
+GUEST0: You are accusing the greatest man of his time of losing his
+mind on the eve of his greatest triumph, and you cannot explain why. I
+won't report this to the Ambassador, for the moment. I don't want to
+divert his attention from the mission. But if I were you, in the
+interests of your career, I'd be very concerned about finding the real
+cause of these outbursts before the Legarans arrive. 
+(Mendrossen leaves) 
+PICARD: Mister Data, will you please report to my Ready room. 
+DATA [OC]: Aye, sir. 

@@ -1,81 +1,37 @@
-TROI KWAN LAFORGE WORF PICARD RIKER COMPUTER DATA NARA
+TROI CRUSHER RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-DATA: The plasma venting system has engaged.
+TROI: I don't know how to describe it. I was
+suddenly overwhelmed by a flood of emotions. Fear, rage, panic. And the
+sensations didn't seem to be coming from any person. They were just
+there, in the room. 
+RIKER: Whose emotions were they? I thought you said were alone. 
+TROI: I was. 
+WORF: I scanned the area. I found no anomalous readings. 
+RIKER: How could you get an empathic impression from an empty room? 
+TROI: I don't know. 
+CRUSHER: Could the fact that Lieutenant Kwan was partially empathic
+have anything to do with it? 
+RIKER: What do you mean? 
+CRUSHER: I'm not sure, but certainly the feelings Troi described are
+consistent with suicide. 
+RIKER: Could his death have left some sort of empathic echo? 
+TROI: I don't see how. But if I went back to the nacelle tube, I might
+get a better sense of what I experienced. 
+CRUSHER: I don't think I'd recommend that right now. You're showing
+elevated levels of psilosynine. 
+WORF: Psilosynine? 
+CRUSHER: It's a neurotransmitter involved in telepathy. The experience
+overwhelmed you the first time. I think you should wait until your
+levels return to normal. 
+RIKER: How long? 
+CRUSHER: Three, maybe four hours. 
+RIKER: This time I want someone with you. 
+WORF: I shall accompany you, Counsellor.
 
-[Jefferies tube]
-
-(climbing ladders) 
-WORF: Two more decks. 
-RIKER: Riker to Bridge. We've almost reached the nacelle tube. 
-PICARD [OC]: Acknowledged.
-
-[Bridge]
-
-PICARD: Release the exterior hull plate. We may
-have to jettison the core. 
-DATA: Aye, sir. 
-[Nacelle control]
-
-(there is a man poised to jump into the plasma) 
-RIKER: What happened? 
-NARA: (alien woman) He locked out the controls. Before we knew what was
-happening, he stepped up onto the walkway. 
-RIKER: (to Worf) See if you can help shut down the plasma flow. 
-NARA: I'm afraid if we try to get any closer, he will jump through the
-forcefield. 
-RIKER: Dan, it's me. It's Will Riker. I was here yesterday, remember? 
-KWAN: (alien man) I didn't want to do it. But I saw them. And they
-laughed at me. They laughed. 
-(Riker is on the walkway) 
-RIKER: Whatever happened, we can talk about it. I want to help. 
-KWAN: Stay away! 
-RIKER: I just want to see your face, that's all. So we can talk. 
-KWAN: I know what I have to do. 
-RIKER: Dan, no! 
-WORF: I have unlocked the controls. 
-COMPUTER: Shutdown procedure initiated. 
-NARA: There's still plasma in the injector. It'll take time to vent
-off. 
-RIKER: Tell me what happened. Maybe I can help. 
-KWAN: I know what I have to do. 
-(and he jumps into the plasma stream. Riker hits the bulkhead in anger
-and frustration and despair)
-
-[Ready room]
-
-RIKER: A few more seconds I could've saved his life
-
-WORF: Commander, you did everything you could. It was not your fault. 
-RIKER: It was strange. I felt as if he didn't even recognise me,
-although I was with him just the other day when I supervised the tube
-refit. 
-PICARD: How did he seem then? 
-RIKER: Fine. I complimented him on getting the refit done faster than
-expected. He was pleased that I'd noticed. 
-TROI: I met with him about six weeks ago, during the crew evaluations.
-He was very positive. He was looking forward to being posted to the
-nacelle tube. 
-RIKER: He was a good officer with a fine career ahead of him. I don't
-understand why he wanted 
-PICARD: In my years as a Starship Captain, I've had to notify many
-parents of the loss of loved ones, but never before a suicide. I would
-like to be able to offer Lieutenant Kwan's parents some explanation of
-what happened, to try to help them make sense of this. 
-WORF: Maybe he left a message of some kind, explaining why he did it. 
-PICARD: I would like the two of you to piece together a picture of his
-last few days. 
-TROI: If he made any personal logs, it might be helpful to look through
-them. 
-PICARD: You're authorised to do so. 
-(Troi and Worf leave) 
-LAFORGE [OC]: La Forge to Captain. 
-PICARD: Go ahead.
-
-[Engineering]
-
-LAFORGE: I've just finished my damage assessment.
-We should be able to get underway I'd say within the hour. 
-PICARD [OC]: Mister La Forge
+Captain's log, stardate 47623.2. We've arrived at
+Starbase three twenty eight on schedule. After taking aboard medical
+supplies, we will depart for Barson Two.
 

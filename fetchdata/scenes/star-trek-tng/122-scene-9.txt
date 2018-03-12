@@ -1,76 +1,35 @@
-RIKER LAFORGE WORF TASHA PICARD LYNCH CRUSHER DATA
+RIKER CRUSHER WORF PICARD WESLEY ARMUS
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-LYNCH [OC]: Leland T. Lynch here, Captain. We now
-have minimum warp drive. 
-LAFORGE: Course plotted and set for Vagra Two. 
-PICARD: Warp eight. 
-LYNCH [OC]: I said minimum warp drive, Captain. 
-PICARD: You heard the order, Mister Lynch. Make it so. 
-LYNCH [OC]: Yes, sir. 
-(later) 
-LAFORGE: Approaching Vagra Two, Captain. 
-DATA: Strange, sir. There's no emergency signal from the shuttle as
-yet. 
-PICARD: What is this place, Mister Data? 
-DATA: There is little information in the library computer other than
-the fact of its existence. Our sensor show no signs of life forms,
-virtually no vegetation. 
-RIKER: Atmosphere? 
-DATA: Minimum for our needs, sir. 
-PICARD: Standard orbit. 
-LAFORGE: Aye, sir. Standard orbit. 
-WORF: I've located the shuttle. 
-PICARD: Life signs? 
-WORF: Not yet, sir. Still probing. It appears to be buried under a lot
-of debris. I may have something, sir. Faint life signs. Very faint. 
-RIKER: How many? 
-WORF: There's no way of telling from here. 
-PICARD: Data, can we beam up the injured? 
-DATA: No, sir. Our sensors are not fully penetrating whatever the
-debris is. 
-PICARD: That's very unusual. 
-DATA: Yes, sir. I cannot explain. 
-PICARD: Number One, prepare your away team. 
-RIKER: Right away. Data, Yar. 
-PICARD: Doctor Crusher, have you been monitoring all this? 
-CRUSHER [OC]: Yes. I'll meet the away team in transporter room four. 
+WORF: Captain, look at this. The force of the
+energy field around the shuttlecraft decreased for a few moments when
+the creature was draped over it. 
+PICARD: But not low enough to beam them out. 
+WORF: Almost. 
+WESLEY: It's approaching the away team now, and the energy field over
+the shuttlecraft is back to full intensity. 
+PICARD: Chart it. I want to see if there's a pattern. 
+WORF: Aye, sir.
+
 [Planet surface]
 
-(The team beam down onto a barren rock-strewn
-surface under a salmon pink sky. One of the nacelles has broken off the
-little shuttlecraft) 
-CRUSHER: Let's go. The life signs are weak. 
-(Their way is blocked by what seems to be an oil slick) 
-RIKER: What is this? 
-TASHA: No idea. We'll go around, just to be on the safe side. 
-(The slick moves to stay between them and the shuttle) 
-TASHA: Let's try the other way. 
-(It moves again) 
-RIKER: Enterprise, this is Riker. We've got a problem. 
-[Bridge]
-
-PICARD: What kind of problem, Number One? 
-RIKER [OC]: I'm not sure yet. There appears to be some kind of a slick
-blocking our path. Will keep you apprised. 
-PICARD: Maintain an open frequency. 
-RIKER: Aye, sir. 
-[Planet surface]
-
-RIKER: Analysis, Mister Data. 
-DATA: Inconclusive, sir. I cannot tell you what it is, but I can tell
-you what it is not. 
-RIKER: Explain. 
-DATA: There is no evidence of neural or circulatory systems. No
-internal organs. Cellular structure unknown. It does not have any
-proteins which are known to us. 
-CRUSHER: It's narrower over here. We can get over it. 
-RIKER: How is it moving, Data? 
-DATA: I do not know, sir. It does not appear to have a skeletal
-framework or musculature. 
-RIKER: Then what's causing it to move? 
-DATA: It appears to be following us, sir. 
-RIKER: No sign of intelligence, no brain as we know it, yet evidence of
-thought, Mister Data? 
-DATA: Insufficient information, sir. 
+(Armus rises from his slick) 
+ARMUS: She said you'd be back. 
+RIKER: Then she is alive. 
+ARMUS: For now. Why have you returned? 
+RIKER: We have no choice. We're here to negotiate for our team. What do
+you want? 
+ARMUS: Maybe I want nothing. 
+RIKER: Then you would have killed all of us. 
+ARMUS: I still might. 
+RIKER: What do you want? Tell me. Maybe we can reach an accommodation. 
+ARMUS: If I tell you, will you give it to me? 
+RIKER: I might. It depends. 
+CRUSHER: I am a doctor. I need to treat our injured friends. 
+ARMUS: Say please. 
+CRUSHER: Please. 
+ARMUS: You ask nicely. I will allow it. Wait! I've changed my mind.
+Talk to her from here. 
+CRUSHER: How? Troi, can you hear me? 

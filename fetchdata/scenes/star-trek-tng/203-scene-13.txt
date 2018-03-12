@@ -1,71 +1,32 @@
-TROI LAFORGE KENNELLY PICARD RIKER GUINAN CREWWOMAN RO
+PICARD GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Ready room]
 
-(Deanna and Beverly go to Ro's table) 
-TROI: Do you mind if we join you? 
-RO: Yes. 
-(Deanna and Beverly move on) 
-LAFORGE: (at the bar) I'll tell you one thing. If I find myself on an
-away team with Ensign Ro, I won't turn my back on her. 
-GUINAN: Perhaps the Captain thought she'd be valuable on the mission? 
-LAFORGE: That was orders. Had to be. She doesn't belong here. She
-doesn't even belong in the uniform, as far as I'm concerned. 
-GUINAN: Really? 
-LAFORGE: Really. 
-GUINAN: Sounds like someone I'd like to know. Excuse me. 
-(Guinan goes to Ro's table and sits down) 
-GUINAN: Am I disturbing you? 
-RO: Yes. 
-GUINAN: Good. You look like someone who wants to be disturbed. 
-RO: I'd rather be alone. 
-GUINAN: Oh, no you wouldn't. 
-RO: I beg your pardon? 
-GUINAN: If you wanted to be alone, you would've stayed in your
-quarters. The only reason to come here is to be amongst people. 
-RO: Who are you? 
-GUINAN: My name is Guinan. I tend bar, and I listen. 
-RO: Heard anything interesting? 
-GUINAN: Everyone's talking about you. 
-RO: Heard anything interesting? 
-GUINAN: Mmm hmm. 
-RO: Well, it's all true. 
-GUINAN: I believe truth is in the eye of the beholder. 
-RO: Isn't that supposed to be beauty? 
-GUINAN: Truth, beauty. It works for a lot of things. They say you never
-told the true story about Galon Two. They also say you didn't defend
-yourself at your court martial. 
-RO: What was to defend? I didn't follow orders. Eight members of the
-away team died. 
-GUINAN: Your fault? 
-RO: Yeah, my fault. 
-GUINAN: So you sit alone in crowded rooms staring at your drink. I
-think you enjoy it. 
-RO: I enjoy it? 
-GUINAN: You work so hard at torturing yourself, I can only think you
-must enjoy it. 
-RO: Who are you? 
-GUINAN: I told you. I'm Guinan. I tend bar, and I listen. 
-RO: You're not like any bartender I ever met before. 
-GUINAN: And you're not like any Starfleet officer I've ever met before,
-but that sounds like the beginning of a very interesting friendship. 
-RO: I don't stay anywhere long enough to make friends. 
-GUINAN: Too late. You just did. Excuse me. 
-CREWWOMAN [OC]: Bridge to Ensign Ro. 
-RO: Go ahead. 
-CREWWOMAN [OC]: Subspace communication coming in for you, Ensign. 
-RO: Thank you.
+PICARD: It seemed, Admiral, that they knew our
+course, our destination, our plan. 
+GUEST0 [on monitor]: I'm sure they monitor the border at all times
+for terrorist activity. Their sensors must picked up Orta's ship,
+that's all. 
+PICARD: I'm not convinced of that. 
+GUEST0 [on monitor]: The important thing is, what do we do now? 
+PICARD: Do you have any suggestions, Admiral? 
+GUEST0 [on monitor]: Your top priority is to protect the Cardassian
+treaty. 
+PICARD: Sir, I see no way to protect the Cardassian peace without
+sacrificing the Bajorans. 
+GUEST0 [on monitor]: If that's your call, I'll support it. 
+PICARD: No. I'm not willing to give them up. 
+GUEST0 [on monitor]: I don't think you're looking at the big picture,
+Jean-Luc. We can't afford to lose the Cardassian treaty. 
+PICARD: Well, I just see a different big picture, Admiral. It looks
+something like this. I see the Cardassian liaison, with his Cardassian
+virus, coming to meet with you after the attack on Solarion Four. Now
+we have a common enemy, he says. The Bajoran terrorists. The
+Cardassians can't find them, but maybe the Federation can. I'm
+beginning to see that our mission has, in fact, been to expose Orta so
+that the Cardassians can move in and destroy him. 
+GUEST0 [on monitor]: I think you've lost your perspective, Captain.
+We'll discuss this further when you return. For now, I'm giving you a
+direct order to withdraw. Kennelly out.
 
-[Ro's quarters]
-
-RO: Computer, direct subspace transmission to
-monitor. 
-KENNELLY [on monitor]: Your report, Ensign. 
-RO: Everything is going exactly as you predicted, Admiral. 
-[Corridor]
-
-PICARD: Any indications of weapons or vessels
-beneath the surface? 
-RIKER: The composition of the moon's crust is blocking the sensors. 
-PICARD: Which is very likely why they chose this moon for their base of
-operations. 

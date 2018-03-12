@@ -1,55 +1,66 @@
-WESLEY RIKER TROI WORF PICARD
+TROI WOMAN GUEST0 PICARD RIKER GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Guest quarters]
 
-RIKER: Standard orbit, Mister Crusher. 
-WESLEY: Standard orbit. 
-PICARD: Mister Data, you have the Bridge.
+GUEST1: Much of what we do is similar. 
+TROI: Yes, I suppose in a way it is. 
+GUEST1: We have both learned how to allow people to examine feelings
+hidden deep within their psyche. In fact, with you here now is
+provoking an emotional revelation. 
+TROI: You mean some emotion buried in your psyche? 
+GUEST1: Well, not that deep. 
+TROI: Exactly what are you feeling? 
+GUEST1: Can't you tell? 
+TROI: Some of it. 
+GUEST1: Well I feel that soon, perhaps after the briefing by your
+Captain, that you will be hungry, and that perhaps we could dine
+together and compare experiences. 
+TROI: I'd like that. 
+GUEST1: As will I. 
+TROI: Will he be with us? 
+GUEST1: Well, until we find our own method of communication. 
+TROI: I look forward to that time. 
+GUEST1: As do I.
 
-[Turbolift]
+[Observation lounge]
 
-RIKER: Transporter room five. I'm still a little
-uncomfortable with your leading this away team. 
-PICARD: This is not an away team, Commander. I consider this a
-ceremonial function. For me not to go could be construed as lack of
-interest. 
-RIKER: You will be careful, sir 
-PICARD: Oh, cluck, cluck, Number One. 
-RIKER: Sir? 
-PICARD: You're being a mother hen. I appreciate your concern. Actually
-I'm looking forward to meeting this mediator. 
-RIKER: We came a long way to get him. 
-PICARD: They wanted the best. That, according to all reports, is Riva.
-
-[Corridor]
-
-PICARD: If he can put an end to all the years of
-blood-letting on those planets, I think we should do everything in our
-power to assist him. 
-RIKER: Our job is not to police the galaxy. 
-PICARD: Isn't that my speech, Number One? No, of course you're right.
-We must not get involved. 
-[Transporter room]
-
-(O'Brien is transporter chief today) 
-WORF: Coordinates have been input, sir. 
-TROI: Have your sensors indicated any problem down there,
-Lieutenant?
-WORF: None. 
-TROI: But you're feeling a certain confusion about this mission. 
-WORF: No. 
-TROI: Yes. I've never known you to have such strong emotions, except
-when you're expecting to do battle. 
-WORF: I am not expecting battle. 
-RIKER: Then what is bothering you? 
-WORF: Riva. 
-PICARD: Ah. Riva negotiated several treaties between the Klingons and
-the Federation.
-WORF: Before him, there was no Klingon word for peacemaker. 
-RIKER: Then I can understand why you're feeling uneasy. 
-PICARD: Now look, this is a simple ceremonial greeting, nothing more.
-All right? 
-WORF: Aye, sir. 
-(Picard, Troi and Worf get on the transporter pads) 
-PICARD: Energise.
+(Picard enters) 
+PICARD: I'm sorry, Data. Begin the briefing. 
+DATA: The factions on Solais Five are historical enemies. So many have
+died that both societies are on the verge of extinction. 
+GUEST0: Enough. Thank you, Captain, there is no need to continue. The
+specific issues of the conflict have no relevance. 
+RIKER: So none of the background which we have provided would be
+helpful in understanding why they continue to fight? 
+GUEST0: The portfolio will indicate that the conflict is over a piece
+of land, or wealth, or some other tangible asset. But we both know that
+is not the case. 
+RIKER: They've been at war for so long, it has become personal. 
+GUEST0: Exactly. The basis for peace must also be personal. This is an
+historic confrontation, correct? 
+DATA: The factions have been at war for fifteen centuries. 
+GUEST0: What's changed? 
+DATA: I do not know what you mean. 
+GUEST0: They have been killing each other for a long time, now they
+want to talk peace. So something about this situation has recently
+changed. What's the new piece to the puzzle? 
+PICARD: Data? 
+DATA: Unknown, sir. 
+RIKER: Perhaps they have run out of people to kill. In any case,
+whatever the reason, peace is now preferred,
+which should make your job easier. 
+GUEST0: Well, if not easier, at least possible, for now they are
+motivated. But it doesn't matter. I'll find something. I always have. 
+PICARD: Always? 
+GUEST0: To date, I have never failed. Now, unless there is something
+else? 
+PICARD: No. This is for your benefit. 
+WOMAN: Then, thank you for your time and effort. 
+GUEST1: I believe I have to get ready for a dinner appointment. 
+WOMAN: (as the men are already heading out the door) If you will excuse
+me. 
+PICARD: Yes, of course. The meeting is adjourned. 
+RIKER: Our mediator is very self assured. We'll know soon enough if he
+can deliver.
 

@@ -1,30 +1,35 @@
-PICARD RIKER DATA LAFORGE
+DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Jefferies tube]
 
-RIKER: I don't think there's any possibility of
-developing sites in this region. Most of the stars are main sequence
-binaries. There are no M-class planets. 
-PICARD: Well, let's move on to another survey region. Have stellar
-cartography begin a 
-(Enterprise lurches forward) 
-PICARD: Mister Data, report. 
-DATA: The ship has moved into warp, sir. 
-RIKER: Who gave that command? 
-DATA: Apparently no one. Helm and navigation controls are not
-functioning. Our speed is now warp seven point three and holding. 
-PICARD: Picard to Engineering. 
-[Engineering]
+LAFORGE: I just don't get it, Data. What would
+cause the engines to suddenly jump into warp? 
+DATA: Perhaps the engines were activated by a random power fluctuation.
 
-PICARD [OC]: Mister La Forge, what's going on?
-We've lost primary helm control on the Bridge. 
-LAFORGE: I don't understand it. The impulse systems suddenly cut out
-and the warp drive just kicked in. 
-RIKER [OC]: Geordi, can you take the engines offline? 
-LAFORGE: I'm working on it. 
-[Bridge]
+LAFORGE: Which occurred just in time to save the ship? 
+DATA: It is improbable, but it is possible. 
+LAFORGE: I don't know. I don't think I'm ready to start believing in
+luck. 
+(they stop by an access panel) 
+DATA: There is another possibility. 
+LAFORGE: Yeah, what's that. 
+DATA: The sensors apparently detected a dangerous anomaly that
+threatened the Enterprise. It is possible that they triggered a safety
+device which caused the ship to avoid destruction. 
+LAFORGE: Yeah, but there's no direct link between the warp engines and
+the sensors. 
+(they open the panel) 
+LAFORGE: Whoa. What is that? It's some kind of new circuit node and
+it's connected to at least half a dozen points in the sensor array. 
+DATA: It appears to be connected to several other systems as well,
+including the warp control circuits. 
+LAFORGE: I guess there's a connection between the warp engines and the
+sensors after all. 
+(a forcefield blocks access to the node) 
+LAFORGE: A force field. Where did that come from? 
+DATA: I am not certain. Perhaps it came from the node itself. 
+LAFORGE: Well, wherever it came from, it sure doesn't want us messing
+with this node. 
+DATA: It appears to be protecting itself.
 
-PICARD: Mister Data, what's our heading? 
-DATA: Bearing one eight seven mark four. I am unable to determine our
-destination, however we are heading away from the Mekorda sector. 
-LAFORGE [OC]: Captain, the computer's locked out all the propulsion 

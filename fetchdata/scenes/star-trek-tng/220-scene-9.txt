@@ -1,39 +1,30 @@
-JUGGLER TROI WORF ALL LWAXANA COMPUTER POET ALEXANDER
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Worf's quarters]
+[Bridge]
 
-(Worf is digging discarded clothing and toys out
-from underneath furniture, and muttering) 
-WORF: Alexander. Be patient, she says. (doorbell) Come. I can't believe
-this. 
-(he notices that Troi has entered) 
-WORF: Isn't Alexander supposed to be with you? 
-TROI: He didn't show up for his appointment. I assumed he must still be
-here. 
-WORF: Computer, what is the location of Alexander Rozhenko? 
-COMPUTER: Alexander Rozhenko is in holodeck two. 
-TROI: Is he there alone? 
-COMPUTER: He is with Lwaxana Troi.
+DATA: We have traced the failure to a data net
+interface which routes replicator selections to the correct
+subprocessors. 
+LAFORGE: When we opened the panel, we discovered that the interface had
+been transformed into a gelatinous material that we haven't been able
+to identify. 
+(the ship shakes and alarms go off) 
+WORF: We have an intermittent failure of the inertial damping system. 
+PICARD: Take us out of warp, Ensign. 
+RIKER: Primary attitude control has failed. Going to secondary systems.
 
-[Holodeck - Shiralea]
-
-(the juggler, the poet and the quarrelling couple
-have joined Lwaxana and Alexander in the mud bath) 
-POET: To all the creatures within us! 
-ALEXANDER: All the creatures within us? 
-LWAXANA: Of course. Every one of us has a thousand different kinds of
-tiny people inside of us. And some of them want to get out and be wild,
-some want to be sad, or happy, or inventive or even just go dancing.
-That's why we all have so many different urges at different times. And
-all those different little people inside us, we must never be afraid to
-take them with us wherever we go. I mean, who knows when we may need
-one of them to pop up and rescue us from ourselves. Variety, my little
-Alex. The great secret is not the variety of life, it's the variety of
-us. 
-JUGGLER: Are we ready for the entertainment? 
-ALL: Yes. Bring on the entertainment. 
-(Worf and Troi enter the holodeck. The wind dancer tries to stop them,
-so Worf bursts the bubble. The entertainment is an apparently naked
-striped woman) 
-TROI: Mother. 
-LWAXANA: Little one! Mister Woof. Come, join us. 
+DATA: We have lost helm control, sir. 
+RIKER: Try a manual bypass of the damping systems. 
+DATA: Aye, sir. 
+PICARD: Backup generators. 
+LAFORGE: Coming online now. 
+PICARD: How long before we regain attitude control? 
+LAFORGE: We're almost there. 
+(the shaking stops) 
+RIKER: Ensign, put us back on course. Let's stay at impulse for now. 
+PICARD: Did something hit us, Mister Worf? 
+WORF: Negative, sir. 
+PICARD: The inertial dampers shouldn't fail without kicking in the
+automatic bypass. I want to know what went wrong. Analysis in thirty
+minutes. 

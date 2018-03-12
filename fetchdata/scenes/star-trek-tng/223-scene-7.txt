@@ -1,44 +1,40 @@
-PICARD RIKER CRUSHER LAFORGE WORF
+BORG LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crash site]
+[Brig]
 
-CRUSHER: Leave him here. He won't survive.
-RIKER: I think the Captain understands that.
-CRUSHER: I don't.
-RIKER: The Borg usually collect their dead. 
-CRUSHER: He's not dead.
-RIKER: The transmission 
-CRUSHER: At least not yet.
-RIKER: The transmission that we intercepted was probably a homing
-signal. We have to assume they're on their way.
-CRUSHER: Let me at least stabilise his condition, give him a chance of
-surviving until they get here.
+LAFORGE: I'll have to go in to connect the power
+conduit.
+WORF: I will follow the Commander. Reactivate the field once we're
+through.
+(the security guard does so. The Borg just watches) 
+LAFORGE: Good. Now stay that way.
+(the Borg steps forward) 
+WORF: Commander.
+(Geordi fits the new power conduit) 
+BORG: We are Borg. You will be assimilated. Resistance is futile.
+LAFORGE: Just look around, pal. You're hardly in a position to make any
+demands.
+BORG: We must return to the Collective.
+LAFORGE: Who's we?
+BORG: We are Borg.
+LAFORGE: Yeah, but there's only one of you. Do you have a name? A means
+of identification?
+BORG: Third of five.
+LAFORGE: There were five on your ship. Is that it? Just a number?
+BORG: Third of five.
+LAFORGE: It does kind of suit you. Okay. This is for you. It regulates
+the power flow to the frequency that you're used to. This connection
+should fit
+the coupling on your arm. You're welcome. Let's get out of here.
+WORF: Lower the forcefield.
+(Geordi and Worf back out, the forcefield goes back up, and the Borg
+goes to the conduit and plugs himself in) 
+LAFORGE: He's hungry, all right.
+BORG: Why do you do this?
+LAFORGE: I'm just a nice guy at heart. You feeling better?
+BORG: You are not Borg.
+LAFORGE: That's right. And I hope to stay that way.
+BORG: You will be assimilated. Resistance is futile.
+LAFORGE: That's gratitude for you.
 
-[Bridge]
-
-PICARD: Your concern is noted, Doctor, but any
-intervention on our part would alert the Borg to our having been here.
-
-[Crash site]
-
-CRUSHER: I'm afraid we've turned that corner
-already.
-WORF: Kill it now. Make it appear that it died in the crash. 
-[Bridge]
-
-WORF [OC]: Leave no evidence that we were ever
-here. 
-PICARD: Security measures must be taken before we beam it on board. 
-CRUSHER [OC]: Thank you, Captain. Standing by. 
-PICARD: Mister Data, notify Security to prepare a detention cell.
-Bridge to Engineering.
-LAFORGE [OC]: La Forge here. 
-PICARD: We're bringing a Borg survivor on board. We'll need to
-neutralise the homing signal 
-[Engineering]
-
-PICARD [OC]: Prevent it from sending or receiving
-transmissions of any kind.
-LAFORGE: I'll set up a subspace damping field around the detention
-cell. 
-PICARD [OC]: Very well. 

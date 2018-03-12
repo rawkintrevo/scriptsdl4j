@@ -1,81 +1,62 @@
-TROI CRUSHER LAFORGE PICARD RIKER SALAZAR HELM TAITT DATA POWELL
+GUEST1 HELM CRUSHER GUEST5 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Planet surface]
-
-RIKER: You pull as many people off the surface as
-you can and get back to the transwarp conduit. The Captain's orders
-were to get the Enterprise back to Federation space. 
-[Bridge]
-
-CRUSHER: Acknowledged. 
-RIKER [OC]: Riker out. 
-CRUSHER: Prepare to leave orbit. 
-TAITT: Sir, the Borg ship is powering up its forward weapons array.
-They'll be in firing range in, in twenty seconds. 
-CRUSHER: Salazar, how many people do we still have down there? 
-SALAZAR [OC]: Seventy three, sir. 
-CRUSHER: Put the Borg ship onscreen. 
-TAITT: Should I raise shields, sir? 
-CRUSHER: Not yet. I want to keep bringing people up until the last
-possible second. 
-TAITT: Ten seconds. 
-CRUSHER: Stand by to raise shields and break orbit on my mark. 
-TAITT: Five seconds. 
-CRUSHER: Mark. 
-(an energy bolt hits) 
-TAITT: Shields down to seventy percent. 
-CRUSHER: Establish a frequency shift firing pattern and return fire. 
-TAITT: Er, right. 
-(two torpedoes are fired) 
-TAITT: Direct hit, no damage. 
-CRUSHER: Helm, set course for the conduit, maximum warp. 
-HELM: Aye, sir. 
-TAITT: Sir, the Borg aren't following us. 
-CRUSHER: Salazar 
 [Transporter room]
 
-CRUSHER [OC]: How many people did we leave behind? 
-SALAZAR: Forty seven, sir.
-
+GUEST2: But there are six people still unaccounted
+for. 
+CRUSHER [OC]: Keep trying. 
 [Bridge]
 
-CRUSHER: Another minute and we would have had them.
+GUEST1: The Borg ship is powering up its weapons
+array. 
+CRUSHER: Come on, Chief. It's now or never. 
+GUEST5: They're preparing to fire. 
+CRUSHER: Raise shields. 
+GUEST1: The port nacelle's been hit. 
+CRUSHER: Helm, get us out of here. 
+HELM: Aye, sir. 
+GUEST1: We've lost warp engines. 
+CRUSHER: Evasive manoeuvres, full impulse. 
+(they sail past the massive Borg vessel) 
+GUEST5: Shields down to eighty percent. 
+CRUSHER: Fire phasers. 
+GUEST1: Direct hit. No damage to the Borg ship. 
+GUEST5: Shields down to seventy three percent. 
+CRUSHER: What's the status of the warp engines? 
+GUEST1: Still down. We can't outrun them. 
+CRUSHER: Helm, set a new course, heading three four four mark six. Full
+impulse. 
+HELM: Aye, sir. 
+GUEST5: Sir, that heading takes us directly into the sun. 
+CRUSHER: The databanks should contain information about a process
+called metaphasic shielding. 
+GUEST1: I know about that research. Commander La Forge was developing
+a programme
+that would implement metaphasic properties. 
+CRUSHER: Right. How far along was he? 
+GUEST1: It's in the databanks but it's never been tested. 
+CRUSHER: If we had metaphasic shielding, we could enter the sun's
+corona but the Borg ship wouldn't be able to follow. Can you bring the
+programme online? 
+GUEST1: I can, but we have no way of knowing if the shields will hold.
 
-[Planet surface]
-
-RIKER: Riker to any team leader. 
-POWELL [OC]: Lieutenant Powell here, sir. 
-RIKER: Round up everybody who was left behind. Take cover. Try to avoid
-any contact with the Borg. 
-POWELL [OC]: Aye, sir. 
-RIKER: Riker out. Even if Beverly can get back to Federation space,
-it'll be a few days before Starfleet can get any ships here. Until
-then, we're on our own.
-
-[Holding cell]
-
-PICARD: Data, you must realise that something has
-happened to you. The Data I know would never have agreed to be a
-willing party to Lore's plan. 
-DATA: (taking the comm. badges) I now realise that my life aboard the
-Enterprise was a waste. My quest to become human was misguided. An
-evolutionary step in the wrong direction. 
-TROI: Data, all I'm sensing from you is anger and hatred. Have you felt
-any other emotions? 
-DATA: There are no other emotions. 
-LAFORGE: Data, just because you haven't experienced certain emotions
-doesn't mean they don't exist. Lore is only feeding you the negative
-ones. 
-DATA: Counsellor Troi told me herself that feelings are not negative or
-positive. It is how we act on them that makes them good or bad. 
-PICARD: Fine. But what about the things that Lore is proposing? What
-about the lives that have already been lost? 
-DATA: You simply do not understand. In a quest such as ours, sacrifices
-have to be made. It is regrettable, but the greater good must be
-served. Give me your visor. 
-LAFORGE: Why? 
-DATA: Give it to me or I will take it by force. 
-(Geordi takes it off) 
-DATA: I am not your puppet anymore. 
-(he turns on the forcefield and walks away)
+GUEST5: Sir, hull temperature is rising. Now at twelve thousand degrees
+C. Radiation level nearing ten thousand rads. 
+(weapons hit) 
+CRUSHER: Report. 
+GUEST5: Shields at sixty two percent. 
+CRUSHER: Lieutenant, activate the metaphasic programme. It's our best
+shot. 
+GUEST1: Aye, sir. 
+GUEST5: Hull temperature is critical. We can't withstand this heat much
+longer. 
+GUEST1: Programme is online. Engaging metaphasic shield now. 
+GUEST5: Hull temperature dropping. Down to seven thousand degrees. 
+CRUSHER: Maintain course. 
+GUEST1: The Borg ship has broken off pursuit. 
+CRUSHER: All stop. 
+GUEST5: Sir, the Borg ship is taking up position relative to ours.
+They're going to wait for us to come out. 
+CRUSHER: The question is, how long can we survive in here?
 

@@ -1,40 +1,40 @@
-RIKER WORF PICARD RO DATA KALITA
+SANTOS WORF PICARD RIKER RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Anything? 
-DATA: No, sir. It will take approximately six hours to scan this
-system. 
-WORF: Captain, the distress call is being repeated. 
-PICARD: Data, can you locate the signal? 
-DATA: I am attempting to do so.
+(at the science station) 
+DATA: I have established a relay link with the sensor probe we left on
+the perimeter of the Nebula. This is the convoy. We are expecting the
+Maquis attack force to cross the border from the Demilitarised Zone. 
+PICARD: As soon as they cross the border, we'll intercept them. 
+WORF: Captain, in order to ensure that the ship Commander Riker and
+Lieutenant Ro are piloting does not come under fire, I have relayed
+their warp signature to the rest of the attack force. 
+DATA: Sir, the Maquis squadron is coming into sensor range. 
+PICARD: Go to Red alert. 
+WORF: Aye, sir. 
+[Ro's ship]
+
+ SANTOS [OC]: Squad leader to all ships. 
+RO: Go ahead, squad leader.
+
+[Santos' ship]
+
+SANTOS: We'll be crossing the border in less than
+one minute. Arm your weapons. 
+RO [OC]: Acknowledged.
 
 [Ro's ship]
 
-KALITA: They're scanning our last position. 
-RO: All right, I've locked onto their sensor beam. I'm going to use it
-to manoeuvre into transporter range. 
-KALITA: How are we going to beam through their shields? 
-RO: We can't. If we're going to get those medical supplies, we're going
-to have to take this ship through their shields.
+RIKER: Starfleet can't make its move until we're
+out of the Demilitarised Zone. We're to break formation and take cover
+in the Nebula as soon as they appear. 
+RO: The ships in the convoy are raising their shields. They've spotted
+us. 
+RIKER: We cross the border in thirty seconds. 
+(Ro presses some buttons) 
+RIKER: What the? 
+(Ro aims her phaser at him) 
+RO: I'm sorry. I can't let this happen.
 
-[Bridge]
-
-DATA: Sir, I am scanning the area from which the
-distress signal was sent, but I am unable to detect a vessel. 
-WORF: Captain, the computer has detected a piggyback communication on
-the last distress signal. 
-PICARD: Can you decode it? 
-WORF: It will take a few moments. 
-PICARD: Do it.
-
-[Ro's ship]
-
-RO: The Enterprise shields have a weak point. When
-the ship is at impulse, the thrust destabilises the shield
-configuration right at this point. (between the nacelles) I'm going to
-try to punch through there. 
-KALITA: Won't they detect us? 
-RO: They'll know something's penetrated the shields. With all the
-interference it'll take them a few seconds to find us. We'll have to
-beam the medical supplies aboard and get out fast. 

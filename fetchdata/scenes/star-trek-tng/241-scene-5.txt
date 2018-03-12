@@ -1,64 +1,47 @@
-MARTA PICARD COREY Q
+GUEST4 PICARD GUEST3 GUEST0 Q
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Starbase - Picard's quarters]
+[Bonestell Facility casino]
 
-COREY: I've played a lot of dom-jot in a lot of
-places. I've never seen the balls roll that well for anyone. 
-MARTA: So he was cheating? 
-COREY: I'll bet you that he had some sort of magnetic device in his
-belt. It was controlling the balls. 
-MARTA: That's terrible. 
-COREY: We've got to get even. 
-MARTA: What did you have in mind? 
-COREY: Well, we could do to him what he did to us. Cheat. Only this
-time we'll rig the table so his device'll backfire on him. 
-PICARD: Corey, that won't solve anything. 
-COREY: It'll teach him that he can't go round cheating Starfleet
-officers. 
-PICARD: All it'll do is provoke him. And provoking a Nausicaan is not a
-good idea. 
-COREY: I can handle him. 
-PICARD: What if he's not alone? What if he brings some of his Nausicaan
-friends with him? 
-COREY: Well then I guess that when I'll have to depend on my friends to
-help me out. 
-PICARD: Corey, there's got to be a better way to handle this. 
-COREY: When did you start backing away from a good fight? 
-PICARD: Look Corey, we're not cadets anymore. We're officers. We should
-start to set a higher standard for ourselves. 
-MARTA: It was a good idea,, but let's just forget it, okay? 
-(Corey leaves) 
-MARTA: He'll get over it. 
-PICARD: I hope so. What? 
-MARTA: Nothing. It's just you'd usually be the one plotting revenge. 
-PICARD: Yes, that would be more in character, wouldn't it? 
-MARTA: Much. But I always suspected you had a hidden streak of
-responsibility somewhere. 
-PICARD: Perhaps it's just that I'm getting older. 
-MARTA: Maybe these bars are just starting to feel a little heavy,
-Ensign. Ensign Picard and Ensign Batanides. It sounds weird, doesn't
-it? 
-PICARD: It's going to take some getting used to. 
-MARTA: It's too bad we can't get used to it together. The three of us,
-I mean. 
-PICARD: Oh, of course. 
-(doorbell) 
-PICARD: Come. 
-Q: Flowers! Is there a John Luck Pickard here? 
-MARTA: From one of your conquests, no doubt. I guess some things aren't
-going to change. 
-(Marta leaves) 
-Q: Did I interrupt anything sordid, I hope? 
-PICARD: No, Q, you did not. 
-Q: Pity. She's quite attractive. 
-PICARD: We were friends, nothing more. 
-Q: Is that another regret I hear? My, my. We're simply riddled with
-regrets about our youth, now aren't we? 
-PICARD: My friendship with Marta is not something I regret. 
-Q: But you wish it had been more than just friendship, don't you? Well,
-maybe you can change all that. 
-PICARD: Q, what is it you want? 
-Q: I thought you'd like to know that Mister Zweller has decided not to
-take your advice. He's in the Bonestell Facility right now, rigging the
-table to beat the Nausicaan. I guess you weren't that persuasive.
+GUEST4: He's winning. 
+PICARD: Of course. 
+GUEST4: I thought you had a date. 
+PICARD: She decided to leave. 
+GUEST4: You're getting old, Johnny. 
+(Corey bounces his ball off a light and down a hole in the middle of
+the table) 
+GUEST3: Thank you. Thank you all. Thank you. 
+GUEST4: Very, very nice. I think you should forget about Starfleet and
+play dom-jot for a living. 
+GUEST3: Nah, this is nothing. A little trigonometry, some minor wrist
+action. Now barokie, there's a game. 
+GUEST0 1: Human! Play dom-jot, human. 
+GUEST3: I think I could be persuaded to play one more game. 
+PICARD: Corey, don't play him. 
+GUEST3: Why? 
+PICARD: It'll cause trouble. He's a Nausicaan. They can get very
+ill-tempered if they lose. 
+GUEST3: So can I. 
+PICARD: No, Corey, listen to me. This is a big mistake. Don't play him.
+
+GUEST3: What's gotten into you? Let's go. 
+Q: I see you've found your Nausicaan friend. You seem unimpaled so far.
+
+PICARD: I'm sorry to disappoint you. 
+Q: Ensign Zweller seems to be doing well. 
+PICARD: He's going to lose. The Nausicaan is cheating. 
+Q: Really? I'm beginning to like these Nausicaans. 
+PICARD: If history repeats itself, Corey will figure it out later
+tonight, and then he'll want revenge. 
+Q: And will you help your best friend avenge this injustice? 
+PICARD: I did last time. I rigged the table so that he would win in a
+rematch. 
+Q: Picard, you cheated? Picard, I'm impressed. 
+PICARD: It was a stupid mistake. The Nausicaan didn't take kindly to
+losing. Nor his friends. They were outraged. They wanted a fight. I
+gave them one. 
+Q: That's a beautiful story. It gets you right here, doesn't it? 
+GUEST0 1: Ten. 
+(the Nausicaan puts a bet down and makes his play, then laughs and pots
+the winner) Dom-jot. Human play dom-jot.
 

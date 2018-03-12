@@ -1,128 +1,42 @@
-TEMAREK TROI LAFORGE WORF PICARD BRULL RIKER YUTA WESLEY VOLNOTH CRUSHER DATA MAROUK
+PICARD RIKER GUEST1 GUEST4 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Gatherer camp]
-
-(It looks like a junk yard) 
-LAFORGE: Artonian lasers. Tonkian homing beacons. Quite a collection. 
-DATA: Noranium alloy, sir. It's salvage value is quite low. 
-RIKER: Looks like these Gatherers weren't too discriminating in what
-they steal. 
-WORF: Commander? Ambush! 
-(The Gatherers start firing at them as they hide behind barrels)
-DATA: Rigelian phaser rifles, sir. Not particularly powerful. 
-RIKER: Powerful enough. We came to talk! 
-WORF: Your words are wasted, Commander. They understand only this. (a
-phaser) 
-RIKER: We're here to establish a dialogue, Worf. 
-RIKER: Data, tell me about noranium. It vaporises at? 
-DATA: Two thousand three hundred fourteen degrees. Of course, noranium
-carbide 
-RIKER: Thank you, Data.
-LAFORGE: Setting seven ought to do it. 
-RIKER: Three, two, one, now! 
-(They fire at some of the metal junk, which creates a smoke screen.) 
-RIKER: Enterprise, four to beam up. 
-BRULL: Cowards! 
-(He puts the fire out with a bucket of soil) 
-WORF: Your ambushes would be more successful if you bathed more often. 
-RIKER: We've brought the Sovereign of Acamar. 
-BRULL: Marouk? Here? 
-RIKER: With an offer of amnesty. 
-(Later, Yuta is tasting a drink again, this time from a metal jug) 
-MAROUK: Full dispensation will be extended to all Gatherers who are
-willing to return to Acamar Three. 
-BRULL: You don't trust me, Marouk. 
-MAROUK: Should I? 
-(Marouk drinks from the goblet, then Yuta takes it to Brull)
-BRULL: But you expect me to trust you. Maybe you just poisoned it
-yourself. Taste this, Temarek. 
-(Temarek doesn't want to, so Brull pushes him down and pours some on
-his face before taking a drink himself)
-MAROUK: Barbarians. This is futile. 
-PICARD: Sovereign. Brull! 
-BRULL: Go home, old woman. 
-MAROUK: You people haven't changed in a hundred years. 
-BRULL: You should know. You were there. 
-PICARD: Sit down! Please. Please. Now, we're here to talk. 
-MAROUK: It's a waste of time, Captain. They don't care about how they
-live. 
-BRULL: Am I supposed to believe that you care how we live? 
-MAROUK: Yes. 
-PICARD: Brull, she's here, isn't she? 
-BRULL: Maybe you forced her to come, Picard. 
-MAROUK: Nobody forces me anywhere, Brull. 
-BRULL: What is there for us on Acamar Three? 
-MAROUK: A life. A home. You can end your wanderings, your miserable
-existence. 
-BRULL: Do I look miserable to you? 
-MAROUK: The clan wars are over, Brull. It is a past we're ashamed of.
-It is why you had to leave. Now, it is time to come home. 
-BRULL: I want to speak privately with Sovereign Marouk and Picard.
-Everyone else, get out. 
-(We follow the followers leaving their masters) 
-RIKER: Any insights? 
-TROI: Brull's ready to negotiate. He just wants privacy so that he
-won't appear weak in front of the other Gatherers. 
-YUTA: You are of the clan Lornak. 
-VOLNOTH: (an old man) What of it? I've seen you before. 
-YUTA: Yes. 
-VOLNOTH: But it's impossible. 
-YUTA: No. Look closer. I am Yuta of the clan Tralesta. 
-(She touches his cheek and he falls backwards in agony) 
-YUTA: I am the last of my line, but my clan will outlive yours. 
-(Back at the camp fire) 
-BRULL: Marouk's offer has value. 
-PICARD: Commander. 
-BRULL: But still, I don't know. 
-PICARD: But you'll agree it is enough to present to your leader. 
-BRULL: Chorgan is a better judge of these matters. I will take it to
-him. You will hear from me in twenty days. 
-PICARD: Brull, in twenty days, I hope to be very far away from here. 
-MAROUK: With all due respect, Brull, I would like to make the offer to
-Chorgan myself. 
-PICARD: We'll gladly take you with us on the Enterprise. How many of
-your men do you want to accompany you? 
-BRULL: I'll come alone. If this is a trap. 
-MAROUK: Oh, it isn't. 
-BRULL: Mallon, you'll be in charge while I'm gone. If I'm not back in
-ten days 
-TEMAREK: Brull! Brull! 
-(They dash to where Volnoth is lying) 
-BRULL: Volnoth. 
-
-RIKER: Away team to Enterprise. Medical Emergency. 
-BRULL: Volnoth was an old man. There's nothing to be done. 
-RIKER: There's a chance that our doctors can do something. 
-BRULL: You found him? 
-TEMAREK: Yes. And there are no other members of the Lornak clan here,
-so I claim his possessions. 
-BRULL: Granted. 
-(Temarek pulls off Volnoth's boots) 
-MAROUK: Have you no respect for the dead? 
-BRULL: What's there to respect about a corpse? 
-(Crusher beams down. Riker pulls Temarek off) 
-BRULL: Temarek, no. Calm down. 
-CRUSHER: He's been dead too long. 
-RIKER: How? 
-CRUSHER: Cardiac arrest? 
-RIKER: You don't sound convinced. 
-CRUSHER: No, he died of a heart attack, all right, but I can't find the
-cause. His cardiac muscle is strong and there's no sign of arterial
-occlusion. 
 [Bridge]
 
-PICARD: Brull, will you show Mister Crusher the
-course to set to the Hromi Cluster? 
-BRULL: A child? This doesn't inspire my confidence. 
-(Picard gives him a withering glare. Brull goes over to the console but
-clearly doesn't know what he's looking at) 
-WESLEY: This is our present position. 
-BRULL: Set a heading for three four three mark seven two. 
-WESLEY: That's going to take us through the centre of an asteroid belt.
-
-BRULL: What's the matter, kid? Can't you fly yourself around a couple
-of rocks? 
-WESLEY: Sure I can, but if we take this heading we can avoid the belt
-completely, and only lose twelve point one minutes at warp seven. 
-BRULL: Have it your way, kid.
+PICARD: Your people prepare a warm welcome. 
+GUEST4: That's Chorgan's ship. 
+WORF: Shields holding. 
+PICARD: Mister Worf, contact Chorgan. Tell him Brull has brought us to
+talk. 
+WORF: Chorgan is not responding. 
+PICARD: Mister Worf, can we knock out their shields without seriously
+damaging their ship? 
+WORF: I believe we can, sir. 
+PICARD: Prepare phasers and open a channel. 
+WORF: Phasers locked. Channel open. 
+PICARD: Chorgan, this is Captain Jean-Luc Picard of the Enterprise. All
+right, let's focus their attention. Mister Worf, fire phasers. 
+WORF: Their forward shields are inoperative. 
+PICARD: Well done, Lieutenant. 
+WORF: We are being hailed, sir. 
+PICARD: That's better. On screen. 
+GUEST1 [on viewscreen]: Brull, you traitor! You have led them here to
+destroy me! 
+PICARD: Chorgan, if I had wanted you destroyed, you would not be
+talking to me now. Obviously, I wanted something else. 
+GUEST1 [on viewscreen]: And what is that? 
+PICARD: I have on board Sovereign Marouk of Acamar Three. I want you to
+hear what she and Brull have to say. 
+GUEST4: She's worth listening to. 
+GUEST1 [on viewscreen]: I don't wish to listen to either of you. 
+PICARD: You have no choice. Prepare to receive us. We're beaming on
+board. Picard out. Cancel Red Alert. Tell Sovereign Marouk meet me in
+transporter three. 
+WORF: Aye, sir. 
+RIKER: You're going alone, Captain? 
+PICARD: The danger is minimal, Number One. Chorgan is unlikely to do
+anything rash with the Enterprise's phasers trained on his ship. 
+RIKER: There are still risks. 
+PICARD: For these negotiations to succeed I must be a mediator, not an
+enforcer. You have the Bridge, Number One. Brull.
 

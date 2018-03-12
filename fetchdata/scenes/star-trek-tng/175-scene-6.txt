@@ -1,99 +1,32 @@
-TROI LAFORGE WORF SHELBY RIKER HANSON CRUSHER DATA
+PICARD RIKER GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Borg ship]
 
-SHELBY: Accelerator coils are responding normally. 
-LAFORGE: Excellent. Forward shields at fifty eight percent. Aft shields
-sensors must be down 
-SHELBY: Checking. Sensors are fine. No. Aft shields have completely
-failed. Damn it. Auxiliary generators are out again. 
-LAFORGE: Just the man I need. We're having some problems with the aft
-shields. Generators going on and offline. I could really use your help,
-Worf 
-RIKER: How soon do we get underway, Geordi?
-LAFORGE: Still a couple hours. Commander Shelby can fill you in. 
-SHELBY: The main navigational deflector is functional again. Sherbourne
-and Barclay are running through the final testing sequence now. 
-RIKER: The warp reactor core?
-SHELBY: Reconstruction is proceeding normally. It's slow work. If we
-can nail down this shield generator problem, I agree with La Forge. We
-should be at
-operating capacity in two to three hours. 
-RIKER: Good. 
-SHELBY: Anything else, sir?
-RIKER: Yes. You did a good job on the Borg ship.
-SHELBY: I didn't get Picard.
-RIKER: You stopped them. You gave us our shot.
-SHELBY: Sir, I 
-RIKER: Commander, we don't have to like each other to work well
-together. As a fact of fact, I'd like you to continue to keep me on my
-toes.
-SHELBY: Some might define that as the role of a first officer.
-RIKER: Damn, you are ambitious, aren't you, Shelby. 
-SHELBY: Captain Riker, based on our past relationship, there's no
-reason for me to expect to become your first officer except you need
-me. I know how to get things done, and I have the expertise in the
-Borg. 
-RIKER: And you have a lot to learn, Commander.
-SHELBY: Yes, sir.
-RIKER: Almost as much as I had to learn when I came aboard as Captain
-Picard's first officer. A fact he reminded me of when I commented on
-what a pain in the neck you are.
-SHELBY: Yes, sir.
-DATA [OC]: Data to Riker. Message from Starfleet, Captain.
-RIKER: Go ahead, Data.
-DATA [OC]: Starfleet reports 
-[Bridge]
+(The Borg ship drops out of warp. A fully Borgified
+Picard looks at the Enterprise approaching) 
+RIKER [on viewscreen]: Locutus of Borg, this is Captain William T.
+Riker of the USS Enterprise.
+PICARD: You may speak.
 
-DATA: It has engaged the Borg at Wolf three fifty
-nine, sir. 
-(Riker enters) 
-DATA: Admiral Hanson on subspace, Captain. 
-RIKER: On screen. Admiral? 
-(The image is very broken up. He's bouncing around a lot) 
-HANSON [on viewscreen]: The fight does not go well, Enterprise. We're
-attempting to withdraw and regroup. Rendezvous with fleet 
-(transmission lost)
+[Battle bridge]
 
-Captain's Log, stardate 44002.3. Repairs are
-complete, and the Enterprise is warping to rendezvous with Starfleet at
-Wolf three five nine. Communications from the site of battle have been
-cut off, possibly by Borg interference.
-
-[Observation lounge]
-
-RIKER: Lieutenant Worf, everyone in this room
-shares my respect for your service to this ship. But right now, I need
-your experience at tactical. Commander Data, I realise your very nature
-omits ambition. Nevertheless, I want you to know I seriously considered
-you first officer. 
-DATA: Thank you, sir. 
-RIKER: But this is not the time for change. I need you all where you
-are, where Captain Picard always relied on you. I have been,
-reluctantly, forced to conclude that Commander Shelby, our expert on
-the Borg, is an ideal choice at this time for first officer. Based on
-our latest communication, we can assume that the Borg survived the
-fleet's attack. Your thoughts on our next encounter? 
-SHELBY: What about the heavy graviton beam we were talking about?
-LAFORGE: I've gone over it four times. The local field distortion just
-wouldn't be strong enough to incapacitate them. 
-DATA: Doctor Crusher and I have been working on an interesting premise.
-
-CRUSHER: With our recent experience in nanotechnology, we might be able
-to introduce a destructive breed of nanites into the Borg. 
-SHELBY: Nanites?
-DATA: Robots small enough to enter living cells.
-RIKER: How long would it take to execute that? 
-CRUSHER: That's the problem. Two to three weeks.
-TROI: In two or three weeks, nanites may be all that's left of the
-Federation.
-WORF: We have the new phaser adapters. 
-LAFORGE: maybe in concert with photon torpedoes we can slow them down. 
-RIKER: I'm sure Captain Picard would have something meaningful and
-inspirational to say right now. To tell you the truth, I wish he were
-here, because I'd like to hear it too. I know how difficult this
-transition has been for all of you. I can take over for him, but I
-could never replace Captain Picard. Nor would I ever try. Whatever the
-outcome, I'm sure our efforts in the coming battle will justify his
-faith in all of us. Dismissed.
+RIKER: We wish to end the hostilities.
+PICARD [on viewscreen]: Then you must unconditionally surrender.
+RIKER: We are prepared to meet to discuss your terms.
+PICARD [on viewscreen]: It is unlikely you are prepared to discuss
+terms. It is more likely that this is an attempt at deception.
+RIKER: Come now, Locutus. If Picard's knowledge and experience is part
+of you, then you know I've never lied to him. You should also
+implicitly trust me, is that not so?
+PICARD [on viewscreen]: Picard implicitly trusted you.
+RIKER: Then trust me now. Meet to discuss terms.
+PICARD [on viewscreen]: Discussion is irrelevant. There are no terms.
+You will disarm all your weapons and escort us to Sector zero zero one
+where we will begin assimilating your culture and technology.
+(mute) 
+RIKER: Mister Gleason, can you pinpoint the source of the Borg
+transmission?
+GUEST0: I can put you within thirty meters of it, sir. 
+RIKER: O'Brien, report.
 

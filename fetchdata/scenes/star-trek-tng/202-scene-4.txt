@@ -1,27 +1,5 @@
-RIKER WORF PICARD TAMARIAN DATA DATHON
-
-[Bridge]
-
-DATA: Sensors show Captain Picard and the Tamarian
-in apparent good health, approximately twenty metres from each other. 
-RIKER: Hail the Tamarian ship. 
-WORF: On screen. 
-RIKER: You are holding our captain. I want him released. 
-TAMARIAN [on viewscreen]: Darmok at Tanagra. 
-RIKER: Your action could be interpreted as an act of war. 
-TAMARIAN [on viewscreen]: Kiteo. His eyes closed. Chenza at court. The
-court of silence. Chenza! 
-RIKER: Is there any way to get through to them? 
-DATA: Not without further study. 
-RIKER: Close the channel, Mister Worf. 
-WORF: Gladly, sir. 
-RIKER: Worf, I want you to assemble a security team, take a shuttle
-down to the planet, bring back the captain. 
-WORF: Aye, Commander. 
-DATA: Sir, the Tamarians are fully capable of stopping a shuttle. 
-RIKER: I'm aware of that. But disrupting our transporter beam and
-firing on a shuttle are two entirely different things. I'm betting
-they're not going to push it that far.
+PICARD DATHON
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Planet surface]
 

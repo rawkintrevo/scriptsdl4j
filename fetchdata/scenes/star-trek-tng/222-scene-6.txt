@@ -1,56 +1,39 @@
-ISABELLA LAFORGE WORF PICARD CLARA SUTTER DATA
+GUEST0 CLARA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Arboretum]
+[Corridor]
 
-(the firefly is exploring the orchids) 
-CLARA: See, Isabella? You have to push your finger into the soil as far
-as it can go. I'm making a hole for the seeds. Now they need to be
-watered. But the baby seeds are very small, so we mustn't give them too
-much to drink. 
-(the firefly passes through Clara's head, then a second voice joins in
-with Clara's humming) 
-CLARA: Hello? Is anybody there? 
-ISABELLA: Hello. 
-CLARA: Isabella? 
-ISABELLA: Hello, Clara. 
-(she's blonde, wearing a blue dress and a sour, sulky expression) 
-CLARA: Isabella, how come I can see you? 
-ISABELLA: Is something wrong with the way I look? 
-CLARA: No. I've just never seen you before. Not for real. 
-ISABELLA: Well, now you can see me for real. Doesn't that make you
-happy? 
-CLARA: Yes, it's wonderful. 
-ISABELLA: Can we go now? 
-CLARA: We'd better finish planting the seeds first. 
-ISABELLA: I'm tired of planting. Let's do something else. 
-CLARA: Like what? 
-ISABELLA: Like, I would really like to explore the ship. 
-CLARA: We'd better finish planting first. I promised Keiko. 
-ISABELLA: We can finish later. Let's go look around. 
-CLARA: I'd better ask my daddy. 
-ISABELLA: Your daddy won't mind. We can tell him later. Come on.
+GUEST0: What's in here? 
+CLARA: That's the door to the cargo bay. We can't go in there. 
+GUEST0: Let's go someplace with a lot of people. 
+CLARA: Okay. Isabella, why are you so serious lately? 
+GUEST0: What do you mean? 
+CLARA: You haven't even smiled once today. 
+(Isabella attempts a smile, and feels her face to find out what it's
+like) 
+CLARA: You're my best friend, Isabella. 
+GUEST0: Why? 
+CLARA: I don't know. Because we do things together and we trade
+secrets. 
+GUEST0: Does everybody have a best friend? 
+CLARA: If they're lucky. Before I had you, I didn't have one. 
+GUEST0: Why not? 
+CLARA: Every time I made friends with someone, my daddy's job would
+change and we'd move to a new ship. It takes time to make a best
+friend. 
+GUEST0: How long? 
+CLARA: It depends. With you, not very long. You always listened to me,
+even when I was sad. 
+GUEST0: Clara, I'm glad we're best friends. 
+CLARA: Race you. 
+GUEST0: Okay. 
+CLARA: Ready, set, go! 
+(and they run around the corner straight into -) 
+WORF: This area is not designated for children. Are you lost? Where are
+you supposed to be? 
+CLARA: We were only playing. We're sorry. 
+WORF: Return to your quarters, and we will forget this incident. 
+CLARA: Thank you. Come on. 
+(Clara takes Isabella's hand and they go back around the corner. Once
+Worf is gone, they return and run on )
 
-[Engineering]
-
-LAFORGE: So what are we going to name this nebula?
-FGC forty seven just doesn't have the proper ring to it. 
-SUTTER: Why don't we call it Sutter's Cloud? 
-DATA: The rotational period of the neutron star is one point three five
-seconds. 
-LAFORGE: That's a bit on the long side. Sutter, let's see if you can
-get a reading on the particle flux. 
-SUTTER: Aye, sir. 
-LAFORGE: I was thinking about something more along the lines of the La
-Forge Nebula. It's got sort of a majestic sound, don't you think? 
-DATA: Given the selections, I prefer FGC four seven. 
-(the ship shakes) 
-SUTTER: What was that? 
-LAFORGE: It felt like we hit something. 
-DATA: Shields have registered an impact, however sensors show nothing
-in the vicinity.
-
-[Bridge]
-
-WORF: Forward velocity is down by point two
-percent, and dropping. 
-PICARD: Engineering. 

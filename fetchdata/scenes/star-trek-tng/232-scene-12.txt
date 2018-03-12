@@ -1,32 +1,36 @@
-Q CRUSHER AMANDA
+PICARD RIKER DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Amanda's quarters]
+[Bridge]
 
-AMANDA: You understand, don't you? It's just that I
-have these things that I want to do. I'm going to the Academy. I want a
-career, and I want to join Starfleet. 
-CRUSHER: You can still do those things. 
-AMANDA: It just seems so complicated now. These powers that I have are
-just going to stand in the way. I don't want to have to deal with it. 
-CRUSHER: Well, you're going to have to. Listen, I can only imagine how
-you feel. And it would be easier if this had never happened or if it
-would just go away. But it's not going to go away. And you need someone
-to help you. And the person who can help you is Q. 
-AMANDA: He's so horrible. 
-CRUSHER: He is the only one who can help you to understand who you are.
-Amanda, you are going to have to make some hard choices about your
-future, and you can't make them if you're going to ignore the truth. 
-AMANDA: Yeah. I know. But I don't want any of this to disrupt my time
-here. I want to do everything that I'm expected to do, and I don't want
-you to treat me any differently. Please? 
-CRUSHER: You've got a deal. The first free hour you have, I want to see
-you in the medical lab. I have an experiment I need help with. 
-AMANDA: Yes, ma'am.
-
-[Corridor]
-
-(a shadow darkens the wall) 
-Q [OC]: Your progress, Q? 
-Q: As anticipated, there are some problems. I need time. However, there
-is a possibility we won't have to terminate her.
+PICARD: Number One Doctor Crusher has some live
+vaccine bacilli to be delivered to Tagra. It'll have to be shipped in a
+stasis field. Will you make the arrangements? 
+RIKER: I'll get right on it. 
+DATA: Captain, message coming in from Tagra Four. 
+PICARD: On screen. 
+GUEST0 [on viewscreen]: Enterprise, I am Orn Lote, engineer. We are
+having difficulties with the reactor that
+powers the barystatic filters on our southern continent. We may have to
+shut it down for repairs. 
+PICARD: Perhaps my Chief Engineer could be of assistance? 
+GUEST0 [on viewscreen]: I hope so. If we are forced to disable the
+reactor, it would take months to re-establish the ionic currents the
+filters have formed in the atmosphere. 
+PICARD: Send us your design specifications I'm sure we'll be able to
+help. 
+GUEST0 [on viewscreen]: Thank you, Captain. 
+(transmission ends) 
+DATA: Captain? 
+PICARD: What is it, Mister Data? 
+DATA: I have some information regarding Amanda Rogers' parents. Records
+indicate that they died in Topeka, Kansas.
+Their home was destroyed during a tornado. 
+PICARD: A tornado? Why wasn't it dissipated by the weather modification
+net? 
+DATA: Unknown, sir. The bodies were found in the rubble after the storm
+had passed. 
+PICARD: See if you can find out any more details, Mister Data. I'd like
+to know more about that storm. 
+DATA: Aye, sir.
 

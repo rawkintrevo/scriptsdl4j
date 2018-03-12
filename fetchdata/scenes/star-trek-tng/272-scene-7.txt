@@ -1,52 +1,32 @@
-PICARD CRUSHER LAKANTA WESLEY
-
-[Picard's quarters]
-
-CRUSHER: I just don't know what to do, Jean-Luc.
-It's as if somebody took my son away and left this stranger in his
-place. 
-PICARD: But in a sense, that's exactly what happened. Wesley left the
-Enterprise three years ago he was a boy, and now he's returned a young
-man. And that can't be easy for a mother or a son. 
-CRUSHER: It's gone beyond just the two of us. 
-PICARD: Yes, I heard about the incident with Geordi. 
-CRUSHER: Have you heard what happened at the Academy? I called Admiral
-Brand today. She said his grades are dropping, that he's becoming
-remote and defensive. If he's not careful, he's going to wash out next
-term. Maybe you should talk to him, Jean-Luc. Maybe it's the kind of
-thing a boy, a man needs to discuss with another man. 
-PICARD: I don't think he wants either of us to talk to him right now. 
-CRUSHER: But he needs out help. 
-PICARD: Beverly, he's got to want that help. If he doesn't, then any
-efforts on our part can only push him further away. He's got to work
-this out for himself.
+WESLEY GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Village]
 
 WESLEY: How long have you been watching me? 
-LAKANTA: Since you beamed down. 
+GUEST2: Since you beamed down. 
 WESLEY: Well, I'm here. What should I do? 
-LAKANTA: I don't know. 
+GUEST2: I don't know. 
 WESLEY: I thought you were going to help me find some answers. 
-LAKANTA: Answers to your questions. 
+GUEST2: Answers to your questions. 
 WESLEY: Tell me about this Habak. You said you had some kind of a
 vision there? 
-LAKANTA: The Habak is holy to us. We hold our rituals and our
+GUEST2: The Habak is holy to us. We hold our rituals and our
 ceremonies there. It's sacred to us. What's sacred to you, Wesley? 
 WESLEY: I don't know. I mean, I think a lot of things are important, I
 have a lot of respect for things. But I don't really consider anything
 sacred. 
-LAKANTA: Look around us. What do you think is sacred to us here? 
+GUEST2: Look around us. What do you think is sacred to us here? 
 WESLEY: Maybe the necklace you're wearing? The designs on the walls? 
-LAKANTA: Everything is sacred to us. The buildings, the food, the sky,
+GUEST2: Everything is sacred to us. The buildings, the food, the sky,
 the dirt beneath your feet. And you. Whether you believe in your spirit
 or not, we believe in it. You are a sacred person here, Wesley. 
 WESLEY: I think that's the first time anyone's used that particular
 word to describe me. 
-LAKANTA: So, if you are sacred, then you must treat yourself with
+GUEST2: So, if you are sacred, then you must treat yourself with
 respect. To do otherwise is to desecrate something that is holy. 
 WESLEY: Is that what you think I've been doing? 
-LAKANTA: Only you can decide that. 
+GUEST2: Only you can decide that. 
 WESLEY: I guess I haven't had a lot of respect for myself lately. 
-LAKANTA: Then perhaps it's time for your own vision quest to begin.
+GUEST2: Then perhaps it's time for your own vision quest to begin.
 

@@ -1,118 +1,93 @@
-TROI LAFORGE WORF PICARD RIKER RONIN CRUSHER DATA MATURIN
+PICARD CRUSHER DATA LAFORGE GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Graveyard]
 
-DATA: It began as a minor power fluctuation, sir,
-but the effect has spread throughout the control grid. It has caused an
-unusual concentration of cumulonimbus activity above the colony. 
-LAFORGE: Captain, I suggest we set up a power transfer between the
-Enterprise and the weather substations. Try to give them enough power
-to stabilise the storm. 
-PICARD [OC]: Make it so. 
+(it is night) 
+LAFORGE: The energy readings are coming from this direction, but I
+can't get an exact location. I'll try narrowing the scan field. 
+DATA: The energy readings appear to be originating approximately two
+metres below the surface. I believe they are concentrated within this
+burial site. 
+(the headstone says Felisa Howard)
+
 [Howard home]
 
-(Beverly enters, soaked from the storm. The house
-is filled with camellias) 
-CRUSHER: Who's there? Ned? Is that you? Hello? I know somebody's here,
-so I suggest you 
-(a mirror bounced against the wall. She removes it and is about to put
-it back when she sees the reflection of a man behind her. She drops the
-mirror, but there is no one there) 
-CRUSHER: All right now, that's it. If you don't show yourself right now
-I am calling the Enterprise and there will be ten security guards here
-within thirty seconds. 
-RONIN [OC]: Beverly. Beverly, I've come back for you 
-CRUSHER: Who are you? 
-RONIN [OC]: Don't you remember? I came to you last night while you were
-asleep. 
-CRUSHER: No, that was a dream. I'm calling the Enterprise. 
-(she goes weak at the knees) 
-RONIN [OC]: Now do you remember me? 
-CRUSHER: Yes. What's, what's happening to me? Right now I feel so
-strange. 
-RONIN [OC]: I love you, Beverly, just as I loved Felisa before you. 
-CRUSHER: Are you Ronin? 
-RONIN [OC]: Yes. You saw me at the funeral. 
-(Beverly has a little orgasm) 
-CRUSHER: Who are you? 
-RONIN [OC]: I'm a spirit. 
-CRUSHER: I don't believe in 
-RONIN [OC]: Ghosts? Nor did I in the beginning. I was born in sixteen
-forty seven, in Glasgow on Earth. 
-CRUSHER: You're telling me that you're an eight hundred year old ghost?
-
-RONIN [OC]: I found a home with Jessel Howard. She was a pretty lass
-with a mane of red hair, and eyes like diamonds. I loved her very much.
-When she died, I stayed with her daughter, and her daughter, and on
-down through the years, generation after generation. 
-CRUSHER: And now you're here on Caldos, two hundred light years away? 
-RONIN [OC]: When your family moved out into the galaxy, I moved with
-them. 
-CRUSHER: I don't believe you. 
-RONIN [OC]: I believe you are the most beautiful women I have ever
-known. 
-CRUSHER: What's, what's happening to me? 
-RONIN [OC]: We're becoming one, Beverly. We're going to be together. 
-CRUSHER: I don't understand. Stop it! 
-[Crusher's quarters]
-
-(Beverly is arranging flowers) 
-CRUSHER: Come in. 
-TROI: Hi, Bev. I just wanted to see if you were going to mok'bara class
-this morning. 
-CRUSHER: No, I think I'll skip it today. I'm exhausted. 
-TROI: Did you have another dream last night? 
-CRUSHER: Not exactly. 
-TROI: Is anything wrong? 
-CRUSHER: Not at all. 
-TROI: Beverly, if I didn't know any better, I'd say you were seeing
-someone. 
-CRUSHER: Deanna. 
-TROI: Now I know you're seeing someone. 
-CRUSHER: I'm not seeing anybody. I met someone, that's all. 
-TROI: Well, you obviously have romantic feelings for him. Beverly, when
-are you going to realise that you can't fool me? Who is it? 
-CRUSHER: All right. I met Ronin. 
-TROI: Ronin? Your grandmother's lover? 
-CRUSHER: He's unlike anyone I've ever met before. I know this sounds
-crazy, but I have never known anyone who was so 
-TROI: Passionate. 
-CRUSHER: Exactly. I can see why Nana fell in love with him. This sounds
-very strange, doesn't it? 
-TROI: I admit it's unusual. I'm very happy for you. But I want you to
-consider something. You and Ronin have both suffered a tremendous loss.
-Very often, shared traumatic experience can create the illusion of
-closeness and romance. 
-CRUSHER: Thank you for your concern, but I think I know what I'm doing.
-Besides, I didn't say I was in love with him. I'm just intrigued.
-
-[Turbolift]
-
-MATURIN: You know, Captain, I moved to this colony
-because it was a recreation of Scotland, but I must admit it's getting
-to be a little too realistic. 
-(he sneezes) 
-[Bridge]
-
-(there is low-lying mist on the deck) 
-PICARD: What the hell is going on? 
-DATA: There appears to be a condensed suspension of water vapour,
-approximately one degree Celsius. 
-PICARD: Fog. 
-RIKER: It just sort of rolled in on us, sir. 
-WORF: There has been a malfunction in the ship's environmental control.
-
-RIKER: We've traced the problem to the power transfer beam. There's
-some sort of feedback coming from one of the colony's weather
-substations. 
-MATURIN: Another power fluctuation? 
-WORF: Captain, the temperature in Ten Forward has dropped to below
-freezing and deck thirteen has lost gravity. 
-PICARD: Mister Data, disengage the power transfer. 
-DATA: I am unable to terminate the connection, sir. A feedback loop has
-formed in the transfer beam. I will have to go to the substation and
-attempt to correct the problem from there. 
-PICARD: Make it so. 
-(Data leaves) 
-PICARD: In the meantime, I think I'll go get my jacket.
-
+CRUSHER: I'm so glad you're here. I can't imagine
+what life was like before I met you. 
+GUEST3: And it will only get better. 
+(he turns into a green mist and enters her body) 
+CRUSHER: Oh, Ronin. I had no idea I could feel this way. 
+GUEST3 [OC]: We're nearly merged now. As two candles join to form a
+single light, so we will flourish as one. 
+(a knock at the door) 
+GUEST3 [OC]: I love you, Beverly. 
+CRUSHER: I love you. 
+(another knock, then Picard enters) 
+PICARD: Beverly? 
+CRUSHER: Jean-Luc. 
+PICARD: Sorry I startled you. I knocked but there was no answer. The
+door was open. I hope you don't mind. 
+CRUSHER: What do you want? 
+PICARD: Well, I'd hoped to meet your new friend, Ronin. 
+CRUSHER: He's not here. 
+PICARD: Well, perhaps I could wait, if you don't mind. I'm really
+anxious to meet this remarkable young man who swept away not just one,
+but two of the Howard women. 
+CRUSHER: (carrying the candle) Jealousy doesn't suit you, Jean-Luc. 
+PICARD: Have you changed the colour of your eyes? 
+CRUSHER: I just grew tired of the other colour. Don't you think it
+suits me? 
+PICARD: I think that I preferred your eyes the way they were before. I
+think I preferred you the way you were before, Beverly. 
+CRUSHER: Well, this is the way I am now. And this is my life. I've made
+my decision and I'm not going to change my mind, so please leave me
+alone. 
+PICARD: Oh, no, there's something's wrong here. Now, Beverly, this is
+more than just an obsessive love affair that has got out of hand. Tell
+me, why is it that no one has seen this Ronin except you? 
+GUEST3: (coming down the stairs) All right, Captain. Here I am. I
+believe Beverly asked you to leave her alone. 
+(Beverly goes to Ronin's side) 
+PICARD: So, you're Ronin. It's a pleasure to meet you. Where are you
+from? 
+GUEST3: Earth. Scotland. 
+PICARD: How long have you been on Caldos? 
+GUEST3: All that matters is that I'm here now, and that Beverly and I
+plan to be together for the rest our lives. 
+DATA [OC]: Data to Picard. 
+PICARD: Go ahead, Data. 
+DATA [OC]: Captain, we have located the source of the energy residual.
+It appears to be concentrated within Felisa Howard's coffin. 
+LAFORGE [OC]: Captain, we'd like permission to exhume the body. 
+GUEST3: You can't do that. Leave her alone. 
+PICARD: Why not? What are you afraid of? 
+GUEST3: I'm not afraid of anything. But I cannot allow you to desecrate
+her grave. 
+PICARD: Data, ask Governor Maturin's permission to exhume the body.
+Picard out. 
+GUEST3: I won't stand for this. I'll go to the Governor myself. 
+PICARD: Go on. I wouldn't be surprised if he doesn't know who you are.
+He'll probably have the same questions that I do. How did you get here?
+What ship did you come on? 
+CRUSHER: Jean-Luc, leave him alone. 
+PICARD: Why don't you answer my questions? What ship? I'd like to look
+at the passenger list. Where have you been living here? What's your
+position? Who are your neighbours? 
+(Ronin vanishes) 
+PICARD: Come on, Beverly, we've got to get out of here. 
+(Picard touches Beverly and gets zapped by green) 
+CRUSHER: Jean-Luc. 
+(Beverly grabs her medical kit) 
+GUEST3 [OC]: Beverly, we must stop the others. They cannot exhume the
+body. 
+CRUSHER: We can't just leave him. He might die. 
+GUEST3 [OC]: You must come. I am your love. I am the one who will take
+care of you. 
+CRUSHER: I can't just let him die. 
+GUEST3: Beverly, come with me. 
+CRUSHER: No. No! 
+GUEST3: I'm sorry, I'm going to stop them. 
+(Ronin leaves) 
+CRUSHER: Come on, come on. 
+PICARD: I'm all right. Beverly, go after him. Go to the cemetery. 

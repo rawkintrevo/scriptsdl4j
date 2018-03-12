@@ -1,55 +1,39 @@
-PICARD RIKER CRUSHER ODAN OGAWA
+PICARD RIKER CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Ready room]
 
-RIKER: Increasing power to the shields. 
-(the ship starts taking pot-shots at them. at least one hits them) 
-RIKER: Coming about. 
-(Odan is thrown out of his seat and the shuttle is damaged) 
-[Bridge]
-
-PICARD: Engage tractor beam. Report, Number One. 
-RIKER [OC]: We've lost port thrusters 
-[Shuttlecraft]
-
-RIKER: And both backup stabilisers. I'm losing
-control. 
-PICARD [OC]: We're bringing you in. 
-(the tractor beam grabs them and the other ship veers off) 
-RIKER: Captain, the shuttle hull has been weakened. We're breaking up.
-You can't tow us. You'd better beam us directly on board. 
-ODAN: No, don't do it. 
-RIKER: I can't stabilise the shuttle. 
-ODAN: If you transport me, it will kill me. Please. 
-PICARD [OC]: Number One we're ready to beam you aboard. 
-RIKER: Belay that order, Captain. I'll bring her in manually. 
-[Bridge]
-
-RIKER [OC]: Advise Doctor Crusher we have a medical
-emergency.
-
-[Sickbay]
-
-CRUSHER: He's in shock, he's lost a lot of blood,
-but that still doesn't explain these readings. Eosinophilia in the
-cerebrospinal fluid at forty six percent. 
-OGAWA: Sedimentation rate is twenty nine, but his lymphocytes are still
-intact. 
-CRUSHER: It's as though there's a parasite at work. Odan, Odan. I need
-to do exploratory surgery. You may have a parasitic infection. 
-ODAN: You must not. 
-CRUSHER: But you won't survive. 
-(then she notices the movement in his abdomen) 
-CRUSHER: What is that? 
-ODAN: Beverly, that is me. 
-CRUSHER: What? 
-ODAN: This body is just a host. I am that parasite. That is what must
-survive. It has always been this way. The Trill are a joined species. A
-host and a symbiont, and in this fashion we have survived for
-millennia. 
-CRUSHER: You're dying. What can I do? 
-ODAN: The host body is dying. You must contact the Trill quickly. Tell
-them I need another host. They will send a replacement. I know this is
-difficult to accept, but I beg you, Doctor Beverly, help me. This
-mission must be completed.
+CRUSHER: White count is back up, temperature is
+elevated. The effects of the medication are wearing off faster every
+time. I'll administer one now and hope that it will hold for an hour or
+two. 
+RIKER: No, no more. 
+PICARD: Ambassador, it's clear you're in pain. You can't get through
+the next hours without help. 
+RIKER: I must. 
+CRUSHER: Are the injections damaging to the host's body, Riker's body? 
+RIKER: Yes. We can't put him through any further risk. 
+CRUSHER: But how can you function, conduct the meeting? 
+RIKER: I'll manage. 
+PICARD: We'll respect your wishes. 
+RIKER: One more thing. I will conduct the mediations today, but at the
+end of today, regardless of the outcome, I must be removed from Riker's
+body. Even if the new host has not arrived. 
+CRUSHER: But you wouldn't survive. 
+RIKER: Riker will not survive if I am removed. He has done enough. Your
+word. 
+CRUSHER: Very well. 
+WORF [OC]: Worf to Captain Picard. 
+PICARD: Yes, Mister Worf? 
+WORF [OC]: The Governor and the two representatives have returned. I
+will escort them to the Observation Lounge. 
+PICARD: Thank you. 
+(Riker-Odan totters out) 
+CRUSHER: I'll stand by with the medication, just in case. The pain may
+become so intense that I'll have to 
+PICARD: Beverly. Whatever else I may be to you, I am your friend. I can
+only imagine what you're going through, and I want you to know I'm
+here. 
+(they hug) 
+CRUSHER: Jean-Luc.
 

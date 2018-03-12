@@ -1,59 +1,35 @@
-Q PICARD GARIN RIKER WORF
+RIKER LAFORGE WORF PICARD GUEST2 GUINAN COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-Q: Klingon. I should have said Klingon. In my heart
-of hearts, I am a Klingon, Worf. 
-(Q puts his hand on Worf's shoulder and quickly removes it) 
-Q: Sorry. So you understand I could never survive in confinement. I
-mean, this is cruel and unusual punishment.
-The universe has been my back yard. As a fellow Klingon, if you would
-speak to the Captain on my behalf, I would be eternally grateful. which
-doesn't mean as much as it used to, I admit. 
-WORF: Be quiet! Or disappear back where you came from. 
-Q: I can't disappear any more than you could win a beauty contest. 
-[Brig]
+WORF: Captain, sensors are picking up a cloud of
+energetic plasma. Bearing, three-four one mark two zero. Range, twelve
+kilometres and closing. 
+PICARD: On screen. 
+WORF: Energy patterns are reading as highly organized. 
+RIKER: A lifeform? 
+PICARD: Attempt to make contact, Mister Worf. 
+WORF: Receiving a signal, sir. On speaker. 
+(but it's unintelligible) 
+RIKER: Computer, analyse signal 
+COMPUTER: Signal patterns indicate intelligence. Unable to derive
+necessary referents
+to establish translation matrix.
 
-Q: If I ask a very simple question, do you think
-you might be able to answer it without it troubling your intellect too
-much? (He enters the cell) 
-Q: Ready? Here goes. Would I permit you to lock me away if I still had
-all my powers? 
-WORF: You have fooled us too often, Q. 
-Q: Perspicacity incarnate. Please don't feel compelled now to tell me
-the story of the boy who cried Worf. 
-WORF: Computer, activate force field. 
-Q: I demand to be let out of here, immediately. Do you hear me? You
-will deactivate this cell immediately! Romulan! 
-(Worf leaves) 
-Q: I should have said Romulan, that Klingon goat! 
-[Ready room]
+[Ten Forward]
 
-PICARD: The question is, what sort of jaded game is
-he up to this time? 
-RIKER: Maybe he just wants a big laugh. He'll take Bre'el Four to the
-edge of disaster, and then pull the moon back. 
-PICARD: Or he may have nothing to do with it at all. 
-RIKER: You honestly think Q is telling the truth? 
-PICARD: Oh, I agree this is highly unlikely, but we have to proceed
-with our current dilemma as though Q is powerless to prevent it, don't
-we? 
-RIKER: And there he sits, and he watches us struggle. 
-PICARD: I don't see that we have any choice. Mister Worf, will you hail
-the Bre'el Four science station, 
-WORF [OC]: They're standing by, Captain. 
-GARIN [on monitor]: Yes, Captain Picard. 
-PICARD: I'm sorry, but I have to report that our first attempt to
-restore the moon to its proper orbit has failed. 
-GARIN [on monitor]: We have less than twenty five hours before impact,
-Captain. 
-RIKER: Our Chief Engineer is working on ways to reinforce our tractor
-beam. 
-PICARD: So there is a hope, but if you have an evacuation plan 
-GARIN [on monitor]: We have already started moving people from the
-coastal areas of the western continent. 
-PICARD: We are going to make another attempt shortly. Picard out. 
-RIKER: I've got to tell you Geordi is not at all optimistic. 
-(A bright light fills the room) 
-PICARD: What the devil?
+(The fuzzy thing can be seen through the windows,
+but Q is sulking and doesn't notice it) 
+GUEST2: What's that? I don't know. 
+GUINAN: Calamarain. 
+(A white globe comes through the window and envelopes Q. He leaps up,
+trying to brush it off) 
+[Bridge]
 
+WORF: Captain, we're being hit by a field of
+energetic tachyons penetrating the hull. Location, deck ten, forward. 
+PICARD: Red alert. 
+RIKER: Geordi, increase power to shields. 
+LAFORGE [OC]: Increasing power by twenty percent 
+WORF: No effect 

@@ -1,47 +1,37 @@
-RIKER CRUSHER DATA LAFORGE TEMPLE
-
-[Corridor]
-
-LAFORGE: What's this all about, Commander? 
-RIKER: Sensors have discovered a small one-man spaceship crashed on the
-planet. 
-CRUSHER: We're picked up life-signs, humanoid, very faint and fading.
-
-[Planet surface]
-
-(A harsh, rocky place littered with bits of metal) 
-DATA: Radiation levels within acceptable limits. 
-(There is a man tumbled out the back of a shuttlecraft sized ship. The
-man has a badly burned face) 
-LAFORGE: We can beam him out from under there, get him right up to
-Sickbay. 
-CRUSHER: He's not stable enough for transport. There's damage to his
-brain stem, autonomic functions are failing. His heart needs active
-neurofeedback. It can't regulate itself. I need a volunteer. 
-LAFORGE: Right here. 
-CRUSHER: I'm going to hook your nervous systems to the tricorder. Your
-brain will regulate both systems. That
-should stabilise him long enough to get him up to the ship. 
-CRUSHER: Take deep, regular breaths. If anything goes wrong I'll break
-the connection. 
-LAFORGE: Okay. 
-(Something golden leaps from the injured man into Geordi's head via the
-neural thingummyjig) 
-CRUSHER: Geordi! 
-LAFORGE: I'm fine. No problem. 
-CRUSHER: Transporter room, three to beam directly to Sickbay.
+PICARD CRUSHER GUEST1 LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay - room four]
 
-CRUSHER: Autonomic responses are still low. Begin
-cardiostimulation. Sixty cc's of inaprovaline. Massive infection is
-setting in. Use the protodynoplaser to stabilize his immune system. We
-need to design a virus that can infiltrate his cell structure and boost
-his ATP production. 
-TEMPLE: (a female nurse) What about Commander La Forge. He's waiting in
-the diagnostic centre. 
-CRUSHER: I need you to give him a full bioscan. See if there's any
-residual effect from that energy discharge during the neurolink. Keep
-his arm in cryogenic stasis until the vital signs are strong enough to
-begin surgical procedures.
+GUEST1: Limb re-fusion appears to be successful,
+Doctor. Tissue oxygenation is within norms. 
+CRUSHER: That's all we can do for now. We won't be able to test
+neuromuscular function for a few days. 
+(Geordi enters) 
+CRUSHER: Ah, Geordi. 
+LAFORGE: Can I go now, Doc? 
+CRUSHER: No need to keep you here. Your bioscan came out negative. 
+LAFORGE: Could've told you that. I feel great. 
+(Geordi leaves as Picard enters) 
+PICARD: How's your patient? 
+CRUSHER: I never thought he'd make it this far. There was major trauma
+to his head and chest cavity, massive plasma loss, and severe damage to
+most of his organs. 
+PICARD: What are his chances? 
+CRUSHER: I believe he's going to live. I'm afraid I can't take the
+credit for it, though. His body seems to have amazing recuperative
+powers. The damaged tissue seems to be repairing itself at a phenomenal
+rate. There's one thing that troubles me though. 
+PICARD: What's that? 
+CRUSHER: Take a look at this. 
+(She pulls up a large wall display of green things running through
+blood vessels) 
+PICARD: Cell regeneration? 
+CRUSHER: Yes. The thing is, it has nothing to do with the injuries.
+These are undamaged cells that seem to be mutating. 
+PICARD: Do you have a theory as to the cause? 
+CRUSHER: No. I've never seen anything like it in my life. There is a
+possibility
+that it's part of his natural healing process. I hope it is, because
+there's nothing I can do to stop it.
 

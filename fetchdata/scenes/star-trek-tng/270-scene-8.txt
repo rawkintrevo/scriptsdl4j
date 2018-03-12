@@ -1,83 +1,33 @@
-TROI KWAN LAFORGE WORF PICARD RIKER COMPUTER DATA NARA
+TROI WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jefferies tube]
+[Troi's quarters]
 
-(climbing ladders) 
-WORF: Two more decks. 
-RIKER: Riker to Bridge. We've almost reached the nacelle tube. 
-PICARD [OC]: Acknowledged.
+TROI: Come in. Hello, Worf. 
+WORF: Counsellor. Have you found anything in Lieutenant Kwan's logs? 
+TROI: Everything I've read suggests that he was well-adjusted and
+optimistic. It just doesn't make any sense. Can I get you anything? 
+WORF: No. No, nothing. 
+TROI: Yridian tea. I've been thinking about what happened to me in the
+nacelle tube. Whether it was an empathic echo left by Kwan's death. 
+WORF: In the past, have your empathic experiences always involved the
+physical presence of another person? 
+TROI: All the ones I'm sure of, yes. 
+WORF: What do you mean, sure of? 
+TROI: Well, when I was a young girl, my grandfather used to tell me
+stories by the fire. I would close my eyes and listen to his mind for
+hours on end. 
+WORF: He would tell you these stories telepathically? 
+TROI: My grandfather rarely spoke. He said that was for off-worlders
+and people who didn't know any better. Now the only time I can remember
+his stories is when I go home and sit by the fireplace. Sometimes when
+I'm alone there, it's almost as if I can hear his voice inside my head.
 
-[Bridge]
-
-PICARD: Release the exterior hull plate. We may
-have to jettison the core. 
-DATA: Aye, sir. 
-[Nacelle control]
-
-(there is a man poised to jump into the plasma) 
-RIKER: What happened? 
-NARA: (alien woman) He locked out the controls. Before we knew what was
-happening, he stepped up onto the walkway. 
-RIKER: (to Worf) See if you can help shut down the plasma flow. 
-NARA: I'm afraid if we try to get any closer, he will jump through the
-forcefield. 
-RIKER: Dan, it's me. It's Will Riker. I was here yesterday, remember? 
-KWAN: (alien man) I didn't want to do it. But I saw them. And they
-laughed at me. They laughed. 
-(Riker is on the walkway) 
-RIKER: Whatever happened, we can talk about it. I want to help. 
-KWAN: Stay away! 
-RIKER: I just want to see your face, that's all. So we can talk. 
-KWAN: I know what I have to do. 
-RIKER: Dan, no! 
-WORF: I have unlocked the controls. 
-COMPUTER: Shutdown procedure initiated. 
-NARA: There's still plasma in the injector. It'll take time to vent
-off. 
-RIKER: Tell me what happened. Maybe I can help. 
-KWAN: I know what I have to do. 
-(and he jumps into the plasma stream. Riker hits the bulkhead in anger
-and frustration and despair)
-
-[Ready room]
-
-RIKER: A few more seconds I could've saved his life
-
-WORF: Commander, you did everything you could. It was not your fault. 
-RIKER: It was strange. I felt as if he didn't even recognise me,
-although I was with him just the other day when I supervised the tube
-refit. 
-PICARD: How did he seem then? 
-RIKER: Fine. I complimented him on getting the refit done faster than
-expected. He was pleased that I'd noticed. 
-TROI: I met with him about six weeks ago, during the crew evaluations.
-He was very positive. He was looking forward to being posted to the
-nacelle tube. 
-RIKER: He was a good officer with a fine career ahead of him. I don't
-understand why he wanted 
-PICARD: In my years as a Starship Captain, I've had to notify many
-parents of the loss of loved ones, but never before a suicide. I would
-like to be able to offer Lieutenant Kwan's parents some explanation of
-what happened, to try to help them make sense of this. 
-WORF: Maybe he left a message of some kind, explaining why he did it. 
-PICARD: I would like the two of you to piece together a picture of his
-last few days. 
-TROI: If he made any personal logs, it might be helpful to look through
-them. 
-PICARD: You're authorised to do so. 
-(Troi and Worf leave) 
-LAFORGE [OC]: La Forge to Captain. 
-PICARD: Go ahead.
-
-[Engineering]
-
-LAFORGE: I've just finished my damage assessment.
-We should be able to get underway I'd say within the hour. 
-PICARD [OC]: Mister La Forge
-
-[Ready room]
-
-PICARD: The medical situation on Barson Two has
-worsened. Starfleet has given us permission to exceed warp speed
-limitations so as to get back on schedule.
+WORF: Yes. Yes, I too have sought visions in fire. 
+TROI: I can't explain it, but it feels real to me. Just like what
+happened in the nacelle tube. 
+WORF: There are things we do not understand, yet they exist
+nonetheless. Perhaps I should let you get some rest. 
+TROI: Oh, it's all right. 
+WORF: If you will excuse me, Counsellor.
 

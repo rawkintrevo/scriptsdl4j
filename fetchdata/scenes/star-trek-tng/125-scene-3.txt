@@ -1,70 +1,52 @@
-PICARD KEEL TRYLA RIXX
+PICARD RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Mine entrance]
+[Bridge]
 
-(Picard walks carefully down the entrance ramp, and
-is greeted by a pink-skinned Bolian with a phaser. Then Walker Keel and
-a woman appear, also armed)
-KEEL: Thanks for coming. 
-PICARD: This is some greeting, old friend. 
-KEEL: Tell me, Jean-Luc, where did we first meet? 
-RIXX: (the alleged Bolian) Answer the question. 
-PICARD: Tau Ceti Three. It was a bar. Quite an exotic one as I
-remember. What do I win? 
-KEEL: Do you recall the night you introduced Jack Crusher to Beverly? 
-PICARD: You know full well I hadn't even met Beverly then. You
-introduced them. 
-KEEL: My brother introduced them. 
-PICARD: You don't have a brother. Two sisters, Anne and Melissa. What
-the hell is this all about? 
-(Keel nods, and weapons are put away) 
-RIXX: Apologies, Captain. We had to make sure you were really you. 
-PICARD: Walker, what is going on? 
-KEEL: Captain Picard, meet Captain Rixx. 
-PICARD: I believe we've met. The Altairian conference. 
-KEEL: And Captain Scott. 
-PICARD: Tryla Scott. It's said you made Captain faster than anyone in
-Starfleet history, present company included. Are you that good? 
-TRYLA: Yes, I am. 
-PICARD: Starfleet's finest. Fancy meeting you here. 
-RIXX: We all came secretly, Picard. To discuss the threat. 
-PICARD: What threat? 
-TRYLA: Have you noticed anything about Starfleet Command lately?
-Anything unusual? 
-PICARD: No. But we've been on the outer rim for a while. We haven't had
-much contact with them. 
-KEEL: Some of us have seen strange patterns emerging. Unusual orders.
-High-ranking officials backing irrational proposals. 
-RIXX: Starbase twelve was completely evacuated for two full days. No
-explanation given. 
-TRYLA: And what about the deaths? McKinney, Ryan Sipe, Onna
-Karapleedeez. 
-PICARD: All dead? 
-TRYLA: A series of accidents. 
-KEEL: Or so they say. It's hard to be certain of anything. Interfleet
-communications are at a minimum. But something is happening. 
-TRYLA: And we fully expect the Enterprise to be targeted soon. 
-PICARD: Targeted for what? By whom? 
-KEEL: We're not sure yet. Damn it, Jean-Luc. I tell you that some of
-Starfleet's top command people are changing. This could affect the very
-core of our organisation. Officers I've known for years are bluffing
-their way through talk of old times. 
-RIXX: That's their weakness, a lack of memory. 
-TRYLA: He doesn't believe us. He thinks we're crazy. 
-PICARD: You've given me nothing to believe in. Just a lot of vague talk
-about strange patterns, irrational proposals. Who's behind this, and to
-what purpose? How are people being changed? 
-KEEL: I can't say exactly, but I think its spread to my own ship. My
-First Officer hasn't been the same since we stopped off at Earth. Our
-Medical Officer says he's perfectly normal, but I don't think I trust
-him either. 
-PICARD: Walker! 
-TRYLA: We know we don't have all the answers. All we ask is that you
-keep your eyes open. 
-PICARD: That's sound advice at any time, Captain. 
-KEEL: Stay in touch with us, covertly. This meeting never took place as
-far as Starfleet is concerned. Please, I'm asking this as a personal
-favour. I'm glad, Jean-Luc. I'm glad you're still one of us. Tell
-Beverly I said hello. 
-RIXX: And watch your back, Picard.
+PICARD: Data, are you familiar with Dytallix B? 
+DATA: Dytallix B is one of seven uninhabited planets mined for the
+Federation by the Dytallix Mining Company. It is in the nearby Mira
+system. 
+PICARD: Mister La Forge, chart a course for it immediately. Warp seven.
+And there will be no records or logs mentioning any aspect of this
+diversion. 
+RIKER: Captain, they're expecting us at Pacifica. Shouldn't we contact
+them and let them know. 
+PICARD: Negative. Nothing goes out without specific orders from me.
+Hopefully the delay will be minimal. 
+(As the Enterprise rushes off on its new course, and Picard is in his
+Ready room, Data is at a science station) 
+DATA: I have the readout on Dytallix B, Commander. 
+RIKER: What have you got? 
+DATA: Dytallix B is the fifth of six planets circling the red giant
+known as Mira. One side always faces the sun, where temperatures reach
+up to one hundred and eighty degrees. The mines line the temperate zone
+between the day and night sides, but they are long deserted. 
+RIKER: Why the devil are we be going to this planet? Are there any
+miners or indigenous life forms on the planet? 
+DATA: I believe the answer to both questions is no, sir. In a manner of
+speaking, it is nothing but a lifeless hunk of rock, a useless ball of
+mud, a worthless chunk 
+RIKER: Thank you, Data. I get the idea. Captain, we are approaching
+Dytallix B. 
+PICARD [OC]: Very good, Number One. I'm on my way. 
+(Picard enters) 
+WORF: Captain, sensors are detecting three Federation starships already
+in orbit around the planet. 
+PICARD: Identify. 
+WORF: Two are frigates. The Renegade commanded by Tryla Scott, and the
+Thomas Paine, Captain Rixx commanding. 
+DATA: The third is just coming into range now, sir. It is Ambassador
+Class heavy cruiser, USS Horatio. 
+RIKER: Horatio? Isn't that Walker Keel's ship? 
+WORF: Attempts at communication have been ignored by all three vessels.
+
+PICARD: Make no further attempts, Mister Worf. Any life form readings
+on the surface, Data? 
+DATA: Three, sir. All gathered inside what appears to be the entrance
+to a mining tunnel. 
+PICARD: Very well. Relay those coordinates to the transporter room. I'm
+beaming down. 
+RIKER: Alone, Captain? 
+PICARD: Alone, Number One.
 

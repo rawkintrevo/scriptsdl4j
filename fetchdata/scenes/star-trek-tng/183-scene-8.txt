@@ -1,45 +1,68 @@
-PICARD DIRGO CRUSHER TROI WESLEY
+PICARD GUEST1 WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cave entrance]
+[Cavern]
 
-(the ceiling is high, there is a wonderfully even
-flight of steps down, and Picard is carrying the medical supplies) 
-DIRGO: There has to be water in here. Aren't caves formed by water? 
-PICARD: Not necessarily. This could be created by volcanic activity.
-Lava flows. These walls are dry, Mister Crusher, do you have any
-moisture reading? 
-WESLEY: No, sir. But that EM reading? The pattern's changed. The
-frequency's peaking a lot higher. 
-(Dirgo accidentally drops his bottle while undoing his tunic) 
-WESLEY: You have water! 
-DIRGO: I wouldn't hide water. That's called dresci. It's from my
-planet. 
-PICARD: It's alcohol. 
-DIRGO: It's medicinal. It's for emergencies. I was going to share it
-with you. 
-PICARD: This wouldn't quench your thirst, it would make it worse. 
-DIRGO: I'll take my chances. 
-PICARD: I'm not going to let you waste this. This is more valuable to
-us as a coolant or disinfectant. 
-DIRGO: It's mine. 
-PICARD: Mister Crusher, stow that with the medical supplies. Keep your
-eye on it. All right, we're going to explore the cave. Mister Crusher,
-look for any signs of water, no matter how faint. Captain Dirgo, will
-you lead the way?
+(they emerge from tunnels into a lit cavern with a
+fountain in the middle) 
+GUEST1: I knew there had to be water. 
+(but he is stopped by a forcefield) 
+PICARD: Mister Crusher what was that? 
+WESLEY: It seems to be some kind of tightly confined annular force
+field, sir. 
+PICARD: Put there to protect the water. 
+WESLEY: Yes. There has to be a way to deactivate it, sir. 
+GUEST1: We can, with our phasers. 
+PICARD: Mister Dirgo, I think it would be wiser 
+(Dirgo fires at the forcefield) 
+WESLEY: Captain, the EM reading. The power level's really spiking now. 
+GUEST1: I think it's working. 
+PICARD: Dirgo! 
+(some things rush into the cavern, rather like the seraphim from
+Raiders of the Lost Ark) 
+PICARD: Stop firing! 
+(one of the things takes the weapon from Dirgo. Rocks are coming loose)
 
-[Sickbay]
+PICARD: Wesley! 
+(Picard pushes Wesley aside then gets buried under falling rocks
+himself)
 
-CRUSHER: We're projecting that the bulk of the
-radiation will affect three small island groups. Fortunately, they're
-very sparsely populated. We'll begin replicating hyronalin now and be
-ready to transport it to them if it becomes necessary. Please
-coordinate with all the medical personnel on the planet. 
-TROI: Beverly? We've contacted the nearest Starbase for a search
-vessel. I'm afraid the closest one is almost a week away. 
-CRUSHER: I see. Thank you. 
-TROI: But we have asked the mining settlement to send any vessels they
-might have. You know, there are many reasons why the shuttlecraft may
-have been delayed. 
-CRUSHER: Deanna, thank you, but I'm all right. And for now, I have work
-to do.
+[Cave]
+
+(later, after they've dug him out again and moved
+him to a small side cave) 
+WESLEY: Apply pressure to that wound. (scans Picard) This is the worst
+break. 
+GUEST1: What was that thing? 
+WESLEY: Keep the pressure constant. 
+PICARD: Ensign, how bad is it? 
+WESLEY: Your right leg is broken. You have a fracture in your left arm.
+And you took a blow to the head. But we're getting the bleeding under
+control. 
+PICARD: Well done. I'm going to be fine. I just need to get my breath. 
+GUEST1: Are you telling the truth? 
+WESLEY: What truth? 
+GUEST1: He's bleeding inside. I've seen it before. He's never going to
+survive. 
+WESLEY: You don't know what you're talking about. 
+(pours alcohol on the cuts) 
+GUEST1: You're wasting your time. Will you save that dresci for us. 
+PICARD: Mister Dirgo, I would appreciate it if you didn't bury me
+before I'm gone. 
+(Dirgo storms off) 
+PICARD: The trouble is, he could be right. 
+WESLEY: No, he's not, sir. You're going to be fine. 
+PICARD: Wesley, you are going to have to keep a rein on Dirgo. He's
+wilful and stubborn. That's dangerous. 
+WESLEY: You'll handle him, sir. 
+PICARD: Wesley, listen to me. I have no feeling in my right leg. My
+vision is blurred. I'm going to get worse, not better. I'm not going to
+be able to help you. Now, you are going to have to stand up to Dirgo on
+your own. 
+WESLEY: Yes, sir. 
+PICARD: Hey. Good man. 
+First Officer's log, stardate 44307.6. Radiation
+levels on the Enterprise continue to rise. The ventilation system has
+started pumping hyronalin into our air supply to counteract the
+effects.
 

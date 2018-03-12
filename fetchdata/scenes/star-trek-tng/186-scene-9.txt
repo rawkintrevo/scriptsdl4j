@@ -1,57 +1,33 @@
-OBRIEN WORF KEIKO PICARD MACET DATA
+PICARD OBRIEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Transporter room]
 
-DATA: Captain, the Phoenix in Sector twenty one
-five oh five. 
-PICARD: Ensign, set a course, warp six. Mister Worf, send a message by
-subspace. Tell them to prepare for a rendezvous. 
-WORF: Yes, Captain. 
-MACET: Captain, a suggestion. 
-PICARD: Yes? 
-MACET: We have a number of ships in sector twenty one five oh five. If
-you will give us more precise coordinates and the ship's coded
-transponder frequency, we would be able to intercept Maxwell far more
-quickly than you. 
-PICARD: I'm sure that's true. However, given the circumstances, I would
-prefer to make the initial contact myself. I'm sure you would, if the
-situation were reversed. 
-MACET: Captain, time is crucial. You have a dangerous man out there
-with a huge arsenal at his command. If he is intent on revenge against
-my people he must be stopped before he can do more damage. 
-PICARD: Captain, so far we have an isolated incident. If I can reach
-him first, then perhaps diplomacy can prevail.
-But if one of your ships decides to retaliate, there is a danger we
-could lose control of the situation. 
-MACET: Then you will not give us the means to find his precise
-location? 
-PICARD: No. I won't.
-
-[O'Brien's quarters]
-
-O'BRIEN: There you are. Potato casserole. A dish
-fit for kings. 
-(Keiko looks doubtful) 
-O'BRIEN: (sings) The minstrel boy to the war has gone 
-KEIKO: What's that you're singing? 
-O'BRIEN: What? Oh, it's just an old song. A bunch of us used to sing it
-together on the Rutledge. I hadn't thought about it in years 
-KEIKO: What's it about? 
-O'BRIEN: Oh, it's about war and glory. (sings) The minstrel boy to the
-war has gone. In the ranks of death you will find him. His father's
-sword he hath girded on. And his wild harp slung behind him. Captain
-Maxwell always liked that song. I guess it's all this business with him
-and the Cardassians brought it back to me. You know, sitting with the
-staff this morning, I could tell there were people in that room who
-still don't like the Cardassians. 
-KEIKO: I imagine that's to be expected. 
-O'BRIEN: You do? 
-KEIKO: Sure. The war lasted a long time. That takes its toll on people.
-What are these little dark things? 
-O'BRIEN: Capers. But the fighting is over now. Why should anyone still
-feel however they feel? 
-KEIKO: You fought the Cardassians, didn't you? 
-O'BRIEN: Well, there were some skirmishes, when I was with Captain
-Maxwell. 
-KEIKO: Well, how do you feel about them? 
-O'BRIEN: Me? I feel fine. I mean, the war's over now. 
+O'BRIEN: Captain. 
+PICARD: Chief. I wanted to talk to you. 
+O'BRIEN: Anything I can do, sir, you know that. 
+PICARD: Ben Maxwell. He must be quite a man. 
+O'BRIEN: He's a rare one, all right. I count myself lucky, sir. I've
+served with the two finest Captains in Starfleet. 
+PICARD: From your knowledge of the man, what has gone wrong? 
+O'BRIEN: There's a reason for what he's doing. Those Cardassians were
+up to something, I'm sure of it. 
+PICARD: When his family was killed, how did he take it? 
+O'BRIEN: I'd say he took it well. Oh, I know he was broken up inside,
+who wouldn't be? But you'd never know it to see him. He never missed a
+minute's duty, always had a smile, a joke. 
+PICARD: I see. 
+O'BRIEN: He would never retaliate out of vengeance, no matter what that
+Cardassian says. They're up to something, sir. They're the ones you
+should be investigating, not Captain Maxwell. 
+PICARD: You don't care for the Cardassians? 
+O'BRIEN: I like them fine. It's just, well, I know them. You learn to
+watch your back when you're around those people. 
+PICARD: Ben Maxwell has just sent more than six hundred of them to
+their deaths. 
+O'BRIEN: I don't know what to say, sir, but he must have had his
+reasons. 
+PICARD: I think when one has been angry for a very long time, one gets
+used to it. And it becomes comfortable, like old leather. And, finally,
+it becomes so familiar that one can't ever remember feeling any other
+way. Thank you, Chief. 

@@ -1,71 +1,46 @@
-RIKER OBRIEN LAFORGE WORF PICARD NAYROK WESLEY SECURITY DATA
+GUEST3 TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Angosian Senate]
+[Brig]
 
-PICARD: Eluded the Enterprise? 
-[Bridge]
+(Roga has been having a nightmare, and Deanna
+sensed it while walking along a corridor. She has hurried to the Brig) 
+TROI: Are you all right? 
+GUEST3: What is this ship? 
+TROI: You're on board the USS Enterprise. 
+GUEST3: A war vessel? 
+TROI: A Federation starship. 
+GUEST3: Federation! 
+TROI: We were orbiting Angosia when you escaped from Lunar Five. 
+GUEST3: It seems that I am a victim of my own bad timing. And you are the
+keeper of this jail? 
+(he tests the forcefield) 
+TROI: I'm Deanna Troi, ship's Counsellor. 
+GUEST3: Counsellor? Too bad. I'd rather you were a jailer to keep me
+company during my return trip. I assume we are returning to Lunar Five.
 
-DATA: We followed procedures precisely, Captain.
-Scanners indicated no life forms present in the drive section. I cannot
-explain how he escaped. 
-WORF: Incoming message from the Angosian Prime Minister. 
-PICARD: On screen. 
-NAYROK [on viewscreen]: Captain, we've identified the prisoner. His
-name is Roga Danar. His criminal record is too long to go into, but I
-must caution you that he is given to bouts of uncontrollable violence. 
-PICARD: I appreciate your warning, Prime Minister. We will keep you
-informed of our progress. 
-(transmission ends) 
-RIKER: Geordi, how far and how fast can that transport ship travel? 
-LAFORGE: Without warp drive, there's no way he could be out of our
-range by now. 
-WESLEY: We've been sweeping the area constantly, Commander. There's
-nothing within sensor range. 
-PICARD: A cloaking device? 
-WORF: Sir, the Angosians have no cloaking technology. 
-RIKER: Unless he's borrowing one. If he's hanging over the planet's
-pole, the magnetic field would confuse our sensors. 
-DATA: Commander, I believe I can recalibrate our sensors to read
-through the electromagnetic interference over the poles. 
-RIKER: Let's try it. Mister Crusher, realign for polar orbit. 
-WESLEY: Aye, sir. 
-DATA: There he is, Commander. You were correct. 
-RIKER: This guy knows all the tricks, doesn't he. 
-DATA: There are still no life form readings coming from the vessel. 
-LAFORGE: Could it be the magnetic interference, Data? 
-DATA: I have compensated. Still no readings. 
-PICARD: We'll have an answer shortly. Lock on tractor beam, Mister La
-Forge. 
-LAFORGE: Tractor beam locking on, sir. 
-DATA: He is coming about, sir. 
-RIKER: He's out of his mind! 
-WORF: Sensors detect a massive power build up in his aft thrusters. 
-PICARD: On main viewer. 
-LAFORGE: He's making a suicide run. 
-DATA: Shields have been automatically activated. Tractor beam
-disengaged. 
-WESLEY: He bounced off the shields. 
-RIKER: That's an interesting twist. 
-PICARD: Mister Crusher, fix coordinates onto that vessel. We'll just
-beam the whole thing to a shuttlebay if we have to. 
-DATA: I do not believe that will be necessary, Captain. He is no longer
-in the drive section. 
-PICARD: What? 
-DATA: I anticipated that diversionary tactic based on his pattern to
-date. We are picking up a cylindrical object approximately seven metres
-in length and three metres in diameter. 
-WORF: On screen. 
-PICARD: Magnify. 
-WESLEY: An escape pod. 
-LAFORGE: This guy's incredible. 
-DATA: Yet there are still no life form readings. 
-PICARD: Transporter room four, prepare to beam aboard from inside that
-shuttle anything large enough to be a humanoid adult. 
-O'BRIEN [OC]: Aye, sir. 
-WORF: Security team, report to transporter room four. 
-SECURITY [OC]: On our way, sir. 
-[Transporter room]
+TROI: That terrifies you. 
+GUEST3: I just killed three men to get out of there, Counsellor, and I'm
+fully capable of killing you as well. That's terrifying thought, isn't
+it? Even to me. 
+TROI: Do they mistreat you there? 
+GUEST3: Not at all. I am comfortable, well fed and housed. Oh no, the
+Angosians take good care of their prisoners. It's simply a matter of
+never being able to leave. What about you, Counsellor? Do you always
+visit the prisoners? Are you a specialist in criminal behaviour? Or am
+I just an interesting specimen that landed on your ship like an insect
+to be studied under your microscope? 
+TROI: Why do you have all this anger toward me? 
+GUEST3: A girl with long dark hair broke my heart a long time ago. Out of
+bitterness and resentment, I turned to crime. How about this one? My
+mother abandoned me when I was a little boy. I never got the guidance
+that a wild young man needed. 
+TROI: Why are you doing this? 
+GUEST3: Playing games? Isn't that what you do, Counsellor? Isn't that
+what all of you mind control experts do? 
+TROI: I am not a mind control expert. I came here because I sensed you
+were in pain. 
+GUEST3: And what do you sense now? 
+TROI: The pain is gone. 
+GUEST3: It's interesting, isn't it?
 
-O'BRIEN: We're holding the contents in stasis
-pending arrival of security. An illicit weapon has been detected in the
-transport beam, sir. 

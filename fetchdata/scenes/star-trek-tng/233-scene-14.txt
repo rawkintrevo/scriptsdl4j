@@ -1,116 +1,49 @@
-TROI OBRIEN WORF RIKER PICARDJR ROJR GUINANJR CRUSHER DATA
+GUEST0 ALEXANDER GUEST2 GUEST8 PICARDJR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-O'BRIEN [OC]: I may have lost one of them. 
 [Transporter room]
 
-(Four children dressed the same as the shuttle
-occupants appear. The tall skinny youth in Starfleet uniform, with a
-healthy crop of hair, speaks) 
-PICARD JR: Thank you, Mister O'Brien. Another moment and 
-(he stops, startled by his own high-pitched voice, and looks at his
-diminutive companions. Gulp.)
-
-[Sickbay]
-
-CRUSHER: According to the bioscans, their DNA
-structure is now consistent with those of preadolescence. But as far as
-we can tell, only their bodies were changed. 
-TROI: Their individual intelligence and their behavioural responses are
-exactly the same as they were before the accident. 
-PICARD JR: What happened to the shuttlecraft, Number One? 
-RIKER: The shuttle broke up just after we beamed you out. Mister Data
-is coordinating the salvage efforts now. Sir. 
-CRUSHER: What about the energy field the shuttle passed through? 
-RIKER: We've trying to scan it, but it's we're running into lot of
-interference. It's going to take some time. 
-PICARD JR: We can't afford to stay here any longer. We'll leave a class
-four probe behind to study the energy
-field but the distress signal from Ligos Seven has top priority. Let me
-know as soon as you have any further information, Doctor. Number One,
-you're with me. 
-CRUSHER: Captain, I need to run some additional tests. 
-PICARD JR: Of course. The three of you will remain as needed to assist
-Doctor Crusher. 
-(Riker and Picard leave) 
-RO JR: What? 
-GUINAN JR: You know, you make a pretty cute kid. 
-RO JR: Great. Just what I want to be. Cute. 
-GUINAN JR: Were you this much fun when you were a kid? 
-RO JR: I was in a refugee camp. Fun wasn't exactly in my vocabulary. 
-GUINAN JR: What about now? You're not in that camp anymore. 
-RO JR: Fun is being back at work in my own uniform.
-
-[Turbolift]
-
-PICARD JR: Bridge.
-
-[Bridge]
-
-PICARD JR: Mister Worf. Prepare to launch a class
-four probe to study the energy field. 
-(everyone just stares) 
-PICARD JR: I realise how unusual this must seem. My appearance is the
-result of an accident, involving myself and three other crew members,
-the effects of which Doctor Crusher is currently working to remedy. I
-assure you I am Captain Picard. 
-(Riker gives a nod) 
-WORF: The probe. Aye, sir. 
-PICARD JR: Mister Data, have you secured all of the shuttle debris? 
-DATA: Almost. It is being stored in shuttlebay two. Sir. 
-PICARD JR: Very well. Ensign, as soon as Mister Data is finished take
-us to Ligos at warp eight. 
-CRUSHER: Captain, may I see you privately for a few moments? 
-PICARD JR: Of course.
-
-[Ready room]
-
-PICARD JR: Tea. Earl Grey. Hot. Have you been able
-to determine the cause of our transformation? 
-CRUSHER: Not yet. I'm still waiting for some test results. 
-PICARD JR: I see. There are one hundred and three members of the
-science team on Ligos Seven. We should prepare
-shuttlebay three for a triage centre in case they have large numbers of
-casualties. 
-CRUSHER: We'll be ready. 
-PICARD JR: I see that Ligos Seven is prone to periodic volcanic
-activity. Perhaps the planet has entered an active phase. 
-CRUSHER: Jean-Luc. We need to talk. 
-PICARD JR: All right. Let's talk. Are you here to relieve me of duty? 
-CRUSHER: I'd rather not have to take that step. 
-PICARD JR: I am still Jean-Luc Picard. My judgement, my experiences, my
-mental capacities are all intact. 
-CRUSHER: That's true, for now. But this could be the first stage of a
-condition that may begin to affect your mind as well. 
-PICARD JR: But you see no evidence of that. 
-CRUSHER: Not yet. What I do know is that the Captain of this ship has
-undergone an extreme physical transformation, the ultimate effects of
-which I can't even begin to guess. 
-PICARD JR: You are asking me to step down. 
-CRUSHER: You are still Jean-Luc Picard. What do you think you should
-do?
-
-[Bridge]
-
-PICARD JR: Commander Riker, please take command of
-the ship until further notice. 
-RIKER: Understood.
+(the toy runs into the room, bumps against the
+Ferengi's foot, then leaves again. The Ferengi follows it)
 
 [Corridor]
 
-RO JR: So what the hell am I supposed to do now? 
-GUINAN JR: You're not supposed to do anything. That's what relieved of
-duty means. 
-RO JR: Well, I should be doing something instead of just standing
-around waiting for them to find a cure. 
-GUINAN JR: You're right. Let's go play. 
-RO JR: What? 
-GUINAN JR: I haven't been young for a long time and I intend to enjoy
-every minute of it. 
-RO JR: Fine. Enjoy yourself. 
-GUINAN JR: What are you going to do? Go back to your room and pout? 
-RO JR: I am not twelve years old. If I want to go to my quarters and
-contemplate my situation, that does not mean that I am pouting. 
-GUINAN JR: Okay, okay.
+(Picard and Keiko see the Ferengi leave, and go
+into the transporter room)
 
+[Transporter room]
+
+KEIKO JR: I've got the phasers, Captain. 
+(the pair leave just before the Ferengi comes back round the corner
+carrying the toy and tries to make it work)
+
+[Jefferies tube]
+
+RO JR: This is the first time these Jefferies tubes
+haven't seemed cramped. 
+GUINAN JR:: How much farther do we have to go? 
+RO JR: About fifty metres. Don't tell me you're tired. 
+GUINAN JR: I'm not as young as I used to be.
+
+[Crusher's office]
+
+(Alexander knocks on the glass and runs away. The
+Ferengi gives chase) 
+[Sickbay]
+
+(Alexander gets some hypos from a drawer)
+
+[Jefferies tube]
+
+(the girls climb down a short ladder) 
+RO JR: This is it. Main Engineering. Now we wait.
+
+[School room]
+
+(Alexander returns) 
+PICARD JR: Report? 
+ALEXANDER: Mission accomplished, sir. The one in sickbay never saw me. 
+PICARD JR: Very good. 
+KEIKO JR: I'd say we're ready. Have you figured out how to get to the
+Bridge? 
+PICARD JR:: I'm afraid I can only think of one way. 

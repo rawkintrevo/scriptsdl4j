@@ -1,100 +1,42 @@
-TROI LAFORGE WORF PICARD CLERK RIKER WESLEY BELLBOY DATA TEXAS
-
-[Planet surface]
-
-RIKER: Well, this is what we came here for.
-Captain, we're entering.
+PICARD RIKER GUEST3 GUEST4 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Lobby]
 
-(Worf leads the way into a very elegant foyer and
-lobby in a Middle Eastern style. Lots of marble and palm plants, very
-twenties or thirties. We hear the laughter of people having a good time
-at blackjack tables) 
-[Bridge]
+GUEST3: You got to let me help her. 
+MICKEY D: Well why don't we just go outside and talk about it? 
+GUEST4: Just watch yourself. 
+GUEST3: Don't worry. 
+RIKER: It's all part of the novel. Don't interfere. 
+(Mickey D shoots the bellboy in the back as he walks to the door. The
+customers scream) 
+MICKEY D: You should have listened to me, kid. No woman's worth dying
+for. Killing for, not dying for. 
+(Mickey D leaves) 
+RIKER: Riker to Enterprise. 
+[Ready room]
 
-PICARD: Enterprise to away team, come in. 
-LAFORGE: We're receiving no signal at all from them, sir. 
-PICARD: Transporter room. lock on to the landing party. Beam them up. 
-LAFORGE: We've got nothing to lock on to, sir. 
+PICARD: Yes, Number One. 
+RIKER [OC]: A bizarre incident just took place. 
+PICARD: The shoot-out between the bellboy and Mickey D. 
 [Lobby]
 
-RIKER: Riker to Enterprise. We've entered the
-structure. Riker to Enterprise, come in. Come in, Enterprise. 
-[Bridge]
+RIKER: Yes, and Mickey D just walked out the door.
+How did he do that? 
+[Ready room]
 
-WESLEY: When they went through that antique
-doorway, the signal just disappeared, sir.
-PICARD: What's causing the interference? 
-LAFORGE: Unknown. 
-PICARD: Are they receiving us? 
-LAFORGE: No. We're going to have to recalibrate all the frequencies to
-find one that'll work. 
-PICARD: Then do it.
-
+PICARD: It's on page 244. 
 [Lobby]
 
-DATA: Sir, without communication, we should beam up
-immediately. 
-RIKER: We're here, there's no danger. We'll look around then leave. 
-BELLBOY: Checking in, gentlemen? You'll have to go to the front desk. 
-RIKER: Very good. We'll start with that. 
-CLERK: Welcome, gentlemen. Have a nice trip? 
-RIKER: Do you know us? 
-CLERK: We've been expecting you. A trio of foreign gentlemen. 
-RIKER: Yes. We're from the United Federation of Planets. 
-CLERK: Of course you are. Welcome to the Hotel Royale 
-BELLBOY: Excuse me. Did Rita call? 
-CLERK: I'm busy. 
-BELLBOY: You're busy? This is my life I'm talking about here. Now did
-Rita call or not? 
-CLERK: No, and for your own good you'd better quit thinking about Rita.
+RIKER: In the novel. Right. How does it end? 
+[Ready room]
 
-BELLBOY: I'm not afraid of Mickey D. 
-CLERK: Then you're a fool. Anybody with any sense is afraid of Mickey
-D. 
-BELLBOY: If Rita calls, you let me know. 
-(Bellboy leaves) 
-CLERK: Kid's just asking for trouble. Rita's too much for him to
-handle, and Mickey D's going to plant
-his face in the pavement. Now, here are your room keys. And some
-complimentary casino chips. Enjoy. 
-WORF: What is this place? How did a being like you get here? 
-CLERK: Why, this is the Royale, of course. And my personal life is
-really none of your business, thank you. 
-RIKER: What he means is, what planet is this? 
-CLERK: I beg your pardon? 
-RIKER: This planet. What do you call it? 
-CLERK: Earth. What do you call it? 
-WORF: We call it Theta Eight. 
-CLERK: How charming. 
-(The manager returns to putting mail into pigeon holes, so the team
-take a stroll amongst the tables) 
-DATA: Commander 
-RIKER: Yes, Data? 
-DATA: None of these people are emitting life signs. 
-WORF: You mean they're not alive? 
-RIKER: Then what are they? 
-WORF: These beings, are they machines, or mere illusions designed to
-deceive us? 
-DATA: Not illusion, Lieutenant. They do exist, but they do not register
-as either man or machine. 
-DATA: Take this creature, for example. He does not exhibit any DNA
-structure. 
-TEXAS: Excuse me, son. Look who's talking. Man, you sound just like my
-ex-wife. All right. Time to get back to business! 
-DATA: What sort of business do you suppose he is getting down to?
+PICARD: A bad love affair ends in a bloody
+shoot-out, the hotel gets bought out, and life goes on, such as it is. 
+[Lobby]
 
-[Bridge]
+RIKER: The hotel gets bought? By whom? 
+[Ready room]
 
-PICARD: Status report. 
-WESLEY: We're attempting to employ alternate encoding schemes. 
-LAFORGE: There could be hundreds of possible combinations. 
-PICARD: Is there an intelligence causing this interference? 
-LAFORGE: That's impossible to tell, Captain. 
-PICARD: It's unlike Commander Riker not to follow procedure. When he
-lost contact with the Enterprise, he should have returned immediately
-to the beam down coordinates. 
-TROI: I don't feel he's in any danger. In fact, if I could choose one
-word to assess his mood, it would be amused. 
-PICARD: Amused? 
+PICARD: It isn't specific. It simply refers to
+foreign investors. Sale price, twelve point five million United States 

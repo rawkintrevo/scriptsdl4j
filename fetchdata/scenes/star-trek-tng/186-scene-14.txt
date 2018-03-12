@@ -1,45 +1,48 @@
-PICARD MACET DATA WORF TELLE
+GUEST0 OBRIEN GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Phoenix Ready room]
 
-(Worf hauls Telle onto the Bridge) 
-TELLE: I will protest this, Klingon! 
-PICARD: Lieutenant? 
-WORF: He was found at a computer station on deck thirty five,
-attempting to access information on our weapon systems. 
-TELLE: A lie, Gul Macet. I was studying the terminal interface systems.
-They're more efficient than ours. I have no idea what was in the files.
+GUEST0: Not now! 
+(O'Brien enters and Maxwell grabs a phaser) 
+O'BRIEN: I'm not armed. 
+GUEST0: How the devil did you get over here? 
+O'BRIEN: I had the thought that if we could talk we could figure a way
+out of this mess. 
+GUEST0: The way out of this is clear. Talk to Picard. Get him to board
+the damned ship. 
+O'BRIEN: He won't do that, sir. 
+GUEST0: But he'd turn his weapons on a Federation Starship to protect
+the enemy? I don't believe it. 
+O'BRIEN: He will. Count on it. 
+GUEST0: What the hell has happened to this war? 
+O'BRIEN: Sir, there is no war. The war is over. 
+GUEST0: You're wrong. The Cardassians live to make war. 
+O'BRIEN: That's what everybody thinks about the enemy. That's probably
+what they think about us. 
+GUEST0: We're not the same at all. We do not start wars. We do not
+make surprise attacks on manned outposts. We do not butcher women and
+children in their homes. Children who never got the chance to grow up.
+You were with me on Setlick. You saw what they did. 
+O'BRIEN: Yes, sir. 
+GUEST0: What was the name of the fellow who always hung around you
+like a puppy? 
+O'BRIEN: Will Kayden. Stompie. 
+GUEST0: Stompie. As cool under fire as a mountain lake. 
+O'BRIEN: Yes, sir. 
+GUEST0: He died at Setlick, didn't he? 
+O'BRIEN: Yes, sir. 
+GUEST0: What was that song of his? The one he always sang, the one I
+liked? 
+O'BRIEN: (sings) The minstrel boy to the war has gone. In the ranks of
+death you will find him. 
+GUEST5: His father's sword he hath girded on and his wild harp slung
+behind him. Land of song, said the warrior bard, tho' all the world
+betrays thee. One sword at least thy rights shall guard. 
+O'BRIEN: One faithful harp shall praise thee. 
+GUEST0: I'm not going to win this one, am I. Chief? 
+O'BRIEN: No, sir. 
+Captain's log, supplemental. Captain Maxwell has
+turned his ship over to his First Officer and transported aboard the
+Enterprise. I have confined him to quarters for the return voyage.
 
-MACET: What business did you have going near one of their computers? 
-TELLE: But, Gul Macet, I meant nothing. There was no harm done. 
-MACET: Go to your quarters. You are confined there for the duration of
-this expedition. 
-TELLE: As you wish, sir. 
-PICARD: Mister Worf, please accompany him. 
-WORF: Gladly, Captain. 
-(Worf and Telle leave) 
-MACET: Captain, may we speak in private? 
-PICARD: You have the Bridge, Number One.
-
-[Ready room]
-
-MACET: I deeply regret what my aide has done,
-Captain. You have my word he will be disciplined upon my return. 
-PICARD: You may take whatever action against him you feel is
-appropriate. I consider the matter closed. 
-MACET: I'm not sure I would be so generous in your place, Captain.
-Thank you. 
-PICARD: If there is to be a lasting peace, Gul Macet, neither you nor I
-must allow any one man to undermine our efforts. 
-MACET: There are those who crave war, who need it. I am not one of
-them, Captain, and I'm beginning to see that neither are you. We have
-had our full measure. The lasting peace begins here, with the two of
-us. 
-DATA [OC]: Bridge to Captain. 
-PICARD: Picard here. 
-DATA [OC]: We have located the Phoenix, sir. We will intercept it in
-twenty two minutes.
-
-Captain's log, stardate 44431.7. We have
-established communication with Captain Maxwell, and he has agreed to
-come on board. 

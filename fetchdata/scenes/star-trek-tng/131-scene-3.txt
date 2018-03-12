@@ -1,74 +1,39 @@
-TROI LAFORGE WORF PICARD KAREEN RIKER PULASKI WESLEY DATA MAN
+TROI LAFORGE WORF PICARD RIKER PULASKI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Engineering]
 
-TROI: Did Data say why he wants to see us? 
-LAFORGE: He said something about his new image. I tell you, he's been
-acting kind of strange lately. 
-TROI: How so? 
-LAFORGE: Well, if I didn't know better, I'd say he was showing signs of
-insecurity. 
-TROI: Yes, but you do know better. Androids don't feel such things. 
-LAFORGE: I don't know. Sometimes I think he's becoming more human than
-any of us realise. 
-[Data's quarters]
-
-DATA [OC]: Come in. 
-(Troi and Geordi enter) 
-LAFORGE: Data? 
-DATA [OC]: Geordi? Is Counsellor Troi with you? 
-TROI: Yes, I'm here, Data. Geordi said you wanted to see us. 
-DATA [OC]: Indeed. Or, stated more correctly, I wanted you to see me. 
-LAFORGE: Can we come in? 
-DATA [OC]: Please. 
-(They go through to the inner room, and we see Data's reflection in a
-full length mirror. He is sporting a full set, a beard like Riker's) 
-LAFORGE: Did you damage your face, Data? 
-DATA: It is a beard, Geordi. A fine, full, dignified beard. One which
-commands respect and projects thoughtfulness and dignity. Well?
-Opinions? 
-TROI: It's er, very different. 
-DATA: When I stroke the beard thusly, do I not appear more
-intellectual? 
-TROI: I'm sorry, I have to go now. Goodbye. 
-(Troi leaves, quickly, laughing) 
-DATA: Why was she laughing? 
+PICARD [OC]: Transport. This may be a little
+tricky. I would like you to handle it.
+LAFORGE: Yes, Captain. 
 [Bridge]
 
-WORF: We are receiving a transmission from
-Gravesworld, sir. It's unfocused. Not directed specifically at us. 
-PICARD: On viewer, Mister Worf. 
-KAREEN [on viewscreen]: (a young blonde woman) If anyone can hear me,
-please send a doctor. Things are getting worse. 
-(Transmission ends) 
-PICARD: Try and raise her, Mister Crusher. Tell them we're only minutes
-away. 
-WESLEY: It's no good, sir. I don't believe they're receiving us. 
-WORF: Our records show that she and Graves are the only ones living on
-the planet, Captain. 
-RIKER: Then what scared her? 
-WORF: Captain, I am picking up another signal, but it is not from the
-planet. 
-PICARD: On screen, Mister Worf. 
-WORF: The signal is very weak, sir. Audio only. 
-PICARD: Pipe it through. 
-MAN [OC]: Mayday! Mayday! This is the USS (static) questing emergency
-assistance.
-(static) The outer hull is breached and environmental systems
-compromised. Need assistance. 
-WESLEY: Captain, I show the Constantinople in that general vicinity.
-She's a transport ship, used to ferry settlers. I'm showing two
-thousand and twelve colonists aboard. 
-RIKER: Outer hull breach. She must have had an internal explosion. 
-PULASKI: If that's the case, they'll all be prone to severe hypoxia.
-Their lives are at risk. We've got to help them. 
-PICARD: And what about Graves? 
-PULASKI: He's one man. 
-RIKER: Suggestion, Captain. Why don't we execute a long range transport
-of an away team to assist Doctor Graves at earliest possible moment.
-We'd come out of warp just long enough to energise the beam. 
-PICARD: A touch and go down warping? Mister Crusher, prepare to make it
-so. 
-WESLEY: Aye sir. 
-PICARD: Engineering, Mister La Forge. We're going to execute a near
-warp 
+LAFORGE [OC]: I'm on my way. 
+PICARD: Assemble an away team, Number One. Include whoever the Doctor
+requires to assist. 
+PULASKI: Excuse me sir, but there may be hundreds on the Constantinople
+that require emergency attention. I should be there to supervise. 
+PICARD: All right, who will replace you? 
+PULASKI: Lieutenant Selar. She has my complete confidence. 
+RIKER: Worf, let's go. 
+[Transporter room]
+
+(Selar, Troi, a clean-shaven Data and Worf are the
+away team) 
+RIKER: Phaser on stun, Mister Worf. We don't know what's going on down
+there. There's no need to take any chances. 
+WORF: Agreed, sir. 
+LAFORGE: Now remember, this is a near warp transport, so the effects
+may be a little unusual. 
+TROI: What do you mean? 
+RIKER: You'll see, Counsellor. Energise. 
+TROI: Now wait a minute. I don't understand 
+[Living room]
+
+RIKER: You do now. 
+TROI: This might sound crazy, but for a moment I thought I was stuck in
+that wall. 
+WORF: For a moment, you were. 
+DATA: Data to Enterprise. 
+PICARD [OC]: I read you, Commander. Go ahead. 
+DATA: We are inside Graves' home. 

@@ -1,101 +1,34 @@
-RIKER WORF PICARD TROI MAURIC CRUSHER DATA
+GUEST1 RIKER GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Kes quarters]
 
-DATA: There is nothing wrong with the transporter.
-I have run a complete diagnostic of all the targeting components. 
-RIKER: Then what happened to the Captain and Doctor Crusher? 
-WORF: Commander. The Transporter sensor log shows an unusual
-concentration of antigraviton particles in the emitter coil. 
-DATA: A concentration of antigraviton particles suggests a tractor
-beam. It might have deflected the transporter beam to a different set
-of coordinates. 
-RIKER: Is there a way to locate those coordinates? 
-DATA: The tractor beam originated somewhere in the Prytt Alliance. 
-WORF: Why does the Prytt want Captain Picard and Doctor Crusher? 
-RIKER: I don't know. And it's not going to be easy to find out. The
-Prytt have consistently refused all outside contact. We're going to
-have to work through the Kes. Contact Ambassador Mauric. Tell him I
-want a meeting right now. 
-WORF: Aye, sir.
-
-[Cell]
-
-(Picard is testing the bars on the window very
-carefully) 
-PICARD: What? 
-CRUSHER: What? 
-PICARD: You're staring at me. 
-CRUSHER: I was just thinking about how to get out of here. 
-PICARD: There may be a structural flaw that would allow us to escape. 
-CRUSHER: Right. 
-PICARD: Beverly, the important thing during any confinement is to think
-positively and not give up hope. There is a way out of every box, there
-is a solution to every puzzle. It's just a matter of finding it. 
-(the guard puts a covered plate on the floor and backs out. Picard
-fails to stop the door closing again) 
-PICARD: Damn. 
-CRUSHER: Well, at least this means we won't starve to death. 
-PICARD: It means they plan on keeping us here for a while. 
-CRUSHER: I'm beginning to think negatively, Jean-Luc. 
-(she takes the cover off the plate) 
-CRUSHER: My tricorder! 
-PICARD: Does it work? 
-CRUSHER: Yes. Except something's been added to the main directory. 
-PICARD: It's a map. 
-CRUSHER: An escape route. That guard must be working for the Kes. 
-PICARD: Possibly. Or it could be part of a very carefully laid trap. 
-CRUSHER: If you ask me, I'd like to take my chances out there. 
-PICARD: Agreed. Is there a way to open the cell door? 
-CRUSHER: Yes, the code's been entered. 
-(the door opens, there's no one around, and off they go)
-
-[Observation lounge]
-
-MAURIC: Commander, on behalf of my government, I
-would like to take this opportunity to present my profound apologies
-regarding this unfortunate incident. 
-RIKER: That's very kind, Ambassador. But I don't think anyone here
-holds you or the Kes government responsible for what's happened. 
-TROI: Our primary concern is not to assign blame, but to recover our
-missing officers. 
-MAURIC: I agree. We are prepared to insert a hostage rescue team into
-the Prytt capital city on three hours notice. 
-RIKER: Ambassador, we have not even attempted a diplomatic effort yet.
-I would rather not use force until we've exhausted all other options. 
-MAURIC: I don't believe there is any diplomatic option, Commander. We
-have no formal relations with the Prytt. No ambassadors. There's simply
-no way to contact them. 
-TROI: Surely you must have some means of communication in case of a
-planetary emergency. 
-MAURIC: We have never had need of such a system. 
-WORF: We can determine their communications frequencies and establish a
-link. 
-MAURIC: Allow me to be blunt. The Prytt are a fanatical, xenophobic
-people, with little regard for civilised discourse. Even if you do
-establish communications link with them, it will be a complete waste of
-time. 
-TROI: How long has it been since your last diplomatic contact? 
-MAURIC: Almost a century. 
-TROI: Then it's possible they may have changed over the years. 
-MAURIC: We have had other less formal contacts with the Prytt. Contacts
-we cannot discuss. But I can assure you, they have changed very little.
-
-RIKER: With all due respect, Ambassador, I think I should try to
-communicate with the Prytt before I sanction the use of force. 
-MAURIC: Of course, Commander. In the meantime, I will continue making
-preparations for a rescue attempt. 
-RIKER: Agreed. 
-MAURIC: I do have one request. We believe that the Prytt obtained their
-information about the transport of your captain and doctor through a
-breach in our communications network. If I could set up a base of
-operations here on the Enterprise, I'd feel much more secure. 
-RIKER: Mister Worf will help you. 
-MAURIC: Thank you, Lieutenant.
-
-[Corridor]
-
-(Worf opens the doors of the chosen quarters for
-the Kes, and the Ambassador peers in cautiously)
-MAURIC: You first.
+(the Kes have brought in some hardware of their
+own. Riker is scanned by the assistant when he enters) 
+RIKER: I see you've done some redecorating. 
+GUEST1: Just a few pieces of equipment necessary for security reasons.
+You understand? 
+RIKER: Certainly. 
+GUEST5: He is all right. 
+RIKER: How do you plan to get our people out of Prytt territory? 
+GUEST1: You must realise that everything I'm about to say cannot leave
+this room. For some time, we have had certain friends among the Prytt.
+Citizens who realise that the long struggle between our two peoples can
+only end when the Prytt government is made to see reason. 
+RIKER: You've recruited a few Prytt spies. 
+GUEST1: That's a crude, but accurate term. These friends will be
+waiting for your Captain and Doctor when they reach the village of Ohn
+Kor near the Kes border. The map we provided your officers will take
+them to a tavern there. 
+RIKER: Forgive me, Ambassador, but is it wise to send two human
+fugitives in Starfleet uniforms into a Prytt village? 
+GUEST1: The danger is minimal. Our operatives control almost the whole
+village. Once contact has been made with Captain Picard and Doctor
+Crusher, our friends will escort them across the border into Kes. 
+RIKER: I would still feel better if they could rendezvous with your
+operatives in a less public place. 
+GUEST1: Commander, I assure you we know what we're doing. We've had a
+great deal of experience dealing with the Prytt. We'd hardly risk the
+safety of your people. After all, we still hope you will recommend our
+entrance into the Federation.
 

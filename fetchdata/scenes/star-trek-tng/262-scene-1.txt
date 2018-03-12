@@ -1,61 +1,52 @@
-JULIANA DATA
+PICARD JULIANA DATA LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Observation lounge]
 
-JULIANA: I still can't believe I'm seeing you like
-this again, after all these years. 
-DATA: Doctor, I have no memory of you. 
-JULIANA: Oh, there's a reason for that. We wiped your processors after
-we finished refining your programming. Why don't you tell me what you
-do remember, and then I'll fill in the gaps. 
-DATA: My memory record begins when I was activated by the Starfleet
-officers on the Omicron Theta outpost. 
-JULIANA: After the attack of the Crystalline Entity. 
-DATA: Yes. All of the inhabitants of the colony were killed. However, I
-discovered that my memory banks contained the contents of their
-journals and logs. 
-JULIANA: We hoped their experiences would be useful. After your
-childhood, we figured you could use all the help you could get. 
-DATA: My childhood? 
-JULIANA: That's what I called it. You were like a baby, at first. A
-hundred kilogram baby, but still. You had trouble learning your motor
-skills, learning how to process sensory information. And of course
-Noonian was never satisfied. He kept tinkering, trying to make you as
-human as possible. 
-DATA: So you wiped my memory processors after this childhood. 
-JULIANA: Then we deactivated you and programmed you with the colonists'
-logs. We had planned to reactivate you, but we never got the chance.
-That's when the Crystalline Entity attacked. We had to leave quickly.
-We wanted to take you with us, but there was only room for two in the
-escape pod. 
-DATA: Doctor, I have scanned the journals of the colonists. There is
-only one Juliana mentioned in them. Her last name was O'Donnell. 
-JULIANA: That's me. 
-DATA: But there was no mention that my father was married to you. 
-JULIANA: Because of my mother. She thought that Noonian was an
-eccentric scientist who was too old for me. We decided to marry
-secretly to give her a chance to get used to our being together. We
-slipped away to Mavala Four and got married there. A Klingon and a
-Corvallan trader were our witnesses. It wasn't exactly the wedding I'd
-hoped for. Somehow Noonian had a way of making even the oddest things
-seem romantic. 
-DATA: My father did have an unusual way of looking at things. 
-JULIANA: How would you know that? 
-DATA: I encountered him once in the Terlina system. 
-JULIANA: That's where we went to after we left the outpost. I had no
-idea that you'd even met him. 
-DATA: It was shortly before his death. 
-JULIANA: He's dead? 
-DATA: Yes. 
-JULIANA: I had no idea it would hit me this hard. We didn't exactly
-part on the best of terms. 
-DATA: What do you mean? 
-JULIANA: I realised he loved his work as much as he loved me. Maybe
-more. There we were, stuck on this planet in the middle of the jungle
-with no one else to talk to. No life. It just wasn't enough. That's why
-I left. That was all a very, very long time ago. The important thing is
-that we're here now together. And I do want to get to know you. 
-DATA: This has been an interesting encounter, and an altogether
-unexpected one. I would like to corroborate your story before we
-proceed further. Excuse me, Doctor.
+JULIANA: Captain, our situation has worsened since
+my husband and I first contacted you. The molten core of our planet is
+not just cooling, it's begun to solidify. 
+GUEST2: Our gravitational field has been affected. Seismic activity has
+increased by a factor of three. 
+JULIANA: If the cooling continues at this rate Atrea will become
+uninhabitable in thirteen months. 
+LAFORGE: We could minimise seismic activity by creating isobaric
+fissures and relieving some of the tectonic stress, but that would just
+be a temporary fix. 
+DATA: The only permanent solution would be to re-liquefy the core. 
+LAFORGE: These pockets in the magma layer, how close are they to the
+molten region of the core? 
+JULIANA: A few kilometres, why? 
+LAFORGE: Data, do you think that's close enough for ferro-plasmic
+infusion? 
+DATA: The procedure will involve using the ship's phasers to drill down
+through the planet's surface into the pockets, where we would set up a
+series of plasma infusion units. 
+LAFORGE: We'll trigger the units by firing modulated energy bursts down
+through the shafts. 
+JULIANA: I see. Injecting sufficient plasma directly into the core
+should trigger a chain reaction, and that will reliquify the magma. 
+DATA: It should be possible to stabilise the core temperature at ninety
+three percent of normal. 
+GUEST2: If it works, the core would remain molten for centuries. 
+PICARD: If you give your permission, we could begin immediately. 
+GUEST2: Very well. But before we proceed, I'd like to update our
+geological surveys. 
+LAFORGE: Fine. I'd be very happy to help you with that, Doctor. 
+PICARD: I've assigned you quarters during out time here. Please, make
+yourselves comfortable. 
+GUEST2: Thank you, Captain. 
+(Pran, Picard and La Forge leave)
+JULIANA: Data? 
+DATA: Yes, Doctor? 
+JULIANA: Do you have any idea who I am? 
+DATA: You are Doctor Juliana Tainer. 
+JULIANA: You lost all your early memories. We thought you would, but we
+couldn't be certain. 
+DATA: Have we met before? 
+JULIANA: Oh, Data, I was there, right at the beginning on Omicron
+Theta. I helped create you. Now look at you. 
+DATA: You were a colleague of Doctor Soong? 
+JULIANA: Yes, I certainly was. And I was also his wife. In a way, I
+suppose you could say I am your mother.
 

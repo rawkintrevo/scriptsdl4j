@@ -1,127 +1,79 @@
-RIKER BEN WORF SITO PICARD TAURIK LAVELLE BARTENDER OGAWA CRUSHER DATA
+RIKER CREWMAN SITO PICARD LAVELLE OGAWA CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Sickbay]
 
-OGAWA: Excuse me, Doctor. 
-CRUSHER: If you're wondering about the evaluations, things couldn't be
-better. 
-OGAWA: Actually, I just wanted to tell you that Ensign Reilly's
-condition is showing improvement. But thank you. 
-CRUSHER: In fact, I'm recommending you for a promotion. How does
-Lieutenant Alyssa Ogawa sound? 
-OGAWA: It sounds wonderful. 
-CRUSHER: I'll talk to Commander Riker and I'm sure it'll be official as
-soon as the current crew evaluations are over. Oh, Alyssa, how are
-things going between you and Lieutenant Powell? 
-OGAWA: Fine. I think. 
-CRUSHER: You think? 
-OGAWA: I'm sure it's nothing, but he seems preoccupied lately. Last
-night he had to cancel our date. 
-CRUSHER: I see. 
-OGAWA: He's been putting together a research proposal. He's been really
-busy with it. 
-CRUSHER: I know what that's like. Sometimes I get so busy with research
-I forget to eat. 
-OGAWA: I just wonder. 
-CRUSHER: What? Sit down. 
-OGAWA: I've never met anyone like Andrew. It's as though we've known
-each other forever. 
-CRUSHER: You do seem very well suited. 
-OGAWA: But I know that in the beginning of a romance it's possible to
-be a little blind. 
-CRUSHER: I'm not sure I know what you mean. 
-OGAWA: Well, cancelling a date like that, the way he's been so distant
-lately. Doctor, do you think those could be warning signs that he's
-losing interest? 
-CRUSHER: Alyssa, I think you're overreacting. 
-OGAWA: Maybe so. 
-CRUSHER: If I cared as much about someone as much as you care about
-Andrew, he'd have to do a lot more than cancel a date before I'd get
-suspicious. 
-OGAWA: You're right. 
-CRUSHER: I'm sure that when this research is over, things will be back
-just the way they were. 
-OGAWA: Except, of course, that he'll have to deal with Lieutenant
-Ogawa. 
-[Ten Forward]
+PICARD [OC]: Doctor Crusher, are you ready? 
+CRUSHER: Stand by. Alyssa, I'm afraid I'm going to have to ask you to
+leave now. 
+OGAWA: All right, Doctor. 
+(Alyssa leaves) 
+CRUSHER: Transporter room. go ahead. 
+CREWMAN [OC]: Aye, sir.
 
-(at the bar) 
-SITO: I only filled in at Ops for a half hour, but I had to degauss the
-main deflector dish, recalibrate the navigation grid, and use internal
-sensors to find a lost puppy. 
-WORF: Ops is a very different challenge from Tactical. 
-SITO: I can't figure out why I'm even being considered for this
-assignment. I'm a security officer. 
-WORF: I recommended you. 
-SITO: I'll try not to let you down, sir. 
-(at a table) 
-LAVELLE: What could they be talking about? 
-TAURIK: Have you ever considered learning to lip read? 
-LAVELLE: You think Worf's chewing her out? 
-BEN: No, he always looks like that. 
-LAVELLE: Maybe he's giving her pointers on how to land the Ops
-position. 
-(Riker enters) 
-BEN: Hi, Will. 
-RIKER: Ben. (to bartender) How you doing? 
-LAVELLE: You call him Will? 
-BEN: Why not? 
-LAVELLE: He's second in command of this ship, that's why not. 
-BEN: I'm not Starfleet, I'm a civilian. When he's in here, he wants to
-be treated like a civilian. 
-LAVELLE: Riker? I bet he sleeps in his uniform. 
-BEN: You only think that because he's your CO. If you got to know him. 
-LAVELLE: Right. 
-TAURIK: He's convinced Commander Riker doesn't like him. 
-BEN: Why? Did you crash the ship into something? 
-LAVELLE: No. He just doesn't like me. 
-TAURIK: He doesn't even know you. 
-BEN: That's right. You should go talk to him. 
-LAVELLE: About what? 
-TAURIK: Perhaps something you have in common. 
-BEN: He likes Jazz, poker. He's Canadian. 
-LAVELLE: Yeah? My grandfather was from Canada. 
-BEN: There you go. 
-SITO: Hi. 
-LAVELLE: Excuse me, I've got to go talk to somebody. 
-(at the bar) 
-LAVELLE: Good evening, sir. 
-RIKER: Lavelle. Something I can do for you? 
-LAVELLE: No, sir. I just came to get another drink. 
-RIKER: Is there something wrong with that one? 
-LAVELLE: No, actually, I, er. What are you having? 
-RIKER: Trakian Ale. 
-LAVELLE: Good choice. I'll have one, too. My grandfather was Canadian,
-you know. 
-RIKER: Really? 
-LAVELLE: Aren't you one, too? 
-RIKER: A grandfather? 
-LAVELLE: No, Canadian, sir. Canadian. 
-RIKER: No, I grew up in Alaska. 
-LAVELLE: Oh. Well, they both get a lot of snow. 
-RIKER: Yeah. 
-LAVELLE: It was good talking to you, sir. 
-(Lavelle leaves) 
-BARTENDER: Your ale, Ensign. 
+[Corridor]
+
+(Sito is standing guard) 
+OGAWA: What are you doing here? 
+SITO: I'm not supposed to let anyone but the senior officers inside
+Sickbay. 
+OGAWA: Do you have any idea what's going on? 
+SITO: No, do you? 
+OGAWA: I'd better go. 
+(Alyssa leaves as Picard arrives) 
+PICARD: Ensign. 
+SITO: Sir. 
 [Bridge]
 
-RIKER: We're holding position in the Argaya System.
+RIKER: Twelve hundred hours. Alpha shift is
+relieved. 
+LAVELLE: Excuse me, sir. If you don't mind, I'd like to stay on for
+another shift. I could use the training. 
+RIKER: Now's not the best time. 
+LAVELLE: Yes, sir.
 
-PICARD: Anything? 
-WORF: No, sir. I detect no vessels in the vicinity. 
-PICARD: How close to the Cardassian border are we? 
-DATA: Less than five thousand kilometres, sir. 
-WORF: Sir, I am detecting an object five metres in length. It appears
-to be an escape pod. 
-RIKER: They must have been forced to abandon the ship. 
-PICARD: How far inside Cardassian space is it? 
-WORF: Fifty thousand kilometres. 
-PICARD: How the hell are we going to get it out of there? 
-DATA: Sir, the pod's life support system is failing. 
-RIKER: Notify Doctor Crusher. 
-PICARD: Can we get within transporter range without crossing into
-Cardassian territory? 
-DATA: We would need to boost the gain on the confinement beam by at
-least seven percent. 
-PICARD: Mister La Forge?
+[Outside Sickbay]
 
+PICARD: Ensign, you're with me.
+
+[Turbolift]
+
+PICARD: Bridge. You are a certified pilot, Ensign? 
+SITO: Yes, sir.
+
+[Ready room]
+
+PICARD: How long have you served on board the
+Enterprise, Ensign? 
+SITO: Seven months, sir. 
+PICARD: I see I understand that you've been recommended for the Ops
+position. Do you think you're up to it? 
+SITO: I do, sir. 
+PICARD: I'm not so sure. I'm concerned about your record. 
+SITO: Sir? 
+PICARD:  The incident that you were
+involved in at the Academy. 
+SITO: With all due respect that was three years ago. My record since
+then 
+PICARD: It doesn't matter how long ago it was, Ensign. Would you do
+something like that again? 
+SITO: I can assure you, sir, that I would never, never jeopardise lives
+by participating in 
+PICARD: A dare devil stunt? I would certainly hope not. What concerns
+me is that you participated in a
+cover-up that impeded an official investigation into the death of a
+cadet. 
+SITO: Sir, I know I should have told the truth right from the start 
+PICARD: Yes you should, but you didn't. Instead you joined with the
+others to pretended that was simply an accident. Now, what do you think
+that tells me about your character? 
+SITO: Sir, if you had any idea what it was like after that incident. I
+didn't have any friends. I didn't have anyone to talk to. I had to take
+my flight test with the instructor because no one else would be my
+partner. In a lot of ways it would have been easier to just walk away,
+but I didn't. I stuck with it. Doesn't that say something about my
+character, too? 
+PICARD: Well I'm really very sorry you didn't enjoy your time at the
+Academy, Ensign. As far as I'm concerned, you should have been expelled
+for what you did. Quite frankly, I don't know how you made it on board
+this ship. You're dismissed. 

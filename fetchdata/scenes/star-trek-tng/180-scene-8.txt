@@ -1,112 +1,32 @@
-RIKER ISHARA WORF HAYNE PICARD TROI CRUSHER DATA
+ISHARA RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Coalition headquarters]
+[Engineering]
 
-(The case is crow-barred open) 
-HAYNE: The Alliance is holding your men hostage, Commander Riker, not
-us. You can expect a ransom demand. 
-RIKER: The Alliance? 
-HAYNE: Our good friends. Our good friends are going to be upset when
-they realise we took their last crate of Telluridan synth-ale. 
-RIKER: Maybe I should take this to the authorities. 
-HAYNE: We are the authorities. The Coalition, our cadre, runs this side
-of the city. The Alliance controls the other side. Take your choice. 
-RIKER: Are you offering to help us? 
-HAYNE: In return for some consideration. Phasers are in short supply
-down here. A starship isn't going to miss a few. 
-WORF: That is no better than a ransom demand. 
-HAYNE: No matter what you give the Alliance, they'll eventually kill
-your crewmen anyway. With our help, at least there's a chance you'll
-get your men back alive. All I'm asking for is help in maintaining our
-defence. We are trying to keep the peace. 
-RIKER: Everything we've seen would indicate otherwise. 
-HAYNE: A prank. The proximity implants prevent either side from doing
-any serious damage. They warn us when an enemy is approaching. 
-WORF: Then why do you need more phasers? 
-HAYNE: The Alliance just discovered a large cache of weapons. I'm just
-trying to make things even, to preserve the peace. 
-CRUSHER: You keep using the word peace. We've heard a different version
-of life on Turkana Four. 
-HAYNE: Ancient history. Where did you hear that? 
-DATA: A former crewman was born here. 
-HAYNE: Where's he now? 
-DATA: She was killed in the line of duty. 
-HAYNE: That's as good a way to die as any. As I said, ancient history.
-This is now, and your men are in trouble. 
-RIKER: We'll return to the Enterprise and consider your proposal. 
-HAYNE: A gift for your Captain. 
-(he hands a bottle of synth-ale to Riker) 
-RIKER: Riker to Enterprise. Energise. 
-(The team beam away) 
-HAYNE: I want everything there is to know about the starship
-Enterprise.
-
-[Bridge]
-
-RIKER: According to Hayne, the Coalition and the
-Alliance raid each other for supplies, much of it non-essential. 
-PICARD: Why? 
-WORF: A battle exercise. 
-RIKER: Their defences apparently prevent deep strikes into each other's
-territory. Minor skirmishes are all that's left. 
-PICARD: Coalition. Alliance. It all sounds so reasonable, but what
-you've described is the behaviour of urban street thugs. We certainly
-won't trade weapons for crewmen. How do you suggest we deal with them? 
-RIKER: We have to tell them something. 
-WORF: No promises, no denials. 
-PICARD: For now, Hayne's Coalition is our only safe access to the
-colony. We'll keep the door open, see where it leads us. 
-WORF: Captain. Transmission coming in from Turkana Four, on a secure
-channel. 
-PICARD: On screen. 
-HAYNE [on viewscreen]: Hello, Enterprise. Commander Riker, would you
-introduce me to your Captain? 
-PICARD: I'm Captain Jean-Luc Picard. 
-HAYNE [on viewscreen]: I have someone here you might like to meet. This
-is Ishara. Ishara Yar. 
-ISHARA [on viewscreen]: Tasha was my sister. 
-HAYNE [on viewscreen]: There's an old saying, Captain. The enemy of my
-enemy is my friend. I've decided it's in my best interest to help you
-get your crewmen back. 
-PICARD: With nothing from us in return? 
-HAYNE [on viewscreen]: You could be forced into paying my adversary a
-ransom in weapons. I'll do anything I can to avoid that possibility. 
-PICARD: What do you propose? 
-HAYNE [on viewscreen]: Ishara will be our liaison. 
-ISHARA [on viewscreen]: I know Alliance territory. I can help you with
-a rescue plan. 
-PICARD: One moment. 
-WORF: Mute. 
-PICARD: Reactions? 
-WORF: I do not trust him. 
-RIKER: She could be a fake. We told him a member of our crew was from
-the colony. 
-CRUSHER: All Hayne had to do was search through their database had on
-Starfleet to come up with Tasha's name. 
-PICARD: Counsellor? 
-TROI: He's deceiving us, and he's clearly hoping to manipulate us. As
-for the identity of the young woman, I can't really tell. 
-PICARD: Neverthe less, this is an option we cannot neglect. We'll
-continue on other fronts as they present themselves. For now, let's see
-what she has to say. 
-WORF: Open. 
-PICARD: I have decided to accept your proposal. 
-HAYNE [on viewscreen]: Thank you. Good luck.
-
-[Transporter room]
-
-DATA: Welcome to the Enterprise, Ishara. I am
-Commander Data. 
-ISHARA: You're not human. 
-DATA: I am an android. 
-ISHARA: Built for fighting? 
-DATA: On what do you base that assumption? 
-ISHARA: A cybernetic device serving on a starship. 
-DATA: The Enterprise is not a ship of war. It is a ship of exploration.
-
-ISHARA: The first thing to do is help you map the colony. This is a
-general grid of the tunnel system. I can fill in the specific details
-from memory. 
-DATA: My orders are to escort you to the Observation Lounge. Please
-come with me.
+(Ishara's data file is up on a monitor. There are a
+lot of underground levels) 
+ISHARA: Access tunnels are here and here. 
+RIKER: We could transfer the away team right into this intersection. 
+ISHARA: Don't underestimate them, Commander. They'll be ready for that.
+I've seen them use this kind of strategy before.
+I know it looks isolated and easily accessible, but my guess is they
+have hundreds of men on the levels above and below just waiting for you
+to make your move. 
+WORF: We will need a diversion. 
+LAFORGE: Transport a couple of photon grenades into the adjoining
+chamber. At minimum intensity it wouldn't kill anybody, but it would
+shake them up a bit. 
+RIKER: That won't give us enough time. We need to occupy them long
+enough for you to install the relay. 
+ISHARA: Transport me into this corridor. My magnetic implant will set
+off the defence alarms. They'll think it's a raid by the Coalition. 
+RIKER: Too dangerous. We've seen what those tunnels look like. You
+could easily be cut off from the rest of us. Worf, if we 
+ISHARA: Commander Riker. I was ordered to assist you in any way
+possible. That doesn't mean as long as it's safe or convenient. If you
+had the time, we could come up with another plan, but you don't. Right
+now, I'm your best option. 
+DATA: She would have to be armed, sir. 
+RIKER: I'd like to discuss this with the Captain. Take Ishara down to
+see Doctor Crusher.
 

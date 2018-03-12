@@ -1,46 +1,43 @@
-MCDOWELL PICARD RIKER BROSSMER DATA
+RO DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Romulan Engineering]
+[Shuttlecraft]
 
-BROSSMER [OC]: They should be returning to your
-coordinates, sir. 
-RIKER: Chief, do you have them? They're not here. 
-BROSSMER [OC]: No, sir. 
-RIKER: Where are they? 
-[Transporter room]
-
-BROSSMER: I can't locate their patterns. 
-[Romulan Engineering]
-
-BROSSMER [OC]: We've lost them, sir. 
-[Bridge]
-
-BROSSMER [OC]: I've done all I can, sir. I'm afraid
-they're gone. 
-PICARD: Mister Data, begin a level one diagnostic. All transporter
-systems offline until further notice. Could they have materialised
-somewhere else? 
-DATA: Negative, Captain. Sensors are unable to locate them anywhere
-within transporter range. 
-PICARD: Counsellor? 
-(Troi shakes her head) 
-RIKER [OC]: Riker to Enterprise. 
-PICARD: Go ahead, Number One.
-
-[Romulan Engineering]
-
-RIKER: Captain, we're still looking at a core
-breach unless we can fashion a new graviton generator. 
-[Bridge]
-
-RIKER [OC]: I need replacement personnel, sir. 
-PICARD: Mister Data, you may continue the diagnostic of the transporter
-systems at another time. Take a shuttlecraft and two more engineers
-down to the Romulan ship. 
-DATA: Aye, sir. 
-PICARD: Mister McDowell, alert the main shuttlebay to have all
-available ships and pilots standing by in case we need them. 
-MCDOWELL: Aye, sir. 
-PICARD: Ensign, lay in a course away from the Romulan vessel. Engage at
-warp one if you detect any sign it's going to explode.
+DATA: Lieutenant, I am planning a memorial service
+for Commander La Forge and Ensign Ro. I would like you to participate. 
+WORF: What kind of service? 
+DATA: Captain Picard asked me to arrange a ceremony that was
+appropriate. I have given a great deal of thought as to what is
+appropriate in this instance. 
+WORF: Sir, shuttlecraft four has not yet cleared the Romulan ship. 
+DATA: Hold position here. 
+LAFORGE: This is weird, listening to them plan our funeral. 
+DATA: I find I am having difficulty deciding what kind of service to
+have. Do you have any suggestions? 
+WORF: Human custom is to conduct a solemn, dignified service in which
+the dead are praised by their friends and loved ones. 
+DATA: Ensign Ro was Bajoran. Her beliefs should be reflected as well.
+However their death rituals are quite complicated. 
+RO: Please, not the Death Chant. 
+WORF: The Bajoran Death Chant is over two hours long. 
+DATA: I am not certain that either human or Bajoran rites are fitting,
+and I have researched the funerary customs of over five thousand
+cultures to no avail. 
+WORF: Shuttlecraft four has just cleared. 
+DATA: Resume course. In almost all societies, it is traditional to say
+a ritual farewell to those you call friends.
+I never knew what a friend was until I met Geordi. He spoke to me as
+though I were human. He treated me no differently from anyone else. He
+accepted me for what I am. And that, I have learned, is friendship. But
+I do not know how to say goodbye. 
+RO: He seems almost human, doesn't he. 
+WORF: Commander, I am not the proper person to advise you. 
+DATA: Why? 
+WORF: I am very happy for Commander La Forge. He has crossed over to
+that which is beyond. For a Klingon, this is a joyful time. A friend
+has died in the line of duty and he has earned a place among the
+honoured dead. It is not a time to mourn. 
+DATA: Begin docking procedure. 
+LAFORGE: Data, that's a nice sentiment, but a little premature. I don't
+plan on being commemorated before my time.
 

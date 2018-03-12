@@ -1,75 +1,46 @@
-RIKER LAFORGE PICARD WESLEY DUFFY DATA BARCLAY
+PICARD RIKER OBRIEN LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Transporter room]
+
+O'BRIEN: I need you in transporter room three,
+Commander. 
 [Ten Forward]
 
-WESLEY: But I thought that's the point of the
-briefing. To discuss different approaches. 
-LAFORGE: It's not that you did anything wrong, Wes. It's just that
-Barclay's, well, he's my new project. 
-DUFFY: Yeah, Broccoli's a real project all right. 
-LAFORGE: I just need to draw him out some more. 
-WESLEY: And I shut him down. Poor Broccoli. 
-DATA: Pardon me, but why is Lieutenant Barclay being referred to
-clandestinely as a vegetable? 
-WESLEY: It's a joke, Data. You know, a nickname. 
-DATA: Nicknames generally denote fondness, a diminutive shared between
-friends. 
-LAFORGE: Data's absolutely right. The nickname stops here and now.
-Captain's orders. 
-(Duffy picks up his glass, which has an impression of his fingers on it
-and promptly leaks from the bottom) 
-DUFFY: What the hell? 
-WESLEY: What happened to your glass? 
-(Data's glass is the same)
+LAFORGE: On my way, Chief. Listen, Reg. I really do
+want you to talk to Counselor Troi. 
+BARCLAY: Troi? No, no, no, no, no. I couldn't. 
+LAFORGE: I mean it. As your friend and as your commanding officer.
 
-[Engineering]
+[Transporter room]
 
-DATA: Nucleosynthesis. The structure of the glass
-has been altered at the atomic level. 
-LAFORGE: A problem with the replicator? 
-DATA: Unlikely. A problem with the replicator would have affected the
-contents as well as the glass. But the liquid in the glass was a
-synthehol replication of a light ale of Earth origin, which is, I
-believe what Lieutenant Duffy ordered. 
-LAFORGE: I can't detect any residual radiation or unusual chemical
-compounds that would have caused this. 
-DATA: The most probable explanation is that the glass came into contact
-with an unshielded power source. 
-LAFORGE: That means a complete diagnostic check of the Enterprise power
-systems. All four thousand of them. Do I have the perfect man for this
-job. Hey, Reg. Busy? 
-BARCLAY: Well, I was just. No, not really. Why? 
-LAFORGE: I've got another mystery for you. Somehow the molecular
-structure of this cup from Ten Forward has been altered. We need to run
-through the power systems to see if there's a leak that caused this. 
-BARCLAY: I had, I was going to do that. 
-LAFORGE: You were? 
-BARCLAY: Yes. To, to try to explain the anti-grav unit failure. I still
-can't. Nothing about it makes sense. 
-DATA: Then it is possible these two very disparate incidents could be
-related.
+O'BRIEN: I was synchronising the phase transition
+coils, I didn't do anything I haven't done a hundred times before. The
+test object is made of pure duranium. 
+LAFORGE: Seems normal enough to me. 
+O'BRIEN: Watch this. 
+(He beams the test cylinder from one side of the pads to the other and
+back again. It ends up in two pieces, and steaming gently) 
+LAFORGE: I'm glad I don't have anywhere to go.
 
-[Bridge]
+Chief Engineer's log, stardate 43808.2. A systems
+analysis of transporter room three has yielded no suggestion of a cause
+for the latest malfunction aboard the Enterprise.
 
-(Geordi is at a rear station, showing Riker the
-glass) 
-LAFORGE: I wouldn't bother you with something this minor, Commander,
-but it may be a symptom of a more serious problem. 
-RIKER: Do you think we'll need to put in to a starbase? 
-LAFORGE: We'll have a better idea after Mister Barclay runs a check on
-the power systems. 
-DATA: It was Lieutenant Barclay who first suggested a link between the
-two incidents. 
-BARCLAY: What? No, it wasn't. I mean, not really. 
-PICARD: Will your investigation affect our available power during the
-mission? 
-BARCLAY: No, No, sir. We'll have to shut off some systems. We'll shut
-them down a few at a time. It shouldn't. I don't think so. 
-PICARD: Good. I look forward to your report, Mister Broccoli. (big
-silence) Barclay. 
-BARCLAY: If you will excuse me. 
-(Barclay leaves) 
-DATA: Metathesis is one of the most common of pronunciation errors,
-sir. A reversal of vowel and consonant, Barc to Broc. 
-(Suddenly Data becomes fascinated by something on a control panel)
+[Transporter room]
+
+PICARD: Is this part of the same pattern? 
+LAFORGE: We don't know, sir. And we don't know why only transporter
+room three is affected. None of the other transporter rooms are
+malfunctioning. 
+RIKER: Yet. 
+PICARD: We reach Nahmi Four in twenty two hours. We'll want all
+transporters operational by then. I want a level one diagnostic across
+the board. 
+RIKER: Advise Mister Barclay to join us on the Bridge immediately. 
+LAFORGE: Could we make that fourteen hundred hours, sir? I've got him
+working on something. 
+RIKER: Fourteen hundred hours. Mister O'Brien, no maintenance on the
+transporters until further notice. 
+O'BRIEN: Aye, sir.
 

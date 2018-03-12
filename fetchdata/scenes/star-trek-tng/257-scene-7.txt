@@ -1,55 +1,75 @@
-DATA ENSIGN LAFORGE WORF
+PICARD TALLERA NARIK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Mercenary Cargo hold]
 
-(science station) 
-DATA: I have completed my analysis of the signal from the mercenary
-ship. I believe these groupings represent bearings and coordinates
-taken from their navigational system. 
-LAFORGE: So you think this is their flight plan? 
-DATA: Yes. If I am correct, the mercenary ship is heading toward these
-coordinates in the Hyralan Sector. 
-WORF: Their maximum speed is warp eight point seven. It will take them
-at least fourteen hours to reach that position. 
-LAFORGE: We could be there in five. 
-DATA: Make it so. 
-WORF: Finally. Set course for the Hyralan Sector and engage at warp
-nine. 
-ENSIGN: Aye, sir. 
-DATA: Lieutenant, may I see you in the ready room? 
-WORF: Of course.
+(Narik is working at a small wall panel) 
+PICARD: We need a new captain and I've come to one inescapable
+conclusion 
+NARIK: I agree. But I don't think that's you. 
+PICARD: Oh? 
+NARIK: I don't trust you, Galen. I don't think the rest of the crew
+does either. They're not going to follow you. 
+PICARD: Then who will they follow? You? 
+NARIK: No, but they will follow Tallera and so will I. 
+(Narik leaves and Tallera enters) 
+TALLERA: Who are you? 
+PICARD: What? 
+TALLERA: You're no smuggler and I don't think your name's Galen. You
+will tell me who you really are and what you are doing on this ship or
+I will kill you right here. 
+PICARD: What are you talking about? 
+TALLERA: I will not play games with you. I found the message you sent
+to the Enterprise. When Riker was using his command codes to drop their
+shields, you sent them a transmission on the same carrier wave. You're
+a Starfleet officer. Do not deny it. It is the only logical conclusion.
+My name is actually T'Paal, and I am a member of the V'Shar. 
+PICARD: Vulcan Security? 
+TALLERA: That is correct. I infiltrated this ship a year ago posing as
+a Romulan mercenary. I'm here to investigate a possible threat to
+Vulcan. 
+PICARD: What sort of threat? 
+TALLERA: First things first, Galen. Who are you? 
+PICARD: I'm Captain Jean-Luc Picard of the Enterprise. 
+TALLERA: Very well. To answer your question, for several years now,
+there has been a small but growing movement of extreme isolationists on
+Vulcan. A group that believes contact with alien races has polluted our
+culture and is destroying Vulcan purity. This group advocates the total
+isolation of Vulcan from the rest of the galaxy and the eradication of
+all alien influences from our planet. 
+PICARD: That sounds like an illogical philosophy. 
+TALLERA: Agreed. But extremists often have a logic all their own. 
+PICARD: Tell me, Tallera, what are these artefacts we've been
+collecting? I know that they are Vulcan in origin. 
+TALLERA: I am sure you are familiar with the ancient history of my
+people, before we found logic, before we found peace. 
+PICARD: You were much as my people once were. Savage, warlike. 
+TALLERA: There was even a time when we used our telepathic abilities as
+a weapon. A time when we learned to kill with a thought. 
+PICARD: The Stone of Gol! 
+TALLERA: You know of it? 
+PICARD: I know the story from Vulcan mythology. 
+TALLERA: The Stone of Gol is real, but there is nothing supernatural or
+magical about it. It is a psionic resonator, a device which focuses and
+amplifies telepathic energy. It is one of the most devastating weapons
+ever conceived. 
+PICARD: But according to the legend, the Stone was destroyed by the
+gods when the Vulcan people found the way to peace. 
+TALLERA: The resonator was believed to have been destroyed during the
+Time of the Awakening. Only one piece is known to have survived and it
+was placed in a Vulcan museum under heavy guard. A year ago, that piece
+was stolen from the museum. Soon after, mercenary ships began raiding
+archaeological sites across the quadrant. We believe a member of the
+isolationist movement is attempting to reassemble the resonator. 
+PICARD: A telepathic weapon. 
+TALLERA: My orders are to find that assassin and stop him. 
+PICARD: It would seem that Baran has to deliver these artefacts to the
+assassin in order to get paid. Therefore, you and I should continue our
+masquerade. 
+TALLERA: Agreed. But Captain, I cannot allow the resonator to be
+assembled. If necessary, I will destroy this ship, its crew, all of us
+to prevent that from happening.
 
-[Ready room]
-
-DATA: Lieutenant, I am dissatisfied with your
-performance as First Officer. 
-WORF: May I ask in what way? 
-DATA: You continually question my orders in front of the crew. I do not
-believe this is appropriate behaviour. 
-WORF: With all due respect, sir, I have always felt free to voice my
-opinions even when they differ from those of Captain Picard or
-Commander Riker. 
-DATA: That is true. But in those situations, you were acting as Head of
-Security, not as First Officer. The primary role of the second in
-command is to carry out the decisions of the Captain in this case, me. 
-WORF: But is it not my duty to offer you alternatives? 
-DATA: Yes. But once I have made a decision, it is your job to carry it
-out regardless of how you may personally feel. Any further objections
-should be given to me in private, not in front of the crew. I do not
-recall Commander Riker ever publicly showing irritation with his
-Captain as you did a moment ago. 
-WORF: No, sir. 
-DATA: If you do not feel capable of carrying out this role, I will
-assign it to Commander La Forge and return you to Tactical. I would not
-enter it into your record as a reprimand, simply as a transfer. 
-WORF: I would prefer to remain at my current post. 
-DATA: Then I expect you to conform to the guidelines I have laid out. 
-WORF: Aye, sir. 
-DATA: Dismissed. Mister Worf, I am sorry if I have ended our
-friendship. 
-WORF: Sir, it is I who has jeopardised our friendship, not you. If you
-will overlook this incident, I would like to continue to consider you
-my friend. 
-DATA: I would like that as well. 
-WORF: Thank you, sir.
-
+Acting Captain's log, stardate 47160.1. The
+Enterprise is entering the Hyralan Sector, which I believe to be the
+next destination of the mercenary ship. 

@@ -1,44 +1,5 @@
-TROI WORF CREWMAN PICARD RIKER GALEN DATA
-
-[Laboratory]
-
-(a map of the known galaxy is up on a wall monitor)
-
-GALEN: Good morning, Mister Picard. 
-PICARD: Professor. 
-GALEN: The Vulcan ship will take us as far as DS Four. An Al-Leyan
-transport is scheduled to arrive at the station three weeks later.
-They'll take us as far as Caere, and then we'll use the shuttle to get
-us to Indri Eight, our first stop. 
-PICARD: Professor, I'm afraid I won't be going. The Enterprise isn't
-something that I can leave and then come back to. If I go, I go for
-good. It's not something I'm not prepared to do. 
-GALEN: This is not some undergraduate study project that you're turning
-down. This is the chance of a lifetime. Don't make the same mistake
-twice. 
-PICARD: You don't believe that my career in Starfleet has been a
-mistake. 
-GALEN: What are you doing at this very moment? A study mission. You're
-like some Roman centurion out patrolling the provinces, maintenancing a
-dull and bloated Empire. 
-PICARD: We both know that's not true. 
-GALEN: I know this. I know that as a scholar, you're nothing but a
-dilettante. Years ago, I gave you the opportunity to become the finest
-archaeologist of your generation. Your achievements could have
-outstripped even my own, but no, you decided to reject a life of
-profound discovery. You walked out on me. 
-PICARD: I never wanted to become 
-GALEN: Will you come with me? 
-PICARD: I can't. 
-GALEN: I'll be going. 
-PICARD: But Professor, you're not scheduled to catch the Vulcan ship
-for another two days. 
-GALEN: There's nothing for me here. Goodbye, Captain.
-
-Captain's log, supplemental. We have completed our
-mission in the nebula and are en route to a diplomatic conference on
-Atalia Seven. I must admit I've lost my enthusiasm for those
-proceedings.
+TROI WORF CREWMAN PICARD RIKER GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -48,7 +9,7 @@ TROI: Captain, I'm going for a walk in the arboretum. I wouldn't mind
 some company. 
 WORF: Captain, a distress call from Professor Galen's shuttle. On
 screen. 
-GALEN [on viewscreen]: Enterprise! I'm being boarded. 
+GUEST2 [on viewscreen]: Enterprise! I'm being boarded. 
 WORF: Transmission has been blocked. 
 DATA: I have located the shuttle. It is under attack. 
 PICARD: Take us out of warp. On screen. 

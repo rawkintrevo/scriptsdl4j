@@ -1,45 +1,43 @@
-BEATA TROI TASHA PICARD RIKER CRUSHER
-
-[Great Hall]
-
-BEATA: You claim you intend to remove these
-survivors from our planet. Are you prepared to give us your solemn word
-on that? 
-TROI: We are.
-BEATA: You should know that the vote was not unanimous. Some of those
-among us are suspicious. Yet the majority feel that we have no choice
-but to trust you. 
-RIKER: We don't understand the source of your misgivings, Mistress, but
-we appreciate your faith in us. 
-BEATA: Make certain that faith is not misplaced. There are four
-survivors from the ship you call Odin. All male. Their leader is a man
-who calls himself Ramsey. 
-TROI: If you'll deliver these men to us, we'll have them off your
-planet immediately. 
-BEATA: If they were mine to deliver, I would do it without hesitation.
-Unfortunately, their hiding place has long eluded us. 
-TASHA: Hiding place? Why are they in hiding? 
-BEATA: Because they are fugitives on Angel One, and the quicker we get
-rid of them, the better. When these men came to us seven years ago,
-they accepted our hospitality quickly enough. But they gradually became
-restive, started making unreasonable demands, went against the natural
-order. 
-TROI: Using the technology of the Enterprise, we might be able to find
-these men. 
-BEATA: I assumed as much. But be warned, Counsellor, these men are
-dangerous. 
-[Sickbay]
-
-(Wesley and his ski-ing companion are in beds,
-coughing) 
-CRUSHER: Sickbay to Captain Picard. 
-PICARD [OC]: Picard here. 
-CRUSHER: Wesley and one of his friends have contracted some form of
-respiratory ailment. 
-PICARD [OC]: A respiratory aliment? Is it contained? 
-CRUSHER: I hope so. I've isolated the twelve students who were on the
-Quazulu Eight field trip.
+TROI LAFORGE WORF TASHA PICARD GUEST0 CREWMAN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: How contagious is it? 
+LAFORGE: Well, no recent contact, sir, but I have
+informed them of the medical situation up here and the growing Romulan
+threat to our Neutral Zone outpost. 
+[Picard's quarters]
+
+PICARD: Keep me advised. You have the Bridge until
+Commander Riker returns. 
+[Bridge]
+
+WORF: Engineering reports a computer malf (sneeze)
+I'm sorry, I'm getting sick. 
+LAFORGE: I'm sure half the ship knows that by now. Report to Sickbay,
+Lieutenant. 
+CREWMAN [OC]: Engineering to bridge. 
+LAFORGE: La Forge here. 
+CREWMAN [OC]: The computer won't accept the variant climate controls. 
+LAFORGE: On my way. 
+WORF: With all respect, Lieutenant, there are people to do that job
+now. 
+LAFORGE: La Forge to Engineering. Lieutenant Wong knows the system. I'm
+sure she'll be able to resolve all problems. Worf, thanks for the
+advice. 
+[Hideout]
+
+GUEST0: How did you find me? 
+DATA: Actually, it was quite simple. Angel One has no platinum.
+Enterprise scanners did the rest. 
+GUEST0: Platinum, was it? My wings. I kept them for their sentimental
+value. 
+TASHA: Where are the other survivors, Mister Ramsey? 
+GUEST0: Oh, they're nearby. They're packing, as a matter of fact, since
+we can no longer remain here. 
+TROI: Seven years on an alien planet, and I sense no anticipation, no
+excitement
+at being rescued. 
+GUEST0: What is it that you think you're rescuing me from? My shipmates
+and I have all taken wives. A few even have children. You can't rescue
+a man from a place that he calls his home. 

@@ -1,106 +1,41 @@
-RIKER LAFORGE TASHA PICARD GUINAN CASTILLO CRUSHER DATA
+PICARD RIKER DATA LAFORGE WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[War room]
+[Engineering]
 
-PICARD: I need more. 
-GUINAN: There is no more. I wish there were. I wish I could prove it.
-But I can't. 
-PICARD: Then I can't ask them to go back. 
-GUINAN: You've got to. 
-PICARD: Guinan, they will die moments after they return. How can I ask
-them to sacrifice themselves based solely on your intuition? 
-GUINAN: I don't know. But I do know that this is a mistake. Every fibre
-in my being says this is a mistake. I can't explain it to myself so I
-can't explain it to you. I only know that I'm right. 
-PICARD: Who is to say that this history is any less proper than the
-other? 
-GUINAN: I suppose I am. 
-PICARD: Not good enough, damn it. Not good enough. I will not ask them
-to die. 
-GUINAN: Forty billion people have already died. This war's not supposed
-to be happening. You've got to send those people back to correct this. 
-PICARD: And what is to guarantee that if they go back they will
-succeed? Every instinct tells me this is wrong, it is dangerous, it is
-futile. 
-GUINAN: We've known each other a long time. You have never known me to
-impose myself on anyone or take a stance based on trivial or whimsical
-perceptions. This time line must not be allowed to continue. Now, I've
-told you what you must do. You have only your trust in me to help you
-decide to do it.
+LAFORGE: Engineering to bridge. Starboard power
+coupling is down. Containment field generator three is damaged.
+Attempting to bypass. 
+[Bridge]
 
-[Ten Forward]
+RIKER: If we lose antimatter containment 
+PICARD: Acknowledged, La Forge. 
+WESLEY: Sir, the Klingons are flanking us, attempting to draw us away
+from the Enterprise-C. 
+PICARD: Hold course, Mister Crusher. Continual fire, all phasers. 
+(KaBoom!) 
+DATA: One enemy target destroyed, sir. 
+(A crewman is killed) 
+PICARD: Damage report. 
+RIKER: Heavy casualties in the secondary hull. Navigational sensor
+array inoperative. 
+[Engineering]
 
-(Guinan enters) 
-TASHA: Deflector shield technology has advanced considerably during the
-war. Our heat dissipation rates are probably double those of the
-Enterprise-C, which means we can hang in a firefight a lot longer.
-Guinan? 
-GUINAN: Have you ordered yet, Tasha? 
-TASHA: No, not yet. Is anything wrong? 
-GUINAN: Not a thing. What can I get for you? 
-TASHA: Just a couple of TKLs. We're in a hurry. Oh, this is, Lieutenant
-Castillo. 
-(Guinan moves slowly away) 
-TASHA: First time for everything. 
-CASTILLO: First time? 
-TASHA: It's just that I've never seen anything bother her before. 
-CASTILLO: What's a TKL? 
-TASHA: Standard rations. Food replicators are on minimum power, so
-everything else is diverted to defensive systems. So where was I? 
-CASTILLO: You've told me more about tactical in an hour than I learned
-my last year in the Academy. 
-TASHA: You're going to need it, Lieutenant. 
-CASTILLO: Hey, I've known you a whole day now, Lieutenant. I won't
-salute if you won't. What did she call you? Tasha? 
-TASHA: Yeah. 
-CASTILLO: Most everybody just calls me Castillo. My mother calls me
-Richard. 
-TASHA: Okay, Castillo. 
-CASTILLO: No, I think maybe I'd like it better if you called me
-Richard. 
-TASHA: Richard. 
-PICARD [OC]: This is the Captain. Senior officers will report to my
-Ready room immediately. 
-TASHA: So much for lunch.
+LAFORGE: Antimatter containment fields are failing.
+If I can't stabilise them, I'll have to dump the reactor core or she'll
+blow! 
+[Bridge]
 
-[Ready room]
+DATA: Shields buckling, Captain. They will not 
+LAFORGE [OC]: La Forge to Bridge. 
+[Engineering]
 
-CRUSHER: Captain, are you suggesting that we let
-them return and attempt to complete their mission? 
-PICARD: I am, Doctor. 
-CRUSHER: Based on Guinan's intuition? 
-RIKER: That won't accomplish anything, sir. There's no way they can
-save Narendra Three. 
-TASHA: Captain Garrett says there were four Romulan warbirds. The
-Enterprise-C would be outmanned and outgunned. 
-LAFORGE: Unless we were to re-arm them with modern 
-PICARD: We can't do that. If we send that ship back with new technology
-we will be altering the past. 
-RIKER: But that's what you're talking about anyway, isn't it? Altering
-the past. 
-PICARD: We're talking about restoring the past. 
-LAFORGE: How could Guinan know that history has been altered if she's
-been altered along with the rest of us? 
-DATA: Perhaps her species has a perception that goes beyond linear
-time. 
-PICARD: There are many things about her species we can't easily
-explained. Yet it is very possible she is correct. A ship from the past
-has travelled through time. How can we know what effect those events
-will have on the present. Indeed, we shall never know for certain, if
-Guinan is correct. But I have decided the consequences of that
-possibility are too grave to ignore. Dismissed. 
-RIKER: Sir, if you'd like my opinion 
-PICARD: I think I'm aware of your opinion, Commander. This is a
-briefing. I'm not seeking your consent. 
-RIKER: With all due respect, sir, you'd be asking one hundred and
-twenty five people to die a meaningless death. 
-DATA: Not necessarily meaningless, Commander. The Klingons regard
-honour above all else. If the crew of the Enterprise-C had died
-fighting for the survival of a Klingon outpost, it would be considered
-a meaningful act of honour by the Klingon Empire. 
-PICARD: Even their deaths might have prevented this war. If the
-Enterprise-C returns to the battle and its mission is a success,
-history will be irrevocably changed. This time line will cease to exist
-and a new future will have been created. I've considered the
-alternatives. I'll go with Guinan's recommendation. Dismissed.
+LAFORGE: I can't hold the antimatter containment
+fields. Initiating emergency shutdown! 
+(Something else goes bang) 
+LAFORGE: Coolant leak! Bridge, we have a coolant leak in the engine
+core! I can't shut it down. I estimate two minutes to a warp core
+breach! 
+(Crew start to evacuate Engineering) 
+LAFORGE: Go! Go! Go!
 

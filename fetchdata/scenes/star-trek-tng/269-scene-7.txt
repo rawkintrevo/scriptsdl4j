@@ -1,44 +1,5 @@
-RIKER LAFORGE DATAIHAT PICARD DATAVICTIM DATA
-
-[Ready room]
-
-(there is a collection of new artefacts on Picard's
-desk) 
-PICARD: Come. 
-RIKER: Captain? 
-PICARD: Yes, come in, Number One. 
-RIKER: We've confined the system corruption. It won't be spreading any
-further. But we still have alien symbols floating around on our
-computer. This is quite a collection you've assembled. I've seen these
-things all over the ship. They all look the same. Primitive and
-non-functional. 
-PICARD: Ceremonial, and deceptively primitive. Only an advanced
-technological society could have built that object out there. These
-artefacts played a ritualistic role in that society, I think. 
-RIKER: Do you think Data could be right? Could we have stumbled across
-some sort of alien library? 
-PICARD: Oh, yes, it's possible. And if so, this is a find of most
-enormous significance. That library seems designed to do so much more
-than simply store information. Who knows what we might learn from this?
-
-RIKER: I keep seeing this design. 
-PICARD: Yes, this symbol seems to be of particular significance. 
-RIKER: What do you think it means? 
-PICARD: The concept of the four cardinal compass directions is quite
-common in many different cultures. 
-RIKER: The words that Data recognised in the computer, boundary,
-border, road, they were all arranged in this design. 
-PICARD: Well, perhaps the artefacts that all have this compass symbol
-belong to the same theme, movement. Finding a direction, travelling a
-path, crossing a boundary. 
-RIKER: And death? One of the symbols was death. 
-PICARD: The ultimate boundary. 
-PICARD: I've seen this symbol everywhere too, but much less prominently
-displayed. It's always in the background, smaller than the others. 
-(a straight line with a hemisphere below it showing a semicircle with
-radiant lines - half a sun? ) 
-RIKER: What do you think it represents? 
-PICARD: I have no idea.
+PICARD DATA GUEST3 LAFORGE GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 

@@ -1,4 +1,5 @@
-TROI CRUSHER DATA ERIC
+TROI CRUSHER DATA GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Troi's quarters]
 
@@ -34,7 +35,7 @@ TROI: Somebody left an object in my room. Some kind of artefact, and it
 has something very similar to this. And you don't know anything about
 it? 
 DATA: I do not. 
-ERIC: Excuse me, Counsellor. Can you help me with my terminal? It's not
+GUEST5: Excuse me, Counsellor. Can you help me with my terminal? It's not
 working right. 
 (the screen shows the mask and alien glyphs) 
 DATA: Perhaps we should investigate this matter further.

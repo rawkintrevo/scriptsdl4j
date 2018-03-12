@@ -1,88 +1,45 @@
-RIKER RO WORF PICARD MIROK VAREL MCDOWELL DATA
-
-[Romulan Engineering]
-
-RIKER: Captain, we're still looking at a core
-breach unless we can fashion a new graviton generator. 
-[Bridge]
-
-RIKER [OC]: I need replacement personnel, sir. 
-PICARD: Mister Data, you may continue the diagnostic of the transporter
-systems at another time. Take a shuttlecraft and two more engineers
-down to the Romulan ship. 
-DATA: Aye, sir. 
-PICARD: Mister McDowell, alert the main shuttlebay to have all
-available ships and pilots standing by in case we need them. 
-MCDOWELL: Aye, sir. 
-PICARD: Ensign, lay in a course away from the Romulan vessel. Engage at
-warp one if you detect any sign it's going to explode.
-
-[Romulan Engineering]
-
-MIROK: Pressure in the containment chamber has
-increased fifteen melakols in the last two minutes. 
-RIKER: What can we do to stop the overload? 
-MIROK: Most of the conduits were damaged during the explosion. I can't
-even access the central computer. 
-WORF: Commander. Emergency bulkheads have sealed this section off from
-the rest of the ship. There is no way to gain access to the main Bridge
-or control centres. 
-RIKER: Survivors? 
-WORF: Readings indicate at least seventy three Romulans are still
-alive. 
-VAREL: Seventy three. 
-(an alarm sounds) 
-MIROK: The pressure has jumped two hundred melakols! 
-VAREL: I've lost control of the containment chamber. 
-MIROK: It's going to implode. 
-RIKER: We'll need to dump the entire engine core. Do you have an
-auto-eject system? 
-MIROK: Yes, but it's not functioning. I'll have to do it manually. 
-RIKER: Mister Worf, you two seal the chamber. 
-VAREL: Implosion will occur in one minute five seconds. 
-RIKER: Enterprise, we need to jettison the entire engine core. You'll
-need to extend the shields once it clears the hull. 
-PICARD [OC]: Understood, Number One. We'll stand by for your signal. 
-(Worf and Varel have got to the manual latches and undone them) 
-WORF: We must get the doors closed. 
-(but Worf can't move the debris jamming them open) 
-WORF: Commander! 
-RIKER: Time? 
-VAREL: Thirty seconds. 
-(the three men finally shift the girder and start to pull the doors
-shut) 
-MIROK: I'm ready, Commander. 
-RIKER: Stay there! Eject the chamber on my order! 
-DATA: Excuse me, sir. 
-(Data takes over and pulls the doors shut) 
-MIROK: Implosion in five seconds) 
-RIKER: Now. 
-(everything shakes as the core is ejected) 
-RIKER: Enterprise, extend shields! 
-(KaBOOM) 
-RIKER: Well, we're still here. 
-MIROK: Yes.
-
-[Bridge]
-
-RIKER [OC]: We'll have a complete power survey done
-within the hour. We'll probably have to supply them with energy for
-life support, and they'll need a new engine core to get home. 
-PICARD: Understood, Commander. Keep us informed of your efforts. Picard
-out. I'll be in Sickbay. 
-MCDOWELL: Aye, sir.
+LAFORGE GUEST1 GUEST4 RO DATA MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
-(Picard walks past Ro lying on the floor. She wakes
-up) 
-RO: Ensign Ro to the Bridge. This is Ensign Ro reporting in. I'm at
-section twenty three baker, near Sickbay. (she wobbles) Sickbay. 
-[Sickbay]
+(The Romulan has Ro at gunpoint)
+RO: He's in here.
 
-(the door doesn't open for her, but she gets in
-when a man walks out) 
-RO: Excuse me, I need some help. Excuse me? Excuse me, I need some
-help. 
-(but everyone ignores her) 
-RO: Excuse me! I need some help! 
+[Transporter room]
+
+(Ro walks through the door first and dodges to the
+side. She attacks the Romulan and knocks him down. Then she runs, and
+the disrupter beam just misses her)
+
+[Engineering]
+
+GUEST1 [OC]: Brossmer to Commander Data. 
+DATA: Data here. 
+GUEST1 [OC]: I've just detected a large chroniton field on deck
+seventeen. The field strength is three hundred percent above the others
+we've found, sir. 
+LAFORGE: Is that Ro? 
+DATA: Acknowledged.
+
+[Crew quarters]
+
+(Ro and Parem run through the quarters of a woman
+in a state of undress, as Data tracks their progress on his tricorder.
+Then through a crewman doing press-ups and into a room where a man and
+woman are having a romantic dinner. Parem shoots Ro in the leg. Data is
+outside the door.) 
+GUEST4: Get up. Where is the science officer? 
+(the doorbell rings, and the distraction enables Ro to turn the tables
+on Parem. They fight.) 
+MAN: I'll go. Commander? 
+DATA: Excuse me for interrupting, Lieutenant. 
+LAFORGE: Ro! 
+DATA: I'm detecting a chroniton field in your room. May I scan the
+area? 
+(meanwhile, Geordi has piled into the fight and knocked Parem out
+through the hull into space, where even an out of phase Romulan cannot
+survive) 
+MAN: Certainly. 
+RO: Thanks. 
+LAFORGE: Any time. 

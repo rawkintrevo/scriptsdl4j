@@ -1,44 +1,33 @@
-Q PICARD GUINAN SONYA LAFORGE
+TROI WORF RIKER WESLEY COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Bridge]
 
-(But instead of a deck, he steps out into a
-shuttlecraft in space) 
-PICARD: Crewman? What is going on?
-Q: Welcome, Picard, to shuttlecraft six. 
-PICARD: Q. 
-Q: There, there, haven't we been careless. A little cleaning service
-I'm only too than happy to provide.
-(A wave of the hand and the uniform is clean again) 
-PICARD: We agreed you would never trouble my ship again! 
-Q: I always keep my arrangements, sir. Look, we're nowhere near your
-vessel.
+TROI: Where's the Captain?
+RIKER: In his quarters? 
+TROI: Captain, this is Counsellor Troi.
+RIKER: Computer locate Captain Picard.
+COMPUTER: The Captain is not on the ship.
+WORF: Commander, there is a shuttle missing from bay two.
+RIKER: All stop.
+WESLEY: Answering all stop, sir.
+WORF: I have hailed the shuttle on all frequencies. No response.
+DATA: Sensors indicate no shuttle or other ships in this sector.
+RIKER: We think we can assume the Captain is aboard that shuttle.
+WESLEY: How could he get to the shuttlebay and leave the Enterprise
+without us knowing?
+That's not possible.
+RIKER: Take it easy, Wes. We're going to find him. I want to begin a
+methodical search. Worf, set sensors on maximum scan. Data, use our
+present location as a centre. Plot a search pattern from these
+coordinates to cover the most area in the least time.
+DATA: Search pattern has been input, sir.
+RIKER: Engage, Mister Crusher.
 
-[Corridor]
-
-LAFORGE: I read your graduating thesis. Now, I
-wouldn't have requested you if you weren't the best.
-SONYA: Where are we going?
-LAFORGE: Ten Forward. We're going to forget about work. We are going to
-sit, talk, relax, look at the stars. You need to learn how to slow down.
-SONYA: Oh, no, no, no, no, no. I can't do.
-LAFORGE: You know, you're awfully young to be so driven.
-SONYA: Yes, I am. I had to be. I had to be the best because only the
-best get to be here. Geordi, Lieutenant 
-LAFORGE: It's okay. Go on. 
-SONYA: Whatever is out here, we're going to be the first humans to see
-it. And I want to be a part of that. I want to understand it. 
-LAFORGE: Sonya, relax. You're here. You've made it. But you won't last
-long banging into walls. It'll be there for you, believe me. 
-SONYA: Okay. 
-LAFORGE: Look, I promise I won't let anything exciting slip past
-without letting you know, okay? 
-SONYA: Okay. 
-LAFORGE: Okay.
-
-[Ten Forward]
-
-(Guinan gets a strange feeling and leaves her bar
-to look around) 
-GUINAN: Bridge, this is Ten Forward.
+First officer's log, stardate 42761.3. We have not
+been able to determine why, or how, Captain Picard left the Enterprise.
+We can't even be certain he is in the missing shuttle, although that is
+the assumption on which we are
+proceeding. For the last six hours, we have been searching without
+success.
 

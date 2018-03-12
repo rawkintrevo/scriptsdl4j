@@ -1,58 +1,131 @@
-RIKER DATA LAFORGE
+RIKER GUEST0 LAFORGE GUEST1 TASHA PICARD GUEST3 WORF GUEST2 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Recreation lounge]
 
-DATA: With this power drain, we may have trouble
-communicating with the Enterprise, sir. 
-RIKER: Understood. Anything else? 
-DATA: Due to this forcefield, there is presently no way to beam us
-back, sir. 
-LAFORGE: You had to ask. 
-RIKER: Understood. Energise.
+PICARD: I've diverted the reserve power to the
+family decks. They'll last longest. Is there anything else we can do,
+Doctor? Where's Wesley? 
+CRUSHER: He's in our quarters. I was tempted to give him a sedative. 
+PICARD: You shouldn't. 
+CRUSHER: I know, but he's my son. I love him. 
+PICARD: He has the right to meet death awake. 
+CRUSHER: Is that a male perspective? 
+PICARD: Rubbish
 
 [Planet surface]
 
-(It's a barren place with interesting crystalline
-structures here and there, and lightning flashes almost continuously.
-Riker appears alone) 
-RIKER: Tasha? Data? Geordi? Worf? Anybody?! 
-(He goes searching for the others) 
-RIKER: Data? 
-(He finds him standing on one of the crystalline outcrops) 
-RIKER: What are you doing up there? 
-DATA: Most intriguing, sir. I assume a problem of inaccurately
-transmitted programme
-coordinates due to the force field around the ship, sir. Are we alone,
-sir? 
-RIKER: Unfortunately. Let's find the others. What do you make of these?
+(The Ferengi are dodging about like a live 'find
+the lady' game) 
+TASHA: Hold it right there! Stop. Stop! 
+RIKER: Phasers on stun. 
+TASHA: Already set. 
+(She fires, but the beam is deflected into a crystalline structure) 
+TASHA: What's going on? 
+(Letek fires his whip, and that whirls around before being sucked into
+the crystals. His whip does not coil again) 
+GUEST3: What is this? 
+DATA: I believe we can deduce that these crystalline tree shapes are
+actually energy collectors. 
+RIKER: Along the same principle as that which is draining energy from
+our ships. 
+LAFORGE: But the Ferengi weapons were working when we first arrived. 
+TASHA: Which means something new has happened. 
+LAFORGE: I'm finally beginning to understand what my eyes have been
+showing me. It's patterns of force everywhere. This entire planet has
+been turned into a power accumulator. 
+RIKER: And these? 
+LAFORGE: It's the whole point of this place. I can see the planet's
+power emanating from. Commander. 
+(There's an impressive display of controlled energy, which resolves to
+a vague face) 
+GUEST2: Be you barbarians? Speak! 
+(The Ferengi clutch their heads in pain) 
+GUEST2: Who meets the challenge? Who will it be? 
+GUEST3: (points at Riker) Him. 
+GUEST2: You have awakened Portal six three. Do you petition to enter
+the Empire? 
+RIKER: Who asks the question? 
+GUEST2: A guardian of the Tkon Empire. 
+(The energy turns into a humanoid figure in a long hooded cloak,
+leaning on a staff) 
+GUEST2: Biped. Excellent. 
+RIKER: Why should we petition to entry to an empire that no longer
+exists? 
+GUEST2: Why do you attempt deception? The Empire is forever. 
+RIKER: Your empire fell prey to a supernova. 
+GUEST2: We are forever. 
+RIKER: Data, Please repeat the file. 
+DATA: It is a matter of record, Portal. In the Age of Makto, the
+central star of the Tkon Empire destabilised and 
+GUEST2: There has never been an Age of Makto. 
+DATA: In fact, there have been many ages which have come and passed
+since Makto. 
+GUEST2: This is the Age of Bastu! 
+DATA: I'm afraid not. According to the Tkon use of galactic motionary
+startime charts, after Bastu came Cimi, Xora, Makto 
+GUEST2: Enough! Absurdities! 
+RIKER: You must have been asleep, Portal, for hundreds of thousands of
+our years. 
+GUEST3: Deception is the way of the human. We Ferengi will gladly make a
+petition. 
+RIKER: We invite your petition. 
+GUEST2: Speak. 
+GUEST3: We wish to offer our services to serve the Tkon Empire at no
+profit. Return control
+of our starship to us and we will happily destroy the human criminals
+and their vessel which attacked us without provocation. They came to
+loot your empire, but we intercepted them. 
+GUEST2: You are accused of deceit and treachery. Do you give yourself
+up for judgement? 
+RIKER: Yes. If you believe those accusations, then you certainly should
+act on them. 
+GUEST3: And there is even more. We can prove that the humans are
+destroyers of legal commerce, and that they selfishly withhold vital
+technology from backward worlds. 
+GUEST1: And necessary defensive weapons, too. We Ferengi now challenge
+this human madness. 
+RIKER: I admit we withheld modern technology from some worlds. 
+GUEST0: You see? They are demented. Their values are insane. You cannot
+believe the business opportunities they have destroyed. 
+GUEST3: Proof of their barbarism. They adorn themselves with gold, a
+despicable use of a valuable metal. And they shamelessly clothe their
+females. 
+GUEST1: Inviting others to unclothe them. The very depth of perversion.
 
-DATA: Crystalline. Mostly inert. Nothing to write home about. 
-RIKER: Excuse me? 
-DATA: Slang, sir. I did use it correctly, did I not? 
-RIKER: They've got to be around here somewhere. 
-(They carry on searching) 
-RIKER: What's that? 
-DATA: What? 
-RIKER: That! Geordi! 
-(Geordi is hanging upside down from the only tree in the area) 
-RIKER: Are you conscious? 
-LAFORGE: Do I look conscious? 
-RIKER: What are you doing? 
-LAFORGE: I'm resting, sir. My foot's stuck. Up there. I materialized
-upside down above the planet surface. 
-DATA: Tricorder's useless, sir. Communication's gone too. Fortunately
-you did not break any 
-LAFORGE: Data, who's that? 
-(The Ferengis are watching them. Little crouching men with whips in
-their hands) 
-RIKER: Who are you? 
-(The Ferengi let fly energy bolts from their whips, knocking the three
-men out. Actually, it takes two jolts to knock out Riker)
-
-Captain's log, supplemental. It is now six hours
-since our away team beamed down to the planet surface. On the
-Enterprise, our condition is rapidly worsening. Ordinarily, with
-reserve power alone, we could maintain life support for several months.
-But the force holding has closed down all engines and is draining our
-reserve power too.
+TASHA: Paws off, Ferengi. 
+GUEST1: No female, human or Ferengi, can order Mordoc around! Submit! 
+TASHA: Just try it, shorty. 
+RIKER: At ease, Lieutenant! 
+RIKER: And we still have more faults 
+DATA: They should add that Starfleet has permitted several
+civilisations to fall. We have at times allowed the strong and violent
+to overcome the weak. 
+GUEST3: They admit their crimes! Hear them! They admit the evil that
+they do! 
+GUEST2: Barbarian! 
+GUEST3: Yes, you show wisdom. 
+GUEST2: Barbarians all! But this one first, in the fashion the Empire
+has always challenged savages. 
+WORF: No! For battle, come to me! 
+RIKER: No! That's an order. 
+GUEST2: You have a single chance for life. One only. What is the answer
+to my challenge? I offer a thought. He will triumph who knows when to
+fight and when not to fight. You are being tested, Riker! What is the
+answer? 
+RIKER: How do you know my name? 
+(Portal whirls his staff, bringing it to a sudden stop by Riker's right
+ear. He doesn't flinch) 
+GUEST2: Ahhh. You are facing fate with composure. But what is the
+answer to my challenge? 
+RIKER: Fear is the true enemy, the only enemy. 
+(Portal lowers his staff, and becomes friendly and chatty) 
+GUEST2: Unlike these little ones who close their minds, your mind holds
+interesting thoughts. Know your enemy and know yourself, and you will
+always be victorious. Why that thought? And who is this Sun Tzu you
+revere? 
+RIKER: An old Chinese philosopher from ancient Earth history. 
+GUEST2: You must tell me more of this wisdom, so much like our own. 
+RIKER: Gladly. But first our starship. Can you release it? 
+GUEST2: It is released. All power is restored.
 

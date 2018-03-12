@@ -1,92 +1,74 @@
- RIKER KOLRAMI LAFORGE WORF PICARD PULASKI WESLEY DATA BURKE
+RIKER KOLRAMI LAFORGE WORF PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Hathaway
-Bridge]
-
-
-RIKER:
-Nice job, Geordi.
->[Hathaway Engineering]
+[Observation
+lounge]
 
 
-RIKER
-[OC]: Now, what are
-the possibilities of warp
-drive? 
-LAFORGE: Not good. There are only a few dilithium
-fragments left in the
-holding clamps. Even if we had crystals that were intact, there's no
-anti-matter to fuel the drive. 
-RIKER [OC]: Any recommendations? 
-LAFORGE: No, sir. 
-WESLEY: We haven't got a prayer. 
+DATA:
+Premise. The Ferengi wish to
+capture the Hathaway believing it
+to be value. Therefore we
+must remove the ship from
+their field of interest.
+KOLRAMI: And they will soon relocate it after a two second warp. 
+PICARD: There is a way. Number One, can you hear this? 
+RIKER [OC]: Yes, sir. We're all here. 
 
 [Hathaway
 Bridge]
 
 RIKER:
-Would you like to transfer back
+Waiting for you to
+pull another rabbit out of
+your hat. 
 
-
-[Hathaway
-Engineering]
-
-RIKER
-[OC]: To the Enterprise, Mister Crusher?
-WESLEY: No, sir. 
-
-[Hathaway
-Bridge]
-
-RIKER:
-Wes, remember our purpose is to improvise,
-
-
-[Hathaway
-Engineering]
-
-RIKER
-[OC]: It's the effort that counts.
-
-
-[Bridge]
+[Observation
+lounge]
 
 
 PICARD:
-Open.
-(hailing frequencies) 
-KOLRAMI: I believe the rules are understood by all. 
-PICARD: The weapons conversion, Lieutenant Burke? 
-(played by Glenn Morshower - as seen in CSI and 24) 
-BURKE: (at Worf's station) Complete, Captain. 
-WORF [on viewscreen]: Signal received. Locked on. 
-RIKER [on viewscreen]: She's really been stripped down, Captain. 
-KOLRAMI: The only offensive systems you'll need will be simulated by
-computer. 
-RIKER [on viewscreen]: What's the Zakdornian word for mismatch? 
-KOLRAMI: Challenge. We do not whine about the inequities of life. And
-how you perform in a mismatch is precisely what is of interest to
-Starfleet. After all, when one is in the superior position, one is
-expected to win. 
-PICARD: Screen off. You have the Bridge, Mister Data. 
-DATA: Aye, sir. 
-(Picard leaves) 
-KOLRAMI: Lieutenant Commander Data, I am intrigued by your challenge.
-Doctor Pulaski informed me of your desire to play a game of Strategema.
+Mister Data
+DATA: On the Captain's signal, we will fire four photon torpedoes
+directly at the Hathaway.
 
-DATA: But I expressed no such interest. 
-PULASKI: What Commander Data means is that he would never have asked
-you himself, but I know he's very interested in pitting his skill
-against yours. 
-KOLRAMI: Play against a machine. Why should I wish to? 
-PULASKI: I don't blame you. It's no fun going into a game when you know
-you're going to lose. 
-KOLRAMI: But I wouldn't lose. Now you're no doubt going to tell me that
-I have to prove it to you. 
-PULASKI: Come on, Data, you can't let that pass. 
-DATA: Indeed, I. (pause) Cannot. 
-KOLRAMI: Then you will play for the honour of your ship. 
-PULASKI: The honour of the ship? It's your reputation that's on the
-line.
-<
+[Hathaway
+Bridge]
 
+
+DATA
+[OC]: One millisecond
+after its detonation, the
+computer will trigger your
+warp jump.
+LAFORGE: I think I hate this plan. Data, we're not even sure our warp
+jump 
+
+[Observation
+lounge]
+
+
+
+LAFORGE
+[OC]: Will
+work.
+DATA: If the warp engines fail to function, the result could be
+unfortunate. 
+WORF [OC]: Very unfortunate.
+
+
+[Hathaway
+Bridge]
+
+
+WORF:
+We will be dead. 
+PICARD [OC]: Captain Riker
+
+
+[Observation
+lounge]
+
+PICARD:
+I cannot order
+you to do this.

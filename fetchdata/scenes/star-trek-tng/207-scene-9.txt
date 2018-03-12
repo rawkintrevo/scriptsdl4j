@@ -1,57 +1,46 @@
-PICARD WOMAN SPOCK PARDEK ROMULAN
+PICARD SPOCK DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Romulan caves]
+[Klingon quarters]
 
-ROMULAN 1: It's everything we could have hoped for.
-
-SPOCK: It is more than we could have hoped for.
-PARDEK: But if Neral is ready to publicly endorse reunification. 
-PICARD: It's hard to believe that he could rise to the rank of Senate
-Proconsul without the support of the Romulan traditionalists.
-PARDEK: That may be true.
-PICARD: Then how can he turn his back on them so easily? How can he
-endorse reunification when it's considered subversive?
-ROMULAN 1: Because he's not afraid of them. He knows that we'll support
-him. 
-SPOCK: Captain Picard is correct. It is not logical for the Proconsul
-to support reunification at this time.
-WOMAN 2: Why would Neral lie?
-PICARD: Perhaps because he's hoping to expose members of your movement.
-
-WOMAN 2: No, this is our chance for acceptance. Finally to be heard.
-ROMULAN 1: I believe it's the Federation that fears an alliance between
-Romulus and Vulcan.
-PICARD: That is not true. 
-SPOCK: I came here to determine the potential for reunification. In
-spite of what has occurred, I intend to continue with my efforts. I
-intend to meet with the Proconsul as planned.
-
-[Romulan cavern]
-
-PICARD: You let their emotion sway you. 
-SPOCK: On the contrary, I am pursuing the most logical course.
-PICARD: You are as sceptical as I am. Is it logical to ignore your own
-good sense?
-SPOCK: I fear the influence of Sarek has coloured your attitudes,
-Captain, toward reunification and perhaps toward me.
-PICARD: That is the second time you have accused me of speaking with
-another man's voice. It's true he will always be a part of me. His
-experiences, his spirit. But I speak with my own voice, not his.
-SPOCK: Curious that I should hear him so clearly now that he is dead.
-It is possible that I have brought my argument with Sarek to you,
-Captain. If so, I apologise.
-PICARD: Is it so important that you to win one last argument?
-SPOCK: No, it is not. But it is true that I will miss the arguments.
-They were, finally, all that we had.
-PICARD: But your fight with Sarek is over, Spock, and you have none
-with me.
-SPOCK: I always had a different vision than my father. The ability to
-see beyond pure logic. He considered it weak, but I have discovered it
-to be a source of extraordinary strength. Sarek would have seen this
-mission of reunification as a fool's errand, but somehow I think it is
-not. Logic cannot explain why, I know that I must pursue this. 
-PICARD: Even if it leads you into a Romulan trap. 
-SPOCK: If the Romulans do have an ulterior motive, it is in the
-interests of all concerned that we determine what it is. So, I will
-play the role that they would have me play.
+(Data is back to his android self when Spock and
+Picard enter) 
+PICARD: Have you had any success, Mister Data?
+DATA: Negative, Captain. The Romulan Information net employs a
+progressive encryption lock. I have been unable to penetrate their
+security measures.
+SPOCK: May I assist you, Commander? I have had some experience in these
+matters.
+DATA: By all means, Ambassador.
+SPOCK: The Romulans have incorporated a forty three part cipher key
+into their entry sequence. 
+DATA: Yes, sir, the twenty ninth is the only one I cannot bypass. 
+PICARD: I think I'll take this opportunity to remove my ears. 
+(Picard leaves) 
+SPOCK: He intrigues me, this Picard.
+DATA: In what manner, sir?
+SPOCK: Remarkably analytical and dispassionate, for a human. I
+understand why my father chose to mind-meld with him. There's almost a
+Vulcan quality to the man.
+DATA: Interesting. I have not considered that. And Captain Picard has
+been a role model in my quest to be more human.
+SPOCK: More human?
+DATA: Yes, Ambassador.
+SPOCK: Fascinating. You have an efficient intellect, superior physical
+skills and no emotional impediments. There are Vulcans who aspire all
+their lives to achieve what you've been given by design.
+DATA: You are half human. 
+SPOCK: Yes.
+DATA: Yet you have chosen a Vulcan way of life. 
+SPOCK: I have.
+DATA: In effect, you have abandoned what I have sought all my life.
+SPOCK: I believe I have isolated the twenty ninth cipher access code. I
+shall attempt to access the Proconsul's files.
+DATA: Ambassador Spock, may I ask a personal question?
+SPOCK: Please.
+DATA: As you examine your life, do you find you have missed your
+humanity?
+SPOCK: I have no regrets.
+DATA: No regrets. That is a human expression.
+SPOCK: Yes. Fascinating.
 

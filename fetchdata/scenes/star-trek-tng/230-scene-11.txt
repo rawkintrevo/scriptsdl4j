@@ -1,64 +1,38 @@
-PICARD COMPUTER SCOTT
+SCOTT LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Jenolen]
 
-(bottle and glass in hand, Scott walks carefully to
-the holodeck) 
-COMPUTER: Please enter programme. 
-SCOTT: The android at the bar said you could show me my old ship. Let
-me see it. 
-COMPUTER: Insufficient data. Please specify parameters. 
-SCOTT: The Enterprise. Show me the Bridge of the Enterprise, you
-chattering piece of 
-COMPUTER: There have been five Federation ships with that name. Please
-specify by registry number. 
-SCOTT: NCC One Seven Oh One. No bloody A, B, C, or D. 
-COMPUTER: Programme complete. Enter when ready.
-
-[NCC1701 Bridge]
-
-(Complete with sound effect, they did a great job
-of recreating it for us. The viewscreen has the ubiquitous orange
-planet on it. Scott goes to his old station and pours a drink.) 
-SCOTT: Here's to you, lads. 
-PICARD: I hope I'm not interrupting. I was just coming off duty and I
-wanted to see how you were doing. 
-SCOTT: Not at all, not at all. Have a drink with me, Captain. 
-PICARD: Thank you. 
-SCOTT: I don't know what it is, exactly, but I would be real careful.
-It's real 
-(Picard knocks it back in one) 
-PICARD: Aldebaran whiskey. Who do you think gave it to Guinan? 
-SCOTT: Ah. 
-PICARD: Constitution class. 
-SCOTT: Aye. You're familiar with them? 
-PICARD: There's one in the Fleet museum, but then of course, this is
-your Enterprise? 
-SCOTT: I actually served on two. This was the first. She was also the
-first ship I ever served on as Chief Engineer. You know, I served
-aboard eleven ships. Freighters, cruisers, starships, but this is the
-only one I think of. The only one I miss. 
-PICARD: The first ship I ever served aboard as Captain was called the
-Stargazer. It was an overworked, underpowered vessel, always on the
-verge of flying apart at the seams. In every measurable sense, my
-Enterprise is far superior. But there are times when I would give
-almost anything to command the Stargazer again. 
-SCOTT: It's like the first time you fall in love. You don't ever love a
-woman quite like that again. Well, to the Enterprise and the Stargazer.
-Old girlfriends we'll never meet again. 
-PICARD: What do you think of the Enterprise D? 
-SCOTT: She's a beauty, with a good crew. 
-PICARD: But? 
-SCOTT: But. When I was here, I could tell you the speed that we were
-traveling by the feel of the deckplates. But on your ship, I feel like
-I'm just in the way. 
-PICARD: Seventy five years is a long time. If you would care to study
-some technical schematics or 
-SCOTT: I'm not eighteen. I can't start out like a raw cadet. No, there
-comes a time when a man finds that he can't fall in love again. He
-knows that it's time to stop. I don't belong on your ship. I belong on
-this one. This was my home. This is where I had a purpose. But it's not
-real. It's just a computer generated fantasy. And I'm just an old man
-who's trying to hide in it. Computer, shut this bloody thing off. It's
-time I acted my age.
+SCOTT: The primary computer database should be
+online now. Give it a try. 
+LAFORGE: Okay. I've got three access lines to the central core. Still
+nothing. 
+SCOTT: Bunch of old, useless, garbage. 
+LAFORGE: Huh? 
+SCOTT: I say it's old, Mister La Forge. It can't handle the interface
+of your power converter. This equipment was designed for a different
+era. Now it's just a piece of junk. 
+LAFORGE: I don't know. It seems like some of it's held together pretty
+well. 
+SCOTT: A century out of date. It's just obsolete. 
+LAFORGE: Well you know, that's interesting because I was just thinking
+that a lot of these systems haven't changed much in the last seventy
+five years. This transporter is basically the same system we use on the
+Enterprise. Subspace radio and sensors still operate under the same
+basic principle. Impulse engine design hasn't changed much in the last
+two hundred years. If it wasn't for all the structural damage, this
+ship might still be in service today. 
+SCOTT: Maybe so, but when they can build ships like your Enterprise,
+who'd want to pilot an old bucket like this? 
+LAFORGE: I don't know. If this ship were operational I bet she'd run
+circles around the Enterprise at impulse speeds. Just because
+something's old doesn't mean you throw it away. 
+SCOTT: We used to have something called a dynamic mode converter. You
+wouldn't have something like that on your Enterprise would you? 
+LAFORGE: I haven't seen anything like that in a long time, but I bet I
+might be able to come up with something similar. La Forge to
+Enterprise.
+La Forge to Enterprise, come in, please. 
+SCOTT: Interference? 
+LAFORGE: No, they're gone.
 

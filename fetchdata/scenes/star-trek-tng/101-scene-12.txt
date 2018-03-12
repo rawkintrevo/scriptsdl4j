@@ -1,45 +1,39 @@
-TASHA PICARD RIKER Q DATA
+PICARD TROI RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Ready room]
 
-(Riker materialises) 
-TASHA: Lieutenant Yar of Security, sir. Captain Picard will see you on
-the Battle Bridge. 
-[Corridor]
+RIKER: This planet's interior heat provides an
+abundance of geothermal energy, sir. But it's about all this world does
+offer. 
+PICARD: And it's your belief that this is what made it possible for
+them to construct this base to Starfleet standards? 
+RIKER: Yes sir. We have to assume that they've been trading their
+surplus energy for the construction materials used here. According to
+our ship's scans, many of the materials used are not found on this
+world. 
+PICARD: Perhaps it's like those incidents you describe in your report
+as almost magical attempts to please us. 
+RIKER: Those events did happen, sir. 
+PICARD: None of it suggests anything threatening. If only every life
+form had as much desire to please. Ready to beam down? I'm looking
+forward to meeting this Groppler Zorn. 
+RIKER: I have a feeling there's more to it than just pleasing us, sir. 
+[Bridge]
 
-RIKER: With the saucer gone, I assume something
-interesting happened on your way here? 
-[Turbolift]
+PICARD: As if it's something Q is doing to trick
+us? Over here. I've asked the Counsellor to join us in this meeting.
+May I introduce our new First Officer, Commander William Riker.
+Commander Riker, this is our ship's Counsellor, Deanna Troi. 
+TROI [OC]: Do you remember what I taught you, Imzadi? Can you still
+sense my thoughts? 
+TROI: A pleasure, Commander. 
+RIKER: Likewise, Counsellor. 
+PICARD: Have the two of you met before? 
+RIKER: We have, sir. 
+PICARD: Excellent. I consider it important for my key officers know
+each other's abilities. 
+(They step into the turbolift) 
+TROI: We do, sir. We do. 
+TROI [OC]: I, too, would never say goodbye, Imzadi. 
 
-TASHA: Battle bridge. That's for the Captain to
-explain, sir.
-
-[Battle bridge]
-
-PICARD: Do we have clearance? 
-DATA: Aye, sir, into the standard parking orbit. 
-PICARD: Make it so. 
-TASHA: Commander Riker, sir. 
-RIKER: Riker, WT, reporting as ordered, sir. 
-PICARD: Is the viewer ready? 
-TASHA: All set up, sir. 
-PICARD: We'll first bring you up to date on a little adventure we had
-on our way here, Commander. Then we'll talk. Welcome aboard. 
-TASHA: (to Riker) This way, sir. 
-(She sits him down in front of a screen and runs a tape of the Q
-encounter on the Bridge) 
-Q [on monitor]: Thou art directed to return to thine own solar system
-immediately. Go back or thou shalt most certainly die. You can't deny
-you're still a dangerous, savage, child race. 
-DATA: Message from the saucer module, sir. It will arrive here in fifty
-one minutes. 
-PICARD: Inform them we'll connect as soon as they arrive. And sent the
-Commander to me when he's finished. 
-TASHA: Yes, sir. 
-(Picard leaves) 
-Q [on monitor]: And four hundred years before that, you were murdering
-each other in quarrels over tribal god images. Since then there are no
-indications that humans will ever change. There are preparations to
-make, and when we next meet, Captain, we'll proceed exactly as you
-suggest. 
-RIKER: He calls that a little adventure? 

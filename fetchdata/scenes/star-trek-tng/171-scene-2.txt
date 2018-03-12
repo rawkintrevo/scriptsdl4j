@@ -1,48 +1,5 @@
-RIKER LAFORGE PICARD PERRIN MENDROSSEN SAREK WESLEY SAKKATH
-
-[Transporter room]
-
-(O'Brien beams in two men, a tall Vulcan and a
-stockier human) 
-MENDROSSEN: Ah Captain Picard. I am Ki Mendrossen, the ambassador's
-chief of staff. This is Sakkath, his personal assistant. 
-PICARD: Has the ambassador been delayed? 
-MENDROSSEN: He will be joining us momentarily. But first we must
-discuss some matters of the utmost delicacy. 
-PICARD: Please go ahead. 
-MENDROSSEN: To be frank, Captain, the ambassador is not a young man. He
-tires easily. 
-SAKKATH: He's going to need a lot of rest to prepare himself for the
-difficult job that awaits him. 
-MENDROSSEN: Which is why it is imperative that he be allowed to
-conserve his strength. I must request that you dispense with any formal
-activities normally associated with a visitor of his rank. 
-RIKER: We had planned a ship's concert this evening. 
-PICARD: I believe the Ambassador is extremely fond of Mozart. 
-MENDROSSEN: I'm afraid it would be impossible for him to attend. Upon
-his arrival he will be taken directly to his quarters where he will
-remain in seclusion until we reach Legara Four. 
-PICARD: You have my assurance that the Ambassador will not be disturbed
-during the voyage. 
-MENDROSSEN: That's all we ask. Well, now that's settled, the Ambassador
-is waiting. 
-(Sarek and Perrin are beamed aboard) 
-PICARD: Welcome aboard the Enterprise, Ambassador Sarek. 
-SAREK: We come to serve. 
-PICARD: Your service honours us. 
-SAREK: Allow me to present she who is my wife. 
-PICARD: Mrs. Sarek. 
-PERRIN: Please call me Perrin, Captain. 
-PICARD: This is my first officer, Commander William Riker. 
-PERRIN: Captain, would you be so kind as to show us to our quarters? 
-SAREK: I prefer to view the conference room first. 
-MENDROSSEN: Ambassador, I'm sure Sakkath and I can handle all the
-necessary details. 
-SAREK: I will examine it for myself. 
-PERRIN: Perhaps it would be best if we settled in first. 
-SAREK: They worry about my health, Captain. Too much. You will take me
-to the conference room, please. 
-RIKER: If you'll follow me, sir.
+LAFORGE PICARD PERRIN GUEST0 GUEST2 WESLEY GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Conference room]
 
@@ -63,18 +20,18 @@ bit surprised.
 WESLEY: What, that she'd go out with me? 
 LAFORGE: No, that you'd actually have the nerve to ask her. Way to go. 
 (Sarek, Picard et al enter) 
-SAREK: The room is not ready. 
+GUEST2: The room is not ready. 
 PICARD: No Ambassador. Commander La Forge and Ensign Crusher are 
-SAREK: The Legarans are very sensitive in matters of protocol. You will
+GUEST2: The Legarans are very sensitive in matters of protocol. You will
 remove all the furniture from the room. The walls must be bare. 
-MENDROSSEN: I'm sure everything will be set up according to our
+GUEST0: I'm sure everything will be set up according to our
 specifications before the Legarans arrive. Isn't that right, Captain? 
 PICARD: I assure you, Ambassador, everything will be ready before the
 conference begins. 
 PERRIN: My husband and I have every confidence in you, Captain. 
-SAREK: I have worked for ninety three years in preparation for this
+GUEST2: I have worked for ninety three years in preparation for this
 meeting. It is vital that no detail be overlooked. 
-SAKKATH: Perhaps we should allow these gentlemen to return to their
+GUEST1: Perhaps we should allow these gentlemen to return to their
 work, Ambassador. 
-SAREK: That will be acceptable. These walls are too bright.
+GUEST2: That will be acceptable. These walls are too bright.
 

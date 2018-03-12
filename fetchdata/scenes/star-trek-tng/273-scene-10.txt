@@ -1,39 +1,6 @@
-DATA RIKER KMTAR WORF ALEXANDER
+GUEST4 RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Holodeck - Maranga Outpost]
-
-ALEXANDER: Why did you want to recreate this? 
-K'MTAR: You said you wished you had been able to help your father
-fight, but you did not know how. You have probably fought that battle
-over and over again in your mind. 
-ALEXANDER: Yes. 
-K'MTAR: Let's see what happens now. 
-(He gives Worf a dagger) 
-K'MTAR: Computer, give me two Klingon warriors. 
-ALEXANDER: How can I fight someone that big? 
-K'MTAR: Size is not the most important thing. Skill, cunning, powers of
-observation are the most important weapons. Ni'tokor bak'to! 
-(Worf defeats his man easily while Alexander holds a dagger at bay with
-his bat'leth) 
-K'MTAR: Freeze programme. Look what this ko'tal is doing. You see his
-leg? That will give a clue as to what his next move will be. 
-ALEXANDER: All his weight is on his right foot. 
-WORF: Yes, he is going to have to shift it to regain his balance. 
-K'MTAR: Stand ready. Computer, resume programme. 
-(Alexander knocks the klingon down) 
-K'MTAR: Po'tajg! Po'tajg! Finish him. 
-(Alexander drops his bat'leth and walks away. The klingon gets up to
-kill him instead) 
-K'MTAR: Freeze programme. You should have killed him when you had the
-chance. 
-WORF: Why did you not? 
-ALEXANDER: I don't know. 
-K'MTAR: Look at him! He did not care that you showed him mercy. He was
-going to kill you. 
-WORF: K'mtar, that is enough. 
-K'MTAR: If this was real, he'd be dead by now. 
-(Alexander runs out of the holodeck) 
-WORF: Alexander. 
 [Bridge]
 
 DATA: We are approaching Kalla Three. 
@@ -44,4 +11,38 @@ RIKER: Life signs?
 DATA: It is difficult to say. The magnesite is interfering with
 bioreadings. 
 RIKER: Assemble an away team.
+
+[Mine]
+
+LAFORGE: Who are you? 
+GUEST4: Gorta. I am Gorta. 
+WORF: What are you doing on this planet? 
+GUEST4: I crashed here. 
+DATA: Then you are denying involvement in illegal mining activities? 
+GUEST4: Mining? So that's what all this equipment is here for. 
+WORF: We are looking for two Klingon women. Sisters. 
+GUEST4: Lursa? B'Etor? Do you know where they are? 
+LAFORGE: Actually we were hoping that you did. 
+GUEST4: Maybe I do. 
+DATA: Would you be willing to share your information with us? 
+GUEST4: My personal code of conduct prohibits sharing. But I'd consider
+a trade. 
+LAFORGE: Does your personal code of conduct tell you that when you're
+stranded on a planet with no way off, you shouldn't try to cut deals? 
+GUEST4: You have a point. 
+DATA: We could certainly provide passage off this planet in exchange
+for information. 
+GUEST4: Could you perhaps fail to tell the Pakleds that we were mining
+their ore? 
+LAFORGE: Don't push your luck. But if you get us to the Duras sisters,
+I'll see what I can do. 
+GUEST4: The Duras sisters. They are magnificent, aren't they? 
+WORF: Where are they now? 
+GUEST4: Selling the ore, I imagine. They took everything. The ore, the
+ship. 
+WORF: And where have they gone? 
+GUEST4: We were going to sell the ore to a Yridian trader. We were
+supposed to meet him in the Ufandi system. 
+DATA: Gather your belongings. It is time to leave. 
+GUEST4: Like I said, they took everything.
 

@@ -1,112 +1,27 @@
-BEN LAFORGE SITO PICARD TAURIK LAVELLE OGAWA CRUSHER
+LAVELLE OGAWA GUEST2 TAURIK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Outside Sickbay]
+[Ten Forward]
 
-PICARD: Ensign, you're with me.
-
-[Turbolift]
-
-PICARD: Bridge. You are a certified pilot, Ensign? 
-SITO: Yes, sir.
-
-[Ready room]
-
-PICARD: How long have you served on board the
-Enterprise, Ensign? 
-SITO: Seven months, sir. 
-PICARD: I see I understand that you've been recommended for the Ops
-position. Do you think you're up to it? 
-SITO: I do, sir. 
-PICARD: I'm not so sure. I'm concerned about your record. 
-SITO: Sir? 
-PICARD:  The incident that you were
-involved in at the Academy. 
-SITO: With all due respect that was three years ago. My record since
-then 
-PICARD: It doesn't matter how long ago it was, Ensign. Would you do
-something like that again? 
-SITO: I can assure you, sir, that I would never, never jeopardise lives
-by participating in 
-PICARD: A dare devil stunt? I would certainly hope not. What concerns
-me is that you participated in a
-cover-up that impeded an official investigation into the death of a
-cadet. 
-SITO: Sir, I know I should have told the truth right from the start 
-PICARD: Yes you should, but you didn't. Instead you joined with the
-others to pretended that was simply an accident. Now, what do you think
-that tells me about your character? 
-SITO: Sir, if you had any idea what it was like after that incident. I
-didn't have any friends. I didn't have anyone to talk to. I had to take
-my flight test with the instructor because no one else would be my
-partner. In a lot of ways it would have been easier to just walk away,
-but I didn't. I stuck with it. Doesn't that say something about my
-character, too? 
-PICARD: Well I'm really very sorry you didn't enjoy your time at the
-Academy, Ensign. As far as I'm concerned, you should have been expelled
-for what you did. Quite frankly, I don't know how you made it on board
-this ship. You're dismissed. 
-[Shuttlebay] 
-(Taurik is firing a laser rifle at shuttlecraft
-Curie from the gantry) 
-LAFORGE: Another two seconds. Okay, that's enough. 
-TAURIK: Sir, I'm a little puzzled. Why are we intentionally damaging
-the shuttlecraft? 
-LAFORGE: We're evaluating hull resiliency. Starfleet requires periodic
-testing. 
-TAURIK: I see. I don't believe I'm familiar with that requirement. 
-LAFORGE: Probably because you're not a senior officer. 
-TAURIK: If you wish, I could reconfigure the phaser to fire a low
-intensity burst that would not harm the shuttle's hull. The test
-procedure would not be affected. 
-LAFORGE: It's fine the way it is. Now, give me another burst, about
-four seconds, right here. 
-TAURIK: Do you want me to fire from this position? 
-LAFORGE: Actually, why don't you do it from over here. 
-TAURIK: That would be consistent. 
-LAFORGE: Consistent with what? 
-TAURIK: With making it appear that this shuttle had fled an attack. 
-LAFORGE: What makes you think that's what we're doing? 
-TAURIK: The pattern of fire you have asked for is similar to what might
-result if the shuttle had fled an attacker while engaging in evasive
-manoeuvres. 
-LAFORGE: It's an amazing coincidence. 
-TAURIK: Yes, sir. It is indeed. Shall we proceed with the testing? 
-LAFORGE: Yes, Ensign. Thank you.
-
-[Sickbay]
-
-CRUSHER: Alyssa, thank you for coming so quickly.
-We have to prepare for surgery. We have a comatose patient with a
-subdural hematoma. 
-OGAWA: Yes, sir. 
-CRUSHER: I want to make it clear that you are not to discuss what you
-see here with anyone. 
-OGAWA: I understand. 
-(their patient is a spoon-head) 
-CRUSHER: We'll need to synthesise at least a litre of Cardassian blood.
-
-[Lavelle + Taurik's quarters]
-
-(five card stud game in progress) 
-BEN: It's your bet, Taurik. What I can't understand is why we're just
-sitting here so close to the Cardassian border. 
-LAVELLE: It must have something to do with that escape pod we picked
-up. Don't you think, Sito? 
-SITO: Maybe. 
-LAVELLE: I wonder who was in it? 
-BEN: You know what I heard? It was Ambassador Spock. 
-TAURIK: That is most unlikely. 
-BEN: That's what I was told. 
-TAURIK: By whom? 
-BEN: I can't say. 
-LAVELLE: They beamed whoever was in it right to Sickbay. Did you see
-anything when you went down there? 
-OGAWA: No. Doctor Crusher just asked me to help her with the laboratory
-schedule. 
-TAURIK: I thought Lieutenant Powell was going to join us tonight? 
-OGAWA: He had to do a double shift. 
-LAVELLE: That's too bad. He must be the worst poker player I've ever
-met. 
-BEN: It's your bet, Sam. 
-(with four clubs showing, Lavelle checks his hole card and grins)
-
+LAVELLE: She must have left on that shuttle.
+There's no other explanation. 
+GUEST2: Do you have any idea where it went? 
+LAVELLE: Toward Cardassian space. That's what I'm worried about. Oh,
+there's one other thing, I noticed the shuttle was damaged. 
+OGAWA: Sam, can we talk about something else? 
+LAVELLE: Well don't you care what's happened to her? 
+OGAWA: Of course. 
+TAURIK: But we have to accept the fact that we're not always told about
+everything that happens aboard ship. 
+LAVELLE: Well, we can at least tell each other what we know. Do you two
+know something? 
+OGAWA: Sam, please. 
+LAVELLE: I can't believe this. We're friends. 
+TAURIK: We're also Starfleet Officers. 
+OGAWA: I'm not allowed to talk about it. 
+LAVELLE: Okay. I understand. I'd better get going. I've got duty in
+half an hour. 
+Captain's log, stardate 47566.7. We have reached
+the coordinates in Federation space where Ensign Sito's escape pod was
+to have rendezvoused with us. However, we have been waiting for over
+thirty hours and as yet there is no sign of her. 

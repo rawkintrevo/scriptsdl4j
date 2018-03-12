@@ -1,67 +1,51 @@
-LOCARNO SITO HAJAR ALBERT WESLEY
+GUEST0 WESLEY CRUSHER PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Wesley's room]
 
-SITO: You shouldn't have said it, Nick. Josh wasn't
-responsible for what happened. 
-LOCARNO: I had to do something. 
-WESLEY: You said we wouldn't have to lie to them. We all agreed not to
-lie to them. 
-LOCARNO: I didn't lie. Everything I said was the truth. 
-WESLEY: The accident was not Josh's fault. 
-LOCARNO: Look, he was my friend too, Wes. I worked to get him on this
-team. But the truth is, he panicked. 
-WESLEY: We don't know that. 
-LOCARNO: Of course we do. None of us has wanted to say it out loud, but
-we've all had the same thought. Haven't we? 
-HAJAR: He must have pulled away too soon. I think he got scared. 
-LOCARNO: Sito? 
-(she nods) 
-LOCARNO: Wes, I know you want to protect his memory, We all do. But we
-have to look out for ourselves now. What do you want us to do, walk in
-and tell them everything that happened? 
-SITO: We might as well turn in our uniforms and start packing our bags.
+CRUSHER: Everything's going to be okay, Wesley.
+There must be an explanation for all this. Data and Geordi are already
+analysing the flight recorder and the satellite transmission. 
+WESLEY: Why? 
+CRUSHER: There must be something wrong with the satellite data. It
+might have been tampered with. 
+WESLEY: Mom. 
+CRUSHER: Well, there must be some explanation for this. I know you're
+telling the truth but the satellite data made it look as if you were
+lying. I've spoken with the other parents. I am going to talk to
+Admiral Brand and ask her to delay the inquiry 
+WESLEY: Mom. Don't. You can't do that. 
+CRUSHER: I'm not going to let them ruin your career, Wesley. You
+haven't done anything wrong. 
+WESLEY: Mom, don't try to protect me. Please stay out of this.
 
-LOCARNO: Are we ready for that? We'll take this one step at a time.
-This is the preliminary report from your flight recorder.
-It was so badly damaged in the crash, that the lab could only retrieve
-a third of the total telemetry on the recorder. And all of it is before
-the collision. There's no problem here. 
-WESLEY: I don't know if I can do this, Nick. 
-SITO: You don't have to lie. Just don't volunteer any new information. 
-LOCARNO: The first night I met you, Wes, I knew I wanted you on this
-squad. You, more than any of the rest, would understand what it means
-to be able to count on someone, because you've been out there, putting
-yourself on the line. You know you've got to be able to count on the
-people on your team, because your life is in their hands, and their
-lives are in yours. We made a promise to each other right in the
-beginning, that we'd stick together. We were Nova Squadron. Nobody else
-could say that. And even after we graduated, we'd try to get posted to
-the same duty. We were going to be a team for a long time. Josh can't
-be a part of those plans anymore, but I think he would still want us to
-be a team. What do you think?
+[Academy gardens]
 
-[Academy hearing room]
-
-(Wesley is checking the data from his flight
-recorder against the display on the screen) 
-ALBERT: Mister Crusher? 
-WESLEY: Sir. 
-ALBERT: At ease. Am I interrupting? 
-WESLEY: No. I was just going over my deposition for tomorrow. 
-ALBERT: They told me you'd be here. I found this in Josh's room. I
-think it belongs to you. 
-WESLEY: Our ski trip. Josh and I went to Calgary last month. He forgot
-his sweater so he borrowed one of mine. 
-ALBERT: He told me you helped him with his classes. 
-WESLEY: A little. He only needed help in statistical mechanics. 
-ALBERT: If Josh had a weakness, it was mathematics. 
-WESLEY: No, he could do it. He just didn't like to. 
-ALBERT: His mother and I thought he'd never get out of calculus. Then
-he found out what the Academy entrance requirements were like. That
-turned him around. He stayed after class, got a tutor. He really worked
-hard. Never gave up on anything. And he had a lot of respect for you,
-and everybody on the team. I realise it was his fault. That everybody
-could have been killed. And I want to say that, I want to say I'm
-sorry. I'm sorry that he let you down.
+(Boothby is trying to pull grass out of the middle
+of a shrub) 
+GUEST0: These weeds keep popping up in the pittosporum. Poor plants
+don't have a chance to grow. 
+PICARD: You could use a good herbicide instead of pulling the weeds
+with your bare hands. 
+GUEST0: And you could explore space on a holodeck instead of a
+starship. 
+PICARD: Boothby, tell me some more about Nova Squadron. 
+GUEST0: Not going well, is it. 
+PICARD: No, it isn't. 
+GUEST0: Do you remember the parrises squares tournament of 'twenty
+four? 
+PICARD: The final game against Minsk. 
+GUEST0: It took me three weeks to repair the grounds after the
+celebration. 
+PICARD: We had a lot to celebrate. Our team wasn't supposed to win. We
+were very proud of them. 
+GUEST0: Well the cadets today are just as proud of the Nova Squadron.
+The celebration they held after Nova won the Rigel Cup made 'twenty
+four look like a dinner party. To the other cadets, the members of that
+team are gods, and that's a hard image to live up to. But Nick Locarno,
+he watches out for them. He keeps them together. Nick is what makes
+that team special. He's their coach, surrogate father and best friend
+all in one. A natural leader. The members of that team love him. If he
+asks them to do something, they do it, even if it means going right
+over a cliff.
 

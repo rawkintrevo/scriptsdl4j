@@ -1,109 +1,43 @@
-ROGA TROI PICARD RIKER NAYROK COMPUTER DATA
+PICARD RIKER DATA SECURITY WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-NAYROK [on viewscreen]: We'll need a few hours to
-get the containment field on Lunar Five operational before we pick him
-up. The damage he did during his escape was considerable. 
-PICARD: We will await your signal. 
-NAYROK [on viewscreen]: I appreciate your patience. The prison
-psychologist recommends that you keep Danar fully sedated until he's
-ready for transport. 
-PICARD: Well, he's in our highest security detention area. There
-shouldn't be any more problems. 
-NAYROK [on viewscreen]: Do not relax your security for an instant,
-Captain. He is extremely violent and very cunning, as you already know.
-I will send a transport vessel to pick him up as soon as possible.
-Nayrok out. 
-RIKER: Have you run a diagnostic on the sensors, Data? 
-DATA: Yes, sir. There is nothing wrong with the ship's sensors. The
-reason we did not sense life signs aboard the escape vessel is because
-the prisoner has no life signs. 
-RIKER: Computer, identify the occupant of the detention cell. 
-COMPUTER: The detention cell is vacant at this time. 
-RIKER: He's in there. 
-PICARD: Could he be some kind of android? 
-DATA: Our sensors can identify artificial lifeforms, sir. Apparently,
-he is capable of deceiving the sensors.
+RIKER: Security personnel, full alert. Shut down
+all shuttlebays, transporters, and turbolifts. 
+WORF [OC]: Captain, a phaser is missing.
 
 [Brig]
 
-(Roga has been having a nightmare, and Deanna
-sensed it while walking along a corridor. She has hurried to the Brig) 
-TROI: Are you all right? 
-ROGA: What is this ship? 
-TROI: You're on board the USS Enterprise. 
-ROGA: A war vessel? 
-TROI: A Federation starship. 
-ROGA: Federation! 
-TROI: We were orbiting Angosia when you escaped from Lunar Five. 
-ROGA: It seems that I am a victim of my own bad timing. And you are the
-keeper of this jail? 
-(he tests the forcefield) 
-TROI: I'm Deanna Troi, ship's Counsellor. 
-ROGA: Counsellor? Too bad. I'd rather you were a jailer to keep me
-company during my return trip. I assume we are returning to Lunar Five.
-
-TROI: That terrifies you. 
-ROGA: I just killed three men to get out of there, Counsellor, and I'm
-fully capable of killing you as well. That's terrifying thought, isn't
-it? Even to me. 
-TROI: Do they mistreat you there? 
-ROGA: Not at all. I am comfortable, well fed and housed. Oh no, the
-Angosians take good care of their prisoners. It's simply a matter of
-never being able to leave. What about you, Counsellor? Do you always
-visit the prisoners? Are you a specialist in criminal behaviour? Or am
-I just an interesting specimen that landed on your ship like an insect
-to be studied under your microscope? 
-TROI: Why do you have all this anger toward me? 
-ROGA: A girl with long dark hair broke my heart a long time ago. Out of
-bitterness and resentment, I turned to crime. How about this one? My
-mother abandoned me when I was a little boy. I never got the guidance
-that a wild young man needed. 
-TROI: Why are you doing this? 
-ROGA: Playing games? Isn't that what you do, Counsellor? Isn't that
-what all of you mind control experts do? 
-TROI: I am not a mind control expert. I came here because I sensed you
-were in pain. 
-ROGA: And what do you sense now? 
-TROI: The pain is gone. 
-ROGA: It's interesting, isn't it?
-
-[Ready room]
-
-TROI: There's a duality in the man. It's hard to
-describe. He's aware of his crimes. In fact, they trouble him deeply. 
-PICARD: Counsellor. 
-TROI: He's intelligent, thoughtful, typically Angosian. I know what
-he's done, but when I'm with him I cannot believe he is randomly and
-deliberately violent. in fact, inherently, he has a non-violent
-personality. 
-PICARD: Counsellor, it took five men to restrain him and he took apart
-half of the Transporter Room in the process. 
-TROI: I'm not opening the door for him, Captain. I can only tell you
-that I sense something very unusual about him. Something that is not
-inherent to a criminal personality. 
-PICARD: In a few hours, I'll be turning him over to the Angosians, and
-I'll be happy to do it. 
-TROI: I understand.
+WORF: We must assume that he is armed.
 
 [Bridge]
 
-TROI: Data, do we have a link up to the Angosian
-central computer? 
-DATA: Yes, Counsellor. We are copying records for Federation inspection
-pursuant to their application for admittance. 
-TROI: Can I see a police record on Roga Danar? 
-(search negative) 
-DATA: There is no police record. 
-TROI: That's impossible. He's been in prison. 
-DATA: Lunar Five is a military prison facility. 
-TROI: Military? He's a soldier ? 
-DATA: That may provide an explanation for the tactics he was able to
-use against us when we tried to capture him. 
-TROI: It doesn't say here what he was arrested for. Call up his
-military record. 
-DATA: He served in many campaigns during the Tarsian War, received two
-promotions, to the rank of Subhadar. A very honourable tour of duty 
-TROI: What was this man's crime?
+PICARD: Sound general quarters. Clear corridors of
+all non-essential personnel. I don't want him taking any hostages. 
+DATA: General quarters sounded, sir. 
+PICARD: Raise security containment fields immediately on decks thirty
+four, thirty five, and thirty six. 
+SECURITY [OC]: Aye, sir. 
+RIKER: Data, put the turbolifts back online. If Danar sees they're
+operating, he may try to use them. Soon as he does, we have him. 
+[Corridor]
+
+(Danar sees a guard around the next corner. He
+ducks into a turbolift - 12 on the door) 
+[Bridge]
+
+DATA: Sir, unauthorised access of turbolift five on
+deck thirty four. 
+RIKER: He took the bait. 
+PICARD: Data, override its destination. Divert that turbolift to a
+position near Lieutenant Worf's present location. 
+DATA: Four seconds to arrival, sir. 
+[Corridor]
+
+WORF: We're in position. 
+(The turbolift door opens and there a high-pitched whining, but no
+person) 
+WORF: Phaser on overload! Seal this deck. 
+(Worf steps into the lift to deactivate the phaser)
 

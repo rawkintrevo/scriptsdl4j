@@ -1,47 +1,38 @@
-PICARD RIKER WESLEY ONEZERO ZEROONE
+RIKER CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Observation Lounge]
+
+(Data is painting an image on glass) 
+LAFORGE: Well, what do you think? 
+RIKER: Tell me what it's supposed to be, then I'll give you my opinion.
+
+DATA: It is an attempt at pure creativity. 
+LAFORGE: What we're investigating is, can Data be creative? 
+DATA: And this is my attempt, with guidance from Geordi. 
+LAFORGE: I suggested the zylo eggs. 
+RIKER: Is that what those are? 
+RIKER: Keep notes. This project might turn out to be of interest to
+scholars in the future. 
+LAFORGE: Really? 
+RIKER: Well of course. Think about it. A blind man teaching an android
+how to paint? That's got to be worth a couple of pages in somebody's
+book.
+
+[Doctor's office]
+
+RIKER: You look like you're packing to leave
+forever. 
+CRUSHER: Oh, Commander Riker. No, I'm just gathering my notes.
+Professor Terence Epstein is at this starbase. 
+RIKER: Is that someone I should know of? 
+CRUSHER: He's the leading mind in cybernetics. He lectured at my
+medical school. You know the disaster at Micromius? 
 [Corridor]
 
-RIKER: The Bynars seem perfect for this. Even
-though this is the first time I've ever come in contact with them. 
-PICARD: As I understand it, over time they have become so
-interconnected with the master computer on their planet that their
-language, their thought patterns have become as close to binary as it's
-possible for organic beings. 
-RIKER: It'll be interesting to see how they improve a computer as
-advanced as ours. 
-[Turbolift]
-
-PICARD: Bridge. Well, I have a little work to
-finish up, then I'm going to my cabin. I'm going to put my feet up, I'm
-going to turn on my personal relaxation light and I'm going to lose
-myself in the pages of some old novel. What about you, Number One?
-You've earned a rest. 
-RIKER: I've never been very good at organising my time off.
-Something'll turn up. It always does. 
-[Bridge]
-
-(There are four Bynars at a rear computer station.
-Wesley is watching them as Riker and Picard enter) 
-PICARD: I'll be in my ready room. And Number One, good work. 
-RIKER: I thought there were only going to be two of you. 
-ONE ZERO: Because of the limited time allotted us 
-ZERO ONE: We need others 
-RIKER: Is there a problem? 
-ZERO ONE: No. 
-ONE ZERO: No. No problem. 
-RIKER: Then why are you acting so excited? 
-ZERO ONE: Because we have to 
-ONE ZERO: The stacking 
-ZERO ONE: To reconfigure the computer 
-ONE ZERO: To communicate with itself 
-ZERO ONE: More efficiently 
-ONE ZERO: And at higher speeds. 
-(They turn back to their work) 
-WESLEY: You act like you don't believe them. 
-RIKER: I'm not sure that I do. Maybe it's probably nothing. 
-WESLEY: Perhaps it's just how another species behaves. 
-RIKER: Maybe. I'm going to stroll the ship. You've got the Bridge. Keep
-your eye on them. 
-WESLEY: Yes, sir.
+CRUSHER: Well, since then I've been working on an
+approach that combines cybernetics and regeneration. It sounds
+impossible, I know, but I have found an approach which will work. I
+mean, what an opportunity. To have a chance to talk with Doctor
+Epstein. Sorry, Will, I'd love to chat, but I have to go.
 

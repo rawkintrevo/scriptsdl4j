@@ -1,170 +1,33 @@
-TROI LAFORGE TASHA PICARD HAGON RIKER WESLEY YAREENA LUTAN CRUSHER DATA
-
-[Ready Room]
-
-CRUSHER: The vaccine, sir. 
-PICARD: Yes, Doctor? 
-CRUSHER: The vaccine. I'm a physician, I've seen death, but not on the
-scale this could mean. 
-PICARD: You were testing if you can replicate the vaccine. 
-CRUSHER: And we can't. The sample works fine when used as an injection,
-but it becomes unstable when we try to replicate it. You
-must get the vaccine from the planet, Captain. As much as you can.
-Immediately. 
-PICARD: I'm aware of that, Doctor. 
-CRUSHER: You've never had to watch a patient die from this disease. 
-PICARD: That's true. But I have seen my share of death. 
-CRUSHER: Damn. Where are the calluses we doctors are supposed to grow
-over our feelings? 
-PICARD: Perhaps the good ones never get them. 
-CRUSHER: May I speak about my son, Wesley? 
-PICARD: What? Oh, yes. Alright. 
-CRUSHER: He seems quite interested in starship operations. And speaking
-as a mother, of course, he seems quite knowledgeable. 
-PICARD: Well, yes, speaking as a mother. 
-CRUSHER: He's on the turbolift. You'll remember you ordered him to stay
-off of the Bridge. 
-
-[Bridge]
-
-PICARD: Wesley? 
-WESLEY: I haven't stepped one foot on your Bridge, Captain. 
-RIKER: It's all right, sir, I'll see that he leaves immediately. 
-PICARD: No. 
-RIKER: No? 
-PICARD: Why don't you sit at Ops next to Lieutenant La Forge. 
-WESLEY: Sir? 
-LAFORGE: Sir? 
-PICARD: Is the whole ship deaf?! Sit down over there, young man.
-Temporarily. 
-TROI: Captain, we have more information from the briefing studies on
-Ligon. 
-PICARD: Excuse me. Doctor Crusher, some of this may interest you. Lets
-hear the analysis. 
-DATA: It is a highly structured society in which people live by strict
-codes of honour. For example, what Lutan did is similar to what certain
-American Indians once did called counting coup. That's from an obscure
-language called French. Counting coup 
-PICARD: Mister Data, the French language for centuries on Earth
-represented civilisation. 
-DATA: Indeed? But surely, sir 
-RIKER: I suggest you drop it, Mister Data. 
-DATA: Yes, sir. Counting coup could be as simple as touching an enemy
-with a stick in battle, or taking something from him and escaping. It
-was considered extremely heroic. 
-RIKER: And under these circumstances Lutan considers himself heroic,
-risking literally everything in the face of our superior power. 
-TROI: And it fits Lutan's personality profile as well. He has an
-abnormally high need for achievement. Self image to him is a function
-of what he thinks he's achieved. Those who set their standards too high
-can kill to meet them. 
-CRUSHER: Why Tasha? 
-TROI: As a Starfleet Security Officer, she may have represented his
-riskiest prize. 
-DATA: Transmission from the planet surface, sir, Main viewer on. 
-PICARD: Well, Lutan, what do you want? 
-LUTAN [on viewscreen]: You will display your image, please. 
-PICARD: What is required is an image of Lieutenant Yar, well and 
-LUTAN [on viewscreen]: Are you making demands, Captain? 
-TROI: Sir. According to the Ligon Code of Honour, Lutan has done what
-he set out to do, achieve recognition for being daring and bold. 
-RIKER: We've studied this in some depth now, sir. The proper thing for
-you to do now is to ask to get Tasha back. 
-PICARD: Ask for her? 
-DATA: Politely, Captain. 
-PICARD: And now, Lutan, you have boldly taken Lieutenant Yar from us,
-and we ask that you now please return her. 
-LUTAN [on viewscreen]: Then come visit us, Captain, and we will return
-her to you. 
-(a little later) 
-TROI: Commander. 
-RIKER: Commander? That's quite formal. 
-TROI: So is this request, sir. We believe it would be preferable if the
-Captain led this away party. 
-DATA: Agreed, sir. Their customs concerning guests make it much
-preferable. 
-RIKER: And I'm very much against that idea. Lutan is clearly a liar,
-and devious. Counsellor Troi has admitted she believes he's capable of
-killing. It is my duty to keep the Captain from danger, sir. 
-DATA: Except that Ligonian custom makes it clear that a visiting leader
-becomes an honoured guest. Not us, not second in command, him. 
-TROI: And the custom requires that Lutan should die rather than violate
-that. 
-RIKER: Yes, it seems reasonable put that way. But I warn you, if you
-get hurt, I'll put you on report, Captain.
+PICARD HAGON LUTAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Centreplace]
 
-(Picard and Troi beam into a colonnaded area with a
-water feature) 
-LUTAN: Welcome to my Centreplace, Captain Picard. Consider yourselves
-my honoured guests. 
-YAREENA: Every hospitality will be accorded you. 
-LUTAN: This is my First One, Yareena. 
-PICARD: Lutan is a fortunate man. You've met Counsellor Troi. 
-LUTAN: Yes. As on your vessel, you have only to name whatever courtesy
-we can provide. 
-PICARD: Then, sir, the courtesy of seeing Lieutenant Yar. 
-LUTAN: Lieutenant Yar will be returned to you tonight at a banquet I
-have arranged in your honour. 
-PICARD: I'd like to see her now. 
-LUTAN: Bring Lieutenant Yar. I find it odd, Captain, that a man of your
-experience has such difficulty in understanding ordinary politeness. 
-PICARD: Such as the politeness of saying please before abducting
-someone? 
-LUTAN: The expression please is used only when requesting the person
-back. 
-PICARD: Yours is a different world. 
-LUTAN: With clear and simple ways deeply rooted in our culture. If you
-are willing to ask for Lieutenant Yar's return tonight in front of all,
-honour will be satisfied. 
-TROI: One can see the importance of honour here. 
-LUTAN: Honour is everything. 
-(Tasha is brought in by two guards. She is not happy) 
-PICARD: Have you been treated well, Lieutenant? 
-TASHA: Fine, Captain but they're showing some signs of wear. 
-YAREENA: There isn't any need to be concerned, Captain. She's being
-well cared for. 
-PICARD: My ship's company and I are certain of your gentle wisdom in
-that. 
-LUTAN: For a moment I thought I heard a threat implied. But that would
-be foolishness. 
-PICARD: Something to be carefully avoided. I agree. 
-LUTAN: The festivities for her return to you are in preparation. Shall
-we retire till then? 
-PICARD: Until tonight, Lutan.
+HAGON: Lutan, why are you so obsessed with this
+Lieutenant Yar? Surely Yareena is more desirable? Certainly she can
+offer you much more. She owns many things, many lands. 
+(Picard enters, and Lutan stops Hagan talking) 
+PICARD: It's a great pity you began by abducting my Security Officer,
+Lutan, because I should tell you I do admire the hospitality you offer
+here. 
+LUTAN: I am in the grip of forces you do not understand. 
+PICARD: Some of it I do understand. She is a rather lovely female. 
+LUTAN: You surprise me, Captain. What do you know of needs and
+feelings? 
+PICARD: Nothing. Well, almost nothing in my position of ship's Captain.
 
-(A juggler is entertaining them when Tasha enters
-with her guard. She is seated at Lutan's left, with Yareena at his
-right) 
-PICARD: Lutan, you have granted us hospitality and the safety of your
-Centreplace]. The gifts you give us are rare and precious. We thank
-you. And now, according with the customs of your ancestors, whom we
-honour and respect, I am here in peace to ask for the return of
-Lieutenant Yar. 
-LUTAN: Well spoken. There are those among my equals in this gathering
-who were wary of my approaching the Federation. I am proud to have
-taken this first step towards a treaty, and proud that we have
-something of great value to offer you, a priceless life-giving vaccine.
-The abduction I have done according to our custom, for all to see. Your
-conduct in this matter has been beyond exemplary, Captain Picard, but
-now that the moment has come, I find I cannot part with her. 
-(General consternation!) 
-PICARD: You speak of a code of honour, but what you are saying now,
-according to our customs, is called an act of war. 
-LUTAN: This is not an act of war, but of love. I want Lieutenant Yar to
-become my First One. 
-YAREENA: I challenge your right of supercedence! 
-HAGON: No woman has challenged supercedence for over two hundred years!
-
-YAREENA: The right is mine and I will have it! Natasha Yar, I challenge
-you. A struggle to the death. 
-PICARD: No! The challenge is unequivocally refused! 
-LUTAN: Then you shall have no treaty, no vaccine, and no Lieutenant
-Yar!
-
-Ship's log, First Officer Riker reporting. We have
-been informed of the challenge to Lieutenant Yar, and are maintaining
-combat readiness round the clock. We are probing Lutan's compound
-deeply with our sensors now, still unnoticed.
+HAGON: I see. 
+PICARD: But it puzzles me. If you feel that way for Tasha, why have you
+challenged her to a fight to the death? 
+LUTAN: Not I, Yareena. I am merely a spectator. 
+PICARD: Ah, but you are also a man of great importance and wealth. 
+HAGON: Great importance, perhaps, but he does (silenced by Lutan) 
+PICARD: Ah, I see. You, too, understand the proper value of women. 
+LUTAN: We understand they are highly pleasant things, but after all,
+unimportant. Except for the land they own. 
+PICARD: You are a truly clever person, Lutan. You stand to lose
+nothing, either way the challenge goes. 
+LUTAN: A code of honour protects one, Captain, like a magic cloak. 
+PICARD: I will order Lieutenant Yar to fight. And may your cloak bring
+you all you deserve.
 

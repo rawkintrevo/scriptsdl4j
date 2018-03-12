@@ -1,64 +1,39 @@
-RIKER OBRIEN TROI PICARDJR ROJR GUINANJR CRUSHER
+RIKER LAFORGE WORF GUEST1 GUEST3 COMPUTER GUEST7 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Engineering]
+
+LAFORGE: Those last shots took out auxiliary power
+and emergency back-up. It's going to take at least an hour to get 
 [Bridge]
 
-RIKER: Have you got them, O'Brien? 
-O'BRIEN [OC]: I'm trying, sir. 
-[Transporter room]
+LAFORGE [OC]: Warp power back online. 
+WORF: We have lost shields. Heavy casualties on decks thirty five
+through forty. 
+DATA: I am detecting transporter signatures in three cargo bays. We are
+being boarded, sir.
 
-O'BRIEN: I can't get a pattern lock. 
-RIKER [OC]: The shuttle is 
+[Corridor]
+
+(Young Picard gets to a turbolift, and meets an
+armed Ferengi stepping out) 
+GUEST1: Come with me. 
 [Bridge]
 
-RIKER: Coming apart, Chief. We've got to do it now.
+RIKER: Initiate intruder alert. All security teams
+report to 
+(two Ferengi beam in) 
+GUEST3: Put down your weapons. 
+(Worf fires, and gets shot for his trouble) 
+RIKER: Computer, deactivate all command functions. Authorisation, Riker
+Omega Three 
+COMPUTER: All command functions suspended. 
+(two more Ferengi enter) 
+GUEST7: This is Morta. We have secured the Bridge. Begin transporting
+all able-bodied adults to the surface.
 
 [Transporter room]
 
-O'BRIEN: I've got them. There's a forty percent
-drop in mass. 
-[Bridge]
-
-O'BRIEN [OC]: I may have lost one of them. 
-[Transporter room]
-
-(Four children dressed the same as the shuttle
-occupants appear. The tall skinny youth in Starfleet uniform, with a
-healthy crop of hair, speaks) 
-PICARD JR: Thank you, Mister O'Brien. Another moment and 
-(he stops, startled by his own high-pitched voice, and looks at his
-diminutive companions. Gulp.)
-
-[Sickbay]
-
-CRUSHER: According to the bioscans, their DNA
-structure is now consistent with those of preadolescence. But as far as
-we can tell, only their bodies were changed. 
-TROI: Their individual intelligence and their behavioural responses are
-exactly the same as they were before the accident. 
-PICARD JR: What happened to the shuttlecraft, Number One? 
-RIKER: The shuttle broke up just after we beamed you out. Mister Data
-is coordinating the salvage efforts now. Sir. 
-CRUSHER: What about the energy field the shuttle passed through? 
-RIKER: We've trying to scan it, but it's we're running into lot of
-interference. It's going to take some time. 
-PICARD JR: We can't afford to stay here any longer. We'll leave a class
-four probe behind to study the energy
-field but the distress signal from Ligos Seven has top priority. Let me
-know as soon as you have any further information, Doctor. Number One,
-you're with me. 
-CRUSHER: Captain, I need to run some additional tests. 
-PICARD JR: Of course. The three of you will remain as needed to assist
-Doctor Crusher. 
-(Riker and Picard leave) 
-RO JR: What? 
-GUINAN JR: You know, you make a pretty cute kid. 
-RO JR: Great. Just what I want to be. Cute. 
-GUINAN JR: Were you this much fun when you were a kid? 
-RO JR: I was in a refugee camp. Fun wasn't exactly in my vocabulary. 
-GUINAN JR: What about now? You're not in that camp anymore. 
-RO JR: Fun is being back at work in my own uniform.
-
-[Turbolift]
-
-PICARD JR: Bridge.
-
+(O'Brien is under armed guard as Geordi and others
+are lead in) 
+GUEST1: Come on, get up there. Up, up. 

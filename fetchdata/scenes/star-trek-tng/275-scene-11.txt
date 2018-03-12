@@ -1,97 +1,46 @@
-PICARD RIKER DATA LAFORGE
+TROI WORF GUEST0 GUEST3 GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Holodeck - train]
 
-LAFORGE [OC]: If you want us to stop, I'll have to
-do an emergency core shutdown. 
-RIKER: That would leave us without warp power for more than a week. 
-PICARD: Begin the procedure, Mister La Forge. 
-(another jolt) 
-DATA: We are no longer at warp, sir. Impulse power has resumed. All
-systems show normal. 
-RIKER: Where are we? 
-DATA: We are approximately thirty billion kilometres from our original
-position. 
-PICARD: Well done, Mister La Forge. 
-[Engineering]
-
-LAFORGE: It wasn't me. I didn't have time to
-complete the shut-down procedure. 
-PICARD [OC]: Well, I want an explanation
-
-[Bridge]
-
-PICARD: Mister La Forge. Picard out. 
-(later at the science station) 
-PICARD: Have you found anything yet? 
-LAFORGE: Only that we seem to have more than one mystery here. We still
-don't know why the ship jumped into warp, but it looks like we're lucky
-it did. There was a theta flux distortion building up around the ship. 
-PICARD: Why didn't our sensors alert us? 
-LAFORGE: Our sensors were never designed to detect theta flux
-distortions. And yet there is a record of the distortion in the sensor
-log. That's the other mystery. 
-DATA: One fact is clear, however. The distortion was growing in
-strength. If we had remained at our original position one point seven
-seconds longer, the distortion would have ruptured our warp core. 
-LAFORGE: If the Enterprise hadn't jumped into warp when it did, we
-would've been blown to pieces.
-
-[Jefferies tube]
-
-LAFORGE: I just don't get it, Data. What would
-cause the engines to suddenly jump into warp? 
-DATA: Perhaps the engines were activated by a random power fluctuation.
-
-LAFORGE: Which occurred just in time to save the ship? 
-DATA: It is improbable, but it is possible. 
-LAFORGE: I don't know. I don't think I'm ready to start believing in
-luck. 
-(they stop by an access panel) 
-DATA: There is another possibility. 
-LAFORGE: Yeah, what's that. 
-DATA: The sensors apparently detected a dangerous anomaly that
-threatened the Enterprise. It is possible that they triggered a safety
-device which caused the ship to avoid destruction. 
-LAFORGE: Yeah, but there's no direct link between the warp engines and
-the sensors. 
-(they open the panel) 
-LAFORGE: Whoa. What is that? It's some kind of new circuit node and
-it's connected to at least half a dozen points in the sensor array. 
-DATA: It appears to be connected to several other systems as well,
-including the warp control circuits. 
-LAFORGE: I guess there's a connection between the warp engines and the
-sensors after all. 
-(a forcefield blocks access to the node) 
-LAFORGE: A force field. Where did that come from? 
-DATA: I am not certain. Perhaps it came from the node itself. 
-LAFORGE: Well, wherever it came from, it sure doesn't want us messing
-with this node. 
-DATA: It appears to be protecting itself.
-
-[Engineering]
-
-LAFORGE: We found these nodes in several systems
-around the ship. At some level or another, they're all connected. 
-DATA: These nodes were linking the sensors to our warp control and
-defensive systems. We believe this is why the ship jumped to warp. 
-LAFORGE: When the sensors detected danger, the defensive systems
-reacted to the threat and activated the warp engines to protect us. 
-RIKER: Where did these nodes come from? 
-DATA: It is possible that the magnascopic storm we recently experienced
-had an unexpected effect on the ship's systems. 
-LAFORGE: Wherever they come from, they seem to be multiplying. 
-DATA: As they increase, it will become progressively more difficult to
-control the ship. 
-RIKER: What do you propose we do? 
-LAFORGE: Well, getting rid of them isn't going to be so easy. When we
-attempted to examine the circuitry of one of the nodes, it generated a
-force field to keep us out. 
-RIKER: Whatever's going on. our first priority is getting back control
-of the ship. 
-DATA: Agreed. All of the nodal connections intersect in holodeck three.
-It appears to be a focal point of some kind. 
-LAFORGE: We might be able to find a way to use the holodeck circuitry
-to disable the nodes permanently. 
-RIKER: All right. Let's do it.
-
+(things have changed. A flapper is repeatedly
+tapping a goblet against the knight's helm. The gunslinger is tied up
+while the gangster plays cards with him.)
+WORF: Welcome aboard, Counsellor. 
+DATA: If you will distract these people, I will attempt to depolarise
+the power grid. 
+(Troi and Worf go over the rustic and the other flapper who are working
+on the jigsaw) 
+WORF: Excuse me. Have you finished the puzzle yet? 
+GUEST3: Not yet, but we're gettin' close. 
+WORF: Do you recognise it? 
+TROI: No. 
+WORF: I would like to help. Tell me. What exactly are you making? 
+GUEST3: What do you think we're making? A puzzle! 
+WORF: No, I meant the picture. What is it? 
+GUEST3: Well, I don't know. 
+(Troi goes to the card game) 
+TROI: Can you deal me in? 
+GUEST1: Sorry. It's a two man game. 
+(Troi reaches for the brick)
+GUEST1: Hey! Get your hand off of that. 
+TROI: Is that why you killed the Engineer? To get this brick? 
+GUEST1: I had to get it back. You know how much it's worth, lady?
+Plenty. And I
+got to get it to Keystone City. 
+TROI: Why? What's at Keystone City? 
+GUEST1: That's where everything begins. Gin. 
+(his five cards all show the jigsaw) 
+WORF: Are you succeeding, Commander? 
+DATA: I am ready to access the main power grid. 
+GUEST0: Keystone City, next stop. Keystone City. Well, look who's
+back. 
+WORF: We do not want any trouble. We are simply passengers. 
+GUEST0: Well then I'm sure you wouldn't mind showing me your
+tickets? Right. Sorry, boys. You're getting off right here. 
+GUEST1: This is my stop. 
+TROI: Wait. What happens at Keystone City? Why are you taking the brick
+there? 
+GUEST1: Excuse me. 
+TROI: I think we should follow that man. That brick may be an important
+clue. 

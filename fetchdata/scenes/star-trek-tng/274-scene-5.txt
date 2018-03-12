@@ -1,15 +1,16 @@
-PICARD CRUSHER JASON
+PICARD CRUSHER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
 (Crusher draws a blood sample) 
 PICARD: What were you doing in the caves, Jason? Are you a
 seismologist? 
-JASON: No, I just enjoy climbing. 
+GUEST1: No, I just enjoy climbing. 
 PICARD: Without an antigrav harness? 
-JASON: No, they get in the way. 
+GUEST1: No, they get in the way. 
 PICARD: So, what do you do? 
-JASON: I'm between jobs right now. 
+GUEST1: I'm between jobs right now. 
 PICARD: I see. 
 CRUSHER: Excuse me, gentlemen, the test results are ready if you'd like
 to hear them. Your genetic code is a cross between the DNA of your
@@ -17,22 +18,22 @@ mother, Miranda Vigo, and your father Jean-Luc Picard.
 
 [Picard's quarters]
 
-JASON: What's all this? 
+GUEST1: What's all this? 
 PICARD: Oh, theses are archaeological fragments that I've collected
 over the years. This is a Silvan glyph stone. And
 this, this is a Gorlan prayer stick. It's really quite rare. 
-JASON: Is it valuable? 
+GUEST1: Is it valuable? 
 PICARD: Not really. Only to students of archaeology such as myself.
 Though I did have to hand over a bottle of very old Saurian brandy for
 it. 
-JASON: I'd say you got taken. 
+GUEST1: I'd say you got taken. 
 PICARD: Perhaps, but it's of value to me nonetheless. 
-JASON: On Camor, something has value if you can eat it or sell it.
+GUEST1: On Camor, something has value if you can eat it or sell it.
 Everything else is luxury. 
 PICARD: Would you like some tea? 
-JASON: No. Thanks. 
+GUEST1: No. Thanks. 
 PICARD: Something else? 
-JASON: No. 
+GUEST1: No. 
 PICARD: Tea, Earl Grey, hot. I'm sure this whole thing is as much a
 surprise to you as it is to me. I really want to be honest with you,
 Jason. I only knew your mother for a very short time. I would have
@@ -40,23 +41,23 @@ liked to have known her better. It just didn't work out that way. You
 look a lot like her, you know. It's the eyes, I think. I would like to
 make one thing clear, Jason. Your mother never told me about you. If
 she had, I would have been part of your life. 
-JASON: Maybe that's not what she wanted. I think I'd like to go back to
+GUEST1: Maybe that's not what she wanted. I think I'd like to go back to
 the surface now. 
 PICARD: I think it would be better if you stayed on board the
 Enterprise until we have resolved this situation with Bok. 
-JASON: What is the situation with Bok, anyway? Why does he want me
+GUEST1: What is the situation with Bok, anyway? Why does he want me
 dead? 
 PICARD: Years ago, I was forced to destroy a starship commanded by his
 son. Bok apparently feels that it would be fitting vengeance to kill my
 son. 
-JASON: I can't hide forever. 
+GUEST1: I can't hide forever. 
 PICARD: Of course not. We are trying to locate Bok now. I want to
 confront him, settle this matter. 
-JASON: How long is this going to take? 
+GUEST1: How long is this going to take? 
 PICARD: I assure you there is no one more eager to put this behind us
 than I am. 
-JASON: Where do I stay? 
+GUEST1: Where do I stay? 
 PICARD: We'll get you some quarters. 
-JASON: Okay. Let's go. 
+GUEST1: Okay. Let's go. 
 PICARD: Jason. Your being here? I hope it will give us the chance to
 get to know each other. 

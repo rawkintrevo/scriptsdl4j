@@ -1,37 +1,35 @@
-RIKER CRUSHER DATA LAFORGE
+WESLEY COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation Lounge]
+[Bridge]
 
-(Data is painting an image on glass) 
-LAFORGE: Well, what do you think? 
-RIKER: Tell me what it's supposed to be, then I'll give you my opinion.
+WESLEY: This is the bridge. 
+[Engineering]
 
-DATA: It is an attempt at pure creativity. 
-LAFORGE: What we're investigating is, can Data be creative? 
-DATA: And this is my attempt, with guidance from Geordi. 
-LAFORGE: I suggested the zylo eggs. 
-RIKER: Is that what those are? 
-RIKER: Keep notes. This project might turn out to be of interest to
-scholars in the future. 
-LAFORGE: Really? 
-RIKER: Well of course. Think about it. A blind man teaching an android
-how to paint? That's got to be worth a couple of pages in somebody's
-book.
+DATA: Alert starbase. Inform them we are abandoning
+the ship. Tell them why. Initiate automated sequence for departure. Set
+course and speed course and speed to put maximum distance between the
+Enterprise and any inhabited planets. 
+[Bridge]
 
-[Doctor's office]
+WESLEY: Shouldn't we wait for the Captain's
+approval? 
+DATA [OC]: There is no time. 
+[Engineering]
 
-RIKER: You look like you're packing to leave
-forever. 
-CRUSHER: Oh, Commander Riker. No, I'm just gathering my notes.
-Professor Terence Epstein is at this starbase. 
-RIKER: Is that someone I should know of? 
-CRUSHER: He's the leading mind in cybernetics. He lectured at my
-medical school. You know the disaster at Micromius? 
+DATA: Based on all information presently available,
+the decision is correct. This is Lieutenant Commander Data speaking for
+the Captain. Abandon ship. This is not a drill. All personnel. This is
+not a drill. (around the ship) I say again, abandon ship. All
+personnel, this is not a drill. 
+[Bridge]
+
+DATA [OC]: Abandon ship. 
 [Corridor]
 
-CRUSHER: Well, since then I've been working on an
-approach that combines cybernetics and regeneration. It sounds
-impossible, I know, but I have found an approach which will work. I
-mean, what an opportunity. To have a chance to talk with Doctor
-Epstein. Sorry, Will, I'd love to chat, but I have to go.
-
+(People are walking briskly, but not running. Well,
+some are running) 
+COMPUTER: Decks two through four to cargo transporters. Decks five
+through ten, proceed to transporters one, two, three and four. Decks
+six through sixteen, proceed to transporters five, six, seven, eight,
+nine and ten. 

@@ -1,42 +1,44 @@
-LAL TROI DATA
+LAL WESLEY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+ [Laboratory]
 
-LAL: Gender female. 
-TROI: That's right, Lal. Just like me. 
-LAL: Gender male. 
-DATA: Correct. 
-LAL: I am gender neuter. Inadequate. 
-DATA: That is why you must choose a gender, Lal, to complete your
-appearance. 
-LAL: What are criteria? 
-DATA: Access your data bank on sexuality, level two. That will define
-the parameters. 
-TROI: Whatever you choose will be yours for your lifetime. It's a
-decision that will affect how people interrelate with you. 
-LAL: I choose your sex and appearance. 
-DATA: No, Lal. That would be confusing. We are taking you to the
-holodeck to show you several thousand composites I have programmed. You
-may choose from them. 
-TROI: Several thousand? 
-DATA: This is a big decision 
-[Holodeck]
-
-(Data gently wakes Deanna and helps her to her
-feet) 
-DATA: Counsellor? Lal has narrowed the choices to four. Would you like
-to see? 
-TROI: Yes, yes, of course, Data. 
-DATA: Computer, Lal gender sequence finalists. Begin. An Andorian
-female. 
-TROI: Interesting. You'll be the only one on board the Enterprise, Lal.
-
-DATA: That could make socialisation more difficult. A human male. 
-TROI: Very attractive. There's no problem with socialisation here. 
-DATA: A human female. 
-TROI: I like her. 
-DATA: A Klingon male. 
-TROI: A friend for Worf. They're all very interesting. Do you have a
-favourite? 
-LAL: Yes. I have chosen.
+DATA: The transfer itself is fairly simple. Each
+neural pathway in my brain is duplicated precisely in hers.
+Theoretically, the duplicate brains should be able to store and process
+the same information but until all of the transfers are complete, we
+will not know for certain. 
+WESLEY: What does Lal do while you're on duty? 
+DATA: She studies in our quarters. She requires very little
+supervision. Lal is quite self-sufficient. 
+WESLEY: Have you considered sending her to school? 
+DATA: She already has access to the sum of human knowledge from me. 
+WESLEY: Data, she could learn a lot by being with kids her own age. 
+DATA: She is only two weeks old. 
+WESLEY: Okay, close to her own age. 
+CRUSHER [OC]: Doctor Crusher to Ensign Crusher. Aren't you supposed to
+be getting a hair cut, Wesley? 
+WESLEY: I'm on my way. Parents. Nothing personal. 
+(Wesley leaves and Data switches Lal on) 
+DATA: Lal, the third crosslink transfer series is complete. 
+LAL: Father? What is my purpose? 
+DATA: Purpose? 
+LAL: My function, my reason for being? 
+DATA: That is a complex question, Lal. I can only begin to answer by
+telling you that our function is to contribute in a positive way to the
+world in which we live. 
+LAL: Why am I me instead of someone else? 
+DATA: Because you are my child. 
+LAL: Where did I come from? 
+DATA: These questions suggest that we have made a successful transfer
+of the heuristic associative pathways. You will now begin to process
+information on logic, aesthetics, metaphysics, and epistemology. You
+are truly becoming sentient, Lal. 
+LAL: How? 
+DATA: By developing the awareness to examine and question your
+perceptions. 
+LAL: Why do we have two hands? Why not three or four? Why is the sky
+black? Why do 
+(He switches her off in mid-question) 
+DATA: Tomorrow will be your first day of school, Lal.
 

@@ -1,151 +1,62 @@
-BLACKWELL GATES RIKER WORF PICARD PRESSMAN DATA
+PICARD RIKER PRESSMAN LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Engineering]
 
-PICARD: Come. 
-RIKER: The scan analysis you asked for. 
-PICARD: Thank you. 
-RIKER: Is there something else, sir? 
-PICARD: Yes, there is. (reading) Judge Advocate General's Report.
-Stardate 36764. Subject, inquiry into mutiny aboard USS Pegasus. Based
-on testimony from Captain Pressman and other surviving officers, the
-Judge Advocate believes there is sufficient evidence to conclude that
-certain members of the crew did mutiny against the captain just prior
-to the destruction of the Pegasus. Mutiny on a Federation starship?
-That's shocking. It's unthinkable. And yet you've never mentioned it. 
-RIKER: No, sir. 
-PICARD: You know, it wasn't easy to get this record. I had to pull in
-quite a few favours at Starfleet just to get a look at it. It seems
-that it was classified by Starfleet Intelligence. So, not only was the
-Pegasus carrying sensitive equipment which
-must be allowed to fall into Romulan hands, not only was there a
-mysterious explosion which seemed to destroy the ship but didn't, but
-it seems there was a mutiny on board. Now, I've read the official
-report of the inquiry on that mutiny, but I want to know your version
-of what happened. 
-RIKER: I was on the Bridge. The ship was at yellow alert. We were
-running some tests on the engines. Something went wrong. There was an
-explosion in Engineering. Heavy casualties. In the midst of this
-crisis, the First Officer, the Chief of Engineering and most of Bridge
-crew mutinied against Captain Pressman. 
-PICARD: Why? 
-RIKER: They thought he was jeopardising the ship. 
-PICARD: And you? 
-RIKER: I was seven months out of the Academy, my head still ringing
-with words like duty and honour. When they turned on him, I thought
-they were a bunch of self-serving, disloyal officers, so I grabbed a
-phaser and defended my captain. Two or three others joined us, but it
-was clear by then that the mutineers had most of the crew behind them.
-We felt a need to get off the ship. There was a running firefight all
-the way to the escape pod. About five minutes after we left the ship
-there was an explosion. 
-PICARD: The Judge Advocate also believes that the surviving officers
-are deliberately withholding vital information from this inquiry.
-Further investigation is recommended. Will, there was no further
-investigation. This report was classified and then it was quietly
-buried. Why? 
-RIKER: Sir, may I suggest you take this up with Admiral 
-PICARD: I'm taking this up with you, Will! The Judge Advocate thought
-you were participating in a conspiracy to cover up the truth. Now, what
-the hell is going on here, Will? Why did that mutiny happen? Why is
-Pressman so determined to find your ship twelve years later? 
-RIKER: I've said all I can. I am under direct orders from Admiral
-Pressman not to discuss this, sir. 
-PICARD: Very well. He's an admiral, I'm a captain. I cannot force you
-to disobey his orders. Therefore I will have to remain in the dark on
-this mission. And I will just have to trust that you will not let
-Pressman put this ship at unnecessary risk. And if I find that that
-trust has been misplaced, then I will have to re-evaluate the command
-structure of this ship. Dismissed.
-
-[Ready room]
-
-BLACKWELL [on monitor]: Captain, Starfleet places
-the highest priority on the success of this mission. Your request for a
-delay is denied. 
-PICARD: Margaret, something's very wrong here. Do you know what's going
-on? 
-BLACKWELL [on monitor]: I know that the Chief of Starfleet Intelligence
-herself is watching this one, Jean-Luc. So you'd be well advised to
-follow Pressman's orders and leave it at that. Starfleet out. 
-WORF [OC]: Worf to Captain Picard. We are approaching asteroid gamma
-six zero one, sir. 
-PICARD: On my way.
-
+LAFORGE: Commander, we've routed the impulse
+engines through the plasma conduits, but you'll have to watch the
+intercooler levels. If they get too high, we'll blow the entire relay
+system. 
+RIKER [OC]: Understood. 
 [Bridge]
 
-PICARD: Mister Worf, where are the Romulans? 
-WORF: They are out of sensor range on the far side of the system. 
-PICARD: Take us to within fifteen kilometres of the asteroid and hold
-that position. 
-WORF: Aye, sir. 
-PICARD: Mister Data, report. 
-DATA: For the past several hours, I have been scanning the area where
-we detected the resonance signature of the Pegasus. From the strength
-and polarity of the signature, it would appear that most of the warp
-core is still intact. 
-PRESSMAN: If we're lucky, the entire engineering section could be down
-there. 
-RIKER: But how do we get to it? I wouldn't want to try to transport
-through that much solid rock. 
-PICARD: Agreed. What about a shuttle? We could send it down through one
-of these fissures. 
-DATA: I would recommend against it, sir. There may be gravimetric or
-magnetic fluctuations inside the asteroid which would overpower the
-engines of a shuttlecraft. 
-PRESSMAN: Sounds like the best solution is to take the Enterprise in. 
-RIKER: Into the asteroid? 
-PRESSMAN: That's right. Put this fissure on the main viewer. This chasm
-is large enough for us to manoeuvre in. Besides, if we ever hope to
-salvage the Pegasus, we're going to need a starship to do it. 
-PICARD: Mister Data? 
-DATA: It is theoretically possible, sir, but I am unaware of any prior
-situations where a starship was taken so deeply inside a planetary
-body. There may be unforeseen difficulties. 
-PICARD: Admiral, I don't think we can risk 
-PRESSMAN: I've made my decision. Prepare to take the Enterprise in,
-Captain. That's an order. 
-PICARD: Mister Data, will you please note in the ship's log that this
-action is being taken over my explicit objections. 
-DATA: It is so noted, sir. 
-PICARD: Yellow Alert. 
-RIKER: Shields up. Inertial dampers at maximum. 
-PICARD: Ensign Gates, plot a course into the chasm, manoeuvring
-thrusters only. 
-GATES: Course plotted, sir. 
-PICARD: Take us in. 
-(Enterprise gently navigates the tunnel) 
-DATA: We are now two kilometres beneath the surface. 
-(shake) 
-WORF: Captain, we are encountering shifts in the magnetic field
-density. 
-PICARD: Admiral, if is passage narrows to less than five hundred
-metres, I will abort the mission. You can charge me with
-insubordination if you wish, but I'm not going to risk the Enterprise
-for a salvage operation. 
-WORF: Captain, I am reading a large resonance signature directly ahead.
+RIKER: I think that's what happened twelve years
+ago. The cloak blew out the plasma relays on the Pegasus after we left
+the ship. The plasma ignited in space, and it looked as if the ship had
+been destroyed. 
+PRESSMAN: So the ship drifted into this system still in a phased state,
+and when it passed through this asteroid 
+RIKER: The cloak failed, and half the ship materialised in solid rock. 
+LAFORGE [OC]: La Forge to Bridge. 
+[Engineering]
 
-(NCC53847 is sticking out of the rock) 
-PRESSMAN: Pegasus. 
-RIKER: What the hell happened? 
-DATA: Sensors show that the ship is still intact. However, sixty five
-percent of it is contained within the asteroid. 
-RIKER: It looks if half the ship materialised inside solid rock. 
-DATA: Yes, sir. I do not understand how this could have happened. 
-PRESSMAN: Let's keep the speculation to a minimum. We have to begin the
-salvage operation. The equipment we need was in main Engineering. Can
-you scan that section of the Pegasus? 
-DATA: The starboard bulkhead of main Engineering is contained within
-the rock face, but most of its compartment is still intact. 
-WORF: There is a hull breach in that section. 
-PICARD: If we begin a power transfer, can we restore life support
-systems to that compartment? 
-DATA: I believe so, sir. The breach can be temporarily sealed by
-extending our shields. 
-PRESSMAN: See to it. Once you've restored life support, Commander Riker
-and I will beam directly into Engineering. 
-PICARD: Admiral, I would like to send down a complete away team 
-PRESSMAN: There's some very sensitive equipment over there. I don't
-want anyone else near it. 
-PICARD: Yes, sir.
+LAFORGE: The cloak is online and ready to begin
+phase sequencing. 
+[Bridge]
+
+PICARD: Proceed, Number One. 
+RIKER: Aye, sir. Activating power systems. 
+(and the Enterprise vanishes) 
+PICARD: Report. 
+RIKER: The cloak appears to be functioning normally. The ship's
+matter-energy phasing rate should be sufficient to pass through the
+asteroid. 
+PICARD: Take us out. Manoeuvring thrusters only. 
+WORF: Aye, sir. We will reach the rock face in five seconds. 
+(there's no thump, just more rock on the viewscreen) 
+WORF: We have passed through two kilometres of the asteroid. Now within
+one kilometre of the surface. 
+RIKER: We're approaching the surface. 
+(and the asteroid belt appears) 
+WORF: We have cleared the asteroid, Captain. The warbird is off the
+port bow. 
+RIKER: They're still waiting for us to make up our minds. 
+PICARD: Disengage the cloaking device, Commander. 
+PRESSMAN: You cannot do that! If the Romulans see us decloak, they'll
+know 
+PICARD: They'll know the truth, Admiral. Which is what everyone will
+know very shortly. Carry out my orders.
+(and Enterprise appears beside the green meanie) 
+PICARD: Mister Worf, send a message to the warbird. Inform them that
+their government will be contacted shortly about this incident. 
+WORF: Aye, sir. 
+PICARD: Admiral, I am hereby charging you with violation of the Treaty
+of Algeron. As Captain of the Enterprise, I'm placing you under arrest.
+Mister Worf? 
+WORF: Admiral, if you will come with me. 
+RIKER: Captain, I'll have to be placed under arrest as well. (Picard
+nods) Admiral. 
+PRESSMAN: I have a lot of friends at Starfleet Command, Captain. 
+(Pressman, Riker and Worf leave) 
+PICARD: You're going to need them.
 

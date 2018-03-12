@@ -1,46 +1,65 @@
-PICARD RIKER LAFORGE WESLEY
+RIKER WORF GUEST1 PICARD TROI COMPUTER DATA GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Planet surface]
+[Hotel room]
 
-RIKER: Completely calm, no sound, no movement, yet
-a few hundred metres away a storm is raging. 
-PICARD [OC]: Any information about the structure. 
-RIKER: Yes, sir. There is an antique revolving door. It could be an
-entrance. 
-[Bridge]
+RIKER: Our own way out of here, you've succeeded,
+Captain. 
+(The telephone rings, and Worf answers it) 
+WORF: Yes? There is a female voice asking if we want room service. 
+DATA: I believe she is asking if we want the room cleaned. 
+RIKER: Tell her no. 
+WORF: No. 
+RIKER: What did she say? 
+WORF: She said the kitchen will be open twenty four hours if we change
+our minds. 
+RIKER: We're going to explore the rest of the hotel. We'll keep a comm.
+line open. You two go down to the lobby and see if there's anything
+that we've missed. You talk to the guests and try to find out who or
+what they are. I'll check out the rest of the floors. 
 
-PICARD: A revolving door? Number One, proceed with
-caution. 
-RIKER [OC]: Yes, sir. 
-[Planet surface]
+[Ready room]
 
-RIKER: Well, this is what we came here for.
-Captain, we're entering.
+PICARD: Computer, locate and display the text of
+the novel entitled Hotel Royale by Todd Matthews. 
+COMPUTER: Accessing. 
+PICARD: If the cause of the difficulties is in the novel, we may find
+the solution within its pages. Ah. (reading)
+'It was a dark and
+stormy night'. It's not a promising beginning. 
+TROI: It may get better. 
+[Casino]
 
-[Lobby]
-
-(Worf leads the way into a very elegant foyer and
-lobby in a Middle Eastern style. Lots of marble and palm plants, very
-twenties or thirties. We hear the laughter of people having a good time
-at blackjack tables) 
-[Bridge]
-
-PICARD: Enterprise to away team, come in. 
-LAFORGE: We're receiving no signal at all from them, sir. 
-PICARD: Transporter room. lock on to the landing party. Beam them up. 
-LAFORGE: We've got nothing to lock on to, sir. 
-[Lobby]
-
-RIKER: Riker to Enterprise. We've entered the
-structure. Riker to Enterprise, come in. Come in, Enterprise. 
-[Bridge]
-
-WESLEY: When they went through that antique
-doorway, the signal just disappeared, sir.
-PICARD: What's causing the interference? 
-LAFORGE: Unknown. 
-PICARD: Are they receiving us? 
-LAFORGE: No. We're going to have to recalibrate all the frequencies to
-find one that'll work. 
-PICARD: Then do it.
-
+DATA: I suggest we separate and blend in with these
+beings. Casual queries, offered inconspicuously, may prove fruitful. 
+(Data heads to the table with Texas and Vanessa) 
+GUEST1: I need a four. Give me a four. 
+GUEST5: Oh, shoot. 
+GUEST1: How much do I have left here? 
+GUEST5: Honey, now you know it's bad luck to count your chips at the
+table. 
+GUEST1: Yeah? 
+DATA: Excuse me, sir. Might I inquire, where are you from? 
+GUEST5: Lubbock, Texas. 
+DATA: And how did you get here? 
+GUEST5: To Vegas? Drove my car. I got a ninety one Caddy with only
+eighty thousand miles on it. 
+DATA: Where is your automobile now? 
+GUEST5: Out front, I suppose. What the hell difference does it make? 
+DATA: Could you take me there? 
+GUEST1: Hit me. I'm losing my shirt. 
+GUEST5: Son, why would I want to do that? Can't you see I'm trying to to
+help this little lady? 
+DATA: I believe you are trapped inside the Royale, just as I am. 
+GUEST5: Sure does seem that way when you're losing, don't it? We're just
+trying to turn this lady's wagon around, and win back some lost change.
+Otherwise she's in a desperate situation and she's got nowhere to turn.
+Well, almost nowhere. 
+GUEST1: I stay, right? (holding thirteen) 
+GUEST5: I wouldn't. 
+DATA: The odds favour standing pat. 
+GUEST1: What do I do? 
+GUEST5: Do you want a card or what? 
+GUEST1: Hit me. (a Jack) Too many. I've almost lost it all. What am I
+going to do? 
+GUEST5: There, there, there, there, there. 

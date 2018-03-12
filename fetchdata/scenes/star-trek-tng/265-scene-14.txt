@@ -1,59 +1,35 @@
-NIKOLAI LAFORGE WORF VORIN KATERAS TARRANA DOBARA
+GUEST2 LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Holodeck Cavern]
+[Holodeck campsite]
 
-NIKOLAI: My friends, we have returned. We have
-food. This is difficult to say, but you have a right to hear it. By the
-time Worf and I had reached the surface, the village was gone. The
-storms have destroyed everything. There is nothing for us to return to.
-
-DOBARA: We can't survive in here. Our supplies won't last forever. 
-NIKOLAI: That's why we must leave. There is a place far from here where
-there are no storms. It will be a difficult journey, but in the end we
-will have a new home. 
-WORF: I know a way through the caves. We will travel safely until we
-return to the surface. 
-VORIN: Where is this new land? 
-WORF: As we said, it is far from here. It will not be like the home you
-knew. Even the stars may be different. 
-VORIN: Why would they be different? And how do you know we'll be safe
-there? 
-NIKOLAI: My brother is a seer. If he says we'll be safe, you must trust
-that we will be safe. 
-(a scream) 
-KATERAS: What's wrong? 
-TARRANA: Look. 
-(holodeck grid lines are flickering on and off in the pool) 
-WORF: Do not worry. It is an omen. 
-DOBARA: What does it mean? 
-WORF: This is the sign of La Forge. It is a message to travellers. It
-is said when these lines appear and disappear
-
+WORF: Commander, the holodeck malfunctions 
 [Engineering]
 
-WORF [OC]: In a pool of water, the road ahead will
-be filled with good fortune. 
-LAFORGE: Hang in there, Worf. Give me just a second. There. That should
-do it. 
-[Holodeck Cavern]
+WORF [OC]: Are increasing. 
+LAFORGE: I'm running every stabilisation routine I know. 
+WORF [OC]: How much longer till we reach the new planet? 
+LAFORGE: We'll be there in less than eight hours. You're just going to
+have to hold things together a little while longer. 
+WORF [OC]: Someone is coming. 
+[Holodeck campsite]
 
-(the pool stops flickering) 
-NIKOLAI: You see? Our journey is already blessed. The road ahead is
-long. Let us have a meal together, then we'll make preparations to
-leave. 
-(the people disperse) 
-NIKOLAI: Worf, very good work. Apparently we don't make such a bad team
-after all. 
-WORF: We are not a team. I am here because Captain Picard ordered me
-here. 
-NIKOLAI: Worf, don't we both share the same goal? Aren't we both trying
-to make this plan work? 
-WORF: Only because you forced us into it. 
-NIKOLAI: I'm not ashamed of what I did. I'm not sorry I saved their
-lives. 
-WORF: You have not changed. You still expect people to solve the
-problems you create. 
-NIKOLAI: I'm not here to work out the issues of our childhood. I'm here
-to save a people who I care about. And if that upsets you, then so be
-it.
+GUEST2: May I speak with you? 
+WORF: Yes, of course. 
+GUEST2: I don't know what Nikolai said to you but, please, forgive him.
+
+WORF: It is an old argument. 
+GUEST2: I've never seen him like this. He's usually so confident, so
+sure of himself. But now he seems different. Do you know why? 
+WORF: No. No, I do not. 
+GUEST2: Ever since Vorin was lost, people have been afraid. Worried
+that we won't reach our new home. We need Nikolai's strength now more
+than ever. When the storms first came to our village, many of us were
+ready to die. But Nikolai refused to let us. He gathered us together
+and led us into caves. He saved us. He is a brave and compassionate
+man, and I love him. Please, go to him. Make things right between you.
+I want us to be a family. 
+WORF: Us? 
+GUEST2: Yes. I want you to consider yourself my brother. After all,
+you're going to be the uncle of my child.
 

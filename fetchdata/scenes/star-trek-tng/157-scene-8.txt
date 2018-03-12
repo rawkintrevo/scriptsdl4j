@@ -1,94 +1,44 @@
-TROI MAROUK PICARD BRULL RIKER YUTA WESLEY CRUSHER
+PICARD GUEST1 GUEST4 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Chorgan's ship]
 
-PICARD: Brull, will you show Mister Crusher the
-course to set to the Hromi Cluster? 
-BRULL: A child? This doesn't inspire my confidence. 
-(Picard gives him a withering glare. Brull goes over to the console but
-clearly doesn't know what he's looking at) 
-WESLEY: This is our present position. 
-BRULL: Set a heading for three four three mark seven two. 
-WESLEY: That's going to take us through the centre of an asteroid belt.
+PICARD: Chorgan, this is Sovereign Marouk. 
+GUEST1: You may sit. 
+PICARD: Chorgan, I think you will find Marouk's proposal 
+GUEST1: You know, Picard, I could take you prisoner. Oh, don't worry,
+I've no intention of doing so. I know what trouble it's been for you to
+get here, and I am curious why. 
+PICARD: Then let's proceed. 
+GUEST3: Quite simply, I am proposing amnesty for every Gatherer. 
+GUEST1: Amnesty? You mean slavery. 
+GUEST4: Chorgan, if you want to know what I think 
+GUEST1: I don't. Say what you came to say, though I doubt that I'm
+going to believe you. 
+GUEST3: I didn't believe this very persuasive Federation Captain when
+he suggested that we could reconcile our differences. I'm convinced now
+it's the right thing, not just for you, but for us too. We need you
+back. I've brought some Acamarian brandy. I'm sure it's been a long
+time. 
+(Yuta serves the glasses) 
+GUEST1: No! You have spent a century hunting us down. 
+PICARD: She is trying to put an end to all that. 
+GUEST1: Yes, by luring us back and putting us in prison. 
+GUEST3: No, by accepting you back as free men. 
+GUEST1: Will you feed and clothe us, too? 
+GUEST3: No, of course I won't. What I will do is give you the means to
+feed and clothe yourselves. We've set aside some land and you can use
+it to 
+GUEST1: Land? Do we look like farmers to you? 
+GUEST3: Then don't farm. Use the land as you wish. It is yours. And the
+moment you set foot on it, you'll be better off than you are today. You
+won't be running any longer. 
+GUEST1: We will need autonomy. 
+GUEST3: Autonomy? 
+PICARD: Sovereign, we can at least acknowledge that Chorgan appears
+willing to discuss your offer. 
+GUEST3: There are many levels of autonomy. Certainly your region would
+have certain rights. 
+GUEST1: Yes, and those rights will be spelled out before I agree to
+anything.
 
-BRULL: What's the matter, kid? Can't you fly yourself around a couple
-of rocks? 
-WESLEY: Sure I can, but if we take this heading we can avoid the belt
-completely, and only lose twelve point one minutes at warp seven. 
-BRULL: Have it your way, kid.
-
-[Ten Forward]
-
-MAROUK: For centuries, my planet was in chaos.
-Loyalty to one's clan was absolute. The slightest injury to one member
-demanded violent retaliation. 
-PICARD: And these blood feuds could last for decades? 
-MAROUK: The obsession with vengeance would be passed from generation to
-generation. And with each act of retribution, the violence would
-escalate. 
-PICARD: It's not unlike much the history of my own planet. 
-(Troi and Riker enter) 
-YUTA: Your pardon, Sovereign. May I be excused briefly? Commander Riker
-requested that I prepare him an Acamarian dish. 
-MAROUK: Of course, Yuta. 
-(Brull enters and goes straight to the bar. He takes another man's
-drink then heads over to Wesley's window seat) 
-BRULL: What are you doing? 
-WESLEY: Homework. 
-BRULL: What is this? 
-WESLEY: Math. 
-BRULL: I can see that, but what does it mean? 
-WESLEY: This is the locally Euclidean metrisation of a k-fold
-contravariant Riemannian tensor field. 
-BRULL: You good at it? You don't like me. 
-WESLEY: I didn't say that. 
-BRULL: No problem. I have many friends that don't like me. But what do
-you know about me? 
-WESLEY: You're a thief. 
-BRULL: I do it to survive, not because I enjoy it. We Gatherers value
-our freedom. We do as we want and we answer to no creature. 
-WESLEY: Then why are you helping Sovereign Marouk to change all that? 
-BRULL: Maybe because I want something better for me, and for my
-children. 
-WESLEY: You have children? 
-BRULL: Yeah, two sons. One's just about your age. He's not any good at
-math. 
-(Yuta brings a tray to Troi and Riker's table) 
-RIKER: Parthas a la Yuta. 
-YUTA: With the help of one of your food stations. 
-TROI: It's wonderful. 
-RIKER: Truly excellent. 
-YUTA: Thank you. 
-RIKER: Would you care to join us? 
-YUTA: I don't want to intrude. 
-TROI: You're not. I was just leaving. Please, sit down. 
-(Troi leaves) 
-RIKER: It really is delicious. 
-YUTA: I'm glad it pleases you, Commander. 
-RIKER: I'm not your commander. My name is William. 
-YUTA: I will call you William if you prefer. 
-RIKER: I do. When you say Commander you say it like you say Sovereign
-to Marouk. 
-YUTA: As a servant. You're an excellent commander, but you'd make a
-poor sovereign. 
-RIKER: Why's that? Not that I disagree. 
-YUTA: You're not comfortable with servants. 
-RIKER: No, I prefer the company of equals. 
-YUTA: So you treat me as an equal. 
-RIKER: And you're not comfortable with that? 
-YUTA: I'm not used to it. I've always been a servant. Not that I'm
-complaining. The Sovereign treats me well. I have all that I could
-want. 
-RIKER: What about freedom? 
-YUTA: I can never have that. 
-RIKER: Because you're the property of the Sovereign? 
-YUTA: No. I'm not her slave. I can leave whenever I wish. 
-RIKER: But you have no place to go? 
-YUTA: Just the opposite. My path is all too clear. 
-RIKER: Yuta, you're an excellent chef, but you speak in riddles. 
-YUTA: I've never been very good at conversation. 
-MAROUK: Yuta. 
-YUTA: I believe the Sovereign wants me to return. Enjoy the parthas. 
-CRUSHER [OC]: Sickbay to Commander Riker. I've discovered something
-interesting, Will. 
-RIKER: On my way. 

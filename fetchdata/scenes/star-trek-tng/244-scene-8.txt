@@ -1,81 +1,36 @@
-RIKER HUTCH LAFORGE WAITER PICARD KELSEY DEVOR COMPUTER ORTON DATA
+TROI CRUSHER DATA RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
-
-(Picard is in riding gear and carrying his saddle) 
-COMPUTER: Auto-shutdown sequence in progress. Defensive systems
-offline. Baryon sweep begins in eight minutes. 
-(Picard spots an open panel with the fibre-optic cable cut and
-dangling) 
-DEVOR: What are you doing? 
-(everyone, say hi! to Tim Russ, not yet a Vulcan) 
-PICARD: Someone left this ODN junction box open. I thought your crew
-was supposed to be off the ship once the field diverters were in place.
-
-DEVOR: The diverters have to be synchronised. I was laser bonding a
-backup link. 
-PICARD: I see. Well, I'd better let you finish up so you can get off
-the ship. 
-DEVOR: Excuse me a minute. 
-(Devor makes to attack Picard with the laser, so he throws the saddle
-at him. They wrestle then Picard neck-pinches him
-unconscious) 
-COMPUTER: Auto-shutdown sequence in progress. Primary power offline in
-one minute. 
-(Picard runs) 
-(in another corridor there are voices off. Picard hides) 
-KELSEY: Get Pomet started on it right away. 
-COMPUTER: Primary power offline in thirty seconds.
-
-[Transporter room]
-
-COMPUTER: Final warning. Primary power offline in
-ten seconds. 
-(Picard sets the transporter controls, the baryon sweep powers up, and
-everything powers down just as he gets onto the transporter pad) 
 [Arkaria base]
 
-DATA: Hmm. Yes. I find it fascinating that your
-family chose to drop the prefix Pel from your surname. It was my
-understanding that Pel Orton is a more noble appellation on Arkaria
-than simply Orton. 
-ORTON: Yes. 
-DATA: Perhaps the recent Arkarian trend toward a more egalitarian
-society is partly responsible, eh? 
-ORTON: Perhaps. 
-HUTCH: The crew of the Magellan actually put on a talent show here.
-Captain Conklin did a poetry reading, if you can imagine that. 
-RIKER: I'm trying to. 
-HUTCH: Did I ever tell you how I came to be stationed here? It's a
-fascinating story. I was serving on Admiral Mitchell's staff on
-Starbase ninety seven. Awful place, by the way. 
-RIKER: Have you met our Commander Data? 
-DATA: As a matter of fact, I find it oddly amusing. 
-HUTCH: No, I don't think so. 
-RIKER: I'll introduce you. 
-DATA: There are several cultures in this sector with extremely similar
-etymological histories. For example 
-RIKER: Mister Data, I don't know if you've had a chance to meet our
-host, Commander Hutchinson. Call him Hutch. Lieutenant Commander Data,
-our second officer. 
-HUTCH: A pleasure. 
-DATA: The pleasure is mine, Hutch. I have been meaning to compliment
-you on your choice of colours here. 
-HUTCH: Oh, you really think so? It wasn't easy making a final decision,
-let me tell you. 
-DATA: I can well imagine. The light in this room would make colour
-selection exceptionally problematic. 
-HUTCH: Precisely. 
-ORTON: Thank you. 
-RIKER: You're welcome. I'm not sure which one to feel sorry for. 
-WAITER: Mister Orton? 
-ORTON: You'll excuse me, Commander. 
-RIKER: Geordi, what happened to the Captain? 
-LAFORGE: Oh, he went back to the ship to get his saddle. 
-RIKER: His saddle? 
-LAFORGE: Any serious rider would have his own saddle. 
-RIKER: Oh. 
-LAFORGE: Probably he went right to the stables. I bet he's ten
-kilometres from here already. 
-RIKER: Lucky him. Thank you.
+(Hutch is covered in a purple curtain) 
+TROI: They haven't tried to communicate with the outside. 
+RIKER: No demands, no political statements, no theft. They must want
+something. 
+TROI: Orton is not as calm as he looks. He's very agitated and nervous,
+as if something's gone wrong. 
+DATA: It is possible that Geordi upset their timetable when he saw the
+hidden weapons. 
+RIKER: Orton may be improvising. Maybe he didn't plan to take us
+hostage so early and now he doesn't know what to do. 
+DATA: If they do not have a plan for this contingency, we may have the
+initiative. 
+RIKER: Maybe, but we need to figure out how to use it. How is he? 
+CRUSHER: There's no permanent damage. I've adjusted the optical
+transducer in his visor to block some of the pain receptors in his
+brain. It's only partially effective. I need to get him to a medical
+facility. 
+RIKER: I doubt if they'll agree to that. But maybe if we tell them
+Geordi's dying, they would give us access to a medical kit. We might be
+able to use some of the tools to make a weapon. 
+DATA: Perhaps we can use the visor as a weapon. If the optical
+transducer were modified, we might be able to generate a hypersonic
+pulse. 
+CRUSHER: A hypersonic pulse would overload the audio receptors of
+everyone in the room. It would cause immediate unconsciousness. 
+RIKER: Can you make the adjustments on the visor by yourself? It'll
+look suspicious if you're both working on it. 
+CRUSHER: I'll try. I might need Geordi to help me through some of it. 
+RIKER: All right. Be as casual as you can. Let us know when you're
+ready.
 

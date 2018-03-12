@@ -1,49 +1,66 @@
-DAVIS RIKER COMPUTER JEV LAFORGE
+TROI JEV GUEST0 PICARD MARTIN GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Riker's quarters]
+[Sickbay]
 
-(Riker is using a PADD when suddenly he is dreaming
-about being back in - )
+TROI: It's like waking up from a nightmare and not
+remembering what it was about. 
+PICARD: What is the last thing you do remember? 
+TROI: My hair. I was brushing my hair. 
+PICARD: And then? 
+TROI: I don't know. Just waking up here. Why do I feel so frightened?
+What happened to me? 
+PICARD: We were hoping that you could tell us. 
+TROI: How long have I been here? 
+MARTIN: Three days. 
+TROI: Three days? 
+PICARD: You were the first. The next day Commander Riker fell into a
+similar coma. Last night, Doctor Crusher. 
+TROI: What is going on here? 
+PICARD: We're not certain. It may be that there is some unusual effect
+produced by the Ullians' telepathic activity. I'm going to talk to
+them, and in the meantime, you're to stay here and recuperate. And if
+you remember anything at all about what happened, I want you to tell me
+immediately.
 
-[Engineering]
+[Ullian's quarters]
 
-(there's an emergency, and the blast doors are
-being lowered. The sequence keeps going around in a loop) 
-DAVIS: Keller is still in there! 
-RIKER: Let's move it! Out, out, out! Let's go! Everybody move!
-Everybody move! Out! Out! Come on, keep moving! 
-LAFORGE: Commander, I need to bring that door down! 
-COMPUTER: Antimatter injection breach. Evacuate immediately. 
-RIKER: Keller, can you get to a Jeffries tube? Ensign Keller, answer
-me! 
-DAVIS: You killed her. Keller is still in there! 
-LAFORGE: Commander, radiation levels are critical. We've got to seal it
-off. 
-DAVIS: She was right behind me! 
-RIKER: Bring down the door! 
-[Riker's quarters]
+GUEST0: What are you suggesting, Captain? 
+PICARD: That you voluntarily confine yourself to your quarters, at
+least until we have
+unraveled this mystery. 
+GUEST0: We're to be prisoners? 
+JEV: Father. 
+PICARD: No, please don't look on it like that. We have done everything
+we can to explain these comas. We have performed physical examinations,
+and neurological scans. We have conducted a ship-wide diagnostic,
+looking for viruses, parasites, infestations. We have investigated
+every possible cause we can imagine. We have found nothing. Nothing to
+explain these comas. The only variable that we have not been able to
+eliminate is your presence here on this ship. Now, in the light of our
+actions, we would ask you to understand my request and to agree to it. 
+JEV: Captain, our history indicates that we do not adversely affect the
+people we contact. 
+PICARD: I know that. 
+JEV: Then are you implying an intentional assault? 
+PICARD: I'm simply considering all possibilities. 
+JEV: Surely you would give us the chance to prove that we are innocent?
 
-RIKER [OC]: Bring down the door. 
-LAFORGE [OC]: I need to bring that door down. 
-[Engineering]
-
-RIKER: Out, out! Let's go! 
-DAVIS: Keller is still in there. 
-JEV: Didn't you hear him? Keller is still in there. 
-RIKER: Riker to transporter room three. Prepare to beam Ensign Keller
-out of the engine room. 
-JEV: Keller is still in there. 
-JEV: Keller is still in there. 
-DAVIS: You killed her. 
-RIKER: Ensign Keller, answer me. 
-JEV: You killed her. 
-LAFORGE: I've got to get that isolation door down! 
-JEV: Keller is still in there. 
-RIKER: Bring down the door! 
-JEV: You killed her. 
-DAVIS: You killed her. 
-JEV: You killed her. 
-LAFORGE: I need that door down! 
-DAVIS: Keller is still in there. 
-JEV: You killed her.
+PICARD: If that's possible, of course. 
+JEV: Then I would propose doing a memory probe of Counsellor Troi. You
+have said that she doesn't remember anything that happened before she
+lapsed into unconsciousness. I could retrieve that memory There is a
+possibility that it could explain the coma and prove our innocence. 
+PICARD: I'm sorry. I couldn't possibly subject Counsellor Troi to a
+potentially dangerous procedure. 
+GUEST0: And I refuse to be a party to any of these proceedings. 
+(Tarmin leaves) 
+GUEST2: Jev is making a reasonable request, Captain. If we're to be
+accused, surely we're entitled to a defence? Tarmin did a memory probe
+on another of your crew. Has she suffered any ill effects? 
+PICARD: No. 
+GUEST2: And neither will Counsellor Troi. Please, you may have as many
+people here as you need to guarantee her safety, but give us this
+chance to vindicate ourselves. 
+PICARD: I will discuss the matter with Counsellor Troi.
 

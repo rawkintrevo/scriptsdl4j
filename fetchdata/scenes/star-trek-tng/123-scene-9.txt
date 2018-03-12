@@ -1,48 +1,53 @@
-TASHA PICARD RIKER TJON WORF
+PICARD GUEST4 TJON GUEST3 CRUSHER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Sickbay]
 
-RIKER: Freighter Sanction, this is the Enterprise.
-We're having difficulty getting a fix. 
-TASHA: Have them go to their own transporter room. It will be tricky,
-but perhaps I can link the two transporters in series
-and get them over with the increased power. 
-RIKER: It's worth a try. Captain T'Jon go to your transporter room.
-Contact me from there. 
-T'JON [OC]: Right, Enterprise. It's right next door. But if you can't
-get us with your transporter, what makes you think ours will do the
-job? 
-TASHA: I'm going to interconnect them. 
-T'JON [OC]: I didn't know you could do that. 
-TASHA: Hurry! We're running out of time. 
-T'JON [OC]: We're on our way. 
-TASHA: I don't think they're going to make it. 
-RIKER: Captain T'Jon doesn't sound like he cares one way or the other. 
-TASHA: Worf, how much time do we have? 
-WORF [OC]: One minute, twenty eight seconds. 
-TASHA: Captain T'Jon, are you there? 
-T'JON [OC]: We're in the transporter room. 
-TASHA: Great. Activate your transporter. Set coordinates nine seven
-zero three mark two six eight. 
-T'JON [OC]: Did you say two eight six or eight eight six. 
-TASHA: Mark two six eight! 
-T'JON [OC]: Got it.
+T'JON: Captain, you must give us back our cargo. 
+PICARD: I can't do that. 
+T'JON: Why? It belongs to us. 
+PICARD: The Brekkians claim it belongs to them. 
+GUEST3: They lie. 
+PICARD: That may be so, but it's not my decision. 
+GUEST3: We need some now. Now! I don't care if it's your decision. Get
+us some. 
+T'JON: Captain, what is happening to us, is happening to thousands more
+on Ornara. Please understand the magnitude of the problem. 
+GUEST3: Your people don't need it. The Brekkians don't need it. Our
+people do. 
+T'JON: If you don't give it to us, you will be a party to murder, not
+only of us, but of an entire civilisation. I'm sorry, I do not mean to
+insult you. I'm feeling very shaky. 
+GUEST3: We cannot hold out much longer. 
+CRUSHER: They believe it will help them. That in itself might control
+their symptoms. 
+PICARD: I'll talk with the Brekkians. 
+T'JON: Thank you, Captain. We appreciate anything you can do.
 
-[Bridge]
+[Guest quarters]
 
-WORF: Sir, the hull temperature of the freighter is
-passing three thousand degrees. 
-PICARD: What's the hold up, Number One?
-
-[Transporter room]
-
-RIKER: We're establishing the link right now. 
-T'JON [OC]: We're ready. 
-TASHA: Then all six of you, get on the transporter platform. On my
-signal, energise. I've got their initial transporter
-signal. Interlock complete. Energise on my mark. Four, three, two, one,
-energise. 
-(A big barrel arrives, no people) 
-PICARD [OC]: Number One, did you get them off? 
-RIKER: No, sir. They stayed in the freighter
+(Langor and Sobi are relaxing and enjoying a drink
+when the doorbell chimes. Picard enters) 
+GUEST4: May I say, Captain, how impressed we are with your ship and all
+its facilities. 
+PICARD: Thank you. 
+GUEST2: And its crew. Everyone is so efficient and professional. 
+PICARD: I am glad you are comfortable. I've come to seek your agreement
+to an Ornaran request. 
+GUEST4: We cannot agree 
+GUEST2: Wait. Let the Captain speak. We want to be reasonable. 
+PICARD: The two Ornarans are really quite ill and insisting that they
+need felicium. 
+GUEST4: That is not surprising. 
+PICARD: Would you object to giving them enough for their own immediate
+needs? 
+GUEST4: Captain, we Brekkians are in business. We are not in the habit of
+giving away what has not been paid for. 
+PICARD: You would see them die rather than share the medicine? 
+GUEST2: We want to be fair, Captain. We agree to permitting them two
+dosages for immediate use. 
+GUEST4: No charge. 
+PICARD: I'll let my Medical Officer handle it. 
+GUEST2: Captain, I trust you won't mind if we're present while you open
+the cargo.
 

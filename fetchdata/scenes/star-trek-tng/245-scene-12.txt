@@ -1,48 +1,35 @@
-NELLA DATA LAFORGE PICARD
+NELLA RIKER CRUSHER WORF PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jefferies tube]
+[Bridge]
 
-(Picard and Nella are both in casual clothes, going
-up the ladders) 
-NELLA: Keep climbing. 
-PICARD: Where are we going? 
-NELLA: We're almost there. 
-PICARD: I don't see why we couldn't just practice in my quarters. 
-(they sit at an intersection) 
-NELLA: Do you know where we are? 
-PICARD: Yes, this is the fourth intersect in Jefferies tube twenty
-five. 
-NELLA: No, this is the most acoustically perfect spot on the ship. 
-(she starts up the Moonlight Sonata on her keyboard) 
-NELLA: The intersection acts as a resonance chamber. 
-PICARD: How did you find it? 
-NELLA: A little exploring. 
-PICARD: You mean to say you climbed through every tube on the ship? 
-NELLA: Well, not every one. Try it. See how it sounds. 
-(he plays what seems like a variation of the Skye Boat song) 
-NELLA: That's beautiful. What is it? 
-PICARD: It's an old folk melody. 
-NELLA: I've never heard you play with such feeling. 
-(she plays the tune and he joins in)
+CRUSHER [OC]: Crusher to Bridge. 
+PICARD: Go ahead, Doctor.
 
-[Engineering]
+[Transporter room]
 
-(Geordi can hear the music, and goes into the main
-Jefferies tube access to investigate) 
-DATA: Is there a problem, Geordi? 
-LAFORGE: I hear music. 
-DATA: Music? I do not hear anything. 
-LAFORGE: Are you sure? I know I heard something. Oh, it's stopped. 
-(because the musicians are kissing)
+(a different one, with Guy Vardeman at the
+transporter controls) 
+CRUSHER: We just brought aboard the last of the infirmary patients and
+they're on their way to Sickbay. But we still have over 
+[Bridge]
 
-[Turbolift]
-
-NELLA: I'd heard about Kerelian tenors all my life,
-but nothing could've prepared me for this man's voice. Soaring,
-incredible range. Wonderful. 
-PICARD: I understand there are nuances that only Kerelians can pick up.
-We just don't have the ears for it. 
-(a crewwoman enters) 
-NELLA: I should be finished with my survey by eleven hundred hours. 
-PICARD: Very good, Commander.
+CRUSHER [OC]: A hundred colonists down there. 
+PICARD: Understood. 
+NELLA [OC]: Daren to Commander Riker. 
+RIKER [OC]: Riker here. Go ahead. 
+NELLA [OC]: We've got a problem. We're having trouble keeping the
+deflectors cross connected. So the only way this is going to work is if
+we calibrate them manually. 
+RIKER [OC]: If you stay with the deflectors, will they protect you when
+the storm hits?
+NELLA [OC]: I don't know, sir. For a few minutes maybe. 
+PICARD: Picard to Commander Riker. How many more colonists do you have
+to transport? 
+RIKER [OC]: Seventy three, sir. 
+PICARD: How long do you need? 
+RIKER [OC]: At least ten more minutes. 
+WORF: Captain, the storm will reach the northern perimeter in four
+minutes. 
+PICARD: Picard to perimeter teams.
 

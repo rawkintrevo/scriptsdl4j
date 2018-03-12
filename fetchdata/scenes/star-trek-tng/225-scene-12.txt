@@ -1,54 +1,45 @@
-RIKER PICARD ELINE OGAWA CRUSHER DATA MAN
-
-[Courtyard]
-
-(a young girl is playing in the sunshine as Picard
-plays his flute indoors) 
-ELINE [OC]: Meribor.
+GUEST1 PICARD ELINE GUEST2 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Living room]
 
-(the little girl runs to Eline, who is holding a
-baby) 
-ELINE: Meribor, this is your brother's ceremony. Don't fidget now. 
-PICARD: We name this child for a dear friend who died a year ago. But
-now his memory will live on in his namesake. 
-ELINE: We name you Batai, in his honour. 
-PICARD: And he's starting out in the warmth of friends. Thank you.
-Please, help yourselves to something to eat. 
-MAN: Congratulations, Kamin. 
-PICARD: Thank you. 
-ELINE: It seems like only yesterday we had Meribor's naming ceremony.
-Go on. 
-PICARD: I remember. I was so nervous I was afraid that I would drop
-her. Now look at the little lady. 
-ELINE: She's no lady. Tromping through the hills with you all day,
-digging up those soil samples you insist upon collecting. No, she's her
-father's daughter. 
-PICARD: I would have believed I didn't need children to complete my
-life. Now I couldn't imagine life without them. 
-ELINE: Kamin, what is it? 
-(Picard collapses) 
-ELINE: Get the doctor. Hurry!
+PICARD: Doctor? 
+GUEST3: Kamin. I'm sorry. 
+ELINE: You see? I go to any lengths to get your attention. 
+PICARD: You always did have a flair for the dramatic. 
+ELINE: Doctor, thank you. (Doctor leaves) Batai, leave us alone for a
+moment. I need to talk to my husband. 
+(Batai leaves) 
+ELINE: Did you show the Administrator your evidence? 
+PICARD: I didn't have to. They already knew. 
+ELINE: So, he won't throw you off the Council? 
+PICARD: No. 
+ELINE: Good. Remember, put your shoes away. 
+PICARD: I promise. 
+(Eline dies) 
+[Living room]
 
-[Bridge]
+(a very old man and a young boy are crawling on the
+floor) 
+PICARD: Gotcha! Now I gotcha. 
+GUEST2: Some children are certainly making a lot of noise in here. 
+PICARD: You shouldn't be outside so long. It's damaging, you know that.
 
-OGAWA: His respiratory system's in spasm. Pulse is
-irregular and weakening. 
-CRUSHER: I'm losing him! 
-OGAWA: I'm getting massive somatophysical failure. 
-CRUSHER: Two cc's delactovine. 
-RIKER: Data, get that beam back. 
-OGAWA: There are severe fluctuations in the isocortex. Synaptic
-responses are failing. 
-CRUSHER: Begin full cardiac induction. 
-OGAWA: Blood pressure is dropping rapidly. Seventy over twenty. 
-CRUSHER: Data, you've got to re-establish that beam. 
-DATA: I am attempting to do so, Doctor. 
-OGAWA: Losing response in the isocortex. 
-CRUSHER: Cortical stimulators. Start at ten percent. 
-DATA: The beam is fully restored, Doctor. 
-OGAWA: Blood pressure up to ninety over forty and rising. 
-CRUSHER: Isocortical functions are stabilising. Vital signs are
-approaching normal.
+GUEST2: I'm wearing plenty of your skin protector. 
+PICARD: How about you, young man? Do you wear your skin protector
+outdoors? You do? Good boy. 
+GUEST4 JR: (now with his father's hairline) Happy day, everybody. It's
+time to go see the launching. 
+PICARD: What launching? What's he talking about? 
+GUEST2: They're sending up a missile, Father. We're going to watch it.
+
+PICARD: I'm not going anywhere to watch anything. 
+GUEST4 JR: Come on, Kamie. Hurry up now. Let's go see the launching. 
+(Batai puts a hat on his nephew and they leave) 
+PICARD: It breaks my heart to look at him. 
+GUEST2: Who? 
+PICARD: My grandson. It breaks my heart. He deserves a rich, full life,
+and he's not going to get one. 
+GUEST2: Please come, Father. 
+PICARD: Why didn't I hear anything about a launching?
 

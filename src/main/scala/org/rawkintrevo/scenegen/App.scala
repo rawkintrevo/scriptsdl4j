@@ -51,15 +51,18 @@ object App {
   def main(args: Array[String]) {
     val lstmLayerSize = 1024                    //Number of units in each LSTM layer
     val miniBatchSize = 128 // 256, but keep increments of 32, maybe 64(2056) next  //Size of mini batch to use when  training
-    val exampleLength = 1022 //65536/8  // ~8k  // and episode ~ 30k e.g. devide by 2   //Length of each training example sequence to use. This could certainly be increased
+    val exampleLength = 996 //1022 //65536/8
     val tbpttLength = 128                        //Length for truncated backpropagation through time. i.e., do parameter updates ever 50 characters
     val numEpochs = 1000                           //Total number of training epochs
     val generateSamplesEveryNMinibatches = 1000   //How frequently to generate samples from the network? 1000 characters / 50 tbptt length: 20 parameter updates per minibatch
     val nSamplesToGenerate = 1                  //Number of samples to generate after each training epoch
     val nCharactersToSample = 1024               //Length of each sample to generate
     val generationActors = Array("LAFORGE", "DATA", "TROI", "RIKER")
+    val generationTopics: Array[Float] = new Array[Float](60)
+    generationTopics(19) = 0.51.toFloat // Romulans
+    generationTopics(23) = 0.49.toFloat // Battle
     val generationInitialization = "Stardate"         //Optional character initialization; a random character is used if null
-    val learningRate = 0.1
+    val learningRate = 0.01
     // Above is Used to 'prime' the LSTM with a character sequence to continue/complete.
     // Initialization characters must all be in CharacterIterator.getMinimalCharacterSet() by default
     val rng = new Random(12345)
@@ -141,6 +144,7 @@ object App {
           (if (Option(generationInitialization).isEmpty) "" else generationInitialization) + "\"")
         val samples = sampleCharactersFromNetwork(generationInitialization,
                                                   generationActors,
+                                                  generationTopics,
                                                   net, iter, rng, nCharactersToSample, nSamplesToGenerate)
         for (j <- samples.indices) {
           println("----- Sample " + j + " -----")
@@ -180,6 +184,7 @@ object App {
     */
   private def sampleCharactersFromNetwork(_initialization: String,
                                           _initActors: Array[String],
+                                          _initTopics: Array[Float],
                                           net: MultiLayerNetwork,
                                           iter: CharFileIterator,
                                           rng: Random,
@@ -199,6 +204,10 @@ object App {
         // Add Actors
         for (a <- _initActors) {
           initializationInput.putScalar(Array[Int](j, iter.validCharacters.length + iter.actorToIdxMap(a), i), 1.0f)
+        }
+        // Add Topics
+        for (t_i <- _initTopics.indices) {
+          initializationInput.putScalar(Array[Int](j, iter.validCharacters.length + iter.validActors.length + t_i, i), _initTopics(t_i))
         }
       }
     }

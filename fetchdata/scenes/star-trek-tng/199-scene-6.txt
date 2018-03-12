@@ -1,47 +1,43 @@
-PICARD RIKER CRUSHER DATA JENNA
+TROI DATA RIKER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Troi's office]
+
+TROI: I think you should be careful. This isn't
+just some experiment you're running, Data. Jenna is a living, breathing
+person with needs and feelings that have to be considered. 
+DATA: Then you do not believe I should pursue this any further. 
+TROI: I didn't say that. I just want you to be aware that this is
+unlike any other more casual relationship that you've attempted. 
+DATA: I have studied much human literature on the subject of love and
+romantic liaisons. There are many role models for me to emulate. 
+TROI: Ultimately, Jenna will care for you for what you are, not what
+you imitate out of a book. 
+DATA: My programming may be inadequate to the task. 
+TROI: We're all more than the sum of our parts, Data. You'll have to be
+more than the sum of your programming.
 
 [Bridge]
 
-PICARD: Report, Mister Data. 
-DATA: I am nearly finished compiling readings from our most recent
-illuminatory burst. Dark matter density is nearly one order of
-magnitude higher than in similar nebulae. Life forms here may have
-developed in ways never before observed. 
-RIKER: Interesting hypothesis. Are there any M-class planets we could
-check out? 
-DATA: Several, sir. The nearest is approximately three light hours from
-our present position. 
-PICARD: It's worth a look. We'll continue our survey along the way. 
-[Sickbay]
+WORF: Klingons do not pursue relationships. They
+conquer that which they desire. However, Lieutenant D'Sora serves under
+my command. If she were mistreated, I would be very displeased, sir. 
+DATA: I understand.
 
-CRUSHER: Let's increase the flow rate and see if
-that helps. 
-(she picks up an instrument that fell to the floor as she passed the
-table)
+[Observation lounge]
 
-[Torpedo bay]
+RIKER: I think you should pursue it. First of all,
+she's a beautiful woman. She seems to be crazy about you. 
+DATA: Jenna has clearly demonstrated how she feels about me, but I am
+not capable of returning those feelings. 
+RIKER: Data, when you get involved with another person, there are
+always risks of disappointment, of getting hurt. 
+DATA: I cannot be hurt. But she can. 
+RIKER: Jenna knows that and she has obviously decided to take the
+chance. Data, when it really works between two people, it's not like
+anything you've ever experienced. The rewards are far beyond simple
+friendship. 
+DATA: How far, sir? 
+RIKER: That's what I'm hoping you're going to find out. 
+DATA: Thank you, Commander.
 
-JENNA: Sometimes in the summer we'd go on cookouts.
-Just my little brother and me, and mother. She was hopeless without a
-replicator. We didn't care. 
-DATA: Children often do not develop discerning palettes until well
-beyond adolescence. 
-JENNA: It's wasn't that. It's just that we felt so good being together,
-you know, as a family. We didn't have much of that after my father
-died. so those times were really special. I wish we were back there
-now, you and I. 
-DATA: The unidirectional nature of the time continuum makes that an
-unlikely possibility. 
-JENNA: That what I love about you, Data. You make me laugh. I don't
-know why I keep falling for the wrong man. Why can't I fall for
-somebody like you. You're perfect. 
-DATA: That is not true. I have no human feelings. 
-JENNA: But you give me so much. You spend time with me when I was
-lonely, you encouraged me when I'm down. No man has ever been kinder to
-me. Those are the things that matter. I'd better be going. With your
-permission, Commander. 
-DATA: Permission granted. 
-(she gives him a kiss on the cheek) 
-JENNA: I don't know if you're aware of this, but you're very handsome. 
-(she gives him a full on kiss) 
-JENNA: I'll see you tomorrow. 

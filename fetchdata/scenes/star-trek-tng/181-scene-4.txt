@@ -1,51 +1,56 @@
-TROI WORF PICARD RIKER CHIEF KEHLEYR DATA
+RIKER ALEXANDER WORF KEHLEYR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
-
-CHIEF: I just received coordinates, sir. Ready to
-transport two from the Klingon vessel. 
-WORF: Two? 
-CHIEF: Yes, sir. 
-WORF: Energise. 
-(K'Ehleyr is beamed in, with a little boy) 
 [Schoolroom]
 
-K'EHLEYR: I hope he'll be all right. Alexander
-hasn't had much contact with other children.
+(Alexander is not playing nicely and sharing the
+toys. Note, he is about half the height of Worf) 
+WORF: There is no honour in attacking the weak. 
+ALEXANDER: I would have won. 
+WORF: No. You must earn victory. 
+[Corridor]
 
-[Turbolift]
+ALEXANDER: Where are the other Klingons? 
+WORF: There are no others on board. 
+ALEXANDER: Why? 
+WORF: The Federation and the Klingon Empire were enemies for many
+years. No other Klingons have asked to serve in Starfleet. 
+ALEXANDER: Why? 
+WORF: A warrior does not ask so many questions. 
+ALEXANDER: I don't want to be a warrior.
 
-K'EHLEYR: Not even a bite on the cheek for old
-time's sake? 
-WORF: Perhaps you're not aware of my dishonour. I have accepted
-discommendation. 
-K'EHLEYR: I've heard. So now what? I have to perform some ridiculous
-ritual to talk to you? 
-WORF: You may not respect our traditions, but I do. 
-K'EHLEYR: Sorry. I just thought you might want to talk. A few minutes
-ago, you looked like someone with a question to ask. 
-WORF: Must I ask the question? 
-K'EHLEYR: Yes, you must. 
-(Worf gets out of the turbolift) 
-K'EHLEYR: What should I tell Alexander? That he has no father?
+[K'Ehleyr's quarters]
 
-[Observation lounge]
+(Alexander runs in and gets a hug) 
+K'EHLEYR: Hello! Well, you're back early. 
+ALEXANDER: He made me leave. 
+K'EHLEYR: Maybe you should go to your room and play. 
+(Alexander runs off) 
+K'EHLEYR: Is he under arrest? 
+WORF: He knows nothing of our ways! 
+K'EHLEYR: Our ways? You mean Klingon ways, don't you? 
+WORF: He is Klingon! 
+K'EHLEYR: He is also my son and I am half-human. He will find his own
+ways. Why the sudden concern? You won't even acknowledge that he's
+yours. 
+WORF: Why did you not tell me? 
+K'EHLEYR: What would you have done? That's right. You would have
+insisted that we take the oath, just as tradition would demand. 
+WORF: You should not have kept this from me. 
+K'EHLEYR: Well, now you know. 
+WORF: I cannot acknowledge my relationship to the boy. It would only
+harm him. 
+K'EHLEYR: Because you were dishonoured? 
+WORF: As my son, he would also bear my disgrace, as would his children.
 
-K'EHLEYR: The Klingon Empire is at a critical
-juncture. We may be facing civil war. 
-RIKER: War over what? 
-K'EHLEYR: The usual excuses. Tradition, duty, honour. 
-DATA: The word excuses implies ulterior motives for a conflict. 
-K'EHLEYR: I won't bore you with the intricacies of Klingon politics.
-Basically, two factions are trying to seize power. 
-PICARD: Do you believe there is a threat to the Federation in this
-struggle? 
-K'EHLEYR: Klingon wars seldom remain confined to the Empire. Sooner or
-later they'll drag in the neighbouring star systems, then the Tholians,
-the Ferengi. The Federation won't be able to stay out of it for long.
-This has been coming for some time. Only K'mpec, the head of the
-Council, has been able to maintain the peace. 
-TROI: Now something has changed that. 
-K'EHLEYR: Correct. K'mpec is dying. He is aboard the cruiser. He has
-come specifically to meet with you, Captain. Alone.
+K'EHLEYR: Why did you accept discommendation from the High Council? 
+WORF: My father was accused of collaborating with the Romulans at
+Khitomer. 
+K'EHLEYR: I know. And I also know that you challenged it. 
+WORF: Yes at first. Ultimately I withdrew my challenge. 
+K'EHLEYR: But why, Worf? I can't believe you'd just give up. What
+really happened? 
+RIKER [OC]: Lieutenant Worf, Ambassador K'Ehleyr, report to the Bridge.
+
+WORF: On our way, Commander.
 

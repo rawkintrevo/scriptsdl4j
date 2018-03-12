@@ -1,49 +1,60 @@
-TROI LAFORGE PICARD RIKER CRUSHER ALLENBY
-
-[Sickbay]
-
-CRUSHER: Yes, Deanna? 
-TROI [OC]: Beverly 
-[Troi's office]
-
-TROI: I'm feeling very dizzy. 
-CRUSHER [OC]: Did you hit your head? 
-TROI: I'm not sure. I'm not sure what happened. 
-[Sickbay]
-
-CRUSHER: Lie down, breathe deeply and stay calm.
-I'm getting calls from all over the ship. I'll be there as quickly as I
-can.
+TROI LAFORGE PICARD RIKER GUINAN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-ALLENBY: New heading confirmed. Zero two five mark
-two seven three. Speed is holding at one tenth impulse. 
-RIKER: Whatever's pulling us sure isn't in a hurry. 
-PICARD: Picard to La Forge. 
-LAFORGE [OC]: Go ahead, Captain. 
-PICARD: If your engines are functioning we'll attempt to break free.
+LAFORGE [OC]: We're lucky the hull is still in one
+piece. 
+PICARD: This little nuisance is beginning to lose its fascination. 
+DATA: Sir, during our attempt to break away, I recorded a momentary
+alteration of the movement pattern within the cluster. 
+RIKER: You think we got their attention, Data? 
+DATA: Perhaps, but just for an instant. The pattern immediately
+returned to its previous dynamic. 
+PICARD: Follow up on it, Mister Data. Input your observations into the
+Universal Translator. 
+DATA: Aye, sir. 
+PICARD: Perhaps the movements themselves are an attempt at
+communication. 
+[Ten Forward]
 
-[Engineering]
-
-LAFORGE: Everything down here seems normal enough,
-sir, but I suggest we take it a bit slower this time.
-
-[Bridge]
-
-PICARD: Ensign, bring us around ninety degrees to
-starboard. 
-ALLENBY: New course laid in at ninety degrees to starboard. 
-PICARD: One quarter impulse, engage. 
-ALLENBY: Aye, sir. Nothing, Captain. Speed and course are unaffected. 
-PICARD: One half impulse. 
-ALLENBY: No change. 
-PICARD: Full impulse. Rotate heading in five degree increments. 
-ALLENBY: Aye, sir. 
-(the ship shakes) 
-RIKER: La Forge? 
-[Engineering]
-
-LAFORGE: There's nothing wrong down here. The
-engines are fine.
-
+GUINAN: (sneaking up from behind) More tea? I
+didn't mean to startle you. 
+TROI: That's alright. I'm getting used to it. 
+GUINAN: May I? 
+TROI: Sure. 
+(Guinan sits with her) 
+GUINAN: Are you really getting used to it? 
+TROI: No. 
+GUINAN: Do you want to talk about it? 
+TROI: No. 
+GUINAN: Good. I get so tired of people coming in with their problems.
+They come in, they want a shoulder to cry on, and generally it turns
+out to be mine. 
+TROI: You'd make a good counsellor. 
+GUINAN: I think so too. So I'm going to talk to Picard about it. 
+TROI: About what? You becoming counsellor? 
+GUINAN: Well, yes, you're leaving. That means there won't be a
+counsellor on board, and I suppose I'm going to have a very long line
+at that bar. It would be nice to have a nice office, too. 
+TROI: It's more than just letting them cry on your shoulder. It takes
+an enormous commitment. 
+GUINAN: I can do that. 
+TROI: Guinan, people come to you to talk about things they want to
+reveal. As ship's counsellor, you have to get them to talk about things
+they don't want to reveal. 
+GUINAN: I could do that too. 
+TROI: What are you? You don't really want to be ship's counsellor. 
+GUINAN: What would make you say that? 
+TROI: I just know you're not serious. 
+GUINAN: Have I given you any indication that I might not serious? 
+TROI: Not really, but 
+GUINAN: Then how do you know? Are your empathic abilities coming back? 
+TROI: No. I suppose it's just instinctive. I get it. You're trying to
+make me see that I have other abilities to draw on. Human intuition,
+instincts. Guinan, those skills only develop after years of experience.
+It's not that easy. 
+GUINAN: No one said it was easy. It's much harder than you think. Human
+intuition and instinct are not always right, but they do make life
+interesting. 
+TROI: So I'm discovering. 

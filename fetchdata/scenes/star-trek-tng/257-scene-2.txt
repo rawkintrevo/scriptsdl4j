@@ -1,23 +1,9 @@
-TROI GIUSTI LAFORGE WORF PICARD TALLERA BARAN DATA NARIK
-
-[Mercenary Bridge]
-
-BARAN: Continue firing! 
-PICARD: I've lost three plasma relays on the disruptors. Auxiliary
-power is, is not available. 
-BARAN: Transfer weapons control to my station. There's a way to bypass
-the relays and feed power 
-(another hit) 
-NARIK: The antimatter containment units are starting to buckle! 
-TALLERA: The Enterprise has been badly damaged but they still have
-superior firepower. If we remain here, we will be destroyed. The
-logical course of action is to withdraw. 
-BARAN: We've done enough damage. Narik, set course one eight zero, mark
-two one five. Warp six. Initiate.
+TROI GUEST0 DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-GIUSTI: They're preparing to activate their warp
+GUEST0: They're preparing to activate their warp
 drive, Commander. 
 WORF: Sir, we cannot be able to track them with our sensors if they go
 to warp. I can still disable them 

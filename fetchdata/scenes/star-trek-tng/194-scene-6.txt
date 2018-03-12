@@ -1,39 +1,46 @@
-PICARD TROI VASH WORF RIKER
+PICARD VASH CREWMAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Corridor]
 
-VASH: I don't understand, I thought being the
-ship's Counsellor meant the Captain confided in you. 
-TROI: He does, when he thinks it's necessary. 
-VASH: And he never spoke to you about me? 
-TROI: Not that I recall. 
-VASH: Not even a hint? 
-TROI: You must understand, the Captain is a very 
-TROI + VASH: Private man. 
-VASH: I know. Excuse me? 
-TROI: Of course. 
-WORF: Nice legs. For a human. 
-VASH: Jean-Luc, we need to talk. 
-PICARD: Excuse me. 
-(they go to a quiet corner) 
-PICARD: The reception seems to be going well. 
-VASH: Forget the reception for a moment. Why have you never mentioned
-me to your friends? 
-PICARD: What would you have me tell them? 
-VASH: Maybe that we met, for one thing. That we had an adventure
-together, some fun. 
-PICARD: It wouldn't be possible. 
-VASH: Why not? 
-PICARD: It would be inappropriate. 
-VASH: I wasn't expecting you to go into intimate details. 
-PICARD: A Captain does not reveal his personal feelings with his crew. 
-VASH: Is that a Starfleet regulation, or did you just make that up
-yourself? 
-PICARD: I'm sorry if you're upset. 
-VASH: And I'm sorry if my being here embarrasses you.
+CREWMAN: Captain. 
+(The crewman goes round the corner, there's no one else in sight, so
+Picard rings a doorbell) 
+VASH [OC]: Who's there? 
+PICARD: It's me. 
+VASH [OC]: Who? 
+PICARD: Jean-Luc. 
+[Vash's quarters]
 
-[Bridge]
-
-RIKER: How was the reception? 
-PICARD: Splendid.
+VASH: Yes? 
+PICARD: May I come in? 
+(Picard enters) 
+PICARD: Let me try to explain. I am by no means embarrassed by your
+presence here. On the contrary. 
+(then he spots a PADD on a table) 
+PICARD: What's this? A map of the ruins? I thought that I was the only
+reason you came to Tagus. 
+VASH: I never fooled you for a second. Still, you are the most
+important reason. 
+PICARD: Am I? 
+VASH: That's the trouble with being such a well-known liar. Even when
+I'm telling the truth, no one believes me. 
+(Picard goes into the next room and comes out with a shovel and
+something else) 
+PICARD: This equipment will have to be confiscated. 
+VASH: Is that necessary? 
+PICARD: If the Taguans were to catch you down there. 
+VASH: Oh, come on. You gave me the same warning about Sarathong Five. 
+PICARD: I remember. 
+VASH: Well, it didn't stop me from going there. I brought back some
+very impressive artefacts, too. 
+PICARD: Which no doubt you sold for a very impressive profit. 
+VASH: That's what I do! 
+PICARD: Not on board my ship. I will not allow it. 
+VASH: Let's get one thing straight, though, Picard. I cannot change who
+I am for you or anyone else. 
+PICARD: Nor can I change who I am. 
+VASH: Then we have nothing more to say to one another. 
+PICARD: So it would seem. 
+(Picard leaves, and Q pokes his head through the hull)
 

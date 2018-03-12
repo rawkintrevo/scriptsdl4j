@@ -1,82 +1,36 @@
-PASSERBY RIKER OBRIEN WORF HAYNE CRUSHER DATA MAN
+ISHARA DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
-DATA: The surface settlement appears to be all but
-destroyed. Sensors show that the colonists now live in structures that
-extend nearly three kilometres beneath the city. 
-RIKER: Have you located the escape pod's landing point, Chief? 
-O'BRIEN: Yes, sir. Three hundred metres beyond the colony perimeter. 
-WORF: Sir, we can anticipate a violent response to our presence.
-Perhaps the Doctor should wait here until we signal. 
-CRUSHER: I appreciate your concern. I think it's exaggerated. 
-WORF: The colony is completely lawless. Lieutenant Yar spoke of rape
-gangs and 
-CRUSHER: Mister Worf, I can handle myself. 
-RIKER: She's coming. The Arcos crewmen may require immediate medical
-assistance. Phasers on maximum stun. Energise.
+DATA: Welcome to the Enterprise, Ishara. I am
+Commander Data. 
+ISHARA: You're not human. 
+DATA: I am an android. 
+ISHARA: Built for fighting? 
+DATA: On what do you base that assumption? 
+ISHARA: A cybernetic device serving on a starship. 
+DATA: The Enterprise is not a ship of war. It is a ship of exploration.
 
-[Tunnel]
+ISHARA: The first thing to do is help you map the colony. This is a
+general grid of the tunnel system. I can fill in the specific details
+from memory. 
+DATA: My orders are to escort you to the Observation Lounge. Please
+come with me.
 
-(very man-made, with iron bars, neon signs, and
-other metallic detritus) 
-DATA: The dispersion trail continues in this direction. The
-concentration gradient definitely increases along this vector.
-The escape pod was apparently moved into the tunnels ahead of us. 
-(The people they meet take no obvious notice of them, but carry on with
-what they are doing) 
-RIKER: Hardly the response we expected. 
-PASSER-BY: Pardon me. 
-CRUSHER: Maybe things have changed here. 
-(Then an alarm goes off, and an armed group appears) 
-MAN: Freeze! Identify yourselves. 
-RIKER: We're from the Federation Starship Enterprise. We tracked two of
-our crewmen to this area. Do you know anything about them? 
-MAN: Possibly. 
-RIKER: What do you mean? 
-(A light on the man's chest flashes yellow) 
-MAN: They found us. 
-WORF: Proximity detectors. I've seen them used on Manu Three. 
-MAN: Follow me. 
-(His group run off, carrying a case. The away team follow) 
-[Coalition headquarters]
+[Corridor]
 
-(The case is crow-barred open) 
-HAYNE: The Alliance is holding your men hostage, Commander Riker, not
-us. You can expect a ransom demand. 
-RIKER: The Alliance? 
-HAYNE: Our good friends. Our good friends are going to be upset when
-they realise we took their last crate of Telluridan synth-ale. 
-RIKER: Maybe I should take this to the authorities. 
-HAYNE: We are the authorities. The Coalition, our cadre, runs this side
-of the city. The Alliance controls the other side. Take your choice. 
-RIKER: Are you offering to help us? 
-HAYNE: In return for some consideration. Phasers are in short supply
-down here. A starship isn't going to miss a few. 
-WORF: That is no better than a ransom demand. 
-HAYNE: No matter what you give the Alliance, they'll eventually kill
-your crewmen anyway. With our help, at least there's a chance you'll
-get your men back alive. All I'm asking for is help in maintaining our
-defence. We are trying to keep the peace. 
-RIKER: Everything we've seen would indicate otherwise. 
-HAYNE: A prank. The proximity implants prevent either side from doing
-any serious damage. They warn us when an enemy is approaching. 
-WORF: Then why do you need more phasers? 
-HAYNE: The Alliance just discovered a large cache of weapons. I'm just
-trying to make things even, to preserve the peace. 
-CRUSHER: You keep using the word peace. We've heard a different version
-of life on Turkana Four. 
-HAYNE: Ancient history. Where did you hear that? 
-DATA: A former crewman was born here. 
-HAYNE: Where's he now? 
-DATA: She was killed in the line of duty. 
-HAYNE: That's as good a way to die as any. As I said, ancient history.
-This is now, and your men are in trouble. 
-RIKER: We'll return to the Enterprise and consider your proposal. 
-HAYNE: A gift for your Captain. 
-(he hands a bottle of synth-ale to Riker) 
-RIKER: Riker to Enterprise. Energise. 
-(The team beam away) 
-HAYNE: I want everything there is to know about the starship
-Enterprise.
+DATA: Your sister never spoke of you. 
+ISHARA: That's not surprising. 
+DATA: It is surprising to me. Tasha and I spent much time together. We
+had a considerable number of conversations. 
+ISHARA: Did she talk at all about the colony? 
+DATA: Only to say that she was lucky to have escaped. 
+ISHARA: It wasn't luck. It was cowardice. 
+DATA: Cowardice is a term that I have never heard applied to Tasha. 
+ISHARA: Is something wrong? 
+DATA: No. It is just that for a moment, the expression on your face
+reminded me of her. 
+ISHARA: It's been fifteen years. I don't even remember what she looked
+like.
 

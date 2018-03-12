@@ -1,41 +1,40 @@
-RIKER LAFORGE WORF PICARD LEAH DATA RAGER
+TROI LAFORGE WORF PICARD RIKER COMPUTER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-DATA: Commander, I am picking up some unusual
-readings from the Alpha Omicron system. At this range, all I am able to
-discern
-is that it is an asymmetrical field of intense energy. 
-RIKER: What type of radiation signature? 
-DATA: Unknown, sir. The Alpha Omicron system is yet to be charted. I
-recommend we take this opportunity for further research. 
-RIKER: Well, we're way ahead of schedule. Alter course for Alpha
-Omicron. 
 [Engineering]
 
-LAFORGE: Doctor Brahms, there's no reason for us to
-argue. We're on the same side here. 
-LEAH: I'm aware of that. 
-LAFORGE: So, why don't I take you on a little tour, show you the
-adjustments I've made, why I think they work and we can begin pulling
-together on this? Okay. Then why not start with the dilithium chamber.
-Okay? 
-LEAH: Okay. 
+LAFORGE: Sorry, Captain. There's too much
+interference to form a warp field.
+
 [Bridge]
 
-DATA: The anomaly is orbiting the seventh planet,
-sir. It is a mass of plasma energy contained within discrete boundaries
-by an outer covering of silicates, actinides, and carbonaceous
-chondrites. 
-PICARD: On screen. Magnify. Is it a ship? 
-WORF: It does not conform to any known design. 
-RIKER: Any records of similar phenomena in Starfleet listings? 
-DATA: None, sir. This has never been seen before. 
-PICARD: Ensign Rager, ahead one quarter impulse. 
-RAGER: Aye, sir. 
-PICARD: Put us in orbit of the seventh planet. Keep us at a relative
-distance of ten kilometres from the object. 
-RIKER: Alert science stations to standby. Tell them to coordinate all
-efforts with Commander Data. 
-WORF: Aye, sir.
+COMPUTER: Warning. Radiation levels at sixty five
+millirads per minute and rising. 
+RIKER: Riker to Doctor Crusher. 
+CRUSHER [OC]: Go ahead, Commander. 
+RIKER: All decks prepare for radiation protocol. 
+CRUSHER [OC]: Acknowledged. Crusher out. 
+COMPUTER: Warning. Radiation levels at three hundred millirads per
+minute and rising. Lethal exposure in one minute. 
+PICARD: Mister Worf, ready phasers. Minimum power. 
+WORF: Ready. 
+PICARD: Fire. 
+DATA: Radiation levels dropping back to normal, Captain. Energy
+patterns are breaking down, sir. The radiation signature is no longer
+stable. 
+(the once-colourful alien goes dark) 
+DATA: Energy output is negligible, sir. Radiation patterns no longer
+coherent. I believe it is dead, sir. 
+PICARD: We're out here to explore, to make contact with other life
+forms, to establish peaceful relations but not to interfere. And
+absolutely not to destroy. And yet look what we have just done. 
+TROI: Captain, everything you did was consistent with established
+Starfleet procedures. 
+PICARD: Number One, you have the Bridge. 
+DATA: Captain, sensors are picking up a new energy reading from the
+life form. 
+PICARD: Elaborate, Data. 
+DATA: There is a new concentration of ionising radiation growing in the
+centre of its body. 
+PICARD: Then, perhaps it's still alive.
 

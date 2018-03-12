@@ -1,63 +1,53 @@
-RIKER JAKE LAFORGE WORF TASHA PICARD REMMICK WESLEY
+PICARD REMMICK DATA WORF CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Holodeck]
+[Observation Lounge]
 
-(There is no programme running) 
-WORF: Ensign, what are you doing on the holodeck? I thought you were
-still on Relva Seven. 
-WESLEY: I'm finished testing for the day. 
-WORF: I've disturbed you. I'll leave. 
-WESLEY: Wait. I thought I wanted to be alone, but I guess I don't. 
-WORF: How is the testing? 
-WESLEY: Okay. So far. It's not the ones that I've studied for that I'm
-worried about. It's the psych test. Facing my deepest fear and living
-through it. I'm trying to figure out what images to bring up. 
-WORF: Why? 
-WESLEY: I guess I want to scare myself. What do you think? Bulgallian
-rats? Lightning storms? 
-WORF: Do those things frighten you? 
-WESLEY: Sort of, I guess. 
-WORF: The psych test is no more or less important than the rest of the
-process. 
-WESLEY: That's what they said, but I can't stop thinking about it. 
-WORF: Thinking about what you can't control only wastes your energy and
-creates its own enemy. 
-WESLEY: How can they know what my deepest fear is when I don't? 
-WORF: By analysing your psychological profile. They were very accurate
-about everyone I tested with. Including myself. 
-WESLEY: You? I thought there was nothing that could frighten a Klingon
-warrior. 
-WORF: Only fools have no fear. 
-WESLEY: I'm sorry, Lieutenant. I'm asking too many personal questions. 
-WORF: It is very difficult for me to depend on anyone for anything. But
-especially for my life. 
-WESLEY: But on the Enterprise you do that every day. Everyone depends
-on everyone else to protect them. 
-WORF: Yes. 
-WESLEY: So you overcame it? 
-WORF: No. It is still my enemy. 
-[Bridge]
+REMMICK: You're an android, correct? 
+DATA: Yes, sir. 
+REMMICK: And as an android, you are programmed to tell the entire
+truth? 
+DATA: Yes, sir. 
+REMMICK: There is a problem with this ship, Mister Data. It's in the
+records, somewhere. I need your help to find it. 
+DATA: All of the ship's records are available to you, sir. 
+REMMICK: This information is very cleverly hidden. Your Captain is not
+what he appears to be. Do not forget you have loyalty to Starfleet
+above all else. 
+DATA: Loyalty is not the issue, Commander. There is nothing wrong with
+Captain Picard or the ship's logs. Therefore there must be something
+wrong with your original assumption. 
+REMMICK: That is not acceptable, Mister Data. 
+DATA: Acceptable or not, sir, it is the truth. 
+REMMICK: Just how did this contaminant get aboard the ship? 
+WORF: By accident, sir. 
+REMMICK: Meaning Captain Picard has no standing procedure for this type
+of situation? 
+WORF: No. Meaning by accident, sir. 
+REMMICK: You don't like me very much, do you? 
+WORF: Is it required, sir? 
+REMMICK: How would you characterise your relationship with Captain
+Picard? 
+CRUSHER: We're Starfleet officers who've known each other for many
+years. 
+REMMICK: Everything said here is confidential, Doctor. You can be
+completely open with me. 
+CRUSHER: About what? 
+REMMICK: About how you feel serving with a man who is responsible for
+the death of your husband. 
+CRUSHER: My personal feelings about Captain Picard are irrelevant to
+this investigation, and none of your business. 
+REMMICK: Then you confirm the accuracy of the log report. You violated
+the Prime Directive with the Edo. You deliberately interfered with
+their laws. 
+PICARD: Yes. It's exactly as I explained it in the log records. 
+REMMICK: All to save Doctor Crusher's son? 
+PICARD: A member of my crew was being held unjustly. I stand by my
+decision. Mister Remmick, you have talked to every member of this ship.
+I think you've had enough time to find out whatever it is you're
+looking for. 
+REMMICK: Are you afraid if I keep looking that I'll find you're guilty?
 
-RIKER: With this new extricator, sir, we can
-eliminate three more bulky machines from cargo space. 
-PICARD: That's excellent, Number One. 
-TASHA: Captain, there's an unauthorised entry in main Shuttlebay. 
-REMMICK: Unauthorised? 
-PICARD: Who is it, Lieutenant? 
-TASHA: Computer reads the ID number of Jake Kurland. Bridge to main
-Shuttlebay. Mister Kurland, this is Lieutenant Yar. Respond. 
-REMMICK: Isn't the area secured? 
-RIKER: Not now, Remmick. He's going to take this out, Captain. 
-TASHA: I'm locking off the bay launch doors, Captain. 
-WORF: Too late. He's using the flight emergency override 
-LAFORGE: Smart kid. 
-REMMICK: Kid? 
-TASHA: He's launching. 
-PICARD: On viewer. lieutenant Yar, open channel. Enterprise to
-shuttlecraft. Mister Kurland, this is Captain Picard. Mister Kurland. 
-JAKE [OC]: Captain, I'm going to Beltane Nine
+PICARD: The only thing I'm guilty of is allowing this charade to go on
+so long.
 
-[Shuttlecraft]
-
-JAKE: To sign onto a freighter. Tell my father I'm
-sorry. 

@@ -1,80 +1,46 @@
-RIKER LAFORGE SITO PICARD TAURIK LAVELLE
+OGAWA CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Crusher's office]
 
-RIKER [OC]: By oh nine hundred hours. 
-LAFORGE: Ensign, you'll write that report. 
-TAURIK: Yes, sir.
-
-[Bridge]
-
-RIKER: What happened back there, Ensign? 
-SITO: I'm sorry, sir. When we changed course I had to re-lock phasers
-before I could fire. 
-RIKER: Next time, try letting the locking relay float until the actual
-order to fire is given. They may not teach that trick at the Academy,
-but it works. 
-SITO: Thank you, sir. 
-RIKER: Lavelle. 
-LAVELLE: Sir? 
-RIKER: Resume previous course and speed. 
-LAVELLE: Aye, aye, sir. 
-RIKER: One aye is sufficient acknowledgment, Ensign. 
-(Picard enters) 
-PICARD: Helm, change course for the Argaya system, maximum warp. 
-LAVELLE: Aye, sir. 
-RIKER: What happened to the rendezvous with the Clement? 
-PICARD: I've just received new orders from Starfleet. We'll discuss it
-in the Observation lounge. Mister Data, Mister Worf. 
-RIKER: Ensign Sito, take over at Ops. 
-SITO: Yes, sir. 
-(Riker, Data, Worf and Picard leave) 
-SITO: The Argaya system's close to the Cardassian border. I wonder why
-we're going there. How'd you like to be a spider under that table? 
-LAVELLE: What? 
-SITO: A spider under the table. 
-LAVELLE: Is that like a fly on the wall? 
-SITO: I guess so. You did really well during the drill. 
-LAVELLE: Well apparently Commander Riker didn't think so. I swear he's
-got it in for me. 
-SITO: You're imagining things. 
-LAVELLE: Yeah? Then how come you're sitting in that chair instead of
-me? 
-SITO: I guess he figured I need more practice than you do.
-
-[Engineering]
-
-TAURIK: Excuse me, sir. Do you have a minute? 
-LAFORGE: Sure, Taurik. What is it? 
-TAURIK: I'd like you to take a look at something. 
-LAFORGE: Have you been improvising again, Ensign? 
-TAURIK: In a manner of speaking. I'm running a computer simulation to
-test a new warp field configuration. 
-LAFORGE: You've got a problem here. Your plasma flow to the nacelles is
-out of sync. 
-TAURIK: Actually, sir, that was done deliberately. As you can see, this
-configuration has increased overall warp field integrity by seven
-percent. 
-LAFORGE: You're right. 
-TAURIK: Doctor Nils Diaz has been experimenting with this technique at
-the Tanaline Propulsion Laboratory. 
-LAFORGE: Yeah, I'm familiar with his work, but I never heard anything
-about this. 
-TAURIK: His findings have not been released yet. I was able to review a
-preliminary report when I was at the Academy. 
-LAFORGE: I look forward to reading about it 
-TAURIK: I predict that when these findings are made public, they will
-become a new model for warp field operation. 
-LAFORGE: Sounds interesting. 
-TAURIK: With your permission, sir, I'd like to begin tests to see if
-the technique can be adapted to our warp drive. 
-LAFORGE: There might be variables that you didn't account for. 
-TAURIK: I was quite thorough. 
-LAFORGE: I'm sure you were, but I'd still need to see your simulation
-before I authorise any tests. 
-TAURIK: As you wish. 
-LAFORGE: If you have any other ideas for increasing efficiency, don't
-hesitate to run them by me. 
-TAURIK: As a matter of fact, sir, I do. When would be a good time to
-discuss them? 
-LAFORGE: I'll get back to you on that. 
+OGAWA: Excuse me, Doctor. 
+CRUSHER: If you're wondering about the evaluations, things couldn't be
+better. 
+OGAWA: Actually, I just wanted to tell you that Ensign Reilly's
+condition is showing improvement. But thank you. 
+CRUSHER: In fact, I'm recommending you for a promotion. How does
+Lieutenant Alyssa Ogawa sound? 
+OGAWA: It sounds wonderful. 
+CRUSHER: I'll talk to Commander Riker and I'm sure it'll be official as
+soon as the current crew evaluations are over. Oh, Alyssa, how are
+things going between you and Lieutenant Powell? 
+OGAWA: Fine. I think. 
+CRUSHER: You think? 
+OGAWA: I'm sure it's nothing, but he seems preoccupied lately. Last
+night he had to cancel our date. 
+CRUSHER: I see. 
+OGAWA: He's been putting together a research proposal. He's been really
+busy with it. 
+CRUSHER: I know what that's like. Sometimes I get so busy with research
+I forget to eat. 
+OGAWA: I just wonder. 
+CRUSHER: What? Sit down. 
+OGAWA: I've never met anyone like Andrew. It's as though we've known
+each other forever. 
+CRUSHER: You do seem very well suited. 
+OGAWA: But I know that in the beginning of a romance it's possible to
+be a little blind. 
+CRUSHER: I'm not sure I know what you mean. 
+OGAWA: Well, cancelling a date like that, the way he's been so distant
+lately. Doctor, do you think those could be warning signs that he's
+losing interest? 
+CRUSHER: Alyssa, I think you're overreacting. 
+OGAWA: Maybe so. 
+CRUSHER: If I cared as much about someone as much as you care about
+Andrew, he'd have to do a lot more than cancel a date before I'd get
+suspicious. 
+OGAWA: You're right. 
+CRUSHER: I'm sure that when this research is over, things will be back
+just the way they were. 
+OGAWA: Except, of course, that he'll have to deal with Lieutenant
+Ogawa. 

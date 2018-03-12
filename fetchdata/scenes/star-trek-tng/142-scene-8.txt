@@ -1,46 +1,43 @@
-RIKER LAFORGE PICARD Q GUINAN SONYA
+RIKER WORF PICARD TROI Q GUINAN BORG DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Observation lounge]
 
-(Guinan gets a strange feeling and leaves her bar
-to look around) 
-GUINAN: Bridge, this is Ten Forward.
-
-[Bridge]
-
-RIKER: Guinan? I don't remember you ever calling
-the Bridge before.
-GUINAN [OC]: Is everything alright?
-RIKER: How do you mean?
-GUINAN [OC]: Is there anything unusual happening?
-RIKER: No Guinan, nothing out of the ordinary. Why do you ask?
-
-[Ten Forward]
-
-GUINAN: I'm not sure. It's just a feeling. I've had
-it a couple of times before. It's probably nothing. Forget that I
-called. Ten Forward out.
-
-[Shuttlecraft]
-
-Q: The locator beacon won't help. They'll never
-think to look for you this far away.
-PICARD: Enterprise, this is Picard. Stop this foolishness, Q. Return me
-to the Enterprise.
-Q: I suggest you change your attitude. Petulance does not become you.
-We have business, Picard.
-PICARD: Keeping me a prisoner here will not compel me to discuss
-anything with you.
-Q: It will in time.
-
-[Ten forward]
-
-SONYA: I appreciate your advice, Lieutenant. And,
-I'll take it to heart.
-LAFORGE: Guinan?
-GUINAN: Can I get you something?
-LAFORGE: We're fine. Is everything all right?
-GUINAN: I don't know.
-LAFORGE: I think I'll go check out Engineering.
-SONYA: I'll go with you.
+PICARD: Because her people had contact with the
+Borg, I have requested Guinan to participate in this conference. You
+are aware of what occurred just now in main Engineering.
+GUINAN: Yes. 
+PICARD: What happened between your people and the Borg? 
+GUINAN: I wasn't there personally, but from what I'm told, they swarmed
+through our system. And when they left, there was little or nothing
+left of my people.
+RIKER: Guinan, if they were that aggressive, why didn't the Borg
+attack? They could have but they didn't.
+GUINAN: They don't do that individually. It's not their way. When they
+decide to come, they're going to come in force. They don't do anything
+piecemeal.
+DATA: Then the initial encounter was solely for the purpose of
+gathering information.
+GUINAN: Yes.
+PICARD: How do we reason with them? Let them know that we are not a
+threat?
+GUINAN: You don't. At least, I've never known anyone who did.
+WORF [OC]: Captain, we are being hailed.
+PICARD: On screen.
+(An interior view of the cube, all girders and scaffolding) 
+PICARD: This is Captain Jean-Luc Picard of the 
+BORG: (many voices speaking as one) We have analysed your defensive
+capabilities as being unable to withstand us. If you defend yourselves,
+you will be punished. 
+PICARD: Counsellor? 
+TROI: We're not dealing with an individual mind. They don't have a
+single leader. It's the collective minds of all of them.
+PICARD: That would have definite advantages.
+TROI: Yes, A single leader can make mistakes. It's far less likely in
+the combined whole.
+Q [on viewscreen]: Picard. Picard, are you sure you don't want me as a
+member of your crew? 
+WORF [OC]: Captain, the Borg have locked on to us with some form of
+tractor beam. 
+PICARD: We're on our way.
 

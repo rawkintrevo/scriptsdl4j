@@ -1,48 +1,36 @@
-WESLEY RIKER DATA PICARD STUBBS
+WESLEY NURSE CRUSHER COMPUTER STUBBS
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-  [Laboratory]
+[Sickbay]
 
-(A computer screen says Stand By, apparatus is
-scattered around, and a young man has his head down on a table,
-snoring) 
-RIKER [OC]: Riker to Ensign Crusher. 
-WESLEY: Go ahead.
+(It's busy. They've even got Guy sitting on a bed.
+Doctor Stubbs is lying prone, being treated) 
+NURSE: Lay down carefully. There you go. 
+WESLEY: Doctor Stubbs, the captain asked me to tell you that our
+systems are back to normal, and we can try another launch attempt as
+soon as you're ready. 
+STUBBS: Quite a dynamic family team, you Crushers. 
+CRUSHER: Well, it's nice to be together again. I was at Starfleet
+Medical for a year. I missed about two inches of him. 
+STUBBS: I'm not sure I'd want my mother to be flying through space with
+me. No, I take that back. I am sure. I wouldn't want her. My mother is
+a formidable woman, too. A woman of letters. A great critic. 
+WESLEY: I know. 
+STUBBS: Good Lord, son. You didn't read that unauthorised biography? Is
+this all this boy does, Doctor? Fly the ship and read? Doesn't he ever
+have any fun? 
+CRUSHER: Sure he does. 
+WESLEY: Actually, most of my free time is taken up with my studies. I'm
+trying to get into Starfleet Academy, and I earn credits for the time
+spent on the Enterprise, but it's just not the same. 
+NURSE: Are you ready to sit up? 
+STUBBS: Well. I am whole again. Thank you, Doctor. Come along, Wesley.
+Let's go see if Humpty Dumpty is still in one piece. 
+(Stubbs and Wesley leave, and Beverly goes to investigate the sound of
+running liquid. A food dispenser is overflowing a glass) 
+CRUSHER: Computer, fix the food slot. 
+COMPUTER: The food slot is functioning properly. 
+CRUSHER: Well, check again. 
+COMPUTER: The food slot is functioning properly. 
+CRUSHER: Computer, deactivate food slot.
 
-[Bridge]
-
-RIKER: Forget to set your alarm, Wesley? 
-WESLEY [OC]: Yes, sir. 
-[Laboratory]
-
-WESLEY: I'm very sorry. I'll be right there. this.
-
-Captain's log, Stardate 43125.8. We have entered a
-spectacular binary star system in the Kavis Alpha sector on a most
-critical mission of astro-physical research. Our eminent guest, Doctor
-Paul Stubbs, will attempt to study the decay of neutronium expelled at
-relativistic speeds by a massive stellar explosion which will occur
-here in a matter of hours. 
-[Bridge]
-
-(Wesley dashes in and takes his seat) 
-RIKER: Ensign, our position. 
-WESLEY: Approaching one million kilometres from the neutron star, sir. 
-RIKER: Slow to one third impulse power. 
-STUBBS: (wearing the C24 equivalent of corduroy) Spectacular, isn't it,
-my young friend? 
-WESLEY: Yes sir. 
-STUBBS: Over and over again, the intense gravitational pull of the
-little neutron star sucks up the star material from the red giant, and
-it builds up on the surface until it explodes, every one hundred and
-ninety six years. Like clockwork. And it is but eighteen hours away. 
-DATA: Eighteen hours, seven minutes, and ten seconds, Doctor. 
-STUBBS: The interstellar counterpart to Earth's Old Faithful. The only
-predictable burst of energy in the universe that can accomplish our
-goal. 
-(Picard enters) 
-PICARD: Doctor Stubbs, if you would like to make one final inspection
-of the unit. 
-STUBBS: Captain, I've been inspecting the Egg for the last twenty
-years. You may lay it when ready. 
-PICARD: Begin launch sequence. 
-RIKER: Shuttlebay two, stand-by to launch the Egg. 

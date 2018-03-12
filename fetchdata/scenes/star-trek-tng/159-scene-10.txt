@@ -1,58 +1,27 @@
-RIKER OBRIEN PICARD NAYROK COMPUTER SECURITY DATA
+PICARD GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ready room]
 
-O'BRIEN: It's been rendered inoperable. 
-RIKER: Work, let's greet our guest.
-
-[Transporter room]
-
-SECURITY: Bring him in, Mister O'Brien. 
-(The escaped prisoner raises his weapon.) 
-SECURITY: Just stay where you are. 
-(The security guard fires, but it has almost no effect. They are jumped
-by the prisoner) 
-O'BRIEN: More security, transporter room four. More security! More
-security! 
-(O'Brien tries to help out by getting the prisoner in a head lock, but
-he is easily
-thrown off. The two guards grab the man and they tumble out into)
-
-[Corridor]
-
-(Where one is thrown off down a side passage and
-the other nearly has his arm pulled out. O'Brien shoots the prisoner in
-the back with a phaser, but again, it has little effect. O'Brien gets a
-return shot for his trouble. The turbolift doors open, and Worf pushes
-Riker out of the line of fire just in time. They rush to help the guard
-who had been thrown down the passage and finally Worf pins down their
-quarry) 
-RIKER: Get him to a detention cell. Set phasers on maximum stun. 
-O'BRIEN: Commander.
-
-[Bridge]
-
-NAYROK [on viewscreen]: We'll need a few hours to
-get the containment field on Lunar Five operational before we pick him
-up. The damage he did during his escape was considerable. 
-PICARD: We will await your signal. 
-NAYROK [on viewscreen]: I appreciate your patience. The prison
-psychologist recommends that you keep Danar fully sedated until he's
-ready for transport. 
-PICARD: Well, he's in our highest security detention area. There
-shouldn't be any more problems. 
-NAYROK [on viewscreen]: Do not relax your security for an instant,
-Captain. He is extremely violent and very cunning, as you already know.
-I will send a transport vessel to pick him up as soon as possible.
-Nayrok out. 
-RIKER: Have you run a diagnostic on the sensors, Data? 
-DATA: Yes, sir. There is nothing wrong with the ship's sensors. The
-reason we did not sense life signs aboard the escape vessel is because
-the prisoner has no life signs. 
-RIKER: Computer, identify the occupant of the detention cell. 
-COMPUTER: The detention cell is vacant at this time. 
-RIKER: He's in there. 
-PICARD: Could he be some kind of android? 
-DATA: Our sensors can identify artificial lifeforms, sir. Apparently,
-he is capable of deceiving the sensors.
-
+GUEST1 [on monitor]: Captain, what this man has
+been telling you is full of half-truths. He's a prisoner. What do you
+expect him to say about us? 
+PICARD: Well, perhaps you would clarify it for me. 
+GUEST1 [on monitor]: The soldiers were resettled on Lunar Five. It was
+to be their colony. 
+PICARD: Was it a resettlement of their choosing? 
+GUEST1 [on monitor]: It was for their own protection as well as that of
+others. Most of them were quite happy there. We went to great lengths
+to give them a fine quality of life. 
+PICARD: Prime Minister, even the most comfortable prison is a prison. 
+GUEST1 [on monitor]: Unfortunately, a few agitators like Danar forced
+us to add security. 
+PICARD: My medical team suggests there may be alternative treatment. 
+GUEST1 [on monitor]: Captain, I assure you that every alternative has
+been explored. And this discussion is now treading upon matters of
+internal security, which is not your concern. I have dispatched a ship
+to rendezvous with you to transport the prisoner back to Lunar Five. On
+behalf of Angosia, I thank the Federation for its assistance in
+retrieving our citizen. 
+(Transmission ends) 
+PICARD: Matter of internal security. The age-old cry of the oppressor. 

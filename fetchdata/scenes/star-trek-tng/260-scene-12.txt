@@ -1,124 +1,45 @@
-RIKER CRUSHER WORF PICARD PRYTT MAURIC LORIN DATA
-
-[Kes quarters]
-
-(the ambassador's aide uses a tricorder device) 
-WORF: Is there a problem, Ambassador? 
-MAURIC: Probably not. Simply securing the area. 
-WORF: I can assure you there is no need. 
-MAURIC: I'm sure you're right. (checks the scan results) Yes, this will
-do very nicely. 
-WORF: As Security Chief of the Enterprise, I would be glad to assist
-you in any way possible. 
-MAURIC: There's no need. We'll take care of everything. Thank you,
-Lieutenant.
-
-[Cave]
-
-(a secret door opens, and Beverly and Picard come
-though) 
-PICARD: There must be a lava flow or a underground hot spring somewhere
-near here. 
-CRUSHER: It's a lava flow. It's about thirty metres below us. It says
-we should go this way. I smell gas. 
-(a plume of flame comes up from the floor, then another and another) 
-CRUSHER: This whole chamber is filled with pockets of a methanogenic
-compound. 
-PICARD: Can we get through it? 
-CRUSHER: I think so. 
-PICARD: What did you say? 
-CRUSHER: I didn't say anything. There might be a fairly regular pattern
-to these eruptions. We should be able to navigate out way through them
-if we're careful. 
-PICARD: Say when. 
-CRUSHER: Now. 
-(they run) 
-(further on) 
-PICARD: The eruptions have stopped. 
-CRUSHER: The gas is building up! 
-(a big fireball explodes behind them)
+GUEST1 RIKER GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(at the science station) 
-DATA: I have scanned the entire Prytt communications system. This
-appears to be the primary access module for the central government. 
-RIKER: Can you determine which of the comm. links is connected to the
-Prime Minister's office? 
-DATA: I believe so, sir. However, the Prytt have no link designed for
-extraterritorial communication. Our hail may come as a quite surprise
-to them. 
-RIKER: Well, they're going to have to adjust. Open a channel. 
-PRYTT [OC]: This is Prime Minister Horath's headquarters. How can I be
-of service? 
-RIKER: This is Commander William T. Riker, Federation starship
-Enterprise. I know this may seem an unusual way 
-PRYTT [OC]: The Enterprise? You mean the ship in orbit? 
-RIKER: That's right. 
-PRYTT [OC]: Why are you on this comm. link? 
-RIKER: We're having trouble contacting your government directly. We had
-to start somewhere. If you would let me talk to your 
-PRYTT [OC]: Did you get authorisation for this communication from the
-Security Ministry? 
-RIKER: As I said, we're having trouble contacting you 
-PRYTT [OC]: I cannot participate in an unauthorised communication. This
-transmission is terminated. 
-RIKER: Not very friendly, are they? 
-DATA: No, sir. 
-WORF: Sir, we are being hailed. It is the Prytt Security Council. 
-RIKER: Well, it looks like we got someone's attention. On screen. 
-LORIN [on monitor]: Enterprise, this is Security Minister Lorin. You
-will immediately cease all attempts at communication with our people. 
-RIKER: Minister, we've been attempting to contact someone in your
-government. It appears that you have detained two of our officers. We
-would like to discuss the situation. 
-LORIN [on monitor]: There is nothing to discuss. If you do not
-terminate these transmissions, we will be forced to take aggressive
-action against your ship. 
-(transmission ends, Mauric enters) 
-WORF: Their weapon systems pose no threat to the Enterprise. 
-RIKER: Just the same, let's keep the shields up for the time being. 
+RIKER: Ambassador, thank you for coming. 
+GUEST1: Commander. 
+RIKER: We're going to clear up this misunderstanding once and for all.
+Hail Minister Lorin, please. 
 WORF: Aye, sir. 
-MAURIC: Is there a problem, Commander? 
-RIKER: Our efforts with the Prytt just ran into a wall. 
-MAURIC: I'm sorry. But perhaps this will brighten your spirits. We have
-freed your Captain and doctor. 
-RIKER: What? 
-MAURIC: They were being held in prison just outside the Prytt capital.
-One of our operatives was able to arrange their escape. 
-WORF: Where are they now? 
-MAURIC: Well, they should be en route to the Kes border. Our operative
-provided them with a detailed map and instructions on where to go. 
-RIKER: How will you get them across the border? 
-MAURIC: At the moment, that information is confidential, but trust us,
-we do have a plan. 
-RIKER: Ambassador, I'm afraid I must insist that you provide us with
-more information. 
-MAURIC: I understand your concern, of course, but I would feel more
-comfortable discussing these operational details in a less public
-environment. 
-RIKER: Certainly. We can step into the Ready room. 
-MAURIC: I would prefer the quarters you provided me. They're safer. 
-RIKER: All right.
+GUEST3 [on viewscreen]: Enterprise, I have warned you about these
+unauthorised communications. 
+RIKER: Yes, I know, but I think it's about time we all sat down
+together and tried to work this out. I have Ambassador Mauric here 
+GUEST3 [on viewscreen]: That is your misfortune. We have nothing to say
+to either of you. 
+(transmission ends) 
+GUEST1: Commander, you're working with the Prytt. Putting on this
+little show for my benefit does neither of us any good. 
+RIKER: We'll see. Mister Worf. 
+(Worf works his panel) 
+RIKER: I believe there's someone waiting for us in the Observation
+Lounge.
 
-[Tunnel]
+[Observation lounge]
 
-PICARD: There's no way out of here. 
-CRUSHER: Maybe we took a wrong turn. 
-(they retrace their steps) 
-CRUSHER: So am I. 
-PICARD: What? 
-CRUSHER: I'm thirsty too. 
-PICARD: I didn't say anything about being thirsty. 
-CRUSHER: I heard you. You said, I'm very thirsty. 
-PICARD: I was thinking about it, but I didn't say anything. 
-CRUSHER: You were thinking it? 
-PICARD: The transceivers. Lorin said that they would align themselves
-to our psi-wave patterns. 
-CRUSHER: The implants must be transmitting our thoughts. What am I
-thinking? 
-PICARD: I don't know. 
-CRUSHER: I can't hear your thoughts, either. Maybe it was a fluke. 
-PICARD: Well, right now we have more immediate concerns. Does your map
-show us a way out of here? 
-CRUSHER: Yes, we need to go up. 
+GUEST3: I should have known that anyone willing to
+deal with the Kes would be capable of such an outrage. 
+RIKER: I'm sorry to resort to such drastic measures, Minister, but you
+left me little choice. 
+GUEST1: Don't pretend the two of you are enemies. It's too late for
+charades. 
+GUEST3: If that is an attempt to hide your military alliance with the
+Federation, you needn't bother. I already know far more than you can
+imagine. 
+RIKER: Let's all just sit down and try to talk about what's happened to
+Captain Picard and Doctor Crusher. 
+GUEST3: I will not sit at a table with him. 
+GUEST1: No more than I would sit with her. 
+RIKER: All right then, we'll stand. The important thing is that we
+start talking. 
+GUEST3: I am not authorised to talk with a Kes official. 
+RIKER: All right then, you talk to me. Where are my officers? 
+GUEST1: As if you don't already know.
+

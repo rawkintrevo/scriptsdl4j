@@ -1,76 +1,40 @@
-BASHIR DATA LAFORGE WORF
+BAEL GUEST3 WORF ROMULAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Data's quarters]
 
-(Data is having a vision. He follows the sound of
-metal on metal to discover a young Noonian Soong pounding on an anvil
-with a hammer.)
+(Data paints his vision, then begins to embellish
+it)
 
-[Engineering]
+[Jungle]
 
-(Geordi is doing something to the inside of Data's
-head when he wakes up) 
-BASHIR: Data, are you all right? 
-DATA: I believe so. What has happened? 
-LAFORGE: A plasma shock overloaded your positronic net. You were down a
-good thirty seconds. 
-DATA: That cannot be possible. I have a memory record for that period
-of time. I can recall a series of images. I saw Doctor Soong. My
-father. 
-(after the adverts, tests are continuing) 
-LAFORGE: Data, I can't find anything wrong with your positronic
-subprocessors or your circuit controllers. No sign of any residual
-energy fluctuation, cascade overload. 
-DATA: My internal diagnostic indicates that my memory systems are
-functioning within normal parameters. For the forty seven seconds that
-I was inactive, there is no record of cognitive activity. 
-LAFORGE: There's no doubt about it, Data. You were completely shut
-down. Maybe you had some kind of random power fluctuation, caused you
-to access one of your memory files. 
-DATA: That cannot be. The image I saw was of Doctor Soong as a young
-man. I did not encounter him until much later in his life. There
-appears to be no rational explanation for my experience. 
-LAFORGE: I'll take another look at the diagnostic log. In the meantime,
-you'd better disconnect that device. 
-BASHIR: Data, perhaps we're going about this the wrong way. 
-DATA: How so? 
-BASHIR: Well, maybe you had a dream or a hallucination. 
-DATA: I am not capable of either of those functions. 
-BASHIR: Yet you can't account for what happened today, can you? 
-DATA: At present, I cannot. 
-BASHIR: Well maybe you should approach this from a more human
-standpoint. You're right that machines can't have hallucinations, but
-then again, most machines can't grow hair.
-
-[Ten Forward]
-
-(Data is about to speak, then changes his mind) 
-WORF: Wait. What is it, Commander? 
-DATA: I am sorry to bother you, but I have a question of a personal
-nature. Do you have a moment? 
-WORF: A moment. 
-DATA: I have heard you mention that you once experienced a vision. 
-WORF: Yes. When I was young my adoptive parents arranged for me to
-partake in the Rite of MajQa. 
-DATA: I understand it involves deep meditation in the lava caves of
-No'Mat. That prolonged exposure to the heat induces a hallucinatory
-effect. 
-WORF: Why are you asking me about this? 
-DATA: I have recently had an unusual experience, which might be
-described as a vision. 
-WORF: What happened? 
-DATA: An accident in Engineering shut down my cognitive functions for a
-short period of time, yet I seemed to remain conscious. I saw my
-father. 
-WORF: You are very fortunate. That is a powerful vision. 
-DATA: If it was a vision, I do not know how to proceed. 
-WORF: You must find its meaning. If it has anything to do with your
-father, you must learn all you can about it. In the Klingon MajQa
-ritual, there is nothing more important than receiving a revelation
-about your father. Your father is part of you, always. Learning about
-him teaches you about yourself. That is why no matter where he is or
-what he has done, you must find him. 
-DATA: But I am not looking for my father. 
-WORF: Yes, of course. Do not stop until you have the answer. 
-DATA: Thank you, Worf.
-
+(it is dark and there are lots of noises) 
+GUEST3: The camp is in a southeasterly direction. After approximately
+ten kilometres, you will come to the edge of the sulphur canyon. Look
+for a riverbank and follow it until you come to the camp. This is a
+homing device. It will allow you to find my ship when I return. I will
+not be landing in the same location. 
+WORF: When will you return? 
+GUEST3: Fifty hours. Do not be late. 
+(Worf sets off, looking up regularly. Many hours later, he hears
+splashing and finds himself spying on someone who has just been bathing
+in a pool. We discover this is a Klingon young lady) 
+BA'EL: Who's there? Toq, is that you? I can see you. I hope you're
+enjoying yourself. Toq, I swear I will hang you by your 
+(Worf stands, she starts to run) 
+WORF: Stop, please, 
+BA'EL: Who are you? 
+WORF: I've come to help you. 
+BA'EL: Help me? 
+WORF: Yes. How did you get out of the camp? Does anyone know you are
+gone? 
+BA'EL: Yes I come here often 
+WORF: You must lead me to the camp. 
+BA'EL: You are Klingon. Where did you come from? 
+WORF: That does not matter. I have come to take you home. 
+BA'EL: Home? This is my home. 
+ROMULAN [OC]: Ba'el? 
+WORF: It is very important you tell no one you saw me. 
+(Ba'el goes to meet the person who called her) 
+BA'EL: Is it time for the ceremony? 
+ROMULAN: Yes, we're about to begin. 

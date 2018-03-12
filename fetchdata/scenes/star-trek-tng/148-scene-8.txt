@@ -1,47 +1,31 @@
-PULASKI RIKER OBRIEN LAFORGE
+RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Encounter at Farpoint- Holodeck]
 
-O'BRIEN: But Doctor Pulaski has been notified. 
-[Steamy mangrove swamp]
-
-LAFORGE: Acknowledged. 
-RIKER: I wasn't ready to leave here anyway. 
-
-[Transporter room]
-
-O'BRIEN: Here's the biofilter's analysis of the
-microbes. 
-PULASKI: That's not much to go on. 
-O'BRIEN: I can override and beam Commander Riker aboard . 
-PULASKI: No. I'd better go down and make an evaluation there. 
-(She takes a deep, reluctant breath and gets on the pad) 
-O'BRIEN: I hope these are the right coordinates. Just kidding, Doctor.
-I know how much you love the transporter. 
-PULASKI: About as much as I love comical Transporter Chiefs. 
-O'BRIEN: Ready? 
-[Steamy mangrove swamp]
-
-RIKER: Over here, Doctor. 
-PULASKI: Fill me in. 
-RIKER: I was walking along minding my own business, doing a simple
-geological sweep. Something stuck me in the leg. 
-PULASKI: Any pain? 
-RIKER: No. Just a little numb, that's all. 
-PULASKI: Do you know what it was that stuck you? 
-LAFORGE: We've been looking for it. No luck. 
-PULASKI: Well, whatever it was, it left something behind. I'm going to
-take you up to Sickbay. O'Brien, this is Doctor Pulaski. 
-[Transporter room]
-
-PULASKI [OC]: Medical override is authorised. 
-O'BRIEN: Acknowledged.
-
-[Sickbay]
-
-RIKER: This is the strangest feeling. My whole leg
-just went dead. 
-Captain's log, Stardate 42976.1. During a
-geological survey on Surata Four, Commander Riker has become infected
-by an unidentified microbe.
+RIKER: Hello! 
+(He finds Data whistling 'Pop goes the Weasel', and finishes the tune
+for him) 
+DATA: Marvellous. How easily humans do that. I still need much
+practice. 
+RIKER: There are some puzzles down on the planet that the Captain wants
+answered. He suggested that I take you with me on the away team I'll be
+leading. 
+DATA: I shall endeavour to function adequately, sir. 
+RIKER: Yes. When the captain suggested you, I looked up your record. 
+DATA: Yes, sir. A wise procedure, sir, always. 
+RIKER: Then your rank of Lieutenant Commander is honorary? 
+DATA: No, sir. Starfleet class of '78. Honours in probability mechanics
+and exobiology. 
+RIKER: But your files they say you're a 
+DATA: Machine? Correct, sir. Does that trouble you? 
+RIKER: To be honest, yes, a little. 
+DATA: Understood, sir. Prejudice is very human. 
+RIKER: Now that does trouble me. Do you consider yourself superior to
+us? 
+DATA: I am superior, sir, in many ways. But I would gladly give it up
+to be human. 
+RIKER: Nice to meet you, Pinocchio. A joke. 
+DATA: Ah! Intriguing. 
+RIKER: You're going to be an interesting companion, Mister Data.
 

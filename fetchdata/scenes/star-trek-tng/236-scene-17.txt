@@ -1,43 +1,40 @@
-RIKER WORF JELLICO TROI PICARD CRUSHER
+GUEST0 RIKER JELLICO CRUSHER DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Installation entrance]
+
+CRUSHER: Let's go. WORF: The Captain. 
+CRUSHER: No. There are five more of them heading this way from another
+tunnel. Come on. Now! 
+[Chamber]
+
+(Picard drops his phaser. One of the Cardassians
+switches off the device and they take their prisoner away) 
+GUEST0: Come on. 
 [Bridge]
 
-RIKER: Gul Lemec has arrived. He's waiting for you
-in the Observation Lounge. 
-JELLICO: Very good. I'll be in my Ready room.
+DATA: Captain on the Bridge. 
+JELLICO: What have you got, Will? 
+RIKER: I'm not sure. We're picking up a lot of coded messages from a
+Cardassian planet near the border. 
+JELLICO: Which planet? 
+RIKER: Celtris Three. 
+JELLICO: Can you detect any theta-band subspace emissions coming from
+Celtris? 
+RIKER: There are some residual traces. It seems there were emissions up
+until a few minutes ago. 
+JELLICO: Open a secure channel to Admiral Nechayev. Priority two. Put
+it through to my Ready room. 
+RIKER: Aye, sir.
 
 [Ready room]
 
-(the wall behind the desk is now decorated with
-frames pictures from his son) 
-JELLICO: Yes? 
-TROI: Captain, I think there's been a slight miscommunication. Did you
-want to meet with Gul Lemec in here? 
-JELLICO: No. The Observation Lounge is appropriate. 
-TROI: I see. 
-JELLICO: Lemec is a Cardassian, and Cardassians are like timber wolves,
-predators, bold in large numbers cautious by themselves, and with an
-instinctive need to establish a dominant position in any social
-gathering. 
-TROI: So you're trying to establish a dominant position by making him
-wait for you. The trouble with wolves is that sometimes the fight for
-dominance, one of them ends up dead. 
-JELLICO: In that case, the trick is to be the wolf that's still
-standing at the end.
+GUEST1 [on monitor]: Captain? 
+JELLICO: Those emissions you were so concerned about have just stopped.
+I'd say one way or another, our friends have finished their task. 
+GUEST1 [on monitor]: Have you heard from our friends? 
+JELLICO: No. 
+GUEST1 [on monitor]: Let me know if you do. I'd very much like to see
+them again. 
+JELLICO: So would I, Admiral.
 
-[Precipice]
-
-CRUSHER: The floor is over five hundred metres down
-from here. 
-PICARD: There doesn't seem to be a way around. We'll have to rappel
-from here. This is sheer granite. We'll have to use fusing pitons. 
-CRUSHER: We could try to find another way down. 
-PICARD: Unfortunately, that would take several hours. We don't have the
-time. 
-WORF: You're not afraid of heights, are you, Doctor? 
-CRUSHER: Of course not. 
-(They get into their harnesses and secure the lines) 
-PICARD: Now, remember to control your descent and don't get the lines
-tangled. 
-CRUSHER: I'll remember. 
-PICARD: All right? 

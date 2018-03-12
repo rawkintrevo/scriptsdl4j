@@ -1,64 +1,34 @@
-MIRASTA BEREL KROLA DURKEN
+PICARD GUEST0 CRUSHER GUEST3 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Durken's office]
 
-DURKEN: Their leader, Picard, has made it clear
-that how we proceed is entirely our own decision. 
-KROLA: You cannot possibly be suggesting surrender, Chancellor. 
-MIRASTA: They are not hostile. 
-KROLA: Mirasta, you are incredibly naive. Can you be so enraptured with
-the notion of space travellers that you are blind to the threat they
-represent? 
-DURKEN: I have seen their vessel, Krola. If they chose to be hostile, I
-do not think we would be standing here now. 
-KROLA: Why should they use force when we are ready to lay down in fear.
+CRUSHER [OC]: But there's still some brain
+activity. I need to get him back to the ship. 
+PICARD: Acknowledged. 
+CRUSHER [OC]: And there's a Malconian male with a phaser wound in his
+upper chest. I need to get him back as well. 
+PICARD: We'll meet you on the Enterprise. Picard out.
 
-DURKEN: I do not lay down in fear, to them or to you, Krola. 
-KROLA: Chancellor, I mean no disrespect, but I have repeatedly warned
-you about your policies, taking us so quickly where we had no business
-going in the first place. New philosophies, new economics, new
-technologies. There are many people who still
-value our traditional way of life and I for one am willing to die to
-defend it. 
-MIRASTA: Open your eyes, Krola. We are part of a greater community. We
-cannot ignore it. 
-KROLA: You would ignore them as they infiltrate and spy on us. 
-DURKEN: What are you saying, Krola? 
-KROLA: We have captured one of their spies. 
-MIRASTA: Chancellor, he is Captain Picard's first officer, Commander
-Riker. 
-DURKEN: You knew about this, Mirasta? 
-MIRASTA: He has been missing for two days. I told Captain Picard not to
-discuss this because I was afraid this is exactly what would happen. 
-DURKEN: What else do you know, Mirasta? Everything! 
-MIRASTA: They have been on our planet, observing, for several years. 
-KROLA: Years! Imagine what they have done. Influenced our young,
-stirred up dissent. 
-MIRASTA: They were collecting information. 
-DURKEN: Where is this Commander Riker now? 
-KROLA: He's in the Sikla Medical facility. He's recovering from
-surgery. He suffered head injuries in an escape attempt. He will
-recover consciousness in a few hours.
+[Sickbay]
 
-[Riker's hospital room]
+(Picard, Durken and Mirasta enter) 
+CRUSHER: They're both going to be okay. We were able to stabilise Will.
+If we had been any later 
+GUEST1: Krola? 
+CRUSHER: He was never in any real danger. The phaser was on stun. 
+GUEST0: Stun? 
+PICARD: It's a defensive weapon. Have you been able to ascertain what
+happened? 
+CRUSHER: Based on the angle of impact, it suggests that Krola's left
+hand was on the phaser when it went off, 
+GUEST1: They were struggling for the weapon? 
+CRUSHER: Commander Riker was in no position to offer any kind of
+struggle, Chancellor. 
+GUEST0: Krola was trying to be a martyr? 
+GUEST3: Where is this? 
+GUEST1: You're aboard the starship, my foolish old friend. 
+GUEST3: No. Chancellor, you must not. You must not pursue relations with
+them. You must not. 
+GUEST1: I know. I know.
 
-KROLA: Will he survive? 
-BEREL: I didn't think he would have survived the injuries. 
-KROLA: I have to interrogate him before he dies. 
-BEREL: At least give him time to regain some strength. Come back
-tomorrow. 
-KROLA: It cannot wait until tomorrow. 
-(Mirasta enters) 
-MIRASTA: Krola, we can get help from his ship. With their medical
-technology, he might recover. 
-KROLA: We're not giving him back. He's the one advantage we have now.
-Use your drugs to revive him. 
-BEREL: Those drugs increase cardial rate and vascular pressure. That's
-the last thing we need to do to him right now. 
-MIRASTA: It will probably be enough to kill him. You can't do it! 
-KROLA: Revive him. 
-BEREL: I'm just a physician, Minister. I don't know much about affairs
-of state, but he is a living, intelligent being. I don't care if the
-Chancellor himself calls down here. I have sworn an oath to do no harm,
-and I will not. 
-KROLA: Then I'll find someone to replace you. 

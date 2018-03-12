@@ -1,95 +1,51 @@
-CADET BOOTHBY PICARD WESLEY LOCARNO CRUSHER
-
-[Wesley's room]
-
-(Wesley is using a resistance device to strengthen
-his broken arm. There's a knock on the door. He goes to open it by
-turning the handle!) 
-CRUSHER: Wes. I was so worried about you. 
-PICARD: How are you feeling, Wesley? 
-WESLEY: Not bad. The arm's a little sore. 
-CRUSHER: We were very sorry to hear about Joshua. 
-PICARD: Would you like to talk about it? 
-WESLEY: No. I don't think so. No, thank you. I know you're trying to be
-helpful, sir, but it seems like that's all I've talked about for the
-last two days. I don't want to go through it again. 
-PICARD: I understand. But I just want you to know I'm available if you
-should change your mind. 
-WESLEY: Thank you sir. 
-(another knock on the door) 
-WESLEY: Hi. 
-LOCARNO: Hi. 
-(enter Robert Duncan McNeill, who will become Tom Paris in Voyager) 
-LOCARNO: Captain, sir. 
-PICARD: At ease, Cadet. 
-WESLEY: This is my squadron leader, Nicholas Locarno. This is Captain
-Jean-Luc Picard of the Enterprise. My mother, Doctor Beverly Crusher. 
-LOCARNO: Hello, Doctor. 
-CRUSHER: Hello. 
-LOCARNO: Captain Picard. 
-PICARD: Mister Locarno. 
-LOCARNO: I came by to see if Wes had healed up all right. 
-CRUSHER: And how are you feeling, Nicholas? 
-LOCARNO: I'm okay. I just never lost anyone under my command before. 
-PICARD: I'm afraid that never gets easier. 
-WESLEY: Captain, Mom, will you excuse us please? Nick and I have some
-things we need to talk about. 
-CRUSHER: Of course. Let me know if you need anything. 
-WESLEY: I will. 
-PICARD: I'll see you at the inquiry. Good to meet you, Mister Locarno. 
-LOCARNO: You too, sir. 
-(Picard and Beverly leave) 
-LOCARNO: The inquiry is scheduled for fifteen hundred hours. Are you
-ready? 
-WESLEY: I think so. 
-LOCARNO: Don't worry about it, Wes. Everything's going to be all right
-so long as we stick together.
+GUEST0 PICARD GUEST6
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Academy gardens]
 
 (Picard strolls across the Japanese bridge) 
-BOOTHBY [OC]: Hey! Can't you see that's a flower bed? 
-CADET [OC]: Sorry. I'm really sorry. 
+GUEST0 [OC]: Hey! Can't you see that's a flower bed? 
+GUEST6 [OC]: Sorry. I'm really sorry. 
 (A cadet has been sitting under a tree. The old gardener goes to repair
 the damage caused) 
 PICARD: Boothby? Jean-Luc Picard, class of twenty seven. 
-BOOTHBY: I know that. What happened to your hair? 
+GUEST0: I know that. What happened to your hair? 
 PICARD: How are you? 
-BOOTHBY: I'm pretty damned cranky, thank you. I've already replanted
+GUEST0: I'm pretty damned cranky, thank you. I've already replanted
 this bed four times this week. 
 PICARD: Let me give you a hand. 
-BOOTHBY: You? 
+GUEST0: You? 
 PICARD: I've acquired an interest over the years. 
-BOOTHBY: Well, don't plant 'em too deep. The stems 
+GUEST0: Well, don't plant 'em too deep. The stems 
 PICARD: Will rot. 
-BOOTHBY: Captain Picard. Of the Enterprise, no less. And giving the
+GUEST0: Captain Picard. Of the Enterprise, no less. And giving the
 commencement address. 
 PICARD: You sound surprised. 
-BOOTHBY: Surprised? Uh, uh. Nothing you ever did surprised me, son.
+GUEST0: Surprised? Uh, uh. Nothing you ever did surprised me, son.
 Except that time you caught that Ligonian with a reverse body lift and
 pinned him in the first fourteen seconds of the match. Didn't think you
 had it in you. 
 PICARD: Well, it was all in the legs, all that running I did. Boothby. 
-BOOTHBY: Hmmm? 
+GUEST0: Hmmm? 
 PICARD: I don't think I ever. I don't think I ever told you how much I
 appreciate. 
-BOOTHBY: There's nothing to tell. 
+GUEST0: There's nothing to tell. 
 (They go walking) 
 PICARD: Yes, there is. I just wanted to, while I was here. Look, you
 know as well as I do I would never have graduated if you 
-BOOTHBY: You made a mistake. There isn't a man among us who hasn't been
+GUEST0: You made a mistake. There isn't a man among us who hasn't been
 young enough to make one. 
 PICARD: Nevertheless. 
-BOOTHBY: You did what you had to do. You did what you thought was best.
+GUEST0: You did what you had to do. You did what you thought was best.
 I just made sure that you listened to yourself. 
 PICARD: At the time I thought you were a mean-spirited, vicious old
 man. 
-BOOTHBY: I was. And by the way, I was about the same age you are now. 
+GUEST0: I was. And by the way, I was about the same age you are now. 
 PICARD: I didn't speak to you for months. 
-BOOTHBY: You needed to get your bearings. I knew that. The important
+GUEST0: You needed to get your bearings. I knew that. The important
 thing is, what you did with your life afterwards. Seems you did okay.
 That's thanks enough for me. 
 PICARD: Did you know the boy from Nova Squadron who was killed? 
-BOOTHBY: Josh Albert? Yeah. Crusher, Hajar, Sito, Locarno. I know them
+GUEST0: Josh Albert? Yeah. Crusher, Hajar, Sito, Locarno. I know them
 all.
 

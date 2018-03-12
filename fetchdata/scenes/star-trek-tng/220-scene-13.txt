@@ -1,56 +1,39 @@
-LWAXANA DATA LAFORGE ALEXANDER
+GUEST2 LWAXANA DATA LAFORGE ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-DATA: A level-four diagnostic of the food
-replication systems has failed to detect any faults in the orientation
-terminals. 
-LAFORGE: That may be, but we've still got over two hundred reports of
-malfunctioning replicators. 
-DATA: There is an energy fluctuation in one of the utility access
-corridors. 
-LAFORGE: Well, we'd better look into it, whatever it is, before the
-captain decides to order dinner.
+DATA: The dilithium chamber shows no anomalous
+readings. 
+LAFORGE: So far, these transfer conduits are clean, too. Hold on, I'm
+getting something here. There's a severe energy fluctuation in this
+access panel. 
+(La Forge removes the cover and the silver stuff floats up the wall to
+the ceiling, then gloop starts to dribble down)
 
-[Jefferies tube]
+[Holodeck - Shiralea]
 
-LAFORGE: Yeah, dash six four. Here we are. Some
-kind of intermittent EM field pattern. Give me a hand with that, will
-you, Data?
-There's no plasma leakage, just a little negative ion charging. 
-(and a large dollop of orange gloop which falls from the exposed
-circuitry)
-
-[Lwaxana's quarters]
-
-(Lwaxana has changed to white hair to match the
-silver grey long-sleeved throat to floor covering dress with bustle.
-Mister Homn looks on silently, as usual) 
-LWAXANA: Bad enough having to wear anything at my own wedding, but
-this? Perhaps if we lower the bodice? Raise the hemline, then. What a
-constant joy you are. 
-(doorbell) 
-LWAXANA: Mister Homn. 
-(Alexander is less than half Homn's height) 
-LWAXANA: Alexander! My little warrior, come here. Come on. Give me a
-great big hug. Now, you're not escaping another appointment, are you? 
-ALEXANDER: No, ma'am. 
-LWAXANA: Well, I suppose eventually we all have to live up to our
-obligations. Well now, tell me. What brings you here to brighten my
-day? 
-ALEXANDER: I wanted to say I'm sorry if I got you in any trouble. 
-LWAXANA: That's very sweet, dear, but I really wasn't in any trouble.
-Until I saw this dress. Ugly, isn't it? 
-ALEXANDER: What's it for? 
-LWAXANA: I'm getting married. 
-ALEXANDER: Why? 
-LWAXANA: Are you sure my daughter didn't send you? Just a joke. People
-get married because they want to spend their lives with someone. 
-ALEXANDER: Their whole life? They must have to like that person a lot. 
-LWAXANA: Well, if you're young and lucky, it'll be someone you like a
-lot, yes. And if you're older. 
-ALEXANDER: Are you very old? 
-LWAXANA: I'm alone, Alex. And when you do get older and can no longer
-pick and choose from whatever may come your way, then you do what we
-call compromise. It keeps you from being afraid.
+(the Juggler is unhappy) 
+ALEXANDER: What happened? 
+GUEST2: I was just juggling and I happened to catch one in my mouth.
+It tasted good, so I ate it. Before I knew it, I'd eaten up every one
+of my worlds. It never occurred to me that once they were gone, I'd
+have nothing left to juggle. If you ever have a world, plan ahead.
+Don't eat it. 
+LWAXANA: Well, now. Almost time to get back. 
+ALEXANDER: Are you sad? 
+LWAXANA: Of course not. I'm about to be a bride. 
+ALEXANDER: You know that man you're going to marry? He would never come
+and take a mud bath, would he. 
+LWAXANA: Oh, he might. Probably not. 
+ALEXANDER: You know, maybe this would be a good time to get one of
+those little people that live inside of you to come out and tell you
+what to do, or help you, or something. 
+LWAXANA: Alexander, what are you talking about? 
+ALEXANDER: I'm sorry. 
+LWAXANA: No. No, don't you dare be sorry. 
+(she notices the grid appearing through the illusion) 
+ALEXANDER: What's wrong? 
+LWAXANA: Come along, Alexander. Let's not leave everyone waiting for
+us.
 

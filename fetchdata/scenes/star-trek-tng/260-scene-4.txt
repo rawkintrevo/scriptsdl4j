@@ -1,71 +1,46 @@
-RIKER CRUSHER WORF PICARD LORIN KES
+GUEST1 RIKER TROI WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation lounge]
 
-RIKER: We've received word from Ambassador Mauric.
-He's ready to see you and Doctor Crusher. 
-[Picard's quarters]
+GUEST1: Commander, on behalf of my government, I
+would like to take this opportunity to present my profound apologies
+regarding this unfortunate incident. 
+RIKER: That's very kind, Ambassador. But I don't think anyone here
+holds you or the Kes government responsible for what's happened. 
+TROI: Our primary concern is not to assign blame, but to recover our
+missing officers. 
+GUEST1: I agree. We are prepared to insert a hostage rescue team into
+the Prytt capital city on three hours notice. 
+RIKER: Ambassador, we have not even attempted a diplomatic effort yet.
+I would rather not use force until we've exhausted all other options. 
+GUEST1: I don't believe there is any diplomatic option, Commander. We
+have no formal relations with the Prytt. No ambassadors. There's simply
+no way to contact them. 
+TROI: Surely you must have some means of communication in case of a
+planetary emergency. 
+GUEST1: We have never had need of such a system. 
+WORF: We can determine their communications frequencies and establish a
+link. 
+GUEST1: Allow me to be blunt. The Prytt are a fanatical, xenophobic
+people, with little regard for civilised discourse. Even if you do
+establish communications link with them, it will be a complete waste of
+time. 
+TROI: How long has it been since your last diplomatic contact? 
+GUEST1: Almost a century. 
+TROI: Then it's possible they may have changed over the years. 
+GUEST1: We have had other less formal contacts with the Prytt. Contacts
+we cannot discuss. But I can assure you, they have changed very little.
 
-PICARD: Inform him we're on our way. Thank you for
-breakfast. 
-CRUSHER: Wait until tomorrow. I have something very special planned.
-It's a Vulcan dish. That's all I'll say.
-
-[Transporter room]
-
-WORF: Captain. Doctor. I have the coordinates of
-Ambassador Mauric's chambers. 
-PICARD: Let's not keep them waiting, Mister Worf. 
-WORF: Enterprise to Kes Security Relay Station One. We're ready to
-commence transport. 
-KES [OC]: Acknowledged, Enterprise. We have lowered our defense shield.
-
-WORF: Confirmed. 
-PICARD: Energise. 
-(Picard and Crusher are beamed away, and Worf starts to leave) 
-KES [OC]: This is Security Relay Station One. We are ready to receive
-your Captain and Medical Officer. 
-WORF: This is the Enterprise. We have completed the transport sequence.
-You should have them. 
-KES [OC]: Negative, Enterprise. They are not here.
-
-[Cell]
-
-(Picard wakes up on a hard floor) 
-PICARD: Beverly. Beverly. 
-CRUSHER: What happened? 
-PICARD: I don't know. 
-CRUSHER: The last thing I remember we were beginning to transport. 
-PICARD: I would assume we must be on Kesprytt. We're in some kind of
-prison cell. The question is, why? I can't imagine that Ambassador
-Mauric would have any reason to detain us. 
-CRUSHER: Jean-Luc. 
-PICARD: What is it? 
-CRUSHER: Let me see. 
-PICARD: What? 
-(there's something sticking out of the back of his neck) 
-CRUSHER: It looks like an implant. It seems to be connected directly to
-the brainstem. 
-(She's got one under her hair as well) 
-PICARD: Some kind of coercive device? 
-CRUSHER: Whatever it is I doubt it's designed for our health. 
-(the doors open and security in dark one-piece suits with hoods enter) 
-PICARD: What is going on here? 
-CRUSHER: If you tell us why you've taken us hostage, we might be able
-to 
-LORIN: (female) You are not hostages. You are prisoners. 
-PICARD: Prisoners on whose authority? 
-LORIN: You are being held under the authority of the Prytt Security
-Ministry. The charges are conspiring with the enemy. 
-PICARD: Enemy? You mean the Kes. 
-LORIN: We're not fools. We are aware of the Federation attempt to
-establish a military alliance with the Kes. It will not be tolerated. 
-PICARD: Your information is incorrect. We have no plans to enter into
-any 
-LORIN: There is no point in trying to mislead us, Captain. The devices
-which have been implanted in your cerebral cortexes will soon be
-calibrated to your psi-wave pattern. At that time, we will be able to
-get all the information we need. 
-PICARD: And then you'll discover that we're telling the truth. 
-LORIN: We shall see.
+RIKER: With all due respect, Ambassador, I think I should try to
+communicate with the Prytt before I sanction the use of force. 
+GUEST1: Of course, Commander. In the meantime, I will continue making
+preparations for a rescue attempt. 
+RIKER: Agreed. 
+GUEST1: I do have one request. We believe that the Prytt obtained their
+information about the transport of your captain and doctor through a
+breach in our communications network. If I could set up a base of
+operations here on the Enterprise, I'd feel much more secure. 
+RIKER: Mister Worf will help you. 
+GUEST1: Thank you, Lieutenant.
 

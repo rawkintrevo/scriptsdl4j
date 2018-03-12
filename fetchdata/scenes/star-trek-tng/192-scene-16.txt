@@ -1,29 +1,57 @@
-COMPUTER LAFORGE HICKMAN
+RIKER CRUSHER SUSANNA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Sickbay]
 
-HICKMAN [on monitor]: One to transport. 
-LAFORGE: Computer, delete the audio. 
-LAFORGE: Wait a minute. Freeze visual. Whose shadow is that? 
-COMPUTER: Please restate question. 
-LAFORGE: Computer, the shadow currently displayed in section B three,
-what is its source? 
-COMPUTER: Unknown. 
-LAFORGE: Come on, it's got to belong to somebody. Computer, replay a
-visual of the last time index. No audio, and slow to fifty percent.
-Okay, Brevelle's behind the camera ,Susanna and I head off in that
-direction. Mendez moves off that way. Freeze visual. Now, magnify four
-times, and spectrally enhance those shadows. (there's the other shadow
-in the background) Computer, do you have sufficient data to compile a
-holographic simulation of this visual record? 
-COMPUTER: A simulation would be limited to areas scanned by the visual
-recording device. 
-LAFORGE: Good, fine. Scan the entire record and then recreate it on
-holodeck three.
+CRUSHER: He's going to need a sedative. Give me ten
+cc's of kayolane. 
+SUSANNA: Doctor Crusher. 
+(some blue veins on her but the skin is now pink and the face is human)
 
-[Corridor]
+CRUSHER: Say, you look a lot better than you did an hour ago. 
+SUSANNA: What did you do? 
+CRUSHER: We've removed some kind of parasite from your thymus. 
+SUSANNA: No, no, no. It's not a parasite, Doctor. It was their method
+of reproduction, to plant a DNA strand in a living host that causes
+metamorphosis. Geordi? He's gone? 
+CRUSHER: Yes. 
+SUSANNA: He's gone back to the planet? 
+CRUSHER: Try to stay calm. 
+SUSANNA: No, but we have to find him. 
+CRUSHER: An away team is preparing to search for him. 
+SUSANNA: You'll never be able to find him. I'm the only one who can.
 
-LAFORGE: Computer, is the Tarchannen simulation
-ready? 
-COMPUTER: Affirmative. Programme complete. Enter when ready. 
-(Geordi notices his hand is starting to tremble) 
+[Tarchannen]
+
+(the away team arrives and switches on their palm
+beacons) 
+SUSANNA: No, you must turn them off. The light frightens them. 
+RIKER: What about the ultraviolet? 
+SUSANNA: That's beyond their visual spectrum. They won't run away from
+it. 
+WORF: He could be several kilometres away by now. 
+SUSANNA: No, he's here. They're all here. 
+(they walk towards the rocks and bushes) 
+SUSANNA: There. 
+(Data shines the UV, and three blue-veined humanoids appear. Two run
+straight away, one hesitates) 
+CRUSHER: Geordi? 
+SUSANNA: Geordi, stop! 
+(the group give chase) 
+SUSANNA: No, wait. 
+(she and Data go on alone around the back of the buildings and find one
+frightened creature) 
+SUSANNA: Geordi? Geordi, my voice is familiar. Listen to it. You can
+feel that we share this. You know I'm not a threat.
+The others, Mendez, Brevelle, they don't exist as humans any more, but
+a part of you still does. You're not one of them yet, Geordi. I can
+help you if you'll just trust me. I know what's going on inside of you,
+the war you're fighting with yourself. Your humanity slipping away. The
+instinct to run, it's overpowering, but they know how to beat it now,
+Geordi. Look at me! I've come back, Geordi. Let me take you back, too.
+Just take my hand. Please. 
+(slowly, tentatively, then rushing into her arms) 
+CRUSHER: Crusher to Enterprise. Lock on to Commander Leitjen's signal.
+Prepare to beam two directly to Sickbay. 
+SUSANNA: We're going home, Geordi.
+

@@ -1,42 +1,35 @@
-CRUSHER DATA LAFORGE SUSANNA
-
-[Crusher's office]
-
-CRUSHER: The parameters are pretty broad, Data. Any
-match we make is going to be inconclusive at best. 
-DATA: I am aware of that, Doctor. However, I can see no other
-reasonable course of investigation available to us. And we may not have
-much time. 
-CRUSHER: You're worried about Geordi, aren't you? 
-DATA: I am an android. It is not possible 
-CRUSHER: for you to feel anxiety. 
-DATA: Starfleet personnel have vanished. Others may be at risk. We must
-do the best we can to find out why. However, I am strongly motivated to
-solve this mystery.
+COMPUTER DATA SUSANNA GUEST2 LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-(Geordi is watching the sensor log, and Susanna is
-increasingly jumpy) 
-LAFORGE: Freeze visuals. 
-SUSANNA: We're wasting our time. 
-LAFORGE: That's not how you felt before. It was your idea to look for
-some sort of commonality. 
-SUSANNA: Yeah, well, I was wrong. We're not going to find anything this
-way. We should go back to the planet. It's all down
-there. Everything we need to know. 
-LAFORGE: That's just not an option. At least, not until Captain Picard
-says it is. Computer, resume. 
-SUSANNA: I can't look at that anymore. It hurts my eyes. I can't think.
-My brain feels like it's wrapped up in a blanket. 
-LAFORGE: Take a break, all right? I'll work on this. 
-SUSANNA: I don't need a break. I need to get off the ship. 
-LAFORGE: Susanna, why don't we go and see Doctor Crusher? 
-SUSANNA: Forget Crusher and forget your logs. Tarchannen's down there,
-Geordi. It's waiting for us. That's where we should go. 
-LAFORGE: Susanna, you can't leave. Susanna. Susanna! 
-SUSANNA: Geordi! 
-(She has a sort of fit and falls to the floor. There are strange veins
-showing on the back of her neck and the three middle fingers of each hand are fusing
-together)
+GUEST2 [on monitor]: One to transport. 
+SUSANNA [on monitor]: I want to make another sweep of the perimeter. La
+Forge, you start at building four. Mendez and Brevelle begin at two.
+I'll take five. 
+(and the log ends) 
+LAFORGE: All right, computer. Analyse audio elements from time index
+fourteen four seven to fifteen five eight. List all anomalies. 
+COMPUTER: No audio anomalies present. 
+LAFORGE: Any subspace projections, z-particle emissions,
+interferometric frequencies? 
+COMPUTER: No subspace projections present. No z-particle emissions
+present. No interferometric patterns present. 
+LAFORGE: Damn. 
+DATA: Geordi. May I inquire how your investigation is proceeding? 
+LAFORGE: It's not. 
+DATA: Have you attempted an audio analysis? 
+LAFORGE: Yes, Data. And a spectrographic analysis, and a screen for
+ionising radiation. I even ran an enhancement for micro-seismic
+disturbances. I've tried it all, okay? I'm sorry, Data. 
+DATA: There is no need for an apology. Perhaps if you indulged in a
+brief rest period, you would be able to approach this problem with a
+fresh point of view. 
+LAFORGE: Yeah, you're probably right, Data, but I've got to keep
+scanning these records while I can. 
+DATA: May I can assist you? 
+LAFORGE: If I knew what I was looking for. Rally, Data, I think it's
+just a matter of me going over it, maybe finding something I forgot.
+I'll let you know if I come across anything, all right? All right,
+computer, one more time.
 

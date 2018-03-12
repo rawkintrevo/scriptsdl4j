@@ -1,42 +1,43 @@
-PULASKI PICARD RIKER DATA WORF
+PULASKI PICARD DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Sickbay]
+
+(The second Picard is on a bed. Kate is walking
+around with a medical tricorder when Picard and Troi enter) 
+PULASKI: I'm just starting a complete medical work-up. His vital signs
+are distorted. Some of the indicators are totally depressed, others are
+fluctuating wildly. I can't explain any of it. But he is alive. The
+restraints are for his own protection. 
+PICARD: Have you been able to determine why he's still unconscious? 
+PULASKI: No. but I have been able to rule out any head injury. 
+PICARD: Wake him. 
+(Pulaski gives him a hypo, and the readings on the wall plummet into
+the red. She rushes for another hypo, and the signs recover) 
+PICARD: What happened? 
+PULASKI: Apparently, the normal stimulant had the opposite effect. I'll
+have to try something else.
 
 [Shuttlebay two]
 
-DATA [OC]: Shuttlebay two, prepare for retrieval
-procedure. 
-[Bridge]
-
-DATA: Locking tractor beam. 
-(The beam stops the shuttle from tumbling and moves it towards the open
-bay door) 
-PICARD: Number One. 
-RIKER: You're with me, Mister Worf. 
-PICARD: Doctor Pulaski, you are needed in Shuttlebay two. 
-PULASKI [OC]: I've been monitoring. I'm on my way.
-
-[Shuttlebay two]
-
-(Guy Vardeman is on duty here) 
-DATA [OC]: Engage secondary tractor beam. 
-(The external beam is swapped for an internal one to bring the shuttle
-in to land. The markings say NCC-1701-D 05 El Baz. Riker and Worf
-enter) 
-RIKER: It's a Federation shuttlecraft, all right. 
-WORF: Yet there are no Federation bases or vessels in this area. 
-RIKER: NCC one seven zero one D USS Enterprise, shuttlecraft five. 
-(They look over to a shuttlecraft already parked in the bay. Pulaski
-and a medic enter) 
-RIKER: NCC one seven zero one D USS Enterprise shuttlecraft five. 
-WORF: How is this possible? 
-PULASKI: Commander, come here! 
-(They gaze at the unconscious pilot of the new shuttlecraft - Jean-Luc
-Picard) 
-RIKER: Captain? 
-PICARD [OC]: Yes, Number One. 
-RIKER: Are you on the Bridge? 
-PICARD [OC]: Where else would I be? 
-RIKER: Well. right now I think you should be in Shuttlebay two. 
-[Bridge]
-
-PICARD: Why? What is it? 
-RIKER: This I think you should see for yourself. Bring Commander Data. 
+LAFORGE: All right, Data. I think I've got it now.
+That ought to give you something. Making this power adjustment is very
+tricky. By all rights, this connection should blow all the shuttle's
+circuits. 
+DATA: Perhaps you had better step out of the way. 
+LAFORGE: All right, but remember, you're not indestructible yourself,
+you know. 
+DATA: Increase the power. 
+LAFORGE: Powering up. 
+DATA: Adjust the invert two percent positive. 
+LAFORGE: Two percent positive. It's the right decision, but it's having
+the opposite effect. 
+DATA: Yes. 
+LAFORGE: I don't understand. I can't think of anything that would cause
+the circuit to change so radically. 
+DATA: Adjust the invert two percent negative. 
+LAFORGE: Okay. Two percent negative. That's it. It shouldn't work, but
+it does. Hey, Data. Take a look at the stardate. 42679.5. Captain. 
+PICARD [OC]: Go ahead. 
+LAFORGE: Captain, we've been able to reactivate the shuttle, and the
+on-board clock indicates that the shuttle is 

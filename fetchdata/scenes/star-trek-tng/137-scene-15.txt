@@ -1,56 +1,57 @@
-PICARD RIKER DATA LAFORGE WORF
+RIKER CREWMAN WORF COMPUTER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-LAFORGE: I've been reviewing the Yamato's log, and
-I think maybe that alien probe had something to do with her problems. 
-PICARD [OC]: How? 
-LAFORGE: I need to see the thing. 
 [Bridge]
 
-PICARD: If it was the probe, that explains the
-Yamato. But how do you account for the difficulties the Enterprise is
-experiencing? 
+CREWMAN: Commander! Look! 
+RIKER: Worf! What happened? Where's the Captain? 
+WORF: We must take Data to Engineering. Hopefully the Captain will
+follow. 
 [Engineering]
 
-LAFORGE: I can't. 
-PICARD [OC]: Lieutenant, Are our problems likely to attain the
-seriousness of those on the Yamato? 
-LAFORGE: If you're asking for speculation, I'd say yes, sir, they are.
-I need time. 
-[Bridge]
+LAFORGE: I don't know how to help him. But
+comparing recorded norms for Data to the current readings, it's clear
+that all his functions are just going crazy. If we had an expert, a
+Maddox, somebody, I 
+(The tricorder emits a single tone, and Geordi closes Data's eyes) 
+LAFORGE: He's gone.
 
-PICARD: Mister La Forge, time is the one thing
-which we do not have in abundance. 
-(Enterprise arrives at a brown and battered planet) 
-PICARD: Analysis, Mister Data. 
-DATA: Scanning, sir. 
-PICARD: Well, Mister Data? 
-DATA: No life-form readings, sir. 
-WORF: All major cities have been heavily damaged, and the pattern of
-destruction is that consistent with large-scale orbital bombardment. 
-PICARD: How long ago? 
-DATA: Approximately two hundred thousand years, sir. 
-WORF: There is an energy source in the mountains of the smaller
-continent. 
-PICARD: Magnify. 
-RIKER: Is that Iconia? 
-PICARD: Captain Varley died believing that it was. 
-(There's a little flash from the cross shape inside the crater on the
-surface) 
-RIKER: Did you see that? 
-WORF: Captain. Projectile launched from the planet's surface. 
-DATA: Its size and composition match the probe which scanned the
-Yamato, sir. 
-PICARD: Shields up. Prepare a tractor beam. Mister La Forge, I'm going
-to assist you in your research. A probe has been launched from Iconia. 
+[Iconian Control room]
+
+(Picard enters the command sequence blue, amber,
+amber, red) 
+COMPUTER: Kandar qui. Kandar pro. Kandar kija. Kandar sis. Kandar exen.
+
 [Engineering]
 
-PICARD [OC]: I'm going to capture it. 
-LAFORGE: No, sir, wait! Captain! Captain! 
-(But the comm. system has gone down, so Geordi has to run to the Bridge
-instead. The door refuses to open so he heads off another way)
+(Data opens his eyes and sits up) 
+LAFORGE: Data! 
+RIKER: What the hell? 
+DATA: I am accessing. 
+LAFORGE: The self-correcting mechanism. 
+DATA: Captain? Captain? 
+LAFORGE: It's constantly kicking in to make minute adjustments in the
+positronic brain. 
+DATA: I am on the Enterprise. How did I get here? 
+RIKER: He cleared the Iconian programme from his own system. How? 
+DATA: Iconia? I was on Iconia, now I am on the Enterprise. 
+RIKER: Geordi, this is critical. How? 
+LAFORGE: Okay, give me a second to think. There was an incompatible
+programme running through Data's system, so the mechanism started
+searching for a way to keep him alive. The solution. The solution was a
+shutdown and a total wipe of all affected memory. 
+DATA: Query. What have I forgotten? 
+RIKER: Can you do the same thing with the Enterprise? 
+LAFORGE: I don't see why not, but it will have to be a complete
+shutdown. We turn her off, and effect a wipe of the Yamato log
+including every subsequent event since we downloaded it. I'll then be
+able to reload all the ship's programs from the protected archives in
+the main core. 
+RIKER: Geordi, if we shut down that means we're going to be bringing
+down the shields, and we're hanging nose to nose with a Romulan battle
+cruiser. 
+LAFORGE: Hey, Commander, whether it's Romulan phasers or our own warp
+engines, we're just as dead. 
+RIKER: Make it so. 
+DATA: May I help?
 
-[Corridor]
-
-LAFORGE: Coming through! 

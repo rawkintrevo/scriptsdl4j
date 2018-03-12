@@ -1,62 +1,30 @@
-JELLICO TROI DATA LAFORGE
+PICARD RIKER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Corridor]
 
-(Jellico and La Forge climb out of a Jefferies
-tube) 
-JELLICO: Power transfer levels need to be upgraded by twenty percent.
-The efficiency of your warp coils is also unsatisfactory. 
-LAFORGE: Coil efficiency is well within specifications, Captain. 
-JELLICO: I'm not interested in the specs, Geordi. The efficiency needs
-to be raised by at least fifteen percent. 
-LAFORGE: Fifteen percent. 
-DATA: That is an attainable goal, but it will require realigning the
-warp coil and taking the secondary distribution grid offline. 
-JELLICO: Very good, Data. That's exactly what I want you to do. 
-LAFORGE: If we take this grid offline, we're going to have to shut down
-exobiology, the astrophysics lab and geological research. 
-JELLICO: We're not on a research mission. Get it done in two days. 
-DATA: I believe that is also an attainable goal. If we utilise the
-entire Engineering department, there should be sufficient manpower
-available to complete the task. 
-LAFORGE: Sure, if everybody works around the clock for the next two
-days. 
-JELLICO: Then you'd better get to it, Geordi. It looks like you have
-some work to do. Data.
+LAFORGE: Commander, he's asked me to completely
+reroute half the power systems on the ship, change every duty roster,
+realign the warp coils in two days, and now he's transferred a third of
+my department to Security. 
+RIKER: If it makes you feel any better, you're not alone. Captain
+Jellico has made major changes in every department on the ship. 
+LAFORGE: Yeah, well, I don't mind making changes and I don't mind hard
+work, but the man isn't giving me the time I need to do the work.
+Someone's got to get him to listen to reason. 
+RIKER: It's not going to be me. He's made that abundantly clear. 
+LAFORGE: Well then, can I make a suggestion? Talk to Captain Picard.
+Maybe he can do something. We just need a little time. 
+RIKER: All right.
 
-[Ready room]
+[Picard's quarters]
 
-(Jellico is arranging a sculpture or something when
-the doorbell rings) 
-JELLICO: Yes? 
-TROI: May I speak with you, Captain? 
-JELLICO: Deanna. Come in, come in. 
-(there are some child's drawings on his desk.) 
-JELLICO: The latest masterpieces from my son. It's an elephant. I
-think. 
-TROI: Definitely an elephant. 
-JELLICO: I'm glad you're here. I'd like to go over the duty roster with
-you. 
-TROI: I'd be happy to. But first, I'd like to talk about how the change
-in command is affecting the crew. 
-JELLICO: I've noticed some resistance. 
-TROI: I wouldn't call it resistance. More like uncertainty. Most of
-them had served under Captain Picard for several years. They knew him,
-they knew what he expected. Now they're being asked to adjust to a new
-captain and a new way of doing things, and they're uncertain how to
-react. 
-JELLICO: I see your point. This all could be very unsettling to them. 
-TROI: And to you. Perhaps everyone just needs some time. Time for you
-to get to know and trust the crew, and time for them to understand how
-you want things done. 
-JELLICO: I'm glad you brought this to my attention, Deanna.
-Unfortunately, I don't have time for a honeymoon with the crew. You've
-clearly given this a lot of thought, so I'd like you to take charge of
-the morale situation. Please see to it that they make the adjustment to
-the new routine quickly and easily. I have a meeting with the new
-Security Chief in five minutes, so the duty roster will have to wait.
-Thank you, Counsellor. By the way. I prefer a certain formality on the
-Bridge. I'd appreciate it if you wore standard uniform when you're on
-duty. 
-TROI: Of course, sir.
+(Picard staggers home weary and worn out from a
+hard day on the holodeck. Just as he manages to sit down the doorbell
+rings.) 
+PICARD: Come. 
+RIKER: Are you all right, sir? 
+PICARD: Yes, I am. The last time I had to train like this was for the
+Academy marathon, but I'm managing. What can I do for you? 
+RIKER: It's nothing urgent. I'm sorry I bothered you. Good night.
 

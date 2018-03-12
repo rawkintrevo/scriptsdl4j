@@ -1,35 +1,53 @@
-PICARD TROI COMPUTER
-
- [Troi's
-quarters]
-
-(It's been a hard day at the office for the ship's
-Counsellor) 
-TROI: Computer, dispatches. 
-COMPUTER: A research enquiry from the Manitoba Journal of
-Interplanetary Psychology and three
-communiqus from your mother. 
-TROI: Transfer the letters from my mother to the viewscreen. And,
-computer, I would like a real chocolate sundae. 
-COMPUTER: Define real in context, please. 
-TROI: Real. Not one of your perfectly synthesised, ingeniously enhanced
-imitations. I would like real chocolate ice cream, real whipped cream 
-COMPUTER: This unit is programmed to provide sources of acceptable
-nutritional value. Your request does not fall within current
-guidelines. Please indicate whether you wish to override the specified
-programme? 
-TROI: Listen 
-PICARD [OC]: Picard to Counsellor Troi. 
-TROI: Now what? Yes, Captain?
+TROI GUEST0 GUEST1 PICARD RAL RIKER GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ten Forward]
 
-PICARD: The pleasure of your company is requested,
-Counsellor. We're having a little impromptu reception for the arriving
-delegates. 
-
+PICARD: Just throw on any old thing. We're about to
+get our first look at the wormhole. 
+TROI [OC]: Of course, Captain. I'm on my way. 
 [Troi's quarters]
 
-TROI: Captain, I'm not really dressed for a
-reception. 
-PICARD [OC]: Oh, Counsellor 
+TROI: God forbid I should miss my first look at the
+wormhole.
+
+[Ten Forward]
+
+RIKER: May I escort you, Miss Troi? 
+TROI: Just tell me there's some chocolate here. 
+PICARD: Ah, Counsellor Troi. Will you allow me to do the introductions?
+This is Premier Bhavani of Barzan. Counsellor Deanna Troi. 
+TROI: Your discovery has produced a great deal of excitement, Premier. 
+GUEST1: Hopefully, it will also produce a new era of prosperity for my
+people. 
+GUEST0: We'll see to that. 
+PICARD: You know Mister Mendoza, the Federation negotiator. 
+GUEST0: A pleasure to see you again, Counsellor Troi. 
+PICARD: This is a worthy Federation competitors in the bidding, Leyor
+of the Caldonians. 
+(About eight feet tall with the prosthetic head, it's the same man who
+played the Predator) 
+GUEST3: Madame. 
+RAL: And I'm Devinoni Ral. 
+(a handsome human with a woman hanging onto his arm) 
+TROI: Ship's Counsellor Deanna Troi. 
+GUEST0: My good friend, Ral, is the best hired gun in the business. 
+TROI: Hired gun? 
+RAL: My good friend Mendoza means that I'm a negotiator who serves a
+variety of clients. On this particular occasion I represent the
+Chrysalians. 
+GUEST1: I believe it's almost time, isn't it Captain? 
+PICARD: Indeed. It will be visible directly ahead. 
+GUEST0: Is it always on time, Bhavani? 
+GUEST1: Always. We see it every two hundred and thirty three minutes.
+Our scientists say it's due to radiation buildup in the
+accretion disk. The visible burst is very brief. 
+(a circular burst of light) 
+GUEST1: There it is, ladies and gentlemen, the first and only stable
+wormhole known to exist. It's yours, for the right price. 
+(but Troi's attention is taken up by Ral) 
+Captain's log, Stardate 43385.6. We are orbiting
+Barzan Two, which is entertaining bids for control of what appears to
+be a stable wormhole, which could provide a permanent shortcut to the
+distant Gamma Quadrant.
+

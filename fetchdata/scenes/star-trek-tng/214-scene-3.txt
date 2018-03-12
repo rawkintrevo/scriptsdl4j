@@ -1,39 +1,80 @@
-PICARD RIKER RO LAFORGE WORF
+TROI MACDUFF LAFORGE WORF PICARD RIKER RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Ten Forward]
 
-RIKER: Navigators on this ship have been doing
-flight handling assessments the same way for years, Ensign. 
-RO: And I've found a better way. 
-RIKER: Bridge. Do you mind if we discuss changes in procedure before
-you make them? 
-RO: If I had come to you in advance and asked you to do it my way 
-RIKER: I might have said 
-RO: No. 
-RIKER: Yes, maybe. The point is, I didn't get the chance. 
-RO: The point is, with all due respect Commander, you're trying to turn
-me into your idea of the model officer. 
-RIKER: The rules on this ship do not change just because Ro Laren
-decides they do.
+(at the bar) 
+DATA: One Samarian Sunset, made in the traditional style. 
+(Data puts a glass of clear liquid in front of Deanna, then taps it
+with his fingernail. A yellow glow diffuses into orange in the glass) 
+TROI: It's beautiful. 
+DATA: I hope you enjoy it. 
+(a green light passes across Data) 
+DATA: I hope you enjoy it.
 
 [Bridge]
 
-WORF: We are picking up a subspace signal, Captain.
-Sensors indicate a small spacecraft ahead. 
-LAFORGE: The configuration is unfamiliar. Nothing in our database comes
-close. 
-WORF: Within visual range. 
-PICARD: On screen. 
-(vaguely triangular with green lights) 
-PICARD: Analysis, Mister Worf. 
-WORF: No discernable armament. Reading one lifeform aboard. 
-PICARD: Hail the vessel. 
-WORF: No response, Captain. 
-LAFORGE: We're being scanned. It's not like any sensor system I've ever
-seen. Shall we raise shields? 
-PICARD: No, let's begin this with a show of good faith. 
-WORF: Sir, the scans are now matching the frequency of our optical data
-network. It could be an attempt to access our computer system. 
-LAFORGE: Scanning intensity has increased by fifteen hundred percent. 
-PICARD: Shields up.
+WORF: The scanning signal has penetrated our
+shields. 
+LAFORGE: Computers are going down. 
+PICARD: Take evasive action. 
+RO: The helm's not responding. 
+(the Bridge is briefly flooded with bright green light) 
+PICARD: What happened? 
+LAFORGE: What the hell? 
+RIKER: I don't know who any of you are. 
+PICARD: Nor do I. I don't even remember who I am. 
+(after the titles) 
+LAFORGE: Looks like we're all in the same boat. 
+RIKER: Make that on the same starship. 
+MACDUFF: But who are we? What are we doing here? 
+(who are you, sunshine?) 
+RO: It looks like I'm the pilot. We're not going anywhere now. The
+helm's dead. 
+PICARD: But you still know how to work it. 
+RO: Yes. 
+RIKER: This console has tactical configuration? 
+WORF: Yes. Phaser power status, intruder scan, torpedo guidance. But
+they do not appear to be operable. 
+PICARD: Clearly, we still possess certain skills. It would seem we know
+how to operate this ship. But our identities have somehow been erased
+or suppressed. 
+RIKER: We are on the Bridge. There's a good chance this is our ship.
+Looks like you're the leader. 
+WORF: Perhaps we should not jump to conclusions. I am decorated as
+well. 
+PICARD: It seems to me that determining leadership is not crucial right
+now. We need to find out who we are and well, what we're doing out
+here. 
+MACDUFF: But how did this happen? What did this to us? 
+LAFORGE: Better still, who did this to us? I've got some intermittent
+sensor readings here. The scan keeps repeating itself like it's stuck,
+but it looks like there's metallic debris right in front of us.
+Distance, seventeen kilometres. 
+RIKER: The remains of another ship? 
+LAFORGE: That's a good possibility. 
+WORF: Perhaps we were engaged in battle. 
+MACDUFF: If they stunned us with some type of bioelectric field that
+could have wiped out our memories. 
+RO: Then we fired back, destroyed them. 
+PICARD: But if that presumption is correct, then we could have
+sustained other damage. Um, Computer, status report. 
+RIKER: No voice interface. 
+LAFORGE: No interface, period. Hey. Got something. I've accessed the
+basic system directories. 
+PICARD: Can we get a general status report? 
+LAFORGE: Life support systems throughout the ship are fully
+operational. Navigation, propulsion offline. 
+RO: What about communications? 
+LAFORGE: Completely disrupted. 
+RO: That rules out a distress signal. 
+RIKER: If we even knew where to send it. 
+PICARD: Do we have an onboard communications system? 
+LAFORGE: We do now. 
+PICARD: Lets use it. This ship must have a crew. They may still have
+their memories. 
+RO: We should be careful what we say. There could be a boarding party
+somewhere on the ship. 
+WORF: Bridge to all personnel. Select a representative from your group
+to contact the Bridge and report on your status.
 

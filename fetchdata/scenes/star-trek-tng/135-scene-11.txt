@@ -1,33 +1,67 @@
-PICARD RIKER COMPUTER DATA
+PICARD RIKER GUEST0 DATA COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Courtroom]
 
-PICARD: Come. 
-(Data enters) 
-PICARD: Data, Captain Louvois has issued a ruling. You are the property
-of Starfleet Command. You can not resign. 
-DATA: I see. From limitless options I am reduced to none, or rather
-one. I can only hope that Commander Maddox is more capable than it
-would appear. 
-PICARD: Data, you're not going to submit. We're going to fight this. I
-challenged the ruling. Captain Louvois will be compelled to hold a
-hearing. She may be overly attached to the letter of the law, but I
-suspect that she still understands its spirit. We will put to rest this
-question of your legal status once and for all. Now, I have been asked
-to represent you, but if there is some other officer with which you
-would feel more happy? 
-DATA: Captain, I have complete confidence in your ability to represent
-my interests.
-
-[Computer room]
-
-RIKER: Computer, identify Riker, William T. Access
-code theta alpha two seven three seven, blue, enable. 
-COMPUTER: Riker, William T, identified. Ready. 
-RIKER: Access all available technical schematics on Lieutenant
-Commander Data. 
-COMPUTER: Working. 
-(Then up pops 'emergency manual control' and Data's off-switch location
-is displayed. Riker is fascinated at this new information, then
-realises the implication)
+GUEST0: This hearing, convened on stardate
+42527.4, is to determine the legal status of the android known as Data.
+The office of the Judge Advocate General has rendered a finding of
+property, the defence has challenged. Commander Riker? 
+RIKER: Your honour, there is only one issue, and one relevant piece of
+evidence. I call Lieutenant Commander Data. 
+(Data goes to the witness chair and puts his hand on a scanner on the
+table) 
+COMPUTER: Verify. Lieutenant Commander Data. Current assignment, USS
+Enterprise. Starfleet Command Decoration for Valour and 
+RIKER: Your honour, we'll stipulate to all of this. 
+PICARD: Objection, Your Honour, I want this read. All of it. 
+GUEST0: Sustained. 
+COMPUTER: Valour and Gallantry, Medal of Honour with Clusters, Legion
+of Honour, the Star Cross. 
+GUEST0: Proceed, Commander. 
+RIKER: Commander, what are you? 
+DATA: An android. 
+RIKER: Which is? 
+DATA: Webster's Twenty Fourth Century Dictionary, Fifth Edition,
+defines an android as an automaton made to resemble a human being. 
+RIKER: Automaton. Made. By whom? 
+DATA: Sir? 
+RIKER: Who built you, Commander? 
+DATA: Doctor Noonien Soong. 
+RIKER: And he was? 
+DATA: The foremost authority in cybernetics. 
+RIKER: More basic than that. What was he? 
+DATA: Human? 
+RIKER: Thank you. Commander, what is the capacity of your memory, and
+how fast can you access information? 
+DATA: I have an ultimate storage capacity of eight hundred quadrillion
+bits. My total linear computational speed has been rated at sixty
+trillion operations per second. 
+RIKER: Your Honour, I offer in evidence prosecution's exhibit A, a rod
+of par-steel. Tensile strength, forty kilobars. Commander, would you
+bend that? 
+PICARD: Objection. There are many life forms possessed of mega
+strength. These issues are not relevant to this hearing. 
+GUEST0: I'm afraid I can't agree, Captain. Proceed with you
+demonstration, Commander. 
+(Data bends the heavy rod neatly into a U shape) 
+RIKER: Drawing on the log record of the construction of the prototype
+android Lore, also constructed by Noonien Soong, I request to be
+allowed to remove the Commander's hand for your inspection. 
+PICARD: Objection! (changes his mind) It doesn't matter. Objection
+withdrawn. 
+GUEST0: Proceed, Commander. 
+RIKER: I'm sorry. 
+(Riker twists and pulls off Data's left forearm and hand)
+RIKER: The Commander is a physical representation of a dream, an idea
+conceived of by the mind of a man. It's
+purpose is to serve human needs and interests. It's a collection of
+neural nets and heuristic algorithms. Its responses dictated by an
+elaborate software programme written by a man. Its hardware built by a
+man. And now. And now a man will shut it off. 
+(A flick of the hidden off switch, and Data slumps across the table) 
+RIKER: Pinocchio is broken. Its strings have been cut. 
+(A horrified silence descends) 
+PICARD: I request a recess. 
+GUEST0: Granted.
 

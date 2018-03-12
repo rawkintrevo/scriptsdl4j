@@ -1,129 +1,45 @@
-TROI LAFORGE WORF PICARD RIKER SECURITY CRUSHER DATA
+PICARD GUINAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crash site]
+[Picard's quarters]
 
-WORF: Four more. None survived.
-PICARD [OC]: Picard to Riker.
-RIKER: Go ahead, Enterprise.
-
-[Bridge]
-
-PICARD: We are transporting you directly to the
-detention cell.
-CRUSHER [OC]: I need him in Sickbay, Captain.
-PICARD: The cell, Doctor. Whatever equipment you need will be brought
-to you there.
-CRUSHER [OC]: Very well. 
-(Picard goes to his Ready room, and Troi follows)
-
-[Ready room]
-
-PICARD: Come.
-TROI: Captain, I just wondered if there's anything you wanted to talk
-about.
-PICARD: I don't think so, Counsellor.
-TROI: I would have thought having a Borg on the ship would stir some
-feelings.
-PICARD: I'm quite recovered from my experience, thank you.
-TROI: Sometimes even when a victim has dealt with his assault there are
-residual effects of the event that linger. You were treated violently
-by the Borg. 
-Kidnapped, assaulted,
-mutilated. 
-PICARD: Counsellor. Counsellor, I very much appreciate your concern for
-me, but I can assure you it is quite misplaced. I have carefully
-considered the implications of having a Borg on this
-ship. I have weighed the possible risks, and I am convinced that we are
-doing the right thing. Now, I am quite comfortable with my decision.
-TROI: I see. Well, if at any point you want to talk more.
-PICARD: I shall certainly avail myself of your help.
-
-[Brig]
-
-(Crusher is treating the Borg inside the cell) 
-WORF: Lower the forcefield.
-(a medic enters the cell and the forcefield is raised again. Picard
-enters the Brig) 
-WORF: Captain, the Borg is still unconscious.
-CRUSHER: He suffered massive internal injuries. We've been able to
-control the haemorrhaging, but some of the implants in his brain were
-damaged. I may have to remove them.
-PICARD: The Borg will die if they're removed permanently. Their brains
-grow dependent on the biochips.
-CRUSHER: Perhaps Geordi can construct some new implants. 
-LAFORGE: They contain relatively straightforward programming, interface
-protocols. We have the files we downloaded after your experience,
-Captain. I think I can manage it.
-PICARD: Mister La Forge, do you know enough about Borg programming to
-alter the pathways to their root command structure?
-LAFORGE: I'm not sure, sir. The subroutines are pretty complicated. I'd
-probably have to study the data processing algorithms. It's the only
-way I could trace the access codes.
-PICARD: If we could get to the root command, we could introduce an
-invasive programming sequence through its biochip system and then
-return it to the hive. 
-LAFORGE: The Borg are so interconnected it would act like a virus.
-PICARD: Which would infect the entire Collective. We could disable
-their neural network at a stroke.
-CRUSHER: Infect it? You make it sound like a disease.
-PICARD: Quite right, Doctor. If all goes well, a terminal one.
-
-[Observation lounge]
-
-LAFORGE: If this works the way I think it will,
-once the invasive programme starts spreading, it'll only be a matter of
-months before the Borg suffer total systems failure.
-PICARD: Comments.
-CRUSHER: A question. What exactly is total systems failure?
-DATA: The Borg are extremely computer dependent. A systems failure will
-destroy them.
-CRUSHER: I just think we should be plain about that. We're talking
-about annihilating an entire race.
-PICARD: Which under most circumstances would be unconscionable. But as
-I see it, the Borg leave us with little choice.
-RIKER: I agree. We're at war.
-CRUSHER: There's been no formal declaration of war.
-TROI: Not from us, but certainly from them. They've attacked us in
-every encounter.
-PICARD: They've declared war on our way of life. We are to be
-assimilated.
-CRUSHER: But even in war there are rules. You don't kill civilians
-indiscriminately.
-RIKER: There are no civilians among the Borg.
-PICARD: Think of them as a single, collective being. There's no one
-Borg who is more an individual than your arm or your leg.
-CRUSHER: How convenient.
-PICARD: Your point, Doctor?
-CRUSHER: When I look at my patient, I don't see a collective
-consciousness. I don't see a hive. I see a living, breathing boy who's
-been hurt and who needs our help. And we're talking about sending him
-back to his people as an instrument of destruction.
-PICARD: It comes down to this. We're faced with an enemy who are
-determined to destroy us, and we have no hope of negotiating a peace.
-Unless that changes, we are justified in doing anything we can to
-survive.
-SECURITY [OC]: Security to Captain.
-PICARD: Picard here.
-SECURITY [OC]: The Borg has regained consciousness, sir.
-PICARD: Acknowledged. We proceed with the plan.
-
-[Brig]
-
-(the Borg is checking every millimetre of the walls
-and forcefield) 
-CRUSHER: What's he doing?
-PICARD: He's trying to find an access terminal so he can interface with
-the collective. He doesn't understand that the signal has been cut off.
-LAFORGE: He's emitting a homing signal and a second subspace beacon,
-but our damping field is blocking both signals.
-PICARD: He's alone. For the first time he's being forced to cope with
-his environment without the resources of the Collective.
-CRUSHER: He must be hungry. The Borg don't ingest food. Their implants
-can synthesise any organic molecules the biological tissues require.
-What they need is energy.
-PICARD: Arrange to feed it.
-LAFORGE: Aye, sir. 
-(Picard leaves) 
-LAFORGE: I'll have to adapt a power conduit and install it in there.
-CRUSHER: If I didn't know better, I'd think he was scared.
+(Picard is in his dressing gown when the doorbell
+rings) 
+PICARD: Guinan. Please, come in.
+GUINAN: Are you sure? You look like you're preparing for a quiet
+evening.
+PICARD: No, I'm delighted to see you. Can I get you something to drink?
+GUINAN: No, thank you. I was thinking about how you said the other day
+that my foil was dipping. That I should get some exercise and
+strengthen my arm.
+PICARD: Well. a strong forearm is certainly an advantage in fencing.
+GUINAN: And bartending. About the Borg. Aren't you the least bit
+surprised by him?
+PICARD: Surprised?
+GUINAN: Did you know he has a name? La Forge gave it to him. His name's
+Hugh. And he's lonely. I don't know what made me go see him. La Forge
+said I should, but I said no. And suddenly there I was standing there,
+staring at him. I thought it was just curiosity. Just curious. I need
+to hear you say that you are sure you're doing the right thing.
+PICARD: If you're here to persuade me not to use the invasive programme.
+GUINAN: No. I think I need you to persuade me.
+PICARD: Two days ago, you were so upset about the Borg even being on
+the ship that you tore my foil out of my hand. And now you're here
+questioning whether it should be treated as the enemy.
+GUINAN: No. But when you talk to him face to face, can you honestly say
+you don't have any doubt?
+PICARD: I haven't talked to it.
+GUINAN: Why not?
+PICARD: I saw no need.
+GUINAN: If you're going to use this person 
+PICARD: It's not a person, damn it, it's a Borg!
+GUINAN: If you are going to use this person to destroy his race, you
+should at least look him in the eye once before you do it. Because I am
+not sure he is still a Borg.
+PICARD: Because it's been given a name by a member of my crew doesn't
+mean it's not a Borg. Because it's young doesn't mean that it's
+innocent. It is what it is, and in spite of efforts to turn it into
+some kind of pet I will not alter my plans.
+GUINAN: Fine. But if you don't talk to him at least once, you may find
+that decision a harder to live with than you realise.
 

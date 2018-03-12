@@ -1,44 +1,36 @@
-PICARD TROI CRUSHER JONO ENDAR
+RIKER LAFORGE WORF PICARD WESLEY NURSE CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Doctor's office]
+[Picard's quarters]
 
-PICARD: So you think it would be unwise to let
-Endar see Jono? 
-CRUSHER: I think it's dangerous. Abusers can have subtle but powerful
-influence over their victims. 
-PICARD: You see, I'm not convinced the boy has been abused, Doctor.
-I've talked with the father, and if I am any judge of character, I
-would say that he deeply cares for the boy's welfare. 
-TROI: I sense awakening memories in the boy. This is a very fragile
-time for Jono. If we send away the man he calls father without even
-letting them see each other, how will we ever gain his trust? 
-PICARD: Yes. There is something else to keep in mind. We are deep in
-Talarian territory. A semblance of diplomacy is called for. I'm going
-to agree to the meeting. 
-CRUSHER: All I ask is that the visit be supervised. Don't let them be
-alone together. 
-PICARD: Agreed.
+(Jono slips out of his hammock and stands in the
+bedroom doorway, watching Picard sleep. He enters, Picard wakes, and
+Jono plunges the Klingon dagger into - )
 
-[Observation lounge]
+[Sickbay]
 
-(Troi is with Endar when Picard and Jono enter) 
-JONO: Endar. 
-ENDAR: Jono, my son. 
-(They touch foreheads, Picard and Troi turn their backs) 
-ENDAR: Have they treated you well? 
-JONO: Yes, Captain. Except 
-ENDAR: Except what? 
-JONO: I was forbidden to make the B'Nar. 
-ENDAR: That's all right. I know you've mourned in your heart. Well,
-Jono what do you think of these humans? 
-JONO: They look like me. 
-ENDAR: They want to keep you, you know. 
-JONO: Yes, I know. 
-ENDAR: You've reached the age of decision. What is your choice? Do you
-want to stay? 
-JONO: No, of course not. 
-ENDAR: Then you shall not. I'm returning to the Q'Maire. I will give
-the humans with a choice. If they do not make the one we know is right,
-it may lead to war. You may die. 
-JONO: I am ready to die.
+CRUSHER: Two bleeders, single plane penetration. I
+need the autosuture here. 
+NURSE: Yes, Doctor. 
+CRUSHER: Looks like the blade hit the sternum and was deflected. It
+could have been a lot worse. 
+PICARD: Then it wasn't a dream. 
+CRUSHER: I'm afraid not. No vital organs pierced, no major arteries. 
+PICARD: Where is the boy now? 
+CRUSHER: Worf has him in security. Hold still. 
+PICARD: I want to see him. Here. Now. 
+CRUSHER: He'll wait until I'm finished.
+
+[Bridge]
+
+WORF: Talarian warships converging. Range, five
+hundred kilometres. 
+RIKER: On screen. Any communication, Lieutenant Worf? 
+WORF: No, sir. We have an open channel. 
+WESLEY: Commander, the warships' closing velocities are slowing.
+Staggered approach vectors bearing zero, one hundred twenty, and two
+hundred forty degrees. 
+RIKER: Riker to La Forge. 
+LAFORGE [OC]: La Forge here, sir. 
+RIKER: The Talarians are moving
 

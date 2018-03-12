@@ -1,67 +1,40 @@
-VASH LAFORGE PICARD Q NURSE CRUSHER DATA SIRGUY
+Q VASH NURSE GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Forest glade]
+[Castle courtyard]
 
-(Data is teaching Deanna about longbows, Geordi is
-practising his mandolin) 
-CRUSHER: I've managed to stop the bleeding. 
-(a horse is heard approaching, then pops in out of thin air) 
-PICARD: Q. It's about time you showed up. 
-Q: I would prefer if you addressed me as His Honour the High Sheriff of
-Nottingham. 
-PICARD: We will no longer share in this pointless fantasy of yours. 
-Q: Fine. stay here and do nothing. By midday tomorrow, your crew will
-be safely aboard their ship. Of course, you will have to accept the
-consequences of your inaction. 
-PICARD: Consequences? 
-Q: What is the one thing that Robin Hood is most famous for? 
-LAFORGE: He robs from the rich and gives to the poor. 
-Q: Besides that. 
-DATA: Perhaps you are referring to the rescue of Maid Marian from
-Nottingham Castle? 
-Q: Yes, Data. And it just so happens that Sir Guy of Gisbourne has
-decreed that Marian's head shall come off tomorrow at noon. 
-PICARD: Vash. 
-Q: It's your choice, Robin. You can either take your ease in this
-sylvan glade or risk your life to save the woman you care nothing
-about. 
-PICARD: My feelings toward Vash are irrelevant. I would attempt to save
-any innocent life, as you well know. 
-Q: Yes, but what about your merry men? Are you willing to jeopardise
-their lives as well? Is Vash's life worth more than Data's or Troi's or
-Worf's? You know, Worf, you'd make a perfect throw rug in Nottingham
-Castle. 
-PICARD: Q, I ask you to put and end to this before someone gets hurt. 
-Q: Oh, that's impossible. You see, I've given this fantasy as you call
-it, a life of its own. I have no more idea what's going to happen than
-you do. But of one thing I am absolutely sure. If you dare come to
-Nottingham Castle, blood will be spilt.
+Q: Congratulations, Sir Guy. I see you've snared
+the jackal. 
+SIR GUY: It's Marian who deserves the credit. Took him with his own
+sword.
 
-[Marian's chambers]
-
-NURSE: Oh, you'll wear yourself out with all that
-pacing, Milady. 
-VASH: I told you to stop calling me that. The name's Vash. 
-NURSE: My poor lamb. You've got a brain sickness for sure. Can't I get
-you something to ease your suffering? 
-VASH: I could use a drink. 
-NURSE: Well, I wasn't thinking of spirits, Milady, but I have some nice
-fresh leeches. To drain the fever. 
-VASH: Out. Get out. 
-NURSE: Oh, her mind's in an awful turmoil, Sir Guy. 
-VASH: Who the hell are you? 
-NURSE: Milady, everyone in Nottingham knows, Sir Guy of Gisbourne. 
-VASH: Sir Guy of what? 
-SIR GUY: Leave us. 
+[Marian's chamber] 
+NURSE: You sent for me, Milady? 
+VASH: I want you to take this letter to Robin's men. 
+NURSE: You want me to go to Sherwood Forest at this time of night? 
+VASH: You'll leave immediately. 
+NURSE: But it's dark. I'll get lost. Besides, it's not safe. What with
+all them hedge robbers and worse lurking about. 
+VASH: Please, this is urgent. 
+NURSE: If you ask me, you'd be better off with Sir Guy. He's got a
+future. Why, you'll be living in London afore you know it. 
+VASH: But you must go, otherwise they'll kill him. 
+(the Sheriff enters) 
+Q: Out. 
 (the nurse leaves) 
-SIR GUY: Do not mock me, Lady Marian. I'm prepared to offer you one
-last chance to change your mind. Will you marry me? 
-(Vash slaps his face) 
-SIR GUY: I see. Then the execution will proceed as scheduled. 
-VASH: What execution? 
-SIR GUY: I warn you, Marian, this pathetic attempt at feigning madness
-will not save your life. 
-VASH: You mean I'm the one being executed? Sir Guy, wait a minute.
-Couldn't we talk this over? I admit, I haven't been myself lately.
-Maybe we've both been a bit hasty? Please?
+VASH: How dare you barge in here like this 
+Q: I've come to apologise for my harsh words. I had no idea that you
+were so ruthless. 
+VASH: That's most gracious of you. 
+Q: I admit I was surprised, but no more surprised than Jean-Luc. 
+VASH: You're Q. 
+Q: Yes. And you are a very interesting woman. What is this? 
+VASH: Give me that. 
+Q: A letter to Riker. Quick, Come to Castle. Save the Captain. Why,
+this is wonderful. What marvellous duplicity. You
+certainly fooled Sir Guy, and me as well. I think you're worth further
+study. 
+VASH: Am I? 
+Q: Yes, but unfortunately we just don't have the time. Guards! Take
+this traitor away. It appears there's going to be a double execution.
 

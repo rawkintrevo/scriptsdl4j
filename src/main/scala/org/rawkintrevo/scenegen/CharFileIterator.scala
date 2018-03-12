@@ -117,6 +117,7 @@ class CharFileIterator(
     fileCharacters
   }
 
+
   def loadAllFileChars(directory: String): Array[Array[Char]] = {
     def getListOfFiles(dir: String):List[String] = {
       val d = new File(dir)
@@ -164,6 +165,7 @@ class CharFileIterator(
   val actorToIdxMap: Map[String, Int] =
       validActors.indices.map({ i => (validActors(i), i)}).toMap
 
+  val nTopics: Int = Files.readAllLines(new File("/home/rawkintrevo/gits/scriptsdl4j/fetchdata/scripts/topics.txt").toPath, textFileEncoding).size()
 
 
   def next(num: Int): DataSet = {
@@ -176,18 +178,17 @@ class CharFileIterator(
     // dimension 1 = size of each vector (i.e., number of characters)
     // dimension 2 = length of each time series/example
     //Why 'f' order here? See http://deeplearning4j.org/usingrnns.html#data section "Alternative: Implementing a custom DataSetIterator"
-    val input = Nd4j.create(Array[Int](currMinibatchSize, validCharacters.length + validActors.length, exampleLength), 'f')
+    val input = Nd4j.create(Array[Int](currMinibatchSize, validCharacters.length + validActors.length + nTopics, exampleLength), 'f')
     val labels = Nd4j.create(Array[Int](currMinibatchSize, validCharacters.length, exampleLength), 'f')
 
     for (i <- 0 until currMinibatchSize) {
-
-
       val startIdx = exampleStartOffsets.removeFirst()
-
       // Get the actors for this scene
       val sceneLines = allChars(startIdx).mkString("").split("\n")
       val actors = sceneLines(0).split(" ")
-      val scriptData: Array[Char] = sceneLines.slice(1, sceneLines.length).mkString("\n").toCharArray
+      val topics = sceneLines(1).split(" ").map(_.toFloat)
+      val headerLines = 2
+      val scriptData: Array[Char] = sceneLines.slice(headerLines, sceneLines.length).mkString("\n").toCharArray
       var currCharIdx = charToIdxMap(scriptData(0))
       //Current input
       var c: Int = 0
@@ -195,7 +196,12 @@ class CharFileIterator(
         val nextCharIdx = charToIdxMap(scriptData(j)) //Next character to predict
         input.putScalar(Array[Int](i, currCharIdx, c), 1.0)
         for (a <- actors) {
-          input.putScalar(Array[Int](i, validCharacters.length + actorToIdxMap(a), c), 1.0)
+          if (actorToIdxMap.contains(a)) {
+            input.putScalar(Array[Int](i, validCharacters.length + actorToIdxMap(a), c), 1.0)
+          } else {input.putScalar(Array[Int](i, validCharacters.length + actorToIdxMap("GUEST0"), c), 1.0) } // a lazy hack bc occasionally there is a "GUEST" or "P" or "T" and I can't figure out where this is coming from
+        }
+        for (t_i <- topics.indices) {
+          input.putScalar(Array[Int](i, validCharacters.length + validActors.length + t_i, c), topics(t_i))
         }
         labels.putScalar(Array[Int](i, nextCharIdx, c), 1.0)
         currCharIdx = nextCharIdx
@@ -209,7 +215,7 @@ class CharFileIterator(
     allChars.length
 
   def inputColumns: Int =
-    validCharacters.length + validActors.length
+    validCharacters.length + validActors.length + nTopics
 
   def totalOutcomes: Int =
     validCharacters.length

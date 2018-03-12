@@ -1,63 +1,33 @@
-PICARD BRIAM COMPUTER LAFORGE LENOR
+PICARD GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Observation lounge]
 
-LAFORGE: We've been working from your drawings,
-Ambassador. I hope we're in the ballpark. 
-BRIAM: Ball park? 
-PICARD: That's an old human expression. Mister LaForge hopes that we've
-got close to achieving what you wanted. 
-LAFORGE: Computer, run holodeck programme Krios One. 
-COMPUTER: Enter when ready. 
-[Holodeck - Temple]
+(a wiry man with a shock of red hair is there. He
+comes across as a man not really interested in women) 
+GUEST4: Captain Picard. 
+PICARD: Chancellor Alrik. Welcome aboard the Enterprise. 
+GUEST4: Your First Officer has described the details of the incident
+with the Ferengis. How is the Ambassador? 
+PICARD: He has not regained consciousness. 
+GUEST4: A tragedy. Your willingness to assist is appreciated by both our
+peoples. 
+PICARD: I', doing my best, although I'm finding some of the rituals
+quite demanding. 
+GUEST4: Rituals. I am more concerned about the remaining provisions of
+the treaty. The proposed trade agreements are not
+acceptable. We still must review the uncommitted territories as well as
+discuss the schedule for exchange of technology. 
+PICARD: The Kriosians have authorised me to make several compromises
+favourable to your position. 
+GUEST4: Good. Tomorrow, then. 
+PICARD: Briam has supervised a reproduction of the ancient Temple of
+Akadar on our holodeck. 
+GUEST4: Such a sentimental people, these Kriosians. It's hard to believe
+we have a common ancestry. 
+PICARD: Please. 
+GUEST4: I suppose they've sent the metamorph. 
+PICARD: Kamala? Yes. She's looking forward to meeting you. 
+GUEST4: I'm sure she'll be satisfactory. Between you and me, Captain, I
+am far more interested in the trade agreements.
 
-(stonework, a raised altar platform, a central
-chandelier) 
-BRIAM: Astonishing. It is the ancient Temple of Akadar. It is this
-temple that bonds Krios and Valt, gentlemen. Two brothers ruled a vast
-empire from this site until they were torn apart by their love for an
-extraordinary woman. This is where the wars began. And this is where
-they shall end.
-
-[Cargo bay]
-
-(Qol sneaks in to view the giant golden glowing egg
-supported by three golden beams of light.)
-
-[Holodeck - Temple]
-
-BRIAM: There are some details to be added, of
-course. 
-PICARD: Commander La Forge will be entirely at your disposal,
-Ambassador. 
-[Corridor]
-
-LAFORGE: Just let me know what you need. 
-BRIAM: Yes, of course. I must consult several of the historical volumes
-I brought with me, so perhaps we can reconvene later. 
-LENOR: Excuse me! Excuse me! Is it true? Is a Kriosian ambassador
-aboard this vessel? 
-BRIAM: Yes. Can I help you? 
-PICARD: The Ambassador's very busy. 
-LENOR: Ah, do you schedule his appointments? 
-PICARD: I'm the Captain of the ship. What is it you want? 
-LENOR: Allow me to present myself. Par Lenor of the Ferengi Trade
-Mission. We are pleased to hear, Ambassador, that you have at last
-negotiated peace with the Valtese, Ambassador. Peace is good for trade,
-unless you happen to be an arms merchant. 
-PICARD: Excuse us. 
-LENOR: Arms merchant! 
-[Cargo bay]
-
-(Qol is rolling barrels near the egg, then he
-climbs on the rickety pile to get a closer look) 
-[Corridor]
-
-LENOR: in return for the exclusive rights to
-transport all Kriosian products to the Valt system. 
-PICARD: May I suggest that you arrange to meet at another time, after
-the ceremony? 
-BRIAM: Perhaps that would be best. 
-LENOR: But, but 
-(Briam and Picard enter a turbolift as Geordi hustles Lenor away) 
-LAFORGE: Listen, have you had a chance to see the dolphins yet? 

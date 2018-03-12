@@ -1,60 +1,50 @@
-TROI LAFORGE WORF PICARD RIKER COMPUTER DATA
+RIKER LAFORGE WORF PICARD GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cryo chamber]
+[Corridor]
 
-DATA: Three. The vehicle has suffered severe
-damage. Most of her systems have failed. 
-[Bridge]
+DATA: What is to be done with them, sir? 
+RIKER: I don't know. 
+DATA: Commander, a low mileage pit woofie? 
+RIKER: This time you've got me. I haven't a clue. 
+DATA: These are the most unusual humans I have ever encountered. 
+RIKER: Well, from what I've seen of our guests, there's not much to
+redeem them. It makes one wonder how our species survived the
+twenty-first century.
 
-RIKER: Are you suggesting they be transferred to
-the Enterprise? 
-[Cryo chamber]
+[Ready room]
 
-DATA: I do not believe we should leave them here,
-sir. With your permission, we will be returning with three containers. 
-RIKER [OC]: Whatever you do, do it quickly.
-
-[Bridge]
-
-PICARD: Mister La Forge, set course zero five
-eight, mark one seven three. 
-LAFORGE: Laying it in, sir. 
-PICARD: Number One, I want a staff meeting on the observation deck. 
-LAFORGE: Captain, those coordinates will take us right into the Neutral
-Zone. 
-PICARD: That is correct, Mister La Forge. Warp factor eight. 
-LAFORGE: Aye, sir. Warp eight. 
-PICARD: Engage. 
-[Observation lounge]
-
-PICARD: Two Federation outposts in sector three
-zero have been destroyed. There's been no communication with Federation
-starbases in sector three one since stardate 41903.2. 
-WORF: Romulans. 
-PICARD: That's the assumption. 
-RIKER: There's been no direct contact with the Romulans since the Tomed
-Incident. 
-PICARD: The question are, why now? What's their objective? For fifty
-years there's barely a whisper out of them, and now for no apparent
-reason they seem to be back with a roar. 
-RIKER: Everything we know about them is based on rumour or conjecture. 
-PICARD: The strategic decision is to send one ship. 
-RIKER: The Enterprise. 
-WORF: We could get out there and find ourselves greatly over-matched. 
-PICARD: True enough. It's a gamble. 
-RIKER: This first encounter, coming so suddenly after all this time. We
-have to assume it's a setup. 
-PICARD: If force is necessary, we will use it, but that will mean we
-have failed. Our goal here is to establish some kind of relations with
-the Romulans. If we don't succeed, then to convince them of our
-resolve. The general feeling at Starfleet is that they are seeking a
-confrontation. They may want to test themselves in battle against a
-Federation starship. See how far we have advanced. If that is the case,
-then I need to know it. Counsellor, I shall need a full profile on
-them. 
-TROI: There is limited information, but I will prepare something. 
-PICARD: Computer, estimated arrival time at the Neutral Zone? 
-COMPUTER: Nineteen hours, twenty eight minutes. 
-PICARD: Let's reassemble in six hours. Stay sharp. No surprises. I
-would rather outthink them than outfight them. Questions?
-
+PICARD: Report. 
+WORF: We are six hours from the Neutral Zone. I have been unable to
+establish communications with any Federation colony or station in this
+vicinity. 
+PICARD: How many outposts are there in this sector? 
+WORF: Nine. 
+RIKER: I think we work on the assumption they've all been destroyed. 
+LAFORGE: By the Romulans? 
+RIKER: It fits their historical pattern. 
+DATA: Since we have no contact with the Romulans for fifty three years,
+seven months, eighteen days, we must consider that the information we
+do have, is out of date. 
+RIKER: The positive side of that is the information they have about us
+is also out of date. Captain, I think it's that lack of information
+that this is all about. 
+PICARD: Go on. 
+RIKER: In my opinion, the Romulans want a confrontation specifically
+with us. 
+PICARD: The Enterprise? 
+RIKER: Well, not by name, but the Federation. They know the Federation
+will send their best. That'll give them a perfect chance to see
+firsthand how far we've advanced both in technology and technique. 
+PICARD: What are you recommending? 
+RIKER: I'm not sure I have a specific recommendation. Perhaps we should
+assume the initiative. 
+WORF: I agree with Commander Riker. This may be our only opportunity.
+We should seize it. 
+PICARD: Mister Data? 
+DATA: The strategy is built on a single premise. The hostile intent of
+the Romulans. If the premise is sound, so is the proposal. 
+LAFORGE: If their intention isn't hostile, what is it? 
+GUEST1 [OC]: Captain Picard? 
+PICARD: This is Captain Picard. To whom am I speaking? 
+GUEST1 [OC]: Ralph Offenhouse. 

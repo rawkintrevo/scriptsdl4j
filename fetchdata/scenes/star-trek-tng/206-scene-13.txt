@@ -1,56 +1,31 @@
-WESLEY RIKER LAFORGE ROBIN
+PICARD WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]
+[Ready room]
 
-RIKER: Standard security sweep shows nothing out of
-the ordinary. 
-LAFORGE: Personal logs, diagnostics, duty logs, they all appear normal.
-There's no evidence of anything that could lead to Data's shutdown. 
-RIKER: Maybe we should ask his cat. 
-LAFORGE: I guess I'd better get back to Sickbay, see if there's any
-change in his condition. 
-RIKER: Doctor Crusher's got everything under control, Geordi. If
-there's any change, you'll be the first to know. 
-LAFORGE: I guess so. 
-RIKER: Looks to me like you need a break. Unwind a little. 
-LAFORGE: Yeah, maybe you're right. 
-RIKER: I've got just the thing. Why don't you join me in Ten Forward?
-There's something I'd like you to try.
+PICARD: Come. 
+WESLEY: Sorry to bother you, sir. 
+PICARD: It's no bother, Wesley. Please, sit down. 
+WESLEY: Thanks. 
+PICARD: How are the survey preparations coming along? 
+WESLEY: They're coming along fine, but that's not what I'm here to talk
+to you about. 
+PICARD: What then? 
+WESLEY: There's a game going around. It's something that Commander
+Riker brought back from Risa. It's a device that hooks around the ears.
 
-[Engineering]
-
-WESLEY: Conduits twelve and twenty two are still
-down for testing. 
-ROBIN: We can re-route through junction fourteen B. 
-WESLEY: You have a funny way of looking at conduit configuration. But
-it works. 
-ROBIN: That's Law Thirty Six. You've got to go with what works. 
-WESLEY: What are all these laws that I keep hearing about? 
-ROBIN: They're my personal laws. Every time I learn something
-essential, I make up a law about it so I never forget. 
-WESLEY: How many do you have? 
-ROBIN: A hundred and two so far. 
-(they sit at a console) 
-ROBIN: Looks like the starboard array needs another subprocessor. 
-WESLEY: It'll be online in a few minutes. I'm way ahead of you. 
-ROBIN: They said you were good. 
-WESLEY: Why do I get the feeling that you already know me? 
-ROBIN: I have a few friends at the Academy. Your name's come up a
-couple of times. That was really some stung you pulled on Adam Martoni
-in the physics lab. I just want to know how you got the antimatter
-regulator to spray chili sauce. 
-WESLEY: There is another side to that story. 
-ROBIN: Is it true what they say about your birthmark? 
-WESLEY: This isn't fair. I hardly know anything about you. 
-ROBIN: Hey, that's Law Forty six. Life isn't 
-WESLEY: Always fair. Yeah, I know that law. I still have to work on the
-sensor relays, but I'd like a chance to even the score. Ten Forward,
-nineteen hundred hours. Will you join me for coffee? 
-ROBIN: No. But I'll meet you for dinner.
-
-Captain's log, supplemental. We have arrived at the
-Phoenix Cluster, but it will take us several hours to determine the
-best possible location from which to conduct our survey. Commander
-Data's condition remains unchanged with no further indication as to the
-cause of his collapse.
+PICARD: Yes, I've seen it. 
+WESLEY: I did some preliminary tests on the game, and what I found
+leads me to believe that it may have some harmful side-effects.
+Specifically, sir, I think it's psychotropically addictive. 
+PICARD: Addictive? What have you discovered? 
+WESLEY: The game initiates a serotonin cascade in the frontal lobe of
+the brain. Now I know that's nothing conclusive, but it could explain
+why everyone is so attracted to it. And at the same time, it stimulates
+the brain's reasoning centre. I don't know what that's all about. 
+PICARD: I'll start an investigation immediately. Thank you, Mister
+Crusher. 
+WESLEY: Thank you, sir. 
+PICARD: Wesley? It's good to have you back again. 
+(Wesley leaves, and Picard picks up his headset for a game or three)
 

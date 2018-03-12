@@ -1,66 +1,6 @@
-TROI LAFORGE PICARD RIKER Q CRUSHER
+Q PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
-
-CRUSHER: She's a little shaken up, but she's going
-to be. 
-RIKER: You said she was adopted. Could she be an alien? 
-CRUSHER: She's human. There's nothing more unusual about her, not that
-my instruments can detect. 
-PICARD: Commander, have you been able to determine the cause of the
-warp breach? 
-LAFORGE: No, sir. Everything was normal and then suddenly it's like the
-laws of physics went right out the window. 
-Q: And why shouldn't they? They're so inconvenient. 
-PICARD: Q! 
-Q: Mon Capitane. 
-PICARD: Are you responsible for the incident in Engineering? 
-Q: Of course. I needed to find out if what I suspected about the girl
-were true. 
-PICARD: That being? 
-Q: That she's Q. 
-TROI: Amanda's a Q? 
-CRUSHER: How is that possible? Her parents, her biological parents,
-were human. 
-Q: Well, not exactly. They had assumed human form in order to visit
-Earth, I suppose for amusement. But in vulgar human fashion they
-proceeded to conceive a child. And then like mawkish humans, they
-became attached to it. What is it about those squirming little infants
-that you find so appealing? 
-CRUSHER: I'm sure that's beyond your comprehension, Q. 
-Q: I desperately hope so. 
-TROI: What happened to Amanda's parents? 
-Q: They died in an accident. None of us knew whether she had inherited
-the capacities of the Q, but recently they've began to emerge, and as
-an expert in humanity, I was sent to investigate. 
-RIKER: You, an expert in humanity? 
-Q: Not a very challenging field of study, I grant you. 
-LAFORGE: Are you saying that you created a core breach just to test
-this girl? 
-TROI: What would have happened if she couldn't stop it? 
-Q: Then I would've known she wasn't a Q. 
-CRUSHER: And now that you know, what do you intend to do? 
-Q: Instruct here. If that child does not learn how to control her
-power, she may accidently destroy herself. Or all of you. Or perhaps
-your entire galaxy. 
-PICARD: I find it hard to believe that you're here to do us a favour. 
-Q: You're quite right I wouldn't. But there are those in the Continuum
-who have an over-exaggerated sense of responsibility. They think that
-we need to take precautions to keep the little dear from running amuck.
-
-CRUSHER: And once you've taught her, then you'll go away? 
-Q: And leave her here? Of course not. She'll come back to the
-Continuum, where she belongs. 
-CRUSHER: Wait a minute. You can't just come in here and take her away
-from everything she's ever known. 
-Q: I assure you I can. 
-CRUSHER: She has plans for herself. She wants to have a career and a
-family. 
-Q: I'm rescuing her from that miserable existence. 
-CRUSHER: That miserable existence is all she's known for the last
-eighteen years. You have no right to take it away from her. 
-Q: Mon Capitane, I really think that we need to speak privately. 
-(so Q and Picard vanish) 
 [Ready room]
 
 Q: Well, there, that's better. Crusher gets more
@@ -82,4 +22,16 @@ of her. We must at least appear to be
 Q: Pals? 
 PICARD: Civil. 
 Q: I knew I could count on you, Jean-Luc.
+
+[Bridge]
+
+PICARD: Mister Data, I want you to access any
+available records on Amanda Rogers. 
+DATA: Yes, Captain. 
+PICARD: I want to know about her biological parents, about their death.
+I find it odd that any Q could die in an accident. 
+DATA: It is not consistent with what we know of them, sir. 
+PICARD: I'm convinced that Q isn't telling us everything. See what you
+can find out. 
+DATA: Aye, sir.
 

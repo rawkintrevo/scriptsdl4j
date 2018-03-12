@@ -1,110 +1,39 @@
-RIKER MACDUFF CRUSHER CREWMAN WORF PICARD TROI COMPUTER RO DATA LAFORGE
+PICARD RIKER CRUSHER LAFORGE MACDUFF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(a phaser shot lances out into space) 
-MACDUFF: (at tactical) The phasers are operational. 
-WORF: We now have full tactical control. 
-PICARD: (helm) We should run a complete diagnostic of all command
-systems. 
-WORF: A full diagnostic would require us to take our systems offline.
-We would be defenceless. 
-PICARD: If we're going to trust our lives to these systems, we should
-be certain they're not going to fail. 
-MACDUFF: The computer was damaged. Some processors might still be down.
+LAFORGE: What bothers me, Captain, is how specific
+this damage is. Any records of a personal nature, any files that could
+tell us about who we are, those are the ones that are gone. 
+RIKER: It's a little too selective to be coincidence. 
+CRUSHER: As selective as what was done to our own memories. Skills
+still in place but personal knowledge is unavailable. 
+MACDUFF: It is consistent with what we know about the new Lysian
+weapon. 
+PICARD: Doctor, is it absolutely necessary to see the medical files to
+attempt treatment? 
+CRUSHER: It would be dangerous to do it without them. 
+RIKER: It's a risk I think we have to take. 
+MACDUFF: He's right, Captain. I volunteer for the procedure.
 
-WORF: Proceed with the diagnostic. 
-(Crusher enters) 
-WORF: What have you found, Doctor? 
-CRUSHER: Not much. The brain scans I've run are unusual, but there's no
-damage to the hippocampus. That suggests that we still have our
-long-term memories but somehow they're being blocked. 
-PICARD: Is it possible to bypass the normal pathways? To get at those
-memories some other way? 
-CRUSHER: That's what I'm hoping. What I need now is to see some normal
-brain scans for comparison. Is there any chance I can get the crew's
-medical files? 
-WORF: We are currently running a full diagnostic. Computer resources
-are limited. 
-PICARD: The medical records are our next priority. 
-CRUSHER: Thank you.
+[Sickbay]
 
-[Corridor]
-
-(a crewman is standing in a doorway) 
-CREWMAN: I guess these are my quarters, but I don't remember anything. 
-RIKER: If it's any comfort, we're all in the same situation, so stay
-put for now. We'll be back in touch. 
-CREWMAN: Okay, sir. Thanks. 
-RO: That's all I need for now. 
-(the crewwoman she has been talking goes back into her quarters) 
-RO: Well, that's it for the living quarters on this deck. What's next? 
-RIKER: There's a large room up ahead called Ten Forward. 
-RO: Let's go. So if everything were back to the way it was supposed to
-be, what do you think you'd be doing right now? 
-RIKER: I'd be having more fun than searching the ship, I'd imagine. 
-RO: Fun? 
-RIKER: Well, with that holodeck we just saw. I think I could conjure up
-an interesting
-programme or two. 
-RO: Now that's disappointing. 
-RIKER: Why? 
-RO: You don't strike me as a man who needs a holodeck to have a good
-time.
-
-[Ten Forward]
-
-RIKER: Who reported to the Bridge from this group? 
-TROI: I did. 
-RIKER: Have you found anything that might give us some insight into
-what happened? 
-TROI: Not specifically, but there are two things that seem unusual. The
-bartender is an artificial lifeform. 
-DATA: Can I get you something? A beverage? 
-RIKER: No, thank you. 
-RO: I'm fine. 
-RIKER: Your memories are gone as well? 
-DATA: The databanks that identify who I am are not functioning. 
-RIKER: You were going to mention something else? 
-TROI: I don't know if this means anything, but I seem to have an
-ability that the others don't. I have a very strong sense of what other
-people are feeling at times it's almost 
-RIKER: Is something wrong? 
-TROI: No. Just for a moment, you seemed familiar. 
-RIKER: You remember me? 
-TROI: Not exactly. I mean, I don't know who you are, but there's
-something about you. 
-WORF [OC]: Bridge to survey team. 
-RIKER: Survey team here. Go ahead. 
-WORF [OC]: We have accessed the personnel files. Report to the Bridge
-immediately. 
-RO: We're on our way.
-
-[Bridge]
-
-LAFORGE: Computer give me a biographical listing of
-all personnel responsible for primary operation of the ship. 
-COMPUTER: A full biographical listing is not available. 
-LAFORGE: Is there any list of the ship's senior officers? 
-COMPUTER: The crew manifest is available. 
-LAFORGE: That's better than nothing. Give me the crew manifest. 
-COMPUTER: Commanding Officer, Captain Jean-Luc Picard. Executive
-Officer, Commander Keiran MacDuff. Second Officer, Commander
-William Riker. Operations Officer, Lieutenant Commander Data. Chief
-Medical Officer, Doctor Beverly Crusher. Ship's Counsellor, Lieutenant
-Commander Deanna Troi. Chief Engineer, Lieutenant Commander Geordi La
-Forge. Security Chief, Lieutenant Worf. Helm Officer, Ensign Ro Laren. 
-PICARD: Commander MacDuff, have the other officers listed here report
-to the Bridge. 
-MACDUFF: Aye, sir. 
-PICARD: Your next priority will be to retrieve any information you can
-about this ship's mission. Contact the Operations
-Officer to assist you. 
-LAFORGE: Aye, sir. 
-RO: He's in Ten Forward, waiting tables. 
-WORF: Captain. I regret my recent behaviour. I assumed an attitude of
-authority that was unwarranted. 
-PICARD: Mister Worf, we're all doing the best we can in a difficult
-situation. Think nothing more of it. 
-WORF: Thank you, Captain.
+(so MacDuff is on the biobed with a device over his
+forehead) 
+CRUSHER: That's strange. The diencephalic activity is exactly the same.
+There should be some increase. Let's try broadening the bandwidth. Go
+to thirty point one. Raise the frequency as well. Increase by thirty
+three percent. 
+(MacDuff starts jerking) 
+CRUSHER: Something's wrong with the sequencing programme. 
+(She disconnects him and wakes him up) 
+CRUSHER: Kieran. Kieran. 
+MACDUFF: I'm all right. I'm all right. What happened? 
+CRUSHER: I don't know. Something went wrong with the sequence
+initiator. We're lucky we didn't lose you. Did any of this work? Do you
+remember anything more about yourself? 
+MACDUFF: No. I'm sorry, Doctor. 
+CRUSHER: Back to square one. 
+(and a smug grin from MacDuff)
 

@@ -1,19 +1,5 @@
-PICARD COMPUTER JESSICA SECRETARY
-
-[Outside Holodeck]
-
-COMPUTER: Programme desired location. 
-PICARD: Earth, United States, San Francisco, California. 
-COMPUTER: Time period? 
-PICARD: 1941, A.D. 
-COMPUTER: File or access code. 
-PICARD: File Dixon Hill, private detective. 
-COMPUTER: Enter when ready.
-
-Captain's personal log. I'm entering the ship's
-holodeck, where images of reality can be created by our computer.
-Highly useful in crew training, highly enjoyable when used for games
-and recreation.
+PICARD GUEST4 GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Hill's Waiting room]
 
@@ -21,12 +7,12 @@ and recreation.
 washed by a cleaner, listening to music - you came to me from out of
 nowhere, you took my heart - and opens a door marked 312 - Dixon Hill
 Private Investigator) 
-SECRETARY: Very funny, Dix. What'd you do, lose another bet? 
+GUEST0: Very funny, Dix. What'd you do, lose another bet? 
 PICARD: I'm sorry, I don't understand. 
-SECRETARY: The bellboy suit. Are you moonlighting at the Fremont? 
+GUEST0: The bellboy suit. Are you moonlighting at the Fremont? 
 PICARD: The uniform. It's totally inappropriate. I should have changed.
 
-SECRETARY: Detective Bell, your cop friend, McNary's new partner, was
+GUEST0: Detective Bell, your cop friend, McNary's new partner, was
 here nosing around. If he'd have seen you in those threads he'd have
 you sent to the funny farm. Mister Leech called twice, and there's a
 lady named Bradley waiting in your office. Nice legs. Not you. Her. Got
@@ -34,9 +20,9 @@ a hot date with my fella. See you in the morning.
 (She leaves, laughing. Picard opens the door to his inner office and we
 go into Maltese Falcon territory) 
 PICARD: I lost a bet. 
-JESSICA: Oh well, at least you're ready for Halloween. 
+GUEST4: Oh well, at least you're ready for Halloween. 
 PICARD: Halloween? 
-JESSICA: I need your help, Mister Hill. Someone is trying to kill me.
+GUEST4: I need your help, Mister Hill. Someone is trying to kill me.
 
 Captain's personal log. I'm delighted with how the
 Holodeck has created the fictional world of Dixon Hill, the twentieth

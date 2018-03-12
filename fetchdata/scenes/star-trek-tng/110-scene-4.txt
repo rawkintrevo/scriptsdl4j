@@ -1,112 +1,6 @@
-RIKER LAFORGE WORF TASHA PICARD TROI WESLEY BOK RATA KAZAGO CRUSHER DATA
+TROI TASHA PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-(Wesley enters, in his new acting Ensign uniform.
-It looks awful) 
-WESLEY: Commander, you'll soon be getting an intruder alert.
-RIKER: What? Wesley, if you've something to report. 
-WESLEY: If you'll scan heading four four mark one six three,
-Lieutenant, you'll find 
-TASHA: Intruder alert, sir. 
-LAFORGE: I've got something, sir. 
-WESLEY: It's an old style starship, Constellation Class, heading this
-way under impulse power, sir. 
-(Picard enters) 
-RIKER: Says who? 
-PICARD: Ensign, answer the First Officer's question. 
-WESLEY: Says the long distance sensors, sir. I was in Engineering,
-playing around with boosting sensor output. 
-DATA: Boosting it? How? (catches Picard's eye) We will discuss this
-later. 
-LAFORGE: I read it now, sir, as a Constellation class starship heading
-this way under impulse power. Sending no call letters, sir. 
-PICARD: The correct procedure, 
-RIKER: What's wrong, sir? 
-PICARD: Oh, it's nothing. It's just a, just a mild headache. The
-correct procedure, Ensign, would have been to signal the Bridge of your
-finding immediately. 
-WESLEY: Yes, sir. 
-RIKER: Bringing it here personally, perhaps with the idea of being on
-hand for the Ferengi beam over, might have imperiled this vessel had it
-been something hostile approaching. 
-WESLEY: Yes, sir. 
-WORF: We are receiving no signal at all from the approaching starship,
-sir. 
-DATA: Time, sir. 
-PICARD: Time? Oh, for the Ferengi to beam over. Do you see any problems
-connected with this old starship coming in, Number One? 
-RIKER: Suggest it would be safer, sir, to have the Ferengi here
-whatever happenings. 
-PICARD: Concur. Stand by. 
-TASHA: Hailing frequencies open, sir. 
-(The Ferengi transporter is a curved effect, instead of vertical. Three
-big-eared little men appear in front of the viewscreen) 
-PICARD: Welcome you in peace to the Enterprise, DaiMon Bok. 
-BOK: It is our pleasure, Captain Picard. Might I introduce my First
-Officer, Kazago, and my Second, Rata? 
-PICARD: This is my First Officer, Commander William Riker. Second in
-command, Data. Counsellor Troi. 
-BOK: We have heard that you use females. Clothed females. Most
-interesting. 
-RIKER: They are that, sir. 
-KAZAGO: And the android was mentioned too. What is its price? We should
-like to purchase it. 
-PICARD: He is not for sale. Commander Data is, um, is, um 
-RIKER: Is second-hand merchandise. You wouldn't want him. 
-DATA: Second-hand, sir? Oh, of course. A human joke. 
-TASHA: Excuse, Captain, but the unidentified starship is coming in.
-Still no signal at all. 
-BOK: Think nothing of it. It is under our control. 
-PICARD: One of our starships under your control? 
-BOK: Do not be alarmed, Captain. It is a gift from us. With which we
-honour the Hero of Maxia. 
-PICARD: Who? 
-BOK: Why you, Picard, of course. Do you not remember the Battle of
-Maxia? 
-PICARD: I'm sorry, I do not remember it, DaiMon Bok. Data? 
-DATA: Captain, he may refer to an incident which occurred nine years
-ago in the Maxia Zeta star system, in which an unidentified starship 
-BOK: Unidentified? That fine vessel was Ferengi. 
-DATA: Which you destroyed, sir. 
-PICARD: The Battle of Maxia. I've never heard it referred to so
-dramatically before. My sincere regrets, Bok, but that vessel refused
-to identify itself. It simply attacked us. We defended ourselves. 
-BOK: Such mistakes happen in space. 
-DATA: Hardly a mistake, sir. Your report shows that it deliberately
-attacked. 
-TASHA: Do you want the arriving vessel on main viewer, sir? It is only
-a thousand kilometres away now. 
-BOK: Put it on your viewer. 
-PICARD: Main viewer. 
-BOK: There is no one aboard it. 
-RATA: The log should be downloaded into the Enterprise's records. At a
-price. 
-BOK: No price! 
-KAZAGO: No price? 
-PICARD: For what purpose? What (clutches his head in pain) 
-TROI: I just felt something too, Captain. 
-BOK: Perhaps it is his conscience? 
-RIKER: Bridge to Sickbay. 
-PICARD: No, no. I'm fine 
-TROI: It felt as if it were something from your past. 
-PICARD: It's right. I'm fine. What is this all about? 
-BOK: It is about the battle I mentioned, Captain. A gift, in honour of
-that occasion. Look at that ship closely. 
-PICARD: Magnify please, Lieutenant La Forge. 
-LAFORGE: Aye, sir. 
-PICARD: Why, it's the Stargazer. It's my old ship. How did you find it?
-
-BOK: It was a derelict, adrift in space on the far side of this star
-system. How it got there is none of my business, Captain. But now, that
-vessel is yours, if you wish to have it. 
-KAZAGO: We are not selling it to him? 
-BOK: Consider it an act of friendship. 
-RATA: At no cost? Oh, ugly. Very ugly.
-
-Captain's log, supplemental. Bok and his officers
-have returned to their vessel, inviting us now to officially take
-possession of the Stargazer. 
 [Sickbay]
 
 (This time, Picard is on a full bio-bed) 
@@ -127,4 +21,44 @@ PICARD: Well, it was strong, whatever it was. Are you ready, Number
 One. 
 RIKER: Staff's waiting, if Doctor Crusher approves. 
 CRUSHER: I'll do better than that. I'll go along.
+
+[Observation lounge]
+
+(All the senior staff are seated around the long
+table) 
+PICARD: We were traveling at warp two through the Maxia Zeta star
+system when this unidentified starship suddenly appeared and fired on
+us, point-blank range. 
+RIKER: Where did it come from? 
+PICARD: It must have been lying in some deep moon crater. First attack
+damaged the shields. In the confusion, they hit us a second time. 
+TASHA: No clue who they were? 
+PICARD: No names, no reason. Can you identify them, Vigo? If they come
+in a second time with our shields damaged 
+TROI: Sir? Who's Vigo? 
+PICARD: He's my weapons officer on the Stargazer. I'm getting quite
+caught up in this. 
+RIKER: Your shields were failing, sir. 
+PICARD: I improvised. With the enemy vessel coming in for the kill, I
+ordered a sensor bearing, and when it went into the return arc 
+DATA: You performed what Starfleet textbooks now refer to as the Picard
+Manoeuvre.
+PICARD: Well, I did what any good helmsman would have done. I dropped
+into high warp, stopped right off the enemy vessel's bow and fired with
+everything I had. 
+RIKER: And blowing into maximum warp speed, you appeared for an instant
+to be in two places at once. 
+PICARD: And our attacker fired on the wrong one. 
+RIKER: I did what any good helmsman could have done. You did it first,
+sir. 
+PICARD: It was a save our skins manoeuvre. We were finished. On fire.
+We had to abandon ship. We limped through space in shuttlecraft for
+weeks before we were picked up. I haven't thought about this for years.
+
+DATA: Sir, the Ferengi are standing by for us to take possession of the
+Stargazer. 
+PICARD: I want to go over to her. 
+RIKER: I understand, sir. As soon as my people have made certain she's
+safe. 
+CRUSHER: And after I have another look at you, Captain.
 

@@ -1,120 +1,34 @@
-PICARD ELINE ADMINISTRATOR BATAI
+PICARD ELINE MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Courtyard]
 
-ELINE: You've been dreaming of that starship of
-yours again, haven't you? 
-PICARD: I'm just charting progress of the course of the sun. It might
-give a clue to the cause of this drought. 
-ELINE: I think you're still trying to figure out where you are. Where
-that ship of yours is. How to get back to that life. 
-PICARD: The memory is five years old now, but it's still inside me. 
-ELINE: Was your life there so much better than this? So much more
-gratifying, so much more fulfilling, that you cling to it with such
-stubbornness? 
-PICARD: Eline. 
-ELINE: It must have been extraordinary. But never in all of the stories
-you've told me have you mentioned anyone who loved you as I do. 
-PICARD: It was real. It was as real as this is. And you can't expect me
-to forget a lifetime spent there. 
-ELINE: Yes, I can. I've been patient, Kamin. For five years I've shared
-you with that other life. I've listened, I've tried to understand, and
-I have waited. When do I get you back? 
-PICARD: I know. I know. It has been hard on you. 
-ELINE: When will you let go? When will you start living this life? When
-will we start a family? 
-BATAI: Kamin, Eline, good morning. 
-PICARD: Good morning, Batai. 
-BATAI: Are you ready? The Administrator's already arrived. 
-PICARD: Yes. Will you come along? 
-ELINE: No, thank you. You do very well on your own. 
-BATAI: She always was strong-minded, even when she was a child. 
-PICARD: It's not her fault. These past few years have been very
-difficult for her. 
-BATAI: And for you, I think.
+(a young girl is playing in the sunshine as Picard
+plays his flute indoors) 
+ELINE [OC]: Meribor.
 
-[Town square]
+[Living room]
 
-ADMINISTRATOR: There you are, Batai. Perhaps you
-can explain to me, when crops are dying all over, how this tree is
-flourishing? 
-BATAI: This tree is our symbol, our affirmation of life. Everyone in
-this town gives part of their water rations to keep it alive. We've
-learned, Administrator, that hope is a powerful weapon against
-anything. Even drought. 
-ADMINISTRATOR: A good point. Perhaps I shall recommend a symbolic tree
-in each of my communities. Now. What business do we have today? 
-BATAI: We need help if we're to increase the water supply. We think
-there are ways to reclaim some of our water. 
-ADMINISTRATOR: Batai, you're being a bit of an alarmist. True, we are
-in a drought, but water rationing has produced a sizeable savings. 
-PICARD: If the weather pattern doesn't change, rationing will not be
-enough. We'll run out of water. 
-ADMINISTRATOR: Who is this? 
-BATAI: Kamin, sir. 
-ADMINISTRATOR: Kamin. Do I know you? 
-PICARD: No. I haven't spoken to you before. 
-ADMINISTRATOR: Well, Kamin, I'm open to all the people of this town.
-I'm delighted to hear what you have to say. 
-PICARD: I suggest that we build atmospheric condensers which could
-extract water from the air. 
-ADMINISTRATOR: I don't mean to quash your very creative ideas but
-building atmospheric condensers would be a monumental undertaking. We
-could not hope to sustain such a project. 
-PICARD: Each community would be responsible for its own. Condensers
-could make the difference between watering our crops or watching them
-die. 
-ADMINISTRATOR: Well, I'll be glad to pass along your idea. You'll see
-that this kind of participatory government works for everyone. Be well,
-Batai. I shall see you next month. Good to meet you, Kanin. 
-BATAI: Go carefully, Administrator. 
-(The Administrator leaves) 
-BATAI: That went very well. I think he was impressed with you. 
-PICARD: But there'll be no atmospheric condensers. 
-BATAI: These things take time, but it will happen. I'm sure of it. 
-PICARD: Come and have supper tonight, my friend. I'll make some
-vegetable stew. Let's talk about building our own condenser. 
-BATAI: Kamin. Hearing you talk to the Administrator, I realised that
-for the first time in years, you were speaking as though you were truly
-a member of the community. It was good to hear that again.
-
-[Courtyard]
-
-(Frere Jacques drifts through the evening air) 
-BATAI: You've been brooding behind that flute all evening. 
-PICARD: I'm not brooding. I'm immersed in my music. 
-BATAI: Music. 
-PICARD: I find that it helps me think, but the real surprise is I enjoy
-it so much. 
-BATAI: No, the real surprise is that you may actually be improving. 
-ELINE: Batai? 
-BATAI: Yes, ma'am. 
-ELINE: Go home. 
-BATAI: Yes, ma'am. Goodnight, Kamin. 
-PICARD: Goodnight, my friend. 
-ELINE: Go carefully, Batai. 
-(Batai leaves) 
-ELINE: Don't forget these. (picks up his shoes) I won't put them away
-for you again. 
-PICARD: Yes, ma'am. 
-ELINE: I've done nothing but nag all day. I'm sorry. 
-PICARD: No, I'm the one who's sorry. Everything you said this morning
-was absolutely correct. I feel that I have given you so little and you
-have given me so much. 
-ELINE: No. You're a good man. A wonderful husband. I didn't mean 
-PICARD: No, not such a wonderful husband. I spend my spare time
-charting the stars. I disappear for days at a time exploring the
-countryside. My life is very much as it was. Old habits. 
-ELINE: You're gentle and kind. You never once raised your voice to me. 
-PICARD: I'd like to ask your permission to build something. 
-ELINE: Kamin, you've built your telescope, your laboratory. You don't
-need my permission for something new. 
-PICARD: In this case, I think I do. 
-ELINE: What is it? 
-PICARD: A nursery. 
-ELINE: Really? Really? 
-PICARD: Unless, of course, if you would prefer a porch. It would
-certainly be easier to build. I could make a start on it right away. 
-ELINE: No. 
-(They embrace and kiss)
+(the little girl runs to Eline, who is holding a
+baby) 
+ELINE: Meribor, this is your brother's ceremony. Don't fidget now. 
+PICARD: We name this child for a dear friend who died a year ago. But
+now his memory will live on in his namesake. 
+ELINE: We name you Batai, in his honour. 
+PICARD: And he's starting out in the warmth of friends. Thank you.
+Please, help yourselves to something to eat. 
+MAN: Congratulations, Kamin. 
+PICARD: Thank you. 
+ELINE: It seems like only yesterday we had Meribor's naming ceremony.
+Go on. 
+PICARD: I remember. I was so nervous I was afraid that I would drop
+her. Now look at the little lady. 
+ELINE: She's no lady. Tromping through the hills with you all day,
+digging up those soil samples you insist upon collecting. No, she's her
+father's daughter. 
+PICARD: I would have believed I didn't need children to complete my
+life. Now I couldn't imagine life without them. 
+ELINE: Kamin, what is it? 
+(Picard collapses) 
+ELINE: Get the doctor. Hurry!
 

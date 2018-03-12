@@ -1,63 +1,48 @@
-RIKER OBRIEN LAFORGE WORF PICARD DATA
+PICARD RIKER KRAG OBRIEN APGAR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Holodeck - Space Station Lab]
 
-(And the orbiting research station goes Big Bang!) 
-PICARD: Transporter Room! Is Commander Riker aboard? 
-O'BRIEN [OC]: Not yet, Captain. I'm having trouble clearing the signal 
-[Transporter room]
-
-O'BRIEN: Transporter Room to Bridge. 
-[Bridge]
-
-O'BRIEN: He's aboard. 
-[Transporter room]
-
-RIKER: Why do you sound so surprised, Mister
-O'Brien? 
-O'BRIEN: For a moment, we weren't sure you left the space station in
-time. 
-RIKER: In time for what? 
-O'BRIEN: It just exploded, sir.
-
-Captain's log, supplemental. Commander Riker has
-informed me that Doctor Apgar was the only one aboard the space station
-when it exploded. We remain in orbit investigating the accident. 
-[Transporter room]
-
-O'BRIEN: I've gone through the whole system,
-Captain. I can't find any malfunction in the transporter.
-
-[Transporter room]
-
-O'BRIEN [OC]: Nothing that would cause an explosion
-like that 
-PICARD: Why was there a power drain before
+APGAR: I suppose if I make a formal complaint, your
+report on my work won't be very good. 
+RIKER: Doctor, this is going to have no impact on my report. It was a
+misunderstanding of the worst kind. We could straighten the entire
+thing out if you would ask Mrs. Apgar to join us. 
+APGAR: My wife and my assistant have transported down to the planet.
+What are you going to put in your report, Riker? That there is no
+justification for all the extra dicosilium I've requested? That is why
+they sent you early, isn't it? 
+RIKER: Doctor, I 
+APGAR: I can explain why I needed it. They have no idea what my
+problems are. There are explanations for all of it. 
+RIKER: I don't need explanations. 
+APGAR: Then we have nothing further to say to each other. 
+RIKER: I'll tell my Captain to expect your grievance. 
+APGAR: Do that. 
+RIKER: Riker to Enterprise. I'm ready to leave. Now. 
+O'BRIEN [OC]: Stand by, Commander. Engaging transport. 
+RIKER: Freeze programme. Then I returned to the Enterprise. 
+KRAG: And you have nothing further to add, Commander? Nothing about
+firing a phaser? 
+RIKER: I never fired a phaser on the science station. 
+KRAG: That's odd. Very odd. Captain Picard, is it not true that your
+sensors detected an energy drain just as Commander Riker began
 transport? 
-O'BRIEN [OC]: I don't know, sir. 
-PICARD: I shall want an answer to that. I'm sure the Tanugans will too.
-
-O'BRIEN [OC]: Yes, sir. 
-DATA: Captain, the radiation and debris are consistent with an overload
-of the station's reactor core. 
-PICARD: Were there any indications of reactor core problems while you
-were on the station? 
-LAFORGE: No, sir. 
-PICARD: Number One? Mister La Forge indicated that this was not an
-entirely routine mission. 
-RIKER: It's a long story, sir, but I'm sure it doesn't have anything to
-do with this accident. 
-WORF: Captain, Chief Investigator Krag of the Tanugan security force
-requests permission to beam aboard. 
-PICARD: Granted. Will you escort him to the Bridge, Mister Worf. 
-WORF: Aye, sir. 
-PICARD: Perhaps you had tell me as much as possible prior to his
-arrival, Number One.
-
-[Transporter room]
-
-(A humanoid male, hair swept up at the sides to
-give a severe look) 
-WORF: I'm Lieutenant Worf, head of ship's Security. I will take you to
-the Captain.
+PICARD: That's correct. 
+KRAG: Have you been able to explain it? 
+PICARD: Not to my knowledge. 
+KRAG: We have. Our readings are quite clear about it. Information
+retrieved from the lab's ground computers indicate that a focused
+energy pulse was fired just as Commander Riker began transport.
+Furthermore, by analysing the angle and trajectory, we have determined
+that it came from the very spot Commander Riker was standing. So then,
+will you allow me to show you
+my recreation of the end of this story? A speculation, if you will.
+Computer, run hypothetical Krag one. 
+(Riker is repositioned then walks forward to his beam out point again) 
+RIKER: Riker to Enterprise. I'm ready to leave. Now. 
+O'BRIEN [OC]: Stand by, Commander. Engaging transport. 
+(And the holo-Riker draws and fires a phaser at the Krieger Wave
+converter) 
+KRAG: Freeze programme. Three seconds later, the station exploded.
 

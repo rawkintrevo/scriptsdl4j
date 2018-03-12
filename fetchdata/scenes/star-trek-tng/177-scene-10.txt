@@ -1,36 +1,38 @@
-RIKER LAFORGE WORF PICARD WESLEY COMPUTER DATA
-
-[Bridge]
-
-DATA: (doing a perfect imitation) Computer,
-recognise Picard, Jean-Luc. Alpha Two clearance. 
-COMPUTER: Priority clearance recognition, Alpha Two. 
-DATA: Cancel separation sequence. 
-COMPUTER: Sequence cancelled. 
-DATA: Isolate all remaining command functions and accept related orders
-and inquiries from main Bridge only.
+PICARD CRUSHER GUEST0 LAFORGE WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-LAFORGE: The separation sequence has been aborted,
-Captain. 
-PICARD: Computer, recognise Jean-Luc Picard, Alpha Two priority, and
-re-establish separation procedure immediately. 
-COMPUTER: Orders regarding command functions are no longer accepted
-from your present location. 
-PICARD: And just what location are they accepted from? 
-COMPUTER: Interface terminals on main Bridge only. 
-WESLEY: You're the only one who has clearance to localise command
-functions. 
-PICARD: It seems Commander Data has it them as well. 
-[Jefferies tube]
+LAFORGE: Captain, the quarantine field in Sickbay. 
+PICARD: You have access to it? 
+WESLEY: When he transferred force field control to the Bridge, he must
+have only specified fields he was planning to initiate. The quarantine
+field was already operating. 
+LAFORGE: Under normal circumstances, we could divert that field energy
+and use it to cancel the force field protecting the Bridge, but we have
+to retain the medical quarantine. 
+PICARD: Determine the absolute minimum field energy Doctor Crusher
+needs and use the rest to get me onto my Bridge.
 
-(Riker is up the ladder, Worf at the bottom) 
-WORF: The isolinear subprocessor extends three point five metres. 
-RIKER: I've got a clear path to panel J14 baker. What's that going to
-do for us? 
-WORF: J14 baker backs onto science station two, Commander. 
-RIKER: Have they reinverted the environmental control sequencer? 
-WORF: Yes, sir. Life support has been re-established. 
-RIKER: Then you and Casey get up here. Let's get to it.
+[Sickbay]
+
+CRUSHER: How are you this morning? 
+GUEST0: Not so great. I'm having trouble standing up. I get sort of
+dizzy. 
+CRUSHER: You heard the old story about the man who goes to his doctor?
+He says, Doctor, it hurts when I raise my arm like this. The Doctor
+says, then don't raise your arm like that. 
+GUEST0: So, if I get dizzy standing up 
+CRUSHER: Then don't stand up. 
+LAFORGE: Okay Doc, we're ready. If all goes well, you shouldn't notice
+a thing. 
+CRUSHER: Make sure it goes well, Commander. 
+(La Forge and the engineer leave) 
+CRUSHER: Your brother tells me that you still won't speak to him. 
+GUEST0: So? 
+CRUSHER: It's very hard on him, too. He feels very guilty about what
+happened. He's your brother. 
+GUEST0: Why is everybody so worried about him? I'm the one who's sick.
+I'm the one who's going to die. 
+CRUSHER: Hey, nobody is going to die, Willie. Do you hear me? Nobody!
 

@@ -1,92 +1,39 @@
-RIKER LAFORGE WORF PICARD CLERK WESLEY BELLBOY DATA TEXAS
-
-[Bridge]
-
-PICARD: A revolving door? Number One, proceed with
-caution. 
-RIKER [OC]: Yes, sir. 
-[Planet surface]
-
-RIKER: Well, this is what we came here for.
-Captain, we're entering.
+TROI GUEST6 PICARD GUEST4 RIKER GUEST2 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Lobby]
 
-(Worf leads the way into a very elegant foyer and
-lobby in a Middle Eastern style. Lots of marble and palm plants, very
-twenties or thirties. We hear the laughter of people having a good time
-at blackjack tables) 
-[Bridge]
+RIKER: What did you find? 
+GUEST6: Nothing. 
+GUEST4: Rita just called. 
+GUEST3: She did? What did she say? 
+GUEST4: It was kind of hard to tell. She was crying. 
+GUEST3: Crying? Damn. Mickey D thinks he can treat people any way he
+wants. Well, that's all over now. 
+(Enter Mickey D through the main door, white suit with overcoat draped
+across his shoulders) 
+MICKEY D: You were told. 
+GUEST3: It's not for you to make the call. It's for Rita. 
+MICKEY D: She sent me to tell you. 
+GUEST4: Okay, boys. Look, we can't afford to have any trouble in here.
+Why don't you just take this outside. 
+MICKEY D: Yeah, I like that. Come on, baggage man. 
+[Ready room]
 
-PICARD: Enterprise to away team, come in. 
-LAFORGE: We're receiving no signal at all from them, sir. 
-PICARD: Transporter room. lock on to the landing party. Beam them up. 
-LAFORGE: We've got nothing to lock on to, sir. 
-[Lobby]
-
-RIKER: Riker to Enterprise. We've entered the
-structure. Riker to Enterprise, come in. Come in, Enterprise. 
-[Bridge]
-
-WESLEY: When they went through that antique
-doorway, the signal just disappeared, sir.
-PICARD: What's causing the interference? 
-LAFORGE: Unknown. 
-PICARD: Are they receiving us? 
-LAFORGE: No. We're going to have to recalibrate all the frequencies to
-find one that'll work. 
-PICARD: Then do it.
-
-[Lobby]
-
-DATA: Sir, without communication, we should beam up
-immediately. 
-RIKER: We're here, there's no danger. We'll look around then leave. 
-BELLBOY: Checking in, gentlemen? You'll have to go to the front desk. 
-RIKER: Very good. We'll start with that. 
-CLERK: Welcome, gentlemen. Have a nice trip? 
-RIKER: Do you know us? 
-CLERK: We've been expecting you. A trio of foreign gentlemen. 
-RIKER: Yes. We're from the United Federation of Planets. 
-CLERK: Of course you are. Welcome to the Hotel Royale 
-BELLBOY: Excuse me. Did Rita call? 
-CLERK: I'm busy. 
-BELLBOY: You're busy? This is my life I'm talking about here. Now did
-Rita call or not? 
-CLERK: No, and for your own good you'd better quit thinking about Rita.
-
-BELLBOY: I'm not afraid of Mickey D. 
-CLERK: Then you're a fool. Anybody with any sense is afraid of Mickey
-D. 
-BELLBOY: If Rita calls, you let me know. 
-(Bellboy leaves) 
-CLERK: Kid's just asking for trouble. Rita's too much for him to
-handle, and Mickey D's going to plant
-his face in the pavement. Now, here are your room keys. And some
-complimentary casino chips. Enjoy. 
-WORF: What is this place? How did a being like you get here? 
-CLERK: Why, this is the Royale, of course. And my personal life is
-really none of your business, thank you. 
-RIKER: What he means is, what planet is this? 
-CLERK: I beg your pardon? 
-RIKER: This planet. What do you call it? 
-CLERK: Earth. What do you call it? 
-WORF: We call it Theta Eight. 
-CLERK: How charming. 
-(The manager returns to putting mail into pigeon holes, so the team
-take a stroll amongst the tables) 
-DATA: Commander 
-RIKER: Yes, Data? 
-DATA: None of these people are emitting life signs. 
-WORF: You mean they're not alive? 
-RIKER: Then what are they? 
-WORF: These beings, are they machines, or mere illusions designed to
-deceive us? 
-DATA: Not illusion, Lieutenant. They do exist, but they do not register
-as either man or machine. 
-DATA: Take this creature, for example. He does not exhibit any DNA
-structure. 
-TEXAS: Excuse me, son. Look who's talking. Man, you sound just like my
-ex-wife. All right. Time to get back to business! 
-DATA: What sort of business do you suppose he is getting down to?
-
+(Troi and Picard are listening on the open comm.
+channel) 
+MICKEY D [OC]: Let's you and me take it outside. 
+GUEST3 [OC]: When I was a kid, I used to look up to you guys. The
+suit, the fancy shoes. I really thought that made you somebody, but
+you're nobody. She could make something out of her life 
+(Picard mutes it) 
+TROI: I don't believe this dialogue. Did humans really talk like that? 
+PICARD: Not in real life. Remember, everything that's going on down
+there is taken from what Colonel Richey calls a second-rate novel. 
+GUEST3 [OC]: Like Rita. She could do something with her life. She
+could be somebody if she only had the chance. 
+TROI: With your permission, sir. 
+(Troi leaves) 
+MICKEY D [OC]: She is somebody. She's my girl. 
+GUEST3 [OC]: You got her on the stuff. That's the only reason she
+stays with you. Because you feed her sickness. 

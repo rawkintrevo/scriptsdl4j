@@ -1,78 +1,36 @@
-LAFORGE PICARD COMPUTER HICKMAN CRUSHER DATA SUSANNA
+RIKER PICARD COMPUTER OGAWA CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Sickbay]
 
-CRUSHER: This is one of Susanna's altered skin
-cells, and this is one of the alien cells Data found. 
-PICARD: They're almost identical. How do you explain that? 
-CRUSHER: Jean-Luc, I think the people from Tarchannen Three who
-disappeared weren't abducted. I think they were transformed into
-another species. 
-LAFORGE: Can you stop it, Doctor? 
-CRUSHER: The T-cell stimulator will slow the rate of change, but until
-I find the cause. 
-PICARD: Is the Enterprise at risk? 
-CRUSHER: No. I checked the cell wall integrity. It's viability is
-extremely low. I don't think it's possible for Susanna to transmit it. 
-LAFORGE: Then how did she get it? 
-CRUSHER: I wish I knew. The only thing I do know, Geordi, is that it's
-very possible that you'll be next. 
-LAFORGE: But I had two full bioscans today. You said I was fine. 
-CRUSHER: I gave Susanna a bioscan, too. I didn't find anything wrong
-with her, either. 
-LAFORGE: How long? 
-CRUSHER: Brevelle was sick for days before he left. Mendez was normal
-an hour before she disappeared. You may have weeks or very few hours. 
-LAFORGE: Then there's not much time to waste. I should get back to
-work. 
-CRUSHER: Geordi, until I know what we're dealing with, I think you
-should stay here, in Sickbay. 
-LAFORGE: Doctor, you said it would help if you knew the source of this.
-If I can continue my analysis of the mission records, I might find an
-answer. 
-PICARD: Mister La Forge, what if you begin to change? What if you feel
-compelled to go down to the planet like the others? 
-LAFORGE: Programme the computer to monitor my movements. That way we
-can be sure that I don't leave the ship. What would you do, Captain?
-Would you sit it out here in Sickbay or try to learn what it is that's
-got you and maybe stop it? 
-PICARD: Very well, Mister La Forge. You proceed with your
-investigation, but I want you to report to Doctor Crusher for a bioscan
-at the start of day watch. 
-LAFORGE: Aye, sir. 
-CRUSHER: And Geordi, if you have symptoms of any kind, I want to know
-immediately. 
-LAFORGE: Understood.
+(Susanna is completely unrecognisable now) 
+CRUSHER: There, in the thymus. Some sort of parasite. It's using
+Susanna's immune system to spread genetic instructions. 
+OGAWA: How did it get there? 
+CRUSHER: She could have become infected during the original mission.
+It's small enough to have entered through any of the mucous membranes.
+But it certainly isn't behaving like a typical parasite. It isn't
+feeding off of her. It's transforming her DNA to match its own. 
+OGAWA: There's not much of her original DNA left. 
+CRUSHER: And we're going to need unaltered genes or we'll never get her
+back. We've got to get that thing out of her now.
 
-[Engineering]
+[Bridge]
 
-HICKMAN [on monitor]: One to transport. 
-SUSANNA [on monitor]: I want to make another sweep of the perimeter. La
-Forge, you start at building four. Mendez and Brevelle begin at two.
-I'll take five. 
-(and the log ends) 
-LAFORGE: All right, computer. Analyse audio elements from time index
-fourteen four seven to fifteen five eight. List all anomalies. 
-COMPUTER: No audio anomalies present. 
-LAFORGE: Any subspace projections, z-particle emissions,
-interferometric frequencies? 
-COMPUTER: No subspace projections present. No z-particle emissions
-present. No interferometric patterns present. 
-LAFORGE: Damn. 
-DATA: Geordi. May I inquire how your investigation is proceeding? 
-LAFORGE: It's not. 
-DATA: Have you attempted an audio analysis? 
-LAFORGE: Yes, Data. And a spectrographic analysis, and a screen for
-ionising radiation. I even ran an enhancement for micro-seismic
-disturbances. I've tried it all, okay? I'm sorry, Data. 
-DATA: There is no need for an apology. Perhaps if you indulged in a
-brief rest period, you would be able to approach this problem with a
-fresh point of view. 
-LAFORGE: Yeah, you're probably right, Data, but I've got to keep
-scanning these records while I can. 
-DATA: May I can assist you? 
-LAFORGE: If I knew what I was looking for. Rally, Data, I think it's
-just a matter of me going over it, maybe finding something I forgot.
-I'll let you know if I come across anything, all right? All right,
-computer, one more time.
+RIKER: Any luck? 
+DATA: Negative, Commander. Nothing in our survey suggests the source of
+a parasitic infection. 
+CRUSHER [OC]: Crusher to Bridge. 
+PICARD: Go ahead, Doctor. 
+CRUSHER [OC]: The surgery was successful 
+[Sickbay]
+
+CRUSHER: But it's going to be a few more hours
+before we know how her regenerative systems are responding. In the
+meantime, we'd better get Commander La Forge down here. 
+PICARD [OC]: Very well, Doctor, keep us informed. 
+CRUSHER: Crusher to La Forge. Computer, locate Commander La Forge. 
+COMPUTER: Commander La Forge is not on board the Enterprise. 
+CRUSHER: Bridge, the Computer says Commander La Forge is no longer on
+board. Is that correct?
 

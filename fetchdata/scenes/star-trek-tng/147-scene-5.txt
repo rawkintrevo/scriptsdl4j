@@ -1,57 +1,47 @@
-PICARD RIKER KOLRAMI WORF WESLEY
-
-[Worf's
-quarters]
-
-(He
-seems to be building a
-matchstick ship, The door
-chime makes him break a
-stick.)
-WORF:
-Enter! 
-RIKER: Am I disturbing you? 
-(Worf sweeps the wreckage off the desk)
-WORF: Just finished. 
-RIKER: You know of the simulation. What do you think? 
-WORF: Waste of time. 
-RIKER: It's just designed to be an exercise. 
-WORF: Useless. If there is nothing to lose, no sacrifice, then there is
-nothing to gain. 
-RIKER: You mean besides pride. Well, in this case it doesn't matter. I
-probably haven't got a chance. 
-WORF: There is always a chance. 
-RIKER: Slim. The Hathaway's most sophisticated weapon system, even in a
-computer mock-up, can't hope to defeat the Enterprise. 
-WORF: Well, still 
-RIKER: You're out-manned, you're out-gunned, you're out-equipped. What
-else have you got? 
-WORF: Guile. 
-RIKER: Join me. 
-WORF: The honour is to serve.
+PICARD RIKER KOLRAMI LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
+
+The
+Hathaway is old,
+battered, with that nacelle
+design of two above, two below)
 PICARD:
-Begin long-range scanning
-of all sectors within three
-light years of Braslota. How
-is your crew shaping up? 
-RIKER:
-It's complete, but I would like to request an addition. 
-PICARD: Anyone in particular? 
-RIKER: With your permission, I would like Acting Ensign Crusher aboard
-for educational observation. 
-(Picard nods) 
-WESLEY: Thank you, Captain. 
-(Wesley leaves) 
-RIKER: It appears we will have some time before reaching Braslota. I
-was wondering if you'd agree to play me in a game of Strategema. 
-KOLRAMI: Although I am intrigued by the audacity of your request, I
-can't fathom why you wish the encounter. 
-RIKER: I enjoy a challenge. 
-KOLRAMI: Very well. An opponent of limited dimensions can often be
-quite diverting. 
-RIKER: Thank you.
+Commander Riker, there's your next challenge. 
+WORF [OC]: Away team assembled and ready to transport, Commander. 
+RIKER: I may get over there and want to come right home. 
+PICARD: Good luck, Number One. Captain. 
+KOLRAMI: The simulation will commence in forty eight hours.
+
+
+[Hathaway
+Bridge]
+
+
+(It
+looks like it's been
+partially stripped for spares. Everyone is using torches at
+first)
+LAFORGE:
+There should be some emergency Bridge lighting here. 
+(He finds it. We see the dust sheets and detail) 
+WORF: Not good. 
+RIKER: Ah, you're wrong, Mister Worf. It's fantastic. And it's ours.
+(offers him the First Officer's seat) Mister Worf. 
+WORF: Sir, Lieutenant La Forge is a superior officer. The honour should
+be his. 
+RIKER: Worf, this is a battle simulation. You're my Tactical Officer.
+I've discussed this with Geordi and we agreed. You need to be at my
+side. 
+LAFORGE: Besides, Worf, if Engineering's anything like the Bridge, I'm
+going to have my hands full. 
+(Riker sits and activates ship wide broadcast. We here the Original
+Series bosun whistle) 
+RIKER: Attention, crew of the USS Hathaway. This is your Captain. Over
+the next two days, you might lose a lot of sleep, but with your skill
+and your stamina, we'll have this old lady ready to fly. I want hourly
+progress reports from all stations. Riker out.
 
 

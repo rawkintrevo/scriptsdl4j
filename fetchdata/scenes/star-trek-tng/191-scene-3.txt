@@ -1,37 +1,39 @@
-TROI HAGAN LAFORGE PICARD RIKER CRUSHER DATA
+PICARD TROI VOICE CRUSHER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Ready room]
 
-CRUSHER: We're almost finished with the autopsies,
-Captain. 
-PICARD: How long will it take to compile the data? 
-CRUSHER: It's complicated. The dead were found all over the ship. Some
-were found locked in their rooms, barricaded, with weapons piled all
-around them. Others were found in the corridors where they'd obviously
-had hand to hand combat. It's going to take some time to analyse and
-sort through the details. We've identified him as Andrus Hagan, from
-Betazed, scientific advisor. He's in a profound catatonic state. 
-TROI: I'm not getting much, Captain. A few words, disconnected phrases.
-I can feel his terror but I can't seem to get through to him. 
-PICARD: Stay with him, Counsellor. We're examining the Brittain for
-clues, but this man is the only one left who knows what happened there.
+PICARD: Come. 
+CRUSHER: I've been studying the autopsy reports. The conclusion is
+appalling. There was no outside source, no alien presence. All thirty
+four of them appear to have killed each other. 
+PICARD: What could have caused such an event? Drugs? A virus? Poison? 
+CRUSHER: Toxicological tests showed no unusual substances in their
+systems, and they all appear to be in good health. But for whatever
+reason, they seemed to turn against each other, using phasers and
+knives and bare hands. I'd like you to see this, Captain. It's from the
+logs of the Brittain. Captain Zaheva's mental condition deteriorated
+steadily once they'd became stranded. She began talking of plots and
+mutinies. This was the last entry log, made after they had been adrift
+for over three weeks. 
+GUEST2 [on monitor]: First Officer Brink and his men were behind it.
+They got to the engines. They don't work anymore. Had to eliminate
+Brink. the ship is out of, out of, we're running out. Too dangerous!
+Out of Brink! And his men!
 
-TROI [OC]: I'm here. I'm right here. 
-HAGAN [OC]: Are there voices? 
-TROI [OC]: Voices? What do they say? 
-HAGAN [OC]: Both things. No. No. 
-TROI [OC]: Keep talking to me. I'll try to understand. 
- [Brittain Bridge]
+[Nightmare]
 
-LAFORGE: All the engines check out perfectly,
-Commander. Once we get them started, the Brittain can get back to
-Starbase under her own power. 
-RIKER: Let's give it a try. 
-LAFORGE: Pre-heating injectors. Data, fuel flow? 
-DATA: Matter valves are open and operating. Magnetic containment of
-antimatter pods is constant. 
-LAFORGE: Okay, open injectors. 
-DATA: Injectors open. There is no engine activity at all, sir. 
-RIKER: What's wrong? 
-LAFORGE: Nothing's wrong. I don't understand it.
+(Deanna is walking through a green fog, then she
+starts flying. Ahead are two lights, one large, one smaller) 
+VOICE: Eyes in the dark. One moon. 
+TROI: Where are you? I'm coming. Where are you? 
+VOICE: Eyes in the dark. One moon. Eyes in the dark. One moon circles.
+See the eyes in the dark. One moon. 
+TROI: Where are you? 
+(then she wakes up, gasping for air)
+
+Captain's log, stardate 44635.8. Four days have
+passed, but we have made little progress in solving the mystery of the
+Brittain. I have decided we should return to Starbase two twenty, and
+to that end, Commander La Forge is rigging the Brittain for towing.
 

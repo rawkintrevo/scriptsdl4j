@@ -1,71 +1,52 @@
-TROI OBRIEN KEIKO PICARD CRUSHER GILLESPIE
+PICARD CRUSHER DATA MEDIC
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[O'Brien's quarters]
+[Morgue]
 
-(Miles is pacing when Keiko enters) 
-KEIKO: Boy, what a day this was. I'm doing an isozyme study on some
-populations of Cardilia but they're turning out to have these really
-weird polymorphisms. What a headache! 
-O'BRIEN: Is that why you're late? 
-KEIKO: Oh, no, I had a conference with Doctor Balthus. She wants to do
-a study on the laticifer ontogeny of the Kaladian Thorn Flower, but I
-don't have time to oversee another project. 
-O'BRIEN: Was Tom Corbin there? 
-KEIKO: What? 
-O'BRIEN: Tom Corbin from the science lab. Remember him? 
-KEIKO: Of course I remember him, but 
-O'BRIEN: You use any excuse you can to pay him a visit. 
-KEIKO: Miles, what are you saying? 
-O'BRIEN: I think you know exactly what I'm saying. 
-KEIKO: If I didn't know better, I'd say you were jealous. 
-O'BRIEN: Do you take me for a fool?
+(Beverly has a medic with her) 
+CRUSHER: I'd like to do more cross-sections on the brain tissue of some
+of these bodies. Set up the positron emission sensor in Sickbay, and
+I'll decide which ones I want to study. 
+MEDIC: Yes, Doctor. 
+(the medic leaves. Beverly starts scanning a woman, then hears a
+rustling behind her. She goes to another, and hears something again.
+She looks behind her, and all the bodies are sitting upright in their
+shrouds. She closes her eyes) 
+CRUSHER: Go away. 
+(and when she opens them again, everything is as it should be)
 
-[Ten Forward]
-
-GILLESPIE: Hello, Chief. Having coffee? 
-O'BRIEN: No, I'm drinking too much coffee. 
-GILLESPIE: I'm surprised to see you here at this hour. 
-O'BRIEN: Why's that? 
-GILLESPIE: You're not out of the honeymoon yet. Usually newlyweds can't
-keep their hands off each other. 
-O'BRIEN: She has work to do. She heads up the plant biology lab, you
-know. 
-GILLESPIE: Any strange things going on down there? 
-O'BRIEN: Like what? 
-GILLESPIE: I've been hearing things. Kenicki in Engineering told me he
-saw a man in an old Starfleet uniform riding the lift near the engine
-core. When the lift got to the top, there was no one on it. 
-O'BRIEN: Ghost stories. 
-GILLESPIE: There's more, there's lots more. There are strange things
-happening on this ship, O'Brien. 
-O'BRIEN: I'm surprised at you, Gillespie. A Starfleet officer. I have
-more things to worry about than shades and spirits. 
 [Ready room]
 
-(doorbell) 
-PICARD: Come. 
-(doorbell) 
-PICARD: Come. 
-(doorbell, so he gets up. Doorbell again) 
-PICARD: Yes, yes. 
-(he gets to the door, it opens and there is no one there so he returns
-to his desk, and the doorbell chimes again, and again, and again. Then
-someone actually knocks at the door) 
-PICARD: Come. 
-(Beverly and Deanna enter) 
-PICARD: What? 
-CRUSHER: Captain, do you have a moment? 
-TROI: We're concerned. We're afraid whatever happened on the Brittain
-may be starting here. 
-PICARD: Explain. 
-TROI: Well, Beverly and I have been getting unusual reports. People
-behaving strangely, others hearing sounds that aren't there. 
-PICARD: Are we talking about hallucinations? 
-CRUSHER: In some cases. In others just erratic behaviour. 
-TROI: We can't track down any element that might be responsible. 
-PICARD: But everything started when we found the Brittain? 
-CRUSHER: Yes. Captain, we have to get the Enterprise away from here
-before it gets any worse. 
-PICARD: We're preparing to take the Brittain in tow. We'll be on our
-way within the hour.
+CRUSHER: Captain, let me ask you this. Since we
+located the Brittain, can you remember any of your dreams? 
+PICARD: I hardly ever recall dreams. 
+CRUSHER: Most people don't, but think. Have you even had a dream in the
+last ten days? 
+PICARD: I don't recall. 
+CRUSHER: I'm willing to bet you haven't. What's more, neither has
+anyone else on board this ship, except for Troi. I began to realise
+that when she talked about having nightmares. I've done some additional
+brain tissue tests on, er, bodies, some of the bodies from the, er,
+the. 
+DATA: The Brittain, Doctor. 
+CRUSHER: Right. And I've also done some scans on a random cross-section
+from our crew. They both have the same results, a unique chemical
+imbalance. 
+PICARD: Caused by? 
+CRUSHER: Dream deprivation. Every night when we enter into sleep. 
+DATA: I believe the Doctor means is that humans enter what is known as
+REM sleep. Rapid eye movement. It is the level of
+brain wave activity at which one dreams. 
+CRUSHER: We have to dream in order to survive. If we don't reach REM
+sleep, we don't dream, we begin to lose our cognitive abilities, we
+find it hard to concentrate. We forget how to do the most ordinary
+task. Then we become irritable, paranoid. Some people experience
+hallucinations. 
+PICARD: You're describing the situation on this ship. But Counsellor
+Troi reported nightmares. 
+CRUSHER: Maybe it's because she's Betazoid. I don't know why. All I
+know is there's more going on here than being caught in a Tyken's rift,
+and I don't know how or why it's happening. But I do know this. There
+is an inevitable conclusion to this pattern, and if I can't find a way
+to stop it, we will all go insane.
 

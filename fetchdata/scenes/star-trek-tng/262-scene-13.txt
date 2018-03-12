@@ -1,103 +1,49 @@
-RIKER JULIANA DATA WORF
+GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Holodeck]
 
-WORF: Terminating the beam. 
-[Engineering]
+(Data puts Juliana's chip into a holder, then into
+the holodeck arch panel) 
+GUEST1: Whoever you are, you must have found out about Juliana. 
+DATA: That is correct. 
+GUEST1: I programmed this hologram to answer any questions you might
+have. I am Noonian Soong. I created her. 
+DATA: I am Data. 
+GUEST1: Data? I hoped somehow it might be you. I even created a response
+programme to answer your questions. How are you, boy? 
+DATA: I am fine. 
+GUEST1: I'm glad you got the chance to meet your mother. 
+DATA: You refer to Doctor Tainer as my mother, yet the complexity of
+her design indicates she was created after I was. 
+GUEST1: You're right. But there was a real Juliana O'Donnell. She was my
+wife. She helped me create you. 
+DATA: What happened to her? 
+GUEST1: She was injured when the Crystalline Entity attacked. We made it
+as far as Terlina Three but, she slipped into a coma. When I realised
+nothing could be done for her, I built an android. I tried to perfect
+my synaptic scanning technique so that I could transfer Juliana's
+memories into a positronic matrix. I didn't know if it would work, but
+I had to try. I couldn't stand the thought of losing the only woman I
+ever loved. A few days after Juliana died, I activated the android. She
+looked up at me and smiled. She recognised me. It had worked! Here was
+a life not two minutes old, and as far as she knew I was her husband.
+She'd just recovered from a terrible injury. It was incredible. 
+DATA: Then you never told her the truth? 
+GUEST1: Why? There was no reason for her to know. I wanted her to be
+happy. I wanted us to be happy. We were. For a while. 
+DATA: What happened? 
+GUEST1: I made a terrible mistake. I never really let her know how much
+I loved her. So she left me. The real Juliana probably would have left
+too, if she'd lived. 
+DATA: If she recovers and learns that she is an android 
+GUEST1: She doesn't have to know. I designed her to shut down in the
+event the truth was discovered. When you put that chip back in, she
+will wake up and remember nothing. All you have to do is make up some
+excuse about what happened to her. 
+DATA: Then you do not believe she should know the truth? 
+GUEST1: Truth? The truth is, in every way that matters, she is Juliana
+Soong. I programmed her to terminate after a long life. Let her live
+out her days, and die believing she was human. Don't rob her of that,
+son. Please.
 
-JULIANA: The pocket seems stable. 
-DATA: I detect no increase in the stress levels of the surrounding
-magma. 
-RIKER [OC]: Good work, Data. 
-[Bridge]
-
-RIKER: I don't think we could have gotten it any
-cleaner. 
-JULIANA [OC]: We have Data to thank for that. I couldn't have done it
-without him. His figures were perfect. 
-[Engineering]
-
-DATA: The drilling process has raised the
-temperature in the magma pockets by almost three hundred degrees
-Celsius. It will be several hours before it cools enough for us to
-enter. 
-JULIANA: Data, do you have any plans right now? 
-DATA: I do not. 
-JULIANA: Maybe we should spend a little time together? I'd love to see
-your quarters. 
-[Data's quarters]
-
-(Data plays violin for her. Juliana applauds) 
-DATA: Thank you. I will be playing this piece at a recital tomorrow
-evening. 
-JULIANA: That was beautiful. 
-DATA: I have been told that my playing is technically flawless, but no
-one has described it as beautiful. 
-JULIANA: It was, really. 
-DATA: Are you certain you are not saying this because you are my
-mother? I have noticed that parents tend to exaggerate when it comes to
-their children's accomplishments. 
-JULIANA: I suppose there's a certain amount of vanity involved,
-considering that giving you a creative aspect was my idea. Your father
-didn't really see the point. He thought that since you didn't have
-emotions, there would be no real need for you to express yourself.
-Somehow I had the feeling the opposite would be true. 
-DATA: I do not know for certain, but I believe it is during my creative
-endeavours that I come closest to experiencing what it must be like to
-be human. 
-JULIANA: Well, I'm glad I insisted. 
-DATA: As am I. 
-JULIANA: Data, I'm very familiar with that Handel piece. How would you
-feel about my playing the viola part tomorrow? 
-DATA: I would like that very much. 
-JULIANA: I'll have to practice. You don't have a viola? 
-DATA: I could replicate one for you. Computer, please replicate one
-viola. 
-JULIANA: Did you paint these? 
-DATA: Yes. I am attempting to master all known styles of painting. This
-one is in the style of the early French impressionists. 
-JULIANA: It's very good. Who's this? 
-DATA: That is Lal, my daughter. 
-JULIANA: Your daughter? 
-DATA: I created her, using myself as a model. 
-JULIANA: Where is she now? 
-DATA: The positronic matrix I designed for her was unstable. She only
-lived a short time. 
-JULIANA: I see. 
-DATA: In a sense, you were her grandmother. Would you like to practice
-now? 
-JULIANA: Yes. Yes, of course. 
-[Ten Forward]
-
-(the place is empty so they are practising here) 
-DATA: The acoustics in Ten Forward are most favourable. 
-JULIANA: Yes, yes, very nice. Data, may I ask you something? 
-DATA: Of course. 
-JULIANA: Do you think you'll ever try to create an android again? 
-DATA: Perhaps. I created Lal because I wished to procreate. Despite
-what happened to her, I still have that wish. 
-JULIANA: How do you know the same thing won't happen? Creating a stable
-positronic matrix is very tricky. Your father lost several prototypes
-before Lore. 
-DATA: I was not aware he created other androids before my brother. 
-JULIANA: There were three of them. They were like children to us.
-Losing them was very painful. When Noonian decided to try again, I was
-very much against it. I didn't think we had the right to bring a life
-into the world with so little chance of surviving. But your Father was
-sure that he'd figured out what went wrong, insisted he could make a
-stable matrix, and he did. But Lore was cruel. Evil. Eventually we had
-no choice, we had to dismantle him. Your father decided to build yet
-another android, one who didn't have emotions. I couldn't believe he
-would want to try again. 
-DATA: I am that android. Are you saying you were against my creation? 
-JULIANA: Initially I was. But I was wrong, I know that now. I've
-followed your progress for years. I'm very proud of what you've
-accomplished. 
-DATA: Then why did you never attempt to contact me? 
-JULIANA: Because I felt guilty about something I'd done. 
-DATA: Perhaps if you told me what has made you feel this way, it may
-alleviated the guilt. 
-JULIANA: I lied. When I said there was no room for you in the escape
-pod that we took from Omicron. There was. I didn't want to bring you
-with us. I was afraid if we reactivated you, you'd turn out like Lore.
-I made Noonian leave you behind. 

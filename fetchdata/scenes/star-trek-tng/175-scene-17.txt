@@ -1,49 +1,48 @@
-RIKER LAFORGE CREWMAN SHELBY PICARD GLEASON WESLEY
+RIKER LAFORGE WORF SHELBY PICARD TROI WESLEY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Battle bridge]
+[Data's lab]
 
-CREWMAN: Channel open, sir.
-RIKER: We would like time to prepare our people for assimilation.
-PICARD [on viewscreen]: Preparation is irrelevant. Your people will be
-assimilated as easily as Picard has been. Your attempt at a delay will
-not be successful, Number One. We will proceed to Earth, and if you
-attempt to intervene, we will destroy you.
-RIKER: Then take your best shot, Locutus, because we're about to
-intervene.
-CREWMAN: Channel closed. 
-RIKER: Reset subspace communications. Scrambler code, Riker One 
-GLEASON: Scrambler code, Riker One. Acknowledged.
-RIKER: Shelby, report.
+DATA: Attempting new power subcommand path.
 
-[Bridge]
-
-SHELBY: Ready for separation.
-RIKER [OC]: Make it so. 
-SHELBY: Auto-sep sequence initiated. 
 [Engineering]
 
-LAFORGE: Docking latches clear, separation
-complete.
+LAFORGE: Shields have failed. They've 
+[Bridge]
 
-[Battle bridge]
+LAFORGE [OC]: Locked on, sir. They're pulling us
+in. 
+RIKER: Fire all weapons.
 
-WESLEY: Saucer velocity one hundred metres per
-second and increasing, sir.
-RIKER: Open fire, all weapons.
+[Data's lab]
+
+DATA: I cannot penetrate Borg power subcommand
+structure, sir. 
+[Bridge]
+
+DATA [OC]: All critical subcommands are protected,
+Captain. 
+SHELBY: Then it's over.
+RIKER: Mister Crusher, ready a collision course with the Borg ship. You
+heard me. A collision course.
+WESLEY: Yes, sir.
+RIKER: Mister La Forge, prepare to go to warp power. 
+LAFORGE [OC]: Aye, sir. 
+[Data's lab]
+
+PICARD: Sleep.
+CRUSHER: He's regaining consciousness. 
+PICARD: Sleep.
+TROI: It is Captain Picard speaking, not Locutus.
+PICARD: Sleep, Data.
+CRUSHER: He's exhausted.
+DATA: Yes, Doctor, but if I may make a supposition, I do not believe
+his message was intended to express fatigue but to suggest a course of
+action.
 
 [Bridge]
 
-SHELBY: Fire.
-
-[Battle bridge]
-
-WESLEY: Borg tractor beam attempting to lock on,
-sir. 
-RIKER: Evasive manoeuvres, pattern Riker Alpha. 
-WESLEY: Riker Alpha confirmed. They're ignoring the saucer section
-completely. 
-RIKER: Just as you should, Captain. Ensign, evasive pattern, Riker
-Beta. 
-WESLEY: Riker Beta confirmed. 
-RIKER: Proceed to second phase, Commander Shelby.
-
+WORF: Borg cutting beam activated. 
+RIKER: Mister Crusher? Engage. 
+DATA [OC]: Data to Bridge. Stand by. 
+RIKER: Stand by, all stations. 

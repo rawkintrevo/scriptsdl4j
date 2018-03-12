@@ -1,60 +1,38 @@
-BEATA RIKER LAFORGE WORF TASHA PICARD TROI CRUSHER DATA
+BEATA RIKER TASHA TROI GUEST0 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Beata's quarters]
 
-CRUSHER [OC]: Person to person contact. 
-PICARD: Well, keep with it, Doctor. Starfleet has very important
-business for us as soon as the away team returns. I don't fancy the
-idea of my crew being infected. 
-[Great Hall]
+(Beata is doing paperwork) 
+RIKER: You claim to be an advanced society, and yet you resort to
+executions in order to suppress those who don't share your views. 
+BEATA: I don't expect you to understand. 
+RIKER: Why? Because I'm only a man? 
+BEATA: You'll accomplish nothing with that attitude. 
+RIKER: Mistress Beata, if you had an alternative to the execution of
+Ramsey and his followers, would you take it? 
+BEATA: Is that not the way of an advanced society? 
+RIKER: Then let us meet with the men from Odin one last time. Let me
+try to convince them to leave with us.
+BEATA: Will you also include those from this world who unwisely choose
+to follow Ramsey and his group? 
+RIKER: Yes. All of them. 
+[Holding area]
 
-RIKER: Data, what's the best way to go about
-finding Ramsey and the other survivors? 
-DATA: If we can isolate something unique to the Odin survivors, perhaps
-an element not otherwise found on Angel One, we can utilise the
-Enterprise scanners. 
-RIKER: Mister Data will need access to your library. 
-BEATA: Our library is far too sophisticated for a man to comprehend. 
-DATA: I am an android, Mistress, although anatomically I am a male. 
-BEATA: An amusing notion. Maybe you could teach our males a thing or
-two. Trent, see to the android's needs. 
-[Bridge]
-
-WORF: Bridge to Captain Picard. 
-PICARD: [OC]: Go ahead, Lieutenant. 
-WORF: The away team requests that we scan the planet surface for traces
-of platinum. 
-PICARD: [OC]: Have Mister La Forge break fixed orbit and initiate a
-search pattern. 
-WORF: Aye, Captain. Geordi. 
-LAFORGE: Search pattern initiated now. 
-[Guest quarters]
-
-(Riker enters, and Troi hands him a local male
-outfit on a hangar) 
-TROI: This was delivered for you. 
-RIKER: Good. It's for my meeting with Beata. 
-TROI: You're not going to wear that. 
-RIKER: Of course. Part of this mission is diplomatic. I have requested
-an audience with a head of state, and I will honour her by wearing
-indigenous apparel.
-TASHA: I don't believe this. You're going to put that thing on and
-parade around like one of them? 
-RIKER: Why, what is this attitude? On Kabatris I had to wear furs to
-meet the leadership council. And on Armus Nine I wore feathers. This
-objection doesn't have anything to do with the fact that Beata is a
-woman, and an attractive one, does it?
-
- [Ready Room]
-
-(The Captain is obviously ill) 
-PICARD: This is quite unnecessary, Doctor. I'm fine. 
-CRUSHER: You're infected with the virus. Captain. In my opinion, you
-are no longer physically able to effectively command this vessel. 
-PICARD: That is ridiculous, Doctor. I have an away team down there, in
-less than friendly territory, and in addition I have an appointment
-with several Romulan battlecruisers. 
-CRUSHER: You have an appointment in your cabin, Captain. With your bed.
-
-PICARD: Is that an order, Doctor? 
-CRUSHER: Yes. 
+TROI: Mistress Beata is willing to give you a
+second chance. We're prepared to take your entire group with us. 
+GUEST0: That's very kind of you, but we're not going. 
+TASHA: Haven't you been paying attention, Ramsey? You're scheduled to
+be executed tomorrow. 
+GUEST0: We don't want to die. We don't want to leave, either. 
+RIKER: There's no time to debate the issues. You're going with us
+whether you choose to go or not. 
+DATA: Excuse me, Commander, but removing any of these people against
+their will would be a violation of several Starfleet regulations, not
+the least of which would be the Prime Directive. 
+RIKER: I realise that, Mister Data. I'd rather face a court martial
+than live with the guilt of leaving these people to their deaths.
+Commander Riker to Enterprise. 
+CRUSHER [OC]: This is the Enterprise. Crusher here. 
+TASHA: It must be worse up there than we thought. 
+RIKER: Doctor, where is Lieutenant La Forge? 

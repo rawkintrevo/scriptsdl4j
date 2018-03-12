@@ -1,51 +1,53 @@
-BEATA RIKER LAFORGE WORF TASHA PICARD TROI CRUSHER DATA
+BEATA RIKER TASHA PICARD TROI GUEST0 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Picard's quarters]
 
-CRUSHER: Still running tests. The key is to figure
-out how the virus is transmitted. So far I've been able to rule out 
-[Bridge]
+(Crusher enters bearing a flask. Picard is in bed,
+bare-chested) 
+PICARD: Come. 
+CRUSHER: It looks horrible, tastes worse, and it's absolutely
+guaranteed to make you feel better. 
+(He drinks) 
+CRUSHER: I knew you'd like it. Are you wearing cologne? Like something
+I smelled earlier. Something Klingon.
+PICARD: Lieutenant Worf and I detected the same scent when we bumped
+into your son at the Holodeck. 
+CRUSHER: It's that smell. That's how the virus travels. An airborne
+particle whose sweet scent inspires deep inhalation. And once inside
+the body, it becomes that damned virus. I have work to do. 
+(Crusher leaves) 
+PICARD: You are excused, Doctor. 
+[Great hall]
 
-CRUSHER [OC]: Person to person contact. 
-PICARD: Well, keep with it, Doctor. Starfleet has very important
-business for us as soon as the away team returns. I don't fancy the
-idea of my crew being infected. 
-[Great Hall]
-
-RIKER: Data, what's the best way to go about
-finding Ramsey and the other survivors? 
-DATA: If we can isolate something unique to the Odin survivors, perhaps
-an element not otherwise found on Angel One, we can utilise the
-Enterprise scanners. 
-RIKER: Mister Data will need access to your library. 
-BEATA: Our library is far too sophisticated for a man to comprehend. 
-DATA: I am an android, Mistress, although anatomically I am a male. 
-BEATA: An amusing notion. Maybe you could teach our males a thing or
-two. Trent, see to the android's needs. 
-[Bridge]
-
-WORF: Bridge to Captain Picard. 
-PICARD: [OC]: Go ahead, Lieutenant. 
-WORF: The away team requests that we scan the planet surface for traces
-of platinum. 
-PICARD: [OC]: Have Mister La Forge break fixed orbit and initiate a
-search pattern. 
-WORF: Aye, Captain. Geordi. 
-LAFORGE: Search pattern initiated now. 
-[Guest quarters]
-
-(Riker enters, and Troi hands him a local male
-outfit on a hangar) 
-TROI: This was delivered for you. 
-RIKER: Good. It's for my meeting with Beata. 
-TROI: You're not going to wear that. 
-RIKER: Of course. Part of this mission is diplomatic. I have requested
-an audience with a head of state, and I will honour her by wearing
-indigenous apparel.
-TASHA: I don't believe this. You're going to put that thing on and
-parade around like one of them? 
-RIKER: Why, what is this attitude? On Kabatris I had to wear furs to
-meet the leadership council. And on Armus Nine I wore feathers. This
-objection doesn't have anything to do with the fact that Beata is a
-woman, and an attractive one, does it?
-
+RIKER: What's the latest on the Enterprise's
+medical situation? 
+DATA: Doctor Crusher feels the virus will undoubtedly run unchecked
+through the entire ship. Attempts to develop an inoculants have so far
+ended in failure. Lieutenant La Forge still has Bridge command pending
+your return, sir. 
+RIKER: And what about the Romulans entering the Neutral Zone? 
+DATA: The border outpost reports a contingent of seven Romulan
+battlecruisers within sensor range. The USS Berlin has answered the
+distress call. However, should hostilities erupt, both the outpost and
+the starship will be out-gunned. It is felt that the Enterprise's
+presence in the area will be a vital show of force. 
+TASHA: Some show of force. The Enterprise could fly on autopilot, but
+with that virus knocking down our crew, we're going to be in sorry
+shape if things turn ugly. 
+RIKER: I think it's time we to leave this place. 
+TROI: It doesn't feel right to leave while Beata is determined to
+execute those people. 
+RIKER: She has to find them first. Ramsey and his bunch have been
+fugitives for years. I suspect he's pretty good at evading capture. 
+TROI: Something's wrong. 
+(Beata enters, with Trent) 
+BEATA: Before you go back to your ship, there's something I want you to
+see. 
+(Ramsey and his group are brought in) 
+GUEST0: We were no harm to anyone. Why did you tell them where to find
+us? 
+BEATA: You brought this upon yourself. You and the traitor. One does
+not need the technology of the Enterprise to follow Mistress Ariel
+sneaking out to warn her husband. Let her stand with him now. For
+tomorrow they will die together. 

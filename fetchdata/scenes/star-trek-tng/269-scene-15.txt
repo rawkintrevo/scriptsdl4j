@@ -1,71 +1,34 @@
-TROI LAFORGE WORF PICARD RIKER DATABOY DATAIHAT
+PICARD TROI RIKER WORF LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]]
-
-PICARD: Has there been any damage to the ship? 
 [Bridge]
 
-RIKER: There was an emergency reported in Ten
-Forward. Mister Worf's on his way. 
-LAFORGE: Captain, there's some kind of energy pulse coming through the
-tractor beam. 
-[Data's quarters]
+LAFORGE: I've found it, Captain. This is the only
+place in the archive where Korgano's moon symbol appears by itself, not
+linked with Masaka's. 
+PICARD: All right, Mister La Forge, I want you to access the
+transformation programme. And when you're ready, input the symbol. 
+RIKER: Isn't that a little risky? 
+TROI: We have no way idea what the result would be. The symbol might
+generate anything from Korgano's temple to Korgano himself. 
+PICARD: In one sense, Korgano is Masaka's nemesis. Whatever this symbol
+represents, it could be for us a means to control her. Now, if anyone
+has a better idea, I'd be happy to entertain it. 
+LAFORGE: I've accessed the programme, Captain. 
+PICARD: Initiate the transformation. 
+(a mask appears) 
+RIKER: Another mask. 
+PICARD: You know, we could be going about this all the wrong way. This
+is a very ritualistic culture based on symbol and myth. Perhaps we
+should try to confront them on those terms. If I could somehow
+incorporate myself in their ritual, then perhaps Masaka would listen to
+me. 
+RIKER: You're going to try to pose as Korgano? 
+TROI: Captain, we know so little about this culture and even less about
+Korgano. How would you convince Masaka that you're him? 
+PICARD: I'm really not certain, but there are similarities between this
+culture and others that I've studied. I would imagine I'm just going to
+improvise. Mister Worf, what's our status? 
+WORF: I estimate we have less than two hours before there is nothing
+left of the ship. At least, nothing we can recognise.
 
-LAFORGE [OC]: It's overriding our control systems. 
-PICARD: I'll be right there. 
-DATA-BOY: (gripping Picard's wrist) Don't leave me. 
-PICARD: I won't leave you. Please, let go of me. 
-DATA-BOY: Does it hurt? 
-PICARD: Yes. 
-DATA-BOY: She's going to hurt us all. 
-(he lets go) 
-DATA-IHAT: Now you've done it, Captain. Masaka is awake.
-
-[Ten Forward]
-
-(it now contains tropical foliage and stone, and a
-large version of Troi's ornament with a sun image on it. Think lost
-Mayan ruins.) 
-TROI: Who's this? 
-PICARD: I'd say that that is Masaka. Ihat referred to her as a queen,
-and it's not unusual in ceremonial cultures to find royalty symbolised
-by a sun. 
-TROI: You said the personalities inside Data were in awe of her, even
-terrified. 
-PICARD: According to Data, the sun image is also a symbol for death. 
-(on the reverse of the obelisk) 
-PICARD: There it is again. The same U-shaped symbol, small and
-insignificant. Almost as if it's an afterthought. 
-LAFORGE: Captain, this is incredible. These artefacts weren't beamed
-over here from the archive. The matter here in Ten Forward has been
-transformed. 
-PICARD: Into living plants? How is that possible? 
-LAFORGE: I'm not sure. But bit by bit, this ship is being transformed. 
-WORF: We have been receiving reports from the rest of the ship. Part of
-deck twelve is now an aqueduct. 
-TROI: What are we being transformed into? 
-LAFORGE: I'm not sure I want to find out. 
-PICARD: I don't think we have a choice. We must destroy that archive.
-Mister Worf? 
-WORF: Sir, our weapon control systems are inoperative. However, we
-could reconfigure a photon torpedo for manual launch. 
-PICARD: Make it so. 
-(Worf and La Forge leave) 
-PICARD: There's so much here we could have learned. I really regret
-losing that opportunity.
-
-[Engineering]
-
-(a torpedo lies on the floor) 
-LAFORGE: Okay, I've locked in the targeting parameters. What's the
-phase alignment now? 
-WORF: Less than point seven percent. 
-LAFORGE: Good, that'll do it. I'm setting the yield at maximum. 
-(and the torpedo lights go out) 
-WORF: Sir, the onboard power systems are not functioning. 
-LAFORGE: Let's see what's going on here? 
-(the torpedo is full of snakes, Masaka is on the wall monitor and there
-are vines) 
-LAFORGE: Something tells me we'd better get out of here. 
-(flames stop them) 
-WORF: Engineering to Bridge. Emergency transport. Two to beam out. 

@@ -1,38 +1,38 @@
-PICARD RIKER DATA CHIEF
+PICARD GUEST4 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room] 
-PICARD: What have you learned? 
-DATA: We have completed a scan of the planet surface. 
-RIKER: We've discovered the second lab is on the far side of the
-planet, completely destroyed. Unable to determine what caused it.
-Otherwise, very little to clarify the situation. 
-DATA: Our sensors show an immense volume of energy emanating deep
-within the planet, and concentrated near Manheim's remaining
-laboratory. 
-PICARD: How is the energy being used. 
-RIKER: No idea. 
-PICARD: What's it's source? 
-DATA: I cannot be sure, sir, but I believe Manheim has developed a
-method for harnessing energy from the pulsar. 
-RIKER: It comes down to this, Captain. We've learned everything we can
-from here, and we are no closer to understanding it than we were twelve
-hours ago. Manheim is unable to help us, but hopefully, having been a
-good scientist, he kept notes. 
-DATA: I would need to study Manheim's records. 
-RIKER: And in order to do that we're going to have to go down there. 
-PICARD: What about the defence system Mrs. Manheim spoke of? 
-RIKER: It may have been connected to the main system, and when she
-lowered the shield she may have turned that off as well. If not, we'll
-deal with it as best we can. 
-PICARD: Prepare your team. 
-RIKER: Aye, sir. 
-[Transporter room]
-
-RIKER: Coordinates set? 
-CHIEF: Yes, sir.
-RIKER: Energise. 
-CHIEF: There's a lack of integrity at the landing point. 
 [Bridge]
 
-CHIEF [OC]: I'm losing them. 
-PICARD: Bring them back. Now. Chief Herbert, what's going on? 
+PICARD: What's the next step, Mister Data? 
+[Laboratory]
+
+DATA: I will need to add a specific amount of
+antimatter to rebalance and align the system. 
+PICARD [OC]: Will that plug the hole? 
+DATA: Theoretically, yes. In reality I do not know. 
+(He opens a container and gets the antimatter, putting it on the end of
+a long rod) 
+DATA: When the effect hits, the forcefields will align, opening a clean
+straight path to the other dimension. Whatever the time distortion, I
+must add the antimatter at the appropriate moment. Geordi, if the
+Professor was right, I will need a twenty seven second countdown. 
+LAFORGE [OC]: You got it, Data. 
+DATA: Captain, I now have the antimatter and am moving towards the
+opening at the end of the lab. The next time distortion should occur
+within seconds. Geordi, begin countdown on my mark. Now. 
+(There's a big sparkle. Data looks back to see himself midway across
+the lab - no 2 - and getting the antimatter - no 3. Meanwhile, Geordi's
+voice is counting down, very echoy)
+DATA 3: Captain, there appear to be three of us. 
+DATA 1: Should I drop the antimatter or wait for one of you? 
+DATA 3: Only one of us is at the correct time continuum. 
+DATA 1: Which one? 
+DATA 2: Me. It's me. 
+GUEST4 [OC]: Five, four, three, two, one. 
+(The middle Data arrives at number 1 and the antimatter goes in, before
+number 3 gets there. The effect stops. There is only one Data) 
+PICARD [OC]: Data, report. Are you all right? 
+DATA: Yes, sir. 
+PICARD [OC]: Is it closed? 
+DATA: It is well patched, sir. Closed indicates a permanent condition,
+which I cannot guarantee. 

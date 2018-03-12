@@ -1,32 +1,6 @@
-DATA RIKER AMANDA LAFORGE
+DATA AMANDA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlebay two]
-
-(Amanda arrives carrying two suitcases) 
-LAFORGE: Oh, thank you very much for your help. We can use every
-available hand we can get. This is one of the largest relief efforts
-we've ever mounted. 
-AMANDA: Now why are you bringing everything down in shuttlecraft? 
-LAFORGE: Well, because we can't use the transporters for all of the
-ionisation in the Tagran atmosphere. 
-AMANDA: From the barystatic filters? 
-LAFORGE: How did you know that? 
-AMANDA: I did a paper on eco-regeneration. 
-LAFORGE: Well then, you know that a thousand barystatic filters puts
-out quite a bit of ionisation. 
-AMANDA: A thousand? 
-LAFORGE: Yeah, they've managed to pollute their atmosphere pretty
-badly. 
-AMANDA: It's amazing to think that they go to such lengths to clean the
-air instead of regulating the emissions that cause the problem. 
-LAFORGE: You're right. Actually, the only thing the filters can do is
-keep things from getting worse. 
-(Amanda looks over to Riker, and sees a container fall from the level
-above him. With a gesture, she diverts its fall so it misses him) 
-LAFORGE: They shoot the air full of 
-(crash) 
-LAFORGE: Commander, are you all right? You okay? 
-RIKER: I didn't even see it coming. 
 [Engineering]
 
 LAFORGE: this is the main control area. We can

@@ -1,77 +1,65 @@
-PICARD MIRASTA DATA DURKEN
+RIKER GUEST4 GUEST6 GUEST1 GUEST0 GUEST3 GUEST5 NURSE VOICE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Medical Facility Corridor]
 
-PICARD: And this is the Bridge. 
-MIRASTA: Chancellor. 
-(a brief gaze at their planet on the viewscreen) 
-PICARD: Here we have Environmental and Engineering stations, mission
-operations, and the two principal science stations. 
-PICARD: Data, allow me to introduce Chancellor Avel Durken and Space
-Administrator Mirasta Yale. 
-DATA: Chancellor. Minister. 
-PICARD: Commander Data is my Second Officer. 
-MIRASTA: He's an android, Chancellor. A constructed being. 
-DURKEN: A machine? 
-DATA: In a manner of speaking. The term artificial lifeform would be
-more accurate. 
-DURKEN: Captain Picard, is there someplace we might speak together
-without distraction? 
-PICARD: Certainly. 
-MIRASTA: Chancellor, with your permission, I would like to beam to the
-surface. I have several matters to attend to. 
-DURKEN: Not a word to anyone about this, Mirasta. 
-MIRASTA: Of course. 
-PICARD: Mister Data, will you escort the Minister to the transporter
-room? Chancellor. 
-(Picard and Durken leave) 
-MIRASTA: Has there still been no communication from Commander Riker,
-Data? 
-DATA: No, Minister. He has not returned to our designated transport
-coordinates. We have continued to scan the capital city without
-success.
+(an undetermined length of time later) 
+GUEST4: Something's happened to him. I think he's dead. Go on, get some
+help. 
+(the guard runs off, and she beckons Riker out of the room) 
+GUEST4: Okay. No, that way. 
+RIKER: Thanks. 
+GUEST4: Will I ever see you again? 
+RIKER: I'll call you the next time I pass through your star system. 
+(Riker heads off down the corridor, but gets spotted) 
+GUEST2: Stop him! Somebody stop him! 
+NURSE: Hold it. 
+VOICE [OC]: He's escaping! The alien's escaping! 
+(Riker knocks out a guard who swings at him with a club, then a second,
+but he is finally brought down and kicked while he is on the floor) 
+GUEST5: Stop it! All of you! Stop it now! Have you all lost your minds? 
+GUEST6: They've aggravated the injury to his renal organ. He's bleeding
+internally. 
+GUEST5: Get him into a surgical cubicle. And call Central Security. This
+has gone too far.
 
-[Ready room]
+[Durken's office]
 
-(Picard pours some wine) 
-PICARD: I've been saving this for a special occasion. My brother on
-Earth produces fruit known as grapes, which he turns into wine. He's
-really quite good at it. Chancellor, we have a tradition called a
-toast. It is a drink to salute one's friends and good fortune, and I
-would like to propose a toast to a new friendship. 
-DURKEN: We have something very much like this here on Malcor Three. 
-PICARD: I think we shall find we have much in common. 
-DURKEN: And much that is not in common. 
-PICARD: An opportunity to learn from one another. 
-DURKEN: You speak the language of diplomacy very well, Captain. It is a
-language I appreciate and understand, but I have learned to not always
-trust it. 
-PICARD: Trust requires time and experience. 
-DURKEN: My world's history has recorded that conquerors often arrived
-with the words, we are your friends. 
-PICARD: We are not here as conquerors, Chancellor. 
-DURKEN: What do you want? 
-PICARD: A beginning. But how we proceed is entirely up to you. 
-DURKEN: And if my wishes should conflict with yours? 
-PICARD: There'll be no conflict. 
-DURKEN: And if I should tell you to leave and never return to my world?
+GUEST1: Their leader, Picard, has made it clear
+that how we proceed is entirely our own decision. 
+GUEST3: You cannot possibly be suggesting surrender, Chancellor. 
+GUEST0: They are not hostile. 
+GUEST3: Mirasta, you are incredibly naive. Can you be so enraptured with
+the notion of space travellers that you are blind to the threat they
+represent? 
+GUEST1: I have seen their vessel, Krola. If they chose to be hostile, I
+do not think we would be standing here now. 
+GUEST3: Why should they use force when we are ready to lay down in fear.
 
-PICARD: We will leave and never return. Chancellor, we are here only to
-help guide you into a new era. I can assure you we will not interfere
-in the natural development of your planet. That is, in fact, our Prime
-Directive. 
-DURKEN: I can infer from that directive that you do not intend to share
-all this exceptional technology with us. 
-PICARD: That is not the whole meaning, but it is part of it. 
-DURKEN: Is this your way of maintaining superiority? 
-PICARD: Chancellor, to instantly transform a society with technology
-would be harmful and it would be destructive, 
-DURKEN: You're right, of course. I'm overwhelmed, Captain Picard. I'm
-quite overwhelmed. I go home each night to a loving wife, two beautiful
-daughters. We eat the evening meal together as a family, I think that's
-important. And they always ask me if I've had a good day. 
-PICARD: And how shall you answer them tonight, Chancellor? 
-DURKEN: I will have to say this morning, I was the leader of the
-universe as I knew it. This afternoon, I am only a voice in a chorus.
-But I think it was a good day.
+GUEST1: I do not lay down in fear, to them or to you, Krola. 
+GUEST3: Chancellor, I mean no disrespect, but I have repeatedly warned
+you about your policies, taking us so quickly where we had no business
+going in the first place. New philosophies, new economics, new
+technologies. There are many people who still
+value our traditional way of life and I for one am willing to die to
+defend it. 
+GUEST0: Open your eyes, Krola. We are part of a greater community. We
+cannot ignore it. 
+GUEST3: You would ignore them as they infiltrate and spy on us. 
+GUEST1: What are you saying, Krola? 
+GUEST3: We have captured one of their spies. 
+GUEST0: Chancellor, he is Captain Picard's first officer, Commander
+Riker. 
+GUEST1: You knew about this, Mirasta? 
+GUEST0: He has been missing for two days. I told Captain Picard not to
+discuss this because I was afraid this is exactly what would happen. 
+GUEST1: What else do you know, Mirasta? Everything! 
+GUEST0: They have been on our planet, observing, for several years. 
+GUEST3: Years! Imagine what they have done. Influenced our young,
+stirred up dissent. 
+GUEST0: They were collecting information. 
+GUEST1: Where is this Commander Riker now? 
+GUEST3: He's in the Sikla Medical facility. He's recovering from
+surgery. He suffered head injuries in an escape attempt. He will
+recover consciousness in a few hours.
 

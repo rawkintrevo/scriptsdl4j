@@ -1,37 +1,30 @@
-TROI WORF ALKAR
+RIKER CRUSHER TROI ALKAR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Gymnasium]
+[Alkar's quarters]
 
-(Worf is leading a Klingon Tai-chi class, including
-Troi and Alkar) 
-WORF: That will be all for today. There will be another class tomorrow
-at oh seven hundred hours.
-TROI: The skills are demanding. You're very disciplined.
-ALKAR: I believe in a strong connection between body and mind. You
-obviously share the same convictions.
-TROI: Yes, I do. Only sometimes my body has a problem conforming to my
-mind's wishes.
-
-[Corridor]
-
-TROI: I would imagine that your self-discipline
-helps you in your work.
-ALKAR: I don't know about that. I think maybe my biggest asset is
-patience. I let everybody else talk until they're exhausted, and when I
-start, they're too tired to argue.
-TROI: You're going to need all your patience at Seronia. I can't
-imagine how you'll get the two sides talking to each other. 
-ALKAR: Neither can I. I won't know that until I get there. I tend to
-feel my way through a situation.
-
-[Turbolift]
-
-ALKAR: Deck nine. If I were empathic like you, I'd
-have a real advantage.
-TROI: I thought Lumerians were empathic.
-ALKAR: Only with each other, not other species. So, I don't have any
-idea what you might be feeling just now.
-TROI: Curiosity. What I sense from you is very unusual. Calmness,
-serenity, tranquillity. You seem to embody the very qualities that you
-hope to draw out in others.
+(Maylor is rigid on the floor) 
+CRUSHER: Forty cc's inaprovaline.
+RIKER: I'm sorry, Ambassador.
+ALKAR: She was ill. I should never have brought her along. She was
+ninety three. She'd lived a long life. I should be grateful for that. 
+TROI: Alkar, is there anything I can do? 
+ALKAR: Counsellor, there's a funeral meditation. Part of our rituals.
+As an empath, you're the only person on board who could perform it with
+me.
+TROI: I'll be glad to help. 
+(later - the room is darkened, and Alkar takes a pair of crystals from
+a box) 
+ALKAR: This meditation is one of our most sacred ceremonies. Hold the
+stone like this. Rohm gah sevi rohm. Say after me. An end to grief.
+TROI: An end to grief.
+ALKAR: An end to pain.
+TROI: An end to pain.
+ALKAR: Strength comes from love.
+TROI: Strength comes from love.
+ALKAR: And courage from wisdom.
+TROI: And courage from wisdom.
+(Alkar moves his crystal towards Troi's, and it glows. When they touch,
+both crystals glow, then just Troi's. Her eyes snap open in horror.) 
+ALKAR: Thank you.
 

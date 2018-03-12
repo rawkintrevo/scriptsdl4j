@@ -1,43 +1,53 @@
-TROI OBRIEN PATTERSON JAYGORDON PICARD MANDEL MONROE
-
-[Turbolift]
-
-PICARD: I want you to know we're very proud of the
-science fair winners. Perhaps some of you will choose to pursue a
-career in Starfleet. Well, then. What did you do for your science
-projects? 
-PATTERSON: I planted radishes in this special dirt and they came up all
-weird! 
-PICARD: I see. That's very, very commendable. And you? 
-JAY GORDON: An analysis of the life span of the swarming moths of Gonal
-Four. They only live for twenty hours, then they all die. 
-PICARD: How interesting. And you 
-(but before the shy girl can answer, something happens)
-PICARD: We're falling! 
-(all over the ship, power drops and everything is shaken violently. Red
-Alert goes off automatically)
+TROI RO OBRIEN GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-MONROE: (female helm) What happened? 
-MANDEL: (man at ops) Sensors are picking up subspace distortions and
-high energy particles directly to starboard. 
-MONROE: Looks like we ran into a quantum filament. Damage report? 
-O'BRIEN: We've lost primary life support. Switching to secondary
-systems. Impulse and warp engines are offline. 
-MANDEL: There's another filament moving toward us, sir. 
-MONROE: All decks brace for impact! 
-(Thump! and it all goes dark - except for the opening titles) 
-O'BRIEN: Counsellor? 
-TROI: I'm all right. Medical team to the Bridge. Troi to Sickbay.
-Counsellor Troi to Captain Picard. Troi to Engineering. Counsellor Troi
-to any crew member, please acknowledge. 
-(Mandel tries to open the turbolift doors) 
-TROI: Medical team to the Bridge. 
-O'BRIEN: The computer's down. It looks like we still have impulse power
-but not much else. 
-TROI: Lieutenant Monroe! 
-(She's dead) 
-MANDEL: Chief O'Brien. The turbolifts aren't working. We're trapped up
-here.
+O'BRIEN: This is the Federation Starship Enterprise
+calling any vessel within range. We are in distress and need
+assistance. Please respond. I'm still not sure we're even transmitting.
+I'll set the message on auto repeat and see if we get a response. 
+(a turbolift door is forced open, and Ro Laren hauls herself out of the
+stuck car) 
+O'BRIEN: Are you all right? 
+RO: I'm alive. What the hell happened? 
+O'BRIEN: We were hit by a quantum filament. Most of our systems are
+down and we haven't been able to contact anyone off the bridge. 
+RO: Well, don't count on leaving through there. An emergency bulkhead
+closed just beneath that lift. 
+O'BRIEN: Confinement mode. 
+RO: Right. Isolation protocol. 
+TROI: I'm not really familiar with that protocol. 
+O'BRIEN: If the computer senses a hull breach, it automatically closes
+emergency bulkheads to isolate the breach. Until we can clear those
+bulkheads, we'll be cut off from the rest of the ship. 
+GUEST3: I have partial sensors back online. I'm picking up sporadic
+life signs throughout the saucer section. There are definitely
+survivors. 
+O'BRIEN: What about Ten Forward? 
+RO: Ten Forward? 
+O'BRIEN: My wife's there. 
+GUEST3: I'm sorry, Chief. The readings are not that specific. 
+RO: Can you scan the drive section? 
+GUEST3: I'm not reading any life signs in the drive section. 
+RO: Could the sensors be malfunctioning? 
+GUEST3: There's no way to know. Without the main computer, I can't run
+a full diagnostic. 
+O'BRIEN: Can you sense anything, Counsellor? 
+TROI: There are a lot of people still alive. Many of them are hurt but
+I can't tell where they are. 
+RO: We need to start emergency procedures. Who's the duty officer? 
+O'BRIEN: Lieutenant Monroe was in command, but she's dead. I believe
+Counsellor Troi is the senior officer on the deck. 
+RO: Counsellor Troi? 
+O'BRIEN: She carries the rank of Lieutenant Commander. 
+TROI: I'd appreciate some suggestions. 
+O'BRIEN: I recommend we initiate emergency procedure alpha two. Bypass
+computer control and place all systems on manual override. 
+TROI: Very well. 
+O'BRIEN: Aye, aye, sir. 
+RO: May I suggest that our next priority be to stabilise life support
+and try to re-establish intership communications? 
+TROI: Yes. Mister Mandel, I'd like you to assist Ensign Ro. 
+GUEST3: Yes, sir.
 

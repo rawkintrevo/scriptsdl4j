@@ -1,109 +1,66 @@
-RIKER CRUSHER WORF PICARD PRYTT MAURIC LORIN DATA
+PICARD CRUSHER GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Camp]
 
-(Worf opens the doors of the chosen quarters for
-the Kes, and the Ambassador peers in cautiously)
-MAURIC: You first.
-
-[Kes quarters]
-
-(the ambassador's aide uses a tricorder device) 
-WORF: Is there a problem, Ambassador? 
-MAURIC: Probably not. Simply securing the area. 
-WORF: I can assure you there is no need. 
-MAURIC: I'm sure you're right. (checks the scan results) Yes, this will
-do very nicely. 
-WORF: As Security Chief of the Enterprise, I would be glad to assist
-you in any way possible. 
-MAURIC: There's no need. We'll take care of everything. Thank you,
-Lieutenant.
-
-[Cave]
-
-(a secret door opens, and Beverly and Picard come
-though) 
-PICARD: There must be a lava flow or a underground hot spring somewhere
-near here. 
-CRUSHER: It's a lava flow. It's about thirty metres below us. It says
-we should go this way. I smell gas. 
-(a plume of flame comes up from the floor, then another and another) 
-CRUSHER: This whole chamber is filled with pockets of a methanogenic
-compound. 
-PICARD: Can we get through it? 
-CRUSHER: I think so. 
-PICARD: What did you say? 
-CRUSHER: I didn't say anything. There might be a fairly regular pattern
-to these eruptions. We should be able to navigate out way through them
-if we're careful. 
-PICARD: Say when. 
-CRUSHER: Now. 
-(they run) 
-(further on) 
-PICARD: The eruptions have stopped. 
-CRUSHER: The gas is building up! 
-(a big fireball explodes behind them)
-
-[Bridge]
-
-(at the science station) 
-DATA: I have scanned the entire Prytt communications system. This
-appears to be the primary access module for the central government. 
-RIKER: Can you determine which of the comm. links is connected to the
-Prime Minister's office? 
-DATA: I believe so, sir. However, the Prytt have no link designed for
-extraterritorial communication. Our hail may come as a quite surprise
-to them. 
-RIKER: Well, they're going to have to adjust. Open a channel. 
-PRYTT [OC]: This is Prime Minister Horath's headquarters. How can I be
-of service? 
-RIKER: This is Commander William T. Riker, Federation starship
-Enterprise. I know this may seem an unusual way 
-PRYTT [OC]: The Enterprise? You mean the ship in orbit? 
-RIKER: That's right. 
-PRYTT [OC]: Why are you on this comm. link? 
-RIKER: We're having trouble contacting your government directly. We had
-to start somewhere. If you would let me talk to your 
-PRYTT [OC]: Did you get authorisation for this communication from the
-Security Ministry? 
-RIKER: As I said, we're having trouble contacting you 
-PRYTT [OC]: I cannot participate in an unauthorised communication. This
-transmission is terminated. 
-RIKER: Not very friendly, are they? 
-DATA: No, sir. 
-WORF: Sir, we are being hailed. It is the Prytt Security Council. 
-RIKER: Well, it looks like we got someone's attention. On screen. 
-LORIN [on monitor]: Enterprise, this is Security Minister Lorin. You
-will immediately cease all attempts at communication with our people. 
-RIKER: Minister, we've been attempting to contact someone in your
-government. It appears that you have detained two of our officers. We
-would like to discuss the situation. 
-LORIN [on monitor]: There is nothing to discuss. If you do not
-terminate these transmissions, we will be forced to take aggressive
-action against your ship. 
-(transmission ends, Mauric enters) 
-WORF: Their weapon systems pose no threat to the Enterprise. 
-RIKER: Just the same, let's keep the shields up for the time being. 
-WORF: Aye, sir. 
-MAURIC: Is there a problem, Commander? 
-RIKER: Our efforts with the Prytt just ran into a wall. 
-MAURIC: I'm sorry. But perhaps this will brighten your spirits. We have
-freed your Captain and doctor. 
-RIKER: What? 
-MAURIC: They were being held in prison just outside the Prytt capital.
-One of our operatives was able to arrange their escape. 
-WORF: Where are they now? 
-MAURIC: Well, they should be en route to the Kes border. Our operative
-provided them with a detailed map and instructions on where to go. 
-RIKER: How will you get them across the border? 
-MAURIC: At the moment, that information is confidential, but trust us,
-we do have a plan. 
-RIKER: Ambassador, I'm afraid I must insist that you provide us with
-more information. 
-MAURIC: I understand your concern, of course, but I would feel more
-comfortable discussing these operational details in a less public
-environment. 
-RIKER: Certainly. We can step into the Ready room. 
-MAURIC: I would prefer the quarters you provided me. They're safer. 
-RIKER: All right.
+(surrounded by night and trees, they've got a fire
+lit) 
+PICARD: No luck? 
+CRUSHER: I'm beginning to think there's not a single thing on this
+planet we can eat. 
+PICARD: Well, by this time tomorrow we could be back on the Enterprise
+and you can plant yourself in front of a replicator with a knife and
+fork. 
+CRUSHER: Remember that Vulcan dish I promised you for breakfast? I was
+just. You hate having breakfast with me. 
+PICARD: That's not true. 
+CRUSHER: Yes, it is. When I said breakfast, I heard you say, I hate
+that. 
+PICARD: That's not quite what I meant. 
+CRUSHER: Well, then what did you mean? 
+PICARD: It's just that I don't like 
+CRUSHER: What I've been choosing for breakfast recently. 
+PICARD: You see, I think that breakfast should be a simple meal and
+recently you've been ordering these elaborate things. 
+CRUSHER: Coffee and croissants, that's all you really want, isn't it?
+Coffee and croissants. Well why didn't you just say so? 
+PICARD: I didn't think it was important. You don't like those elaborate
+meals either. 
+CRUSHER: No, I usually prefer something simple myself but I thought you
+might enjoy more variety. Well, I guess it's Coffee and croissants for
+both of us from now on. 
+GUEST4: I love firelight. 
+PICARD: There's something about the flame, the smell of the smoke. It's
+always seemed to me to be intoxicating, somehow. 
+CRUSHER: I remember when Jack and I took Wesley on his first camping
+trip to Balfour Lake. Wesley kept throwing manta leaves in the fire,
+watching them pop. Jack kept telling him. What? Jean-Luc, I heard you.
+Don't push it away. When I said Jack and I, I felt this sudden wave of
+something. I didn't know you felt that way. 
+PICARD: Didn't you? 
+CRUSHER: I guess I always knew that there was an attraction between us
+right from the start, but I never knew how strongly you felt. Why
+didn't you ever tell me you were in love with me? 
+PICARD: You were married to my best friend. At first I thought it was
+harmless infatuation. Something hormonal rather than emotional. 
+CRUSHER: Then when the months went by and the three of us began
+spending more time together. 
+PICARD: I realised that it was something else, and it wasn't right. But
+although I would never act on it, I couldn't help the way I felt. 
+CRUSHER: And when Jack died you felt guilty. 
+PICARD: I felt guilty before he died Having feelings like that
+for my best friend's wife. And then later, after the accident, I
+promised myself that I would never tell you know how I felt. It would
+be like betraying my friend 
+CRUSHER: That's why you didn't want me on the Enterprise seven years
+ago. 
+PICARD: I didn't know how I would react. And then, little by little, I
+realised that I didn't have those feelings any more. Twenty years is,
+after all, a long time. 
+CRUSHER: And now we're friends. 
+PICARD: Yes, friends. 
+CRUSHER: Well, we still have a lot of ground to cover tomorrow. We
+should get some sleep. 
+PICARD: Right. 
+(Beverly lies down near the fire, then Picard lies next to her)
 

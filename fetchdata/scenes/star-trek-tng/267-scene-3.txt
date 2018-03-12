@@ -1,59 +1,39 @@
-RIKER LAFORGE SITO PICARD TAURIK LAVELLE DATA
-
-[Bridge]
-
-RIKER: Lock phasers on target. 
-SITO: Phasers locked. 
-DATA: The enemy is firing. 
-RIKER: Helm, hard to starboard. 
-LAVELLE: Hard to starboard. 
-RIKER: Fire phasers. 
-(a pause as she finds the right buttons) 
-SITO: Firing. 
-DATA: Target is destroyed. 
-RIKER: End simulation sequence. Secure from drill. Alpha shift, your
-response time was seven percent slower than the gamma shift. All
-departments, submit drill evaluation reports
+TAURIK LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-RIKER [OC]: By oh nine hundred hours. 
-LAFORGE: Ensign, you'll write that report. 
-TAURIK: Yes, sir.
-
-[Bridge]
-
-RIKER: What happened back there, Ensign? 
-SITO: I'm sorry, sir. When we changed course I had to re-lock phasers
-before I could fire. 
-RIKER: Next time, try letting the locking relay float until the actual
-order to fire is given. They may not teach that trick at the Academy,
-but it works. 
-SITO: Thank you, sir. 
-RIKER: Lavelle. 
-LAVELLE: Sir? 
-RIKER: Resume previous course and speed. 
-LAVELLE: Aye, aye, sir. 
-RIKER: One aye is sufficient acknowledgment, Ensign. 
-(Picard enters) 
-PICARD: Helm, change course for the Argaya system, maximum warp. 
-LAVELLE: Aye, sir. 
-RIKER: What happened to the rendezvous with the Clement? 
-PICARD: I've just received new orders from Starfleet. We'll discuss it
-in the Observation lounge. Mister Data, Mister Worf. 
-RIKER: Ensign Sito, take over at Ops. 
-SITO: Yes, sir. 
-(Riker, Data, Worf and Picard leave) 
-SITO: The Argaya system's close to the Cardassian border. I wonder why
-we're going there. How'd you like to be a spider under that table? 
-LAVELLE: What? 
-SITO: A spider under the table. 
-LAVELLE: Is that like a fly on the wall? 
-SITO: I guess so. You did really well during the drill. 
-LAVELLE: Well apparently Commander Riker didn't think so. I swear he's
-got it in for me. 
-SITO: You're imagining things. 
-LAVELLE: Yeah? Then how come you're sitting in that chair instead of
-me? 
-SITO: I guess he figured I need more practice than you do.
-
+TAURIK: Excuse me, sir. Do you have a minute? 
+LAFORGE: Sure, Taurik. What is it? 
+TAURIK: I'd like you to take a look at something. 
+LAFORGE: Have you been improvising again, Ensign? 
+TAURIK: In a manner of speaking. I'm running a computer simulation to
+test a new warp field configuration. 
+LAFORGE: You've got a problem here. Your plasma flow to the nacelles is
+out of sync. 
+TAURIK: Actually, sir, that was done deliberately. As you can see, this
+configuration has increased overall warp field integrity by seven
+percent. 
+LAFORGE: You're right. 
+TAURIK: Doctor Nils Diaz has been experimenting with this technique at
+the Tanaline Propulsion Laboratory. 
+LAFORGE: Yeah, I'm familiar with his work, but I never heard anything
+about this. 
+TAURIK: His findings have not been released yet. I was able to review a
+preliminary report when I was at the Academy. 
+LAFORGE: I look forward to reading about it 
+TAURIK: I predict that when these findings are made public, they will
+become a new model for warp field operation. 
+LAFORGE: Sounds interesting. 
+TAURIK: With your permission, sir, I'd like to begin tests to see if
+the technique can be adapted to our warp drive. 
+LAFORGE: There might be variables that you didn't account for. 
+TAURIK: I was quite thorough. 
+LAFORGE: I'm sure you were, but I'd still need to see your simulation
+before I authorise any tests. 
+TAURIK: As you wish. 
+LAFORGE: If you have any other ideas for increasing efficiency, don't
+hesitate to run them by me. 
+TAURIK: As a matter of fact, sir, I do. When would be a good time to
+discuss them? 
+LAFORGE: I'll get back to you on that. 

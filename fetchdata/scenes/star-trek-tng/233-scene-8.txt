@@ -1,46 +1,58 @@
-RIKER OBRIEN WORF PICARD PICARDJR COMPUTER RO
+GUEST0 OBRIEN LAFORGE GUEST8
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Shuttlebay two]
 
-RIKER: What's happening, Mister Worf? 
-WORF: The shuttle has been enveloped by an energy field. It's engines
-and life support have failed. 
-RIKER: Increase to full impulse. Bridge to Transporter room three.
-Prepare to beam the shuttle crew back once we're in range. 
-O'BRIEN [OC]: Ready, sir.
+LAFORGE: Chief, I got the sensor report on the
+shuttle break-up. It looks like the break-up began near the starboard
+bulkhead. 
+O'BRIEN: There're some bulkhead fragments over here. 
+LAFORGE: My visor's picking up some torsional stress damage, some
+micro-fractures. Hang on a second. What's this? 
+O'BRIEN: It looks like tritanium from the hull. 
+LAFORGE: Yeah, but look. 
+(Geordi crumbles it into dust) 
+LAFORGE: That's not tritanium anymore. Somehow the molecular structure
+of this alloy's been changed, broken down into its constituent
+elements. 
+O'BRIEN: No wonder the bulkhead shattered. 
+LAFORGE: Yeah. I want to get a sample of this down to Engineering and
+run a metallurgical analysis.
 
-[Shuttlecraft]
+[Ro's quarters]
 
-RO: I can't contact the Enterprise. There's too
-much interference. 
-PICARD: Transfer auxiliary power to the inertial dampers. 
-COMPUTER: Warning. Structural failure imminent.
-
-[Bridge]
-
-RIKER: Have you got them, O'Brien? 
-O'BRIEN [OC]: I'm trying, sir. 
-[Transporter room]
-
-O'BRIEN: I can't get a pattern lock. 
-RIKER [OC]: The shuttle is 
-[Bridge]
-
-RIKER: Coming apart, Chief. We've got to do it now.
-
-[Transporter room]
-
-O'BRIEN: I've got them. There's a forty percent
-drop in mass. 
-[Bridge]
-
-O'BRIEN [OC]: I may have lost one of them. 
-[Transporter room]
-
-(Four children dressed the same as the shuttle
-occupants appear. The tall skinny youth in Starfleet uniform, with a
-healthy crop of hair, speaks) 
-PICARD JR: Thank you, Mister O'Brien. Another moment and 
-(he stops, startled by his own high-pitched voice, and looks at his
-diminutive companions. Gulp.)
-
+GUINAN JR: Well, this is exciting. 
+RO JR: Would you rather be playing with dolls? 
+GUINAN JR: I'd rather be doing almost anything other than sitting here
+and watching you sulk. 
+RO JR: This isn't some kind of glorious second childhood, Guinan. Our
+bodies have been violated, changed.
+Doesn't that bother you? 
+GUINAN JR: Sure it bothers me, but at the moment I can't do anything
+about it. So I might as well enjoy it. 
+RO JR: Enjoy what? Where did you get the idea that being short and
+awkward is some kind of wonderful gift? 
+GUINAN JR: There must've been some part of childhood that you didn't
+loathe. 
+RO JR: Look, it was a long, depressing period of my life and I was
+grateful when it was finally over. I'd rather not relive it. 
+GUINAN JR: I bet you were a jumper. A jumper. You know, someone who
+jumped up and down on furniture all the time. 
+RO JR: What? 
+GUINAN JR: You were a jumper all right. The quiet ones, they always
+look so innocent. You think you can turn your back on them. Next thing
+you know, bam! They're bouncing on the bed. 
+RO JR: That is the most ridiculous thing I've ever heard. Most of the
+time I didn't even have a bed. 
+GUINAN JR: Ah but you did have one sometimes and I bet you jumped on
+it. 
+RO JR: I most certainly did not. 
+GUINAN JR: Yeah I can see it in your eyes. You can barely resist the
+urge to leap up and start jumping around like a Tarkassian razorbeast. 
+RO JR: Guinan. 
+GUINAN JR: Oh yeah, oh yeah 
+(Guinan bounces on the bed) 
+RO JR: This is ridiculous. 
+GUINAN JR: That's right. And don't you dare join me, Ro Laren. You
+don't like jumping on beds! 
+RO JR: Oh yeah? I can jump higher. 

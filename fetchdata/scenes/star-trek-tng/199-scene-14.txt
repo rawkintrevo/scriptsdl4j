@@ -1,68 +1,32 @@
-PICARD RIKER DATA JENNA
-
-[Observation lounge]
-
-RIKER: I think you should pursue it. First of all,
-she's a beautiful woman. She seems to be crazy about you. 
-DATA: Jenna has clearly demonstrated how she feels about me, but I am
-not capable of returning those feelings. 
-RIKER: Data, when you get involved with another person, there are
-always risks of disappointment, of getting hurt. 
-DATA: I cannot be hurt. But she can. 
-RIKER: Jenna knows that and she has obviously decided to take the
-chance. Data, when it really works between two people, it's not like
-anything you've ever experienced. The rewards are far beyond simple
-friendship. 
-DATA: How far, sir? 
-RIKER: That's what I'm hoping you're going to find out. 
-DATA: Thank you, Commander.
+PICARD RIKER MCKNIGHT DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Captain, I am seeking advice in how 
-PICARD: Yes, I've heard, Data, and I would be delighted to offer any
-advice I can on understanding women. When as I have some, I'll let you
-know.
+RIKER: I'll do my pre-flight once I'm on board. 
+PICARD: Not this time, Will. I want you on the Bridge. 
+RIKER: Sir? 
+PICARD: I'm going to pilot the shuttle. 
+RIKER: Captain, it's my duty as First Officer to safeguard the lives on
+this ship, including yours. The Enterprise can't afford to lose you,
+sir. Certainly not in this situation. 
+PICARD: I believe our best chance of escaping this situation is for me
+to pilot the shuttle. It's my ship, Will. I've got to do this. 
+RIKER: Sir.
 
-Second Officer's personal log, stardate 44935.6.
-After conferring with my colleagues regarding the nature of romantic
-love in general, and my own situation in particular, I have reached a
-decision.
+[Shuttle]
 
-[Jenna's quarters]
+(from this angle, the purple nebula is blue) 
+PICARD: Shuttle three to Enterprise. Telemetry link enabled. 
+DATA [OC]: Ship's computer is accepting navigational inputs from the
+shuttle. 
+PICARD: Forward sensors are online. Ensign McKnight, plot a course for
+the shortest distance out of the nebula. 
+MCKNIGHT [OC]: Plot laid in, sir. 
+[Bridge]
 
-(Data rings the doorbell. He is bearing flowers) 
-JENNA: They're lovely. Come in. What are they? 
-DATA: A variety of crystilia. Their fragrance is an evolutionary
-response to the acrid nature of the atmosphere on Telemarius Four. 
-JENNA: You silver-tongued devil. Why don't I find a place to put these.
-Which won't be that easy. Ah. 
-(she takes some old flowers out of a vase and puts the new ones in
-their place) 
-DATA: It seems your quarters have reverted to their earlier state of
-disorder. 
-JENNA: I know. I'm hopeless. There. (on the table) They're beautiful,
-Data. It's really sweet of you. 
-DATA: Commander Riker suggested this particular flower. He said it had
-worked for him in the past. 
-(Data holds out his arms for an embrace) 
-JENNA: You didn't talk to the entire ship about us. 
-DATA: No. In actuality, less than one percent of the Enterprise crew
-was involved. It was necessary to balance theory with
-experiential referents. Both are required for a programme of this
-nature. Computer, decrease illumination level by one third standard
-lux. 
-(he clears the sofa then puts out an arm. She is meant to snuggle into
-it) 
-JENNA: This is all part of a programme? 
-DATA: Yes. One which I have just created for romantic relationships. 
-JENNA: So I'm just a small variable in one of your new computational
-environments? 
-DATA: You are much more than that, Jenna. I have written a subroutine
-specifically for you. A
-programme within the programme.
-I have devoted a considerable share of my internal resources to its
-development. 
-JENNA: Data, that's the nicest thing anybody's ever said to me. 
-(he finally manages to pull her in for a kiss)
-
+MCKNIGHT: Outer perimeter at thirty two million
+kilometres. 
+PICARD [OC]: Point one impulse, Number One.
+RIKER: Acknowledged, Captain. We're right behind you. Riker to O'Brien,
+lock on to the Captain's communicator. 

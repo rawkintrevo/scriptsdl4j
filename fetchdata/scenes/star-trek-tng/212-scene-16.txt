@@ -1,46 +1,26 @@
-RIKER JEV LAFORGE WORF PICARD COMPUTER DAVIS
+PICARD DATA JEV
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Riker's quarters]
+[Ready room]
 
-RIKER [OC]: Bring down the door. 
-LAFORGE [OC]: I need to bring that door down. 
-[Engineering]
-
-RIKER: Out, out! Let's go! 
-DAVIS: Keller is still in there. 
-JEV: Didn't you hear him? Keller is still in there. 
-RIKER: Riker to transporter room three. Prepare to beam Ensign Keller
-out of the engine room. 
-JEV: Keller is still in there. 
-JEV: Keller is still in there. 
-DAVIS: You killed her. 
-RIKER: Ensign Keller, answer me. 
-JEV: You killed her. 
-LAFORGE: I've got to get that isolation door down! 
-JEV: Keller is still in there. 
-RIKER: Bring down the door! 
-JEV: You killed her. 
-DAVIS: You killed her. 
-JEV: You killed her. 
-LAFORGE: I need that door down! 
-DAVIS: Keller is still in there. 
-JEV: You killed her.
-
-[Riker's quarters]
-
-(and Riker collapses) 
-[Bridge]
-
-PICARD: Bridge to Commander Riker. Picard to
-Commander Riker, answer please. Computer, locate Commander Riker. 
-COMPUTER: Commander Riker is in his quarters. 
-WORF: On my way, sir.
-
-[Riker's quarters]
-
-(Worf finds Will slumped across his desk) 
-Medical log, stardate 45431.7. Commander Riker is
-the second officer who has fallen into an unexplained coma. I have
-examined the Ullians and ruled out the possibility that they carry a
-harmful organism.
-
+JEV: Inad and I have contacted our home planet. If
+you want to prosecute my father, the authorities there will support
+you. 
+PICARD: I'm not sure we have any legal basis for such a prosecution.
+Memory invasion is simply not a crime we've ever had to contend with. 
+JEV: According to what I've just learned, it's a practice that was
+abolished on our world centuries ago. 
+PICARD: What could motivate someone like your father to commit such an
+act? 
+JEV: I don't know. A perverse source of pleasure, perhaps? A way to
+exercise control over another? 
+PICARD: Your father claims quite strenuously that he is innocent. 
+JEV: My father has never been one to admit that he's wrong. But it is
+difficult to believe he'd be capable of this. I am told that the
+punishment for this crime is quite severe. We are monitoring my
+father's telepathic activities. You have my assurance he won't assault
+anyone else. I am sorry for this, Captain. 
+(Jev leaves) 
+PICARD: Picard to Commander Data. 
+DATA [OC]: Yes, Captain. 
+PICARD: How's your search coming? 

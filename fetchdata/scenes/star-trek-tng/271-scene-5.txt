@@ -1,37 +1,32 @@
-TROI WAITRESS WORF
-
-[Ten Forward]
-
-(Worf is wolfing down food) 
-TROI: Thanks for waiting. 
-WORF: Do not approach me unannounced, especially when I'm eating. 
-TROI: Worf we were supposed to have lunch together, remember? 
-WORF: I was hungry. 
-TROI: Well, I'm hungry too. Excuse me. 
-WAITRESS: Yes? 
-TROI: Can I have an order of Ongilin caviar. Make that a double order. 
-WAITRESS: Certainly. 
-WORF: Caviar? For lunch? 
-TROI: I'm in the mood for something salty. Besides, it's no stranger
-than what you're eating. (downs a glass of water) Have you noticed how
-dry the air is on the ship? I wonder if the environmental controls are
-set properly. 
-(Worf belches) 
-TROI: You're excused. 
-(Troi's caviar arrives) 
-TROI: Is something wrong? 
-WORF: It has been a difficult day. The torpedo guidance system failed.
-It was my fault. 
-TROI: You always say that. 
-WORF: It was my fault! I designed that guidance system. 
-TROI: Worf, calm down. I think you're under more stress than you'd like
-to admit. Maybe you should get some rest. 
-WORF: Perhaps you are right. If you will excuse me. 
-TROI: I didn't mean right now. (and has another glass of water)
+RIKER LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Worf's quarters]
 
 (Worf can't sleep. He rips his sheet, prowls the
 room semi-crouched then guts the bed for material to make a nest on the
 floor. Now he can sleep)
+
+[Engineering]
+
+BARCLAY: We removed the torpedo bay's primary
+guidance module and found a power fluctuation in the forward sensor
+cluster. Now we think it may be a radial imbalance in the phase
+discriminator. Now what we want to do next is run a level four
+diagnostic, but we're going to have to shut down auxiliary power to
+nineteen decks and 
+RIKER: Wait a minute. Slow down. I lost you back there. Which sensor
+clusters? 
+BARCLAY: The forward. It's, it's a power fluctuation in the converter
+nodes. It's a minor adjustment. It's minor. 
+LAFORGE: It's all right in here in on diagram, Commander. 
+RIKER: I'll look this over later. Go ahead. You run your diagnostic.
+I'll inform the other departments about the power systems. 
+(an alarm beeps) BARCLAY: I'll check that. 
+RIKER: He's full of energy today. 
+LAFORGE: I can't get him to slow down. He's been working like that
+since last night, 
+BARCLAY: Looks like a plasma conduit cut out in junction seventeen.
+I'll go look at it. 
+LAFORGE: Wait a minute, Reg, I'll go with you. Keep you posted.
 

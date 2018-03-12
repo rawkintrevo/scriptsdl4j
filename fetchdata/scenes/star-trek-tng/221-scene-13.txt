@@ -1,63 +1,77 @@
-LAFORGE WORF PICARD LENOR BRIAM COMPUTER QOL
+PICARD RIKER CRUSHER KAMALA MEDIC
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ferengi quarters]
+[Sickbay]
 
-QOL: Quite acceptable. Not what we're used to, you
-understand, but it will do. 
-LENOR: Perhaps your captain would care to invite us to join him for
-dinner this evening? 
-WORF: The captain dines alone. 
-(Worf leaves) 
-QOL: A pity. That was too easy.
+CRUSHER: We've been able to stabilise his
+condition. If we're lucky he'll regain consciousness in a few days. Set
+up level one cranio-sacral display. 
+MEDIC [OC]: Yes, Doctor. 
+PICARD: I'll advise the Valtese delegation that the conference will
+have to be postponed. 
+KAMALA: That won't be possible. My ability to imprint on a mate will
+only last a matter of hours after the completion of the Finiis'ral. If
+I hadn't been removed from stasis prematurely, a delay might have
+been possible. But now, I will have to bond with Alrik within two days.
 
-[Corridor]
-
-LAFORGE: We've been working from your drawings,
-Ambassador. I hope we're in the ballpark. 
-BRIAM: Ball park? 
-PICARD: That's an old human expression. Mister LaForge hopes that we've
-got close to achieving what you wanted. 
-LAFORGE: Computer, run holodeck programme Krios One. 
-COMPUTER: Enter when ready. 
-[Holodeck - Temple]
-
-(stonework, a raised altar platform, a central
-chandelier) 
-BRIAM: Astonishing. It is the ancient Temple of Akadar. It is this
-temple that bonds Krios and Valt, gentlemen. Two brothers ruled a vast
-empire from this site until they were torn apart by their love for an
-extraordinary woman. This is where the wars began. And this is where
-they shall end.
-
-[Cargo bay]
-
-(Qol sneaks in to view the giant golden glowing egg
-supported by three golden beams of light.)
+PICARD: But there are points in the negotiations that Briam still has
+to address. 
+KAMALA: You are familiar with the issues. 
+PICARD: Familiar, yes, but I can't represent your peoples' interests. 
+KAMALA: You can represent the interests of peace. My people will agree,
+I'm certain of it. 
+PICARD: But there are customs and rituals of which I have no experience
+at all. 
+KAMALA: I told you, I'm extremely knowledgeable about Valt. I will help
+you prepare.
 
 [Holodeck - Temple]
 
-BRIAM: There are some details to be added, of
-course. 
-PICARD: Commander La Forge will be entirely at your disposal,
-Ambassador. 
-[Corridor]
+(Kamala is showing Picard how to play the
+xylophone)
+KAMALA: Torze qua. 
+(he plays the chords and notes) 
+KAMALA: That's right. 
+PICARD: I'm reminded of piano lessons when I was a child. Preparing for
+some dreaded recital. 
+KAMALA: You still play? 
+PICARD: No. I regret that I gave it up. It used to please my mother.
+But I didn't like performing in front of an audience. 
+KAMALA: Shy? 
+PICARD: No. Just not very good. 
+KAMALA: Thank you. For letting down your guard, if only for a moment. 
+PICARD: You will have to help me in the pronunciation of this scroll. 
+KAMALA: What is it about me you fear? 
+PICARD: Kamala. 
+KAMALA: Do you find me unattractive? 
+PICARD: I find you unavailable. 
+KAMALA: I'm being terribly selfish. I apologise. We have something in
+common, Captain. When I was a child, I took music lessons, too. 
+PICARD: Really? What instrument? 
+KAMALA: All of them. 
+PICARD: The entire orchestra? 
+KAMALA: Plus a few Valtese horns that sound like braying Targhee
+Moonbeasts. They are said to soothe the nerves of Valtese men. My
+mother never even heard me play. I was taken from her when I was four
+and sequestered in a royal village where I was prepared to fulfill my
+destiny. 
+PICARD: It sounds as if it were a very lonely time for you. 
+KAMALA: On the contrary, I had servants and tutors at my side
+constantly. You once asked me what I'm like when I'm alone. I've never
+been. There was always somebody there to educate me in literature,
+history, art, sex. But I have been alone on this journey, and I've
+found myself thinking about all the curious questions you asked. You
+wanted to know who I am. And as I continue to ask myself, the only
+answer that comes to me is, I am for you, Alrik of Valt. Because that's
+the truth. In a day, I will bond with a man I've never met. and I will
+turn myself into what he wants me to be, for the rest of my life. 
+PICARD: I also once asked you if you were doing this of your own
+accord. 
+KAMALA: I'm honoured to be chosen to serve my people as an emissary of
+peace. But I find it ironic on the eve of this ceremony, which I have
+spent my entire life preparing for, that I should meet a man like you. 
+RIKER [OC]: Riker to Picard. 
+PICARD: Go ahead, Number One. 
+RIKER [OC]: The Valtese ship has arrived. Chancellor Alrik is ready to
+beam aboard.
 
-LAFORGE: Just let me know what you need. 
-BRIAM: Yes, of course. I must consult several of the historical volumes
-I brought with me, so perhaps we can reconvene later. 
-LENOR: Excuse me! Excuse me! Is it true? Is a Kriosian ambassador
-aboard this vessel? 
-BRIAM: Yes. Can I help you? 
-PICARD: The Ambassador's very busy. 
-LENOR: Ah, do you schedule his appointments? 
-PICARD: I'm the Captain of the ship. What is it you want? 
-LENOR: Allow me to present myself. Par Lenor of the Ferengi Trade
-Mission. We are pleased to hear, Ambassador, that you have at last
-negotiated peace with the Valtese, Ambassador. Peace is good for trade,
-unless you happen to be an arms merchant. 
-PICARD: Excuse us. 
-LENOR: Arms merchant! 
-[Cargo bay]
-
-(Qol is rolling barrels near the egg, then he
-climbs on the rickety pile to get a closer look) 

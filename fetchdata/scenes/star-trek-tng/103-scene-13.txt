@@ -1,41 +1,44 @@
-TASHA PICARD RIKER CRUSHER DATA
+TROI LAFORGE PICARD RIKER CRUSHER GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Engineering ]
 
-CRUSHER: I don't know yet. 
+PICARD [OC]: What have you learned, Number One? 
+RIKER: Captain, the ship's engines are cut off from the bridge. The
+Assistant Chief Engineer pulled out the isolinear optical chips from
+command. All engines are offline. Wesley has hooked some kind of
+tractor beam to ship's power and he has it aimed at the door. We can't
+get past to get at the computer. 
 [Bridge]
 
-RIKER: Data, I need help in locating some library
-computer information. 
-DATA: Specifics, sir? 
-RIKER: All I have is a vague memory of reading somewhere about someone
-taking a shower in his or her clothing. 
-DATA: Ah. The body Geordi discovered. 
-RIKER: I believe it may have happened before. 
-DATA: To someone, somewhere. 
-RIKER: This ought to be easy for someone written up in bio-mechanical
-texts. 
-DATA: About that, sir. Did the Doctor believe I was boasting? 
-RIKER: Probably. This may take some time. 
-DATA: At least several hours. But what I said was a statement of fact.
-Perhaps she will look it up. 
-RIKER: You can depend on it.
+PICARD: Can you short out the power? 
+[Engineering]
+
+GUEST0: Yes, I can. But it's going to take some
+time.
+
+[Bridge]
+
+PICARD: Do it!
+
+[Engineering ]
+
+TROI: Bill.
+RIKER: Deanna, what? 
+TROI: So many minds on this ship, all free. Released, 
+RIKER: Deanna. 
+(She strokes his chest) 
+TROI: I can feel them all. What they want, what they feel. It's a side
+of humans I've never felt before. 
+RIKER: Come on, I'm getting you to Sickbay. 
+(He picks her up and carries her) 
+TROI: Wouldn't you rather be alone with me? With me in your mind?
 
 [Sickbay]
 
-(While Beverly puts the results of her latest scan
-into her computer, Geordi takes off his comm. badge and walks out into
-the corridor. When she gets there, he is nowhere in sight) 
-CRUSHER: Geordi!
-
-[Crusher's office]
-
-CRUSHER: Security. Lieutenant La Forge just left
-Sickbay while I was in my office. 
-[Bridge]
-
-CRUSHER [OC]: He doesn't have his communicator. It
-is very important that we find him. 
-TASHA: Security team alert, pick up Lieutenant La Forge. He just left
-Sickbay moments ago. Captain, anything further? 
-PICARD: Affirmative. Make it a ship-wide search, Lieutenant. 
+CRUSHER: (injecting Geordi) The medical records we
+found say this works almost instantly. 
+LAFORGE: It's not fair, Doc. I've never seen a rainbow, sunset,
+sunrise. This is going to help me? Help me see like you? 
+(Riker enters carrying Deanna) 
+RIKER: Doctor Crusher? 

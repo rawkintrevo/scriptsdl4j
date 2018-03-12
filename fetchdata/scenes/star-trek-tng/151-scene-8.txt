@@ -1,85 +1,77 @@
-TROI LAFORGE WORF PICARD RIKER WESLEY DATA
-
-[Corridor]
-
-WORF: Captain, a search of the Ranian system has
-determined that the hostile force that attacked this planet is no
-longer present. 
-PICARD: I remember a Starfleet admiral once saying the same thing about
-some renegade Andorians in the Triangulum system. It turns out that
-they had dismantled their ship and hidden it. 
-WORF: Those Andorians did not have to contend with someone of my
-thoroughness. I will stake my reputation.
+TROI WORF PICARD GUEST0 CRUSHER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Troi's quarters]
 
-TROI: Don't listen. Think of something else. Stop!
-Please, stop! 
-(The doorbell chimes and she pulls herself together) 
-TROI: Yes? 
-(Picard enters) 
-PICARD: I was concerned. I came to see if I could be of any help. 
-TROI: I'm fine. There's nothing wrong. I'm just tired, that's all. 
-PICARD: Now, I may not have your gifts at reading emotions, Counsellor,
-but I can tell when someone is in pain and hiding it. 
-TROI: It's so silly. I hear music. In my mind. Music that won't stop. 
-PICARD: Perhaps it's a symptom of fatigue. We've all been inflicted one
-time or another with that melody that won't go away. 
-TROI: No, it's deeper than that. The song doesn't stops for an instant.
-It plays in perfect clarity from beginning to end over and over again.
-I don't even know what song it is. I never heard it before. 
-PICARD: When did this start? 
-TROI: A few hours ago, while the away team was on the surface. I was
-trying to, I was thinking of Rishon and Kevin. 
-PICARD: Rishon and Kevin? And? 
-TROI: I can't explain it, Captain. They're elusive. They're, I'm sorry 
-PICARD: Well, try and rest. Take the necessary sleep inducements if you
-have to. 
-(Red alert sounds)
+TROI: Stop! Stop! Please, I'll do anything! Make it
+stop! 
+(Crusher enters the darkened room) 
+CRUSHER: Please. I'm here to help. 
+TROI: It's so loud! It's getting louder! Please, I can't stand it. Make
+it stop! 
+CRUSHER: Move her to the bed. 
+(two assistants get Troi out of the chair) 
+CRUSHER: This will help you relax. 
+TROI: I hear it. It's still there! It's so loud! 
+CRUSHER: Take her to Sickbay. 
+TROI: No, I want to stay in my quarters. 
+CRUSHER: I can get you to sleep. 
+TROI: I don't want to sleep. The music will only follow me. 
+CRUSHER: I can induce delta sleep. Lock out even your deepest dreams. 
+TROI: It's not a dream. It's real.
 
-[Bridge]
+[Living room]
 
-RIKER: Data, give us a visual. Magnification factor
-fifty. 
-(a dagger shaped warship comes into view) 
-WESLEY: Look at the size of that! 
-(Picard enters) 
-PICARD: Now where did that come from? 
-RIKER: Apparently it was riding a Lagrange point, hiding behind Rana
-Four's furthest moon. 
-DATA: Our vehicle classification index can put no identity to it. Its
-design is completely foreign. 
-RIKER: But that's our boy. Approximately five times our mass and
-carrying enough armament to pulverize a planet. 
-PICARD: Lieutenant? 
-WORF: I, er, cannot explain this, Captain. 
-RIKER: It's heading for the planet. 
-PICARD: Hailing frequencies. 
-WORF: Open. 
-PICARD: Mister Data, ask them to identify themselves and match our
-orbit. 
-DATA: They have received the message, Captain, but are ignoring it. 
-PICARD: Maximum shields, ready all weapon systems. 
-WORF: Aye, sir. 
-RIKER: It's assuming an attack posture. Don't be surprised if 
-(Boom) 
-WORF: The vessel is firing jacketed streams of positrons and
-antiprotons. Equivalent firepower, forty megawatts. Shields are
-holding. (Boom, boom) Again, forty megawatts. No damage. 
-RIKER: If that's the best they can do, this should last about five
-minutes. 
-PICARD: Mister Worf, let's raise our voice a little. Fire phasers. Just
-a warning shot. Mister Data, invite them to stand to. 
-(One feeble phaser shot and the ship high-tails it away) 
-DATA: The vessel has assumed a position outside of the Rana system, and
-it is rapidly increasing velocity. 
-PICARD: Helm, initiate pursuit. 
-WESLEY: Aye, sir. The vessel has reached warp two and continues on a
-steady acceleration curve. We're not getting any closer, Commander. 
-RIKER: Give us a superior curve, Mister Crusher. 
-WESLEY: Warp three. Warp four. The warship continues to match our curve
-simultaneously point for point. Warp four point five. Warp five. Warp
-five point five. 
-RIKER: Riker to La Forge. Give us everything you can to close the gap,
-Geordi. 
-LAFORGE [OC]: Yes, sir. 
+GUEST0: Kevin and I first saw each other on a ship
+at sea. He was a starving student with this threadbare suit and
+mismatched shoes. I was travelling with my parents who did not like the
+way that he kept hanging around. Two hours after I met him, I asked him
+to marry me. And he knew I was serious. I don't think that he has ever
+recovered from that day. 
+(A suction sound as Worf drains the tiny cup) 
+GUEST0: Well, what do you think, Mister Worf? 
+WORF: Good tea. Nice house. 
+PICARD: Why did you leave the Earth and come to a brand new planet when
+you did? 
+GUEST0: You mean at our age. Well, we thought it might make us fall in
+love all over again. It worked. 
+PICARD: Must have been terrible when the colony was fighting for its
+life. 
+GUEST0: Yes, it was. Fires lit the sky. There was thunder, this
+unbelievable thunder. The ground never stopped shaking. 
+PICARD: And yet you survived. 
+GUEST0: We don't know why we survived and the others didn't. I've tried
+to put some purpose to it, but I can't. 
+GUEST1: I was wondering, Captain, when you and your ship would be
+leaving. 
+PICARD: I don't have an answer for that. A few hours ago, we
+encountered a warship. Possibly the one which attacked you. We forced
+it to leave the system but we were unable to affect it otherwise. It
+could return. 
+GUEST0: Kevin, you said it had gone away. 
+GUEST1: I guess I was wrong. Don't worry. It didn't hurt us before, it
+won't hurt us now. 
+PICARD: Do you know that for a fact, Kevin? 
+GUEST1: No, but I don't enjoy seeing my wife frightened. We've told you
+time and time again, we don't know why we were spared. 
+PICARD: But there had to be some reason. In some way, you were
+different from the other colonists. Your
+geographical location, your philosophical beliefs, the colour of your
+eyes. In some way you were set apart from them. 
+GUEST1: There was a difference. I'm a man of special conscience. While
+the others were doing what they could, I chose not to fight. 
+PICARD: Well that is your protected right. 
+GUEST1: But I can assure you the attacking ship had no way of realising
+this. I expected to die like all the others. There's no reason for you
+and your ship to remain, Captain. We can manage without you. 
+(Kevin leaves the room) 
+GUEST0: Kevin grieved for the others, Captain, but he did nothing. He
+is a very gentle man. You must understand that. 
+PICARD: What about you, Rishon? Is that how you feel? 
+GUEST0: I wanted to fight but I stayed with my husband. Well, Captain,
+thank you again for the replicator. I'd better clean up now. 
+PICARD: Before we leave, I ask you one more time to come to the ship.
+For your own safety. 
+GUEST0: Captain, I am frightened but I can't leave Rana, even if it
+means my life.
+

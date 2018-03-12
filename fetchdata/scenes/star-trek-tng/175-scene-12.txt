@@ -1,47 +1,36 @@
-RIKER OBRIEN CREWMAN PICARD GLEASON DATA
+PICARD RIKER WESLEY WORF SHELBY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Battle bridge]
+[Sickbay]
 
-RIKER: We wish to end the hostilities.
-PICARD [on viewscreen]: Then you must unconditionally surrender.
-RIKER: We are prepared to meet to discuss your terms.
-PICARD [on viewscreen]: It is unlikely you are prepared to discuss
-terms. It is more likely that this is an attempt at deception.
-RIKER: Come now, Locutus. If Picard's knowledge and experience is part
-of you, then you know I've never lied to him. You should also
-implicitly trust me, is that not so?
-PICARD [on viewscreen]: Picard implicitly trusted you.
-RIKER: Then trust me now. Meet to discuss terms.
-PICARD [on viewscreen]: Discussion is irrelevant. There are no terms.
-You will disarm all your weapons and escort us to Sector zero zero one
-where we will begin assimilating your culture and technology.
-(mute) 
-RIKER: Mister Gleason, can you pinpoint the source of the Borg
-transmission?
-GLEASON: I can put you within thirty meters of it, sir. 
-RIKER: O'Brien, report.
+PICARD: Worf. Klingon species. A warrior race. You
+too will be assimilated.
+WORF: The Klingon Empire will never yield.
+PICARD: Why do you resist? We only wish to raise quality of life for
+all species. 
+WORF: I like my species the way it is.
+PICARD: A narrow vision. You will become one with the Borg. You will
+all become one with the Borg. The android, Data. Primitive artificial
+organism. You will be obsolete in the new order. 
+(Crusher gives him a hypospray and knocks him out) 
+RIKER: Take him to your lab, Data. 
+SHELBY [OC]: Shelby to Riker. 
+RIKER: Go ahead.
 
-[Transporter room]
+[Bridge]
 
-O'BRIEN: The Borg have adapted their
-electromagnetic field to prevent main transporter functions, sir. 
-RIKER [OC]: As expected. Mister Data, Mister Worf, proceed as we
-discussed. 
-DATA: Aye, Captain. 
-(They switch on devices on their arms)
-
-[Battle bridge]
-
-CREWMAN: Channel open, sir.
-RIKER: We would like time to prepare our people for assimilation.
-PICARD [on viewscreen]: Preparation is irrelevant. Your people will be
-assimilated as easily as Picard has been. Your attempt at a delay will
-not be successful, Number One. We will proceed to Earth, and if you
-attempt to intervene, we will destroy you.
-RIKER: Then take your best shot, Locutus, because we're about to
-intervene.
-CREWMAN: Channel closed. 
-RIKER: Reset subspace communications. Scrambler code, Riker One 
-GLEASON: Scrambler code, Riker One. Acknowledged.
-RIKER: Shelby, report.
+SHELBY: Captain, the Borg have entered Sector zero
+zero one. 
+(A little later, Riker and Worf enter) 
+SHELBY: The Borg have dropped out of warp, sir. Jupiter outpost nine
+two reported visual contact at twelve hundred hours, thirteen minutes. 
+RIKER: Planetary defences?
+SHELBY: Responding. No reports on effectiveness but I can't believe
+that against the Borg 
+RIKER: Ensign Crusher, at their current speed, when will they reach
+Earth? 
+WESLEY: Twenty seven minutes. 
+RIKER: The soonest we could intercept?
+WESLEY: Forty two minutes, sir.
+RIKER: Riker to Data.
 

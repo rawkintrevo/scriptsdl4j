@@ -1,43 +1,54 @@
-RIKER LAFORGE ARDRIAN PICARD GOSHEVEN DATA
+RIKER GUEST3 WORF PICARD GUEST0 GUEST2 GUEST1 DATA GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: I'm contacting Starfleet to arrange
-transport. Get those people prepared to evacuation. We may have to move
-quickly. 
+PICARD: Hailing frequencies. 
+WORF: Open. 
+PICARD: This is Captain Jean-Luc Picard of the Starship Enterprise. 
+GUEST2 [on viewscreen]: Your purpose, Enterprise? 
+PICARD: We desire face-to-face negotiation to settle the crisis on Tau
+Cygna Five. 
+GUEST2 [on viewscreen]: Meaningless. 
+PICARD: We are entitled to consultation under paragraph six hundred and
+fifty three subparagraph nine. 
+GUEST2 [on viewscreen]: Granted. 
+(Transmission ends) 
+RIKER: Was that an invitation? 
+PICARD: I am taking it as such. Counsellor. You have the Bridge, Number
+One. 
+RIKER: Helm, maintain relative position. Mister Worf, tell transporter
+room two to stand by. 
+WORF: Aye, sir.
+
 [Ard'rian's home]
 
-DATA: Aye, sir. We must speak to Gosheven
-immediately.
+GUEST4: And once the Federation resettles us, we'll
+be left alone? 
+DATA: If you so desire. 
+GUEST0: We do. We like to do things on our own. 
+DATA: The Federation will offer as little or as much help as you
+dictate. 
+ARD'RIAN: Kentor, are you with us? 
+GUEST4: Yes. The question is, how do we convince Gosheven? 
+GUEST0: Why do we need to? 
+GUEST4: Because he's respected. Most people will do what he says. 
+ARD'RIAN: They respect you, too. If you take a stand, they'll fall in
+line. 
+GUEST4: I don't know. Gosheven's got a lot of supporters. 
+GUEST1: Don't forget that, Kentor. I'm disappointed. I thought we'd
+settled this. 
+DATA: Apparently, that is not correct. 
+GUEST1: Still stirring up trouble? 
+ARD'RIAN: Since when is talk trouble? 
+GUEST1: It's over. Don't you get it? You had your say. You lost. 
+DATA: I appear to be reversing that defeat. 
+GUEST1: No, you're not. You're just stubborn. Well, let me tell you
+something. 
+(Gosheven uses an electric prod on Data. He falls over) 
+GUEST1: So am I. 
+ARD'RIAN: Damn you, Gosheven. 
+GUEST0: You killed him? 
+GUEST1: I've killed no one. I merely shut down a machine. That's it,
+everyone. It's time to go home. You'll see that I'm right.
 
-[Transporter room]
-
-(A test object is beamed out successfully, but
-returns as a molten blob. Riker enters) 
-RIKER: Gentlemen, how's it coming? What the hell is that? 
-LAFORGE: Our first attempt. 
-RIKER: Keep at it. We need those transporters. 
-[Main square]
-
-(It is evening) 
-GOSHEVEN: You see this? Do you have any idea what it is, or what it
-means? 
-DATA: It is water. A substance composed of two atoms of hydrogen 
-GOSHEVEN: It's not water. It's blood and it's sweat. It's the result of
-a ninety years of combined effort. This isn't a town. It's a monument
-to every man, woman, and child who's lived and died on Tau Cygna Five. 
-ARD'RIAN: Gosheven, you're talking nonsense. 
-GOSHEVEN: Am I? My grandfather is buried on that mountain. He died in a
-rock slide surveying the route for this aqueduct. This colony exists
-because of his sacrifice, and the sacrifice of thousands of others. No,
-we're not leaving. 
-DATA: The Sheliak will not accept humans on their planet, And they will
-not hesitate to use force to remove you. 
-GOSHEVEN: We will not be bullied off our land. Not by you, and not by
-the Sheliak. 
-(Gosheven walks away) 
-ARD'RIAN: Stubborn and irrational. Now what do we do? 
-DATA: Are his sentiments typical of the colonists? 
-ARD'RIAN: I hope not. 
-DATA: If I can convince enough people of the necessity of leaving 
-ARD'RIAN: Don't you mean, if we can convince? 

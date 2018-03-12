@@ -1,45 +1,39 @@
-TROI CRUSHER DATA RIKER SYRUS
+PICARD RIKER CRUSHER WORF CREWMAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Asylum common area]
+
+WORF: Worf to Enterprise. The pattern enhancer has
+been activated. Three to beam up. 
+CREWMAN [OC]: Acknowledged.
 
 [Sickbay]
 
-CRUSHER: There's nothing wrong with you
-neurologically, and I can't find anything that could cause the
-hallucinations. But your heart rate is way up and your blood pressure's
-way above normal. And you're physically exhausted. 
-RIKER: This is not a case of simple fatigue. 
-CRUSHER: Will, you know that when you're under conditions of extreme
-stress the mind can manufacture all kinds of things. 
-RIKER: Drugs. They injected me with me drugs. See if the drug's in my
-system. 
-CRUSHER: Nothing. 
-RIKER: In that dream they gave me drugs. Didn't anybody at the theatre
-see anything strange happen during the performance? 
-CRUSHER: No, nobody. Get some rest, Will. The play is over. Don't give
-it another thought. 
-RIKER: Right. 
-[Corridor]
+CRUSHER: There's damage to the parietal lobe. It's
+as if someone's trying to access his long-term memory. He's in a severe
+state of neural shock. It's going to take him a while to recover. 
+PICARD: Number One, do you remember what happened? You were abducted
+during the mission to Tilonus Four. You were put into a psychiatric
+hospital. 
+RIKER: It's still bleeding. 
+CRUSHER: It's minor. Don't worry about it. 
+WORF: We have been checking on the hospital Administrator. 
+RIKER: Mister Suna. 
+PICARD: It appears that he's involved with one of the rival factions.
+We believe that he is responsible for what happened to you. 
+RIKER: It still hurts. It's bleeding again. Why? You just healed it. 
+CRUSHER: Will, try to calm down. 
+RIKER: This isn't real. 
+(Riker knocks Worf down and takes his phaser) 
+PICARD: What are you doing, Will? 
+RIKER: If I'm right, you're not really here. This isn't a real phaser.
+It's all a fantasy, and I'm going to end it, no matter what it takes. 
+PICARD: But what if it isn't a fantasy? Are you willing to take that
+chance? 
+RIKER: You're right, I won't. But I'm going to find out what's real and
+what's not. 
+(and he points the phaser at his own chest) 
+CRUSHER: Will, don't do it! 
+(Riker fires, and the Sickbay shatters. Picard, Worf and Crusher are
+replaced by)
 
-RIKER: How's Lieutenant Suna? 
-TROI: A little shaken but all right. 
-RIKER: I feel like such an idiot. 
-TROI: It's nothing to be embarrassed about. We're your friends. We all
-know the stress you've been under. I'm sure everyone understands
-perfectly. 
-DATA: Commander, I must compliment you on your performance this
-evening. 
-RIKER: Oh? 
-DATA: Your unexpected choice to improvise was an effective method of
-drawing the audience into the plight of your character. You gave a
-truly realistic interpretation of multi-infarct dementia. 
-RIKER: Thank you. 
-TROI: Well, maybe not everyone understands. 
-RIKER: I think I'd better get a little rest. Clear my mind a little. 
-TROI: I want you to try a few relaxation techniques as well. Remember
-the ones I showed you a few months ago?
-
-RIKER: They never seem to work for me. 
-SYRUS [OC]: Maybe you need another treatment. 
-TROI: What's wrong? 
-RIKER: Nothing. Nothing. 
-TROI: Will, I want you to get some sleep. I'll see you tomorrow. 
-RIKER: Okay. 

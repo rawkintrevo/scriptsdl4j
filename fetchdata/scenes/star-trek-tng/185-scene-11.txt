@@ -1,101 +1,33 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA VSAL
+RIKER OBRIEN LAFORGE WORF PICARD CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Transporter room]
 
-RIKER: Charming woman. 
-DATA [OC]: The tone of Commander Riker's voice makes me suspect that he
-is not serious about finding Ambassador T'Pel charming. My experience
-suggests that in fact he may mean the exact opposite of what he says.
-irony is a form of expression I have not yet been able to master.
-
-[Hairdresser's salon]
-
-(a Bolian hairdresser is dealing with Geordi, but
-it's not Mot) 
-V'SAL: You don't need a haircut. You were just in here last week. 
-LAFORGE: Hey, if you'd done it right the first time I wouldn't be back
-here so soon. 
-V'SAL: I know you want to look beautiful, but I'm just a barber, not a
-miracle worker. 
-LAFORGE: Just try to keep my ears on straight today, all right? 
-DATA [OC]: Friendly insults and jibes, another form of human speech
-that I am attempting to master, in this case with the help of Commander
-Geordi La Forge. 
-LAFORGE: Hi Data. 
-DATA [OC]: I consider Geordi to be my best friend. 
-LAFORGE: Here for a trim? 
-DATA: My hair does not require trimming, you lunkhead. 
-LAFORGE: What? 
-DATA: My hair does not require trimming 
-LAFORGE: Lunkhead? 
-DATA: I am experimenting with friendly jibes and insults. It was not
-meant as a serious disparagement. 
-LAFORGE: Well, just don't try it on the Captain. 
-DATA: No. Geordi, I am still confused by Chief O'Brien's reaction this
-morning. 
-LAFORGE: Yeah. He was just surprised, Data. He didn't mean to blow up
-like that. He knows that Keiko probably doesn't want to call off the
-marriage. She's just getting cold feet. 
-DATA: Cold feet? Jitters. A nervous reaction to an impending event of
-great importance. 
-LAFORGE: Right. Don't worry, everything's going to be fine. She'll
-change her mind again. 
-DATA: She will? 
-LAFORGE: Absolutely. 
-DATA: So you believe the wedding will still proceed? 
-LAFORGE: Trust me, they're going to get married. So you'd better find a
-gift.
-
-[Replicator centre]
-
-DATA [OC]: I find Lieutenant Worf to be what is
-called a kindred spirit. We were both orphans rescued by Starfleet
-officers. In many ways, we are both still outsiders in human society. 
-DATA: Are you here to find a wedding gift? 
-WORF: Yes. 
-DATA: I would appreciate your help in selecting an appropriate item. 
-WORF: Of course. I have attended human weddings before. 
-(he runs through few pictures and stops at glasses) 
-WORF: Hold. 
-DATA: This is a traditional gift? 
-WORF: Yes, my adoptive parents often give these things at family
-weddings. A human custom. 
-(he changes the picture to a glass swan) 
-WORF: Hold. 
-DATA: It is my understanding that the item selected should reflect the
-personality of whoever is giving it. This does not remind me of you.
-Have you ever been an actual participant in a human wedding? 
-WORF: No. 
-DATA: You would not consider it to be an honour? 
-WORF: An honour, perhaps. But human bonding rituals often involve a
-great deal of talking and dancing and crying. 
-DATA: Dancing.
-
-[Sickbay]
-
-DATA [OC]: I am rarely in need of Doctor Beverly
-Crusher's professional services as my bio-mechanical maintenance
-programme is self sufficient. But I often observe as she practices
-medicine on others and have learned a great deal about human
-interaction from her. 
-DATA: Doctor, may I ask a favour of you? 
-CRUSHER: Of course, Data. 
-DATA: Would you teach me how to dance?
-
-[Crusher's office]
-
-CRUSHER: What? 
-DATA: I would like to learn how to dance. 
-CRUSHER: Why me? 
-DATA: It was in your service record. Awarded first prize tap and jazz
-competition, Saint Louis Academy. 
-CRUSHER: Okay, okay. 
-DATA: Have I said something to upset you? 
-CRUSHER: It's just that, that was a long time ago, and I don't want to
-be known as the dancing doctor. Again. 
-DATA: Then your answer is no. 
-CRUSHER: All right. But let's keep this between you and me. 
-DATA: Of course, Doctor. 
-PICARD [OC]: Commander Data, please report to the Bridge. 
-DATA: Acknowledged.
+O'BRIEN: The signal lock wasn't broken, sir. I had
+just entered the transfer sequence when the Ambassador's pattern began
+to break up. I tried to switch to emergency manual control, but the
+pattern deteriorated too quickly and 
+DATA: Captain, there is no prior record of this type of accident
+occurring aboard a starship. Backup systems and safeguards are designed
+to prevent just such an occurrence. 
+LAFORGE: I can't find any system flaws in the unit, Captain. The
+Engineering status reports were all normal. None of the backups were
+activated and the autosequencers were all functioning normally. 
+PICARD: Any prior malfunctions on this transporter unit? 
+O'BRIEN: No, sir. In fact, we replaced the transition coils only last
+week. 
+RIKER: Could there have been some kind of interference from the
+Romulans? 
+O'BRIEN: Nothing that I could see. Their shields were down. There was
+no power interruption, no subspace bias. 
+PICARD: I want this unit pulled and its systems checked again. I want a
+level one diagnostic on all transporters. 
+LAFORGE: Yes, sir. 
+CRUSHER: Her molecular structure dissipated instantly once the pattern
+was lost. There were some organic compounds left on the pad, but there
+wasn't enough material to do an autopsy. 
+PICARD: To die on a transporter. Hardly a fitting end for one of the
+Federation's most honoured diplomats. 
+WORF [OC]: Bridge to Captain Picard. Admiral Mendak is hailing. He
+wishes to speak with you.
 

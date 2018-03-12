@@ -1,55 +1,43 @@
-TROI RO CRUSHER LAFORGE OBRIEN
+TROI RO OBRIEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cargo bay]
+[Observation lounge]
 
-CRUSHER: We can withstand this level of radiation
-for another three or four hours without any permanent damage. We'll
-need a few days of hyronalin treatments. 
-LAFORGE: What are the radiation levels in the quaratum? 
-CRUSHER: They're at eighty three rads and rising at a rate of about
-four rads per minute. 
-LAFORGE: That stuff gets unstable at around three hundred and fifty
-rads. I still
-haven't been able to get any power to this transporter. 
-CRUSHER: The radiation levels is about twenty percent lower at this end
-of the bay. Let's move the containers over to here. 
-LAFORGE: That's a good idea. It should buy us some time. You know we're
-going to have to do this by hand. With all the radiation floating
-around in here we can't trust the antigrav units.
-
-[Bridge]
-
-(at a rear science station) 
-O'BRIEN: There. Just before the second time we were hit. See the
-subspace distortion? 
-TROI: Yes. How big is a quantum filament? 
-O'BRIEN: It can be hundreds of metres long, but it has almost no mass,
-which makes it very difficult to detect. 
-TROI: So, it's like a cosmic string? 
-O'BRIEN: No. that's a completely different phenomenon. 
-(another station comes online) 
-O'BRIEN: How did you do that? 
-RO: I diverted power from the phaser array and I dumped it into the
-engineering control system. 
-O'BRIEN: You what? 
-RO: Engineering station's online, Counsellor. 
-O'BRIEN: But that's a completely improper procedure. You can't just
-dump that much raw energy into a bridge terminal without blowing 
-RO: We're not going to get out of this by playing it safe. 
-TROI: What is our engine status, Ensign? 
-RO: We've got half impulse power available, but I'm getting some odd
-readings from the warp drive. I'm reading a spike in the warp field
-array. It looks like a containment deviation. 
-O'BRIEN: Switch to primary bypass. 
-RO: Nothing. Field strength's at forty percent and falling. We've got a
-problem. The quantum resonance of the filament caused a polarity shift
-in the antimatter containment field. 
-O'BRIEN: When the filament hit us, the ship was momentarily charged, as
-if it had come into contact with a live electrical wire. 
-RO: That weakened the containment field surrounding the antimatter
-pods. The field strength is at forty percent and it is still falling. 
-O'BRIEN: If it falls to fifteen percent the field will collapse and
-we'll have a containment breach. 
-TROI: Which means? 
-RO: Which means the ship will explode.
+(Troi is getting the Worst Case Scenario briefing) 
+O'BRIEN: If the containment field strength continues to drop at its
+present rate, we still have at least two hours before it becomes
+critical. 
+RO: But you're ignoring the fact that the power coupling is also
+damaged. If that coupling overheats, the field strength could drop a
+lot faster. We could have a containment breach in a matter of minutes. 
+TROI: What do you suggest? 
+RO: We should separate the saucer now, and put as much distance as
+possible between us and the drive section. 
+O'BRIEN: Excuse me, sir, but that's damn cold blooded. What about the
+people down there? 
+RO: There's no evidence that anyone is still alive in the drive
+section. 
+O'BRIEN: No evidence they're dead, either. If you were trapped down
+there, would you like us to just cut you loose and leave? 
+RO: No, of course not. But I also wouldn't expect the bridge crew to
+risk the safety of the ship and hundreds of lives in a futile effort to
+rescue me. 
+TROI: You said there was no way to stabilise the containment field from
+the Bridge. Could it be done from Engineering? 
+O'BRIEN: Yes, but my readings indicate there's no power down there.
+They don't even have monitors to tell them there's a problem. 
+TROI: Could we divert energy from the Bridge to those monitors? 
+O'BRIEN: Yes, sir. 
+RO: I'll say it again. There is no reason to believe that anyone is
+alive in Engineering. We're wasting time even talking about this. We
+have to separate the ship now. 
+TROI: I believe there are still people alive down there and I'm going
+to give them every chance. Assuming they're alive, they'll be hoping
+there's someone up here who can help them. So we'll help them. Chief,
+divert the necessary power to Engineering. 
+O'BRIEN: Aye, sir. 
+RO: I remind you, Counsellor, that power coupling could overheat at any
+moment. By not separating the ship now, you may be responsible for all
+our deaths. 
+TROI: Thank you, Ensign. Proceed.
 

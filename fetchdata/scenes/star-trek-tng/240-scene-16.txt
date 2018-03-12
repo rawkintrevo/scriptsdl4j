@@ -1,84 +1,43 @@
-DESEVE TROI TORETH PICARD RIKER DATA NVEK PILOT
-
-[Warbird - Troi's quarters]
-
-TROI: We have to get a message to the Enterprise. 
-N'VEK: That's impossible. 
-TROI: It's the perfect opportunity. The Enterprise is nearby. If we can
-communicate with them, they might be able to help us. 
-N'VEK: Counsellor, this ship is travelling under cloak. All of our
-electromagnetic emissions are being monitored. Any attempt at
-communication whatsoever and we would be discovered instantly. It could
-not succeed. We must continue to Draken Four. That is the safest
-course. 
-TROI: Is there anything you can do to the ship or to the cloaking
-device that would let the Enterprise track us? 
-N'VEK: Track us? No. We want to get into Federation territory
-undetected. 
-TROI: What we want is to get the dissidents to safety. Now answer the
-question. Is there a way? 
-N'VEK: If there were, I wouldn't do it. 
-TROI: Yes, you will. 
-N'VEK: Counsellor. 
-TROI: We're not playing it your way any more, N'Vek. I've been
-kidnapped, surgically altered, put in danger I've gone along with all
-your plans. Now you are going to listen to me. You find a way to let
-the Enterprise track us, or I will go to Toreth and tell her I've
-discovered you're a traitor. I'll order you ejected into space. Is that
-clear, Subcommander? 
-N'VEK: There is one possibility. In order for a ship to remain
-undetectable while cloaked, the radiative emissions from the warp
-engines must be precisely balanced. The ship's Engineer is a
-sympathiser. He may be able to slightly misalign one of the nullifier
-cores. It would create a small magnetic disturbance in space whenever
-we were in motion. 
-TROI: Good. Do it. 
-N'VEK: The effect would only be intermittently. They might not even
-detect it. 
-TROI: If it's the best we can do, we have to try it. 
-N'VEK: Anything more would be immediately registered on the Bridge.
-Even this slight misalignment may be detected. 
-TROI: It's a risk we have to take. You're the one who outlined the
-stakes to me, N'Vek. Are you getting squeamish now, just because things
-are getting a little more dangerous?
-
-[Bridge]
-
-DATA: Sensors are picking up a polarised magnetic
-distortion to our port side. 
-PICARD: Analysis. 
-DATA: The distortion is extremely weak, sir. It appears to be moving
-slowly. It is gone, sir. 
-RIKER: Gone? 
-DATA: The distortion no longer registers on our instruments. 
-PICARD: Could this distortion be caused by a cloaked ship? 
-DATA: Unknown, sir. Our understanding of Romulan technology is still
-limited. 
-DESEVE: Captain, Romulan ships use a forced quantum singularity as a
-power source. If that system is not functioning
-perfectly or is damaged even slightly, it might show through the cloak
-as a magnetic disturbance of some kind. 
-DATA: The distortion has reappeared, sir, bearing three three seven
-mark ten. It has disappeared again, sir. 
-PICARD: Mister DeSeve, in your opinion is it possible that we're
-picking up a cloaked Romulan ship? 
-DESEVE: It's a strong possibility, sir. 
-PICARD: Mister Data, continue your scan. Ensign, link navigational
-control to Mister Data's console and plot a course for that distortion.
+GUEST0 TROI TORETH WORF PICARD MEDIC RIKER NVEK GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Warbird bridge]
 
-PILOT: Commander, the Enterprise is underway. 
-TORETH: Good. What is their course? 
-PILOT: They're heading for us, sir. 
-TORETH: What? 
-PILOT: They appear to be on an intercept course. 
-TORETH: What is the status of our cloaking device? Is there a
-malfunction of any kind? 
-PILOT: Cloaking device functioning correctly, sir. All shipboard
-emissions within normal range. 
-TORETH: Maintain full sensor scans. 
-N'VEK: Commander. The Enterprise may simply be engaged in search
-operations. 
-TORETH: Perhaps.
+N'VEK: Their shields are dropping. 
+TROI: Activate forward disruptor array. Fire when ready. 
+N'VEK: Yes, Major. Firing. 
+[Bridge]
 
+WORF: Captain, they have fired on us. 
+(three figures are beamed onto the bridge) 
+PICARD: Shields up. Stand by phasers. Damage report. 
+WORF: We sustained a direct hit, but the damage was negligible. The
+disruptor had almost no power. 
+GUEST0: This is Proconsul M'ret and his aides. They're part of the
+underground movement. 
+RIKER: They're in stasis. Medical team to the Bridge. 
+MEDIC [OC]: Aye, sir. 
+RIKER: Where's Deanna?
+
+[Warbird bridge]
+
+GUEST2: Disruptors were ineffective. The Enterprise
+was not damaged. They have re-established full shields. 
+N'VEK: I am reading a malfunction in our forward disruptor array. The
+power system has destabilised. 
+TORETH: You're lying. The disruptor beam has been purposely sabotaged
+to conceal a transporter beam within. Quickly, Pilot, locate transport
+coordinates. What have you done? 
+GUEST2: The transporter beam originated in our cargo bay. Something was
+transported from there to the Enterprise. 
+TORETH: So, Major, the mysterious cargo, brought on board by Major
+Rakal of the Tal Shiar, has been transported to the Starfleet vessel. I
+see two traitors in our midst. 
+(Toreth goes for her weapon but hasn't got one. N'Vek draws his and is
+destroyed by the Pilot.) 
+TORETH: So, Major, now that you can no longer take refuge behind the
+shield of the Tal Shiar, it's time to answer a few questions. What was
+in those cargo containers? Well, no matter. We will soon know all we
+need to know, and then we will execute you. Pilot, drop shields and
+cloak the ship. Prepare to go to warp. 
+GUEST2: Aye, sir. 

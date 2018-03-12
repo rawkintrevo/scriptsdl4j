@@ -1,52 +1,67 @@
-TROI LAFORGE PICARD LIN RIKER CRUSHER DATA RAGER
+TROI LAFORGE WORF PICARD RIKER SECURITY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Engineering]
 
-(doorbell) 
-PICARD: Come. 
-(doorbell) 
-PICARD: Come. 
-(doorbell, so he gets up. Doorbell again) 
-PICARD: Yes, yes. 
-(he gets to the door, it opens and there is no one there so he returns
-to his desk, and the doorbell chimes again, and again, and again. Then
-someone actually knocks at the door) 
-PICARD: Come. 
-(Beverly and Deanna enter) 
-PICARD: What? 
-CRUSHER: Captain, do you have a moment? 
-TROI: We're concerned. We're afraid whatever happened on the Brittain
-may be starting here. 
-PICARD: Explain. 
-TROI: Well, Beverly and I have been getting unusual reports. People
-behaving strangely, others hearing sounds that aren't there. 
-PICARD: Are we talking about hallucinations? 
-CRUSHER: In some cases. In others just erratic behaviour. 
-TROI: We can't track down any element that might be responsible. 
-PICARD: But everything started when we found the Brittain? 
-CRUSHER: Yes. Captain, we have to get the Enterprise away from here
-before it gets any worse. 
-PICARD: We're preparing to take the Brittain in tow. We'll be on our
-way within the hour.
+LAFORGE: Okay, all the power has been channelled to
+the, er, the 
+DATA: The main deflector dish. 
+LAFORGE: Yes. Right. The deflector dish. So, what do we do now? 
+DATA: Data to Bridge. Mister Worf, activate the deflector. 
+WORF [OC]: Aye, sir.
 
 [Bridge]
 
-PICARD: Ensign, manoeuvre us into tractor beam
-range. 
-RAGER: Aye, sir. 
-DATA: Is there a problem, Ensign? 
-RAGER: I can't seem to remember how to enter the coordinates, sir. 
-RIKER: Ensign Lin. 
-DATA: Ready now, Captain. 
-PICARD: Report to Sickbay, Ensign Rager. 
-PICARD: Ready tractor beam, Mister Worf. 
-DATA: Captain, thrusters are losing power. 
-PICARD: Impulse engines. Ahead, minimum power. 
-LIN: Impulse engines are not responding, sir. 
-RIKER: Geordi, what's going on down there? 
-LAFORGE [OC]: I don't know, sir. Nothing's responding. 
-PICARD: Go to warp engines, factor one. Engage. 
-LAFORGE [OC]: Captain 
+WORF: Deflector power banks approaching maximum.
+Discharge in fifteen seconds. 
 [Engineering]
 
-LAFORGE: We don't have warp drive either. 
+LAFORGE: Data, this detonation better work. We're
+not going to last much longer. 
+[Bridge]
+
+WORF: Discharge in three seconds, two, one. 
+(the blue beam streaks out, then dies away) 
+RIKER: Nothing. It just fizzled out. 
+DATA [OC]: Captain, it appears the energy output 
+[Engineering]
+
+DATA: Has been absorbed into the rift. 
+PICARD [OC]: Data, can we try again? 
+DATA: No, sir. If we draw 
+[Bridge]
+
+DATA [OC]: More power, we risk losing life support
+systems. 
+PICARD: Understood. Keep me appraised, Commander. 
+(a very agitated Worf rushes from the Bridge)
+
+[Worf's quarters]
+
+(Worf takes an ornate dagger from a box, anoints it
+with wine) 
+WORF: lujpu' jiH'e, Alexandrijn. 
+(he prepares to plunge the dagger into his throat when Troi runs in) 
+TROI: Worf, no! 
+WORF: You will not stop me. 
+TROI: Security to Lieutenant Worf's quarters, immediately. 
+WORF: No one can stop me. 
+TROI: Why? What is it? 
+WORF: I am no longer a warrior. I am no longer strong. I feel. 
+TROI: What? What do you feel? 
+WORF: I feel fear. 
+TROI: To admit that you're afraid gives you strength. 
+WORF: Something is waiting for us. I am not strong enough to fight it. 
+TROI: No, Worf. It's just an illusion. It's not real. Please, put down
+the knife. 
+(Security arrive) 
+SECURITY: Counsellor? 
+TROI: It's all right. Everything's fine, thank you. 
+(Security leave) 
+TROI: Let me take you to Sickbay.
+
+Acting Captain's log, stardate 44642.1. I have
+assumed command of the Enterprise at the request of Captain Picard. Our
+situation is deteriorating. Many of the crew are unable to function and
+our life support systems are beginning to falter.
+

@@ -1,44 +1,35 @@
-TROI OBRIEN PATTERSON JAYGORDON PICARD MANDEL MONROE
+CREWMAN RIKER DATA KEIKO WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ten Forward]
 
-MONROE: (female helm) What happened? 
-MANDEL: (man at ops) Sensors are picking up subspace distortions and
-high energy particles directly to starboard. 
-MONROE: Looks like we ran into a quantum filament. Damage report? 
-O'BRIEN: We've lost primary life support. Switching to secondary
-systems. Impulse and warp engines are offline. 
-MANDEL: There's another filament moving toward us, sir. 
-MONROE: All decks brace for impact! 
-(Thump! and it all goes dark - except for the opening titles) 
-O'BRIEN: Counsellor? 
-TROI: I'm all right. Medical team to the Bridge. Troi to Sickbay.
-Counsellor Troi to Captain Picard. Troi to Engineering. Counsellor Troi
-to any crew member, please acknowledge. 
-(Mandel tries to open the turbolift doors) 
-TROI: Medical team to the Bridge. 
-O'BRIEN: The computer's down. It looks like we still have impulse power
-but not much else. 
-TROI: Lieutenant Monroe! 
-(She's dead) 
-MANDEL: Chief O'Brien. The turbolifts aren't working. We're trapped up
-here.
-
-[Turbolift]
-
-(three crying children and an injured adult) 
-PICARD: Are you, are you children all right? 
-(His leg is broken) 
-PICARD: Bridge, this is Picard. This is the Captain. Can anyone hear
-me? 
-PATTERSON: Why don't they answer? 
-PICARD: I don't know. 
-JAY GORDON: They're all dead. 
-PICARD: They're not dead. Communication is down, that's all. 
-JAY GORDON: We're going to die, too. 
-PICARD: We most certainly are not. Now listen to me. No one here is
-going to die. The bridge will be sending a rescue party as soon as
-possible. So I want you all to stop crying. Everything is going to be
-all right. 
-(they cry even more)
-
+(the place is a wreck) 
+RIKER: How do you feel? 
+KEIKO: Okay. A little foggy. 
+RIKER: Just lie still for a while. We'll get you to Sickbay as soon as
+we can. 
+KEIKO: Okay. 
+RIKER: Report. 
+DATA: I have surveyed all the turbolifts and service crawlways on this
+deck. Access to the Bridge has been completely severed by emergency
+bulkheads. 
+WORF: Sickbay? 
+DATA: Heavy damage to section twenty three A has cut off access to
+Sickbay. I have ordered a security team to bring casualties here until
+further notice. 
+RIKER: I think we should assume the worst, that everyone on the Bridge
+is dead. There's
+no one is in control of the ship. 
+DATA: In that circumstance, re-establishing control should be our top
+priority. 
+RIKER: Agreed. Can we get to Engineering? 
+DATA: Yes, sir. The most direct route is blocked, but I believe we can
+use a starboard service crawlway. 
+RIKER: Okay, you and I will try to get there. Mister Worf, this room is
+going to fill with wounded in a few minutes and they're going to need
+help. I want you to stay in charge here. 
+WORF: Yes, sir. 
+RIKER: Let's go. 
+(a man carries a woman in) 
+WORF: Over here. 
+CREWMAN: Yes, sir. 

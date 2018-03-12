@@ -1,72 +1,49 @@
-OBRIEN LAFORGE VAGH KELL PICARD DATA
+KELL CRUSHER OBRIEN LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Kell's quarters]
 
-LAFORGE: Red Torian, please. (the drink is served)
-Thank you. 
-(O'Brien is sitting alone with his back to the bar. Geordi goes quietly
-over then deliberately spills his drink over Miles' shoulder) 
-LAFORGE: Oh! I'm sorry. 
-(that gets the attention of Riker, Crusher and Kell) 
-O'BRIEN: It's all right. 
-LAFORGE: My glass, it just slipped. 
-O'BRIEN: It's nothing, just a little cold. 
-LAFORGE: Yeah, but you're all soaked here. 
-O'BRIEN: It's nothing serious. 
-LAFORGE: Let me get you something to wipe that off with. 
-O'BRIEN: I'll just go to my quarters and change. 
-LAFORGE: You sure? 
-O'BRIEN: Don't think twice about it, Commander.
+(Kell is having dinner when the doorbell rings) 
+KELL: Come in, Mister La Forge. 
+(Geordi enters) 
+KELL: The investigation is moving faster than we expected. You are in
+danger of being exposed. I will transport to the surface. When I
+return, I'll have Governor Vagh with me. Your Captain and I will bring
+him to the cargo bay. I want you to kill him there, in front of many
+witnesses. Use a hand phaser. When he is dead, you will claim that you
+acted on behalf of Starfleet, in support of Kriosian independence. 
+LAFORGE: I understand.
 
-[Engineering]
+[La Forge's quarters]
 
-(Data and Geordi are doing test firings of the
-phaser rifle) 
-DATA: Energy flow is within normal parameters, from the pre-fire
-chamber to the emission aperture. 
-LAFORGE: Rapid nadion pulse, right on target. Beam control assembly,
-safety interlock, both checked out. Beam width intensity controls also
-responding correctly. 
-DATA: Energy cell usage remains constant at one point oh five
-megajoules per second. Curious. The efficiency reading on the discharge
-crystal is well above Starfleet specifications. 
-LAFORGE: Yeah, by quite a bit. Ninety four point one percent
-efficiency. 
-DATA: Our most efficient discharge crystal typically fires with eighty
-six point five percent efficiency. 
-LAFORGE: Let's take a closer look at the wave pattern on the emission
-beam. That might tell us why it's losing so little energy. 
-DATA: Pulse frequency out of pre-fire chamber reads steady. 
-LAFORGE: There. That's not right. The initial output spike is inverted.
+(Geordi wakes from a nightmare) 
+LAFORGE: La Forge to O'Brien. O'Brien? 
+O'BRIEN [OC]: Go ahead, Commander, what can I do for you? 
+LAFORGE: Nothing. Chief, I'm sorry to disturb you. I'm sorry.
 
-DATA: That might suggest that the weapon has been charged with a forced
-pulse, well into the terahertz range. 
-LAFORGE: Then it's definitely not Starfleet issue and there can't be
-that many systems that use the terahertz feeds. 
-DATA: Three hundred twenty seven, to our knowledge. We can probably
-achieve an exact match with a random computer search. It will take
-approximately three hours. 
-LAFORGE: I think we could narrow this down with a little common sense,
-Data. Who has the most to gain from a conflict between the Klingon
-Empire and the Federation?
+[Sickbay]
 
-[Governor's office]
-
-LAFORGE: The Romulans. They fashioned a perfect
-Federation rifle but they had to charge it from their energy sources.
-So the discharge crystal and the emission beam pattern correspond to
-those you'd find in a Romulan disrupter. 
-VAGH: The Romulans have no interest in Kriosian independence. The
-planet is too far from their borders. 
-PICARD: But they do have an interest in driving the Federation and the
-Empire apart. Our alliance is the only thing that has kept them in
-check. 
-VAGH: Romulan replications using stolen Federation technology? 
-KELL: It's a typical Romulan ploy. An attempt to sow dissension and
-mistrust. Commander, you've done well. I would thank you on behalf of
-the Empire. 
-VAGH: I still have my doubts, Picard. I will want my own technicians to
-confirm your findings. 
-PICARD: Of course. My staff will give you their full cooperation. 
-VAGH: You may go.
+LAFORGE: Hiya, Doc. 
+CRUSHER: Geordi, hi. What can I do for you? 
+LAFORGE: Well, I just can't seem to get any sleep. I was hoping you
+could give me something. 
+CRUSHER: Sit down. Let's take a look. You couldn't sleep at all? 
+LAFORGE: I was restless. I kept waking up. 
+CRUSHER: Would you take off your visor, please? 
+LAFORGE: Sure. 
+CRUSHER: Is there something on your mind? 
+LAFORGE: No, I don't think so. 
+CRUSHER: Well, everybody goes through these occasional bouts of
+insomnia. There's probably nothing to worry about. Let's just make sure
+there's nothing physically wrong. There's a minor vascular irregularity
+in the visual cortex. A slight dilation of the blood vessels. It's
+nothing serious. What about your visor? Has it been giving you any
+problems lately? 
+LAFORGE: Nothing out of the ordinary. 
+CRUSHER: All the same, it might be a good idea to have it examined when
+we get to Starbase thirty six next month. 
+LAFORGE: Okay. 
+CRUSHER: In the meantime, I will get you a somnetic inducer to put by
+your bed. It'll help you to sleep. 
+LAFORGE: Thanks, Doc. I'm sure I'll be fine.
 

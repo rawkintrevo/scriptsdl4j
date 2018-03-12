@@ -1,81 +1,37 @@
-PICARD RIKER GOWRON WORF DATA
+GOWRON PICARD GUEST3 LURSA GUEST2 BETOR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Great Hall]
 
-RIKER: The Bortas is standing by, Captain. 
-PICARD: On screen. Gowron. This is an unexpected pleasure. 
-GOWRON [on viewscreen]: I must speak with you, Picard. We will have to
-move quickly if we are to be successful. 
-PICARD: Successful? 
-GOWRON [on viewscreen]: Yes. In preventing a Klingon civil war.
-
-[Observation lounge]
-
-GOWRON: The family of Duras is massing support.
-They have many allies on the Council. 
-PICARD: Duras died in disgrace. By Klingon tradition, his family should
-share that disgrace. 
-GOWRON: Their corruption has poisoned the Empire. Honour will soon have
-no meaning. 
-PICARD: And who speaks for his family now? 
-GOWRON: Lursa and B'Etor, the sisters of Duras. 
-PICARD: And they would claim the leadership of the Council? 
-GOWRON: Women may not serve on the Council. 
-PICARD: Then how 
-GOWRON: I don't know. But they are plotting something. They have
-secured the loyalty of at least three fleet commanders. Lursa and
-B'Etor are feared, and fear is power. 
-PICARD: I do not see what I can do to assist. 
-GOWRON: You were first chosen as Arbiter of Succession because no
-Klingon could be trusted. You accepted this duty and you must see it
-through to the end. You must ensure my installation. 
-PICARD: That is beyond my purview. 
-GOWRON: You will not support me? 
-PICARD: I will not step outside the traditional role of the Arbiter. 
-GOWRON: And if they attempt to block my installation? 
-PICARD: Then I can only assure you that I will deal with any challenge
-according to Klingon law. 
-GOWRON: I fear that will not be enough.
-
-[Bridge]
-
-PICARD: Mister Worf, would you escort our guest to
-the transporter room? 
-(Worf and Gowron enter the turbolift) 
-PICARD: Begin monitoring Romulan activity along the Neutral Zone,
-Mister Data. Have the outpost stations send us their tactical reports. 
-DATA: Aye, sir. 
-PICARD: The Duras family are preparing to move against Gowron. 
-RIKER: Backed by Romulans? 
-PICARD: I don't know. But there is too much history between the Duras
-and the Romulans to discount the possibility.
-
-[Transporter room]
-
-WORF: Dismissed. 
-(the transporter technician leaves) 
-WORF: I would speak with you. 
-GOWRON: I do not hear the words of traitors. 
-WORF: I am not a traitor. 
-GOWRON: You admitted your guilt before the Council. 
-WORF: I accepted discommendation to protect the Empire. 
-GOWRON: Protect it? How? 
-WORF: It was Duras' father who betrayed our people to the Romulans at
-Khitomer, not mine. 
-GOWRON: Duras? There is proof of this? 
-WORF: There is. 
-GOWRON: Why would you accept dishonour to protect Duras? 
-WORF: His family was too powerful. To expose him would have split the
-Empire. Instead, the Council chose to blame my father. 
-GOWRON: The Council knew? 
-WORF: I believe you to be a man of honour, Gowron. I ask you, restore
-my family name. 
-GOWRON: Worf, you killed Duras. I consider that no small favour. But
-what you ask is impossible. 
-WORF: But after your installation 
-GOWRON: The grasp of Duras reaches out from the grave. Much of the
-Council is still loyal to his family. I must have the Council's support
-to survive. I cannot expose their treachery. You chose to accept this
-disgrace for the good of the Empire. Now you must live with your
-decision, like a Klingon.
+K'TAL: naDev ghoS! 
+(Picard walks forward) 
+K'TAL: Have you reached a decision regarding the succession of power? 
+PICARD: Qaja plu d'itch jung. La woq you ghir klas qimha. Gowron. Doj
+hon. Doj hon. 
+K'TAL: Gowron, son of M'Rel, hakt'em. The Arbiter confirms that you
+have completed the Rite of Succession. Your enemies have been
+destroyed. You stand alone. Do you wish to claim leadership of the
+Council? 
+GOWRON: I wish it. 
+K'TAL: Are there no other challengers? 
+(just as Picard is about to put the cloak on Gowron's shoulders) 
+GUEST2: There is one. I will challenge him. 
+GOWRON: An arrogant child! 
+K'TAL: Who are you? 
+GUEST2: I am Toral, son of Duras. 
+GOWRON: Duras had no son. 
+B'ETOR: But he did, Gowron. 
+GOWRON: So, this is your doing, Lursa. 
+LURSA: We wish to address the Council. 
+K'TAL: Lursa, B'Etor, come forward. 
+LURSA: Members of the High Council, it is a day of great rejoicing for
+the family of Duras and the Klingon Empire. We have discovered that our
+brother did indeed have a son and heir. 
+GOWRON: This is outrageous. Duras had no mate. Where did you find him,
+Lursa? In a harlot's bedchamber? 
+GUEST2: I will personally cut your tongue out, Yintagh! 
+GOWRON: Impudent wretch. 
+B'ETOR: A simple genetic scan will prove his bloodline is valid. 
+GOWRON: The illegitimate son of Duras cannot rule the High Council. 
+K'TAL: The Arbiter will consider his validity. Len'mat.
 

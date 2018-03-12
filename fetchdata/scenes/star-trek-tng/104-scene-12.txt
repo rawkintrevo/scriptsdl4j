@@ -1,49 +1,30 @@
-TROI LAFORGE TASHA PICARD RIKER CRUSHER
-
-[Tasha's room]
-
-TASHA: Captain. Deanna. 
-PICARD: Did you have any idea, Lieutenant, that Lutan was suddenly
-going to announce that he wanted you for his First One? 
-TASHA: No, sir. 
-PICARD: Tell me what you know about this? 
-TASHA: Nothing, sir. 
-TROI: But it was a thrill. Lutan is such, such a basic male image and
-having him say he wants you 
-TASHA: Yes, of course it made me feel good when he. Troi, I'm your
-friend and you tricked me. 
-TROI: Only so you'd think about it, completely and clearly. 
-PICARD: We're all being manipulated, Lieutenant, myself most of all. 
-TROI: How simple all this would be without the Prime Directive. 
-PICARD: That thought had passed through my mind, Counsellor.
+TASHA CHIEF RIKER GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: What is this message from Starbase Fourteen?
-
-CRUSHER: It's showing the infection rates, percentage illness
-increases. The plague on Styris Four has flared up out of control. 
-LAFORGE: They're estimating deaths in the millions, sir. 
-RIKER: Captain Picard, come in.
+RIKER: Riker to Transporter Chief. Do we have our
+people on sensors yet?
+CHIEF [OC]: Their general area, sir. Visual on screen now. As you see,
+we're still doing some fine tuning.
 
 [Tasha's room]
 
-TASHA: I know I can win. Not that I'd take her
-life, of course, but I'd be glad to embarrass her. The idea of accusing
-me of taking 
-(Picard enters) 
-TROI: The plague? 
-PICARD: If anything, even worse than we'd heard. 
-TASHA: Which means they desperately need the vaccine, sir. And I know I
-can win this challenge. 
-PICARD: You have nothing to prove anything here, Lieutenant. 
-TROI: But the vaccine is important in this case, sir. 
-PICARD: Counsellor, you're the last person I'd expect to argue in
-favour of accepting the challenge. 
-TROI: Betazoid blood is also practical, Captain. The odds are very good
-she'd defeat Lutan's wife easily and you would win all the bargaining
-points you need. 
-PICARD: The odds are. 
-TROI: You have pointed out yourself we are all at risk every day of
-every mission. 
-PICARD: I want some explanations from Lutan. 
+GUEST0: I've agreed to this meeting, but I see no
+point to it. You've accepted the challenge and there is nothing further
+to say. 
+TASHA: I think you should know that there is no physical training
+anywhere that matches Starfleet, especially its security people. 
+GUEST0: And you should know that even though these contests are rare,
+we have a tradition of making ourselves capable of them. 
+TASHA: Yareena, my acceptance had nothing to do with Lutan. 
+GUEST0: It has everything to do with Lutan. Lutan wants you to be his
+First One. 
+TASHA: Impossible, Yareena. I am a career Starfleet officer. 
+GUEST0: How could you not love him? Every woman loves him. 
+TASHA: I fight for the vaccine, That's the truth. 
+GUEST0: The truth is I will kill you if I can. And believe me, I can.
+There is nothing else to say. 
+TASHA: In my world, it's a greater honour to refuse 
+GUEST0: You are on our world!
+

@@ -1,98 +1,43 @@
-TROI PICARD ENSIGN RIKER COMPUTER ZORN
+TROI PICARD RIKER GUEST4 Q
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
-
-RIKER: This planet's interior heat provides an
-abundance of geothermal energy, sir. But it's about all this world does
-offer. 
-PICARD: And it's your belief that this is what made it possible for
-them to construct this base to Starfleet standards? 
-RIKER: Yes sir. We have to assume that they've been trading their
-surplus energy for the construction materials used here. According to
-our ship's scans, many of the materials used are not found on this
-world. 
-PICARD: Perhaps it's like those incidents you describe in your report
-as almost magical attempts to please us. 
-RIKER: Those events did happen, sir. 
-PICARD: None of it suggests anything threatening. If only every life
-form had as much desire to please. Ready to beam down? I'm looking
-forward to meeting this Groppler Zorn. 
-RIKER: I have a feeling there's more to it than just pleasing us, sir. 
 [Bridge]
 
-PICARD: As if it's something Q is doing to trick
-us? Over here. I've asked the Counsellor to join us in this meeting.
-May I introduce our new First Officer, Commander William Riker.
-Commander Riker, this is our ship's Counsellor, Deanna Troi. 
-TROI [OC]: Do you remember what I taught you, Imzadi? Can you still
-sense my thoughts? 
-TROI: A pleasure, Commander. 
-RIKER: Likewise, Counsellor. 
-PICARD: Have the two of you met before? 
-RIKER: We have, sir. 
-PICARD: Excellent. I consider it important for my key officers know
-each other's abilities. 
-(They step into the turbolift) 
-TROI: We do, sir. We do. 
-TROI [OC]: I, too, would never say goodbye, Imzadi. 
-
-[Zorn's office]
-
-PICARD: My crew and I need a bit more information
-before we make our recommendations to Starfleet. 
-ZORN: No objections to that, but but I'm puzzled over you bringing a
-Betazoid to this. If her purpose, sir, is to probe my thoughts 
-TROI: I can sense only strong emotions, Groppler. I am only half
-Betazoid. My father was a Starfleet officer. 
-ZORN: Well, I have nothing to hide, of course. 
-PICARD: Good, since we admire what we've seen of your construction
-techniques. Starfleet may be interested in your constructing starbases
-elsewhere also. 
-ZORN: We are not interested in building other facilities. 
-RIKER: If I may, Captain. Then a trade, Groppler? Some things you need
-in return for lending us architects and engineers
-who can demonstrate your techniques. 
-ZORN: Bandi do not enjoy leaving their home world. If Starfleet cannot
-accept that small weakness, then we will be forced, unhappily, to seek
-an alliance with someone like the Ferengi, or 
-(Troi gasps) 
-PICARD: Counsellor? What is it? 
-TROI: Do you want it described here, sir? 
-PICARD: Yes. No secrets here if we're to be all to be friends. Agreed,
-Groppler? 
-ZORN: We ourselves have nothing to hide, of course. 
-TROI: Pain. Pain. Loneliness. Terrible loneliness. Despair. I'm not
-sensing the Groppler, sir, or any of his people, but it's
-something very close to us here. 
-PICARD: The source of this, Groppler. Do you have any idea? 
-ZORN: No. No, absolutely not. And I find nothing helpful or productive
-in any of this! 
-PICARD: And that's it? No other comment? 
-ZORN: Well what do you expect of us? We offer you a base designed to
-your needs, luxurious even by human standards 
-PICARD: While evading even our simplest questions about it. We'll
-adjourn for now while we all reconsider our positions. 
-ZORN: Captain, the Ferengi would be very interested in a base like
-this. 
-PICARD: Fine. I hope they find you as tasty as they did their past
-associates.
-
-[Corridor]
-
-RIKER: Ensign, can you help me find Commander Data?
-I understand he's somewhere on this deck. 
-ENSIGN: This way, sir. You must be new to these Galaxy class starships,
-sir. (to wall) Tell me the location of Commander Data. 
-COMPUTER: Lieutenant Commander Data now located in Holodeck area 4J. 
-ENSIGN: And as you see, sir, it's pointing you that way. 
-RIKER: Thank you 
-ENSIGN: You're welcome, sir. 
-(She appreciates the sight as he walks away) 
-COMPUTER: The next hatchway on your right. 
-RIKER: Thank you. 
-COMPUTER: You're welcome, Commander Riker. And if you care to enter,
-Commander? 
-RIKER: I do. 
-(The holodeck doors open to show trees and vegetation. There is
-birdsong)
-
+RIKER [OC]: Question, sir, could it be this Q? 
+Q: None of you knows who transported him. You're running out of time,
+Captain. 
+TROI: Captain, suddenly I'm sensing something else. Satisfaction.
+Enormous satisfaction. 
+PICARD: From the same source as before? 
+TROI: No, that was on the planet. This is much closer. 
+Q: Excellent, Counsellor. He's such a dullard, isn't he? 
+GUEST4 [OC]: Captain from Transporter Room. First Officer and Mister Data
+have beamed aboard. 
+Q: Excellent also. Perhaps with more of these little minds helping 
+PICARD: That is enough, damn it! 
+Q: Have you forgotten that we have an agreement, 
+PICARD: An agreement which you are at this moment breaking by taking
+over our vessel, interfering with my decisions. Either leave or finish
+us. 
+Q: Temper, temper, mon Capitaine. I'm merely trying to assist a pitiful
+species. But perhaps I will leave if Commander Riker provides me with
+some amusement. 
+PICARD: Do nothing that he asks. 
+Q (JUDGE): But I ask so little, and it's so necessary if you're to
+solve all this. Beam over there with your what do you call it? Your
+away team. 
+PICARD: I'll risk none of my crew on that unknown. 
+Q: You should already know what you'll find there. Or perhaps it's too
+adult a puzzle for you. 
+RIKER: With all respect, Captain, I want to beam over there. 
+Q: You show promise, my good fellow. 
+RIKER: Have you understood any part of what he's tried to tell you?
+Humanity is no longer a savage race. 
+Q: But you must still prove that. 
+(And he vanishes) 
+PICARD: At least you impressed him, Number One. That's hopeful. 
+RIKER: Thank you, Captain. Captain, if he's not open to evidence in our
+favour, where will you go from there? 
+PICARD: I'll attend to my duty. 
+RIKER: To the bitter end? 
+PICARD: I see nothing so bitter about that. 

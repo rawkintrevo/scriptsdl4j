@@ -1,92 +1,66 @@
-RIKER KMTAR WORF YOG TROI LURSA DATA BETOR
+KMTAR WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Worf's quarters]
 
-DATA: I am detecting a vessel holding position near
-the third planet. It is a Yridian freighter. 
-RIKER: Put it on screen. Scan for magnesite in its hold. 
-DATA: The resonance signature indicates that there is magnesite ore
-present. 
-RIKER: Then we're too late. The sisters have already been here. 
-TROI: Somehow I doubt the Yridians are going to be forthcoming about
-where they might have gone. 
-DATA: Sir, readings indicate that there are only five hundred kilograms
-of ore in the Yridian hold. 
-WORF: There should be over ten thousand kilograms. 
-RIKER: That's odd. Hail them. I'm Commander William Riker from the
-Federation Starship Enterprise. 
-YOG [on viewscreen]: I am Yog. Why are we speaking? 
-RIKER: Our sensors indicate that you're carrying magnesite ore. 
-YOG [on viewscreen]: Magnesite, yes. 
-RIKER: Where did you get it? 
-YOG [on viewscreen]: From a Corvallen. For a good price. 
-RIKER: Where is this Corvallen now? I'm under orders to acquire some
-magnesite. 
-YOG [on viewscreen]: He is gone. Where? Who is to know? 
-RIKER: Would you be interested in selling me the ore you're carrying? 
-YOG [on viewscreen]: No, I have a buyer. 
-RIKER: You haven't heard my offer. Half a gram of Anjoran biomimetic
-gel. 
-YOG [on viewscreen]: Done. 
-RIKER: Once we verify the purity of your ore, we'll beam over the gel. 
-(transmission ends) 
-TROI: You're up to something. 
-RIKER: Have the transporter room beam the ore to these coordinates. 
-DATA: Sir, that would place the ore directly off the ship's starboard
-bow. 
-RIKER: I know. 
-WORF: Transport complete. 
-RIKER: Lock phasers on the ore and fire. 
-WORF: Firing. 
-(the explosion reveals the outline of) 
-WORF: A Klingon bird of prey. 
-RIKER: Put a tractor beam on it. 
-TROI: How did you know? 
-RIKER: The Yridians had only part of the shipment in their hold. I
-realised we had arrived before they had completed the transfer. 
-WORF: The Klingon ship is hailing us. 
-RIKER: On screen. 
-LURSA [on viewscreen]: Release our vessel at once! 
-RIKER: I don't think so. 
-B'ETOR [on viewscreen]: We've done nothing wrong. We were engaging in a
-simple business transaction. 
-RIKER: We know you're dealing in stolen ore. But I want to talk about
-the assassination attempt on Lieutenant Worf. 
-B'ETOR [on viewscreen]: What assassination attempt? This is the first
-I've heard of it. 
-LURSA [on viewscreen]: Too bad it didn't succeed. 
-RIKER: We have evidence that you're behind it. 
-LURSA [on viewscreen]: That is outrageous. 
-B'ETOR [on viewscreen]: What is this evidence? 
-RIKER: Beam over. We'll show you. 
-B'ETOR [on viewscreen]: We'll be there. Shortly.
-
-[Observation lounge]
-
-WORF: This was dropped by one of the assassins. It
-bears the crest of your house. 
-B'ETOR: Ge'ko kaf'la. 
-LURSA: Someone must have given it to the assassins to implicate us. 
-TROI: Why would someone do that? 
-B'ETOR: In order to tarnish our good name. 
-WORF: You cannot tarnish a rusted blade. 
-LURSA: Ji'ko to'val! 
-WORF: Gir'nak tovo'sor! 
-RIKER: Mister Worf. You said there was other evidence they were
-involved. 
-K'MTAR: Yes. On the Homeworld. 
-RIKER: We'll set a course. I want this thing cleared up. 
-K'MTAR: I will send a message to Kurn. He may wish to return to the
-Homeworld as well. 
-(K'mtar leaves) 
-B'ETOR: Bet'ala nog'tor. 
-LURSA: Impossible. 
-TROI: What is it? 
-B'ETOR: These markings represent the members of our house. This symbol
-represents our father, myself, my sister. And this represents her son. 
-WORF: I was not aware you had a son. 
-LURSA: I do not. But I am with child. 
-B'ETOR: She found out only a few days ago and told no one but me. How
-can this marking be here? Where did this come from? 
-WORF: I will speak with K'mtar.
-
+(Worf enters to find K'mtar with a weapon aimed at
+Alexander. He pulls him to the floor and is about to hit him when) 
+K'MTAR: Father. Stop, I am your son. I am Alexander. 
+WORF: What are you saying? 
+K'MTAR: I am your son Alexander. I have come to this time from forty
+years in the future. 
+WORF: P'tak! Tell me the truth or I will kill you. 
+K'MTAR: Look at me. When we first met you said I looked familiar. 
+WORF: I could have seen you on the Homeworld. 
+K'MTAR: No. Look closely. I am your son. 
+WORF: If you are Alexander, you will remember your mother's last words
+before she died. 
+K'MTAR: I was three years old. She was dying when we found her. She
+barely managed to whisper my name and then she took my hand and placed
+it in yours. Then she died. And then you howled in rage and said, look
+upon her. Look upon death and always to remember. And I always have. 
+(Worf stops strangling him) 
+WORF: How have you done this, come to this time? 
+K'MTAR: I met a man in the Cambra system. He gave me a chance to change
+the past. He had the ability to send me here, to this time. 
+WORF: And you came here in order to end your own life? 
+K'MTAR: I was hoping that I would not have to, that I could change
+things, that I could change myself. But I could not. And now everything
+is going to turn out like it did before. I cannot let that happen. 
+WORF: But why? What is going to happen that is so terrible? 
+K'MTAR: You will be killed because I was naive, too weak to be able to
+protect you. 
+WORF: I do not believe that. 
+K'MTAR: I was there! I saw you murdered. I was to blame. 
+WORF: You must not blame yourself. 
+K'MTAR: You don't understand. I did not become a warrior. I was a
+diplomat, a peacemaker. When it came my time to lead our family, I
+thought that I could single handedly end the fighting between the great
+houses. I publicly announced that the house of Mogh would be the first
+to end the feuding. That there would be no more retribution, no more
+revenge. You tried to warn me. You tried to tell me that I should not
+show weakness, but I thought you were a foolish old man. I told you
+that you were a relic from an earlier time and that a new era of peace
+was at hand. But you were right. My enemies saw my weakness and moved
+against me. And unless I stop it right now, that boy will see his
+father
+killed on the floor of the Council Chamber. 
+WORF: That is why you wanted to take Alexander away. To turn him into a
+warrior. 
+K'MTAR: I staged the assassination attempt to try and frighten him, to
+make him realise that he must follow the ways of the warrior. If I had
+listened to you, if I had become the warrior that you had wanted me to
+be, you would not have died in my arms. 
+WORF: No. Who knows what the future will be now that you have disrupted
+time? I may die tomorrow or I may outlive you. But when I die, I would
+like an honourable death. And the only way that is possible is for you
+accept yourself as you are, and stay true to what you believe. The
+cause of peace is a just cause. The struggle must continue. 
+K'MTAR: It is a futile struggle. I cannot change things. 
+WORF: You have already changed things more than you realise. 
+K'MTAR: The boy I was has not changed. 
+WORF: But I have. You have given me a glimpse into my son's future and
+I know now that he has his own destiny. And I believe it will be a
+great one. 
+K'MTAR: I love you, Father. 
+WORF: And I you, Alexander. 

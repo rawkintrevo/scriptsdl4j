@@ -1,74 +1,27 @@
-LAL WORF PICARD CRUSHER DATA HAFTEL
+PICARD DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Laboratory]
 
-LAL: Father, what is the significance of laughter? 
-DATA: It is a human physiological response to humour. 
-LAL: Then judging from their laughter, the children at school found my
-remarks humorous. So without understanding humour, I have somehow
-mastered it. 
-DATA: Deck fifteen. Lal. 
-LAL: Yes, Father? 
-DATA: The children were not laughing with you, they were laughing at
-you. 
-LAL: Explain. 
-DATA: One is meant kindly, the other is not. 
-LAL: Why would they wish to be unkind? 
-DATA: Because you are different. Differences sometimes scare people. I
-have learned that some of them use humour to hide their fear. 
-LAL: I do not want to be different.
-
-[Crusher's office]
-
-DATA: Doctor? I require your advice as a successful
-parent. 
-CRUSHER: Well, thank you, Data. I'd like to think I was. Well, please
-sit down. How's Lal? 
-DATA: Lal is realising she is not the same as other children. 
-CRUSHER: Is it lonely for her? 
-DATA: She does not feel the emotion of loneliness, but she can observe
-how isolated she is from the others. She wishes to be more like them. I
-do not know how to help her. Lal is passing into sentience. It is
-perhaps the most difficult stage of her development. 
-CRUSHER: When Wesley was growing up, he was an extraordinarily bright
-boy, but he had a hard time making friends. I think the other children
-were a little intimidated by him. 
-DATA: That is precisely what happened to Lal in school. How did you
-help him? 
-CRUSHER: Well, first I went back to my own childhood and remembered how
-painful it was for me. Because I remember a time when I wasn't very
-popular either. And when I told that to Wesley, it made him feel a
-little better. He knew I understood what he was going through. 
-DATA: I have not told Lal how difficult it was for me to assimilate. I
-did not wish it to discourage her. Perhaps this was an error of
-judgement. 
-CRUSHER: You didn't have any one experienced to help you through
-sentience. She at least has you. Just help her realise that she's not
-alone, and be there to nurture her when she needs love and attention. 
-DATA: I can give her attention, Doctor. But I am incapable of giving
-her love. 
-(Data leaves) 
-CRUSHER: Now why do I find that so hard to believe?
-
-[Picard's quarters]
-
-(Picard is in bed, resting) 
-WORF [OC]: Captain, incoming signal. Starfleet priority one. Admiral
-Haftel. 
-PICARD: On my monitor, Lieutenant. Admiral. 
-HAFTEL [on monitor]: Captain Picard, I hope I didn't disturb you. 
-PICARD: Not at all. 
-HAFTEL [on monitor]: I have discussed my concerns with Starfleet
-Command. You are to hold your position until I join you. Then I shall
-personally review the android's development. 
-PICARD: Understood. 
-HAFTEL [on monitor]: I should advise you, Captain, that if I'm not
-satisfied with what I see, I am empowered to take the android back with
-me. Haftel out.
-
-Captain's log, supplemental. We are holding
-position pending the arrival of Admiral Haftel from Starfleet Research.
-Commander Data is completing his final neural transfers to the android
-he has named Lal, which I have learned, in the language Hindi means
-beloved.
+DATA: So Lal now possesses the sum of my
+programming. 
+GUEST1: Her neural nets are laid down identically to yours? 
+DATA: There do seem to be some variations on the quantum level. She can
+use contractions. I cannot. 
+GUEST1: An aberration. What have you done about this? 
+DATA: I have maintained records on positronic matrix activity,
+behavioral norms, and all verbal patterns. I have seen no evidence of
+other aberrations. 
+PICARD: It would seem you've actually improved upon yourself, Data. 
+DATA: Is that not the goal of every parent, sir? 
+GUEST1: But as a good father, don't you think it would be better,
+especially in light of this new aberration, if Lal were close to people
+trained in diagnostic and evaluative procedures? 
+DATA: I am programmed with the procedures you mention, sir. And in any
+meaningful evaluation of Lal, you would require a model for a basis of
+comparison. I am the only model available, Admiral. 
+GUEST1: You haven't mastered human cultural and behavioural norms
+yourself yet, have you? 
+DATA: No, sir. 
+GUEST1: Where is Lal now?
 

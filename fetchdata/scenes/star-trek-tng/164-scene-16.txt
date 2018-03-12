@@ -1,84 +1,61 @@
-LAL WORF PICARD GUINAN DATA HAFTEL
+LAL PICARD TROI DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Troi's quarters]
 
-(Picard is in bed, resting) 
-WORF [OC]: Captain, incoming signal. Starfleet priority one. Admiral
-Haftel. 
-PICARD: On my monitor, Lieutenant. Admiral. 
-HAFTEL [on monitor]: Captain Picard, I hope I didn't disturb you. 
-PICARD: Not at all. 
-HAFTEL [on monitor]: I have discussed my concerns with Starfleet
-Command. You are to hold your position until I join you. Then I shall
-personally review the android's development. 
-PICARD: Understood. 
-HAFTEL [on monitor]: I should advise you, Captain, that if I'm not
-satisfied with what I see, I am empowered to take the android back with
-me. Haftel out.
+TROI: Come in. 
+(Lal enters, obviously upset) 
+TROI: Hello, Lal. How are you? 
+LAL: Troi. Admiral. Admiral. An admiral from Starfleet has come to take
+me away, Troi. I am scared. 
+TROI: You are scared, aren't you? 
+LAL: I feel it. How is this possible? 
+TROI: I don't know. 
+LAL: This is what it means to feel. This is what it means to feel.
 
-Captain's log, supplemental. We are holding
-position pending the arrival of Admiral Haftel from Starfleet Research.
-Commander Data is completing his final neural transfers to the android
-he has named Lal, which I have learned, in the language Hindi means
-beloved.
+[Observation lounge]
 
-[Ten Forward]
-
-GUINAN: Hello, Data. 
-DATA: Guinan. 
-(He steers Lal away from the interesting people and onto a bar stool) 
-GUINAN: Lal, how are you? 
-LAL: I am functioning within normal. I am fine, thank you. 
-GUINAN: Good. 
-DATA: Guinan, Lal needs to observe human behaviour. 
-GUINAN: She's in the right place for it. 
-DATA: And for this opportunity, she is willing to provide services to
-assist you. 
-LAL: Father says I would learn a great deal from working with someone
-as old as you. 
-GUINAN: You're hired. The most important part about working some place
-like this is the art listening. I have some expertise, so I shall teach
-you. 
-DATA: That would be most beneficial. 
-LAL: I've been programmed with a listing of fourteen hundred and twelve
-known beverages. 
-GUINAN: What did you say? 
-LAL: I've been programmed with a listing of fourteen hundred 
-GUINAN: I've? 
-DATA: You have used a verbal contraction. 
-GUINAN: You said I've instead of I have. 
-DATA: It is a skill my programme has never mastered. 
-LAL: Then I will desist. 
-DATA: No. You have exceeded my abilities. I do not object, but I do not
-understand how this has
-occurred. 
-PICARD [OC]: Picard to Commander Data. Please report to my Ready room. 
-DATA: Aye, sir.
-
-[Ready room]
-
-DATA: I am certain the Admiral is anxious to meet
-Lal. I have been sending him regular status reports on her development.
-
-PICARD: His visit is not just an inspection of Lal's progress. He has
-expressed a concern for her environment. 
-DATA: Her environment, sir? 
-PICARD: He believes the Daystrom annex on Galor Four would be more
-suitable. 
-DATA: Then he wishes to relocate us? 
-PICARD: Not you, Data. Just her. 
-DATA: I would not be in favour of that, sir. There are many things that
-she can learn only from me. My lifetime of experiences. The mistakes I
-have made and what I have learned from them. 
-WORF [OC]: Captain, Commander Riker's shuttle has just returned. 
-PICARD: Acknowledged, Lieutenant. Will you advise Commander Riker I
-will meet with him in one hour. Picard out. The Admiral is taking the
-position that Lal's development should be overseen by the most
-experienced personnel. 
-DATA: Then he is questioning my ability as a parent. 
-PICARD: In a manner of speaking. 
-DATA: Does the Admiral have children? 
-PICARD: Yes, I believe he does, Data. Why? 
-DATA: I am forced to wonder how much experience he had as a parent when
-his first child was born.
+GUEST1: You have Lal off to a wonderful start in
+life, Commander. And that's what being a parent is all about. However,
+I have finally decided that I must ask you to release her to me. 
+DATA: May I ask why, sir? 
+GUEST1: All the other arguments aside, there's one that is irrefutable.
+There are only two Soong-type androids in existence. It would be very
+dangerous to have you both in the same place. Especially aboard a
+starship. One lucky shot by a Romulan, we'd lose you both. 
+PICARD: Admiral, that is a fine argument, but it doesn't change my
+feeling that the proper place for Lal to develop is by Data's side. 
+GUEST1: You're not a parent, Captain. I am. I have learned, with
+difficulty, that there comes a time when all parents must give up their
+children for their own good. 
+PICARD: This is not the time. Damn it, even I can see the umbilical
+cord is virtually uncut. The child, the child depends on him. 
+GUEST1: Mister Data, it would be better for Lal if she left knowing you
+had voluntarily decided that this was the best course of action. 
+DATA: Admiral, when I created Lal, it was in the hope that someday she
+would choose to enter the Academy and become a member of Starfleet. I
+wanted to give something back in return for all Starfleet has given me.
+I still do. But Lal is my child. You ask that I volunteer to give her
+up. I cannot. It would violate every lesson I have learned about human
+parenting. I have brought a new life into this world, and it is my
+duty, not Starfleet's, to guide her through these first difficult steps
+to maturity, to support her as she learns, to prepare her to be a
+contributing member of society. No one can relieve me from that
+obligation. And I cannot ignore it. I am her father. 
+GUEST1: Then I regret that I must order you to transport Lal aboard my
+ship. 
+PICARD: Belay that order, Mister Data. 
+GUEST1: I beg your pardon? 
+PICARD: I will take this to Starfleet myself. 
+GUEST1: I am Starfleet, Captain! Proceed, Commander. 
+PICARD: Hold your ground, Mister Data. 
+GUEST1: Captain, you are jeopardising your command and your career. 
+PICARD: There are times, sir, when men of good conscience cannot
+blindly follow orders. You acknowledge their sentience, but you ignore
+their personal liberties and freedom. Order a man to hand his child
+over to the state? Not while I am his captain. If you wish, you can
+accompany us to Starfleet, where we shall see 
+TROI [OC]: Troi to Commander Data. Report to your lab at once. 
+PICARD: Acknowledged, Counsellor. He's on his way. Is there a problem? 
+TROI [OC]: Yes, Captain. Something is terribly wrong with Lal.
 

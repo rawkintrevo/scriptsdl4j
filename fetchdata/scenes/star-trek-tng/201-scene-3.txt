@@ -1,45 +1,5 @@
-KURN RIKER LAFORGE WORF PICARD LARG LURSA DATA BETOR
-
-[Ready room]
-
-RIKER: Starfleet is stretched pretty thin across
-the quadrant. There are only about twelve ships within a day's travel
-of this position. 
-LAFORGE: The only other ships available are either in spacedock for
-repairs or still under construction. Most of them don't even have full
-crews yet. 
-RIKER: We could probably scare up seven, maybe eight, more ships. 
-PICARD: Mister La Forge, can you implement your tachyon detection grid
-with twenty ships? 
-LAFORGE: It's possible, but the more ships, the bigger the net we can
-throw. 
-PICARD: All right. I want to add the Tian Nan Men, the Sutherland and
-the Hermes, whether the yard superintendent says they're ready or not.
-Mister Data, will you select a group of experienced Enterprise officers
-to augment the crews of those ships. 
-DATA: Aye, sir. 
-PICARD: Will, I want you to command the Excalibur. Her crew was
-reassigned when she put in for repairs. Geordi, you will be his First
-Officer. 
-LAFORGE: Aye, sir. 
-PICARD: I want the fleet underway by oh nine hundred tomorrow. Thank
-you, gentlemen. 
-(Riker and La Forge leave) 
-PICARD: Yes, Mister Data? 
-DATA: May I ask a question, sir, of a personal nature? 
-PICARD: Yes. 
-DATA: I am confused. Why have I not been assigned to command a ship in
-the fleet, sir? 
-PICARD: Well, I felt that you would be needed here. Why do you ask? 
-DATA: You have commented on the lack of senior officers available for
-this mission. I believe my twenty six years of Starfleet service
-qualifies me for such a post. However, if you do not believe the time
-has arrived for an android to command a starship, perhaps I should
-address myself to improving my 
-PICARD: Commander. I believe the starship Sutherland will need a
-captain. I can think of no one better suited to the task than
-you.
-DATA: Thank you, sir.
+KURN LURSA GUEST6 WORF BETOR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Klingon bar]
 
@@ -48,15 +8,15 @@ together or just trading punches. Arm wresting is made more interesting
 with the threat of the loser's hand being impaled on a dagger) 
 KURN: You always did have fools working for you, Larg. Now you don't
 have as many! 
-LARG: You were lucky, Kurn, but luck always runs out. Someday I will
+GUEST6: You were lucky, Kurn, but luck always runs out. Someday I will
 stand over your broken corpse and drink to the victory of the Duras! 
 KURN: Ah, Worf, good. This piece of baktag is Captain Larg. He
 commanded the squadron that tried to destroy us yesterday. 
-LARG: The infamous Worf, son of Mogh. What is that you are wearing?
+GUEST6: The infamous Worf, son of Mogh. What is that you are wearing?
 That is the uniform of a Klingon! 
 KURN: The Capital City is neutral ground and Larg's men are all around
 us. As are mine. 
-LARG: Good to drink with you, Kurn. May you die well. 
+GUEST6: Good to drink with you, Kurn. May you die well. 
 KURN: Die well, Larg. 
 (Larg leaves) 
 WORF: You drink with our enemies? 

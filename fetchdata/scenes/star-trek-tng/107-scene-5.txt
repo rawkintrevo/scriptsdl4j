@@ -1,69 +1,73 @@
-RIKER WORF TASHA PICARD TARR DATA
+TASHA PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation lounge]
 
-PICARD: Open hailing frequencies. 
-DATA: Open, sir. 
-PICARD: Attention, Ferengi starship. This is Captain Picard. It is
-obvious that we are in a situation here which needs resolving, and we
-are willing to do whatever is required, whatever is necessary. I would
-like, I would request, that you present your terms to us.
+(A couple of kids are playing by the Enterprise
+tableau) 
+RIKER: Matthew! Pola! You know this area is off limits. Come on, come
+on. (they scurry out as Picard enters) Boys will be boys, Captain. 
+PICARD: Lieutenant, have you launched the probe? 
+LAFORGE: Aye, sir. We should getting those readings soon. 
+PICARD: Well, if we're not holding the Ferengi and they're not holding
+us, who the hell is? 
+LAFORGE: The probe will give us some of those answers, sir. 
+(Data has found a Chinese finger puzzle that the children have left
+behind) 
+PICARD: Data, you were going to show us something. 
+DATA: As requested, Captain, library computer information on this
+planet. It has been charted only from long range scans. It is Class M,
+but shows no indications of life forms, sentient or otherwise. However,
+you may find this of interest. Resolving it into our language. 
+(a holographic display over the table of the Tkon Empire data entry) 
+DATA: The centre of a huge space federation, a population of trillions.
 
-Captain's log, stardate 41386.5. It is with a heavy
-heart that I have offered to meet whatever reasonable and
-necessary terms are demanded by the Ferengi. I fear for my people and
-my vessel in the event the unknown Ferengi ask the unreasonable. How
-can I oppose even unreasonable demands?
+PICARD: Trillions? I've never heard the word Tkon before. 
+DATA: Understandable. It has been extinct six hundred thousand of our
+(his forefingers are stuck in the puzzle) of our years. These
+planets were once outposts of that empire. 
+PICARD: Data, what are you doing? 
+DATA: Apologies, Captain. I seem to have reached an odd functional
+impasse. I am stuck. 
+PICARD: Then get unstuck and continue with the briefing. 
+DATA: Yes, sir. That is what I am trying to do, sir, but the solution
+eludes me. 
+LAFORGE: My hero. 
+(Picard reaches across, pushes his fingers together and removes the
+puzzle) 
+PICARD: Continue, Commander. 
+DATA: Intriguing. It describes the Empire as being highly advanced and
+powerful, and capable of actually moving stars. 
+RIKER: Stars whose planets are their defence system? 
+DATA: Correct, sir. Outposts. The planet below was possibly one of
+them. 
+TASHA [OC]: Excuse the interruption, Captain, but this may be worth it.
+We're now receiving a signal from the probe. 
+PICARD: We'll take it here. 
+(The display changes to the planet with streams of energy heading out
+to both ships) 
+LAFORGE: Incredible! 
+RIKER: There's our mysterious something, Captain. It is a forcefield of
+some kind. 
+PICARD: Reaching up from the planet surface. Amazing power. Data, what
+does the legend say about the end of the Tkon Empire? 
+DATA: Their sun went supernova, sir. 
+PICARD: Could this planet have escaped that? 
+DATA: This planet may have been the most distant outpost, sir, but it
+shows no life form readings. 
+PICARD: We should take a look at it, Number One. Stand by with an away
+team. 
+RIKER: And if the Ferengi also realise the forcefield emanates from the
+planet, sir? 
+PICARD: That's a complication. Maybe we should ask them to join us in
+this. 
+LAFORGE: Team up with the Ferengi, sir? 
+PICARD: We've been ordered to learn all we can about them. Do you know
+a better way? 
+LAFORGE: Data. 
+(Geordi throws the finger puzzle to him)
 
-[Bridge]
-
-RIKER: It's moving, sir. 
-WORF: We ask to surrender and now they fire on us? 
-TASHA: Ready torpedoes, sir? We have enough power for a few of them. 
-PICARD: Ready, but hold on ready. Open hailing frequencies. 
-DATA: Hailing frequencies open, sir. 
-PICARD: Ferengi vessel, we are awaiting your response. 
-TASHA: Suggest first strike, sir. Our shields now only have sixty three
-seconds of power left before lowering. 
-WORF: If the Ferengi ship's sensors can read us, sir, they will be
-waiting until we are most vulnerable. 
-RIKER: I'm afraid I agree, Captain. They have not responded. 
-PICARD: We'll wait a bit more, Number One. 
-TASHA: Fifty seconds. 
-PICARD: Patience. Patience. 
-TARR [OC]: The quicker we can come to terms, the better, NCC 1701-D. 
-PICARD: Who is speaking? 
-TARR: I am Tarr. DaiMon of the Ferengi. You wish to discuss surrender,
-Captain Picard? 
-PICARD: What I said, DaiMon Tarr, is 
-TARR [OC]: Unconditional surrender, I warn you, is totally
-unacceptable! We will die to the last one of us before such dishonour! 
-TASHA: Hailing frequencies closed, sir. 
-PICARD: Something has seized their ship too. They're in the same
-predicament as us. (to Geordi) Launch a sensor probe. Set it to search
-for the source of whatever this something is that is holding both
-ships. Go back to hailing
-frequency, fast. And I regret, DaiMon Tarr, that I can no longer
-negotiate unless it is
-conducted visually. 
-TARR [OC]: Your complete message not received, Enterprise, but visual
-communication is against our custom. 
-PICARD: And it is against Starfleet orders to accept a surrender
-otherwise. Do you withdraw your surrender? 
-TARR [OC]: You give us no choice, Enterprise. May we have a visual on
-you as well? 
-PICARD: Agreed, DaiMon Tarr. You should be able to view us now. Are we
-on your screen? 
-(The face of a humanoid with enormous ears fills the viewscreen. He
-even has crooked pointed teeth) 
-TARR [on viewscreen]: Yes. The ugliness of the human was not an
-exaggeration. I do not know how your twisted alien culture has
-paralysed our vessel, but I concede your Enterprise is superior. We
-will return your worthless T9 device and we offer the life of our
-second officers as required
-by the Ferengi code. 
-DATA: (sotto voce to Geordi) Fortunately, Starfleet has no such rules
-involving our second officers. 
-TARR: Is this to your satisfaction, Picard Captain? 
-PICARD: Your offer may be inadequate, but I will discuss it with my
-staff. Stand by for further communications. 
+Captain's log, supplemental. In orbit of a
+mysterious planet, whose unexplained forcefield has seized us with a
+power almost beyond imagination. If there is a solution to this, it
+almost certainly will involve cooperation from the Ferengi. 

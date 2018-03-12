@@ -1,85 +1,46 @@
-TROI OBRIEN JESSEL LAFORGE WORF TASHA PICARD DATA
+PICARD OBRIEN DATA GUEST0 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Future Cambridge University - Data's
-library]
+[Past - Engineering]
 
-(a roaring fire, plenty of cats and an obviously
-fake streak of white in his hair) 
-PICARD: I know how it sounds but it happened. It was real. I was there,
-back on board the Enterprise. 
-JESSEL: (cod English housekeeper) How do you like your tea? 
-PICARD: Tea? Earl Grey. Hot. 
-JESSEL: Course it's hot. What do you want in it? 
-PICARD: Nothing. Well, Data, I must say, this is a fine place you have
-here. They certainly treat professors pretty well at Cambridge 
-DATA: Holding the Lucasian Chair does have its perquisites. This house
-originally belonged to Sir Isaac Newton when he held the position. It's
-become the traditional residence. 
-JESSEL: Here you go. 
-LAFORGE: Thank you. 
-JESSEL: If you're really his friend, you'll get him to take that grey
-out of his hair. Looks like a bloody skunk. 
-DATA: Jessel. She can be frightfully trying at times, but she does make
-me laugh. 
-LAFORGE: Data, what is it with the hair anyway? 
-DATA: I found that a touch of grey adds an air of distinction. 
-PICARD: You say this is Earl Grey? I'd swear that it was Darjeeling. 
-(Jessel leaves) 
-DATA: Captain, how long has it been since you've seen a physician about
-your Irumodic Syndrome? 
-PICARD: A week. They've prescribed peridaxon. 
-DATA: But sir, peridaxon 
-PICARD: Yes, I know, it's not a cure, There's nothing that can prevent
-the deterioration of the synaptic pathways. You think that I'm senile,
-that all this is just a delusion. 
-LAFORGE: Now come on, Captain, no one said anything of the kind. 
-DATA: In all honesty, Captain, the thought has occurred to me. However,
-there's nothing to disprove what you're saying. So it's possible
-something is happening to you. The first thing we should do is run a
-complete series of neurographic scans. We can use the equipment at the
-biometrics lab here on the campus. Jessel, ask Professor Ripper to take
-over my lecture for tomorrow. Possibly for the rest of the week.
-Captain, we'll get to the bottom of this. 
-PICARD: That's the Data that I remember. I knew I could count on you.
+PICARD: Mister O'Brien, will you use these
+specifications to bypass the secondary plasma inducer. 
+O'BRIEN: You have to realise sir, this isn't exactly my area of
+expertise. The Chief Engineer should be making these modifications. 
+PICARD: But the Chief Engineer isn't on board. Mister O'Brien, trust
+me. I know you can do it. All those years you spent as a child building
+those model starship engines. They were well worth it. 
+O'BRIEN: How did you know that, sir? 
+PICARD: From your Starfleet records. 
+O'BRIEN: Yes, sir. I'll get right to these modifications. Fletcher,
+tell Munoz and Lee to get up here right away. 
+GUEST0: Aye, sir. 
+(Picard goes to a wall console and Data enters) 
+O'BRIEN: We have to realign the entire power grid. We'll all be burning
+the midnight oil on this one. 
+DATA: That would be inadvisable. 
+O'BRIEN: Excuse me? 
+DATA: If you attempt to ignite a petroleum product on this ship at zero
+hundred hours, it will activate the fire suppression system, which
+would seal off this entire compartment. 
+O'BRIEN: That was just an expression. 
+DATA: Expression of what? 
+O'BRIEN: A figure of speech. I was trying to tell him that we'd be
+working late. 
+DATA: Ah. Then to burn the midnight oil implies late work? 
+O'BRIEN: That's right. 
+DATA: I am curious. What is the etymology of that idiom? How did it
+come to be used in contemporary language? 
+O'BRIEN: I don't know, sir. 
+PICARD: Commander Data, welcome on board. It's so very good to see you.
 
-[Past Shuttlebay]
+DATA: It is good to see you, too, sir. 
+PICARD: I could use your help with the infuser array. 
+DATA: Certainly. 
+PICARD: As you can see, we're having difficulty with the plasma
+conduits. 
+DATA: This will need a completely new field induction subprocessor. It
+appears that we will be required to ignite the midnight petroleum, sir.
 
-TASHA: Commanding officer Enterprise arriving. 
-(Picard is piped aboard. Troi is back in her mini-uniform but not the
-bun.) 
-PICARD: To Captain Jean-Luc Picard, stardate 41148 
-(three people jeering from the upper level) 
-PICARD: You are hereby requested and required to take command 
-(four of them behind him) 
-PICARD: to take command of the USS Enterprise as of this date. Signed
-Rear Admiral Norah Satie, Starfleet Command. 
-(just as he goes to shake Troi's hand, he sees more) 
-PICARD: Red Alert! All crew to battle stations. 
-(Guy Vardeman, Colm Meaney and the others hesitate) 
-TASHA: You heard him. Move! 
-Personal log, stardate 41153.7. Recorded under
-security lockout Omega three two seven. I have decided not to inform
-this crew of my experiences. If it's true that I've travelled to the
-past, I cannot risk giving them foreknowledge of what's to come. 
-[Past - Observation lounge]
-
-PICARD: Report. 
-TASHA: We've completed a full subspace scan of the ship and surrounding
-space. We've detected no unusual readings or anomalies. 
-WORF: With all due respect, sir, it would be helpful if we knew exactly
-what we were looking for. 
-PICARD: Noted. Counsellor, do you sense anything unusual on board the
-Enterprise? Perhaps an alien presence that doesn't
-belong here, maybe one operating on a level of intelligence far
-superior to our own? 
-TROI: No, sir. I'm only aware of the crew and the families on board the
-ship. 
-PICARD: Mister Worf, initiate a level two security alert on all decks
-until further notice. 
-TASHA: With all due respect, sir, I'm the Security Chief on this ship.
-Unless you're planning to make a change. 
-PICARD: No, of course not. Lieutenant, security alert two. 
-TASHA: Aye, sir. 
-O'BRIEN [OC]: Captain Picard to the Bridge, please. 
-PICARD: We're on our way, Chief.
+CRUSHER [OC]: Jean-Luc, what's going on?
 

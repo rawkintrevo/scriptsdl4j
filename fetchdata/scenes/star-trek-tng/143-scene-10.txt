@@ -1,57 +1,34 @@
-TROI LAFORGE PICARD RIKER GREBNEDLOG WESLEY DATA REGINOD
-
-[Pakled ship]
-
-(La Forge beams in and is immediately crowded by
-four very big guys. Think Vogons without the green skin) 
-LAFORGE: Whoa, whoa, wait a minute, it's okay. I'm here to help. 
-GREBNEDLOG: We are far from home. 
-LAFORGE: Who's in charge of Engineering? 
-GREBNEDLOG: My friend. His name is Reginod. 
-LAFORGE: Think I could meet him? 
-GREBNEDLOG: He is Reginod. 
-LAFORGE: Yes, I think you mentioned that. 
-REGINOD: We look for things. 
-LAFORGE: So I've heard. 
-GREBNEDLOG: Can you make our ship go? 
-LAFORGE: Yes, I think so. 
-GREBNEDLOG: We look for things to make us go. 
-LAFORGE: Fellas, why don't you show me where your guidance system is,
-okay? Excuse me.
-REGINOD: He is smart.
+PICARD TROI DATA RIKER WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(The Bridge crew are watching everything on the
-viewscreen) 
-TROI: Commander? Lieutenant La Forge is on an alien ship? 
-RIKER: Yes. We're rendering assistance to some curious throwbacks. 
-DATA: How they ever mastered the rudiments of space travel is a genuine
-curiosity. 
-TROI: Commander. Those aliens. What they feel is not helplessness.
-Lieutenant La Forge is in great danger! He's in danger, great danger. 
-RIKER: Can you be more specific, Counsellor? 
-TROI: It's not our help they want. 
-RIKER: Well, our help is all they're going to get. They can't force us
-into anything, can they? 
-TROI: You think they're weak. 
-RIKER: Look at them. They're certainly not Jarada or Romulans. 
-DATA: Our Betazoid Counsellor is often aware of things beyond our
-perceptive abilities.
+TROI: It's all deception. Nothing the Pakleds have
+said or done has been sincere. 
+DATA: Intensified scan shows their guidance system to be perfectly
+intact, as is their power generator. 
+RIKER: Then what was Geordi repairing? 
+DATA: Apparently, the putative malfunctions were carefully programmed
+into their ship's computer. 
+RIKER: I didn't think the Pakleds had that kind of technology. 
+DATA: They seem to have made some technological leaps forward,
+Commander. 
+RIKER: Why would they go through the charade of needing our help? 
+TROI: For the sole purpose of making Lieutenant La Forge their
+prisoner. 
+Captain's personal log, stardate 42779.5. We have
+arrived at Starbase Five One Five. I'm still quite uneasy, despite
+assurances that this medical procedure poses little risk. 
+[Starbase 515 Medical Complex]
 
-[Shuttlecraft]
-
-PICARD: Van Doren's technique has been perfected to
-two point four percent. 
+PICARD: I hope you won't be late for your exams. 
+WESLEY: I still have some time, sir. 
+PICARD: Why do I get the distinct impression you're acting like some
+kind of escort? 
+WESLEY: Doctor Pulaski asked me to make sure you actually went inside. 
+PICARD: That woman. She would. 
 WESLEY: Sir? 
-PICARD: The cardiac replacement procedure. It has a very low mortality
-rate. Two point four percent. 
-WESLEY: Those are pretty good odds. 
-PICARD: Just not overly thrilled at the prospect of having my innards
-becoming the subject of Starfleet gossip. 
-WESLEY: Of course not, sir. Why didn't you just have Doctor Pulaski
-perform the operation? I'm sure you could've trusted her to keep it
-quiet. 
-PICARD: Let's say I have personal reasons and leave it at that, shall
-we?
+PICARD: Yes, what is it, Ensign? 
+WESLEY: I enjoyed our trip together, sir. 
+PICARD: So did I.
 

@@ -1,32 +1,41 @@
-TOKATH WORF
+BAEL GUEST1 GUEST5 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Worf's room]
+[Compound]
 
-(Worf is doing something to a piece of equipment
-when there is a knock on the door) 
-WORF: Enter. 
-(a Romulan comes in) 
-TOKATH: I am Tokath. I can return later if I am disturbing you? 
-WORF: It is a strange thing when a jailer concerns himself with his
-prisoner's comfort. 
-TOKATH: Mine is a strange prison. 
-WORF: You robbed the Klingons of who they were. You dishonoured them. 
-TOKATH: By not slitting their throats when we found them unconscious? 
-WORF: I do not expect you to understand. You are a Romulan. 
-TOKATH: You're just like L'Kor was twenty years ago. Proud and angry.
-He hated me. All the Klingons did. And I had no love for them, I won't
-deny it. When I informed the High Command that the Klingons wanted to
-remain here, I was told that unless I stayed to oversee them myself,
-they would be killed. My decision ended my military career. 
-WORF: Why did you do it? 
-TOKATH: I don't expect you to understand. You're a Klingon. But I do
-expect you to understand this, We've put aside the old hatreds. Here,
-Romulans and Klingons live in peace. I won't allow you to destroy what
-we have. 
-WORF: Do not deceive yourself. These people are not happy here. I see
-the sadness in their eyes. 
-TOKATH: That's not what I see when I look in my wife's eyes. I married
-a Klingon. So you see, when I warn you not to disrupt our lives here
-I'm not speaking just as a jailer, but as a man protecting his family.
-Do not test my tolerance.
-
+(morning, and a young man is hoeing a vegetable
+plot with a long, wicked-looking implement. Worf snatches it from him) 
+WORF: This is a gin'tak spear. 
+GUEST5: What of it? 
+WORF: Have your parents taught you nothing? This is used for battle,
+not tilling soil. 
+GUEST5: We have no need for weapons here. The war is far away. 
+WORF: What war? 
+GUEST5: The war our parents came here to escape. 
+WORF: That war was over many years ago. 
+GUEST5: I'm not interested in what you have to say, Klingon. I have work
+to do. 
+(Worf walks on to another area, where the girl from the pond is
+lounging) 
+BA'EL: Hello again, Worf. They say you've come to stay with us. 
+WORF: Not by choice. 
+BA'EL: Aren't you happy to have escaped the war? 
+WORF: The war. 
+BA'EL: Yes. We've heard the stories all our lives. How people are
+slaughtered in terrible battles, forced to fight whether they want to
+or not. That's why our parents came here, to make a safe home, a place
+where they could raise their children in peace. I should think you'd be
+relieved to get away from the fighting. You're safe here. 
+WORF: A place can be safe and still be a prison. Where I come from,
+people are free to come and go as they choose. 
+BA'EL: So are we. 
+WORF: Tell your father that you would like to leave. Tell him that you
+would like to visit the Klingon Home world. See what he says. 
+BA'EL: Why would I want to go there? It's dangerous. 
+WORF: Not any longer. 
+GI'RAL: Ba'el! Come here! 
+BA'EL: Yes, Mother. You are not allowed to leave the compound? Then I
+suppose I won't be seeing you at the pond again. 
+GI'RAL: I told you not to speak with him. 
+BA'EL: I'm sorry, Mother. 
+(Worf's homing device starts beeping. He switches it off) 

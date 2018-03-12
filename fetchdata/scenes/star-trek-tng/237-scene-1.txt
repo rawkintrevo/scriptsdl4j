@@ -1,27 +1,28 @@
-PICARD RIKER LEMEC MADRED JELLICO
+PICARD RIKER GUEST2 GUEST1 JELLICO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Interrogation room]
 
 (Picard is being given a truth drug) 
-MADRED: Your place of birth? 
+GUEST1: Your place of birth? 
 PICARD: La Barre, France. 
-MADRED: Mother's name? 
+GUEST1: Mother's name? 
 PICARD: Yvette Gessard. 
-MADRED: He's ready. Keep the serum at that level. What is your current
+GUEST1: He's ready. Keep the serum at that level. What is your current
 assignment? 
 PICARD: Special operations on Celtris Three. 
-MADRED: What is your mission on Celtris Three? 
+GUEST1: What is your mission on Celtris Three? 
 PICARD: To seek and destroy a metagenic weapon. 
-MADRED: How many others were part of this mission? 
+GUEST1: How many others were part of this mission? 
 PICARD: Two. 
-MADRED: Name and rank? 
+GUEST1: Name and rank? 
 PICARD: Chief Medical Officer Beverly Crusher. Lieutenant Worf. 
-MADRED: What are the Federation's defence plans for Minos Korva? 
+GUEST1: What are the Federation's defence plans for Minos Korva? 
 PICARD: I don't know. 
-MADRED: Increase the level slightly to point three one. Let's begin
+GUEST1: Increase the level slightly to point three one. Let's begin
 again, shall we? Name? 
 PICARD: Picard, Jean-Luc. 
-MADRED: Place of birth? 
+GUEST1: Place of birth? 
 PICARD: La Barre, France.
 
 Captain's log, stardate 46360.8. The negotiations
@@ -32,18 +33,18 @@ confrontation may be unavoidable.
 
 JELLICO: Gul Lemec, I assure you that what the
 Federation wants above all, is the preservation of peace. 
-LEMEC: Then how do you explain the fact that a Federation team launched
+GUEST2: Then how do you explain the fact that a Federation team launched
 an unprovoked assault on Cardassian territory less than fourteen hours
 ago? 
 JELLICO: I don't know what you're talking about. 
-LEMEC: Then let me explain. Captain Jean-Luc Picard, Lieutenant Worf,
+GUEST2: Then let me explain. Captain Jean-Luc Picard, Lieutenant Worf,
 and Doctor Beverly Crusher landed on Celtris Three, attacked one of our
 outposts in a brutal assault, and killed over fifty five men, women and
 children. 
 JELLICO: What evidence do you have of that? 
-LEMEC: We have all the evidence we need. We have Captain Picard. 
+GUEST2: We have all the evidence we need. We have Captain Picard. 
 RIKER: Is he alive? 
-LEMEC: The Cardassian Union has yet to decided how it will respond to
+GUEST2: The Cardassian Union has yet to decided how it will respond to
 this latest provocation. But rest assured, we will respond. 
 (the Cardassians leave) 
 RIKER: Is there any truth in what he's saying? 

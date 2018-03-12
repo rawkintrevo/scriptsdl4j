@@ -1,118 +1,16 @@
-TROI LAFORGE POLICEMAN PICARD DOCTOR RIKER GUINAN BELLBOY CLEMENS CRUSHER DATA
+TROI LAFORGE GUEST4 PICARD GUEST1 RIKER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's hotel room]
-
-BELLBOY: I wouldn't do this for just anybody,
-Mister Clemens. And I hope you won't spread it around that I let you
-in. People start talking. 
-(Clemens starts searching the room) 
-CLEMENS: Of course not, Jack. And I assure you that Mister Data would
-be most upset if you didn't. If I can't find that Letter of Intent that
-he left me, our major investor is going to pull out and take his
-business elsewhere. 
-BELLBOY: It has to do with Mister Data's engine, doesn't it? 
-CLEMENS: Engine? 
-BELLBOY: Yes. 
-CLEMENS: Oh, yes. Yes, this is exactly what it's all about. Ow! 
-(he gets a shock from it) 
-BELLBOY: You know, Mister Clemens, I'm going to do you another favour
-today. You're always looking for good stories, right? Well, I've got a
-real humdinger for you. The story of my life. Now, I know you may think
-I'm young, but I've covered a lot of ground and if I do say so myself,
-it'd make for some pretty fascinating reading. So, what do you think? 
-CLEMENS: About what? 
-BELLBOY: About writing my life story. You and me. Literary partners, of
-course. 
-CLEMENS: Young man, I have a maxim that I have always lived by. No one
-is more qualified to write your story than you are. 
-BELLBOY: Me? Be a writer? You think I could do that? 
-CLEMENS: As long as you write what you know. You got any passions, boy?
-Any dreams? 
-BELLBOY: I'd like to do some travelling, maybe go to sea. And Alaska.
-I've had the strangest notion to go see Alaska. 
-CLEMENS: That's a great idea, son. That's exactly what I would do if I
-were your age. Alaska, the Klondike, the Aurora Borealis. That's it.
-Follow your dreams and write about 'em. 
-BELLBOY: Thank you, Mister Clemens. You know, that is exactly what I'm
-going to do. 
-CLEMENS: You do that, son. 
-BELLBOY: You'll see my name in print, too. 
-CLEMENS: I'm sure I will. 
-BELLBOY: Don't forget. The name's London. Jack London. 
-CLEMENS: Goodbye now. Bye-bye. 
-(and ushers Jack out of the room and locks the door so he can examine
-the Contraption closely. There's the sound of a door, and Clemens hides
-in the wardroom. Data and Guinan enter) 
-GUINAN: I found the Head Surveyor, I found the cavern. You will not be
-able to get to it. The entrance is on a mine shaft that is the middle
-of the Presidio on an army base. 
-DATA: Perhaps you could arrange for us to get in. 
-GUINAN: How? 
-DATA: With permission to dig for the mine shaft. 
-GUINAN: Oh, no, Data. I've done everything you've asked 
-DATA: I have full confidence in your persuasive abilities. 
-GUINAN: Well, I suppose it's more interesting than throwing a tea
-dance. 
-DATA: Strange. The transceiver assembly has been removed. Without it I
-will be unable to track the time shifts. 
-GUINAN: Twain. 
-DATA: Clemens? 
-GUINAN: Yes. He's been driving me crazy. He watches the house, he
-follows me down the street asking me questions. If anyone took this you
-can believe it was him. 
-DATA: If you are correct, he must be warned. The device has been
-modified in such a way that prolonged contact with human tissue would
-be highly toxic. 
-(there's a thump from the wardrobe. Data opens the door to reveal the
-guilty party. Data picks up the
-transceiver that Clemens dropped.) 
-CLEMENS: Madame Guinan. Mister Data. 
-GUINAN: Shame on you, Mister Clemens. Shame. 
-CLEMENS: Shame, madam? I think not. I find no shame in my efforts to
-uncover your plot. 
-GUINAN: I keep telling you, there is no plot. 
-CLEMENS: Yes, you do keep telling me that. What an interesting pair you
-are. Where in Switzerland did you say you were from, Mister Data? 
-DATA: I am French, sir, not Swiss. 
-CLEMENS: Oh yes, that's right, now I remember. A Frenchman with a
-talent for poker, from what I hear. You know, I was talking to a friend
-of mine, Ches Whitley. He says to say hello and wonders when you're
-coming back. 
-DATA: I do not believe I know Mister Whitley. 
-CLEMENS: No? He works at the County Assayer's office. He says you've
-been in there a number of times claiming to be a geological engineer
-and wanting information about mining operations during the 1850's. You
-remember him now? 
-DATA: I am unfamiliar with the gentleman's name. I have spoken to
-several people at that office. 
-CLEMENS: Yes, I know. And in the Hall of Records, and in the Geological
-Society, and a little-known mineral shop in Chinatown. You do get
-around, don't you? 
-DATA: As apparently you do, Mister Clemens. 
-CLEMENS: I must admit you've got me mystified. This contraption, for
-instance. It's very unusual. It looks quite futuristic. Tell me, might
-it have something to do with time shifts? 
-DATA: In a sense. The time shift is a gearing system I have invented
-for the horseless carriage. 
-CLEMENS: Do not insult me. You have come here to this century and
-brought your infernal technology with you for God only knows what
-purpose, but I have no doubt it will be the people of this century who
-will suffer for it. 
-GUINAN: My dear Mister Clemens, I do think we've heard enough. Mister
-Data's business is his own, and I will thank you to leave now. 
-CLEMENS: Pardon me, Madam Guinan, but it is my business too. It is the
-business of all humanity, I believe, to stop both of you from whatever
-it is you are doing here. And that is what I intend to do. 
 [Sisters of Hope Infirmary]
 
 (Picard is up a ladder working on a gas lamp) 
-DOCTOR: Just what are you doing with those lamps? 
+GUEST4: Just what are you doing with those lamps? 
 PICARD: Replacing the burners. City ordinance. Makes it safer in case
 of earthquake. 
-DOCTOR: There hasn't been an earthquake here in thirty years. 
+GUEST4: There hasn't been an earthquake here in thirty years. 
 PICARD: Well, that's takes care of this ward. Time to be moving on. 
 (Picard leaves)
-DOCTOR: Earthquakes. Nurse. (Crusher hides her tricorder) If you can
+GUEST4: Earthquakes. Nurse. (Crusher hides her tricorder) If you can
 handle things here, I've got a meeting with the Board of Patrons. 
 CRUSHER: I'll try to manage. 
 (The doctor leaves) 
@@ -135,15 +33,15 @@ LAFORGE: Doctor!
 (Geordi gets the snake cane off the male and Riker stuns him to no
 effect. The couple vanish) 
 (Data's contraption goes crazy, he checks a map and rushes out.) 
-POLICEMAN: Stand aside, stand aside. Let me in here. People said there
+GUEST1: Stand aside, stand aside. Let me in here. People said there
 was gunfire in here. What's going on? 
 RIKER: Just a little misunderstanding. I was just clearing these people
 out of here. 
-POLICEMAN: I haven't seen you before. 
+GUEST1: I haven't seen you before. 
 RIKER: I was just assigned here this morning. I was working downtown. 
-POLICEMAN: I worked downtown for three years. I don't remember you. 
+GUEST1: I worked downtown for three years. I don't remember you. 
 PICARD: We'll be on our way. 
-POLICEMAN: No, wait. Wait. I'm going to ask all of you to come down to
+GUEST1: No, wait. Wait. I'm going to ask all of you to come down to
 the station for questioning. Including you. Where'd you get that?
 That's a gentleman's cane. Never seen a cane like this before. I'll
 have to confiscate it for evidence. 

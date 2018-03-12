@@ -1,57 +1,41 @@
-RIKER RO LAFORGE PICARD MIROK VOICES VAREL ROMULAN MCDOWELL DATA
-
-  [Bridge]
-
-PICARD: Time, Mister Data? 
-DATA: We will arrive within transporter range in three minutes twenty
-one seconds. 
-MCDOWELL: (at tactical) I've finally established audio contact with the
-Romulan ship. 
-ROMULAN [OC]: (heavy static) Main power failing. No way to stop the
-overload. 
-PICARD: Enterprise to Romulan vessel. We are en route to your position.
-
-ROMULAN [OC]: Enterprise, what is your time of arrival? We are facing
-an imminent core breach. 
-PICARD: Repeat your last transmission. 
-MCDOWELL: I'm sorry, Captain. They've stopped transmitting. 
-PICARD: Picard to Riker.
+PICARD RIKER GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
-RIKER: Riker here. 
-PICARD: Transport to the Romulan ship as soon as we're within range. 
-(La Forge and Ro are on the transporter pads) 
-RIKER: Aye, sir. No weapons. We don't want them to think they're under
-attack. 
-RO: This is not a bright idea. 
-RIKER: I beg your pardon, Ensign. I didn't quite catch that. 
-RO: Nothing, sir. 
-(Worf and Riker join them)
+GUEST1: Aye, sir. 
+(She activates the controls and things fizzle) 
+GUEST1: What the hell? Engineering, I need more power to the primary
+energising coil. Brossmer to Commander Riker. I'm losing them I have to
+abort. 
+[Romulan Engineering]
+
+GUEST1 [OC]: They should be returning to your
+coordinates, sir. 
+RIKER: Chief, do you have them? They're not here. 
+GUEST1 [OC]: No, sir. 
+RIKER: Where are they? 
+[Transporter room]
+
+GUEST1: I can't locate their patterns. 
+[Romulan Engineering]
+
+GUEST1 [OC]: We've lost them, sir. 
+[Bridge]
+
+GUEST1 [OC]: I've done all I can, sir. I'm afraid
+they're gone. 
+PICARD: Mister Data, begin a level one diagnostic. All transporter
+systems offline until further notice. Could they have materialised
+somewhere else? 
+DATA: Negative, Captain. Sensors are unable to locate them anywhere
+within transporter range. 
+PICARD: Counsellor? 
+(Troi shakes her head) 
+RIKER [OC]: Riker to Enterprise. 
+PICARD: Go ahead, Number One.
 
 [Romulan Engineering]
 
-(it is a scene of death, devastation, fires and
-controlled chaos) 
-VOICES [OC]: All main thrusters are shut down. Your information is
-unreliable. The AH is inoperative. Give me a hand here. 
-(the team beam in) 
-RIKER: We're from the Federation Starship Enterprise. We received your
-distress call. 
-MIROK: The Enterprise? 
-RIKER: That's right. Your message said you'd suffered a failure in your
-engine core. 
-MIROK: Yes. We had a forced chamber explosion in the resonator coil. 
-LAFORGE: It's a pretty strange set up, but it looks like the graviton
-field generator has been completely depolarised. There's no way to fix
-it. It'll have to be replaced. 
-RIKER: Where are your replicators? 
-VAREL: (a woman) They are offline. 
-RIKER: Who's in charge here? 
-MIROK: The Captain is dead. I'm the science officer. Mirok. 
-RIKER: We'd like to move the generator back to the Enterprise for
-replication. 
-MIROK: All right. 
-RIKER: Geordi, you and Ro. 
-LAFORGE: La Forge to Brossmer. Two people and one piece of equipment to
-beam aboard. 
+RIKER: Captain, we're still looking at a core
+breach unless we can fashion a new graviton generator. 

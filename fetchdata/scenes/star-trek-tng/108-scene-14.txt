@@ -1,55 +1,46 @@
-ANTICAN RIKER TASHA PICARD CHIEF SINGH DATA
+TROI LAFORGE WORF PICARD RIKER WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-CHIEF [OC]: Transporter room six to Bridge.
-Reporting transporter console malfunction, sir. 
-PICARD: Data, this ship is less than a year out of Spacedock. What are
-the chances of this occurring? 
-DATA: It is a virtual impossibility, sir. 
-PICARD: So what the hell is going on here?
-
-[Observation lounge]
-
-PICARD: And you are telling me there are no
-explanations for these malfunctions? 
-RIKER: At least, sir, all the department heads have reported the damage
-repaired. 
-PICARD: That was not my question, Number One. What caused the
-malfunctions? 
-SINGH: I believe it was a rampant electronic short that jumped from
-system to system, sir. But the only thing is, er 
-PICARD: Yes, Mister Singh? 
-SINGH: That shouldn't be possible. The affected systems don't generally
-interact with each other. And where they do, it wasn't an interlink
-that was malfunctioning. 
-PICARD: Have you spoken with Chief Engineer Argyle about this problem? 
-SINGH: With all the Engineering staff, sir. They're just as puzzled. 
-PICARD: Well, I'm not satisfied. I want an explanation of this by the
-time we reach Parliament. 
-SINGH: But, sir. 
-PICARD: By the time we reach Parliament, Mister Singh.
-
-[Antican quarters]
-
-RIKER: These weapons were taken from two of your
-people who were loitering out of sight in the vicinity of the Selay
-delegation quarters. Would you care to explain, sir? 
-ANTICAN: These are not weapons, First Officer. They are tools. We use
-these to dispatch the animals we consume. 
-TASHA: Your food supply is not on the same deck as the Selay
-delegation, sir. 
-RIKER: And you have to admit that these could kill. 
-ANTICAN: I admit some of my people are impulsive. and we all have
-reason to hate the Selay. 
-TASHA: They appear to have the same feelings about you, sir. 
-ANTICAN: The nature of politics. 
-RIKER: Nevertheless, Chief Delegate, you're on notice that all of your
-weapons, no matter what their basic function, are being confiscated.
-Violence will not be tolerated on the Enterprise. 
-ANTICAN: Of course not. And if any does occur, let me assure you it
-will not be we Anticans who start it. 
-TASHA: Thank you, sir. 
-(Riker and Tasha leave) 
-ANTICAN: But we will finish it.
+WESLEY: That engine computer net wasn't repaired,
+sir. It just suddenly became all right. 
+LAFORGE: Sometimes it's the result that counts, you know. What the? Oh,
+no. 
+WORF: What is it? 
+LAFORGE: Helm control just went down. She won't respond. 
+WORF: Bridge to Captain. You're needed here immediately. 
+LAFORGE: Wes, alert Engineering from your panel, alright? 
+WESLEY: I'm trying. 
+PICARD: Report. 
+WORF: Helm is down, sir. There's no apparent reason. 
+LAFORGE: Captain, we've just dropped to impulse power. 
+(Picard leans over and touches the console. Blue energy enters him) 
+LAFORGE: Sir, are you all right? I thought I just saw 
+PICARD: I'm fine. Everything is fine now. Why the drop to impulse
+power, Lieutenant? 
+LAFORGE: The helm is suddenly malfunctioning, sir. 
+PICARD: Malfunctioning? You're wrong. Look again. 
+LAFORGE: Sir, I was just 
+RIKER: Mister La Forge? 
+LAFORGE: Well, there's nothing wrong with it now, sir. Everything is
+just as it should be. 
+PICARD: In that case, make our heading nine two five mark three seven. 
+LAFORGE: Sir? 
+PICARD: You have a problem with that heading, Lieutenant? 
+LAFORGE: You want to double back on our course, sir? 
+PICARD: Isn't that what I ordered? 
+LAFORGE: Yes, sir. 
+RIKER: Sir, I'm puzzled about your reversing our course. 
+PICARD: That energy cloud, Commander. I believe it important we have
+another look at it. 
+RIKER: But we're behind schedule for Parliament already. 
+PICARD: I believe a very important scientific discovery awaits us on
+this heading. 
+TROI: Perhaps you'd like to share your reasoning on that, sir? 
+DATA: Yes, since we obtained only minimal information on our sensor
+pass of it. 
+PICARD: Right, Data. We must go back to learn more. Counsellor, do you
+believe a ship Captain should explain every order? 
+TROI: Of course not, sir.
 

@@ -1,84 +1,28 @@
-RIKER LAFORGE WORF VARRIA PICARD WESLEY FAJO DATA
+WESLEY LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Data's quarters]
 
-DATA [OC]: The remaining cases of hytritium are now
-being loaded.
-PICARD: Acknowledged. Mister Worf, advise Beta Agni Two that our
-departure is imminent. 
-WORF: Aye, Captain. 
-RIKER: At warp six, we should be there in just over sixteen hours.
-
-[Jovis Cargo bay]
-
-(The rear hatch on shuttlepod Pike closes and Data
-gets into the pilot's seat) 
-DATA: Loading is complete. I am proceeding with departure. Enterprise
-shuttlebay two, prepare for docking, level one
-precautions for incoming material remain in effect. 
-VARRIA: If you'll just acknowledge this last load, Commander 
-(Data puts his thumb on the PADD and is enveloped in electricity. He is
-knocked out cold. Varria takes back the PADD then she scans him) 
-VARRIA: Twenty six point eight kilos of tripolymer composites. Eleven
-point eight kilos of molybdenum-cobalt alloy. One point three kilos
-Bioplast sheeting. 
-[Bridge]
-
-LAFORGE: Shuttle twelve containment field reads
-nominal. Now leaving the Jovis. 
-PICARD: On viewer. 
-LAFORGE: Containment field stable. Gravitational fluctuations within
-acceptable parameters. Flight pattern 
-(Shuttlepod Pike goes Ka-BOOM! Stunned expressions all round)
-WORF: Data. 
-Captain's log, supplemental. As the result of a yet
-unexplained shuttle explosion, Lieutenant Commander Data has been lost.
-
-[Bridge]
-
-RIKER: Why didn't the containment field hold? 
-LAFORGE: Unknown, Commander. 
-PICARD: Hail the Jovis. I want to speak with Kivas Fajo. 
-WORF: Sir, Mister Fajo is hailing us. 
-PICARD: On viewer. 
-FAJO [on viewscreen]: Captain Picard, what happened? 
-PICARD: It's unclear. We're running a full analysis. 
-FAJO [on viewscreen]: We detected no malfunctions before the explosion.
-Everything seemed to be running as smoothly as the other flights. Were
-you able to save the pilot? 
-PICARD: No. 
-FAJO [on viewscreen]: I'm sorry. 
-PICARD: Mister Fajo, I would like to analyse your sensor readings of
-the explosion. 
-FAJO [on viewscreen]: Compared to the Enterprise's, our sensors are
-rather primitive. I doubt they contain any information that your
-sensors overlooked. 
-PICARD: Perhaps, but I don't want to leave any avenue unexplored. 
-FAJO [on viewscreen]: I understand. We'll transmit the information. 
-WORF: Link established. Receiving. 
-FAJO [on viewscreen]: Can we be of any further assistance? 
-PICARD: How much hytritium did we manage to bring on board? 
-RIKER: Eighty one kilos. 
-LAFORGE: That will barely allow us to complete our mission, Captain,
-but it leaves us no margin for error. 
-PICARD: Mister Fajo, I realise we have acquired your complete supply of
-hytritium. Do you know where we could obtain some more? 
-FAJO [on viewscreen]: That may be difficult. The only source I know is
-in the Sigma Erani system. 
-RIKER: Three weeks away, sir. 
-FAJO [on viewscreen]: And I can't guarantee they'll have any. For
-obvious reasons, no one wants to keep it around. In fact, even I may
-stop selling it. It's just too dangerous. 
-RIKER: I guess we're fortunate you had any at all, sir. 
-WORF: Captain, transfer of information complete. 
-PICARD: Mister Fajo, thank you for your help. 
-(transmission ends) 
-PICARD: Mister Crusher, set a course for the Beta Agni Two system, warp
-six. 
-WESLEY: Aye, sir. 
-RIKER: The Grissom is near the Sigma Erani system. I'll alert them to
-stand by in case we need more hytritium. 
-PICARD: Thank you, Number One. 
-WESLEY: Course laid in, sir. 
-PICARD: Engage.
+WESLEY: I can't believe he's gone. 
+LAFORGE: I always thought he'd outlive us, by centuries. 
+(Wesley uncovers a painting) 
+WESLEY: He'd been working on this for months. He never felt it was
+quite finished. 
+LAFORGE: You know what a critic Data was, especially about his own
+work. 
+(Geordi opens a drawer and takes out a book. Shakespeare, I think) 
+WESLEY: That was a gift from the Captain. 
+LAFORGE: And he should have it back. 
+(Cards and poker chips) 
+WESLEY: Those should go to Commander Riker. 
+LAFORGE: Data always fell for Riker's bluffs. 
+(A box with eight medals in it) 
+WESLEY: These are some of Starfleet's highest honours. 
+LAFORGE: Not bad for a walking pile of circuitry and memory cells. 
+(and the hologram of Tasha Yar)
+LAFORGE: You know, I keep going over and over the accident in my mind,
+trying to figure out what went wrong. I can see Data in the shuttle,
+almost like I'm sitting there next to him going through the departure
+sequence. What the hell happened? Why didn't I see
+it coming? What am I missing?
 

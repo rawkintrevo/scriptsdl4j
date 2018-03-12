@@ -1,63 +1,67 @@
-TROI LAFORGE WORF PICARD RIKER PULASKI DATA TELAKA
+GUEST1 WORF PICARD PULASKI WESLEY GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(At the rear stations) 
-DATA: I have verified receipt of the access codes for the Lantree,
-Captain. 
-PICARD: Grand. Commence operations. 
-RIKER: Our first move will be shut down the engines. 
-LAFORGE: Standing by, Commander. 
-DATA: The Lantree computer reports access codes received and accepted,
-sir. 
-(Pulaski enters) 
-PULASKI: Sickbay on alert, Captain. 
-LAFORGE: Interlock is engaged. The Lantree is responding, sir. 
-DATA: We have override control of her Bridge, Captain. All systems
-answering. 
-PICARD: All right, let's have a look. 
-LAFORGE: Lantree Bridge monitor engaging. 
-(The viewscreen shows very old people dead in their seats) 
-PICARD: Are you reading anything, Doctor? 
-PULASKI: Still no signs of life, Captain. 
-PICARD: Magnify. That must be Captain Telaka on the left. Let's look at
-him. Closer. My God. 
-RIKER: Looks like they had a battle with time. 
-WORF: And lost. 
-PULASKI: Heart, lungs, liver, everything. 
-PICARD: What is it? 
-PULASKI: They died of natural causes. 
-PICARD: Natural causes? What in nature could cause that? 
-PULASKI: For the record, Captain, they died of old age. 
-[Observation lounge]
+WORF: Quarantine warnings active on all
+frequencies, Captain. 
+GUEST1 [OC]: Extreme caution. The USS Lantree is a quarantined vessel
+by order of Starfleet Command. Do not board. 
+PICARD: Set course for Gagarin Four, warp seven. 
+WESLEY: Course and speed set, sir. 
+PICARD: Engage. 
+Captain's log, supplemental. We're en route to the
+Federation Research station on Gagarin Four. The mere thought of a
+possible connection between the Lantree tragedy and a genetic research
+facility fills me with profound apprehension. 
+[Bridge]
 
-RIKER: We've downloaded the Lantree's log, sir. 
-PICARD: Play back the Captain's last entry. 
-TELAKA [OC]: Captain's log, stardate 42493.1. There are only six of us
-left. We've set course for the nearest Federation outpost, but I am
-afraid it's too late. All attempts to analyse what is happening have
-failed. In the last few hours I've watched friends grow old and die,
-and I'm seeing it happen to me. Captain L.I. Telaka, USS Lantree. 
-RIKER: Captain Telaka was my age, sir. 
-PICARD: Doctor? 
-PULASKI: Every member of the Lantree crew had a complete examination at
-the beginning of this duty cycle eight weeks ago. They were in perfect
-health. 
-TROI: Nothing else since? 
-PULASKI: A single medical entry noting that the First Officer was
-treated for Thelusian flu five days ago. 
-PICARD: Thelusian flu? 
-PULASKI: It's an exotic but harmless rhinal virus. It couldn't have
-caused this. 
-RIKER: The last port of call of the Lantree was the Darwin Genetic
-Research Station on Gagarin Four three days ago. 
-PULASKI: Whatever happened, it could be something that the Lantree crew
-already had or it could have come from Gagarin. At the very least, the
-people from Darwin Station deserve a warning. We may have to consider a
-quarantine. 
-PICARD: You'll agree that we should quarantine the Lantree. 
-PULASKI: Absolutely. 
-RIKER: Lieutenant, initiate the quarantine transmitters on the Lantree
-and activate her marker beacons. We'll need to find her again. 
-WORF: Aye, sir.
+WESLEY: We're approaching Gagarin Four, Captain. 
+PICARD: Standard orbit, Mister Crusher. 
+WESLEY: Aye, sir. 
+PICARD: Hailing frequencies. 
+WORF: Open. 
+PICARD: Darwin Station, this is Captain Jean-Luc Picard of the USS
+Enterprise. 
+(A middle aged woman comes on the viewscreen. She seems harassed) 
+GUEST0 [on viewscreen]: Enterprise, this is Darwin Station. I'm
+Doctor Kingsley. We've just declared a medical emergency here. We need
+your help. 
+PULASKI: Doctor Kingsley, what is the nature of your emergency? 
+GUEST0 [on viewscreen]: To whom am I speaking, please? 
+PULASKI: I'm Doctor Pulaski, Chief Medical Officer. 
+GUEST0 [on viewscreen]: Katherine Pulaski, author of Linear Models of
+Viral Propagation? 
+PULASKI: That was a long time ago. 
+GUEST0 [on viewscreen]: But still the standard. I can't think of
+anyone I'd rather be dealing with. Doctor, we're experiencing the rapid
+onset of geriatric phenomena. The first symptom is sudden, acute
+arthritic inflammation. Then the aging process accelerates. 
+PULASKI: The Lantree. 
+GUEST0 [on viewscreen]: Doctor Pulaski, I celebrated my thirty fifth
+birthday a week ago. 
+PULASKI: Doctor, we understand that Darwin Station is involved in
+genetic research. Is there a possible connection? 
+GUEST0 [on viewscreen]: Our research here is limited to human
+genetics. I can assure you we're not dealing with something that got
+away from us. We believe that we were infected by a supply ship that
+was here three days ago. 
+PICARD: Doctor, if you're speaking of the Lantree, we encountered it a
+few hours ago. All the crew members were dead. 
+GUEST0: Which would seem to confirm our suspicion. Were you able to
+establish a pathology, Doctor? 
+PICARD: Doctor, did you hear what I said? All the twenty six men and
+women aboard that ship were dead. 
+GUEST0: I heard you, Captain, and the prognosis is alarming, but my
+immediate concern is our children. 
+PULASKI: Children? 
+GUEST0: They represent years of advanced genetic research. You must
+evacuate them as soon as possible. 
+PICARD: I'm sorry, but under the circumstances, until we know what's
+going on I'm imposing a full quarantine on Darwin Station. 
+GUEST0: But the children have been in protective isolation since this
+was detected. They show no symptoms. You cannot leave them here to die!
 
+PICARD: Doctor, our options in a quarantine situation are extremely
+limited. We are going to consider the possibilities. I suggest you do
+the same. 

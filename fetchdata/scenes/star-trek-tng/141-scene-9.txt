@@ -1,81 +1,56 @@
-TROI LAFORGE WORF PICARD RIKER PULASKI WESLEY DATA
+WESLEY RIKER WOMAN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Ten forward]
 
-PICARD: This is Commander Riker's meeting. 
-RIKER: I'll need your advice and recommendations. As you know, I've
-been given the responsibility of overseeing Wesley's education. To
-further that goal, I would like to put him in charge of the planetary
-mineral surveys. 
-PULASKI: It's a big job with a lot of responsibility. 
-RIKER: The game isn't big enough unless it scares you a little. 
-LAFORGE: To do the job, Wesley's going to need a team. It takes command
-presence to lead. Do you think he's ready for that? 
-TROI: Leadership grows from self-confidence, which is also part of a
-Starfleet officer's education. 
-PICARD: All of this is true, but there is an old horse trainer's adage
-about putting too much weight on a young back. We don't want him to
-break under pressure. 
-PULASKI: We seem to be shifting the focus here. Are we talking about a
-young officer on the fast track to the Academy, or are we talking about
-a young man that we are guiding through adolescence and into adulthood?
-
-TROI: You can't guide someone into adulthood. The experiences are
-unique to each person. Whether Wes succeeds or fails, he will learn
-from the experience. 
-PULASKI: I agree. I'm just questioning the speed at which we're moving.
-
-LAFORGE: You think we're pushing him too hard? 
-PULASKI: I think that's a valid concern. 
-PICARD: Tempering is taken to extremes. 
-PULASKI: He is a boy, not a sword. 
-PICARD: Who will one day be a man and, to extend the metaphor, will
-need a fine edge that won't dull at the first touch of resistance. 
-RIKER: Sooner or later he'll have to feel the burden of command. Ensign
-Crusher.
-
-[Bridge]
-
-RIKER [OC]: Report to the Observation Lounge.
-
-[Observation lounge]
-
-(Wesley enters) 
-RIKER: Wesley, I've assigned you the command of the planetary mineral
-surveys. 
-WESLEY: Sir? Thank you, sir. 
-RIKER: You may not thank me once you see how much work it entails.
-Assemble a team, and take a look at the records on the Drema quadrant.
-There's a mystery here. We've got to solve it. 
-WESLEY: Yes, sir. A team, sir? 
-PICARD: Ensign, this is a serious responsibility. 
-WESLEY: I know, sir. 
-PICARD: These officers are here to assist you. Not judge, help you. You
-should make use of them. They are a valuable resource. And by the way,
-I respect an officer who is prepared to admit ignorance and ask a
-question, rather than one who out of pride will blunder blindly
-forward. 
-WESLEY: I understand, sir. 
-RIKER: Ensign. You're dismissed. 
-WESLEY: I'll try not to disappoint you.
-
-[Bridge]
-
-(Data is working at a rear station. There are
-components and tools scattered on the floor) 
-WORF: Is this part of your regular duties? 
-DATA: No, it is a personal project. I have reset the sensors to scan
-for frequencies outside their usual range. 
-WORF: Such as? 
-DATA: The dips and peaks of the galaxy's magnetic field, organic
-molecules in nebular clouds, energetic cosmic rays. 
-WORF: Interesting. Would these scans also detect artificial
-transmissions as well as naturally occurring signals? 
-DATA: Of course. 
-WORF: Good. 
-DATA: Those signals are very faint and difficult to distinguish from
-background noise. That is why I am boosting the power. 
-(Worf knocks over a circuit board with his foot) 
-DATA: I will be removing that equipment to my quarters. 
-WORF: Good.
-
+(Riker is socialising with a young woman) 
+RIKER: Seeing the look on his face. I'll get you another drink. (goes
+to the bar) Two more. 
+(Wesley enters and gestures that he wants a word) 
+RIKER: Thank you. 
+(Riker takes the drinks to his table and makes his excuses) 
+RIKER: Family emergency. (goes to Wesley's table) You don't look like a
+person who came here to relax. 
+WESLEY: I didn't. I need your advice. Yesterday, when Ensign Davies
+turned in his geological survey, I asked him to run an ico-spectrogram.
+He didn't agree. 
+RIKER: Do you think you were right? 
+WESLEY: Yes. I guess. I could have just been picking nits. 
+RIKER: Or you could have been intimidated. It's tough to tell other
+people what to do. 
+WESLEY: I suppose I could have made it an order, but how do you give
+orders to somebody older and more experienced then you? 
+RIKER: The difference in ages between you and Davies is not the issue
+here. 
+WESLEY: I guess not. 
+RIKER: Do you think it might have something to do with ego? 
+WESLEY: No, it's just the opposite of ego. Every time I try to give an
+order, something inside me says, what makes my judgment so superior to
+these people's? 
+RIKER: Wes, responsibility and authority go hand in hand. I know you're
+responsible, now we've got to teach you a little bit of authority. One
+of the reasons you've been given command is so you can make a few right
+decisions, that will establish a pattern of success and help build
+self-confidence. If you don't trust your own judgment, you don't belong
+in the command chair. 
+WESLEY: But what if I'm wrong? 
+RIKER: Then you're wrong. It's arrogant to think you'll never make a
+mistake. 
+WESLEY: But what if it's something really important. I mean, not just a
+mineral survey. What if someone dies because I made a mistake? 
+RIKER: In your position, it's important to ask yourself one question.
+What would Picard do? 
+WESLEY: He'd listen to everyone's opinion, then make his own decision.
+But he's Captain Picard. 
+RIKER: Well it doesn't matter. Once Picard makes his decision, does
+anyone question it? 
+WESLEY: No way. 
+RIKER: And why not? 
+WESLEY: I'm not sure. 
+DATA [OC]: Commander Riker, report to the Captain's quarters. 
+RIKER: When you figure it out, you'll understand command. I'm on my
+way. I hope I've been able to help. You let me know what you decide? 
+WESLEY: I've made my decision. I'm going to have Davies run that
+ico-gram. Thank you, sir. 
+RIKER: You're welcome. (in his date's ear) I'll see you later) 
+WOMAN: Okay. 

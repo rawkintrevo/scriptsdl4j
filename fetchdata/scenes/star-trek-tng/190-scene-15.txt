@@ -1,65 +1,30 @@
-TROI LAFORGE WORF PICARD LEAH RIKER CRUSHER
+RIKER LAFORGE WORF PICARD DATA RAGER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Bridge]
 
-PICARD: Doctor. 
-CRUSHER: It's dangerous to generalise about new life forms, but based
-on my experience with other beings who bear their young in this manner,
-I'd say that the offspring is still premature. Otherwise, it would be
-able to break through the outer body shell of the parent. 
-PICARD: Will this creature be able to survive on its own without the
-parent? 
-CRUSHER: There's no way to tell. We don't have enough information about
-the bio-functions of the adult, much less the child. 
-TROI: Is there something we can do to help? 
-CRUSHER: If we were in Sickbay, I'd try a Caesarean section. The first
-priority is to free it from the body of the parent. 
-RIKER: We could use our phasers as a scalpel. 
-CRUSHER: Yes, that might work. 
-WORF: I advise against this, Captain. The parent proved to be a threat
-to the ship. We do not know how the offspring will react. 
-PICARD: Your objection is noted, Mister Worf, but we are directly
-responsible for the death of the parent. We cannot simply wash our
-hands of it now. Doctor, we will proceed at your discretion.
+WORF: Captain, its total volume has increased by
+eight point five percent in the last three hours. I now read it at
+forty six million cubic metres. 
+DATA: Captain, I have completed the analysis of the parent's course
+through this system. 
+RIKER: It was headed for an asteroid belt. 
+PICARD: Ensign Rager, set course two five nine mark three one eight,
+half impulse. 
+RAGER: Aye, sir. 
+PICARD: Hold a position five hundred kilometres from the periphery of
+the asteroid field. 
+RAGER: Aye, sir. 
+WORF: Difficulty getting a clear sensor reading beyond four thousand
+kilometres. 
+DATA: The asteroids contain large quantities of meklonite, which is
+interfering with our scanners. I am also detecting traces of kephneum,
+a compound found in the outer shell of the parent being. It is likely
+the asteroids provide sustenance for this lifeform, sir. 
+RIKER: We could leave the child here. If Data's right, it would have an
+ample supply of food. 
+PICARD: Agreed. Mister La Forge, are you ready to separate our guest
+from the hull? 
+LAFORGE [OC]: Ready, Captain. 
+PICARD: Proceed.
 
-[Engineering]
-
-LEAH: Good morning. 
-LAFORGE: Good morning. 
-LEAH: The first thing I'd like to do is inspect the power transfer
-conduits. 
-LAFORGE: You realise the only way to inspect them is to crawl inside. 
-LEAH: I designed them, Commander. I know what's involved.
-
-[Jefferies tube]
-
-(they are both on hands and knees, in brown
-overalls) 
-LAFORGE: Here we go. Power taps. Watch yourself. 
-LEAH: The acoustic signature doesn't sound right. 
-LAFORGE: You're probably the only other person in the galaxy who could
-pick that up. 
-LEAH: What's causing it? 
-LAFORGE: It's right up here. 
-LEAH: I've never seen anything like this before. What is it? 
-LAFORGE: It's a mid-range phase adjuster. Puts the plasma back into
-phase after inertial distortion. 
-LEAH: This has never been done before. I don't even think this has ever
-been conceived of before. You should write a scientific paper. 
-LAFORGE: Uh-uh, Doctor, no. Writing is not one of my strong suits. 
-LEAH: But this kind of refinement should be shared, and you deserve the
-credit for it. 
-LAFORGE: Well, maybe we could collaborate. Writing is one of your
-strong points. 
-LEAH: Commander La Forge, ever since I came on board, there seems to be
-something a little peculiar about your attitude. You seem to know
-things about me, even though we've never met. 
-LAFORGE: Well, to tell you the truth, I've studied you. Your writings,
-your Starfleet file. I've admired you. You know, your work. 
-LEAH: Well, I'm flattered, but. 
-LAFORGE: And, well, I really, I really wanted to meet you for a long
-time, And I'd like to think that we could become friends. Maybe good
-friends. 
-LEAH: I thought you knew. I mean, you know everything else about me,
-but Commander, if I'm hearing what I think I'm hearing, then you should
-know that I'm married. 

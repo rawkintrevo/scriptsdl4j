@@ -1,22 +1,5 @@
-PICARD TROI DATA RIKER WORF
-
-[Turbolift]
-
-DATA: Would either of you mind if I made a personal
-inquiry? 
-TROI: Personal inquiry? No, go right ahead. 
-DATA: I am perceiving an apparent change in the way others behave
-toward me. For example, people abruptly end conversations when I
-appear, just as you did when the turbolift doors opened. Is that an
-accurate observation? 
-RIKER: Not at all. 
-TROI: (same time) Yes. 
-RIKER: Yes. 
-TROI: You're right, Data. And it's not a very nice thing to do. 
-RIKER: It's just that our mental pathways have become accustomed to
-your sensory input patterns. 
-DATA: I understand. I am also fond of you, Commander. And you as well,
-Counsellor.
+PICARD RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 

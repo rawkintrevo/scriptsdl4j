@@ -1,89 +1,38 @@
-TROI LAFORGE WORF PICARD SALIA RIKER WESLEY DATA ANYA
+LAFORGE WORF SALIA WESLEY GUEST1 ANYA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Engineering]
 
-(O'Brien beams a young woman and her older
-chaperone aboard. No luggage) 
-PICARD: Welcome to the Enterprise. I'm Captain Picard. 
-ANYA: This is Salia of Daled Four. 
-SALIA: I didn't feel a thing. Is that normal when one is transported,
-Captain? 
-PICARD: Oh, yes, it is. 
-SALIA: Those must be the matter energy conversion controls. May I take
-a look? 
-PICARD: Yes, of course. 
-RIKER: I can arrange for a tour of the ship, if you'd like. 
-SALIA: Oh, I'd love that. 
-ANYA: No, that will not be necessary. Just show us to our quarters,
-Captain Picard. 
-PICARD: Very well.
+(Geordi is doing what Wesley should have been
+doing, when Anya and Worf enter) 
+WORF: This is the dilithium crystal chamber. Our Chief Engineer, Geordi
+La Forge.
 
+ANYA: What is that? What are you doing? 
+LAFORGE: Nothing to be concerned about. Just performing some routine
+adjustments. 
+ANYA: I wasn't aware that the deuterium control conduit required
+routine adjustments. 
+(She goes up in the lift to join Geordi) 
+LAFORGE: I perform periodic inspections on all engineering systems. 
+ANYA: In this case you seem to have found a malfunction. 
+LAFORGE: It's not a malfunction. It's simply that a minute defocused
+area has developed. It lowers our operating efficiency. 
+ANYA: It could also lead to excess prion production. 
+LAFORGE: Our computer would detect that. 
+ANYA: Unless, of course, it too is malfunctioning. 
+LAFORGE: Look, I really have to get this finished. 
+WORF: Anya. Please come with me. 
+ANYA: I will be back to check your progress. 
 [Corridor]
 
-PICARD: We're accommodating you in quarters
-normally reserved for Starfleet admiralty. I'm sure you'll find them
-quite comfortable. 
-(Wesley exits a turbolift as the party passes. The universe stands
-still as Salia smiles at him, then turns back to speak) 
-SALIA: That's a superconducting magnet, isn't it? 
-WESLEY: Yes It's an SCM model. How did you know that? 
-SALIA: Study, for the last sixteen years it is all I could 
-ANYA: Please, Salia, walk ahead with me. 
-SALIA: Better be careful. Those can rip the iron right out of your
-blood cells. 
-(The party moves on, minus Riker) 
-WESLEY: Commander, who is she? 
-RIKER: I think she's a governess. 
-WESLEY: No! The girl. 
-RIKER: I don't know if she'll have time for you, Wes. She's destined to
-rule an entire world.
-
-[Wesley's quarters]
-
-(Wesley is preening in front of a full length
-mirror) 
-WESLEY: Come in. 
-DATA: You wanted to see me? 
-WESLEY: Yes. Data, the girl who came on board. 
-DATA: Salia of Daled Four. 
-WESLEY: Who is she? 
-DATA: Little is known. She was born on Daled Four. Her parents were
-from opposite sides in a civil war which has lasted for centuries. They
-both died shortly after her birth. A Federation ship brought her and
-her governess to Klavdia Three so that she could be raised in a neutral
-environment. 
-WESLEY: And now she's returning? 
-DATA: It is hoped she will unite the factions and bring peace. 
-LAFORGE [OC]: Ensign Crusher, report. Are you all right? 
-WESLEY: Geordi? Yeah, I'm fine. I just 
-LAFORGE [OC]: Wes, we're waiting for that magnet. 
-WESLEY: I'm on my way. 
-[Bridge]
-
-RIKER: Captain, we've broken orbit and laid in a
-course for Daled Four. We will remain on impulse power until Lieutenant
-La Forge completes his adjustments. 
-PICARD: Mister Worf, have our passenger's accommodations met with their
-approval? 
-WORF: I doubt if anything ever meets with that woman's approval, sir. 
-TROI: Captain, I'm concerned our new passengers. Their emotions do not
-fit who they are and what they're doing. 
-PICARD: Are you suggesting they're not who they say they are? 
-TROI: Actually no, it's more like they're not what they say they are. 
-PICARD: Picard to Salia's quarters. 
-SALIA [OC]: Yes? 
-PICARD: May we turn on the viewer? 
-SALIA [OC]: Yes, of course.
-PICARD: Are your quarters satisfactory? 
-SALIA [on viewscreen]: Yes, very. Tell me, Captain, who was the young
-man I met before? 
-[Salia's quarters]
-
-PICARD [on monitor]: That was Ensign Wesley
-Crusher. 
-(Anya enters) 
-SALIA: Thank you for checking on us, Captain. I only hope our quarters
-on Daled Four will be this luxurious. 
-PICARD [on monitor]: Please feel free to contact me at any time. Picard
-out.
+(Outside Salia's quarters, Wesley is stopped by the
+security guard) 
+GUEST1: Ensign Crusher, what can I do for you? 
+WESLEY: Nothing. 
+(The door opens, eyes meet, a jaw drops) 
+GUEST1: Is there a problem? 
+WESLEY: No. 
+SALIA: Could you show me how to work the food dispenser? 
+WESLEY: Sure.
 

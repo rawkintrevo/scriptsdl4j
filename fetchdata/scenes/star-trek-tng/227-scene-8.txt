@@ -1,47 +1,51 @@
-REPORTER PICARD POLICEMAN GUINAN CLEMENS DATA
+TROI LAFORGE WORF RIKER CLEMENS CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's hotel room]
+[Devidia cavern]
 
-(Guinan is pacing when Data enters) 
-GUINAN: You're back. I have wonderful news. I've found a way to get
-into the Presidio and into the mine shaft. 
-(Picard enters) 
-DATA: It is all right. 
-GUINAN: Do you know me? 
-PICARD: Very well. 
-GUINAN: Do I know you? 
-PICARD: Not yet. But you will.
+RIKER: Is everybody all right? 
+CRUSHER: I think so. 
+RIKER: You! 
+CLEMENS: Where are we? And when? 
+RIKER: This is the twenty fourth century, we're on Devidia Two, and
+you're not supposed to be here. 
+CLEMENS: Well it seems to me I have as much right to be in your time as
+you had to be in mine. I wanted to see how you've conducted my future
+affairs. 
+TROI: Your future affairs? 
+CLEMENS: The affairs of mankind. 
+RIKER: But the disappearance of Mark Twain, one of the most noted
+literary figures of the nineteenth century 
+CLEMENS: Thank you. 
+RIKER: That's not supposed to happen. 
+CLEMENS: I only took advantage of an irresistible opportunity, as any
+good writer would. 
+WORF [OC]: Bridge to Away team. Acknowledge. 
+RIKER: We're here, Mister Worf. Stand by to transport five. 
+LAFORGE: Commander. 
+(Data's headless body is lying on the floor, clutching the cane) 
+RIKER: Mister Worf? 
+WORF [OC]: Yes, Commander. 
+RIKER: Make that six to transport.
 
-[Infirmary street]
+[Transporter room]
 
-REPORTER: Thanks for your help, officer. 
-POLICEMAN: Now, be sure you put in the part about me spotting that
-phony policeman. 
-REPORTER: Yes, sir. 
-CLEMENS: Hello, son. 
-REPORTER: Mister Clemens. What brings you here? 
-CLEMENS: Writer's curiosity. I heard that two people vanished into thin
-air in this Infirmary. 
-REPORTER: One of the patients said that, yes, sir, but the police deny
-it. 
-CLEMENS: I bet they do. 
-REPORTER: They say a band of outlaws set off an explosion in the
-hospital and then escaped. 
-CLEMENS: Well, what did these outlaws look like? 
-REPORTER: The carriage they escaped in was driven by an albino. 
-CLEMENS: Oh. Mister Data. 
-REPORTER: You know him? 
-CLEMENS: You bet I do. You say there were others with him? 
-REPORTER: Yes, at least a dozen. 
-CLEMENS: His accomplices. They've come from the future. My God, it's an
-invasion. 
-(he hails a cab) 
-REPORTER: An invasion from the future? Mister Clemens, what can you
-tell me about this? Do you have any proof? 
-CLEMENS: When's your deadline, boy? 
-REPORTER: Five o'clock, sir. 
-CLEMENS: I'll meet you at your paper at four thirty with a story that
-will make your career. 
-REPORTER: Thanks, Mister Clemens 
-CLEMENS: Take me to the Presidio, driver, and don't spare the whip.
+CLEMENS: Where are we now? 
+RIKER: The Federation Starship Enterprise. Ensign, call security. I
+want an escort for this man. 
+CLEMENS: Security? What for? Are you afraid I'm going to go around
+stealing things? 
+(Worf enters) 
+CLEMENS: A werewolf! 
+RIKER: It's a long story, Mister Worf. I'll brief you later. 
+LAFORGE: Let's have Data's body taken to the science lab. I'll try and
+re-attach the head we have. 
+CRUSHER: Geordi, that head is over five hundred years old. 
+LAFORGE: Yeah, but it's the best chance we've got. 
+RIKER: I want Mister Clemens kept under escort at all times. 
+TROI: Commander, perhaps I could handle that. I'd be happy to take
+Mister Clemens to his quarters. 
+RIKER: Good idea. If you would accompany the Counsellor. 
+CLEMENS: Madam, I'd be delighted. So, this is a space ship? You ever
+run into Halley's comet?
 

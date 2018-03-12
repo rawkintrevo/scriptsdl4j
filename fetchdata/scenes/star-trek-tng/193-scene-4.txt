@@ -1,36 +1,34 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA BARCLAY
+PICARD RIKER DATA GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Any indication of the probe's energy source,
-Data? 
-DATA: No, sir. Power emissions do not match any known radiation
-patterns. We have not encountered this technology before, sir. 
-PICARD: Very well. Isolate the probe and place it in tow. We'll take it
-to Science Station four oh two in the Kohlan system. 
-WORF: Captain, the probe has begun to move. It is approaching the
-Enterprise. 
-RIKER: Shields up. 
-WORF: Aye, sir.
-
-[Sickbay]
-
-CRUSHER: There was enough energy in that flash to
-overload your optic nerves. It knocked you unconscious. 
-LAFORGE: My visor must have filtered it out. 
-CRUSHER: Exactly. But there was no apparent retinal damage and the
-cornea looks fine. But I'm still waiting for a full
-sero-amino readout. I'll call you when it comes in. (to a medtech) I'd
-like this done as quickly as possible, Ensign. 
-BARCLAY: You shouldn't have to wait too long for the results. 
-CRUSHER: What do you mean? 
-BARCLAY: Couldn't you use a global mode in your scanner? It would be a
-lot faster. 
-CRUSHER: That's not possible. We're talking about human cells here, not
-isolinear circuits. I think you'd better stick to engineering,
-Lieutenant. 
-BARCLAY: A cell has a an electromagnetic signature just like a circuit
-element does. Theoretically, it should work with just a few
-adjustments. I could set it up for you, if you'd like. 
-(Red alert sounds)
+WORF: Probe now closing at fifteen point three
+metres per second. Collision course. 
+DATA: Captain, sensors are reading no particulate emissions or subspace
+field distortions. 
+PICARD: Then how is it able to move? 
+DATA: Method of propulsion is unknown, sir. 
+RIKER: Ensign, take us away from it. One quarter impulse. 
+GUEST3: (the lady at helm) Aye, sir. 
+WORF: The probe is matching our speed and course. 
+DATA: Captain, an energy field is forming around the device. Intensity
+is three point two terawatts and increasing. 
+WORF: Sir, the shuttlecraft shields did not provide sufficient
+protection for its computer. Our computer may also be vulnerable. I
+recommend withdrawal to a safe distance. 
+PICARD: Ensign Anaya, full about. Half impulse. 
+GUEST3: One half impulse. 
+WORF: The probe is following. 
+PICARD: Options, Number One? 
+RIKER: We can't use photon torpedoes. An explosion this close could
+cripple us. 
+WORF: Sir, recommend full phasers. 
+PICARD: Proceed. 
+WORF: Firing phasers. 
+(the probe just glows a bit more) 
+WORF: No effect, Captain. 
+DATA: The probe's field intensity is continuing to build, sir. We are
+in danger. 
+RIKER: Riker to La Forge. Can you increase phaser power?
 

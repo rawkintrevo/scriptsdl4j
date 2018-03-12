@@ -1,90 +1,31 @@
-RIKER PICARD GARRETT GUINAN CREWWOMAN CRUSHER DATA
+PICARD GUINAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[1701D Bridge]
+[War room]
 
-DATA: Away team reporting in, sir. 
-PICARD: On screen, Mister Data. Go ahead, Commander. 
-RIKER [on viewscreen]: We've stabilised life support. Mister La Forge
-is working on restoring the main power couplings, but that'll take
-time. It's a real mess down here, sir. 
-PICARD: Survivors? 
-RIKER [on viewscreen]: One hundred twenty five. 
-PICARD: Recommendation? 
-RIKER: I'd hate to have to scrap her. Starfleet could certainly use
-another ship, even if she is old. 
-PICARD: Agreed. But we can't stay in this area too long. You have nine
-hours. If you can get her underway by then,
-we'll escort her back to Starbase one oh five. If not, we'll evacuate
-the survivors and destroy the ship. 
-RIKER [on viewscreen]: Understood, sir. 
-PICARD: Keep me posted, Picard out. 
-(Guinan enters, looking around a lot) 
-PICARD: Guinan? 
-GUINAN: We need to talk. Somehow this, this is all wrong. This is not
-the way it's supposed to be.
-
-[Ready room]
-
-PICARD: You must have some idea how things have
-changed. 
-GUINAN: I look at things, I look at people, and they just don't feel
-right. 
-PICARD: What things? What people? 
-GUINAN: You. Your uniform. The Bridge. 
-PICARD: What's the matter with the Bridge? 
-GUINAN: It's not right. 
-PICARD: It's the same Bridge. Nothing has changed. 
-GUINAN: I know that. I also know it's wrong. 
-PICARD: What else? 
-GUINAN: Families. There should be children on this ship. 
-PICARD: What? Children on the Enterprise? Guinan, we're at war. 
-GUINAN: No, we're not. At least, we're not supposed to be. This is not
-a ship of war. This a ship of peace. 
-PICARD: What you're suggesting 
-GUINAN: I'm not suggesting. That ship from the past is not supposed to
-be here. It's got to go back.
-
-[Sickbay]
-
-CRUSHER: Run a full electrolyte report. Boost the
-level of tricordrazine. Try to relax. 
-CREWWOMAN [OC]: Doctor Selar, report to pathology ward stat. Doctor
-Selar, report to pathology ward stat. 
-PICARD: I'm Captain Jean-Luc Picard. 
-GARRETT: Rachel Garrett. How's my ship? 
-PICARD: The support systems are being restored. We're continuing
-repairs. 
-GARRETT: Where did you come from? We weren't picking up any other
-Federation ships in this sector. 
-PICARD: What's the last thing you remember? 
-GARRETT: We were answering the distress signal. 
-PICARD: Distress signal? 
-GARRETT: You must have heard it. From the Klingon outpost, Narendra
-Three. But you didn't, did you? This Sickbay, I've never seen like it,
-even on a starbase. And your uniform. What ship is this, Captain? 
-CRUSHER: Please try to be still. 
-GARRETT: I must insist. What ship? 
-PICARD: You are aboard the Enterprise, Captain. One seven oh one D. You
-have come twenty two years into the future. 
-GARRETT: Twenty two years. Does my crew know yet? 
-PICARD: No. 
-GARRETT: I must tell them. I owe them that. 
-PICARD: If you wish, I can see that they're informed. 
-GARRETT: Is there some reason they should not be told? 
-PICARD: I am concerned that if you return to your own time with
-knowledge of the future 
-GARRETT: Return to the battle? We barely escaped with our lives. If we
-returned, we'd be destroyed. 
-PICARD: Have you any idea how this happened? 
-GARRETT: There was a fierce volley of photon torpedoes. We were hit. A
-bright light, and then here. 
-PICARD: It is possible that this exchange of fire was the catalyst for
-the formation of a temporal rift. History has no record of your battle
-with the Romulans. 
-GARRETT: We were responding to a distress call from the Klingon outpost
-on Narendra Three. The Romulans were attacking it. We engaged them, but
-there were four warbirds. 
-PICARD: The Narendra Three outpost was destroyed. It is regrettable
-that you did not succeed. A Federation starship rescuing a Klingon
-outpost might have averted twenty years of war.
+PICARD: I need more. 
+GUINAN: There is no more. I wish there were. I wish I could prove it.
+But I can't. 
+PICARD: Then I can't ask them to go back. 
+GUINAN: You've got to. 
+PICARD: Guinan, they will die moments after they return. How can I ask
+them to sacrifice themselves based solely on your intuition? 
+GUINAN: I don't know. But I do know that this is a mistake. Every fibre
+in my being says this is a mistake. I can't explain it to myself so I
+can't explain it to you. I only know that I'm right. 
+PICARD: Who is to say that this history is any less proper than the
+other? 
+GUINAN: I suppose I am. 
+PICARD: Not good enough, damn it. Not good enough. I will not ask them
+to die. 
+GUINAN: Forty billion people have already died. This war's not supposed
+to be happening. You've got to send those people back to correct this. 
+PICARD: And what is to guarantee that if they go back they will
+succeed? Every instinct tells me this is wrong, it is dangerous, it is
+futile. 
+GUINAN: We've known each other a long time. You have never known me to
+impose myself on anyone or take a stance based on trivial or whimsical
+perceptions. This time line must not be allowed to continue. Now, I've
+told you what you must do. You have only your trust in me to help you
+decide to do it.
 

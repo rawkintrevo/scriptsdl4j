@@ -1,81 +1,33 @@
-RIKER LAFORGE WORF PICARD LWAXANA CHIEF DATA ALEXANDER
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Lwaxana's quarters]
+[Turbolift]
 
-(Lwaxana has changed to white hair to match the
-silver grey long-sleeved throat to floor covering dress with bustle.
-Mister Homn looks on silently, as usual) 
-LWAXANA: Bad enough having to wear anything at my own wedding, but
-this? Perhaps if we lower the bodice? Raise the hemline, then. What a
-constant joy you are. 
-(doorbell) 
-LWAXANA: Mister Homn. 
-(Alexander is less than half Homn's height) 
-LWAXANA: Alexander! My little warrior, come here. Come on. Give me a
-great big hug. Now, you're not escaping another appointment, are you? 
-ALEXANDER: No, ma'am. 
-LWAXANA: Well, I suppose eventually we all have to live up to our
-obligations. Well now, tell me. What brings you here to brighten my
-day? 
-ALEXANDER: I wanted to say I'm sorry if I got you in any trouble. 
-LWAXANA: That's very sweet, dear, but I really wasn't in any trouble.
-Until I saw this dress. Ugly, isn't it? 
-ALEXANDER: What's it for? 
-LWAXANA: I'm getting married. 
-ALEXANDER: Why? 
-LWAXANA: Are you sure my daughter didn't send you? Just a joke. People
-get married because they want to spend their lives with someone. 
-ALEXANDER: Their whole life? They must have to like that person a lot. 
-LWAXANA: Well, if you're young and lucky, it'll be someone you like a
-lot, yes. And if you're older. 
-ALEXANDER: Are you very old? 
-LWAXANA: I'm alone, Alex. And when you do get older and can no longer
-pick and choose from whatever may come your way, then you do what we
-call compromise. It keeps you from being afraid.
+PICARD: Bridge. Commander, do you have any
+suggestions on how we could encourage the parasites to leave the ship
+once we reach the Pelloris Field? 
+DATA: If we reconfigure a particle beam with a high concentration of
+nitrium, and project it toward one of the asteroids. 
+PICARD: Then they would follow the beam like a trail of breadcrumbs.
+Very well. 
+(gloop is dribbling down the wall) 
+DATA: Turbolift velocity is beginning to fluctuate, Captain. 
+PICARD: Computer, stop at next level. Computer, acknowledge. 
+(the turbolift stops but the doors don't open, so Data forces them) 
+DATA: We have reached the bridge, sir.
 
 [Bridge]
 
-DATA: We have traced the failure to a data net
-interface which routes replicator selections to the correct
-subprocessors. 
-LAFORGE: When we opened the panel, we discovered that the interface had
-been transformed into a gelatinous material that we haven't been able
-to identify. 
-(the ship shakes and alarms go off) 
-WORF: We have an intermittent failure of the inertial damping system. 
-PICARD: Take us out of warp, Ensign. 
-RIKER: Primary attitude control has failed. Going to secondary systems.
+PICARD: Report, Number One. 
+RIKER: Ventilation and life support are failing at random spots all
+over the ship. 
+WORF: Captain, we've dropped to warp five point seven. 
+PICARD: Picard to Engineering. 
+LAFORGE [OC]: La Forge here. 
+PICARD: What's happening, Mister La Forge? We're losing speed. 
+[Engineering]
 
-DATA: We have lost helm control, sir. 
-RIKER: Try a manual bypass of the damping systems. 
-DATA: Aye, sir. 
-PICARD: Backup generators. 
-LAFORGE: Coming online now. 
-PICARD: How long before we regain attitude control? 
-LAFORGE: We're almost there. 
-(the shaking stops) 
-RIKER: Ensign, put us back on course. Let's stay at impulse for now. 
-PICARD: Did something hit us, Mister Worf? 
-WORF: Negative, sir. 
-PICARD: The inertial dampers shouldn't fail without kicking in the
-automatic bypass. I want to know what went wrong. Analysis in thirty
-minutes. 
-[Observation lounge]
-
-(Geordi puts a container of gloop on the table) 
-LAFORGE: The same thing that happened to the replicator happened to the
-stabiliser. The transfers in both systems were turned into this. 
-RIKER: Some kind of corrosion? 
-DATA: We have not yet identified the substance, Commander. 
-LAFORGE: Whatever it is, it looks like there's been a conversion
-process, transforming some of the metal into gelatinous residue. But
-what caused it is a mystery. 
-PICARD: Replicators and stabilisers. Two totally unrelated systems. 
-LAFORGE: Yes, sir. And we still don't know why the sensors didn't pick
-up the problems. 
-RIKER: Let's run a mass spectrometer analysis and find out what this
-stuff is. 
-CHIEF [OC]: Transporter room one to Captain Picard. Minister Campio is
-beaming on board, sir. 
-PICARD: I'll be right there. The bridegroom.
-
+LAFORGE: The parasites must've gotten into the
+primary warp controllers, Captain. Trying to do a bypass patch to
+isolate the backup controllers but it looks like warp six is about the
+best I'm going to be able to give you. 

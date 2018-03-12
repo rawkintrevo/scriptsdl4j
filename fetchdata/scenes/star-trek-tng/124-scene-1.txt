@@ -1,19 +1,20 @@
-TROI DEAN LAFORGE WORF PICARD RIKER MANHEIM DATA
+TROI GUEST6 LAFORGE WORF PICARD RIKER GUEST3 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Gymnasium]
 
 (Picard and his opponent are fencing. His opponent
 gets a winning hit) 
-DEAN: I took advantage. 
+GUEST6: I took advantage. 
 PICARD: No, no, Lieutenant, the advantage was yours. Come again. En
 garde. 
 (This time Picard gets the winning hit) 
-DEAN: Interesting move, sir, but what technique was that? 
+GUEST6: Interesting move, sir, but what technique was that? 
 PICARD: The technique of a desperate man. 
 (Then things go blurry and) 
-DEAN: Interesting move, sir, but what technique was that? 
+GUEST6: Interesting move, sir, but what technique was that? 
 PICARD: The technique of a desperate man. 
-DEAN: Captain, what was that? 
+GUEST6: Captain, what was that? 
 PICARD: Picard to Bridge. 
 RIKER [OC]: Captain? 
 PICARD: Number One, did something unusual just occur on the Bridge? 
@@ -36,7 +37,7 @@ sector.
 WORF: Sir, I am receiving an emergency transmission from the Pegos
 Minor system. 
 PICARD: Put it on. 
-MANHEIM [OC]: Five four two point two. I repeat. This is Doctor Paul
+GUEST3 [OC]: Five four two point two. I repeat. This is Doctor Paul
 Manheim. We are in need of help. Urgent. All ships, please respond. I
 repeat. Coordinates are six six seven two eight point nine 
 WORF: It is an automated signal, sir. I am unable to establish contact.

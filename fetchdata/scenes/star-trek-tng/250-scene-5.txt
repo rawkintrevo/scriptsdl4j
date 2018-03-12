@@ -1,45 +1,5 @@
-TROI LAFORGE PICARD RIKER CRUSHER DATA
-
-[Observation lounge]
-
-LAFORGE: Apparently there was a massive energy
-surge in the distortion field around the planet just at the moment you
-tried to beam out. The Transporter Chief tried to compensate by
-initiating a second containment beam. 
-DATA: An interesting approach. He must have been planning to
-reintegrate the two patterns in the transport buffer. 
-LAFORGE: Actually, it wasn't really necessary. Commander Riker's
-pattern maintained its integrity with just the one containment beam. He
-made it back to the ship just fine. 
-CRUSHER: What happened to the second beam? 
-LAFORGE: The Transporter Chief shut it down, but somehow it was
-reflected back to the surface. 
-PICARD: And another William Riker materialised there. 
-RIKER: How was the second pattern able to maintained its integrity? 
-LAFORGE: The containment beam must have had the exact same phase
-differential as the distortion field. 
-RIKER: Which one of them is real? 
-LAFORGE: That's the thing. Both. You were both materialised from a
-complete pattern. 
-CRUSHER: Up until that moment, you were the same person. 
-PICARD: But of course, as you and Lieutenant Riker have lived very
-different lives for the past eight years, you are now very different
-people. I suppose it's a little like meeting someone's twin. But no
-matter how strange it may seem to us, we now have two Will Rikers on
-board. And as Lieutenant Riker will be with us for several days, I
-think we should do everything we can to make him comfortable and
-welcome. 
-RIKER: We still have the problem of retrieving the database. The
-computer on the station is not completely operational. 
-DATA: Many of its components have been removed. Apparently Lieutenant
-Riker used them to keep the station's radiation shield operational. 
-PICARD: Can it be repaired, at least enough to access the database? 
-RIKER: Without knowing what he did, that'll be tough. 
-PICARD: Perhaps he can help us. 
-PICARD: He was alone down there for a long time. I'm hesitant to let
-him go back until he's been evaluated. 
-TROI: I'll talk to him. 
-PICARD: Thank you, Counsellor.
+RIKER TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Lt Riker's quarters]
 

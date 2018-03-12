@@ -1,20 +1,5 @@
-TROI HAGAN WORF PICARD RIKER CRUSHER DATA
-
- [Brittain Bridge]
-
-DATA: There is no malfunction in any of the main
-systems, sir. 
-(Riker finds the captain dead in her chair, something impaling her
-through the chest) 
-WORF: Commander. Here's another one. This was done by a phaser on a
-setting of six or seven. 
-RIKER: And more over here. 
-CRUSHER: The entire Bridge crew. 
-RIKER: Whoever did this could still be on the ship. 
-TROI: There is someone alive, but he didn't kill these people. Here. 
-(a door opens) 
-TROI: I think he's Betazoid. It's all right. We're going to help you.
-Who did this? Who did this to you?
+TROI GUEST3 LAFORGE PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
@@ -33,7 +18,21 @@ PICARD: Stay with him, Counsellor. We're examining the Brittain for
 clues, but this man is the only one left who knows what happened there.
 
 TROI [OC]: I'm here. I'm right here. 
-HAGAN [OC]: Are there voices? 
+GUEST3 [OC]: Are there voices? 
 TROI [OC]: Voices? What do they say? 
-HAGAN [OC]: Both things. No. No. 
+GUEST3 [OC]: Both things. No. No. 
 TROI [OC]: Keep talking to me. I'll try to understand. 
+ [Brittain Bridge]
+
+LAFORGE: All the engines check out perfectly,
+Commander. Once we get them started, the Brittain can get back to
+Starbase under her own power. 
+RIKER: Let's give it a try. 
+LAFORGE: Pre-heating injectors. Data, fuel flow? 
+DATA: Matter valves are open and operating. Magnetic containment of
+antimatter pods is constant. 
+LAFORGE: Okay, open injectors. 
+DATA: Injectors open. There is no engine activity at all, sir. 
+RIKER: What's wrong? 
+LAFORGE: Nothing's wrong. I don't understand it.
+

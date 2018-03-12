@@ -1,74 +1,62 @@
-PICARD SPOCK DATA
+GUEST9 RIKER GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Romulan cavern]
+[Piano bar]
 
-PICARD: You let their emotion sway you. 
-SPOCK: On the contrary, I am pursuing the most logical course.
-PICARD: You are as sceptical as I am. Is it logical to ignore your own
-good sense?
-SPOCK: I fear the influence of Sarek has coloured your attitudes,
-Captain, toward reunification and perhaps toward me.
-PICARD: That is the second time you have accused me of speaking with
-another man's voice. It's true he will always be a part of me. His
-experiences, his spirit. But I speak with my own voice, not his.
-SPOCK: Curious that I should hear him so clearly now that he is dead.
-It is possible that I have brought my argument with Sarek to you,
-Captain. If so, I apologise.
-PICARD: Is it so important that you to win one last argument?
-SPOCK: No, it is not. But it is true that I will miss the arguments.
-They were, finally, all that we had.
-PICARD: But your fight with Sarek is over, Spock, and you have none
-with me.
-SPOCK: I always had a different vision than my father. The ability to
-see beyond pure logic. He considered it weak, but I have discovered it
-to be a source of extraordinary strength. Sarek would have seen this
-mission of reunification as a fool's errand, but somehow I think it is
-not. Logic cannot explain why, I know that I must pursue this. 
-PICARD: Even if it leads you into a Romulan trap. 
-SPOCK: If the Romulans do have an ulterior motive, it is in the
-interests of all concerned that we determine what it is. So, I will
-play the role that they would have me play.
+WORF: Do you know any Klingon opera?
+GUEST3: I don't get a lot of requests for it.
+WORF: Surely, you must know at least one theme from Aktuh and Maylota.
+GUEST3: I may be a little rusty. 
+(with a pounding discord, she starts to sing an aria, and Worf joins
+in. A fat Ferengi enters with a tall thin female on each arm) 
+GUEST9: What is that dreadful noise? It sounds like a Bardakian pronghorn
+moose. You know what I want to hear.
+GUEST3: Yes, yes, I know. 
+WORF: Worf to Enterprise. 
+RIKER [OC]: Go ahead. 
+WORF: A fat Ferengi 
+[Bridge]
 
-[Klingon quarters]
 
-(Data is back to his android self when Spock and
-Picard enter) 
-PICARD: Have you had any success, Mister Data?
-DATA: Negative, Captain. The Romulan Information net employs a
-progressive encryption lock. I have been unable to penetrate their
-security measures.
-SPOCK: May I assist you, Commander? I have had some experience in these
-matters.
-DATA: By all means, Ambassador.
-SPOCK: The Romulans have incorporated a forty three part cipher key
-into their entry sequence. 
-DATA: Yes, sir, the twenty ninth is the only one I cannot bypass. 
-PICARD: I think I'll take this opportunity to remove my ears. 
-(Picard leaves) 
-SPOCK: He intrigues me, this Picard.
-DATA: In what manner, sir?
-SPOCK: Remarkably analytical and dispassionate, for a human. I
-understand why my father chose to mind-meld with him. There's almost a
-Vulcan quality to the man.
-DATA: Interesting. I have not considered that. And Captain Picard has
-been a role model in my quest to be more human.
-SPOCK: More human?
-DATA: Yes, Ambassador.
-SPOCK: Fascinating. You have an efficient intellect, superior physical
-skills and no emotional impediments. There are Vulcans who aspire all
-their lives to achieve what you've been given by design.
-DATA: You are half human. 
-SPOCK: Yes.
-DATA: Yet you have chosen a Vulcan way of life. 
-SPOCK: I have.
-DATA: In effect, you have abandoned what I have sought all my life.
-SPOCK: I believe I have isolated the twenty ninth cipher access code. I
-shall attempt to access the Proconsul's files.
-DATA: Ambassador Spock, may I ask a personal question?
-SPOCK: Please.
-DATA: As you examine your life, do you find you have missed your
-humanity?
-SPOCK: I have no regrets.
-DATA: No regrets. That is a human expression.
-SPOCK: Yes. Fascinating.
+WORF [OC]: Has just entered the establishment.
+RIKER: Is that Melor Famagal I hear?
+WORF [OC]: It is.
+RIKER: I'm on my way.
+
+[Piano bar]
+
+GUEST9: Where's the waiter? Is there a waiter in this
+sorry place?
+RIKER: Is there a problem?
+GUEST9: Yes. I need more napkins.
+RIKER: Use your sleeve.
+GUEST9: What did you say?
+RIKER: Or use one of their sleeves, I don't care.
+GUEST9: Who are you?
+RIKER: Commander William Riker, USS Enterprise.
+GUEST9: Am I supposed to stand up and salute?
+RIKER: We're investigating the disappearance of a Vulcan ship. 
+GUEST9: Well you've got the wrong Ferengi. I never trade in Vulcan ships.
+
+RIKER: We know that you're involved. 
+GUEST9: Who would want a Vulcan ship? Vulcans are pacifists. I deal in
+warships. Can somebody get me a napkin?
+RIKER: Who would want a Vulcan ship?
+GUEST9: Hypothetically speaking? 
+RIKER: Hypothetically speaking.
+GUEST9: I never learned to speak hypothetical.
+(so Riker tips Omag's dinner onto his lap then grabs him by his lapels)
+
+GUEST9: Are you crazy?
+RIKER: Let me explain what'll happen to you if you don't tell me about
+the Vulcan ship. Your right of passage
+through this sector will be revoked and more than that, I will be very
+unhappy.
+GUEST9: I delivered it to a Barolian freighter. 
+RIKER: At what coordinates?
+GUEST9: I don't remember. Ow! Watch it! You're stretching my neck.
+RIKER: Co-ordinates?
+GUEST9: At Galorndon Core. Near the Neutral Zone. That's all I know. I
+swear it.
+RIKER: Enjoy your dinner.
 

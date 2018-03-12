@@ -1,50 +1,49 @@
-PICARD RIKER HUTCHINSON DATA CRUSHER
+PICARD TROI DATA TIMOTHY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Ready room]
 
-PICARD [OC]: To him and transport directly to
-Sickbay? 
-HUTCHINSON: I'll try, Captain, but there's a lot of shielding to pull
-him through.
+(Data is included in the meeting) 
+PICARD: An android? 
+TROI: I know it sounds unusual, but it is understandable. Technically,
+it's called enantiodromia. Conversion into
+the opposite. Timothy went from human to machine, from being emotional
+to being emotionless. But the underlying trauma is still there. He's
+just found a new way to suppress it. 
+PICARD: Counsellor, how long will this behaviour last? 
+TROI: As long as he needs it to. Timothy is rebuilding his identity as
+best he can. The android persona is just one step along the way. As
+soon as he feels stronger and more sure of himself, it should drop away
+naturally. 
+PICARD: I assume this is not a time to confront him about what happened
+to his ship. 
+TROI: Not yet. The best thing we can do right now is to let Timothy
+take us where he wants to go. We should support the process and even
+encourage it. 
+PICARD: Data, I would like you to make Timothy the best android he can
+possibly be.
 
-[Bridge]
+[Timothy's quarters]
 
-PICARD: Acknowledged. Picard to Crusher. 
-[Sickbay]
+(Data checks his appearance in the mirror, then
+tries to brush Timothy's hair to match his own) 
+DATA: Timothy, your head movements are counterproductive. Can you be
+still? 
+TIMOTHY: But you do it. 
+DATA: The servo mechanisms in my neck are designed to approximate human
+movements. I did not realize the effect was so distracting. 
+TIMOTHY: I like it. Data, are there any other androids in Starfleet? 
+DATA: No. I am the only one. 
+TIMOTHY: How come you're not Captain? 
+DATA: My service experience does not yet warrant such a position. 
+TIMOTHY: Data, what's the scariest thing that ever happened to you? 
+DATA: Fear is a quality that I do not possess. 
+TIMOTHY: Because it's an emotion? 
+DATA: Correct. 
+TIMOTHY: But what if you had a nightmare? 
+DATA: I have never had a nightmare. I do not require sleep. Timothy,
+are you having disturbing dreams? 
+TIMOTHY: I do not require sleep. 
+DATA: Is that satisfactory? (the hair) 
+TIMOTHY: It's perfect.
 
-CRUSHER: Sickbay here, Captain. 
-PICARD [OC]: Prepare for emergency transport. 
-CRUSHER: Yes, sir. 
-[Bridge]
-
-CRUSHER [OC]: Crusher out. 
-PICARD: Picard to Commander Riker.
-
-[Vico]
-
-PICARD [OC]: Is the boy ready, Number One? 
-RIKER: Ready, sir. 
-PICARD [OC]: It's your signal. 
-RIKER: Aye, Captain. It's going to be okay. Here we go. Energise.
-
-[Transporter room]
-
-PICARD [OC]: Ensign, do we have him? 
-HUTCHINSON: The lock is holding. I just can't resolve the matter
-stream, not with all that victurium alloy in the way.
-
-[Vico]
-
-HUTCHINSON [OC]: Commander Riker. You'll have to
-get him out into the corridor. 
-DATA: I could move the beam, sir. However, it may initiate the collapse
-of the surrounding supports. I recommend you and Geordi return to the
-ship. 
-RIKER: Agreed. La Forge. 
-[Transporter room]
-
-(Riker and La Forge are beamed in) 
-HUTCHINSON: I'm locked onto Commander Data and the boy, sir. I'll
-energise as soon as they've cleared the bulkheads. 
-RIKER: Whenever you're ready, Data. 
-DATA [OC]: Yes, sir. 

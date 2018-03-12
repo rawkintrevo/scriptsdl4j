@@ -1,47 +1,37 @@
-RIKER JAKE LAFORGE WORF TASHA PICARD REMMICK DATA
+PICARD QUINN WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation Lounge]
 
-PICARD: You can tell him yourself, in person. Bring
-that ship back at once. 
-JAKE [OC]: No. 
-[Shuttlecraft]
+PICARD: Mister Crusher? Why aren't you in your
+dress uniform for Admiral Quinn's farewell dinner? 
+WESLEY: I didn't think that would be appropriate. 
+PICARD: Why not? 
+WESLEY: I failed, Captain. I didn't get into the Academy. I failed you
+and I failed the Enterprise. 
+PICARD: Ridiculous. Did you do your best? 
+WESLEY: Yes. 
+PICARD: When you test next year, and you will test next year, do you
+think your performance will improve? 
+WESLEY: Yes. 
+PICARD: Good. The only person you're truly competing against, Wesley,
+is yourself. 
+WESLEY: Then you're not disappointed? 
+PICARD: Wesley, you have to measure your successes and your failures
+within, not by anything I or anyone else might think. But, if it helps
+you to know this, I failed the first time. And you may not tell anyone!
 
-JAKE: I can't face him. I'm leaving. (alarm sounds)
+WESLEY: You? You failed? 
+PICARD: Yes. But not the second time. Now, you'll do me the courtesy of
+joining us at dinner. I have to disappoint an old friend.
 
-[Bridge]
+[Transporter room]
 
-LAFORGE: Captain, he's unbalanced the dilithium
-reaction. 
-[Shuttlecraft]
-
-JAKE: I've lost power! 
-[Bridge]
-
-RIKER: All he's got left are his manoeuvring jets,
-Captain. 
-LAFORGE: At this trajectory, he'll enter the atmosphere and burn up at
-two hundred kilometres. 
-PICARD: Probable impact? 
-DATA: Atmospheric entry seventy eight seconds. 
-PICARD: Options? 
-WORF: Tractor beam? 
-RIKER: Not possible. He's too far away for a positive lock. 
-TASHA: He's out of transporter range. 
-REMMICK: Captain, you are completely responsible for that boy's life. 
-PICARD: Mister Remmick, either get out of my way and keep quiet, or I
-will have you removed from the Bridge. Viewer on shuttle cockpit. 
-TASHA: Visual on main viewer. 
-PICARD: Mister Kurland. 
-JAKE [on viewscreen]: I can't get the engine started. What am I going
-to do? I'm going to crash. 
-RIKER: He needs another fifty seconds for the core to cool down before
-it can restart. 
-PICARD: Stay calm, Jake. We'll get you back.
-
-[Shuttlecraft]
-
-JAKE: Please, help me! 
-PICARD [OC]: Jake! 
-JAKE: It's no use, Captain. I'm going to die out here.
+QUINN: Wish I could convince you to change your
+mind. 
+PICARD: I'll serve you better here. 
+QUINN: This is where you belong. 
+PICARD: If you need me. 
+QUINN: I've been playing politics too long. Perhaps I see conspiracies
+everywhere. Don't worry. Safe travels, my friend.
 

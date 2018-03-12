@@ -1,23 +1,5 @@
-WESLEY RIKER DATA WORF PICARD
-
-[Ten forward]
-
-(Wesley and Data are playing 3D chess. Outside is a
-field of planetary fragments) 
-WESLEY: This was the final battle, wasn't it? 
-DATA: Neither side intended Orelious Nine to be the decisive conflict. 
-WESLEY: There's not much left, is there. 
-DATA: The destruction is remarkable considering the primitive weapons
-of the period. 
-(Geordi enters, disconsolate and back in uniform) 
-WESLEY: Uh, oh. 
-DATA: I beg your pardon, Wesley? 
-WESLEY: Geordi had a big date with Christy tonight. He spent days
-putting together the perfect
-programme. Looks like it ended kind of early. 
-DATA: Uh, oh. 
-RIKER [OC]: Commander Data to the Bridge immediately. 
-DATA: Acknowledged.
+PICARD RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 

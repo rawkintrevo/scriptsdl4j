@@ -1,53 +1,68 @@
-RIKER LAFORGE WORF
+TROI LAFORGE WORF RIKER PULASKI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Corridor]
 
 
-(Adjustments
-are being made
-to something on the warp
-core.) 
 LAFORGE:
-Another millimetre. That's it. A little more. There. That's
-excellent. 
-RIKER: Lieutenant? 
-LAFORGE: Yes, Commander. 
-RIKER: You've heard of the simulation aboard the Hathaway? 
-LAFORGE: Yes, sir, and the best of luck to you. I've researched the old
-Avidyne engines. They're archaic by our standards, very touchy. 
-(The first of many Buckaroo Banzai references in this story) 
-RIKER: Anticipating the worst, do you think they can be whipped into
-shape in forty eight hours? 
-LAFORGE: I've already taken the liberty of putting together a few
-necessities.
+So you're going
+to beat him? 
+RIKER:
+Nope. 
+LAFORGE: Well, then it's going to be a close one. 
+RIKER: No. 
+LAFORGE: But you have got a chance? 
+RIKER: Nah. 
+LAFORGE: Are you going to bother to show up? 
+RIKER: Sure, Kolrami is the best ever at Strategema. Just to get to
+play him is a privilege. 
+LAFORGE: Other aside from your being privileged, is there anything else
+I can look forward to? 
+RIKER: Nope. 
+LAFORGE: This is going to be exciting.
 
-[Worf's
-quarters]
 
-(He
-seems to be building a
-matchstick ship, The door
-chime makes him break a
-stick.)
-WORF:
-Enter! 
-RIKER: Am I disturbing you? 
-(Worf sweeps the wreckage off the desk)
-WORF: Just finished. 
-RIKER: You know of the simulation. What do you think? 
-WORF: Waste of time. 
-RIKER: It's just designed to be an exercise. 
-WORF: Useless. If there is nothing to lose, no sacrifice, then there is
-nothing to gain. 
-RIKER: You mean besides pride. Well, in this case it doesn't matter. I
-probably haven't got a chance. 
-WORF: There is always a chance. 
-RIKER: Slim. The Hathaway's most sophisticated weapon system, even in a
-computer mock-up, can't hope to defeat the Enterprise. 
-WORF: Well, still 
-RIKER: You're out-manned, you're out-gunned, you're out-equipped. What
-else have you got? 
-WORF: Guile. 
-RIKER: Join me. 
-WORF: The honour is to serve.
+[Ten
+Forward]
+
+(Troi
+putting the finger
+controls on Kolrami, while Worf is Riker's second. They
+are staring at each other
+across a board which will project a
+vertical game board)
+PULASKI:
+Against an opponent of approximate skill, Strategema can last
+well over one thousand moves. 
+LAFORGE: I wouldn't bet on us being here that long. 
+WORF: I have wagered heavily in the ship's pool that you will take him
+past the sixth plateau. 
+RIKER: And if I don't? 
+WORF: I will be irritated. 
+DATA: Forever curious, this urge to compete. 
+PULASKI: It's a human response. That inborn craving to gauge your
+capabilities through conflict. 
+DATA: Doctor, there are other ways to challenge oneself. 
+PULASKI: Perhaps, but they all lack a certain thrill. 
+TROI: Data, humans sometimes find it helpful to have an outsider set
+the standard by which they're judged. 
+DATA: To avoid deceiving oneself. 
+PULASKI: Maybe you should challenge Kolrami to Strategema. 
+DATA: Why, Doctor? 
+PULASKI: Because when someone is that smug, you occasionally have to
+deflate them just a little. 
+LAFORGE: Yeah, Data, I'd like to see your neural flex tear him down a
+peg. 
+DATA: To what end? 
+WORF: Computer. Actuation positions for Strategema. Ready? Begin. 
+LAFORGE: Come on, Commander, come on now. 
+TROI: Will. 
+LAFORGE: You can do it. You can get him. Come on, Commander. Come on,
+you got him, you got him, watch out. Here you go. 
+(And the score at the top of the board reads - Riker 023, Kolrami 100) 
+PULASKI: That's it? 
+RIKER: I'm afraid so. 
+PULASKI: But but you only made twenty-three moves. 
+RIKER: Yes. Congratulations.
+<
 

@@ -1,84 +1,41 @@
-TROI LAFORGE TASHA PICARD HAGON RIKER LUTAN DATA
+RIKER TASHA PICARD HAGON CHIEF LUTAN CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Tasha's room]
+[Bridge]
 
-TASHA: I know I can win. Not that I'd take her
-life, of course, but I'd be glad to embarrass her. The idea of accusing
-me of taking 
-(Picard enters) 
-TROI: The plague? 
-PICARD: If anything, even worse than we'd heard. 
-TASHA: Which means they desperately need the vaccine, sir. And I know I
-can win this challenge. 
-PICARD: You have nothing to prove anything here, Lieutenant. 
-TROI: But the vaccine is important in this case, sir. 
-PICARD: Counsellor, you're the last person I'd expect to argue in
-favour of accepting the challenge. 
-TROI: Betazoid blood is also practical, Captain. The odds are very good
-she'd defeat Lutan's wife easily and you would win all the bargaining
-points you need. 
-PICARD: The odds are. 
-TROI: You have pointed out yourself we are all at risk every day of
-every mission. 
-PICARD: I want some explanations from Lutan. 
+(Wesley enters, shyly) 
+RIKER: Care to lend a hand? Sit at Ops. 
+[Transporter Room]
+
+(Data beams aboard) 
+DATA: Was I seen leaving? 
+CHIEF: They've got eyes only for the programme. 
+(Riker and Crusher enter) 
+DATA: Captain Picard wanted no risk of our communications being
+overheard. You are to proceed now as he indicated. 
+CRUSHER: Captain's orders too. 
+RIKER: Does the Captain understand what you and Geordi reported about
+those weapons? They're razor sharp, split-second lethal. 
+DATA: I'm here to brief you on what he plans.
+
 [Centreplace]
 
-HAGON: Lutan, why are you so obsessed with this
-Lieutenant Yar? Surely Yareena is more desirable? Certainly she can
-offer you much more. She owns many things, many lands. 
-(Picard enters, and Lutan stops Hagan talking) 
-PICARD: It's a great pity you began by abducting my Security Officer,
-Lutan, because I should tell you I do admire the hospitality you offer
-here. 
-LUTAN: I am in the grip of forces you do not understand. 
-PICARD: Some of it I do understand. She is a rather lovely female. 
-LUTAN: You surprise me, Captain. What do you know of needs and
-feelings? 
-PICARD: Nothing. Well, almost nothing in my position of ship's Captain.
-
-HAGON: I see. 
-PICARD: But it puzzles me. If you feel that way for Tasha, why have you
-challenged her to a fight to the death? 
-LUTAN: Not I, Yareena. I am merely a spectator. 
-PICARD: Ah, but you are also a man of great importance and wealth. 
-HAGON: Great importance, perhaps, but he does (silenced by Lutan) 
-PICARD: Ah, I see. You, too, understand the proper value of women. 
-LUTAN: We understand they are highly pleasant things, but after all,
-unimportant. Except for the land they own. 
-PICARD: You are a truly clever person, Lutan. You stand to lose
-nothing, either way the challenge goes. 
-LUTAN: A code of honour protects one, Captain, like a magic cloak. 
-PICARD: I will order Lieutenant Yar to fight. And may your cloak bring
-you all you deserve.
-
-[Geordi's Quarters]
-
-(Geordi has his Visor off, and is using an electric
-shaver) 
-LAFORGE: Come in. 
-DATA: Why that razor, my friend? Why not the one I adjusted to perfect
-efficiency? 
-LAFORGE: Shaving is a human art form, Data. Technological perfection
-can shave too close. 
-DATA: Puzzling. How can anything be too efficient? 
-LAFORGE: Thousands of things are too efficient, Data, at least for
-humans. 
-DATA: We always come back to the human equation. 
-LAFORGE: Exactly. Have you continued to work on it? 
-DATA: Constantly, my friend. Particularly the humour. A man goes to a
-store to buy some kidneys. 
-LAFORGE: Oh, no. (Geordi tries to escape) 
-DATA: He says to the shopkeeper, I'd like a pound of kiddillies,
-please. The shopkeeper says to him, You mean
-kidneys, don't you? The man says, I said kiddillies, diddle I? 
-LAFORGE: It's too old. And you didn't tell it very well. 
-DATA: How do you know when something is funny? 
-LAFORGE: It's not explainable. You just do. 
-DATA: Perhaps it is you, Geordi. Includling the kiddillies, I've
-learned six hundred sixty two jokes, and you have not 
-LAFORGE: Includling the kiddillies! Now, see, that's funny. 
-DATA: It was not meant as a joke. The tongue slipped. 
-LAFORGE: Oh, boy.
-RIKER [OC]: Riker to Commander Data, Lieutenant La Forge. Report to the
-Transporter Room for away party duty.
+(The Starfleet group enter, Tasha is wearing the
+weapon glove) 
+TASHA: Any last minute instructions, sir? 
+PICARD: Stay alive. We'll hope to do the rest. 
+(Yareena enters)
+HAGON: I speak for Lutan. The rules are known. Let combat continue
+until there is a victor. It will not be interrupted. 
+(Yareena goes on the offensive straight away. Tasha pushes her weapon
+away and it hits one of the vertical laser beams. It flies off
+Yareena's hand into the lap of a spectator)
+LUTAN: Combatants, hold your positions. Return the weapon. 
+(The spectator dies of his wound and is dragged away. Yareena is given
+the glove back and she returns to the business of trying to kill Tasha.
+Tasha manages to make Yareena loose her balance) 
+HAGON: Careful, Yareena. 
+(Finally the two women get into very close combat, and Tasha lands a
+blow on Yareena's back. Then she lies across the body and the two are
+beamed away)
 

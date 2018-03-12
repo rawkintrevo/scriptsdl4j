@@ -1,64 +1,41 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA TEMPLE
+DATA LAFORGE WORF GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Planet surface]
+[Ten Forward]
 
-(A harsh, rocky place littered with bits of metal) 
-DATA: Radiation levels within acceptable limits. 
-(There is a man tumbled out the back of a shuttlecraft sized ship. The
-man has a badly burned face) 
-LAFORGE: We can beam him out from under there, get him right up to
-Sickbay. 
-CRUSHER: He's not stable enough for transport. There's damage to his
-brain stem, autonomic functions are failing. His heart needs active
-neurofeedback. It can't regulate itself. I need a volunteer. 
-LAFORGE: Right here. 
-CRUSHER: I'm going to hook your nervous systems to the tricorder. Your
-brain will regulate both systems. That
-should stabilise him long enough to get him up to the ship. 
-CRUSHER: Take deep, regular breaths. If anything goes wrong I'll break
-the connection. 
-LAFORGE: Okay. 
-(Something golden leaps from the injured man into Geordi's head via the
-neural thingummyjig) 
-CRUSHER: Geordi! 
-LAFORGE: I'm fine. No problem. 
-CRUSHER: Transporter room, three to beam directly to Sickbay.
+LAFORGE: I'm telling you Data, there's got to be
+some way to decode the information in this thing. 
+DATA: I agree Geordi. But the data matrix within the capsule does not
+correspond to any standard format. All we have been able to determine
+is that the device contains a chemically based system for molecular
+energy encoding. 
+LAFORGE: Yeah, and the computer still can't analyse the specific
+chemical elements involved. It's got to be part of the data processing
+system. What if it's a feedback loop controller? 
+DATA: The compact shape does suggest a rapid chemical processing and
+storage capacity. 
+LAFORGE: We found it near the escape pod's instrumentation assemblage.
+This capsule might process the ship's dynamic motions and augment its
+manual control inputs. We could send it a few test signals, make it
+think the entire assemblage was awake and operating. 
+DATA: An intriguing experiment. The capsule might provide us with
+information without the need to decode the storage medium itself.
+Perhaps we should examine your theory immediately. 
+WORF: Less talk, more synthahol. We came here to relax. 
+LAFORGE: I am relaxed. In fact, I've never felt better. But you know,
+Worf, you're right. The storage capsule can wait awhile. 
+(He goes over to the object of his earlier failed attentions) 
+LAFORGE: Christi, you're not leaving, are you? 
+GUEST0: I was just on my way down to the arboretum. 
+LAFORGE: Would you care for some company? 
+GUEST0: I'd love some, but I didn't think you were interested in that
+kind of thing. 
+LAFORGE: There are a lot of things you don't know about me. 
+(Geordi and Christi leave) 
+WORF: I've been tutoring him. He learns very quickly.
 
-[Sickbay - room four]
-
-CRUSHER: Autonomic responses are still low. Begin
-cardiostimulation. Sixty cc's of inaprovaline. Massive infection is
-setting in. Use the protodynoplaser to stabilize his immune system. We
-need to design a virus that can infiltrate his cell structure and boost
-his ATP production. 
-TEMPLE: (a female nurse) What about Commander La Forge. He's waiting in
-the diagnostic centre. 
-CRUSHER: I need you to give him a full bioscan. See if there's any
-residual effect from that energy discharge during the neurolink. Keep
-his arm in cryogenic stasis until the vital signs are strong enough to
-begin surgical procedures.
-
-[Bridge]
-
-(Picard is holding an oversized blue plastic bottle
-or tube) 
-RIKER: From the size and shape of the wreckage, it appeared to be some
-kind of escape pod. Their control system was badly damaged, which is
-probably what caused the crash. 
-PICARD: An escape pod? Then he couldn't have travelled very far. Mister
-Data, are there any other signs of ships in this area? 
-DATA: I am picking up a scattering of debris in extended orbit around
-the planet. It reads as refined metals and other synthetic compounds. 
-PICARD: The remains of a larger vessel. He must have left in the pod
-before the ship was destroyed. 
-WORF: Sensors show trace elements in the debris that would indicate
-phaser fire was recently exchanged. 
-PICARD: Were you able to salvage anything else from the escape pod? 
-RIKER: This is all that was left from their computer system. 
-PICARD: Mister Data, can you access it? 
-DATA: It will take time, sir. Downloading this into our system will
-require fabrication of a matrix translator to emulate the alien's
-computer system. 
-PICARD: Keep me apprised of your progress. 
-DATA: Aye, sir.
+Medical Log, Stardate 43958.8. I have removed
+patient John Doe from the emergency bio-support unit. In just thirty
+six hours, most of his major organ systems have regenerated themselves
+to the point where they can now function on their own.
 

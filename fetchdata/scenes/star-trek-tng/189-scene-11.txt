@@ -1,82 +1,68 @@
-PICARD RIKER LANEL DURKEN
-
-[Ready room]
-
-(Picard pours some wine) 
-PICARD: I've been saving this for a special occasion. My brother on
-Earth produces fruit known as grapes, which he turns into wine. He's
-really quite good at it. Chancellor, we have a tradition called a
-toast. It is a drink to salute one's friends and good fortune, and I
-would like to propose a toast to a new friendship. 
-DURKEN: We have something very much like this here on Malcor Three. 
-PICARD: I think we shall find we have much in common. 
-DURKEN: And much that is not in common. 
-PICARD: An opportunity to learn from one another. 
-DURKEN: You speak the language of diplomacy very well, Captain. It is a
-language I appreciate and understand, but I have learned to not always
-trust it. 
-PICARD: Trust requires time and experience. 
-DURKEN: My world's history has recorded that conquerors often arrived
-with the words, we are your friends. 
-PICARD: We are not here as conquerors, Chancellor. 
-DURKEN: What do you want? 
-PICARD: A beginning. But how we proceed is entirely up to you. 
-DURKEN: And if my wishes should conflict with yours? 
-PICARD: There'll be no conflict. 
-DURKEN: And if I should tell you to leave and never return to my world?
-
-PICARD: We will leave and never return. Chancellor, we are here only to
-help guide you into a new era. I can assure you we will not interfere
-in the natural development of your planet. That is, in fact, our Prime
-Directive. 
-DURKEN: I can infer from that directive that you do not intend to share
-all this exceptional technology with us. 
-PICARD: That is not the whole meaning, but it is part of it. 
-DURKEN: Is this your way of maintaining superiority? 
-PICARD: Chancellor, to instantly transform a society with technology
-would be harmful and it would be destructive, 
-DURKEN: You're right, of course. I'm overwhelmed, Captain Picard. I'm
-quite overwhelmed. I go home each night to a loving wife, two beautiful
-daughters. We eat the evening meal together as a family, I think that's
-important. And they always ask me if I've had a good day. 
-PICARD: And how shall you answer them tonight, Chancellor? 
-DURKEN: I will have to say this morning, I was the leader of the
-universe as I knew it. This afternoon, I am only a voice in a chorus.
-But I think it was a good day.
+PICARD GUEST0 GUEST5 GUEST3 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Riker's hospital room]
 
-(Riker is out of bed and looking for a way out when
-a woman enters) 
-LANEL: There are guards out there. You'll never escape that way. I'm
-not afraid of you. 
-RIKER: Good. Because there's nothing to be afraid of. 
-LANEL: We shouldn't fear the unknown. We should embrace it. 
-RIKER: Can you help me get out of here? 
-LANEL: Are you really an alien? It's all right to tell me. 
-RIKER: No, I'm not an alien. 
-LANEL: I don't believe you. You are an alien. 
-RIKER: I really have to leave. 
-LANEL: I could divert the guard's attention. You might stand a chance
-if you took the service exit down the hallway to the right. 
-RIKER: To the right? Fine, let's do it. 
-LANEL: Why should I? 
-RIKER: Well, you know why. I don't belong here. I have to get back on
-my ship, in space. 
-LANEL: I believe you. 
-RIKER: Now, will you help me? 
-LANEL: If you make love to me. 
-RIKER: What? 
-LANEL: I've always wanted to make love with an alien. 
-RIKER: Listen, Miss 
-LANEL: Lanel. 
-RIKER: Lanel, I really have to get going. All the other aliens are
-waiting for me. 
-LANEL: Oh, it's not so much to ask, and then I'll help you escape. 
-RIKER: It's not that easy. There are differences in the way that my
-people make love. 
-LANEL: I can't wait to learn. 
-(she takes of her spectacles) 
-RIKER: But it's 
-LANEL: It's your only way out of here, my alien.
+GUEST3: Will he survive? 
+GUEST5: I didn't think he would have survived the injuries. 
+GUEST3: I have to interrogate him before he dies. 
+GUEST5: At least give him time to regain some strength. Come back
+tomorrow. 
+GUEST3: It cannot wait until tomorrow. 
+(Mirasta enters) 
+GUEST0: Krola, we can get help from his ship. With their medical
+technology, he might recover. 
+GUEST3: We're not giving him back. He's the one advantage we have now.
+Use your drugs to revive him. 
+GUEST5: Those drugs increase cardial rate and vascular pressure. That's
+the last thing we need to do to him right now. 
+GUEST0: It will probably be enough to kill him. You can't do it! 
+GUEST3: Revive him. 
+GUEST5: I'm just a physician, Minister. I don't know much about affairs
+of state, but he is a living, intelligent being. I don't care if the
+Chancellor himself calls down here. I have sworn an oath to do no harm,
+and I will not. 
+GUEST3: Then I'll find someone to replace you. 
+[Durken's office]
+
+(Picard beams straight in) 
+PICARD: Chancellor. 
+GUEST1: You are punctual, Captain. 
+PICARD: I know how busy you are. 
+GUEST1: Do you? I think you know a great deal more about me than I know
+about you. 
+PICARD: In what respect? 
+GUEST1: You speak of trust and peace and working together to enter a
+new era, and at the same time you conduct secret surveillance posing as
+Malcorians. 
+PICARD: Commander Riker? 
+GUEST1: Commander Riker. 
+PICARD: Mirasta said it would be a mistake to discuss this with you. 
+GUEST1: Yes, she's tried to accept the responsibility. 
+PICARD: It was my error, not hers. Chancellor, there is no starship
+mission more dangerous than that of first contact. We never know what
+we will face when we open the door on a new world, how we will be
+greeted, what exactly the dangers will be. Centuries ago, a disastrous
+contact with the Klingon Empire led to decades of war. It was decided
+then we would do surveillance before making contact. It was a
+controversial decision. I believe it prevented more problems than it
+created. 
+GUEST1: I can appreciate the logic of your position, Captain. But it
+would seem a full disclosure after contact would have been in order. 
+PICARD: In time there would have been full disclosure. I can only ask
+you to believe that. On other worlds it would not be an issue. But
+here, everything our observers reported indicated that the people of
+this world would almost certainly react negatively to our arrival. We
+could see that even surveillance might even be interpreted as an act of
+aggression. I hoped that we would have found Commander Riker before you
+did so the matter would not complicate our introduction. It was a
+mistake. 
+GUEST1: Yes. A mistake I might have made in your place. I rather like
+it actually. 
+PICARD: Like it? 
+GUEST1: That you make mistakes like any man. 
+PICARD: Chancellor, I have made some fine ones in my time. Now, I must
+ask you, will you release my officer? 
+GUEST1: We'll talk again later, Captain. 
+PICARD: Enterprise, one to beam up.
 

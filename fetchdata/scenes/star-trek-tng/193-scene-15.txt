@@ -1,80 +1,28 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA BARCLAY
+LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Jefferies tube]
 
-LAFORGE [OC]: It should be enough, Captain. 
-PICARD: Mister Worf. Photon torpedoes. Maximum yield, full spread. 
-WORF: Aye. 
-(three direct hits and a big light display. The ship rocks) 
-PICARD: Thank you, Mister Barclay.
-
-[Engineering]
-
-BARCLAY: You're welcome, Captain. Barclay out. I'm
-sorry if I overstepped my authority. 
-LAFORGE: (to himself) Don't mention it.
-
-Captain's log, stardate 44705.3. The Enterprise has
-destroyed the alien probe, but now we are left with the difficult task
-of repairing the Argus Telescope. Failure to do so would represent an
-incalculable scientific loss.
-
-[Corridor]
-
-RIKER: Mister Barclay. Everyone's still trying to
-figure out exactly how you did it. 
-BARCLAY: Well, it just occurred to me that I could set up a frequency
-harmonic between the deflector and the shield grid using the warp field
-generator as a power flow anti-attenuator, and that of course naturally
-created an amplification of the inherent energy output. 
-RIKER: Uh huh. I see that.
-
-[Observation lounge]
-
-PICARD: I'm glad you could join us, Mister Barclay.
-Your report, Mister La Forge. 
-LAFORGE: Each of the telescope's subspace antenna clusters is powered
-by its own fusion reactor, but a single computer controls them all. 
-RIKER: So all eighteen reactors were affected when the computer was
-damaged? 
-LAFORGE: That's right. They're starting to overload, and could
-eventually go critical. The explosion would destroy the Array, and I
-wouldn't want to be next door when that happens. 
-DATA: A standard isolation procedure would be advisable. 
-LAFORGE: I agree. We'll cut off each reactor from the damaged control
-system and repair them one by one. 
-RIKER: How long will that take? 
-LAFORGE: Two to three weeks at least. 
-PICARD: All right, Mister La Forge. 
-BARCLAY: I don't agree. We could repair all of the reactors
-simultaneously instead of one by one. 
-PICARD: Simultaneously? All eighteen? 
-BARCLAY: Yes, sir. 
-LAFORGE: But the Argus computer is inoperable. 
-BARCLAY: Not entirely. The core memory is still intact, and we could
-programme a completely new control system. 
-DATA: An interesting suggestion, Lieutenant. However, that approach
-would require much more time than our original plan. At least seven
-weeks. 
-BARCLAY: I could have it ready for you in two days. 
-RIKER: What? 
-BARCLAY: If you could assist me in the morning, Commander. 
-LAFORGE: Sure, Reg.
-
-[Ship's theatre]
-
-(an acting workshop, and Barclay is in award
-winning mode) 
-BARCLAY: The moon, yes, that'll be my home, my paradise. I shall find
-there all the souls I love. Socrates, Galileo. And when I arrive they
-will question my worthiness. What the devil is he doing there among us?
-Philosopher, scientist, poet, musician, duellist! Here lies Hercule
-Savinien De Cyrano de Bergerac. I would not have you weep any less for
-that charming, good, and handsome Christien. I only ask this, that as
-the great cold surrounds my bones, you allow a double meaning for your
-mourning veil. And when you let fall your tears fall for him, some few
-will be for me. 
-CRUSHER: That was a real improvement. 
-BARCLAY: Same time, day after tomorrow? 
-CRUSHER: Same time.
-
+BARCLAY [OC]: Commander La Forge? 
+LAFORGE: Yeah, Reg? 
+BARCLAY [OC]: I thought you would be in your quarters. 
+LAFORGE: No, I'm just catching up on some work, you know? That level
+three diagnostic we talked about. How're you doing? 
+BARCLAY [OC]: I wish I could convey to you what it's like for me now.
+What I've become. 
+LAFORGE: Yeah? Try. 
+BARCLAY [OC]: I can conceive almost infinite possibilities, and can
+fully explore each of them in a nanosecond. I perceive the universe as
+a single equation, and it is so simple, I understand. 
+LAFORGE: You understand? 
+BARCLAY [OC]: Everything. 
+LAFORGE: Well, do you understand how this happened to you? 
+BARCLAY [OC]: I believe it is a gift. That I have been chosen to
+fulfill a great purpose. 
+LAFORGE: Ah ha. 
+BARCLAY [OC]: Do you suppose all of this has changed the way people
+think about me? 
+LAFORGE: To tell you the truth, Reg, we don't know what to think. 
+BARCLAY [OC]: I've been concerned about that, but soon everyone will
+understand what I can do for humanity. 
+LAFORGE: What do you mean? 

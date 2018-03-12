@@ -1,23 +1,5 @@
-PICARD TROI COMPUTER RIKER
-
-[Corridor]
-
-PICARD: You're sure you won't reconsider? 
-TROI: No, I'll just watch you and be impressed. 
-PICARD: An optimistic vote of confidence from a non-rider. 
-TROI: You know, I never particularly thought of you as an animal
-person. 
-PICARD: Small animals, no, but horses. Computer, programme the holodeck
-for a woodland setting, with a bridle path and an appropriate mount. 
-COMPUTER: Type of mount? Andorian Zabathu, Klingon Sark 
-PICARD: Horse. Earth horse. 
-COMPUTER: Breed? 
-PICARD: Arabian. The Arabs believed that Allah gathered the south wind
-and made the horse. 
-TROI: On the holodeck we've made that legend come true. 
-PICARD: I like that. Oh yes, computer, English tack, and I will control
-the animal myself. 
-COMPUTER: Enter when ready.
+PICARD TROI RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Meadow]
 

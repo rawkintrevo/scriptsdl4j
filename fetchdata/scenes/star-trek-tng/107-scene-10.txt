@@ -1,58 +1,38 @@
-TROI LAFORGE PICARD RIKER CRUSHER DATA
+RIKER GUEST0 GUEST1 GUEST3 GUEST2 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+(The ship whirrs back into life, and people start
+to open their eyes) 
+CRUSHER: Not a moment too soon, Jean. I mean, Captain.
 
 [Planet surface]
 
-(It's a barren place with interesting crystalline
-structures here and there, and lightning flashes almost continuously.
-Riker appears alone) 
-RIKER: Tasha? Data? Geordi? Worf? Anybody?! 
-(He goes searching for the others) 
-RIKER: Data? 
-(He finds him standing on one of the crystalline outcrops) 
-RIKER: What are you doing up there? 
-DATA: Most intriguing, sir. I assume a problem of inaccurately
-transmitted programme
-coordinates due to the force field around the ship, sir. Are we alone,
-sir? 
-RIKER: Unfortunately. Let's find the others. What do you make of these?
-
-DATA: Crystalline. Mostly inert. Nothing to write home about. 
-RIKER: Excuse me? 
-DATA: Slang, sir. I did use it correctly, did I not? 
-RIKER: They've got to be around here somewhere. 
-(They carry on searching) 
-RIKER: What's that? 
-DATA: What? 
-RIKER: That! Geordi! 
-(Geordi is hanging upside down from the only tree in the area) 
-RIKER: Are you conscious? 
-LAFORGE: Do I look conscious? 
-RIKER: What are you doing? 
-LAFORGE: I'm resting, sir. My foot's stuck. Up there. I materialized
-upside down above the planet surface. 
-DATA: Tricorder's useless, sir. Communication's gone too. Fortunately
-you did not break any 
-LAFORGE: Data, who's that? 
-(The Ferengis are watching them. Little crouching men with whips in
-their hands) 
-RIKER: Who are you? 
-(The Ferengi let fly energy bolts from their whips, knocking the three
-men out. Actually, it takes two jolts to knock out Riker)
-
-Captain's log, supplemental. It is now six hours
-since our away team beamed down to the planet surface. On the
-Enterprise, our condition is rapidly worsening. Ordinarily, with
-reserve power alone, we could maintain life support for several months.
-But the force holding has closed down all engines and is draining our
-reserve power too.
-
-[Recreation lounge]
-
-(Blankets are being handed out) 
-TROI: It's getting much, much colder, sir. How far down is it likely to
-go? 
-PICARD: A lot. Even in orbital space it'll get below minus two hundred
-degrees. 
-CRUSHER: We won't have to worry much past minus seventy or so. 
-PICARD: Feels like that right now. Good. Thank you.
+GUEST2: I admit I had my doubts as your ships
+battled each other in overt acts of
+belligerence. Normally, I would have destroyed all of you and your
+ships, but something confused me. 
+RIKER: Which was? 
+GUEST2: First, you wanted to murder each other. Then you were willing
+to help each other. 
+GUEST3: What of our vessel? We knew the same answer. 
+GUEST1: The truth is, I gave those words to this human. 
+GUEST2: What of them? Shall I destroy them? 
+RIKER: Then they would learn nothing. 
+GUEST2: A most interesting conclusion. But what if they will never
+learn, Riker? 
+RIKER: Is this a test also? 
+GUEST2: In life, one is always tested. 
+RIKER: I find them very much as we were a several hundred years ago,
+but possessing the technology they have now, they're very dangerous . 
+GUEST0: Untrue. We seek friendship with you. 
+RIKER: But we can hardly hate what we once were. They may grow and
+learn. 
+GUEST2: And learn ways to destroy you. 
+RIKER: Our values require us to face that possibility. What of you,
+with your empire gone? 
+GUEST2: The universe exists to me to create life. I shall sleep, until
+needed again. 
+(He walks away, becomes more stooped, then vanishes)
 

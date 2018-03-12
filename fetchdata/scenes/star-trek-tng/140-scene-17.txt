@@ -1,35 +1,52 @@
-WESLEY RIKER DATA LAFORGE PICARD
+PULASKI TROI DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Holodeck] 
+WORF: An Ascension ceremony. 
+LAFORGE: Happy anniversary, Worf. 
+DATA: Shall we begin? 
+WORF: I am ready. 
+(He steps between the two lines of warriors) 
+WORF: DaHjaj SuvwI''e' jIH. tIgwIj Sa'angNIS. 'Iw bIQtIqDaq jIjaH.
+Today I am a Warrior. I must show you my heart. I travel the river of
+blood. 
+(The first two warriors apply their painstiks to his sides, and he
+screams in pain) 
+DATA: The true test of Klingon strength is to admit one's most profound
+feelings while under extreme duress. 
+WORF: jIbechrup may' vIlos. 
+(The second pair apply their painstiks) 
+WORF: The battle is mine. I crave only the blood of the enemy.
+HIHIvqa'. 
+(Third pair. He falls to his knees and O'Brien holds Pulaski back) 
+WORF: The bile of the vanquished flows over my hands. May'pequ' moH. 
+(The fourth and final pair use their painstiks twice and he collapses
+in front of his 'family') 
+WORF: Thank you.
 
-WESLEY: Now the Klingon cultural database was very
-specific on the setting. 
-LAFORGE: Now let me guess. Twenty piece orchestra, magnificent
-ballroom, everybody in formal wear. 
-WESLEY: No, there is some unusual test of inner strength involved 
-DATA: That would entail the use of Klingon painstiks. 
-LAFORGE: Painstiks? Sounds lovely. 
-DATA: Enduring physical suffering is considered a Klingon spiritual
-test. 
-LAFORGE: You mean in order for Worf to celebrate the anniversary of his
-Ascension, he has to be hurt? And we have to witness this? 
-DATA: We are his family.
+[Observation lounge]
 
-[Ready room]
-
-PICARD: Come. 
-(Riker enters) 
-PICARD: Number One? 
-RIKER: I'd be a fool to turn that promotion down, wouldn't I? 
-PICARD: I don't know, and if you're asking me what I think you should
-do, I don't know that either. I can spell out for you, albeit crudely,
-what you are choosing between. As the First Officer of the Enterprise
-you have a position of distinction, prestige, even glamour of a sort.
-You are the second in command of Starfleet's flagship, but still second
-in command. Your promotion will transfer you to a relatively
-insignificant ship in an obscure corner of the galaxy But it
-will be your ship, and being who you are, it will soon be vibrant with
-your authority, your style, your vision. You know, there really is no
-substitute for holding the reins. 
-RIKER: I'll need a little more time to make this decision.
+TROI: Is Lieutenant Worf all right? 
+PULASKI: He's never been happier. 
+TROI: So it was a good ceremony? 
+PULASKI: Let's just say that I was not about to stay for refreshments. 
+TROI: Klingon culture is not in your taste? 
+PULASKI: I'm just glad that humans have progressed beyond the need for
+barbaric display. 
+TROI: Have they? Commander Riker and his father are in the gymnasium,
+about to engage in barbarism of their own. 
+PULASKI: Don't remind me. It's something of which I do not approve. 
+TROI: In spite of human evolution, there are still some traits that are
+endemic to gender. 
+PULASKI: You think that they're going to knock each other's brains out
+because they're men? 
+TROI: Human males are unique. Fathers continue to regard their sons as
+children, even into adulthood. And sons continue to chafe against what
+they perceive as their fathers' expectations of them. 
+PULASKI: It's almost as if they never really grow up at all, isn't it? 
+TROI: Perhaps that's part of their charm, and why we find them so
+attractive. 
+PULASKI: Particularly men like Commander Riker. 
+TROI: And his father. 
+PULASKI: I hope they don't hurt each other.
 

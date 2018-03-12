@@ -1,54 +1,32 @@
-OBRIEN LAFORGE BARCLAY
+RIKER WORF PICARD TROI CRUSHER BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Observation lounge]
 
-(Riker leaves) 
-LAFORGE [OC]: La Forge to Transporter room three. I'm ready to go. 
-O'BRIEN: Stand by, Commander.
-
-[USS Yosemite]
-
-(Geordi is beamed away) 
-BARCLAY: Barclay to Enterprise. One to beam back. 
-O'BRIEN [OC]: Stand by, sir. 
-(We join Reg in the transporter experience, including a maggot thing
-that bites his arm)
-
-[Transporter room]
-
-O'BRIEN: You see, sir? That wasn't so bad, was it.
-
-[Engineering]
-
-LAFORGE: Mission logs, science logs, medical logs,
-they're all scrambled. Looks like the blast wiped out the ship's core
-memory. 
-BARCLAY: We could try to reconstitute the data stream. 
-LAFORGE: It's worth a try. 
-BARCLAY: Commander, has anything strange ever happened to you during
-transport? 
-LAFORGE: Like what? 
-BARCLAY: I don't know. Anything out of the ordinary. 
-LAFORGE: No, not really. This looks hopeless. We're not going to get
-anything out of these logs. You know, maybe this broken sample
-container I found can tell us something. Let's try to get this thing
-back into one piece. 
-BARCLAY: I mean, have you ever seen anything? 
-LAFORGE: Where? 
-BARCLAY: In the, during transport. 
-LAFORGE: Sometimes my visor picks up resonance patterns from the matter
-energy conversion. It's actually kind of pretty. Why? 
-BARCLAY: Just wondering. 
-LAFORGE: Reg, what are you getting at? Did you saw something during
-transport? 
-BARCLAY: When I was returning to the Enterprise I could've sworn I saw
-something in the matter stream. 
-LAFORGE: Something? 
-BARCLAY: There was phased matter all around. At first I thought it was
-some kind of energy discharge, but then it flew toward me and it
-touched my arm. How could something be in there? Molecules flying
-apart, half phased? I mean, it's impossible, isn't it? 
-LAFORGE: We'd better check it out. When we're done here, we'll run a
-full diagnostic on the transporter, all right? 
-BARCLAY: All right.
+(Crusher is scanning Barclay's arm) 
+BARCLAY: Then I saw it again, just twenty minutes ago. It was the same
+exact thing just moving around in the transporter beam. 
+RIKER: Let me get this straight. You think this thing was alive? 
+BARCLAY: It was dark and distorted, and it had what looked like a
+mouth. 
+WORF: A mouth. 
+CRUSHER: I don't see anything wrong with his arm. 
+TROI: Reg, why did you wait so long to tell anybody about your arm? 
+BARCLAY: Well, I thought I was hallucinating, that I had, that it was
+transporter psychosis. But now I know what I saw in there was real. I
+was the only one who experienced ionic fluctuations in the transport.
+Maybe that's why no one else saw it. 
+PICARD: Mister Barclay, I've been told you've been under a considerable
+amount of strain the past couple of days. Isn't it possible that you
+simply imagined 
+BARCLAY: I know what you're going to say, Captain. I know I've been
+acting strange lately. But you've got to believe me. I would never have
+called you in here unless I was absolutely certain. 
+PICARD: Commander La Forge, get Mister O'Brien. Take that transporter
+system apart piece by piece if you have to. Mister Worf, I want a level
+three security alert until further notice. 
+WORF: Aye, sir. 
+CRUSHER: I'll run a micro-cellular scan of Mister Barclay's arm. It
+might take some time, but if there's a problem, I'll find it. 
+PICARD: Keep me apprised. Dismissed.
 

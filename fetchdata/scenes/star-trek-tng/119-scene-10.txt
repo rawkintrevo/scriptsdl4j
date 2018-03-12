@@ -1,50 +1,37 @@
-PICARD RIKER REMMICK LAFORGE
+RIKER JAKE LAFORGE WORF TASHA PICARD REMMICK DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Shuttlecraft]
+
+JAKE: I can't face him. I'm leaving. (alarm sounds)
 
 [Bridge]
 
-RIKER: I think I should apologise, Captain. 
-PICARD: No need, Number One. Mister Remmick's presence is unnerving, to
-say the least. 
-REMMICK: Are you available now, Mister Riker? Or do you still have
-duties to perform? 
-RIKER: I'm available, Mister Remmick. 
-REMMICK: Any problem with using your Ready room, Captain? 
-PICARD: No, Mister Remmick. Be my guest.
+LAFORGE: Captain, he's unbalanced the dilithium
+reaction. 
+[Shuttlecraft]
 
-[Ready room]
+JAKE: I've lost power! 
+[Bridge]
 
-(Remmick sits himself in the Captain's chair and
-gestures Riker to sit too)
-REMMICK: If you prefer to stand, fine, Mister Riker. It won't have an
-effect on the length of my inquiry. (Riker sits) Now, there are several
-seeming discrepancies in the Captain's log. Let's go over them one by
-one, shall we? 
-RIKER: The Captain's log? 
-REMMICK: Yes. To the best of your knowledge, has the Captain ever
-falsified a log? 
-RIKER: Have you discussed this with him? 
-REMMICK: Right now, I'm asking you. 
-RIKER: If you want to discuss anything about Captain Picard, you bring
-him in here and ask him face to face. 
-REMMICK: You are required to answer my questions, Mister Riker, unless
-you're trying to cover something up! Now, there are several
-discrepancies in the Captain's log. Shall we go over them one by one? 
-RIKER: Proceed.
-
-[Engineering]
-
-REMMICK: So, you are saying Captain Picard had no
-control over this vessel. He handed it over to Kosinski, who took the
-entire crew to the edge of the universe. 
-LAFORGE: No, sir. That's not what I'm saying. Now, Kosinski was sent by
-Starfleet to improve our warp drive system. Captain Picard was ordered
-to take him aboard. 
-REMMICK: According to his own logs, his Bridge crew didn't think highly
-of Mister Kosinski's theories, yet the Captain allowed him to access to
-the engines anyway. Is that true, La Forge? 
-LAFORGE: Not exactly, sir. 
-REMMICK: One way or the other, La Forge, Picard lost control of this
-ship. Is that true? 
-LAFORGE: Yes, but that's not how it happened. 
-REMMICK: So, the answer is yes.
+RIKER: All he's got left are his manoeuvring jets,
+Captain. 
+LAFORGE: At this trajectory, he'll enter the atmosphere and burn up at
+two hundred kilometres. 
+PICARD: Probable impact? 
+DATA: Atmospheric entry seventy eight seconds. 
+PICARD: Options? 
+WORF: Tractor beam? 
+RIKER: Not possible. He's too far away for a positive lock. 
+TASHA: He's out of transporter range. 
+REMMICK: Captain, you are completely responsible for that boy's life. 
+PICARD: Mister Remmick, either get out of my way and keep quiet, or I
+will have you removed from the Bridge. Viewer on shuttle cockpit. 
+TASHA: Visual on main viewer. 
+PICARD: Mister Kurland. 
+JAKE [on viewscreen]: I can't get the engine started. What am I going
+to do? I'm going to crash. 
+RIKER: He needs another fifty seconds for the core to cool down before
+it can restart. 
+PICARD: Stay calm, Jake. We'll get you back.
 

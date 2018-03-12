@@ -1,59 +1,137 @@
-PICARD RIKER DATA LAFORGE WORF
+PICARD DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Iconian Control room]
 
-PICARD: Are you making any progress toward solving
-our problems? 
-LAFORGE: Solving them, no sir, but I can eliminate one worry. It is not
-a design flaw. 
-[Engineering]
-
-LAFORGE: I've been reviewing the Yamato's log, and
-I think maybe that alien probe had something to do with her problems. 
-PICARD [OC]: How? 
-LAFORGE: I need to see the thing. 
-[Bridge]
-
-PICARD: If it was the probe, that explains the
-Yamato. But how do you account for the difficulties the Enterprise is
-experiencing? 
-[Engineering]
-
-LAFORGE: I can't. 
-PICARD [OC]: Lieutenant, Are our problems likely to attain the
-seriousness of those on the Yamato? 
-LAFORGE: If you're asking for speculation, I'd say yes, sir, they are.
-I need time. 
-[Bridge]
-
-PICARD: Mister La Forge, time is the one thing
-which we do not have in abundance. 
-(Enterprise arrives at a brown and battered planet) 
-PICARD: Analysis, Mister Data. 
-DATA: Scanning, sir. 
-PICARD: Well, Mister Data? 
-DATA: No life-form readings, sir. 
-WORF: All major cities have been heavily damaged, and the pattern of
-destruction is that consistent with large-scale orbital bombardment. 
-PICARD: How long ago? 
-DATA: Approximately two hundred thousand years, sir. 
-WORF: There is an energy source in the mountains of the smaller
-continent. 
-PICARD: Magnify. 
-RIKER: Is that Iconia? 
-PICARD: Captain Varley died believing that it was. 
-(There's a little flash from the cross shape inside the crater on the
-surface) 
-RIKER: Did you see that? 
-WORF: Captain. Projectile launched from the planet's surface. 
-DATA: Its size and composition match the probe which scanned the
-Yamato, sir. 
-PICARD: Shields up. Prepare a tractor beam. Mister La Forge, I'm going
-to assist you in your research. A probe has been launched from Iconia. 
-[Engineering]
-
-PICARD [OC]: I'm going to capture it. 
-LAFORGE: No, sir, wait! Captain! Captain! 
-(But the comm. system has gone down, so Geordi has to run to the Bridge
-instead. The door refuses to open so he heads off another way)
+DATA: Captain, your original hypothesis is correct.
+Iconian is the parent tongue of a language family which consists of
+Iccobar, Dewan and Dinasian. I have constructed a basic working
+understanding through a comparison of common root words such as mother,
+father, child, home, tribe, food, life, death, yours, ours, mine 
+PICARD: Data, Data, Data. 
+DATA: You do understand, sir, that my interpretation of the symbols
+will not be exact? 
+PICARD: Yes. Let's get on with it. 
+DATA: This would appear to be manual override. 
+(He presses the key pad, the globe comes to life and sends an energy
+beam to the wall. Other beams join in to create a rectangular 3D image
+of a coast scene) 
+DATA: That was not manual override. 
+PICARD: Demons of Air and Darkness, indeed. 
+(The coast becomes the Acropolis, or similar) 
+WORF: What is that? 
+PICARD: A gateway? 
+WORF: These scenes could be holographic images. 
+(Data goes towards it) 
+PICARD: Be careful. 
+(Data sticks his arm into the image. Picard pulls him back) 
+PICARD: Data! That was very foolish. 
+DATA: But we have established that this is not a holograph. If I step
+through and investigate, we could determine whether it is truly a
+gateway. 
+PICARD: No, Data. You might not be able to get back, and I can't risk
+losing you. 
+WORF: If it is not illusion, this gate would seem to take us beyond the
+confines of this planet. 
+PICARD: Is this how the Iconians travelled? Crossing light years as
+easily as we would cross a room? Those places could be on worlds in
+distant sectors of the galaxy. I think the Iconians might have
+out-foxed their enemies. Maybe they didn't all die in the bombardment.
+Some of them could have passed through this. This is what Varley
+feared. This is what he died for. 
+WORF: Sir? 
+PICARD: The Romulans could use this technology as a weapon. 
+WORF: Like the Iconians did. 
+DATA: No, I disagree. Captain, there is nothing in this room to
+indicate it was used as a military command centre. Perhaps a
+transporter room? 
+WORF: But the probe was hostile. 
+PICARD: We can't make that assumption. The effect on the Yamato was
+devastating, but what if it was by accident, not by design. What I'm
+going to say may sound unscientific, but standing on this soil,
+breathing in this air, my instincts tell me that we may have got them
+wrong. 
+WORF: But we do know that the Iconians were conquerors. 
+PICARD: But that knowledge was passed down by the descendants of those
+who attacked this world. The victors invariably write the history to
+their own advantage. There is an unfortunate tendency in many cultures
+to fear what they do not understand. It's possible that their enemies,
+confronted with this technology, were driven to attack the Iconians out
+of fear. 
+(An image of the Bridge appears) 
+WORF: Sir! 
+(And is replaced by a skyscraper) 
+WORF: Was that really the Enterprise? 
+PICARD: I believe that it was. Gentlemen, we have a way home. 
+DATA: Captain, there is a vast underground power source which is
+controlled by this console. I believe my triggering of the gateway has
+caused a dramatic upsurge in power level. Ah, I have access. 
+(He starts tapping at the console, and the energy beam zaps him. Worf
+catches Data as he falls backwards) 
+PICARD: Data, can you hear me? Data, respond. 
+DATA: Captain. 
+WORF: Are you all right? 
+DATA: No, I am damaged. 
+PICARD: How bad is it? 
+DATA: The Iconian programme is attempting to rewrite my software.
+Physical manifestations, blindness, motor con 
+WORF: Sir, without him we have no hope of deciphering the programme.
+Captain, the Enterprise again. 
+PICARD: How long is the interval? 
+WORF: About four minutes, if the cycle holds. 
+PICARD: The next time the Enterprise appears, go through it with Data.
+Geordi will be able to learn from him. Maybe help him. 
+WORF: Sir, we have not yet established that that is truly a gateway. 
+PICARD: This will be the test. 
+WORF: Aye, sir. 
+PICARD: Destroy the tricorder. 
+WORF: Sir, it contains everything we've discovered up to this point. 
+PICARD: And that is precisely why it must be destroyed. How long? 
+WORF: About three minutes. 
+PICARD: I'm running out of time. We all are. Data. Data, I have to
+destroy this. This control room and its technology must not be allowed
+to fall into Romulan hands. 
+DATA: I understand, sir. 
+PICARD: How! How do I do it? How do I destroy everything? The control
+room, the probes, all of it. 
+(Worf phasers the tricorder) 
+DATA: The power source, sir. 
+PICARD: I detonate it. But how? How do I do that? 
+DATA: The probes, sir. 
+PICARD: Probes? The probes. Launch? I launch the probes? But why?
+What's good will that do? 
+DATA: The doors, sir. 
+PICARD: Doors? 
+WORF: Perhaps the probes are in a launch bay. 
+PICARD: And if the doors are closed, then the backwash from the rockets
+will spill into the power grids and there'll be an overload. 
+DATA: Yes, sir. 
+PICARD: But the doors will open automatically when the launch begins.
+And I will override. 
+DATA: Correct, sir. 
+PICARD: Which control keys? Damn. Of course, you can't see. 
+DATA: Help. 
+PICARD: Worf, help him up. 
+DATA: Describe, please. 
+PICARD: I'm standing directly in front of the gate. To my left there is
+a small triangular screen. 
+DATA: Right one metre. 
+PICARD: Right. Now, to my right is a larger triangular screen. The top
+is solid amber. To the left, red. 
+DATA: Correct. Key blue, amber, amber, red. 
+PICARD: That's the launch sequence? How do I override the doors? 
+DATA: Blue, blue, blue. 
+PICARD: I hope that's not a stutter. I don't know how long a delay
+there will be between the launch and the detonation. I'll hold keying
+the launch sequence until you're through the gate. How long until the
+Enterprise reappears? 
+WORF: Almost time. Captain, you will be killed. 
+PICARD: I'll go through the gate. 
+WORF: But where will you end up? 
+PICARD: Very shortly, anywhere will be preferable to this room. Mister
+Worf, I am depending on you. You must get Data back to the Enterprise.
+He may be their only hope. 
+WORF: Aye, sir. 
+(He picks up Data in a fireman's lift. The image changes from the
+Romulan bridge to the Enterprise. Worf steps through)
 

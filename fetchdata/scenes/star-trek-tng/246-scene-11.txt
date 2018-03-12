@@ -1,45 +1,58 @@
-RIKER WORF PICARD COMPUTER CRUSHER DATA
+RIKER KLINGON WORF PICARD GUEST3 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Picard's quarters]
+
+CRUSHER: They all came up negative. 
+PICARD: Well I have been through every page of the Professor's
+published works, looking for some clue as to where to go next. So far,
+nothing. 
+CRUSHER: Maybe we've been at this too long. Why don't we both get some
+sleep and start again tomorrow morning. 
+PICARD: I was in the neighbourhood. When I asked the Professor why he
+went all the way to Kurl, he said, I was in the neighbourhood. Doing
+what? 
+CRUSHER: Collecting DNA samples. 
+PICARD: There's only one planet in the Kurlan system capable of
+supporting life. Loren Three. 
+CRUSHER: No. There is no Loren Three sample from the data downloaded
+from the Professor's shuttle. If he did have one it must have been
+taken by the Yridians when they attacked. 
+PICARD: Mister Data, set course for Loren Three, maximum warp. 
+DATA [OC]: Aye, sir.
 
 [Bridge]
 
-WORF: We are about to enter the Indri system, sir. 
-RIKER: Riker to Picard. We are approaching Indri Eight. 
-PICARD [OC]: On my way. 
-DATA: Sensors are picking up severe atmospheric fluctuations on the
+DATA: We are approaching the Loren system. 
+RIKER: Slow to half impulse, and take us into orbit above the third
 planet. 
-RIKER: Assume a high orbit. 
-PICARD: On screen, Mister Worf. 
-(a pretty blue green planet is turning a nasty orange-brown) 
-WORF: Some kind of plasma reaction is consuming the lower atmosphere. 
-PICARD: Can we stop it? 
-WORF: No, sir. The reaction is global. 
-DATA: All life on the planet is being destroyed, sir. 
-RIKER: Why would anyone want to destroy all the life on an uninhabited,
-neutral planet with no strategic importance whatsoever? 
-PICARD: All the life. Perhaps the Professor's number blocks had
-something to do with organic matter. 
-DATA: If we narrow the search parameters to the biological database, it
-might increase the chances of the computer finding a match. 
-PICARD: I'll be in the lab.
+PICARD: There is a good chance that our competition may be here before
+us. Battle stations, Mister Worf. 
+WORF: Aye. 
+DATA: We are now entering orbit. 
+PICARD: On screen. 
+RIKER: You were right, Captain, we've got company. Cardassians. 
+WORF: They are hailing us. 
+PICARD: On screen. 
+GUEST3 [on viewscreen]: My name is Gul Ocett. Identify yourselves and
+state your business in this star system. 
+(tara ra boom di ay - it's Linda Thorsen under the latex) 
+PICARD: I am Captain Jean-Luc Picard of the Federation Starship
+Enterprise and I see no reason why I should answer to you.
+Cardassians have no claims in this sector. 
+GUEST3 [on viewscreen]: I suppose not. But my admittedly hasty estimate
+shows one Federation Starship and two Cardassian war vessels. Perhaps I
+have miscounted. 
+PICARD: Not at all. But we are on a purely scientific mission. You have
+no reason to interfere with us. 
+GUEST3 [on viewscreen]: And you have nothing to lose by delaying a
+purely scientific mission for a few days. I invite you to withdraw. 
+WORF: Captain, a Klingon attack cruiser decloaking off the starboard
+bow. They are hailing us. 
+KLINGON [OC]: This is the Klingon vessel Maht-H'a. What are you doing
+here? 
+Captain's log, supplemental. It seems that we have
+not one, but two competitors in our attempt to complete Professor
+Galen's puzzle. I have prevailed upon the Cardassian and Klingon
+captains to meet with me.
 
-[Laboratory]
-
-COMPUTER: Pattern match found. 
-CRUSHER: Specify. 
-COMPUTER: The number blocks are mathematical representations of
-fragments of deoxyribonucleic acid strands. 
-PICARD: DNA fragments? 
-CRUSHER: Each from a different lifeform from nineteen different worlds.
-
-PICARD: The planets that these fragments are from are scattered across
-the quadrant. No wonder it took the Professor so long to collect them.
-But why? 
-CRUSHER: Wait a minute. These fragments all seem to have similar
-protein configurations. They may be chemically compatible. 
-PICARD: But how can that be possible? They're different species from
-different planets. There should be no compatibility at all. 
-CRUSHER: I know, but look at the base pair combinations, they're
-uniform. If I'm right. Computer, connect the DNA fragments according to
-protein link compatibility. 
-PICARD: What is it? 
-CRUSHER: I have no idea. 

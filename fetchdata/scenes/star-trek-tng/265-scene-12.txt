@@ -1,102 +1,50 @@
-NIKOLAI LAFORGE WORF PICARD KATERAS TARRANA DOBARA VORIN CRUSHER DATA
+RIKER WOMAN GUEST4 TROI PICARD CRUSHER MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Corridor]
 
-PICARD: You realise your career is finished. 
-NIKOLAI: I know that, Captain, and I would do it all again. 
-PICARD: What do you expect us to do now? You have left us with a colony
-of Boraalans who think they're still on their planet. 
-NIKOLAI: I didn't beam them up without a plan. I've given this a lot of
-thought. I think we can find a new planet, an M class world, that can
-be their new home. 
-PICARD: A home which would look very different from Boraal. You can't
-really believe that they'll be fooled. 
-NIKOLAI: That's where the holodeck comes in. I'll go back and tell the
-Boraalans we're going on a journey, to a different place where they'll
-be safe from the storms. The holodeck can gradually change the terrain
-as we travel, so that at the end, the holodeck simulation will match
-the conditions on the new planet. Then we'll simply beam them down. 
-PICARD: What if it doesn't work? What if they become aware that
-something strange is going on? 
-NIKOLAI: Captain, I can't prepare for every contingency, but I assure
-you I'm accustomed to thinking on my feet. I'll deal with the situation
-as it evolves. 
-PICARD: I'm not enthusiastic about this plan, but I don't see that we
-have another option. Very well, let's give it a try. 
-NIKOLAI: Thank you, Captain.
+(Vorin walks along, mouth wide open. Most people
+ignore him) 
+WOMAN: Can I help you? 
+(he backs away into)
 
-[Stellar cartography]
+[Ten Forward]
 
-CRUSHER: There are countless M class planets in
-Federation space which can support the Boraalans. We need to narrow the
-parameters. 
-DATA: It will take approximately nine and one half hours to complete
-the analysis. 
-PICARD: Even then there's no guarantee that we'll find a suitable
-planet. 
-DATA: That is correct, sir. 
-LAFORGE: Captain, you'd better take a look at this. 
-PICARD: What is it? 
-LAFORGE: We've got a problem, sir. I don't think it's going to be
-possible to keep this holodeck simulation stable. 
-PICARD: Why not? 
-LAFORGE: The plasmonic energy surges from the planet are affecting the
-ship's systems. We're having problems with the EPS systems and the
-power distribution matrix. 
-NIKOLAI: And as a result, the holodeck imaging processor has been
-severely destabilised. 
-LAFORGE: It's not a question of whether the simulation will break down,
-it's a question of when. 
-PICARD: There's no way round it? 
-LAFORGE: Not while it's running. In order to fix it, I'd have to shut
-down all of the holodecks and re-initialise the entire system. 
-PICARD: That will take hours. 
-NIKOLAI: We'll just have to hope the simulation holds long enough. 
-PICARD: Very well. Let's try it. Mister La Forge, I want you to monitor
-the situation very carefully, and keep an open comm. link with the
-Holodeck so as to be apprised of any problems. 
-LAFORGE: Aye, sir. 
-NIKOLAI: Captain, I'll return to the holodeck as soon as my surgical
-alterations are completed and I'll prepare the Boraalans for their
-journey. 
-PICARD: Considering the situation you have put us in, I don't think
-it's wise to leave you alone with those people. Mister Worf will
-accompany you. 
-WORF: Sir, perhaps someone else would be a better choice. Counsellor
-Troi is familiar with 
-PICARD: Mister Worf, the Boraalans already know you. There's no need to
-introduce them to anyone new. 
-WORF: Aye, sir. 
-(Nikolai leaves) 
-PICARD: Keep a close eye on your brother. I don't want him making this
-situation worse than it is.
+MAN: All right, all right, it's okay. Do you need
+some help? It's okay. 
+RIKER: All right, everybody. Back off, back off. 
+TROI: I know things must look very strange to you, but everything's
+going to be all right. No one's going to hurt you. We're friends of
+Nikolai and Worf. Don't be afraid. 
+GUEST4: Nikolai? 
+TROI: Yes. He's my friend. That means you are, too. I promise I won't
+hurt you. 
+GUEST4: Please, help me. Where am I?
 
-[Holodeck Cavern]
+[Sickbay]
 
-NIKOLAI: My friends, we have returned. We have
-food. This is difficult to say, but you have a right to hear it. By the
-time Worf and I had reached the surface, the village was gone. The
-storms have destroyed everything. There is nothing for us to return to.
-
-DOBARA: We can't survive in here. Our supplies won't last forever. 
-NIKOLAI: That's why we must leave. There is a place far from here where
-there are no storms. It will be a difficult journey, but in the end we
-will have a new home. 
-WORF: I know a way through the caves. We will travel safely until we
-return to the surface. 
-VORIN: Where is this new land? 
-WORF: As we said, it is far from here. It will not be like the home you
-knew. Even the stars may be different. 
-VORIN: Why would they be different? And how do you know we'll be safe
-there? 
-NIKOLAI: My brother is a seer. If he says we'll be safe, you must trust
-that we will be safe. 
-(a scream) 
-KATERAS: What's wrong? 
-TARRANA: Look. 
-(holodeck grid lines are flickering on and off in the pool) 
-WORF: Do not worry. It is an omen. 
-DOBARA: What does it mean? 
-WORF: This is the sign of La Forge. It is a message to travellers. It
-is said when these lines appear and disappear
+CRUSHER: I'm sorry, there is nothing I can do. His
+neural physiology is unusual. I can't wipe his memory. 
+PICARD: I see. How is he? 
+CRUSHER: As well as can be expected. I've given him a mild sedative and
+Troi's been speaking with him. And he seems much calmer. 
+PICARD: Does he understand the situation? 
+CRUSHER: I think so. 
+PICARD: Contact Mister Worf. Make sure he knows what's going on. 
+TROI: Here he is now. This is Captain Picard. 
+PICARD: Vorin, isn't it? 
+GUEST4: Why did you bring us here? 
+PICARD: Your planet was dying. It could no longer support life. We took
+you away from it. 
+GUEST4: But we never left the caves. 
+PICARD: We have the ability to create the illusion of other places,
+like the caves on your planet. You have actually spent the last two
+days here on this starship, not on Boraal. 
+GUEST4: Then our home is gone. 
+TROI: Yes. 
+PICARD: Vorin, listen to me. We can visit many other worlds. We can
+take you to one where you can build a new life. 
+GUEST4: A new life? 
+PICARD: A chance for your culture, your people, to survive and grow. 
+GUEST4: How can we grow when everything that made us who we are is gone?
 

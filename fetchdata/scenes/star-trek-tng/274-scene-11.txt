@@ -1,76 +1,55 @@
-JASON LAFORGE WORF RHODES PICARD DATA
+GUEST0 CRUSHER GUEST1 PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Sickbay]
 
-WORF: Our shields were up. How could he have beamed
-through them? 
-LAFORGE: I'm not sure he did. Sensors don't show any sign of an
-intruder. 
-PICARD: Could it have been another hologram? 
-LAFORGE: I don't think so, Captain. Something has to generate a
-hologram. We would have detected it. 
-PICARD: Bok once used a mind control device to make me hallucinate. 
-LAFORGE: That device emitted a very specific energy signature. I'm not
-reading anything like that. 
-WORF: Could he have modified the device so he could use it without
-being detected? 
-LAFORGE: It's possible. I'll recalibrate the sensors to scan for low
-intensity transmissions. Just to be sure, I'll sweep your quarters with
-a resonance scanner. 
-PICARD: Good. Keep me posted. 
-(La Forge leaves) 
-PICARD: Mister Worf, I want you to assign a security detail to Jason. 
-WORF: And what about yourself? 
-PICARD: I am not the target of Bok's threats. Jason is. 
-DATA: Captain, I have compiled all available records pertaining to
-Jason Vigo's criminal record, and 
-PICARD: Criminal record? 
-DATA: Yes, sir. He has been charged three times with petty theft, twice
-for disorderly conduct, and several dozen times for trespassing. 
-PICARD: Trespassing? 
-DATA: I believe the charges relate to his climbing activities in the
-caves underneath the planet's surface. This is the information you
-requested, is it not? 
-PICARD: Thank you, Mister Data.
+CRUSHER: That should do it. Let's run a level three
+bioscan just to be sure. 
+GUEST0 [OC]: Rhodes to Sickbay, Medical emergency, deck nine, section
+four. 
+CRUSHER: Let's go. 
+[Jason's quarters]
 
-[Ten Forward]
+(Jason appears to be having a fit. Crusher gives
+him a hypo)
 
-(Jason is being shadowed by male and female
-security) 
-JASON: What was your name again? 
-RHODES: Lieutenant Rhodes. 
-JASON: Actually, I meant your first name. 
-RHODES: Sandra. 
-JASON: Well, Sandra, do you think you could give me some room? 
-RHODES: We're supposed to be keeping an eye on you. 
-JASON: Can't you can keep an eye on me from over there? 
-(Security moves away. Jason's hand starts to shake so he puts his drink
-down) 
-PICARD: Good morning. 
-JASON: I thought you said your ship was the safest place I could be.
-Why the guards? 
-PICARD: Because Bok appeared in my quarters last night. Now, it might
-not have been him. It may have been an image. We're investigating. 
-JASON: Look, why don't you just drop me off somewhere. I can watch out
-for myself. 
-PICARD: That wouldn't be wise. 
-JASON: I've been doing it since I was fifteen. 
-PICARD: I'm sure you have, but Bok is a dangerous creature. He has a
-starship, he has technology. 
-JASON: All right, all right. I'll stay here. 
-PICARD: You seem to like rock climbing. The holodeck can create some
-very challenging climbs. We could go down together and I could show you
-how to use the
-programme. 
-JASON: Thanks, but I think I can figure it out myself. 
-PICARD: Perhaps we could climb together. I'm probably not as skilled as
-you, but I'm not inexperienced. 
-JASON: Look, I'm sorry. I appreciate what you're trying to do. But
-Captain. Captain, father, Jean-Luc, I don't know what I'm supposed to
-call you. As soon as this thing with Bok is over, I'm leaving. So don't
-you see? There really isn't any point in our getting acquainted. Let me
-know as soon as you catch him, all right?
+[Sickbay]
 
-Captain's log, stardate 47829.1. We've been in the
-Xendi Kabu system for over three hours, and still no sign of Bok.
+CRUSHER: Have you had any other seizures like this
+before? 
+GUEST1: No, not really. Sometimes my hand shakes, but never this bad. 
+CRUSHER: When did it first start to happen? 
+GUEST1: About few months ago. Do you have any idea what's wrong with me?
+
+CRUSHER: You have a condition called the Forrester Trent syndrome. It's
+a degenerative neurological disorder. Very rare. 
+PICARD: What do you mean degenerative? 
+CRUSHER: If it goes untreated, it could result in paralysis, even
+death. I'm going to start you on a neuro-stabilisation regimen. If
+we're lucky, it will halt the degeneration, and maybe reverse its
+effects. The disease is hereditary. I know your father doesn't have it.
+Was your mother prone to these seizures? 
+GUEST1: Not that I know of. 
+CRUSHER: There have been some cases reported where the disease was
+instigated by a random mutation. I'll run a microcellular scan and see
+if that's what happened. In the meantime, I want you to try to take it
+easy and get some rest. 
+(Jason leaves) 
+PICARD: Is he going to be all right? 
+CRUSHER: I wish I could say for certain, but I'm not sure how he'll
+respond to treatments. 
+PICARD: I've been thinking about what you said the other day, and you
+know, I think you were right. I had convinced myself that Jason didn't
+want me to reach out to him. 
+CRUSHER: You know, I don't think anyone is born knowing how to be a
+parent. You just sort of figure it out as you go. But the one quality
+that tends to be a requirement for parenthood is patience. 
+PICARD: Well, I'm not sure that that is going to be enough. I've found
+out that Jason has a criminal record. It's nothing very serious, it's
+only petty theft and so forth, but I can't help feeling that if I had
+been part of his life then he wouldn't be so troubled now. 
+CRUSHER: Maybe, but why waste time blaming yourself for not having been
+there? Just be here for him now. 
+PICARD: And be patient. 
+CRUSHER: And be patient.
 

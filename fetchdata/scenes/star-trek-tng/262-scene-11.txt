@@ -1,45 +1,62 @@
-RIKER JULIANA DATA WORF PRAN
+RIKER JULIANA DATA LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Transporter room]
+
+(Juliana and Data enter) 
+JULIANA: What happened? 
+(Pran is injured) 
+GUEST2: We were running a final check on the infusion units when a part
+of the wall gave way. 
+LAFORGE: It looks like the area has stabilised, but seismic stress is
+building up. Eventually, the pocket will collapse. 
+RIKER [OC]: How long, Geordi? 
+LAFORGE: It's tough to tell, Commander. Twelve hours at most. 
+JULIANA: Then we must finish configuring the unit and inject the plasma
+immediately. 
 [Bridge]
 
-DATA [OC]: The first phaser blast will be
-approximately nineteen seconds in duration. 
-RIKER: Acknowledged. 
-PRAN: Someone's checked his calculations, of course. 
-RIKER: No, but I'm sure Mister Data knows what he's doing. 
-PRAN: Even so, he is a machine. Someone should check up on him. 
-RIKER: I have complete confidence in Mister Data's ability to check up
-on himself. Mister Worf? 
-WORF: Phasers locked on target. 
-RIKER: Fire when ready.
+RIKER: I'd rather not send anyone back down there. 
+JULIANA [OC]: If you don't do it 
+[Transporter room]
 
-[Engineering]
+JULIANA: Now, Commander, it may take months to find
+another suitable site. The core may solidify by then. 
+GUEST2: She's right, we have to act now. 
+RIKER [OC]: All right, but I want you in and out of there as quickly as
+possible. 
+DATA: Acknowledged. 
+JULIANA: You're hurt. I'll go. 
+[Magma pocket]
 
-DATA: We are within two kilometres of the magma
-pocket. 
-JULIANA: Another five seconds should do it. We've broken through. 
-[Bridge]
+(Data is standing up the pattern enhancers and
+scanning the area when a quake strikes) 
+DATA: There will be more seismic activity. We must hurry. 
+(Data and Juliana go along a passage to where the equipment is set up) 
+DATA: The shaft has not been obstructed by the seismic activity. It
+should be possible to trigger the unit from orbit. 
+JULIANA: The infuser's been damaged. We're going to have to start the
+programming sequence all over again. 
+DATA: Priming the energy-transfer matrix. 
+JULIANA: Re-initialising the particle stream buffer. 
+RIKER [OC]: Riker to Data. Are you there? 
+DATA: Go ahead, sir. 
+RIKER [OC]: We're reading an increase in seismic stress levels. 
+DATA: Understood, sir. We will attempt to expedite our work. 
+JULIANA: There. Now we just have to re-align the diverter. 
+(another quake rocks the chamber) 
+RIKER [OC]: Data, are you all right? 
+DATA: Yes, sir. We'll be returning to the beam-out point shortly. 
+JULIANA: That's it. Let's go. 
+(they go down the passage and discover everything has fallen down into
+a pit) 
+JULIANA: Can we transport without the pattern enhancers? 
+DATA: No, we are too far below the surface. 
+JULIANA: How are we going to get down there? 
+DATA: There are no handholds in the rock face. We are going to have to
+jump. 
+JULIANA: No, it's too far! I won't make it! 
+DATA: You will. 
+(Data takes Juliana's arm and makes her jump with him. She lands badly,
+is knocked out, and her arm has fallen off. It is artificial.)
 
-WORF: Terminating the beam. 
-[Engineering]
-
-JULIANA: The pocket seems stable. 
-DATA: I detect no increase in the stress levels of the surrounding
-magma. 
-RIKER [OC]: Good work, Data. 
-[Bridge]
-
-RIKER: I don't think we could have gotten it any
-cleaner. 
-JULIANA [OC]: We have Data to thank for that. I couldn't have done it
-without him. His figures were perfect. 
-[Engineering]
-
-DATA: The drilling process has raised the
-temperature in the magma pockets by almost three hundred degrees
-Celsius. It will be several hours before it cools enough for us to
-enter. 
-JULIANA: Data, do you have any plans right now? 
-DATA: I do not. 
-JULIANA: Maybe we should spend a little time together? I'd love to see
-your quarters. 

@@ -1,70 +1,51 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+TROI LAFORGE CREWMAN PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+PICARD: Commander, assemble the senior staff and go
+to Red alert. We have a bigger problem than I thought. 
+RIKER: Red alert!
 
 [Observation lounge]
 
-PICARD: Counsellor, do you remember when I first
-came on board the Enterprise? 
-TROI: Yes. 
-PICARD: What happened after the welcoming ceremony? 
-TROI: There was a reception in Ten Forward. I introduced you to Worf
-and the other senior officers. 
-PICARD: Do you have any memory of my calling Red Alert in Spacedock? Do
-you remember Starfleet diverting us from Farpoint to the Neutral Zone
-to investigate a spatial anomaly? 
-TROI: No. 
-DATA: It would appear there is a discontinuity between the time periods
-you described. Events in one time period would seem to have no effect
-on the other two. 
-RIKER: And yet in both the past and the present there's a report of the
-same anomaly in the Devron System. I find it hard to believe that
-that's a coincidence. 
-PICARD: For all I know, I may find the same thing in the future. 
-LAFORGE: Perhaps the anomaly is a temporal disturbance of some kind. 
-CRUSHER: How is all this related to your time shifting? 
-PICARD: These are all very important questions, and perhaps I will find
-answers to them in the past, but now we have a potentially dangerous
-threat from the Romulans. I want all departments to present a battle
-readiness report to me at oh eight hundred hours tomorrow morning.
-Dismissed. 
-RIKER: Deanna, it's going to be a late night. Would you like to have
-some dinner first? 
-TROI: Actually I, we have plans. 
-RIKER: Oh. I see. I'm sorry. I'll see you in the morning. 
-WORF: Goodnight, sir. 
-RIKER: Worf. 
-[Bridge]
+LAFORGE: I don't believe him. This has to be
+another one of Q's games. He's probably listening to us right now,
+getting a big laugh out of watching us jump through his hoops. 
+PICARD: Normally I would agree with you, but this time I feel that
+somehow it is different. There was a deadly earnestness about him. I
+think he's serious. Which means that in some fashion, I am going to be
+the cause of the destruction of humanity. 
+CRUSHER: But didn't Q say you already had caused it? 
+TROI: And that you were causing it now? 
+DATA: Given the fact that there is an apparent discontinuity between
+the three time periods the Captain has
+visited, Q's statement may be accurate, if confusing. 
+PICARD: So what am I going to do? Lock myself in a room in all three
+different time periods? 
+RIKER: Captain, maybe not acting is what causes the destruction of
+mankind. What if you were needed on the Bridge at a key moment, and you
+weren't there? 
+TROI: I don't think we can start second guessing ourselves. I think we
+have to proceed normally and deal with each situation as it occurs. 
+PICARD: Agreed. I've been thinking about my conversation with Q. He
+admitted that he was responsible for my shifting through time. Now it
+occurred to me that he might be giving me a chance somehow to save
+humanity. 
+RIKER: What makes you say that? 
+PICARD: Well, he's always had a certain fascination with humanity, with
+myself in particular. I think he has more than a passing interest in
+what happens to me. 
+DATA: That is true. Q's interest in you has always been very similar to
+that of a master and his beloved pet. That was only an analogy,
+Captain. 
+PICARD: If I weren't travelling through time I would never have
+realized that the anomaly in the Neutral Zone appeared there in the
+past as well. Assuming that's an important piece of a larger puzzle, my
+ability to shift through time may be the key to understanding what's
+going on. 
+CREWMAN [OC]: Captain Picard. 
+PICARD: Go ahead. 
+CREWMAN [OC]: We're approaching the Neutral Zone, Captain. 
+PICARD: We're on our way.
 
-PICARD: I want continuous subspace sweeps. We may
-be able to detect a temporal disturbance. 
-DATA: Aye, sir. 
-PICARD: Will, this time shifting. When it happens I experience a
-momentary disorientation. If that should happen during a crisis, I want
-you to take command immediately. Number One? 
-RIKER: I'm sorry. Be prepared to take command. Aye, sir. 
-PICARD: Speaking of disorientation, are you all right? 
-RIKER: I'm just a little distracted. I'm fine. 
-PICARD: You have the Bridge, Number One. I'll be in my Ready room.
-
-[Ready room]
-
-PICARD: Come. 
-CRUSHER: Milk, warm, a dash of nutmeg. 
-PICARD: What's this? 
-CRUSHER: A prescription. A glass of warm milk and eight hours
-uninterrupted sleep. 
-PICARD: Beverly. 
-CRUSHER: Doctor's orders. You're exhausted. Look, I don't know whether
-you've slept in the past or in the future, but I'm sure you haven't
-slept in the present. Now get some rest, or I'll have you relieved and
-sedated. 
-PICARD: Yes, sir. What? Hey, Beverly? 
-CRUSHER: As a physician, it's often my job to give people unpleasant
-news. To tell them that they need surgery or that they can't have
-children or that they might be facing a difficult illness. 
-PICARD: But you said yourself that this is only a possibility. 
-CRUSHER: But you've been to the future. You know it's going to happen. 
-PICARD: I prefer to look on the future as something which is not
-written in stone. A lot of things can happen in twenty five years. 
-(they kiss) 
-CRUSHER: A lot of things can happen. 
-LAFORGE [OC]: Captain? 

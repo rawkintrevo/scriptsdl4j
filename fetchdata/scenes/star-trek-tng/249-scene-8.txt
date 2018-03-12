@@ -1,56 +1,32 @@
-KLINGON ALL TORIN KAHLESS WORF
+GOWRON WORF PICARD GUEST1 COMPUTER GUEST2 CRUSHER GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Worf's chambers]
+[Kahless' quarters]
 
-KAHLESS: What is it you are doing? 
-WORF: I was getting my tricorder. 
-KAHLESS: Tricorder? Is it a weapon? 
-WORF: No, no. It is a tool. I intended to use it to see 
-KAHLESS: To see if I was real. Proceed. Use your tricorder. Well? 
-WORF: You are Klingon. 
-KAHLESS: What else could I be? 
-WORF: There are many possibilities. A shape shifter, a holographic
-projection. 
-KAHLESS: So, you are a sceptic, Worf. I like that. 
-WORF: How do you know my name? 
-KAHLESS: We have met before. I appeared to you in a vision in the caves
-of No'Mat. You were just a child then. I told you that you would do
-something that no Klingon had ever done before. You still do not
-believe it is me, do you Worf? 
-WORF: I want to believe. 
-KAHLESS: That is a beginning.
+PICARD: So Gowron has come on board in order to
+test your claim. 
+GUEST1: Gowron knows that his days are nearly over. Now he comes
+crawling aboard with some kind of test. 
+GUEST2: We do not have to prove anything to Gowron. 
+GUEST0: What is this test? 
+PICARD: He has brought a knife with him, a knife is was supposed to be
+stained with the blood of Kahless. 
+GUEST2: Gowron has brought the Knife of Kirom? No one is permitted to
+remove it from the sacred vault. 
+GUEST1: Gowron does not care about what is sacred. 
+PICARD: He wants to run a genetic analysis on a sample of the blood and
+on you. That should tell us if there is a biological match. Now if you
+agree to the test, I will make the Enterprise facilities available to
+ensure that it is conducted impartially. 
+GUEST0: (looking at Worf) Perhaps it is time to settle the doubts of
+those who still do not believe. I will allow this test.
 
-[Temple]
+[Sickbay]
 
-(a dining table is set up in the aisle, as Kahless
-sits on his throne and is briefed by a priest) 
-TORIN: Gowron is the Leader of the Council. He commands the entire
-Defence Force. If he chooses to oppose you 
-KAHLESS: Do not worry. We are on the threshold of a new era for our
-people. Klingons from all over the Empire will flock to my banner. Yet
-something still weighs heavy on the brow of the son of Mogh. Are you
-contemplating yet another question for me? After three days, I am
-beginning to wonder if you know how to do anything else. 
-WORF: Questions are the beginning of wisdom, the mark of a true
-warrior. 
-KAHLESS: Do not forget that a leader need not answer questions of those
-he leads. It is enough that he says to do a thing and they will do it.
-If he says to run, they run. If he says to fight, they fight. If he
-says to die, they die. 
-WORF: If the commander is worthy of their trust. 
-KAHLESS: NuQ cha'tak. NuQ! 
-(Torin hands Kahless his bat'leth. Worf is given another. They fight,
-and Worf gets some good blows in, knocking Kahless down) 
-KAHLESS: (laughs) What is wrong? Is there only anger and bloodlust in
-your souls? Is that all that is left in the Klingon heart? We do not
-fight merely to spill blood, but to enrich the spirit. Look at us. Two
-warriors locked in battle, fighting for honour. How can you not sing
-for all to hear? We are Klingons! Yes! Let it out! Let the joy in your
-heart be heard. We are Klingons! 
-KLINGON: We are Klingons. 
-KAHLESS: We are Klingons. 
-ALL: We are Klingons. We are Klingons. We are Klingons. We are
-Klingons. We are Klingons. We are Klingons. 
-Captain's log, stardate 46852.2. The Enterprise is
-to proceed directly to the planet Boreth to take aboard a very unusual
-guest. 
+(Crusher scans the bloodied dagger) 
+CRUSHER: There, that should do it. Computer, run a genetic comparison
+on this blood sample and the tissue belonging to Kahless. 
+COMPUTER: The genetic patterns are identical. 
+GOWRON: But how? How can this be? 
+WORF: It is true. Kahless has returned.
+

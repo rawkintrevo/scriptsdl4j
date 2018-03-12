@@ -1,40 +1,45 @@
-PICARD TROI DATA LAFORGE
+PICARD TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Runabout living section]
+[Jefferies tube]
 
-(Picard goes to the console, then smells something.
-The fruit in the bowl has
-become moldy. He reaches towards it and shouts in pain. His fingernails
-have grown a good half inch. The others rush in.) 
-TROI: What happened? 
-(Troi uses a medical tricorder) 
-PICARD: My hand. 
-TROI: The cells are metabolising at an incredible speed. Almost fifty
-times normal. 
-PICARD: The pain is going away. 
-TROI: Your metabolism's stabilising. 
-PICARD: It happened when I reached for the bowl of fruit. 
-(the fruit is now totally decayed. Data uses his tricorder) 
-DATA: Captain, I am detecting a temporal disturbance intersecting the
-table. It appears that within the disturbance, time is moving at an
-accelerated rate, approximately fifty times faster than normal. The
-disturbance is spherical in shape. It is extending outward from the
-hull approximately seventeen metres from the ship. 
-LAFORGE: That would cover the starboard nacelle. No wonder it used up
-all its fuel. 
-PICARD: Check the hull integrity. 
-DATA: It does not appear to be affected. 
-PICARD: Mister La Forge, see if you can move us away from the
-disturbance. 
-LAFORGE: Aye, sir.
+(they climb down to an intersection and open the
+bulkhead to carry on down, but there are three crewmembers there,
+blocking their way) 
+TROI: Maybe we can go around them. 
+PICARD: No, we'll find an alternative route. Let's go back up.
 
-[Runabout cockpit]
+[Corridor]
 
-LAFORGE: Lateral thrusters online. Data, plot a
-course away from the disturbance. 
-[Runabout living section]
+(walking along, Troi nearly bumps into a woman.
+Outside Sickbay there are armed
+security about to enter)
 
-LAFORGE [OC]: Make sure it doesn't come in contact
-with our other engine. 
-DATA: Course plotted. Adjust pitch to twenty seven point three degrees.
-Set heading one eight zero 
+[Sickbay]
+
+(inside, Troi sees Beverly being shot by a Romulan.
+Troi runs out and a Romulan woman moves)
+
+[Transporter room]
+
+(Worf is at the controls as injured Romulans are
+stepping off the pads) 
+PICARD: Excuse me, Mister Worf. 
+(Picard moves Worf's hand) 
+TROI: Captain. 
+PICARD: Counsellor, take a look at this. It appears that Mister Worf
+had just beamed these three on board, and according to this, three
+other Romulans had been beamed directly to Sickbay just seconds
+earlier. 
+TROI: I know. I just saw them. 
+PICARD: What are we doing transporting Romulans on board the ship in
+the middle of a battle? They don't have any weapons and that one looks
+injured. If they were part of an invasion, then why are they unarmed?
+It doesn't make any sense. 
+TROI: Captain, there's something I have to tell you. Doctor Crusher has
+been hit by a disruptor blast at point blank range. If time returns to
+normal I don't see how she can survive. 
+DATA [OC]: Data to Captain Picard. 
+PICARD: Go ahead, Mister Data. 
+DATA [OC]: Please come to Engineering immediately. It is urgent.
+

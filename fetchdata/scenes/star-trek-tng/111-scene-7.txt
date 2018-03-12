@@ -1,119 +1,38 @@
-RIKER LAFORGE WORF TASHA PICARD Q COMPUTER DATA
-
-[Planet surface]
-
-TASHA: Sir! Over here. 
-(It's Q, in a French uniform complete with tricorn hat and tricolor
-cockade) 
-Q: Join me, Riker. A good game needs rules and planning. Wasn't it your
-own Hartley who said, nothing reveals humanity so well as the games it
-plays? Almost right. Actually, you reveal yourselves best in how you
-play. 
-DATA: Sir, what he has in mind might provide us with vital information.
-
-(Riker joins Q at a table in front of a tent. He picks up a glass to
-drink) 
-RIKER: Incredible. I was just thinking about an old-fashioned lemonade.
-
-Q: And so it became that. An excellent thirst quencher. It gets rather
-hot out on this plain. 
-RIKER: What about my people? 
-Q: Whatever they'd like, of course! 
-(Glasses appear in everyone's hands. Worf ostentatiously pours his onto
-the ground) 
-Q: Drink not with thine enemy. The rigid Klingon code. That explains
-something of why you defeated them. 
-RIKER: You're still fascinated with the human past? Perhaps you're not
-that original. 
-Q: Au contraire! It's the human future which intrigues us, and should
-concern you most. You see, of all species, yours cannot abide
-stagnation. Change is at the heart of what you are. But change into
-what? That's the question. 
-DATA: That is what humans call a truism. 
-Q: You mean hardly original? 
-RIKER: You're the one who said it. While we're at it, this isn't part
-of any human future. 
-Q: True. I borrowed this from your stodgy Captain's mind. This is
-dressing for a game that we will play. Now games require rules and
-rewards and
-dangers and familiar settings. That sort of thing. 
-RIKER: This isn't that familiar to me. Data? 
-DATA: This is from Europe's Napoleonic era, sir. Late eighteenth, early
-nineteenth centuries. This is a campaign headquarters tent, his uniform
-is that of a French Army marshal. 
-RIKER: And a marshal outranks even an Admiral 
-Q: Well, do you think I would go from a Starfleet Admiral to anything
-else? 
-RIKER: Of course you wouldn't. But Napoleonic equipment on an alien
-planet. One so different it has twin moons? 
-Q: Well, as you said, I'm nothing if not imaginative. And the game
-should reflect that. Shall it be a test of strength? Meaningless, since
-you have none. A test of intelligence, then? Equally as meaningless.
-But it needs risk, something to win and something to lose. 
-RIKER: If we must play a game, what would we win? 
-Q: The greatest possible future that you can imagine. Which, of course,
-requires something totally disastrous if you lose. Now the point of
-this game shall be, can any of you can stay alive? 
-WORF: If your game is fair, we will. 
-Q: Oh, for shame, Worf. Fairness is such a human concept. Think
-imaginatively! This game shall in fact be completely unfair. 
-TASHA: You've gone too far! 
-Q: Game penalty! 
-(Tasha vanishes) 
-RIKER: Where is she, Q? You can forget your game if 
-Q: To use a twentieth century term, she's in a penalty box. Where she
-will remain unharmed unless one of you merits a penalty. Unfortunately,
-there is only one penalty box. If any of you should be sent there, dear
-Tasha must give the box up to you. 
-LAFORGE: And where does she go? 
-Q: Into nothingness. I entreat you to carefully obey the rules of the
-game. The only one who can destroy your Tasha now is you.
+LAFORGE CREWMAN TASHA PICARD WORF DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Captain's log 
-COMPUTER: Captain's log 
-PICARD: Damn it. I can't even make a log entry. 
-TASHA: I wish I could help you, Captain.
-PICARD: Where is everyone else? 
-TASHA: Down on some planet. 
-PICARD: Some planet? What are you doing here? 
-TASHA: Well, I, er. It sounds strange, but I'm in a penalty box. 
-PICARD: A penalty box? 
-TASHA: Q's penalty box. It sounds strange, but it definitely isn't. I
-know that one more penalty by anyone and I'm gone. 
-PICARD: Gone? 
-TASHA: Yes! I am gone! It is so frustrating to be controlled like this!
+(The forcefield vanishes while Tasha is sitting
+alone on the Bridge. Everything comes back to life and Picard comes out
+of the Ready room) 
+PICARD: Lieutenant, take the conn position. Engineering, this is the
+Bridge. 
+CREWMAN [OC]: Engineering here, sir. 
+PICARD: Engineering, are all systems back online? 
+CREWMAN [OC]: Back online, sir? They were never off. 
+TASHA: Captain, you'd better look at this. There's been no interruption
+in course or speed. Both have remained constant. It's as though we
+never stopped. 
+PICARD: We never did, Lieutenant. Q suspended time. 
+(Worf, Data and Geordi appear) 
+TASHA: Where's Commander Riker? 
+WORF: He was with us. 
+LAFORGE: He must still be on the planet. We were under attack by these,
+these animal things. 
+PICARD: Animal things? 
+LAFORGE: Well, maybe Data could explain better, sir. 
+DATA: You may find it aesthetically displeasing, sir. I could just file
+a computer report on that. 
+PICARD: Data! 
+TASHA: Sir, the important thing right now is why is Commander Riker
+missing? 
+PICARD: Understood, Lieutenant, but I suspect that Commander Riker is
+probably perfectly safe, at least in a physical sense. Q has an
+interest in him. In fact, Q's entire visit has something to do with our
+First Officer. 
+DATA: And the reason for that, sir? 
+PICARD: I wish I knew. Q first became interested in him at Farpoint. I
+have no idea what it means. Meanwhile, we must proceed with our rescue
+mission.
 
-PICARD: Lieutenant. Tasha, it's all right. 
-TASHA: What the hell am I doing? Crying? 
-PICARD: Don't worry. There's a new ship's standing order on the Bridge.
-When one is in the penalty box, tears are permitted. 
-TASHA: Captain. Oh, if you weren't a captain. 
-Q: Consorting with lower rank females, Captain? Especially ones in
-penalty boxes? Destructive to discipline, they say. But then again,
-you're what? You're only human? Penalty over. 
-PICARD: A marshal of France? Ridiculous! 
-Q: One takes what jobs he can get. For example, star log entry,
-stardate today. This is Q, speaking for Captain Jean-Luc Picard, who we
-consider too bound by Starfleet customs and traditions to be useful to
-us. The Enterprise is now helpless, stuck like an Earth insect in amber
-while its bridge crew plays out a game whose real intent is to test
-whether the First Officer is worthy of the greatest gift the Q can
-offer. 
-PICARD: So you're taking on Riker this time. Excellent. He'll defeat
-you just as I did. 
-Q: Shall we wager on that, Captain? Your starship command against? 
-PICARD: Against your keeping out of humanity's path for ever. Done? 
-Q: Done! You've already lost, Picard. Riker will be offered something
-impossible to refuse.
-
-[Planet surface]
-
-RIKER: Geordi, can you see Worf? 
-LAFORGE: I'd see the freckles on his nose if he had them, sir. He's at
-the third ridge. 
-DATA: The third ridge? 
-LAFORGE: Moving well too. Oh, oh. Good, he sees them. 
-(Them being soldiers in an camp. And they grunt like pigs. Worf runs
-back) 

@@ -1,163 +1,62 @@
-TIMOTHY TROI LAFORGE PICARD HUTCHINSON RIKER CRUSHER DATA TEACHER
-
-[Transporter room]
-
-(Riker and La Forge are beamed in) 
-HUTCHINSON: I'm locked onto Commander Data and the boy, sir. I'll
-energise as soon as they've cleared the bulkheads. 
-RIKER: Whenever you're ready, Data. 
-DATA [OC]: Yes, sir. 
-[Vico]
-
-TIMOTHY: Are you're going to lift that? 
-DATA: Yes. Then I will take you to the corridor. We will transport back
-to the Enterprise from there. Do you understand? 
-TIMOTHY: How come you can pick up something so heavy? 
-DATA: I am an android. My strength is many times that of a human. It is
-going to be okay. I will count to three. One two three. 
-(he pushes up the beam with one hand, Timothy wriggles out and runs.
-Data drops the beam and follows, picking the boy up when he stumbles at
-the steps)
-DATA: Energise.
-
-Captain's log, supplemental. A thorough search of
-the Vico has revealed no additional survivors. We have begun the
-process of counselling the boy with regard to the tragedy.
-
-[Sickbay]
-
-CRUSHER: Don't be afraid. 
-(a little while later) 
-TIMOTHY: We were in the Black Cluster. I don't know where they came
-from. They had a big ship and they kept shooting at us. Then they
-beamed over. They had purple helmets on and phaser rifles. I saw them.
-They didn't see me. 
-CRUSHER: You're safe now, Timothy. I'm sorry for what happened. It's
-going to be all right. I bet you're hungry. Would you like me to get
-you something to eat? 
-(Timothy nods and Crusher leaves) 
-DATA: Counsellor, I must join Commander La Forge in Engineering. If you
-will excuse me. 
-(but Timothy is holding onto Data's hand) 
-TROI: Timothy, would you like Data to stay with you a little bit
-longer?
-(a little nod)
+TIMOTHY RIKER LAFORGE WORF PICARD FELTON DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-(looking at a schematic of the Vico on a wall
-monitor) 
-LAFORGE: Sections of the primary and secondary hull were torn right
-off. The shearing planes are here, here, and here. 
-PICARD: How much longer till we can access their logs? 
-LAFORGE: Almost an hour. 
-PICARD: The boy was here. 
-LAFORGE: The hallway outside the computer core. His mother was the
-ship's systems engineer. The second away team found her
-body here inside the core. 
-PICARD: And his father? 
-LAFORGE: Ship's second officer. He was most likely on the bridge when
-it was exposed to space. 
-PICARD: Most likely. 
-[Sickbay]
-
-(Timothy falls asleep and Data is freed from his
-grip) 
-CRUSHER: He'll sleep for a few hours at least. I don't need to keep him
-here but I will need to see him again tomorrow.
-You've got some work cut out for you. 
-TROI: His world is gone, Data. We're going to have to help him build a
-new one.
-
-[Engineering]
-
-LAFORGE: This is not good. Whatever hit the Vico
-must have set up an EM pulse that flashed through their computer banks.
-
-DATA: Nearly eighty three percent of their records have been lost. 
-LAFORGE: And all of their sensor logs. Let's use what we got from our
-own sensors. I'll call up the structural analysis and the surface
-scans. 
-DATA: Geordi, as a child, did you ever experience a traumatic event? 
-LAFORGE: You're wondering about Timothy? 
-DATA: Yes. 
-LAFORGE: I was caught in a fire once. I must have been, I don't know,
-about five, I guess. It was before I got the first visor. And it was
-only a couple of minutes before my parents found me and pulled me out.
-And nobody got hurt, but I tell you that was the longest couple of
-minutes of my life. It was a while after that before I could even let
-my parents get out of earshot. It was like I absolutely needed to know
-that they were there, you know? 
-DATA: Timothy no longer has that kind of support. 
-LAFORGE: Yeah. 
-[Classroom]
-
-(the male teacher is reading aloud to the quiet and
-attentive pupils, who are following on their PADDS, except one) 
-TEACHER: Dara and her brother found themselves in the land of Tagas
-where the ruler, Elamos the Magnificent, had proclaimed as law. 'No
-children will be tolerated within the Great Kingdom'. When Dara saw the
-proclamation, she just laughed, and said, 'How magnificent a ruler, to
-be frightened by the likes of us.' Timothy, we're done with sculpture
-for now. 
-TIMOTHY: It's not finished. 
-(putting a portico on a model building) 
-TEACHER: We'll come back to it next period. Why don't you pick up your
-mythology book and follow along? 
-TIMOTHY: But it's not finished. 
-(the worried teacher casts a glance towards Troi watching through the
-window)
+LAFORGE: Fusion reactors four through nine into the
+shield array. That should double the shield strength.
 
 [Bridge]
 
-(at the science station) 
-LAFORGE: Magnetic residual analysis confirms that the Vico was attacked
-inside the Black Cluster. The graviton wave fronts pushed the ship to
-where we found it. 
-PICARD: No signs of phaser burns on the hull. 
-LAFORGE: No, sir. Torsional stress levels point to a disrupter-style
-weapon. 
-DATA: Fracture points indicate that the energy burst came from a range
-of less than three thousand metres. 
-PICARD: But that's a strategy consistent with a cloaked vessel.
-Romulan. Or Klingon. But we're quite a distance from either of their
-territories. 
-DATA: The Breen have outposts in this sector. The attack on the Vico is
-consistent with their battle tactics and their level of technology. 
-PICARD: Thank you, Data. But what would the Breen be doing inside the
-Black Cluster? The boy described a boarding party with helmets and
-phaser rifles. 
-LAFORGE: Boarding party? I don't think that's likely, sir. 
-(Troi enters) 
-PICARD: Counsellor. 
-LAFORGE: There was absolutely no evidence of anybody coming on board
-the Vico. We would have found a transporter field trace. Or if somebody
-had used the entry ports, we would have found an electrostatic
-differential in the docking latches, and we didn't. Could Timothy have
-imagined that, Counsellor? 
-PICARD: Or could he be lying? 
-TROI: If he's lying, I haven't been able to sense it. Perhaps his
-emotional trauma level is too high. 
-PICARD: Why wouldn't he tell us the truth? 
-TROI: He's still in shock. it's hard to know what's going on in his
-mind right now. 
-LAFORGE: Well, I'll go back and check the sensor readings again but I
-don't think we're going to find anything. 
-PICARD: Thank you, Geordi. 
-(La Forge leaves) 
-TROI: Data. Captain, I think we should ask Data to spend some time with
-him. 
-DATA: I do not understand. 
-TROI: I'm very worried about his behaviour and what I've just heard
-doesn't make me feel any better. Data, you're the only
-one he's reached out to, because you rescued him. We can use your
-relationship with him to help his recovery. 
-PICARD: Would Timothy also be more inclined to tell Data the truth
-about what happened? 
-TROI: It's a possibility. 
-PICARD: Commander, proceed with Timothy as the Counsellor suggests. 
-DATA: Aye, sir. 
-(Picard leaves) 
-DATA: Counsellor, exactly how shall I proceed? 
-TROI: Just be with him. You're a presence he trusts, and that's what he
-needs most right now. 
+WORF: Wavefront intensity has increased by an order
+of magnitude. Impact in three, two, one. 
+(very big hit) 
+WORF: Wave front intensity is continuing to increase. Structural
+over-pressure now exceeding one hundred eighty percent. 
+PICARD: La Forge? 
+LAFORGE [OC]: I don't understand. That should have been enough.
+
+[Engineering]
+
+LAFORGE: We could run the shield grid directly off
+the warp drive.
+
+[Bridge]
+
+PICARD: Go ahead, Commander. 
+WORF: Initiating warp-transfer pathways now. 
+LAFORGE [OC]: Diverting warp power to the shields. 
+TIMOTHY: Warp power to the shields. They said that too, Data. I'm
+positive. 
+WORF: Wavefront intensity has increased by a factor of ten. Contact in
+thirty one seconds. Without additional power to the shields, the outer
+hull will not hold. 
+RIKER: La Forge? 
+[Engineering]
+
+LAFORGE: Warp transfer to the shields complete. 
+[Bridge]
+
+LAFORGE [OC]: That's as strong as they're going to
+get. 
+WORF: Impact in fifteen seconds. 
+(Data finishes running his analysis) 
+DATA: Sir, drop the shields. 
+RIKER: That's suicide, Data. 
+DATA: Captain, drop the shields. 
+PICARD: Make it so. 
+WORF: Aye. 
+(a very gently ripple rocks the ship) 
+DATA: Our own shields caused the increases in the wavefronts, sir. We
+have been experiencing a harmonic amplification effect. 
+RIKER: The more energy we dumped into the shield grid, the worse the
+impact. 
+DATA: Precisely. That is also what destroyed the Vico. When Timothy
+remembered similar procedures on his ship, I initiated an analysis of
+shield output to wavefront amplitude and discovered a correlation. 
+PICARD: If we had transferred all that warp power to the shields, it
+would have torn the ship apart. 
+RIKER: Status, Ensign? 
+FELTON: Navigation is coming back online. 
+PICARD: Full about, one quarter impulse. Take us out of here.
+

@@ -1,64 +1,59 @@
-RIKER LAFORGE TASHA PICARD WESLEY CRUSHER DATA
-
-[Bridge]
-
-RIKER: Data, I need help in locating some library
-computer information. 
-DATA: Specifics, sir? 
-RIKER: All I have is a vague memory of reading somewhere about someone
-taking a shower in his or her clothing. 
-DATA: Ah. The body Geordi discovered. 
-RIKER: I believe it may have happened before. 
-DATA: To someone, somewhere. 
-RIKER: This ought to be easy for someone written up in bio-mechanical
-texts. 
-DATA: About that, sir. Did the Doctor believe I was boasting? 
-RIKER: Probably. This may take some time. 
-DATA: At least several hours. But what I said was a statement of fact.
-Perhaps she will look it up. 
-RIKER: You can depend on it.
-
-[Sickbay]
-
-(While Beverly puts the results of her latest scan
-into her computer, Geordi takes off his comm. badge and walks out into
-the corridor. When she gets there, he is nowhere in sight) 
-CRUSHER: Geordi!
+PICARD RIKER CRUSHER WORF WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Crusher's office]
 
-CRUSHER: Security. Lieutenant La Forge just left
-Sickbay while I was in my office. 
+RIKER: Deanna needs your help. 
+CRUSHER: The formula from the old Enterprise didn't work. 
+RIKER: What? 
+CRUSHER: This water-carbon complex may induce the same symptoms, but
+somehow it's different. Maybe it's mutated. But I've got to isolate
+it in order to analyse it, 
+RIKER: We don't have that kind of time. 
+CRUSHER: You brought Deanna in. 
+RIKER: She's infected with 
+CRUSHER: Then you touched her! Oh, God. And you touched me. Wait! I've
+got to quarantine you. 
+RIKER: If I don't get the command computer back online soon, none of
+this, whatever this is, won't matter. We'll all be dead.
+
+Captain's log, supplemental. It is no longer an
+inconvenient, childish prank. Young Wesley Crusher, admittedly a victim
+of the Tsiolkovsky infection, is now in control of my starship. 
 [Bridge]
 
-CRUSHER [OC]: He doesn't have his communicator. It
-is very important that we find him. 
-TASHA: Security team alert, pick up Lieutenant La Forge. He just left
-Sickbay moments ago. Captain, anything further? 
-PICARD: Affirmative. Make it a ship-wide search, Lieutenant. 
-[Crusher's quarters]
+PICARD: Wes, this is Captain Picard. Do you see me?
 
-(Geordi is with Wesley, who is showing off his
-latest device by floating a chair around the room) 
-WESLEY: It's a model of the same kind of tractor beam our ship uses
-with a few ideas of my own added. 
-LAFORGE: So that's your science project, huh? Wes, you're really
-something. 
-WESLEY: And since the Captain won't let me on the Bridge, I use this to
-imagine I'm there. 
-PICARD [OC]: Take the helm, Mister Crusher. Set a course for thirty
-seven mark one hundred eighty. Warp six. 
-LAFORGE: It's the Captain's voice. 
-WESLEY: It's pieced together from words he's used on the intercom. With
-this, I can pretend he's ordering me to take the Enterprise anywhere.
-And listen to this, 
-PICARD [OC]: Chief Engineer, report to the Bridge. Commander Riker,
-report to the Bridge. Doctor Crusher, report to the Bridge. 
-WESLEY: What do you think? 
-LAFORGE: I think the Captain's lucky you're on his side. 
-WESLEY: But he still won't let me on the Bridge. And there's nothing
-there I don't understand. 
-LAFORGE: I wish I understood myself that well. 
-WESLEY: Are you okay? 
-LAFORGE: No, Suddenly I seem to be burning up inside. It's hot in here.
+WESLEY [on viewscreen]: Yes sir? 
+PICARD: You will now return control of this vessel to the Bridge where
+it belongs. At once. 
+WESLEY [on viewscreen]: I'm sorry, sir. Why don't you just tell me what
+you want done and I'll do it. 
+PICARD: Because ship captains control their own vessels, young man! 
+WESLEY [on viewscreen]: But, sir, you don't do it yourself. You give
+the orders, but someone else does it. What's wrong with giving me the
+orders to do it? 
+WORF: Captain, getting unusual readings now from the dwarf star. 
+PICARD: Stand by a moment on that. Wesley. Wes. Are you aware that
+you're acting strangely, that a kind of infection was brought over from
+the Tsiolkovsky which acts like intoxication? 
+WESLEY [on viewscreen]: Are you saying that's why I feel so so hot? So
+strange? 
+PICARD: That's a very adult bit of reasoning, Wes, 
+WESLEY [on viewscreen]: So you mean I'm drunk! I feel strange, but also
+good. 
+PICARD: Because, because you've lost the capacity for self-judgment.
+Now, alcohol does this, Wesley. But this contaminant we've brought back
+from the Tsiolkovsky does it even more so. 
+WESLEY [on viewscreen]: What would you do if you got your ship back? 
+PICARD: Oh, it's very important I do, Wesley, because I must
+immediately lock a tractor beam onto the Tsiolkovsky, then tow it out
+of, 
+WESLEY [on viewscreen]: Tractor beams are my specialty, Skipper! I'll
+contact you when that's done. Wesley out! 
+PICARD: Wesley! Wesley! 
+(The man at Conn. gets up and staggers off) 
+PICARD: Conn, where are you headed? 
+WORF: Sir. The star. It's beginning to collapse. 
+PICARD: What the hell is happening in Engineering?
 

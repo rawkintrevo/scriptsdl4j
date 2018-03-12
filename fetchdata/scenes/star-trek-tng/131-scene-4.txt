@@ -1,68 +1,74 @@
-TROI LAFORGE WORF PICARD KAREEN RIKER PULASKI WESLEY DATA MAN
+TROI GUEST0 WORF PICARD GUEST2 DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]
-
-DATA [OC]: Come in. 
-(Troi and Geordi enter) 
-LAFORGE: Data? 
-DATA [OC]: Geordi? Is Counsellor Troi with you? 
-TROI: Yes, I'm here, Data. Geordi said you wanted to see us. 
-DATA [OC]: Indeed. Or, stated more correctly, I wanted you to see me. 
-LAFORGE: Can we come in? 
-DATA [OC]: Please. 
-(They go through to the inner room, and we see Data's reflection in a
-full length mirror. He is sporting a full set, a beard like Riker's) 
-LAFORGE: Did you damage your face, Data? 
-DATA: It is a beard, Geordi. A fine, full, dignified beard. One which
-commands respect and projects thoughtfulness and dignity. Well?
-Opinions? 
-TROI: It's er, very different. 
-DATA: When I stroke the beard thusly, do I not appear more
-intellectual? 
-TROI: I'm sorry, I have to go now. Goodbye. 
-(Troi leaves, quickly, laughing) 
-DATA: Why was she laughing? 
 [Bridge]
 
-WORF: We are receiving a transmission from
-Gravesworld, sir. It's unfocused. Not directed specifically at us. 
-PICARD: On viewer, Mister Worf. 
-KAREEN [on viewscreen]: (a young blonde woman) If anyone can hear me,
-please send a doctor. Things are getting worse. 
-(Transmission ends) 
-PICARD: Try and raise her, Mister Crusher. Tell them we're only minutes
-away. 
-WESLEY: It's no good, sir. I don't believe they're receiving us. 
-WORF: Our records show that she and Graves are the only ones living on
-the planet, Captain. 
-RIKER: Then what scared her? 
-WORF: Captain, I am picking up another signal, but it is not from the
-planet. 
-PICARD: On screen, Mister Worf. 
-WORF: The signal is very weak, sir. Audio only. 
-PICARD: Pipe it through. 
-MAN [OC]: Mayday! Mayday! This is the USS (static) questing emergency
-assistance.
-(static) The outer hull is breached and environmental systems
-compromised. Need assistance. 
-WESLEY: Captain, I show the Constantinople in that general vicinity.
-She's a transport ship, used to ferry settlers. I'm showing two
-thousand and twelve colonists aboard. 
-RIKER: Outer hull breach. She must have had an internal explosion. 
-PULASKI: If that's the case, they'll all be prone to severe hypoxia.
-Their lives are at risk. We've got to help them. 
-PICARD: And what about Graves? 
-PULASKI: He's one man. 
-RIKER: Suggestion, Captain. Why don't we execute a long range transport
-of an away team to assist Doctor Graves at earliest possible moment.
-We'd come out of warp just long enough to energise the beam. 
-PICARD: A touch and go down warping? Mister Crusher, prepare to make it
-so. 
-WESLEY: Aye sir. 
-PICARD: Engineering, Mister La Forge. We're going to execute a near
-warp 
-[Engineering]
+DATA [OC]: All is quiet so far. Of course, no one
+knew we were coming. 
+PICARD: Use caution, but protect Graves' health 
+[Living room]
 
-PICARD [OC]: Transport. This may be a little
-tricky. I would like you to handle it.
-LAFORGE: Yes, Captain. 
+PICARD [OC]: At all costs. 
+DATA: Understood, sir. I suggest we look around to see if anybody is
+home. 
+WORF: No need, Commander. 
+GUEST1: You heard me. Thank God. I'm Kareen Brianon, Doctor Graves'
+assistant. 
+TROI: We're from a ship called the Enterprise. We monitored your
+distress call but then you never acknowledged our response. 
+GUEST1: I'm sorry, I couldn't take the chance. 
+TROI: Chance? What chance? 
+(A door opens and a crotchety old man enters) 
+GUEST0: The chance that I might find out someone was coming. Kareen
+knew full well that I would not be pleased, to put it mildly. 
+GUEST1: I had no choice. I refuse to stand by and watch you
+deteriorate. 
+GUEST2: (a Vulcan lady played by Susie Plaxton) What symptoms have you
+noticed? 
+GUEST1: He has pain, shortness of breath, irritability. 
+GUEST0: Ridiculous! I'm as healthy as a Rigelian ox! 
+GUEST1: He's not himself, believe me. His temper is completely out of
+control. 
+GUEST0: Nonsense! 
+GUEST1: Ira! 
+GUEST2: I am a doctor. Lieutenant Selar. 
+GUEST0: No offense, but I don't want you touching me in any way. It's
+no secret that I don't like people much, and I like doctors even less. 
+TROI: That's funny, I thought most doctors were people. 
+GUEST0: Then you're wrong. Ask any patient. Although I will admit, for
+a doctor you're not a bad looking woman. Well, well, well, what have we
+got here? Another lovely specimen of womanhood. 
+TROI: I thought you didn't like people. 
+GUEST0: Women aren't people. They're women. (he kisses her hand) 
+TROI: I'm Deanna Troi. It's an honour to meet you, Doctor Graves. 
+GUEST0: Yes, of course it is. This is one of the truly great moments of
+your life. 
+GUEST1: Excuse me, sir. Are you a Romulan? 
+WORF: Hardly. 
+GUEST0: He's a Klingon, Kareen. Kareen has lived here since her father
+died when she was very young. Her only knowledge of unhuman races comes
+from me. Klingons and Romulans don't look much alike, Kareen, even
+though they act much alike. 
+WORF: Must I stand here and be insulted? 
+GUEST0: No insult intended, Mister Klingon. You see, Doctor, there's
+nothing wrong with my hearing. My, my, my, my. 
+DATA: Lieutenant Commander Data 
+GUEST0: Shhh! Absolutely no aesthetic value whatsoever. Looks like
+Soong's work. 
+(Selar is examining Graves behind his back) 
+DATA: Quite correct, sir! Did you know Doctor Soong? 
+GUEST0: Know him?! I taught him everything he knows. You could say that
+I was the father of his work. Which kind of makes me your grandfather,
+doesn't it sonny? Damn doctors! Always sneaking up on one. Attacking
+from the rear. Go on, gorgeous. Spit it out. Whatever the hell it is, I
+can take it. 
+GUEST2: I've checked twice to make certain. You have Darnay's disease.
+I'm sorry, Doctor Graves. It's in it's final stage. 
+GUEST1: Can't you do something for him? 
+GUEST2: In all cases, Darnay's is terminal. 
+Captain's log, Stardate 42437.7. We've successfully
+repaired the stricken liner, Constantinople. Forty six of her people
+suffered injuries, mostly minor. They have been treated and supplied
+with the proper medicines. Our task complete, we are heading back to
+Gravesworld with great dispatch.
+

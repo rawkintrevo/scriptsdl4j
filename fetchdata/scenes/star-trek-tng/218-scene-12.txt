@@ -1,74 +1,53 @@
-TROI RO LAFORGE WORF PICARD RIKER CRUSHER DATA
+RIKER LAFORGE WORF OGAWA CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-PICARD: Report. 
-RO: Sensors didn't detect the phenomenon until we were almost on top of
-it, sir. 
-WORF: It is a highly localised distortion of the space-time continuum. 
-RIKER: On screen. 
-(the blue swirly, as before) 
-PICARD: Back us off, Ensign. Nice and slow. 
-RO: Aye sir. Captain, manoeuvreing thrusters are not responding. 
-DATA: The distortion field is fluctuating. 
-LAFORGE: All main systems just went down. Power levels are dropping
-rapidly. 
-RIKER: Red alert. 
-DATA: There is an energy build up in the distortion field. 
-TROI: We have to get out of here now. 
-DATA: Captain, something is emerging. 
-(here comes the ship again) 
-RIKER: Shields up. Evasive manoeuvres. 
-WORF: Shields inoperative. 
-RO: The helm is not responding. 
-DATA: The vessel is on a collision course. Impact in thirty six
-seconds. 
-PICARD: Hail them. 
-WORF: No response. 
-PICARD: Suggestions? 
-RIKER: Decompress main shuttlebay. The explosive reaction may blow us
-out of the way. 
-DATA: Captain, I suggest we use the tractor beam to alter the other
-ship's trajectory. 
-PICARD: Make it so, Mister Worf. 
-WORF: Engaging tractor beam. 
-(thump) 
-RIKER: Damage report! 
-CRUSHER: Casualty reports coming in from all over the ship. 
-DATA: Starboard nacelle has sustained a direct impact. We are venting
-drive plasma. 
-LAFORGE: Initiating emergency core shutdown. 
-RO: Inertial dampers failing. We're losing attitude control. 
-RIKER: This is the Bridge. All hands to emergency escape pods. 
-DATA: Core shutdown was unsuccessful. We are losing antimatter
-containment. 
-LAFORGE: We've got to eject the core! 
-DATA: Ejector systems are offline. Core breach is imminent 
-PICARD: (to comm.) All hands abandon ship. Repeat, all hands abandon 
-(KaBOOM!!!!)
-
-Captain's log, stardate 45652.1. The Enterprise has
-entered an area of space known as the Typhon Expanse. We are the first
-Starfleet vessel to chart this unexplored region.
-
-[Somebody's quarters]
+[Someone's quarters]
 
 RIKER: Sometimes I wonder if he's stacking the
 deck. 
 DATA: I assure you, Commander, the cards are sufficiently randomised. 
-WORF: I hope (pause) so. 
+WORF: I hope so. 
 RIKER: Something wrong, Mister Worf? 
-WORF: I am experiencing nIb'poH, the feeling I have done this before. 
+WORF: I am experiencing nIb'poH. The feeling I have done this before. 
 RIKER: Yeah, last Tuesday night. 
-WORF: That's not what I mean. 
-CRUSHER: I've been having the same feeling. Keep dealing, Data. 
-DATA: Eight. Ace. 
-CRUSHER: A Queen. You're going to give me a Queen. And you're going to
-get a four. Deal, Data. 
-DATA: But no one has bet. 
-CRUSHER: Forget the bet. Just deal. Ten, seven, queen. 
-WORF: Nine. Jack. Four. 
-RIKER: Deuce. Six. 
-DATA: This is highly improbable. 
-RIKER: How did we know? 
-CRUSHER: Wait. Crusher to Sickbay. 
+WORF: That is not what I mean. 
+CRUSHER: I've been having the same feeling. Wait. An eight, an Ace, a
+Queen and a four. Deal the cards, Data. 
+(Data deals everyone a three) 
+DATA: Three. All threes. 
+CRUSHER: I was positive I knew what cards were going to be dealt. 
+WORF: I was also sure. 
+RIKER: Finish dealing the hand. 
+(Riker gets all eights, Worf all Kings, Crusher all tens and Data all
+sixes) 
+RIKER: Look at this, we've all got three of a kind. 
+CRUSHER: First we get a three, and then three of a kind. 
+OGAWA [OC]: Ogawa to Doctor Crusher. 
+CRUSHER: Go ahead. 
+OGAWA [OC]: Commander La Forge needs you in Sickbay. 
+CRUSHER: I'm on my way.
+
+[Sickbay]
+
+LAFORGE: At first I thought the catwalk was
+spinning. As it turns out, it was me. I was lucky Ensign Fletcher was
+there to grab me. It's a long way down to the bottom of the warp core. 
+CRUSHER: You have all the symptoms of an inner ear infection. That
+would explain the headaches, dizziness. But I don't see any physical 
+LAFORGE: What? What is it? 
+CRUSHER: Geordi, have you ever had these symptoms before? 
+LAFORGE: Now that you mention it, I think I have. 
+CRUSHER: Do you recall when? 
+LAFORGE: No, I don't. 
+CRUSHER: I know we've had this discussion before, and I remember giving
+you this examination. Let's check the medical logs. You've been treated
+several times for headaches related to your visor but there's no
+mention of dizziness. 
+LAFORGE: Must be dj vu. 
+CRUSHER: Both of us? About the same thing? I'd like to run an optical
+diagnostic. 
+LAFORGE: For an ear infection? 
+CRUSHER: I have a hunch. Hold still. This pulse may be a little bright.
+Have you made any changes to your visor lately? 
+LAFORGE: No. Why? 
+CRUSHER: I'm detecting a small phase shift in your visual receptors. 

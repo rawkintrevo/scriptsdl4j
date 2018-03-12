@@ -1,60 +1,46 @@
-DATA GIA GARVIN
+TROI CRUSHER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Town square]
+[Bridge]
 
-(early morning in the Renaissance) 
-GARVIN: So when you return from school tonight, I'll be meeting with
-the village elders. 
-GIA: Again? 
-GARVIN: Gia. 
-GIA: I know, I know. You're the town magistrate and you have a lot of
-work to do, but it always seems like you're always in some meeting or 
-(enter Data, disheveled, carrying a box and making a strange noise) 
-GARVIN: Gia, go home. Now. Who are you? What do you want? 
-(Gia hides to watch) 
-DATA: (trying to imitate the words) Who are you? What do you want? 
-GARVIN: What's wrong with you? 
-DATA: What's wrong with you? 
-GARVIN: There's nothing wrong with me. Who are you? What is your name?
-Can you understand me? My name is Garvin. 
-DATA: My name is Garvin? 
-(Gia giggles) 
-GARVIN: I thought I told you to go home. 
-GIA: I know. 
-DATA: I do not know my name. 
-GARVIN: What? 
-DATA: You asked if I knew my name. I do not. 
-GARVIN: Well at least you seem to be understanding a little more. 
-DATA: Yes. It is becoming easier. 
-GIA: Ask him where he's from, father. 
-GARVIN: Gia, go on to school. I'll deal with the stranger. 
-GIA: Yes, Father. Goodbye. 
-DATA: Goodbye. 
-GARVIN: Your eyes and skin look so strange. Your clothes, you look like
-you've been in some kind of accident. 
-DATA: I do not remember being in an accident. 
-GARVIN: What do you remember? 
-DATA: I walked here from the mountains. 
-GARVIN: The mountains? The mountains are over two hundred seltons from
-here. 
-DATA: I have a clear memory of my journey. 
-GARVIN: What do you remember before that? 
-DATA: I have no prior memory. 
-GARVIN: Do you know what that is? 
-(referring to the box marked Radioactive that Data is carrying) 
-DATA: No. 
-GARVIN: May I? May I have it? 
-DATA: Yes. 
-GARVIN: There might be something in here that can tell us who you are. 
-GARVIN: I wonder what these markings mean. 
-DATA: Radioactive. 
-GARVIN: What? 
-DATA: That is what is written on the container. 
-GARVIN: You can read this language? 
-DATA: Evidently. 
-GARVIN: Radioactive. What does that mean? 
-DATA: I do not know. Perhaps it is my name. 
-GARVIN: I've never heard a name like that. You must come from a very
-distant place. 
-(Garvin opens the box and takes out a piece of shiny metal)
-
+(nightshift, with 'Captain' Crusher in command) 
+CRUSHER: Send a message to Commander Data and inform him of our delay. 
+GUEST1: Aye, sir. 
+(Troi enters) 
+CRUSHER: Deanna, welcome back. 
+TROI: Thank you. I was just reporting in. I didn't expect to find
+anyone up except Data. 
+CRUSHER: Data's away on assignment. A Federation deep space probe went
+off course and crashed on Barkon Four. Some of the material in the
+casing was radioactive, so Data was sent to recover it before it could
+contaminate the biosphere. 
+TROI: Isn't Barkon Four inhabited? 
+CRUSHER: Yes, it's a pre-industrial society, but the probe crashed over
+a hundred kilometres from the nearest settlement so Data shouldn't have
+any contact with the Barkonians. So, how was the reunion? 
+TROI: Fine. It was good to see some old friends. I'd lost touch with
+most of them. It's interesting to see the different paths some of their
+lives have taken. Beverly, you don't usually stand a watch on the
+Bridge even when Data's not here. 
+CRUSHER: I volunteered tonight. I like to put in a little Bridge time
+now and then, stay on top of operations, tactical procedures. The truth
+is, I like it. It's not every doctor who gets to command a starship,
+even if it is the night shift. 
+TROI: May I ask you a personal question? Why did you decide to become a
+Commander? I mean, you didn't need the rank in order to be Chief
+Medical Officer, so why put yourself through all the extra work? 
+CRUSHER: Oh, I don't know. I never even thought about my rank for a
+long time. It seemed pretty trivial compared to being a doctor. But
+then, about eight years ago, I started to feel like I wanted to stretch
+myself a little. 
+GUEST1: Commander, there's no response from Commander Data to our
+signal. 
+CRUSHER: Continue sending him updates on our schedule. 
+GUEST1: Aye, sir. 
+TROI: Is something wrong? 
+CRUSHER: No. I wanted to let Data know there'd be a delay in picking
+him up for a few of days. We have orders to rendezvous with the
+Lexington and take some medical supplies to the Taranko Colony. 
+TROI: But he's not responding. 
+CRUSHER: Geordi said that the radiation from the probe might interfere
+with communications. I just thought I'd try anyway. 

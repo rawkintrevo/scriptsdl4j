@@ -1,92 +1,66 @@
-DESEVE TROI WORF TORETH PICARD NVEK
+GUEST0 RIKER PICARD TROI DATA NVEK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Bridge]
 
-PICARD: Ensign DeSeve, you promised me a freighter
-with an important cargo. The only thing here is empty space. Do you
-have an explanation? 
-DESEVE: I don't understand. 
-WORF: Captain, he has deceived us. 
-DESEVE: No. I was told the ship would be at these coordinates. 
-PICARD: You said that the message came directly from Ambassador Spock. 
-DESEVE: Yes. Well, not exactly. 
-PICARD: What does that mean? 
-DESEVE: Someone else relayed the message to me, but he said Spock spoke
-directly to him. I trust the man who spoke to me. He would not have
-lied. 
-WORF: Was he a Romulan? 
-DESEVE: Yes. He's a member of the underground a dissident. He risks his
-life to work with those who want a different future for Romulus. 
-WORF: Captain, he could be leading us into a trap. 
-DESEVE: No, that is not so. 
-PICARD: It would be risky to set a trap here, so close to Federation
-space. But the fact remains, here we are, there is no freighter. Did
-your contact tell you anything else that might be helpful? 
-DESEVE: The freighter is an old Antares class vessel with limited speed
-and range. It couldn't have taken on its cargo more than a day ago
-which means it must be within fifteen light years of here. 
-PICARD: Why didn't you mention this earlier? 
-DESEVE: It didn't seem necessary. And on Romulus you learn not to
-volunteer information. It's a hard habit to break. 
-PICARD: Well, maybe now would be a good time to start. Follow me,
-gentlemen.
+DATA: It appears to be the remains of a ship. My
+analysis indicates that it was an Antares class freighter. 
+GUEST0: That's the ship we were supposed to meet. 
+PICARD: Could there have had some sort of malfunction? A reactor core
+breach? 
+DATA: I do not believe so, sir. That would not be consistent with the
+debris pattern. However, sensors indicate extremely high levels of
+residual antiprotons. 
+RIKER: Romulan disruptor fire. 
+DATA: Correct. Based on the antiproton decay, I would estimate the
+incident occurred within the last four point three hours. 
+PICARD: Then the Romulans could still be in the vicinity. 
+RIKER: Red alert. Shields at maximum. 
+PICARD: Whatever that freighter was carrying, they certainly didn't
+want it to reach us. Are you sure you don't know what it was? 
+GUEST0: No, sir. I swear it. 
+PICARD: All we have here are questions. Mister Data, continue with your
+scan.
 
-[Warbird cargo bay]
+[Warbird - Troi's quarters]
 
-(Troi is pacing when N'Vek enters) 
-N'VEK: Our plan has collapsed. 
-TROI: Our plan? What about the people on that freighter? Why did you
-fire? 
-N'VEK: There was no alternative. You told me they couldn't be trusted.
-If I let them live the whole mission would be in jeopardy. 
-TROI: Eighteen people lost their lives. 
-N'VEK: Don't lecture me, Counsellor. A number of people have died in
-order to carry out this mission. Believe me, those eighteen won't be
-the last. 
-TROI: I'm sorry but I can't dismiss those lives so easily. 
-N'VEK: Fine. Agonise all you want, but don't let it get in the way of
-our plan. 
-TROI: You don't have a plan anymore. 
-N'VEK: You remember I told you if anything went wrong, we would need a
-Starfleet officer. There is a Starfleet base on Draken Four. It is two
-days away at maximum warp. That's where we're going. 
-TROI: In a Romulan ship? 
-N'VEK: Yes. It's your job to order Toreth to proceed into Federation
-territory. 
-TROI: We'll never get through the gravitic sensor nets. 
-N'VEK: We will, if you provide the correct access codes. 
-TROI: Do you really think this has a chance of succeeding? 
-N'VEK: If you have another idea, I'll be happy to consider it.
-
-[Warbird ward room]
-
-TROI: You will plot a course for the Draken System.
-
-TORETH: You can't be serious. 
-TROI: Draken Four was the freighter's destination. I ordered the
-freighter destroyed because I recognised the Captain, a known
-Federation spy. Now we must deliver the cargo ourselves. 
-TORETH: We must? 
-TROI: I do not intend to explain myself to you. You will set a course. 
-TORETH: In order to reach Draken, we will have to travel through
-Federation space for nearly twenty hours. 
-TROI: That is not a problem. 
-TORETH: Contrary to the propaganda that your superiors would have us
-believe, Starfleet is neither weak nor foolish. The chances of us
-reaching Draken undetected are not good. 
-TROI: We will be cloaked. 
-TORETH: The cloaking device does not always make us invulnerable, and
-you would know that if you had spent any time at all in the field. The
-Federation has littered it's borders with subspace listening posts,
-with gravitic sensors. They may even have a tachyon detection grid in
-operation, in which case they will know that we're there. If we are
-discovered in Federation territory, it will be interpreted as an act of
-war. 
-TROI: The Tal Shiar has obtained access codes for the sensor nets. I
-will provide them if necessary. 
-TORETH: That will be no guarantee that we will escape undetected. 
-TROI: Your cowardice does not befit a Romulan soldier. 
-TORETH: People blame the military for the wars that we are asked to
-fight, but I think it is your kind, Major, that will be the death of us
-all.
+TROI: We have to get a message to the Enterprise. 
+N'VEK: That's impossible. 
+TROI: It's the perfect opportunity. The Enterprise is nearby. If we can
+communicate with them, they might be able to help us. 
+N'VEK: Counsellor, this ship is travelling under cloak. All of our
+electromagnetic emissions are being monitored. Any attempt at
+communication whatsoever and we would be discovered instantly. It could
+not succeed. We must continue to Draken Four. That is the safest
+course. 
+TROI: Is there anything you can do to the ship or to the cloaking
+device that would let the Enterprise track us? 
+N'VEK: Track us? No. We want to get into Federation territory
+undetected. 
+TROI: What we want is to get the dissidents to safety. Now answer the
+question. Is there a way? 
+N'VEK: If there were, I wouldn't do it. 
+TROI: Yes, you will. 
+N'VEK: Counsellor. 
+TROI: We're not playing it your way any more, N'Vek. I've been
+kidnapped, surgically altered, put in danger I've gone along with all
+your plans. Now you are going to listen to me. You find a way to let
+the Enterprise track us, or I will go to Toreth and tell her I've
+discovered you're a traitor. I'll order you ejected into space. Is that
+clear, Subcommander? 
+N'VEK: There is one possibility. In order for a ship to remain
+undetectable while cloaked, the radiative emissions from the warp
+engines must be precisely balanced. The ship's Engineer is a
+sympathiser. He may be able to slightly misalign one of the nullifier
+cores. It would create a small magnetic disturbance in space whenever
+we were in motion. 
+TROI: Good. Do it. 
+N'VEK: The effect would only be intermittently. They might not even
+detect it. 
+TROI: If it's the best we can do, we have to try it. 
+N'VEK: Anything more would be immediately registered on the Bridge.
+Even this slight misalignment may be detected. 
+TROI: It's a risk we have to take. You're the one who outlined the
+stakes to me, N'Vek. Are you getting squeamish now, just because things
+are getting a little more dangerous?
 

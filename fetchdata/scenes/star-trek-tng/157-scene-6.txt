@@ -1,123 +1,61 @@
-TEMAREK TROI LAFORGE WORF PICARD BRULL RIKER YUTA WESLEY VOLNOTH CRUSHER DATA MAROUK
+RIKER CRUSHER DATA GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-WESLEY: Now entering standard orbit of Gamma Hromi
-Two, sir. 
-DATA: Captain, I am detecting life readings from the planet surface, as
-well as several small areas of thermal radiation and carbon dioxide
-emissions, indicative of combustion. 
-WESLEY: Campfires, Data. 
-DATA: Is that not what I said? 
-RIKER: It's worth a look. 
-PICARD: Make it so. 
-RIKER: Data, Worf. 
-[Gatherer camp]
+RIKER: You're scowling, Doctor. 
+CRUSHER: I'm thinking. 
+RIKER: And? 
+CRUSHER: The old Gatherer on the planet? I know what caused his heart
+attack. The medical tricorder almost missed it, but there was a
+microvirus in his body, blocking his autonomic nerve impulses. 
+RIKER: And that stopped his heart? 
+CRUSHER: But here's the really interesting part. This microvirus will
+only attach itself to cells which contain a very specific DNA sequence.
 
-(It looks like a junk yard) 
-LAFORGE: Artonian lasers. Tonkian homing beacons. Quite a collection. 
-DATA: Noranium alloy, sir. It's salvage value is quite low. 
-RIKER: Looks like these Gatherers weren't too discriminating in what
-they steal. 
-WORF: Commander? Ambush! 
-(The Gatherers start firing at them as they hide behind barrels)
-DATA: Rigelian phaser rifles, sir. Not particularly powerful. 
-RIKER: Powerful enough. We came to talk! 
-WORF: Your words are wasted, Commander. They understand only this. (a
-phaser) 
-RIKER: We're here to establish a dialogue, Worf. 
-RIKER: Data, tell me about noranium. It vaporises at? 
-DATA: Two thousand three hundred fourteen degrees. Of course, noranium
-carbide 
-RIKER: Thank you, Data.
-LAFORGE: Setting seven ought to do it. 
-RIKER: Three, two, one, now! 
-(They fire at some of the metal junk, which creates a smoke screen.) 
-RIKER: Enterprise, four to beam up. 
-BRULL: Cowards! 
-(He puts the fire out with a bucket of soil) 
-WORF: Your ambushes would be more successful if you bathed more often. 
-RIKER: We've brought the Sovereign of Acamar. 
-BRULL: Marouk? Here? 
-RIKER: With an offer of amnesty. 
-(Later, Yuta is tasting a drink again, this time from a metal jug) 
-MAROUK: Full dispensation will be extended to all Gatherers who are
-willing to return to Acamar Three. 
-BRULL: You don't trust me, Marouk. 
-MAROUK: Should I? 
-(Marouk drinks from the goblet, then Yuta takes it to Brull)
-BRULL: But you expect me to trust you. Maybe you just poisoned it
-yourself. Taste this, Temarek. 
-(Temarek doesn't want to, so Brull pushes him down and pours some on
-his face before taking a drink himself)
-MAROUK: Barbarians. This is futile. 
-PICARD: Sovereign. Brull! 
-BRULL: Go home, old woman. 
-MAROUK: You people haven't changed in a hundred years. 
-BRULL: You should know. You were there. 
-PICARD: Sit down! Please. Please. Now, we're here to talk. 
-MAROUK: It's a waste of time, Captain. They don't care about how they
-live. 
-BRULL: Am I supposed to believe that you care how we live? 
-MAROUK: Yes. 
-PICARD: Brull, she's here, isn't she? 
-BRULL: Maybe you forced her to come, Picard. 
-MAROUK: Nobody forces me anywhere, Brull. 
-BRULL: What is there for us on Acamar Three? 
-MAROUK: A life. A home. You can end your wanderings, your miserable
-existence. 
-BRULL: Do I look miserable to you? 
-MAROUK: The clan wars are over, Brull. It is a past we're ashamed of.
-It is why you had to leave. Now, it is time to come home. 
-BRULL: I want to speak privately with Sovereign Marouk and Picard.
-Everyone else, get out. 
-(We follow the followers leaving their masters) 
-RIKER: Any insights? 
-TROI: Brull's ready to negotiate. He just wants privacy so that he
-won't appear weak in front of the other Gatherers. 
-YUTA: You are of the clan Lornak. 
-VOLNOTH: (an old man) What of it? I've seen you before. 
-YUTA: Yes. 
-VOLNOTH: But it's impossible. 
-YUTA: No. Look closer. I am Yuta of the clan Tralesta. 
-(She touches his cheek and he falls backwards in agony) 
-YUTA: I am the last of my line, but my clan will outlive yours. 
-(Back at the camp fire) 
-BRULL: Marouk's offer has value. 
-PICARD: Commander. 
-BRULL: But still, I don't know. 
-PICARD: But you'll agree it is enough to present to your leader. 
-BRULL: Chorgan is a better judge of these matters. I will take it to
-him. You will hear from me in twenty days. 
-PICARD: Brull, in twenty days, I hope to be very far away from here. 
-MAROUK: With all due respect, Brull, I would like to make the offer to
-Chorgan myself. 
-PICARD: We'll gladly take you with us on the Enterprise. How many of
-your men do you want to accompany you? 
-BRULL: I'll come alone. If this is a trap. 
-MAROUK: Oh, it isn't. 
-BRULL: Mallon, you'll be in charge while I'm gone. If I'm not back in
-ten days 
-TEMAREK: Brull! Brull! 
-(They dash to where Volnoth is lying) 
-BRULL: Volnoth. 
+RIKER: How specific? 
+CRUSHER: Without knowing more about their genetic makeup, I can't be
+sure. But my guess is, this virus would only kill one Acamarian in a
+million. 
+RIKER: Pretty single-minded bug. 
+CRUSHER: Too single-minded. I can't believe it's a naturally occurring
+virus. 
+RIKER: Meaning somebody engineered it. 
+CRUSHER: Meaning Volnoth was murdered.
 
-RIKER: Away team to Enterprise. Medical Emergency. 
-BRULL: Volnoth was an old man. There's nothing to be done. 
-RIKER: There's a chance that our doctors can do something. 
-BRULL: You found him? 
-TEMAREK: Yes. And there are no other members of the Lornak clan here,
-so I claim his possessions. 
-BRULL: Granted. 
-(Temarek pulls off Volnoth's boots) 
-MAROUK: Have you no respect for the dead? 
-BRULL: What's there to respect about a corpse? 
-(Crusher beams down. Riker pulls Temarek off) 
-BRULL: Temarek, no. Calm down. 
-CRUSHER: He's been dead too long. 
-RIKER: How? 
-CRUSHER: Cardiac arrest? 
-RIKER: You don't sound convinced. 
-CRUSHER: No, he died of a heart attack, all right, but I can't find the
-cause. His cardiac muscle is strong and there's no sign of arterial
-occlusion. 
+[Riker's quarters]
+
+DATA [OC]: Sir, Acamar Three has agreed to your
+request for access to their databases. They are now being transmitted
+into our computer over subspace link. 
+RIKER: Good. Notify Doctor Crusher when Acamar's medical database is
+online. Riker out. Come in. 
+GUEST5: I'm disturbing you. 
+RIKER: Not at all. 
+GUEST5: As the Sovereign has no further need for my services this
+evening, she suggested I might spend some time with you. 
+RIKER: What a charming suggestion. 
+GUEST5: She appreciates the affection you've shown me. 
+RIKER: Was I that obvious? 
+GUEST5: Yes. 
+RIKER: Well, I've already dined. Maybe you know a good Acamarian
+dessert recipe. 
+(A kiss, of course) 
+GUEST5: Does that not please you? Tell me what you want, William. I will
+do anything you wish. 
+RIKER: Wait a minute. 
+GUEST5: I don't understand. Don't you want me to give you pleasure? 
+RIKER: Not as a servant. I told you, I prefer equals. 
+GUEST5: Even in the matters of love? 
+RIKER: Especially in matters of love. 
+GUEST5: I've offended you. 
+RIKER: No. I only want to make you as happy as you want to make me.
+You're entitled to that. 
+GUEST5: No, I'm not. 
+RIKER: Yuta. 
+GUEST5: I do not feel pleasure, or passion. I haven't been able to for a
+long time. 
+RIKER: I don't know who did this to you, or why, but it can change. 
+GUEST5: I wish it could. Tonight most of all. I'm sorry. 
+(She turns to go, he pulls her back into his embrace, then Red Alert
+sounds and the ship shakes) 

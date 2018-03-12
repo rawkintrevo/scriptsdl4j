@@ -1,57 +1,50 @@
-PICARD RIKER DATA
+PICARD GUEST3 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Sickbay]
 
-(Picard, Data and Riker are about to enter) 
-DATA: Incidentally, Captain, the effects of the time distortions are
-now being felt in the Ilecom system. 
-(They enter) 
-PICARD: Bridge. In the past decade, Manheim has turned some vague
-theories into a practical application. 
-RIKER: Yes, but without his help, I'm not sure we'll be able to pose
-any intelligent questions, let alone come up with any solutions. 
-(The turbolift door opens, and Picard, Data and Riker are about to
-enter) 
-DATA: Incidentally, Captain, the effects of the time distortions are
-now being felt in the Ilecom system. 
-PICARD: It's us before we stepped into the turbolift. 
-PICARD 2: It's happening again. 
-DATA 2: I feel no disorientation. 
-DATA: Nor do I. 
-(The doors close) 
+CRUSHER: Doctor Manheim is awake and asking to
+speak with you, Captain. Alone. 
+[Bridge]
+
+PICARD: On my way, Doctor. 
+[Sickbay]
+
+PICARD: You asked for me. 
+GUEST3: I am not sure I remembered all of the codes for the security
+system. You should warn anyone going down there 
+PICARD: Thank you. I'll tell them to be cautious. 
+GUEST3: What I really wanted to talk to you about is Jenice. 
+PICARD: Doctor Manheim, I did not come here to discuss your wife. 
+GUEST3: It is only this. If anything should go wrong, please, take
+care of her for me. 
+PICARD: Of course. 
+GUEST3: She never would admit this, but she has had a terrible time
+these last years. Had we not been so isolated, she might have left me,
+and I never would have known. At least, not right away. Perhaps I'm not
+a man who should have a woman like her. She deserves better. 
+PICARD: You underestimate her. I know, because I once did. 
 [Corridor]
 
-RIKER: What was that? 
-DATA: I believe what could be termed the Manheim Effect is becoming
-more pronounced. 
-RIKER: This is where we started, if we are us. 
-DATA: Oh, we are us, sir, but they are also us. So indeed, we are both
-us at different points along the same time continuum. 
-(A turbolift arrives, they look inside and enter) 
-PICARD: Bridge. 
-[Ready room] 
-PICARD: What have you learned? 
-DATA: We have completed a scan of the planet surface. 
-RIKER: We've discovered the second lab is on the far side of the
-planet, completely destroyed. Unable to determine what caused it.
-Otherwise, very little to clarify the situation. 
-DATA: Our sensors show an immense volume of energy emanating deep
-within the planet, and concentrated near Manheim's remaining
-laboratory. 
-PICARD: How is the energy being used. 
-RIKER: No idea. 
-PICARD: What's it's source? 
-DATA: I cannot be sure, sir, but I believe Manheim has developed a
-method for harnessing energy from the pulsar. 
-RIKER: It comes down to this, Captain. We've learned everything we can
-from here, and we are no closer to understanding it than we were twelve
-hours ago. Manheim is unable to help us, but hopefully, having been a
-good scientist, he kept notes. 
-DATA: I would need to study Manheim's records. 
-RIKER: And in order to do that we're going to have to go down there. 
-PICARD: What about the defence system Mrs. Manheim spoke of? 
-RIKER: It may have been connected to the main system, and when she
-lowered the shield she may have turned that off as well. If not, we'll
-deal with it as best we can. 
-PICARD: Prepare your team. 
-RIKER: Aye, sir. 
+DATA: In both cases, the time distortions occurred
+along the same continuum as a preview or a reprise of a specific point
+in time. 
+PICARD: Where we are, where we were, and where we will be. Data, I want
+this to be an away team of one. You. I don't think there's any reason
+to risk anyone else. 
+DATA: It is reasonable, sir. After all, I am a machine and dispensable.
+
+PICARD: Indispensable is the appropriate word. I think it should be
+only you because you seem more able to control the effects of the time
+distortion. 
+DATA: Oh, I see, sir. That is quite true, sir. I see time as a
+constant, whereas humans
+perceive time as flexible. Hence the expression, times flies when
+you're having fun, which until now has always confused me. 
+PICARD: Well, I want you to put a stitch in time and, er, save much
+more than nine. 
+DATA: Sir? 
+PICARD: If other members of the away team became disoriented, it could
+create additional problems and perhaps increase the danger. 
+DATA: I will go immediately, sir. 
+PICARD: Good luck, Data. 

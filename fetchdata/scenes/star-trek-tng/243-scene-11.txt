@@ -1,98 +1,41 @@
-LKOR RIKER LAFORGE WORF PICARD TOQ GIRAL BAEL
+BAEL WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ba'el's family's quarters]
-
-BA'EL: Mother? She's not here. Come in. This is
-what I wanted to show you. 
-(She opens a chest. It contains Klingon armour amongst other items) 
-BA'EL: I don't know why, but I'm not supposed to look at these things.
-They're Klingon, aren't they? 
+[Worf's room] 
+(Worf is going through the mok'bara when there is a
+knock on the door) 
+WORF: Enter. 
+BA'EL: (to the guard) Thank you. I will remove the tracking device.
+Then you can go over the wall and hide in the jungle. 
+WORF: Why are you doing this? 
+BA'EL: My father is wrong. No matter how I might feel about you, you
+don't deserve to die. 
+WORF: I am not going to run away, Ba'el. 
+BA'EL: They will kill you. 
+WORF: Yes. But they will not defeat me. 
+BA'EL: I don't understand you. 
+WORF: A Klingon does not run away from his battles. 
+BA'EL: Is that really the lesson you want us to learn? You've taught us
+a great deal, awakened something in us that we never knew existed, but
+I don't understand what we can learn from your death. 
+WORF: Then you do not yet understand what it is to be Klingon. 
+BA'EL: Worf, in spite of everything that's happened, I still sense that
+you care for me. Am I wrong? You talk so much about being a warrior,
+about honour and death. Is it so hard to speak of love? Worf, please. 
+WORF: I would not have thought it possible to love a Romulan. 
+BA'EL: But you do? 
 WORF: Yes. 
-BA'EL: I thought you might be able to tell me about them. 
-WORF: This is a warrior's armour. And this is a d'k tahg. (a knife) It
-should not be allowed to rust like this. 
-(Ba'el has taken a necklace) 
-BA'EL: Isn't it beautiful? 
-WORF: That is a jinaq. It is given to a daughter who has come of age,
-old enough to take a mate. 
-GI'RAL: Ba'el! 
-BA'EL: Mother. 
-GI'RAL: Take that off at once. 
-WORF: Why is she forbidden to know what these things are? 
-GI'RAL: They are not needed here. Go!
+BA'EL: Well if you've come that far, can't you take it one more step?
+Can't you stay here with us? With me? 
+WORF: If there were a way, I would take you away with me. 
+BA'EL: If there is anything that I've learned from you, from your
+reaction to me, it's that I have no place out there. Other Klingons
+will not accept me for what I am. 
+WORF: And if I stay here, these Klingons will not accept me for what I
+am. 
+BA'EL: Why did you come here? We were so happy. We didn't know there
+was anything missing in our lives. 
+WORF: Ba'el. 
+(they kiss) 
+BA'EL: Goodbye, Worf.
 
-[Compound]
-
-(night, around the fire, and a group of teenagers
-are spellbound by Worf's narration) 
-WORF: Kahless held his father's lifeless body in his arms. He could not
-believe what his brother had done. Then his brother threw their
-father's sword into the sea, saying, if he could not possess it,
-neither would Kahless. That was the last time the brothers would speak.
-
-BA'EL: What happened to the sword? 
-WORF: Kahless looked into the sea and wept, for the sword is all he had
-left of his father. The ocean filled with his tears and flooded beyond
-the shore. 
-TOQ: That is impossible! 
-WORF: For you, perhaps. Not Kahless. He was a great warrior. 
-TOQ: You're making it up. 
-WORF: No. These are our stories. They tell us who we are. 
-L'KOR: It is late. It is time to sleep. 
-(the youngsters and L'Kor leave) 
-BA'EL: Worf. You never answered my question. Did Kahless ever find his
-father's sword? 
-WORF: Yes. He found it. 
-BA'EL: The stories that you tell, are they true? 
-WORF: I have studied them all of my life, and find new truths in them
-every time. 
-BA'EL: This Kahless, did he ever take a mate? 
-WORF: That is another story. 
-BA'EL: Tell me. 
-(Worf strokes her hair, and discovers that she has pointed ears) 
-WORF: You are Romulan. 
-BA'EL: Tokath is my father. I thought you knew that. 
-WORF: How could your mother mate with a Romulan? 
-BA'EL: Why shouldn't she? 
-WORF: It is an obscenity. 
-BA'EL: What are you saying? They love each other. 
-WORF: Romulans are treacherous, deceitful. They are without honour. 
-BA'EL: My father is a good man. He is kind, and generous. There is
-nothing dishonourable about him. 
-WORF: He took part in a cowardly attack at Khitomer. Thousands of
-Klingons were massacred, many of them women and children. 
-BA'EL: I don't know what you're talking about. My father came here to
-escape the wars. He would never kill anybody. 
-WORF: Ask him. Ask your mother. Tell them you want to know the truth.
-
-[Bridge]
-
-(at the science station) 
-PICARD: What is it, Number One? 
-RIKER: We've just received the Yridian's flight plan from Deep Space
-Nine. 
-LAFORGE: He gets around. He's been to three different systems in this
-past week. He could have left Worf at any of them. 
-PICARD: Are any of these systems near Romulan space? 
-LAFORGE: Two of them. The Nequencia and the Carraya systems. 
-(Echevarria system is too far away to be considered) 
-PICARD: Let's head for the closer one. 
-RIKER: Aye, sir.
-
-[Ba'el's family's quarters]
-
-BA'EL: What do you want? 
-WORF: I am sorry if I upset you. 
-(Ba'el gestures Worf to come in) 
-WORF: I was surprised. I became angry. But I do not blame you. You
-cannot help being what you are. 
-BA'EL: There's nothing wrong with what I am. 
-WORF: What I mean is, it is not your fault. 
-BA'EL: What, being born? I'm sorry if that offends you. 
-WORF: No, I. It is hard to explain. Klingons and Romulans are blood
-enemies. Have been for centuries. 
-BA'EL: Not here. Here, we live in peace. 
-WORF: But I don't live here. 
-BA'EL: Worf, before you knew, you were attracted to me. Can't you leave
-the hatred behind, too? Can't you accept me as I am? 
-WORF: I do not know. 

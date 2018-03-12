@@ -1,50 +1,49 @@
-RIKER LAFORGE WORF PICARD SCOTT DATA RAGER
+LAFORGE WORF PICARD CHIEF SCOTT DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: Commander, I believe I have found something
-on the sphere which could be a communications device. There's an
-antenna array approximately four hundred thousand kilometres south of
-our present position. It is emitting low intensity subspace signals. 
-RIKER: Can you open a channel? 
-DATA: No, sir, not from our present orbit. The array is currently
-directed away from us. 
-RIKER: Ensign, prepare to put us in orbit above those coordinates.
-Captain Picard to the Bridge, please.
+WORF: Sir, there is an audio message from Commander
+La Forge. 
+LAFORGE [OC]: La Forge to Enterprise, do you read me? 
+PICARD: Go ahead, Commander. We read you. 
+[Jenolen]
 
-[Transporter room]
+LAFORGE: We're using the Jenolen to hold open the
+hatch that you came through, but our shields aren't going to hold out
+much longer. 
+[Bridge]
 
-LAFORGE: Are you feeling all right? 
-SCOTT: Never get drunk unless you're willing to pay for it the next
-day. I'll manage. 
-LAFORGE: Okay. Energise.
+PICARD: Understood. Ensign, set a course.
+
+[Jenolen]
+
+SCOTT: The plasma intercooler's gone. The engines
+are overheating. 
+LAFORGE: I've lost helm control. La Forge to Enterprise. Captain, we're
+not going to be able to move this ship out of the way when you get
+here. 
+[Bridge]
+
+LAFORGE [OC]: You're going to have to destroy it in
+order to escape. 
+PICARD: How much longer before we reach them? 
+DATA: With impulse engines operating at sixty percent power, it will
+take one minute and forty seconds. 
+PICARD: Bridge to Transporter room three. Prepare to beam two from the
+Jenolen as soon as we're within range. 
+[Jenolen]
+
+SCOTT: It's coming apart, Lad. I can't do anything
+else.
 
 [Bridge]
 
-DATA: Sensors indicate that the large circle is a
-portal or airlock, possibly leading to the interior of the sphere. 
-RIKER: This looks like the front door. Should we ring the bell? 
-PICARD: Mister Worf, open a channel to that communications array. 
-WORF: Aye, sir. 
-(there's a jolt, and Red alert goes off) 
-DATA: Some type of tractor beam has locked onto us. 
-RIKER: Helm, get us out of here! 
-RAGER: We've lost main power. Auxiliary power down to twenty percent. 
-(the viewscreen shows four beams pulling the Enterprise towards the
-opening spacedoors) 
-WORF: We're being pulled inside. 
-RAGER: Auxiliary power failing. 
-DATA: The resonance frequency of the tractor beams is incompatible with
-our power systems. Warp and impulse engine relays have been overloaded.
-I am attempting to compensate. 
-(Enterprise is slung into inner space) 
-RAGER: The tractor beams have released us, sir. 
-RIKER: Hold position here until we can get our bearings. 
-PICARD: Full sensor sweep, Mister Data. Where are we? 
-DATA: Approximately ninety million kilometres from the star's
-photosphere. I am reading a great deal of surface instability. It may
-be 
-RAGER: Sir! The inertial motion from the tractor beams is still
-carrying us forward. Impulse engines are offline and I can't stop our
-momentum. We're falling directly into the star.
+WORF: Photon torpedoes armed and ready, sir. 
+DATA: We are within transporter range. 
+PICARD: Bridge to Transporter room. Energise. 
+CHIEF [OC]: Aye, sir. 
+PICARD: Fire torpedoes. 
+(KaBOOM! And the spacedoors start to close. Enterprise gracefully
+swoops through the remaining gap and the doors clang shut behind them)
 

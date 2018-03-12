@@ -1,62 +1,51 @@
-RIKER GIUSTI WORF PICARD TROI KORAL CRUSHER DATA NARIK
+GUEST2 PICARD TALLERA NARIK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlebay]
+[T'Kareth sanctuary]
 
-CRUSHER: Well, that's my third scan and I still
-haven't find anything out of the ordinary. 
-WORF: He must be hiding something. We should download his computer
-memory and analyse it. 
-CRUSHER: I'd have a hard time defending that as part of a safety
-inspection. 
-WORF: We could claim that the computer was generating abnormal
-radiation signatures. 
-CRUSHER: Worf, we're on pretty shaky ground as it is. We can't just 
-(the raiding party beams in. Riker stuns an incoming crewman) 
-PICARD: Don't! 
-RIKER: Watch that door. 
-WORF: What is going on? 
-NARIK: Shut your mouth, Klingon. 
-RIKER: I guess you're surprised to see me, Doctor. 
-CRUSHER: You could say that. 
-RIKER: I've had a change of profession. 
-PICARD: It's not in here. Hey, you, where's the artefact? 
-WORF: I do not know what you're talking about. 
-RIKER: Use your brain. They wouldn't be searching the shuttle if they
-had the artefact. Koral must have it. Where is that Klingon pilot? 
-CRUSHER: In the Observation lounge with Data and Troi. 
-NARIK: How far? 
-RIKER: Twelve decks away. 
-WORF: Security will not allow you to get that far. 
-RIKER: They won't get the chance. We'll use the transporter in that
-shuttle. We'll beam directly to the Observation lounge. Sorry about
-this. 
-(Riker shoots Worf and Crusher) 
-RIKER: Let's go.
+(a stone chamber with carved walls) 
+TALLERA: There. Your reward, as promised. 
+NARIK: Is it all there? 
+GUEST2: No, this is less than half of what we were promised. Where's the
+rest of it? 
+(Tallera has assembled the resonator) 
+TALLERA: That is all I could manage. I suggest you take it and leave. 
+NARIK: I did not come this far to be cheated. I want it all, now. 
+TALLERA: Very well. You will get what you deserve. 
+(a strange field wraps Narik then throws him across the chamber.
+Tallera then sends a second one to do the same to Vekor) 
+TALLERA: Go ahead, Captain. Pick up the phaser. See what good it will
+do. 
+PICARD: You'll never get away with this. Starfleet will never stand and
+watch you tear apart one of the founding worlds of the Federation. 
+TALLERA: How little you understand what you're facing, Captain. You're
+used to fighting enemies like yourself. People on ships with defence
+shields, energy weapons, warp drives. But this is unlike anything
+you've ever faced. This is the power of the mind. Pick up the phaser,
+Captain. 
+(Riker, Worf and two security guards beam in) 
+PICARD: Listen to me, all of you! Drop your weapons! Do it! Don't make
+any aggressive movements. The resonator
+amplifies violent feelings and emotions. And that's why you wanted me
+to pick up the phaser. That's how you were able to kill Narik and
+Vekor. But I can see the symbol on that third artefact, and it is the
+Vulcan symbol for peace standing between the symbols for war and death.
+It's a warning that the power of the resonator can be overcome by
+peace. 
+TALLERA: You are about to see how wrong you are. 
+PICARD: Empty your minds of violent thoughts. 
+(the field passes through Riker without hurting him) 
+TALLERA: No! 
+PICARD: Think, Tallera. Two thousand years ago your people were being
+consumed by war. But when peace came to Vulcan, the resonator became
+useless. That's why it was dismantled. 
+(Tallera tries it again on Worf and fails. She sinks to her knees) 
+PICARD: You were right, Tallera. The resonator cannot be stopped by
+phasers and shields, but it can be defeated by peace. 
+(she tries again, but it's a very small field that passes through
+Picard before he takes the device from her hands)
 
-[Observation lounge]
+Captain's log, stardate 47169.2. Security Minister
+Satok has taken Tallera into custody and begun a search for the rest of
+the isolationists.
 
-DATA: If you could tell us something about the
-nature of your mission. 
-(the raiding party beam in) 
-KORAL: What is this? 
-RIKER: Quiet! (Picard scans Koral) Does he have it? 
-(Picard takes a small item from Koral's jacket) 
-PICARD: This is it. 
-NARIK: Are you sure, Galen? 
-PICARD: Yes, I can recognise the inscription pattern from the first
-artefact. 
-DATA: Commander Riker, by taking this action you risk charges of
-assault, theft, piracy, and treason. 
-RIKER: Really? Then I guess adding one more charge wouldn't hurt. 
-(Riker shoots at Picard and misses. Picard doesn't miss) 
-PICARD: Is he dead? 
-TROI: Yes. 
-PICARD: Good. Activate the transporter. 
-(the raiding party beam out) 
-DATA: Security alert. Medical emergency team to the Observation lounge.
-Data to Bridge. Raise shields and begin sensor sweeps for the mercenary
-ship. 
-GIUSTI [OC]: Aye, sir. 
-TROI: He's all right. He's only stunned. 
-DATA: I must admit, I am experiencing a similar sensation. 
-RIKER: This is going to take a little time to explain. 

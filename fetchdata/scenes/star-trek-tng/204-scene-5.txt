@@ -1,64 +1,58 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA
+DATA MARR
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-WORF: Captain, sensors indicate a disturbance near
-the outpost on Melona Four. 
-PICARD: What kind of disturbance? 
-WORF: I cannot tell. We are still too far away. It could be an
-electrical storm. 
-PICARD: See if you can contact the colony. 
-WORF: Aye, sir. Captain, there is no response from Melona colony, but
-the disturbance in the atmosphere is increasing. 
-PICARD: How far are we? 
-WORF: At current speed, twenty seven hours. 
-PICARD: Bridge to La Forge. 
-LAFORGE [OC]: La Forge here, Captain. 
-PICARD: Are you picking up any readings from Melona?
-
-[Engineering]
-
-LAFORGE: Yes, sir. Something strange is going on.
-There are violent disruptions in the atmosphere. 
-[Bridge]
-
-PICARD: Ensign, increase to warp eight.
-
-[Melona colony]
-
-RIKER: Come on, keep moving. 
 [Cave]
 
-(with a convenient flight of steps downwards) 
-CRUSHER: Watch your step but keep moving. 
-RIKER: Let's go, let's go. Keep moving. Deeper into the cave. Come on.
-Deeper into the cave. Keep moving. 
-(the last of the survivors are in) 
-RIKER: How much protection will this cave give us? 
-DATA: The refractory metal in the rock formations may act as an
-effective barrier. 
-RIKER: Let's seal off this entrance. 
-(they use their phasers to make a rockfall that blocks the entity's
-ray) 
-CRUSHER: Let's hope there's enough air in here. 
-RIKER: There's got to be a ventilation source somewhere. We need some
-light. 
-(the devastation can be heard going on outside as Riker and Data use
-the phasers to make the ceiling glow) 
-RIKER: How are the others? 
-CRUSHER: Just scrapes and bruises, I think. I'll check further. Where's
-Carmen? 
-RIKER: She didn't make it. She was trying to save an old man who'd
-fallen. 
-CRUSHER: I'm sorry. 
-RIKER: I think we're going to be all right in here. I'm not sure about
-the air supply, so stay put, don't move around. Don't expend
-unnecessary energy. With any luck, we'll be able to wait this thing
-out. 
-RIKER: Riker to Enterprise. Riker to Enterprise. 
-DATA: Commander, the refractory metals in the rock strata may also
-interfere with communication. 
-RIKER: Data we've only seen the Crystalline Entity once before. How do
-you know these metals will protect us? 
-DATA: I am not entirely certain they will, sir. 
-RIKER: I was afraid you were going to say something like that. 
+DATA: Doctor, there is evidence of residual
+bitrious matter in the soil. It was not present before the Entity's
+attack. 
+(she keeps walking away, scanning) 
+DATA: Doctor? Doctor Marr, you have made it clear that my presence
+disturbs you. However, I do not see how we can achieve our task if you
+continue to ignore me. 
+MARR: Commander, I can hear everything you say to me. If there is
+anything worth my response, you can be sure I will not be silent. 
+DATA: Then I do not understand your lack of interest in the bitrious
+filament I mentioned. 
+MARR: It's old news to me. I found evidence of bitrium on the last
+three attack sites. It seems to be a residual that the Entity produces
+after it absorbs living matter. I'm actually more interested in this
+cave. It still amazes me that your group was spared. 
+DATA: As I have speculated, the presence of refractory metals 
+MARR: Refractory metals. Yes, I know. On two separate occasions
+settlers sought refuge in caves. Some of them deeper than this one.
+They perished anyway. 
+DATA: Were those caves laced with kelbonite or fistrium? 
+MARR: The tunnels on Forlat Three had strong deposits of kelbonite,
+yes. 
+DATA: Then perhaps the combination of the two metals prevented the
+Entity from 
+MARR: Perhaps it was you. 
+DATA: I do not understand. 
+MARR: Maybe it was your presence which made the Entity pass over the
+people in this cave. Did that occur to you? 
+DATA: I cannot see what effect my being here would have had 
+MARR: If you had been in contact with the Entity, if that's the reason
+Melona was attacked, it surely wouldn't have killed its ally. 
+DATA: Do you believe that I lured the Entity here? 
+MARR: Did you? 
+DATA: No, Doctor. Because Lore betrayed the colonists on Omicron Theta,
+you believe that I am capable of the same behaviour. You are mistaken,
+Doctor. My programming is distinctly different from Lore's. 
+MARR: You don't understand. I am accusing you of collaborating with
+that monster! 
+DATA: I do understand, and I am attempting to explain to you it is
+impossible. 
+MARR: It's amazing. You can't feel anything, can you? Nothing I say to
+you hurts you. 
+DATA: That is true, Doctor. 
+MARR: I'm getting a slight elevation on monocaladium particulates in
+this cave wall. Are you making note of it? 
+DATA: Yes, Doctor. 
+MARR: My son died on Omicron Theta. He was sixteen when the colony was
+attacked. That is the reason I have became an expert on the Crystalline
+Entity. I have spent my life studying it, tracking it, and hoping
+someday to find it. And if I learn you have been helping that thing in
+any way whatsoever, I will see to it that you are disassembled piece by
+piece.
+

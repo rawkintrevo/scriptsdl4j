@@ -1,120 +1,44 @@
-SANTOS CRUSHER WORF PICARD GULEVEK RO DATA NECHAYEV
+GUEST2 SANTOS RO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Settlement]
 
-GUL EVEK: Do you people have experience treating
-Cardassians? 
-CRUSHER: Yes. Do you mind? 
-PICARD: Gul Evek. I'm sorry that we could not come to your aid sooner. 
-GUL EVEK: I suppose we're lucky you came at all. Lately Starfleet seems
-to look the other way when the Maquis attack. 
-PICARD: I can assure you that is not the case. We're doing everything
-in our power to control them. 
-GUL EVEK: The fact that my ship was attacked suggests that your efforts
-have met with limited success. They came at us with photon torpedoes
-and type eight phasers. Tell me, Captain, how do you suppose that a
-group of civilians acquired such weaponry? 
-PICARD: I can assure you it was not through official channels. 
-GUL EVEK: So you don't think the fact that some of the Maquis are
-former Starfleet officers has anything to do with it? 
-PICARD: Starfleet does not condone the Maquis' actions in the
-Demilitarised Zone any more than your government would condone the
-paramilitary actions of Cardassian civilians. 
-GUL EVEK: We have taken measures to deal with our colonists who have
-armed themselves. 
-PICARD: Considering that they destroyed a Juhryan freighter less than a
-week ago, I would say that your efforts are meeting with limited
-success. 
-GUL EVEK: Captain, if the Maquis are not stopped, this situation will
-continue to escalate to the point where the Cardassian military will
-have no choice but to take matters into their own hands.
-
-Captain's log, supplemental. Gul Evek and his crew
-have left the Enterprise, and we have proceeded to our rendezvous with
-Admiral Nechayev.
-
-[Ready room]
-
-NECHAYEV: No Bularian canaps this time, Captain? 
-PICARD: I thought twice was pushing it a little. 
-NECHAYEV: It's just as well. They're extremely fattening. 
-PICARD: You missed Gul Evek by a matter of hours. I asked him to stay.
-I thought that an Admiral's assurances might convince him that we are
-trying to deal with this Maquis situation. 
-NECHAYEV: Evek manages to make the Cardassians sound like helpless
-sheep being preyed on by Federation wolves. The truth is, we caught the
-Cardassian government supplying its colonies in the Demilitarised Zone
-with weapons. 
-PICARD: Gul Evek assured me that they had stopped that practice. 
-NECHAYEV: Ha. How comforting. 
-PICARD: Admiral, this Maquis situation has you worried. 
-NECHAYEV: Believe me, Captain, if I were living that close to the
-Cardassians, I'd keep a phaser under my pillow too. But in the last
-weeks we've seen signs that the Maquis are moving beyond self-defence.
-Their ranks are growing.
-They're acquiring ships, weapons. They seem to be preparing for a more
-aggressive military posture. We've got to put a stop to them before the
-entire Demilitarised Zone ignites. But before we stop them, we have to
-find them. They seem to be scattered in small cells around the Zone.
-And we don't have reliable intelligence about any of them. 
-PICARD: Perhaps you need an undercover operative. 
-NECHAYEV: Our thinking exactly. We intend to infiltrate their
-organisation, and the person we want to do it is aboard your ship right
-now.
-
-[Ro's quarters]
-
-RO: Starfleet wants me to infiltrate the Maquis? 
-PICARD: Because of your recent training, because you're Bajoran, and
-because of your past troubles with Starfleet gives you a certain
-credibility. 
-RO: Well, that's certainly true. And just how soon would this mission
-begin? 
-PICARD: Immediately. 
-RO: I see. I've spent the better part of my life fighting the
-Cardassians. I never thought I'd be helping them out. 
-PICARD: This is a rare case when our interests and theirs coincide. We
-both want peace in the Demilitarised Zone. 
-RO: I've heard a lot about the Maquis. One of my instructors at
-Tactical Training, a Lieutenant Commander in Starfleet, a man I admired
-and respected, he was sympathetic to them. He resigned and left to join
-them. 
-PICARD: We're all sympathetic, Lieutenant. Our civilian population in
-the Demilitarised Zone is in a very difficult situation, but even
-sympathy has to end at some point. The peace treaty isn't just a piece
-of paper. If the Maquis force us into a war with Cardassia, it could
-mean hundreds of thousands of lives. Two years ago, Starfleet would
-never have tapped you for this mission. They must have a lot of
-confidence in you now. 
-RO: The way I see it, there's one good reason to take this mission, and
-that's to validate your faith in me.
-
-[Alien bar]
-
-(mostly humanoid, a Vulcan, a Klingon. Ro, in
-civilian clothes enters and sits at a table. Worf and Data enter in
-uniform, so she grabs the man at the table and kisses him) 
-WORF: We are looking for a Bajoran woman, dark hair. 
-DATA: She is responsible for the death of a Cardassian soldier. 
-WORF: If we learn that she has been here, this establishment will be
-closed down. 
-SANTOS: You say she had dark hair? 
-WORF: Yes. 
-SANTOS: She was here. You just missed her. 
-DATA: Do you know where she went? 
-SANTOS: No. 
-(Worf and Data leave, and Ro stops kissing the man. He's disappointed.)
-
-RO: It was really nice meeting you. 
-(Ro goes to the bar) 
-RO: Thanks. 
-SANTOS: So, did you kill that Cardassian? 
-RO: Starfleet thinks I did. That's reason enough to hide. Why did you
-tell them that I'd left? 
-SANTOS: There are worse things a person can do than kill a Cardassian
-soldier. 
-RO: You don't often meet someone willing to say that out loud. 
-SANTOS: In the Zone, there are a lot of us who feel that way. 
-RO: I'd like to meet people like that. 
-(Santos shoots her)
+(it's evening and the crickets are singing) 
+RO: Aren't you taking a chance by letting me see all of this? What if
+my story doesn't check out? What if I'm not who I say I am? 
+GUEST2: Well, then we'll have a problem, won't we? 
+RO: You are Maquis, aren't you? 
+GUEST2: Many of the people here are. 
+RO: Starfleet considers you outlaws. They're afraid you'll destroy the
+peace treaty. 
+GUEST2: They don't understand the situation here in the Zone. I lived
+on Juhraya. When the treaty was signed the colony suddenly found itself
+in Cardassian territory. Some of us chose to stay, take our chances.
+Then one night I was dragged from my bed and beaten. The authorities
+clucked their tongues and agreed it was an unfortunate incident, and
+did nothing. 
+RO: I'm not surprised. The Cardassians intend to make life so
+unpleasant for Federation citizens that they'll leave. 
+GUEST2: Exactly. And no one seems to see that, except the Maquis. How
+old were you when your father was killed? 
+RO: I'd rather not talk about it. 
+GUEST2: Hungry? Would you like something? 
+RO: No, thank you. 
+GUEST2: (to replicator) Hasperat. 
+RO: You like hasperat? 
+GUEST2: An old Bajoran friend of mine used to make it. His was
+stronger. He was killed many years ago fighting the Cardassian
+occupation of Bajor. I miss his company, and his hasperat. 
+RO: My father used to make the strongest hasperat you've ever tasted.
+Everything else seems mild by comparison. 
+GUEST2: Did he teach you how to make it? 
+RO: Yes. But I haven't tried it in years. 
+GUEST2: If you would make the brine for a really strong hasperat. I
+mean eye watering, tongue searing strong, you'd make an old man very
+happy. 
+RO: I would enjoy making it again. 
+SANTOS: Macias. I've checked with my sources at Starfleet. Her story's
+true. 
+GUEST2: I was sure it was. Kalita, she'll stay with you until we can
+find her a room.
 

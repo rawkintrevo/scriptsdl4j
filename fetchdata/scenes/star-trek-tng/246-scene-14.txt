@@ -1,57 +1,35 @@
-RIKER KLINGON WORF PICARD OCETT CRUSHER DATA
+GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Picard's quarters]
+[Ten Forward]
 
-CRUSHER: They all came up negative. 
-PICARD: Well I have been through every page of the Professor's
-published works, looking for some clue as to where to go next. So far,
-nothing. 
-CRUSHER: Maybe we've been at this too long. Why don't we both get some
-sleep and start again tomorrow morning. 
-PICARD: I was in the neighbourhood. When I asked the Professor why he
-went all the way to Kurl, he said, I was in the neighbourhood. Doing
-what? 
-CRUSHER: Collecting DNA samples. 
-PICARD: There's only one planet in the Kurlan system capable of
-supporting life. Loren Three. 
-CRUSHER: No. There is no Loren Three sample from the data downloaded
-from the Professor's shuttle. If he did have one it must have been
-taken by the Yridians when they attacked. 
-PICARD: Mister Data, set course for Loren Three, maximum warp. 
-DATA [OC]: Aye, sir.
+(Data is at a table, reading a PADD) 
+NU'DAQ: Good evening, Commander Data. 
+DATA: Captain. 
+NU'DAQ: Is there any word yet on the missing fragment? 
+DATA: The computer is processing the data. I will be notified as soon
+as there is any information. 
+NU'DAQ: Commander, your reputation for physical strength is known even
+in the Klingon Empire. You are familiar with the B'aht Qul challenge? 
+DATA: I am familiar with many Klingon rituals, including the B'aht Qul.
 
-[Bridge]
-
-DATA: We are approaching the Loren system. 
-RIKER: Slow to half impulse, and take us into orbit above the third
-planet. 
-PICARD: There is a good chance that our competition may be here before
-us. Battle stations, Mister Worf. 
-WORF: Aye. 
-DATA: We are now entering orbit. 
-PICARD: On screen. 
-RIKER: You were right, Captain, we've got company. Cardassians. 
-WORF: They are hailing us. 
-PICARD: On screen. 
-OCETT [on viewscreen]: My name is Gul Ocett. Identify yourselves and
-state your business in this star system. 
-(tara ra boom di ay - it's Linda Thorsen under the latex) 
-PICARD: I am Captain Jean-Luc Picard of the Federation Starship
-Enterprise and I see no reason why I should answer to you.
-Cardassians have no claims in this sector. 
-OCETT [on viewscreen]: I suppose not. But my admittedly hasty estimate
-shows one Federation Starship and two Cardassian war vessels. Perhaps I
-have miscounted. 
-PICARD: Not at all. But we are on a purely scientific mission. You have
-no reason to interfere with us. 
-OCETT [on viewscreen]: And you have nothing to lose by delaying a
-purely scientific mission for a few days. I invite you to withdraw. 
-WORF: Captain, a Klingon attack cruiser decloaking off the starboard
-bow. They are hailing us. 
-KLINGON [OC]: This is the Klingon vessel Maht-H'a. What are you doing
-here? 
-Captain's log, supplemental. It seems that we have
-not one, but two competitors in our attempt to complete Professor
-Galen's puzzle. I have prevailed upon the Cardassian and Klingon
-captains to meet with me.
+(Nu'Daq sits opposite Data, both elbows on the table and hands raised.
+Data mirrors him, putting his hands inside Nu'Daq's) 
+NU'DAQ: Wa' Cha' Wej 
+(Data instantly pushes Nu'Daq's arms back onto the table, and returns
+to his PADD) 
+NU'DAQ: Maw' tok! 
+(Nu'Daq head-butts Data, but falls backwards himself) 
+DATA: My upper spinal support is a polyalloy designed to withstand
+extreme stress. My skull is composed of cortenide and duranium. 
+NU'DAQ: I understand your intellectual prowess is equally impressive.
+If I were to learn of the results from the computer search before the
+others, the Klingon Empire would have a strategic advantage. A being of
+your abilities would go far in the Empire. 
+DATA: You are attempting to bribe me. 
+NU'DAQ: Not at all. 
+DATA: You suggested a plan that would work to your advantage, one that
+I would be capable of executing. You then implied a reward. Clearly you
+were 
+NU'DAQ: Commander, never mind.
 

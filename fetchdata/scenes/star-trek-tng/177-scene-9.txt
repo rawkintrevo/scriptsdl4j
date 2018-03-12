@@ -1,38 +1,69 @@
-LAFORGE WORF PICARD WESLEY COMPUTER DATA
+RIKER OBRIEN LAFORGE WORF GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-WESLEY: He is on the Bridge, sir. 
-PICARD: Mister La Forge, prepare for saucer separation. 
-WESLEY: Sir, we're at Warp nine three. 
-PICARD: I am aware of the risks, Ensign. When the umbilical splits, we
-should regain primary control, do you agree? 
-LAFORGE: Yes, sir. 
-PICARD: The saucer module should fall out of warp in two minutes. Be
-prepared to sweep back. Pull it in with a tractor beam. 
-WORF: Aye, sir. 
-PICARD: Initiate auto sequence.
+LAFORGE: He's out! Security team approaching
+location.
 
-[Bridge]
+[Corridor]
 
-DATA: (doing a perfect imitation) Computer,
-recognise Picard, Jean-Luc. Alpha Two clearance. 
-COMPUTER: Priority clearance recognition, Alpha Two. 
-DATA: Cancel separation sequence. 
-COMPUTER: Sequence cancelled. 
-DATA: Isolate all remaining command functions and accept related orders
-and inquiries from main Bridge only.
+(The security team that see Data exit the turbolift
+get stopped by a forcefield, then the man who follows him)
+DATA: Intersection eight J, aft port. Establish. 
+(Right on the noses of the team who arrive at the junction just after
+him) 
+WORF: I order you to stop. 
+DATA: Computer, begin scan phase. 
+(Worf's phaser shot is blocked. The forcefield moves with Data, pushing
+Worf and his team backwards) 
+WORF: No, no, that's too close.
 
-[Engineering]
+[Transporter room]
 
-LAFORGE: The separation sequence has been aborted,
-Captain. 
-PICARD: Computer, recognise Jean-Luc Picard, Alpha Two priority, and
-re-establish separation procedure immediately. 
-COMPUTER: Orders regarding command functions are no longer accepted
-from your present location. 
-PICARD: And just what location are they accepted from? 
-COMPUTER: Interface terminals on main Bridge only. 
-WESLEY: You're the only one who has clearance to localise command
-functions. 
-PICARD: It seems Commander Data has it them as well. 
+RIKER: This has gone far enough, Data. 
+DATA: Computer, three metre cross seal. 
+((Riker O'Brien and a guard are trapped behind a forcefield. Riker
+pulls his phaser) 
+O'BRIEN: I wouldn't advise that, sir. The phase coils don't take well
+to ricochets. 
+RIKER: What's he doing? 
+O'BRIEN: He's reactivating the site to site transport interlocks. 
+RIKER: Does that mean he'll be able to 
+(Data is beamed away) 
+[Soong's lab]
+
+(It's a lush jungle planet, with insect and bird
+sounds. There in the midst is a typical mad scientist lair, all
+coloured liquids, electricity in a jar, books scattered on most
+surfaces, a skull on a shelf. Data enters and stands still. A figure in
+loose clothing and slippers is currently up a ladder. He descends,
+showing himself to be a very old man who looks rather like Data.) 
+GUEST1: You're right on time. 
+(We next see Data reclining in a chair. The old man has just finished
+doing something to his communicator) 
+GUEST1: Open. One of these. And one of these. There you are. 
+(Data sits up) 
+DATA: I fail to recall how I arrived here. 
+GUEST1: I sent for you. In a manner of speaking. 
+DATA: And who are you, sir? Data to Enterprise. Enterprise, do you read
+me? 
+GUEST1: I always loved that face. Please sit down. 
+DATA: We were heading for a medical facility. I was taking the boy's
+brother to Sickbay and 
+GUEST1: I'm sure your starship will be back for you soon. Please, sit
+down. 
+DATA: I must find a way to contact the Enterprise. 
+GUEST1: Tell me, do I look somewhat familiar to you? 
+DATA: You do bear a resemblance to Doctor Noonian Soong, the
+cyberneticist who constructed me. But, Doctor Soong was killed shortly
+afterward by the Crystalline Entity. 
+(Soong goes back up the ladder, whizzes it along it's track and finds
+the book he wants) 
+GUEST1: There we are. It's your lucky day, Data. You've found your long
+lost father, and he's alive. What do you think of that? 
+DATA: But the colony was destroyed. There were no survivors. 
+GUEST1: I've never felt too comfortable living anywhere without a
+prearranged route of escape. I admit, I wouldn't have guessed I'd be
+running from a giant snowflake, but 
+DATA: It is really you. 

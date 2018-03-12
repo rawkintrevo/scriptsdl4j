@@ -1,38 +1,5 @@
-RIKER SEROVA LAFORGE WORF PICARD RABAL DATA
-
-[Bridge]
-
-(at the science station, grid search pattern
-H522-3) 
-PICARD: What's the origin of this debris field? 
-DATA: Unknown, sir. It does not appear in any Federation charts of the
-Corridor. 
-PICARD: Could it be what's left of the Fleming? 
-DATA: It is a possibility. The debris consists primarily of duranium
-and polycomposite fragments which suggest a ship. Furthermore, the
-field contains sufficient mass to account for the Fleming. 
-PICARD: All right, let's take a closer look. Perhaps we can find
-something that will give us a more positive identification. Helm, take
-us through the debris field, ahead slow. 
-DATA: Captain, I am picking up a small metallic object, approximately
-three point five metres in diameter. 
-RIKER: Could be a ship's log recorder, or a probe casing. 
-DATA: I do not believe so. It is emitting an unusual signal. Captain,
-it is beginning to generate a verteron field. 
-PICARD: Shields up! Full reverse. Now! 
-(a sound, then the lights dim) 
-PICARD: Damage report. 
-WORF: Warp engines are offline. Shields are down. All subspace systems
-are inoperative. 
-RIKER: Just like the Ferengi ship. 
-DATA: Unidentified ship heading toward us. Two life forms are aboard. 
-PICARD: On screen. 
-DATA: Captain, they are initiating their transporter system. 
-PICARD: Can we get more power to the shields? 
-WORF: No, sir. 
-RIKER: All decks, security alert. 
-DATA: Captain, we are being boarded. 
-LAFORGE [OC]: La Forge to Bridge.
+RIKER GUEST0 LAFORGE WORF PICARD GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
@@ -40,6 +7,60 @@ LAFORGE: We have intruders in main Engineering. I
 need a security team down here immediately. 
 WORF [OC]: It's on its way. 
 LAFORGE: What do you want? 
-RABAL: (male) We're trying to make you listen. 
-SEROVA: (female) You're killing us.
+GUEST2: (male) We're trying to make you listen. 
+GUEST0: (female) You're killing us.
+
+[Observation lounge]
+
+PICARD: You have made a very serious accusation. I
+want you to explain it. 
+GUEST2: Captain, according to our research, warp fields cause a
+dangerous reaction in this region of space. 
+GUEST0: Our planet is already being affected. We have measured large
+gravitational shifts throughout our system. 
+GUEST2: If something isn't done, our planet will become uninhabitable. 
+LAFORGE: Captain, I've heard this theory before. Their research was
+evaluated by the Federation Science Council a few years ago. Quite
+frankly, it didn't hold up. 
+GUEST0: That research was only preliminary. Our original analysis was
+incomplete. 
+PICARD: If you wanted us to review your research, you should have made
+a request through the Science Council. 
+GUEST2: Their resources are limited. It would have taken over a year
+before they dispatched a science ship to come and evaluate our work. 
+GUEST0: We were not willing to wait any longer. We knew that if we
+disabled enough ships, Starfleet would come. Then at least we would be
+able to present our case. 
+RIKER: That's how you rationalise these attacks? 
+GUEST0: Neither you nor the Ferengi suffered any casualties, Commander.
+The actual damage to your vessels was negligible. 
+GUEST2: We dispersed verteron probes in the Corridor merely to disable
+warp-driven ships. Nothing more. 
+RIKER: You can call it whatever you like. The fact remains you
+deliberately disguised your probes. You made them look like signal
+markers. You hid them in debris field. You mined the Corridor. 
+PICARD: Mister La Forge, how long do you estimate it will take to
+restore the engines? 
+LAFORGE: Their verteron pulse overloaded our field coils, Captain.
+It'll take at least thirty six hours to get underway. 
+GUEST0: I know precisely how our pulse affected your field coils. With
+my help, your ship could be operational in ten hours. Provided you
+agree to review our research. 
+PICARD: Because of the seriousness of your claim, I'm willing to listen
+to your case. But let there be no mistake. Our priority here is the
+recovery of the Fleming. Now I expect you to help us restore our
+engines and deactivate all of the remaining probes in the Corridor. If
+you do not, you will both be taken to the brig and from there to the
+nearest Starbase, where you will answer charges for what you have done.
+
+GUEST2: My sister and I do not wish to impede your rescue process. 
+GUEST0: Rabal, don't. The probes are the only leverage we have. If we 
+GUEST2: Serova. We will do as you ask, Captain. But please, re-examine
+our data. 
+PICARD: We will. It is part of our job to retain an open mind, even
+under these circumstances. Mister La Forge, take them to Engineering.
+Get the core back online. 
+LAFORGE: Yes, sir. 
+PICARD: Mister Data, I want you to review their research. I'd like your
+report as soon as possible.
 

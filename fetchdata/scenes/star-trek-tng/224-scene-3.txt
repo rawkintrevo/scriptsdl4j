@@ -1,47 +1,62 @@
-RIKER RO LAFORGE PICARD BROSSMER VOICES VAREL MIROK
+RIKER GUEST5 WORF PICARD GUEST3 GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Bridge]
 
-RIKER: Riker here. 
-PICARD: Transport to the Romulan ship as soon as we're within range. 
-(La Forge and Ro are on the transporter pads) 
-RIKER: Aye, sir. No weapons. We don't want them to think they're under
-attack. 
-RO: This is not a bright idea. 
-RIKER: I beg your pardon, Ensign. I didn't quite catch that. 
-RO: Nothing, sir. 
-(Worf and Riker join them)
+RIKER [OC]: I need replacement personnel, sir. 
+PICARD: Mister Data, you may continue the diagnostic of the transporter
+systems at another time. Take a shuttlecraft and two more engineers
+down to the Romulan ship. 
+DATA: Aye, sir. 
+PICARD: Mister McDowell, alert the main shuttlebay to have all
+available ships and pilots standing by in case we need them. 
+GUEST0: Aye, sir. 
+PICARD: Ensign, lay in a course away from the Romulan vessel. Engage at
+warp one if you detect any sign it's going to explode.
 
 [Romulan Engineering]
 
-(it is a scene of death, devastation, fires and
-controlled chaos) 
-VOICES [OC]: All main thrusters are shut down. Your information is
-unreliable. The AH is inoperative. Give me a hand here. 
-(the team beam in) 
-RIKER: We're from the Federation Starship Enterprise. We received your
-distress call. 
-MIROK: The Enterprise? 
-RIKER: That's right. Your message said you'd suffered a failure in your
-engine core. 
-MIROK: Yes. We had a forced chamber explosion in the resonator coil. 
-LAFORGE: It's a pretty strange set up, but it looks like the graviton
-field generator has been completely depolarised. There's no way to fix
-it. It'll have to be replaced. 
-RIKER: Where are your replicators? 
-VAREL: (a woman) They are offline. 
-RIKER: Who's in charge here? 
-MIROK: The Captain is dead. I'm the science officer. Mirok. 
-RIKER: We'd like to move the generator back to the Enterprise for
-replication. 
-MIROK: All right. 
-RIKER: Geordi, you and Ro. 
-LAFORGE: La Forge to Brossmer. Two people and one piece of equipment to
-beam aboard. 
-[Transporter room]
+GUEST5: Pressure in the containment chamber has
+increased fifteen melakols in the last two minutes. 
+RIKER: What can we do to stop the overload? 
+GUEST5: Most of the conduits were damaged during the explosion. I can't
+even access the central computer. 
+WORF: Commander. Emergency bulkheads have sealed this section off from
+the rest of the ship. There is no way to gain access to the main Bridge
+or control centres. 
+RIKER: Survivors? 
+WORF: Readings indicate at least seventy three Romulans are still
+alive. 
+GUEST3: Seventy three. 
+(an alarm sounds) 
+GUEST5: The pressure has jumped two hundred melakols! 
+GUEST3: I've lost control of the containment chamber. 
+GUEST5: It's going to implode. 
+RIKER: We'll need to dump the entire engine core. Do you have an
+auto-eject system? 
+GUEST5: Yes, but it's not functioning. I'll have to do it manually. 
+RIKER: Mister Worf, you two seal the chamber. 
+GUEST3: Implosion will occur in one minute five seconds. 
+RIKER: Enterprise, we need to jettison the entire engine core. You'll
+need to extend the shields once it clears the hull. 
+PICARD [OC]: Understood, Number One. We'll stand by for your signal. 
+(Worf and Varel have got to the manual latches and undone them) 
+WORF: We must get the doors closed. 
+(but Worf can't move the debris jamming them open) 
+WORF: Commander! 
+RIKER: Time? 
+GUEST3: Thirty seconds. 
+(the three men finally shift the girder and start to pull the doors
+shut) 
+GUEST5: I'm ready, Commander. 
+RIKER: Stay there! Eject the chamber on my order! 
+DATA: Excuse me, sir. 
+(Data takes over and pulls the doors shut) 
+GUEST5: Implosion in five seconds) 
+RIKER: Now. 
+(everything shakes as the core is ejected) 
+RIKER: Enterprise, extend shields! 
+(KaBOOM) 
+RIKER: Well, we're still here. 
+GUEST5: Yes.
 
-BROSSMER: Aye, sir. 
-(She activates the controls and things fizzle) 
-BROSSMER: What the hell? Engineering, I need more power to the primary
-energising coil. Brossmer to Commander Riker. I'm losing them I have to
-abort. 

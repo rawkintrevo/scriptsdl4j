@@ -1,52 +1,42 @@
-PICARD RIKER OBRIEN DANILO
+PICARD RIKER GUEST1 WORF GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Corridor]
 
-PICARD: What's the situation, Number One? 
-RIKER [OC]: There are roughly two hundred people down here. 
-PICARD: Their condition? 
-RIKER [OC]: Surprisingly good. 
-PICARD: Are they willing to leave? 
-RIKER [OC]: Yes, but 
-PICARD: Well, get them up here. 
-RIKER [OC]: I'm having a little debate with the colony's leader. It
-seems 
-PICARD: There's no time, Number One. Initiate the transport. 
-RIKER [OC]: But, sir 
-PICARD: Whatever the problem, we'll handle it up here. 
-RIKER [OC]: Aye, aye, sir, we're on our way. All of us. Riker out. 
-[Transporter room]
+WORF: She is very like a Klingon woman. 
+GUEST2: Ah, Captain, there's just one other thing. It slipped my mind
+in all the hustle and bustle. 
+PICARD: The point, Mister Odell. 
+GUEST2: Well, in all your travels, have you heard anything from the
+other colony? 
+PICARD: The other colony?
 
-RIKER [OC]: First load ready, Mister O'Brien. 
-O'BRIEN: Energising. 
-(And onto the pad come - six adult, one child, a sheep, goat, chicken,
-barrels, hay.... and cod-Irish background music for the big clue as to
-the upcoming accents) 
-O'BRIEN: Captain, you'd better get somebody down here. Right away. 
-(The second transport group includes a porker, ducks in a crate and so
-on) 
-DANILO: Take the pig out there, will you? Very good. 
-RIKER: O'Brien, I think that third wave should be in position. 
-DANILO: Shoo, damn you, shoo. 
-O'BRIEN: Aye, sir. 
-DANILO: O'Brien, is it? (shakes hands) I should have known t'would be a
-good Irishman that was running this ship. 
-(Picard and Worf enter as Danilo offers a hip flask) 
-PICARD: What the devil is going on here, Number One? 
-DANILO: Ah, Captain Picard is it. The man who makes decisions for me
-and mine without so much as a by your leave. 
-PICARD: This is my Security Chief, Lieutenant Worf. 
-DANILO: (swallows and removed hat) I don't suppose security is much of
-a problem for you. Danilo Odell, sir, at your service. 
-PICARD: What are these animals doing here, Number One. 
-RIKER: I'm sorry, sir. It was either this or arguing till hell froze
-over. 
-DANILO: Captain Picard, sir, we can't leave our animals here to die.
-Besides, how could we build our future without our animals? 
-PICARD: All right. Chief O'Brien, transport this group directly to
-cargo hold seven, and beam the remaining refugees from the planet
-directly to that hold. 
-O'BRIEN: Yes, sir. 
-DANILO: Right, lads. Everybody back onto the infernal machine. 
-RIKER: Everybody up here. 
+Captain's log, supplemental. A review of stellar
+charts has revealed a Class M planet only half a light year from the
+Bringloid system. I am proceeding on the premise that it was the
+destination of the colony which possessed the more sophisticated
+equipment.
+
+[Riker's quarters]
+
+GUEST1: William Riker, you're a mess. 
+(She starts picking things up) 
+RIKER: You don't have to do that. 
+GUEST1: And if I don't, who will? 
+RIKER: I can see why your father wants to marry you off. 
+GUEST1: Oh, and why is that? 
+RIKER: So he can have a pipe and mug of beer in peace. 
+GUEST1: You've shown me so many wonders on your great ship, but there's
+still one thing you haven't shown me. 
+RIKER: What's that? 
+GUEST1: I'm still waiting to wash my feet. 
+RIKER: Right behind that door. 
+GUEST1: William, is something wrong? 
+RIKER: What do you mean? 
+GUEST1: Do you not like girls? 
+RIKER: Of course I do. Oh, is there a technique to this foot washing? 
+GUEST1: You generally start at the top and work your way down. 
+RIKER: I think I can handle that. 
+(He lets down her hair and kisses her) 
+GUEST1: I was hoping you might.
 

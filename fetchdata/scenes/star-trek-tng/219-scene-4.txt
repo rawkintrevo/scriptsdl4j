@@ -1,30 +1,6 @@
-LOCARNO BRAND CRUSHER PICARD WESLEY
+GUEST1 CRUSHER PICARD WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Academy hearing room]
-
-(The Admiral is addressing a pair of parents,
-Picard, Crusher and another Starfleet officer) 
-BRAND: There was very little left to salvage from the wreckage. We did
-recover one of the ships' data recorders, but it was badly damaged.
-We're attempting to restore the information, but that will take some
-time. Standard procedure calls for an immediate investigation by two
-command level officers. Captain Satelk and I will be taking depositions
-from Nova Squadron at fifteen hundred hours today. Commander Albert.
-I'm sure that everyone in this room joins me in expressing my deepest
-sympathies to you on the tragic loss of your son. There will be a
-memorial service for Cadet Albert this evening in the west garden. It
-has been suggested that we should cancel the graduation ceremonies in
-the light of what's happened. Commander Albert and I have discussed
-this and we've agreed that commencement should go forward as planned.
-The cadets should know that even after a tragedy like this, there are
-still duties to perform and life continues. Thank you all for coming. 
-(Picard gets up and walks over to Brand) 
-BRAND: It's good to see you again, Captain. I wish it were under better
-circumstances. 
-PICARD: This is an unhappy way to begin commencement. If you require
-any assistance, then the Enterprise is at your disposal. 
-BRAND: I'm sure we'll be able to conduct the investigation, but thank
-you for your offer. 
 [Wesley's room]
 
 (Wesley is using a resistance device to strengthen
@@ -43,30 +19,30 @@ should change your mind.
 WESLEY: Thank you sir. 
 (another knock on the door) 
 WESLEY: Hi. 
-LOCARNO: Hi. 
+GUEST1: Hi. 
 (enter Robert Duncan McNeill, who will become Tom Paris in Voyager) 
-LOCARNO: Captain, sir. 
+GUEST1: Captain, sir. 
 PICARD: At ease, Cadet. 
 WESLEY: This is my squadron leader, Nicholas Locarno. This is Captain
 Jean-Luc Picard of the Enterprise. My mother, Doctor Beverly Crusher. 
-LOCARNO: Hello, Doctor. 
+GUEST1: Hello, Doctor. 
 CRUSHER: Hello. 
-LOCARNO: Captain Picard. 
+GUEST1: Captain Picard. 
 PICARD: Mister Locarno. 
-LOCARNO: I came by to see if Wes had healed up all right. 
+GUEST1: I came by to see if Wes had healed up all right. 
 CRUSHER: And how are you feeling, Nicholas? 
-LOCARNO: I'm okay. I just never lost anyone under my command before. 
+GUEST1: I'm okay. I just never lost anyone under my command before. 
 PICARD: I'm afraid that never gets easier. 
 WESLEY: Captain, Mom, will you excuse us please? Nick and I have some
 things we need to talk about. 
 CRUSHER: Of course. Let me know if you need anything. 
 WESLEY: I will. 
 PICARD: I'll see you at the inquiry. Good to meet you, Mister Locarno. 
-LOCARNO: You too, sir. 
+GUEST1: You too, sir. 
 (Picard and Beverly leave) 
-LOCARNO: The inquiry is scheduled for fifteen hundred hours. Are you
+GUEST1: The inquiry is scheduled for fifteen hundred hours. Are you
 ready? 
 WESLEY: I think so. 
-LOCARNO: Don't worry about it, Wes. Everything's going to be all right
+GUEST1: Don't worry about it, Wes. Everything's going to be all right
 so long as we stick together.
 

@@ -1,67 +1,53 @@
-PICARD COMPUTER DATA LAFORGE CRUSHER
+PICARD GUEST3 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Laboratory]
+[Observation lounge]
 
-COMPUTER: Pattern match found. 
-CRUSHER: Specify. 
-COMPUTER: The number blocks are mathematical representations of
-fragments of deoxyribonucleic acid strands. 
-PICARD: DNA fragments? 
-CRUSHER: Each from a different lifeform from nineteen different worlds.
-
-PICARD: The planets that these fragments are from are scattered across
-the quadrant. No wonder it took the Professor so long to collect them.
-But why? 
-CRUSHER: Wait a minute. These fragments all seem to have similar
-protein configurations. They may be chemically compatible. 
-PICARD: But how can that be possible? They're different species from
-different planets. There should be no compatibility at all. 
-CRUSHER: I know, but look at the base pair combinations, they're
-uniform. If I'm right. Computer, connect the DNA fragments according to
-protein link compatibility. 
-PICARD: What is it? 
-CRUSHER: I have no idea. 
-[Engineering]
-
-LAFORGE: This is not a natural design. Captain.
-This is part of an algorithm, coded at the molecular level. 
-PICARD: An algorithm? Are you saying that these DNA fragments are
-elements in some kind of computer
-programme? 
-LAFORGE: I know how it sounds, but there's no way this could be a
-random formation. This is definitely part of a
+PICARD: I believe we all know why we're here. If we
+admit that, then we can move forward. 
+GUEST3: We were merely scouting the planet for possible colonization 
+NU'DAQ: Pah! A ridiculous story. 
+GUEST3: What were you doing here, then? 
+NU'DAQ: Scientific research. 
+GUEST3: Ha! 
+PICARD: Look, if we try to deceive one other, then we shall get
+nowhere. I think we all know about Professor Galen's research, and
+about the computer programme composed of DNA fragments. I'll take your
+silence as confirmation. Now, it stands to reason that none of us has
+the DNA fragments necessary to complete the programme. You were the
+first to arrive in this system. Do you have an organic sample from the
+planet below? 
+GUEST3: Yes. And I will fire on anyone who attempts to obtain another
+one. 
+NU'DAQ: As if we fear Cardassian threats. 
+PICARD: I believe that one of you has a fragment from Indri Eight. 
+NU'DAQ: Yes. And there will be no other samples from Indri Eight. 
+GUEST3: What is that supposed to mean? 
+PICARD: He destroyed the biosphere of the planet after he had taken the
+sample. 
+GUEST3: Typical Klingon thinking. Take what you want and destroy the
+rest. 
+PICARD: We're all missing some of the fragments, not necessarily the
+same ones. Unless we combine the ones we have, we will never learn the
+secret of the
 programme. 
-CRUSHER: This fragment has been part of every DNA strand on Earth since
-life began there, and the other fragments are just as old. Someone must
-have written this programme over four billion years ago. 
-PICARD: So, four billion years ago someone scattered this genetic
-material into the primordial soup of at least nineteen different
-planets across the galaxy? 
-DATA: The genetic information must have been incorporated into the
-earliest lifeforms on these planets, and then passed down through each
-generation. 
-CRUSHER: But why would anyone do this in the first place? 
-PICARD: And what was this programme designed to do? 
-LAFORGE: Well, we couldn't know that until we assembled the entire
-programme and then ran it. We've tried all the DNA material in the
-Federation computer, but we haven't been able to come up with any with
-compatible protein configurations. 
-PICARD: Then they must be from worlds outside the Federation. Mister
-Data, how many people on the Enterprise are from non-Federation
-planets? 
-DATA: Seventeen, sir. 
-PICARD: You know, this may be a long shot, but we should check each one
-of these seventeen people to see if they have the correct protein
-configurations. 
-CRUSHER: I'll begin collecting DNA samples now. 
-LAFORGE: You know, Captain, I've been thinking. Somebody else must know
-about this
-programme. I bet one of the missing fragments was on Indri Eight.
-That's why it was destroyed. 
-PICARD: To keep us from finding that piece of the puzzle. It's four
-billion years old. A computer
-programme from a highly advanced civilisation, and it's hidden in the
-very fabric of life itself. Whatever information this programme
-contains could be the most profound discovery of our time. Or the most
-dangerous. And the Professor knew that.
+NU'DAQ: There is no secret. It is an ancient weapon design of
+incredible power. And the Klingon Empire will not allow it to fall into
+an enemy's hands. Or even a friend's. 
+GUEST3: A weapon? The Yridian who sold us the information claimed that
+the programme
+would yield the key to an unlimited power source. 
+PICARD: But until we assemble it, we will never know its purpose. 
+GUEST3: He's right. As far as we know, it might just be a recipe for
+biscuits. 
+NU'DAQ: Biscuits? If that is what you believe, then go back to
+Cardassia. I will send you my mother's recipe. 
+GUEST3: How dare you! 
+PICARD: Myriap! Enough. Without cooperation we will get nowhere. 
+GUEST3: What do you propose? 
+PICARD: If you each bring your samples on board the Enterprise, I will
+combine them with ours. And then we will all observe the results
+simultaneously, giving no one the advantage. 
+NU'DAQ: And if we refuse? 
+PICARD: Then this endeavour dies here, in this room.
 

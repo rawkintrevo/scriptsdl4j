@@ -1,83 +1,74 @@
-TROI LAFORGE PICARD RIKER VOICES KAZAGO DATA
+RIKER LAFORGE WORF TASHA PICARD TROI BOK GUEST1 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Stargazer Bridge]
+
+BOK: I have been waiting a long nine years for
+this, Picard. 
+PICARD: I don't know what you're talking about. 
+BOK: Do you not, human? Can you not remember the crime you committed
+against my very blood? You murdered my only son. 
+PICARD: Your son? 
+BOK: He was the commander of the ship you destroyed! On his first
+voyage as DaiMon. 
+PICARD: The ship? The Ferengi ship that attacked me. Or is it about to
+attack me? 
+BOK: And I have spent these years searching, seeking a proper blood
+revenge! And I found it! I am rich, Picard, yet two of these cost me
+the profits of an entire life. You are back in command of the
+Stargazer, Picard. Its computers will answer your orders. Die well,
+Captain. 
+(Bok beams away)
+
+First officer's log. Captain Picard has beamed
+himself to the Stargazer, which is now moving away from us under its
+own power.
 
 [Bridge]
 
-RIKER: Enterprise now taking possession of
-Stargazer, Kazago. 
-KAZAGO [on viewscreen]: Permission granted, Riker. 
-RIKER: Actually it was quite a bargain, Kazago. I thought the Ferengi
-always made a profit on things. 
-(Kazago growls and ends the transmission) 
-RIKER: Set sub-warp speed for towing, LaForge. 
-LAFORGE: Aye, sir. 
-(Picard enters, in pain) 
-DATA: Starfleet has responded to our request, sir. A tug will
-rendezvous with us and tow the Stargazer back to Xendi Starbase Nine. 
-PICARD: Very well, Data. 
-RIKER: How was it, Captain? 
-PICARD: Very strange, Number One. Like going back to the house you grew
-up in, but no one's home, except the phantoms of the past. 
-TROI: It has troubled you? 
-PICARD: Not half as much as this damn headache. Take over, Number One. 
-RIKER: Aye, sir. 
-(Picard leaves) 
-RIKER: What's wrong? 
-TROI: I wish I could say.
+RIKER: Enterprise to Stargazer, please respond.
+Enterprise to Captain Picard aboard Stargazer. Please answer. Mister
+Data, what was Stargazer's condition? 
+DATA: Considerable fire damage to interior surface reported, sir. But
+none of her main systems were crippled. 
+RIKER: Armaments, Lieutenant Yar? 
+TASHA: Six photon torpedoes short, sir, probably used when the Captain
+destroyed his Ferengi attackers nine years ago. Otherwise fully armed. 
+(Geordi is examining the globe device from the chest) 
+RIKER: What do you make of it, La Forge? 
+LAFORGE: It seems to be a network of miniature circuitry, sir.
+Incredibly complex. Maybe an amplifier. 
+RIKER: Where was it in the Captain's quarters, Mister Worf? 
+WORF: His chest from the Stargazer, sir? Just where I had left it. He
+hadn't yet unpacked. 
+CRUSHER: So, he may not have even known it was there. And if this is
+able to pick up or magnify thought-altering transmissions 
+TROI: It could have prepared him for whatever is happening now. 
+RIKER: Let's find out, or try to. Contact the Ferengi vessel,
+Lieutenant. 
+TASHA: Hailing frequencies open, sir. 
+RIKER: Enterprise to Ferengi vessel, we transmit visually. Do you
+respond? 
+GUEST1 [on viewscreen]: Why is our gift to you under power, human? 
+RIKER: I will discuss that with your captain. 
+GUEST1 [on viewscreen]: He is working in our ship's laboratory. Where
+is your Captain? 
+RIKER: He's beamed himself aboard the Stargazer, and I'm wondering if
+this has something to do with it. 
+GUEST1 [on viewscreen]: How do you have possession of that? 
+RIKER: It was found in our Captain's chest, which brought over from the
+Stargazer. 
+GUEST1 [on viewscreen]: It is a forbidden device. A thought maker. If
+your Captain is criminal enough to own one 
+RIKER: Kazago, you know who controls those spheres. Now I ask you
+again, First Officer to First Officer. What's going on? 
+GUEST1 [on viewscreen]: It is not seemly to question one's own DaiMon,
+Riker. I am not prepared to do that. 
+TASHA: Sir, I have the Stargazer. 
+RIKER: Switch, now! Enterprise to Picard. 
+PICARD [on viewscreen]: Do not attack again! We are on a peaceful
+mission. Give your identity. You force us to defend ourselves. Phasers
+full up. Arm torpedoes. Why aren't the shields at full power? 
+TASHA: We've lost him, sir. 
+LAFORGE: When he put up the shields, sir.
 
-[Picard's quarters]
-
-(The trunk has been delivered. Picard goes to lie
-down on his bed) 
-VOICES [OC]: Shields weakening, Captain. Torpedoes armed. Where are
-they? Oh my god, sir! Fire! Fire!
-
-[Ready Room]
-
-RIKER: What is it, Data? Why all the mystery? 
-DATA: The records of the Stargazer, sir. What the Ferengi call the
-Battle of Maxia. It seems the Captain's personal log contains a much
-different version of that conflict than the official historic account. 
-RIKER: What are you saying? 
-DATA: It would appear that the starship which Captain Picard attacked,
-had in fact, been under a flag of truce. 
-RIKER: What? 
-DATA: And apparently, the Captain destroyed the ship without notice or
-provocation. 
-RIKER: Impossible. What about the fire aboard the Stargazer? 
-DATA: An accident in Engineering. 
-RIKER: And what proof? 
-DATA: It is logged in his own voice, sir. Would you care to hear it,
-sir? Sir?
-
-[Picard's quarters]
-
-PICARD [Stargazer log]: This is a confession given
-by me, Jean-Luc Picard commanding USS Stargazer. 
-PICARD: What does this mean? 
-RIKER: I don't know, sir. It sounds like your voice. 
-PICARD: It is, Number One. 
-RIKER: I refuse to believe you ever said that. 
-PICARD [Stargazer log]: I admit I must have mistaken their subspace
-antenna for a weapons cluster. Unfortunately, I fired our main phasers
-and our direct hit destroyed the unknown vessel. 
-RIKER: I've assumed they've simulated your voice somehow. I've already
-put Data to work on it. 
-PICARD: Thank you, Will. I never made that log entry, of course, but it
-still leaves you with a duty to perform. 
-RIKER: I know, sir, I must report it to Starfleet. That's at least one
-full day for subspace communications to reach there. 
-PICARD: And one more full day for their answer to return. I'd like the
-truth on this by then. I'd hate to have to prepare a formal defence. 
-RIKER: I can't believe they'd ask for your command. 
-PICARD: Why wouldn't they? With the Ferengi making these friendship
-overtures, I could become a severe
-embarrassment to Starfleet. 
-RIKER: I'm certain the Ferengi are behind the faked log. No wonder
-they're waiting out there. Headache back, sir? 
-PICARD: Damn! I'll call the Doctor again. 
-RIKER: It's no wonder, with all this going on. Try to relax. 
-(Riker leaves) 
-PICARD [Stargazer log] This is a confession given by me, Jean-Luc
-Picard, commanding USS Stargazer, in the hopes that my belated honesty
-will be taken into account by Starfleet when judging my actions during
-a confrontation with an unidentified vessel. 

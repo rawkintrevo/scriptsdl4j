@@ -1,47 +1,35 @@
-TROI WORF PICARD RIKER CRUSHER DATA NARIK
+GUEST2 PICARD TALLERA NARIK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Mercenary Bridge]
 
-TROI: I'm sure the health and safety inspection
-won't last much longer. And in the meantime, I'm really glad that we
-have this opportunity to get to know you. May I ask what business
-you're in? 
-(silent stare) 
-DATA: Lieutenant Worf has programmed our replicators to make a very
-good approximation of Klingon bloodwine. I believe you will find it to
-your liking. 
-(Koral pours it onto the carpet)
-
-[Shuttlebay]
-
-CRUSHER: Well, that's my third scan and I still
-haven't find anything out of the ordinary. 
-WORF: He must be hiding something. We should download his computer
-memory and analyse it. 
-CRUSHER: I'd have a hard time defending that as part of a safety
-inspection. 
-WORF: We could claim that the computer was generating abnormal
-radiation signatures. 
-CRUSHER: Worf, we're on pretty shaky ground as it is. We can't just 
-(the raiding party beams in. Riker stuns an incoming crewman) 
-PICARD: Don't! 
-RIKER: Watch that door. 
-WORF: What is going on? 
-NARIK: Shut your mouth, Klingon. 
-RIKER: I guess you're surprised to see me, Doctor. 
-CRUSHER: You could say that. 
-RIKER: I've had a change of profession. 
-PICARD: It's not in here. Hey, you, where's the artefact? 
-WORF: I do not know what you're talking about. 
-RIKER: Use your brain. They wouldn't be searching the shuttle if they
-had the artefact. Koral must have it. Where is that Klingon pilot? 
-CRUSHER: In the Observation lounge with Data and Troi. 
-NARIK: How far? 
-RIKER: Twelve decks away. 
-WORF: Security will not allow you to get that far. 
-RIKER: They won't get the chance. We'll use the transporter in that
-shuttle. We'll beam directly to the Observation lounge. Sorry about
-this. 
-(Riker shoots Worf and Crusher) 
-RIKER: Let's go.
+GUEST2: We have entered orbit of Vulcan. 
+PICARD: Tallera, I've decided on a change of plan. Take one of the
+artefacts with you. Leave the other here. As soon as we have our
+payment in full, we'll complete the delivery. 
+TALLERA: That was not the agreement. 
+PICARD: I realise that. But it's safer for all concerned to leave one
+behind. 
+TALLERA: They will not pay us until they get both pieces. 
+PICARD: They've been waiting a long time for this. They're not going to
+take any risks. Now, take one of the artefacts and beam down. 
+TALLERA: That is all I was waiting for. Go to the navigational computer
+and check file one three seven slash omega. You'll find a message
+secretly transmitted to the Enterprise, containing our entire flight
+plan. 
+GUEST2: She's right. 
+TALLERA: The message was sent by Galen. He's a Starfleet officer. 
+PICARD: Tallera is right. But what she's not telling you is that those
+artefacts she's holding are part of an incredibly powerful weapon.
+There's no reward waiting for you down on the surface. As soon as she's
+got those artefacts, she'll leave you behind to be captured by
+Starfleet. 
+GUEST2: I don't care what it is you want, Tallera. I don't care if
+that's a weapon for your personal use or if you're really just making a
+delivery as planned. All I care about is my money. So I propose a
+compromise. Narik and I will go with you to the surface to guarantee
+that we receive our payment. 
+NARIK: After that, you can go anywhere you want. 
+TALLERA: Agreed. Bring him as well. We'll use him as a hostage if
+Starfleet arrives. If not, we'll kill him on the surface.
 

@@ -1,34 +1,5 @@
-RIKER LAFORGE WORF PICARD CRUSHER DATA SUSANNA
-
-[Tarchannen]
-
-(the same location as the sensor logs. There is a
-shuttlepod from 45167 on the surface, named Cousteau. The away team
-beam in) 
-RIKER: Commander Leijten, Geordi, check out the shuttle. Data, Worf,
-you've got the perimeter. 
-SUSANNA: It's the shuttlepod Mendez stole from the Aries. 
-(Geordi checks the pod's systems while Suzanna wanders around. She
-finds some three-toed tracks and follows them) 
-DATA: No life signs, Commander. 
-WORF: Sir, I am certain we are being watched. 
-LAFORGE: Commander Riker. Found it in the shuttle. (a uniform) Where's
-Commander Leijten? 
-RIKER: Riker to Susanna, report. Fan out. Let's find her. 
-LAFORGE: Susanna! La Forge to Leijten. 
-SUSANNA [OC]: Over here. 
-(in among the bushes) 
-LAFORGE: Where have you been? 
-SUSANNA: Mendez and Brevelle are alive. You saw the footprints? 
-LAFORGE: Yeah, but they're not human. 
-SUSANNA: They're here. Just stand still and listen. You can feel it.
-They're here. 
-LAFORGE: I'm not picking up anything. Wait a minute. Where are you
-going? Susanna? 
-SUSANNA: Stay away. 
-LAFORGE: Suz? 
-(He grabs her, she struggles) 
-LAFORGE: La Forge to Enterprise, medical emergency. Two to Sickbay.
+PICARD CRUSHER LAFORGE SUSANNA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 

@@ -1,53 +1,34 @@
-RIKER CRUSHER ARMSTRONG SALAZAR HELM TAITT
+PICARD TROI DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Planet surface]
+[Holding cell]
 
-RIKER: Armstrong, you and the others prepare to
-beam up. 
-ARMSTRONG: Aye, sir. 
-RIKER: Beverly, Worf and I will stay here and look for 
-[Bridge]
+TROI: Help me! 
+(a Borg comes to see Picard lying on the floor) 
+TROI: He tried to escape. The force field sent him into neural shock.
+If he dies, Lore will blame you. 
+(the innocent Borg takes down the force field and enters. He leans over
+Picard and gets one of his tubes pulled out, rendering him unconscious)
 
-RIKER [OC]: The Captain's team. 
-CRUSHER: I'm not going to leave you down there. 
-[Planet surface]
-
-RIKER: You pull as many people off the surface as
-you can and get back to the transwarp conduit. The Captain's orders
-were to get the Enterprise back to Federation space. 
-[Bridge]
-
-CRUSHER: Acknowledged. 
-RIKER [OC]: Riker out. 
-CRUSHER: Prepare to leave orbit. 
-TAITT: Sir, the Borg ship is powering up its forward weapons array.
-They'll be in firing range in, in twenty seconds. 
-CRUSHER: Salazar, how many people do we still have down there? 
-SALAZAR [OC]: Seventy three, sir. 
-CRUSHER: Put the Borg ship onscreen. 
-TAITT: Should I raise shields, sir? 
-CRUSHER: Not yet. I want to keep bringing people up until the last
-possible second. 
-TAITT: Ten seconds. 
-CRUSHER: Stand by to raise shields and break orbit on my mark. 
-TAITT: Five seconds. 
-CRUSHER: Mark. 
-(an energy bolt hits) 
-TAITT: Shields down to seventy percent. 
-CRUSHER: Establish a frequency shift firing pattern and return fire. 
-TAITT: Er, right. 
-(two torpedoes are fired) 
-TAITT: Direct hit, no damage. 
-CRUSHER: Helm, set course for the conduit, maximum warp. 
-HELM: Aye, sir. 
-TAITT: Sir, the Borg aren't following us. 
-CRUSHER: Salazar 
-[Transporter room]
-
-CRUSHER [OC]: How many people did we leave behind? 
-SALAZAR: Forty seven, sir.
-
-[Bridge]
-
-CRUSHER: Another minute and we would have had them.
-
+PICARD: See if the corridor is empty. 
+(but Data is bringing Geordi back) 
+DATA: Drop it or I will break his neck. 
+(Troi drops the Borg hand weapon and helps guide Geordi into the cell) 
+DATA: Take him. 
+(Borg remove their fallen comrade) 
+PICARD: What have you done to him? 
+DATA: I will be back for him later. 
+(Data leaves) 
+TROI: Geordi, are you in pain? 
+LAFORGE: No. I'm just a little dizzy. 
+PICARD: I was able to take part of a transceiver from the guard's
+interlink system. I think that it uses some kind of phased-pulse
+technology. Do you think it could be modified to generate a kedion
+pulse that would reboot Data's
+programme? 
+LAFORGE: Yeah, yeah, it's possible. See if you can locate the phase
+modulation circuitry. 
+TROI: I'll watch the door. 
+PICARD: All right, I think I've found it. 
+LAFORGE: Okay, good. Now, do you see anything that we might be able to
+use as a flux inhibitor? 

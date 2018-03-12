@@ -1,79 +1,65 @@
-LAFORGE WORF KURAK REYGA CHRISTOPHER CRUSHER DATA TPAN
+OGAWA CRUSHER GUEST0 GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Morgue]
 
-CRUSHER [OC]: And I wasn't alone. Jo'Bril's death
-had raised a lot of questions. Geordi and Data were determined to find
-out what had gone wrong, and they were busy going over every millimetre
-of the shuttle, with Doctor Reyga's help. 
-(Shuttlecraft Justman is getting a thorough going-over) 
-REYGA: Run another diagnostic on the EPS flow regulator. 
-DATA: The flow regulator is functioning properly. 
-REYGA: What about the field emitter coil? Has it maintained polarity? 
-DATA: Yes, Doctor. 
-REYGA: The radial force compensator? 
-DATA: I am unable to locate any malfunction. All systems are operating
-according to your design specifications. 
-[Shuttlebay]
+OGAWA: I don't understand, Doctor. Isn't it pretty
+clear that Reyga died from a plasma discharge? 
+CRUSHER: It's won't be clear until after an autopsy. As far as I know,
+he could have been poisoned and someone put the plasma infuser in his
+hand after he died. 
+OGAWA: You think he was murdered? 
+CRUSHER: I'm not discounting that possibility. The point is, without a
+complete autopsy, there's no way of knowing for certain. 
+OGAWA: Why won't the Ferengi allow it? 
+CRUSHER: It has to do with their death rituals. The body can't be
+violated before it's buried. Apparently the family is more concerned
+about ritual than finding out the truth about how he died. I just can't
+get the information I need from a tricorder scan. Suspects. If Reyga
+didn't kill himself. someone else did. So who are the possible
+suspects? 
+OGAWA: Whoever had something to gain from his death. 
+CRUSHER: And the only ones to fit that category are the other
+scientists.
 
-CRUSHER: Did you find anything wrong? 
-REYGA: No. I don't understand it. There must be something we've
-overlooked. 
-LAFORGE: I found micro-crystalline damage to the hull, which confirms
-that your shield was breached by a burst of baryonic radiation. 
-CRUSHER: Were the levels high enough to cause damage to organic tissue?
+[Christopher's quarters]
 
-LAFORGE: I don't know. 
-DATA: Perhaps there was an unexpected interaction between the solar
-radiation and the metaphasic shield. 
-REYGA: No, that's not possible. I anticipated every contingency. 
-LAFORGE: Then maybe Jo'Bril ran into something in the corona which you
-didn't anticipate, and your shield just wasn't able to protect him from
-it. 
-REYGA: My shield was not at fault. CRUSHER [OC]: Reyga seemed angry,
-but I knew it was because he was so disappointed. Everything he'd
-worked for, hoped for, was slipping away.
+GUEST0: I'm afraid I don't understand, Doctor.
+Do you have evidence that Reyga was murdered? 
+CRUSHER: No, but I can't believe he took his own life and I would like
+to explore any possibilities a bit further. 
+T'PAN: What reason would anyone have to kill him? 
+CRUSHER: I was wondering if you might have any thoughts along that
+line. 
+T'PAN: I see. You are suggesting that I had such a motive. 
+CRUSHER: If Reyga's technology had been successful, you might have been
+displaced as the preeminent scientist in subspace technology. 
+T'PAN: But since it wasn't successful, it is illogical to conclude that
+I had such a motive, isn't it. 
+GUEST0: I must say I resent this, Doctor. We've all been shocked
+by recent events. I don't see that there's anything to gain by dragging
+us through these insinuations. 
+CRUSHER: I'm just trying to uncover the truth, and I need your help to
+do it. Have you seen or heard anything that might suggest that someone
+else had a motive? 
+GUEST0: We are trying to forget the unpleasantness of these last
+several days, not have them stirred up again. I find it disturbing that
+you would try to foster suspicions among us. 
+CRUSHER: Forgive me, I don't mean to upset you, but have you noticed
+anything unusual? 
+GUEST0: I find your question distasteful. 
+CRUSHER: Is there something you're not telling me? 
+GUEST0: I'm sure it's nothing. I was in the storage room of the
+science laboratory yesterday. Kurak was working in the lab. Reyga came
+in and they got into, well, an argument. 
+CRUSHER: About what? 
+GUEST0: I don't know. I couldn't hear clearly until they started
+to shout at one other. Then I heard Kurak say that Reyga had insulted
+her honour, and no Klingon would stand for that. I do not believe she
+killed him. These were words spoken in the heat of anger. Kurak is
+volatile, passionate, but not a killer. And, Doctor, neither are we. 
+CRUSHER: Thank you. 
+CRUSHER [OC]: I knew he might be right about Kurak. Klingons make
+threats as a matter of course. On the other hand, sometimes they follow
+through.
 
- [Science lab]
-
-CRUSHER [OC]: And that made what I had to do next
-even harder. 
-CRUSHER: I'm sure you all understand that in light of what happened, I
-think it would be inappropriate to continue further testing. Perhaps if
-Doctor Reyga has perfected his metaphasic technology, we can try again.
-
-REYGA: Doctor Crusher, please, if I could have a little more time to
-investigate I know I could find what went wrong. 
-CHRISTOPHER: But that won't bring back Jo'Bril, will it? 
-T'PAN: I do not believe the shield will ever work. Its very concept is
-flawed. 
-REYGA: Just one more test. 
-KURAK: Whom do you propose we sacrifice next? 
-REYGA: I will pilot the shuttle myself. 
-CRUSHER: I'm sorry. As Chief Medical Officer I'm responsible for the
-health and safety of all the people aboard. I will not authorise any
-further tests. 
-REYGA: Very well. But I will prove myself. 
-CRUSHER [OC]: I couldn't help but admire his tenacity. He just wasn't
-going to accept defeat. And I hoped he would prove himself. But that
-was the last time I saw him alive.
-(later, Reyga is lying flat out on the floor. Security are present) 
-CRUSHER [OC]: We'd gone to Science Lab four when the ship's sensors
-registered a sizable plasma surge there. 
-CRUSHER: Look at this. A plasma infuser. It's completely discharged.
-The blast must have killed him instantly. 
-WORF: Perhaps he could not live with the failure of his invention and
-took his own life. 
-CRUSHER: Or perhaps someone just wanted it to look that way. Isn't it
-odd that he could hold on so tightly to the infuser when it was
-discharged. The normal reflex would have been to drop it. 
-WORF: The plasma shock could have affected his nervous system. He may
-have reacted by gripping tighter. 
-CRUSHER: I'll know for certain when I do the autopsy. 
-WORF: Is your examination complete, Doctor? 
-CRUSHER: For now. Please have his body taken to the morgue. 
-WORF: Very well. 
-CRUSHER [OC]: I remembered his passion and commitment, and his
-determination to prove himself, and I was sure that this man had not
-taken his own life. If anyone could understand that, I knew it would be
-Captain Picard. 

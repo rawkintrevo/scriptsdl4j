@@ -1,89 +1,62 @@
-OGAWA CRUSHER OBRIEN LAFORGE BARCLAY
-
-[Transporter room]
-
-O'BRIEN: You see, sir? That wasn't so bad, was it.
+CRUSHER DATA LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-LAFORGE: Mission logs, science logs, medical logs,
-they're all scrambled. Looks like the blast wiped out the ship's core
-memory. 
-BARCLAY: We could try to reconstitute the data stream. 
-LAFORGE: It's worth a try. 
-BARCLAY: Commander, has anything strange ever happened to you during
-transport? 
-LAFORGE: Like what? 
-BARCLAY: I don't know. Anything out of the ordinary. 
-LAFORGE: No, not really. This looks hopeless. We're not going to get
-anything out of these logs. You know, maybe this broken sample
-container I found can tell us something. Let's try to get this thing
-back into one piece. 
-BARCLAY: I mean, have you ever seen anything? 
-LAFORGE: Where? 
-BARCLAY: In the, during transport. 
-LAFORGE: Sometimes my visor picks up resonance patterns from the matter
-energy conversion. It's actually kind of pretty. Why? 
-BARCLAY: Just wondering. 
-LAFORGE: Reg, what are you getting at? Did you saw something during
-transport? 
-BARCLAY: When I was returning to the Enterprise I could've sworn I saw
-something in the matter stream. 
-LAFORGE: Something? 
-BARCLAY: There was phased matter all around. At first I thought it was
-some kind of energy discharge, but then it flew toward me and it
-touched my arm. How could something be in there? Molecules flying
-apart, half phased? I mean, it's impossible, isn't it? 
-LAFORGE: We'd better check it out. When we're done here, we'll run a
-full diagnostic on the transporter, all right? 
-BARCLAY: All right.
-
-[Transporter room]
-
-O'BRIEN: The confinement beam subsystems check out.
-So do the phase transition coils. 
-LAFORGE: The pattern buffer is fine. 
-O'BRIEN: Emitter pads, targeting scanners, they're all working fine.
-This system's clean. So is the science vessel's. 
-LAFORGE: Reg, there's a lot of energy floating around in the beam.
-Maybe you saw a surge in the matter stream. 
-BARCLAY: Yeah. 
-O'BRIEN: I'll run a scan on the Heisenberg compensators. 
-BARCLAY: No, Chief, you've done enough already. 
-O'BRIEN: It's no problem. Why don't you give me a hand? 
-BARCLAY: You know, maybe ignorance really is bliss. 
-O'BRIEN: Sir? 
-BARCLAY: Well, if I didn't know so much about these things, maybe they
-wouldn't scare me so much. I can still remember the day in Doctor
-Olafson's Transporter Theory class when he was talking about the body
-being converted into billions of kiloquads of data, zipping through
-subspace, and I realised there's no margin for error. One atom out of
-place and poof! You never come back. It's amazing people aren't lost
-all the time. 
-O'BRIEN: With all due respect, sir, I've been doing this for twenty two
-years and I haven't lost anybody yet. 
-BARCLAY: Yes, but you realise if these imaging scanners are off even a
-thousandth of a percent. 
-O'BRIEN: That's why each pad has four redundant scanners. If any one
-scanner fails, the other three take over. 
-LAFORGE: Reg, how many transporter accidents have there been in the
-last ten years? Two? Three? There are millions of people who transport
-safely every day without a problem. 
-BARCLAY: I've heard of problems. What about transporter psychosis? 
-O'BRIEN: Transporter Psychosis? There hasn't been a case of that in
-over fifty years. Not since they perfected the multiplex pattern
-buffers. 
-LAFORGE: Reg, transporting really is the safest way to travel.
+DATA: Structural reinforcement is at two hundred
+forty percent. 
+(a sample container is sitting on a table in the middle of the floor) 
+LAFORGE: Activating containment field. Well, that should do it. Okay,
+Reg. We've locked onto the coordinates of the plasma streamer. Go ahead
+and beam aboard a sample, will you? 
+BARCLAY: Aye, sir. 
+(the container fills with pink) 
+LAFORGE: Okay. What would they have done first? 
+DATA: A standard analysis begins with a resonance frequency scan. 
+LAFORGE: That sounds like a good place to start. Let's get it done. 
+DATA: Initiating resonance sweep. Frequency range at three 
+(the container blows apart) 
+LAFORGE: Barclay, check the containment field. 
+BARCLAY: The field is at its maximum limit, but it is holding. 
+LAFORGE: My visor's picking up bio-magnetic energy. Highly complex
+patterns. You know, I think these things are alive. Reg. 
+(Barclay has passed out) 
+LAFORGE: Reg? (Barclay has a lot of purple skin now) Reg.
 
 [Sickbay]
 
-(the autopsy is underway) 
-CRUSHER: I'd like to take a closer look at those burns. Take a tissue
-sample, please. 
-OGAWA: Yes, Doctor. 
-CRUSHER: Damage to the epidermis only. Initiate a circulatory probe. 
-OGAWA: Doctor Crusher! 
-CRUSHER: His heart's beating! Cardio-stimulator. Now. It's gone. 
-OGAWA: Neuro-electrical activity in the cerebral cortex. Nothing. 
-CRUSHER: Now the respiratory system's active. What the hell is going
-on? 
+BARCLAY: Life forms? 
+DATA: That is correct. They appear to be quasi-energy microbes that
+exist within the distortion field of the plasma streamer. 
+LAFORGE: We didn't detect them until we tried to run the resonance
+frequency scan. Apparently, they didn't like it very much. They
+shattered the sample container. 
+BARCLAY: Which caused a plasma explosion similar to the one on the
+science ship. 
+LAFORGE: Exactly. When we linked up with their transporter system, one
+or more of the microbes must have got into our system. We think they're
+still caught in the buffer. It might explain what you saw. 
+BARCLAY: But what I saw was much bigger than a microbe. 
+DATA: Normal spatial relationships are often distorted within the
+matter stream. Your perceptions may have been exaggerated. 
+CRUSHER: Some of these microbes are also in your body, Reg. 
+BARCLAY: Inside me? 
+CRUSHER: They were in Lieutenant Kelly's body as well. That's what
+caused the contractions during the autopsy. 
+LAFORGE: The biofilter should have screened them out but it didn't. 
+DATA: The microbes exist simultaneously as both matter and energy. The
+biofilter cannot distinguish them from the matter stream. 
+LAFORGE: Right, but if we held Barclay suspended in mid-transport at
+the point where matter starts to lose molecular cohesion. 
+DATA: The molecules would begin to emit nucleonic particles. We may be
+able to derive a pattern the computer would recognise. 
+LAFORGE: And then reprogram the biofilters to screen the microbes out.
+I think this'll work, Reg. 
+BARCLAY: Suspend me? I don't like the sound of this. 
+LAFORGE: We'd have to hold you in there for a while. 
+BARCLAY: How long? 
+LAFORGE: Thirty, forty seconds. It's tough to tell. But I think it'd be
+safe. 
+BARCLAY: But if I'm in the matter stream too long. 
+DATA: Your pattern would degrade to the point where your signal would
+be permanently lost. 

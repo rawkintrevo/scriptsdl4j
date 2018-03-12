@@ -1,61 +1,45 @@
-RIKER LAFORGE WORF PICARD SETAL DATA
+LAFORGE WORF PICARD COMPUTER GUEST4 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Ready room]
+
+COMPUTER: At Starfleet Command on Lya Three. 
+PICARD: Computer, key access four one two mark eight zero. Picard,
+Jean-Luc. Starfleet priority code Gamma. Decode. Begin message. 
+GUEST4 [on monitor]: Captain, we have received an official protest from
+the Romulan Empire demanding the return of your defector. Obviously, we
+are refusing to comply. I join in your scepticism, but if it is a
+deception, the Romulans are certainly making a good show of it. The
+Federation Council has convened in emergency session. There is no doubt
+in my mind that this will eventually fall on your shoulders, Jean-Luc.
+You've got him. You must decide if he's telling the truth. For now, I
+suggest you proceed along the Neutral Zone border toward a Federation
+position proximate to Nelvana Three. 
+PICARD: Picard to Lieutenant Worf. 
+WORF [OC]: Yes, Captain. 
+PICARD: Please come to my Ready room. 
+WORF [OC]: Aye, sir. On my way.
 
 [Bridge]
 
-RIKER: Outpost Sierra Six confirms our readings,
-sir. They identify it as a Romulan scout ship. Bearing two seven zero
-mark one four. 
-PICARD: A scout ship? What would a scout ship be doing this far into
-the Neutral Zone? 
-WORF: Captain. Shall we transmit a warning to withdraw, sir? 
-PICARD: Open a hailing frequency. 
-WORF: Aye, sir. Captain, the Romulan is hailing us. 
-PICARD; Visual. 
-WORF: Not within range yet. 
-PICARD: Open a channel. 
-SETAL [OC]: Federation ship, do you read? I require urgent assistance. 
-PICARD: This is Captain Jean-Luc Picard of the USS 
-SETAL [OC]: Federation ship. Please, help me. Requesting asylum. Under
-pursuit. 
-RIKER: Pursuit? 
-WORF: Visual range. On screen, Captain. 
-(A big mean warbird decloaks behind the little green ship, and opens
-fire) 
-PICARD: Red Alert. Open a channel to the warship. 
-RIKER: Come to intercept course. Keep us out of the Neutral Zone. 
-WORF: Channel is open. 
-RIKER: how long before they cross over into Federation territory? 
-DATA: Forty-one seconds, sir. 
-PICARD: Romulan warbird, this is Captain Jean-Luc Picard of the
-Federation vessel Enterprise. You have crossed into the Neutral Zone
-and are engaged in hostile action. Explain yourself and your intent. 
-WORF: No reply, sir. 
-PICARD: Hail the scout. 
-WORF: Responding. 
-PICARD: On screen. 
-SETAL [on viewscreen]: Federation craft. Please, you must help me! 
-PICARD: We are moving to intercept. Maintain your course and power. 
-(The picture breaks up. The little ship has been hit) 
-DATA: Scout ship is severely damaged, Captain. Engines inoperative,
-shields are down. 
-RIKER: Position? 
-DATA: Coordinates one four zero by two zero five, sir. 
-RIKER: Federation space. 
-PICARD: Right. Move to within five kilometres. Mister La Forge, prepare
-to extend 
-[Engineering]
+LAFORGE: Slow playback. Display engine logs and
+power data of both vessels. Now watch what happens at zero nine five
+four three three on the clock. The scout has sustained engine damage,
+forcing him to slow to point six one five impulse power. The warship
+should overtake him, but it doesn't. Now, just two point six seconds
+later, the warbird slows to precisely the same speed. Three times,
+three speed fluctuations. The warship kept its distance every time. I
+don't think they wanted to catch up. 
+CRUSHER: And yet they fired at the scout ship. They could have killed
+him. 
+DATA: Not necessarily, Doctor. The Romulans have the same capability to
+direct the impact of their weapons as we do. 
+PICARD: Is there a possibility the wound could be self-inflicted? 
+CRUSHER: They're very bad burns. I hardly think 
+PICARD: A possibility. 
+(She nods) 
+Captain's log, Stardate 43463.7. We're holding a
+position at the Neutral Zone border proximate to Nelvana Three. If our
+guest is telling the truth, there are twenty one hours left before the
+Romulan base becomes functional.
 
-PICARD [OC]: Our shields around the Romulan scout
-ship. 
-LAFORGE: At that range, the shields won't be able to take much
-punishment, Captain. 
-[Bridge]
-
-DATA: Five kilometres, sir. 
-RIKER: All stop. 
-PICARD: Extend shields. 
-LAFORGE [OC]: Shields in place.
-
-[Engineering]
-
-LAFORGE: We've got the scout ship, Captain. 

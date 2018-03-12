@@ -1,72 +1,35 @@
-KURN WORF DURAS PICARD KMPEC COMPUTER
-
-[Ten Forward]
-
-KURN: We arrive within the hour. 
-WORF: Yes. 
-KURN: The Council will receive you at high sun in the Great Hall of 
-WORF: I know the procedure for the challenge. 
-KURN: You'll need a cha'DIch to defend you. While you are accused, you
-will not be allowed combat. I would be honoured if you chose me. 
-WORF: I ask you to stand with me, to be my cha'DIch. 
-KURN: jIlajneS. ghIj qet jaghmeyjaj. The two sons of Mogh. Together, we
-will restore the family honour. 
-WORF: No. For the proceeding, you will not reveal your true father. 
-KURN: I must. 
-WORF: You will not. 
-KURN: Because it would mean my death as well if you fail? A Klingon's
-honour means more to him than his life. Perhaps your human values have
-clouded your judgment. I insist. 
-WORF: On this ship, you are my commander, and I obey. In Council
-chamber, you are my cha'DIch. You do not insist. You obey. 
-KURN: Yes, brother.
+RIKER WORF DURAS PICARD GUEST1 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Great Hall]
 
-(Everything is done by shouting here) 
-WORF: I am Worf, son of Mogh. I have come to challenge the lies that
-have been spoken of my father. 
-K'MPEC: Worf, son of Mogh, you have challenged the judgment of the
-council. Are you prepared to answer for this if you fail? 
-WORF: Yes. With my life. 
-K'MPEC: Why do you come before us, Commander? 
-KURN: I am Kurn, son of Lorgh. I will stand by Worf's side. I am
-cha'DIch. 
-(He is handed a ceremonial something) 
-DURAS: You claim a birthright you have forsaken? 
-WORF: I have not forsaken my heritage. I am Klingon. My heart is of
-this world. My blood is as yours. 
-DURAS: Yet you come to us wearing a child's uniform, and you bring
-outsiders to our Great Hall. 
-PICARD: I am here at my own request. I am Captain Jean-Luc Picard of
-the Enterprise. 
-DURAS: Your words mean nothing here. 
-K'MPEC: Duras, let him speak. 
-PICARD: Lieutenant Worf has served under my command with distinction.
-He has earned my admiration and my respect. It is my greatest wish that
-this Council, in its wisdom, will clear his family name and return him
-to duty. 
-K'MPEC: The trust of a commanding officer is admirable. The council has
-noted it. Speak the accusation. 
-DURAS: For many turns, the truth about Khitomer has lain dormant.
-Unknown. Now the truth has been revealed. The traitor Mogh sent the
-defence access codes to the Romulan patrol ships, allowing them to
-destroy the outpost. Thousands died on Khitomer. My father died on
-Khitomer. Their deaths must be avenged. Your father was a traitor. By
-posing this challenge, you are a traitor. 
-(Duras tears off Worf's baldric) 
-DURAS: You will not wear the emblems of our people. You are a fool and
-your challenge can only result in a fool's death. 
-WORF: It is a good day to die, Duras, and the day is not yet over. 
-K'MPEC: The council stands in recess. We will return for the Mek'ba,
-when the evidence will be presented. Qapla' 
+WORF: My challenge will proceed. No threats, no
+treachery will stop it. Not even a trap set for my cha'DIch by a
+coward. 
+K'MPEC: Duras! 
+DURAS: I will not hear lies from the son of a traitor. 
+(Picard steps between Worf and Duras) 
+DURAS: Keep your place, Picard! 
+PICARD: This is my place. 
+WORF: He is now my cha'DIch. 
+DURAS: This is not your world, human. You do not command here. 
+PICARD: I'm not here to command. 
+DURAS: Then you must be ready to fight. Something that Starfleet
+doesn't teach you. 
+PICARD: You may test that assumption at your convenience. 
+(He is handed the ceremonial baton or whatever it is) 
 [Bridge]
 
-PICARD: Mister Data, find out everything you can
-about the destruction of the Khitomer outpost. Cross reference with
-Romulan tactics and strategic information on the region, and request
-access to the Klingon central information net. Computer, presentation
-overview of Klingon custom and law pertaining to familial
-accountability. 
-COMPUTER: Accessing. 
-PICARD: In my ready room. 
+CRUSHER: I've got something. Worf was not the only
+survivor of the Khitomer massacre. 
+RIKER: Another child? 
+CRUSHER: No. A Klingon woman was found with Worf. 
+(She calls up the record on a monitor) 
+RIKER: Kahlest. Who was she? 
+CRUSHER: I don't know, but the report said she was severely injured,
+was transferred to Starbase twenty four for treatment. That was when
+she was separated from Worf. And after her recovery, she returned home.
+
+RIKER: We've got to find her, if she's still alive. Data, scan the
+Klingon central net. See if there's any record of her.
+

@@ -1,71 +1,51 @@
-TASHA PICARD TROI OBRIEN WORF
+TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Past Shuttlebay]
+[Doctor's office]
 
-TASHA: Commanding officer Enterprise arriving. 
-(Picard is piped aboard. Troi is back in her mini-uniform but not the
-bun.) 
-PICARD: To Captain Jean-Luc Picard, stardate 41148 
-(three people jeering from the upper level) 
-PICARD: You are hereby requested and required to take command 
-(four of them behind him) 
-PICARD: to take command of the USS Enterprise as of this date. Signed
-Rear Admiral Norah Satie, Starfleet Command. 
-(just as he goes to shake Troi's hand, he sees more) 
-PICARD: Red Alert! All crew to battle stations. 
-(Guy Vardeman, Colm Meaney and the others hesitate) 
-TASHA: You heard him. Move! 
-Personal log, stardate 41153.7. Recorded under
-security lockout Omega three two seven. I have decided not to inform
-this crew of my experiences. If it's true that I've travelled to the
-past, I cannot risk giving them foreknowledge of what's to come. 
-[Past - Observation lounge]
+PICARD: It happened again. 
+CRUSHER: A time shift? 
+PICARD: Yes. 
+RIKER: What happened? 
+PICARD: It's still a little vague, but I can remember more this time.
+It seems that every time I shift periods, I can retain more memory. At
+first, it appeared that I was in the future, years from now, and then I
+was in the past just before our first mission. 
+RIKER: What is it? 
+CRUSHER: I just scanned his temporal lobe and compared it to the scan I
+performed just a few minutes before. There's a thirteen percent
+increase in the acetylcholine of the hippocampus. Within a matter of
+minutes, you have accumulated over two days worth of memories.
 
-PICARD: Report. 
-TASHA: We've completed a full subspace scan of the ship and surrounding
-space. We've detected no unusual readings or anomalies. 
-WORF: With all due respect, sir, it would be helpful if we knew exactly
-what we were looking for. 
-PICARD: Noted. Counsellor, do you sense anything unusual on board the
-Enterprise? Perhaps an alien presence that doesn't
-belong here, maybe one operating on a level of intelligence far
-superior to our own? 
-TROI: No, sir. I'm only aware of the crew and the families on board the
-ship. 
-PICARD: Mister Worf, initiate a level two security alert on all decks
-until further notice. 
-TASHA: With all due respect, sir, I'm the Security Chief on this ship.
-Unless you're planning to make a change. 
-PICARD: No, of course not. Lieutenant, security alert two. 
-TASHA: Aye, sir. 
-O'BRIEN [OC]: Captain Picard to the Bridge, please. 
-PICARD: We're on our way, Chief.
+[Observation lounge]
 
-[Past - Bridge]
-
-O'BRIEN: Sir, Starfleet has just issued an alert.
-It appears a number of vessels are moving toward the Neutral Zone
-between Romulan and Federation space. 
-TASHA: What kind of vessels? 
-O'BRIEN: Freighters, transports, all civilians. None of them Starfleet
-ships. 
-PICARD: This tells me that a large spatial anomaly has appeared in the
-Neutral Zone, in the Devron System. 
-WORF: Captain, it could be a Romulan trick to lure our ships into the
-Neutral Zone as an excuse for a military strike. 
-O'BRIEN: Starfleet's cancelling our mission to Farpoint Station and
-ordering us to the Neutral Zone as soon as we leave the Spacedock. 
-PICARD: No, we'll proceed to Farpoint. 
-TASHA: Sir? 
-PICARD: You heard me. 
-WORF: Captain, the security of the Federation could be at stake. 
-PICARD: Mister Worf, will you man your station. 
-WORF: Aye, sir. 
-TROI: Captain, perhaps if we understood your thinking, if you could
-explain 
-PICARD: I've no intention of explaining to anyone. We will proceed with
-our mission to Farpoint as planned. Chief O'Brien, am I right in
-thinking that you're having a problem with the warp plasma inducers. 
-O'BRIEN: That's right, sir. 
-PICARD: Well I know how to get them back online. You're with me. We'll
-be in main Engineering. 
+PICARD: Counsellor, do you remember when I first
+came on board the Enterprise? 
+TROI: Yes. 
+PICARD: What happened after the welcoming ceremony? 
+TROI: There was a reception in Ten Forward. I introduced you to Worf
+and the other senior officers. 
+PICARD: Do you have any memory of my calling Red Alert in Spacedock? Do
+you remember Starfleet diverting us from Farpoint to the Neutral Zone
+to investigate a spatial anomaly? 
+TROI: No. 
+DATA: It would appear there is a discontinuity between the time periods
+you described. Events in one time period would seem to have no effect
+on the other two. 
+RIKER: And yet in both the past and the present there's a report of the
+same anomaly in the Devron System. I find it hard to believe that
+that's a coincidence. 
+PICARD: For all I know, I may find the same thing in the future. 
+LAFORGE: Perhaps the anomaly is a temporal disturbance of some kind. 
+CRUSHER: How is all this related to your time shifting? 
+PICARD: These are all very important questions, and perhaps I will find
+answers to them in the past, but now we have a potentially dangerous
+threat from the Romulans. I want all departments to present a battle
+readiness report to me at oh eight hundred hours tomorrow morning.
+Dismissed. 
+RIKER: Deanna, it's going to be a late night. Would you like to have
+some dinner first? 
+TROI: Actually I, we have plans. 
+RIKER: Oh. I see. I'm sorry. I'll see you in the morning. 
+WORF: Goodnight, sir. 
+RIKER: Worf. 

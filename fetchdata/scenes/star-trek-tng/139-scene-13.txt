@@ -1,61 +1,32 @@
-RIKER LAFORGE WORF PICARD PULASKI DATA
+TROI LAFORGE WORF PICARD RIKER PULASKI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-RIKER: Resume course and speed. Scanners at maximum
-range. 
-WORF: Maximum range.
-
-[Shuttlebay two]
-
-LAFORGE: There you go. You should have power now. 
-(Data touches a panel, and sparks fly) 
-LAFORGE: What happened? 
-DATA: The polarity is not compatible. 
-LAFORGE: That's not possible. The connection's idiot proof. 
-DATA: The power requirements of the shuttle do not match those of the
-Enterprise. We will need a variable phase inverter, to align the power
-from the Enterprise to the circuits of the shuttle. 
-LAFORGE: Data, what do you think is going on here? I don't mean just
-with the shuttle, I mean everything. 
-DATA: I do not have enough information. 
 [Sickbay]
 
-(The second Picard is on a bed. Kate is walking
-around with a medical tricorder when Picard and Troi enter) 
-PULASKI: I'm just starting a complete medical work-up. His vital signs
-are distorted. Some of the indicators are totally depressed, others are
-fluctuating wildly. I can't explain any of it. But he is alive. The
-restraints are for his own protection. 
-PICARD: Have you been able to determine why he's still unconscious? 
-PULASKI: No. but I have been able to rule out any head injury. 
-PICARD: Wake him. 
-(Pulaski gives him a hypo, and the readings on the wall plummet into
-the red. She rushes for another hypo, and the signs recover) 
-PICARD: What happened? 
-PULASKI: Apparently, the normal stimulant had the opposite effect. I'll
-have to try something else.
+PULASKI: Just surrounded my patient. 
+PICARD [OC]: Is he still alive? 
+PULASKI: Yes 
+[Bridge]
 
-[Shuttlebay two]
+RIKER: Arm the photons, Mister Worf. Lock on the
+centre of the vortex. 
+WORF: Photon torpedoes locked on target. 
+PICARD: Hold for my order. 
+(Picard gets zapped again and thrown against a bulkhead) 
+RIKER: Like a rag in a dog's mouth. 
+LAFORGE: I am now at maximum warp. 
+TROI: It's you, Captain. It was the entire ship, but now it has focused
+its attention entirely on you. 
+LAFORGE: Captain, I can't hold it any longer. If we don't shut down
+right now, we are going 
+PICARD: Hold this position. Counsellor, if I were to leave the
+Enterprise, would its attention still be focused on me? 
+TROI: Yes. I think it would. 
+RIKER: You'd never survive. 
+PICARD: But in those few seconds, the Enterprise might break free.
+That's what he, that's what the other Picard must have thought. 
+RIKER: Captain, where are you going? 
+PICARD: You have the Bridge, Number One. 
+RIKER: You're leaving the ship? 
+PICARD: We may be on a road that has no turns.
 
-LAFORGE: All right, Data. I think I've got it now.
-That ought to give you something. Making this power adjustment is very
-tricky. By all rights, this connection should blow all the shuttle's
-circuits. 
-DATA: Perhaps you had better step out of the way. 
-LAFORGE: All right, but remember, you're not indestructible yourself,
-you know. 
-DATA: Increase the power. 
-LAFORGE: Powering up. 
-DATA: Adjust the invert two percent positive. 
-LAFORGE: Two percent positive. It's the right decision, but it's having
-the opposite effect. 
-DATA: Yes. 
-LAFORGE: I don't understand. I can't think of anything that would cause
-the circuit to change so radically. 
-DATA: Adjust the invert two percent negative. 
-LAFORGE: Okay. Two percent negative. That's it. It shouldn't work, but
-it does. Hey, Data. Take a look at the stardate. 42679.5. Captain. 
-PICARD [OC]: Go ahead. 
-LAFORGE: Captain, we've been able to reactivate the shuttle, and the
-on-board clock indicates that the shuttle is 

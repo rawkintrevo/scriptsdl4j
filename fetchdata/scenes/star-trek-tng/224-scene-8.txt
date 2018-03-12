@@ -1,40 +1,43 @@
-PICARD RIKER BROSSMER DATA
+PICARD RIKER RO LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
-
-BROSSMER: Aye, sir. 
-(She activates the controls and things fizzle) 
-BROSSMER: What the hell? Engineering, I need more power to the primary
-energising coil. Brossmer to Commander Riker. I'm losing them I have to
-abort. 
-[Romulan Engineering]
-
-BROSSMER [OC]: They should be returning to your
-coordinates, sir. 
-RIKER: Chief, do you have them? They're not here. 
-BROSSMER [OC]: No, sir. 
-RIKER: Where are they? 
-[Transporter room]
-
-BROSSMER: I can't locate their patterns. 
-[Romulan Engineering]
-
-BROSSMER [OC]: We've lost them, sir. 
 [Bridge]
 
-BROSSMER [OC]: I've done all I can, sir. I'm afraid
-they're gone. 
-PICARD: Mister Data, begin a level one diagnostic. All transporter
-systems offline until further notice. Could they have materialised
-somewhere else? 
-DATA: Negative, Captain. Sensors are unable to locate them anywhere
-within transporter range. 
-PICARD: Counsellor? 
-(Troi shakes her head) 
-RIKER [OC]: Riker to Enterprise. 
-PICARD: Go ahead, Number One.
+(Ro follows a crewman out of the turbolift) 
+RO: Thanks for the ride. I'm here to say goodbye. 
+(she gently touches her helm console, then Riker and Picard enter) 
+RIKER: There are a lot of what appear to be experimental engine
+components lying around over there. I'd say they were testing a new
+warp drive design and it blew up in their faces.
 
-[Romulan Engineering]
+[Ready room]
 
-RIKER: Captain, we're still looking at a core
-breach unless we can fashion a new graviton generator. 
+PICARD: That would explain why they're so far away
+from Romulan space. To avoid being picked up on Federation long range
+scans. 
+RIKER: We should have an engine core ready for them by nineteen hundred
+hours. 
+PICARD: Commander, there'll be a memorial service at twenty three
+hundred hours this evening. Mister Data is making arrangements. 
+RIKER: I'll be there. 
+RO: Me, too. 
+RIKER: In fact I might like to say a few words. 
+PICARD: You did know La Forge longer than any of us. 
+RIKER: Actually, I was thinking more about Ensign Ro. 
+RO: Me? 
+PICARD: When you're ready, coordinate with Mister Data. 
+RO: Wait a minute. What are you going to say about me? 
+(Riker leaves) 
+RO: Captain. I don't believe this. I'm dead. you can't even hear me and
+I'm still intimidated by you. I just wanted to say thank you. For
+trusting in me when no one else would. 
+LAFORGE: Hey, there you are. Excuse me, Captain. Listen, Data's taking
+the next shuttle over to the Romulan vessel and we need to be on it. 
+RO: Why? 
+LAFORGE: because I think what happened to us, the answers are over
+there. 
+RO: Why can't you just accept the fact 
+LAFORGE: Look, if you're right then we're dead and this doesn't make
+any difference. But if I'm right, then we're still alive and I'm going
+to need your help.
+

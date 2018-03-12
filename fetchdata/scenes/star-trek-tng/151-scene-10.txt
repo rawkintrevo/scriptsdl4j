@@ -1,64 +1,56 @@
-RIKER LAFORGE WORF PICARD WESLEY DATA
+PICARD RIKER CRUSHER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Corridor]
+
+PICARD: Number of casualties? 
+CRUSHER: Sixty-six. 
+PICARD: Fatalities? 
+CRUSHER: None. We've been able to treat everyone.
+
+[Troi's quarters]
+
+PICARD: Can you help her? 
+CRUSHER: I've done everything I can. I don't understand the nature of
+this music she says she's hearing, or where it's coming from. 
+PICARD: Could it be telepathic? 
+CRUSHER: Yes. But I'm not the expert at determining that. 
+PICARD: They're blocking her sensitivity. They're stopping her from
+seeing the truth. 
+CRUSHER: Who's stopping her? 
+PICARD: Kevin and Rishon. 
+CRUSHER: What? 
+PICARD: They wanted us to leave Rana and that's exactly what we're
+doing. Picard to Bridge. 
+RIKER [OC]: Yes, Captain. 
+PICARD: Number One, I want you to maintain this course for another hour
 
 [Bridge]
 
-RIKER: Data, give us a visual. Magnification factor
-fifty. 
-(a dagger shaped warship comes into view) 
-WESLEY: Look at the size of that! 
-(Picard enters) 
-PICARD: Now where did that come from? 
-RIKER: Apparently it was riding a Lagrange point, hiding behind Rana
-Four's furthest moon. 
-DATA: Our vehicle classification index can put no identity to it. Its
-design is completely foreign. 
-RIKER: But that's our boy. Approximately five times our mass and
-carrying enough armament to pulverize a planet. 
-PICARD: Lieutenant? 
-WORF: I, er, cannot explain this, Captain. 
-RIKER: It's heading for the planet. 
-PICARD: Hailing frequencies. 
-WORF: Open. 
-PICARD: Mister Data, ask them to identify themselves and match our
-orbit. 
-DATA: They have received the message, Captain, but are ignoring it. 
-PICARD: Maximum shields, ready all weapon systems. 
-WORF: Aye, sir. 
-RIKER: It's assuming an attack posture. Don't be surprised if 
-(Boom) 
-WORF: The vessel is firing jacketed streams of positrons and
-antiprotons. Equivalent firepower, forty megawatts. Shields are
-holding. (Boom, boom) Again, forty megawatts. No damage. 
-RIKER: If that's the best they can do, this should last about five
-minutes. 
-PICARD: Mister Worf, let's raise our voice a little. Fire phasers. Just
-a warning shot. Mister Data, invite them to stand to. 
-(One feeble phaser shot and the ship high-tails it away) 
-DATA: The vessel has assumed a position outside of the Rana system, and
-it is rapidly increasing velocity. 
-PICARD: Helm, initiate pursuit. 
-WESLEY: Aye, sir. The vessel has reached warp two and continues on a
-steady acceleration curve. We're not getting any closer, Commander. 
-RIKER: Give us a superior curve, Mister Crusher. 
-WESLEY: Warp three. Warp four. The warship continues to match our curve
-simultaneously point for point. Warp four point five. Warp five. Warp
-five point five. 
-RIKER: Riker to La Forge. Give us everything you can to close the gap,
-Geordi. 
-LAFORGE [OC]: Yes, sir. 
-[Engineering]
+PICARD [OC]: And then turn the Enterprise around
+and take it back to Rana Four. 
+RIKER: We still won't have our shields restored by then. 
+[Troi's quarters]
 
-LAFORGE: I'll get you to nine point three seven in
-fifteen seconds. 
+PICARD: Take it back, Number One, and this time
+nothing is going to lure us away.
+
 [Bridge]
 
-WESLEY: Warp eight point five. Warp nine. The
-warship continues to match our acceleration curve perfectly. 
-PICARD: Number One, I have the distinct impression that we're being
-toyed with. Take us back to Rana Four. 
-RIKER: Back? 
-PICARD: We have unfinished business there. I need to have a talk with
-those two people. You have the Bridge. 
-RIKER: Reduce speed. Bring us around on a return course. This one's
-getting away.
+WORF: Sir, sensors indicate no spacecraft in the
+vicinity of Rana Four. But, Captain 
+PICARD: Forget your previous error, Mister Worf. There is no way you
+could have prevented it. 
+DATA: Captain, the Uxbridge house is coming into transporter range. 
+PICARD: Mister Worf, will you accompany me to the Transporter Room? You
+have the Bridge, Number One. 
+RIKER: Captain, I think you should reconsider. The warship has come
+after us twice. It could come back. 
+PICARD: I disagree, Number One. I don't think it knows we're here. I
+think it believes that it has run us off for good. However, that will
+all change once I'm back on board. 
+RIKER: Sir? 
+PICARD: It's protecting Kevin and Rishon. It responds to their wishes.
+Indirectly or directly, I'm not sure, but
+that's what I'm going to put to the test.
 

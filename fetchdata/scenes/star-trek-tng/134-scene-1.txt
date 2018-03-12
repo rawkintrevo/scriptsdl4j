@@ -1,4 +1,5 @@
-RIKER WORF PICARD WESLEY MENDON DATA STARBASE
+RIKER WORF PICARD WESLEY GUEST2 DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
   [Bridge]
 
@@ -12,12 +13,12 @@ RIKER: Establish position zero nine zero mark three four five at twenty
 seven thousand kilometres. Hailing frequencies. 
 WORF: Open. 
 RIKER: Starbase one seven nine, this is the Enterprise. 
-STARBASE [OC]: Enterprise, this is Starbase one seven nine. We are
+GUEST0 [OC]: Enterprise, this is Starbase one seven nine. We are
 ready for transfer on your mark. 
 RIKER: Thank you. Commander Data, you have the bridge. Ensign Crusher,
 you're with me. 
 DATA: Starbase one seven nine. We are ready to commence transfer. 
-STARBASE [OC]: Acknowledged, Enterprise. Begin transfer.
+GUEST0 [OC]: Acknowledged, Enterprise. Begin transfer.
 
 [Transporter room]
 
@@ -29,19 +30,19 @@ quarters. (to the Benzite) Ensign, you're here on the exchange
 programme. If you'll just follow Mister Crusher. 
 WESLEY: Mordoc, what are you doing here? You couldn't have graduated
 from the Academy already. 
-MENDON: I am not Mordoc. I am Mendon. Ensign Mendon from the planet
+GUEST2: I am not Mordoc. I am Mendon. Ensign Mendon from the planet
 Benzar. 
 WESLEY: Sorry. It's a friend of mine. You look just like him. 
-MENDON: We are from the same geostructure. Naturally we look alike. 
+GUEST2: We are from the same geostructure. Naturally we look alike. 
 WESLEY: How do you tell each other apart? 
-MENDON: We just do. 
+GUEST2: We just do. 
 RIKER: It's nice to have you here, Ensign. There will be a briefing and
 indoctrination session in fifteen minutes. 
-MENDON: I want to tell you how happy I am to be assigned to the
+GUEST2: I want to tell you how happy I am to be assigned to the
 Enterprise. It wasn't just luck. I requested it. I know I can be of
 great help to the ship. 
 RIKER: Yes, of course. If you'll just follow Mister Crusher. 
-MENDON: Yes, sir. 
+GUEST2: Yes, sir. 
 PICARD [OC]: Commander Riker, report to the Phaser Range, please 
 RIKER: On the way.
 

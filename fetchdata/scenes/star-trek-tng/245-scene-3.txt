@@ -1,71 +1,34 @@
-RIKER PICARD COMPUTER NELLA MARQUEZ DATA
+NELLA CRUSHER DATA PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Ten Forward]
 
-PICARD: Computer, display the latest excavation
-schematics on Landris Two. 
-COMPUTER: Library computer is temporarily offline. 
-PICARD: Explain. 
-COMPUTER: Library systems have been allocated to Stellar Cartography. 
-PICARD: Tea, Earl Grey. Hot. 
-COMPUTER: Replicator systems are offline at the request of 
-PICARD + COMPUTER: Stellar Cartography. 
-PICARD: What could they possibly be doing down there? 
-
-[Stellar cartography]
-
-(the room is dark as Picard enters) 
-NELLA: In or out, just close that door. And don't move. It'll take a
-second for our eyes to re-adjust. Okay, levate to three point two,
-Marquez. 
-MARQUEZ: Now at three point two, Commander. 
-NELLA: Good. Good we can do this. No, no, no, we're losing vertical
-alignment. Compensate. Compensate! 
-MARQUEZ: Compensating. 
-NELLA: Gently. Gently, Marquez, don't bump it. No. No wait. Hit the.
-Oh, forget it. Forget it. Lights. Whoever you are, you just ruined four
-hours of work. 
-PICARD: You might have taken the simple precaution of locking the door.
-
-NELLA: It's three o'clock in the morning. Captain Picard. 
-PICARD: I assume that you must be Lieutenant Commander Daren. 
-NELLA: Yes, sir. I'm sorry. It's just we weren't expecting anybody to
-be up at this hour. 
-PICARD: Well, you're new on the Enterprise. You'll have to learn to
-expect the unexpected. 
-NELLA: That's why I put in for this assignment, sir. 
-PICARD: Excellent. Now perhaps you can tell me what was so important
-that it required depriving the Captain of his cup of Earl Grey? 
-NELLA: Earl Grey? No wonder you can't sleep. Computer, bring
-replicators back online and give me a cup of Daren herbal tea blend
-number three, hot. You shouldn't be drinking a stimulant at this time
-of night. I think you'll like this. 
-(Picard tries it and pulls a face, but anyone who can drink hot
-Bergamot shouldn't
-criticise other blends) 
-NELLA: I've programmed seven other blends into the replicator. You're
-bound to like one of them. 
-PICARD: I look forward to sampling them. 
-NELLA: I'm sorry if the system blackouts we requested inconvenienced
-you. We're taking very precise gravimetric readings. It wouldn't have
-taken much to throw them off. 
-PICARD: What were the readings for? 
-NELLA: I'm trying to construct a mathematical model of an emerging star
-system. If it works, we'll be able to predict the configuration of a
-star system that won't be formed for another two million years. 
-PICARD: A long time to wait to see if you're right. 
-NELLA: I have a few things to do between now and then.
-
-[Bridge]
-
-RIKER: Captain, we'll be arriving at the Borgolis
-Nebula in three hours. 
-PICARD: Yes. I understand it has unusual radioactive emissions, and I'm
-sure that Stellar Sciences will find it a most interesting study. 
-RIKER: Commander Daren has already requested extra time on the main
-sensor array. 
-PICARD: Well, you have the Bridge, Number One. 
-DATA: Captain, I would like to remind you of our concert this evening
-in Ten Forward. We will perform Chopin's Trio in G Minor. 
-PICARD: I'll be there.
+(the raised area in front of the windows is the
+stage. Data and a cellist enter, then the pianist, Nella. Troi picks up
+Picard's emotions during the performance) 
+(afterwards, at the bar) PICARD: Thank you. 
+NELLA: Well done, Mister Data. Well done. 
+PICARD: Commander, that was a remarkable performance. 
+CRUSHER: You are very talented. 
+NELLA: Thank you. 
+DATA: I noticed that the applause this evening exceeded average decibel
+levels. 
+NELLA: I guess that means they enjoyed themselves. 
+PICARD: I think that much was obvious. 
+DATA: Excuse me. I have not yet congratulated Ensign Cheney. 
+CRUSHER: I'll go with you. 
+PICARD: Commander, you must have been playing since you were young. I
+played the piano for a while when I was small, but I didn't put in the
+practice you must have. 
+NELLA: Practising was never my problem. In fact, my parents had to make
+me go out and play. 
+PICARD: I wanted to ask, during the second arpeggio in the first
+movement, I noticed that you played an F minor chord instead of a
+diminished D. 
+NELLA: You're a musician. What's your instrument? We should play some
+time. 
+PICARD: No, no, no, I'm just an amateur. But your choice in that
+arpeggio was delightful. Not at all what one would expect. 
+NELLA: Well, Captain, now that I'm on your ship, maybe you should start
+expecting the unexpected.
 

@@ -1,78 +1,32 @@
-RIKER LAFORGE WORF PICARD STUBBS WESLEY COMPUTER NURSE CRUSHER DATA
+TROI STUBBS
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Stubbs' quarters]
 
-PICARD [OC]: Report, Mister La Forge. 
-LAFORGE: Checking for failure of inertial dampeners. Instruments say
-they're working 
-[Bridge]
-
-WORF: Captain, we're heading straight into the path
-of that stellar matter. 
-PICARD: Shields up. 
-WORF: Negative. The shields will not respond. 
-DATA: Thirty seconds to impact, sir. 
-PICARD: Manual override on shields. 
-WORF: Shields are rising. 
-RIKER: Reset dampeners.
-
-[Engineering]
-
-RIKER [OC]: Mister La Forge. 
-LAFORGE: Dampeners not responding. 
-[Bridge]
-
-LAFORGE [OC]: Unable to reset. 
-PICARD: Reverse impulse engines. 
-[Engineering]
-
-LAFORGE: Initiating reverse sequence, now.
-
-[Bridge]
-
-PICARD: Our momentum is still carrying us into the
-path of the stellar matter. 
-DATA: Twelve seconds to impact, sir. 
-RIKER: Prepare for impact. Medical personnel, report to the Bridge.
-Commander Data, check all systems. 
-DATA: All systems functioning normally, sir. 
-PICARD: Computer, explain control malfunction. 
-COMPUTER: No control malfunction has been recorded.
-
-[Sickbay]
-
-(It's busy. They've even got Guy sitting on a bed.
-Doctor Stubbs is lying prone, being treated) 
-NURSE: Lay down carefully. There you go. 
-WESLEY: Doctor Stubbs, the captain asked me to tell you that our
-systems are back to normal, and we can try another launch attempt as
-soon as you're ready. 
-STUBBS: Quite a dynamic family team, you Crushers. 
-CRUSHER: Well, it's nice to be together again. I was at Starfleet
-Medical for a year. I missed about two inches of him. 
-STUBBS: I'm not sure I'd want my mother to be flying through space with
-me. No, I take that back. I am sure. I wouldn't want her. My mother is
-a formidable woman, too. A woman of letters. A great critic. 
-WESLEY: I know. 
-STUBBS: Good Lord, son. You didn't read that unauthorised biography? Is
-this all this boy does, Doctor? Fly the ship and read? Doesn't he ever
-have any fun? 
-CRUSHER: Sure he does. 
-WESLEY: Actually, most of my free time is taken up with my studies. I'm
-trying to get into Starfleet Academy, and I earn credits for the time
-spent on the Enterprise, but it's just not the same. 
-NURSE: Are you ready to sit up? 
-STUBBS: Well. I am whole again. Thank you, Doctor. Come along, Wesley.
-Let's go see if Humpty Dumpty is still in one piece. 
-(Stubbs and Wesley leave, and Beverly goes to investigate the sound of
-running liquid. A food dispenser is overflowing a glass) 
-CRUSHER: Computer, fix the food slot. 
-COMPUTER: The food slot is functioning properly. 
-CRUSHER: Well, check again. 
-COMPUTER: The food slot is functioning properly. 
-CRUSHER: Computer, deactivate food slot.
-
-[Engineering]
-
-LAFORGE: We're analysing the engineering systems
-data, Captain. So far we're showing nothing unusual 
+TROI: May I come in? 
+STUBBS: You just can't resist, can you, Counsellor? 
+TROI: I only want to help. 
+STUBBS: Yes, yes. To break the shell. To get in touch with my true
+feelings. 
+TROI: I'm only worried about your state of mind, Doctor. 
+STUBBS: All right, Counsellor, what is it that has you so worried? 
+TROI: Your single-mindedness, your need to have this experiment work. 
+STUBBS: But it will. Picard has no choice now. He must defend the
+Enterprise. Counsellor, when this is all over, I will show you New
+Manhattan on Beth Delta One as you've never seen it, and we will laugh
+over glasses of champagne. 
+TROI: Your self portrait is so practiced, so polished. 
+STUBBS: Yes, isn't it, though? 
+TROI: It is stretched so tight the tension fills this room. And if you
+finally fail, I fear it will snap. 
+STUBBS: A good try, Counsellor. But sometimes when you reach beneath a
+man's self portrait, as you so eloquently put it, deep down inside what
+you find is nothing at all. 
+(Troi leaves and Stubbs returns to his mental reconstruction of a 1951
+baseball game) 
+STUBBS: Lockman on first, Dark on second. Thompson at the plate Branca
+on the mound. 
+(Electric shorts blank out the various screens and monitors. Then a
+bolt of energy leaps from the replicator into Stubbs like a lightening
+hit. The guard outside hears his screams and forces the doors. Stubbs
+collapses into his arms) 

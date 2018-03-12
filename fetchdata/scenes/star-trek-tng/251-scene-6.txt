@@ -1,60 +1,29 @@
 PICARD TROI DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Runabout cockpit]
+[Bridge]
 
-DATA: The Enterprise is not responding to our
-hails. 
-PICARD: Are we within sensor range? 
-DATA: No, sir. 
-PICARD: Increase speed to the rendezvous coordinates. 
-DATA: Aye, sir. 
-(later, Geordi and Data are at the controls when there's a noise,
-alarms and the vessel tilts) 
-DATA: We have an engine failure warning in the 
-PICARD: Report! 
-LAFORGE: The starboard nacelle just cut out. 
-DATA: Attitude control has been restored. 
-PICARD: Full stop. What happened? 
-LAFORGE: The starboard antimatter pod is completely drained. The fuel
-reserves are empty. 
-PICARD: Is there a fuel containment leak? 
-LAFORGE: No, sir. The containment field is intact. all engine systems
-are operational. The fuel is just gone. 
-DATA: Geordi, I believe I have an explanation. According to the plasma
-conversion sensor, the starboard engine has been in continuous
-operation for forty seven days. 
-LAFORGE: Forty seven days? Nah. Let's check that sensor. It must be
-malfunctioning. 
-PICARD: I'll check the fuel consumption logs. 
-[Runabout living section]
+(a Romulan is leaning over a fallen Riker) 
+PICARD: There are three Romulans, all of them with disruptors. One at
+conn. There are none of our security officers on the Bridge. They must
+have taken us by surprise. It appears that we can move objects in this
+time frame. 
+TROI: Maybe we could do something to help Will. 
+PICARD: I'm wary about making changes in this time continuum until we
+understand more about what's going on. 
+DATA: Captain, the equipment is no longer functioning. However, the
+information currently displayed indicates that there was a massive
+power surge in Engineering. 
+(Picard checks the tactical station. Worf is not on duty) 
+PICARD: Security teams had just been sent to transporter room three.
+And to Sickbay. Counsellor, will you go to Sickbay and investigate?
+Mister Data, go to main Engineering. See if you can determine the cause
+of that power surge. I'll be in transporter room three. Mister La
+Forge? 
+LAFORGE [OC]: La Forge here, sir. 
+PICARD: Will you lock onto our signals. I want you to beam Counsellor
+Troi to 
+LAFORGE [OC]: I'd rather not, Captain. We've got limited power and your
+isolation fields consume a lot of energy. 
+PICARD: Understood. We'll use the Jefferies tube. Let's go.
 
-(Picard goes to the console, then smells something.
-The fruit in the bowl has
-become moldy. He reaches towards it and shouts in pain. His fingernails
-have grown a good half inch. The others rush in.) 
-TROI: What happened? 
-(Troi uses a medical tricorder) 
-PICARD: My hand. 
-TROI: The cells are metabolising at an incredible speed. Almost fifty
-times normal. 
-PICARD: The pain is going away. 
-TROI: Your metabolism's stabilising. 
-PICARD: It happened when I reached for the bowl of fruit. 
-(the fruit is now totally decayed. Data uses his tricorder) 
-DATA: Captain, I am detecting a temporal disturbance intersecting the
-table. It appears that within the disturbance, time is moving at an
-accelerated rate, approximately fifty times faster than normal. The
-disturbance is spherical in shape. It is extending outward from the
-hull approximately seventeen metres from the ship. 
-LAFORGE: That would cover the starboard nacelle. No wonder it used up
-all its fuel. 
-PICARD: Check the hull integrity. 
-DATA: It does not appear to be affected. 
-PICARD: Mister La Forge, see if you can move us away from the
-disturbance. 
-LAFORGE: Aye, sir.
-
-[Runabout cockpit]
-
-LAFORGE: Lateral thrusters online. Data, plot a
-course away from the disturbance. 

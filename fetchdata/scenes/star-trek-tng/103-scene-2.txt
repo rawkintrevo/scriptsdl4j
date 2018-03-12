@@ -1,26 +1,5 @@
-TASHA RIKER DATA LAFORGE
-
-[Tsiolkovsky]
-
-(The group beam into an area with scattered
-furniture and a Red Alert) 
-RIKER: Cover the ship as planned. Move out. 
-DATA: Indications of what humans would call a wild party? 
-(They find a monitor, with a static laden image) 
-RIKER: Their Bridge. If this thing works, be sure to record everything.
-
-(The picture gets cleaned up) 
-RIKER: You were right. Somebody blew the hatch. They were all sucked
-out into space. 
-DATA: Correction, sir, that's blown out. 
-RIKER: Thank you, Data. 
-DATA: A common mistake, sir, 
-TASHA [OC]: Commander Riker, Lieutenant Yar. Location Engineering. Ten
-people here, sir, all frozen. No vital signs. 
-RIKER: Frozen? How? 
-TASHA [OC]: It looks like someone has been playing with the
-environmental controls, sir. Just let all the heat bleed away into
-space. 
+TROI PICARD RIKER CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Tsiolkovsky Crew Quarters]
 
@@ -30,4 +9,36 @@ LAFORGE: Sir, Lieutenant La Forge in the crew quarters. Something in
 here. 
 (He finds a door which is trying to close. He opens it and a corpse
 falls out into his arms.
+
+[Tsiolkovsky]
+
+RIKER: Riker to Captain, I have a report for you,
+sir. 
+PICARD [OC]: Picard here. 
+RIKER: They're all dead. 
+[Bridge]
+
+RIKER [OC]: Apparently some of them were apparently
+blown out the emergency hatches. 
+PICARD: But there were eighty people on that ship, Number One. 
+RIKER [OC]: Yes sir. 
+[Tsiolkovsky]
+
+RIKER: As I said, all dead.
+
+Captain's log, supplemental. We are downloading the
+research information gathered on the collapsing star nearby. I am
+concerned at being in such close orbit, but the Tsiolkovsky's research
+records will no doubt predict the time of the star's final collapse.
+
+[Crusher's office]
+
+CRUSHER: I can't find anything unusual in any of
+the tricorder readings they've sent over, Captain. 
+PICARD: Give me a theory, Doctor. Anything. Madness? Mass hysteria?
+Delusion? 
+TROI: Any or all, Captain. 
+PICARD: All right. Let's bring the away team back. Set the transporter
+to maximum decontamination, and then full examination and observation
+when they're here.
 

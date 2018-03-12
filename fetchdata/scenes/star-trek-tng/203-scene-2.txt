@@ -1,35 +1,27 @@
-PICARD RIKER MOT
+PICARD RIKER DATA WORF MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-  [Barber's
-shop]
-
-(Picard is getting a hair trim from a chatty
-Bolian) 
-MOT: there's a time when you want to call a Romulan's bluff and there's
-a time when you don't. Wouldn't you say? 
-PICARD: Well, one does not always have the luxury 
-MOT: You've got to choose your time and place with them. True or false?
-
-PICARD: Yes, wherever possible. 
-MOT: So, this time you were lucky. I suppose all's well that ends well
-but if I'd been in your shoes 
-PICARD: Well, you know, that really does look very nice, Mister Mot. I
-think that will be sufficient. 
-MOT: Hold on (trims a sideburn) There. I must tell you, Captain, Will
-Riker was in for a trim yesterday and he agrees with me a hundred per
-cent. 
-RIKER [OC]: Bridge to Captain Picard. 
-PICARD: Yes? 
-RIKER [OC]: Sorry to interrupt. 
 [Bridge]
 
-RIKER: We're receiving an emergency distress signal
-from the Solarion Four colony.
+PICARD: Report. 
+RIKER: The signal ended abruptly at oh four five five. Unable to raise
+them on subspace. 
+PICARD: Hail them on upper and lower band frequencies, Mister Worf. 
+WORF: I've tried. No response. 
+PICARD: Time to the Solarion system? 
+DATA: Twenty six minutes, Captain. 
+PICARD: I understand you've been discussing alternative adversarial
+engagement strategy with Mister Mot. 
+RIKER: It would be more accurate to say he was discussing them with me.
+He's the best barber in Starfleet. What can you do? 
+WORF: Sir, receiving another signal of a vessel leaving orbit of
+Solarion Four. New frequency, low band, audio only. 
+PICARD: Open a channel. 
+MAN [OC]: This is the Bajora. We claim responsibility for the
+destruction of the Federation colony on Solarion Four. As long as we
+are without our homeland, no one will be safe in this sector.
 
-[Barber's shop]
+Captain's log, stardate 45076.3. We have arrived at
+Lya Station Alpha with survivors from Solarion Four. Admiral Kennelly
+has rendezvoused to discuss the Bajoran terrorist attack.
 
-MOT: Uh oh. That's right along the Cardassian
-border. 
-PICARD: Lay in a new course. I'm on my way. 
-(Picard leaves) 
-MOT: I told him we shouldn't colonise so close to the Cardassians. 

@@ -1,139 +1,106 @@
-TROI RIKER CLARE PICARD RALPH SONNY CRUSHER DATA
+RIKER LAFORGE WORF PICARD GUEST4 GUEST1 GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD [OC]: Immediately. 
-
-[Sickbay]
-
-PICARD: Look, I am never critical of any member of
-my staff being curious, but it's just that the timing is so 
-DATA: I could not leave them there, Captain. The condition of their
-vehicle was deteriorating. 
-PICARD: But Data, they were already dead. I mean, what more could have
-happened to them? 
-DATA: I see your point, Captain, but at the time it seemed the proper
-thing to do. 
-PICARD: Well, they're alive now. We're going to have to treat them as
-living human beings. 
-CRUSHER: Alive and well and ready to be awakened. 
-PICARD: Before you wake them up, I want to have Security here.
-Lieutenant Worf, report to Sickbay. 
-CRUSHER: I have them sedated now, but they should be up and about as
-soon as possible. 
-PICARD: Well, then we have no other choice. 
-CRUSHER: None that I can see. 
-(Worf enters, and Beverly puts a hypo to the woman's neck. She wakes,
-sees Picard, then Beverly, and smiles. Then she starts to sit up, sees
-Worf, and faints) 
-PICARD: Welcome to the twenty fourth century. 
-DATA: I was able to retrieve some information from the ancient disk I
-removed from the module's computer. Her name is Clare Raymond, age
-thirty five, occupation homemaker. Must be some kind of construction
-work. 
-CRUSHER: She died of an embolism. It probably happened very suddenly,
-otherwise her physical condition was excellent. 
-(A nurse wakes Clare up, again) 
-DATA: His name is Ralph Offenhouse, age fifty five, occupation
-financier. 
-CRUSHER: Advanced cardiomyopathy. Inoperable at the time, but easily
-correctable now. He must have known his condition was terminal for
-quite some time. 
-(Ralph is woken) 
-DATA: Much of his file we could not retrieved. His name is L Q Sonny
-Clemonds. Apparently his occupation had something to do with music. 
-CRUSHER: There was marked deterioration of every system in his body.
-Probably from massive chemical abuse. Unbelievable. 
-PICARD: That sounds like someone who hated life. Yet he had himself
-frozen presumably so he could go through it all again. 
-CRUSHER: Too afraid to live, too scared to die. 
-PICARD: Doctor, this seems to be a situation more suited to your
-talents. I'll leave it with you. I'll be on the Bridge.
-
-[Bridge]
-
-PICARD: Number One, kindly take charge of our
-guests until we have time to decide what we're going to do with them. 
-RIKER: Aye, sir. 
-PICARD: Number One, keep them out of my way. 
-[Guest lounge]
-
-(The three resurrected people are dressed and
-trying to pay attention) 
-RIKER: I know this is all very confusing to you so I'll attempt to
-explain. You are on the starship USS Enterprise. 
-RALPH: American? 
-RIKER: No, it's a vessel of the United Federation of Planets, and Earth
-is a member. 
-RALPH: What year is this? 
-DATA: By your calendar two thousand three hundred sixty four. 
-RALPH: What? My heart, is it? 
-CRUSHER: It's perfectly fine. In fact, you are all now in excellent
-health. 
-RALPH: It worked. I made it. 
-SONNY: (a down-home country boy, y'all) What is that? 
-RIKER: An android. 
-SONNY: You mean a robot? 
-DATA: Actually there is a distinct difference between an android and a
-robot. 
-CLARE: And him? The one I saw before, with the head? 
-CRUSHER: She means Worf. 
-RIKER: He's a Klingon. That takes a little more explanation. 
-SONNY: Now, listen, guys. I paid some idiot a lot of money to freeze me
-when I died, and I just got to hear the words. Am I alive? 
-RIKER: Oh, yes. Absolutely. 
-SONNY: And the liver that was about to explode in my face? 
-CRUSHER: Perfectly sound. 
-CLARE: Excuse me, could someone please tell me what's going on here? 
-CRUSHER: About three hundred and seventy years ago, you died of a
-massive embolism. 
-CLARE: I don't remember anything about that. 
-CRUSHER: You and the others were frozen. 
-SONNY: Cryonics. You know, freeze you now and heal you later. 
-CLARE: Yeah, I've heard of it. I just never gave it much thought. How
-did we get here? 
-DATA: You were in a space module. 
-SONNY: The whacko who sold me this scam said that by putting us in
-orbit there weren't gonna be no chance of a brown out. 
-RALPH: Yes, several cryonics companies fell into disrepute because of
-power failures which adversely affected their refrigeration system.
-Their stocks were severely depressed. 
-SONNY: The whole deal was a long shot but I figured what the hell,
-might as well give them the dough instead of leaving it to my ex-wives.
-But you know, son, I figured it was all just a bunch of hooey. 
-DATA: Hooey? Ah, as in hogwash, malarky, jive. An intentional
-fabrication. 
-SONNY: There you go, now you got it. 
-RIKER: Now, if you didn't contract for this, who did? 
-CLARE: It must have been my husband, Donald. If it was new and foolish,
-he would have popped for it. Well, I'll say this for it. It's the first
-thing he's ever bought into that worked. 
-RALPH: I, for one, never had a doubt. My stock in this company must
-have split at least a dozen times by now. 
-DATA: Actually, the process of cryonics was never more than a fad, and
-did not continue much beyond the mid-twenty first century. 
-RALPH: I need to make a phone call as soon as possible. 
-RIKER: A phone call? 
-RALPH: Yes. I have provided for myself. I have a substantial portfolio.
-It's critical that I check on it. Let the bank know that I am alive and
-well. 
-RIKER: Ah, that's going to be a little difficult right at the moment. 
-RALPH: Well, do you at least have a copy of The Wall Street Journal? 
-RIKER: I think we should take the Doctor's advice. Take this very
-slowly until we've all adjusted, and then we'll talk to the Captain.
-
-[Bridge]
-
-TROI: As you know, there is very little available
-on the Romulans. 
-PICARD: Counsellor, anything would be helpful. 
-TROI: They seem to be creatures of extremes. One moment violent beyond
-description, the next tender. They are related to the Vulcans, but as
-each race developed, their differences grew wider. They are intensely
-curious. Their belief in their own superiority is beyond arrogance. For
-some reason they have exhibited a fascination with humans and it is
-that fascination, more than anything else, that has kept the peace. One
-other thing. They will not initiate anything. They will wait for you to
-commit yourself. 
-PICARD: Counter-punchers. Thank you, Counsellor. That's quite valuable.
+WORF: Captain, my sensors indicate a disturbance.
+It is large and moving, but I cannot get a positive lock nor can I get
+it on the viewscreen. 
+RIKER: Shields up. 
+WORF: Aye, sir. 
+RIKER: Captain, I recommend we transfer all power to phasers, and arm
+the photon
+torpedoes. 
+PICARD: Wait. If that is a Romulan ship, they will read our intent.
+It'll force them into taking a similar posture. We don't want to engage
+in battle. 
+RIKER: Captain, this is sufficient evidence. Outposts have been
+destroyed. Countless lives have been lost. 
+WORF: I have a positive lock. They're disengaging their cloaking
+device. 
+RIKER: They'll only be vulnerable for an instant as they become
+visible. 
+WORF: Captain, this may be our only chance. 
+PICARD: No. 
+RIKER: Where are they? 
+WORF: The signal is weakening. 
+(Ralph quietly enters the Bridge) 
+WORF: I've lost them. 
+PICARD: Damn. Mister Data, are your sensors picking up anything? You
+should be detecting a disturbance. 
+DATA: Negative, sir. 
+LAFORGE: We wanted to know if they have improved the cloaking device.
+Guess we have our answer. 
+PICARD: (to Riker) They were trying to determine our intent. They
+wanted to see if we would fire. 
+GUEST1: Who the hell are they? 
+RIKER: Get that man off the Bridge, now. 
+GUEST1: I'm not going anywhere. 
+WORF: Captain, they're back. 
+(A big green warbird appears on the viewscreen) 
+RIKER: Amazing. I never thought I would ever see a Romulan ship. Not
+this close. 
+LAFORGE: The last time we encountered them was decades ago. Cost
+thousands of lives. 
+GUEST1: I can believe that. 
+PICARD: Stay calm, everyone. Open hailing frequencies. 
+WORF: Captain, these are Romulans. They are without honour. They killed
+my parents in an attack on Khitomer when they were supposed to be our
+allies. They believe humans and Klingons are a waste of skin. 
+PICARD: Lieutenant, control your emotions. Please, open hailing
+frequencies. 
+WORF: Hailing frequencies open. 
+PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the USS
+Enterprise. 
+DATA: Sensors indicate all of their systems are armed, sir. 
+PICARD: But they've not fired. Let's try them again. 
+(Two seated Romulans appear, one relaxed and sitting back, one leaning
+forward. The relaxed one speaks) 
+GUEST2 [on viewscreen]: I am Commander Tebok. 
+PICARD: Commander, you have crossed the Neutral Zone. This is
+Federation territory. 
+GUEST4 [on viewscreen]: It was necessary. 
+PICARD: It might be viewed as an act of aggression. 
+GUEST4 [on viewscreen]: If our intent were aggression, you would not be
+here now. 
+GUEST2 [On viewscreen]: If we go to war, let us be sure it is for the
+right reason. We are here because our outposts, which border the
+Neutral Zone, were also attacked. 
+GUEST4 [on viewscreen]: Destroyed in the exact same manner as your own. 
+WORF: Even so, what gives them the right to enter Federation space? 
+GUEST2 [on viewscreen]: Silence your dog, Captain. 
+PICARD: Lieutenant Worf's question is valid. 
+GUEST4 [on viewscreen]: To even to ask such a question implies that we
+need permission. We do not. 
+PICARD: Do you think that we attacked your outposts? 
+GUEST2 [on viewscreen]: Once we realised the level of destruction, we
+knew it could not have been you. 
+PICARD: Who is responsible? 
+GUEST1: They haven't got a clue. They're hoping you know, but they're
+too arrogant to ask. 
+RIKER: You're out of line, Mister. 
+PICARD: Yes, but it's a correct assessment. 
+GUEST2 [on viewscreen]: We do not know who is responsible. Why entire
+outposts on both sides have been carried off. 
+PICARD: I would like to offer a proposal. 
+GUEST4 [on viewscreen]: An alliance? Between the Romulans and the
+Federation? 
+PICARD: Nothing so grandiose. Just this. Cooperation. There was an
+intent here. Whoever or whatever did this is more powerful than either
+of us. Let's collaborate. Let's share whatever we learn about what has
+happened here. 
+GUEST4 [on viewscreen]: Agreed. On this one issue. And only if it is
+convenient and appropriate at the time. 
+GUEST2 [on viewscreen]: Captain Picard, because your actions are those
+of a thoughtful man, I'll you this. Matters more urgent caused our
+absence. Now, witness the result. Outposts destroyed, expansion of the
+Federation everywhere. Yes, we have indeed been negligent, Captain. But
+no more. 
+PICARD: Commander, we have made some progress here. Let's not ruin that
+with unnecessary posturing. 
+GUEST2 [on viewscreen]: Your presence is not wanted. Do you understand
+my meaning, Captain? We are back. 
+(Transmission ends) 
+PICARD: I think our lives just became a lot more complicated. Get him
+off my Bridge.
 

@@ -1,71 +1,40 @@
-PICARD CRUSHER GALEN
-
-[Picard's quarters]
-
-(the Kurlan naiskos is on a table, open) 
-PICARD: Come. 
-CRUSHER: Good morning. Looks like you've been up for a while. 
-PICARD: Yes. 
-(Beverly pours herself a cup of tea) 
-CRUSHER: Let's hear it. 
-PICARD: I had a long talk with Professor Galen last night. He asked me
-to leave the Enterprise, to join him in an archaeological expedition
-which could last for nearly a year. 
-CRUSHER: That must be tempting. 
-PICARD: I couldn't leave the Enterprise. But the offer raised in me
-certain feelings of regret. 
-CRUSHER: That you could have been an archaeologist and not a starship
-Captain? 
-PICARD: No, not really. I'm not sorry for the path I chose. But the
-Professor did not choose this figure at random. The many voices inside
-the one. You see, he knows that the past is a very insistent voice
-inside of me. This gift is meant to remind me of that. 
-CRUSHER: And the exploration of space? Surely that must count for
-something. 
-PICARD: I wouldn't trade it for anything, and I would still make the
-same choice I made all those years ago. I just wish that I didn't have
-to say no to him a second time. 
-CRUSHER: Were you two very close? 
-PICARD: I had a father, but he was like a father who understood me. And
-he had his own children but they didn't follow in his footsteps, so I
-was like the son who understood him. 
-CRUSHER: And yet you turned your back on him. 
-PICARD: In a way, I wish he'd never come on board the ship.
+PICARD GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Laboratory]
 
 (a map of the known galaxy is up on a wall monitor)
 
-GALEN: Good morning, Mister Picard. 
+GUEST2: Good morning, Mister Picard. 
 PICARD: Professor. 
-GALEN: The Vulcan ship will take us as far as DS Four. An Al-Leyan
+GUEST2: The Vulcan ship will take us as far as DS Four. An Al-Leyan
 transport is scheduled to arrive at the station three weeks later.
 They'll take us as far as Caere, and then we'll use the shuttle to get
 us to Indri Eight, our first stop. 
 PICARD: Professor, I'm afraid I won't be going. The Enterprise isn't
 something that I can leave and then come back to. If I go, I go for
 good. It's not something I'm not prepared to do. 
-GALEN: This is not some undergraduate study project that you're turning
+GUEST2: This is not some undergraduate study project that you're turning
 down. This is the chance of a lifetime. Don't make the same mistake
 twice. 
 PICARD: You don't believe that my career in Starfleet has been a
 mistake. 
-GALEN: What are you doing at this very moment? A study mission. You're
+GUEST2: What are you doing at this very moment? A study mission. You're
 like some Roman centurion out patrolling the provinces, maintenancing a
 dull and bloated Empire. 
 PICARD: We both know that's not true. 
-GALEN: I know this. I know that as a scholar, you're nothing but a
+GUEST2: I know this. I know that as a scholar, you're nothing but a
 dilettante. Years ago, I gave you the opportunity to become the finest
 archaeologist of your generation. Your achievements could have
 outstripped even my own, but no, you decided to reject a life of
 profound discovery. You walked out on me. 
 PICARD: I never wanted to become 
-GALEN: Will you come with me? 
+GUEST2: Will you come with me? 
 PICARD: I can't. 
-GALEN: I'll be going. 
+GUEST2: I'll be going. 
 PICARD: But Professor, you're not scheduled to catch the Vulcan ship
 for another two days. 
-GALEN: There's nothing for me here. Goodbye, Captain.
+GUEST2: There's nothing for me here. Goodbye, Captain.
 
 Captain's log, supplemental. We have completed our
 mission in the nebula and are en route to a diplomatic conference on

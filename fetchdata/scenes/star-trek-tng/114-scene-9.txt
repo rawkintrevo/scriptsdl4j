@@ -1,66 +1,33 @@
-RIKER LAFORGE PICARD ARGYLE LORE CRUSHER DATA
+LORE WESLEY RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation Lounge]
+[Data's Quarters]
 
-PICARD: Bringing it up here was the right thing to
-do, Number One. We were just saying, Data, that if your duplicate
-functions, it might answer a lot of questions.
-RIKER: Does it appear to have all your parts?
-DATA: Completely, sir.
-LAFORGE: Will we know how to turn it on?
-PICARD: All right, all right. Legitimate questions about any of this
-need not be asked apologetically. You feel uncomfortable about aspects
-of your duplicate, Data. We feel uncomfortable too, and for no logical
-reason. If it feels awkward to be reminded that Data is a machine, just
-remember that we are merely a different variety of machine. In our
-case, electrochemical in nature. Let's begin to handle this as we would
-do anything else.
-LAFORGE: Agreed, Captain.
-PICARD: Let's begin with you, Data.
-DATA: Well, sir, a good starting point may be, why was I given human
-form?
-LAFORGE: Well, to make it easier for humans to relate to you. Had to
-be. But your designer may have had something else to prove as well.
-PICARD: That human-shaped robots need not be clumsy or limited. You
-certainly operate as well as we do, Data 
-DATA: Better in some ways, sir. 
-RIKER: You might want to have a look at this, Captain. Could be a link
-to the disappearance of the colonists. It was displayed in the lab, no
-doubt by proud parents. It could be just a child's imagination, but
-several children did similar drawings.
-CRUSHER [OC]: Doctor Crusher to Captain. At this point, sir, we very
-much need Mister Data's help.
-PICARD: He's on his way, Doctor.
+(Lore pours out two glasses of champagne, and adds
+a substance to one of them. Data enters) 
+LORE: Lesson number one in becoming more human. You must observe all
+human customs.
+DATA: Champagne?
+LORE: An ancient ritual still practiced when they celebrate events of
+importance. My brother, I toast our discovery of each other. May it
+fill our lives with new meaning.
+(Data drinks from the doctored glass) 
+DATA: I have some doubts about the value of human customs (feels an
+effect) in this. My brother! 
+LORE: And let us toast also Doctor Soong, who gave me the full richness
+of human needs and ambitions. A perfect match for my mind, my body. 
+(Data collapses) 
+LORE: And let us toast also the great Crystal Entity with whom I
+learned to communicate. Before Doctor Soong disassembled me, I earned
+its gratitude by revealing the way to the colonists. Can you image its
+gratitude when I give it the life on this vessel?
 
-[Laboratory]
+[Bridge]
 
-(While technobabbnle goes on over the new android,
-Data is talking quietly with Crusher) 
-DATA: Press your fingers there, Doctor. (the small of his back) There.
-It operates almost as a switch.
-CRUSHER: And these small projections?
-DATA: An android alarm clock. Is that amusing? They time how long I
-remain unconscious.
-ARGYLE: Are you certain about us using these heating devices, Data?
-DATA: I will feel nothing at all.
-ARGYLE: Marvellous. It should all be a lot simpler once we can see how
-your circuitry's connected.
-CRUSHER: I won't mention it to anyone. You have my word.
-DATA: If you had an off switch Doctor, would you not keep it secret?
-CRUSHER: I guess I would.
-
-[Sickbay]
-
-(Data and his twin are lying on biobeds, as the
-Argyle and Crusher gaze at Data's magnified innards) 
-ARGYLE: Notice the micro-circuitry here and here. And another
-fibroid-like connection here.
-CRUSHER: Let's close up. 
-(Later, Riker and Picard enter) 
-ARGYLE: It seemed to go well, thanks to a look inside Mister Data. But
-there have been no signs of consciousness, yet
-RIKER: It certainly is a good match for Data, sir.
-PICARD: Do you think so, really? I wonder which of them was made first?
-LORE: He was. But they found him imperfect and I was made to replace
-him. (he twitches) You may call me Lore.
+WORF: This is strange, sir. I show Commander Data
+transmitting on a subspace channel.
+RIKER: I know Data's been doing considerable research on Doctor Soong's
+background. Let's be sure. Wesley, would you look in on Commander Data?
+Discreetly?
+WESLEY: Yes sir!
 

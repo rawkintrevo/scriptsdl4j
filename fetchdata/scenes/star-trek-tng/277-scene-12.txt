@@ -1,95 +1,39 @@
-TROI OBRIEN WORF TASHA PICARD FLETCHER CRUSHER DATA
+PICARD RIKER CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Past - Observation lounge]
+[Bridge]
 
-PICARD: Report. 
-TASHA: We've completed a full subspace scan of the ship and surrounding
-space. We've detected no unusual readings or anomalies. 
-WORF: With all due respect, sir, it would be helpful if we knew exactly
-what we were looking for. 
-PICARD: Noted. Counsellor, do you sense anything unusual on board the
-Enterprise? Perhaps an alien presence that doesn't
-belong here, maybe one operating on a level of intelligence far
-superior to our own? 
-TROI: No, sir. I'm only aware of the crew and the families on board the
-ship. 
-PICARD: Mister Worf, initiate a level two security alert on all decks
-until further notice. 
-TASHA: With all due respect, sir, I'm the Security Chief on this ship.
-Unless you're planning to make a change. 
-PICARD: No, of course not. Lieutenant, security alert two. 
-TASHA: Aye, sir. 
-O'BRIEN [OC]: Captain Picard to the Bridge, please. 
-PICARD: We're on our way, Chief.
+PICARD: I want continuous subspace sweeps. We may
+be able to detect a temporal disturbance. 
+DATA: Aye, sir. 
+PICARD: Will, this time shifting. When it happens I experience a
+momentary disorientation. If that should happen during a crisis, I want
+you to take command immediately. Number One? 
+RIKER: I'm sorry. Be prepared to take command. Aye, sir. 
+PICARD: Speaking of disorientation, are you all right? 
+RIKER: I'm just a little distracted. I'm fine. 
+PICARD: You have the Bridge, Number One. I'll be in my Ready room.
 
-[Past - Bridge]
+[Ready room]
 
-O'BRIEN: Sir, Starfleet has just issued an alert.
-It appears a number of vessels are moving toward the Neutral Zone
-between Romulan and Federation space. 
-TASHA: What kind of vessels? 
-O'BRIEN: Freighters, transports, all civilians. None of them Starfleet
-ships. 
-PICARD: This tells me that a large spatial anomaly has appeared in the
-Neutral Zone, in the Devron System. 
-WORF: Captain, it could be a Romulan trick to lure our ships into the
-Neutral Zone as an excuse for a military strike. 
-O'BRIEN: Starfleet's cancelling our mission to Farpoint Station and
-ordering us to the Neutral Zone as soon as we leave the Spacedock. 
-PICARD: No, we'll proceed to Farpoint. 
-TASHA: Sir? 
-PICARD: You heard me. 
-WORF: Captain, the security of the Federation could be at stake. 
-PICARD: Mister Worf, will you man your station. 
-WORF: Aye, sir. 
-TROI: Captain, perhaps if we understood your thinking, if you could
-explain 
-PICARD: I've no intention of explaining to anyone. We will proceed with
-our mission to Farpoint as planned. Chief O'Brien, am I right in
-thinking that you're having a problem with the warp plasma inducers. 
-O'BRIEN: That's right, sir. 
-PICARD: Well I know how to get them back online. You're with me. We'll
-be in main Engineering. 
-[Past - Engineering]
-
-PICARD: Mister O'Brien, will you use these
-specifications to bypass the secondary plasma inducer. 
-O'BRIEN: You have to realise sir, this isn't exactly my area of
-expertise. The Chief Engineer should be making these modifications. 
-PICARD: But the Chief Engineer isn't on board. Mister O'Brien, trust
-me. I know you can do it. All those years you spent as a child building
-those model starship engines. They were well worth it. 
-O'BRIEN: How did you know that, sir? 
-PICARD: From your Starfleet records. 
-O'BRIEN: Yes, sir. I'll get right to these modifications. Fletcher,
-tell Munoz and Lee to get up here right away. 
-FLETCHER: Aye, sir. 
-(Picard goes to a wall console and Data enters) 
-O'BRIEN: We have to realign the entire power grid. We'll all be burning
-the midnight oil on this one. 
-DATA: That would be inadvisable. 
-O'BRIEN: Excuse me? 
-DATA: If you attempt to ignite a petroleum product on this ship at zero
-hundred hours, it will activate the fire suppression system, which
-would seal off this entire compartment. 
-O'BRIEN: That was just an expression. 
-DATA: Expression of what? 
-O'BRIEN: A figure of speech. I was trying to tell him that we'd be
-working late. 
-DATA: Ah. Then to burn the midnight oil implies late work? 
-O'BRIEN: That's right. 
-DATA: I am curious. What is the etymology of that idiom? How did it
-come to be used in contemporary language? 
-O'BRIEN: I don't know, sir. 
-PICARD: Commander Data, welcome on board. It's so very good to see you.
-
-DATA: It is good to see you, too, sir. 
-PICARD: I could use your help with the infuser array. 
-DATA: Certainly. 
-PICARD: As you can see, we're having difficulty with the plasma
-conduits. 
-DATA: This will need a completely new field induction subprocessor. It
-appears that we will be required to ignite the midnight petroleum, sir.
-
-CRUSHER [OC]: Jean-Luc, what's going on?
-
+PICARD: Come. 
+CRUSHER: Milk, warm, a dash of nutmeg. 
+PICARD: What's this? 
+CRUSHER: A prescription. A glass of warm milk and eight hours
+uninterrupted sleep. 
+PICARD: Beverly. 
+CRUSHER: Doctor's orders. You're exhausted. Look, I don't know whether
+you've slept in the past or in the future, but I'm sure you haven't
+slept in the present. Now get some rest, or I'll have you relieved and
+sedated. 
+PICARD: Yes, sir. What? Hey, Beverly? 
+CRUSHER: As a physician, it's often my job to give people unpleasant
+news. To tell them that they need surgery or that they can't have
+children or that they might be facing a difficult illness. 
+PICARD: But you said yourself that this is only a possibility. 
+CRUSHER: But you've been to the future. You know it's going to happen. 
+PICARD: I prefer to look on the future as something which is not
+written in stone. A lot of things can happen in twenty five years. 
+(they kiss) 
+CRUSHER: A lot of things can happen. 
+LAFORGE [OC]: Captain? 

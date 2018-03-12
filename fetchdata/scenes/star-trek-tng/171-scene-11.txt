@@ -1,38 +1,55 @@
-DATA OBRIEN SAKKATH LAFORGE CREWMAN
+GUEST1 RIKER DATA PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Conference room]
+
+DATA: Captain Picard is not satisfied with Ki
+Mendrossen's assurances that the Ambassador is in good health. Do you
+consider Sarek capable of carrying out his mission? 
+GUEST1: Have I given you cause to think otherwise? 
+DATA: You have voiced certain reservations to me about his abilities. 
+GUEST1: I do not recall making such a statement. 
+DATA: Not directly, no. But you did question me about the diplomatic
+capabilities of both Captain Picard and Counsellor Troi. 
+GUEST1: I am honour-bound to help Sarek carry out this mission. That
+is the only answer I can give. 
+DATA: Then you must decide which is your greater obligation. Your
+loyalty to Sarek or your duty to the Federation. Can you accept the
+logic of continuing this mission? 
+GUEST1: Tell your Captain the mission is in jeopardy.
 
 [Bridge]
 
-SAKKATH: This is your command centre. 
-DATA: Yes. It is normally occupied by Captain Picard, Commander Riker,
-and Counsellor Troi. 
-SAKKATH: Counsellor Troi is a Betazoid? 
-DATA: Half-Betazoid. Her father was human. 
-SAKKATH: Then she is not a true telepath? 
-DATA: Her skills are empathic in nature. She is able to sense the
-emotions of other beings. 
-SAKKATH: What is Captain Picard's background in diplomacy? 
-DATA: Extensive. The Captain's first diplomatic contact dates back to 
-SAKKATH: And what of his knowledge of the Legarans? Would he be able to
-conduct negotiations with them should the need arise? 
-DATA: Do you foresee such a circumstance occurring? Is Ambassador Sarek
-unable to 
-SAKKATH: Forgive me. I was merely exploring various possible
-permutations of our mission. Your tour of the Bridge has been most
-informative.
-
-[Ten Forward]
-
-(Three men in science blue sit at a table that
-O'Brien and a friend are walking to) 
-O'BRIEN: Excuse me, we were sitting here. 
-CREWMAN: Well we're sitting here now. 
-O'BRIEN: Come on, fella. This is our table. 
-CREWMAN: Really? Funny, I don't see your name on it. 
-O'BRIEN: Didn't your mother teach you manners? 
-(They square up to each other) 
-LAFORGE: Hey, hey guys. Is there some kind of problem here? 
-O'BRIEN: There seems to be a question of who's table this is. 
-LAFORGE: There are plenty of other tables, right? 
-O'BRIEN: I suppose you're right. 
-LAFORGE: Why don't I get everyone another round of drinks? All right?
+DATA: Sakkath has been able, until recently, to use
+his telepathic skills to reinforce Sarek's emotional control, thus
+protecting others from the effects of his deterioration. 
+RIKER: He hasn't been doing a very good job. 
+DATA: The strain of this mission on Sarek has made it impossible. 
+PICARD: It's ironic, isn't it? All this magnificent technology and we
+find ourselves still susceptible to the ravages of old age. The loss of
+dignity, the slow betrayal of our bodies by forces we cannot master. Do
+you still want to be one of us, Data? 
+DATA: Sir, it is conceivable, even for me, that time will eventually
+lead to irreparable circuit failure. But there is one thing I do not
+understand. Sarek is a logical, intelligent being. The effects of
+Bendii Syndrome are apparent. Why would such a man choose to ignore
+them? 
+PICARD: Logic fails us sometimes, Data. I think this is one of those
+times. I can only guess that he does not see, or he does not wish to
+see, the truth. And he is being insulated against that truth by those
+who love him most. 
+RIKER: Someone has to confront him. 
+PICARD: Not a task that I'm looking forward to. 
+RIKER: I don't understand this. Everyone is protecting Sarek. His wife,
+Mendrossen, even you. 
+PICARD: What would you have me do? March down there and destroy the
+man? 
+RIKER: The mission with the Legarans cannot be carried out with Sarek
+in this condition! 
+PICARD: I know that! 
+RIKER: (shouting) Then tell him that there is no way 
+PICARD: Don't you tell me what to do! 
+DATA: Captain. Commander. 
+PICARD: Of course. You're right, Number One. It's a task that I will
+attend to.
 

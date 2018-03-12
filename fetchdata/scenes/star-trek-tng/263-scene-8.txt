@@ -1,93 +1,52 @@
-RIKER WORF PICARD NADOR CRUSHER DATA
-
-[Sickbay]
-
-CRUSHER: Any nausea or blurred vision? 
-WORF: No. However, I did experience some dizziness earlier today at my
-birthday celebration. 
-CRUSHER: Sounds like you're having some of the side effects from the
-concussion. I can give you some vertazine for the dizziness but I'd
-like you to rest. 
-WORF: Doctor, perhaps you are thinking of another patient. I have no
-concussion. 
-CRUSHER: Worf, you came in here this morning complaining of ringing in
-your ears. I scanned you. You had a concussion. You don't remember any
-of this? 
-WORF: No. 
-CRUSHER: Temporary memory loss is common for this kind of injury. Do
-you remember telling me about the Bat'leth tournament? You said that
-one of the competitors hit you over the head. That's why you lost the
-match. 
-WORF: I won that tournament. And I can prove it to you.
+TROI COMPUTER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Worf's quarters]
 
-(the trophy is smaller) 
-CRUSHER: What's wrong? 
-WORF: It says ninth place. This is not the same trophy. Someone is
-playing a trick on me. 
-CRUSHER: Worf, try to stay calm. Memory loss can be very disorienting. 
-WORF: The log. I recorded a personal log on my way back to the
-Enterprise. Computer, access personal logs on Shuttlecraft Curie. Show
-my log entry for Stardate 47391.2. 
-WORF [on monitor]: Personal log, stardate 47391.2. I am returning from
-the Bat'leth competition on Forcas Three. The conditions were
-difficult. Several contenders were maimed. One of the contenders used
-an illegal T'gha manoeuvre against me. The judges chose to ignore it
-and I was robbed of my rightful standing. I was awarded ninth place. I
-am looking forward to resuming my duties aboard the En 
-WORF: I do not understand. 
-CRUSHER: Worf, I'm sure this is very disturbing for you, but don't
-worry, your memories will return. The best thing you could do right now
-is to settle back into your normal routine, but slowly. 
-WORF: Thank you, Doctor. 
-CRUSHER: Let me know if you have any more problems with dizziness. I'll
-give you a hypospray.
-
-[Bridge]
-
-DATA: Lieutenant, have you completed the
-metallurgical scan of the Array? 
-WORF: Sir? 
-DATA: The metallurgical scan. Have you completed it? 
-WORF: I do not remember you asking me to. Captain, there is a
-Cardassian ship approaching. Galor Class. 
-PICARD: Open a channel. 
-WORF: On screen. 
-PICARD: This is Captain Jean-Luc Picard of the Starship Enterprise. You
-are in Federation territory. Please explain your presence here. 
-NADOR [on viewscreen]: We were wondering the same thing about you,
-Captain. Why would Starfleet's flagship want to venture so close to the
-Cardassian border? 
-PICARD: We are repairing one of our subspace telescopes. 
-NADOR [on viewscreen]: I see. May we offer our assistance? 
-PICARD: No, thank you. Everything is under control. 
-NADOR [on viewscreen]: If you don't mind my asking, what exactly is
-this telescope of yours designed to do? 
-PICARD: It's a long range subspace Array. We use it for gathering data
-on astronomical phenomena. 
-NADOR [on viewscreen]: I'm certain it would never be used to observe a
-neighbouring species. 
-PICARD: Certainly not. 
-NADOR [on viewscreen]: Well then, best of luck with your repairs. Just
-try to make certain that your studies are limited to astronomical
-phenomena. 
-(transmission ends) 
-RIKER: Charming fellow. 
-WORF: Captain, that ship was responsible for reprogramming the Array. 
-PICARD: What are you saying? 
-WORF: It is the same class and energy configuration as the ship we saw
-in the imaging logs. 
-PICARD: The imaging logs? Are you suggesting that you have evidence the
-Cardassians have tampered with the Array? 
-WORF: They are using the Array as a surveillance device. You saw the
-logs yourself. 
-PICARD: I haven't heard anything about this. 
-RIKER: Neither have I. 
-WORF: Commander Data, show them the logs you downloaded from the Array.
-
-DATA: I know of no such logs. 
-PICARD: Mister Worf, are you feeling all right? 
-WORF: Yes. 
-PICARD: Mister Data, perhaps you had better re-examine the Array. See
-if you can find any evidence to support Mister Worf's claims. 
+(Worf locks the door behind him. The battleship
+painting is back by the door and the trophy is now a vase of flowers) 
+WORF: Computer, access personal logs on Shuttlecraft Curie. Play log
+entry for stardate 47391.2. 
+COMPUTER: There is no log entry from the Shuttlecraft Curie for that
+stardate. 
+WORF: Computer, display any log entries regarding the Bat'leth
+tournament on Forcas Three. 
+WORF [on monitor]: Personal log, stardate 47391.2. There has been a
+malfunction in the ship's main deflector. It will require two more days
+of repairs. As a result, I will not be able to compete in the Bat'leth
+tournament on Forcas Three. I have asked my brother to take my place.
+He does not have my prowess with the blade, but 
+(doorbell) 
+TROI: Why'd you lock the door? 
+WORF: Why shouldn't I? 
+TROI: I heard what happened on the Bridge. Are you all right? 
+WORF: I am not sure. 
+TROI: Do you want to talk about it? 
+WORF: I would rather not, Counsellor. 
+TROI: Very well, Lieutenant. Hot chocolate. 
+WORF: Is there something I can do for you? 
+TROI: Actually, there is. 
+(she goes and sits on the bed) 
+TROI: Come and sit down. I just want you to relax for a minute. (she
+unties his ponytail) There. (she massages his shoulders) You are so
+tense. Now, I know you don't want to talk about what happened on the
+Bridge, but there are times when it's just best to let things out. Come
+on. If you can't talk to me, who can you talk to? 
+(Troi nuzzles his neck, and he leaps away) 
+WORF: I do not believe this is appropriate behaviour! 
+TROI: Even for your wife? 
+WORF: Wife? 
+TROI: Worf, what's wrong? 
+WORF: I do not know. Things are changing. 
+TROI: What's changed? 
+WORF: I do not remember us, you and I, being mates. It is as if events,
+circumstances, continue to change from moment to moment, but I am the
+only one who seems to be aware of it. 
+TROI: Are you saying you don't remember the last three years? You don't
+remember us falling in love and getting married? 
+WORF: I do remember the last three years, but they were different. We
+did not have this relationship. We were friends. And the Enterprise did
+not have a battle with the Cardassians. And no one believes me. 
+TROI: Whatever's wrong, whatever happened, I want you to know that I
+believe you. And that I love you. And together we'll find out what's
+happening. 

@@ -1,43 +1,5 @@
-GATES NIKOLAI WORF PICARD RIKER COMPUTER DATA
-
-[Bridge]
-
-DATA: Captain, atmospheric dissipation has
-accelerated over the past several hours. I estimate the planet's
-atmosphere will be completely gone within three minutes. 
-NIKOLAI: Captain, I've completed my data uplink. With your permission,
-I would like to integrate my research logs with the ship's library
-computer. 
-PICARD: Of course. 
-DATA: The mesosphere is gone. Plasmonic reactions are now beginning to
-break down the troposphere. 
-PICARD: Put it on screen. 
-(viewscreen goes out) 
-PICARD: What's going on? 
-DATA: It appears the plasmonic reactions are continuing to interfere
-with our sensors. 
-RIKER: I thought you had compensated for that. 
-DATA: I had, sir. I will attempt to engage additional filtering
-elements. Visual re-established. 
-PICARD: This is one of those times when we must face the ramifications
-of the Prime Directive and honour those lives which we cannot save. 
-NIKOLAI: I find no honour in this whatsoever, Captain. You will forgive
-me if I don't stay. 
-(the atmosphere disappears) 
-PICARD: You have the Bridge, Number One. 
-(Picard leaves) 
-RIKER: Helm, take us out of orbit. Set a course for Starbase eighty
-seven, warp five. 
-GATES: Aye, sir. 
-(a science station blows up) 
-RIKER: What happened? 
-DATA: There appears to be an unusual power drain in the EPS
-distribution net. 
-RIKER: What's the source? 
-DATA: Unknown, sir. It is difficult to localize. 
-WORF: The power drain has registered on my security grid as well, sir.
-It appears to be coming from deck ten. 
-RIKER: All right, Mister Worf, get a security team on it.
+NIKOLAI COMPUTER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
@@ -51,3 +13,23 @@ COMPUTER: Unable to comply. Holodeck control systems have been
 bypassed. 
 (then the doors open) 
 NIKOLAI: Worf Come in. 
+[Holodeck Cavern]
+
+WORF: What are you doing here? 
+NIKOLAI: I have to show you something. Whatever you do, stay quiet. 
+(Nikolai taps on a PADD and a 'window opens in the holodeck rock face) 
+NIKOLAI: Look. 
+(it's the cavern on the planet) 
+NIKOLAI: I've done what you refused to do. I've saved them.
+
+[Corridor]
+
+NIKOLAI: I started thinking about this days ago
+when it became clear the planet was doomed. I knew if I could get
+access to your ship's computer, I could generate a replica of the
+caves. The hard part was transporting the Boraalans into the holodeck
+without anybody on the Enterprise noticing. But I was able to blank out
+the sensors and make it look like interference from the plasmonic
+bursts. And it worked, perfectly. The Boraalans were transported while
+they were sleeping. They never knew anything had happened.
+

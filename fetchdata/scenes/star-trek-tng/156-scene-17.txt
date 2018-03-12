@@ -1,41 +1,75 @@
-RIKER LAFORGE WORF PICARD WESLEY ARRIDOR CRUSHER
-
-[Sickbay]
-
-CRUSHER: Whatever he's got is obviously not life
-threatening. It's some kind of system-wide histaminic reaction. He
-certainly can't go back to negotiations for several days. 
-PICARD: Will you keep me informed? 
-[Corridor]
-
-PICARD: The Federation's top negotiator taken out
-by a mysterious ailment. Suspicions? 
-RIKER: With the Ferengi around? Always. 
-PICARD: You'll have to fill in, Number One. 
-RIKER: Me? 
-PICARD: Well, I'm the designated host. It would be a most awkward
-transition. You're the next likely choice. And Mister Mendoza
-will certainly agree. He's quite impressed by your natural instincts. 
-RIKER: Excuse me, sir, but those weren't natural instincts. Those were
-poker instincts. A card game doesn't exactly prepare me for this. 
-PICARD: Yes, the stakes are higher. But then, isn't that when the game
-gets interesting, Commander?
+GUEST4 RIKER LAFORGE WORF GUEST1 PICARD RAL TROI WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WESLEY: The wormhole will reappear in thirty
-seconds, sir. 
-WORF: The Ferengi pod is moving into position. 
-PICARD: Shuttle nine, stand by. 
-[Shuttlepod]
+PICARD: Goss has fired a missile at the wormhole. 
+[Observation lounge]
 
-LAFORGE: Ferengi pod, this is Lieutenant Commander
-La Forge in the Enterprise shuttle. 
-ARRIDOR [OC]: This is Doctor Arridor, go ahead. 
-LAFORGE: Would you care to take the point, Doctor?
+PICARD [OC]: I need you on the Bridge, Number One. 
+RIKER: Excuse me. 
+(Riker leaves) 
+RAL: Excuse me for saying so under the circumstances, Premier, but this
+fight is really between the Federation and the Ferengi. Now it seems
+unconscionable that your wormhole is being used as a pawn in their
+power struggle.
 
-[Ferengi pod]
+[Bridge]
 
-ARRIDOR: We will gladly yield that honour to you,
-Lieutenant Commander.
-
+PICARD: You must know we will not allow you to do
+this. 
+GUEST4 [on viewscreen]: If the Ferengi cannot have the wormhole, no one
+will. 
+PICARD: A missile will have no destructive effect on a wormhole, but if
+it should explode near the shuttlecraft they will be destroyed. 
+GUEST4 [on viewscreen]: Casualties of war, Commander. My men are prepared
+to die. Are yours? 
+TROI: Captain, he's lying. I'm almost sure of it. He doesn't mean what
+he says. 
+RIKER: Why? What is he doing it for then? 
+GUEST1: Permission to enter the Bridge, Captain.
+PICARD: Premier, with all due respect 
+RAL: Captain, I believe I am in a better position to settle this with
+DaiMon Goss than you are. May I address him? 
+PICARD: Premier. 
+RAL: DaiMon Goss, this is Devinoni Ral. 
+GUEST4 [on viewscreen]: I have nothing to say to you, Ral. 
+RAL: Well then, just listen. The planet Barzan has reached an agreement
+with the Chrysalians for long term control of the wormhole. Now on
+behalf of the Chrysalians, I am prepared to offer the Ferengi free
+access to the wormhole in perpetuity. 
+GUEST4 [on viewscreen]: I have your word on this? 
+RAL: Yes, my word, sir, in exchange for Ferengi convoy privileges to be
+negotiated in good faith. 
+GUEST4 [on viewscreen]: This is an acceptable offer. 
+WORF: Ferengi vessel has shut down its forward missile launcher. 
+PICARD: Stand down red alert. 
+GUEST1: Commander Riker. I'm sorry you had to learn about my decision
+this way. You represented the Federation well, but I have come to
+believe that the Chrysalians' tradition of peace is more desirable to
+my planet. 
+TROI: Excuse me, Premier. There's something you should know. I'm sorry,
+was there something you wanted to say? 
+RAL: No, not at all. 
+TROI: I sensed you suddenly felt uncomfortable. 
+RAL: Well, after all, it was a very tense situation. 
+TROI: But that's what's so odd. It wasn't tense at all. In fact, I
+sensed no tension from you or Goss. 
+GUEST4 [on viewscreen]: But I was tense! I was ready to blow it up! I
+strongly protest!
+PICARD: Screen off. 
+TROI: It was as though you were performing a scene for all of us. 
+RAL: Pardon me, Captain, I believe there's a slight conflict of
+interest here. 
+TROI: I agree, entirely. Mister Ral asked me not to tell anyone he has
+empathic powers which he uses to manipulate his competitors in a
+negotiation. And yes, it did put me in a conflict of interest, which I
+hope I have now resolved. Premier, I believe Ral has used your fear of
+continuing aggression between the Federation and its enemies to
+undermine our position. I also believe that this incident was staged by
+Ral and Goss to provide you a reason to choose in favour of the
+Chrysalians. 
+WESLEY: Captain, it's the shuttlecraft. They're coming back through. 
+LAFORGE [OC]: Shuttle nine to Enterprise. 
+PICARD: On screen. 
+LAFORGE [OC]: This is shuttle nine reporting in. 

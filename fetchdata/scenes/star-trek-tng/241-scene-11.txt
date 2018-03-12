@@ -1,37 +1,50 @@
-Q PICARD DATA WORF
+TROI PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ten Forward]
 
-(Picard is a science lieutenant) 
-WORF: Can I help you, Mister Picard? 
-PICARD: Mister Worf. 
-(Worf takes a PADD from Picard) 
-WORF: This is not for me. You should take it to Commander La Forge in
-Engineering. 
-PICARD: What's happened? 
-WORF: Is something wrong? 
-PICARD: I'm not sure. Mister Worf, what is my rank and position? 
-WORF: You are a Lieutenant junior grade, Assistant Astrophysics
-officer. 
-DATA: Are you feeling all right? 
-PICARD: Who's the captain of this ship? 
-DATA: Captain Thomas Halloway. Perhaps I should escort you to Sickbay. 
-PICARD: No. I can find my own way there. Thank you, Commander.
-
-[Doctor's office]
-
-PICARD: Beverly, something's happened to me. I'm
-not sure 
-Q: (German accent) Vell, vell, vell. Vhat seems to be de trouble,
-Lieutenant Picard? 
-PICARD: Q, what have you done? 
-Q: I've done exactly as I promised. I've returned you to the present. 
-PICARD: But this is not the present I remember. You said nothing would
-change. 
-Q: Nothing has changed, Jean-Luc, except for you. But then again,
-that's what you wanted, wasn't it? To change the man you were in your
-youth? Well, you did it. This is the man you are today. And You should
-be happy. You have a real heart beating in your chest, and you get to
-live out the rest of your life in safety, running tests, making
-analyses, and carrying reports to your superiors.
+(Riker and Troi are at a table) 
+PICARD: Excuse me, am I interrupting? 
+RIKER: No, not at all. Have a seat. 
+PICARD: Thank you. I'd like to talk to you for a moment about my future
+on the Enterprise. 
+RIKER: Of course, Lieutenant. Jean-Luc, isn't it? 
+TROI: Maybe I should go. 
+PICARD: No, please, Counsellor, I would very much like to hear your
+thoughts. First of all, and I would like you to be absolutely
+straightforward with me. How would you evaluate me as an officer? 
+TROI: Well, er, your performance records have always been good. You're
+thorough, dedicated. 
+RIKER: Reliable, steady, (searching desperately) punctual. 
+PICARD: I see. What would you say if I told you that I believed that I
+was capable of being very much more. 
+RIKER: Perhaps we should discuss this at your next evaluation. 
+PICARD: I would appreciate it if we could discuss it now. You see, I
+feel that I would like to move beyond astrophysics to Engineering or
+Security, something that might even lead to Command. 
+RIKER: Frankly, Lieutenant, I don't think that's realistic. 
+PICARD: Why? 
+TROI: I really don't think this is the place to be discussing this. 
+PICARD: Please. This is important to me. I believe that I can do more. 
+TROI: Hasn't that been the problem all along? Throughout your career
+you've had lofty goals, but you've never been willing to do what's
+necessary to attain them. 
+PICARD: Would that be your evaluation as well, Commander? 
+RIKER: I think I have to agree with the Counsellor. If you want to get
+ahead, you have to take chances, stand out in a crowd, get noticed. 
+PICARD: I see. 
+RIKER: Now, we don't want to lose you. You're a very good officer. 
+PICARD: Just not one who stands out. 
+RIKER: Why don't I talk to Commander La Forge in Engineering and we'll
+see what we can do. 
+PICARD: But, Command? 
+RIKER: Well, we'll see. 
+DATA [OC]: Senior officers, please report to the Captain's Ready room. 
+RIKER: Acknowledged. 
+TROI: We should talk about this later. 
+(Riker and Troi leave) 
+PICARD: All right, Q, that's enough. You've made your point. Q? 
+LAFORGE [OC]: La Forge to Lieutenant Picard. I'm still waiting for that
+statistical analysis. 
+PICARD: I'm on my way, sir.
 

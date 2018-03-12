@@ -1,58 +1,37 @@
-PICARD CRUSHER DATA LAFORGE
+DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Laboratory]
 
-DATA: We are ready to bring the interface online,
-sir. 
-PICARD [OC]: Proceed. 
-DATA: Activating the remote sensors. Initiating interface now. 
-CRUSHER: Vital signs normal. Geordi, how do you feel? 
-LAFORGE: Fine. 
-DATA: Do you have visual contact? 
-LAFORGE: Not yet. 
-[Raman corridor]
-
-LAFORGE: Data, turn up the input sensors. I'm not
-seeing anything. 
-DATA [OC]: Acknowledged. 
-LAFORGE: Okay, I can see. 
-[Laboratory]
-
-LAFORGE: But no colours. 
-DATA: Increasing signal strength to seventy five percent of tolerance. 
-LAFORGE: Ah, that's better. 
-CRUSHER: Your pulse has gone up. Your nervous system probably has to
-get used to the input levels. 
-LAFORGE: I'm excited, that's all, Doctor. This is like being on a
-roller coaster. Or a first date. I'm all right. 
-CRUSHER: I'll be the judge of that. If your heart rate gets too high,
-we're going to disconnect you. 
-LAFORGE: Understood. 
-[Raman corridor]
-
-LAFORGE: It's a mess in here. There must be a
-breach in the hull someplace. I'm picking up atmospheric gasses in the
-corridor. Methane and ammonia, primarily. That break in the hull might
-even be on the Bridge itself.
-I'm heading towards the Bridge. I've found someone. 
-DATA [OC]: What is your position? 
-LAFORGE: About twelve metres up the main corridor. He's trapped under
-some conduit from the bulkhead. I can't move it. I'm going to need more
-power to the tractor beam. 
-CRUSHER [OC]: Go to eighty percent of tolerance, Data. No higher. 
-(Geordi pulls off a metal bar and checks the man's pulse) 
-LAFORGE: He's dead. Data, that door at the end of this corridor. What's
-it lead to? 
-DATA [OC]: A magnetic storage bay. 
-LAFORGE: If there was a break in the Bridge, that'd be the safest place
-to go. Data, give me a phaser burst. Narrow focus, level four
-intensity. 
-(Geordi blows the lock off the door) 
-LAFORGE: I've found them. They're dead. All of them. There's a fire in
-here. Argh!
-
-[Laboratory]
-
-CRUSHER: Data, disconnect! What happened? Geordi? 
-LAFORGE: I don't know. My hands. 
-CRUSHER: They're burned. 
+(Geordi activates the interface monitors when the
+doors open) 
+DATA: I suspected you would attempt to operate the interface alone. 
+LAFORGE: Did you? 
+DATA: I am familiar enough with your behaviour patterns to predict
+certain decisions. 
+LAFORGE: Well I guess you know me pretty well. 
+DATA: You are disobeying the Captain. 
+LAFORGE: I can't just sit back and do nothing when I know that my
+mother might be down on that planet. 
+DATA: I can not allow you to endanger your well-being. 
+LAFORGE: Data, if I leave without knowing for sure, then I'll have to
+live with that for the rest of my life, wondering if I left her to die.
+I couldn't do that. That's why I've got to do this. 
+DATA: I could have you confined to quarters for the duration of the
+mission. 
+LAFORGE: If that's what you need to do, Data, then do it. Because
+nothing short of that is going to stop me from trying to save my
+mother. 
+(Data goes to the interface monitor) 
+LAFORGE: What are you doing? 
+DATA: I will monitor the interface and attempt to keep you safe. I can
+not have you confined to quarters for something you have not yet done. 
+LAFORGE: You know we could both get in a lot of trouble for this. 
+DATA: There is a high degree of probability that you are correct. 
+LAFORGE: Thanks, Data. 
+DATA: However, I do have a request. 
+LAFORGE: Yeah? What's that? 
+DATA: I would ask you to consider the possibility that what you see is
+not real. 
+LAFORGE: I will. I promise. 
+DATA: I am establishing the interface. 

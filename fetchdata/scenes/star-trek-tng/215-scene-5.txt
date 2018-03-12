@@ -1,50 +1,43 @@
-RIKER WORF PICARD TROI RO DATA
+PICARD TROI CRUSHER OBRIEN RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-PICARD: Go ahead. 
-RIKER [OC]: We've lost our thrusters. Attempting to compensate with
-secondary boosters 
-WORF: Sir? The shuttlecraft's impulse generators have shut down. 
-PICARD: Commander, can you hear me?
-
-[Shuttle]
-
-PICARD [OC]: Enterprise to shuttle, please respond.
-
-RIKER: Hold on! We're going down. 
-DATA: Initiating emergency landing procedures. 
-RIKER: Maintain the approach attitude, Data. I'm taking her in. Brace
-for impact. 
-[Bridge]
-
-RO: The shuttle has crashed on the surface. 
-PICARD: Do we have their position? 
-WORF: I am picking up the shuttle's trace signature, but the surface
-interference is distorting its position. 
-PICARD: Can you locate them? 
-RO: I think I can. I followed their entry almost all the way in. We can
-calculate the coordinates from the angle of descent. 
 [Moon surface]
 
-(an explosive charge blows off the rear emergency
-hatch) 
-TROI: Your arm. 
-RIKER: Yeah, I'm pretty sure that's broken. Enterprise? 
-DATA: It is unlikely that we will be able to establish communication
-with the ship, given the electromagnetic interference. 
-RIKER: We'll stay in the area until the Enterprise finds us. Take an
-inventory of the shuttle. See if there's anything left in there that's
-usable. The ground cover is all non-porous rock, which makes me believe
-it's even less likely there's anyone living here. 
-DATA: There are no instruments left of practical value that have not
-been damaged by our landing, sir. 
-TROI: What is that? 
-RIKER: That doesn't look like any storm front I've ever seen. 
-DATA: The tricorder is picking up high levels of EM bursts across the
-spectrum. No lifesign readings other than our own. 
-TROI: There is someone alive here. I'm more certain of it now than
-ever. 
-RIKER: Well, I hope they can find us, because there's no way we'll find
-them. 
-TROI: They're coming. They're coming with the storm. 
+RIKER: Mister O'Brien! Nice of you to join us. 
+O'BRIEN: Nice spot for a picnic, sir. We need to distribute these
+enhancer rods at seven metre lengths. That should do it. 
+RIKER: Is this storm front going to interfere with the transport,
+Chief? 
+O'BRIEN: I'd really like to get us out of here before it hits,
+Commander. I'm supposed to be feeding the baby lunch. Molly gets in a
+terribly foul mood if I'm late. 
+RIKER: I'm with you. 
+(the sky is very angry) 
+RIKER: Lunch time, Miles! Let's do it! 
+(O'Brien goes to turn on the pattern enhancers, and gets hit by
+lightning. They all fall down. Balls of light descend on them, but one
+flies away from Riker, who wakes up. He activates the enhancers and
+they are all beamed away)
+
+[Sickbay]
+
+(Troi wakes with a scream) 
+CRUSHER: Easy, Deanna. 
+TROI: Where? 
+CRUSHER: Back on the Enterprise. You're going to be okay. 
+TROI: My skin, it's tingling. 
+CRUSHER: You're experiencing the afterimages of the electromagnetic
+discharge. The sensation will pass. They're all fine, too. Now, I want
+you to take your time, Counsellor. Doctor's orders. 
+(Picard enters) 
+PICARD: Injury report, Doctor? 
+CRUSHER: Mostly minor abrasions. Commander Riker took the worst of it
+with a broken arm.
+PICARD: Mister Data. Good work, Chief. 
+O'BRIEN: Thank you, sir. 
+RIKER: Ready for duty, sir. 
+PICARD: You're sure, Number One? 
+RIKER: It's not the first bone I've ever broken. 
+PICARD: And how are you, Counsellor? 
+TROI: Very glad to be here. 
+PICARD: Good. Let's go. 

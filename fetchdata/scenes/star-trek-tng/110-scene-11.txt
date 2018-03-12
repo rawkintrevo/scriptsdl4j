@@ -1,49 +1,29 @@
-TROI LAFORGE PICARD RIKER VOICES BOK KAZAGO CRUSHER DATA
+WESLEY TROI CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ferengi Science Lab]
+[Sickbay]
 
-(Bok is working at a double of the thing in the
-trunk) 
-BOK: Try this, Hero of Maxia. 
-(He slides the top of the sphere around and)
-
-[Stargazer Captain's quarters]
-
-(Picard jerks up in pain and clutches at his head
-before collapsing. Crusher enters) 
-CRUSHER: Captain? Another headache? This really worries me. I want you
-back on the Enterprise. 
-PICARD: But my things 
-CRUSHER: I'll see they're sent to your Enterprise quarters.
-
-[Bridge]
-
-RIKER: Enterprise now taking possession of
-Stargazer, Kazago. 
-KAZAGO [on viewscreen]: Permission granted, Riker. 
-RIKER: Actually it was quite a bargain, Kazago. I thought the Ferengi
-always made a profit on things. 
-(Kazago growls and ends the transmission) 
-RIKER: Set sub-warp speed for towing, LaForge. 
-LAFORGE: Aye, sir. 
-(Picard enters, in pain) 
-DATA: Starfleet has responded to our request, sir. A tug will
-rendezvous with us and tow the Stargazer back to Xendi Starbase Nine. 
-PICARD: Very well, Data. 
-RIKER: How was it, Captain? 
-PICARD: Very strange, Number One. Like going back to the house you grew
-up in, but no one's home, except the phantoms of the past. 
-TROI: It has troubled you? 
-PICARD: Not half as much as this damn headache. Take over, Number One. 
-RIKER: Aye, sir. 
-(Picard leaves) 
-RIKER: What's wrong? 
-TROI: I wish I could say.
-
-[Picard's quarters]
-
-(The trunk has been delivered. Picard goes to lie
-down on his bed) 
-VOICES [OC]: Shields weakening, Captain. Torpedoes armed. Where are
-they? Oh my god, sir! Fire! Fire!
+(The output from the forehead devices is on a wall
+display) 
+CRUSHER: Obviously, there's some thought process disorder, but I can't
+find a physical reason for it. Anything?
+TROI: I'm puzzled too. I keep sensing random thoughts but two sets of
+them. As if they were his, but intermixed other thoughts which are also
+his. 
+(Wesley enters) 
+CRUSHER: I'm busy at the moment, Wesley. 
+WESLEY: I know, Mom, but this is important. When I went back to the
+main sensors in Engineering to try some more sensitivity experiments 
+TROI: Does this have something to do with Captain Picard? 
+WESLEY: Yes, ma'am, if this is what you're talking about here. I don't
+know much about brain scans but I glanced at these when you were
+studying them, and I noticed that these patterns are the same as those
+picked up from the low-intensity transmissions from the Ferengi ship. I
+went back and checked, and they're exactly the same. 
+TROI: What kind of transmissions? 
+WESLEY: I don't know. Engineering has nothing like it on record. 
+TROI: Let's get to the Captain. 
+CRUSHER: No, they might be affecting the Captain. To Riker. 
+(Crusher and Troi leave) 
+WESLEY: You're welcome, ladies. Adults.
 

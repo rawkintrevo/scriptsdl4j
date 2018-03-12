@@ -1,92 +1,73 @@
-TROI LAFORGE WORF PICARD RIKER RASMUSSEN CRUSHER DATA
+RIKER WOMAN LAFORGE WORF PICARD RASMUSSEN GUEST0 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Penthara science lab]
 
-(the lanky man is peering at a book on a stand -
-Shakespeare I presume) 
-PICARD: Exactly what kind of historian are you? 
-RASMUSSEN: My focus is on the twenty second through the twenty fourth
-centuries. Early interstellar history. You know, it was always believed
-this was on your desk, not here. Fascinating. Don't move it on my
-account. 
-PICARD: You can't expect me to believe that the layout of my ready room
-can possibly be of interest to future historians. 
-RASMUSSEN: No less so than your legendary modesty, Captain. If I could
-describe to you what a thrill it is to be here. (points at painting)
-This is the original. 
-PICARD: You flatter me Professor, but I can't help but wonder what
-could possibly have caused you to select me as the subject of your
-study. Even in this decade, there are far wiser and more experienced
-humans in and out of Starfleet. 
-RASMUSSEN: I'd love to tell you, Picard. I really would, but try and
-imagine what a young Caesar might have done differently had someone had
-given him a hint of what lay ahead, or if Lincoln had been coerced into
-changing his theatre plans. I truly wish I could be more specific on
-why you were selected, but I'm afraid the exchange of information will
-have to flow in one direction only. (paces out the room) Five, six,
-seven metres. Ha! I was right.
+(a lot of snow has fallen) 
+PICARD: We've located three underground pockets of carbon dioxide,
+here, here and here. Our drilling phasers can release enough of the gas
+to form an envelope which would temporarily hold in the heat of the
+sun. 
+GUEST0: We've spend years, decades, trying to avoid anything that
+would lead to a greenhouse effect and now here we are about to create
+one on purpose. 
+LAFORGE: Less than twenty percent of your normal sunlight is getting
+through that dust, Doctor. If we can hold enough heat in with the CO2,
+that should give the planet time to mend itself. 
+WOMAN: Excuse me, Doctor Moseley. 
+GUEST0: What now? 
+WOMAN: New Seattle's reporting a cloud depth of twelve kilometres. Two
+rivers, tropical rivers, are beginning to freeze. 
+GUEST0: We'd better get started before there's nothing left to mend.
 
-[Observation lounge]
+[Ten Forward]
 
-WORF: Why now? 
-LAFORGE: Right. If you've came back to study us, to study the captain,
-why would you pick today? Why not a year ago or a year from now? 
-RASMUSSEN: Oh, I picked the right day all right. Just wait, you'll see.
-Do you always sit there, on that side of the table? 
-WORF: Usually. Why? 
-RASMUSSEN: It's not important. 
-RIKER: Professor, at what point does time travel become a tool for
-historians? 
-RASMUSSEN: Now, now, Commander, you know better than that. I've studied
-a great deal about your century, including the fact that you're all
-quite aware of the dangers of anyone altering the past, and that's
-exactly what I'd be doing if I were to divulge information like that. 
-CRUSHER: Telurian plague. 
+(Rasmussen walks in and goes to the bar) 
+RIKER: Look who's here. 
+WORF: I hate questionnaires. 
+CRUSHER: Professor, come and join us. 
+RASMUSSEN: I hope I'm not intruding. 
+CRUSHER: Not at all. I'm sure you're the topic of conversation at every
+table in this room. 
+RASMUSSEN: As I promised, here are your assignments. I'm sure they'll
+be painless. Please try and complete them by tomorrow. 
+(hands out transparent chips, taking time to hold Beverly's hand while
+he does it) 
+WORF: Tomorrow? 
+RIKER: No problem, Professor. 
+RASMUSSEN: You're all very calm. 
+RIKER: Is there some reason we shouldn't be? 
+RASMUSSEN: History always records where people were, what they were
+doing, when important events took place. But it rarely remembers their
+activities say, a week before, or a day or even an hour. 
+WORF: Are you suggesting that an important event is imminent? 
+RASMUSSEN: I didn't say that, did I? Please, just go on doing what you
+were doing and pretend I'm not here. 
+RIKER: Why is there no record of other future historians travelling
+back to witness important events? 
+RASMUSSEN: We're obviously very careful. As a matter of fact, a
+colleague and I recently paid a call on a twenty second century vessel.
+
+CRUSHER: They hadn't perfected quarantine fields. You probably saw some
+surgical masks and gloves. 
+RASMUSSEN: Isn't it fascinating how everyone has different interests
+when it comes to history. Different perspectives on progress. 
+(Rasmussen opens a ring and looks inside) 
+RIKER: Would you mind telling me what that is? 
+RASMUSSEN: Just checking the time. No problem. 
+RIKER: Is something important supposed to be happening here? 
+RASMUSSEN: No, it's nothing, nothing. What about you, Commander? What
+do you see as the most important example of progress in the last two
+hundred years? 
+RIKER: I suppose the warp coil. Before there was warp drive, humans
+were confined to a single sector of the galaxy. 
+RASMUSSEN: Spoken like the consummate explorer. 
+RIKER: What is going on? Are you expecting someone? 
+WORF: Phasers. 
 RASMUSSEN: I beg your pardon? 
-CRUSHER: The telurian plague. Was it cured? I mean, did they find the
-cure by your century? Oh, it can't do any harm to ask that. 
-PICARD: I realise that it's difficult, but we must keep to ourselves
-questions regarding the future. Go on, Professor. 
-RASMUSSEN: I'll be preparing questionnaires for each of you. Please
-complete them at your convenience. If you're concerned about a possible
-breach of security, I'm sure your Captain can make a determination. And
-thank you in advance for curbing your curiosity. 
-LAFORGE: If I hand my assignment in on time, can I get a glimpse into
-next week's poker game? 
-PICARD: Mister Data, would you escort the Professor to his quarters. 
-DATA: This way, sir. 
-(Data and Rasmussen leave) 
-RIKER: What did he mean, he picked the right day? 
-PICARD: You know everything I do, Will. 
-RIKER: Deanna? 
-TROI: It's hard to tell, but he is holding something back. 
-CRUSHER: Of course he is. All the things he could tell us. All the
-things he would like to tell us. 
-TROI: It might be that, I don't know. 
-RIKER: What if he's an imposter? God knows we've seen enough of them. 
-PICARD: He is human. The medical scans have proved that, right, Doctor?
-
-CRUSHER: He's human, all right. 
-PICARD: And there was a temporal distortion back there, correct Mister
-Worf? 
-WORF: Yes, sir. 
-PICARD: And no one can deny that ship of his is unlike anything we've
-ever seen before. 
-LAFORGE: The hull is made of some kind of plasticised tritanium mesh.
-We've nothing like it on record, at least not till now. 
-PICARD: Mister Worf, I do appreciate your caution. I share it. Bring
-his vessel into the shuttlebay. Place it under guard. 
-WORF: Yes, sir. 
-PICARD: I realise that this visit is going to be difficult for some of
-us, but I've examined his credentials, and everything seems to be in
-order, so I think we should extend to him every courtesy. 
-WORF: Including questionnaires? 
-PICARD: Including questionnaires, Mister Worf.
-
-[Turbolift]
-
-(Rasmussen is peering closely at Data) 
-RASMUSSEN: This is really a thrill, Data, like running across a
-Redstone missile or a Gutenberg bible. To think, the Model T of
-androids.
+WORF: There were no phasers in the 22nd century. 
+RASMUSSEN: Ah, you see, Doctor? Our Klingon friend is a perfect example
+of what I was trying to tell you. He views history through the eyes of
+a hunter, a warrior. His passion lies in the perfection of the tools of
+violence. How delightfully primitive.
 

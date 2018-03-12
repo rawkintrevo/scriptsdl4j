@@ -1,114 +1,57 @@
-PICARD KELSO FARALLON DATA LAFORGE
+CRUSHER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-DATA: How were you able to accomplish the repair so
-quickly?
+(Crusher is making repairs to her own right arm) 
+WORF: Doctor, if you wish to master the bat'telh sword, you must learn
+to strike and avoid in the same motion. 
+CRUSHER: I almost got in under your guard, Worf. 
+WORF: Almost. 
+CRUSHER: Well, I'll keep that in mind next lesson. 
+(Data enters) 
+DATA: Doctor, are you injured? 
+CRUSHER: Only my pride, Data. (to Worf) Thanks. 
+(Worf leaves) 
+DATA: Doctor, what is the definition of life? 
+CRUSHER: (pause) That is a big question. Why do you ask? 
+DATA: I am searching for a definition that will allow me to test an
+hypothesis. 
+[Crusher's office]
 
-[Particle fountain laboratory]
-
-LAFORGE: You know, I'm not exactly sure.
-
-Captain's log, stardate 46315.2. Repairs to the
-particle fountain seem to have succeeded and it is now functioning
-smoothly. Doctor Farallon is coming aboard to demonstrate the device
-that carried out the repairs. 
-[Transporter room]
-
-DATA: Energise. 
-KELSO: Aye, sir. 
-(La Forge, Farallon and an exocomp are beamed aboard) 
-DATA: Welcome to the Enterprise, Doctor. I am Lieutenant Commander
-Data. 
-FARALLON: Mister Data, I was hoping I'd have a chance to meet you. I've
-done extensive studies of your positronic network. 
-DATA: And I have studied your design for the particle fountain. I find
-the concept to be highly innovative. 
-FARALLON: Thank you. 
-DATA: I am curious how you were able to repair the power grid so
-quickly. 
-FARALLON: This should make it clear, Commander. 
-LAFORGE: Why don't we set up in Engineering. 
-FARALLON: Is it true that your computational speed is limited only by
-the physical separation of your positronic links? 
-DATA: Actually, that is no longer the case. I have recently converted
-my interlink sequencer to asynchronous operation, which removed the
-performance constraint. 
-LAFORGE: Doctor, this way please. 
-FARALLON: I see. But how did you resolve the signal fragmentation? 
-(as they head out into the corridor) 
-DATA: The interlink sequencer is now bi-directional. It compensates for
-the asynchronous mode distortion arising from the resonant field. 
-FARALLON: Yes. That's fascinating. Does the sequencer require any
-buffering system to eliminate interference?
-
-[Engineering]
-
-FARALLON: We've been using devices like this on
-Tyrus Seven for years. The basic unit is a common industrial servo
-mechanism. A few years ago I started tinkering with one. This is the
-result. 
-LAFORGE: Boridium power converter. Axionic chip network. It's very
-impressive. In terms of sheer computational speed, this little guy
-might be able to compete with you, Data. 
-FARALLON: Oh, the exocomps don't come close to Data's sophistication. 
-DATA: Exocomps? 
-FARALLON: That's what I call them. Let's say you had an anti-matter
-flow converter that was fluctuating. How would you repair it? 
-DATA: The correct procedure would be to adjust the converter. 
-FARALLON: With what? 
-DATA: A mode stabiliser. 
-FARALLON: Okay. Let me input the problem into the exocomp. A
-fluctuating anti-matter flow converter. Now, let's see what happens. 
-(the little machine materialises a tool to use) 
-LAFORGE: A mode stabilizer. Very nice. 
-DATA: You have incorporated a micro-replication system into the device
-in order to fashion tools. 
-FARALLON: It's more than that. I designed the exocomps to be problem
-solvers. Whenever they perform a task they've never done before, the
-micro-replicator creates new circuit pathways within the unit's memory.
-
-DATA: So in a sense, they are learning. 
-FARALLON: Exactly. The more situations they encounter, the more circuit
-pathways they build. They become better tools as they work. 
-LAFORGE: It's impressive technology, that's for sure. Once it's out of
-the experimental stage, there'll be plenty of applications. 
-FARALLON: Commander, I'm hoping the experimental stage is over. When
-are we supposed to brief Captain Picard on the status of the particle
-fountain? 
-LAFORGE: At sixteen hundred hours. 
-FARALLON: Good. I'll have a proposal to make.
-
-[Ready room]
-
-FARALLON: Captain, I know you're supposed to give
-your evaluation to Starfleet today. I'd like you to postpone that
-report another forty eight hours. 
-PICARD: The Enterprise is scheduled to leave the Tyran system tomorrow.
-If I'm to change that plan, I'll need a very good reason. 
-FARALLON: I realise that, sir. If you're going to make a recommendation
-to Starfleet about using the particle fountain on Carema, it seems only
-fair that you should see it operating at full strength. 
-PICARD: Agreed. 
-FARALLON: I think I can complete the project and boost the efficiency
-of the particle stream if I use exocomps, the new devices I've
-constructed. 
-PICARD: I understand one of these devices successfully repaired a
-faulty power grid. 
-FARALLON: Yes, sir. I've been testing them on a limited basis, but I
-think they're ready to be used on a larger scale. 
-PICARD: Mister La Forge, what are your thoughts? 
-LAFORGE: Well, I guess the only risk is in falling even further behind.
-
-FARALLON: I'm willing to take that risk. 
-PICARD: Mister Data? 
-DATA: Exocomps are highly sophisticated devices, sir. If they perform
-up to expectation, their potential to advance this project is
-considerable. 
-PICARD: I'm inclined to agree. I don't think that forty eight hours is
-too much time to risk particularly when the gains areso substantial.
-You may proceed, Doctor. 
-FARALLON: Thank you, sir. If possible, I'd like Commander Data to work
-with me. 
-DATA: Thank you, Doctor. I welcome the opportunity.
+CRUSHER: Well, the broadest scientific definition
+might be that life is what enables plants and animals to consume food,
+derive energy from it, grow, adapt themselves to their surroundings and
+reproduce. 
+DATA: And you suggest that anything which exhibits these
+characteristics is considered alive? 
+CRUSHER: In general, yes. 
+DATA: What about fire? 
+CRUSHER: Fire? 
+DATA: Yes. It consumes fuel to produce energy, it grows, it creates
+offspring. By your definition, is it alive? 
+CRUSHER: Fire is a chemical reaction. You could use the same argument
+for growing crystals, but obviously we don't consider them alive. 
+DATA: And what about me? I do not grow. I do not reproduce. I am
+considered to be alive. 
+CRUSHER: That's true, but you are unique. 
+DATA: I wonder if that is so. 
+CRUSHER: Data, if I may ask. Have a seat. What exactly are youe getting
+at? 
+DATA: I am curious as to what transpired between the moment when I was
+nothing more than an assemblage of parts in Doctor Soong's laboratory,
+and the next moment, when I became alive. What was it that endowed me
+with life? 
+CRUSHER: I remember Wesley asking me a similar question when he was
+little, and I tried desperately to give him an answer, but everything I
+said sounded inadequate. Then I realised that scientists and
+philosophers had been grappling with that question for centuries
+without coming to any conclusion. 
+DATA: Are you saying the question cannot be answered? 
+CRUSHER: No, I think I'm saying that we struggle all our lives to
+answer it, but it's the struggle that's important. That's what helps us
+to define our place in the universe. 
+DATA: I believe I understand, Doctor. 
+CRUSHER: I don't think I've been very much help, Data. 
+DATA: On the contrary, you have been a great deal of help. Thank you.
 

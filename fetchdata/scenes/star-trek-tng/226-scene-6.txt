@@ -1,30 +1,5 @@
-PICARD RIKER DATA WORF
-
-[Bridge]
-
-RIKER: We're in orbit. 
-PICARD: Any sign of life? 
-WORF: Negative, sir. 
-DATA: Captain, sensors are picking up an unusual temporal disturbance
-on a small area of the planet's surface. Forty two degrees seven
-minutes north by eighty eight degrees declination east. 
-RIKER: Temporal disturbance? 
-PICARD: Put us in a standard orbit above those coordinates. 
-DATA: Spectral analysis shows a high level of triolic waves emanating
-from the same location. 
-RIKER: Any correlation with the readings from Earth? 
-DATA: Affirmative, sir. The magnetic signature is identical to the one
-found in the cavern. 
-PICARD: Would these triolic waves be dangerous to humanoids? 
-DATA: Only with long term exposure, sir. There is no immediate threat. 
-PICARD: Take an away team. 
-RIKER: Worf. Geordi. Troi. Join me in transporter room three for an
-away team. 
-DATA: Commander. 
-PICARD: Mister Data, I'll need your help to monitor the sensor readings
-during this investigation. 
-(the away team enter the turbolift) 
-DATA: Captain, may I speak to you alone?
+PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 
@@ -46,3 +21,16 @@ one cannot cheat fate.
 PICARD: Cheat fate? Perhaps we can't, Mister Data. But at least we can
 give it a try.
 
+[Devidia cavern]
+
+(a strong light source casts the away teams shadows
+on a sheer rock wall) 
+LAFORGE: The concentration of triolic waves falls off about here. It
+increases exponentially the closer in we go. 
+RIKER: What's the source? Something underground? 
+LAFORGE: Negative, Commander. 
+RIKER: What's the explanation? 
+LAFORGE: I don't have one yet. La Forge to Enterprise. 
+DATA [OC]: Go ahead.
+LAFORGE: Data, run a spectral field correlation for me. Let's find out
+if these triolic readings are in any way related 

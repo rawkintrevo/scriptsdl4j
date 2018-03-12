@@ -1,54 +1,47 @@
-NECHEYEV RIKER WORF PICARD LAKANTA WESLEY
+WESLEY SECURITY GUEST4 WORF GUEST7
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Habak]
 
-(entered by a ladder through a hole in the floor) 
-LAKANTA: This is the Habak, the focal point of our lives. Strangers are
-not welcome here. 
-WESLEY: When I asked to come here, you said it would be 
-LAKANTA: You're not a stranger. I told you, I've seen you here before. 
-WESLEY: What are those figures? 
-LAKANTA: They are Mansara. Dolls that represent the different spirits
-that come to this place. 
-WESLEY: This one looks like a Klingon. 
-LAKANTA: Yes. Our culture is rooted in the past, but it's not limited
-to the past. 
-(He scatters sand around the fire) 
-LAKANTA: The spirits of the Klingon, the Vulcan, the Ferengi come to us
-just as the bear and the coyote and the parrot. There's no difference. 
-WESLEY: What should I do? 
-LAKANTA: Start the fire. Then sit and wait. 
-WESLEY: What am I waiting for? 
-LAKANTA: This is your journey, Wesley. I can open the door, but only
-you can go through it.
+(the room is smoky and Wesley is getting dizzy.
+Lakanta vanishes) 
+[Village]
 
-[Ready room]
+(the fire is still between Wesley and the figure) 
+GUEST7: Wesley. 
+WESLEY: Dad? 
+GUEST7: You've reached the end, Wesley. 
+WESLEY: The end of what? 
+GUEST7: This journey. The one you started a long time ago, when I left
+you and your mother. 
+WESLEY: You mean when you died. 
+GUEST7: You set out on a journey that wasn't your own. Now it's time to
+find a path that is truly yours. Don't follow me any further. 
+WESLEY: I don't understand. 
+GUEST7: Yes, you do. It's just hard for you to accept. Goodbye, Wesley,
+and good luck. 
+WESLEY: Dad, wait!
 
-PICARD: Admiral, the Indian Councils is adamant.
-They refuse to leave Dorvan Five. NECHEYEV [on monitor]: Is there any
-indication that the Tribal Council will change their position in the
-near future? 
-PICARD: No, sir. 
-NECHEYEV [on monitor]: Then I see no other choice. 
-PICARD: Admiral, I have every reason to believe that they will resist
-any attempt to remove them. I strongly urge you to request an emergency
-session of the Federation Council. The issue of Dorvan Five must be
-reopened. 
-NECHEYEV [on monitor]: Captain, I made that request two days ago. The
-answer was no. I'm sorry but you have your orders. Starfleet out. 
-RIKER: So much for your reprieve from Starfleet. 
-PICARD: Anthwara believes that I am responsible for the crimes of one
-of my ancestors against his people. 
-RIKER: Do you believe that? 
-PICARD: No, of course not. I respect his belief, but I do not see how
-it can have any bearing on this mission. But even so, I can't help
-wondering if a dark chapter in my family's history is about to be
-repeated. If those people take up arms against us, then I cannot
-foresee the consequences. Mister Worf, will you come in here for a
-moment? 
-WORF [OC]: Aye, sir. 
-(Worf enters) 
-PICARD: Mister Worf, will you begin preparations to remove the
-inhabitants from Dorvan Five. 
-WORF: Aye, sir.
+[Habak]
+
+(the fire has gone out)
+
+[Village]
+
+WORF: Mister Crusher. Are you all right? 
+WESLEY: Yeah, Worf, I'm fine. 
+WORF: (to security woman) Lay out a confinement beam trace along the
+southeastern side of the village. Be discreet. We do not wish to alarm
+these people. 
+SECURITY: Yes, sir. 
+WESLEY: Worf, what are you doing? 
+WORF: We are laying out transporter coordinates for a security
+perimeter. It may be necessary to remove these people by force. 
+WESLEY: Worf, we can't do this. These people deserve better than to be
+removed from their homes. 
+WORF: I understand, but now is not the time or the place to 
+WESLEY: (shouts) Do you know what they're trying to do? They're
+preparing to beam you away and take you to their ship. You're not going
+to let them do that, are you? 
+GUEST4: No, we won't. Leave now.
 

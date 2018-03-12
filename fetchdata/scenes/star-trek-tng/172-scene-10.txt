@@ -1,42 +1,71 @@
-TOG LWAXANA TROI RIKER NIBOR
-
-[Holding cell]
-
-(Troi is back in her own dress now) 
-LWAXANA [telepath]: Little One, Tog's given me something perfectly
-hideous to wear. He says it flatters my beauty. 
-TROI: So far, Mother's in no danger. I hope she knows what she's doing.
-
-RIKER: Well, she's bought us some time. Let's make the most of it. (to
-the chess players) I wouldn't do that. 
-NIBOR: I don't need your help. 
-RIKER: The hell you don't. You're two moves away from being mated. See,
-you should have listened to me. Now you've only got one possible
-escape. That wasn't it. 
-(The other Ferengi makes his move, laughs and leaves) 
-RIKER: You should've moved the bishop. 
-NIBOR: Ridiculous! The bishop was pinned. 
-RIKER: Don't listen to me. Forget the fact that I beat you in thirty
-moves. 
-NIBOR: Pure luck. 
-RIKER: I was being polite. I could've won in twenty moves. 
-NIBOR: Then prove it. (sets up new game) Pawn to queen four, King's
-level. 
-RIKER: Pawn to king's bishop three, Queen's level.
+GUEST3 GUEST2 WORF PICARD TROI LWAXANA TOG
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Tog's quarters]
 
-LWAXANA: I must admit, when you first approached me
-aboard the Enterprise, I was intrigued. 
-TOG: You mean revolted. 
-LWAXANA: Perhaps a little. Do you forgive me? 
-TOG: Yes. With your powers we could be a formidable team. 
-(She grabs his hand to stop him removing her dress, but never looks
-directly at him) 
-LWAXANA: My, you have great strength in your hands. 
-TOG: And you like that? 
-LWAXANA: I have always admired strong males. 
-TOG: You are beautiful. It is impossible for me to resist you. 
-LWAXANA: Then don't. 
-(They pucker up and fall back on the bed. Troi cringes)
+TROI [telepath]: Mother, we're out of the cell and
+we're trying to contact the Enterprise, but we can't do it without
+Tog's access code. Do you think you could manage to 
+LWAXANA [telepath]: Say no more, Little One. 
+TOG: Lwaxana, you and I are going to make such a wonderful team. With
+your telepathy and my cunning, I foresee 
+LWAXANA: A very profitable future.
+
+[Bridge]
+
+WORF: Subspace interference is subsiding, sir.
+Communications have been restored. 
+PICARD: Good. Contact Commander Riker on Betazed. 
+WORF: Message coming in from Betazed, sir. Priority One. 
+PICARD: On screen. 
+GUEST3 [on viewscreen]: Captain Picard, at last. We have been trying to
+reach you for two days. 
+PICARD: Our communications have been blocked by the nebula, Reittan. Is
+there a problem? 
+GUEST3 [on viewscreen]: I'm afraid so, Captain. Lwaxana, Deanna and
+Commander Riker have disappeared.
+
+[Tog's quarters] 
+TOG: I knew I wanted you the moment I saw you. You
+have fulfilled all my expectations. 
+LWAXANA: How sweet. 
+TOG: Farek thought it was a bad idea, but I knew better. 
+LWAXANA: How clever. 
+TOG: I knew best. I always know best. 
+LWAXANA: How repugnant. 
+TOG: What? 
+LWAXANA: I said, how romantic. I can't resist a man who knows what he
+wants and goes after it. 
+TOG: That's me. That's why I'm DaiMon of this ship. I take charge of
+every situation. More to the left, woman. 
+LWAXANA: Whatever you say. My darling, would you care for something to
+drink? 
+TOG: You're so attentive. 
+LWAXANA: Does your food synthesiser know how to make an Arcturian Fizz?
+
+TOG: I don't think so. 
+LWAXANA: They have certain pleasure-enhancing qualities. 
+TOG: Mmm 
+LWAXANA: Let me teach your computer how to make one. I'll need your
+access code. 
+TOG: Yes, my beloved. Computer, access code kayee yooree dahtayee 
+GUEST2: Tog! Be silent! I knew you were not to be trusted. 
+LWAXANA: Doctor Farek! I was going to make DaiMon Tog a drink. 
+GUEST2: Save your lies for this fool. 
+LWAXANA: Oh please, don't listen to him. Don't. No, he's misunderstood
+me. 
+GUEST2: No, Tog. You have misunderstood. You have been tricked by a sly
+female who finds you repulsive. 
+TOG: She was only trying to serve me a drink. 
+GUEST2: You almost gave her complete access to the ship's computer. A
+security breach severe enough to cost you your command.! It's time you
+took my advice. Let me study her. 
+TOG: Study her? Your mind probes could kill her. 
+GUEST2: You brought her aboard for her telepathic powers. If I can
+determine what neural configuration gives her those powers, I may be
+able to duplicate them. We could still profit from this. 
+TOG: I don't know. 
+GUEST2: A true DaiMon would not be blinded by lust. Give her to me, or I
+may be forced to report your transgressions. 
+TOG: Very well. Take her.
 

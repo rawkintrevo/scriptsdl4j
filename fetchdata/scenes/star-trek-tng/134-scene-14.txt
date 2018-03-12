@@ -1,89 +1,38 @@
-VEKMA RIKER TACTICS WORF KLAG PICARD WESLEY MENDON DATA
+RIKER GUEST1 WORF PICARD KLAG GUEST2 DATA KARGAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Pagh Mess hall]
-
-TACTICS: Commander, you're not eating very much. 
-RIKER: I'm not that hungry. 
-KLAG: Is the food all right, Commander? 
-RIKER: It's delicious. The pipius claw was excellent. I also enjoyed
-this Bregit lungs. 
-VEKMA: And the Rokeg blood pie? 
-RIKER: Delicious. 
-KLAG: Good. Then you'll also enjoy this. 
-RIKER: Isn't that gagh? 
-KLAG: Very good. You did some research on our nutritional choices. 
-RIKER: Yes, but, it's still moving. 
-KLAG: Gagh is always best when served live. Would you like something
-easier? 
-RIKER: Easier? 
-KLAG: Yes. If Klingon food is too strong for you, perhaps we could get
-one of the females to breast feed you. 
-(laughter all round the tables) 
-RIKER: You're not worried about my weakening, are you? 
-KLAG: Look around you. There are no old warriors. 
-RIKER: No, sir, I'm sure they all died with honour. 
-KLAG: Exactly. You may live long enough to learn about us. 
-VEKMA: He is not very attractive, but I will have him. 
-TACTICS: They are inquisitive. They would like to know how you would
-endure. 
-RIKER: Endure what? 
-KLAG: Them. 
-RIKER: One or both? 
-(he grins, they all laugh, and the bonding has started) 
-VEKMA: I may be back for you. 
-RIKER: Is she serious? 
-KLAG: Yes. 
-(Other Klingons leave) 
-KLAG: Commander, would you say you're a typical Federation officer? 
-RIKER: I suppose so. Why? 
-KLAG: Well, it's just you're not what I expected. 
-RIKER: In what way? 
-TACTICS: You have a sense of humour. 
-RIKER: I was thinking the same thing about you. In all my dealings with
-Klingons, including our Lieutenant Worf, the thought never occurred to
-me of Klingons laughing. 
-TACTICS: There is much about us you do not know. 
-RIKER: That's why I'm here. 
-KLAG: You should ask. 
-RIKER: I may. After this tour, I may have some worthy questions. 
-KLAG: Questions about what? About our future? Our future is honour. Our
-present is serving this ship. 
-TACTICS: Like you, I have a mother and a father. They look like me, I
-look like them. 
-RIKER: Are they still alive? 
-TACTICS: My mother lives, My father was killed in battle at Tranome
-Sar. 
-RIKER: And your father? 
-KLAG: My father? My father was captured in battle by Romulans and not
-allowed to die. He eventually escaped. 
-RIKER: Where is he now? 
-KLAG: He is on our planet. He waits. 
-TACTICS: He waits for his death. 
-KLAG: He will eventually fade of a natural illness and die, weakened
-and useless. Honourless. I will not see him. 
-RIKER: He's your father. 
-KLAG: A Klingon is his work, not his family. That is the way of things.
-
-RIKER: He's your father. 
-KLAG: Klingons do not express feeling the way you do. 
-RIKER: Perhaps you should. 
-KLAG: We would not know how. 
-RIKER: Yesterday, I did not know how to eat gagh. 
 [Bridge]
 
-MENDON: It is confirmed that the organisms feed on
-some of the compounds that make up the hull of the Enterprise. 
-PICARD: And the Klingon ship, the Pagh? 
-MENDON: They are much more susceptible. Their hull contains more of the
-compounds. 
-PICARD: Projection. 
-DATA: According to the rate of reproduction, there should be a twelve
-centimetre opening in the Klingon hull at this time. 
-PICARD: Signal them at once. They could be unaware of the danger. They
-may need our help. 
+GUEST2: Sir, I have something to report to you
+immediately. 
+PICARD: Yes, go ahead, Ensign. 
+GUEST2: I have managed to isolate the organisms on our hull. They are a
+sub-micron form capable of breaking nuclear bonds in the tritanium
+plating. 
+PICARD: But can they be removed from the hull? 
+GUEST2: Yes. They are controllable and can be removed from the hulls of
+both ships by using a tunnelling neutrino beam. 
+PICARD: Thank you, Ensign. Well done. Initiate that procedure .
+Lieutenant, add that information to hailing messages. 
 WORF: Aye, sir. 
-PICARD: Change course to intercept. 
-WESLEY: Aye, sir. 
-DATA: It will take some time to locate them, sir. They are on
-undesignated manoeuvres in the Pheben system. 
-PICARD: Find them. 
+[Pagh Bridge]
+
+GUEST1: Lieutenant. 
+KLAG: The Enterprise has changed hailing messages. They now include a
+promise of cleaning the organisms and helping in repairs. 
+RIKER: I told you, they're here to help. 
+KARGAN: I do not believe them. Arm all weapons. Prepare to attack!
+
+Captain's log, Stardate 42507.8. Although our
+search has been extensive, we are still unable to locate the Klingon
+ship or any evidence of it's destruction. 
+[Bridge]
+
+DATA: Considering the absence of debris, Captain,
+it is reasonable to assume the Klingon vessel is in the area and
+cloaked. 
+PICARD: Agreed. 
+DATA: And since we do not know it's intent, I recommend we go to Red
+Alert. 
+PICARD: Make it so, Lieutenant. 
+WORF: Aye, sir. 

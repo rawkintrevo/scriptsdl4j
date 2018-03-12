@@ -1,34 +1,29 @@
-ANTICAN RIKER WORF TASHA PICARD SINGH
+PICARD RIKER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Antican quarters]
+[Ready room]
 
-RIKER: These weapons were taken from two of your
-people who were loitering out of sight in the vicinity of the Selay
-delegation quarters. Would you care to explain, sir? 
-ANTICAN: These are not weapons, First Officer. They are tools. We use
-these to dispatch the animals we consume. 
-TASHA: Your food supply is not on the same deck as the Selay
-delegation, sir. 
-RIKER: And you have to admit that these could kill. 
-ANTICAN: I admit some of my people are impulsive. and we all have
-reason to hate the Selay. 
-TASHA: They appear to have the same feelings about you, sir. 
-ANTICAN: The nature of politics. 
-RIKER: Nevertheless, Chief Delegate, you're on notice that all of your
-weapons, no matter what their basic function, are being confiscated.
-Violence will not be tolerated on the Enterprise. 
-ANTICAN: Of course not. And if any does occur, let me assure you it
-will not be we Anticans who start it. 
-TASHA: Thank you, sir. 
-(Riker and Tasha leave) 
-ANTICAN: But we will finish it.
+PICARD: Yes? 
+CRUSHER: I'd like you to come to Sickbay for some examinations,
+Captain. 
+PICARD: Oh? I'll be glad to do when I'm free. 
+CRUSHER: I'd like to conduct them now, sir. 
+PICARD: Why? What can I do for you, Number One? 
+RIKER: Sir, Counsellor Troi has recommended the examinations. 
+PICARD: Same question. Why? 
+RIKER: It is my duty to inform the Captain we believe he may be under
+some kind of alien influence which may constitute a danger to this
+ship. 
+PICARD: I consider it equally possible that the two of you, and
+Counsellor Troi, are overworked, and possibly suffering hallucinations.
+Now this is an order. You will arrange medical and psychiatric exams of
+both yourself and them. Doctor, are you aware everybody is behaving
+strangely? 
+CRUSHER: I'm concerned that you've suddenly turned the ship away from
+it's course. 
+PICARD: What's happened to your mind, Doctor? The search for knowledge
+is always our primary mission. I'm sorry, I really am too busy for this
+kind of nonsense. Do I have to call Security to force you to report to
+the Sickbay? 
+CRUSHER: No, sir.
 
-[Bridge]
-
-WORF: Sir, warp power is fading. 
-PICARD: Picard to Engineering. 
-
-[Engineer's office]
-
-PICARD [OC]: What is the problem? 
-SINGH: We have lost the warp engine computer tie. 

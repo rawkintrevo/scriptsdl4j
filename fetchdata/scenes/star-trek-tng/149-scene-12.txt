@@ -1,45 +1,27 @@
-PICARD RIKER DATA LAFORGE ARDRIAN
+PICARD TROI RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ard'rian's home]
+[Ready room]
 
-ARD'RIAN: You really think we'll have to leave Tau
-Cygna Five? 
-DATA: The possibility does exist, yet Gosheven seems unwilling to
-prepare for it. Why? 
-ARD'RIAN: Maybe because you're an android. I don't think Gosheven likes
-the idea of machines ordering him around. 
-DATA: I am not ordering him to do anything. I am merely trying to
-persuade him that his people should prepare to evacuate. Do you believe
-my suggested course of action should be followed? 
-ARD'RIAN: Of course. 
-DATA: In spite of the fact that I am an android? 
-ARD'RIAN: Because of that fact. I don't have any silly prejudice
-against computers. I like them. Not that any computer we have is half
-as sophisticated as you are. 
-(Data looks around) 
-DATA: No, I would say not. 
-ARD'RIAN: People can be selfish, irrational, stubborn, malicious, you
-name it. But computers don't have those failings. 
-DATA: And you conclude because of this that I am impartial. Hence, you
-accept my recommendations? Yet Gosheven does not. 
-PICARD [OC]: Picard to Commander Data. 
-DATA: Data here. 
-PICARD [OC]: The Sheliak won't bargain. 
-DATA: Understood, sir. 
-[Bridge]
+TROI: In our dealings with other non-humanoid races
+there has been some point of reference. Not so with the Sheliak. 
+PICARD: But we must have something in common. We communicate. 
+TROI: Barely. They have learned several Federation languages, but
+theirs continues to elude us. 
+PICARD: Telepaths? 
+TROI: Attempted and failed. Actually, the fact that any alien race
+communicates with another is quite remarkable. We are stranded on a
+planet. We have no language in common, but I want to teach you mine.
+(she hold up his cup of tea) S'smarith. What did I just say? 
+PICARD: Cup? Glass? 
+TROI: Are you sure? I may have meant liquid, clear, brown, hot. We
+conceptualise the universe in relatively the same way. 
+PICARD: Point taken. 
+TROI: In your talks, you must be extremely accurate. The treaty is five
+hundred thousand words. The length was to accommodate the Sheliak. They
+consider our language irrational, and demanded this level of complexity
+to avoid any future misunderstandings. 
+RIKER [OC]: Captain, we have the vessel carrying the Sheliak colonists
+on visual. 
+PICARD: On my way. So, it begins.
 
-PICARD: I'm contacting Starfleet to arrange
-transport. Get those people prepared to evacuation. We may have to move
-quickly. 
-[Ard'rian's home]
-
-DATA: Aye, sir. We must speak to Gosheven
-immediately.
-
-[Transporter room]
-
-(A test object is beamed out successfully, but
-returns as a molten blob. Riker enters) 
-RIKER: Gentlemen, how's it coming? What the hell is that? 
-LAFORGE: Our first attempt. 
-RIKER: Keep at it. We need those transporters. 

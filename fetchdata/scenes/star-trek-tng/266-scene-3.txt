@@ -1,25 +1,37 @@
-PICARD CRUSHER
+DATA GUEST0 LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Engineering]
 
-CRUSHER: You wouldn't believe what I've been
-reading about in my grandmother's journals. You know she had a lover?
-Can you believe that? Nana was a hundred years old. 
-PICARD: It would seem the Howard women have exceptionally vigorous
-libidos. 
-CRUSHER: I certainly hope so. After all, I hope I can find a handsome
-young man in his thirties when I pass the century mark. 
-PICARD: Thirties? 
-CRUSHER: Yes. According to these journals, his name is Ronin and he's
-thirty four years old. They met just after my great-grandmother's
-death. And I think I saw him at the funeral. A handsome young man
-tossed a camellia onto her grave. But the strange thing is, she never
-mentioned him in her letters. Never once. And yet it appears they spent
-almost all their time together. It's as if she led an entire life that
-I knew nothing about. 
-PICARD: Well it looks like we're going to be on Caldos for a few days
-more. This will be a good opportunity to get your grandmother's affairs
-in order. 
-CRUSHER: Thank you. 
-(Beverly enters her quarters) 
-PICARD: Thirties? 
+DATA: The colony's aqueduct system is functioning
+normally, as are the communication relays. 
+GUEST0: We've been having a few tremors over the past couple of
+months. Could you check the seismic stabilisers? 
+DATA: Certainly. 
+GUEST0: You can't imagine what it's like trying to enjoy afternoon tea
+while the earth is shaking. 
+LAFORGE: Governor, did you know you had a power fluctuation in your
+weather control system? 
+GUEST0: No. Our weather control's been working perfectly for the last
+twenty two years. 
+LAFORGE: I can't isolate the exact source, but the fluctuation seems to
+be originating from one of the substations that regulates atmospheric
+humidity for the colony. 
+GUEST0: Is this going to be a problem? 
+LAFORGE: No, not yet, but power distribution patterns are already off
+by five percent. 
+DATA: I suggest we analyse the planet's weather patterns to see if they
+have been affected. I am reading unusually high humidity across the
+entire southern desert region and there is increasing cloud activity
+above the northern coastal area. Possibly the formation of a storm
+system. 
+GUEST0: A storm? It's the middle of summer. We don't have rain at this
+time of year. 
+LAFORGE: Data, let's see if we can correct this. I'll check out the
+colony's climatic flow array. 
+DATA: I will run a diagnostic on the thermal regulators. 
+LAFORGE: Don't worry, Governor. We'll keep you dry. 
+GUEST0: I certainly hope so. There's a caber toss scheduled for
+tomorrow afternoon. I'd hate to see it spoiled by an unexpected
+downpour.
+

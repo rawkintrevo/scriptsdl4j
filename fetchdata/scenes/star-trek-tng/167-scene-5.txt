@@ -1,33 +1,35 @@
-PICARD RIKER TROI
+PICARD TROI VASH WORF RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Corridor]
 
-RIKER: I'm glad to hear you say so, sir. 
-PICARD: Unfortunately, this vessel is about to undergo extensive
-repairs requiring my personal supervision. 
-RIKER: What about Risa? 
-PICARD: Some other time, Number One. 
-TROI: Will, I've just had some terrific news. 
-RIKER: Really? 
-TROI: There's an excellent chance my mother may be joining us on
-Starbase twelve. 
-PICARD: Your mother? 
-TROI: She's returning home from a conference on Achrady Seven, and
-she's going to try to rearrange her schedule so she can spend some time
-visiting with us. 
-RIKER: That's wonderful, Deanna. 
-TROI: She mentioned how much she was looking forward to seeing you
-again, Captain. 
-PICARD: Did she? Commander, could I have a word with you? 
-(As Riker and Picard leave, Deanna clasps her hands and mouths Yes!) 
-[Ready room]
+RIKER: I do have one request, sir. 
+PICARD: You want me to bring you back a souvenir? 
+RIKER: It's called a Horga'hn. I don't think you'll have any trouble
+finding one. 
+PICARD: Consider it done. 
+WORF: Captain, I would feel better if you would allow me to assign a
+security officer to you. We will be out of communication range when we
+leave orbit. 
+PICARD: I really don't think that will be necessary, Mister Worf. Risa
+has a reputation of being a most peaceful planet. 
+WORF: Aye, sir. 
+PICARD: Well, the ship is yours, Number One. 
+TROI: Enjoy your trip, Captain. 
+PICARD: I'll try, Counsellor. 
+(Picard enters the transporter room) 
+RIKER: He's going to have a great time.
 
-RIKER: Is something wrong, Captain? 
-PICARD: Tell me, Number One, is the entire crew aware of this little
-scheme to send me off on holiday? 
-RIKER: I believe there are two ensigns stationed on deck thirty nine
-who know nothing about it. 
-PICARD: I suppose this means I can look forward to a week of continual
-harassment on this subject? (signs) I admit, I've been feeling a little
-fatigued.
+[Resort Lobby]
+
+(Picard is looking around when a woman bumps into
+him) 
+PICARD: I beg your pardon. 
+(She sees a Ferengi enter, and throws her arms around Picard's neck) 
+VASH: God, it's so good to see you again. 
+(She kisses Picard) 
+PICARD: I think you've mistaken me for someone else. 
+VASH: You know, I think you might be right. Welcome to Risa. 
+PICARD: A simple handshake would have sufficed. 
+(He walks past the aliens from the opening scene) 
 

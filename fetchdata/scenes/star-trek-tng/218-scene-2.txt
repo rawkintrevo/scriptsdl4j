@@ -1,42 +1,5 @@
-RIKER LAFORGE WORF OGAWA CRUSHER DATA
-
-[Someone's quarters]
-
-(Data does a fast, professional shuffle) 
-RIKER: Sometimes I wonder if he's stacking the deck. 
-DATA: I assure you, Commander, the cards are sufficiently randomised. 
-WORF: I hope so. 
-DATA: Eight, Ace, Queen. The dealer receives a four. 
-WORF: No bet. 
-DATA: Ten. Seven. No help there. A pair of ladies for the Doctor. The
-dealer receives a nine. Doctor? May I remind you since you show the
-highest hand, you control the next bet. 
-CRUSHER: Thank you, Data. I bet ten. Worf?
-DATA: Jack. Four. Deuce. Six. 
-CRUSHER: Twenty. 
-RIKER: Your twenty, and fifty more. 
-WORF: Fifty? 
-CRUSHER: I'm in. 
-DATA: I will also see the bet. Seven. A possible straight for Commander
-Riker. Jack. Still no help for the Klingon. Eight. Nine for the dealer.
-
-CRUSHER: Twenty. 
-DATA: Too rich for my blood. 
-RIKER: Your twenty, one hundred more. 
-WORF: Fold. 
-CRUSHER: Two hundred. 
-RIKER: Your two, and three hundred more. 
-WORF: He does not have a straight. 
-CRUSHER: We'll soon find out, won't we. Let's see your cards. 
-RIKER: Take it. How'd you know I was bluffing? 
-CRUSHER: I just had a feeling. 
-RIKER: I guess it's better to be lucky than good. 
-CRUSHER: It's the way your left eyebrow raises when your bluffing. Just
-kidding, Commander. 
-OGAWA [OC]: Ogawa to Doctor Crusher. 
-CRUSHER: Go ahead. 
-OGAWA [OC]: Commander La Forge needs you in Sickbay. 
-CRUSHER: On my way.
+CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 

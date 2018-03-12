@@ -1,32 +1,45 @@
-PICARD RIKER DATA
+TROI LAFORGE WORF PICARD RIKER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Bridge]
 
-PICARD: Come. 
-RIKER: Yes, sir? 
-PICARD: Three weeks. Starfleet is profuse in their apologies, but it
-will still be three weeks until the arrival of a colony transport ship
-equipped with dedicated personnel shuttles. 
-RIKER: We can't wait three weeks. 
-PICARD: Then the Sheliak must agree to extend our deadline. They plan
-to settle Tau Cygna Five two days from now. 
-RIKER: One of their ships must already be en route. 
-PICARD: We're going to intercept that ship. 
-RIKER: The Sheliak may interpret that as a hostile act. 
-PICARD: A risk we have to take.
+(The senior crew are working through the treaty,
+page by page) 
+WORF: This is hopeless. Fighting would be preferable. 
+(Picard stops it at paragraph 1290 Third Party Arbitration Clause) 
+PICARD: That's it. 
+TROI: I don't follow you, sir. 
+PICARD: Mister Worf, get me the Sheliak. 
+WORF: Yes, sir. Coming through, sir. 
+PICARD: Pursuant to paragraph one thousand two hundred and ninety, I
+hereby formally request third party arbitration of our dispute. 
+GUEST2 [on viewscreen]: You have the right. 
+PICARD: Furthermore, pursuant to subsection D three, I name the
+Grisellas to arbitrate. 
+GUEST2 [on viewscreen]: Grisellas? 
+PICARD: Unfortunately, they are currently in their hibernation cycle,
+However, they will awaken in six months, at which time we can get this
+matter settled. Now, do you want to wait or give me my three weeks? 
+GUEST2 [on viewscreen]: Absurd. We carry the membership. We can brook
+no delay. 
+PICARD: Then I declare the treaty in abeyance, 
+GUEST2 [on viewscreen]: Wait! Negotiation is permiss 
+(Picard has him cut off in mid word) 
+RIKER: You enjoyed that. 
+PICARD: You're damned right. 
+WORF: Captain, they are hailing us. 
+(one, two, three, four, make him wait outside the door. Picard inspects
+the ship's plaque for dust) 
+WORF: Sir? 
+(Five, six, seven, eight, does the beggar good to wait) 
+PICARD: On screen. 
+GUEST2 [on viewscreen]: You may have your three weeks, Picard of the
+Enterprise. 
+PICARD: Thank you. 
+(The Sheliak ship turns around. La Forge enters) 
+LAFORGE: Captain, we can do it. We can modify the transporters. 
+PICARD: Excellent. 
+LAFORGE: It'll take fifteen years, and a research team of a hundred. 
+PICARD: Mister La Forge, I believe we will postpone. 
+LAFORGE: Yes, sir.
 
-[Observation lounge]
-
-RIKER: The Enterprise is going to try to intercept
-the Sheliak colony ship. Your job well, you know what your job is. 
-DATA [OC]: Commander. 
-[Main square]
-
-DATA: In human parlance, I do not believe I can get
-the job done. My training has prepared me for starship command duties.
-As a cultural contact I am proving to be 
-[Observation lounge]
-
-DATA [OC]: Less than exemplary. 
-RIKER: What's the situation? 
-DATA [OC]: Their leader refuses my counsel. 

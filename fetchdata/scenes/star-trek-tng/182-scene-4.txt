@@ -1,38 +1,64 @@
-PICARD RIKER DATA LAFORGE WORF
+TROI LAFORGE WORF PICARD RIKER COMPUTER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten Forward]
+[Corridor]
 
-PICARD [OC]: I apologise for interrupting your
-celebration, but I'm going to need an away team. Could you report to
-the Bridge, please?
+RIKER: What about Geordi and Worf? Were they
+infected too? 
+CRUSHER: Thankfully, no. Geordi appears to have been immune and the
+Klingons don't seem to be affected by the virus. 
+RIKER: Speaking of Klingons 
+CRUSHER: There've been quite a few changes on the Enterprise in the
+last sixteen years.
+
+[Turbolift]
+
+CRUSHER: Deck eight. 
+RIKER: Belay that order. 
+CRUSHER: We should begin the associational therapy in your quarters.
+Personal recollections are always the most vivid. 
+RIKER: My life was on the main Bridge. Always has been. If anything's
+going to jog my memory. Main Bridge. 
+COMPUTER: Repeat command. 
+RIKER: I said main Bridge. 
+CRUSHER: Computer's been slow all morning. A processing accelerator's
+down. Commander La Forge has running a level one diagnostic to isolate
+the problem.
 
 [Bridge]
 
-DATA: Although Alpha Onias three is a class M
-planet, our survey teams have listed it as barren and inhospitable. 
-RIKER: Any life signs? 
-DATA: No, sir, but we have traced residual energy readings to a cavern
-two kilometres beneath the surface. 
-WORF: Romulans? 
-DATA: It is possible. 
-PICARD: I suppose you'll just have to go down there and find out. 
-RIKER: Geordi, Worf, you're with me. 
-PICARD: Number One. Happy birthday.
-
-[Cavern]
-
-(They beam into a place of extraordinary
-stalagmites and a wonderfully flat floor) 
-LAFORGE: I'm detecting high levels of volcanic gases. Sulphur dioxide,
-methane, hydrogen sulphide. 
-RIKER: Toxic? 
-LAFORGE: We're okay for now, but I wouldn't want to spend my vacation
-here. 
-RIKER: What about energy readings? 
-WORF: Magnetic clutter is increasing. I cannot make an accurate
-determination. 
-LAFORGE: Same here, Commander. I'm getting a lot of confusing readings
-here, 
-PICARD [OC]: Commander Riker, please acknowledge. 
-RIKER: Riker here.
+RIKER: Geordi. 
+(He has normal eyes) 
+LAFORGE: Oh, it's good to see you up and about again, sir. 
+RIKER: Your eyes. What happened to your visor? 
+LAFORGE: My visor? I'm sorry, sir. Doctor Crusher told us that you
+might not remember. I haven't need a visor since I got these cloned
+implants, Captain. 
+(Worf is at Ops, and a Ferengi at helm) 
+WORF: Captain. 
+(Data is in a red uniform) 
+DATA: Welcome back, Captain. We were not expecting to see you on the
+Bridge so soon. 
+RIKER: Commander Data. You're my First Officer? 
+DATA: Do you remember, sir? 
+RIKER: Data, I haven't remembered a day for the last sixteen years. 
+WORF: Captain, warbird uncloaking. 
+DATA: On screen. 
+RIKER: Shields up. Red alert. 
+DATA: Captain, we were expecting the Decius. There is no cause for
+alarm. 
+RIKER: Cancel red alert. Clearly I need to be briefed. 
+WORF: Captain, the Decius is hailing us. The Admiral wishes to speak to
+you. 
+RIKER: On screen. 
+(A bearded Picard, and a uniformed Troi by his side) 
+PICARD [on viewscreen]: Will. 
+RIKER: Admiral Picard. Deanna. 
+TROI [on viewscreen]: How are you feeling? 
+RIKER: I've felt better. 
+PICARD [on viewscreen]: Not surprising. Altarian viruses can be a nasty
+business. 
+RIKER: That's an understatement. I can't even 
+PICARD [on viewscreen]: We'll discuss this after we've transport over.
+Picard out.
 

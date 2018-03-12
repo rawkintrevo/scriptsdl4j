@@ -1,70 +1,31 @@
-GATES RIKER WORF PICARD KATERAS VORIN CRUSHER DATA
+PICARD NIKOLAI CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Stellar cartography]
+[Holodeck planet surface]
 
-DATA: These are the two planets which best match
-our search criteria. Draygo Four features an unusually large temperate
-zone. However, it is within three light years of Cardassian space. 
-CRUSHER: There are constant border disputes in that sector. 
-DATA: The alternative is Vacca Six. It is located in the Cabral sector.
+NIKOLAI: Get in! Get in! The storm is getting
+worse! Stay inside. Worf and I will take care of you. 
+(once everyone is out of sight) 
+WORF: Commander, energise. 
+[Planet surface]
 
-CRUSHER: That's pretty isolated. 
-DATA: It offers a less hospitable climate than the Boraalans are
-accustomed to. However, it would still appear to be the better choice.
-Do you disagree, Doctor? 
-CRUSHER: No, Data, you're right. It's just that the enormity of what
-we're doing is overwhelming. We are deciding the future of a species. 
-DATA: It is a formidable responsibility. 
-CRUSHER: There are so many questions we don't have answers to. What if
-the climate is so different that it affects them in a way that we can't
-anticipate? How do we even know they'll be able to survive? And if they
-do, how will their society evolve and what impact will it have on the
-Vaccan system? We have no idea what this decision will mean to their
-future. 
-DATA: Doctor, I do not believe we can offer any guarantees. We can
-simply make the best choice we have at the moment. 
-CRUSHER: All right, Data. Vacca Six it is. 
-DATA: Data to Bridge. 
-PICARD [OC]: Picard here. 
-DATA: We have located a new home for the Boraalans, sir. 
-[Bridge]
+(sudden peace. the people come out) 
+WORF: The storms will not return. 
+NIKOLAI: As I said he would, my brother Worf has saved us all.
 
-DATA [OC]: It is Vacca Six in the Cabral sector. 
-RIKER: We can reach that in forty two hours at maximum warp, sir. 
-PICARD: Very well. Helm, set course for Vacca Six. 
-GATES: Aye, sir. 
-[Holodeck Cavern]
+Captain's log, stardate 47427.2. The Boraalans have
+safely reached the site of what will eventually become their new
+village. None of them suspects they ever left their planet. However,
+our success has come at a high price. 
+[Vorin's quarters]
 
-(the meal is ending and Vorin is writing on a
-series of thin wooden sheets) 
-WORF: What is this? 
-VORIN: Our chronicle. The history of our village. Doesn't your village
-keep a chronicle? 
-WORF: Not in this manner. 
-VORIN: Then how do you teach your children their history, who their
-ancestors were, where they come from? 
-WORF: We tell each other stories, make up songs. 
-VORIN: Stories change with each person who tells them. This, this will
-always be the same. Our chronicle has been maintained for seventeen
-generations. I was only able to save the last six. This shows the
-destruction of our village. This is you and Nikolai leading us to
-safety. 
-WORF: We must leave. Gather your belongings. 
-VORIN: One of the scrolls is gone. I must have dropped it in the
-passageway. I'll go find it. 
-WORF: We must stay together. We will have to leave it behind. 
-VORIN: Worf, the chronicle is the life of our village. Without that
-past, our future means nothing. I must find it. 
-WORF: Go, and return quickly. 
-KATERAS: Seer. I am an old man. Would you help me with my gear? 
-WORF: Of course. 
-KATERAS: That is Tarrana, my daughter. I am fortunate she was old
-enough to survive the storms. 
-WORF: She is a fine girl. 
-KATERAS: She is a beautiful girl. She has not been promised to anyone.
-If I do not reach our new home, I would like her to become your wife. 
-WORF: You will reach your new home. I promise. 
-(meanwhile, Vorin has found his scroll, and the arch partly showing in
-the rock. He touches it and the door appears. He steps forward, it
-opens and out he goes)
+(Beverly covers Vorin's face) 
+CRUSHER: I think it was some form of ritual suicide. 
+PICARD: He said that he had nowhere to go. 
+CRUSHER: He would have died even if we hadn't interfered. 
+PICARD: But he wouldn't have died alone and afraid. 
+CRUSHER: Are you saying you're sorry we saved the Boraalans? 
+PICARD: No, of course not. Our plan for them worked out well. But I
+wish that Vorin could have bridged the gap between our two cultures. I
+would have liked the chance to have known him better.
 

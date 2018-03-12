@@ -1,62 +1,49 @@
-PICARD CRUSHER LAFORGE SUSANNA
+COMPUTER LAFORGE GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Corridor]
 
-CRUSHER: Her blood pressure's still falling. Apply
-the T-cell stimulator. We have got to stabilise her immune system. 
-(Alyssa goes off, Picard and Geordi enter) 
-CRUSHER: She has developed an extreme sensitivity to light. We're
-trying to make her as comfortable as we can. 
-(Picard and Crusher leave Geordi to approach Susanna, who is covered in
-protruding blue veins on purple skin. Her eyes are green vertical slits
-on yellow) 
-LAFORGE: Oh, God. 
-SUSANNA: Geordi? 
-LAFORGE: Susanna, hold on, okay? Doctor Crusher will help you, so just
-hold on. 
-SUSANNA: It's inside of me, Geordi. I can't fight it. It's winning. 
-LAFORGE: Don't give up. Do you hear me? You can't give up, Suz. 
-[Crusher's office]
+LAFORGE: Computer, is the Tarchannen simulation
+ready? 
+COMPUTER: Affirmative. Programme complete. Enter when ready. 
+(Geordi notices his hand is starting to tremble) 
+[Holodeck - Tarchannen]
 
-CRUSHER: This is one of Susanna's altered skin
-cells, and this is one of the alien cells Data found. 
-PICARD: They're almost identical. How do you explain that? 
-CRUSHER: Jean-Luc, I think the people from Tarchannen Three who
-disappeared weren't abducted. I think they were transformed into
-another species. 
-LAFORGE: Can you stop it, Doctor? 
-CRUSHER: The T-cell stimulator will slow the rate of change, but until
-I find the cause. 
-PICARD: Is the Enterprise at risk? 
-CRUSHER: No. I checked the cell wall integrity. It's viability is
-extremely low. I don't think it's possible for Susanna to transmit it. 
-LAFORGE: Then how did she get it? 
-CRUSHER: I wish I knew. The only thing I do know, Geordi, is that it's
-very possible that you'll be next. 
-LAFORGE: But I had two full bioscans today. You said I was fine. 
-CRUSHER: I gave Susanna a bioscan, too. I didn't find anything wrong
-with her, either. 
-LAFORGE: How long? 
-CRUSHER: Brevelle was sick for days before he left. Mendez was normal
-an hour before she disappeared. You may have weeks or very few hours. 
-LAFORGE: Then there's not much time to waste. I should get back to
-work. 
-CRUSHER: Geordi, until I know what we're dealing with, I think you
-should stay here, in Sickbay. 
-LAFORGE: Doctor, you said it would help if you knew the source of this.
-If I can continue my analysis of the mission records, I might find an
-answer. 
-PICARD: Mister La Forge, what if you begin to change? What if you feel
-compelled to go down to the planet like the others? 
-LAFORGE: Programme the computer to monitor my movements. That way we
-can be sure that I don't leave the ship. What would you do, Captain?
-Would you sit it out here in Sickbay or try to learn what it is that's
-got you and maybe stop it? 
-PICARD: Very well, Mister La Forge. You proceed with your
-investigation, but I want you to report to Doctor Crusher for a bioscan
-at the start of day watch. 
-LAFORGE: Aye, sir. 
-CRUSHER: And Geordi, if you have symptoms of any kind, I want to know
-immediately. 
-LAFORGE: Understood.
+LAFORGE: Computer, scan Starfleet records and
+create a simulation of Brevelle. Place him where he was while recording
+this. Okay, good. Computer, based on their speed and direction, can you
+extrapolate each officer's movements as they walk out of the recording
+device's field of view? 
+COMPUTER: Affirmative, with an increasing probability of error reaching
+ninety five percent after ten seconds. 
+LAFORGE: Understood. Run simulation. 
+HOLO-SUZ: I want to make another sweep of the perimeter. La Forge, you
+start at building four. Mendez and Brevelle, you begin at two. I'll
+take five. 
+(the people move off and Brevelle switches off his recording/lighting
+device) 
+LAFORGE: Computer, freeze. It's all happening too fast. Computer,
+reverse simulation. Run it back to time index fourteen seven two. 
+(everyone goes backwards) 
+LAFORGE: Freeze programme. Computer, remove La Forge. And now remove
+Leitjen. And now remove Mendez. 
+(and we clearly see the shadow of a half-crouching person against the
+building) 
+LAFORGE: Computer, using vector analysis, identify the source of this
+shadow. 
+COMPUTER: There is no object in the programme which could generate the
+shadow. 
+LAFORGE: There has to be something between the camera light and this
+wall. Computer, given the distance between the light and the wall, can
+you determine the most likely shape and position of the object causing
+this shadow? 
+COMPUTER: There is insufficient data to reconstruct the requested
+object. 
+LAFORGE: All right, let's say that my friend and I here are about the
+same size, say one pint seven metres. Now, can you extrapolate its
+shape and its position? 
+COMPUTER: Affirmative. 
+LAFORGE: Do it. 
+(Then Geordi gets pains in his chest, and falls to his knees. The
+transformation is starting)
 

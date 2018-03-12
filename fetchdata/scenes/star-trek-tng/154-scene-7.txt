@@ -1,43 +1,55 @@
-WESLEY GUINAN LAFORGE RIKER
+PICARD RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ten forward]
+[Engineering]
 
-LAFORGE: Don't you have anything stronger than
-this, Guinan? 
-GUINAN: Yes. 
-LAFORGE: Would it help? 
-GUINAN: No. 
-LAFORGE: Tell me something, Guinan. You're a woman, right? 
-GUINAN: Yes, I can tell you I'm a woman. 
-LAFORGE: What is it that you want in a man? 
-GUINAN: Me personally? 
-LAFORGE: As a woman. What's the first thing you look at? 
-GUINAN: His head. 
-LAFORGE: His mind. Of course. 
-GUINAN: No, his head. I'm attracted to bald men. 
-LAFORGE: Seriously? 
-GUINAN: Seriously. 
-LAFORGE: Why? 
-GUINAN: Maybe because a bald man was very kind to me once when I was
-hurting. Took care of me. 
-LAFORGE: I'd like to do that. 
-GUINAN: I take care of myself these days. 
-LAFORGE: I mean, take care of somebody. I just don't get it, Guinan. I
-can field strip a fusion reactor. I can realign a power transfer
-tunnel. Why can't I make anything work with a woman like Christi? It's
-like I don't know what to do, I don't know what to say. 
-GUINAN: You're doing fine with me. 
-LAFORGE: You're different. 
-GUINAN: No, you're different. 
-LAFORGE: But I'm not trying now. 
-GUINAN: That's my point.
+RIKER [OC]: We need warp power now! 
+LAFORGE: Matter-anti matter mixture ratio settings at optimum balance
+Reaction sequence corresponding to specified norms. Magnetic plasma
+transfer to warp field generators per programme specs. Commander, we
+should be going like a bat out of hell.
 
 [Bridge]
 
-RIKER: What is it, Wes? 
-WESLEY: The main power returner is acting a little weird. 
-RIKER: Define weird. 
-WESLEY: I'm getting fluctuating waveguide readings. 
-RIKER: Run a maintenance sweep. 
-WESLEY: Right.
+DATA: Power loss now at twelve percent, Captain. 
+PICARD: Red alert. 
+WORF: Radiation intensity increasing. 
+LAFORGE [OC]: We'd better slow these engines down before we burn out
+the reaction chamber. 
+RIKER: Slow to idle, Geordi. 
+PICARD: Is it possible we've fallen into the same snare that killed
+them? A thousand year old booby trap?
+
+[Observation lounge]
+
+LAFORGE: With the engines idling, the energy loss
+has been limited, but our reserves will be depleted in less than three
+hours. We won't be able to hold our shields in place. 
+PICARD: Mister Worf, have you been able to identify the source of the
+radiation? 
+WORF: No, sir. The radiation field is so strong it interferes with our
+sensors. 
+PICARD: And no apparent explanation for the energy loss? 
+LAFORGE: No, sir. 
+
+RIKER: Is there anything in the history books, Data, that could give us
+a clue? 
+DATA: There are many fascinating records of Menthar battle strategy.
+They were exceptionally innovative. In fact, they were the first to use
+the Kavis Teke elusive manoeuvre as well as the passive lure stratagem
+that is comparable to Napoleon's 
+RIKER: Any mention of a situation like this? 
+DATA: No, sir. 
+RIKER: I recommend that I return to the cruiser with an away team. 
+LAFORGE: They didn't have much success with this problem, Commander. 
+RIKER: No, but they knew who their enemy was better than we do. They
+may have known what caused the trouble. They just didn't know how to
+get out. 
+PICARD: Agreed. Mister Worf, what would be the impact of lowering the
+shields long enough to get the away team out? 
+WORF: Negligible. 
+LAFORGE: Won't do much for our energy conservation, Captain. 
+PICARD: That's your job, Commander La Forge. Determine some way to keep
+the Enterprise up and running. Data, you join Commander Riker on the
+away team. Find out what happened on that ship.
 

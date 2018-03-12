@@ -1,163 +1,34 @@
-RIKER LAFORGE WORF VARRIA PICARD WESLEY FAJO DATA
-
-[Jovis Cargo bay]
-
-(The rear hatch on shuttlepod Pike closes and Data
-gets into the pilot's seat) 
-DATA: Loading is complete. I am proceeding with departure. Enterprise
-shuttlebay two, prepare for docking, level one
-precautions for incoming material remain in effect. 
-VARRIA: If you'll just acknowledge this last load, Commander 
-(Data puts his thumb on the PADD and is enveloped in electricity. He is
-knocked out cold. Varria takes back the PADD then she scans him) 
-VARRIA: Twenty six point eight kilos of tripolymer composites. Eleven
-point eight kilos of molybdenum-cobalt alloy. One point three kilos
-Bioplast sheeting. 
-[Bridge]
-
-LAFORGE: Shuttle twelve containment field reads
-nominal. Now leaving the Jovis. 
-PICARD: On viewer. 
-LAFORGE: Containment field stable. Gravitational fluctuations within
-acceptable parameters. Flight pattern 
-(Shuttlepod Pike goes Ka-BOOM! Stunned expressions all round)
-WORF: Data. 
-Captain's log, supplemental. As the result of a yet
-unexplained shuttle explosion, Lieutenant Commander Data has been lost.
-
-[Bridge]
-
-RIKER: Why didn't the containment field hold? 
-LAFORGE: Unknown, Commander. 
-PICARD: Hail the Jovis. I want to speak with Kivas Fajo. 
-WORF: Sir, Mister Fajo is hailing us. 
-PICARD: On viewer. 
-FAJO [on viewscreen]: Captain Picard, what happened? 
-PICARD: It's unclear. We're running a full analysis. 
-FAJO [on viewscreen]: We detected no malfunctions before the explosion.
-Everything seemed to be running as smoothly as the other flights. Were
-you able to save the pilot? 
-PICARD: No. 
-FAJO [on viewscreen]: I'm sorry. 
-PICARD: Mister Fajo, I would like to analyse your sensor readings of
-the explosion. 
-FAJO [on viewscreen]: Compared to the Enterprise's, our sensors are
-rather primitive. I doubt they contain any information that your
-sensors overlooked. 
-PICARD: Perhaps, but I don't want to leave any avenue unexplored. 
-FAJO [on viewscreen]: I understand. We'll transmit the information. 
-WORF: Link established. Receiving. 
-FAJO [on viewscreen]: Can we be of any further assistance? 
-PICARD: How much hytritium did we manage to bring on board? 
-RIKER: Eighty one kilos. 
-LAFORGE: That will barely allow us to complete our mission, Captain,
-but it leaves us no margin for error. 
-PICARD: Mister Fajo, I realise we have acquired your complete supply of
-hytritium. Do you know where we could obtain some more? 
-FAJO [on viewscreen]: That may be difficult. The only source I know is
-in the Sigma Erani system. 
-RIKER: Three weeks away, sir. 
-FAJO [on viewscreen]: And I can't guarantee they'll have any. For
-obvious reasons, no one wants to keep it around. In fact, even I may
-stop selling it. It's just too dangerous. 
-RIKER: I guess we're fortunate you had any at all, sir. 
-WORF: Captain, transfer of information complete. 
-PICARD: Mister Fajo, thank you for your help. 
-(transmission ends) 
-PICARD: Mister Crusher, set a course for the Beta Agni Two system, warp
-six. 
-WESLEY: Aye, sir. 
-RIKER: The Grissom is near the Sigma Erani system. I'll alert them to
-stand by in case we need more hytritium. 
-PICARD: Thank you, Number One. 
-WESLEY: Course laid in, sir. 
-PICARD: Engage.
+DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Fajo's den]
 
-(It's a large, clean room with ornamentation
-arranged on display around the walls and a red circular seat in the
-middle. The rigid Data is currently laid across it. He suddenly reboots
-and sits up. His communicator is gone) 
-DATA: What am I doing here? 
-(Fajo and Varria enter) 
-FAJO: Wondrous. The detail. The balance. Was I not right, Varria? What
-a remarkable piece of work. 
-DATA: Why have I been brought here? 
-FAJO: The voice simulation. it's perfection. The inflections, the
-timing. 
-(Fajo snaps his fingers to test Data's responses, then speaks to him as
-if Data does not understand English, complete with gestures) 
-FAJO: It took great effort. Effort. to bring you here. I was sure he'd
-be worth it. I was right. 
-DATA: I've been delivered here against my wishes. I would like to know
-the reason. 
-FAJO: Certainly. You have been brought here for my enjoyment and my
-appreciation. 
-DATA: Am I to infer that you intend to keep me captive? 
-FAJO: Captive? Captive? That's such an inappropriate description. My
-dear android. May I call you Data? 
-DATA: It is my name. 
-FAJO: Data. You will be catered to, fawned over, cared for as you never
-have been before. Your every wish will be fulfilled 
-DATA: I wish to leave. 
-FAJO: Almost every wish. 
-DATA: This is unacceptable, sir. I have no desire to remain here and
-even if I did, my Starfleet duties would not allow it. 
-FAJO: It's so single minded, isn't it? 
-VARRIA: Very persistent. 
-FAJO: But it's very polite, which is a very nice touch. I decline to
-allow you to go. 
-DATA: Then I am forced to attempt escape. 
-(Data tries to force the door open) 
-FAJO: Ten androids just like you might be able to force that thing
-open. But then again, there aren't any more just like you, are there?
-It's keyed to galvanic skin responses and DNA patterns. Sorry. 
-DATA: Then you will have to open it for me. 
-(But as soon as Data gets to almost arms reach of Fajo, he is stopped
-by a green forcefield. He tries again at a run and is thrown back
-across the room) 
-FAJO: Oh. Really, I wouldn't do that again if I were you. This is a
-proximity-actuated field. It impedes positron flow.
-It's very bad for the brainpaths in the long term. 
-DATA: I fail to understand the value you place on my presence. 
-FAJO: Well, just look around the room. There are items her gathered
-from half the galaxy. Right here. This is the very first Basotile ever
-created. (a sort of avant-guard sculpture) Sorry. (Fajo moves so Data
-can see it) It's very, very ancient. Hundreds of years old. It's
-priceless. 
-(He goes past a beautiful porcelain urn on a stand to an orange
-rectangular thing) 
-FAJO: Come. This vase is made by Mark, the late Mark Off-Zel from
-Sirrie Four. (painting) Dali. This is the only known Roger Maris
-trading card from Earth circa 1962. The smell? Bubblegum. I've
-preserved the scent. What? A Lapling. 
-(A glove puppet with huge blue eyes in a case) 
-DATA: I thought they were extinct. 
-FAJO: Extinct? Good. That is what is generally believed. She is the
-last surviving member of her species. They're very defenseless
-creatures, really.
-Everything that you see in the room here, everything. One of its kind.
-Unique. All original. Just as you are. There. (a chair) That is your
-place of honour. Sit, sit. Sit! You think perhaps it might be
-uncomfortable? But then again, you don't give a thought to comfort, do
-you. (to Varria) When Palor Toff learns of that, he'll swallow his
-tongue with envy. I can't wait to see his face. You are the crown jewel
-of my
-collection. You're a treasure beyond comparison. 
-(The comm. beeps) 
-VARRIA: Yes, go ahead. 
-FAJO: I think you should be flattered. 
-DATA: I am not, sir. Most intelligent lifeforms find involuntary
-confinement offensive and inequitable. Moreover, you have
-violated Federation law 
-FAJO: I know, I know. What I've done is evil, selfish, immoral,
-unprincipled, illegal. Well, I've learned to live with it. 
-VARRIA: The Andorians wish to make a bid on the shipment of Tellurian
-spices you offered. 
-FAJO: They've had four days to decide! Why do they have to decide
-right! Sorry. 
-DATA: I must emphasize, Mister Fajo, that I consider this captivity a
-hostile act on your part. 
-FAJO: You'll get used to it.
+GUEST0: Kivas wishes you to wear this set of
+clothes, and to sit in your chair. 
+DATA: I have no reason to accede to Mister Fajo's wishes. 
+GUEST0: He will give you reasons if you force him to. 
+DATA: Mister Fajo is deluding himself if he believes he can keep me
+here. The Enterprise is certain to find me. 
+GUEST0: They're not even looking for you. They think you're destroyed.
+Your shuttle blew up. A hytritium explosion. 
+DATA: They will scan the debris and discover I was not aboard. 
+GUEST0: They'll find exactly what they thought they'd find. Traces of
+your component elements. We put them aboard the shuttle in just the
+right proportions. 
+DATA: Clearly, Mister Fajo has no moral difficulty with my imprisonment
+here. 
+GUEST0: Mister Fajo has no moral difficulties at all. 
+DATA: Do you? 
+GUEST0: Clever, android. Is it part of your programme to seek out
+vulnerabilities in your enemies? 
+DATA: Yes. Are you my enemy? 
+GUEST0: I obey Fajo. And so does everyone on this ship. 
+DATA: Why? 
+GUEST0: You are a curious thing, aren't you? 
+DATA: Do you object to the question? 
+GUEST0: Kivas finds a way to get what he wants from his people. His
+rewards for loyalty are lavish. His punishments for disloyalty are
+equally lavish. You won't find anyone here on this ship to help you
+escape. Face it, android. He has you. 
+DATA: It appears he has us both.
 

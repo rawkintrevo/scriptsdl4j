@@ -1,56 +1,33 @@
-RIKER LAFORGE WORF PICARD PULASKI WESLEY KAREEN MAN
+DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Graves' laboratory] 
+(Graves is whistling 'If I only had a heart' from
+the Wizard of Oz in between coughing at his desk) 
+DATA: I have noticed, Doctor 
+GUEST0: Call me Grandpa. Seems more touching in my final hours. 
+DATA: I have noticed, Grandpa, that you keep repeating the same notes
+of a musical phrase I am unfamiliar with. 
+GUEST0: It's an ancient little tune called 'If I Only Had A Heart.' A
+plaintive lament sung by a mechanical man who longs to be human. It's
+his only wish. 
+DATA: What happens to this man? 
+GUEST0: He finds out he's human after all. Always was. Just worried so
+much, he never realised it. 
+DATA: A happy ending. The mechanical man gets his wish. 
+GUEST0: Stories often have happy endings. It's life that throws you for
+a loop. It must be so hard for you, to be so close to being human and
+yet never really knowing what it's like to know pain. 
+DATA: But pain is unpleasant, is it not? 
+GUEST0: Pain. Lust. Envy. Pleasure. Desire. Do you know what desire is,
+Data? 
+DATA: Desire? To long for, to crave, a wish, a request, a 
+GUEST0: Do you know what desire is? 
+DATA: No. I do not suppose I will ever really know. 
+GUEST0: I feel pity for you. Your existence must be a kind of walking
+purgatory. Neither dead nor alive. Never really feeling anything. Just
+existing. Just existing. Listen to me. A dying man takes the time to
+mourn a man who will never know death. Funny, isn't it? 
+DATA: Funny. I have had great difficulty determining what funny is. 
+GUEST0: I've had the same difficulty most of my life. We're much alike.
 
-WORF: We are receiving a transmission from
-Gravesworld, sir. It's unfocused. Not directed specifically at us. 
-PICARD: On viewer, Mister Worf. 
-KAREEN [on viewscreen]: (a young blonde woman) If anyone can hear me,
-please send a doctor. Things are getting worse. 
-(Transmission ends) 
-PICARD: Try and raise her, Mister Crusher. Tell them we're only minutes
-away. 
-WESLEY: It's no good, sir. I don't believe they're receiving us. 
-WORF: Our records show that she and Graves are the only ones living on
-the planet, Captain. 
-RIKER: Then what scared her? 
-WORF: Captain, I am picking up another signal, but it is not from the
-planet. 
-PICARD: On screen, Mister Worf. 
-WORF: The signal is very weak, sir. Audio only. 
-PICARD: Pipe it through. 
-MAN [OC]: Mayday! Mayday! This is the USS (static) questing emergency
-assistance.
-(static) The outer hull is breached and environmental systems
-compromised. Need assistance. 
-WESLEY: Captain, I show the Constantinople in that general vicinity.
-She's a transport ship, used to ferry settlers. I'm showing two
-thousand and twelve colonists aboard. 
-RIKER: Outer hull breach. She must have had an internal explosion. 
-PULASKI: If that's the case, they'll all be prone to severe hypoxia.
-Their lives are at risk. We've got to help them. 
-PICARD: And what about Graves? 
-PULASKI: He's one man. 
-RIKER: Suggestion, Captain. Why don't we execute a long range transport
-of an away team to assist Doctor Graves at earliest possible moment.
-We'd come out of warp just long enough to energise the beam. 
-PICARD: A touch and go down warping? Mister Crusher, prepare to make it
-so. 
-WESLEY: Aye sir. 
-PICARD: Engineering, Mister La Forge. We're going to execute a near
-warp 
-[Engineering]
-
-PICARD [OC]: Transport. This may be a little
-tricky. I would like you to handle it.
-LAFORGE: Yes, Captain. 
-[Bridge]
-
-LAFORGE [OC]: I'm on my way. 
-PICARD: Assemble an away team, Number One. Include whoever the Doctor
-requires to assist. 
-PULASKI: Excuse me sir, but there may be hundreds on the Constantinople
-that require emergency attention. I should be there to supervise. 
-PICARD: All right, who will replace you? 
-PULASKI: Lieutenant Selar. She has my complete confidence. 
-RIKER: Worf, let's go. 

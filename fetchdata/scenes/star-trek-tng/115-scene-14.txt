@@ -1,37 +1,27 @@
-BEATA RIKER LAFORGE WORF PICARD CRUSHER DATA
+BEATA GUEST1 RIKER TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Beata's quarters]
 
-PICARD: How contagious is it? 
-[Sickbay]
-
-CRUSHER: Still running tests. The key is to figure
-out how the virus is transmitted. So far I've been able to rule out 
-[Bridge]
-
-CRUSHER [OC]: Person to person contact. 
-PICARD: Well, keep with it, Doctor. Starfleet has very important
-business for us as soon as the away team returns. I don't fancy the
-idea of my crew being infected. 
-[Great Hall]
-
-RIKER: Data, what's the best way to go about
-finding Ramsey and the other survivors? 
-DATA: If we can isolate something unique to the Odin survivors, perhaps
-an element not otherwise found on Angel One, we can utilise the
-Enterprise scanners. 
-RIKER: Mister Data will need access to your library. 
-BEATA: Our library is far too sophisticated for a man to comprehend. 
-DATA: I am an android, Mistress, although anatomically I am a male. 
-BEATA: An amusing notion. Maybe you could teach our males a thing or
-two. Trent, see to the android's needs. 
-[Bridge]
-
-WORF: Bridge to Captain Picard. 
-PICARD: [OC]: Go ahead, Lieutenant. 
-WORF: The away team requests that we scan the planet surface for traces
-of platinum. 
-PICARD: [OC]: Have Mister La Forge break fixed orbit and initiate a
-search pattern. 
-WORF: Aye, Captain. Geordi. 
-LAFORGE: Search pattern initiated now. 
+BEATA: What a refreshing change to be with a man
+who knows what he wants.
+RIKER: And doesn't have to be told by a woman? 
+BEATA: Exactly. I knew you were bright enough to understand. You see,
+women, by our very nature, want only what is best for their men. 
+RIKER: Men are not objects to be possessed, Mistress Beata. 
+BEATA: Of course they're not. It was merely a figure of speech. 
+(Doorbell. She rolls over and turns off the meditation crystal and gets
+up.) 
+BEATA: Enter. 
+(Trent comes in) 
+BEATA: What is so important you find it necessary to intrude upon my
+privacy? 
+GUEST1: They have returned, Mistress, but without Ramsey or the others. 
+(Tasha, Troi and Data enter) 
+BEATA: Your advanced technology has proven inadequate? 
+RIKER: What happened, Tasha? 
+TROI: Mister Ramsey and the other survivors refuse to leave. 
+BEATA: You gave me your solemn word. 
+RIKER: I'm sorry, there's nothing else we can do. 
+BEATA: I'm sorry as well. Since you refuse to take them with you, I am
+left with no choice but to sentence them all to death. 

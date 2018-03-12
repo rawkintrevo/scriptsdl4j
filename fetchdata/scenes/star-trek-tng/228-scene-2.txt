@@ -1,23 +1,5 @@
-RIKER OBRIEN LAFORGE PICARD CRUSHER BARCLAY
-
-[Engineering]
-
-PICARD [OC]: Mister La Forge, can we beam an away
-team onto the science ship?
-LAFORGE: We can beam them over there, Captain, but with all this
-interference, we might not get a positive lock to bring them back. 
-BARCLAY: Commander, if we bridged our transporter system with theirs we
-might be able to cut through the ionic field. 
-LAFORGE: That's a good idea, Barclay. Captain, I think we can do it.
-We're going to bridge the two transporter systems. 
-PICARD [OC]: Acknowledged. Meet Commander Riker in Transporter room
-three. 
-LAFORGE: Aye sir. Barclay, I'm going to need a systems engineer on this
-Away Team. 
-BARCLAY: I'll ask Ensign Dern to join you. 
-LAFORGE: I meant you, Barclay. 
-BARCLAY: Shouldn't I stay here and set up the remote link? 
-LAFORGE: Dern can do that. Come on, let's go.
+RIKER CRUSHER OBRIEN LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 

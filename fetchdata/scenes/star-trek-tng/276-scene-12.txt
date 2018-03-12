@@ -1,154 +1,41 @@
-MACIAS SANTOS RO KALITA
+RIKER WORF PICARD RO DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Room]
+[Bridge]
 
-MACIAS: (middle aged man) Don't be afraid. You're
-not in danger here. 
-SANTOS: What is your name? 
-KALITA: Did you kill that Cardassian soldier? 
-RO: Who are you? 
-SANTOS: We're the people who saved you from Starfleet. 
-RO: Thanks, but I'll be going now. 
-(Kalita points a weapon at Ro) 
-SANTOS: Did you kill that Cardassian? 
-RO: Yes. 
-KALITA: That's a risky thing to do in the Demilitarised Zone. You can
-end up being hunted by Starfleet and the Cardassians. 
-RO: Then why did he risk bringing me here? 
-KALITA: We're asking the questions. Who are you? 
-RO: My name is Ro Laren. I grew up in the Bajoran camps. 
-MACIAS: That would explain why you have no love for Cardassians. 
-RO: I know what they're capable of. They tortured my father to death
-and I was forced to watch. 
-SANTOS: Where are you living now? 
-RO: Nowhere. I was a Starfleet officer, but I was court-martialled and
-sent to the stockade on Jaros Two. I'm not exactly what you'd call
-Starfleet material. 
-SANTOS: When were you on Jaros? 
-RO: What difference does it make? 
-KALITA: We want to check your story. When were you there? 
-RO: Starfleet let me out about three years ago because I agreed to do
-some work for them, mostly having to do with Bajor. But I got tired of
-watching them placate the Cardassians, and so I left. 
-KALITA: You resigned? 
-RO: Not officially. That's part of the reason why they're looking for
-me. 
-SANTOS: What were you doing on Omara? 
-RO: Look, I think I've answered enough of your questions. I would like
-to know who you people are. 
-MACIAS: Let's say that we sympathise with those who oppose Cardassia. 
-RO: Are you Maquis? 
-MACIAS: What if we were? 
-RO: If you were, I would ask if I could join you and help you fight. 
-MACIAS: We'll check your story. Go ahead, I'll keep an eye on her. 
-(Kalita hands over the weapon then she and Santos leave. Macias puts
-the gun on his chair) 
-MACIAS: Come, let's stretch our legs.
-
-[Settlement]
-
-(it's evening and the crickets are singing) 
-RO: Aren't you taking a chance by letting me see all of this? What if
-my story doesn't check out? What if I'm not who I say I am? 
-MACIAS: Well, then we'll have a problem, won't we? 
-RO: You are Maquis, aren't you? 
-MACIAS: Many of the people here are. 
-RO: Starfleet considers you outlaws. They're afraid you'll destroy the
-peace treaty. 
-MACIAS: They don't understand the situation here in the Zone. I lived
-on Juhraya. When the treaty was signed the colony suddenly found itself
-in Cardassian territory. Some of us chose to stay, take our chances.
-Then one night I was dragged from my bed and beaten. The authorities
-clucked their tongues and agreed it was an unfortunate incident, and
-did nothing. 
-RO: I'm not surprised. The Cardassians intend to make life so
-unpleasant for Federation citizens that they'll leave. 
-MACIAS: Exactly. And no one seems to see that, except the Maquis. How
-old were you when your father was killed? 
-RO: I'd rather not talk about it. 
-MACIAS: Hungry? Would you like something? 
-RO: No, thank you. 
-MACIAS: (to replicator) Hasperat. 
-RO: You like hasperat? 
-MACIAS: An old Bajoran friend of mine used to make it. His was
-stronger. He was killed many years ago fighting the Cardassian
-occupation of Bajor. I miss his company, and his hasperat. 
-RO: My father used to make the strongest hasperat you've ever tasted.
-Everything else seems mild by comparison. 
-MACIAS: Did he teach you how to make it? 
-RO: Yes. But I haven't tried it in years. 
-MACIAS: If you would make the brine for a really strong hasperat. I
-mean eye watering, tongue searing strong, you'd make an old man very
-happy. 
-RO: I would enjoy making it again. 
-SANTOS: Macias. I've checked with my sources at Starfleet. Her story's
-true. 
-MACIAS: I was sure it was. Kalita, she'll stay with you until we can
-find her a room.
-
-[Meeting room]
-
-MACIAS: Ah there you are. 
-KALITA: We've just heard a disturbing rumour. 
-RO: Another rumour? 
-KALITA: One that I think we should take seriously. A trader coming from
-Pendi Two said he could verify that the Cardassians are going to start
-supplying their colonists with biogenic weapons. 
-RO: I thought every shipment coming into the Zone was searched. 
-KALITA: The Cardassians always seem to find a way around problems like
-that. 
-SANTOS: Then we have to make a preemptive strike. Send a message to the
-Cardassians that we won't sit still while they kill us with toxins. 
-MACIAS: Agreed. But we can't mount a strike without medical supplies
-and our stockpile is dangerously low. 
-KALITA: If we put in a request for more, it'll draw suspicion. 
-RO: I can get medical supplies. I served on the Enterprise. They always
-have extra medkits on hand for relief missions. 
-SANTOS: You're wanted by Starfleet. They're not going to give you
-medkits just because you ask for them. 
-RO: I have no intention of asking for them. I intend to take them. 
-KALITA: How? The Enterprise is a fortress. 
-RO: I know its security systems work. Give me a ship. I can do it. 
-SANTOS: It's madness. 
-KALITA: We can't let her do something like this. We don't know anything
-about her. 
-MACIAS: I know that she can make very strong hasperat. 
-KALITA: What? 
-MACIAS: We need medical supplies. I think we should let her try. 
-KALITA: All right. But I'm going with her. 
-RO: I could use an extra hand at the controls. And a witness.
+RIKER: Anything? 
+DATA: No, sir. It will take approximately six hours to scan this
+system. 
+WORF: Captain, the distress call is being repeated. 
+PICARD: Data, can you locate the signal? 
+DATA: I am attempting to do so.
 
 [Ro's ship]
 
-RO: I set the transporter confinement parameters to
-maximum. We should be able to fill our hold with medical supplies with
-just one single beam out. 
-KALITA: I had no idea it was going to be so easy. 
-RO: We're approaching the Federation border. 
-KALITA: How do you plan to get out of the Demilitarised Zone without
-being searched at one of the checkpoints? 
-RO: We're going to cross the border here. 
-KALITA: There are sensor buoys all along the border. If we cross
-anywhere other than a checkpoint, Starfleet will send a ship to
-investigate. 
-RO: With the right security codes, we can disable the proximity
-detectors on the buoys. 
-KALITA: Starfleet changes those codes all the time. 
-RO: I know the encryption algorithms. If I can access the buoy's
-protocol subsystem I should be able to figure out the codes. 
-KALITA: Should be able to? 
-RO: Do you want this mission to succeed? 
-KALITA: Of course I do. We need those medical supplies. 
-RO: In that case, let me do my job. I'm in. 
-KALITA: What's wrong? 
-RO: If I don't input the right code in the next twenty seconds, we'll
-trigger the proximity alarm. 
-KALITA: I'm getting us out of sensor range. 
-RO: Don't. If we break the comm. link, we won't be able to try again. 
-RO: It worked. Until they change the access codes again, we can cross
-the border here.
+GUEST3: They're scanning our last position. 
+RO: All right, I've locked onto their sensor beam. I'm going to use it
+to manoeuvre into transporter range. 
+GUEST3: How are we going to beam through their shields? 
+RO: We can't. If we're going to get those medical supplies, we're going
+to have to take this ship through their shields.
 
-Captain's log, stardate 47943.2. It has been over a
-week since Lieutenant Ro left the Enterprise. We have yet to receive
-any communication from her.
+[Bridge]
 
+DATA: Sir, I am scanning the area from which the
+distress signal was sent, but I am unable to detect a vessel. 
+WORF: Captain, the computer has detected a piggyback communication on
+the last distress signal. 
+PICARD: Can you decode it? 
+WORF: It will take a few moments. 
+PICARD: Do it.
+
+[Ro's ship]
+
+RO: The Enterprise shields have a weak point. When
+the ship is at impulse, the thrust destabilises the shield
+configuration right at this point. (between the nacelles) I'm going to
+try to punch through there. 
+GUEST3: Won't they detect us? 
+RO: They'll know something's penetrated the shields. With all the
+interference it'll take them a few seconds to find us. We'll have to
+beam the medical supplies aboard and get out fast. 

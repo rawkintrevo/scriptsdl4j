@@ -1,70 +1,63 @@
-TROI OBRIEN PATTERSON JAYGORDON PICARD MANDEL RO
+GUEST1 GUEST0 GUEST2 PICARD CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Cargo bay]
+
+(it's a lot brighter in here)
+LAFORGE: Okay. Clear the power shunt. 
+CRUSHER: The shunt is cleared. 
+LAFORGE: Right. And bypass the flow current, and (nothing). The
+computer still won't release the doors. 
+CRUSHER: Can we force them open? 
+LAFORGE: Yes, we can try. There's an emergency hand actuator. 
+CRUSHER: Geordi? 
+LAFORGE: Yes? 
+CRUSHER: This wall is hot. 
+LAFORGE: Where? 
+(then something blows out where he had removed a panel, knocking him
+off his feet) 
+LAFORGE: I'm all right, but I think we've got a new problem. One of the
+energy conduits must've ruptured and ignited the polyduranide inside
+the bulkhead. That's a plasma fire. 
+(and it's green) 
+CRUSHER: It's putting out a lot of radiation. We can't stay in here
+very long. 
+LAFORGE: We've got a bigger problem than that. The quaratum in these
+containers is used in emergency thruster packs. It's normally pretty
+stable stuff but when you expose quaratum to radiation, it has a way of
+exploding.
 
 [Turbolift]
 
-(three crying children and an injured adult) 
-PICARD: Are you, are you children all right? 
-(His leg is broken) 
-PICARD: Bridge, this is Picard. This is the Captain. Can anyone hear
-me? 
-PATTERSON: Why don't they answer? 
+(Marissa is helping Picard at an open panel) 
+PICARD: The external power is cut off. 
+JAY GORDON: We're going to die. 
+(the turbolift jolts) 
+GUEST1: What was that? 
 PICARD: I don't know. 
-JAY GORDON: They're all dead. 
-PICARD: They're not dead. Communication is down, that's all. 
-JAY GORDON: We're going to die, too. 
-PICARD: We most certainly are not. Now listen to me. No one here is
-going to die. The bridge will be sending a rescue party as soon as
-possible. So I want you all to stop crying. Everything is going to be
-all right. 
-(they cry even more)
-
-[Bridge]
-
-O'BRIEN: This is the Federation Starship Enterprise
-calling any vessel within range. We are in distress and need
-assistance. Please respond. I'm still not sure we're even transmitting.
-I'll set the message on auto repeat and see if we get a response. 
-(a turbolift door is forced open, and Ro Laren hauls herself out of the
-stuck car) 
-O'BRIEN: Are you all right? 
-RO: I'm alive. What the hell happened? 
-O'BRIEN: We were hit by a quantum filament. Most of our systems are
-down and we haven't been able to contact anyone off the bridge. 
-RO: Well, don't count on leaving through there. An emergency bulkhead
-closed just beneath that lift. 
-O'BRIEN: Confinement mode. 
-RO: Right. Isolation protocol. 
-TROI: I'm not really familiar with that protocol. 
-O'BRIEN: If the computer senses a hull breach, it automatically closes
-emergency bulkheads to isolate the breach. Until we can clear those
-bulkheads, we'll be cut off from the rest of the ship. 
-MANDEL: I have partial sensors back online. I'm picking up sporadic
-life signs throughout the saucer section. There are definitely
-survivors. 
-O'BRIEN: What about Ten Forward? 
-RO: Ten Forward? 
-O'BRIEN: My wife's there. 
-MANDEL: I'm sorry, Chief. The readings are not that specific. 
-RO: Can you scan the drive section? 
-MANDEL: I'm not reading any life signs in the drive section. 
-RO: Could the sensors be malfunctioning? 
-MANDEL: There's no way to know. Without the main computer, I can't run
-a full diagnostic. 
-O'BRIEN: Can you sense anything, Counsellor? 
-TROI: There are a lot of people still alive. Many of them are hurt but
-I can't tell where they are. 
-RO: We need to start emergency procedures. Who's the duty officer? 
-O'BRIEN: Lieutenant Monroe was in command, but she's dead. I believe
-Counsellor Troi is the senior officer on the deck. 
-RO: Counsellor Troi? 
-O'BRIEN: She carries the rank of Lieutenant Commander. 
-TROI: I'd appreciate some suggestions. 
-O'BRIEN: I recommend we initiate emergency procedure alpha two. Bypass
-computer control and place all systems on manual override. 
-TROI: Very well. 
-O'BRIEN: Aye, aye, sir. 
-RO: May I suggest that our next priority be to stabilise life support
-and try to re-establish intership communications? 
-TROI: Yes. Mister Mandel, I'd like you to assist Ensign Ro. 
-MANDEL: Yes, sir.
+(Marissa helps Picard stand. He tries to reach the hatch in the ceiling
+but misses) 
+PICARD: Your name is Marissa. Is that right? Well, Marissa, I'm going
+to need a first officer to help me. You're the oldest and so that makes
+you my Number One. 
+GUEST2: Number One? 
+PICARD: That's what I always called my first officer. So, here. 
+(He puts two of his rank pins on her top) 
+PICARD: There. Now, Number One, we need a crew to help us get that
+hatch off. Don't
+you think that Jay here would make an excellent science officer? What
+do you say, Jay? Will you join our crew? 
+JAY GORDON: It's Jay Gordon. 
+PICARD: Of course. Forgive me, Jay Gordon. 
+JAY GORDON: I accept. 
+(another pin) 
+PICARD: There. 
+GUEST1: Can I be an officer, too? 
+PICARD: Well, let me see. Your science project involved radishes, did
+it not? 
+GUEST1: Yes, sir. 
+PICARD: Then I shall appoint you my executive officer in charge of
+radishes. 
+(he gets the last pin) 
+PICARD: There. Right, then let's get to work.
 

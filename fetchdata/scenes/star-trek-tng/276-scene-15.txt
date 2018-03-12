@@ -1,71 +1,28 @@
-RIKER WORF PICARD RO DATA KALITA
+GUEST2 SANTOS RO GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ro's ship]
+[Meeting Room]
 
-RO: I set the transporter confinement parameters to
-maximum. We should be able to fill our hold with medical supplies with
-just one single beam out. 
-KALITA: I had no idea it was going to be so easy. 
-RO: We're approaching the Federation border. 
-KALITA: How do you plan to get out of the Demilitarised Zone without
-being searched at one of the checkpoints? 
-RO: We're going to cross the border here. 
-KALITA: There are sensor buoys all along the border. If we cross
-anywhere other than a checkpoint, Starfleet will send a ship to
-investigate. 
-RO: With the right security codes, we can disable the proximity
-detectors on the buoys. 
-KALITA: Starfleet changes those codes all the time. 
-RO: I know the encryption algorithms. If I can access the buoy's
-protocol subsystem I should be able to figure out the codes. 
-KALITA: Should be able to? 
-RO: Do you want this mission to succeed? 
-KALITA: Of course I do. We need those medical supplies. 
-RO: In that case, let me do my job. I'm in. 
-KALITA: What's wrong? 
-RO: If I don't input the right code in the next twenty seconds, we'll
-trigger the proximity alarm. 
-KALITA: I'm getting us out of sensor range. 
-RO: Don't. If we break the comm. link, we won't be able to try again. 
-RO: It worked. Until they change the access codes again, we can cross
-the border here.
-
-Captain's log, stardate 47943.2. It has been over a
-week since Lieutenant Ro left the Enterprise. We have yet to receive
-any communication from her.
-
-[Bridge]
-
-RIKER: We picked up a request for emergency
-assistance from a Federation science ship in the Topin system. 
-PICARD: Are there any other ships in the vicinity? 
-RIKER: We're the closest. 
-PICARD: Helm, set course for the Topin system. Mister Data, will you
-signal the science ship that we're on our way. 
-DATA: It is unlikely that they would receive our communication, sir.
-The Topin system contains an unstable protostar. It generates
-significant magnetoscopic interference. 
-PICARD: Can we use our sensors to find them? 
-DATA: Most of our sensors would be ineffective, although our
-directional array should cut through the interference. 
-RIKER: That array has such a narrow scan field. We might as well break
-out the palm beacons and try to find them that way.
-
-[Ro's ship]
-
-KALITA: This is insane. We're sitting here, no
-sensors, blind to the outside, waiting for a galaxy class Starship to
-come swooping down on us. 
-RO: Don't worry. It'll be hard for them to locate us with just the
-directional sensors. Besides, they're looking for a damaged science
-ship that wants to be found. They're here. Standby to engage thrusters.
-
-[Bridge]
-
-RIKER: Anything? 
-DATA: No, sir. It will take approximately six hours to scan this
-system. 
-WORF: Captain, the distress call is being repeated. 
-PICARD: Data, can you locate the signal? 
-DATA: I am attempting to do so.
+RO: It took me a while, but I managed to patch
+through into Starfleet's comm. system. I intercepted a communication
+from one of the
+checkpoints on the border. They're concerned because a Pakled transport
+came through carrying retro-viral vaccines. 
+SANTOS: Why is that a concern? 
+RO: Well, last week a Ferengi transport came through carrying
+biomimetic gels. By themselves, neither of these is dangerous, but
+Starfleet is concerned because with along with other components the
+Cardassians could put together a biogenic device. 
+GUEST3: What is Starfleet going to do about it? 
+RO: They can't do anything about it. These items are all perfectly
+legal. 
+GUEST2: How close are the Cardassians to having the components they
+need? 
+RO: Very close. Two days ago, a Yridian convoy left Deep Space Nine for
+the Demilitarised Zone. It's carrying isomiotic hypos, plasma flares
+and quarantine pods. 
+GUEST3: We can't let that convoy reach its destination. 
+SANTOS: But it's too big for us to go after alone. 
+GUEST2: I'll discuss the situation with the other cell leaders.
+Considering what's at stake, they'll want to help.
 

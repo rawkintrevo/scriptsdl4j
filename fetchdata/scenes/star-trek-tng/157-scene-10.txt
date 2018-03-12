@@ -1,60 +1,81 @@
-RIKER CRUSHER DATA YUTA
+RIKER GUEST1 GUEST3 PICARD GUEST4 GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Chorgan's ship]
 
-RIKER: You're scowling, Doctor. 
-CRUSHER: I'm thinking. 
-RIKER: And? 
-CRUSHER: The old Gatherer on the planet? I know what caused his heart
-attack. The medical tricorder almost missed it, but there was a
-microvirus in his body, blocking his autonomic nerve impulses. 
-RIKER: And that stopped his heart? 
-CRUSHER: But here's the really interesting part. This microvirus will
-only attach itself to cells which contain a very specific DNA sequence.
+GUEST3: Three seats on the ruling council? 
+GUEST1: If we're going to be subject to your laws, we want a part in
+making it. 
+GUEST3: Well I agree you're entitled to representation but not on the
+ruling council. 
+GUEST1: Unacceptable. The real power is in the council. You're
+shutting us off already. 
+GUEST3: No! You're trying to take too much! No group has three seats on
+the council. 
+GUEST1: I don't care what others have. 
+GUEST3: You only care about what you can take. 
+PICARD: Sovereign, if the situation were reversed, I'm sure you would
+be demanding equal levels of representation. 
+GUEST3: You're right, Captain. I apologise for my temper. 
+PICARD: Perhaps a brief pause would be helpful. 
+GUEST1: I agree. Maybe a little touch of that brandy? 
+GUEST3: Yuta. 
+PICARD: You know, thank you, it is remarkable how very much alike the
+two of you actually are. 
+GUEST1: That's ridiculous. 
+GUEST3: Really, Captain. 
+PICARD: No, I'm quite serious. You are both able negotiators, strong
+leaders. 
+GUEST4: We don't obey weak leaders. 
+GUEST1: We have nothing in common at all. We haven't agreed to
+anything. 
+PICARD: You're wrong, Chorgan. We've agreed to have some brandy
+together. 
+(Yuta is serving Marouk when Riker beams in. He has to stun a Gatherer
+guard) 
+RIKER: Don't move! 
+GUEST1: A Federation trap! 
+PICARD: Chorgan, I assure you, my First Officer has a good reason for
+his actions. You do, Number One? 
+RIKER: Yuta. Move away from Chorgan. Do it. 
+GUEST5: Why? 
+RIKER: Because of a man you once knew named Penthar-Mul. 
+GUEST1: Penthar-Mul? How do you know Penthar-Mul? 
+RIKER: Tell him, Yuta. 
+GUEST5: I don't understand. 
+RIKER: You were with Penthar-Mul when he died. 
+GUEST5: It was fifty years ago. How could I? 
+RIKER: I know, Yuta. Stop! Chorgan, keep perfectly still. Your life is
+in danger. Step back, Yuta. 
+GUEST5: William, this is not your concern. 
+RIKER: It is now. You're about to commit a murder. 
+GUEST5: It isn't murder. It's justice. 
+GUEST1: Who are you? 
+GUEST5: Yuta of the clan Tralesta. 
+GUEST1: There are no more Tralestas. 
+GUEST5: Five survived the last Lornak raid. But on that day, a century
+ago, my life ended and my search began. I was the one chosen,
+transformed. My cells were altered, my aging slowed, enough to finish
+my task. 
+GUEST3: You used me in order to get to the last few you couldn't reach.
 
-RIKER: How specific? 
-CRUSHER: Without knowing more about their genetic makeup, I can't be
-sure. But my guess is, this virus would only kill one Acamarian in a
-million. 
-RIKER: Pretty single-minded bug. 
-CRUSHER: Too single-minded. I can't believe it's a naturally occurring
-virus. 
-RIKER: Meaning somebody engineered it. 
-CRUSHER: Meaning Volnoth was murdered.
+GUEST5: Yes, Sovereign. 
+GUEST1: You will never leave this ship alive. 
+GUEST5: You're the last. Once you're dead, what happens to me doesn't
+matter. 
+RIKER: The wars are over, Yuta. 
+GUEST5: You cannot understand. 
+RIKER: You're right, I can't. Because I've seen the part of you that
+regrets what you've become. Listen to me. You don't have to do this any
+more. 
+GUEST5: I have no choice. 
+RIKER: You do. 
+GUEST5: William, I. I'm sorry. 
+RIKER: Stop. 
+(The first shot is a mild stun. Yuta staggers, then reaches for Chorgan
+again. The next shot is higher. Then Riker puts the phaser up to full
+power) 
+RIKER: Yuta, don't do this. 
+(She moves towards Chorgan again, and Riker vapourises her) 
+GUEST1: Commander, I am in your debt.
 
-[Riker's quarters]
-
-DATA [OC]: Sir, Acamar Three has agreed to your
-request for access to their databases. They are now being transmitted
-into our computer over subspace link. 
-RIKER: Good. Notify Doctor Crusher when Acamar's medical database is
-online. Riker out. Come in. 
-YUTA: I'm disturbing you. 
-RIKER: Not at all. 
-YUTA: As the Sovereign has no further need for my services this
-evening, she suggested I might spend some time with you. 
-RIKER: What a charming suggestion. 
-YUTA: She appreciates the affection you've shown me. 
-RIKER: Was I that obvious? 
-YUTA: Yes. 
-RIKER: Well, I've already dined. Maybe you know a good Acamarian
-dessert recipe. 
-(A kiss, of course) 
-YUTA: Does that not please you? Tell me what you want, William. I will
-do anything you wish. 
-RIKER: Wait a minute. 
-YUTA: I don't understand. Don't you want me to give you pleasure? 
-RIKER: Not as a servant. I told you, I prefer equals. 
-YUTA: Even in the matters of love? 
-RIKER: Especially in matters of love. 
-YUTA: I've offended you. 
-RIKER: No. I only want to make you as happy as you want to make me.
-You're entitled to that. 
-YUTA: No, I'm not. 
-RIKER: Yuta. 
-YUTA: I do not feel pleasure, or passion. I haven't been able to for a
-long time. 
-RIKER: I don't know who did this to you, or why, but it can change. 
-YUTA: I wish it could. Tonight most of all. I'm sorry. 
-(She turns to go, he pulls her back into his embrace, then Red Alert
-sounds and the ship shakes) 

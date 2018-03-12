@@ -1,70 +1,38 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER
+RIKER LAFORGE PICARD WESLEY GUEST0 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Engineering]
 
-PICARD: Are they collaborators? Did they provide
-the colony's assailants with something that abetted the total
-destruction of Rana Four in order to protect their own lives? 
-CRUSHER: What could two botanists in their eighties possess that could
-possibly aid whoever attacked the planet? 
-PICARD: We don't know what the enemy needed, Doctor. Love? Fear? Hope? 
-(The sound of the music in Troi's head almost drowns out the next two
-lines) 
-LAFORGE: Maybe they're being held hostage in some fashion? 
-CRUSHER: Nothing in the tricorder readings indicated they were under
-that kind of stress. 
-PICARD: Counsellor? Counsellor Troi? 
-TROI: I'm sorry. I don't sense them well enough. 
-(Once again the music renders the dialogue increasingly inaudible) 
-PICARD: Number One, you say the couple is incapable of sustaining
-themselves? 
-RIKER: There's a fusion reactor in the house, good for another five
-years of power. But their
-water table is tainted. They have nothing to feed themselves except for
-a small garden. 
-PICARD: They won't come to the ship? 
-RIKER: They were adamant. 
-PICARD: We'll do all that we can to help them but in the meantime I
-want them kept under surveillance. 
-TROI: I'm sorry, I'm not feeling very well. I'd like to go to my
-quarters. 
-PICARD: By all means. 
-CRUSHER: Is there anything I can do?
+LAFORGE: I'll get you to nine point three seven in
+fifteen seconds. 
+[Bridge]
 
-[Corridor]
+WESLEY: Warp eight point five. Warp nine. The
+warship continues to match our acceleration curve perfectly. 
+PICARD: Number One, I have the distinct impression that we're being
+toyed with. Take us back to Rana Four. 
+RIKER: Back? 
+PICARD: We have unfinished business there. I need to have a talk with
+those two people. You have the Bridge. 
+RIKER: Reduce speed. Bring us around on a return course. This one's
+getting away.
 
-WORF: Captain, a search of the Ranian system has
-determined that the hostile force that attacked this planet is no
-longer present. 
-PICARD: I remember a Starfleet admiral once saying the same thing about
-some renegade Andorians in the Triangulum system. It turns out that
-they had dismantled their ship and hidden it. 
-WORF: Those Andorians did not have to contend with someone of my
-thoroughness. I will stake my reputation.
+[Garden]
 
-[Troi's quarters]
-
-TROI: Don't listen. Think of something else. Stop!
-Please, stop! 
-(The doorbell chimes and she pulls herself together) 
-TROI: Yes? 
-(Picard enters) 
-PICARD: I was concerned. I came to see if I could be of any help. 
-TROI: I'm fine. There's nothing wrong. I'm just tired, that's all. 
-PICARD: Now, I may not have your gifts at reading emotions, Counsellor,
-but I can tell when someone is in pain and hiding it. 
-TROI: It's so silly. I hear music. In my mind. Music that won't stop. 
-PICARD: Perhaps it's a symptom of fatigue. We've all been inflicted one
-time or another with that melody that won't go away. 
-TROI: No, it's deeper than that. The song doesn't stops for an instant.
-It plays in perfect clarity from beginning to end over and over again.
-I don't even know what song it is. I never heard it before. 
-PICARD: When did this start? 
-TROI: A few hours ago, while the away team was on the surface. I was
-trying to, I was thinking of Rishon and Kevin. 
-PICARD: Rishon and Kevin? And? 
-TROI: I can't explain it, Captain. They're elusive. They're, I'm sorry 
-PICARD: Well, try and rest. Take the necessary sleep inducements if you
-have to. 
-(Red alert sounds)
-
+(Picard and Worf beam is as Kevin and Rishon are
+tending some shrubs) 
+PICARD: Good afternoon. I'm sorry if I startled you. I'm Jean-Luc
+Picard, Captain of the Enterprise. I have brought you something you
+will need if you're going to stay on Rana Four. It's a matter
+replicator. It has limited capabilities, but 
+GUEST1: Thank you, but we have no use for such a thing. 
+PICARD: It will provide you with clothing, food and clean water.
+Lieutenant Worf demonstrate its operation. 
+GUEST1: We don't need it. 
+GUEST0: Kevin, you know we do. Thank you, Captain. Kevin and I were
+about to have afternoon tea. You and Mister Worf must join us. 
+PICARD: I'd like that very much. 
+GUEST1: Rishon, they only want to spy on us like this morning. 
+GUEST0: Kevin Uxbridge, I have never turned anyone away from this
+house, and I'm not going to start now. Captain. 
+PICARD: Thank you. 

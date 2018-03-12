@@ -1,56 +1,42 @@
-RIKER LAFORGE VAGH KELL PICARD COMPUTER DATA
+PICARD COMPUTER DATA LAFORGE OBRIEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Governor's office]
+[Shuttlebay]
 
-LAFORGE: The Romulans. They fashioned a perfect
-Federation rifle but they had to charge it from their energy sources.
-So the discharge crystal and the emission beam pattern correspond to
-those you'd find in a Romulan disrupter. 
-VAGH: The Romulans have no interest in Kriosian independence. The
-planet is too far from their borders. 
-PICARD: But they do have an interest in driving the Federation and the
-Empire apart. Our alliance is the only thing that has kept them in
-check. 
-VAGH: Romulan replications using stolen Federation technology? 
-KELL: It's a typical Romulan ploy. An attempt to sow dissension and
-mistrust. Commander, you've done well. I would thank you on behalf of
-the Empire. 
-VAGH: I still have my doubts, Picard. I will want my own technicians to
-confirm your findings. 
-PICARD: Of course. My staff will give you their full cooperation. 
-VAGH: You may go.
-
-[Bridge]
-
-(at Science One) 
-RIKER: Another E-band blip? 
-DATA: Yes, sir. However, the difference in intensity indicates that
-this one did not originate from the same location as the first. 
-RIKER: If it's changed intensity, it can't possibly be a protostar. 
-DATA: That is a reasonable assumption. 
-RIKER: Is there any known instance of Romulans using E-band
-communications? 
-DATA: Not to my knowledge, sir. 
-RIKER: Can you track the source? 
-DATA: We can reconfigure the primary sensor array. If we narrow their
-focus to scan for E-band emissions, we might be able to calculate a
-directional vector. But only if there are more occurrences. 
-RIKER: Do it.
+(Data goes to the Geordi's shuttle) 
+DATA: Computer, link with the shuttle's onboard system. Access the
+isolinear storage assembly. Scan all chips which contain mission logs.
+Note any discrepancies. 
+COMPUTER: No discrepancies noted. 
+DATA: Perform a level 5 diagnostic on the shuttle's power and
+navigational systems. 
+COMPUTER: The components specified are all within normal tolerances.
 
 [Cargo bay]
 
-LAFORGE: Computer re-route the power flow in the
-cargo bay four transporter to the auxiliary replicator system. 
-COMPUTER: Please verify command with necessary protocol. 
-LAFORGE: Initiate protocol three six four dash B. 
-COMPUTER: Verify priority clearance. 
-LAFORGE: Recognise La Forge, theta two nine nine seven. 
-COMPUTER: Acknowledged. Power has been re-routed through auxiliary
-power distribution system code number four four seven six two. 
-LAFORGE: Now, redirect transporter mode to the planetary sensor array. 
-COMPUTER: Transporter mode has been redirected. 
-(a box is beamed away) 
-LAFORGE: Verify that all record of these modifications are being erased
-from each directory. 
-COMPUTER: Affirmative. Erasure process is proceeding.
+O'BRIEN: My technicians have examined all of the
+ship's transporters, sir. I can assure you, this is the only unit that
+has been tampered with. 
+[Shuttlebay]
+
+DATA: Computer, scan the shuttle's structural
+integrity. 
+COMPUTER: Sub-microscopic deformations are present in the nose section
+and aft thrusters. 
+DATA: Probable cause of these variations? 
+COMPUTER: The shuttle has been subjected to stress consistent with a
+tractor beam.
+
+[Cargo bay]
+
+(Geordi enters and watches Picard with the
+Klingons) 
+PICARD: All our transporter containers have a slight impurity in the
+structural alloys which allows us to trace our material. 
+(Geordi reaches for his phaser) 
+O'BRIEN: Commander La Forge? 
+LAFORGE: What can I do for you, Chief? 
+O'BRIEN: Could you take a look at the pattern buffers? Considering
+what's happened, I'm not sure the control systems are reliable. 
+LAFORGE: Sure. Sure, let's take a look.
 

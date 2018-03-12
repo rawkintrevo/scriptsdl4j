@@ -1,33 +1,5 @@
-TROI PICARD WAKASA LAKANTA WESLEY ANTHWARA
-
-[Village]
-
-WESLEY: How long have you been watching me? 
-LAKANTA: Since you beamed down. 
-WESLEY: Well, I'm here. What should I do? 
-LAKANTA: I don't know. 
-WESLEY: I thought you were going to help me find some answers. 
-LAKANTA: Answers to your questions. 
-WESLEY: Tell me about this Habak. You said you had some kind of a
-vision there? 
-LAKANTA: The Habak is holy to us. We hold our rituals and our
-ceremonies there. It's sacred to us. What's sacred to you, Wesley? 
-WESLEY: I don't know. I mean, I think a lot of things are important, I
-have a lot of respect for things. But I don't really consider anything
-sacred. 
-LAKANTA: Look around us. What do you think is sacred to us here? 
-WESLEY: Maybe the necklace you're wearing? The designs on the walls? 
-LAKANTA: Everything is sacred to us. The buildings, the food, the sky,
-the dirt beneath your feet. And you. Whether you believe in your spirit
-or not, we believe in it. You are a sacred person here, Wesley. 
-WESLEY: I think that's the first time anyone's used that particular
-word to describe me. 
-LAKANTA: So, if you are sacred, then you must treat yourself with
-respect. To do otherwise is to desecrate something that is holy. 
-WESLEY: Is that what you think I've been doing? 
-LAKANTA: Only you can decide that. 
-WESLEY: I guess I haven't had a lot of respect for myself lately. 
-LAKANTA: Then perhaps it's time for your own vision quest to begin.
+PICARD GUEST4 TROI GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Meeting room]
 
@@ -36,24 +8,24 @@ been able to reach an agreement. But, and I must be blunt, I cannot
 take no for an answer. This planet will be handed over to the
 Cardassian government in accordance with the terms of the border
 agreement. I am very sorry, but you will have to leave. 
-WAKASA: And if we do not? 
+GUEST4: And if we do not? 
 PICARD: Then I will be forced to remove you by whatever means are
 necessary. 
-ANTHWARA: We know you will not take us from this land, Captain. 
+GUEST1: We know you will not take us from this land, Captain. 
 PICARD: I may regret doing it, but I am not able 
-ANTHWARA: When you first came to us, we did not know why you were sent
+GUEST1: When you first came to us, we did not know why you were sent
 by the Federation but we knew there must be a good reason. To us,
 nothing that happens is truly random. So we searched for the true
 reason you were sent. We did not find it until last night. Are you
 familiar with the Pueblo Revolt of sixteen eighty? 
 TROI: I am. Several Indian tribes rose up to overthrow their Spanish
 overlords and drove them out of what is now called New Mexico. 
-ANTHWARA: Ten years later, the Spanish returned to reconquer the area.
+GUEST1: Ten years later, the Spanish returned to reconquer the area.
 They were brutal. I would use the word savage. They killed hundreds of
 our people. Thousands more were maimed. The name of one of the soldiers
 was Javier Maribona-Picard. Your ancestor. 
 PICARD: I'm not aware of this incident or of the man you named, and
 this happened seven hundred years ago. I do not see what bearing it can
 have 
-ANTHWARA: That is why you have come to us, to erase a stain of blood
+GUEST1: That is why you have come to us, to erase a stain of blood
 worn by your family for twenty three generations. 

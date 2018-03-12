@@ -1,95 +1,35 @@
-RIKER WORF PICARD TPEL CRUSHER DATA
+CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Replicator centre]
+[Transporter room]
 
-DATA [OC]: I find Lieutenant Worf to be what is
-called a kindred spirit. We were both orphans rescued by Starfleet
-officers. In many ways, we are both still outsiders in human society. 
-DATA: Are you here to find a wedding gift? 
-WORF: Yes. 
-DATA: I would appreciate your help in selecting an appropriate item. 
-WORF: Of course. I have attended human weddings before. 
-(he runs through few pictures and stops at glasses) 
-WORF: Hold. 
-DATA: This is a traditional gift? 
-WORF: Yes, my adoptive parents often give these things at family
-weddings. A human custom. 
-(he changes the picture to a glass swan) 
-WORF: Hold. 
-DATA: It is my understanding that the item selected should reflect the
-personality of whoever is giving it. This does not remind me of you.
-Have you ever been an actual participant in a human wedding? 
-WORF: No. 
-DATA: You would not consider it to be an honour? 
-WORF: An honour, perhaps. But human bonding rituals often involve a
-great deal of talking and dancing and crying. 
-DATA: Dancing.
-
-[Sickbay]
-
-DATA [OC]: I am rarely in need of Doctor Beverly
-Crusher's professional services as my bio-mechanical maintenance
-programme is self sufficient. But I often observe as she practices
-medicine on others and have learned a great deal about human
-interaction from her. 
-DATA: Doctor, may I ask a favour of you? 
-CRUSHER: Of course, Data. 
-DATA: Would you teach me how to dance?
-
+(doing test transports) 
+DATA [OC]: I have found Holmes' methodology of deductive reasoning to
+be quite useful. One of his adages is that once you have eliminated the
+impossible, whatever remains, however improbable, must be the truth. 
 [Crusher's office]
 
-CRUSHER: What? 
-DATA: I would like to learn how to dance. 
-CRUSHER: Why me? 
-DATA: It was in your service record. Awarded first prize tap and jazz
-competition, Saint Louis Academy. 
-CRUSHER: Okay, okay. 
-DATA: Have I said something to upset you? 
-CRUSHER: It's just that, that was a long time ago, and I don't want to
-be known as the dancing doctor. Again. 
-DATA: Then your answer is no. 
-CRUSHER: All right. But let's keep this between you and me. 
-DATA: Of course, Doctor. 
-PICARD [OC]: Commander Data, please report to the Bridge. 
-DATA: Acknowledged.
-
-[Bridge]
-
-(T'Pel is with Picard) 
-PICARD: Data, I want a tactical projection of possible future Romulan
-deployments along the Neutral Zone. Access all Federation records on
-the subject and report to my Ready Room. 
-DATA: Captain, is there a specific area you wish me to study? 
-PICARD: No. Ambassador. Number One, set a course one three zero mark
-two four six, warp seven. 
-RIKER: That will take us very close to the Neutral Zone, Captain. 
-PICARD: I'm aware of that, Number One. Proceed. 
-(Picard and T'Pel go back into the Ready room) 
-RIKER: Lay in the course. 
-DATA [OC]: It is fortunate that I am able to perform my duties without
-emotional distractions. If that were not the case, a sudden course
-correction toward the Neutral Zone would make me very nervous.
-
-DATA [OC]: Personal Log, supplemental. Commander
-Maddox, there are still many dynamics of social interaction which I do
-not understand. 
-[Ready room]
-
-PICARD: Mister Data, based on your analysis, what
-is the current Romulan strategy behind the deployment of their ships in
-this sector? 
-DATA: Their ships are deployed to support a policy of confrontation
-designed to test Federation defenses along the Neutral Zone. 
-PICARD: Do you predict any change in the near future? 
-DATA: I project a ninety percent probability that they will continue to
-support that policy. 
-PICARD: Is there any indication of a more conciliatory attitude on
-their part? 
-DATA: No, sir. 
-T'PEL: Caution is clearly called for, Captain. However, the mission
-must proceed as planned. 
-PICARD: Starfleet Command agrees with you, but I would feel better if
-you would consent to an escort or 
-(one look cuts him off) 
-PICARD: Thank you, Mister Data.
+CRUSHER: I'm sorry, I don't have time to give you
+another lesson right now, Data. 
+DATA: That is not my purpose. I would like to examine the remains of
+Ambassador T'Pel left on the transporter pad. 
+CRUSHER: I'm working on the report right now. 
+DATA: Have you compared the genetic code with the Ambassador's last
+recorded transporter ID traces? 
+CRUSHER: No, that's not standard procedure. Why? 
+DATA: I could be chasing an untamed ornithoid without a cause. 
+CRUSHER: A wild-goose chase? All right. Computer, access the
+transporter ID trace for Ambassador T'Pel. All right, there's the
+genetic record of the Ambassador when she beamed aboard the Enterprise.
+Now, the breakdown of the organic material found on the transporter pad
+should be identical. Mitochondrial structure fits the general
+parameters, no change in the nucleotide bases. There's a slight
+discrepancy in the base pair sequence. Chemically, these are identical.
+However, the organic sample from the transporter is showing numerous
+single-bit errors, like replicated material. 
+DATA: Can you postulate an explanation for the discrepancy? 
+CRUSHER: I'd say the DNA was either mutated by the transporter during
+the rematerialisation process 
+DATA: A supposition not supported by the transporter records. 
+CRUSHER: Or these aren't the remains of the Ambassador.
 

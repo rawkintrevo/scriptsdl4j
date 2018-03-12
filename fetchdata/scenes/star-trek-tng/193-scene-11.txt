@@ -1,46 +1,38 @@
-LARSON RIKER LAFORGE WORF PICARD ANAYA DATA BARCLAY
-
-[Bridge]
-
-PICARD: Mister Worf. 
-WORF: Aye, sir. 
-RIKER: Nothing. 
-PICARD: Go to warp two. 
-ANAYA: Aye, sir. Warp two. 
-WORF: The probe is still with us, sir. 
-RIKER: At warp two? 
-WORF: Yes, sir. 
-DATA: Captain, the probe's energy output is overloading our shields.
-Failure anticipated in forty seven seconds. 
-PICARD: I'm willing to entertain suggestions. 
-WORF: Captain, we're dropping to impulse.
+GUEST1 RIKER BARCLAY LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-LARSON: (a lady engineer) Commander, warp power has
-been transferred to the shield grid. 
-LAFORGE: Yeah, but by whom? 
-(Reg wanders over and presses a control next to La Forge, then returns
-to his own panel) 
-LAFORGE: Barclay, what are you doing? 
-BARCLAY: Lieutenant Barclay to Captain Picard. You can fire photon
-torpedoes. 
-[Bridge]
+GUEST1: We're having trouble containing reactor
+nine, sir. It's starting to chain. 
+LAFORGE [OC]: I'm on my way. 
+[Ready room]
 
-BARCLAY [OC]: Maximum yield, full spread. 
-RIKER: We're too close. 
-BARCLAY [OC]: I'm certain the shields will hold. 
-PICARD: Mister La Forge?
+RIKER: You said he made a pass at you, but you
+failed to mention whether he was successful or not. 
+(the answer is a grin)
 
 [Engineering]
 
-LAFORGE: I don't know how he did it, but shield
-strength has been increased by three hundred percent. 
-[Bridge]
-
-LAFORGE [OC]: It should be enough, Captain. 
-PICARD: Mister Worf. Photon torpedoes. Maximum yield, full spread. 
-WORF: Aye. 
-(three direct hits and a big light display. The ship rocks) 
-PICARD: Thank you, Mister Barclay.
+BARCLAY: Thermal levels up one hundred seventy
+seven percent. Comparable increase in neutron emissions. 
+LAFORGE: Is the interface between the computer and the array still in
+operation? 
+BARCLAY: Yes, but our computer is too slow to direct the repairs. The
+parameters are changing too quickly for it to keep up. 
+LAFORGE: Then we'll have to try a remote shutdown from here. 
+GUEST1: Transmitting commands to the array now, sir. Starting close
+down sequence. 
+BARCLAY: Brower, increase the intake of liquid helium three into the
+reactor wall. We've got to cool it off. 
+GUEST2: Transmitting commands. Thermal levels increasing, sir. 
+LAFORGE: What happened? 
+BARCLAY: Unclear. The interface isn't fast enough. 
+GUEST1: Commander La Forge. Overload indications on Argus generator
+five, seven and fourteen. 
+LAFORGE: Damn! 
+BARCLAY: I can't do anything from here. I have to find a better
+interface. 
+LAFORGE: La Forge to Bridge. We're looking at a cascade reactor failure
+on the Argus.
 

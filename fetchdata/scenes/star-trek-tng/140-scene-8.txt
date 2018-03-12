@@ -1,82 +1,42 @@
-RIKER LAFORGE WORF KYLE PULASKI WESLEY DATA
+PULASKI RIKER KYLE TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Observation lounge]
 
-DATA: And it has nothing to do with Commander
-Riker's new assignment? 
-WESLEY: No. His reaction was just the opposite of mine. Completely
-unaffected. 
-LAFORGE: You see? With all that's going on, maybe you're overreacting. 
-WESLEY: Really? You try talking to Worf, Geordi. I'm telling you, he is
-not normal for Worf. 
-DATA: There is, of course, a genetic predisposition toward hostility
-among all Klingons, but Worf has been unusually out of sorts. 
-LAFORGE: Come on, he's never been much on charm. 
-WESLEY: Well, whatever is troubling him, I think we should try to help.
-He is our friend. 
-LAFORGE: I for one want to keep him friendly. 
-WESLEY: Suggestions? 
-DATA: Empirical study. Monitor the subject. 
-WESLEY: Right. Watch the subject for any signs of unusual behaviour. 
-LAFORGE: That won't be difficult. 
-DATA: Within the norm of Klingon patterns, of course. Discretion will
-be required. 
-WESLEY: Agreed. When do we start? 
-LAFORGE: We will assist you as needed. You found the problem. 
-DATA: And you must solve it.
+KYLE: Finally. We're alone. Maybe now we can talk. 
+RIKER: I'm here for the briefing, sir. 
+KYLE: All you need to know is here. 
+(Riker picks up the computer chip) 
+RIKER: These mission details could have been transmitted. 
+KYLE: I've been hearing some good things about you. 
+RIKER: Then why haven't I heard from you? 
+KYLE: I know. Keeping in touch is not my strong suit. It's a funny
+thing about being a parent. There aren't any tech manuals. No quick
+readouts to get you to the next set of variables. You just got to wing
+it from day to day. Will, when your mother died 
+RIKER: Excuse me. I've got to study this mission briefing. 
+KYLE: Will. I came to the Enterprise because. Look, considering where
+you might be going, I wanted to. I'm here with my hand out, son.
 
-[Ten Forward]
+[Sickbay]
 
-(Fresh drinks are brought to Kyle and Kate, and
-Riker finally can't stand it. He goes over) 
-KYLE: Thank you. And after working out the Fuurinkazan battle
-strategies at the Tokyo Base, I was asked to come here to work for
-Starfleet as a tactical advisor. 
-PULASKI: I'm surprised you stayed our of the action as long as you did.
-Will, please join us. Your father and I are just catching up. 
-RIKER: You never told me you knew him. 
-PULASKI: Well, it wasn't exactly a secret. It just never really came
-up. 
-KYLE: Sit down, son. 
-RIKER: I'm ready for that briefing whenever you are. 
-(Riker stalks out. A little later, Data and Geordi enter) 
-KYLE: Good to see you too, Graham. 
-PULASKI: You wouldn't be running for mayor, would you? 
-KYLE: Do pick up work for the Federation long enough and it'll happen
-to you, too. I thought about you a lot. 
-PULASKI: Kyle, I don't need to hear what you don't need to say. 
-KYLE: We could've been great together. 
-PULASKI: Possibly. 
-KYLE: Is it true you got married? 
-PULASKI: Again and again. 
-KYLE: That make you three for three, doesn't it? 
-PULASKI: I'm not complaining. Each was good a man and we're all still
-good friends. 
-KYLE: Like us? 
-PULASKI: Close, but different. They were all a little more in touch
-with themselves. 
-KYLE: Ouch. 
-PULASKI: Face facts, Kyle. You're crusty. You have a reputation for
-being hard as nails and getting the job done. Underneath it all, you're
-not so bad. Some of us even love you. And then there's Will. 
-KYLE: Then there's Will. 
-(Worf is standing staring out of the window) 
-LAFORGE: Wesley should really be doing this on his own. 
-DATA: But he needs his study time. 
-LAFORGE: I can't believe you fell for that. I don't know, Data. He
-looks perfectly normal to me. 
-DATA: In solitude, there is nothing to trigger unusual behaviour. 
-LAFORGE: Good point. Let's not tamper with the status quo. 
-DATA: But that would defeat the opportunity for our behavioural
-research. In all probability, he is simply lonely. We can relieve his
-anxiety through socialisation. 
-LAFORGE: Be my guest. 
-(Data goes over to Worf) 
-DATA: Excuse me, Lieutenant. You seem to have lost the will to
-communicate with others. You have friends here. We, we care about you.
-Why, just recently, Geordi, Wesley and I were saying 
-WORF: With all due respect, be gone! Sir. 
-(The blast jolts Data backwards. He returns to Geordi) 
-DATA: He seems quite sincere in his desire for solitude. 
-LAFORGE: Seeing is believing, huh?
-
+PULASKI: Poor guy. Picked up a flu virus on our
+last stop at Nasreldine. 
+KYLE: Sounds nasty. What's the therapy? 
+PULASKI: Tryptophan-lysine distillates with generous doses of PCS. 
+KYLE: PCS? 
+PULASKI: Pulaski's chicken soup. 
+KYLE: You haven't lost your touch, haven't you? 
+PULASKI: I like to help. When they hurt, I hurt. 
+TROI: Commander Pulaski's greatest medical skill is her empathy. You
+must be Commander Riker's father. 
+KYLE: Yes, but how? 
+TROI: We've all heard about you, and I felt certain things. 
+PULASKI: This is Deanna Troi, ship's Counsellor. 
+KYLE: Kyle Riker. 
+PULASKI: I thought you two should meet. Deanna's job is to keep us from
+deluding ourselves. 
+KYLE: Let me guess. Betazoid? 
+TROI: At your service. 
+PULASKI: I have some lab work to do. If you'll excuse me. 
+(Kate leaves) 

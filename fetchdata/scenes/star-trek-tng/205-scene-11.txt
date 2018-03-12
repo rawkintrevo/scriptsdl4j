@@ -1,31 +1,40 @@
-RIKER CRUSHER DATA LAFORGE
-
-[Jefferies tube]
-
-RIKER: Thirteen sixty five baker. That should put
-us right behind shuttlebay two. 
-DATA: That is correct, sir. We have approximately fifty two metres
-remaining in this crawlway before we can safely exit into a main
-corridor. 
-(opaque gas bursts out behind them) 
-RIKER: Coolant leak!
-(they scramble forward and manage to shut a bulkhead behind them, only
-for an energy barrier to start up ahead)
+KEIKO CRUSHER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Cargo bay]
 
-CRUSHER: We can withstand this level of radiation
-for another three or four hours without any permanent damage. We'll
-need a few days of hyronalin treatments. 
-LAFORGE: What are the radiation levels in the quaratum? 
-CRUSHER: They're at eighty three rads and rising at a rate of about
-four rads per minute. 
-LAFORGE: That stuff gets unstable at around three hundred and fifty
-rads. I still
-haven't been able to get any power to this transporter. 
-CRUSHER: The radiation levels is about twenty percent lower at this end
-of the bay. Let's move the containers over to here. 
-LAFORGE: That's a good idea. It should buy us some time. You know we're
-going to have to do this by hand. With all the radiation floating
-around in here we can't trust the antigrav units.
+(they've moved the containers) 
+CRUSHER: The levels are still rising. There must be some way to put
+that fire out. 
+LAFORGE: The energy's being fed by the ship's internal power grid and
+we can't even get near that. The only way to stop it would be to
+eliminate its supply of oxygen. Wait a minute. Doctor, I've got an
+idea. It's kind or wild, but we just might be able to kill two birds
+with one stone. 
+CRUSHER: Let's hear it. 
+LAFORGE: Okay. We open the external door. That would depressurise the
+cargo bay and suck all of those containers out into space. At the same
+time, the lack of oxygen should put out the plasma fire. 
+CRUSHER: What about us? 
+LAFORGE: We just need to find something in here to hold onto while the
+air is evacuating. Then, we close the door, repressurise the bay. 
+CRUSHER: What about this? 
+(a ladder up to the second level) 
+LAFORGE: Yeah, that ought to do it.
+
+[Ten Forward]
+
+(Keiko is doing some bandages) 
+KEIKO: There that should do it. 
+WORF: (to man with broken leg) There will be a sharp pain as I set the
+bone. Prepare yourself. Good. Good, you bore that well. 
+(Keiko gasps) 
+WORF: Keiko? 
+KEIKO: I'm all right. I think. 
+WORF: Perhaps you should lie down. 
+KEIKO: Oh, oh, oh. I'm having contractions. 
+WORF: I believe that is not uncommon in the late months of pregnancy. 
+KEIKO: No, I mean contractions. I'm going into labour. 
+WORF: You cannot. This this is not a good time, Keiko. 
+KEIKO: It's not open for debate. Like it or not, this baby is coming.
 

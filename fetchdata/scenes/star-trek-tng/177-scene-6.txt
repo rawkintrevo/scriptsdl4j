@@ -1,62 +1,67 @@
-RIKER LAFORGE WORF PICARD KOPF WESLEY COMPUTER DATA
+RIKER JAKE WORF PICARD TROI OBRIEN CRUSHER GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Jefferies tube]
 
-PICARD: Commander. 
-(The lights dim) 
-COMPUTER: Evacuate Bridge. Deck one life support failure in thirty
-seconds. 
-RIKER: Turbolifts two, three, four, everyone. 
-PICARD: Transfer helm to Engineering, Geordi. 
-LAFORGE [OC]: Aye, sir. 
-RIKER: La Forge, let's get a diagnostic sweep underway. 
-COMPUTER: Evacuate Bridge. Deck one life support failure in twenty
-seconds. 
-PICARD: Reassemble in Engineering. 
-(Data is the only one left on the Bridge) 
-COMPUTER: Evacuate Bridge. Deck one life support failure in ten
-seconds. 
-(Data starts working on a rear science station) 
-COMPUTER: Deck one life support has been terminated. 
+(Fizz!) 
+RIKER: What the hell was that? 
+WORF: He's activated a force field, sir. 
+RIKER: Great. Just great.
+
 [Engineering]
 
-KOPF: Our velocity is holding steady at warp nine
-point three. Do you wish to override, Commander? 
-LAFORGE: No, not yet. Computer, isolate cause of life support failure. 
-COMPUTER: Atmosphere conditioning pumps on deck one are operating in
-negative mode. 
-LAFORGE: How could that be? There are seven independent safety
-interlocks to prevent that. 
-(Picard and Worf enter, then others) 
-LAFORGE: Captain, I believe we've found the problem, but it really
-doesn't make sense. 
-PICARD: Bring the Enterprise to a full stop, Commander. 
-LAFORGE: Aye, sir. Full stop, Ensign. 
-KOPF: It's not responding, sir. 
-LAFORGE: I'm going to have to do this at the manual input level, sir.
-Wes. 
-RIKER: We're still at the altered heading, Captain, holding at warp
-nine point three. 
-WORF: Captain. Force fields have been established on all main Bridge
-turbolift doors and service crawlways. 
-PICARD: Computer, locate Lieutenant Commander Data. 
-COMPUTER: Commander Data is on the main Bridge. 
-RIKER: What the hell is he up to? 
-PICARD: Number One, take a security team up to deck two. Try and break
-through from below. Commander? 
-LAFORGE: Everything's locked up, Captain. We have no control of impulse
-or warp engines from here. 
-WESLEY: Navigation's not responding either, sir. 
-PICARD: Picard to main bridge. 
-[Bridge]
+PICARD: Chief O'Brien. 
+O'BRIEN [OC]: Yes, Captain. 
+PICARD: We had better disable the site to site transport function. 
+[Transporter room]
 
-PICARD [OC]: Commander Data, do you hear me? I
-repeat. Data, do you hear 
-(Data cuts off the comm.) 
-DATA: Computer. Recognise Data, Lieutenant Commander. Alpha One
-clearance. 
-COMPUTER: Priority clearance recognition Alpha One. 
-DATA: Maintain minimum auxiliary power and disengage subspace
-communications. 
-COMPUTER: Acknowledged.
+PICARD [OC]: When we get wherever we're going, I
+don't want Mister Data beaming off the Bridge. 
+O'BRIEN: I'll get right to it, sir. 
+[Engineering]
+
+PICARD: Doctor Crusher. 
+CRUSHER [OC]: Yes, Captain. 
+PICARD: Is your quarantine intact? 
+CRUSHER [OC]: So far, sickbay force fields don't seem to have been
+affected. 
+PICARD: The boy?
+
+[Sickbay]
+
+(The child is in effectively what is a glass box
+the size of a large bed, with it's own ventilation system) 
+CRUSHER: He's alright. But he's not going to stay alright. Sir, we have
+to get this ship to a starbase medical facility. 
+PICARD [OC]: It seems, Doctor
+
+[Engineering]
+
+PICARD: That Data has other plans for the
+Enterprise right now.
+
+[Sickbay]
+
+(Beverly is tending to her 'boy in a bubble') 
+CRUSHER: Oh, Come on, I can't believe that. Everybody's played a
+practical joke on somebody at one time or another. 
+GUEST0: Not me. 
+CRUSHER: Not even a little one? How about April Fools? I can't believe
+that you're telling me that you've never tried to pull something even
+on April Fools' Day? 
+GUEST0: What for? It's never funny to the one getting fooled. 
+CRUSHER: Well, I'm sure your brother didn't intend for it too get out
+this of hand. Certainly not to the degree it has. Take a deep breath. 
+GUEST0: What's so funny about making someone think you killed them? 
+CRUSHER: Take a deep breath. Have you been drinking all the water I
+asked you to? 
+GUEST0: Yes. 
+CRUSHER: Well, keep it up. There might have a short delay in reaching
+starbase and I want 
+(Troi and Jake enter. Willie turns his back to them) 
+JAKE: There, you see? How can I tell him if he's not going to listen to
+me? 
+TROI: Why don't you try, Jake? 
+JAKE: It's just a waste of time. He won't listen. 
+(Jake rushes off down the corridor again)
 

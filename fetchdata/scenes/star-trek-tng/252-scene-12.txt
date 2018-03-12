@@ -1,91 +1,98 @@
-TROI LAFORGE WORF PICARD HUGH RIKER CRUSHER DATA
-
-[Troi's office]
-
-DATA: For the past six hours, I have attempted to
-produce an emotional response by subjecting myself to various stimuli. 
-TROI: Like what? 
-DATA: I listened to several operas known to be uplifting, I watched
-three holodeck programs designed to be
-humourous, and I made four attempts to induce sexual desire by
-subjecting myself to erotic imagery. 
-TROI: What happened? 
-DATA: Nothing. 
-TROI: I'm curious. Why are you ignoring the one emotion you've already
-experienced? Why aren't you trying to make yourself angry again? 
-DATA: Anger is a negative emotion. I wanted to concentrate on something
-more positive. 
-TROI: Data, feelings aren't positive and negative, they simply exist.
-It's what we do with those feelings that becomes good or bad. For
-example, feeling angry about an injustice could lead someone to take a
-positive action to correct it. 
-DATA: But my study of humanity indicates there are some emotions that
-are harmful, such as jealousy or hatred. 
-TROI: Those are very strong emotions, and you're right, very little
-good can come from them. But I don't think that an exploration of anger
-need necessarily lead to hatred or malice. 
-DATA: But what if it does, Counsellor? What if it turns out that those
-are the only emotions I am capable of experiencing? Would that not make
-me a bad person? 
-TROI: We've served together for a long time and I think I've come to
-know you pretty well. I have to believe if you ever reach your goal of
-becoming human, you won't become a bad one. 
-DATA: I wish I were as confident as you, Counsellor. When I was
-fighting the Borg, I felt angry, but when I think back on the incident,
-I realise that I was also experiencing another sensation. It was not
-the same as anger, but I think it was an emotion. 
-TROI: When exactly did you feel this other emotion? 
-DATA: It was just after I had killed the Borg. I looked down at his
-body. I felt something. 
-TROI: If you had to give this feeling a name, what would you call it? 
-DATA: I believe it was pleasure.
+PICARD RIKER ENSIGN LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Red alert! All hands to battle stations. Lay
-in a course. Engage warp nine. 
-(Picard enters) 
-RIKER: We received a distress call from the New Berlin Colony. They're
-under attack. 
-PICARD: What's our ETA? 
-WORF: At warp nine, fifteen minutes, thirty seconds. 
-PICARD: Contact the Crazy Horse and the Agamemnon. Have them standing
-by in case we need them. 
-WORF: Captain, incoming message from the New Berlin Colony. They have
-cancelled their distress call. Evidently a Ferengi trading ship entered
-their system and someone panicked. 
-RIKER: Third time today. Stand down Red alert. Reduce speed. Return to
-our patrol route. 
-PICARD: Mister Worf, acknowledge the signal from New Berlin and
-transmit another copy of Starfleet's ship-recognition protocols and
-tell them to read it this time. 
-WORF: Aye, sir.
-
-Captain's log, supplemental. We have been on patrol
-for sixteen hours, and there are no reports of further Borg activity.
-But tensions continue to run high on the colonies and outposts in this
-sector.
-
-[Ready room]
-
-(Picard is reviewing a record from 45855.4 - 07 18
-51.4 onwards)
-HUGH [on monitor]: Do I have a name? 
-CRUSHER [OC]: I'm Beverly, he's Geordi, and you, you 
-LAFORGE [OC]: No, wait a minute. That's it. Hugh. 
-HUGH [on monitor]: We are Hugh. 
-(doorbell) 
-PICARD: Come. 
-RIKER: I thought you might like to see this. Geordi's analysis of the
-subspace distortion the Borg used to escape. 
-PICARD: An artificially created energy conduit? That could be anything.
-
-RIKER: We don't have enough information at this point 
-PICARD: I don't want excuses, Number One. I want answers! I'm sorry. He
-was in this room, Will. I could have rid the Federation of a mortal
-threat, and I let him go. 
-RIKER: Sending Hugh back to the Borg was a very risky, a very dangerous
-choice, but it was the moral thing to do. 
-PICARD: It may turn out that the moral thing to do was not the right
-thing to do.
+(at the science station) 
+LAFORGE: Our current theory is that the Borg have established several
+transwarp conduits through subspace. A ship, when entering the conduit,
+is immediately accelerated to an extremely high warp velocity. It's
+like falling into a fast moving river and being swept away by the
+current. 
+PICARD: How fast would a ship travel through one of these conduits? 
+LAFORGE: We don't know. Normal subspace limitations don't apply to
+transwarp variables. But I'd say based on the distance we covered
+during our trip through the conduit, the speed would have to be at
+least twenty times faster than our maximum warp. 
+RIKER: How do they open the conduits? 
+LAFORGE: The Borg ship emitted some kind of high energy tachyon pulse
+just before we saw the subspace distortion. It seems as though the
+conduits are keyed to respond to tachyon transmissions of a specific
+frequency. 
+PICARD: Is there any way for us to duplicate 
+WORF: Captain, a shuttlecraft has left bay two. 
+PICARD: Who authorised a launch? 
+WORF: There was no authorisation. 
+PICARD: Picard to shuttlecraft. Identify yourself and return to the
+ship immediately. Mister Worf, lock on with a tractor beam and return
+it to the ship. 
+WORF: Aye, sir. The tractor beam has been disabled. Command override is
+not functioning. 
+LAFORGE: Captain, I'm picking up a tachyon surge. Looks like whoever's
+in the shuttle is trying to trigger the transwarp conduit. 
+RIKER: Can we know who's on board? 
+WORF: It is the Borg prisoner, and Commander Data. 
+(a flash on the viewscreen) 
+PICARD: Mister La Forge, can we follow them into the conduit? 
+LAFORGE: We've got a pretty good reading of the tachyon pulse they
+sent. We might be able to duplicate it. 
+PICARD: The question is, is Data a prisoner or did he go willingly? 
+WORF: The command overrides used to disable the tractor were Commander
+Data's. 
+RIKER: The Borg could have downloaded the codes from Data's positronic
+net. 
+PICARD: Perhaps Data's recent flash of emotion has something to do with
+this. It could have affected him more profoundly than we realise.
+Either way, we have to find him. 
+LAFORGE: I've set up a temporary tachyon matrix in the main deflector.
+I think I can use it to simulate the pulse sent by the shuttle. 
+PICARD: Mister Worf, red alert. 
+RIKER: All hands, battle stations. 
+PICARD: Bring us to the last known coordinates of the shuttlecraft. 
+WORF: Shields up. Weapons ready. 
+PICARD: Mister La Forge? 
+LAFORGE: Energising the matrix. Emitting tachyons in the lower
+bandwidth. 
+WORF: Sensors show no unusual subspace activity. 
+LAFORGE: All right. Switching to the secondary bandwidth. Nothing.
+Maybe if I try alternating the frequencies. 
+WORF: Captain, there is an energy fluctuation directly ahead of us. It
+is the subspace distortion. 
+PICARD: Take us in, Ensign. One half impulse. 
+(in they go, shake rattle and roll)
+WORF: Power levels are down to sixty seven percent. 
+LAFORGE: Compensating with auxiliary power. 
+(all calm again) 
+PICARD: Report. 
+RIKER: Navigational sensors show that we've travelled sixty five light
+years from our previous position. 
+PICARD: Can you locate the shuttle? 
+WORF: No, sir. There is no indication of the shuttle within range of
+our sensors. 
+RIKER: Maybe we can find an energy signature from their engines. 
+LAFORGE: Captain. 
+PICARD: Yes, Mister La Forge. 
+LAFORGE: I've scanned three different star systems within sensor range.
+There is evidence of at least two advanced civilisations but I'm
+reading no life signs. But there are indications that plasma weapons
+have been fired in those systems recently. 
+PICARD: The Borg have been busy. 
+RIKER: I think we've found the shuttle's energy signature. 
+WORF: They were heading two four seven, mark zero five nine. 
+PICARD: Lay in that course, Ensign, and engage at full impulse. 
+ENSIGN: Aye, sir. 
+(in orbit of a mottled planet) 
+RIKER: We've traced the shuttle's energy signature to this point on the
+surface but there's too much interference to scan the location. 
+PICARD: Are they intentionally jamming our sensors? 
+LAFORGE: It looks more like a natural phenomenon. There's an unusually
+high amount of EM interference in the planet's magnetosphere. 
+PICARD: Can we transport through the interference? 
+LAFORGE: We could, but there could be fifty Borg down there waiting for
+us and we'd never even know it.
+RIKER: I think we have to take the risk. 
+PICARD: Agreed. Take a well-armed away team and transport down to those
+coordinates. Have the transporter Chief keep a permanent lock on your
+signals so we can get you out of there at the first sign of trouble. 
+RIKER: Aye, sir. Mister Worf, you're with me.
 

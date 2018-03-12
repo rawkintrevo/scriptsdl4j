@@ -1,42 +1,40 @@
-PICARD RIKER DATA WORF
+PICARD RIKER DATA WORF WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Planet surface]
-
-(Nothing. Absolute void, except for..) 
-DATA: Those ammonia storms are less than a kilometre away, yet they do
-not appear to penetrate this breathable zone. 
-RIKER: It's like the eye of a hurricane. 
-WORF: Commander, what is that? 
-(It is a revolving door, with art nouveau decoration. No building, just
-the turning door and it's frame) 
-RIKER: A door. 
-DATA: The structure must be here, yet we cannot see it. 
-RIKER: Enterprise, this is Commander Riker. 
 [Bridge]
 
-RIKER [OC]: As your read out shows, this is an
-unusual place.
+PICARD: Do it. 
+[Hotel room]
 
-[Planet surface]
-
-RIKER: Completely calm, no sound, no movement, yet
-a few hundred metres away a storm is raging. 
-PICARD [OC]: Any information about the structure. 
-RIKER: Yes, sir. There is an antique revolving door. It could be an
-entrance. 
+WORF: Commander. Some curiosities. 
+RIKER: Books. A novel. Hotel Royale? Summarise, please. 
 [Bridge]
 
-PICARD: A revolving door? Number One, proceed with
-caution. 
-RIKER [OC]: Yes, sir. 
-[Planet surface]
+WESLEY: Information retrieved, Captain 
+PICARD: Number One? 
+RIKER [OC]: Go ahead, Captain. 
+PICARD: We have the information you requested. Colonel Stephen Richey
+was the commanding officer of the explorer ship Charybdis 
+[Hotel room]
 
-RIKER: Well, this is what we came here for.
-Captain, we're entering.
+PICARD [OC]: Which had a terrestrial launch date of
+July 23rd, 2037. It was the third manned attempt to travel beyond the
+confines of the Earth's solar system. 
+[Bridge]
 
-[Lobby]
+PICARD: Its telemetry failed. It was never heard
+from again. Do you believe that you've discovered the remains of
+Colonel Richey? 
+RIKER [OC]: Yes. And Captain, 
+[Hotel room]
 
-(Worf leads the way into a very elegant foyer and
-lobby in a Middle Eastern style. Lots of marble and palm plants, very
-twenties or thirties. We hear the laughter of people having a good time
-at blackjack tables) 
+RIKER: We've found something else. A novel by Todd
+Matthews, entitled Hotel Royale, which is the name of this structure.
+Data. 
+DATA: Captain, this is the story of a group of compulsive gamblers
+caught up in a web of crime, corruption and deceit. 
+[Bridge]
+
+DATA [OC]: It is told by nefarious lothario Mickey
+D, who appears only at the climax to carry out the cold-blooded murder
+of the hotel bellboy. 

@@ -1,34 +1,53 @@
-RIKER LAFORGE WORF PICARD VOICES GUINAN COMPUTER
+RIKER LAFORGE WORF PICARD Q COMPUTER CREWMAN CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Sickbay]
+
+(Q enters. Data is sitting up) 
+CRUSHER: He's going to be all right. 
+LAFORGE: We're recalibrating his language circuits, so he can't talk
+yet. 
+Q: There are creatures in the universe who would consider you the
+ultimate achievement, android. No feelings, no emotions, no
+pain. And yet you covet those qualities of humanity. Believe me, you're
+missing nothing. But if it means anything to you, you're a better human
+than I.
+
+[Turbolift]
+
+Q: Where's the main shuttlebay? 
+COMPUTER: Main shuttlebay is located on deck four. 
+Q: Take me there. 
 [Bridge]
 
-WORF: Captain, sensors are picking up a cloud of
-energetic plasma. Bearing, three-four one mark two zero. Range, twelve
-kilometres and closing. 
-PICARD: On screen. 
-WORF: Energy patterns are reading as highly organized. 
-RIKER: A lifeform? 
-PICARD: Attempt to make contact, Mister Worf. 
-WORF: Receiving a signal, sir. On speaker. 
-(but it's unintelligible) 
-RIKER: Computer, analyse signal 
-COMPUTER: Signal patterns indicate intelligence. Unable to derive
-necessary referents
-to establish translation matrix.
+WORF: Captain, an unscheduled shuttle has just been
+launched. 
+PICARD: On main viewer. Hailing frequency. 
+WORF: Frequencies open. 
+PICARD: Shuttle occupant, identify yourself. 
+Q [on viewscreen]: Don't try to talk me out of it, Jean-Luc. 
+PICARD: Q, return to the ship immediately. 
+Q [on viewscreen]: I just can't get used to following orders. 
+WORF: Captain, the plasma cloud is moving toward the shuttle. 
+Q [on viewscreen]: It's easier this way. They won't bother you after
+I'm gone. 
+RIKER: Engineering, prepare to extend shields. 
+Q [on viewscreen]: Please, don't fall back on your tired clich of
+charging to the rescue just in the nick of time. I don't want to be
+rescued. My life as a human being has been a dismal failure. Perhaps my
+death will have a little dignity. 
+PICARD: Q, there is no dignity in this suicide. 
+Q [on viewscreen]: Yes, I suppose you're right. Death of a coward,
+then. So be it. But as a human, I would have died of boredom. 
+PICARD: This goes against my better judgment. Transporter room three,
+lock on to shuttle one. Beam it back into it's bay. 
+CREWMAN [OC]: Aye, Captain. 
+PICARD: It's a perfectly good shuttlecraft. 
+CREWMAN [OC]: Captain, unable to transport. For some reason, I can't
+lock on to the shuttlecraft. 
+RIKER: Worf, are you sensing any sort of interference from the
+Calamarain? 
+WORF: No, sir, but they are still moving toward the shuttle. 
+RIKER: Geordi, extend shields around shuttle one. 
+LAFORGE [OC]: Extending shields.
 
-[Ten Forward]
-
-(The fuzzy thing can be seen through the windows,
-but Q is sulking and doesn't notice it) 
-VOICES: What's that? I don't know. 
-GUINAN: Calamarain. 
-(A white globe comes through the window and envelopes Q. He leaps up,
-trying to brush it off) 
-[Bridge]
-
-WORF: Captain, we're being hit by a field of
-energetic tachyons penetrating the hull. Location, deck ten, forward. 
-PICARD: Red alert. 
-RIKER: Geordi, increase power to shields. 
-LAFORGE [OC]: Increasing power by twenty percent 
-WORF: No effect 

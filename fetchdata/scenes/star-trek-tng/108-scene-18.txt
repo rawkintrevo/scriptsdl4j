@@ -1,46 +1,58 @@
-PICARD RIKER DATA SINGH WORF
+TROI LAFORGE WORF TASHA PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WORF: Sir, warp power is fading. 
-PICARD: Picard to Engineering. 
-
-[Engineer's office]
-
-PICARD [OC]: What is the problem? 
-SINGH: We have lost the warp engine computer tie. 
-[Bridge]
-
-WORF: Warp five, four, three, two 
-PICARD: State of the art vessel? Data, signal Parliament we'll be
-delayed. We will send a new arrival time as soon as it is determined. 
-DATA: Sir, subspace radio is out.
-
-[Ready room]
-
-PICARD: All right, gentlemen, your theories on this
-sudden vulnerability of these systems.
-DATA: If the Enterprise were really this fragile, sir, she never would
-have left Spacedock. Therefore, her systems' failures are not endemic
-to the ship, but are the result of the actions of an unknown adversary.
-
-RIKER: We have a saboteur aboard. 
-DATA: I believe I said that. 
-PICARD: Gentlemen. The question is, who? I can't believe it's one of
-our people. 
-RIKER: Agreed. It must be someone from either alien delegation. Now, if
-the Ferengi could have bought or bribed even one of them, that's all
-that they'd need. 
-DATA: Ferengi contacts have been detected on both Selay and Antica,
-sir. 
-PICARD: Can any of you suggest any other suspects? 
-RIKER: You're sounding like a private eye, sir. 
-DATA: Inquiry. Private eye? 
-PICARD: A private consulting investigator, Data, who solves crimes. 
-DATA: A most interesting occupation. 
-PICARD: In the world of fact, probably not. However, in literature,
-criminal detection can be a fascinating exercise. The immortal Sherlock
-Holmes would have an interesting view of our mystery, I believe. 
-RIKER: But I'm afraid we're going to have to find our solution without
-history's greatest Consulting Detective.
+LAFORGE: We're now approaching the cloud, sir. 
+RIKER: Very well, Mister La Forge. Bring us to within ten thousand
+kilometres and hold us there. 
+LAFORGE: Aye, sir. 
+(Picard enters) 
+RIKER: Shall we begin the scientific tests you wanted, sir? 
+PICARD: Oh, they're already underway. I have an announcement for the
+entire Bridge. As many of you suspected, when our ship passed through
+the edge of this, it accidentally carried away a sentient being. Much
+like these energy patterns we're seeing here. A terrifying experience
+for any
+intelligent being. As if a great claw had reached down and scooped one
+of you from your home world. Drawn into the energy circuits of this
+vessel, it found its way to you, Worf. Frantic at being carried from
+its home world, and recognising you as sentient beings, it pleaded for
+help, but in ways you
+couldn't understand. Desperately going from person to person, and then
+discovering the computer intelligence in this ship's memory circuits.
+Oh, simplistic intelligence, but it furnished it enough to slow this
+Enterprise thing that had captured it. And it very much regrets the
+accidental death of Engineer Singh. 
+TROI: Captain, do you exist in combination with this entity? 
+RIKER: Is it in control of you, sir? 
+PICARD: Very soon after we combined we had learned much about each
+other. A passion for exploration, for the unknown. We found we had
+similar dreams, and it offered your Captain a way to realise them
+beyond human expectations. 
+RIKER: Captain, I must speak to you privately now. 
+DATA: I understand. As an energy pattern, free of the limitations of
+matter, he might travel anywhere, at any velocity. 
+RIKER: Captain, do you hear me? 
+DATA: Sir, I see no way for you to journey with an energy form. 
+PICARD: Isn't there? 
+TROI: He's planning to beam himself and the entity into that cloud. 
+PICARD: The transporter need not pattern your Captain into matter.
+We'll beam energy only, and we will become a combined energy pattern of
+our life forms. A resignation from this command and from Starfleet has
+been appropriately recorded. 
+RIKER: I refuse to allow this, sir. 
+PICARD: How does this resignation threaten the ship and its crew in any
+way? 
+CRUSHER: Captain Picard, you are now relieved from duty. I judge you to
+be disabled and mentally incapacitated. 
+(Picard sends blue energy into the ship's systems and through all the
+Bridge crew) 
+RIKER: Security! Red Alert! Restrain the Captain! 
+TASHA: Where is he? 
+TROI: This is blinding me. 
+WORF: Captain! I'll help you if you'll let me. 
+(Picard leaves the Bridge as the crew are still transfixed by the blue
+energy) 
+RIKER: Someone restrain the Captain!
 

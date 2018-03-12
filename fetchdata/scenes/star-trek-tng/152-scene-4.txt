@@ -1,33 +1,50 @@
-RIKER LAFORGE BARRON LIKO CRUSHER DATA OJI
+RIKER PICARD TROI LIKO CRUSHER DATA OJI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Path]
-
-(Bronze age proto-vulcan apparently means slanted
-eyebrows, pointed ears and nineteenth century farm worker clothing) 
-LIKO: (a man) Why did we have to come so early? 
-OJI: (a young woman) When the sun reaches its zenith, I have to be
-ready to take the measurements. 
-LIKO: You'll be ready. You've read the sundial hundreds of times. 
-OJI: Yes, father, but never as the appointed record keeper. 
-(At the sun dial in front of the assembly hall - a lovely carved wooden
-specimen) 
-LIKO: You're taking your duties quite seriously. Your mother would have
-been proud of you. 
-OJI: What is that? Up there, father. What is it? 
-(A glint of light from the duck blind) 
-LIKO: I don't know.
-
-[Duck blind]
-
-(Crusher revives Barron) BARRON: Keep work. Palmer.
-
-CRUSHER: It's all right. It's all right. 
-DATA: The hologram generator is now functioning, sir. 
-RIKER: All we need now is power. 
-LAFORGE: Almost there. 
 [Hillside]
 
-(Liko and Oji have climbed up to investigate the
-flashes, and can see the duckblind quite clearly now) 
-LIKO: You wait here, Oji. 
-(Liko climbs right up to the window and looks inside) 
+(Liko is beamed down alone. He wakes up) 
+LIKO: Oji? Oji? 
+(She hears him) 
+OJI: Father? 
+LIKO: Here. Oji. 
+OJI: Father! I thought I'd never see you again. When you and the woman
+vanished, I was sure you were dead. 
+LIKO: I think I was, but I was brought back to life. Oji, I awoke in an
+incredible place and my wounds were gone. I had been healed. 
+OJI: How is that possible? 
+LIKO: Long ago, our people believed in beings with great powers. These
+beings made the rains come, told the sun when to rise, they caused all
+life to be born, to grow, to die. 
+OJI: But those are just tales, father. Old superstitions. 
+LIKO: But perhaps the beliefs of our ancestors are true. Nothing else
+can explain what's happened. Everything is changed now, Oji. We must
+tell the others.
+
+[Observation lounge]
+
+CRUSHER: Barron is stable, but Warren is still
+critical. 
+RIKER: Palmer is missing. A scan of the planet shows Mintakan life
+forms only, no humans. However 
+DATA: The area around the duck blind exhibits Karst topography.
+Sinkholes, underground rivers, and caverns. And the rock strata contain
+a high concentration of thallium compounds which may be obstructing our
+sensor beams. 
+PICARD: So if Palmer, in his delirium, fled into a cave, we may be
+unable to detect his life signs? 
+DATA: Correct, sir. 
+CRUSHER: Captain, if he is still alive, he needs medical attention. We
+must send an away team to locate him. 
+TROI: But our presence must not interfere with the cultural development
+of the Mintakans. 
+PICARD: Agreed. Further contamination must be prevented. 
+RIKER: I have a suggestion.
+
+First officer's log, Stardate 43174.2. Counsellor
+Troi and I are beaming down to Mintaka Three to locate Doctor Palmer
+and to determine the extent of the cultural contamination. Doctor
+Crusher has temporarily altered our features and skin
+colour. She's also implanted subcutaneous communicators so that any
+transmissions we receive will be inaudible to the Mintakans.
+

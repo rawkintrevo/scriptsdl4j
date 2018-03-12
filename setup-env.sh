@@ -23,5 +23,5 @@ cd target
 java -classpath .:scripts-dl4j-0.1-SNAPSHOT-shaded.jar org.rawkintrevo.scenegen.App
 
 # or build and run jar
-mvn clean package -DskipTests && cd target && java -classpath .:scripts-dl4j-0.1-SNAPSHOT-shaded.jar org.rawkintrevo.scenegen.App >> ../output/v18-output.txt
+mvn clean package -DskipTests && cd target && java -classpath .:scripts-dl4j-0.1-SNAPSHOT-shaded.jar org.rawkintrevo.scenegen.App >> ../output/v21-output.txt
 cd .. && mvn clean package -DskipTests && cd target && java -classpath .:scripts-dl4j-0.1-SNAPSHOT-shaded.jar org.rawkintrevo.scenegen.App >> ../output/v18-output.txt

@@ -1,94 +1,36 @@
-HUBBLE LAFORGE PICARD RIKER OGAWA CRUSHER
+GUEST0 RIKER COMPUTER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Riker's quarters]
 
-RIKER [OC]: We're having trouble reading you. 
-PICARD: And we are having similar difficulties reading you. I am
-advising you and your away team
-
-[Cavern]
-
-PICARD [OC]: to transport up at once. 
-LAFORGE: That's good advice, Commander. We've got a sudden build up of
-gases here, especially methane. 
-RIKER: Transporter Room. 
-[Transporter room]
-
-RIKER [OC]: Take us up. 
-HUBBLE: I can't get a solid lock on you, sir. Too much interference.
-
-[Cavern]
-
-HUBBLE [OC]: I'm trying again.
-
-[Bridge]
-
-PICARD: Transporter room, what's happening?
-
-[Transporter room]
-
-PICARD [OC]: Report. 
-HUBBLE: I'm trying again, sir. 
-[Cavern]
-
-(The team are on their knees, coughing, as the
-transporter beam comes and goes. Then they finally collapse)
-
-[Sickbay]
-
-OGAWA: Doctor Crusher, he's awake. 
-RIKER: Beverly? 
-CRUSHER: Will. You remember me. That's good. What else do you remember,
-Captain? 
-RIKER: Captain? 
-(He catches sight of his reflection. There's a little grey in the
-beard) 
-(After the opening titles) 
-CRUSHER: Water, three Celsius. How do you feel? 
-RIKER: Confused. 
-CRUSHER: That's understandable, considering what's happened. 
-RIKER: What has happened? What happened to Sickbay? To you? To me? 
-CRUSHER: Sit down, Captain. 
-RIKER: Captain? I am Commander William T Riker. What is going on here? 
-CRUSHER: Sit. Please. What is the last thing that you remember clearly?
-
-RIKER: Alpha Onias three. The Enterprise had been probed. Geordi, Worf,
-and I transported down to track the source. 
-CRUSHER: But all you found there was toxic gas. They barely had time to
-get the three of you out. Will, that happened sixteen years ago. 
-RIKER: That's not possible. 
-CRUSHER: With an Altarian virus, anything is possible. In fact, we've
-been expecting this. 
-RIKER: Could you be more specific? 
-CRUSHER: That day on Onias three, you were infected with a strain of
-Altarian encephalitis, a retrovirus that incorporates its DNA directly
-into the cells of its host. It can lie dormant for many years and then
-suddenly become active again, as it did in your case ten days ago. You
-have been in a coma, delirious. Your fever finally broke this morning. 
-(really? So why is he in uniform and not sickbay gown?) 
-RIKER: But what happened to my memory? 
-CRUSHER: Let me show you a scan of your brain tissue. When the
-encephalitis became active it caused widespread synapse degradation,
-interrupting the consolidation of your memory patterns. 
-RIKER: Doctor. 
-CRUSHER: Will, this virus inevitably causes memory loss back to the
-moment of the original infection. In your case, all the way back to
-Alpha Onias three. 
-RIKER: I don't believe this. Is this a dream? 
-CRUSHER: Feel my hand. It is flesh and bone. This is not a dream and
-you are, in fact, Captain William T. Riker in command of the
-Enterprise. 
-RIKER: The Enterprise. For how long? 
-CRUSHER: Nine years. 
-RIKER: If I have lost my memory, how do I get it back? 
-CRUSHER: Memories are formed by association. Smells, sounds, and images
-from the present could possibly trigger them. 
-RIKER: Like a song reminds you of an old friend. 
-CRUSHER: Exactly. In associational therapy, we expose the patient to
-familiar surroundings. This could stimulate the brain's neural synapses
-into regenerating. 
-RIKER: Then let's get started. There's nothing more familiar than the
-Enterprise. Maybe that'll bring back some 
-CRUSHER: Will, I said your memory could return. In many of these cases
-the damage is permanent.
+JEAN-LUC: And then Mom tried to net the fish, and
+she fell in the creek, too. And then you tried to pull us both out, and
+you fell in. 
+RIKER: I'm not sure I want to remember that. 
+JEAN-LUC: Mom really liked Curtis Creek. We went there for picnics and
+stuff lots of times. 
+RIKER: What was she like? 
+JEAN-LUC: She was great. I think of her a lot. I'd better go change. 
+RIKER: Computer. Display family record. Riker. William T. Limit to
+visual. 
+(the wall monitor shows a movie of Riker and young J-L having fun) 
+RIKER: Display family record. Riker, Mrs. William T. 
+COMPUTER: Please restate request. 
+RIKER: Damn. 
+JEAN-LUC: What's wrong, Dad? 
+RIKER: The computer still isn't working properly. I can't get a visual
+of your mother. 
+JEAN-LUC: But I know Mom's pictures are there. Did you give a stardate?
+Computer. Display family record. Riker, Mrs. William T. Home file.
+Stardate 58416. 
+(a movie of J-L's 7th birthday, and the woman is a brunette last seen
+in a season one episode...) 
+RIKER: Min! Minuet. 
+JEAN-LUC: Mom was beautiful, wasn't she? 
+RIKER: Yes. 
+JEAN-LUC: What's wrong, Dad? 
+LAFORGE [OC]: La Forge to Riker. 
+RIKER: Riker here. 
+LAFORGE [OC]: Captain, please come to the Bridge. 
+RIKER: On my way.
 

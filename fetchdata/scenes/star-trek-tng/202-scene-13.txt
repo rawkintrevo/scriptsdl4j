@@ -1,67 +1,62 @@
-TROI DATA LAFORGE WORF RIKER
+PICARD DATHON
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Planet surface]
 
-WORF: Onboard systems do not appear to be disrupted
-by the field, but I can barely read you, Commander. 
-RIKER [OC]: Acknowledged. Maintain 
-[Bridge]
+(night has fallen, a fire is lit and Dathon is
+lying down) 
+DATHON: Darmok and Jalad at Tanagra. 
+PICARD: Our situation is similar to theirs. I understand that. But I
+need to know more. You must tell me more about Darmok and Jalad. Tell
+me. You used the words, 'Temba, his arms wide' when you gave me the
+knife and the fire. Could that mean give? Temba, his arms wide. Darmok.
+Give me more about Darmok. 
+DATHON: Darmok on the ocean. 
+PICARD: Darmok. (draws on the soil) The ocean. Darmok on the ocean. A
+metaphor? For being alone? Isolated? Darmok on the ocean. 
+(Dathon writhes in pain) 
+PICARD: Are you alright? 
+DATHON: Kiazi's children, their faces wet. 
+PICARD: Temba, his arms open. Give me more about Darmok on the ocean. 
+DATHON: Tanagra on the ocean. Darmok at Tanagra. 
+PICARD: At Tanagra. A country? Tanagra on the ocean. An island. Temba,
+his arms wide. 
+DATHON: Jalad on the ocean. Jalad at Tanagra. 
+PICARD: Jalad at Tanagra. He went to the same island as Darmok. Darmok
+and Jalad Tanagra. 
+DATHON: The beast at Tanagra. 
+PICARD: The beast? There was a creature at Tanagra? Darmok and Jalad,
+the beast of Tanagra. They arrived separately. They struggled together
+against a common foe, the beast at Tanagra. Darmok and Jalad at
+Tanagra. 
+DATHON: Darmok and Jalad on the ocean. 
+PICARD: They left together. Darmok and Jalad on the ocean. 
+DATHON: The ocean. (another spasm) Zinda! His face black, his eyes red.
+Callimas at Bahar. 
+PICARD: You hoped this would happen, didn't you? You knew there was a
+dangerous creature on this planet and you knew from the tale of Darmok
+that a danger shared might sometimes bring two people together. Darmok
+and Jalad at Tanagra. You and me, here, at El-Adrel. 
+DATHON: Kira at Bashi. Temba, his arms wide. 
+PICARD: My turn? No, I'm not much of a story teller. Besides, you
+wouldn't understand. Shaka. when the walls fell. Perhaps that doesn't
+matter. You want to hear it anyway. There's a story, a very ancient
+one, from Earth. I'll try and remember it. Gilgamesh, a king.
+Gilgamesh, a king, at Uruk. He tormented his subjects. He made them
+angry. They cried out aloud, send us a companion for our king. Spare us
+from his madness. Enkidu, a wild man from the forest, entered the city.
+They fought in the temple. They fought in the street. Gilgamesh
+defeated Enkidu. They became great friends. Gilgamesh and Enkidu at
+Uruk. 
+DATHON: At Uruk. 
+PICARD: The new friends went out into the desert together, where the
+great bull of heaven was killing men by the hundreds. Enkidu caught the
+bull by the tail. Gilgamesh struck it with his sword. 
+DATHON: Gilgamesh. 
+PICARD: They were victorious. But Enkidu fell to the ground, struck
+down by the gods. And Gilgamesh wept bitter tears, saying, 'he who was
+my companion through adventure and hardship, is gone forever. 
+(and so Dathon dies)
 
-RIKER: Communications as long as conditions permit.
-
-DATA: Commander. I am reading a power surge in the Tamarian plasma
-reactor. 
-RIKER: Lieutenant Worf! Evasive manoeuvre sequence delta! 
-[Shuttlecraft]
-
-RIKER [OC]: Manoeuvre sequence delta.
-
-[Bridge]
-
-DATA: Commander, the shuttle has been hit. 
-RIKER: Damage? 
-DATA: The starboard nacelle has been rendered inoperable. 
-RIKER: That's all? Riker to Worf.
-
-[Shuttlecraft]
-
-RIKER [OC]: Report. 
-WORF: Starboard thrusters destroyed. I may be able to land but I will
-not be able to take off.
-RIKER [OC]: Understood. Return to the Enterprise, Mister Worf. 
-WORF: Aye, sir.
-
-[Bridge]
-
-RIKER: Enough to turn them back, but not enough to
-hurt them. 
-DATA: Yes, sir. The phaser pulse appears to have been carefully
-attenuated for just that effect. 
-RIKER: Nice shooting.
-
-[Observation lounge]
-
-(Atmospheric ionisation scan 927 is on the wall
-monitor) 
-LAFORGE: I'm pretty sure I can punch up the annular confinement beam
-enough to transport the captain through the field, but it's going to
-take me at least a full day to do it. 
-TROI: Captain Picard could be dead by then. 
-WORF: I do not believe so. I have confidence in his ability as a
-warrior. He will be victorious. 
-TROI: You're still assuming this is some sort of a challenge ritual. We
-can't be certain of that. 
-RIKER: Agreed. We're only making educated guesses about their
-motivations, no more than that. 
-WORF: Then why do we wait? If we attack the ship now, they will not be
-able to maintain their scattering field. 
-RIKER: Which might start a shooting match, and for all we know, a war,
-and we still might not be able to save the captain. 
-WORF: It would end this stalemate. 
-RIKER: It's too much of a risk. I'll take that course when it's the
-last one left. Who the hell are these people?
-There's got to be some way to get through to them. 
-DATA: As I have said, with further study it may be possible 
-RIKER: Then do it. Deanna, help him. I want something by oh nine
-hundred hours.
-
+First Officer's log, supplemental. Despite the risk
+of war, I have no choice but to break the stalemate. 

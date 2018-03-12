@@ -1,37 +1,41 @@
-TROI LAFORGE PICARD PRIETO LYNCH DATA
+TASHA PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Planet surface]
 
-LYNCH: Captain, I'm in the middle of realigning the
-dilithium crystals. 
-PICARD [OC]: There is an emergency. We need warp drive. How long? 
-LYNCH: Twenty minutes. Maybe more. 
+(The team beam down onto a barren rock-strewn
+surface under a salmon pink sky. One of the nacelles has broken off the
+little shuttlecraft) 
+CRUSHER: Let's go. The life signs are weak. 
+(Their way is blocked by what seems to be an oil slick) 
+RIKER: What is this? 
+TASHA: No idea. We'll go around, just to be on the safe side. 
+(The slick moves to stay between them and the shuttle) 
+TASHA: Let's try the other way. 
+(It moves again) 
+RIKER: Enterprise, this is Riker. We've got a problem. 
 [Bridge]
 
-PICARD: We don't have it, Mister Lynch. 
-LYNCH [OC]: I'll align it by hand.
-PICARD: Whatever it takes. 
-LYNCH [OC]: Aye, sir. 
-LAFORGE: Shuttle, this is the Enterprise. Your coordinates now read two
-three seven point one zero one. Ben, you're dangerously close to a
-planet. 
-PRIETO [OC]: I can see it. 
-DATA: The planet is Vagra Two, sir, in the Zed Lapis sector.
-Uninhabited. 
-PICARD: Lieutenant, report! 
-TROI [OC]: This is Counsellor Troi. I'll relay, sir. The pilot is busy.
-We've lost most of our impulse power. 
-PICARD: Engineering, status report. 
-[Engineering]
+PICARD: What kind of problem, Number One? 
+RIKER [OC]: I'm not sure yet. There appears to be some kind of a slick
+blocking our path. Will keep you apprised. 
+PICARD: Maintain an open frequency. 
+RIKER: Aye, sir. 
+[Planet surface]
 
-LYNCH: Working on it, Captain. Three minutes. 
-[Bridge]
-
-LYNCH [OC]: But there are no guarantees. 
-PRIETO [OC]: Captain, we're out of control. We're caught in the
-planet's gravity. 
-Captain's log, supplemental. We've lost all contact
-with shuttlecraft thirteen, and can only assume they've crash-landed on
-Vagra Two.
-Meanwhile, main Engineering is trying to return us to warp power.
-
+RIKER: Analysis, Mister Data. 
+DATA: Inconclusive, sir. I cannot tell you what it is, but I can tell
+you what it is not. 
+RIKER: Explain. 
+DATA: There is no evidence of neural or circulatory systems. No
+internal organs. Cellular structure unknown. It does not have any
+proteins which are known to us. 
+CRUSHER: It's narrower over here. We can get over it. 
+RIKER: How is it moving, Data? 
+DATA: I do not know, sir. It does not appear to have a skeletal
+framework or musculature. 
+RIKER: Then what's causing it to move? 
+DATA: It appears to be following us, sir. 
+RIKER: No sign of intelligence, no brain as we know it, yet evidence of
+thought, Mister Data? 
+DATA: Insufficient information, sir. 

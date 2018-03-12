@@ -1,55 +1,46 @@
-JAYA RIKER MAVEK
+TROI CRUSHER DATA RIKER GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Asylum Corridor]
+[Sickbay]
 
-(they walk slowly down the corridor. there is
-distant screaming, and the Enterprise alien walks past too)
+CRUSHER: There's nothing wrong with you
+neurologically, and I can't find anything that could cause the
+hallucinations. But your heart rate is way up and your blood pressure's
+way above normal. And you're physically exhausted. 
+RIKER: This is not a case of simple fatigue. 
+CRUSHER: Will, you know that when you're under conditions of extreme
+stress the mind can manufacture all kinds of things. 
+RIKER: Drugs. They injected me with me drugs. See if the drug's in my
+system. 
+CRUSHER: Nothing. 
+RIKER: In that dream they gave me drugs. Didn't anybody at the theatre
+see anything strange happen during the performance? 
+CRUSHER: No, nobody. Get some rest, Will. The play is over. Don't give
+it another thought. 
+RIKER: Right. 
+[Corridor]
 
-[Asylum common area]
+RIKER: How's Lieutenant Suna? 
+TROI: A little shaken but all right. 
+RIKER: I feel like such an idiot. 
+TROI: It's nothing to be embarrassed about. We're your friends. We all
+know the stress you've been under. I'm sure everyone understands
+perfectly. 
+DATA: Commander, I must compliment you on your performance this
+evening. 
+RIKER: Oh? 
+DATA: Your unexpected choice to improvise was an effective method of
+drawing the audience into the plight of your character. You gave a
+truly realistic interpretation of multi-infarct dementia. 
+RIKER: Thank you. 
+TROI: Well, maybe not everyone understands. 
+RIKER: I think I'd better get a little rest. Clear my mind a little. 
+TROI: I want you to try a few relaxation techniques as well. Remember
+the ones I showed you a few months ago?
 
-(the inmates are doing things that the mentally
-disturbed are assumed to do - clay modelling, painting etc.) 
-MAVEK: I'll be back with your lunch. 
-(a female inmate sits opposite Riker) 
-JAYA: I hear you're a Starfleet officer. I'm Commander Bloom from the
-Yorktown. There are at least a dozen of us here, maybe more. We were
-kidnapped, brought here against our will. Sanders was on the Yosemite.
-They did something to his mind. I think they're trying to get
-neurochemicals from our brains. Stafko was with me on the Yorktown. I
-don't know what they did to him. We're going to get out of here. I've
-made a communicator. 
-RIKER: You have? 
-JAYA: Yes. There are three starships in orbit. They're going to beam us
-out of here any day now. I'll tell them to get you out, too. (into
-spoon) Lieutenant Bloom to Yorktown. Come in, Yorktown. I've made
-contact with another officer. 
-MAVEK: Talking to your Starship again, Jaya? 
-JAYA: No. Don't let them tell you you're crazy. 
-(she leaves the table) 
-MAVEK: You know you're not supposed to take utensils from the common
-area. 
-(Jaya gives him the spoon) 
-MAVEK: You're welcome to try. 
-RIKER: I'm not that far gone, am I? 
-MAVEK: Of course you are. 
-RIKER: Your name is Mavek. 
-MAVEK: That's right. Not bad for a crazy man. 
-RIKER: I am beginning to remember certain things. Why am I here? 
-MAVEK: I remember when they brought you in. You were struggling,
-screaming. We could barely hold you down. In fact, just getting the
-blood off your hands took over an hour. 
-RIKER: Blood? 
-MAVEK: On your hands, clothes. You didn't just kill that man, you
-mutilated him. 
-RIKER: What are you talking about? I didn't kill anybody. 
-MAVEK: I'm afraid you did. You stabbed him. They found you near the
-body, the knife in your hand. 
-RIKER: No. It's not true. 
-MAVEK: Yes it is. And if you get out of here, you're going to stand
-trial. 
-RIKER: You're lying! 
-MAVEK: I imagine the punishment will be quite severe, considering you
-stabbed him nine times. 
-RIKER: No! 
-(and he tries to strangle the attendant, but is dragged off and
-injected with something) 
+RIKER: They never seem to work for me. 
+GUEST4 [OC]: Maybe you need another treatment. 
+TROI: What's wrong? 
+RIKER: Nothing. Nothing. 
+TROI: Will, I want you to get some sleep. I'll see you tomorrow. 
+RIKER: Okay. 

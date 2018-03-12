@@ -1,92 +1,29 @@
-RIKER OBRIEN LAFORGE WORF PICARD NAYROK WESLEY SECURITY DATA
+PICARD RIKER COMPUTER DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-DATA: We will use extreme caution. 
-RIKER [OC]: Keep us informed. Riker out. 
-WORF: On screen, sir. 
-DATA: Specifications on the vessel, Mister Worf? 
-WORF: No warp drive. Minimal weaponry. 
-DATA: Heading, Mister Crusher? 
-WESLEY: Three one nine mark two five oh, sir. 
-LAFORGE: Vessel's speed increasing to point oh two impulse. He's seen
-us, Data. 
-(The little transport slips behind an asteroid, but only part emerges
-on the other side) 
-LAFORGE: That's the ship's drive section 
-WESLEY: What happened to the rest of the ship? 
-DATA: Scan the drive section for life form readings. 
-WORF: None. 
-DATA: Bring us around to the back side of the asteroid, Mister Crusher.
+GUEST1 [on viewscreen]: We'll need a few hours to
+get the containment field on Lunar Five operational before we pick him
+up. The damage he did during his escape was considerable. 
+PICARD: We will await your signal. 
+GUEST1 [on viewscreen]: I appreciate your patience. The prison
+psychologist recommends that you keep Danar fully sedated until he's
+ready for transport. 
+PICARD: Well, he's in our highest security detention area. There
+shouldn't be any more problems. 
+GUEST1 [on viewscreen]: Do not relax your security for an instant,
+Captain. He is extremely violent and very cunning, as you already know.
+I will send a transport vessel to pick him up as soon as possible.
+Nayrok out. 
+RIKER: Have you run a diagnostic on the sensors, Data? 
+DATA: Yes, sir. There is nothing wrong with the ship's sensors. The
+reason we did not sense life signs aboard the escape vessel is because
+the prisoner has no life signs. 
+RIKER: Computer, identify the occupant of the detention cell. 
+COMPUTER: The detention cell is vacant at this time. 
+RIKER: He's in there. 
+PICARD: Could he be some kind of android? 
+DATA: Our sensors can identify artificial lifeforms, sir. Apparently,
+he is capable of deceiving the sensors.
 
-LAFORGE: Sensors indicate wreckage on the asteroid's surface, Data. 
-WORF: No life signs. 
-DATA: Apparently, he did not survive. 
-WESLEY: Data, the drive section. Where'd it go? There's no sign of it
-on its previous heading. Someone must be at the helm. 
-RIKER [OC]: Status report, Mister Data? 
-DATA: I am afraid the prisoner has eluded us, sir. 
-[Angosian Senate]
-
-PICARD: Eluded the Enterprise? 
-[Bridge]
-
-DATA: We followed procedures precisely, Captain.
-Scanners indicated no life forms present in the drive section. I cannot
-explain how he escaped. 
-WORF: Incoming message from the Angosian Prime Minister. 
-PICARD: On screen. 
-NAYROK [on viewscreen]: Captain, we've identified the prisoner. His
-name is Roga Danar. His criminal record is too long to go into, but I
-must caution you that he is given to bouts of uncontrollable violence. 
-PICARD: I appreciate your warning, Prime Minister. We will keep you
-informed of our progress. 
-(transmission ends) 
-RIKER: Geordi, how far and how fast can that transport ship travel? 
-LAFORGE: Without warp drive, there's no way he could be out of our
-range by now. 
-WESLEY: We've been sweeping the area constantly, Commander. There's
-nothing within sensor range. 
-PICARD: A cloaking device? 
-WORF: Sir, the Angosians have no cloaking technology. 
-RIKER: Unless he's borrowing one. If he's hanging over the planet's
-pole, the magnetic field would confuse our sensors. 
-DATA: Commander, I believe I can recalibrate our sensors to read
-through the electromagnetic interference over the poles. 
-RIKER: Let's try it. Mister Crusher, realign for polar orbit. 
-WESLEY: Aye, sir. 
-DATA: There he is, Commander. You were correct. 
-RIKER: This guy knows all the tricks, doesn't he. 
-DATA: There are still no life form readings coming from the vessel. 
-LAFORGE: Could it be the magnetic interference, Data? 
-DATA: I have compensated. Still no readings. 
-PICARD: We'll have an answer shortly. Lock on tractor beam, Mister La
-Forge. 
-LAFORGE: Tractor beam locking on, sir. 
-DATA: He is coming about, sir. 
-RIKER: He's out of his mind! 
-WORF: Sensors detect a massive power build up in his aft thrusters. 
-PICARD: On main viewer. 
-LAFORGE: He's making a suicide run. 
-DATA: Shields have been automatically activated. Tractor beam
-disengaged. 
-WESLEY: He bounced off the shields. 
-RIKER: That's an interesting twist. 
-PICARD: Mister Crusher, fix coordinates onto that vessel. We'll just
-beam the whole thing to a shuttlebay if we have to. 
-DATA: I do not believe that will be necessary, Captain. He is no longer
-in the drive section. 
-PICARD: What? 
-DATA: I anticipated that diversionary tactic based on his pattern to
-date. We are picking up a cylindrical object approximately seven metres
-in length and three metres in diameter. 
-WORF: On screen. 
-PICARD: Magnify. 
-WESLEY: An escape pod. 
-LAFORGE: This guy's incredible. 
-DATA: Yet there are still no life form readings. 
-PICARD: Transporter room four, prepare to beam aboard from inside that
-shuttle anything large enough to be a humanoid adult. 
-O'BRIEN [OC]: Aye, sir. 
-WORF: Security team, report to transporter room four. 
-SECURITY [OC]: On our way, sir. 

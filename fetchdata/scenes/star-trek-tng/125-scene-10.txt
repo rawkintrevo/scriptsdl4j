@@ -1,61 +1,36 @@
-PICARD RIKER COMPUTER DATA
+PICARD RIKER REMMICK GUEST1 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Transporter room]
 
-RIKER: There's no proof of anything. 
-PICARD: The last time I saw Admiral Quinn he tried to warn me about a
-subversion within the Federation. Then Walker tried, and he's dead. 
-RIKER: Subversion? Personally, I don't believe this conspiracy theory.
+PICARD: It's not Gregory Quinn. It may look like
+him and sound like him, but it isn't him. 
+RIKER: Are you absolutely certain, Captain? 
+PICARD: I'm certain, Number One. I want you to stay close. Keep your
+eye on his every move. Have Beverly concoct some reason for giving him
+a full medical examination. 
+RIKER: How? 
+PICARD: I don't know, just do it. 
+RIKER: He's a senior Admiral. 
+PICARD: It's not him, Will. I know that now. What I have to find out is
+how this happened, and who or what is behind it. 
+RIKER: Captain, if you're right. 
+PICARD: I'm right. 
+RIKER: Should you be beaming down there alone, unarmed? 
+PICARD: I'll take care. Find out what you can, then join me, in force
+if necessary. Energise. 
+RIKER: Good luck, sir.
 
-[Ready room]
+[Starfleet Reception area]
 
-(Information is still flashing in front of Data's
-eyes) 
-DATA: Startling. Quite extraordinary, in fact. 
-COMPUTER: Directions unclear. Please repeat request. 
-DATA: That was not a request. I was simply talking to myself. A human
-idiosyncrasy, triggered by fascination with a particular set of facts.
-Or sometimes brought about by senility. Or used as a means of weighing
-information before reaching a conclusion. Or, as a 
-COMPUTER: Thank you, sir. I comprehend. Please specify how you would
-like to proceed, sir. 
-DATA: Please continue with record scan. Intriguing.
-
-[Observation lounge]
-
-RIKER: But we have no facts. We have to assume the
-explosion was an accident. 
-(Data enters) 
-PICARD: Number One, I believe what happened on the Horatio was
-sabotage. 
-RIKER: But we can't be certain. 
-DATA: Perhaps we can. My orders were to search for abnormal patterns in
-Starfleet's directives. I believe I have found just that. 
-(He puts a data disc into a desk monitor) 
-DATA: These are various outposts and starbases where I have detected
-unusual activity over the past few months. 
-PICARD: What sort of activity? 
-DATA: An uncustomary reshuffling of personnel, usually in the command
-areas. The new officers have had frequent contact with the highest
-levels of Starfleet Command. 
-RIKER: Why hasn't anybody discovered this before? 
-DATA: The orders were given with great subtlety. To use an aphorism,
-Starfleet's left hand did not know what its right hand was doing. 
-PICARD: Data, can you speculate as to the purpose of these
-reassignments? 
-DATA: I believe it is a clandestine attempt to control vital sectors of
-Federation territory. 
-RIKER: This could be a prelude to an invasion. But who's behind it? 
-DATA: There is insufficient data to make such an assessment, sir. 
-RIKER: Are you suggesting that we warp over to Starfleet headquarters
-and demand to know what's going on? 
-DATA: Why not? 
-PICARD: Yes, why not? We're talking about a threat to the entire future
-of the Federation. I don't think any of us can rest easy until we've
-been to the source.
-
-Captain's personal log, supplemental. While it is
-quite unusual for a starship to return to Earth, we seem to be left
-with no other choice. I have apprised the remaining bridge crew of our
-situation.
-
+GUEST2: Welcome home, Captain Picard. 
+PICARD: Thank you, sir. My first officer will be joining us shortly. 
+GUEST2: Yes, I'm sure he will. 
+GUEST1: You've met Commander Remmick, haven't you? 
+REMMICK: Under less than ideal circumstances. It's nice to see you
+again, Captain. 
+GUEST2: We've prepared a special meal in your honour. 
+PICARD: Delightful. Tell me, why is the corridor so quiet? The last
+time I was here, it was bustling with activity. 
+REMMICK: It usually is. Tonight's a quiet night. 
+GUEST2: Yes, a quiet night. 

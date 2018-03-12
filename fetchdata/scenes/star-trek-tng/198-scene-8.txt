@@ -1,72 +1,62 @@
-RIKER LAFORGE WORF KELL PICARD TROI DATA
+OBRIEN DATA LAFORGE CREWMAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Engineering]
 
-DATA: It is fortunate we were able to coordinate
-your return on the Teldarian cruiser. 
-LAFORGE: Yeah, when I heard the Enterprise had been ordered to the
-Krios system, I thought I might be forced to endure another couple of
-weeks on Risa. 
-DATA: I am sorry to hear you did not enjoy yourself. 
-LAFORGE: I was joking. 
-DATA: Joking? Ah. Forced to endure Risa. Your actual intent was to
-emphasise that you did enjoy yourself. Yes, I see how that could be
-considered quite amusing. 
-LAFORGE: I missed you, Data. 
-[Bridge]
+LAFORGE: Intercooler flux down to five percent.
+Plasma deviation steady at point seven two. 
+CREWMAN: Aye, sir. 
+LAFORGE: Well, if you guys keep running at this efficiency, I might as
+well go back to Risa for another week. Just run through a level four
+series, and then call it a night, huh? I'd help you, but there's
+something I've got to take care of. 
+[Ten Forward]
 
-PICARD: Commander La Forge. 
-LAFORGE: Permission to come aboard, sir. 
-PICARD: Granted. Welcome back. 
-LAFORGE: Thank you, sir. 
-PICARD: Commander La Forge is my Chief Engineer. 
-KELL: Commander. 
-PICARD: He's has been attending a seminar on artificial intelligence on
-Risa. 
-RIKER: I'm glad we got you back, Geordi. We're going to need your help
-on this. 
-LAFORGE: Data tells me that the Federation has been accused of aiding
-Kriosian rebels. 
-PICARD: We're to be presented with evidence today. We'll need your help
-in analysing it. 
-LAFORGE: Anything I can do. 
-(walking to the turbolift) 
-TROI: You had a good time. 
-LAFORGE: Does it show? 
-TROI: You're more relaxed than I've ever seen you. 
-(Geordi and Troi enter the turbolift) 
-WORF: Captain, Governor Vagh has signalled he is ready to meet with
-you. 
-PICARD: Very well. Advise him that we will transport sown to the
-surface immediately. Ambassador. 
-(Picard and Kell leave) 
-DATA: Commander Riker. 
-RIKER: What is it, Data? 
-DATA: Our sensors have detected a brief energy fluctuation in the
-E-band. 
-RIKER: E-band? That's unusual. What's the source? 
-DATA: Unknown, sir. E-band emissions are difficult to localise. 
-RIKER: Collapsing protostars sometimes emit E-band bursts. 
-DATA: Yes, sir. However, there are no protostars in this sector. 
-RIKER: You'd better run a complete scan. Keep me posted. 
-DATA: Yes, sir. 
-[Corridor]
+LAFORGE: Red Torian, please. (the drink is served)
+Thank you. 
+(O'Brien is sitting alone with his back to the bar. Geordi goes quietly
+over then deliberately spills his drink over Miles' shoulder) 
+LAFORGE: Oh! I'm sorry. 
+(that gets the attention of Riker, Crusher and Kell) 
+O'BRIEN: It's all right. 
+LAFORGE: My glass, it just slipped. 
+O'BRIEN: It's nothing, just a little cold. 
+LAFORGE: Yeah, but you're all soaked here. 
+O'BRIEN: It's nothing serious. 
+LAFORGE: Let me get you something to wipe that off with. 
+O'BRIEN: I'll just go to my quarters and change. 
+LAFORGE: You sure? 
+O'BRIEN: Don't think twice about it, Commander.
 
-LAFORGE: The Carnelians have actually done the most
-work on artificial intelligence, so I spent a lot of time in their
-research seminars. 
-TROI: Geordi, I get the feeling that something special happened on this
-vacation, and I'm not talking about computers. 
-LAFORGE: Well, I did take second place in a chess tournament. 
-TROI: Yes. 
-LAFORGE: And I swam a lot. I worked on my back stroke. The water is
-very calm on Risa. 
-TROI: And? 
-LAFORGE: And I walked a lot. That's all. Well, I ate enough for twelve
-people. The food there is terrific. They've got a chocolate there,
-Counsellor, you would love. 
-TROI: And that's all?
-LAFORGE: Yeah. Well, there was this 
-TROI: Yes? 
-LAFORGE: Her name is Jonek. But you wouldn't want to hear about that.
-Better get ready for duty. Nice talking to you, Counsellor. 
+[Engineering]
+
+(Data and Geordi are doing test firings of the
+phaser rifle) 
+DATA: Energy flow is within normal parameters, from the pre-fire
+chamber to the emission aperture. 
+LAFORGE: Rapid nadion pulse, right on target. Beam control assembly,
+safety interlock, both checked out. Beam width intensity controls also
+responding correctly. 
+DATA: Energy cell usage remains constant at one point oh five
+megajoules per second. Curious. The efficiency reading on the discharge
+crystal is well above Starfleet specifications. 
+LAFORGE: Yeah, by quite a bit. Ninety four point one percent
+efficiency. 
+DATA: Our most efficient discharge crystal typically fires with eighty
+six point five percent efficiency. 
+LAFORGE: Let's take a closer look at the wave pattern on the emission
+beam. That might tell us why it's losing so little energy. 
+DATA: Pulse frequency out of pre-fire chamber reads steady. 
+LAFORGE: There. That's not right. The initial output spike is inverted.
+
+DATA: That might suggest that the weapon has been charged with a forced
+pulse, well into the terahertz range. 
+LAFORGE: Then it's definitely not Starfleet issue and there can't be
+that many systems that use the terahertz feeds. 
+DATA: Three hundred twenty seven, to our knowledge. We can probably
+achieve an exact match with a random computer search. It will take
+approximately three hours. 
+LAFORGE: I think we could narrow this down with a little common sense,
+Data. Who has the most to gain from a conflict between the Klingon
+Empire and the Federation?
+

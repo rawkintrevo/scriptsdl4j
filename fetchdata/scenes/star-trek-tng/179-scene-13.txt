@@ -1,54 +1,35 @@
-RIKER LAFORGE WORF PICARD WESLEY CRUSHER
+TROI LAFORGE PICARD TRAVELLER RIKER WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-WESLEY: There's something down here I think you'd
-better see. It may be connected to Doctor Quaice's disappearance. 
-PICARD [OC]: On my way.
+WESLEY: The link isn't holding, Commander.
+LAFORGE: I'll go to the secondary equations. 
+WESLEY: No. Look. (the vortex dissipates) I've lost it. 
+LAFORGE: Damn. I'm sorry, Wesley. 
+WESLEY: It's over. There's no way we'll get her back now. 
+TRAVELLER: (phasing in) It's not over, Wesley. There's still a way.
 
-[Bridge]
+Captain's log, stardate 44162.5. Two attempts to
+retrieve Doctor Crusher have failed. And now, the Traveller, a
+mysterious visitor from our past, has reappeared.
 
-PICARD: Progress, Number One? 
-RIKER: No one's seen him. The replicator in his quarters has not been
-used. 
-PICARD: Mister Worf, check hull and shield integrity for any sign of
-intruders. 
-WORF: Yes, sir, but I have been closely monitoring all on-board
-sensors. There has been no indication that any 
-PICARD: Then give me a Level One diagnostic of any onboard sensors, and
-run a manual sweep of any anomalous airborne or electromagnetic
-readings. I want some answers.
+[Observation lounge]
 
-[Engineering]
-
-WESLEY: I've been experimenting with Kosinski's
-warp field equations, trying to improve engine efficiency. 
-PICARD: I've read your reports. 
-LAFORGE: We did a test run while we were still at the starbase. Here's
-what the computer recorded. 
-WESLEY: This is the static warp field we created inside the warp drive.
-The experiment was designed to see if we could keep a bubble like this
-intact. 
-LAFORGE: As you'll see in a moment, we couldn't. 
-LAFORGE: There was a momentary flash of light. It was all over the
-spectrum. 
-CRUSHER: I remember that. 
-PICARD: Are you suggesting that a bubble could have made Doctor Quaice
-disappear? 
-WESLEY: If he were caught in it, yes, sir, it would seem to us like
-he'd disappeared. 
-CRUSHER: Where would he go? 
-LAFORGE: Who knows. He could even end up outside of our space time
-continuum. 
-PICARD: Was Doctor Quaice in Engineering during your experiment? 
-LAFORGE: No, sir. 
-PICARD: And the bubble never expanded beyond Engineering? 
-WESLEY: No, sir. 
-PICARD: Then how could it have trapped Doctor Quaice or the others? 
-LAFORGE: There are others missing? 
-CRUSHER: Yes, and they weren't anywhere near Engineering. 
-WESLEY: It doesn't make sense. 
-PICARD: I doubt the warp bubble could alter computer records, or erase
-memories. Keep at it, Ensign, Mister La Forge. It's our only working
-theory for now.
+PICARD: Is she alive? 
+TRAVELLER: As long as she thinks she is alive, she is alive. 
+RIKER: What the hell does that mean? 
+TRAVELLER: Your species have very narrow perceptions of time and space
+and thought. When Beverly Crusher was caught in the static warp bubble,
+she created her own reality. Her thoughts at the precise moment she was
+trapped determined its shape and form. 
+TROI: Can you go in and get her back? 
+TRAVELLER: No, it is her reality. I cannot enter it any more than I can
+enter her thoughts. 
+WESLEY: But you said there's still a way. 
+TRAVELLER: I can help, but I can't do it myself. Wesley, there is a
+power within each of us that most people haven't begun to realise, but
+you have begun, or else I would not have known to come here now.
+Together we may be able to open a gateway for her. But she must choose
+to walk through it.
 

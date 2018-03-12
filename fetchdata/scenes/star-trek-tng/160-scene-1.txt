@@ -1,4 +1,5 @@
-KATIK CRUSHER DATA WORF POLICEMAN
+GUEST4 CRUSHER DATA WORF GUEST2MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Plaza Cafe]
 
@@ -11,7 +12,7 @@ off. Beverly rushes to help)
 WORF: Doctor! 
 [Plaza]
 
-POLICEMAN: Keep back! 
+GUEST2MAN: Keep back! 
 CRUSHER: Put that away. I'm a doctor. (to an injured woman) Just lie
 still. Try not to move. 
 CRUSHER: Lieutenant Worf, I need some bandages, disinfectant, something
@@ -22,7 +23,7 @@ CRUSHER: That's an order, Lieutenant.
 
 CRUSHER: Don't be afraid. There's a lot of bleeding, but it's not as
 bad as it looks. 
-POLICEMAN: The Klingon's right. These Ansata, they're madmen. There
+GUEST2MAN: The Klingon's right. These Ansata, they're madmen. There
 could be another bomb. (to bystanders) Clear this area. Everyone out
 of the plaza. 
 DATA: Doctor, I believe it would be prudent to return to the
@@ -33,6 +34,6 @@ WORF: Doctor.
 CRUSHER: Thank you. 
 (The waiter puts a bottle down too) 
 CRUSHER: Thank you. 
-KATIK: Not at all, Doctor. 
+GUEST4: Not at all, Doctor. 
 DATA: Captain, there has been an incident.
 

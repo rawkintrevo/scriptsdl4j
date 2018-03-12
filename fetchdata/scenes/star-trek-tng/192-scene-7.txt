@@ -1,35 +1,31 @@
-DATA LAFORGE SUSANNA
+CRUSHER DATA LAFORGE SUSANNA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Turbolift]
 
-SUSANNA: Captain Picard's wrong. The way to handle
-this is to get back down there with a dozen away teams, fan out from
-the shuttle, we could cover a lot of ground in a hurry. Use proximity
-detectors, infrared sensors. 
-(Susanna's hands are shaking) 
-LAFORGE: Susanna. 
-SUSANNA: Oh, Geordi, it's started. What if what happened to the others
-is happening to me? 
-LAFORGE: You don't know that. Suz, I'm here, and I'm not going to let
-anything happen to you, okay? Okay, come on.
+SUSANNA: Aliens or no aliens, why would our people
+start returning after five years, to be abducted? 
+LAFORGE: Some sort of compulsion like a post-hypnotic command? 
+SUSANNA: Something that happened while we were down there the first
+time? 
+LAFORGE: We can go back to the mission record, construct a log of
+everyone's movements. 
+SUSANNA: Look for some commonality, something we all touched. Maybe a
+plant, or the sand. 
+LAFORGE: Or even something we ingested. It could even be in the air
+itself.
 
-[Bridge]
+[Crusher's office]
 
-(science station LCARS 40274)
-DATA: During microscopic examination of the torn uniform, I discovered
-these alien skin cells. 
-SUSANNA: Source? 
-DATA: Undetermined. 
-LAFORGE: Without something else to cross-reference, it would take us
-weeks to try and identify them. 
-DATA: Fortunately, we have more evidence. We were able to determine
-that these footprints found near the shuttle were not made by any known
-Tarchannen life form. 
-SUSANNA: If we're pursuing a theory that somehow unknown aliens are
-involved, I think I should tell you that we didn't find tracks like
-that during the original investigation. 
-DATA: The planet is subject to frequent sandstorms. Footprints might
-have been obliterated prior to your arrival. Doctor Crusher and I will
-begin to search the medical database in an attempt to match these with
-some known life form.
+CRUSHER: The parameters are pretty broad, Data. Any
+match we make is going to be inconclusive at best. 
+DATA: I am aware of that, Doctor. However, I can see no other
+reasonable course of investigation available to us. And we may not have
+much time. 
+CRUSHER: You're worried about Geordi, aren't you? 
+DATA: I am an android. It is not possible 
+CRUSHER: for you to feel anxiety. 
+DATA: Starfleet personnel have vanished. Others may be at risk. We must
+do the best we can to find out why. However, I am strongly motivated to
+solve this mystery.
 

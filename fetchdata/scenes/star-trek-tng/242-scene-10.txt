@@ -1,88 +1,39 @@
-BASHIR DATA LAFORGE
+PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Ready room]
 
-DATA: If we transfer twenty megajoules of energy
-from the dilithium chamber into the plasma inputs, it should be
-sufficient to activate the device. 
-LAFORGE: It's worth a try. You two can begin by connecting the coil to
-the chamber. I'll configure the energy transfer. 
-BASHIR: Right. Data, can I ask you a personal question? 
-DATA: Certainly. 
-BASHIR: Does your hair grow? 
-DATA: I can control the rate of my follicle replenishment. However, I
-have not yet had a reason to modify the length of my hair. Why do you
-ask? 
-BASHIR: Just curious. 
-DATA: Power conduits are ready. Is something wrong, Doctor? 
-BASHIR: You're breathing. 
-DATA: Yes. I do have a functional respiration system. However, its
-purpose is to maintain thermal control of my internal systems. I am, in
-fact, capable of functioning for extended periods in a vacuum. 
-BASHIR: And you have a pulse. 
-DATA: My circulatory system not only produces bio-chemical lubricants,
-it regulates micro-hydraulic power. Most people are interested in my
-extraordinary abilities. How fast I can compute, my memory capacity,
-how long I will live. No one has ever asked me if my hair will grow, or
-noticed that I can breathe. 
-BASHIR: Your creator went to a lot of trouble to make you seem human. I
-find that fascinating. 
-LAFORGE: Okay, I think we're ready to begin the transfer. 
-DATA: Power connections are complete. 
-BASHIR: I'll monitor the coil's transfer rate. Will you keep an eye on
-the transient power response? 
-DATA: Of course. We are ready, Geordi. 
-LAFORGE: Okay. Initiating energy transfer. 
-(an orange light appears between the two sections of the device)
-BASHIR: Power levels are holding steady. 
-DATA: Transient response is normal. 
-BASHIR: Hold on. I'm picking up a power surge. Reduce the transfer
-rate. 
-LAFORGE: Reducing rate by twenty percent. 
-(a crackle of energy lances out and hits Data. He falls back, rigid) 
-LAFORGE: What happened? 
-BASHIR: The power connections blew. It sent out some kind of plasma
-shock. 
-LAFORGE: His synaptic energy is dropping. 
-[Corridor]
+PICARD: Come. 
+(Data enters) 
+PICARD: Yes, Mister Data? 
+DATA: I am sorry to disturb you, sir. 
+PICARD: Not at all. I'm here studying the intricacies of Bajoran
+aqueduct management. I would welcome an interruption. Please, sit down.
 
-(Data is having a vision. He follows the sound of
-metal on metal to discover a young Noonian Soong pounding on an anvil
-with a hammer.)
-
-[Engineering]
-
-(Geordi is doing something to the inside of Data's
-head when he wakes up) 
-BASHIR: Data, are you all right? 
-DATA: I believe so. What has happened? 
-LAFORGE: A plasma shock overloaded your positronic net. You were down a
-good thirty seconds. 
-DATA: That cannot be possible. I have a memory record for that period
-of time. I can recall a series of images. I saw Doctor Soong. My
-father. 
-(after the adverts, tests are continuing) 
-LAFORGE: Data, I can't find anything wrong with your positronic
-subprocessors or your circuit controllers. No sign of any residual
-energy fluctuation, cascade overload. 
-DATA: My internal diagnostic indicates that my memory systems are
-functioning within normal parameters. For the forty seven seconds that
-I was inactive, there is no record of cognitive activity. 
-LAFORGE: There's no doubt about it, Data. You were completely shut
-down. Maybe you had some kind of random power fluctuation, caused you
-to access one of your memory files. 
-DATA: That cannot be. The image I saw was of Doctor Soong as a young
-man. I did not encounter him until much later in his life. There
-appears to be no rational explanation for my experience. 
-LAFORGE: I'll take another look at the diagnostic log. In the meantime,
-you'd better disconnect that device. 
-BASHIR: Data, perhaps we're going about this the wrong way. 
-DATA: How so? 
-BASHIR: Well, maybe you had a dream or a hallucination. 
-DATA: I am not capable of either of those functions. 
-BASHIR: Yet you can't account for what happened today, can you? 
-DATA: At present, I cannot. 
-BASHIR: Well maybe you should approach this from a more human
-standpoint. You're right that machines can't have hallucinations, but
-then again, most machines can't grow hair.
+DATA: I require your advice. I have come to an impasse regarding my
+recent unexplained experience. 
+PICARD: Your vision of Doctor Soong. How is your investigation
+proceeding? 
+DATA: I have analysed over four thousand different religious and
+philosophical systems, as well as over two hundred psychological
+schools of thought, in an effort to understand what happened. 
+PICARD: And what have you found? 
+DATA: I have been unable to find a single interpretation of the images
+I saw during the time I was shut down. The hammer, for instance, has
+several meanings. The Klingon culture views the hammer as a symbol of
+power. However, the Taqua tribe of Nagor sees it as an icon of hearth
+and home. The Ferengis view it as a sign of sexual prowess. 
+PICARD: I'm curious, Mister Data. Why are you looking at all these
+other cultures? 
+DATA: The interpretation of visions and other metaphysical experiences
+are almost always culturally derived, and I have no culture of my own. 
+PICARD: Yes, you do. You're a culture of one, which is no less valid
+than a culture of one billion. Perhaps the key to understanding your
+experience is to stop looking into other sources for a meaning. When we
+look at Michaelangelo's David or Symnay's Tomb and we don't ask what
+does this mean to other people. The real question is, what does it mean
+to us? Explore this image, Data. Let it excite your imagination. Focus
+on it. See where it leads you. Let it inspire you. 
+DATA: I believe I understand, sir. Thank you. 
+PICARD: Good luck, Mister Data.
 

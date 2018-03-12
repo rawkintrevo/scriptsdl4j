@@ -1,87 +1,72 @@
-RIKER LAFORGE WORF PICARD TPEL DATA VSAL
+NURSE CRUSHER DATA COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Outside Holodeck]
 
-DATA [OC]: Sine I am not affected by emotional
-considerations, I am closer to being Vulcan than human. However, while
-their devotion to logic does have a certain appeal, I find their stark
-philosophy to be somewhat limited. 
-[Ready room]
+COMPUTER: Programme Crusher four in progress.
 
-PICARD: Come. Ambassador T'Pel. 
-T'PEL: I come to serve. 
-PICARD: Your service honours us. This is my first officer, Commander
-William Riker. 
-T'PEL: Leave us, please.
+[Holodeck dance studio]
 
-[Bridge]
-
-RIKER: Charming woman. 
-DATA [OC]: The tone of Commander Riker's voice makes me suspect that he
-is not serious about finding Ambassador T'Pel charming. My experience
-suggests that in fact he may mean the exact opposite of what he says.
-irony is a form of expression I have not yet been able to master.
-
-[Hairdresser's salon]
-
-(a Bolian hairdresser is dealing with Geordi, but
-it's not Mot) 
-V'SAL: You don't need a haircut. You were just in here last week. 
-LAFORGE: Hey, if you'd done it right the first time I wouldn't be back
-here so soon. 
-V'SAL: I know you want to look beautiful, but I'm just a barber, not a
-miracle worker. 
-LAFORGE: Just try to keep my ears on straight today, all right? 
-DATA [OC]: Friendly insults and jibes, another form of human speech
-that I am attempting to master, in this case with the help of Commander
-Geordi La Forge. 
-LAFORGE: Hi Data. 
-DATA [OC]: I consider Geordi to be my best friend. 
-LAFORGE: Here for a trim? 
-DATA: My hair does not require trimming, you lunkhead. 
-LAFORGE: What? 
-DATA: My hair does not require trimming 
-LAFORGE: Lunkhead? 
-DATA: I am experimenting with friendly jibes and insults. It was not
-meant as a serious disparagement. 
-LAFORGE: Well, just don't try it on the Captain. 
-DATA: No. Geordi, I am still confused by Chief O'Brien's reaction this
-morning. 
-LAFORGE: Yeah. He was just surprised, Data. He didn't mean to blow up
-like that. He knows that Keiko probably doesn't want to call off the
-marriage. She's just getting cold feet. 
-DATA: Cold feet? Jitters. A nervous reaction to an impending event of
-great importance. 
-LAFORGE: Right. Don't worry, everything's going to be fine. She'll
-change her mind again. 
-DATA: She will? 
-LAFORGE: Absolutely. 
-DATA: So you believe the wedding will still proceed? 
-LAFORGE: Trust me, they're going to get married. So you'd better find a
-gift.
-
-[Replicator centre]
-
-DATA [OC]: I find Lieutenant Worf to be what is
-called a kindred spirit. We were both orphans rescued by Starfleet
-officers. In many ways, we are both still outsiders in human society. 
-DATA: Are you here to find a wedding gift? 
-WORF: Yes. 
-DATA: I would appreciate your help in selecting an appropriate item. 
-WORF: Of course. I have attended human weddings before. 
-(he runs through few pictures and stops at glasses) 
-WORF: Hold. 
-DATA: This is a traditional gift? 
-WORF: Yes, my adoptive parents often give these things at family
-weddings. A human custom. 
-(he changes the picture to a glass swan) 
-WORF: Hold. 
-DATA: It is my understanding that the item selected should reflect the
-personality of whoever is giving it. This does not remind me of you.
-Have you ever been an actual participant in a human wedding? 
-WORF: No. 
-DATA: You would not consider it to be an honour? 
-WORF: An honour, perhaps. But human bonding rituals often involve a
-great deal of talking and dancing and crying. 
-DATA: Dancing.
+(Parquet floor, windows, potted palms and wall
+mirrors. Beverly is wearing tap shoes) 
+CRUSHER: Hi, Data. Well what do you think? It is a recreation of the
+studio I had my first dance lesson in. 
+DATA: It appears to be quite suitable, Doctor. 
+CRUSHER: Let's start with something simple. Stomp. Hop. Try it. 
+(he does) 
+CRUSHER: Again. Good! Good. 
+DATA: Am I dancing, Doctor? 
+CRUSHER: Not quite. Stop, Data. Now try this. 
+DATA: Doctor, perhaps it would be beneficial to show me the final
+lesson. 
+CRUSHER: Okay. 
+(so she goes into a tap routine and he copies her exactly) 
+CRUSHER: That's great. Watch. Good. Triples. Watch. Stop, Data. And you
+say you've never done this before? Try this. 
+(she does advanced steps and he copies her perfectly) 
+CRUSHER: Stop, Data. Not bad. (out of breath) Yeah, not bad. 
+DATA: Then I have successfully learned to dance? 
+CRUSHER: I'd say you've picked up the basics. 
+DATA: Thank you, Doctor. I am now prepared to dance at the wedding. 
+CRUSHER: Wedding? 
+DATA: Keiko's wedding. 
+CRUSHER: Data, you never told me this was for the wedding. 
+DATA: Is that important? 
+CRUSHER: Well yes. They don't do a lot of tap dancing at weddings. 
+DATA: Why? 
+CRUSHER: Well, Data, because, I don't really know why, Look, why don't
+I just teach you a style of dancing that they will do at the wedding?
+Computer, run 'Isn't It Romantic'. 
+(The slow music starts, and Beverly gets Data into a close ballroom
+hold) 
+CRUSHER: Compared to what we've just doing, this will be simple. Just
+look up and follow me. One, two, ready, and 
+(he is useless, no rhythm, and he treads on her toes) 
+CRUSHER: No, Data, wait a minute. Ow! No, no, you're just. Ow! Move
+slowly. Ow! Ow! Stop music. 
+DATA: Sorry, Doctor. 
+CRUSHER: I don't understand, Data. You picked up the tap dancing so
+quickly. 
+DATA: I cannot reproduce your performance if I cannot see your feet. 
+CRUSHER: All right, let's try it again. And this time, watch my feet.
+Computer, start music. And. 
+(This is far better, and less painful) 
+CRUSHER: Now, don't just imitate me. You've got to lead. 
+DATA: Lead where, Doctor? 
+CRUSHER: Indicate to your partner where you want her to step. 
+DATA: And how is that accomplished? 
+CRUSHER: I'll show you. I'll lead. Now, you'll notice that I don't just
+repeat the same pattern over and over. I improvise. Now you lead.
+That's good. Now, look up, Data. Look into my eyes. You're holding me
+too tight. 
+DATA: This is a very complex set of variables to coordinate, Doctor. 
+CRUSHER: You are doing fine. Now, smile. Act like you're enjoying
+yourself 
+NURSE [OC]: Doctor Crusher, please report to Sickbay. 
+CRUSHER: Is it Lieutenant Juarez? 
+NURSE [OC]: Yes, Doctor. Her contractions are now one minute apart. 
+CRUSHER: I'm on my way. Why don't you programme up an artificial dance
+partner. And don't be afraid to experiment. 
+DATA: I will. Thank you, Doctor. 
+DATA: Computer, create dance partner. Female. Begin music.
 

@@ -1,85 +1,61 @@
-RIKER MCDOWELL WORF PICARD BROSSMER VAREL MIROK DATA
-
-[Transporter room]
-
-BROSSMER: I can't locate their patterns. 
-[Romulan Engineering]
-
-BROSSMER [OC]: We've lost them, sir. 
-[Bridge]
-
-BROSSMER [OC]: I've done all I can, sir. I'm afraid
-they're gone. 
-PICARD: Mister Data, begin a level one diagnostic. All transporter
-systems offline until further notice. Could they have materialised
-somewhere else? 
-DATA: Negative, Captain. Sensors are unable to locate them anywhere
-within transporter range. 
-PICARD: Counsellor? 
-(Troi shakes her head) 
-RIKER [OC]: Riker to Enterprise. 
-PICARD: Go ahead, Number One.
+GUEST5 LAFORGE WORF GUEST3 RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Romulan Engineering]
 
-RIKER: Captain, we're still looking at a core
-breach unless we can fashion a new graviton generator. 
-[Bridge]
-
-RIKER [OC]: I need replacement personnel, sir. 
-PICARD: Mister Data, you may continue the diagnostic of the transporter
-systems at another time. Take a shuttlecraft and two more engineers
-down to the Romulan ship. 
-DATA: Aye, sir. 
-PICARD: Mister McDowell, alert the main shuttlebay to have all
-available ships and pilots standing by in case we need them. 
-MCDOWELL: Aye, sir. 
-PICARD: Ensign, lay in a course away from the Romulan vessel. Engage at
-warp one if you detect any sign it's going to explode.
-
-[Romulan Engineering]
-
-MIROK: Pressure in the containment chamber has
-increased fifteen melakols in the last two minutes. 
-RIKER: What can we do to stop the overload? 
-MIROK: Most of the conduits were damaged during the explosion. I can't
-even access the central computer. 
-WORF: Commander. Emergency bulkheads have sealed this section off from
-the rest of the ship. There is no way to gain access to the main Bridge
-or control centres. 
-RIKER: Survivors? 
-WORF: Readings indicate at least seventy three Romulans are still
-alive. 
-VAREL: Seventy three. 
-(an alarm sounds) 
-MIROK: The pressure has jumped two hundred melakols! 
-VAREL: I've lost control of the containment chamber. 
-MIROK: It's going to implode. 
-RIKER: We'll need to dump the entire engine core. Do you have an
-auto-eject system? 
-MIROK: Yes, but it's not functioning. I'll have to do it manually. 
-RIKER: Mister Worf, you two seal the chamber. 
-VAREL: Implosion will occur in one minute five seconds. 
-RIKER: Enterprise, we need to jettison the entire engine core. You'll
-need to extend the shields once it clears the hull. 
-PICARD [OC]: Understood, Number One. We'll stand by for your signal. 
-(Worf and Varel have got to the manual latches and undone them) 
-WORF: We must get the doors closed. 
-(but Worf can't move the debris jamming them open) 
-WORF: Commander! 
-RIKER: Time? 
-VAREL: Thirty seconds. 
-(the three men finally shift the girder and start to pull the doors
-shut) 
-MIROK: I'm ready, Commander. 
-RIKER: Stay there! Eject the chamber on my order! 
-DATA: Excuse me, sir. 
-(Data takes over and pulls the doors shut) 
-MIROK: Implosion in five seconds) 
-RIKER: Now. 
-(everything shakes as the core is ejected) 
-RIKER: Enterprise, extend shields! 
-(KaBOOM) 
-RIKER: Well, we're still here. 
-MIROK: Yes.
+(Geordi sticks his head inside a piece of
+equipment) 
+GUEST5: I'm afraid I fail to see the point of this investigation,
+Commander. 
+DATA: Chroniton emissions may have been responsible for the accident
+which claimed the lives of our officers. 
+GUEST3: A most regrettable event, of course. 
+DATA: Was your cloaking device damaged in the explosion? 
+GUEST5: All of our systems were damaged, including the cloaking device. 
+DATA: That explains the chroniton fields I am detecting in here now.
+For your own safety, it is important to eliminate those emissions. 
+GUEST3: Our safety? 
+DATA: There is no way to predict what will happen when the chronitons
+interact with the new engine core. 
+LAFORGE: I've never seen anything like this. There's something in here
+that looks like a molecular phase inverter. 
+RO: What's that? 
+LAFORGE: It's supposed to change the structure of matter so it can pass
+through normal matter and energy. Hang on a second. A few years back,
+we got intelligence reports that the Klingons were working on trying to
+combine a phase inverter and a cloaking
+device. In theory, they believed that a phased ship could hide
+anywhere, even inside a planet, and that conventional weapons would be
+useless against it. 
+RO: How far did they get in their research? 
+LAFORGE: It never got out of the preliminary stages. There were several
+accidents. The Romulans might be pursuing the same
+technology, trying to combine an inverter and a cloaking device. And if
+this is the prototype 
+RO: Then that would explain the explosion and the chroniton fields. 
+LAFORGE: And us. 
+RO: You mean we're cloaked? 
+LAFORGE: Not just cloaked, phased. Our entire molecular structure
+altered so that we don't have any substance. 
+RO: Then that would mean we're not dead. 
+LAFORGE: Yes. It would also mean that there's probably a way to
+de-phase us. 
+DATA: The field emissions are particularly strong in this area. 
+(the equipment Geordi was examining) 
+GUEST5: You can be assured that the emissions will be eliminated before
+the engine core is replaced. 
+WORF: Commander, may I speak with you? 
+(Data moves away) 
+GUEST3: If they come back they're going to discover the interphase
+generator. 
+GUEST5: Is their power transfer beam still at full intensity? 
+GUEST3: Yes. It will be until we're ready to switch to internal power. 
+GUEST5: We will set up a muon feedback wave inside the transfer beam.
+The particles will accumulate in their dilithium chamber. When they go
+to warp speed, their engines will explode. 
+LAFORGE: We've got to get to the Enterprise and warn them. 
+RO: How? 
+LAFORGE: I don't know, but we have to find a way. Come on. 
+(A Romulan who had been sitting in a chair gets up, walks through a
+console and follows them. He gets to the Enterprise on a shuttle, too)
 

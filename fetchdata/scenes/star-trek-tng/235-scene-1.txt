@@ -1,40 +1,62 @@
-FARALLON DATA LAFORGE
+PICARD RIKER CRUSHER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Particle fountain laboratory]
+  [Riker's
+quarters]
 
-(a satellite in orbit above the planet, with a beam
-of blue energy going down to the surface) 
-LAFORGE: Doctor Farallon. The original design called for the particle
-fountain to lift five hundred kilograms per minute from the surface. So
-far we haven't come close to that. 
-FARALLON: (an alien lady) Well, that's why I want to increase the
-stream density. That should boost the lift capacity by seventy two
-percent. 
-LAFORGE: Yeah, but you realise of course you're going to be overloading
-the field generators in the process. 
-FARALLON: Not if we distribute the overload evenly throughout the
-system. 
-LAFORGE: Doctor, forgive me, but maybe we should concentrate on
-completing this phase of the project before we start talking about re
-designing it. 
-FARALLON: Commander, I know you're here to evaluate this project. 
-LAFORGE: Starfleet is considering using a particle fountain on Carema
-Three. They want to know how feasible it is. 
-FARALLON: And will your opinion be the deciding factor? 
-LAFORGE: No, not really. I'll make my report to Captain Picard. He'll
-make the official recommendation to Starfleet. They'll decide. 
-FARALLON: What's your feeling so far? 
-LAFORGE: Well, it seems to me the question we should be asking is, is
-this technology is more efficient than conventional mining techniques? 
-FARALLON: Commander I know we've had problems here. It seems like
-nothing's gone right. It's taking a lot longer than I thought to get
-the particle stream to full strength. But I know it can work. This is
-the direction that mining is going to take in the future, and it should
-be implemented on Carema Three. 
-LAFORGE: I know this can be potentially very exciting. 
-FARALLON: All right, I want to show you something I've been working on.
-Something that might help us complete this project more quickly. I've
-used these on a limited basis 
-(everything shakes, alarms go off) 
-DATA [OC]: Enterprise to Commander La Forge.
+(the poker game is in full swing, and Beverly is
+dealing) 
+WORF: Commander, is it your intention to continue to grow your beard? 
+LAFORGE: Actually, I'm not sure yet. Why, Worf? 
+WORF: I am just asking. 
+CRUSHER: Seven card stud, one-eyed jacks are wild. 
+RIKER: Frankly, Geordi, I like the beard. 
+LAFORGE: Thank you, Commander. 
+CRUSHER: You know, I have always been a little suspicious of men with
+beards. 
+WORF: Why is that? 
+CRUSHER: I don't know. It's as if they're trying to hide something. 
+RIKER: Hide? Don't be ridiculous, Doctor. The beard is an ancient and
+proud tradition. 
+LAFORGE: Some of the most distinguished men in history have worn
+beards, Doctor. 
+CRUSHER: I know. But after the razor was invented I think beards became
+mostly a fashion statement. 
+WORF: I'm not concerned with fashion. To a Klingon, a beard is a symbol
+of courage. 
+RIKER: I think it's a sign of strength. 
+CRUSHER: Sure, and of course, women can't grow beards. 
+LAFORGE: Doctor, it sounds to me like you feel beards are nothing more
+than an affectation. 
+CRUSHER: I do. But there's nothing wrong with that. I mean, women wear
+makeup and nail polish. I just think it's time you men admitted it. 
+RIKER: My beard is not an affectation. 
+CRUSHER: Oh? Well then you wouldn't mind shaving it off. 
+RIKER: I could lose it in a minute. I've just gotten used to it. 
+CRUSHER: Okay, then why don't we up the stakes a little? And if I win,
+all off you shave your beards off. 
+LAFORGE: Wait a minute, wait a minute. What if you lose? What are you
+going to give up? 
+CRUSHER: I'm open for suggestions. 
+RIKER: Well, I've always wanted to see you as a brunette. 
+CRUSHER: Oh, I did that once when I was thirteen. I couldn't change
+back fast enough. 
+RIKER: That makes me even more curious. 
+CRUSHER: Fine. If one of you wins, I become a brunette. Are we on? 
+LAFORGE: Yeah, yeah, we'll take that bet. 
+CRUSHER: Looks like you have the hand to beat, Commander. 
+LAFORGE: Two hundred. 
+CRUSHER: I'm in two hundred. 
+RIKER: Geordi. 
+PICARD [OC]: This is the Captain. We have arrived at the Tyran system.
+All senior staff to the Bridge. 
+CRUSHER: Wait! 
+RIKER: Sorry, you heard the Captain. Duty calls. I guess we'll have to
+do this some other time.
+
+Captain's log, stardate 46307.2. We have just come
+into orbit of Tyrus Seven A to monitor progress on the Tyran particle
+fountain, a radically new mining technology. So far the project has
+been fraught with problems, and is well behind schedule. Mister La
+Forge has been assigned to evaluate the situation.
 

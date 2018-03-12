@@ -1,51 +1,29 @@
-RIKER WOMAN LAFORGE PICARD GUARD OBRIEN GIRL
+GUEST2 PICARD RIKER ISHARA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Level 3C, 547]
+[Bridge]
 
-(The shuttlepod is under guard) 
-RIKER: Enterprise, we're in position. 
-[Transporter room]
-
-PICARD [OC]: Mister O'Brien, energise. 
-O'BRIEN: Aye, Captain. 
-[Tunnel]
-
-(Ishara is beamed into a tunnel and immediately the
-alarms go off.) 
-[Level 3C, 547]
-
-(The people guarding the shuttlepod start to move
-off, leaving just two behind) 
-GUARD: They're at level two. 
-GIRL: Tunnel sixteen. 
-GUARD: Come on. 
-WOMAN: Josh, you're with us. 
-GUARD: Spread out. 
-(Riker and Worf take out the remaining two guards, then Geordi gets to
-work) 
-[Tunnel]
-
-GUARD: Let's check five. 
-GUARD 2: Yes, sir. 
-GUARD [OC]: Check on three. 
-WOMAN [OC]: Checking. 
-(Ishara makes her way through the area, and her proximity alarm goes
-off again) 
-WOMAN: Somebody's here. 
-GUARD: Watch your backs. 
-GIRL: I'm right behind you. 
-(Their proximity alarms go off too) 
-WOMAN [OC]: This way. 
-GUARD [OC]: Go, go. 
-[Level 3C, 547]
-
-LAFORGE: Damn! 
-RIKER: Geordi, what is taking so long? 
-LAFORGE: There's a lot of damage here. The myographic scanner is
-operational, but the power source keeps fluctuating. 
-RIKER: Can you fix it? 
-LAFORGE: I can probably run a shunt from the convertor. 
-RIKER: How long will that take? 
-LAFORGE: Ten minutes? 
-RIKER: Do it. O'Brien, lock onto Ishara and get her out of here!
+(Ishara is back in her old clothes) 
+PICARD: Your strategy failed. 
+GUEST2 [on viewscreen]: It was a calculated risk. You gave us an
+opportunity we couldn't ignore. Ishara, are you hurt? 
+ISHARA: No. 
+GUEST2 [on viewscreen]: I want her returned immediately. 
+RIKER: You're not in a position to dictate to anybody. She attacked two
+Federation officers. 
+GUEST2 [on viewscreen]: You have no jurisdiction here! 
+RIKER: Don't talk about legal rights. Your jurisdiction is based
+entirely on the threat of violence. 
+GUEST2 [on viewscreen]: You have your crewmen back. Isn't that enough? 
+RIKER: What do you know about 
+(Picard signals him to be quiet) 
+PICARD: Commander Data, escort Ishara to the transporter room. 
+GUEST2 [on viewscreen]: Thank you, Captain. I'm just trying to preserve
+the peace. 
+PICARD: Close the channel. 
+RIKER: You're far more charitable than I would have been, Captain. 
+PICARD: I understand your feelings, Number One. I share them. But
+perhaps the fault lies in ourselves. We were so eager to accept her.
+Each of us, myself included, wanted to see something of Tasha in this
+woman. We saw more than what was there.
 

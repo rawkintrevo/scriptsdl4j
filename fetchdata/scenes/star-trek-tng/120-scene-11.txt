@@ -1,57 +1,76 @@
-PICARD RIKER DATA LAFORGE
+KORRIS RIKER LAFORGE WORF TASHA PICARD GUEST0 GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Ah, to me it's just an undefined form,
-standing in a visual frenzy. Can you filter out the extraneous
-information? 
-LAFORGE [OC]: No, I get it all simultaneously. 
-PICARD: But it's just a jumble. 
-[Batris Corridor]
+PICARD: And as I watched Worf, it was like looking
+at a man that I had never known. 
+DATA: Captain, long range sensors indicate another vessel approaching
+this area. 
+PICARD: Can you identify it? 
+DATA: No, sir, not yet. 
+PICARD: Keep a close watch on it. So close to the Neutral Zone it can't
+be random.
 
-PICARD [OC]: How can you make head or tail of it? 
-LAFORGE: I select what I want and then disregard the rest. 
-PICARD [OC]: But how is that possible? 
-LAFORGE: Well, how, in a noisy room, can you select one specific voice
-or sound? 
-PICARD [OC]: Of course, something you learn. 
-LAFORGE: Exactly. 
-[Bridge]
+[Engineering]
 
-LAFORGE [OC]: It's something I have learned. Does
-that make it more clear?
-PICARD: Look over at Data. There's an aura around Data. 
-LAFORGE [OC]: Well, of course. He's an android. 
-PICARD: You say that as if you think that's what we all see. 
-LAFORGE [OC]: Don't you? 
-[Batris Corridor]
-
-RIKER: Sir, I hate to break this up, but 
-[Bridge]
-
-PICARD: Oh, yes, of course, Number One. Proceed. 
-[Batris Corridor]
-
-RIKER: Let's go. 
-(As they move on, a conduit falls. This ship is ready to fall apart) 
-DATA: I am detecting high levels of deuterium gas, probably from the
-leakage in the drive system. 
-RIKER: Toxic? 
-DATA: Not as yet, sir. The life signs are emanating from the far side
-of Engineering. 
-RIKER: What's the safest way around? 
-DATA: All routes are equally dangerous, sir. 
-LAFORGE: Well, what's the least dangerous route, Data? 
-DATA: There is no significant difference. 
-RIKER: Steady on. 
-LAFORGE: Commander Riker! Commander. 
-RIKER: Yes, Geordi. 
-LAFORGE: There's a fissure developing in the bulkhead. The skin of the
-ship is losing its integrity. 
-RIKER: Where is it? I can't see it. 
-LAFORGE: Right there.
+GUEST0: What magnificent battles we could have at
+the helm of this ship. 
+WORF: Perhaps your dreams of glory no longer fit the time. They belong
+buried with the past. 
+KORRIS: Standing here we will never know. Our answer lies out there.
+Our instincts will lead us. 
+GUEST0: Instincts that have not been dulled by living among civilised
+men.
 
 [Bridge]
 
-PICARD: Geordi, step closer. It looks to me like a
-spectrograph indicating metal fatigue. 
+DATA: I believe, sir, that was the first time
+outsiders have witnessed the Klingon death ritual. 
+PICARD: I can understand them looking at a dying man's eyes, but the
+howling? 
+DATA: It was a warning. 
+PICARD: To whom? 
+DATA: They are warning the dead, sir. Beware, a Klingon warrior is
+about to arrive. 
+LAFORGE: Captain, that unidentified vessel is approaching us at warp
+five. Intersect one hour, sixteen minutes, thirty three seconds. 
+PICARD: Can we get a visual? 
+LAFORGE: I can try, sir. 
+PICARD: Magnify. 
+LAFORGE: Hello. 
+RIKER: Klingons. 
+PICARD: Open hailing frequencies, Lieutenant Yar. 
+TASHA: Hailing frequencies open. 
+PICARD: Klingon cruiser, this is Captain Jean Luc Picard of the USS
+Enterprise. 
+K'NERA [on viewscreen]: I am Commander K'Nera. What is your purpose in
+this area? 
+PICARD: We came to investigate a battle. We rescued three Klingon
+survivors. 
+K'NERA [on viewscreen]: That is all that is left of the crew of the
+cruiser T'Acog? 
+PICARD: They were not off the cruiser. They were from the freighter
+Batris. The leader is Captain Korris. 
+K'NERA [on viewscreen]: You have him on your ship? He is alive? 
+PICARD: Yes. 
+K'NERA [on viewscreen]: He is a criminal. A renegade, who with two
+others stole that freighter, and somehow destroyed the Klingon cruiser
+sent to bring them back. We expect the criminals to be delivered into
+our custody as soon as we are within transporter range. 
+(ends transmission) 
+PICARD: Lieutenant Yar, where are they now? 
+TASHA: They're with Worf on deck seventeen. 
+PICARD: Deck seventeen? 
+TASHA: Yes, sir. Near the auxiliary turbolift to the battle bridge.
+Shall I alert Lieutenant Worf? 
+PICARD: No. Send a security team. 
+RIKER: You don't think Worf would allow them access to the battle
+bridge? 
+PICARD: I think, Number One, we cannot assume anything. 
+TASHA: Captain, shall I stay at my tactical position or lead the
+security team? 
+PICARD: Lead the security team, and, Lieutenant, you understand with
+whom you are dealing. 
+TASHA: Aye, sir.
+

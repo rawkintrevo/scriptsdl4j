@@ -1,100 +1,49 @@
-RIKER PICARD TASHA CUSTODIAN RADUE WESLEY DUANA HARRY RASHELLA CRUSHER DATA
+PICARD GUEST6 WESLEY GUEST0 RASHELLA CRUSHER GUEST7
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Doctor's office]
+
+CRUSHER: No. That doesn't fit the pattern. Give me
+a list of the appropriate medical literature from the twenty-second
+century. There's not enough time! 
+PICARD: Is there anything I can do? 
+CRUSHER: You just did, Jean-Luc. Now I have to get back to work.
+
+[Wesley's room]
+
+(That night, Wesley sneaks out of bed) 
+WESLEY: Custodian's room.
 
 [Custodian room]
 
-(There are hexagonal screens on the walls, a single
-console, and some chairs around the edge of the room) 
-DUANA: Custodian, Wesley Crusher's voice will be entered into the
-authorised file for Third Level clearance. 
-CUSTODIAN: Proceed, Duana. 
-DUANA: Announce yourself to the Custodian. 
-WESLEY: Hello, Custodian. I am Wesley Crusher. 
-CUSTODIAN: Hello, Wesley. Your voice will now activate Third Level
-clearance. 
-WESLEY: What does that mean? 
-CUSTODIAN: You may ask any questions you wish. 
-WESLEY: Thank you. Duana, what does the Custodian do? 
-DUANA: It frees us from all burden. It takes care of all our needs. It
-regulates our lives. 
-WESLEY: Who built it? 
-DUANA: The Progenitors. 
-WESLEY: When? 
-DUANA: Oh, hundreds of centuries ago. 
-WESLEY: What is its power source? 
-DUANA: Wesley, why is that important? It does what we ask it. It always
-has. What difference does it make how it works? 
-WESLEY: If you don't know how it works, then how can you repair it? 
-DUANA: Why would we want to repair it? 
-WESLEY: From time to time, every computer, I mean Custodian, requires
-maintenance. 
-DUANA: Wesley, Radue is right. You ask questions I can't answer. Ask
-the Custodian instead. 
-WESLEY: Custodian, can you show me where Harry is? 
-CUSTODIAN: Yes. 
-WESLEY: Custodian, show me Harry. 
-(on the little screen, Harry is having his first go with the sculpting
-laser on a block of wood. Sawdust flies everywhere) 
-HARRY [on screen]: I never did this before. It's fun. 
-WESLEY: You are going to make him into a sculptor? 
-DUANA: He already is. He was just never encouraged properly. The tool
-Leda is giving him will allow him to bring out his visions. 
-WESLEY: It will take him years to learn to do that. 
-DUANA: Oh, no. It will happen quite quickly. 
-WESLEY: Custodian, show me Alexandra. 
-(She and Rashella are playing with a 3d hologram controlled by a
-joystick) 
-WESLEY: Custodian, show me Mason. 
-DUANA: Stop, Custodian. We must work now. There is much to learn. 
-(Wesley looks at the door with the symbol on it) 
-WESLEY: What's in there? The power source? 
-DUANA: I don't know. It's forbidden. 
-Captain's log, supplemental. We remain in orbit
-around Aldea. It's becoming all too evident that talk will not effect
-the return of our children. We must neutralise the Aldean shield. Until
-then, we are helpless. 
-[Bridge]
+WESLEY: Custodian, this is Wesley Crusher. 
+GUEST0: Proceed, Wesley. 
+WESLEY: Show me where the Enterprise children are in relation to this
+room. Thank you. Goodnight. 
+GUEST0: Good night, Wesley. 
+[Katie's room]
 
-TASHA: Sir, Radue is hailing us. 
-RADUE [on viewscreen]: Captain Picard? 
-PICARD: Doctor Crusher and I are ready, Radue. 
-RADUE [on viewscreen]: Are you ill, Captain? 
-PICARD: No. Doctor Crusher is a Staff Officer, Radue. Starfleet
-Regulation six point five seven requires that at least two Staff
-Officers are present during any treaty or contract negotiations. 
-RADUE [on viewscreen]: Very well. 
-RIKER: Not much on pleasantries, is he? 
-DATA: I am not aware of Regulation six point five seven. 
-PICARD: No, Data. Neither am I. 
-DATA: I see, sir. Oh, I see, sir. 
-PICARD: Doctor Crusher, please report to the Bridge. Now, we'll see
-what they have in mind. 
-[First Unit]
+(Katie is startled awake by a hand on her arm) 
+WESLEY: I think I know a way to get us home. I need your help.
 
-PICARD: Before we begin, we want to see the
-children. 
-RADUE: No. We're here to negotiate appropriate compensation, not to
-pander to emotions. Please sit. 
-PICARD: We do not condone your actions. You're attempting to salve your
-conscience by offering goods in exchange for our children. 
-RADUE: Why do you want them back so badly? You can always have more. 
-PICARD: You are trifling with the primal instincts of our species. I
-must warn you that human parents are quite willing to die for their
-children. 
-RADUE: Returning the children is non-negotiable. 
-RASHELLA: I promise you, they'll have a beautiful life with us. And
-they'll be father and mother to a new breed born of an ancient culture.
+Chief Medical Officer's log, stardate 41512.9. I've
+begun to suspect that whatever is killing the Aldeans is related to a
+danger faced by Earth in the twenty first century. Can it be that
+Aldea's ozone layer has been weakened? 
+[Wesley's room]
 
-CRUSHER: But how can you be so sure that they can have children? You
-can't. 
-RADUE: But they will. Our inability to bear children is a genetic
-dysfunction. It's not contagious. 
-PICARD: We sympathise with your situation. Surely there is a solution
-which can be mutually satisfactory? 
-RADUE: For us, the problem is solved. And we're offering you
-information on areas of the galaxy you do not even know exist. What
-more can we offer? What more would you like? 
-PICARD: A significant beginning. But first, I must ask that Doctor
-Crusher be allowed to see her son before we continue. 
-RADUE: You are a stubborn people. Ah, well, that too can be a positive
-trait. You may see him.
-
+GUEST7: Why will not talking or eating make them
+send us home? 
+WESLEY: It's called passive resistance. We don't do what they want us
+to do and then they won't want us. 
+GUEST7: Will they get mad at us? 
+WESLEY: They won't hurt us. 
+GUEST6: But, Wes, I do kind of like them. 
+WESLEY: So do I, but I don't want to stay here forever. Do you? 
+GUEST6: No, but I like working with the wood. 
+WESLEY: Harry, we all have to be in this together or it's not going to
+work. 
+GUEST6: Okay. I'll do it. 
+RASHELLA: What are you all doing here together? 
+(She reaches for Alexandria, but Wesley picks her up instead) 
+RASHELLA: What is going on here? 

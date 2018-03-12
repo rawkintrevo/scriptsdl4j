@@ -1,75 +1,35 @@
-LAFORGE WORF JDAN PICARD SATIE DATA
+PICARD GUEST4 WORF GUEST2 SATIE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Interrogation room]
 
-J'DAN: I have friends, powerful friends, on the
-homeworld. I could talk to them. They might help to restore your name,
-if you could just take me to a shuttlecraft.
-
-[J'Dan's quarters]
-
-J'DAN: It could be done without any one knowing
-about it. 
-(Worf hits J'Dan) 
-WORF: I don't know how you transferred secret information to the
-Romulans, but I will find out. 
-J'DAN: Pahtk! 
-WORF: When we inform the Klingon High Council, they will put you to a
-slow death.
-
-Captain's log, supplemental. Retired Admiral Norah
-Satie, whose investigation exposed the alien conspiracy against
-Starfleet Command three years ago, is
-arriving to assist in our inquiry.
-
-[Transporter room]
-
-(an older woman in a long red robe beams in with a
-male and female escort) 
-SATIE: Captain Picard. 
-PICARD: Admiral Satie. Welcome aboard the Enterprise. 
-SATIE: Delighted to be here. I managed to acquire my former staff. My
-aide, Sabin Genestra, from Betazed, and my assistant, Nellen Tore, from
-Delb Two. 
-PICARD: This is my First Officer, Commander William Riker. May I show
-you to your quarters? 
-SATIE: Captain, if Starfleet Command is so concerned with your report
-they brought me out of retirement, I think I should get right to work. 
-PICARD: Very well. Commander Riker, will you see to the Admiral's
-staff? 
-SATIE: First, I'd like to inspect the damage to your engine room.
-
-[Engineering]
-
-PICARD: Admiral Satie, this is Commander Data,
-Commander La Forge. 
-LAFORGE: Admiral. We still can't get in there, Captain. The radiation
-levels are dropping, but they're too high to raise the isolation door. 
-PICARD: How much longer will it be? 
-DATA: At the rate the levels are decreasing, we will gain entry in
-forty nine hours, Captain. 
-LAFORGE: Maybe the Admiral would like to see the visual log of the
-explosion. 
-SATIE: Yes. 
-LAFORGE: This was logged four days ago at oh three hundred hours. 
-(a picture on the monitor of the warp core, labelled sensor log
-playback 44765.3 03.00.59.941. Part of the core goes bang) 
-LAFORGE: At that point the emergency confinement field was activated
-and the isolation doors came down. No one was killed, but I have two
-people in Sickbay with radiation burns. 
-SATIE: Have you been able to make any assessments? 
-DATA: Slow motion study of the explosion suggests that the articulation
-frame collapsed. 
-SATIE: The schematics that were stolen from the Enterprise, I believe
-some involved the articulation frame of the dilithium chamber. 
-PICARD: That's one reason we tend to suspect sabotage. 
-DATA: Other evidence lends credence to that theory, Captain. A review
-of the sensor logs indicates that every systems reading was well within
-normal parameters until fifty two milliseconds before the explosion. 
-LAFORGE: We haven't found anything that suggests there was a
-malfunction anywhere along the line. 
-SATIE: Captain, I think I'm going to need a full briefing before we go
-any further. 
-PICARD: By all means, Admiral. 
-SATIE: Commander Data, La Forge, I don't envy you your job. Good luck.
-
+WORF: I have tracked the movements of every person
+who has left the Enterprise since you have been here. I traced one
+Tarkanian diplomat as far as the Cruces system where he disappeared and
+has not been seen since. 
+J'DAN: That proves nothing. 
+WORF: A hyposyringe was discovered in your quarters. 
+J'DAN: I take injections. Everyone knows that. 
+WORF: But your injections do not include an optical chip reader. This
+device has but one function, to transform computer information into
+biological sequences. 
+J'DAN: The blood of all Klingons has become water. Since the Federation
+alliance we have turned into a nation of mewling babies. Romulans are
+strong. They are worthy allies. They do not turn Klingons into
+weaklings like you. 
+SATIE: Lieutenant, how did you damage the dilithium chamber? 
+J'DAN: I had nothing to do with that 
+SATIE: You mean it was sheer coincidence that it was sabotaged after
+you gave the plans for the design to the Romulans? 
+J'DAN: I do not know. I had nothing to do with it. 
+SATIE: You've admitted your crime. Why lie now? 
+J'DAN: I am not lying. 
+PICARD: Mister Worf, you may have him confined. 
+(Worf and J'Dan leave) 
+SATIE: Sabin? 
+GUEST2: I believe he's telling the truth. He admits stealing the files
+but not sabotaging the dilithium chamber. I get no sense that he's
+lying. 
+PICARD: But if you're right, someone else may be involved. 
+SATIE: I think, Captain, you have a bigger problem on your ship than
+one Klingon exchange officer. 

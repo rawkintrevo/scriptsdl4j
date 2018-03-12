@@ -1,33 +1,41 @@
-RIKER DATA WORF
+PICARD RIKER DATHON LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Planet surface]
 
-WORF: The positron density is point zero one three.
+PICARD: A captain's log? 
+DATHON: Darmok! 
+(Dathon comes running back) 
+DATHON: Darmok and Jalad at Tanagra! 
+PICARD: I was curious. I meant no harm. 
+(Dathon pushes the journal out of Picard's hand) 
+DATHON: Shaka! Temba! His arms wide. Temba. 
+(Dathon tries to give Picard the dagger) 
+PICARD: Enough! I'm not going to fight you. You'll just have to 
+(something big roars nearby) 
+DATHON: Darmok and Jalad at Tanagra. 
+(they look around, and rocks tumble down a hillside. Dathon offers the
+dagger again) 
+DATHON: Temba. His arms wide. 
+(Picard takes the dagger) 
+PICARD: I'll go along with that.
 
 [Bridge]
 
-WORF [OC]: Electron concentration seven point nine
-five. Particle gradient, four over seven. We are two hundred and fifty
-kilometres from the planet's surface. 
-DATA: Commander, the shuttle has reached the E region of the planet's
-ionosphere. 
-RIKER: How long can we maintain communication? 
-DATA: The scattering layer induced by the Tamarians is concentrated in
-the upper D region. The shuttle will reach that area in approximately
-two minutes. 
-RIKER: The Tamarian ship? 
-DATA: Unchanged, sir. They appear to be making no attempt to stop us. 
-RIKER: Maybe we called their bluff. Status, Mister Worf. 
-WORF [OC]: Navigational, life-support, propulsion normal. 
-[Shuttlecraft]
+WORF: Commander, sensors are picking up an
+electromagnetic disturbance approaching the Captain's position. 
+RIKER: Analysis? 
+WORF: A variable induction field. Possibly a life form. 
+RIKER: How close is it to the Captain? 
+WORF: The field is erratic, appearing and disappearing, but it appears
+to be moving toward him. 
+RIKER: Attacking?
 
-WORF: Onboard systems do not appear to be disrupted
-by the field, but I can barely read you, Commander. 
-RIKER [OC]: Acknowledged. Maintain 
-[Bridge]
+[Engineering]
 
-RIKER: Communications as long as conditions permit.
-
-DATA: Commander. I am reading a power surge in the Tamarian plasma
-reactor. 
-RIKER: Lieutenant Worf! Evasive manoeuvre sequence delta! 
+RIKER [OC]: Riker to La Forge. 
+LAFORGE: La Forge here. 
+RIKER [OC]: How close are we on that transporter? 
+LAFORGE: Two hours, maybe three. 
+RIKER [OC]: I want the Captain out of there now. 
+LAFORGE: That's not very likely, sir. 

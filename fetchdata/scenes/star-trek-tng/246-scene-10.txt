@@ -1,50 +1,47 @@
-PICARD TROI DATA RIKER WORF
+PICARD CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Engineering]
 
-(Picard is shuffling the number blocks on his desk
-monitor) 
-PICARD: Come. 
-TROI: How's it going? 
-PICARD: I thought if I stared at these number blocks long enough then I
-would begin to see some kind of pattern. So far, nothing. 
-TROI: I meant, how's it going with you? 
-PICARD: If I had gone with him. 
-TROI: Captain, you can't start thinking like that. You didn't abandon
-him. You chose not to abandon a life-long career. It was the right
-decision, and in no way responsible for his death. 
-PICARD: I realise that. 
-TROI: I know how much the Professor meant to you and how much you want
-to find out what happened, but staring at these numbers isn't going to
-bring him back. The conference on Atalia Seven has been scheduled for
-six months. Starfleet is relying on your mediation efforts to 
-PICARD: Counsellor, this is not simply a case of me taking the
-Enterprise and its crew on some wild goose chase to purge myself of
-guilt and remorse. I will not let Galen's death to be in vain. Now, if
-that means inconveniencing a few squabbling delegates for a few days,
-then so be it. I will take the full responsibility. 
-(and he goes back to staring at numbers) 
-TROI: Captain.
-
-[Bridge]
-
-WORF: We are about to enter the Indri system, sir. 
-RIKER: Riker to Picard. We are approaching Indri Eight. 
-PICARD [OC]: On my way. 
-DATA: Sensors are picking up severe atmospheric fluctuations on the
-planet. 
-RIKER: Assume a high orbit. 
-PICARD: On screen, Mister Worf. 
-(a pretty blue green planet is turning a nasty orange-brown) 
-WORF: Some kind of plasma reaction is consuming the lower atmosphere. 
-PICARD: Can we stop it? 
-WORF: No, sir. The reaction is global. 
-DATA: All life on the planet is being destroyed, sir. 
-RIKER: Why would anyone want to destroy all the life on an uninhabited,
-neutral planet with no strategic importance whatsoever? 
-PICARD: All the life. Perhaps the Professor's number blocks had
-something to do with organic matter. 
-DATA: If we narrow the search parameters to the biological database, it
-might increase the chances of the computer finding a match. 
-PICARD: I'll be in the lab.
+LAFORGE: This is not a natural design. Captain.
+This is part of an algorithm, coded at the molecular level. 
+PICARD: An algorithm? Are you saying that these DNA fragments are
+elements in some kind of computer
+programme? 
+LAFORGE: I know how it sounds, but there's no way this could be a
+random formation. This is definitely part of a
+programme. 
+CRUSHER: This fragment has been part of every DNA strand on Earth since
+life began there, and the other fragments are just as old. Someone must
+have written this programme over four billion years ago. 
+PICARD: So, four billion years ago someone scattered this genetic
+material into the primordial soup of at least nineteen different
+planets across the galaxy? 
+DATA: The genetic information must have been incorporated into the
+earliest lifeforms on these planets, and then passed down through each
+generation. 
+CRUSHER: But why would anyone do this in the first place? 
+PICARD: And what was this programme designed to do? 
+LAFORGE: Well, we couldn't know that until we assembled the entire
+programme and then ran it. We've tried all the DNA material in the
+Federation computer, but we haven't been able to come up with any with
+compatible protein configurations. 
+PICARD: Then they must be from worlds outside the Federation. Mister
+Data, how many people on the Enterprise are from non-Federation
+planets? 
+DATA: Seventeen, sir. 
+PICARD: You know, this may be a long shot, but we should check each one
+of these seventeen people to see if they have the correct protein
+configurations. 
+CRUSHER: I'll begin collecting DNA samples now. 
+LAFORGE: You know, Captain, I've been thinking. Somebody else must know
+about this
+programme. I bet one of the missing fragments was on Indri Eight.
+That's why it was destroyed. 
+PICARD: To keep us from finding that piece of the puzzle. It's four
+billion years old. A computer
+programme from a highly advanced civilisation, and it's hidden in the
+very fabric of life itself. Whatever information this programme
+contains could be the most profound discovery of our time. Or the most
+dangerous. And the Professor knew that.
 

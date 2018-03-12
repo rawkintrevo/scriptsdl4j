@@ -1,75 +1,58 @@
-RIKER BRENNA CREWMAN WORF DANILO PICARD PULASKI
+PULASKI RIKER LAFORGE GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Granger's office]
 
-PICARD: What's the total? 
-WORF: Two hundred and twenty three. 
-PULASKI: Count on two more in the next few days. 
-PICARD: Set course for the nearest starbase. 
-PULASKI: You know, they were anachronistic in 2123. It will be
-interesting to see how they cope. 
-RIKER: They'll learn and adapt. If Danilo Odell's any indication,
-they'll be running this place inside of a week. 
-(and alarm sounds) 
-WORF: Lieutenant Worf, here. Report. 
-CREWMAN [OC]: Fire in cargo hold seven. 
-RIKER: The Bringloidi. 
-PICARD: What have they done to my ship now?
+RIKER: The repairs are almost complete. I wish
+there was something more we could do. 
+GUEST0: Are you sure you won't reconsider? 
+PULASKI: About the cloning? 
+GUEST0: Yes. 
+RIKER: Out of the question. 
+(so an aide stuns Kate and Riker, and they are dragged off through
+another door. Then Geordi enters) LAFORGE: Excuse me, sir, I was
+looking for Commander Riker. 
+GUEST0: I'm afraid I haven't seen him. 
+LAFORGE: Doctor Pulaski? 
+GUEST0: Sorry, I can't help you. 
+LAFORGE: Well, I guess I'll just have to hunt for them. Sorry to
+disturb you.
 
-[Corridor]
+[Laboratory]
 
-WORF: Keep the area clear. 
-PICARD: Report. 
-WORF: Fire has been contained. No damage. 
-PICARD: Unseal the doors. 
-DANILO: My God, Picard, the place is a bloody death trap! Lightning
-bolts falling from the ceiling!
+(Eyes wide open, but oblivious to what is
+happening, Pulaski and Riker are having needles pushed into their
+abdomens)
 
-[Cargo hold]
+[Pulaski's office]
 
-DANILO: What the hell was that thing? 
-WORF: Automated fire system. A force field contains the flame until the
-remaining oxygen within the field has been consumed. 
-DANILO: What if I had been under that thing? 
-WORF: You would have been standing in the fire. 
-DANILO: Well, leaving that aside for the moment, I mean, what would
-have happened to me? 
-WORF: You would have suffocated and died. 
-DANILO: Sweet mercy. 
-BRENNA: Oh, there you are. Your hospitality leaves a hell of a lot to
-be desired! You don't offer us a bite or a sup, and when we build a
-fire to cook a little something, the place goes mad! 
-PICARD: My apologies. I was unaware that you had not been instructed in
-the use of the food dispensers. 
-BRENNA: And what are you staring at? Have you never seen a woman
-before? 
-RIKER: I thought I had. 
-DANILO: Commander, may I present my daughter, Brenna Odell. 
-RIKER: Pleased to meet you, ma'am. 
-BRENNA: You may have all the time in the world, but I've dozens of
-frightened and hungry children and women to look after. 
-RIKER: And what about the men? 
-BRENNA: Well, I'm sure they'll find their comfort as they always do, in
-the bottom of a mug of home brew! 
-DANILO: Pay no heed, Commander. She's a fine girl. She's not usually so
-sharp tongued. 
-BRENNA: Dado! 
-(Danilo scuttles away across the room) 
-RIKER: Sir? (Picard is laughing) That's the last thing I expected. 
-PICARD: Sometimes, Number One, you just have to bow to the absurd. 
-DANILO: Captain, Captain, sir. How did the ship sense the fire? 
-PICARD: The ship's computer 
-DANILO: Computer? 
-PICARD: The ship's computers sense a localised increase 
-BRENNA: Men! Always talking when there's work to be done. And shouldn't
-you be flying this ship, or whatever it is you do? 
-RIKER: Sir, I think I'll stay and give her some help. 
-(Picard and Worf leave. Riker goes to where Brenna is using hay to
-clean up what animals leave lying around naturally) 
-RIKER: That isn't necessary. The ship will clean itself. 
-BRENNA: Well, good for the bloody ship. (long pause as she appraises
-him) Tell me, Commander Riker, where does a girl go to wash her feet on
-this ship? 
-RIKER: As the First Officer, I feel it's my responsibility to show you
-all the amenities.
+LAFORGE: Hey. So what happened to you two down on
+Mariposa? Is everything all right? 
+RIKER: Is there any reason why it shouldn't be? 
+LAFORGE: Yeah. Every time I asked where you were, some clone lied to
+me. 
+RIKER: Lied to you? 
+LAFORGE: Commander, with this I can see better than your average
+person. Now when someone lies there are certain physical
+manifestations. Variations in blush response, pupil dilation, pulse,
+breath rate. Doesn't always work with aliens, but humans? Got'em
+nailed. 
+PULASKI: The clones lied about our whereabouts? I don't remember
+anything happening. I was working in their medical facility and got a
+call to report to Granger's office. I ran into Will on the way 
+LAFORGE: Now wait a minute. Granger said he hadn't seen either one of
+you. Did you make it to his office? 
+RIKER: I think, I don't remember. 
+(Pulaski runs a medical tricorder over them all) 
+LAFORGE: So what's the prognosis, Doc? 
+PULASKI: Geordi, you'll be pleased to know that you're not missing any
+epithelial cells. 
+LAFORGE: Great. 
+PULASKI: Will and I, however, are. 
+RIKER: Meaning? 
+PULASKI: Although you can clone from any cell in the body, the cells
+lining the stomach are the best choice because they're relatively
+undifferentiated. 
+LAFORGE: Where are you going? 
+RIKER: To their cloning lab.
 

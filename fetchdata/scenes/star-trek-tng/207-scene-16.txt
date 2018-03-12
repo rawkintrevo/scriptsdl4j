@@ -1,53 +1,31 @@
-TROI PICARD ENSIGN RIKER DTAN SPOCK DATA KVADA
+SPOCK RIKER CRUSHER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: As soon as I heard this Barolian ship was at
-the Galorndon Core, I started to think Romulans. 
-PICARD [on viewscreen]: And the Romulans are suddenly very interested
-in bonding with the Vulcans. Spock has been meeting with the new Senate
-Proconsul about reunification. 
-RIKER: Reunification?
-PICARD [on viewscreen]: The Proconsul says that he is prepared to
-endorse peace talks. 
-RIKER: And Spock?
-PICARD [on viewscreen]: The Ambassador is sceptical, but he cares a
-great deal about reunification. As long as there's a chance of success,
-he's prepared to pursue it.
-TROI: I'm afraid I don't see how a stolen Vulcan ship fits into all
-this. 
-PICARD [on viewscreen]: Neither do I, Counsellor. How soon can you be
-at Galorndon Core, Number One?
-RIKER: A little over eight hours.
-PICARD [on viewscreen]: Well, this may prove to be a wild goose chase,
-but I don't see that we have any other choice, do you?
-RIKER: Agreed.
-DATA: We are losing our Romulan carrier wave, sir. 
-PICARD [on viewscreen]: We'll advise you further as soon as you reach
-your destination, Number One. Picard out.
-(transmission ends)
-RIKER: Ensign, set a course to Galorndon Core. Take us to warp eight. 
-ENSIGN: Aye, sir.
-
-[Klingon bridge]
-
-DATA: Captain, the Romulan subspace logs identify a
-transmission from the Romulan surface to a Barolian ship near Galorndon
-Core twelve hours ago.
-K'VADA: Galorndon Core is along the Barolian trade route. They trade a
-great deal with the Romulans. It's probably just routine. 
-DATA: This would not appear to be routine. I was able to trace the
-source of the transmission. It incorporates the code prefix of Romulan
-intelligence.
-PICARD: Can you access it?
-DATA: It is a short sequence of numbers. One four zero zero. 
-PICARD: Nothing more?
-DATA: No, sir.
-
-[Romulan street]
-
-D'TAN: Spock! I've been looking for you. 
-SPOCK: I have been meeting with the Proconsul. 
-D'TAN: Does he still speak of reunification?
-SPOCK: He speaks of nothing else.
+CRUSHER: We've just received a priority one
+distress call from the colony on Dulisian Four. A massive failure of
+the environmental support systems. They're going to require evacuation.
+RIKER: Mister Worf, any other ships in the vicinity of Dulisian Four? 
+WORF: One, sir. A Rutian archaeological vessel.
+CRUSHER: I'm sure it's not equipped to handle something of this scale,
+Will. 
+RIKER: Geordi, any update on the Vulcan ships?
+LAFORGE: I've checked every sensor display backwards and forwards. If
+the Romulans altered them, they didn't leave any fingerprints. I can't
+tie any of them to the surplus yard.
+WORF: The Vulcan ships have entered Federation space. Maintaining low
+warp.
+RIKER: Lay in a new course to Dulisian Four.
+WORF: Incoming message from Romulus on all subspace channels.
+RIKER: On screen.
+SPOCK [on viewscreen]: This is Ambassador Spock of Vulcan. By now,
+Federation sensors are tracking three Vulcan ships crossing the Neutral
+Zone. These ships carry a Romulan invasion force and must be stopped. I
+repeat, these ships carry a Romulan 
+(transmission ends) 
+RIKER: Doctor, contact Dulisian Four and confirm this distress call. I
+have a feeling it may prove to be a false alarm.
+Mister Worf, how long before we intercept the Vulcan ships? 
+WORF: Fourteen minutes, sir.
 

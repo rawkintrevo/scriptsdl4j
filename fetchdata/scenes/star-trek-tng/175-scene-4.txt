@@ -1,66 +1,43 @@
-RIKER DATA LAFORGE WORF SHELBY
+WESLEY RIKER GUINAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Borg operating room]
+[Ready room]
 
-(The entity originally Picard is being augmented.
-He gets a prosthetic forearm with attachments, and his skin turns
-white. A single tear rolls from his eye.)
+RIKER: (to the empty chair) What would you do?
+(doorbell) 
+RIKER: Come.
+GUINAN: May I speak to you, Captain?
+RIKER: Actually, Guinan, I 
+GUINAN: You know, Picard and I used to talk every now and again, when
+one of us needed to. I guess I'm just used to having the Captain's ear.
 
-[Turbolift]
+(She sits in Picard's chair) 
+RIKER: What's on your mind?
+GUINAN: I've heard a lot of people talking down in Ten Forward. They
+expect to be dead in the next day or so. They trust you. They like you.
+But they don't believe anyone can save them.
+RIKER: I'm not sure anyone can.
+GUINAN: When a man is convinced he's going to die tomorrow, he'll
+probably find a way to make it happen. The only one who can turn is
+around is you. 
+RIKER: I'll do the best I can.
+GUINAN: You're going have to do something you don't want to do. You
+have to let go of Picard.
+RIKER: Maybe you haven't heard. I tried to kill him yesterday.
+GUINAN: You tried to kill whatever that is on the Borg ship. Not
+Picard. Picard is still here with us in this room. If he had died, it
+would be easier. But he didn't They took him from us a piece at a time.
+Did he ever tell you why we're so close?
+RIKER: No.
+GUINAN: Well, then let me just our relationship is beyond friendship,
+beyond family. And I will let him go. And you must do the same. There
+can only be one Captain.
+RIKER: It's not that simple. This was his crew. He wrote the book on
+this ship. 
+GUINAN: And the Borg know everything he knows. It's time to throw that
+book away. You must let him go, Riker. It's the only way to beat him.
+The only way to save him. And that is now you chair. Captain. 
+(Riker sits) 
+WESLEY: We're approaching the Wolf system, Captain.
+RIKER: On my way.
 
-RIKER: Mister Crusher suggests we might design a
-chip that would automatically retune the phasers to a random setting
-after each discharge. Engineering.
-WORF: That would be a great advantage.
-RIKER: We should also see if there's some way that we can neutralise
-their forcefields. We've got to let them know that we can adapt too,
-Mister Worf. We're no longer just fighting the Borg, we're fighting the
-life experience they've stolen from Captain Picard. Now how the hell do
-we defeat an enemy that knows us better than we know ourselves?
-WORF: The Borg have neither honour nor courage. That is our greatest
-advantage.
-RIKER: I hope it's enough.
-
-[Engineering]
-
-SHELBY: Accelerator coils are responding normally. 
-LAFORGE: Excellent. Forward shields at fifty eight percent. Aft shields
-sensors must be down 
-SHELBY: Checking. Sensors are fine. No. Aft shields have completely
-failed. Damn it. Auxiliary generators are out again. 
-LAFORGE: Just the man I need. We're having some problems with the aft
-shields. Generators going on and offline. I could really use your help,
-Worf 
-RIKER: How soon do we get underway, Geordi?
-LAFORGE: Still a couple hours. Commander Shelby can fill you in. 
-SHELBY: The main navigational deflector is functional again. Sherbourne
-and Barclay are running through the final testing sequence now. 
-RIKER: The warp reactor core?
-SHELBY: Reconstruction is proceeding normally. It's slow work. If we
-can nail down this shield generator problem, I agree with La Forge. We
-should be at
-operating capacity in two to three hours. 
-RIKER: Good. 
-SHELBY: Anything else, sir?
-RIKER: Yes. You did a good job on the Borg ship.
-SHELBY: I didn't get Picard.
-RIKER: You stopped them. You gave us our shot.
-SHELBY: Sir, I 
-RIKER: Commander, we don't have to like each other to work well
-together. As a fact of fact, I'd like you to continue to keep me on my
-toes.
-SHELBY: Some might define that as the role of a first officer.
-RIKER: Damn, you are ambitious, aren't you, Shelby. 
-SHELBY: Captain Riker, based on our past relationship, there's no
-reason for me to expect to become your first officer except you need
-me. I know how to get things done, and I have the expertise in the
-Borg. 
-RIKER: And you have a lot to learn, Commander.
-SHELBY: Yes, sir.
-RIKER: Almost as much as I had to learn when I came aboard as Captain
-Picard's first officer. A fact he reminded me of when I commented on
-what a pain in the neck you are.
-SHELBY: Yes, sir.
-DATA [OC]: Data to Riker. Message from Starfleet, Captain.
-RIKER: Go ahead, Data.
-DATA [OC]: Starfleet reports 

@@ -1,69 +1,29 @@
-TROI OBRIEN PICARD SELA GUINAN MOVAR CRUSHER
+SELA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Romulan command centre]
 
-MOVAR: There's an increase in tachyon emissions
-from the Federation fleet. 
-SELA: They're using the beams as a detection field. 
-MOVAR: If we try to cross it, they'll see us, even if we're cloaked. 
-SELA: Issue orders to begin work on a way to penetrate this field. In
-the meantime, we'll have to convince Captain Picard he should leave.
-
-[Bridge]
-
-O'BRIEN: Captain, I'm picking up something directly
-ahead. Romulan ship decloaking. Shall I raise shields? 
-PICARD: Not yet. 
-O'BRIEN: They're hailing us, sir. 
-PICARD: On screen. Tasha? 
-SELA [on viewscreen]: No, Captain. I am Commander Sela. The woman you
-knew as Tasha Yar was my mother. Deploying an invasion fleet along
-our border is a clear act of aggression, Captain. It will not be
-tolerated. You have twenty hours to recall your ships and
-return peacefully to Federation territory.
-
-[Observation lounge]
-
-PICARD: So you believe her, Counsellor? 
-TROI: I'm not saying we should accept her claim at face value, but I
-sensed no deception from her. She really believes she is the daughter
-of Tasha Yar. 
-CRUSHER: Regardless of what she believes, Sela can't be her daughter.
-I've reviewed all of Tasha's medical records, and there is no
-indication that she was ever pregnant. 
-PICARD: Besides, Tasha was a child when this woman was born. 
-TROI: Sela could have been cloned. 
-CRUSHER: Or had her appearance surgically altered. 
-PICARD: But why? What possible advantage could there be to the
-Romulans? As this now stands, I don't think this will have any impact
-on our strategy. We'll continue the blockade, leave the next move to
-them. Thank you. 
-(Beverly and Deanna leave, then Guinan enters) 
-GUINAN: Am I intruding? 
-PICARD: No, not at all. Is something wrong? 
-GUINAN: News travels fast. I heard that Tasha Yar's daughter is aboard
-the Romulan ship. 
-PICARD: I think that the Romulans are just hoping to create a
-distraction. They want to keep us off balance. 
-GUINAN: How much do you know about what happened to the last ship
-called Enterprise? 
-PICARD: Enterprise C? She was lost at the battle of Narendra Three,
-defending a Klingon outpost from the Romulans. 
-GUINAN: And the survivors? 
-PICARD: There were stories of prisoners taken back to Romulus, but
-these were only rumours. 
-GUINAN: No. There were survivors. And Tasha Yar was one of them. 
-PICARD: Guinan, that was twenty three years ago. Tasha Yar was only a
-child. 
-GUINAN: I know that. But I also know she was aboard that ship and she
-was not a child. And I think you sent her there. 
-PICARD: How can that be? 
-GUINAN: I don't know. I just know that you did. 
-PICARD: Tasha died, a year before you came on the Enterprise. You never
-met her. 
-GUINAN: I know that. 
-PICARD: If you have only a vague intuition 
-GUINAN: You can't just dismiss this. If I'm right, then you are
-responsible for this whole situation. 
-PICARD: I think that it's time I met Commander Sela.
+GUEST3: We've just received an urgent message from
+Lursa and B'Etor. Gowron's forces have attacked in three sectors. The
+Duras are nearing defeat. 
+SELA: You mean they were caught unprepared and now they're crying for
+help. Have the science sections found a way to circumvent the detection
+grid yet? 
+GUEST3: We think so. Just before we cross the border, we'll send out a
+massive tachyon pulse. A burst that large should cause enough
+interference to disable a part of their network. 
+SELA: Good. 
+GUEST3: One of their ships is moving off the blockade line. 
+SELA: Their warp drive is failing. 
+GUEST3: Picard is redeploying the fleet to compensate for the missing
+ship. There's a gap opening in the net. 
+SELA: He doesn't have enough ships to maintain the network. 
+GUEST3: If we act quickly we can move through. Commander? 
+SELA: No. I don't think so. 
+GUEST3: But it's what we've been waiting for. 
+SELA: Yes I know and so does Picard. He's giving us exactly what we
+need and he expects us to take it. No. We won't step into Picard's
+trap. We will disable part of his network here, where they're weakest.
+We'll direct the energy burst right at the ship with the android
+Captain.
 

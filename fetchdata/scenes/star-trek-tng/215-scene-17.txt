@@ -1,72 +1,54 @@
-RIKER OBRIEN PICARD TROI RO DATA
+TROI LAFORGE PICARD RIKER RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Jefferies tube]
 
-PICARD: So what happened down there? 
-RIKER: It was just one hell of a storm. It moved in on our position
-faster than anything I've ever seen. 
-PICARD: Was there any evidence of life? 
-[Turbolift]
+RO: They're all in range. I have to do it now. 
+LAFORGE: I'm only going to be able to shut down the forcefield for
+about seven seconds before the computer compensates. 
+RO: Well, if they're the right seven seconds, it'll be enough. 
+LAFORGE: Bridge, 
+[Bridge]
 
-RIKER: No, but if Troi was right, we were very
-close to it. 
-PICARD: Bridge. How do you suggest we proceed? 
-RIKER: We need to adjust the scanners so they can penetrate those
-storms. Do you have any ideas, Data? 
-DATA: We might be able to employ virtual imaging to interpolate
-(metallic sound) missing data. 
-PICARD: Is something wrong, Commander?
+LAFORGE [OC]: Prepare to release the ionogenic
+field on my signal. 
+RIKER: Standing by. 
+[Jefferies tube]
 
-DATA: My apologies. It seems my primary speech processors are
-experiencing a minor fluctuation. I will have it corrected in a moment.
+LAFORGE: Ready? 
+RO: Lower the forcefield. 
+LAFORGE: Forcefield down. 
+RO: Firing plasma charge. 
+[Ten Forward]
+
+(Ro presses the button just as Data walks out of
+the circle. Troi and Miles writhe
+in agony in the turquoise light, and two balls of energy leave them)
+
+[Jefferies tube]
+
+RO: Damn!
+
+[Ten Forward]
+
+DATA: (grabbing Picard by the throat) Tell them to
+stop, or I kill everyone in this room, starting with you. 
+PICARD: Picard to Bridge, abort immediately.
 
 [Bridge]
 
-TROI: Captain, may I speak with you a moment in
-private? 
-PICARD: Of course. You have the Bridge, Number One. 
-RIKER: Mister Data, deploy sensor scans when you're ready. Ensign, take
-us to a synchronous orbit aligned around our crash site. 
-(Picard and Troi leave) 
-RO: Aye, sir. 
-DATA: Sir, given the EM field properties of this moon, I recommend a
-search pattern beginning in the southern polar region. 
-RIKER: The polar region? That would be starting from scratch, Mister
-Data. Our latest
-readings would suggest that we begin our scan around our crash site. 
-DATA: The Essex signal was never clearly located, sir. A systematic
-survey of the moon from a polar orbit might be more practical. 
-RIKER: Well, you might be right, but I'd like to give the crash site a
-once over first. Maintain our current orbit. 
-DATA: Understood, sir.
+RIKER: As you say, Captain. Riker to La Forge,
+return to the Bridge.
 
-[Ready room]
+[Jefferies tube]
 
-TROI: I've never felt anything like it. It was as
-though they were calling to me. 
-PICARD: Are you saying someone was communicating telepathically? 
-TROI: Perhaps, for an instant. It was like their voices were being
-carried on the wind. 
-PICARD: What were they trying to communicate? 
-TROI: I'm not sure, but they were calling me to the southern polar
-region. I believe that's where we should look for the Essex. 
-[Bridge]
+[Ten Forward]
 
-RO: Commander, did you override my orbital heading?
+(The two balls of energy return to Troi and Miles) 
+TROI: Are you ready to cooperate? 
+PICARD: Yes. 
+(Data lets him go) 
+First officer's log, supplemental. The Enterprise
+has moved into a synchronous orbit near the southern polar region. We
+await further instructions from Ten Forward.
 
-RIKER: Override them? 
-RO: We've moved into a polar orbit and I'm locked out. The helm isn't
-responding. 
-RIKER: Do you know anything about this, Mister Data? Data? 
-(Riker touches Data's shoulder, and Data thumps him in the chest) 
-RIKER: Security to the Bridge! 
-(O'Brien disarms Worf and pushes him over the railing and the Captain's
-chair. Ro shoots at O'Brien but misses, so he shoots her) 
-RIKER: Computer, transfer command to Engineering. Full security alert! 
-(O'Brien shoots Riker. Data fails to override Riker's last command and
-thumps the blank console in frustration) 
-(In the Ready room, Troi knocks out Picard, then enters the Bridge) 
-O'BRIEN: This way! 
-TROI: What happened? 
-DATA: He would not move to a polar orbit. 
-TROI: You couldn't wait? The Captain would have done it for me. 

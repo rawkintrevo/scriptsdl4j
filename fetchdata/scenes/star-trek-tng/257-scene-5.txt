@@ -1,72 +1,56 @@
-PICARD RIKER COMPUTER TALLERA BARAN
+DATA ENSIGN LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Mercenary Cargo hold]
+[Bridge]
 
-(Tallera enters) 
-PICARD: You can tell Baran that I'm working as fast as I can. What? 
-TALLERA: I'm trying to decide if you're incredibly stupid or incredibly
-smart. Why didn't you continue to fire on the Enterprise when their
-shields dropped? 
-PICARD: You were there. The disruptors lost power. Computer, reset for
-diagnostic of new sample. Begin scan. 
-TALLERA: I've watched you handle the weapon systems before. You know
-exactly how to bypass a problem like that.
-And why do you continue to argue with Riker? It should be obvious that
-by alienating Riker you also alienate Baran, and yet you continue to do
-so. Why? 
-COMPUTER: Scan complete. Terikon profile negative. 
-PICARD: Computer, reset diagnostic for new sample and begin scan. Look
-this isn't a Romulan labour camp. I don't have to answer your
-questions. And I don't give a damn what you think. 
-COMPUTER: Scan complete. Terikon profile positive. Ninety eight percent
-probability of match. 
-PICARD: Well, whatever it is we're looking for, it seems we've found
-it. 
-TALLERA: Tallera to Captain. 
-BARAN [OC]: Yes, what is it? 
-TALLERA: I'm in the cargo hold. Galen's made a positive Terikon match
-on 
-[Baran's quarters]
+(science station) 
+DATA: I have completed my analysis of the signal from the mercenary
+ship. I believe these groupings represent bearings and coordinates
+taken from their navigational system. 
+LAFORGE: So you think this is their flight plan? 
+DATA: Yes. If I am correct, the mercenary ship is heading toward these
+coordinates in the Hyralan Sector. 
+WORF: Their maximum speed is warp eight point seven. It will take them
+at least fourteen hours to reach that position. 
+LAFORGE: We could be there in five. 
+DATA: Make it so. 
+WORF: Finally. Set course for the Hyralan Sector and engage at warp
+nine. 
+ENSIGN: Aye, sir. 
+DATA: Lieutenant, may I see you in the ready room? 
+WORF: Of course.
 
-TALLERA [OC]: One of the artefacts. 
-BARAN: Good. Bring it to me immediately. Don't let anyone get near it. 
-TALLERA [OC]: Understood. Tallera out. 
-RIKER: That sounds like good news. 
-BARAN: Very. It means we've completed half of what promises to be a
-very profitable mission. And even better than that, I'm almost ready to
-get rid of your friend Galen. 
-RIKER: Really? 
-BARAN: There's one more artefact to find. Once Galen confirms that it's
-genuine, his usefulness on this ship will come to a very sudden end. 
-RIKER: I can't say I'm sorry to hear that. 
-BARAN: Galen might be a loud mouthed fool, but sometimes he's quite
-perceptive. His observations about you, for instance. 
-RIKER: Oh? 
-BARAN: After what you did on Calder Two, I doubt if you have much of a
-future in Starfleet. 
-RIKER: Yes, I must say I've come to the same conclusion. 
-BARAN: Well, assuming that you were not my prisoner, what would you do
-now? 
-RIKER: I guess I'd start looking for a new career. There must be a
-place where someone with fifteen years of Starfleet technical knowledge
-would be useful. You wouldn't happen to know a place like that? 
-BARAN: Well, possibly. However, there's one thing that I have learned
-on this ship, and that's to be cautious and never to blindly embrace
-what might appear to be good fortune. And right now, you're a rather
-large stroke of good luck. 
-RIKER: I haven't exactly sworn my undying allegiance to you either,
-Baran. For instance, I'd like to know a little bit more about the job. 
-BARAN: Such as? 
-RIKER: Such as what you meant by a very profitable mission. 
-BARAN: Well, it's enough to know right now that your share will ensure
-a very wealthy and long life far from the Federation. 
-RIKER: Sounds promising. 
-BARAN: It is, only you're going to have to earn it. And you can start
-by putting aside your dislike for Galen and becoming his friend. 
-RIKER: Why? 
-BARAN: Galen has allies on this ship. They could cause trouble if I
-decide to kill him. I want you to find out from him who they are. 
-RIKER: Okay. 
-BARAN: One more thing, Riker. When the time comes, I want you to kill
-Galen.
+[Ready room]
+
+DATA: Lieutenant, I am dissatisfied with your
+performance as First Officer. 
+WORF: May I ask in what way? 
+DATA: You continually question my orders in front of the crew. I do not
+believe this is appropriate behaviour. 
+WORF: With all due respect, sir, I have always felt free to voice my
+opinions even when they differ from those of Captain Picard or
+Commander Riker. 
+DATA: That is true. But in those situations, you were acting as Head of
+Security, not as First Officer. The primary role of the second in
+command is to carry out the decisions of the Captain in this case, me. 
+WORF: But is it not my duty to offer you alternatives? 
+DATA: Yes. But once I have made a decision, it is your job to carry it
+out regardless of how you may personally feel. Any further objections
+should be given to me in private, not in front of the crew. I do not
+recall Commander Riker ever publicly showing irritation with his
+Captain as you did a moment ago. 
+WORF: No, sir. 
+DATA: If you do not feel capable of carrying out this role, I will
+assign it to Commander La Forge and return you to Tactical. I would not
+enter it into your record as a reprimand, simply as a transfer. 
+WORF: I would prefer to remain at my current post. 
+DATA: Then I expect you to conform to the guidelines I have laid out. 
+WORF: Aye, sir. 
+DATA: Dismissed. Mister Worf, I am sorry if I have ended our
+friendship. 
+WORF: Sir, it is I who has jeopardised our friendship, not you. If you
+will overlook this incident, I would like to continue to consider you
+my friend. 
+DATA: I would like that as well. 
+WORF: Thank you, sir.
 

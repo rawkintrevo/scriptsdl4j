@@ -1,75 +1,106 @@
-RIKER LAFORGE WORF KELL PICARD COMPUTER VAGH DATA
+OBRIEN LAFORGE WORF KELL PICARD COMPUTER GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Shuttlebay]
 
-(at Science One) 
-RIKER: Another E-band blip? 
-DATA: Yes, sir. However, the difference in intensity indicates that
-this one did not originate from the same location as the first. 
-RIKER: If it's changed intensity, it can't possibly be a protostar. 
-DATA: That is a reasonable assumption. 
-RIKER: Is there any known instance of Romulans using E-band
-communications? 
-DATA: Not to my knowledge, sir. 
-RIKER: Can you track the source? 
-DATA: We can reconfigure the primary sensor array. If we narrow their
-focus to scan for E-band emissions, we might be able to calculate a
-directional vector. But only if there are more occurrences. 
-RIKER: Do it.
+DATA: Computer, I am reading anomalous variations
+in the molecular structure of these memory chips. Please confirm. 
+COMPUTER: Analysis confirmed. 
+DATA: Probable cause? 
+COMPUTER: Replication. 
+DATA: Compare these variations with established Romulan replication
+patterns. 
+COMPUTER: The patterns are identical.
 
 [Cargo bay]
 
-LAFORGE: Computer re-route the power flow in the
-cargo bay four transporter to the auxiliary replicator system. 
-COMPUTER: Please verify command with necessary protocol. 
-LAFORGE: Initiate protocol three six four dash B. 
-COMPUTER: Verify priority clearance. 
-LAFORGE: Recognise La Forge, theta two nine nine seven. 
-COMPUTER: Acknowledged. Power has been re-routed through auxiliary
-power distribution system code number four four seven six two. 
-LAFORGE: Now, redirect transporter mode to the planetary sensor array. 
-COMPUTER: Transporter mode has been redirected. 
-(a box is beamed away) 
-LAFORGE: Verify that all record of these modifications are being erased
-from each directory. 
-COMPUTER: Affirmative. Erasure process is proceeding.
+LAFORGE: Maybe we should run a level one diagnostic
+on those phase transition coils. 
+O'BRIEN: Right, Commander. 
+DATA [OC]: Data to La Forge.
 
-[Bridge]
+[Shuttlebay]
 
-(La Forge enters) 
-WORF: Sir, we are being hailed by Governor Vagh. 
-PICARD: On screen, Mister Worf. Governor. 
-VAGH [on viewscreen]: You astonish me, Picard. Did you seriously
-believe you would succeed? Do you think we are blind? 
-PICARD: I don't understand. 
-VAGH [on viewscreen]: We intercepted the weapons you tried to transport
-to the surface. 
-PICARD: Governor, I assure you 
-VAGH [on viewscreen]: Do not insult us both by denying it. Maintain
-your position until further notice. Do not attempt to leave orbit. 
-(transmission ends) 
-WORF: Klingon attack cruiser uncloaking, sir. 
-PICARD: On screen. 
-WORF: Two birds of prey approaching. 
-(shortly after) 
-DATA: Sensors confirm an unauthorised transporter beam at eleven twenty
-three hours. 
-PICARD: Do you know which transporter was used? 
-LAFORGE: I'm not sure, Captain. Whoever did it apparently used the
-planetary array to bypass the transport sensors. 
-RIKER: What about the transporter logs? 
-LAFORGE: They're blank. 
-RIKER: How many people on board are capable of doing this, Geordi? 
-LAFORGE: I'm not even sure how it was done yet. As soon as I find out,
-maybe I can give you an answer. Not many, that's for sure. 
-(Kell enters) 
-KELL: Vagh is fully prepared to fire upon the Enterprise. I have
-convinced him it would not be wise to take any action without first
-consulting the High Council. 
-RIKER: How long do we have? 
-KELL: A few hours at most. 
-PICARD: Mister La Forge, your recommendations? 
-LAFORGE: It might be possible to locate the point of origin by tracing
-power flows at the time of transport. 
-PICARD: Make it so.
+DATA: Report, please. Geordi. 
+[Cargo bay]
 
+DATA [OC]: Please respond.
+
+[Corridor]
+
+DATA: Computer, current location of Commander La
+Forge? 
+COMPUTER: Cargo bay four. 
+DATA: Data to Lieutenant Worf.
+
+[Cargo bay]
+
+DATA [OC]: Priority One. 
+WORF: Go ahead.
+
+[Corridor]
+
+DATA: Take Commander La Forge into custody
+immediately.
+
+[Cargo bay]
+
+WORF: Sir? 
+[Corridor]
+
+DATA: That is an order. 
+[Cargo bay]
+
+(from his vantage point up a ladder, Worf sees
+Geordi slowly walking towards Picard and the Klingons) 
+PICARD: DNA samples by tracing biochemical signatures, we'll be able to
+determine who has been in this bay recently. 
+GUEST1: But how will it be possible to prove which one was responsible? 
+(Worf tries to walk through the group and is held back by the Klingons)
+
+GUEST1: Q'ac ken ta'vak! 
+WORF: La Forge! 
+(Picard grabs Geordi's arm just as he fires the phaser. The beam goes
+up to the ceiling instead. Picard disarms Geordi) 
+PICARD: Mister Worf, get him out of here. 
+(Worf shrugs off the Klingons, and leaves with Geordi as Data arrives) 
+GUEST1: Arming our enemies is not enough. Now the Federation would murder
+me to achieve its aims. 
+PICARD: Governor, if I could explain this I would. 
+DATA: I believe I can help, Captain. I have been able to determine that
+Commander La Forge was abducted by Romulans en route to Risa. It is
+likely that he was somehow forced to take part in the plot to
+assassinate Governor Vagh. 
+KELL: I saw no evidence of Romulans. We just witnessed him acting very
+much alone. 
+DATA: No, sir, you did not. I do not believe the Commander is acting of
+his own accord. He has been receiving E-band signals through his visor.
+Signals which are carrying direct commands to his brain. I have
+surmised that Commander La Forge was conditioned by Romulans, a process
+referred to historically, and somewhat inaccurately, as brainwashing. 
+GUEST1: But to what end? Why would the Romulans want to kill me? 
+PICARD: The Romulans have always wanted to destroy the alliance between
+the Federation and the Klingons. If Mister La Forge had killed you,
+Governor, I think you would agree, they might have succeeded. 
+KELL: Who sent these signals? A cloaked Romulan ship? 
+DATA: No, sir. That is not possible. The signals had to be transmitted
+within close proximity to the visor. 
+PICARD: Are you suggesting there was a Romulan accomplice in close
+proximity to La Forge when he was receiving the signals? 
+DATA: Yes, sir, I am. 
+GUEST1: This Romulan accomplice, who is he? 
+DATA: I have narrowed the list of possibilities to two people. The only
+two people who were with Commander La Forge all three times a
+transmission was recorded. Captain Picard and Ambassador Kell. One of
+them may be concealing an E-band transmitter. If they would agree to be
+searched 
+KELL: I am a Klingon. An emissary of the High Council. I will not be
+submit to being searched by you or anyone else on this ship. 
+GUEST1: I am forced to agree, Captain. We will take the Ambassador with
+us and search him ourselves. 
+KELL: Captain, I believe it to be in all best interests if I remain on
+board. I formally request asylum. 
+PICARD: I will certainly grant you asylum, when you have been absolved
+of this crime. 
+GUEST1: Gurt'ank te'la. 
+(and the four Klingons are beamed away) 

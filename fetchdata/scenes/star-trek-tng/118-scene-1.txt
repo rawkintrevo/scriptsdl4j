@@ -1,21 +1,22 @@
-RIKER LAFORGE WORF TASHA PICARD TROI BERNARD HARRY CRUSHER DATA
+RIKER LAFORGE WORF TASHA PICARD TROI GUEST2 GUEST6 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
   [Corridor]
 
 PICARD [OC]: Commander Riker, report to the Bridge.
 
 RIKER: On the way. 
-BERNARD: Harry! Harry, come back here! 
+GUEST2: Harry! Harry, come back here! 
 (The running child bumps straight into Riker)
 RIKER: What's your hurry, Harry? 
-HARRY: Sorry, Commander. I was just 
+GUEST6: Sorry, Commander. I was just 
 (His father arrives) 
-BERNARD: Harry! I'm sorry if he bothered you. 
+GUEST2: Harry! I'm sorry if he bothered you. 
 RIKER: No bother, Doctor Bernard. 
-HARRY: I'm not going back. I hate that teacher and I hate calculus. 
-BERNARD: Everyone needs an understanding of basic calculus, whether
+GUEST6: I'm not going back. I hate that teacher and I hate calculus. 
+GUEST2: Everyone needs an understanding of basic calculus, whether
 they like it or not. 
-HARRY: Why?
+GUEST6: Why?
 
 [Bridge]
 

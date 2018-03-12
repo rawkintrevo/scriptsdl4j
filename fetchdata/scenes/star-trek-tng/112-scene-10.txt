@@ -1,80 +1,74 @@
-JAMESON PICARD ANNE CRUSHER
+JAMESON PICARD GUEST2 CRUSHER TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Crusher's office]
+[Doctor's office]
 
-CRUSHER: I found traces of chemical substances in
-his blood and tissue samples, but none of them are in our
-pharmacopoeia. I'm still working on alien references to substances like
-these. All I can tell you is that he's ingested something that's
-strongly affecting his body. 
-PICARD: Specifics, Doctor. 
-CRUSHER: Captain, there are so many things going on, I can't give you
-specifics until I do a lot more tests. 
-PICARD: Give me what you have now. 
-CRUSHER: His red cell count is running riot. The cellular structure of
-his body is radically changing, but we can't make any decisions on that
-until we know what it's changing to. His DNA is skewed. Don't ask me
-how, but he even looks younger. And Captain, there are absolutely no
-traces of Iverson's Disease. 
-PICARD: You said there is no cure for Iverson's. 
-CRUSHER: None that we know of. But whatever these substances are doing
-to his body, at least they've done that for him. But how or why? It's
-too early to say. 
-PICARD: Get me some answers, Doctor. As soon as possible. 
-CRUSHER: Yes, sir.
+GUEST2: Our anniversary is next week. Our fiftieth. 
+CRUSHER: In his heart, he's still the same man you married, Anne. 
+TROI: That's true. He still cares for you, despite the physical changes
+he's undergoing. 
+GUEST2: But he's getting younger, and I'm, well look at me. Why did he do
+this? 
+TROI: Because there are lives at stake, Mrs. Jameson. 
+GUEST2: What about our lives, his and mine? I was looking forward to time
+together finally. Our retirement. Now he's young again, and has his
+life to live over. 
+TROI: Doctor, she has to know. 
+GUEST2: Know what? 
+CRUSHER: Anne, your husband. 
+GUEST2: What is it? 
+CRUSHER: He's not stabilising. He may not have that life to live over.
 
-[Jameson's quarters]
+[Observation lounge]
 
-ANNE: Captain. 
-PICARD: Mrs. Jameson, I have to ask the Admiral some questions. 
-JAMESON: Ask away. There's nothing to hide now. 
-(He is a lot younger, thirties or forties) 
-PICARD: Admiral, in addition to your rank, you are a particularly
-valuable commodity just now. Starfleet has a right to some answers. 
-JAMESON: I've planned this for a long time, ever since I learned I had
-Iverson's Disease. Since it put me in that chair. 
-ANNE: What did you do, Mark? 
-JAMESON: There's a planet in the Cerebus system, Cerebus Two. They say
-the natives have a process that rejuvenates the body, gives you your
-youth back. 
-PICARD: Yes, I've heard of that story. It's a myth. 
-JAMESON: It's true, Picard. I'm living proof. Oh, it's dangerous. The
-mortality rate is high, and it's very painful. Aliens are seldom
-allowed to obtain the process, but I managed it. I negotiated a treaty
-for Cerebus Two some years ago, and they felt obligated to honour my
-request for the process. 
-PICARD: Obviously it works very rapidly, but how does it work? 
-JAMESON: The herb and drug combinations are self-administered slowly
-over a period of two years. Every response is different, depending on a
-being's DNA. I got enough for both of us, Annie, but I had to test it
-on myself first. I couldn't risk you. If I died, well, I was half a
-man, so what did it matter. 
-ANNE: It would matter to me. 
-JAMESON: But I was starting to change, Anne. It was almost
-undetectable, but the improvement was there. Then when this hostage
-situation came up, I knew I'd have to be at my peak to deal with it. I
-didn't have time to wait for the drug to work naturally. 
-PICARD: So you took the whole dose. 
-JAMESON: I took both of them. And look at me, Annie, look at me. I'm
-strong. I'm alert, Fit. I'm fitter than you are, Picard. And I'm
-getting younger! 
-PICARD: The only question I have, Admiral, is why you thought it
-necessary to be young to negotiate the release of the hostages. Even
-willing to put your life at risk for it. I'll be on the Bridge,
-Admiral, if you want to talk further. 
-(Picard leaves) 
-ANNE: Why didn't you tell me, Mark? We've always been honest with each
-other, until now. 
-JAMESON: Annie, I did it for us. 
-ANNE: Oh, I'm sure you believed that, until you had a chance to head up
-a mission, to command again, and then you just upended the bottle or
-whatever it was, and damn everything. Did you think about me at all? 
-JAMESON: I obtained enough of the dosage for both of us. 
-ANNE: But you never asked if I wanted it. It's just like you, Mark, to
-assume that what you felt was right was the only answer. 
-JAMESON: But it was the right answer for me. It was killing you, having
-to take care of an invalid. Annie, what good was I to you? We can be
-together again. 
-ANNE: Let me go! 
-JAMESON: I can get you another supply of the drug.
+(It's dark, so we can assume that Jameson is even
+younger than last time. Picard enters) 
+JAMESON: We'll be at Mordan in three hours. 
+PICARD: I couldn't sleep either. 
+JAMESON: I never could before a mission. I always wound up in the
+observation lounge, staring out at the stars, thinking. 
+PICARD: Perhaps in this case, rethinking? 
+(Jameson turns so we can see the brown-haired, smooth-skinned twenty
+something he has become) 
+PICARD: Why is this mission so important to you? Why did you risk your
+life to lead it personally? 
+JAMESON: I want to save lives, Captain. 
+PICARD: Noble sentiments, but that's too easy an answer. You've been
+here before. You negotiated a release of the hostages with Karnas
+before. Why is it now your answer is an armed raid? It's my away team
+you're sending in there. I think there's something you're not telling
+me, and I have a right to know what it is. 
+JAMESON: Do you know the background? The Mordanites had some
+sophistication, but were still ruled by tribal family units. Karnas's
+father was the ruling chief of one of the families. Another tribe had
+him assassinated. Karnas seized the passengers of a starliner and held
+them hostage, demanding that Starfleet provide him with weapons that
+would enable him to defeat his rivals. 
+PICARD: That's the official record. 
+JAMESON: Officially, the story is that after two other mediators were
+murdered, I went in and negotiated with Karnas to bring out the
+hostages safely. 
+PICARD: Are you saying that's not the truth? 
+JAMESON: It wasn't my golden oratory that saved them, Captain. I gave
+Karnas the weapons he wanted. 
+PICARD: You did what? 
+JAMESON: I gave exactly the same weapons to his rivals. My
+interpretation of the Prime Directive. Let them solve their problems
+with those arms on an equal basis. 
+PICARD: And that decision plunged them into forty years of civil war. 
+JAMESON: I didn't know that would happen. I thought a minor war. It
+would be settled in less than a year. How would I know it would take
+four decades? But I falsified the reports to Starfleet, and I lived
+with that on my soul, Picard. Sixty-three people came away safe but
+millions died on Mordan because I delivered those weapons. 
+PICARD: Karnas could have worked for peace during those years instead
+of continuing the war. It's not all on your head, Admiral. 
+JAMESON: But I started it. I lit the match. Now finally I can vindicate
+myself, if only in a small way. I came to negotiate, but that isn't
+what Karnas wants. 
+PICARD: Revenge. That's why he demanded you when he knew that you were
+still alive. 
+JAMESON: And I'm not going to give it to him, Picard. I'm going to do
+what I should have done the first time. We're taking the hostages out
+by force, if necessary. No deals.
 

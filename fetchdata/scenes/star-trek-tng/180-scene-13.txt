@@ -1,54 +1,31 @@
-RIKER ISHARA LAFORGE WORF CRUSHER DATA
+DATA RIKER ISHARA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-(Ishara's data file is up on a monitor. There are a
-lot of underground levels) 
-ISHARA: Access tunnels are here and here. 
-RIKER: We could transfer the away team right into this intersection. 
-ISHARA: Don't underestimate them, Commander. They'll be ready for that.
-I've seen them use this kind of strategy before.
-I know it looks isolated and easily accessible, but my guess is they
-have hundreds of men on the levels above and below just waiting for you
-to make your move. 
-WORF: We will need a diversion. 
-LAFORGE: Transport a couple of photon grenades into the adjoining
-chamber. At minimum intensity it wouldn't kill anybody, but it would
-shake them up a bit. 
-RIKER: That won't give us enough time. We need to occupy them long
-enough for you to install the relay. 
-ISHARA: Transport me into this corridor. My magnetic implant will set
-off the defence alarms. They'll think it's a raid by the Coalition. 
-RIKER: Too dangerous. We've seen what those tunnels look like. You
-could easily be cut off from the rest of us. Worf, if we 
-ISHARA: Commander Riker. I was ordered to assist you in any way
-possible. That doesn't mean as long as it's safe or convenient. If you
-had the time, we could come up with another plan, but you don't. Right
-now, I'm your best option. 
-DATA: She would have to be armed, sir. 
-RIKER: I'd like to discuss this with the Captain. Take Ishara down to
-see Doctor Crusher.
+LAFORGE: They've been moved so far underground it's
+been difficult to pinpoint their signatures. But the men are here, next
+to one of the Alliance headquarters. That's about two kilometres of
+solid granite above their heads. 
+RIKER: So much for the transporter. 
+LAFORGE: Not necessarily. We could use the ship's phasers to cut a
+shaft through the bedrock to this storage tunnel here.
+With a clear path through the rock, we'd be able to transport through
+the tunnel. That would put us close enough to get to the crewmen. But
+I'll need two hours to refit the ship's phasers for drilling. 
+RIKER: It's a real maze down there. 
+ISHARA: I spent a lot of time in that section before they took it over.
+There are blind tunnels and dead ends that don't even show up on this
+map. 
+WORF: We do not have much choice. 
+ISHARA: If it wasn't for my implant setting off all the alarms, I could
+guide you to your men. 
+DATA: We could remove the implant. 
+ISHARA: No, it has a micro explosive inside that detonates on contact
+with air. When you join a cadre, you join for life. 
+DATA: A small force field containing xenon or another inert gas could
+be placed over the incision site. The explosive could possibly be
+disarmed at the same time it is removed. 
+RIKER: This is something you're going to have to decide for yourself,
+Ishara. Think about it while we're waiting for Geordi.
 
-[Sickbay]
-
-ISHARA: You have Tasha's DNA on file? 
-CRUSHER: The ship's computer does. There's always some differentiation
-between sonomic chromosomes, but not enough to affect results. It
-should take me a few hours to run the sonomic comparison. 
-(Crusher leaves) 
-ISHARA: That wasn't too bad. So, all that's left of my sister is a file
-in a computer. 
-DATA: Tasha exists in our memories as well. 
-ISHARA: How did she die? 
-DATA: Lieutenant Yar was killed on Vagra Two by a malevolent entity. 
-ISHARA: In battle? 
-DATA: No. She was killed as a demonstration of the creature's power,
-without provocation. 
-ISHARA: That's not how I intend to die. 
-(Riker enters) 
-RIKER: The Captain approves. You're with us.
-
-[Level 3C, 547]
-
-(The shuttlepod is under guard) 
-RIKER: Enterprise, we're in position. 

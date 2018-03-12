@@ -1,33 +1,52 @@
-TROI LAFORGE WORF PICARD RIKER TIMICIN LWAXANA
+PICARD RIKER DATA GUEST0 LWAXANA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Lwaxana's quarters]
+[Ready room]
 
-(Lwaxana is deciding which outrageous dress to
-wear) 
-TROI: Mother, how much 
-LWAXANA [OC]: Little one, why do you refuse to use telepathy even when
-we are alone? 
-TROI: We're not alone, Mother. Now how much longer is this going to
-take? You've been selecting for twenty minutes. 
-LWAXANA [OC]: I am a woman dressing for a man. Something you might try
-now and then, dear. I wonder if Timicin likes green. 
-TROI: That's not very telepathic of you. 
-LWAXANA: Oh, I tried telepathy on him. He's the wrong species. Right
-species for everything else, though. You might try that once in a
-while, too. 
-TROI: You know, you're not just incorrigible, you're insatiable.
-
-[Bridge]
-
-WORF: I have completed long range scans. There are
-no other life forms are present in this system. 
-RIKER: Spacecraft? 
-WORF: None within sensor range. 
-PICARD: Picard to Engineering. 
-[Engineering]
-
-PICARD [OC]: Mister La Forge, the system is clear. 
-LAFORGE: Final pre-launch diagnostic, level five. 
-TIMICIN: All systems verified. 
-LAFORGE: We're ready here when you are, Captain.
+PICARD: The experiment achieved a stable core
+temperature for a short time, Minister. That's a significant step
+forward. 
+RIKER: We've been studying the sensor logs and the torpedo telemetry to
+determine if there was any malfunction. If there was, and we are able
+to isolate the problem, another test might be successful. In the
+meantime, all of our facilities would be made available to Doctor
+Timicin. 
+B'TARDAT [on monitor]: A most thoughtful and generous offer, but
+Timicin has obligations at home. And it would take us some time to
+select a replacement. 
+PICARD: We would be more than willing to extend our visit, sir. 
+B'TARDAT [on monitor]: That will not be necessary. We'll contact you as
+soon as we're ready. We expect Timicin to return home as soon as
+possible. And again, gentlemen, many thanks. 
+(transmission ends, doorbell rings) 
+PICARD: Come. 
+(Lwaxana enters) 
+LWAXANA: Are you aware these people you are so graciously helping are
+murderers? 
+PICARD: I beg your pardon? 
+LWAXANA: Well the next thing to it. When a person on this benighted
+little planet reaches the age of sixty, which Timicin is about to do,
+they're expected to simply kill themselves. Did you know that? 
+PICARD: Mister Data? 
+DATA: The people of Kaelon Two are isolationists, almost to the point
+of being xenophobes. Regrettably, we know very little about their
+customs. 
+LWAXANA: Well, I know. Timicin himself just told me. He is supposed to
+go down there, to his loving friends, be wined, dined, honoured for his
+achievements and then kill himself. It's a barbaric ritual. The
+Resolution, it's called. Obviously, you can't let him go, Jean-Luc. 
+PICARD: I'm afraid I have no choice. 
+LWAXANA: I don't think you've been listening to me. The man is supposed
+to kill himself. You don't just let that happen. You don't just turn
+your back. What's the matter with you! 
+PICARD: Lwaxana, I'm sorry, but whatever my personal feelings, I have
+no jurisdiction here. I simply cannot interfere. 
+LWAXANA: But you have to. In a situation like this, you absolutely have
+to interfere. You've got to go down there and talk to those people,
+Jean Luc. Open their eyes, educate them. 
+PICARD: The Prime Directive forbids us to interfere with the social
+order of any planet. 
+LWAXANA: Well, that's your Prime Directive, not mine! 
+(Lwaxana leaves) 
+PICARD: Computer, locate Counsellor Troi.
 

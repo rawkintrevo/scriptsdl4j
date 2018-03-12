@@ -1,33 +1,6 @@
-RIKER LAFORGE ROBINSON OKONA WESLEY DATA
+WESLEY GUINAN DATA RIKER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
-
-OKONA: Have you ever been cold? 
-DATA: No. 
-OKONA: Warm, then? 
-DATA: No. 
-OKONA: What about drunk? Ever do that? 
-DATA: From alcohol? That is not possible for me, sir. 
-OKONA: Pity. What about love? 
-DATA: The act or the emotion? 
-OKONA: They're both the same. 
-DATA: I believe that statement to be inaccurate, sir. 
-OKONA: Maybe. Life is like loading twice your cargo weight onto your
-spacecraft. If it's canaries and you can keep half of them flying all
-the time, you're all right. 
-DATA: I doubt that statement is entirely accurate either, sir. 
-OKONA: Accurate? That was a joke I just told you. 
-DATA: I do not understand. 
-OKONA: You don't know what a joke is? 
-DATA: Of course I do. It is a witticism, a gag, a bon mot, a
-fluctuation of words concluding with a trick ending. 
-OKONA: That's the dictionary meaning. I'm talking about humour, fun. Do
-you know what funny is? (blank) Where is eight oh six? 
-DATA: Right over there, sir. Why? 
-OKONA: You probably wouldn't understand that either. 
-(The door opens to reveal Robinson in a slinky dress, waiting for
-Okona) 
-ROBINSON: Hello, there. 
 [Engineering]
 
 RIKER: Status on the repair? 
@@ -39,4 +12,37 @@ WESLEY: Then why does he work alone?
 RIKER: He's a man who lives his life by his own rules. He does what he
 does by choice. By his choice. Someday you'll make yours. 
 WESLEY: I already have.
+
+[Ten Forward]
+
+DATA: So you agree with Okona that I am missing a
+very important human factor. 
+GUINAN: I never said that. I simply said that I've never seen you
+laugh. 
+DATA: I am capable of that function when it is expected of me. 
+GUINAN: Data, do you even know what a joke is? 
+DATA: Of course I do. It is a witticism, a gag, a bon mot, a
+fluctuation of 
+GUINAN: Stop. Look, it's just you and I here. We're talking, we're
+having an intimate conversation. Why? Because you're a 'droid and I'm a
+'noid. 
+DATA: But why? 
+GUINAN: Because that's what I am. 
+DATA: Have I said something to offend you? 
+GUINAN: No. 
+DATA: Then why are you annoyed? 
+GUINAN: Because you're a 'droid and I'm a 'noid. 
+DATA: Humanoid. 
+GUINAN: Yes. 
+DATA: You told a joke. 
+GUINAN: Yes. 
+DATA: I am not laughing. 
+GUINAN: Yes. 
+DATA: Perhaps the joke was not funny. 
+GUINAN: No, the joke was funny. It's you, Data. 
+DATA: Are you sure? 
+GUINAN: Yes. 
+DATA: I agree. What do I do? 
+GUINAN: Well, under normal circumstances, I'd say seek a higher power.
+But in your case, probably a smarter computer is in order.
 

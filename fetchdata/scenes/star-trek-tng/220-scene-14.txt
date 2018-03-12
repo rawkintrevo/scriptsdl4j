@@ -1,71 +1,43 @@
-RIKER LAFORGE WORF PICARD LWAXANA DATA ALEXANDER
+PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jefferies tube]
+[Engineering]
 
-LAFORGE: Yeah, dash six four. Here we are. Some
-kind of intermittent EM field pattern. Give me a hand with that, will
-you, Data?
-There's no plasma leakage, just a little negative ion charging. 
-(and a large dollop of orange gloop which falls from the exposed
-circuitry)
-
-[Lwaxana's quarters]
-
-(Lwaxana has changed to white hair to match the
-silver grey long-sleeved throat to floor covering dress with bustle.
-Mister Homn looks on silently, as usual) 
-LWAXANA: Bad enough having to wear anything at my own wedding, but
-this? Perhaps if we lower the bodice? Raise the hemline, then. What a
-constant joy you are. 
-(doorbell) 
-LWAXANA: Mister Homn. 
-(Alexander is less than half Homn's height) 
-LWAXANA: Alexander! My little warrior, come here. Come on. Give me a
-great big hug. Now, you're not escaping another appointment, are you? 
-ALEXANDER: No, ma'am. 
-LWAXANA: Well, I suppose eventually we all have to live up to our
-obligations. Well now, tell me. What brings you here to brighten my
-day? 
-ALEXANDER: I wanted to say I'm sorry if I got you in any trouble. 
-LWAXANA: That's very sweet, dear, but I really wasn't in any trouble.
-Until I saw this dress. Ugly, isn't it? 
-ALEXANDER: What's it for? 
-LWAXANA: I'm getting married. 
-ALEXANDER: Why? 
-LWAXANA: Are you sure my daughter didn't send you? Just a joke. People
-get married because they want to spend their lives with someone. 
-ALEXANDER: Their whole life? They must have to like that person a lot. 
-LWAXANA: Well, if you're young and lucky, it'll be someone you like a
-lot, yes. And if you're older. 
-ALEXANDER: Are you very old? 
-LWAXANA: I'm alone, Alex. And when you do get older and can no longer
-pick and choose from whatever may come your way, then you do what we
-call compromise. It keeps you from being afraid.
-
-[Bridge]
-
-DATA: We have traced the failure to a data net
-interface which routes replicator selections to the correct
-subprocessors. 
-LAFORGE: When we opened the panel, we discovered that the interface had
-been transformed into a gelatinous material that we haven't been able
-to identify. 
-(the ship shakes and alarms go off) 
-WORF: We have an intermittent failure of the inertial damping system. 
-PICARD: Take us out of warp, Ensign. 
-RIKER: Primary attitude control has failed. Going to secondary systems.
-
-DATA: We have lost helm control, sir. 
-RIKER: Try a manual bypass of the damping systems. 
+LAFORGE: Once we saw that photonic trail moving
+through the wall, we realised we must be dealing with a metal parasite
+of some kind. 
+DATA: We believe the parasites came through the ship's hull after we
+destroyed the asteroid near Tessen Three. 
+PICARD: Are they attacking anything other than nitrium alloy? 
+LAFORGE: No, sir, not that we can tell. But we've got nitrium
+everywhere. The computers, the life support, the ventilation, the
+engines, even the dilithium chamber. 
+PICARD: Mister Data, the asteroid we destroyed. That was rich in
+nitrium. 
 DATA: Aye, sir. 
-PICARD: Backup generators. 
-LAFORGE: Coming online now. 
-PICARD: How long before we regain attitude control? 
-LAFORGE: We're almost there. 
-(the shaking stops) 
-RIKER: Ensign, put us back on course. Let's stay at impulse for now. 
-PICARD: Did something hit us, Mister Worf? 
-WORF: Negative, sir. 
-PICARD: The inertial dampers shouldn't fail without kicking in the
-automatic bypass. I want to know what went wrong. Analysis in thirty
-minutes. 
+PICARD: And that asteroid came from the Pelloris Field. If the rest of
+that field is rich in nitrium, it would make a natural feeding ground. 
+LAFORGE: We should think about going back there. The parasites could
+possibly be lured back to the asteroids for a meal that's more
+appealing than we are. 
+PICARD: Mister Data, how long to the field? 
+DATA: At warp nine, five hours twenty minutes, sir. 
+PICARD: Picard to the Bridge 
+RIKER [OC]: Riker here, sir. 
+PICARD: Set a course for the Pelloris asteroid field, warp nine. 
+RIKER [OC]: Aye, sir. 
+DATA: Captain, with our sensors unable to detect the parasites and
+given the speed with which they appear to be moving through the ship 
+PICARD: We may not have five hours and twenty minutes. I'm aware of
+that. How can we slow them down? 
+DATA: In several cases, an exanogen gas barrier has been known to slow
+the progress of metal parasites. 
+PICARD: They don't like cold, eh? Make it so. 
+LAFORGE: The problem is finding them. As soon as we spot an energy
+fluctuation, they've already consumed all the nitrium and have moved
+on. 
+(the lights flicker) 
+LAFORGE: Primary power systems are going down. I've rerouted to the
+secondary generators. 
+PICARD: Inform the Bridge. Mister Data, with me.
+

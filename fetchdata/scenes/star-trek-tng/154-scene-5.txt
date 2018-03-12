@@ -1,33 +1,42 @@
-PICARD RIKER OBRIEN DATA WORF
+RIKER WORF PICARD WESLEY DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Bridge]
 
-PICARD: Ready to beam down to the vessel? 
-O'BRIEN: Locked on to the main bridge, Captain. 
-RIKER: You're certain about the atmospheric conditions, Data ? 
-DATA: There is adequate oxygen for life support, Commander. 
-PICARD: It is exactly as they left it, Number One. In the bottle. The
-ship in the bottle. Good Lord, didn't anybody here build ships in
-bottles when they were boys? 
-WORF: I did not play with toys. 
-DATA: I was never a boy. 
-O'BRIEN: I did, sir. 
-PICARD: Thank you, Mister O'Brien. Proceed. 
-(Picard, Worf and Data are beamed away) 
-O'BRIEN: I did. I really did. Ships in bottles. Great fun. 
-(The lights dim) 
-RIKER: What's that? 
-O'BRIEN: I'm not sure. The secondary power bus may need adjusting. 
-RIKER: Keep me posted.
+RIKER: What is it, Wes? 
+WESLEY: The main power returner is acting a little weird. 
+RIKER: Define weird. 
+WESLEY: I'm getting fluctuating waveguide readings. 
+RIKER: Run a maintenance sweep. 
+WESLEY: Right.
 
-[Warship Bridge]
+[Warship]
 
-(built for human-sized humanoids with a ridge on
-their skulls. Reminiscent of the scene from Alien when they found the
-dead pilot) 
-PICARD: Extraordinary. 
-WORF: Admirable. They died at their posts. 
-PICARD: Hmm. You'd expect the bridge layout of this era to be clumsy,
-awkward, but look at this. It's a model of simplicity. Elegant,
-functional. They built this craft for generations. And it worked.
+DATA: Activating power pack, Captain. 
+PICARD: Mister Worf, be sure we get tricorder images of their tactical
+display. 
+WORF: Aye, sir. 
+DATA: The source of the distress signal appears to be coming from up
+there, Captain. 
+PICARD: Let's put an end to their last cry for help. 
+DATA: Captain, I believe this is an information storage device. A crude
+analogue of our isolinear optical chip. 
+PICARD: Crude by our standards today, Data. But when this ship was
+built, humans on Earth were just perfecting the mechanical clock, still
+using steel crossbows in battle. Is there any way to see what's on
+this? 
+DATA: Questionable, sir. I believe I can supply power to its playback
+unit, but its components are quite old. I will attempt to amplify its
+image with my tricorder. 
+GALEK SAR [on monitor]: I am Galek Sar, Captain of the Promellian
+cruiser, Cleponji. I wish anyone who finds this record to know my crew
+has behaved courageously. I want it recorded for all time that I,
+alone, am responsible for the fate that befell us.
+I have failed as a captain, and as the man responsible for all the
+souls aboard my ship. 
+PICARD: Picard to Enterprise. 
+RIKER [OC]: Go ahead, Captain. 
+PICARD: I think we have seen all there is to see here. At Mister
+O'Brien's leisure, we're ready to return. 
+RIKER [OC]: Aye, sir.
 

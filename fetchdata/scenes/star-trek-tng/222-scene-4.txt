@@ -1,65 +1,50 @@
-ISABELLA LAFORGE CLARA OGAWA CRUSHER DATA
+LAFORGE WORF PICARD CLARA SUTTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Engineering]
 
-(a red firefly flits around then goes through a
-closed door) 
-DATA: In order for the lateral sensors to complete their scheduled
-observations, additional processing time will be required. 
-LAFORGE: We could steal a couple of hours from the Engineering team
-while they're recalibrating the thermal interferometery scanner. 
-DATA: Will two hours be enough time to complete the high-resolution
-series on the neutron star? 
-LAFORGE: No problem. We'll just double up the main sensor bandwidth
-while they're freeing up the lateral unit. 
-(the firefly follows for a while then goes down another corridor)
+LAFORGE: So what are we going to name this nebula?
+FGC forty seven just doesn't have the proper ring to it. 
+SUTTER: Why don't we call it Sutter's Cloud? 
+DATA: The rotational period of the neutron star is one point three five
+seconds. 
+LAFORGE: That's a bit on the long side. Sutter, let's see if you can
+get a reading on the particle flux. 
+SUTTER: Aye, sir. 
+LAFORGE: I was thinking about something more along the lines of the La
+Forge Nebula. It's got sort of a majestic sound, don't you think? 
+DATA: Given the selections, I prefer FGC four seven. 
+(the ship shakes) 
+SUTTER: What was that? 
+LAFORGE: It felt like we hit something. 
+DATA: Shields have registered an impact, however sensors show nothing
+in the vicinity.
 
-[Sickbay]
+[Bridge]
 
-CRUSHER: And then after dinner, then what? 
-OGAWA: We went to the holodeck and took a walk on the Champs Elysees. 
-CRUSHER: The neural scanner still seems to be a bit off. Let's check
-the sensor calibrations. 
-OGAWA: I'll run a diagnostic. 
-(the firefly is there) 
-CRUSHER: And? 
-OGAWA: And? 
-CRUSHER: After Paris? 
-OGAWA: He has shore leave next month. He asked me to go to Risa with
-him. 
-CRUSHER: No problem. Nurse McClukidge can cover for you. 
-OGAWA: I don't think I'm going, Doctor. I hear it's a very uninhibited
-atmosphere. Personally, I don't think I'm ready for that kind of fun. 
-CRUSHER: Try to talk him into Tavena Minor. They have a cruise down the
-Jokri River. The iridescent currents are beautiful.
+WORF: Forward velocity is down by point two
+percent, and dropping. 
+PICARD: Engineering. 
+[Engineering]
 
-[Arboretum]
+PICARD [OC]: Report. 
+LAFORGE: Could be something wrong with the shields, Captain. We're
+checking it out now. 
+SUTTER: Systems are normal, sir. 
+LAFORGE: So did we hit something or not? Shields say yes, sensors say
+no. This is very strange. Ensign, give me a breakdown on shield energy
+conversion and then run a spectral. (nearly steps on Clara) Whoa. Where
+did you come from? 
+CLARA: I'm Clara Sutter. That's my daddy. 
+SUTTER: Clara, you can't be here right now. 
+CLARA: But Isabella wanted to see Engineering. 
+SUTTER: I don't care what Isabella wanted to see, you go back to our
+quarters right now. 
+CLARA: But Daddy 
+PICARD [OC]: Bridge to La Forge. Our speed is still dropping. 
+LAFORGE: I hear you, Captain. I'm increasing the power to the impulse
+engines, but forward velocity just isn't consistent with engine output.
 
-(the firefly is exploring the orchids) 
-CLARA: See, Isabella? You have to push your finger into the soil as far
-as it can go. I'm making a hole for the seeds. Now they need to be
-watered. But the baby seeds are very small, so we mustn't give them too
-much to drink. 
-(the firefly passes through Clara's head, then a second voice joins in
-with Clara's humming) 
-CLARA: Hello? Is anybody there? 
-ISABELLA: Hello. 
-CLARA: Isabella? 
-ISABELLA: Hello, Clara. 
-(she's blonde, wearing a blue dress and a sour, sulky expression) 
-CLARA: Isabella, how come I can see you? 
-ISABELLA: Is something wrong with the way I look? 
-CLARA: No. I've just never seen you before. Not for real. 
-ISABELLA: Well, now you can see me for real. Doesn't that make you
-happy? 
-CLARA: Yes, it's wonderful. 
-ISABELLA: Can we go now? 
-CLARA: We'd better finish planting the seeds first. 
-ISABELLA: I'm tired of planting. Let's do something else. 
-CLARA: Like what? 
-ISABELLA: Like, I would really like to explore the ship. 
-CLARA: We'd better finish planting first. I promised Keiko. 
-ISABELLA: We can finish later. Let's go look around. 
-CLARA: I'd better ask my daddy. 
-ISABELLA: Your daddy won't mind. We can tell him later. Come on.
-
+PICARD [OC]: Explanation. 
+LAFORGE: It seems like there's something increasing the drag
+coefficient on the ship. 

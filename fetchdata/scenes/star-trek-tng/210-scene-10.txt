@@ -1,36 +1,40 @@
-TROI WORF ALEXANDER
-
-[Worf's quarters]
-
-WORF: A Klingon's honour is more important to him
-than his life. A Klingon would gladly face the most horrible punishment
-rather than bring shame or disgrace to his family name. His word is his
-bond. Without it, he is nothing. Do you understand? 
-(a tiny nod) 
-WORF: Why did you lie to me? 
-ALEXANDER: I don't know. 
-WORF: Did you fear the punishment you would receive? 
-ALEXANDER: I don't know. 
-WORF: You don't know why you lied, and yet you did. You don't know why
-you stole, and yet you did! Alexander, come here. When I was a child,
-younger than you, I lost my parents, my family, my people. Everything I
-had was taken from me except my sense of honour. It was the one thing I
-had which was truly Klingon and which no one could take away. Do you
-know who they are? 
-(a statuette of two semi-naked klingon wrestlers) 
-ALEXANDER: Kahless? 
-WORF: And his brother, Morath. They fought for twelve days and twelve
-nights because Morath had broken his word and brought
-shame to his family. When you lie or steal, you not only dishonour
-yourself, but your family. You dishonour me. 
-ALEXANDER: I'm sorry, Father. I won't do it ever again. I promise. 
-WORF: I accept your word. We will not speak of this matter again.
+COMPUTER WORF ALEXANDER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
-TROI: Worf. 
-WORF: Counsellor? 
-TROI: I just wanted to know how the field trip went yesterday. 
-WORF: You have not heard? 
-TROI: No. Why?
+WORF: Computer, what programme is being run? 
+COMPUTER: Calisthenics programme of Lieutenant Worf. Difficulty level,
+Novice.
+
+[Holodeck]
+
+(Alexander is on the defensive for most of the time
+until he gets a lucky swing) 
+WORF: Computer, freeze programme. 
+ALEXANDER: Did you see it, Father? I won. 
+WORF: Yes, I saw. Why are you here? 
+ALEXANDER: I'm training. 
+WORF: But you did not ask permission to take my bat'leth, or permission
+to use the holodeck. 
+ALEXANDER: You said you wanted me to be a warrior. 
+WORF: I also said I wanted you to obey your teachers and keep your
+promise to me. Ms. Kyle has told me about your behaviour. About your
+lies. 
+ALEXANDER: I have not lied! 
+WORF: Alexander, do not continue to 
+ALEXANDER: She's lying! She hates me, that's why she makes up stories
+about me! 
+WORF: I will not listen to more lies. Return to our quarters. 
+ALEXANDER: You said we could go see the gilvos again. 
+WORF: Not now. Not after you have broken your word. 
+ALEXANDER: You promised. You said that we could. 
+WORF: Enough! It is now clear to me that I have failed in my duties as
+your father. You have no understanding about what it means to be
+Klingon. I will arrange for you to attend a Klingon school. There you
+will learn the lessons I have failed to teach you. 
+ALEXANDER: No! I won't go! 
+WORF: Would you further dishonour our family with your disobedience? 
+ALEXANDER: No, sir. 
+WORF: You will go to our quarters and remain there until I return.
 

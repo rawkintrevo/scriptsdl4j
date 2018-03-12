@@ -1,47 +1,44 @@
-Q AMANDA
+Q RIKER CRUSHER AMANDA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Medical lab]
 
-(a shadow darkens the wall) 
-Q [OC]: Your progress, Q? 
-Q: As anticipated, there are some problems. I need time. However, there
-is a possibility we won't have to terminate her.
+Q: Well, if it isn't Number Two. 
+RIKER: I was looking for Doctor Crusher. I didn't know what nutrients
+she wanted to send with the bacilli. 
+AMANDA: I'm not sure. I'll tell her to contact you. 
+RIKER: Thanks. 
+AMANDA: You could stay here and wait for her, if you, you know, wanted
+to. 
+RIKER: Just tell her I'll be in shuttlebay two. 
+(Riker leaves with a big grin) 
+Q: You're attracted to him. 
+AMANDA: I am not. 
+Q: I think you are. How repulsive. How do you stand that hair all over
+his face? 
+(Beverly enters) 
+AMANDA: Doctor, Commander Riker was just here looking for you. He said
+he'd be in Shuttlebay Two. 
+CRUSHER: Thank you. Have you finished already? 
+AMANDA: Yes. 
+CRUSHER: How did you do it so quickly? 
+AMANDA: Q helped me. It took us about half the time that it would have
+normally taken us. 
+CRUSHER: That explains this data. I needed to know the rates of
+mitosis. By artificially inflating them you made the experiment
+useless. Now I have to do it all over again. 
+AMANDA: I'm sorry, Doctor. 
+Q: Don't be sorry. If she wants to make things difficult on herself,
+that's her business. 
+CRUSHER: Why did you interfere with what she was doing? 
+Q: She's a Q. Making her plod through human chores is beneath her. 
+CRUSHER: She has asked not to be treated differently. 
+Q: That doesn't mean she should be bored to death. 
+CRUSHER: I don't interfere with what you're teaching her. 
+Q: You wouldn't be capable of interfering. 
+CRUSHER: I don't think it's too much to ask for you to do the same. 
+(Beverly is suddenly turned into a red setter dog. Amanda restores her
+to human)
+CRUSHER: And you stay out of mine. 
+Q: Well, when you put it like that, I think you're absolutely right.
 
-[Amanda's quarters]
-
-(Q starts to walk through her door, then thinks
-better of it and rings the doorbell) 
-AMANDA: Come in. 
-Q: Hello, my dear. I've been told I behaved badly. I apologise.
-Apparently you had every reason to chastise me. But, then again, what's
-done is done. Right? 
-AMANDA: I'd like to ask you some questions. 
-Q: Anything. 
-AMANDA: What exactly are the Q? 
-Q: It would be so much easier to show you than to tell you. If you
-would agree to take a short visit to the Continuum 
-AMANDA: No, just tell me. 
-Q: Well. to put it simply, we're omnipotent. There's nothing, nothing
-we can't do. 
-AMANDA: And what do you do with this power? 
-Q: Anything we want. 
-AMANDA: Do you use it to help others? 
-Q: I think you've missed the point, my dear. Clearly, you've spent far
-too much time with humans. As a Q, you can have your heart's desire,
-instantly, whatever that may be. Would you like precious jewels? Works
-of art? Would you like to walk along the rings of Tautine? 
-AMANDA: I'm not interested in any of those things. 
-Q: Of course not. You're a Q. But surely there must be something that
-you want? Something that you never dreamed was possible. Tell me,
-Amanda. What is it? 
-AMANDA: I'd like to know what my parents looked like. My real parents. 
-Q: How quaint. So do it. 
-AMANDA: What do you mean? 
-Q: Summon the image. 
-AMANDA: I don't know how. 
-Q: Think about them. Evoke the memory. You can do it, Amanda. Trust me.
-Close your eyes. Close your eyes. In your mind, return to the time when
-you were an infant. Think about your parents. Remember them. Good.
-Good. Now, open your eyes. 
-(there is a young couple with a baby sitting in front of her) 
-AMANDA: They loved me. 

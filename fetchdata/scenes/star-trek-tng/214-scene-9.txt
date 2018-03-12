@@ -1,37 +1,44 @@
-RIKER MACDUFF LAFORGE WORF PICARD RO
+TROI MACDUFF LAFORGE WORF PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Observation lounge]
 
-LAFORGE: I've accessed the optical data network for
-the engineering core. I can monitor every system that's routed through
-here. 
-RO: Warp and impulse drive are reading within tolerance levels. So are
-the tactical arrays, defensive and offensive. 
-LAFORGE: Everything looks functional. Now, if we could just access the
-control systems, we could get them up and running. 
-RIKER: According to the schematics, the engineering computer core
-access is down that corridor. 
-RO: Weapons, propulsion and shields are the priorities. We could be in
-danger of another attack. 
-LAFORGE: That's where I'll start. 
-RIKER: We'll begin our crew survey on decks five through ten. When you
-get those systems going, try to pull up the personnel files. It'd be
-nice if we all had names. Right. Good luck. 
-LAFORGE: Yeah. You too.
+LAFORGE: We haven't finished a full search of the
+computer records, but we have found out quite a bit. 
+DATA: This vessel is called the Enterprise. We are part of an
+organization called the United Federation of Planets. The
+Federation is currently in a state of war. 
+TROI: With whom? 
+LAFORGE: The Lysian Alliance. They're a genocidal race determined to
+destroy us. The war has been going on for years. 
+DATA: Starfleet Command believes the Lysians are using a new weapon
+which has shifted the balance of power to their favour. 
+LAFORGE: Over the last two months, fourteen Federation ships have been
+captured, apparently very easily, their crews held captive on Lysia. 
+PICARD: What do we know about this weapon? 
+DATA: Our scientists theorise the Lysians are using an energy wave,
+either plasma-based or a subspace interference pattern. The weapon
+severely disrupts a starship's computer system as well as the mental
+functions of its crew. 
+MACDUFF: That's what happened to us. 
+PICARD: Mister La Forge, do we have any record of our current mission? 
+LAFORGE: Yes, sir. (goes to wall screen) We're approximately here.
+We've been ordered to cross into Lysian territory and destroy their
+Central
+Command. This is it. The nerve centre for the entire Lysian military
+operation. 
+TROI: Captain, there's been a great deal of damage to our computer
+system. Maybe we're not getting the correct information. 
+PICARD: What are you saying? 
+TROI: That we get confirmation of this mission from our headquarters. 
+WORF: If we use subspace radio we will be detected. 
+TROI: There could be thousands of lives at stake. 
+LAFORGE: Our orders specifically require us to maintain radio silence. 
+DATA: Our mission is part of a highly coordinated effort to put an end
+to the war. There are other vessels on other fronts, all working
+according to an intricate plan. 
+LAFORGE: We're the lynchpin to the operation. If we don't destroy the
+Central Command, the entire effort will fail. 
+WORF: He's right, Captain. Our choice is clear. 
+PICARD: Commander MacDuff, set a course for the Lysian Central Command.
 
-[Ready room]
-
-(Picard and MacDuff report to Captain Worf) 
-PICARD: So far our survey team has found no deaths or injuries among
-the crew. Shuttlecraft are all operational, as are the transporters. 
-MACDUFF: But no one they've talked to knows any more about their
-identities than we do. 
-WORF: Engineering is working on accessing the control systems. As soon
-as the ship is operational, we must make it combat ready. 
-PICARD: Well, I would recommend that before we prepare for combat, we
-try to access the ship's logs, find out who we are, what our purpose
-here might be. 
-WORF: I disagree. We must first make ourselves ready for battle. That
-is the highest priority. 
-LAFORGE [OC]: Engineering to Bridge. 
-WORF: Go ahead. 

@@ -1,90 +1,67 @@
-HARO RIKER WORF PICARD WESLEY THOLL DATA
+GUEST3 PICARD TROI GUEST1 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Corridor]
 
-DATA: Commander, ship's sensors detect an abnormal
-energy reading in the Captain's quarters. 
-RIKER: Type? 
-DATA: Undetermined. 
-RIKER: Riker to Captain Picard. 
-WORF: Security team to Captain's quarters.
-
-[Holding cell]
-
-(Picard wakes up in a hexagonal room with a thing
-in the middle. There are a total of four beds, two more of which are
-occupied) 
-PICARD: Picard to Enterprise. Anyone receiving this transmission,
-please respond.
-
-[Outside Picard's quarters]
-
-WORF: Security override. Priority one. 
-(The door opens to reveal - Picard holding his book and a glass of
-brandy) 
-PICARD 2: Is something the matter, Lieutenant?
+PICARD 2: Counsellor, I wanted to ask you about the
+crew. How are they reacting to our sudden change in course? 
+TROI: I sense no unusual reaction, Captain. After all, such a change is
+hardly out of the ordinary. 
+PICARD 2: They're not curious or concerned as to why? 
+TROI: They're curious, yes. But concerned? No, they trust you. 
+PICARD 2: How far do you think that trust goes? 
+TROI: Sir? 
+PICARD 2: I know, Counsellor, that the crew has always had full
+confidence in me. But what if it were to change? 
+TROI: Well, I'd inform you, sir, of course. 
+PICARD 2: Thank you, Counsellor.
 
 [Holding cell]
 
-(One of the other bed occupants is also in a
-Starfleet engineering uniform. she is a green-tinged alien) 
-PICARD: It's all right, it's al right. I'm not going to hurt you. 
-HARO: Captain. 
-PICARD: Picard, of the Enterprise. 
-HARO: Captain Picard. We studied your missions at the Academy Mitena
-Haro, first year cadet, Starfleet Academy. 
-PICARD: Cadet Haro. 
-THOLL: Perhaps you can explain what this is all about. 
-(A tall, white-skinned alien wearing a hood) 
-PICARD: Unfortunately, I can't, Mister 
-THOLL: Tholl. Kova Tholl, of Mizar Two. 
-PICARD: Well, Mister Tholl, all I know is that I've been brought here
-against my will. Wherever here is. 
-HARO: The same thing happened to me, sir. I was alone, studying and I
-fainted. When I came to, it was about three days ago. 
-PICARD: And you, sir? 
-THOLL: I've been here twelve days, possibly more. I had been meditating
-privately and for no reason whatever, I lost
-consciousness. 
-PICARD: What can you tell me about our captors? 
-THOLL: Nothing. They've never shown themselves. 
-PICARD: Four sleeping areas. That implies we may be joined by another
-captive. 
-(He goes to the central thing, which dispenses red roundels) 
-THOLL: It's edible, but I wouldn't call it food. 
-(Picard takes a tentative bite and puts it down, then goes to the panel
-by the door) 
-THOLL: I wouldn't touch that. 
-PICARD: Why not? 
-THOLL: If it's the door lock, the combination's too complex to hit at
-random. I tried it and was punished. 
-PICARD: Punished? How? 
-THOLL: Severe pain. Some sort of energy beam. I won't get near that
-panel again. 
-[Bridge]
+GUEST1: My given name is Esoqq. It means fighter. 
+GUEST2: I'll bet half the names in the Chalnoth language mean fighter. 
+GUEST1: Mizarians. Your names all mean surrender. 
+GUEST2: We are a peaceful race, a race of thinkers. 
+GUEST1: A race of cowards. And you? I don't know your people. 
+GUEST3: I am Mitena Haro, of Bolarus Nine. 
+GUEST1: Who would want to imprison a child? 
+GUEST3: I'm not a child. 
+PICARD: Esoqq, I've been trying to determine if we have a common enemy.
+Someone with a reason for confining us here. 
+GUEST1: There are Chalnoth who would kill me if they could. But kidnap?
+There is no reason. 
+PICARD: You have many enemies? 
+GUEST1: None of consequence. I've slain all the ones who mattered. That
+shocks you, Bolian? 
+GUEST3: A little. 
+GUEST1: And you? 
+GUEST2: I'm not surprised. I've heard about your race. You're
+uncivilised. You have no laws, no system of government 
+GUEST1: The Chalnoth have no use for laws or governments! We are strong.
+We obey no one. 
+GUEST2: You live in anarchy, murdering one another, That mentality may
+get us all killed. 
+GUEST1: And you may be the first. 
+PICARD: Both of you. This is getting us nowhere. 
+GUEST2: Neither is asking us useless questions, Picard. But, if you must
+pursue the topic, How long have you and the Romulans been adversaries? 
+PICARD: For quite a while, Mister Tholl. I am perfectly willing to
+entertain the hypothesis that our captors are Romulans.
+But what would the Romulans want with you? 
+GUEST2: My brainpower, perhaps. It's well known that my species
+possesses superior intelligence and I am considered among the brightest
+of my people. 
+GUEST3: And the least modest. 
+GUEST1: What is this? 
+PICARD: Food. 
+GUEST1: The only food? 
+PICARD: It would seem so. 
+GUEST1: Poison! 
+GUEST2: Does this mean there's nothing here for you to eat? 
+GUEST1: You. 
+GUEST2: Don't even think that! Picard, you won't let him 
+PICARD: Esoqq, how long can you go without food? 
+GUEST1: Three days. Perhaps four. 
+PICARD: No longer? 
+GUEST1: No longer.
 
-WORF: Sir, the Hood has arrived at the rendezvous
-point. They are expecting us in thirty six hours. 
-PICARD 2: Thank you, Lieutenant. Mister Data, the nearest pulsar is in
-the Lonka cluster, is it not? 
-DATA: Correct, sir. 
-PICARD 2: What do we know about that pulsar? 
-DATA: A great deal, sir. It is a rotating neutron star of approximately
-four point three five six solar masses. 
-PICARD 2: Mister Crusher, how long would it take us to get there? 
-WESLEY: At warp seven, thirty four minutes. 
-PICARD 2: Mister Crusher make it so. 
-WESLEY: Sir? 
-PICARD 2: Set course for the Lonka pulsar. Warp two. 
-WESLEY: Aye, sir. Sir, at warp two we'll arrive at the pulsar in thirty
-one hours. 
-PICARD 2: Thank you, Ensign. Engage. 
-WESLEY: Aye, sir. 
-RIKER: Will we be delaying our rendezvous with the Hood, sir? 
-PICARD 2: We may have to, Number One. 
-RIKER: Lieutenant, contact the Hood and inform them of our delay. 
-WORF: Aye, Commander. 
-PICARD 2: Belay that order. There will be no further communication off
-this ship without my prior authorisation. Commander, may I have a word
-with you? Mister Data, you have the bridge. 
-DATA: Aye, sir. 

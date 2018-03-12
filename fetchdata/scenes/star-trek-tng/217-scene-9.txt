@@ -1,57 +1,5 @@
-PICARD RIKER SOREN LAFORGE
-
-[Shuttlecraft]
-
-RIKER: The portable transporter array is in. When
-we get into null space, we'll need to initialise it before we can
-transport the J'naii crew to this shuttle. But there should still be
-enough power left to beam all of us back to the Enterprise. 
-SOREN: Is the buffer field generator installed? 
-RIKER: Not yet. Geordi thinks that'll be ready by oh eight hundred
-hours tomorrow. But before that, we should see if we can balance this
-engine. Can you access the starboard manifold thrust? 
-(Soren crawls under the control panel) 
-SOREN: There. 
-RIKER: Set the arc at six point three. I'll optimise the plasma flow. 
-SOREN: Commander, I'd like to tell you something. Something that's not
-easy to say. 
-RIKER: What's that? 
-SOREN: I find you attractive. I'm taking a terrible risk telling you
-that. It means revealing something to you, something that, if it were
-known on my planet, would be very dangerous for me. Occasionally, among
-my people, there are a few who are born different, who are throwbacks
-from the era when we all had gender. Some have strong inclinations to
-maleness, and some have urges to be female. I am one of the latter. 
-RIKER: I have to admit I had a feeling you were different. 
-SOREN: I was hoping you would. But in front of Krite and the others, I
-must be careful not to reveal myself. 
-RIKER: Why? 
-SOREN: On our world these feelings are forbidden. Those who are
-discovered are shamed and ridiculed, and only by undergoing
-psychotectic therapy and having all elements of gender eliminated can
-they become accepted into society again. Those of us who have these
-urges live secret and guarded lives. We seek each other out, always
-hiding, always terrified of being discovered. 
-RIKER: How long have you known that you were like this? 
-SOREN: I've known I was different all my life. But I didn't understand
-how or why until I was older. 
-RIKER: And when you realised, what then? 
-SOREN: I remember when I was very young, before I knew what I was,
-there was a rumour in my school that one of the students preferred a
-gender, in that case, male. The children started making fun of him, and
-every day they were more cruel They could tell he was afraid and
-somehow that seemed to encourage them. One morning in class, he
-appeared, bleeding and in ripped clothes. He said he had fallen down.
-And of course the school authorities found out and took him away, and
-gave him psychotectic treatments. When he came back, he stood in front
-of the whole school and told us how happy he was now that he had been
-cured. After that, I realised how dangerous it was to be different. And
-once I got older, and knew what I was, I was terrified. I have had to
-live with that fear ever since. 
-RIKER: Do you have relationships with others? 
-SOREN: Yes, with those who have discovered they are male. I have had to
-live a life of pretence and lies, but with you I can be honest. Please,
-don't say anything. Just think about it.
+PICARD RIKER SOREN LAFORGE DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Shuttlebay]
 
@@ -73,4 +21,13 @@ LAFORGE: I'll notify Doctor Crusher to be standing by.
 LAFORGE: La Forge to Bridge. 
 PICARD [OC]: Picard here. 
 LAFORGE: We're ready to initiate shuttle pre-launch sequence.
+
+[Bridge]
+
+PICARD: Proceed, Mister Data. 
+DATA: Initiating pre-launch sequence. 
+RIKER [OC]: Request flight clearance. 
+DATA: Clearance is granted. The shuttle is under way, sir. 
+PICARD: Good hunting, Commander. 
+RIKER [OC]: Thank you, sir. See you for dinner.
 

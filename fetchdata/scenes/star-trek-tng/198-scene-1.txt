@@ -1,32 +1,47 @@
-KELL PICARD RIKER
+COMPUTER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Shuttlecraft]
 
-KELL: There was a time when the Empire would crush
-a rebellion. Now it is tolerated. We have enough problems on the
-home planet. We don't wish to divert resources to such a trivial war. 
-PICARD: You're prepared to grant them independence? 
-KELL: Perhaps. We'll conquer them again later, if we wish. 
-PICARD: May I ask, Ambassador, what has this to do with us? 
-KELL: The Governor of Krios has charged that the Federation is secretly
-aiding the rebels. 
-RIKER: Does he have evidence? 
-KELL: The Council has sent me here to examine that evidence. It was my
-decision to invite you to accompany me, Captain. Many on the Council
-have great respect for you. 
-PICARD: K'adlo. I have been pleased to offer occasional assistance to
-the Klingon people in the past. 
-KELL: Your modesty is very human, Captain. I will excuse it. 
-PICARD: I can assure you, Ambassador, the Federation would never
-interfere in the internal affairs of the Empire. 
-KELL: Let us hope not. Such interference would strike at the very basis
-of our alliance. 
-RIKER: Captain, we are in the war zone. 
-PICARD: Indeed. Ambassador, I will ask our Chief Security officer,
-Lieutenant Worf, to make a report 
-KELL: Captain, Worf's discommendation makes that very awkward. If I
-could work with one of the other security officers 
-PICARD: Lieutenant Worf is my Chief of Security and my tactical
-officer. This matter clearly falls within his jurisdiction. 
-KELL: As you wish.
+(Geordi has his feet up, sipping a long drink) 
+LAFORGE: How about some different music, Computer. Something with a
+Latin beat. No, I meant something with a gentle Latin beat. Maybe a
+Spanish guitar. Perfect. Hey, what's the weather like on Risa? 
+COMPUTER: Risa is climate-controlled for optimum tourist comfort, 
+LAFORGE: Is that right? How long before we get there? 
+COMPUTER: Arrival at Risa is scheduled for oh nine thirty two hours. 
+LAFORGE: Three hours. How about a game, computer? 
+COMPUTER: Please restate request. 
+LAFORGE: Something to pass the time, you know, a diversion. 
+COMPUTER: Select either visual interactive or verbal interactive. 
+LAFORGE: Verbal. 
+COMPUTER: You have twenty seconds to respond to each question. Level of
+difficulty will increase as you progress. Proceed when ready. 
+LAFORGE: Begin. 
+COMPUTER: List the resonances of the subquantum states associated with
+transitional relativity. 
+LAFORGE: That's easy. 
+COMPUTER: In alphabetical order. 
+LAFORGE: Er, well, asymmetrical, inverted, phased, stable. 
+COMPUTER: Your time has expired. 
+COMPUTER: The fifth resonance is 
+LAFORGE + COMPUTER: Universal 
+LAFORGE: I knew that. Okay, give me another one. 
+COMPUTER: List the field patterns associated with warp modulation in
+order of decreasing energy. 
+(behind him, through the forward window, something green and mean
+uncloaks) 
+LAFORGE: Oh, there's the aft nacelle associative, the forward (sees the
+ship) Whoa! Computer, sequence zero one zero. Maximum power to the
+shields. Kill the music. Enterprise, this is shuttle seven. I've
+encountered a Romulan Warbird. Coordinates at three
+(comm. failure buzz) 
+COMPUTER: Warning. Shield failure. 
+LAFORGE: Damn. Risa Control. Anybody. 
+(then Geordi gets beamed away)
+
+Captain's log, stardate 44891.6. The Enterprise has
+been ordered to accompany a special emissary from the Klingon High
+Council to the Kriosian System, where one of their colonies is fighting
+for independence.
 

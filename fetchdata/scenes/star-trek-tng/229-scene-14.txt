@@ -1,42 +1,32 @@
-TROI ENSIGN ALKAR CREWMAN RIKER
+PICARD OGAWA CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Alkar's quarters]
+[Sickbay]
 
-ALKAR: Deanna.
-TROI: Hello.
-ALKAR: Come in, please.
-TROI: I thought you might like some company, if you're not too busy.
-ALKAR: Nothing that can't wait. Would you like something to drink?
-TROI: No. I'd like you to talk to me.
-ALKAR: About?
-TROI: About you. I don't know anything about you. And I'd like to.
-ALKAR: There's not much to know. I lead a very simple life.
-TROI: What kind of woman do you find attractive? Do you find me
-attractive?
-ALKAR: Extremely.
-TROI: And when you find someone attractive, what do you usually do?
-ALKAR: That depends on a lot of things.
-TROI: Is it really so complicated?
-ALKAR: It can be.
-TROI: Well, perhaps you over think things.
-(she's getting very seductive) 
-ALKAR: Deanna.
-TROI: Yes? 
-ALKAR: I'm sorry. If I led you to believe? You are very beautiful, but
-our relationship can't be like that.
-
-[Turbolift]
-
-(spurned and angry, Troi paces the lift. A tall
-young man enters) 
-ENSIGN: Deck four. 
-(Troi looks at him with hungry eyes)
-
-[Corridor]
-
-CREWMAN: Sir. 
-(Riker gets to Deanna's door. She's not in uniform) 
-TROI: Will. 
-RIKER: We were supposed to finish the crew evaluation reports.
-TROI: Of course. Come in.
+(Troi is writhing in a restraining forcefield) 
+CRUSHER: We'll have to sedate her. Twenty cc's of melorazine.
+OGAWA: Yes, Doctor.
+CRUSHER: How's it feeling?
+PICARD: It's a little stiff, but it'll be fine.
+CRUSHER: It'll disappear in a day or two.
+OGAWA: Doctor Crusher? I think you should see these readings, Doctor.
+Her neurotransmitter levels are three hundred percent above normal.
+CRUSHER: If you remember, I found extremely high levels of
+neurotransmitter residue in Alkar's mother.
+PICARD: Could Deanna have picked up some kind of disease from her?
+CRUSHER: I don't know. I need to do that autopsy. I don't care about
+the customs of Alkar's people. I need to find out if there's a
+connection between what killed Maylor and what's happening to Troi.
+PICARD: Picard to Lieutenant Worf.
+WORF [OC]: Worf here, Captain.
+PICARD: Mister Worf, contact Ambassador Alkar. I need to speak with
+him. 
+OGAWA: Doctor, neural energy is now three hundred forty percent above
+normal. 
+WORF [OC]: Captain, Ambassador Alkar is at the negotiation table and
+cannot be disturbed.
+PICARD: Proceed with the autopsy. 
+Medical log, stardate 46075.1. I have performed an
+autopsy on Alkar's mother, but instead of answering our questions, the
+results have created an even deeper mystery.
 

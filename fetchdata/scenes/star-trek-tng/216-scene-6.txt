@@ -1,49 +1,5 @@
-PICARD RIKER CRUSHER DATA RUSSELL
-
-[Medical lab]
-
-CRUSHER: The cortical spinal tract has continued to
-deteriorate over the last seventy two hours despite CPK enzymatic
-therapy. 
-RUSSELL: What about alkysine treatment? 
-CRUSHER: Ineffective. 
-RUSSELL: Overdesigned. Klingon anatomy. Twenty three ribs, two livers,
-eight-chambered heart, double-lined neural pia mater. I've never seen
-so many unnecessary redundancies in one body. 
-CRUSHER: Unnecessary? The Klingons refer to it as the brak'lul. Almost
-every vital function in their bodies has a built-in redundancy in case
-any primary organ or system fails. 
-RUSSELL: It's a good design in theory, but in practice, all the extra
-organs means just that much more that can go wrong. Let me show you
-something. I've been experimenting with DNA based generators. This is a
-genetronic replicator. It reads the DNA coding of damaged organs,
-translates that into a specific set of replicant instructions and then
-begins to grow a replacement. 
-CRUSHER: I've read of some of the preliminary work you've done. 
-RUSSELL: The early results have been very encouraging. Beverly, the
-genetronic replicator can create a completely new neural conduit for
-your Lieutenant Worf. 
-CRUSHER: Replace his entire spinal column? 
-RUSSELL: Exactly. Instead of splicing and pasting together broken
-connections like a couple of glorified tailors, we create a new living
-system. 
-CRUSHER: I had no idea you were already using this on humanoids. 
-RUSSELL: I haven't been. This'll be the first time. 
-CRUSHER: First time? 
-RUSSELL: I've done dozens of holosimulations. The success rate is up to
-thirty seven percent. 
-CRUSHER: Even a holographic patient would balk at those odds. 
-RUSSELL: Sooner or later, it has to be tried on a living patient. 
-CRUSHER: You're talking about a spinal column. Even before we could
-replace it, we have to remove the existing one, and we don't know
-enough about Klingon neurological medicine to re-attach it. If
-something goes wrong, he'll die. I agree it has remarkable potential,
-but you're still in the most preliminary stages of research. No, I'm
-afraid I can't justify the risk to Worf. We'll have to do with more
-conventional approaches. 
-RUSSELL: You're probably right. It's too radical an approach. 
-PICARD [OC]: Doctor Crusher, please report to the Bridge. 
-CRUSHER: On my way.
+PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -64,4 +20,34 @@ PICARD: Make it so.
 RIKER: Captain, may I speak with you in private? 
 PICARD: Of course, Number One. You have the Bridge, Mister Data. 
 DATA: Aye, sir.
+
+[Ready room]
+
+RIKER: I have always tried to keep an open mind,
+not to judge someone else's culture by my own, but for me to be a part
+of this ceremony. 
+PICARD: I understand from Doctor Crusher that Worf will never regain
+the use of his legs. 
+RIKER: That doesn't mean his life is over. 
+PICARD: That's a very human perspective, Will. For a Klingon in Worf's
+position, his life is over. 
+RIKER: I can't accept that. 
+PICARD: Will, if you were dying, if you were terminally ill with an
+incurable disease and facing the remaining few days of your life in
+pain, wouldn't you come to look on death as a release? 
+RIKER: Worf isn't dying and he is not in pain. He could live a long
+life 
+PICARD: You or I could learn to live with that disability, but not
+Worf. His life ended when those containers fell on him. We don't have
+to agree with it, we don't have to understand it, but we do have to
+respect his beliefs. 
+RIKER: I can respect his beliefs, but he is asking me to take an active
+role in his committing suicide. 
+PICARD: He's asking for your help because you're his friend. That means
+that you're going to have to make your decision based on that
+friendship. 
+RIKER: Which leaves me back where I started. 
+PICARD: Will. Look, I'm sorry, I cannot help you to make this decision,
+but I can tell you this. Klingons choose their friends with great care.
+If he didn't know he could count on you, he never would have asked.
 

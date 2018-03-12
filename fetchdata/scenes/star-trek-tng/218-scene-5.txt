@@ -1,87 +1,49 @@
-TROI CRUSHER LAFORGE WORF PICARD RIKER RO DATA
+RIKER LAFORGE WORF OGAWA CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Someone's quarters]
 
-LAFORGE: As you can see, the Typhon Expanse is
-huge. If we want to chart the most remote star system, we'll have to
-launch a probe within the next few hours. 
-RIKER: Fine. What about the luminosity studies? 
-LAFORGE: That may pose a problem. 
-PICARD: How so? 
-LAFORGE: The flux spectrometers are still down for re-alignment. 
-RIKER: I thought they were supposed to be back online yesterday. 
-LAFORGE: They were, until the stellar dynamics lab decided they needed
-to install new modules. 
-DATA: I recommend we use a gravitron polarimeter. It will perform a
-similar function. 
-PICARD: Make it so, Mister Data. 
-CRUSHER: Captain, I have something I'd like to report. 
-PICARD: Yes, Doctor? 
-CRUSHER: I heard voices in my room last night. I was alone, so at first
-I thought I was imagining things. But this morning, ten other people
-reported hearing them at the same time I did. 
-TROI: What were the voices saying? 
-CRUSHER: I couldn't make them out. 
-RIKER: Data, did the sensors pick up anything unusual last night? 
-DATA: No anomalous readings were reported. 
-RIKER: When we're through here, re-check the sensor logs. 
-DATA: Aye, sir. 
-PICARD: Counsellor? 
-TROI: I sensed nothing unusual last night. 
-LAFORGE: Maybe it's a problem with the comm. system. 
-WORF [OC]: Bridge to Captain Picard. 
-PICARD: Go ahead. 
-WORF [OC]: We are getting unusual readings twenty thousand kilometres
-off the starboard bow. 
-PICARD: On our way. 
-[Bridge]
+RIKER: Sometimes I wonder if he's stacking the
+deck. 
+DATA: I assure you, Commander, the cards have been sufficiently
+randomised. 
+WORF: I hope so. 
+DATA: Eight. Ace. Queen. The dealer receives a four. 
+WORF: No bet. 
+DATA: Ten. Seven. No help there. A pair of ladies for the Doctor.
+Dealer receives a nine. Doctor? May I remind you since you show the
+highest hand, you control the next bet. 
+WORF: Is there something wrong, Doctor? 
+CRUSHER: No. I bet ten. 
+DATA: Jack. Four. Deuce. Six. 
+CRUSHER: Twenty. 
+RIKER: Your twenty and I'll raise you fifty. You're going to call my
+bluff, aren't you. I think I'll quit while I'm ahead. 
+CRUSHER: How did you know I was going to call your bluff? 
+RIKER: I just had a feeling. 
+CRUSHER: Me too. 
+OGAWA [OC]: Ogawa to Doctor Crusher. 
+CRUSHER: Go ahead. 
+OGAWA [OC]: Commander La Forge needs you in Sickbay. 
+CRUSHER: On my way.
 
-PICARD: Report. 
-RO: Sensors didn't detect the phenomenon until we were almost on top of
-it, sir. 
-WORF: It is a highly localised distortion of the space-time continuum. 
-RIKER: On screen. 
-(a blue weird thing) 
-PICARD: Back us off, Ensign. Nice and slow. 
-RO: Aye sir. Captain, manoeuvring thrusters are not responding. 
-DATA: The distortion field is fluctuating. 
-LAFORGE: All main systems just went down. Power levels are dropping
-rapidly. 
-RIKER: Red alert. 
-DATA: There is an energy build up in the distortion field. 
-TROI: We have to get out of here now. 
-DATA: Captain, something is emerging. 
-(it's a smaller starship) 
-RIKER: Shields up. Evasive manoeuvres. 
-WORF: Shields inoperative. 
-RO: The helm's not responding. 
-DATA: The vessel is on a collision course. Impact in thirty six
-seconds. 
-PICARD: Hail them. 
-WORF: No response. 
-PICARD: Suggestions? 
-RIKER: Decompress main shuttlebay. The explosive reaction may kick us
-out of the way. 
-DATA: Captain, I suggest we use the tractor beam to alter the other
-ship's trajectory. 
-PICARD: Mister Worf, make it so. 
-WORF: Engaging tractor beam. 
-(but the NCC 1841 clips the nacelle anyway) 
-RIKER: Damage report! 
-CRUSHER: Casualty reports coming in from all over the ship. 
-DATA: Starboard nacelle sustained a direct impact. Venting drive
-plasma. 
-LAFORGE: Initiating emergency core shutdown. 
-RO: Inertial dampers failing. We're losing attitude control. 
-RIKER: This is the Bridge. All hands to emergency escape pods. 
-DATA: Core shutdown was unsuccessful. We are losing antimatter
-containment. 
-LAFORGE: We've got to eject the engine core! 
-DATA: Ejection systems are offline. Core breach is imminent. 
-PICARD: All hands, abandon ship! Repeat, all hands abandon 
-(KaBOOM!!!!)
+[Sickbay]
 
-Captain's log, stardate 45652.1. The Enterprise has
-entered an area of space known as the Typhon Expanse. We are the first
-Starfleet vessel to chart this unexplored region.
+LAFORGE: At first I thought the catwalk was
+spinning. As it turns out, it was me. I was lucky Ensign Fletcher was
+there to grab me. It's a long way down to the bottom of the warp core. 
+CRUSHER: You have all the symptoms of an inner ear infection. That
+would explain your the headaches and the dizziness. But there's no
+physical 
+LAFORGE: What? What is it? 
+CRUSHER: Geordi, have you ever had these symptoms before? 
+LAFORGE: Now that you mention it, I think I have. 
+CRUSHER: Do you recall when? 
+LAFORGE: No, I don't. 
+CRUSHER: We've had this discussion before and I know I've given you
+this examination. Let's check the medical logs. You've been treated
+several times for headaches related to your visor, but I read no
+mention of dizziness. 
+LAFORGE: Must be dj vu. 
+CRUSHER: Both of us? About the same thing?
 

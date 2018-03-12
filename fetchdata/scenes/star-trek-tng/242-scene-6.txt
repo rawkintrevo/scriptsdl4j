@@ -1,46 +1,45 @@
-RIKER SHREK WORF
+GUEST0 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Replimat]
+[Corridor]
 
-(a very wrinkled alien with the voice of the modern
-Zephram Cochrane approaches Worf while he is still eating the dodgy
-pasta) 
-SHREK: Klingon. You are Starfleet Klingon. 
-WORF: I am Lieutenant Worf. 
-SHREK: Worf. Son of Mogh. 
-WORF: What of it? 
-SHREK: I am Jaglom Shrek, a man with information to sell. 
-WORF: You have no information I could use. 
-SHREK: I would not be so sure. It is about your father, Mogh. 
-WORF: My father died twenty five years ago at Khitomer. 
-SHREK: That is what you believe. What if I tell you he is still alive? 
-[Somewhere dark and private]
+(Data is having a vision. He follows the sound of
+metal on metal to discover a young Noonian Soong pounding on an anvil
+with a hammer.)
 
-WORF: My father is dead. 
-SHREK: No, he's not. I know where he is. 
-WORF: How is that possible? 
-SHREK: I expect to be paid for my information. Perhaps we could
-negotiate an exchange. The location of your father, for 
-WORF: Tell me what you know. 
-SHREK: Not all of the Klingons at Khitomer were killed during the
-massacre. Many were captured by the Romulans and placed in a prison
-camp on a remote planet. Your father was among them. 
-WORF: Where is this planet? 
-SHREK: Not far from here. I could give you the location, for a price. 
-WORF: A Klingon would rather die than be taken prisoner. I should kill
-you for spreading lies about my family. My father was killed defending
-Khitomer.
+[Engineering]
 
-[Bridge]
-
-WORF: Ensign Lopez. This duty roster is
-unacceptable. The assignments should be listed in order of priority.
-Prepare it
-again. I will expect it no later than oh nine hundred hours. Dismissed.
-
-RIKER: Worf, we need to get your rendezvous schedule to Commander
-Rudman on board the Merrimac as soon as you 
-WORF: I am well aware of your request, Commander. 
-RIKER: Lieutenant, are you all right? 
-WORF: Yes, sir. I am fine. I will send your schedule, sir. Excuse me.
+(Geordi is doing something to the inside of Data's
+head when he wakes up) 
+GUEST0: Data, are you all right? 
+DATA: I believe so. What has happened? 
+LAFORGE: A plasma shock overloaded your positronic net. You were down a
+good thirty seconds. 
+DATA: That cannot be possible. I have a memory record for that period
+of time. I can recall a series of images. I saw Doctor Soong. My
+father. 
+(after the adverts, tests are continuing) 
+LAFORGE: Data, I can't find anything wrong with your positronic
+subprocessors or your circuit controllers. No sign of any residual
+energy fluctuation, cascade overload. 
+DATA: My internal diagnostic indicates that my memory systems are
+functioning within normal parameters. For the forty seven seconds that
+I was inactive, there is no record of cognitive activity. 
+LAFORGE: There's no doubt about it, Data. You were completely shut
+down. Maybe you had some kind of random power fluctuation, caused you
+to access one of your memory files. 
+DATA: That cannot be. The image I saw was of Doctor Soong as a young
+man. I did not encounter him until much later in his life. There
+appears to be no rational explanation for my experience. 
+LAFORGE: I'll take another look at the diagnostic log. In the meantime,
+you'd better disconnect that device. 
+GUEST0: Data, perhaps we're going about this the wrong way. 
+DATA: How so? 
+GUEST0: Well, maybe you had a dream or a hallucination. 
+DATA: I am not capable of either of those functions. 
+GUEST0: Yet you can't account for what happened today, can you? 
+DATA: At present, I cannot. 
+GUEST0: Well maybe you should approach this from a more human
+standpoint. You're right that machines can't have hallucinations, but
+then again, most machines can't grow hair.
 

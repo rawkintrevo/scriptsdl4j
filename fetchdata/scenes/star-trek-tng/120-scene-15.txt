@@ -1,59 +1,81 @@
-PICARD RIKER DATA LAFORGE
+KORRIS PICARD WORF TASHA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Oh, yes, of course, Number One. Proceed. 
-[Batris Corridor]
+PICARD: This is a futile effort. 
+[Engineering]
 
-RIKER: Let's go. 
-(As they move on, a conduit falls. This ship is ready to fall apart) 
-DATA: I am detecting high levels of deuterium gas, probably from the
-leakage in the drive system. 
-RIKER: Toxic? 
-DATA: Not as yet, sir. The life signs are emanating from the far side
-of Engineering. 
-RIKER: What's the safest way around? 
-DATA: All routes are equally dangerous, sir. 
-LAFORGE: Well, what's the least dangerous route, Data? 
-DATA: There is no significant difference. 
-RIKER: Steady on. 
-LAFORGE: Commander Riker! Commander. 
-RIKER: Yes, Geordi. 
-LAFORGE: There's a fissure developing in the bulkhead. The skin of the
-ship is losing its integrity. 
-RIKER: Where is it? I can't see it. 
-LAFORGE: Right there.
-
+PICARD [OC]: You cannot win. 
+KORRIS: I will speak only to my countryman! 
 [Bridge]
 
-PICARD: Geordi, step closer. It looks to me like a
-spectrograph indicating metal fatigue. 
-[Batris Corridor]
+KORRIS [OC]: Only to Worf! 
+[Engineering]
 
-PICARD [OC]: Is that how you interpret it? 
-LAFORGE: Very good, Captain. Exactly right. 
-RIKER: How long before this hull ruptures? 
-LAFORGE: It's impossible to be exact. I'd say five minutes. Probably
-less. 
-RIKER: Let's go.
-
+TASHA: Captain, he has a phaser aimed directly at
+the dilithium crystal chamber. 
 [Bridge]
 
-PICARD: Geordi, we've lost transmission. 
-[Batris Engineering]
+TASHA [OC]: At that range, one blast and 
+PICARD: I understand, Lieutenant. 
+WORF: Captain, permission to leave the Bridge. 
+PICARD: We'll both go.
 
-(As well as debris, there is a bright light source)
+[Engineering]
 
-LAFORGE: Signal overload. I'm surprised it lasted this long. 
-RIKER: We've reached the core, Captain. 
-DATA: The life signs are very strong now, sir. They are coming from
-over there. 
-RIKER: Is there any other way around? 
-DATA: Negative. This is the only way. The safest way to proceed is for
-me to cross alone. The heat and toxic gases have less effect on me. 
-RIKER: Agreed. Captain, Data's gone ahead. 
-[Bridge]
-
-RIKER [OC]: The life signs seem to be coming from
-the far side of Engineering.
-
+PICARD: What's the situation? 
+TASHA: He's on the second level armed with a phaser. We do not have a
+clear field of fire. 
+PICARD: How do you suggest we proceed? 
+TASHA: Wait him out. 
+WORF: Captain, let me talk to him. 
+TASHA: I do not think that's a good idea, Worf. Right now he's running
+on adrenalin. Let it cool. There's no where he can go. 
+WORF: He will wait only as long as he believes it is to his advantage.
+The moment it is not, he will fire his phaser into the dilithium
+crystal chamber. 
+TASHA: That would destroy the Enterprise and him along with it. 
+WORF: Yes. He knows. 
+PICARD: Talk to him, Worf. 
+(Worf goes to under where Korris is standing) 
+KORRIS: Brother, I knew you would come. (Worf climbs the ladder) Now I,
+we have a chance. I could not do it alone, but I would rather die here,
+than let the traitors of Kling pick the meat from my bones. With you it
+will work. 
+WORF: What will work? 
+KORRIS: I will demand Captain Picard give us access to the battle
+bridge. We will separate from the rest of the ship, then together we
+will light up the galaxy. Imagine the fear which will roll before us. 
+WORF: Captain Picard will not comply. 
+KORRIS: He can not, dare not refuse us. In order to save themselves,
+they will give us what we demand. Then, brother, we are free. 
+WORF: Put down the phaser. 
+KORRIS: Wait. I do not believe this. 
+WORF: Believe it. 
+KORRIS: I have tasted your heart. You have been with them, but you are
+still of us. Do not deny the challenge of your destiny. Get off your
+knees and soar. Open your eyes and let the dream take flight. 
+WORF: My brother, it is you who does not see. You look for battles in
+the wrong place. The test of the warrior is not without, it is within.
+Here, here we meet the challenge. It is the weaknesses in here a
+warrior must overcome. 
+KORRIS: No. 
+WORF: You have talked of glory and of conquest and legends we will
+write. 
+KORRIS: Yes, the birthright of every Klingon. 
+WORF: Yet in all you say, where are the words duty, honour, loyalty.
+Without which a warrior is nothing. 
+KORRIS: What are you saying? Living among these humans has sucked the
+Klingon heart out of you. 
+WORF: Put down the phaser. 
+KORRIS: You are a sham! My words were dust upon the ground. Your blood
+has no fire.
+You are weak like them. I don't care what you look like you are no
+Klingon. 
+WORF: Perhaps not. 
+(And he shoots Korris, who falls through a glass screen to the floor
+below) 
+PICARD: Wait. 
+(Worf goes down the ladder, turns Korris over, and does the death
+ritual for him) 

@@ -1,63 +1,53 @@
-RIKER LAFORGE CREWMAN MOT WORF ENGINEER
+RIKER LAFORGE CREWMAN PICARD MEDIC COMPUTER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cargo bay]
+[Sickbay]
 
-ENGINEER: Is there something wrong, sir?
-
-[Corridor]
-
-LAFORGE: And there's no evidence of an EPS
-explosion. 
-RIKER: Sensors seemed to think there was. 
-LAFORGE: I think my modification to the sensor array may have caused a
-pattern recognition failure. 
-RIKER: Just a sensor glitch? 
-LAFORGE: That's my guess. 
-RIKER: Let's perform a level three diagnostic on the internal sensor
-network and make sure that we haven't overlooked anything. 
-LAFORGE: Aye, sir. 
-RIKER: Could we pick this up in the morning, Geordi? Get a fresh start?
-Would you do me a favour? Stop by my quarters, oh seven hundred hours.
-I'm having trouble waking up. 
-LAFORGE: Sure, Commander. Goodnight. 
-RIKER: Goodnight.
-
-[Riker's quarters]
-
-(Riker drinks his prescription toddy, and lies
-down) 
-[Corridor]
-
-CREWMAN: Commander. 
-LAFORGE: Gordon. 
-(Geordi rings a doorbell)
-
-[Riker's quarters]
-
-RIKER: Who is it? 
-LAFORGE [OC]: It's La Forge. 
-RIKER: Come in. LAFORGE: Good morning. 
-RIKER: Morning? I just went to bed. 
-LAFORGE: Commander, it's oh seven hundred hours.
-
-[Barber shop]
-
-MOT: She said, if they're not squirming, we won't
-eat 'em! 
-(Worf enters) 
-MOT: Ah, Mister Worf, my good Klingon. Sir, welcome. What a pleasure it
-is to have you with us again so soon. So, Lieutenant, haircut today?
-Trim your beard? 
-WORF: I would like my hair trimmed. 
-MOT: Ah. A trim, of course. 
-WORF: Not like last time. 
-MOT: Oh no, just a little off the top. I took way too much off last
-time. I was just telling my colleague, Mister Setti, how thick and
-luxuriant Klingon hair is. It's such a pleasure to cut. Sometimes I get
-carried away. All those away missions, the wind and dry air, the
-elements really are harsh on the hair. I'd like to suggest that you
-start using a conditioning agent. 
-(Worf sees the scissors and grabs Mot's arm) 
-MOT: I promise, not too much off the top. 
-(Worf leaves)
+(a lot of examinations are going on) 
+CRUSHER: Here it is again. Something has caused high levels of
+serotonin to be produced in Geordi's visual cortex. When I examined him
+earlier today, I thought it was the result of a bacterial infection,
+but now I'm finding the same thing in all three. They all have elevated
+levels of serotonin. It's concentrated in the hippocampus, which
+suggests that they've been exposed to a neuro-sedative. And that's not
+all. I have detected minute tetryon particle traces in their subdermal
+tissues. 
+PICARD: Tetryons? Like the emissions in the cargo bay. 
+(Data enters) 
+DATA: I have completed my self diagnostic, and have confirmed that I
+was not aboard the Enterprise for ninety minutes seventeen seconds
+yesterday afternoon. 
+LAFORGE: Are you sure? 
+DATA: Whenever I am on the ship, the warp field leaves an
+electromagnetic signal on my internal servo-fluid system. Between the
+period of twelve fifty four and fourteen twenty six hours that
+signature is missing. 
+PICARD: Computer, are there any members of the crew of the Enterprise
+missing? 
+COMPUTER: There are two crewmembers unaccounted for. 
+PICARD: Identify them. 
+COMPUTER: Lieutenant Edward Hagler and Ensign Sariel Rager. 
+PICARD: When did they leave? 
+COMPUTER: They have not been present since twenty three thirty two
+hours. 
+PICARD: How did they leave? 
+COMPUTER: Method of departure unknown. 
+PICARD: Picard to Bridge. 
+CREWMAN [OC]: Bridge here, Captain. 
+PICARD: Raise shields. And I want a level four security alert. I need
+to know if anyone comes on or off this ship. 
+CREWMAN [OC]: Aye, sir. 
+PICARD: Mister La Forge, Mister Data. I believe that if we find the
+source of those tetryon emissions, we'll find the missing crewmembers. 
+LAFORGE: We're on it, sir. 
+(Data and LaForge leave) 
+MEDIC: Doctor Crusher? You'd better take a look at this. 
+CRUSHER: My God. 
+RIKER: What is it? 
+CRUSHER: It looks as though your arm has been severed and then
+reattached. 
+RIKER: What? 
+CRUSHER: The skeletal structure in your radius and ulna is offset by
+point zero two microns. Your arm has been amputated then surgically
+reattached.
 

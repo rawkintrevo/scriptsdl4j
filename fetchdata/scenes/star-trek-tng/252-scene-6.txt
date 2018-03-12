@@ -1,39 +1,39 @@
-RIKER LAFORGE PICARD ENSIGN BOSUS TAYAR DATA
+PICARD GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Outpost]
+[Ready room]
 
-(one Borg goes hand-to-hand with Data, and is
-knocked out. Riker manages to take down another) 
-BOSUS: You have killed Torsus. I will make you suffer for this. 
-TAYAR: Biological organism, Klingon. Biological organism, human. 
-(A Borg kills Corelki, Worf kills him. Another Borg grabs Data by the
-throat and Data does likewise, throttling him) 
-DATA: (angry) Stop it! Stop! Stop! Stop! Stop! Stop! 
-TAYAR: Artificial lifeform. Starfleet rank, Lieutenant Commander. Name,
-Data. 
-(the Borg are beamed away and their ship starts to leave)
-
-[Bridge]
-
-LAFORGE: Captain, the alien ship is breaking orbit.
-
-PICARD: Plot an intercept course, Ensign. Fire torpedoes. 
-(but they go to warp just before the torpedoes arrive) 
-LAFORGE: They're gone, sir. Our sensors indicate there was some kind of
-subspace distortion just before they disappeared. I'll have to study
-these readings before I can get more specific than that. 
-PICARD: Take us back to Ohniaka Three. 
-ENSIGN: Aye, sir. 
-[Outpost]
-
-RIKER: Data? Data, are you all right? 
-DATA: Yes, sir. 
-RIKER: What happened? 
-DATA: I got angry.
-
-Captain's log, stardate 46982.1. Because of his
-unusual behaviour on the planet surface, Commander Data has asked to be
-temporarily relieved of duty. Unfortunately, this means he will not be
-able to help us investigate a disturbing new change in the behaviour of
-the Borg.
+(the Admiral is a petite blonde) 
+GUEST2: There will be fifteen starships in this sector by the day
+after tomorrow. The Gorkon will be my flagship. You'll take command of
+task force three, consisting of the Enterprise, the Crazy Horse and the
+Agamemnon. 
+PICARD: Understood. 
+GUEST2: Captain, I've read the report that you submitted to Admiral
+Brooks last year regarding the Borg you called Hugh, and I've been
+trying to figure out why you let him go. 
+PICARD: I thought that I had made that clear. 
+GUEST2: As I understand, it you found a single Borg at a crash site,
+brought it aboard the Enterprise, studied it, analysed it, and
+eventually found a way to send it back to the Borg with a programme
+that would have destroyed the entire collective once and for all. But
+instead, you nursed the Borg back to health, treated it like a guest,
+gave it a name, and then sent it home. Why? 
+PICARD: When Hugh was separated from the Borg collective he began to
+grow and to evolve into something other than an automaton. He became a
+person. When that happened, I felt I had no choice but to respect his
+rights as an individual. 
+GUEST2: Of course you had a choice. You could've taken the
+opportunity to rid the Federation of a mortal enemy, one that has
+killed tens of thousands of innocent people, and which may kill even
+more. 
+PICARD: No one is more aware of the danger than I am. But I am also
+bound by my oath and my conscience to uphold certain principles. And I
+will not sacrifice them in order to 
+GUEST2: Your priority is to safeguard the lives of Federation
+citizens, not to wrestle with your conscience. Now I want to make it
+clear that if you have a similar opportunity in the future, an
+opportunity to destroy the Borg, you are under orders to take advantage
+of it. Is that understood? 
+PICARD: Yes, sir.
 

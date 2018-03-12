@@ -1,78 +1,71 @@
-RIKER WORF PICARD TROI WESLEY DATA
+TROI LAFORGE WORF PICARD RIKER PULASKI WESLEY COMPUTER GUEST2 GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Geophysics lab]
 
-RIKER [OC]: Report to the Observation Lounge.
+(Wesley marches in, no nonsense) 
+WESLEY: Ensign Davies? I want that ico-spectrogram run on the Selcundi
+Drema system. 
+GUEST2: You got it.
 
-[Observation lounge]
+[Picard's quarters]
 
-(Wesley enters) 
-RIKER: Wesley, I've assigned you the command of the planetary mineral
-surveys. 
-WESLEY: Sir? Thank you, sir. 
-RIKER: You may not thank me once you see how much work it entails.
-Assemble a team, and take a look at the records on the Drema quadrant.
-There's a mystery here. We've got to solve it. 
-WESLEY: Yes, sir. A team, sir? 
-PICARD: Ensign, this is a serious responsibility. 
-WESLEY: I know, sir. 
-PICARD: These officers are here to assist you. Not judge, help you. You
-should make use of them. They are a valuable resource. And by the way,
-I respect an officer who is prepared to admit ignorance and ask a
-question, rather than one who out of pride will blunder blindly
-forward. 
-WESLEY: I understand, sir. 
-RIKER: Ensign. You're dismissed. 
-WESLEY: I'll try not to disappoint you.
+PICARD: It is no longer a matter of how wrong Data
+was, or why he did it. The dilemma exists. We have to discuss the
+options. And please talk freely. 
+WORF: There are no options. The Prime Directive is not a matter of
+degrees. It is an absolute. 
+PULASKI: I have a problem with that kind of rigidity. It seems callous
+and even a little cowardly. 
+PICARD: Doctor, I'm sure that is not what the Lieutenant meant, but in
+a situation like this, we have to be cautious. What we do today may
+profoundly affect upon the future. If we could see every possible
+outcome 
+RIKER: We'd be gods, which we're not. If there is a cosmic plan, is it
+not the height of hubris to think that we can, or should, interfere? 
+LAFORGE: So what are you saying? That the Dremans are fated to die? 
+RIKER: I think that's an option we should be considering. 
+LAFORGE: Consider it considered, and rejected. 
+TROI: If there is a cosmic plan, are we not a part of it? Our presence
+at this place at this moment in time could be a part of that fate. 
+LAFORGE: Right, and it could be part of that plan that we interfere. 
+RIKER: Well that eliminates the possibility of fate. 
+DATA: But Commander, the Dremans are not a subject for philosophical
+debate. They are a people. 
+PICARD: So we make an exception in the deaths of millions. 
+PULASKI: Yes. 
+PICARD: And is it the same situation if it's an epidemic, and not a
+geological calamity? 
+PULASKI: Absolutely. 
+PICARD: How about a war? If generations of conflict is killing
+millions, do we interfere? Ah, well, now we're all a little less secure
+in our moral certitude. And what if it's not just killings. If an
+oppressive government is enslaving millions? You see, the Prime
+Directive has many different functions, not the least of which is to
+protect us. To prevent us from allowing our emotions to overwhelm our
+judgement. 
+PULASKI: My emotions are involved. Data's friend is going to die. That
+means something. 
+WORF: To Data. 
+PULASKI: Does that invalidate the emotion? 
+LAFORGE: What if the Dremans asked for our help? 
+DATA: Yes. Sarjenka's transmission could be viewed as a call for help. 
+PICARD: Sophistry. 
+PULASKI: I'll buy that excuse. We're all jigging madly on the head of a
+pin anyway. 
+WORF: She cannot ask for help from someone she does not know. 
+DATA: She knows me. 
+RIKER: What a perfectly vicious little circle. 
+DATA: We are going to allow her to die, are we not? 
+PICARD: Data, I want you to sever the contact with Drema Four. 
+(Data goes to a wall panel and taps in commands) 
+COMPUTER: Isolating frequency. 
+GUEST1 [OC]: Data. Data, where are you? Why won't you answer? Are you
+angry me? Please, please, I'm so afraid. Data, Data, where are you? 
+PICARD: Wait. Oh, Data. Your whisper from the dark has now become a
+plea. We cannot turn our backs.
 
-[Bridge]
-
-(Data is working at a rear station. There are
-components and tools scattered on the floor) 
-WORF: Is this part of your regular duties? 
-DATA: No, it is a personal project. I have reset the sensors to scan
-for frequencies outside their usual range. 
-WORF: Such as? 
-DATA: The dips and peaks of the galaxy's magnetic field, organic
-molecules in nebular clouds, energetic cosmic rays. 
-WORF: Interesting. Would these scans also detect artificial
-transmissions as well as naturally occurring signals? 
-DATA: Of course. 
-WORF: Good. 
-DATA: Those signals are very faint and difficult to distinguish from
-background noise. That is why I am boosting the power. 
-(Worf knocks over a circuit board with his foot) 
-DATA: I will be removing that equipment to my quarters. 
-WORF: Good.
-
-[Corridor]
-
-WESLEY: Hi. Can I walk with you? 
-TROI: Yes. 
-WESLEY: I need a little advice. 
-RIKER: Well, it's free. 
-WESLEY: Walking or advice? 
-RIKER: Both. 
-WESLEY: It's about my team. I'm considering so many factors I'm
-confusing myself. 
-TROI: What have you done so far? 
-WESLEY: Well, I've broken down the task and picked the best people in
-those disciplines. 
-RIKER: So who have you got so far? 
-WESLEY: I've got Prixus in mineralogy and metallurgy, Alans and
-Hildebrandt for volcanology and geomechanics. I want Davies for
-geochemistry, but 
-TROI: But they're all much older than you are. 
-WESLEY: Right, and it makes me feel strange. What do I do about
-personality conflicts? 
-RIKER: Completely irrelevant. These people are professionals. If
-there's a personality conflict, you're in charge, you settle it. 
-WESLEY: So you not only have to understand the job, you also have to be
-a ship's Counsellor. 
-TROI: Sometimes. 
-WESLEY: Well, thank you.
-
-Captain's log, Stardate 42696.3. We are entering
-the second Selcundi star system, where acting Ensign Crusher will begin
-his planetary mineral survey. The results of which may help unlock the
-geological puzzle. 
+Captain's log, stardate 42741.3. We are entering
+into orbit of Drema Four, the planet from which Data received the
+distress signal. Sensors indicate that the volcanic activity is
+increasing. 

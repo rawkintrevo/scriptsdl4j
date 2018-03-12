@@ -1,72 +1,38 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER
+PICARD CRUSHER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Conference room]
 
-RIKER: I don't need to tell you that
-insubordination is a serious charge to level against any officer. 
-WORF: I am aware of that, Commander. However, Ensign D'Amato directly
-challenged my authority. 
-RIKER: Is it my imagination, or have tempers become a little frayed on
-this ship lately? 
-WORF: I hadn't noticed. 
-[Ten Forward]
+GUEST2: A mind-meld? Between the two of us? Do you
+realise the dangers involved in what you are proposing, Captain? 
+PICARD: Yes, I do, Ambassador. But I also realise the potential
+benefits. 
+GUEST2: We would be linked telepathically, sharing our thoughts,
+becoming in essence one mind. 
+PICARD: Which, for a few hours, should provide the emotional control
+you need. In that time, you can meet with the Legarans and conclude the
+treaty. 
+GUEST2: It is a generous offer. But I must warn you that while I would
+gain your stability, you would experience the fierce onslaught of
+emotions unleashed by my condition. Vulcan emotions are extremely
+intense. We have learned to suppress them. No human would be able to
+control them. They would overwhelm you. The mind-meld can be a terrible
+intimacy. I cannot allow it. 
+PICARD: I'm aware of the risks. But it is the only logical solution. 
+GUEST2: Your courage honours me, Captain.
 
-(And they walk straight into an old-fashioned bar
-brawl) 
-WORF: I see what you mean. 
-(Worf stops two men strangling Geordi) 
-WORF: Security team to Ten Forward. 
-RIKER: Geordi, what the hell is going on here? 
-LAFORGE: I wish I knew. 
-RIKER: All right, that's enough! 
-(And he gets punched in the face) 
-(Later, the staff are clearing up the broken furniture, and the medics
-the broken crew) 
-LAFORGE: The next thing I know somebody's left hook is on its way to my
-chin. 
-TROI: Captain, this is not an isolated incident. There have been
-reports of random violence all over the ship. 
-PICARD: Are you suggesting this is somehow contagious? 
-CRUSHER: There's no indication of any bacteria or virus. I've run every
-test I know. I've checked the water, food replicators, airborne
-samples. 
-PICARD: This is a hell of a time. Whatever it is, I don't want it to
-affect the Ambassador. I want his quarters isolated from the rest of
-the crew until we've identified the cause. 
-TROI: It's not that simple, Captain. 
-CRUSHER: We have determined that the outbreak of violence started at
-virtually the same time Sarek and his party beamed onto the ship.
+[Picard's quarters]
 
-[Crusher's office]
-
-CRUSHER: We do have a working theory. We believe
-that it's possible Ambassador Sarek himself is responsible for these
-incidents. 
-PICARD: Sarek? 
-TROI: I felt something during the concert. Vague and undefined, but
-very disturbing 
-PICARD: He cried. I saw that. I couldn't believe it. A Vulcan moved to
-tears by music? It's 
-TROI: Well, Vulcans have the same basic emotions we do. They've just
-learned to repress them. What I sensed during the concert was that he'd
-lost control. 
-PICARD: What would cause such a loss of control? 
-CRUSHER: There's a very rare condition that sometimes affects Vulcans
-over the age of two hundred. Bendii Syndrome. Its early symptoms
-include sudden bursts of emotion, mostly irrational anger. Eventually,
-all emotional control is lost. 
-PICARD: I can imagine nothing that would be more offensive to a Vulcan.
-Their emotional detachment is the very core of
-their being. How would this affect others on board the ship? 
-TROI: Vulcans possess telepathic ability. Sarek may unintentionally be
-projecting intense emotions onto other people, at random. 
-PICARD: And when the Legarans beam on board? 
-CRUSHER: They could very well be affected too. 
-PICARD: Is there a treatment? 
-CRUSHER: Can't someone else take his place? 
-PICARD: Sarek has built a personal relationship with them. They will
-accept no one else. How can we confirm your diagnosis? 
-CRUSHER: We can grow a culture from the tissue of the metathalamus, but
-the results will take several days. 
-PICARD: I have twelve hours.
-
+CRUSHER: I can't say I approve of this, Jean-Luc. 
+PICARD: I didn't expect that you would, Beverly. 
+CRUSHER: I don't suppose I could talk you out of it? 
+PICARD: I'm afraid not, though I do admit to a certain trepidation.
+Your company is much appreciated. 
+(doorbell chime) 
+PICARD: Come. 
+GUEST2: I see that you are ready, Captain. 
+PICARD: Doctor Crusher will monitor our responses. 
+GUEST2: A sensible precaution. 
+(They sit on opposite sides of a small table, then Sarek reaches across
+to Picard in the time-honoured fashion) 
+GUEST2: My mind to your mind. Your thoughts to my thoughts. 

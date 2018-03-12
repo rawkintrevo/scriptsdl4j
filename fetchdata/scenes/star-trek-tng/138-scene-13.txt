@@ -1,40 +1,47 @@
-PICARD RIKER LAFORGE
+PULASKI PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER [OC]: As your read out shows, this is an
-unusual place.
+RIKER [OC]: I hold no malice toward my benefactors.
+They could not possibly know the hell they have put me through. 
+[Hotel room]
 
-[Planet surface]
-
-RIKER: Completely calm, no sound, no movement, yet
-a few hundred metres away a storm is raging. 
-PICARD [OC]: Any information about the structure. 
-RIKER: Yes, sir. There is an antique revolving door. It could be an
-entrance. 
+RIKER: for it was such a badly written book, filled
+with endless clich and shallow characters. I shall welcome death when
+it comes. 
 [Bridge]
 
-PICARD: A revolving door? Number One, proceed with
-caution. 
+PICARD: I understand, Number One. Now we know why
+all that is there. 
+[Hotel room]
+
+PICARD [OC]: Why can't you get out?
+
+[Observation lounge]
+
+PICARD: Number One. 
 RIKER [OC]: Yes, sir. 
-[Planet surface]
+PICARD: Lieutenant La Forge has a thought. He believes we can phaser a
+slice in the field 
+[Hotel room]
 
-RIKER: Well, this is what we came here for.
-Captain, we're entering.
+PICARD [OC]: Surrounding the structure. 
+RIKER: That means the atmosphere of the planet would instantly rush in.
 
-[Lobby]
+DATA: Our projected survival would be approximately twelve seconds. 
+[Observation lounge]
 
-(Worf leads the way into a very elegant foyer and
-lobby in a Middle Eastern style. Lots of marble and palm plants, very
-twenties or thirties. We hear the laughter of people having a good time
-at blackjack tables) 
-[Bridge]
+PULASKI: Correct. The cryogenic process would be
+nearly instantaneous. 
+RIKER [OC]: But I assume you could revive us? 
+PULASKI: Yes. 
+[Hotel room]
 
-PICARD: Enterprise to away team, come in. 
-LAFORGE: We're receiving no signal at all from them, sir. 
-PICARD: Transporter room. lock on to the landing party. Beam them up. 
-LAFORGE: We've got nothing to lock on to, sir. 
-[Lobby]
+PULASKI [OC]: In theory. 
+PICARD [OC]: You must understand, Number One 
+[Observation lounge]
 
-RIKER: Riker to Enterprise. We've entered the
-structure. Riker to Enterprise, come in. Come in, Enterprise. 
+PICARD: We'll wait here for months if necessary.
+We're just considering options. 
+RIKER [OC]: If you're trying to motivate us to find 

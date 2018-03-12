@@ -1,39 +1,67 @@
-PICARD DATA LWAXANA
+PICARD GUEST5 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Hill's outer office]
 
-DATA: Ooolans of Marejaretus Six, who use two large
-stones which are continuously struck during the meal. Those at the
-dinner must eat until the stones are broken.
+PICARD: So, Madeline, I'll see you later. Activate
+programme. 
+GUEST2: Leaving, Dix? You're not to Rex's bar, are you? 
+PICARD: Rex's bar? Why do you ask? 
+GUEST2: It's one of the messages I left on your desk. 
+PICARD: That sounds like an excellent idea. Would you care to join me? 
+GUEST2: Me? Have a drink with you? 
+PICARD: Why not? 
+GUEST2: There ain't no why not about it. It's just that this is the
+first time you ever asked. 
+PICARD: Is that a problem? 
+GUEST2: Not for me, but you'd better take this. (a revolver) 
+PICARD: Why? 
+GUEST2: Because if we're going to Rex's bar, you're gonna need it.
 
-[Lwaxana's quarters]
+[Rex's Bar]
 
-DATA [OC]: Or the oligarchy on Atifs Four, which
-require a young 
-PICARD: Data, this is fascinating. Don't you agree, Mrs. Troi?
-Commander, if your duties permit, why don't you join us for dessert?
-I'm sure that Mrs. Troi would much appreciate the pleasure of your
-company. 
-LWAXANA: What? 
-[Bridge]
-
-DATA: Indeed, sir. I'm on my way. Data out. 
-[Lwaxana's quarters]
-
-LWAXANA: How could you possibly think I would want
-to share our special time together with that, that, robot of yours? 
-PICARD: Because of Data's wonderful after-dinner conversation. His
-anecdotes are the stuff of legends aboard this ship. 
-(later) 
-DATA: So, by using the square root of pi and multiplying it by nine to
-the third power, I was able to accurately calculate the distance
-between the Omicron system and the Crab Nebula. 
-PICARD: Fascinating, Data, absolutely fascinating. I'm sure Mrs. Troi
-would love to hear the one about the anomalous chemical composition of
-brown dwarf stars. 
-LWAXANA: Not really. 
-DATA: Yes, Captain. That is a particularly spellbinding subject. In
-most stars, the rare Earth element europium is enriched relative to
-samarium and gadolinium 
-LWAXANA: Is that so? 
-DATA: It is. However, 
+(Mostly empty, Moonlight Serenade playing, ceiling
+fans turning lazily) 
+GUEST5: Hey, Dix. What do you know and what do you say? See this?
+(newspaper) Germany's getting ready to invade England. 
+GUEST2: Who's going to stop them? 
+GUEST5: Somebody'd better. 
+GUEST2: Just as long as it isn't us. The last thing America needs to
+do is fight in another world war. 
+PICARD: Actually, the Second World War, although disastrous, did end
+with the United States taking its place as a dominant world power and
+cultural influence in the second half of the twentieth century.
+Additionally, that war was a catalyst of technological advancement.
+Developments in rocketry and fission resonate on into the twenty fourth
+century. 
+GUEST5: I don't know if I should pour you one, Dix. Sounds like you've got
+a snootful already. 
+PICARD: What's this? 
+GUEST5: The usual. 
+PICARD: Ah, now let me see. That would be Scotch, neat. 
+GUEST5: What else? 
+(Picard takes Madeline's proffered cigarette, Rex lights it. He takes a
+puff then looks at it from arms length) 
+GUEST5: And for the lady? 
+GUEST2: Rye and ginger. 
+(Rex taps the bar and rubs his fingers together. Picard imitates him) 
+PICARD: Money. I keep forgetting the need to carry money. I must
+remember not to let this happen again. 
+GUEST5: Right. I don't mind you being on the cuff, but you're up the
+sleeve halfway to my collar. 
+PICARD: Is that why you wanted to see me, about my bar bill? 
+GUEST5: No, it's on account of Jimmy Cuzzo. 
+PICARD: Jimmy Cuzzo. I know that name. 
+GUEST2: He's why I gave you the gun. 
+PICARD: What was the name of that case he was involved in? The Parrot's
+Claw. 
+GUEST2: Jeez, Dix. Cuzzo's the guy who iced Marty O'Farron. They
+never would have nailed him if it hadn't been for you. Your testimony
+got him arraigned. 
+GUEST5: Yeah. Yours and mine. 
+PICARD: So you brought me here because you didn't want to face him
+alone. 
+GUEST5: I don't want to face him at all. I'm hoping that seeing us
+together will slow him up long enough to get some things straight. 
+PICARD: And if it doesn't? 
+GUEST5: Then you just have to kill him. 

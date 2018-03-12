@@ -1,47 +1,29 @@
-DAVIS RIKER COMPUTER JEV LAFORGE
+DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Bridge]
 
-(there's an emergency, and the blast doors are
-being lowered. The sequence keeps going around in a loop) 
-DAVIS: Keller is still in there! 
-RIKER: Let's move it! Out, out, out! Let's go! Everybody move!
-Everybody move! Out! Out! Come on, keep moving! 
-LAFORGE: Commander, I need to bring that door down! 
-COMPUTER: Antimatter injection breach. Evacuate immediately. 
-RIKER: Keller, can you get to a Jeffries tube? Ensign Keller, answer
-me! 
-DAVIS: You killed her. Keller is still in there! 
-LAFORGE: Commander, radiation levels are critical. We've got to seal it
-off. 
-DAVIS: She was right behind me! 
-RIKER: Bring down the door! 
-[Riker's quarters]
+(at the aft science stations) 
+LAFORGE: Well, that's it for Melina Two. No unexplained comas during
+the time the Ullians were working there. 
+DATA: We have yet to receive transmissions from the two planets of the
+Nel system. Perhaps they will show different results. 
+LAFORGE: Maybe. Or maybe we're not checking for the right thing. 
+DATA: Please clarify. 
+LAFORGE: We haven't look into the comas that were explained. 
+DATA: Why would we do that? 
+LAFORGE: Well, remember what Doctor Crusher said right after Counsellor
+Troi became unconscious? That it looked exactly like Iresine syndrome
+except for the histamine count? 
+DATA: Yes. 
+LAFORGE: Maybe not every medical facility is as careful as Doctor
+Crusher. Maybe it's easier to just make a quick diagnosis rather than
+to keep hunting for the real cause. 
+DATA: You are searching for instances of Iresine syndrome? 
+LAFORGE: Right, and correlating them with visits by the Ullians. And
+there we are. 
+DATA: Two cases of Iresine syndrome on Hurada Three, at exactly the
+time Tarmin and his group was there. 
+LAFORGE: Let's check the other planets. I think we may have something
+here.
 
-RIKER [OC]: Bring down the door. 
-LAFORGE [OC]: I need to bring that door down. 
-[Engineering]
-
-RIKER: Out, out! Let's go! 
-DAVIS: Keller is still in there. 
-JEV: Didn't you hear him? Keller is still in there. 
-RIKER: Riker to transporter room three. Prepare to beam Ensign Keller
-out of the engine room. 
-JEV: Keller is still in there. 
-JEV: Keller is still in there. 
-DAVIS: You killed her. 
-RIKER: Ensign Keller, answer me. 
-JEV: You killed her. 
-LAFORGE: I've got to get that isolation door down! 
-JEV: Keller is still in there. 
-RIKER: Bring down the door! 
-JEV: You killed her. 
-DAVIS: You killed her. 
-JEV: You killed her. 
-LAFORGE: I need that door down! 
-DAVIS: Keller is still in there. 
-JEV: You killed her.
-
-[Riker's quarters]
-
-(and Riker collapses) 

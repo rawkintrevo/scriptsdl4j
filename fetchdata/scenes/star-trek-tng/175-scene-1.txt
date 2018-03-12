@@ -1,4 +1,5 @@
-RIKER LAFORGE WORF SHELBY PICARD COMPUTER HANSON CRUSHER
+RIKER LAFORGE WORF SHELBY PICARD COMPUTER GUEST1 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
  [Bridge]
 
@@ -28,16 +29,16 @@ RIKER: As we anticipated, the blast burned out our
 main navigational deflector. We also have damage to our shields and our
 reactor core.
 LAFORGE: We should be back up in eight to twelve hours, Admiral.
-HANSON [on monitor]: Well, we'll miss you at the party.
+GUEST1 [on monitor]: Well, we'll miss you at the party.
 RIKER: The Enterprise'll be there, sir. Maybe a little late, but we'll
 be there, sir. 
-HANSON [on monitor]: Your engagements have given us valuable time.
+GUEST1 [on monitor]: Your engagements have given us valuable time.
 We've mobilised a fleet of forty starships at Wolf three five nine, and
 that's just for starters. The Klingons are sending warships. Hell,
 we've even thought about opening communications with the Romulans. 
 SHELBY: You realise, Admiral, that with the assistance of Captain
 Picard, the Borg will be prepared for your defences.
-HANSON [on monitor]: Lieutenant a few years ago, I watched a freshman
+GUEST1 [on monitor]: Lieutenant a few years ago, I watched a freshman
 cadet pass four upper classman on the last hill of the forty kilometre
 run on Danula Two. The damndest thing I ever saw. The only freshman to
 ever win the Academy marathon. I made it my business to get to know
@@ -46,14 +47,14 @@ something. I never met anyone with more drive, determination or more
 courage than Jean-Luc Picard. There is no way in hell that he would
 assist the Borg. I want that clear.
 SHELBY: Of course, Admiral. 
-HANSON [on monitor]: He is a casualty of war.
+GUEST1 [on monitor]: He is a casualty of war.
 CRUSHER: Then we have abandoned all hope of recovering him.
-HANSON [on monitor]: In less than twenty four hours, this armada's
+GUEST1 [on monitor]: In less than twenty four hours, this armada's
 going to hit that Borg vessel with everything we can muster. Either
 they survive or we do. As for Picard. A great man has been lost. Your
 Captain. My friend. Commander Riker, I hereby promote you to the field
 commission of Captain. The Enterprise is your ship now.
 Congratulations. I wish the circumstances were different.
 RIKER: Likewise. Good luck, Admiral.
-HANSON [on monitor]: To us all.
+GUEST1 [on monitor]: To us all.
 

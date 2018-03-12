@@ -1,32 +1,6 @@
-TROI WORF TASHA PICARD RIKER DATA
+RIKER WORF TASHA PICARD GUEST4 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
-
-PICARD: So, while we still have some power left, it
-is time for difficult decisions. Opinions please. 
-TASHA: I say put all available power into a full-out combined phaser
-and photon torpedo salvo. Destroy their ability to sustain this
-forcefield, sir. 
-WORF: Yes! Hit them hard and hit them fast. 
-PICARD: Impractical and provocative. Even assuming that we have the
-power to sustain such a tactic. 
-TASHA: But Captain, isn't firing on us an act of war? 
-TROI: The facts are the Ferengis did fire at us, but we were chasing
-them. Since then, all they've done is searched our computers, trying to
-learn who and what we are. 
-PICARD: Your point, Counsellor? 
-TROI: Let's talk to them. 
-PICARD: It's been tried. No response. 
-TROI: But did we tell them anything they wanted to hear? 
-PICARD: La Forge? Other opinions? Thank you for your advice. 
-(The staff start to leave)
-PICARD: Will? I haven't had your assessment. 
-RIKER: I believe we've covered every available alternatives, Captain.
-Are there other options that you want to analyse? 
-PICARD: The only one remaining is the one that needs no conversation.
-The only one we must avoid. 
-RIKER: Sir? 
-PICARD: The one that leads to total annihilation. 
 [Bridge]
 
 PICARD: Open hailing frequencies. 
@@ -42,3 +16,55 @@ necessary terms are demanded by the Ferengi. I fear for my people and
 my vessel in the event the unknown Ferengi ask the unreasonable. How
 can I oppose even unreasonable demands?
 
+[Bridge]
+
+RIKER: It's moving, sir. 
+WORF: We ask to surrender and now they fire on us? 
+TASHA: Ready torpedoes, sir? We have enough power for a few of them. 
+PICARD: Ready, but hold on ready. Open hailing frequencies. 
+DATA: Hailing frequencies open, sir. 
+PICARD: Ferengi vessel, we are awaiting your response. 
+TASHA: Suggest first strike, sir. Our shields now only have sixty three
+seconds of power left before lowering. 
+WORF: If the Ferengi ship's sensors can read us, sir, they will be
+waiting until we are most vulnerable. 
+RIKER: I'm afraid I agree, Captain. They have not responded. 
+PICARD: We'll wait a bit more, Number One. 
+TASHA: Fifty seconds. 
+PICARD: Patience. Patience. 
+GUEST4 [OC]: The quicker we can come to terms, the better, NCC 1701-D. 
+PICARD: Who is speaking? 
+GUEST4: I am Tarr. DaiMon of the Ferengi. You wish to discuss surrender,
+Captain Picard? 
+PICARD: What I said, DaiMon Tarr, is 
+GUEST4 [OC]: Unconditional surrender, I warn you, is totally
+unacceptable! We will die to the last one of us before such dishonour! 
+TASHA: Hailing frequencies closed, sir. 
+PICARD: Something has seized their ship too. They're in the same
+predicament as us. (to Geordi) Launch a sensor probe. Set it to search
+for the source of whatever this something is that is holding both
+ships. Go back to hailing
+frequency, fast. And I regret, DaiMon Tarr, that I can no longer
+negotiate unless it is
+conducted visually. 
+GUEST4 [OC]: Your complete message not received, Enterprise, but visual
+communication is against our custom. 
+PICARD: And it is against Starfleet orders to accept a surrender
+otherwise. Do you withdraw your surrender? 
+GUEST4 [OC]: You give us no choice, Enterprise. May we have a visual on
+you as well? 
+PICARD: Agreed, DaiMon Tarr. You should be able to view us now. Are we
+on your screen? 
+(The face of a humanoid with enormous ears fills the viewscreen. He
+even has crooked pointed teeth) 
+GUEST4 [on viewscreen]: Yes. The ugliness of the human was not an
+exaggeration. I do not know how your twisted alien culture has
+paralysed our vessel, but I concede your Enterprise is superior. We
+will return your worthless T9 device and we offer the life of our
+second officers as required
+by the Ferengi code. 
+DATA: (sotto voce to Geordi) Fortunately, Starfleet has no such rules
+involving our second officers. 
+GUEST4: Is this to your satisfaction, Picard Captain? 
+PICARD: Your offer may be inadequate, but I will discuss it with my
+staff. Stand by for further communications. 

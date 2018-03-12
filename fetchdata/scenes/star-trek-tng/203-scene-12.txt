@@ -1,134 +1,99 @@
-TROI LAFORGE WORF KEEVE PICARD KENNELLY GUINAN CREWWOMAN RO DATA
+RIKER WOMAN GUEST3 WORF GUEST0 PICARD RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bajoran camp]
+[Bridge]
 
-(Ro gives her uniform jacket to a young girl) 
-RO: This used to be me. 
-KEEVE: Baleekam. Balleek, balleek. Baleekam! Baleek. 
-(the children scatter) 
-KEEVE: Ro Laren. It's been a long time. 
-RO: Keeve Falor, Captain Jean-Luc Picard, Commander Data and Lieutenant
-Worf. 
-PICARD: I'm pleased you agreed to meet with us, Mister Keeve. 
-KEEVE: You honour me by the proper use of my name, Captain. 
-PICARD: Ensign Ro has educated me. 
-KEEVE: Has she? I'm pleased you still remember. Let me show you our
-camp. We are not a violent race, Captain. Just passionate about our
-cause. And that passion has led some to take up arms. 
-PICARD: Do you know where we can find Orta? 
-KEEVE: I'm afraid not. 
-PICARD: Can you help us locate him? 
-KEEVE: I'm sorry, I don't wish to help you. Don't misunderstand. I for
-one believe the raid on the Federation outpost was poor judgment. You
-are innocent bystanders, and I cannot condone violence against those
-who are not our enemies. 
-PICARD: Then I don't understand why you are unwilling? 
-KEEVE: Because you are innocent bystanders. You were innocent
-bystanders for decades as the Cardassians took our homes, as they
-violated and tortured our people in the most hideous ways imaginable,
-as we were forced to flee. 
-PICARD: We were saddened by those events but they occurred within the
-designated borders of the Cardassian Empire. 
-KEEVE: And the Federation is pledged not to interfere in the internal
-affairs of others. How convenient that must be for you,
-to turn a deaf ear to those who suffer behind a line on a map. 
-PICARD: Well, I'm not here to debate Federation policy with you, but I
-can offer you assistance. 
-KEEVE: Simply because of one terrorist attack? Perhaps I should have
-known that. We should have attacked the Federation long ago. What do
-you think of that, Ro? 
-RO: I think you're a small man who feels a rush of power in his belly
-and enjoys it far too much, Keeve. Stop talking and listen. 
-PICARD: We've had our problems with the Cardassians too, but now that
-we have a treaty, we're in a position to help. Your people have been
-forced to resettle all over the quadrant. But now we can make a
-legitimate case with the Cardassians that this is not an isolated
-problem. We can work diplomatically on your behalf. But first, these
-terrorist attacks must end. 
-KEEVE: We live in different universes, you and I. Yours is about
-diplomacy, politics, strategy. Mine is about blankets. If we were to
-exchange places for one night, you might better understand. 
-PICARD: Mister Data, see to it that the replicators provide a blanket
-for every man, woman and child before nightfall. 
+GUEST0 [on viewscreen]: Well done, Captain. 
+PICARD: It was a team effort, Admiral. Ensign Ro was invaluable. 
+GUEST0 [on viewscreen]: Good. What's the next step? 
+PICARD: The Enterprise will escort a Bajoran Antares class carrier to
+the Valo Three camp at oh five hundred hours. Orta and his people will
+be aboard. 
+GUEST0 [on viewscreen]: Good. Keep us advised of your progress. 
+PICARD: Acknowledged. How's that Cardassian virus, Admiral? 
+GUEST0 [on viewscreen]: A lot better, thank you. 
+PICARD: I'm pleased. We will report as soon as our mission is
+accomplished. Picard out. 
+RIKER: Ensign Ro, take us to the designated coordinates. 
+RO: Aye, sir. 
+PICARD: Mister Data, keep an eye on the Cardassian border. 
 DATA: Aye, sir. 
-(Data leaves) 
-PICARD: Mister Worf, determine what these people may have in the way of
-emergency needs and provide for them. 
-WORF: Yes, sir. 
-(Worf leaves) 
-KEEVE: Thank you. Return to your ship. I will contact you when I have
-any information that might be of assistance to you. Ensign. 
-(Keeve leaves them)
-PICARD: You were helpful. 
-RO: The blankets were helpful. Nothing I said mattered. 
-PICARD: In an age when their technology should be able to clothe and
-feed all of them, that they should have to live like this. 
-RO: I couldn't, and I wouldn't. That's one reason I ran away. They're
-lost, defeated. I will never be.
+(later) 
+WORF: The Bajoran vessel is moving up from the surface, Captain. 
+PICARD: On screen. Hail them, Mister Worf. 
+WORF: Audio channel open. The ship does not have visual capabilities. 
+PICARD: This is Captain Picard. We're prepared to escort you to Valo
+Three. 
+WOMAN [OC]: Acknowledged, Captain. Be advised that our ship is limited
+to half impulse. 
+PICARD: Ensign Ro, set a course for Valo Three, half impulse. 
+RO: Aye, sir. 
+(after a while) 
+DATA: I am monitoring increased activity inside Cardassian space. Two
+ships are moving along the border heading one four two mark zero five
+one. 
+PICARD: Can you identify the class of these ships, Mister Worf? 
+WORF: Cardassian warships, Galor class, type three. 
+RIKER: Top of the line. 
+DATA: They are moving into a course parallel to our own, Captain. 
+PICARD: Yellow alert. Continue to monitor them. 
+RIKER: Ensign Ro, what's the closest we come to the Cardassian border
+on our current heading to Valo Three? 
+RO: Thirteen thousand, four hundred kilometres, sir. 
+RIKER: ETA? 
+RO: Eight minutes. 
+PICARD: That's where it will be. 
+(about eight minutes later) 
+DATA: The Cardassian ships are changing course, sir. They are crossing
+the border. 
+WORF: They're increasing power to their forward weapon grid. 
+RIKER: Red alert. 
+PICARD: Ensign Ro, set a course to intercept the Cardassians. Mister
+Worf, open a channel to the Bajoran vessel. 
+WORF: Open. 
+PICARD: This is the Enterprise. We are moving to intercept two
+Cardassian warships. Maintain your present course and speed. 
+WOMAN [OC]: Acknowledged, Enterprise. 
+WORF: The Cardassians are within visual range. 
+PICARD: On screen. 
+WORF: They are hailing us, sir. 
+PICARD: Open a channel, Mister Worf. This is Captain Jean-Luc Picard of
+the Federation Starship Enterprise. How can we help you? 
+GUEST3 [on viewscreen]: Gul Dolak, Cardassian Militia Four One. We have
+no argument with you, Captain. 
+PICARD: I'm pleased to hear that, Gul Dolak, for all of us in the
+Federation value the peaceful relations with our Cardassian neighbours.
 
-Captain's log, stardate 45077.8. Keeve Falor has
-kept his promise and directed us toward the third moon of Valo One,
-where we will meet tomorrow with the terrorist leader, Orta.
+GUEST3 [on viewscreen]: No more than we value the relations with our
+Federation neighbours. 
+PICARD: Well, now that we've established our mutual good will, what's
+on your mind? 
+GUEST3 [on viewscreen]: We have identified the Bajoran ship you are
+escorting as a terrorist carrier. 
+PICARD: Terrorist carrier? Are you certain? 
+GUEST3 [on viewscreen]: Most certain, Captain. It has committed many
+crimes against us. We know its markings well. 
+PICARD: Rest assured, Gul Dolak, there will be no terrorist attacks
+today. We are escorting the Bajoran settlers to their camp on Valo
+Three. You can monitor their course if you wish. 
+GUEST3 [on viewscreen]: We would request that you withdraw and leave the
+matter to us. 
+PICARD: This is neutral space, Gul Dolak. You have no jurisdiction
+here. 
+GUEST3 [on viewscreen]: Nor do you. 
+PICARD: If we withdraw, what do you intend to do with the Bajoran
+vessel? 
+GUEST3 [on viewscreen]: We intend to destroy it. 
+PICARD: I see. That puts me in a difficult position. I promised to
+escort these people to their camps. 
+GUEST3 [on viewscreen]: You are protecting the enemies of the Cardassian
+people. If you do not withdraw, we will take great offence. 
+PICARD: I'm sorry to offend you, Gul Dolak, but we cannot withdraw. 
+GUEST3 [on viewscreen]: We are prepared to take any steps necessary. 
+PICARD: Is that intended as a threat? 
+GUEST3 [on viewscreen]: It is a complaint from your Cardassian
+neighbours. You have one hour to withdraw. 
+(transmission ends) 
+PICARD: Advise Starfleet of our status, Mister Data. When Admiral
+Kennelly calls, I'll speak to him in my Ready room.
 
-[Ten Forward]
-
-(Deanna and Beverly go to Ro's table) 
-TROI: Do you mind if we join you? 
-RO: Yes. 
-(Deanna and Beverly move on) 
-LAFORGE: (at the bar) I'll tell you one thing. If I find myself on an
-away team with Ensign Ro, I won't turn my back on her. 
-GUINAN: Perhaps the Captain thought she'd be valuable on the mission? 
-LAFORGE: That was orders. Had to be. She doesn't belong here. She
-doesn't even belong in the uniform, as far as I'm concerned. 
-GUINAN: Really? 
-LAFORGE: Really. 
-GUINAN: Sounds like someone I'd like to know. Excuse me. 
-(Guinan goes to Ro's table and sits down) 
-GUINAN: Am I disturbing you? 
-RO: Yes. 
-GUINAN: Good. You look like someone who wants to be disturbed. 
-RO: I'd rather be alone. 
-GUINAN: Oh, no you wouldn't. 
-RO: I beg your pardon? 
-GUINAN: If you wanted to be alone, you would've stayed in your
-quarters. The only reason to come here is to be amongst people. 
-RO: Who are you? 
-GUINAN: My name is Guinan. I tend bar, and I listen. 
-RO: Heard anything interesting? 
-GUINAN: Everyone's talking about you. 
-RO: Heard anything interesting? 
-GUINAN: Mmm hmm. 
-RO: Well, it's all true. 
-GUINAN: I believe truth is in the eye of the beholder. 
-RO: Isn't that supposed to be beauty? 
-GUINAN: Truth, beauty. It works for a lot of things. They say you never
-told the true story about Galon Two. They also say you didn't defend
-yourself at your court martial. 
-RO: What was to defend? I didn't follow orders. Eight members of the
-away team died. 
-GUINAN: Your fault? 
-RO: Yeah, my fault. 
-GUINAN: So you sit alone in crowded rooms staring at your drink. I
-think you enjoy it. 
-RO: I enjoy it? 
-GUINAN: You work so hard at torturing yourself, I can only think you
-must enjoy it. 
-RO: Who are you? 
-GUINAN: I told you. I'm Guinan. I tend bar, and I listen. 
-RO: You're not like any bartender I ever met before. 
-GUINAN: And you're not like any Starfleet officer I've ever met before,
-but that sounds like the beginning of a very interesting friendship. 
-RO: I don't stay anywhere long enough to make friends. 
-GUINAN: Too late. You just did. Excuse me. 
-CREWWOMAN [OC]: Bridge to Ensign Ro. 
-RO: Go ahead. 
-CREWWOMAN [OC]: Subspace communication coming in for you, Ensign. 
-RO: Thank you.
-
-[Ro's quarters]
-
-RO: Computer, direct subspace transmission to
-monitor. 
-KENNELLY [on monitor]: Your report, Ensign. 
-RO: Everything is going exactly as you predicted, Admiral. 

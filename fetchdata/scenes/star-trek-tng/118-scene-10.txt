@@ -1,70 +1,49 @@
-TROI MELIAN TOYA WESLEY PICARD RADUE LEDA BERNARD RASHELLA HARRY ACCOLAN CRUSHER KATIE
+RADUE LAFORGE PICARD RIKER WESLEY RASHELLA CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Wesley's room]
 
-TOYA: What's happened to Alexandra and the other
-children, Captain? How are you getting them back? 
-CRUSHER: Toya, sit down. Don't give in to fear. Now, we all knew what
-the risks were when we signed on, and that's the choice we made. Now,
-Captain Picard will do everything possible to bring our children back. 
-PICARD: The Aldeans are anxious to discuss compensation. 
-BERNARD: Compensation? 
-PICARD: That will buy us time. I've asked Doctor Crusher to be involved
-in the negotiations as your representative. 
-BERNARD: Why were these specific children taken? 
-TROI: We can't be sure. We do know the Aldeans can't have children of
-their own. 
-BERNARD: Then they won't let them go easily. 
-PICARD: I won't insult you by pretending that any of this will be easy.
-But I can tell you that the Enterprise will not leave them behind. You
-can be assured of that. 
-BERNARD: Can we talk with our children? Give them some reassurance. Let
-them know that we are here, and that they will be safe. 
-PICARD: I'll do my best to arrange that. 
-BERNARD: The last time I saw him, I yelled at him.
-
-[Rashella's room]
-
-RASHELLA: There you are! I have you now! 
-(She and Alexandra are laughing and happy)
-
+(Duana shows Beverly in) 
+WESLEY: Mom! 
+CRUSHER: Wes. 
+(She activates her tricorder) 
+WESLEY: I knew Captain Picard would get us home. 
+CRUSHER: Not yet, Wes. 
+(She gives him the hand scanner) 
+WESLEY: Oh. 
+CRUSHER: Are you okay? And the others? 
+WESLEY: Okay, really okay. We've been assigned to our units, like
+families. They're treating us like gods. 
+(Meanwhile, he walks around Duana, scanning her) 
+CRUSHER: Don't let it go to your head. 
+WESLEY: I won't. 
 [First Unit]
 
-(Two other couples are waiting) 
-RADUE: Come in. Don't be alarmed. The other children have been assigned
-to their units. 
-WESLEY: Units? 
-RADUE: A unit is a group where those of similar talents and interests
-live together. 
-WESLEY: Do you mean like a family. 
-RADUE: Yes, you could call it that. 
-WESLEY: We already have families. Does Captain Picard know you're doing
-this? 
-RADUE: We are keeping nothing from him. 
-LEDA: We have been waiting for you so long, Harry. We are artists, just
-like you. We see within you the potential of what you can be. 
-HARRY: I'm not an artist. 
-ACCOLAN: You will be. And a great one. 
-LEDA: This way. (they step into an alcove) Unit B, three seven five. 
-(and they vanish) 
-RADUE: Katie. 
-MELIAN: (an old man) I am honoured. 
-KATIE: Thank you. 
-RADUE: Melian is the foremost musician on Aldea. 
-MELIAN: Music speaks its own language. I know we'll have much to learn
-from each other. Don't worry, Katie, you'll be seeing Wesley soon. 
-(Katie and Melian leave) 
-WESLEY: What about me? Don't I get a say in this? 
-RADUE: Wesley, sometimes something happens which you just must accept.
-You and the other children are now members of this society. That will
-not change. It is up to you to make the transition as easy as possible
-for the others. It's your duty, because you are their leader. Help them
-to accept it because nothing you, or those on the starship can do will
-change it. Because like you, we also have no choice. 
-(Alexandra and Rashella come running in, playing) 
-RADUE: Where have you been Rashella? Zena and Aran are waiting to take
-Alexandra. 
-RASHELLA: No. 
-RADUE: No? I told you that she 
-RASHELLA: No, Radue. They can't have her. I will never let her go.
+CRUSHER: Wes seems fine. He says the other children
+are too. 
+RASHELLA: Of course they're well. 
+RADUE: Captain Picard, you have our offer. It is final. Rashella.
 
+[Bridge]
+
+RADUE [on viewscreen]: Captain, we want you to
+understand the nature of your choice. A small demonstration of our
+power. 
+(Something whizzes around the planet and knocks the Enterprise spinning
+out of orbit, into deep space)
+PICARD: What was that? 
+DATA: I believe it was a repulsor beam. 
+PICARD: Position report. 
+LAFORGE: This is unbelievable, sir. According to my calculations, we're
+three days from Aldea. At warp nine. 
+RIKER: And they call that a small demonstration? 
+PICARD: Geordi, get us back to Aldea. Warp nine. 
+LAFORGE: Aye, sir. 
+RADUE [on viewscreen]: Captain, if you don't accept our terms, the
+Enterprise will be pushed so far away that by the time you return, your
+children will be grandparents.
+
+Captain's log, stardate 41512.4. We are twenty
+hours away from Aldea, and no closer to a solution. Their deliberate
+show of force pushed us out of orbit and could have easily
+disintegrated the ship. 

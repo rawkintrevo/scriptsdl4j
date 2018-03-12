@@ -1,32 +1,39 @@
-WESLEY RIKER DATA TROI PICARD
+RIKER OBRIEN LAFORGE WORF PICARD WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Bridge]
+
+WESLEY: It's a building of some sort, situated on a
+plain of frozen methane, smack in the middle of a tremendous storm
+belt. 
+RIKER: I don't believe this. That structure is surrounded by breathable
+air. 
+PICARD: Is there any connection between that structure and the ship
+fragment we found? 
+LAFORGE: Unknown, sir. 
+PICARD: Suggestions? 
+RIKER: Just one, sir. We could go down there and have a look. 
+PICARD: Breathable air. No life forms that might be dangerous. I think
+we could risk a minimal away team, Number One. 
 [Transporter room]
 
-RIKER: We've locked onto something with markings on
-it. 
-PICARD: What sort of markings? 
-RIKER: Uncertain. Energise. 
-(O'Brien beams a piece of curved metal construction aboard. He and
-Riker go to the pad and turn it's outer surface to face us. Lo and
-behold, a US flag and the letters NASA. The camera drools over it
-lovingly. Why couldn't it be ESA for once?) 
-PICARD: We've got ourselves a puzzle, Number One. 
-RIKER: Yes sir. I think we have. 
-[Observation lounge]
+(Riker, Data and Worf are the away team) 
+O'BRIEN: Give me a moment, gents. We're dealing with an extremely
+narrow access point. 
+RIKER: Phasers on stun. Ready when you are. 
+O'BRIEN: I believe we've got it now. You have a green light, Commander.
 
-DATA: Analysis bears out that the object was
-definitely terrestrial in origin, dated mid twenty first century. 
-PICARD: No, no. No Earth ship of that time could have travelled out
-this far. 
-DATA: Nevertheless, that is what our tests indicate. And the markings
-we discovered are consistent with this hypothesis. 
-TROI: Any indication of what destroyed it, Data? 
-DATA: That is even more significant than the object itself, Counsellor.
-On several of its surfaces, the molecules seem to have disintegrated 
-RIKER: Disintegrated? How? 
-DATA: Almost as if they were hit by a weapon from our time. 
-PICARD: Curiouser and curiouser. 
-(Alice's
-Adventures in Wonderland, if you needed reminding.) 
-WESLEY [OC]: Captain, we've detected a large structure on the planet.
+RIKER: Energise.
 
+[Planet surface]
+
+(Nothing. Absolute void, except for..) 
+DATA: Those ammonia storms are less than a kilometre away, yet they do
+not appear to penetrate this breathable zone. 
+RIKER: It's like the eye of a hurricane. 
+WORF: Commander, what is that? 
+(It is a revolving door, with art nouveau decoration. No building, just
+the turning door and it's frame) 
+RIKER: A door. 
+DATA: The structure must be here, yet we cannot see it. 
+RIKER: Enterprise, this is Commander Riker. 

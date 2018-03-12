@@ -1,34 +1,49 @@
-NIKOLAI COMPUTER WORF
+NIKOLAI LAFORGE WORF PICARD CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Stellar cartography]
 
-WORF: Concentrate your scans on the EPS transfer
-links. 
-(his security team split up, Worf ends up outside a holodeck) 
-WORF: Computer, open holodeck five. 
-COMPUTER: Unable to comply. Holodeck five is in use. 
-WORF: Override. Authorisation, Worf theta six one nine. 
-COMPUTER: Unable to comply. Holodeck control systems have been
-bypassed. 
-(then the doors open) 
-NIKOLAI: Worf Come in. 
-[Holodeck Cavern]
-
-WORF: What are you doing here? 
-NIKOLAI: I have to show you something. Whatever you do, stay quiet. 
-(Nikolai taps on a PADD and a 'window opens in the holodeck rock face) 
-NIKOLAI: Look. 
-(it's the cavern on the planet) 
-NIKOLAI: I've done what you refused to do. I've saved them.
-
-[Corridor]
-
-NIKOLAI: I started thinking about this days ago
-when it became clear the planet was doomed. I knew if I could get
-access to your ship's computer, I could generate a replica of the
-caves. The hard part was transporting the Boraalans into the holodeck
-without anybody on the Enterprise noticing. But I was able to blank out
-the sensors and make it look like interference from the plasmonic
-bursts. And it worked, perfectly. The Boraalans were transported while
-they were sleeping. They never knew anything had happened.
+CRUSHER: There are countless M class planets in
+Federation space which can support the Boraalans. We need to narrow the
+parameters. 
+DATA: It will take approximately nine and one half hours to complete
+the analysis. 
+PICARD: Even then there's no guarantee that we'll find a suitable
+planet. 
+DATA: That is correct, sir. 
+LAFORGE: Captain, you'd better take a look at this. 
+PICARD: What is it? 
+LAFORGE: We've got a problem, sir. I don't think it's going to be
+possible to keep this holodeck simulation stable. 
+PICARD: Why not? 
+LAFORGE: The plasmonic energy surges from the planet are affecting the
+ship's systems. We're having problems with the EPS systems and the
+power distribution matrix. 
+NIKOLAI: And as a result, the holodeck imaging processor has been
+severely destabilised. 
+LAFORGE: It's not a question of whether the simulation will break down,
+it's a question of when. 
+PICARD: There's no way round it? 
+LAFORGE: Not while it's running. In order to fix it, I'd have to shut
+down all of the holodecks and re-initialise the entire system. 
+PICARD: That will take hours. 
+NIKOLAI: We'll just have to hope the simulation holds long enough. 
+PICARD: Very well. Let's try it. Mister La Forge, I want you to monitor
+the situation very carefully, and keep an open comm. link with the
+Holodeck so as to be apprised of any problems. 
+LAFORGE: Aye, sir. 
+NIKOLAI: Captain, I'll return to the holodeck as soon as my surgical
+alterations are completed and I'll prepare the Boraalans for their
+journey. 
+PICARD: Considering the situation you have put us in, I don't think
+it's wise to leave you alone with those people. Mister Worf will
+accompany you. 
+WORF: Sir, perhaps someone else would be a better choice. Counsellor
+Troi is familiar with 
+PICARD: Mister Worf, the Boraalans already know you. There's no need to
+introduce them to anyone new. 
+WORF: Aye, sir. 
+(Nikolai leaves) 
+PICARD: Keep a close eye on your brother. I don't want him making this
+situation worse than it is.
 

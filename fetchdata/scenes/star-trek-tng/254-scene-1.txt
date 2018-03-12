@@ -1,4 +1,5 @@
-TROI WORF PICARD BYLETH RIKER LOQUEL
+TROI WORF PICARD GUEST0 RIKER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
   [Worf's
 quarters]
@@ -31,12 +32,12 @@ PICARD: Ah, you're just in time. They're about to disembark.
 (three males in very plain jumpsuits get out of the shuttle) 
 PICARD: Ambassador Loquel, Ambassador Byleth. I'm Captain Picard.
 Welcome on board the Enterprise. 
-LOQUEL: It is our pleasure to be here, Captain. 
+GUEST1: It is our pleasure to be here, Captain. 
 PICARD: It is an honour to be the site of the first cultural exchange
 between the Iyaaran people and the Federation. 
-BYLETH: (the tall one) The next seven days should prove most
+GUEST0: (the tall one) The next seven days should prove most
 illuminating. 
-LOQUEL: Allow me to introduce Voval. He will be taking you back to our
+GUEST1: Allow me to introduce Voval. He will be taking you back to our
 homeworld. 
 PICARD: How do you do. I'm looking forward very much to meeting with
 the Premier of Iyar. There will be a reception held in your honour when
@@ -48,18 +49,18 @@ you're on board. Counsellor Deanna Troi of the planet Betazed will be
 your personal liaison office, Ambassador Loquel. 
 TROI: Ambassador, it's an honour to meet you. Would you like to see
 your quarters before we attend the reception? 
-LOQUEL: Please. 
+GUEST1: Please. 
 (Troi and Loquel leave) 
 PICARD: Ambassador Byleth, this is Commander William Riker, my First
 Office, from the planet Earth. He has been assigned to you. 
-BYLETH: (walks up to Worf) I want this one. 
+GUEST0: (walks up to Worf) I want this one. 
 PICARD: Well, Commander Riker is a skilled diplomat, with wide
 experience in inter-species contact. 
-BYLETH: I'm sure, I'm sure. But I have decided. I want this Lieutenant
+GUEST0: I'm sure, I'm sure. But I have decided. I want this Lieutenant
 Worf. 
 PICARD: Well, that will be just fine. Mister Worf? 
 WORF: Yes. Yes Ambassador, it would be my pleasure to 
-BYLETH: Yes, yes. Enough of that. Show me to my quarters. 
+GUEST0: Yes, yes. Enough of that. Show me to my quarters. 
 WORF: This way. 
 (Worf and Byleth leave) 
 PICARD: Good luck. 

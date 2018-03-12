@@ -1,74 +1,52 @@
-WESLEY CRUSHER ROBIN
+WESLEY WOMAN OBRIEN GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Ten Forward]
 
-WESLEY: Conduits twelve and twenty two are still
-down for testing. 
-ROBIN: We can re-route through junction fourteen B. 
-WESLEY: You have a funny way of looking at conduit configuration. But
-it works. 
-ROBIN: That's Law Thirty Six. You've got to go with what works. 
-WESLEY: What are all these laws that I keep hearing about? 
-ROBIN: They're my personal laws. Every time I learn something
-essential, I make up a law about it so I never forget. 
-WESLEY: How many do you have? 
-ROBIN: A hundred and two so far. 
-(they sit at a console) 
-ROBIN: Looks like the starboard array needs another subprocessor. 
-WESLEY: It'll be online in a few minutes. I'm way ahead of you. 
-ROBIN: They said you were good. 
-WESLEY: Why do I get the feeling that you already know me? 
-ROBIN: I have a few friends at the Academy. Your name's come up a
-couple of times. That was really some stung you pulled on Adam Martoni
-in the physics lab. I just want to know how you got the antimatter
-regulator to spray chili sauce. 
-WESLEY: There is another side to that story. 
-ROBIN: Is it true what they say about your birthmark? 
-WESLEY: This isn't fair. I hardly know anything about you. 
-ROBIN: Hey, that's Law Forty six. Life isn't 
-WESLEY: Always fair. Yeah, I know that law. I still have to work on the
-sensor relays, but I'd like a chance to even the score. Ten Forward,
-nineteen hundred hours. Will you join me for coffee? 
-ROBIN: No. But I'll meet you for dinner.
+O'BRIEN: Have you tried this? 
+GUEST1: I've tried it, thanks. It's great. 
+WESLEY: Robin. 
+GUEST1: Where have you been? Everyone's after me to try it. 
+WESLEY: I know. I got stopped in the corridor twice. I talked to the
+Captain. He's going to look into it. 
+GUEST1: I hope he makes a shipwide announcement or something, because
+this thing is really starting to give me the creeps. 
+WOMAN: Did you forget your games? 
+GUEST1: We left them in our quarters. 
+WOMAN: Well then, use mine. 
+GUEST1: No, thanks. 
+WOMAN: Try it. 
+WESLEY: She said no thanks. 
+(they get up and walk away) 
+WESLEY: You know what else is really weird? If this game is so
+addictive, there's only one person onboard we can be sure wouldn't be
+affected by it. 
+GUEST1: Data. 
+WESLEY: Right. And he managed to get injured right when the game was
+brought on board. We'd better take a look at him.
 
-Captain's log, supplemental. We have arrived at the
-Phoenix Cluster, but it will take us several hours to determine the
-best possible location from which to conduct our survey. Commander
-Data's condition remains unchanged with no further indication as to the
-cause of his collapse.
+[Sickbay]
 
-[Crusher's quarters]
-
-(Beverly's playing the game at high level, and
-getting a lot of pleasure from it) 
-WESLEY: Mom? 
-CRUSHER: Wesley. 
-WESLEY: What are you doing? 
-CRUSHER: I'm embarrassed to say. This was meant for you. But it was so
-much fun, I couldn't resist. 
-WESLEY: What is it? 
-CRUSHER: It's a game. Riker brought it back from Risa. Everybody's
-playing it. Want to try? 
-WESLEY: Maybe later. How's Data? 
-CRUSHER: Geordi's still working on him. He's going to be fine. 
-WESLEY: I think I should go give him a hand. 
-CRUSHER: No. Wesley, you are on vacation. You have done enough already.
-
-WESLEY: Yeah, maybe you're right. Computer, increase light level. 
-CRUSHER: Are you in a hurry? 
-WESLEY: Yeah, I'm late for a dinner date. 
-CRUSHER: Really. With who? 
-WESLEY: Robin Lefler from Engineering. 
-CRUSHER: Why don't you invite her here? We can all play the game
-together. I can replicate a couple more. 
-WESLEY: Mom. 
-CRUSHER: Sorry. It's just that I want to spend some time together while
-you're here. 
-WESLEY: We'll have time together. I promise. 
-CRUSHER: Okay. 
-WESLEY: Okay. 
-CRUSHER: Just one game. Come on, try it on for size. 
-WESLEY: Mom! I really need to get ready. 
-CRUSHER: Have a good time. 
-WESLEY: Thanks. I will.
+WESLEY: Maybe you should go check again. 
+GUEST1: The nurse is still playing the game. 
+WESLEY: I don't know what to make of this. There's brain activity all
+his systems seem to be working. 
+GUEST1: How can that be? He's unconscious. 
+WESLEY: Maybe there's a signal breach between his brain and his body.
+Let's map his nervous system and see if we can isolate a weak link.
+Patch the neural output through to that station. Here. The signal stops
+just below his cortex processor. There's some kind of damage. It's
+almost undetectable. Let's look at it on the viewer. 
+GUEST1: Wesley, look at that. 
+WESLEY: It looks like some of his positronic links have been severed. 
+GUEST1: The cuts are precise. Look how clean the edges are. Computer,
+increase magnification, factor four. 
+WESLEY: Only two people on board know enough about Data to do something
+like this. Commander La Forge and my mother. 
+GUEST1: Why would one of them do this to him? 
+WESLEY: Maybe there's more going on here than we thought. What if
+someone's trying to use the game for some purpose other than pleasure? 
+GUEST1: Then Data would be a threat to that plan. And only with Data out
+of the way would everybody become addicted. 
+WESLEY: And everyone has. Except us.
 

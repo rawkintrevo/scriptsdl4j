@@ -1,78 +1,41 @@
-TROI LAFORGE PICARD PULASKI COMPUTER KINGSLEY DATA
+PULASKI PICARD OBRIEN DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Transporter room]
+
+(La Forge and Data are assisting O'Brien and his
+crewman with the modifications) 
+PICARD: All set, Chief? 
+O'BRIEN: Almost ready, sir. There's just one thing. 
+PICARD: Yes? 
+O'BRIEN: This modification's one way only. If it doesn't work we won't
+be able to reverse transport the Doctor back to the planet. 
+PICARD: Then I'll operate the transporter controls myself. If she's
+going to be consigned to oblivion, then 
+O'BRIEN: Thank you, sir. I'll be monitoring the medical scans. But
+you'll be able to tell if it's worked by watching the stack. 
+PICARD: Doctor Pulaski, are you ready? 
+PULASKI [OC]: I suppose I am, Captain. 
+PICARD: Here we go. 
+(The figure that starts to materialise is white-haired and old) 
+PICARD: It's not working. 
+O'BRIEN: Captain, wait. 
+(He taps his board and she becomes younger, and solid. Picard and
+Pulaski embrace.) 
+DATA: Doctor. 
+LAFORGE: Good to see you, Doctor. 
+PICARD: Welcome back, Doctor. Come. 
 [Corridor]
 
-PULASKI: Deanna, do you have a minute? You've known
-the Captain for some time. I think I need some advice. I don't seem to
-be dealing with him very well. 
-TROI: Why do you say that? 
-PULASKI: Well, my arguments don't seem to have any affect on him. We
-just end up quoting regulations to each other. He has such a consuming
-dedication to his ship, he doesn't seem able to step back to see the
-human side of the equation. 
-(Troi smiles) 
-PULASKI: What's the matter? 
-TROI: Kate, I don't think he'd be where he is if he couldn't see the
-human side of the equation. Perhaps the two of you aren't all that
-different. 
-PULASKI: What do you mean? 
-TROI: Let's just say you both have well established personalities.
+PULASKI: Captain, if this hadn't worked? 
+PICARD: If this hadn't worked, it would have been necessary to beam
+your energy into empty space. 
+PULASKI: And spread my atoms spread across the galaxy. 
+PICARD: Yes. I'm sorry. 
+PULASKI: No, no, don't be sorry. Every time I get into the damn thing,
+I'm convinced that's what's going to happen.
 
-[Doctor's office]
-
-PULASKI: Doctor Kingsley, this is Kate Pulaski. 
-KINGSLEY [on monitor]: Doctor? Do you have a decision? 
-PULASKI: I'm afraid it's bad news. 
-KINGSLEY [on monitor]: How can that be?! 
-PULASKI: The risk to the ship and crew is too great. Until we
-absolutely know the cause of the disease, the children 
-KINGSLEY [on monitor]: The children are harmless. Every test on them
-has been negative. I demand that you do something to save them. Please,
-Doctor. For God's sake, we haven't got much time. 
-PULASKI: Stand by. I'll get back to you.
-
-[Engineering]
-
-PULASKI: Geordi, I need your help. 
-LAFORGE: What is it, Doctor. 
-PULASKI: I need to prove the children are harmless. I can only do that
-in a fail-safe environment. 
-LAFORGE: The problem is there's no area on the ship that can be sealed
-off with absolute certainty, even with force fields. 
-PULASKI: Sickbay has an isolated system. 
-LAFORGE: But it's not possible to totally cut it off from the rest of
-the ship. The only truly independent environment would be something
-like a shuttlecraft. 
-PULASKI: A shuttlecraft. Why didn't you say so?
-
-[Ready room]
-
-PICARD: Come. 
-PULASKI: Captain, I'd like permission to put the boy in a shuttlecraft.
-I can study him there without risk to anyone else. 
-PICARD: What about you? 
-PULASKI: I'm prepared to take that risk. Someone has to breathe the
-same air he breathes, to touch him. I'm volunteering to make that test
-myself. 
-PICARD: Doctor, you have a responsibility to this ship which goes 
-PULASKI: I also have a responsibility to humanity. 
-PICARD: Starfleet guidelines about contact with quarantined 
-PULASKI: You don't have to quote the rule book. You were saying? 
-PICARD: Request approved. 
-PULASKI: Captain, you said if I. Approved? 
-PICARD: I recognise that you're trying to satisfy my conditions. 
-PULASKI: Thank you.
-
-[Shuttlebay]
-
-(Shuttlecraft Sakharov is being prepped for launch)
-
-DATA: You sent for me, Doctor? 
-PULASKI: I did, Commander. I assume that you're qualified to pilot this
-shuttlecraft. 
-DATA: Certainly. I took advanced training in the operation of auxiliary
-space vessels at Starfleet Academy, where I
-received 
-PULASKI: A more than passing grade, no doubt. Please, come aboard. We
-don't have much time. 
-COMPUTER: Shuttlebay three force field activated. 
+Chief Medical Officer's log, supplemental. The
+adults of Darwin Station have been restored to normal health using our
+transporter. They will remain on Gagarin Four and continue their
+research in hopes of one day rejoining their children. 

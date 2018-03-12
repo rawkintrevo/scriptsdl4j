@@ -1,30 +1,5 @@
-KRITE RIKER SOREN
-
-[Shuttlecraft]
-
-RIKER: Later we'll try a flight simulation. Right
-now let's do a systems review. I'll talk you through it. 
-SOREN: Let me try it. Propulsion system, transfer conduits. Where's the
-schematic reactor assembly? Oh, there it is. Engine nacelles. There's
-nothing here that's unfamiliar. Navigational deflector, redundant
-graviton polarity source generators. 
-RIKER: You handle these controls like you grew up in a shuttle. 
-SOREN: I did. My parents were pilots. I was flying with them before I
-could walk. And as soon as I was old enough, I entered flight school.
-Krite was my instructor. 
-RIKER: He had a good student. 
-SOREN: He? Commander, there are no he's or she's in a species without
-gender. 
-RIKER: Okay. For two days I've been trying to construct sentences
-without personal pronouns. Now I give up. What should I use? It? To us,
-that's rude. 
-SOREN: We use a pronoun which is neutral. I do not think there is
-really a translation. 
-RIKER: Then I'll just have to muddle through. So forgive me if a stray
-he or she slips by, okay? 
-SOREN: Well, if that's the systems review, I don't see any problem.
-What's next? 
-RIKER: Lunch.
+GUEST0 RIKER SOREN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ten Forward]
 
@@ -79,7 +54,7 @@ SOREN: You make it sound very complex.
 RIKER: Believe me, it is. 
 SOREN: Well, perhaps it is that complexity which makes differences in
 the sexes so interesting. 
-KRITE: Good evening, Commander. 
+GUEST0: Good evening, Commander. 
 RIKER: Good evening. 
 SOREN: Please take my place, Krite. I have to be going. Thank you for
 going over the flight protocols, Commander. It was very helpful.

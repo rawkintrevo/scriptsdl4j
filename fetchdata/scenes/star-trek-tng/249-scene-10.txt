@@ -1,43 +1,43 @@
-RIKER GOWRON WORF PICARD CRUSHER DATA
+GOWRON KLINGON GUEST0 GUEST1 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Holodeck Temple]
 
-CRUSHER: Did you take any other tricorder readings?
-An anatomical profile or a neurophysiology scan? 
-WORF: No. 
-CRUSHER: It's going to be very difficult to eliminate any possibilities
-at this point. He may be a coalescent being taking Klingon form, or a
-bioreplicant or even a Klingon who has been surgically altered to look
-like Kahless. 
-WORF: There is another possibility. He could be the real Kahless. He
-may have actually returned as he promised. 
-DATA: The appearance of Kahless in the lava caves is consistent with
-the stories found in the Klingon sacred texts. 
-RIKER: Worf, no offence, but I have trouble believing that the man I
-that escorted to deck eight is supernatural. 
-WORF: I did not say that he is. I merely think we should not completely
-reject the possibility. 
-PICARD: Look, we have no reason to rule out anything. We are not
-ordered to investigate the origins of our guest, nor tell anyone what
-they should believe. We are simply to transport Kahless to the Home
-World. And while he's here with us, he will be treated as an honoured
-guest. 
-(as everyone starts to leave) 
-DATA: Lieutenant? May I ask a question? In the absence of empirical
-data, how will you determine whether or not this is the real Kahless? 
-WORF: It is not an empirical matter. It is a matter of faith. 
-DATA: Faith? Then you do believe Kahless may have supernatural
-attributes? As an android, I am unable to accept
-that which cannot be proven through rational means. I would appreciate
-hearing your insights on this matter. 
-WORF: Perhaps some other time, Commander. I do not believe I can
-provide much insight at this minute.
+GOWRON: Koroth. I see that not all fools die young.
 
-[Transporter room]
-
-PICARD: Welcome aboard, Gowron. 
-GOWRON: Where is he, Picard? 
-PICARD: I assume that you're referring to Kahless. 
-GOWRON: I am referring to the filthy pahtk who is using his name. 
-PICARD: Well, the person in question is in his quarters at the moment. 
-GOWRON: What have you learned about him so far? 
+KLINGON: Kahless! 
+GUEST1: Kahless, may I present Gowron, Leader of the High Council. 
+KLINGON: Kahless. 
+(Kahless walks straight to his throne and sits) 
+GUEST0: Long ago, a storm was heading toward the city of Quin'lat. The
+people sought protection within the walls. All except one man who
+remained outside. I went to him and asked what he was doing. I am not
+afraid, he said. I will not hide my face behind stone and mortar. I
+will stand before the wind and make it respect me. I honoured his
+choice and went inside. The next day, the storm came and the man was
+killed. The wind does not respect a fool. Do not stand before the wind,
+Gowron. 
+GOWRON: What was his name? 
+GUEST0: What? 
+GOWRON: If you were really there, you should be able to tell us the
+name of the man outside the walls. Describe him to us. What was he
+wearing? How tall was he? What colour were his eyes? 
+GUEST0: I do not remember. It was long ago, and in another lifetime.
+What matters is, I have returned to restore faith and hope to my
+people. To lead them back to the way of honour and the glory that was
+once theirs and can be again. Is that what you oppose, Gowron? 
+GOWRON: I oppose you. I say you are not Kahless, and I will not bend my
+knee to you as long as I can draw a breath or pick up a blade. 
+(Gowron draws his dagger, and Kahless comes forward to fight him with
+his own dagger) 
+GUEST1: No! 
+WORF: Koroth! 
+(the fight starts) 
+GUEST0: A good try, Gowron, but not enough. 
+(another series of thrusts and parries, and Kahless headbuts Gowron,
+then laughs) 
+GUEST0: You have no joy, Gowron. Is your heart so filled of distrust
+and suspicion that you've forgotten what it is to be truly Klingon? 
+(Gowron disarms Kahless and knocks him down. Worf stops Gowron from
+killing him) 
+GOWRON: Kahless. The greatest warrior of them all. 

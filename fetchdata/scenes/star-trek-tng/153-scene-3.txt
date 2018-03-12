@@ -1,34 +1,47 @@
-PICARD TROI CRUSHER WORF
+PICARD RIKER TROI WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Corridor]
 
-(The party have dirty faces and uniforms) 
-CRUSHER: Away Team is aboard, Captain. 
+PICARD: Picard to Bridge. 
+RIKER [OC]: Yes, Captain. 
+PICARD: Assign Commander La Forge to lead another away team to the dig
+site. I want to know why this happened. 
+RIKER [OC]: Yes, Captain. 
+PICARD: I will be with Counsellor Troi
+
 [Bridge]
 
-CRUSHER [OC]: One dead on arrival.
+PICARD [OC]: And young Jeremy Aster. 
+RIKER: I understand. Riker out. 
+WESLEY: He had to do the same thing for me. 
+RIKER: Do you know Jeremy well? 
+WESLEY: But I know this is going to be like for him. 
+RIKER: That's part of life in Starfleet, Wesley. 
+WESLEY: I know. They're very careful to prepare us for anything, but
+still 
+RIKER: I know. 
+WESLEY: How do you get used to it? Telling them? 
+RIKER: You hope you never do.
 
-Captain's Log, stardate 43198.7. The Enterprise
-remains in standard orbit while we investigate the tragedy which has
-struck the away team. Lieutenant Marla Aster, ship's archaeologist, has
-been killed in what should have been a routine mission. Whatever the
-explanation, it will not bring back a valued and trusted officer.
+[Worf's quarters]
 
-[Sickbay]
+(Worf extinguishes a candle with a dagger blade)
 
-PICARD: Lieutenant? 
-WORF: We had completed our investigation of the third tunnel. Our scans
-had indicated no weapons or traps of any kind. Lieutenant Aster was
-three metres behind me. An explosive device went off. There was no
-warning. Lieutenant Aster bore the full brunt of the detonation. 
-(Troi enters) 
-TROI: Lieutenant Aster is survived by a son, Jeremy. Twelve years old.
-He's aboard the Enterprise, sir. 
-PICARD: And his father? 
-TROI: He's also deceased. His only living relatives are an aunt and
-uncle residing on Earth. 
-PICARD: Where is he now? 
-TROI: In class. I've alerted the teacher to expect us.
-WORF: Captain. I must accompany you. I commanded the away team. 
-PICARD: I appreciate your offer, Lieutenant, but this is my
-responsibility. 
+[Turbolift]
+
+TROI: I sense the weight of this duty on you,
+Captain. 
+PICARD: I really wonder. Halt. I've always believed that carrying
+children on a starship is a very questionable policy.
+Serving on a starship means accepting certain risks, certain dangers.
+Did Jeremy Aster make that choice? 
+TROI: Death and loss are an integral part of life everywhere. Leaving
+him on Earth would not have protected him. 
+PICARD: No, but Earth isn't likely to be ordered to the Neutral Zone,
+or to repel a Romulan attack, It was my command which sent his mother
+to her death. She understood her mission and my duty. Will he? 
+TROI: In time, and with help. Wesley Crusher does. He does. And so will
+Jeremy. 
+PICARD: Resume.
+

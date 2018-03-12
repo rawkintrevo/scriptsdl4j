@@ -1,33 +1,55 @@
-PICARD CRUSHER LAFORGE
+RIKER LAFORGE WORF PICARD OGAWA CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Somebody's quarters]
+
+RIKER: Sometimes I wonder if he's stacking the
+deck. 
+DATA: I assure you, Commander, the cards are sufficiently randomised. 
+WORF: I hope (pause) so. 
+RIKER: Something wrong, Mister Worf? 
+WORF: I am experiencing nIb'poH, the feeling I have done this before. 
+RIKER: Yeah, last Tuesday night. 
+WORF: That's not what I mean. 
+CRUSHER: I've been having the same feeling. Keep dealing, Data. 
+DATA: Eight. Ace. 
+CRUSHER: A Queen. You're going to give me a Queen. And you're going to
+get a four. Deal, Data. 
+DATA: But no one has bet. 
+CRUSHER: Forget the bet. Just deal. Ten, seven, queen. 
+WORF: Nine. Jack. Four. 
+RIKER: Deuce. Six. 
+DATA: This is highly improbable. 
+RIKER: How did we know? 
+CRUSHER: Wait. Crusher to Sickbay. 
 [Sickbay]
 
-LAFORGE: At first I thought the catwalk was
-spinning. As it turns out, it was me. I was lucky Ensign Fletcher was
-there to grab me. It's a long way down to the bottom of the warp core. 
-CRUSHER: You have all the symptoms of an inner ear infection. That
-would explain your the headaches and the dizziness. But there's no
-physical 
-LAFORGE: What? What is it? 
-CRUSHER: Geordi, have you ever had these symptoms before? 
-LAFORGE: Now that you mention it, I think I have. 
-CRUSHER: Do you recall when? 
-LAFORGE: No, I don't. 
-CRUSHER: We've had this discussion before and I know I've given you
-this examination. Let's check the medical logs. You've been treated
-several times for headaches related to your visor, but I read no
-mention of dizziness. 
-LAFORGE: Must be dj vu. 
-CRUSHER: Both of us? About the same thing?
-
-[Crusher's quarters]
-
-(Beverly is about to dead-head a plant, when she
-stops. She sips her night-cap, sits on the bed and gives the glass a
-quizzical look. Then she sets it down, turns out the lights and lies
-down. The voices start up. Reaching for the lights, she knocks over the
-glass, and the voices stop) 
-CRUSHER: Crusher to Captain Picard. 
-PICARD [OC]: Yes, Doctor? 
-CRUSHER: Do you have a minute, Jean-Luc?
+OGAWA: Sickbay here. 
+CRUSHER [OC]: Is Commander La Forge there? 
+OGAWA: No, Doctor, he's not. Wait a minute. He just came in.
+(After Geordi's examination) 
+PICARD: You wanted to see me, Doctor? 
+CRUSHER: Yes. Captain, have you been getting the feeling that you've
+experienced certain things before? A sense of repetition? 
+PICARD: Yes, recently. While I was reading. Why do you ask? 
+CRUSHER: There have been similar incidents reported all over the ship.
+Feelings of
+dj vu. I had a premonition Geordi was going to come in to Sickbay. A
+few seconds later he did, with the symptoms of an ear infection. I was
+going to run the standard tests, but somehow I had a feeling they would
+turn out negative. So I ran an optical diagnostic which traced the
+problem to Geordi's visor. His dizziness is being caused by a phase
+shift in his visual receptors. It's causing him to see images that
+aren't there. 
+LAFORGE: They're like blurry after-images. 
+CRUSHER: I ran a scan to see if I could detect what he was seeing. I
+picked up miniscule distortions in the surrounding dekyon field.
+Somehow, his visor is translating those distortions into visual
+impulses. 
+LAFORGE: It could be a malfunction in the ship's warp field generator.
+I'll check it out. 
+PICARD: Run a localised subspace scan to look for anything else. 
+LAFORGE: Aye, sir. 
+(Geordi leaves) 
+PICARD: Keep me advised.
 

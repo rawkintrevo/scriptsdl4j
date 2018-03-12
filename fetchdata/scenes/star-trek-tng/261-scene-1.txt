@@ -1,37 +1,49 @@
-TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
- [Observation lounge]
+  [La
+Forge's quarters]
 
-RIKER: The Fleming's last contact with Starfleet
-was four days ago. According to them, there was nothing out of the
-ordinary when they entered the Corridor. 
-PICARD: Data. 
-(Data explains the wall monitor display) 
-DATA: The unusually intense tetryon fields in this sector pose a severe
-navigational hazard to
-warp driven vessels. The Hekaras Corridor is the only route through the
-area which is free of tetryon fields. Ships travelling at warp must use
-the Corridor to ensure safe passage through the region. 
-PICARD: How long will it take to complete a level one search? 
-DATA: At least two days, sir. The Corridor is over twelve light years
-long, and the surrounding tetryon interference will limit our sensor
-range. 
-WORF: Could we send out reconnaissance probes to supplement the
-sensors? 
-LAFORGE: They won't be very effective. The interference will make it
-difficult to maintain contact with the probes. The best we can do is to
-increase sensor efficiency. We've installed multiphase buffers on all
-the sensor modules, Captain. It should help a little. 
-TROI: Hekaras Two is inhabited, isn't it? Maybe they've had contact
-with the Fleming. 
-RIKER: They haven't. I've already spoken to the Hekaran government.
-According to them, only one ship has passed through the system in the
-last week. It was a Ferengi trader. 
-CRUSHER: The Fleming was carrying a supply of rare biomimetic gel,
-which is very valuable. Is it possible that the Ferengi might have
-hijacked it? 
-RIKER: I wouldn't put it past them. I think we should prepare for that
-contingency. 
-PICARD: I agreed. All right then. Mister Worf, initiate your search
-pattern. Let's head in.
+(Data enters and sees a smashed flower vase on a
+table, then hears a cat's snarl) 
+DATA: Geordi? 
+LAFORGE: In here, Data. 
+(the bedroom) 
+LAFORGE: Got her now. She's trapped. Come on out of there, you. Hey,
+don't you spit at me. 
+DATA: Why is Spot under the bed? 
+LAFORGE: Probably because she knows if I catch her, I'm going to kill
+her. 
+DATA: Has Spot been misbehaving? 
+LAFORGE: So far she's broken a vase, a teapot, she's ruined one of my
+chairs using it as a scratch post, and she's coughing hairballs up all
+over my carpet. 
+DATA: These incidents are common to cat owners. When you borrowed Spot,
+you said you wanted to experience the full range of feline behaviour
+before getting a cat yourself. 
+LAFORGE: Yeah, well, I'm not ready. You can take her back with my
+blessings. Go ahead, call her. 
+DATA: Spot does not respond to verbal commands. 
+LAFORGE: She won't come when you call her? Data, have you ever
+considered training this cat? 
+DATA: I never found it to be necessary. 
+LAFORGE: Necessary? Data, the cat is out of control. Half the time I
+wasn't sure if she was going to lick me or scratch my face off. 
+DATA: I have never experienced this kind of behaviour in Spot. Although
+she does have the unfortunate habit of jumping on my computer console
+when I am working. 
+LAFORGE: She needs training. 
+RIKER [OC]: Riker to senior staff. Please report to the Observation
+lounge. Mission briefing in ten minutes. 
+LAFORGE: Right, we have to get her out of here. I'll scare her. You
+grab her when she comes out, okay? 
+DATA: I do not think it would be wise to startle her. 
+LAFORGE: Ready? Ow! 
+(Spot runs out and there's a crash sound) 
+LAFORGE: Training. Definitely.
+
+Captain's log, Stardate 47310.2. We're
+investigating the disappearance of the Medical Transport Fleming
+somewhere in the Hekaras Corridor. Our search is complicated by the
+unique properties of this particular region of space.
 

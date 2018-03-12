@@ -1,45 +1,41 @@
-RIKER TACTICS WORF WESLEY PICARD KLAG DATA KARGAN
-
-[Pagh Bridge]
-
-(The hole in the hull is a lot bigger) 
-KARGAN: What is the status? 
-TACTICS: Unchanged. The rate of increase continues. 
-KARGAN: Commander Riker, check the organism growth with Engineering. 
-(Riker leaves) 
-KARGAN: Keep him under scrutiny. 
-KLAG: Captain, I'm not convinced Riker knew of any plot against us. If
-he did, why would he have come on board? 
-KARGAN: Because he was ordered to. 
-KLAG: To die? 
-KARGAN: It's the expectation of any officer to be ordered to die at any
-time. 
-KLAG: For a Klingon perhaps, but Riker's people do not volunteer for
-death so easily. He may be a spy, but he's no coward. 
-KARGAN: That only proves that he is intelligent. And you might not be
-as strong as you used to be. 
-TACTICS: Captain, I've picked up the Enterprise. 
-KARGAN: So soon? 
-TACTICS: The Enterprise is on an intercept course with us. 
-(Riker enters) 
-KARGAN: You almost had me believing this was a misunderstanding. 
-RIKER: But? 
-KARGAN: The Enterprise has changed course and is following us. Why? 
-RIKER: Ask them. 
-KARGAN: The reason is obvious. Their intent is clear. How long before
-we make contact? 
-TACTICS: Less than fifteen minutes, sir. 
-KARGAN: Put the ship on full battle alert. Arm all photon torpedoes.
-Let them charge into their destruction.
+RIKER OBRIEN WORF PICARD KLAG KARGAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WESLEY: Captain, our bearings show that we should
-be in contact with the Klingon vessel now. 
-DATA: Slow to impulse. 
-WESLEY: Aye, sir. Impulse speed. 
-WORF: Hailing frequencies are open. There is no response. 
-PICARD: Continue transmitting. 
-DATA: The Pagh is either cloaked or destroyed, sir. 
-PICARD: Conduct an intensive scan of the area.
+RIKER [on viewscreen]: Enterprise, this is Captain
+William Riker of the Klingon vessel, Pagh. I order you to lower your
+shields and surrender. 
+PICARD: Lower shields. Surrender, as ordered. 
+KARGAN: I demand to be beamed back aboard my vessel! 
+PICARD: Transporter Chief, prepare to beam Captain Kargan back aboard
+the Pagh. 
+O'BRIEN [OC]: Aye, sir. 
+PICARD: Captain Riker, we can carry out your repairs immediately. 
+RIKER: Thank you, Captain Picard.
 
+[Pagh Bridge]
+
+KARGAN: You should have killed me. 
+RIKER: I don't want your command. 
+KARGAN: But you tricked me to get it. 
+RIKER: Either way, you can have it back. 
+KARGAN: Then return to your station. 
+(Riker holds his ground, so Kargan gives him a massive back-hander that
+sends him flying. Klag checks his injuries) 
+KARGAN: Get him off my ship! 
+KLAG: Yes, Captain. You understand the Klingons better than I thought,
+Commander. 
+RIKER: Thank you, my friend.
+
+[Transporter room]
+
+RIKER: That might have been one of the shortest
+assignments in the history of Starfleet. 
+PICARD: Wrong, Number One. It was almost the longest. Well done. 
+RIKER: Thank you. Actually, I learned quite a bit. 
+PICARD: Apparently, not when to duck. 
+RIKER: When not to duck would be more accurate. 
+PICARD: Welcome aboard, Number One. Now, Lieutenant, conduct the
+Commander to Sickbay. 
+WORF: Aye, sir. Commander? 

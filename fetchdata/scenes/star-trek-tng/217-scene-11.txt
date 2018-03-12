@@ -1,49 +1,36 @@
-PICARD RIKER SOREN DATA
+RIKER PICARD MEDIC GUEST0 SOREN CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-PICARD: Proceed, Mister Data. 
-DATA: Initiating pre-launch sequence. 
-RIKER [OC]: Request flight clearance. 
-DATA: Clearance is granted. The shuttle is under way, sir. 
-PICARD: Good hunting, Commander. 
-RIKER [OC]: Thank you, sir. See you for dinner.
+(and the four materialise safely) 
+CRUSHER: They've been oxygen deprived. There doesn't seem to be any
+significant damage. Prepare some dexalin. 
+MEDIC: Yes, Doctor. 
+GUEST0: Commander, thank you. 
+RIKER: Your colleague Soren was very helpful. 
+GUEST0: Captain, would you all join us this evening? We would like to
+express our gratitude. 
+PICARD: We'd be happy to. 
+GUEST0: Noor will be eager to get a first hand report. We should return
+to the surface. 
+SOREN: I will see you later tonight, Commander. 
+[Courtyard]
 
-[Shuttlecraft]
-
-SOREN: Heading confirmed. Energy readings are
-normal, with power reserves stabilised at one hundred percent. 
-RIKER: Acknowledged. 
-SOREN: It's dead ahead, approximately fifty kilometres. 
-RIKER: Riker to Enterprise, we're taking her in. 
-(and the little craft disappears) 
-RIKER: Riker to Enterprise? Riker to Enterprise. 
-SOREN: Power reserves are down to eighty four percent. 
-RIKER: Look. (the other shuttle) Try hailing them. 
-SOREN: Calling the Taris Murn. Do you read me? 
-RIKER: Getting sensor readings. They're unconscious but they're alive.
-Stand by. I'm going to transport them over here. 
-SOREN: Power reserves at sixty eight percent and dropping. 
-(two figures start to materialise then vanish again) 
-RIKER: The null space must be affecting the annular confinement beam. 
-SOREN: We used ten megajoules with that attempt. We're down to thirty
-four percent of reserves. 
-RIKER: We can give it one more try. More than that, we won't have
-enough power to get ourselves out of here. 
-(this time the two bodies solidify) 
-SOREN: They need medical attention quickly. 
-RIKER: Okay. Stand by to transport to the Enterprise. Here we go. 
-(but that doesn't work) 
-RIKER: Energy consumption? 
-SOREN: We're down to nine percent. We don't have enough to get back. 
-RIKER: If we just sit here, we'll lose all of our systems within an
-hour, including life support. Okay, I'm rerouting the propulsion
-system to the transporter. Re-channel the navigation systems. Let's
-transfer every microjoule of energy we've got. Sensors, life support.
-This might give us one last shot. 
-SOREN: But if we use an energy shift of that size, it'll overload the
-phase compensators. The shuttle 
-RIKER: Will explode. But if we stay here, we're dead anyway. Maximum
-energy levels, five seconds. See you in a minute. 
-(KaBOOM)
+SOREN: There you are, Commander. I wondered what
+had happened to our guest of honour. 
+RIKER: I just needed some air. I can only take so much of these social
+functions, and then I need to breathe a little. 
+SOREN: I would think you had attended so many affairs like this that it
+would become second nature to you. 
+RIKER: I was raised outdoors. I'm never been very comfortable in
+crowded rooms. 
+SOREN: What do you think of our planet? Isn't it beautiful? 
+RIKER: Yes, it is. It's beautiful. 
+SOREN: We have many varieties of plant life. Perhaps you would like to
+inspect some of them? 
+RIKER: Yes, I would. I've always been interested in exobotany. 
+SOREN: Please, let me take you on a tour. 
+RIKER: Thank you. It's kind of you. 
+(Krite is watching suspiciously)
 

@@ -1,30 +1,34 @@
-TROI OBRIEN LAFORGE PICARD CRUSHER PATTERSON
+PICARD TROI OBRIEN GUEST1 GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cargo bay]
-
-LAFORGE: No. 
-CRUSHER: Come on, Geordi. 
-LAFORGE: No. 
-CRUSHER: Just try it once. It is not as hard as you think. I'm telling
-you, you will be terrific. 
-LAFORGE: All right. (sings) I am the very model of a modern major
-general, I've information vegetable, animal and mineral. I can't do
-this. 
-CRUSHER: Yes you can! 
-LAFORGE: I cannot sing in front of people. 
-CRUSHER: You were terrific! You were a little off pitch, but I think I
-can take care of that. Okay, La Forge as a modern major general. 
 [Bridge]
 
 TROI: Captain, I'd like to introduce you to the
 winners of the primary school science fair. This is Marissa, Jay
 Gordon, and Patterson. They're here for their tour. 
 PICARD: Hello. 
-PATTERSON: Can we see the battle bridge and torpedo bay? 
+GUEST1: Can we see the battle bridge and torpedo bay? 
 PICARD: No, I'm afraid not. But we will be visiting the hydroponics and
 astrophysics laboratories. 
 TROI: I'm sure you'll have a wonderful time. 
 PICARD: Well. If you'll come with me. 
 (Picard and children go into the turbolift as O'Brien comes out) 
 O'BRIEN: I'm not sure who to feel sorry for, the Captain or the kids.
+
+[Turbolift]
+
+PICARD: I want you to know we're very proud of the
+science fair winners. Perhaps some of you will choose to pursue a
+career in Starfleet. Well, then. What did you do for your science
+projects? 
+GUEST1: I planted radishes in this special dirt and they came up all
+weird! 
+PICARD: I see. That's very, very commendable. And you? 
+JAY GORDON: An analysis of the life span of the swarming moths of Gonal
+Four. They only live for twenty hours, then they all die. 
+PICARD: How interesting. And you 
+(but before the shy girl can answer, something happens)
+PICARD: We're falling! 
+(all over the ship, power drops and everything is shaken violently. Red
+Alert goes off automatically)
 

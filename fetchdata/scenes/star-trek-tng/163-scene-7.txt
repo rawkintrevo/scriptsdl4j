@@ -1,78 +1,51 @@
-RIKER LAFORGE CREWMAN TASHA PICARD GARRETT GUINAN CASTILLO CRUSHER DATA
+TASHA PICARD GUEST1 GUEST0 CREWWOMAN CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[1701-C Bridge] 
-(Flames, charred bodies across consoles wearing
-late TOS movie uniforms. The away team beam in.) 
-RIKER: Captain Garrett? 
-GARRETT: Yes. 
-RIKER: I'm Commander William Riker. Our emergency teams are on board
-your ship. Doctor? 
-CRUSHER: The rest of the bridge crew is dead. She has a bad fracture
-and has serious internal injuries. I'm going to have to get her back to
-the Enterprise. 
-GARRETT: To where? 
-RIKER: We'll explain that later. 
-GARRETT: You'll explain now, Commander. 
-RIKER: We're from a Federation starship. We answered your distress
-call. Your ship is in good hands, but we need to get you to our
-Sickbay. 
-GARRETT: Very well. 
-CRUSHER: Crusher to transporter room. Two to beam directly to Sickbay. 
-CREWMAN: Stand by for transport. 
-(Crusher and Garrett are beamed away) 
-LAFORGE: It's pretty bad, Commander. Looks like they were in a hell of
-a fight. 
-RIKER: If you can't stabilise the life support, we're going to have to
-evacuate the ship. 
-LAFORGE: I think we can do it. I'll have to get to Engineering though.
-La Forge to damage control team alpha. Meet me on Engineering level
-three. 
-TASHA: Commander. 
-(A sound of coughing. They move some debris and find another survivor) 
-CASTILLO: Thanks. 
-RIKER: Commander William Riker. 
-CASTILLO: Lieutenant Castillo, helmsman. 
 [1701D Bridge]
 
-DATA: Away team reporting in, sir. 
-PICARD: On screen, Mister Data. Go ahead, Commander. 
-RIKER [on viewscreen]: We've stabilised life support. Mister La Forge
-is working on restoring the main power couplings, but that'll take
-time. It's a real mess down here, sir. 
-PICARD: Survivors? 
-RIKER [on viewscreen]: One hundred twenty five. 
-PICARD: Recommendation? 
-RIKER: I'd hate to have to scrap her. Starfleet could certainly use
-another ship, even if she is old. 
-PICARD: Agreed. But we can't stay in this area too long. You have nine
-hours. If you can get her underway by then,
-we'll escort her back to Starbase one oh five. If not, we'll evacuate
-the survivors and destroy the ship. 
-RIKER [on viewscreen]: Understood, sir. 
-PICARD: Keep me posted, Picard out. 
-(Guinan enters, looking around a lot) 
-PICARD: Guinan? 
-GUINAN: We need to talk. Somehow this, this is all wrong. This is not
-the way it's supposed to be.
+DATA: There is a high degree of probability that
+the temporal rift is symmetrical, Captain. 
+PICARD: Then what would happen if the Enterprise C were to fly back
+through it? 
+DATA: Back, sir? The Enterprise C would emerge in her own time period
+at almost the same instant she left. 
+PICARD: Right in the middle of the battle with the Romulans. 
+DATA: Yes, sir. 
+PICARD: Is there any possibility she could survive?
+DATA: None, sir. 
+PICARD: Then sending them back would be a death sentence.
 
-[Ready room]
+[Corridor]
 
-PICARD: You must have some idea how things have
-changed. 
-GUINAN: I look at things, I look at people, and they just don't feel
-right. 
-PICARD: What things? What people? 
-GUINAN: You. Your uniform. The Bridge. 
-PICARD: What's the matter with the Bridge? 
-GUINAN: It's not right. 
-PICARD: It's the same Bridge. Nothing has changed. 
-GUINAN: I know that. I also know it's wrong. 
-PICARD: What else? 
-GUINAN: Families. There should be children on this ship. 
-PICARD: What? Children on the Enterprise? Guinan, we're at war. 
-GUINAN: No, we're not. At least, we're not supposed to be. This is not
-a ship of war. This a ship of peace. 
-PICARD: What you're suggesting 
-GUINAN: I'm not suggesting. That ship from the past is not supposed to
-be here. It's got to go back.
+CREWWOMAN [OC]: Lieutenant Barrett to
+communications. 
+TASHA: She was the first Galaxy Class warship built by the Federation.
+Forty two decks. Capable of transporting over six thousand troops. 
+GUEST0: How long have you been on board? 
+TASHA: Four years. Straight out of the Academy. I was lucky to get the
+Enterprise. 
+GUEST0: Yeah, me too. I mean, my Enterprise.
+
+[Sickbay]
+
+CREWWOMAN [OC]: Triage team to main shuttlebay. 
+GUEST1: Lieutenant, how's the ship? 
+GUEST0: We've restored minimal shields and the forward phaser banks.
+Still no photon launchers or warp drive. 
+GUEST1: Concentrate on the weapon systems. From what Captain Picard
+told me, the Federation can use all the help it can get. 
+TASHA: And soon. Our sensors have picked up Klingon warships in this
+sector, Captain. 
+GUEST1: Why wasn't I informed, Mister Castillo? 
+GUEST0: Captain, you shouldn't 
+GUEST1: As senior officer, I want you to be my liaison to the
+Enterprise-D. Coordinate with Tactical. 
+TASHA: That's me, Captain. 
+CRUSHER: Where do you think you're going? 
+GUEST1: I'm resuming my duties, Doctor. 
+CRUSHER: Captain, you need at least another twenty four hours. 
+GUEST1: Nonsense. Doctors always over-protect their patients. 
+CRUSHER: And captains always push themselves too hard. 
+GUEST1: Doctor, my ship and crew need me now. Twenty four hours might
+as well be twenty four years.
 

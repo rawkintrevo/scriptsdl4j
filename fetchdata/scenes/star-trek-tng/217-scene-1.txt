@@ -1,39 +1,34 @@
-RIKER SOREN NOOR
+RIKER WORF PICARD GUEST0 SOREN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Civic chamber]
+[Bridge]
 
-SOREN: During the creation of a star system, when
-clouds of interstellar dust and gas coalesce, turbulent regions of
-magnetic and gravitational fields may develop. If certain conditions
-occur, these fields can condense into abnormal pockets of space. 
-RIKER: We think your system contains one of these null pockets. If
-we're right, the pocket would absorb electromagnetic energy from
-anything that entered it. 
-SOREN: Like a shuttlecraft. 
-RIKER: Or a probe. Making them powerless. 
-SOREN: But outside the pocket, all the energy is bent around it, making
-it naturally cloaked. That's why we cannot see it, and our sensors
-cannot read it. 
-NOOR: Is the shuttle still there? 
-RIKER: We think so. The shuttle probably wasn't able to sustain its
-energy, but other than that it wouldn't be damaged. 
-SOREN: Since our shuttles carry plestorene based backup systems, we
-think life support would sustain for as long as ten days. 
-NOOR: Then perhaps our crew has survived. 
-RIKER: We can send one of our own shuttles, but its energy would also
-be absorbed. Our Chief Engineer is working on a way to maintain the
-power reserves long enough to rescue your crew. 
-NOOR: Commander, we're grateful for your help. Whatever resources we
-can provide are yours. 
-(the council members leave) 
-SOREN: I've been thinking. When the time comes, I would like to pilot
-the shuttle. 
-RIKER: It's a Starfleet craft. 
-SOREN: I cannot ask you to put yourself in danger to rescue our crew. 
-RIKER: You can't pilot a shuttle you're not familiar with. 
-SOREN: I happen to be a good pilot 
-RIKER: I happen to be a good pilot, too. And I know my way around the
-Starfleet shuttle. So what if we team up? 
-SOREN: When can we go over the shuttle flight operations? 
-RIKER: Right now.
+(the J'naii are wearing loose-fitting one-piece
+suits and all have short hair) 
+DATA: Captain, we are approaching the designated coordinates. 
+PICARD: On screen. Long range scan, Mister Data. 
+DATA: Sensors find no evidence of the shuttle anywhere within the star
+system. 
+SOREN: It couldn't have travelled outside the system. 
+RIKER: Mister Data, reconfigure high resolution sweep, radius one
+million kilometres. Check for any debris. 
+DATA: Scan shows no debris within that radius. 
+GUEST0: I don't understand it. A shuttle doesn't simply vanish. 
+SOREN: There has to be an explanation. 
+DATA: Captain, I am detecting an unusual reading. It appears to be a
+neutrino emission with no visible source. 
+PICARD: Explanation? 
+DATA: I have none, sir. I recommend we launch a probe. 
+PICARD: Make it so. 
+WORF: Probe is launched. 
+DATA: Sensors show no evidence of any unusual phenomenon. 
+(then the probe vanishes) 
+DATA: The probe is no longer transmitting. 
+SOREN: What happened? Where did it go?
+
+Captain's log, supplemental. The sudden
+disappearance of our probe suggests that we may have found the first
+instance of what is called null space, an anomaly which until now had
+been only theoretical. Commander Riker has been working around the
+clock with a team of J'naii specialists to formalise this hypothesis.
 

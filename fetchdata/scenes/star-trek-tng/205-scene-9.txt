@@ -1,62 +1,43 @@
-PATTERSON JAYGORDON MARISSA PICARD CRUSHER LAFORGE
+RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cargo bay]
+[Jefferies tube]
 
-(it's a lot brighter in here)
-LAFORGE: Okay. Clear the power shunt. 
-CRUSHER: The shunt is cleared. 
-LAFORGE: Right. And bypass the flow current, and (nothing). The
-computer still won't release the doors. 
-CRUSHER: Can we force them open? 
-LAFORGE: Yes, we can try. There's an emergency hand actuator. 
-CRUSHER: Geordi? 
-LAFORGE: Yes? 
-CRUSHER: This wall is hot. 
-LAFORGE: Where? 
-(then something blows out where he had removed a panel, knocking him
-off his feet) 
-LAFORGE: I'm all right, but I think we've got a new problem. One of the
-energy conduits must've ruptured and ignited the polyduranide inside
-the bulkhead. That's a plasma fire. 
-(and it's green) 
-CRUSHER: It's putting out a lot of radiation. We can't stay in here
-very long. 
-LAFORGE: We've got a bigger problem than that. The quaratum in these
-containers is used in emergency thruster packs. It's normally pretty
-stable stuff but when you expose quaratum to radiation, it has a way of
-exploding.
-
-[Turbolift]
-
-(Marissa is helping Picard at an open panel) 
-PICARD: The external power is cut off. 
-JAY GORDON: We're going to die. 
-(the turbolift jolts) 
-PATTERSON: What was that? 
-PICARD: I don't know. 
-(Marissa helps Picard stand. He tries to reach the hatch in the ceiling
-but misses) 
-PICARD: Your name is Marissa. Is that right? Well, Marissa, I'm going
-to need a first officer to help me. You're the oldest and so that makes
-you my Number One. 
-MARISSA: Number One? 
-PICARD: That's what I always called my first officer. So, here. 
-(He puts two of his rank pins on her top) 
-PICARD: There. Now, Number One, we need a crew to help us get that
-hatch off. Don't
-you think that Jay here would make an excellent science officer? What
-do you say, Jay? Will you join our crew? 
-JAY GORDON: It's Jay Gordon. 
-PICARD: Of course. Forgive me, Jay Gordon. 
-JAY GORDON: I accept. 
-(another pin) 
-PICARD: There. 
-PATTERSON: Can I be an officer, too? 
-PICARD: Well, let me see. Your science project involved radishes, did
-it not? 
-PATTERSON: Yes, sir. 
-PICARD: Then I shall appoint you my executive officer in charge of
-radishes. 
-(he gets the last pin) 
-PICARD: There. Right, then let's get to work.
-
+DATA: Commander, the current cannot be off down
+from this relay box. 
+RIKER: We can't just sit here. 
+DATA: If the energy flowing through that arc were interrupted by a
+nonconductive material, it is likely the circuit would be broken. 
+RIKER: I don't see any material in here that could handle that much
+current. 
+DATA: Commander, much of my bodyframe is made up of tripolymers, a non
+conductive material. 
+RIKER: Are you suggesting we use your own body? 
+DATA: Yes, sir. 
+RIKER: Data, there's half a million amps flowing through that arc.
+Could your body handle that much current? 
+DATA: The power surge would cause a system failure in my internal
+processors and melt my primary power couplings.
+However, there is a chance that the damage would not be irreparable. 
+RIKER: No. 
+DATA: Commander, our options are very limited. 
+RIKER: First of all, android or not, I wouldn't ask anyone to take that
+kind of risk. Second, if the computer is not working in Engineering,
+I'm going to need your help to get control of the ship. 
+DATA: My positronic brain has several layers of shielding to protect me
+from power surges. It would be possible for you to remove my cranial
+unit and take it with you. 
+RIKER: Let me get this straight. You want me to take off your head? 
+DATA: Yes, sir. Is something wrong, sir? 
+RIKER: Well, Data, would you be all right? 
+DATA: My memory core and neural nets are self-contained. I would be
+fine, sir. 
+RIKER: Well, like you said, our choices are very limited. 
+(Data walks forward into the currents, they stop and he falls
+forward)
+RIKER: Data? Data! Data. 
+DATA: A remarkable experience, Commander. 
+RIKER: Are you all right? Did the shielding work? 
+DATA: Apparently so, sir. My neural nets are still fully operational.
+You may begin by opening the ventral access panel located two
+centimetres beneath my right ear. 

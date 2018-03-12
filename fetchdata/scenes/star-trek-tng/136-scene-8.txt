@@ -1,110 +1,41 @@
-TROI LAFORGE WORF PICARD SALIA RIKER WESLEY DATA ANYA
+WESLEY RIKER GUINAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ten forward]
 
-(The planet on the viewscreen is a pale mustard
-colour) 
-PICARD: Magnify, Mister Worf. Hardly an inviting planet, even for a
-research establishment. 
-TROI: I would have thought the inhabitants of Daled Four would send a
-future leader to a more hospitable environment. 
-WORF: For some, security is more important than comfort. 
-TROI: Yes, but sixteen years. 
-WORF: Captain, we're being hailed. 
-PICARD: Hailing frequencies, Mister Worf. 
-WORF: Open. 
-PICARD: This is Captain Picard of the USS Enterprise. 
-ANYA [OC]: (very faint and static-ridden) I am Anya of 
-DATA: Sir, the planet's troposphere is distorting our signal. 
-PICARD: Can you clean that up, Mister Worf? 
-WORF: I'll try. Now. 
-PICARD: This is Picard of the Enterprise. Please will you repeat your
-message? 
-ANYA [OC]: I am Anya. Have you come for Salia of Daled Four? 
-PICARD: That is correct. 
-ANYA [OC]: What species are you? 
-PICARD: Human. 
-ANYA [OC]: Excellent. Bring us aboard. That is all. 
-RIKER: Friendly, isn't she? 
-PICARD: Friendly or not, Salia has the rank of head of state, so we
-will treat her and Anya accordingly. Number One, Mister Worf, let's go
-greet our visitors. You have the Bridge, Mister Data. 
-DATA: Aye, sir.
+WESLEY: What should I say? How do I act? What do I
+do? 
+RIKER: Guinan, I need your help. Could you step over here a minute? 
+GUINAN: Sounds simple enough. 
+(They sit at a table) 
+RIKER: (to Wesley) Now, the first words out of your mouth are the most
+important. You may want to start with something like this. (Riker sits
+opposite Guinan) You are the most beautiful woman in the galaxy. But
+that might not work. 
+GUINAN: Yes. Yes, it would. 
+RIKER: You don't know how long I've longed to tell you that. 
+GUINAN: But you were afraid? 
+RIKER: Yes. 
+GUINAN: Of me? 
+RIKER: Of us. Of what we might become. 
+WESLEY: Commander? 
+RIKER: or that you might think that was a line. 
+GUINAN: Maybe I do think it's a line. 
+RIKER: Then you think I'm not sincere? 
+GUINAN: I didn't say that. There's nothing wrong with a line. It's like
+a knock at the door. 
+RIKER: Then you're inviting me in? 
+GUINAN: I'm not sending you away. 
+RIKER: That's more than I expected. 
+GUINAN: Is it as much as you hoped? 
+RIKER: To hope is to recognise the possibility. I had only dreams. 
+GUINAN: Dreams can be dangerous. 
+RIKER: Not these dreams. I dream of a galaxy where your eyes are stars,
+and the universe worships the night. 
+GUINAN: Careful. Putting me on a pedestal so high, you may not be able
+to reach me. 
+RIKER: Then I'll learn how to fly. You are the heart in my day and the
+soul in my night. 
+WESLEY: I don't think this is my style. 
+GUINAN: Shut up, kid. Tell me more about my eyes.
 
-[Transporter room]
-
-(O'Brien beams a young woman and her older
-chaperone aboard. No luggage) 
-PICARD: Welcome to the Enterprise. I'm Captain Picard. 
-ANYA: This is Salia of Daled Four. 
-SALIA: I didn't feel a thing. Is that normal when one is transported,
-Captain? 
-PICARD: Oh, yes, it is. 
-SALIA: Those must be the matter energy conversion controls. May I take
-a look? 
-PICARD: Yes, of course. 
-RIKER: I can arrange for a tour of the ship, if you'd like. 
-SALIA: Oh, I'd love that. 
-ANYA: No, that will not be necessary. Just show us to our quarters,
-Captain Picard. 
-PICARD: Very well.
-
-[Corridor]
-
-PICARD: We're accommodating you in quarters
-normally reserved for Starfleet admiralty. I'm sure you'll find them
-quite comfortable. 
-(Wesley exits a turbolift as the party passes. The universe stands
-still as Salia smiles at him, then turns back to speak) 
-SALIA: That's a superconducting magnet, isn't it? 
-WESLEY: Yes It's an SCM model. How did you know that? 
-SALIA: Study, for the last sixteen years it is all I could 
-ANYA: Please, Salia, walk ahead with me. 
-SALIA: Better be careful. Those can rip the iron right out of your
-blood cells. 
-(The party moves on, minus Riker) 
-WESLEY: Commander, who is she? 
-RIKER: I think she's a governess. 
-WESLEY: No! The girl. 
-RIKER: I don't know if she'll have time for you, Wes. She's destined to
-rule an entire world.
-
-[Wesley's quarters]
-
-(Wesley is preening in front of a full length
-mirror) 
-WESLEY: Come in. 
-DATA: You wanted to see me? 
-WESLEY: Yes. Data, the girl who came on board. 
-DATA: Salia of Daled Four. 
-WESLEY: Who is she? 
-DATA: Little is known. She was born on Daled Four. Her parents were
-from opposite sides in a civil war which has lasted for centuries. They
-both died shortly after her birth. A Federation ship brought her and
-her governess to Klavdia Three so that she could be raised in a neutral
-environment. 
-WESLEY: And now she's returning? 
-DATA: It is hoped she will unite the factions and bring peace. 
-LAFORGE [OC]: Ensign Crusher, report. Are you all right? 
-WESLEY: Geordi? Yeah, I'm fine. I just 
-LAFORGE [OC]: Wes, we're waiting for that magnet. 
-WESLEY: I'm on my way. 
-[Bridge]
-
-RIKER: Captain, we've broken orbit and laid in a
-course for Daled Four. We will remain on impulse power until Lieutenant
-La Forge completes his adjustments. 
-PICARD: Mister Worf, have our passenger's accommodations met with their
-approval? 
-WORF: I doubt if anything ever meets with that woman's approval, sir. 
-TROI: Captain, I'm concerned our new passengers. Their emotions do not
-fit who they are and what they're doing. 
-PICARD: Are you suggesting they're not who they say they are? 
-TROI: Actually no, it's more like they're not what they say they are. 
-PICARD: Picard to Salia's quarters. 
-SALIA [OC]: Yes? 
-PICARD: May we turn on the viewer? 
-SALIA [OC]: Yes, of course.
-PICARD: Are your quarters satisfactory? 
-SALIA [on viewscreen]: Yes, very. Tell me, Captain, who was the young
-man I met before? 

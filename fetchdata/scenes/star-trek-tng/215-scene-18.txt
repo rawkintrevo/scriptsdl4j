@@ -1,70 +1,59 @@
-RIKER OBRIEN PICARD TROI RO DATA
-
-[Turbolift]
-
-RIKER: No, but if Troi was right, we were very
-close to it. 
-PICARD: Bridge. How do you suggest we proceed? 
-RIKER: We need to adjust the scanners so they can penetrate those
-storms. Do you have any ideas, Data? 
-DATA: We might be able to employ virtual imaging to interpolate
-(metallic sound) missing data. 
-PICARD: Is something wrong, Commander?
-
-DATA: My apologies. It seems my primary speech processors are
-experiencing a minor fluctuation. I will have it corrected in a moment.
+TROI OBRIEN LAFORGE PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-TROI: Captain, may I speak with you a moment in
-private? 
-PICARD: Of course. You have the Bridge, Number One. 
-RIKER: Mister Data, deploy sensor scans when you're ready. Ensign, take
-us to a synchronous orbit aligned around our crash site. 
-(Picard and Troi leave) 
-RO: Aye, sir. 
-DATA: Sir, given the EM field properties of this moon, I recommend a
-search pattern beginning in the southern polar region. 
-RIKER: The polar region? That would be starting from scratch, Mister
-Data. Our latest
-readings would suggest that we begin our scan around our crash site. 
-DATA: The Essex signal was never clearly located, sir. A systematic
-survey of the moon from a polar orbit might be more practical. 
-RIKER: Well, you might be right, but I'd like to give the crash site a
-once over first. Maintain our current orbit. 
-DATA: Understood, sir.
+RIKER: Any sign of the Essex? 
+LAFORGE: Negative, Commander. Electromagnetic disturbances are even
+worse here. Scanners can't read a thing. 
+RIKER: Bridge to Ten Forward.
 
-[Ready room]
+[Ten Forward]
 
-TROI: I've never felt anything like it. It was as
-though they were calling to me. 
-PICARD: Are you saying someone was communicating telepathically? 
-TROI: Perhaps, for an instant. It was like their voices were being
-carried on the wind. 
-PICARD: What were they trying to communicate? 
-TROI: I'm not sure, but they were calling me to the southern polar
-region. I believe that's where we should look for the Essex. 
+RIKER: Intense storm activity over the southern
+pole is making it virtually impossible for us to pick up any trace of
+the Essex. 
+TROI: We are giving you the exact coordinates of our remains on board
+the wreck of the Essex. 
 [Bridge]
 
-RO: Commander, did you override my orbital heading?
+LAFORGE: I'm receiving the coordinates now. 
+RIKER: Can you tell what's there? 
+LAFORGE: Just your basic ionic cyclone. I can't read a thing. 
+RIKER: I'm sure as hell not going to beam up whatever might be down
+there. 
+LAFORGE: I've got a good excuse for you. The transporters aren't going
+to work any better than the scanners. 
+RIKER: Bridge to Ten Forward. 
+[Ten Forward]
 
-RIKER: Override them? 
-RO: We've moved into a polar orbit and I'm locked out. The helm isn't
-responding. 
-RIKER: Do you know anything about this, Mister Data? Data? 
-(Riker touches Data's shoulder, and Data thumps him in the chest) 
-RIKER: Security to the Bridge! 
-(O'Brien disarms Worf and pushes him over the railing and the Captain's
-chair. Ro shoots at O'Brien but misses, so he shoots her) 
-RIKER: Computer, transfer command to Engineering. Full security alert! 
-(O'Brien shoots Riker. Data fails to override Riker's last command and
-thumps the blank console in frustration) 
-(In the Ready room, Troi knocks out Picard, then enters the Bridge) 
-O'BRIEN: This way! 
-TROI: What happened? 
-DATA: He would not move to a polar orbit. 
-TROI: You couldn't wait? The Captain would have done it for me. 
-[Turbolift]
-
-O'BRIEN: Deck thirty six. Engineering.
+RIKER [OC]: Whatever's blocking our scanners will
+prevent the use of the transporters. 
+O'BRIEN: They're lying. 
+PICARD: On the contrary, we've had a difficult time with transporters
+since we arrived here. That's why we had to send down the shuttle. You
+should all have been aware of that fact. 
+DATA: We must be able to use the transporters. 
+PICARD: Mister O'Brien was the one who safely executed the return of
+the away team. He's the most qualified person on board to operate the
+transporters under these circumstances. 
+TROI: Can you do it from here? 
+O'BRIEN: No. I'd have to use a transporter pad. 
+PICARD: I could give you safe passage to a transporter pad in one of
+the cargo bays. 
+DATA: It's a trick. He is trying to divide us. 
+TROI: We must not be separated. 
+PICARD: I can give you all safe passage. 
+DATA: Why are you suddenly being so helpful? 
+PICARD: Because I assume that if you choose go to the cargo bay, then
+you won't to take all of the hostages. Their safety is my chief
+priority. 
+TROI: What are the risks when we leave this room? 
+DATA: Without the protection of the forcefields, we are completely
+vulnerable. 
+O'BRIEN: They could use the transporter against us. Once the forcefield
+is down, they could beam us back to the surface. But there is a way to
+neutralise that threat. Bridge, transfer all transporter functions to
+Ten Forward. 
+RIKER [OC]: In order to do that
 

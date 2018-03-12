@@ -1,44 +1,48 @@
-TIMICIN LWAXANA TROI
+TIMICIN PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Engineering]
 
-LWAXANA: You know, one thing I don't understand. If
-your people have known for generations that their sun is dying, why not
-simply evacuate the planet? 
-TIMICIN: It is our home. It defines who we are as a people. If Kaelon
-Two ceases to exist, so do we. 
-LWAXANA: Then you definitely should fix it. 
-TIMICIN: With the Federation's help, I hope we will. 
-LWAXANA: And the Federation will be pleased to offer whatever help it
-can. 
-(at Lwaxana's door) 
-LWAXANA: Would you come in for a nightcap? 
-TIMICIN: That's extremely kind of you, but 
-LWAXANA: My valet sleeps elsewhere. 
-TIMICIN: You are delightful. You make me laugh. I mean, I don't mean
-your invitation makes me laugh. I mean I took it quite seriously. I
-mean 
-LWAXANA: Just say yes. I'll make you laugh some more. 
-TIMICIN: I wish I could. But I must say no. Goodnight, Lwaxana.
+LAFORGE: Temperature at ninety million degrees
+Kelvin. And now one hundred ten million. Looking good.
+One hundred thirty seven. 
+[Bridge]
 
-Captain's log, stardate 44807.5. The Enterprise has
-arrived at the Praxillus system, where we will conduct Doctor Timicin's
-helium ignition test.
+DATA: Radiation and pressure levels still stable. 
+LAFORGE [OC]: Temperature is one hundred and seventy million degrees
+Kelvin.
 
-[Lwaxana's quarters]
+[Engineering]
 
-(Lwaxana is deciding which outrageous dress to
-wear) 
-TROI: Mother, how much 
-LWAXANA [OC]: Little one, why do you refuse to use telepathy even when
-we are alone? 
-TROI: We're not alone, Mother. Now how much longer is this going to
-take? You've been selecting for twenty minutes. 
-LWAXANA [OC]: I am a woman dressing for a man. Something you might try
-now and then, dear. I wonder if Timicin likes green. 
-TROI: That's not very telepathic of you. 
-LWAXANA: Oh, I tried telepathy on him. He's the wrong species. Right
-species for everything else, though. You might try that once in a
-while, too. 
-TROI: You know, you're not just incorrigible, you're insatiable.
+LAFORGE: One ninety. And now two hundred million. 
+TIMICIN: It's happening. 
+LAFORGE: Two oh seven and rising. Two nineteen. And twenty. Two twenty.
+And holding. Looks like congratulations may be in order.
+
+[Bridge]
+
+PICARD: Mister Data? 
+DATA: Turbulence patterns are within predicted parameters.
+
+[Engineering]
+
+(Composite sensor analysis 4077 display) 
+LAFORGE: Two twenty two.
+
+[Bridge]
+
+DATA: Temperature is rising in the core again,
+Captain. Two hundred and thirty million degrees Kelvin. 
+LAFORGE [OC]: Still rising, Captain.
+
+[Engineering]
+
+LAFORGE: Two fifty one. 
+[Bridge]
+
+DATA: Rate exceeding critical level. Core density
+is becoming unstable. 
+RIKER: Let's get the hell out of here. 
+PICARD: Ensign, warp two now! 
+(a bright new supernova lights the heavens)
 

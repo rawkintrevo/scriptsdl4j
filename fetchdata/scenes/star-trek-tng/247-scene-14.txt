@@ -1,34 +1,29 @@
-TROI DATA RIKER SYRUS
+RIKER GUEST5 GUEST2 GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Asylum cell]
 
-RIKER: How's Lieutenant Suna? 
-TROI: A little shaken but all right. 
-RIKER: I feel like such an idiot. 
-TROI: It's nothing to be embarrassed about. We're your friends. We all
-know the stress you've been under. I'm sure everyone understands
-perfectly. 
-DATA: Commander, I must compliment you on your performance this
-evening. 
-RIKER: Oh? 
-DATA: Your unexpected choice to improvise was an effective method of
-drawing the audience into the plight of your character. You gave a
-truly realistic interpretation of multi-infarct dementia. 
-RIKER: Thank you. 
-TROI: Well, maybe not everyone understands. 
-RIKER: I think I'd better get a little rest. Clear my mind a little. 
-TROI: I want you to try a few relaxation techniques as well. Remember
-the ones I showed you a few months ago?
-
-RIKER: They never seem to work for me. 
-SYRUS [OC]: Maybe you need another treatment. 
-TROI: What's wrong? 
-RIKER: Nothing. Nothing. 
-TROI: Will, I want you to get some sleep. I'll see you tomorrow. 
-RIKER: Okay. 
-[Turbolift]
-
-(the doors open onto the asylum corridor) 
-RIKER: It's not real. It's not real. 
-(he closes his eyes and when he opens them again)
+GUEST5: How's he progressing? 
+GUEST4: He's not responding to the Reflection therapy. His delusions are
+growing more elaborate. 
+GUEST2: He broke out of his cell last night. We found him running down a
+corridor claiming people had come to take him back to his starship. 
+GUEST5: Then I see no other choice. We'll have to perform the synaptic
+reconstruction. 
+RIKER: I still have a phaser. Why do I still have a phaser? 
+GUEST5: It's not a phaser, it's a knife. You stole it from one of the
+food trays. Give it to me. We don't want you to hurt yourself. 
+(Riker's temple starts bleeding again.) 
+RIKER: I don't believe you. 
+(Mavek steps forward, Riker fires the phaser and he shatters like a
+broken mirror) 
+RIKER: If this is a knife, what happened to Mavek? 
+GUEST5: It's very complicated. I'll answer all of your questions, but
+first I want you to put that down. 
+RIKER: No. If this is a real phaser, then I was on the Enterprise. But
+I fired it on myself, so I should be dead. None of this is real. I'm
+setting this to level sixteen, wide field. That should destroy half of
+this building. Unless, of course, this isn't a real phaser. 
+(Riker fires at the wall, which shatters to show the audience watching
+the play.)
 

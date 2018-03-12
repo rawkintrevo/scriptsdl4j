@@ -1,39 +1,56 @@
-PICARD RIKER DATA LAFORGE
+TROI GUEST0 PICARD GUEST1 GUEST3 RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-LAFORGE: The Captain's shuttle is approaching the
-main Shuttlebay, sir. 
-PICARD: [OC]: Enterprise, this is the Captain. Number One, I want to
-get underway as soon as the shuttle is secure. 
-RIKER: Aye, sir. We'll make all preparations. Commander Data, return to
-the Enterprise immediately. 
-DATA: [OC]: We have run into an unusual situation, sir. There are
-people on board. Frozen. 
-RIKER: Frozen. How many?
+TROI: As you know, there is very little available
+on the Romulans. 
+PICARD: Counsellor, anything would be helpful. 
+TROI: They seem to be creatures of extremes. One moment violent beyond
+description, the next tender. They are related to the Vulcans, but as
+each race developed, their differences grew wider. They are intensely
+curious. Their belief in their own superiority is beyond arrogance. For
+some reason they have exhibited a fascination with humans and it is
+that fascination, more than anything else, that has kept the peace. One
+other thing. They will not initiate anything. They will wait for you to
+commit yourself. 
+PICARD: Counter-punchers. Thank you, Counsellor. That's quite valuable.
 
-[Cryo chamber]
+[Guest lounge]
 
-DATA: Three. The vehicle has suffered severe
-damage. Most of her systems have failed. 
-[Bridge]
+(Data and Sonny are at the food dispenser) 
+DATA: Talk. 
+GUEST3: I'd like me a thick Kansas City steak, and some country fried
+potatoes, and a mess of greens. Oh, hell, just forget all that and give
+me have a martini, straight up, with two olives. For the vitamins. 
+(The glass appears out of thin air. Sonny samples it and whistles) 
+DATA: Is there something wrong? 
+GUEST3: Wrong? Only that your computer here fixed about the best martini
+I have ever had. I just might get to like this place. Let's see if the
+Braves are on. How do you turn on this teevee? 
+RIKER: TV? 
+GUEST3: Yeah, the boob tube. I'd like to see how the Braves are doing
+after all this time. Probably still finding ways to lose. 
+DATA: I believe he means television, sir. That particular form of
+entertainment did not last much beyond the year two thousand forty. 
+GUEST3: Well, what do you guys do? I mean, you don't drink, and you
+ain't got no TV. Must be kind of boring, ain't it? 
+PICARD [OC]: Number One. 
+RIKER: Riker here. 
+PICARD: Would you and Mister Data report to the Bridge? 
+RIKER: At once, sir. 
+GUEST1: With whom were you speaking? 
+RIKER: The Captain. 
+GUEST1: Good. Would you tell him I would like to see him as soon as it's
+convenient? 
+GUEST0: What's going to happen to us? Do we stay here with you? Do we go
+back to Earth? 
+RIKER: That will all be up to the Captain. 
+GUEST1: Well, get him in here. I have to phone Geneva right away about
+my accounts. The interest alone could be enough to buy this ship. 
+GUEST3: The Yankee's right. Let's get the big boy in here. 
+RIKER: I'll pass along your request. If you'll excuse us. 
+GUEST3: Duty calls. Hey, I understand. (to Data) Why don't you come back
+later on. You and me'll find us a couple of low mileage pit woofies,
+and help'em build a memory.
 
-RIKER: Are you suggesting they be transferred to
-the Enterprise? 
-[Cryo chamber]
-
-DATA: I do not believe we should leave them here,
-sir. With your permission, we will be returning with three containers. 
-RIKER [OC]: Whatever you do, do it quickly.
-
-[Bridge]
-
-PICARD: Mister La Forge, set course zero five
-eight, mark one seven three. 
-LAFORGE: Laying it in, sir. 
-PICARD: Number One, I want a staff meeting on the observation deck. 
-LAFORGE: Captain, those coordinates will take us right into the Neutral
-Zone. 
-PICARD: That is correct, Mister La Forge. Warp factor eight. 
-LAFORGE: Aye, sir. Warp eight. 
-PICARD: Engage. 

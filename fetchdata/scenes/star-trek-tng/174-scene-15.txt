@@ -1,123 +1,55 @@
-RIKER LAFORGE WORF SHELBY PICARD WESLEY BORG HANSON DATA
+TROI LAFORGE WORF SHELBY PICARD RIKER WESLEY BORG DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Borg ship]
 
-SHELBY: A manipulation effect in the Borg ship's
-subspace field. A definite pattern at four point eight minute intervals
-during your first confrontation with them. 
-LAFORGE: Might indicate high output auxiliary generators kicking in. 
-SHELBY: One theory is that their systems are decentralised with
-redundant power sources located throughout the ship. 
-DATA: That is a reasonable conclusion. Borg technology has given each
-member of their society the ability to interface and function
-collectively. It is likely they have constructed their ship with the
-same philosophy. 
-WESLEY: You knock out one generator and another takes over without
-interruption. 
-RIKER: What kind of damage would we have to do to shut them down? 
-SHELBY: Projections suggest that a Borg ship like this one could
-continue to function effectively even if seventy eight percent of it
-was inoperable. 
-WESLEY: And our best shot barely scratched the surface. 
-LAFORGE: Well, from what I've seen, I can't believe any of these new
-weapons systems can be ready in less than eighteen months, Commander. 
-SHELBY: We've been projecting twenty four. 
-RIKER: Is there anything we can do here to adapt to our current defence
-systems? 
-LAFORGE: We'll have to go through the specs again, but. I don't know.
-My mind's turned to clay. 
-WESLEY: Mine too. 
-SHELBY: I think we should look at modifying the plasma phaser design. 
-RIKER: Commander, I think we should call it a night. That's an order.
-We'll reconvene at oh five hundred. 
-SHELBY: Sir, if you'll allow me to continue with Mister Data, who does
-not require rest. 
-RIKER: You need rest, Commander. 
-SHELBY: If we have a confrontation with the Borg without improving our
-defence systems 
-RIKER: If we have a confrontation, I don't want a crew fighting the
-Borg at the same time they're fighting their own fatigue. Dismissed.
-
-[Observation lounge]
-
-HANSON [on monitor]: At nineteen hundred hours
-yesterday, the USS Lalo departed Zeta Alpha Two on a freight run to
-Sentinel Minor Four. At twenty two hundred hours and twelve minutes, a
-distress signal was received at Starbase one five seven. The Lalo
-reported contact with an alien vessel described as cube shaped. The
-distress signal ended abruptly, and she's not been heard from since. 
-PICARD: Mister Data, how long would it take to get there at warp nine? 
-DATA: One hour, seventeen minutes, sir. 
-PICARD: Make it so. 
-HANSON [on monitor]: We're coming with every available starship to
-assist, Captain, but the closest help is six days away. 
-PICARD: We'll try and keep them occupied until you arrive. 
-HANSON [on monitor]: I know you will. Hanson out. 
-RIKER: All hands will stand to battle stations. 
-PICARD: Commander Shelby, what is the status of out defence
-preparations? 
-SHELBY: Mister La Forge has a plan to modulate shield nutation.
-Hopefully, that'll hold them off for awhile. 
-LAFORGE: At the same time, we'll be retuning phasers to higher EM base
-emitting frequencies to try to disrupt their subspace field. 
-PICARD: What's your assessment of our potential effectiveness? 
-LAFORGE: It's a shot in the dark, Captain. But for now it's the best we
-can do. 
-PICARD: Dismissed.
+(Picard is escorted to a balcony, where everyone
+'talks' at him) 
+BORG: Captain Jean Luc Picard, you lead the strongest ship of the
+Federation fleet. You speak for your people. 
+PICARD: I have nothing to say to you, and I will resist you with my
+last ounce of strength. 
+BORG: Strength is irrelevant. Resistance is futile. We wish to improve
+ourselves. We will add your biological and technological
+distinctiveness to our own. Your culture will adapt to service ours. 
+PICARD: Impossible. My culture is based on freedom and self
+determination. 
+BORG: Freedom is irrelevant. Self determination is irrelevant. You must
+comply. 
+PICARD: We would rather die. 
+BORG: Death is irrelevant. Your archaic cultures are authority driven.
+To facilitate our introduction into your societies, it has been decided
+that a human voice will speak for us in all communications. You have
+been chosen to be that voice.
 
 [Bridge]
 
-WORF: Sir, reading unidentified vessel just
-entering sensor range. Bearing two one zero mark one five one. 
-PICARD: Hail them, Mister Worf. 
-WORF: No response, sir. 
-PICARD: Move to intercept. 
-WESLEY: Aye, sir. 
-WORF: Sir, the vessel has already changed course to intercept us.
-Approaching at warp nine point three. Entering visual range. 
-PICARD: On screen. Magnify. 
-(It's a nasty dark cube) 
-PICARD: Mister Worf, dispatch a subspace message to Admiral Hanson. We
-have engaged the Borg. 
-WORF: Captain, you are being hailed. 
-PICARD: I am? 
-WORF: Yes, Captain. By name. 
-RIKER: Data, is it the same ship we faced at J two five? 
-DATA: Uncertain, Commander, but the dimensions are precisely the same. 
-PICARD: On screen. I am Jean Luc 
-(The viewscreen just shows the inside of the cube. The voice is made up
-of many speaking as one) 
-BORG [OC]: Jean Luc Picard, captain of the Starship Enterprise,
-registry NCC 1701D, you will lower shields and prepare to transport
-yourself aboard our vessel. If you do not cooperate, we will destroy
-your ship. 
-PICARD: You have committed acts of aggression against the United
-Federation of Planets. If you do not withdraw immediately 
-BORG: You will surrender yourself or we will destroy your ship. Your
-defensive capabilities are unable to withstand us. 
-(mute) 
-RIKER: What the hell do they want with you? 
-SHELBY: I thought they weren't interested in human life forms, only our
-technology. 
-PICARD: Their priorities seem to have changed. Open. 
-WORF: Channel open. 
-PICARD: We have developed new defence capabilities since our last
-meeting and we are prepared to use them if you do not withdraw from
-Federation space. 
-LAFORGE [OC]: Captain. 
-[Engineering]
+WORF: Commander, they are leading us into the heart
+of our own defences. 
+LAFORGE: Yeah, well, so far they haven't had any reason to worry about
+our defences. 
+WESLEY: Commander, if the Borg stay at warp nine point six, we'll be
+forced to discontinue pursuit and power down in less than three hours. 
+DATA: Two hours, forty minutes and three seconds. 
+RIKER: How soon before the deflector's ready? 
+LAFORGE: We're close. Few hours maybe. I know, I'll get it done in two
+somehow, but Commander, I going to need serious power from the warp
+engines to make this weapon work. So far we're using everything we've
+got just to keep up with them. 
+SHELBY: Sir, we've got to get that ship down to impulse. 
+RIKER: I'm leading an away team over there to get the Captain back.
+We'll find a way to bring them out of warp. Ensign Crusher, you
+continue to assist Mister La Forge. Commander Shelby, you'll take the
+Bridge and coordinate with Starfleet. Data, Worf, Doctor, you're with
+me. 
+SHELBY: Excuse me, sir. With my knowledge of the Borg 
+RIKER: Those are my orders, Commander. 
+TROI: Commander Riker. It is inappropriate for you to lead the away
+team. Until the return of Captain Picard, you are in command of the
+Enterprise. We're in a state of war, and your place is on the Bridge. 
+RIKER: Commander Shelby, you'll lead the away team. Make it so.
 
-LAFORGE: The shields are being probed. I'm
-modulating nutation. 
-[Bridge]
-
-WORF: Captain, the Borg are attempting to lock on
-to us with their tractor beam. 
-PICARD: Load torpedo bays. Arm phasers. lock coordinates on the source
-of the tractor beam. 
-RIKER: Shield status? 
-DATA: Holding, sir. 
-SHELBY: The nutation modulation has them confused. 
-RIKER: They have the ability to analyse and adapt, Commander. 
-(The ship shakes)
+First officer's log, stardate 43998.5. Our pursuit
+of the Borg continues on a course that will take us to the very core of
+the Federation. The devastation they could bring is beyond imagination.
 

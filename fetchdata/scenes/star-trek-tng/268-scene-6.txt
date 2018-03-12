@@ -1,37 +1,31 @@
-TROI COMPUTER LAFORGE WORF RIKER
+GUEST4 DATA GUEST6 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Holodeck - Engineering]
+[Garvin's home]
 
-(at red alert) 
-LAFORGE: We just lost contact with everything above deck twenty one,
-including the Bridge. 
-WORF: There is something wrong with one of the antimatter containment
-units. The magnetic field is starting to fluctuate. 
-TROI: Switch to auxiliary control. 
-WORF: Auxiliary control is not online. We are starting to lose
-containment on antimatter storage unit three. 
-TROI: All right. Switch the EM power inverter to the lateral. No, wait.
-Use the neodyne relay. 
-LAFORGE: Commander, the neodyne relay isn't holding. Containment
-failure in ten seconds. 
-TROI: Computer, emergency procedure. Eject antimatter storage unit
-three. Authorisation, Troi omega omega three one. 
-COMPUTER: Unable to comply. All power to ejection systems has been
-terminated and cannot be restored. 
-LAFORGE: Commander, the unit's beginning to o 
-(flash, simulation ends) 
-RIKER: Congratulations. You just destroyed the Enterprise. 
-TROI: Thank you for the encouragement. 
-RIKER: Don't feel bad. You passed everything else. Diplomatic law,
-first contact procedures, Bridge operations. The Engineering
-qualification's one of the toughest parts of the test. 
-TROI: So what did I do wrong? 
-RIKER: I'm afraid I can't tell you that. 
-TROI: Why not? What kind of a test is this? 
-RIKER: It's the kind of a test that you'll have to take again if you
-want to be a Bridge Officer. Only next time, the problem won't be so
-easy, so I suggest you study up on your emergency procedures. 
-TROI: Well how do I know what to study if you won't tell me what I did
-wrong? 
-RIKER: I don't know. I'm afraid I can't tell you that either.
+(at evening meal) 
+GUEST4: It's perfectly understandable. Your people probably all have
+great strength. It will allow them to fight off the ferocious creatures
+that live in the Vellorian Mountains. 
+DATA: You have told me no one from the village has ever been to the
+Vellorian Mountains. How can you be certain there are ferocious
+creatures there? 
+GUEST4: It's a well known fact. 
+DATA: But no one has actually seen one? 
+GUEST4: Well, not to my knowledge, but 
+GUEST6: Father, are you all right? 
+GUEST3: I've been tired since this afternoon. I'm sure it's nothing. 
+GUEST4: You feel slightly warm. Some fresh air and a brisk walk will do
+you good. 
+GUEST3: That sounds like a good idea. I'll be back soon. 
+(Garvin and Talur leave) 
+GUEST6: You didn't like it? 
+DATA: I neither liked it nor disliked it. I simply had no appetite. 
+GUEST6: Father's cooking isn't as good as mother's. He tries, though. 
+DATA: Where is your mother? 
+GUEST6: She died about a year ago. Father says she went to a beautiful
+place where everything is peaceful and everyone loves each other, and
+no one ever gets sick. Do you think there's really a place like that? 
+(Data gazes out at the moon and stars) 
+DATA: Yes. I do.
 

@@ -1,48 +1,32 @@
-RIKER OBRIEN LAFORGE WORF PICARD CRUSHER
+GUEST1 CRUSHER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Galorndon Core]
+[Cave]
 
-RIKER: Geordi! Geordi! 
-[Pit]
+LAFORGE: Are you okay? 
+(Bochra has hung onto the phaser, and points it at Geordi again) 
+LAFORGE: You gotta be kidding. 
+GUEST1: Sit. 
+LAFORGE: Welcome to Galorndon Core, where no good deed goes unpunished.
 
-LAFORGE: Worf! Commander Riker! 
-[Galorndon Core]
+[Crusher's office]
 
-RIKER: Hold your position, Mister Worf.
-(Worf, Riker and the Romulan are beamed away)
-
-[Pit]
-
-LAFORGE: Worf!
-
-Captain's log, Stardate 43349.2. An unidentified
-distress signal has led to the discovery of a crashed Romulan vessel on
-the surface of Galorndon Core, a Federation planet. We have recovered
-one survivor, but Lieutenant Commander La Forge did not report back
-with the away team and is still missing.
-
-[Transporter room]
-
-CRUSHER: Get him to Sickbay. 
-WORF: Secure Sickbay. Post a guard in visual contact at all times. 
-CRUSHER: He's not going anywhere, Lieutenant. 
-O'BRIEN: I'm sorry, Commander. There's just no way to lock in on
-anything down there. 
-RIKER: Keep trying, O'Brien. 
-O'BRIEN: The electrical storm's creating thousands of ghosts. 
-RIKER: Well beam some of those ghosts back. One of them may be Geordi.
-Permission to lead another away team, sir. 
-PICARD: Denied. When we get another window in the storms. The crash
-site?
-
-[Corridor]
-
-RIKER: The Romulan craft is a total loss. There's
-nothing there to salvage unless you want to use tweezers. 
-PICARD: No sign of others? 
-RIKER: You couldn't see two metres in front of yourself down there. 
-PICARD: It certainly is the last place one would expect Romulan
-encroachment. On the other hand, Galorndon Core
-would provide ideal cover for an opening move of a new offensive. 
-RIKER: I doubt if they were there for the climate.
+WORF: Yes, Doctor? 
+CRUSHER: Lieutenant, good. Come in. Please sit down. We have finally
+found a compatible ribosome match for the Romulan. But only one. You. 
+WORF: That is impossible. I am a Klingon. 
+CRUSHER: Different species, yes. But many humanoids have comparable
+cell structures. And you have what this Romulan needs. There's
+absolutely no risk to you. You did understand that was the purpose of
+all the testing? 
+WORF: I have no objection to tests. 
+CRUSHER: You have an objection to being a donor? 
+WORF: Yes. 
+CRUSHER: Lieutenant, I understand your feelings about the Romulans, but
+this is not the time or place. 
+WORF: If you had seen them kill your parents, you would understand,
+Doctor, it is always the time and place for those feelings. 
+CRUSHER: This Romulan didn't murder your parents. And you are the only
+one who can save his life. 
+WORF: Then he will die.
 

@@ -1,27 +1,13 @@
-VORIN KATERAS NIKOLAI WORF DOBARA
-
-[Passageway]
-
-(Worf beams into an underground cavern complex and
-starts scanning) 
-VORIN: What are you doing here? You're not from our village. Who are
-you? 
-KATERAS: (old man) Who is this? 
-WORF: My name is Worf. I am a traveller. 
-VORIN: How did you survive the storms? 
-NIKOLAI: (a thick-set man) I would know that voice anywhere. Worf, is
-it really you? It's good to see you. You've changed a lot in four
-years. 
-WORF: Nikolai? 
-NIKOLAI: Yes. Oh, Worf. This is my brother, Worf. He's come to help us.
+GUEST4 NIKOLAI GUEST0 WORF GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Cavern]
 
 (main living area with campfire and water supply) 
-VORIN: But if you were able to get here, the storms must have subsided.
+GUEST4: But if you were able to get here, the storms must have subsided.
 
 WORF: Please. 
-VORIN: Do you think it's safe enough to return to the surface? 
+GUEST4: Do you think it's safe enough to return to the surface? 
 WORF: Please, I must speak to my brother. 
 (they move away from the locals) 
 WORF: Nikolai, what have you done? 
@@ -42,14 +28,14 @@ WORF: And I am certain he will want to speak with you.
 NIKOLAI: Friends, my brother and I must go back to the surface. He has
 provisions and will need help bringing them here. We'll return shortly.
 
-DOBARA: (or Cassidy Yates for DS9 fans) It's too dangerous.
+GUEST2: (or Cassidy Yates for DS9 fans) It's too dangerous.
 The storms can occur without warning. If you're caught in one. 
 NIKOLAI: Don't worry. Worf is a seer. He understands the nature of the
 storms. He'll know when it's safe to travel. 
 WORF: Yes, that is correct. 
-KATERAS: Our seer died when the storms first came. We've been without
+GUEST0: Our seer died when the storms first came. We've been without
 his guidance for many weeks. 
-VORIN: Let me go with you. I know the terrain better than anyone and I
+GUEST4: Let me go with you. I know the terrain better than anyone and I
 can help. 
 NIKOLAI: No, Vorin. Worf and I will be safe. We'll return shortly.
 

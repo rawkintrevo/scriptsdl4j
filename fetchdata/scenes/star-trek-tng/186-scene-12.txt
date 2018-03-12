@@ -1,62 +1,99 @@
-WAITER PICARD OBRIEN DARO
+GUEST0 RIKER OBRIEN WORF PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
-O'BRIEN: Captain. 
-PICARD: Chief. I wanted to talk to you. 
-O'BRIEN: Anything I can do, sir, you know that. 
-PICARD: Ben Maxwell. He must be quite a man. 
-O'BRIEN: He's a rare one, all right. I count myself lucky, sir. I've
-served with the two finest Captains in Starfleet. 
-PICARD: From your knowledge of the man, what has gone wrong? 
-O'BRIEN: There's a reason for what he's doing. Those Cardassians were
-up to something, I'm sure of it. 
-PICARD: When his family was killed, how did he take it? 
-O'BRIEN: I'd say he took it well. Oh, I know he was broken up inside,
-who wouldn't be? But you'd never know it to see him. He never missed a
-minute's duty, always had a smile, a joke. 
-PICARD: I see. 
-O'BRIEN: He would never retaliate out of vengeance, no matter what that
-Cardassian says. They're up to something, sir. They're the ones you
-should be investigating, not Captain Maxwell. 
-PICARD: You don't care for the Cardassians? 
-O'BRIEN: I like them fine. It's just, well, I know them. You learn to
-watch your back when you're around those people. 
-PICARD: Ben Maxwell has just sent more than six hundred of them to
-their deaths. 
-O'BRIEN: I don't know what to say, sir, but he must have had his
-reasons. 
-PICARD: I think when one has been angry for a very long time, one gets
-used to it. And it becomes comfortable, like old leather. And, finally,
-it becomes so familiar that one can't ever remember feeling any other
-way. Thank you, Chief. 
-[Ten Forward]
+RIKER: Welcome aboard, sir. I'm Commander Riker,
+First Officer. 
+GUEST0: I know all about you, Commander. Fine work you did with the
+Borg. We all owe you on that one. 
+RIKER: Thank you, sir. 
+GUEST0: O'Brien? Miles O'Brien? 
+O'BRIEN: Hello, Captain. Good to see you again. 
+GUEST0: How are you? I had no idea you were on the Enterprise. This
+was my Tactical Officer on the Rutledge. Best I ever had. 
+O'BRIEN: Thank you, sir. 
+GUEST0: O'Brien has the ability to size up a situation instantly, then
+come up with options to fit all contingencies. Remarkable. 
+O'BRIEN: Well, if that's true, I learned it from you, sir. 
+GUEST0: But you got that silver tongue by kissing the stone, right?
+Well, Commander, best I see your Captain straight away. We've got a lot
+to talk about. 
+RIKER: Yes, sir.
 
-(Miles is drinking at the bar) 
-DARO: Kanar. 
-O'BRIEN: Mind if I join you? 
-DARO: Do you want another? And an ale. 
-O'BRIEN: Kanar. I never could develop a taste for it. 
-DARO: It takes a bit of getting used to. 
-O'BRIEN: I wanted to say I owe you an apology. I shouldn't have popped
-off like that in the turbolift. 
-DARO: I think 
-WAITER: Here's your ale, Mister O'Brien. 
-DARO: This has been hard on all of us. I know I'll be happy when I'm
-back on my own ship. 
-O'BRIEN: I guess that's true. I hadn't thought of it like that. I was
-on Setlik three with Captain Maxwell the morning after the massacre. We
-were too late, of course. Almost everyone was dead. 
-DARO: That was a terrible mistake. We were told the outpost was a
-launching place for a massive attack against us. 
-O'BRIEN: The only people left alive were in an outlying district of the
-settlement. I was sent there with a squad to reinforce them.
-Cardassians were advancing on us, moving through the streets,
-destroying, killing. I was with a group of women and children when two
-Cardassian soldiers burst in. I stunned one of them. The other jumped
-me. We struggled. One of the women threw me a phaser, and I fired. The
-phaser was set at maximum. The man just incinerated, there before my
-eyes. I'd never killed anything before. When I was a kid, I'd worry
-about swatting a mosquito. It's not you I hate, Cardassian. I hate what
-I became because of you.
+[Ready room]
+
+RIKER: Captain Jean-Luc Picard. Captain Benjamin
+Maxwell. 
+PICARD: That'll be all, Commander. 
+(Riker leaves) 
+PICARD: Captain. 
+GUEST0: A pleasure, Captain. 
+PICARD: Please, sit down. 
+GUEST0: You must think I've gone mad. 
+PICARD: The thought had occurred. 
+GUEST0: Picard, I have to tell you I was grateful when I realised it
+was you Starfleet sent after me. Somebody who knows what it's really
+like out here. 
+PICARD: I know of nothing out here that could possibly justify what you
+have done. 
+GUEST0: Then listen to this. The Cardassians are arming again. That
+so-called science station? Military supply port. 
+PICARD: How do you know this? 
+GUEST0: Information comes my way. 
+PICARD: From whom? Where is your documentation? 
+GUEST0: I know what they're doing. I can smell it. There's no good
+reason for a science station in the Cuellar System, but it's a hell of
+a strategic site for a military transport station. A jumping-off point
+into three Federation sectors. They're
+running supply ships back and forth and nobody's going to tell me it's
+for scientific research. 
+PICARD: But whatever circumstances you encountered, why didn't you
+notify Starfleet? 
+GUEST0: And wait six months while the bureaucrats sit around reading
+reports, trying to figure out what to do? They don't know what's going
+on out here. But you should, Picard. You know what it's like to be
+under fire. 
+PICARD: You weren't under fire. 
+GUEST0: Lives were at stake. 
+PICARD: Whose lives? 
+GUEST0: We had to act now. 
+PICARD: Why? 
+GUEST0: It smells musty in here. Like a bureaucrat's office. 
+PICARD: You have killed nearly seven hundred people and you have taken
+us to the brink of war. 
+GUEST0: I have prevented war, or at the very least delayed it a good
+long time. The peace treaty was a ruse, to give them breathing room,
+time to regroup. 
+PICARD: And so all alone you decided to dispose of the treaty. 
+GUEST0: I took the initiative. I did what had to be done. 
+PICARD: What had to be done? For whom? Why does a man with a long and
+brilliant service abandon the fundamental principles that he has
+believed in, even fought for, all his life? I believe it is because of
+what they did to your wife and your children. 
+GUEST0: Not true. Not true. 
+PICARD: To avenge their deaths. 
+GUEST0: You're a fool, Picard. History will look at you and say this
+man was a fool. 
+PICARD: I'll accept the judgement of history. 
+GUEST0: When it becomes clear what the Cardassians have done, I will
+be vindicated. 
+PICARD: What the Cardassians have or have not done is irrelevant. 
+GUEST0: Irrelevant? Come with me. Find one of their supply ships and
+we'll see how irrelevant it is. 
+PICARD: We're not going after any more Cardassian ships. You're going
+to return to your bridge and set a course for Starbase two one one. The
+Phoenix and the Enterprise will return to Federation space together.
+Those are Starfleet's orders. I will permit you
+the dignity of retaining your command during the voyage. The only
+alternative is to put you in the brig and to tow your ship back to
+starbase in disgrace. 
+GUEST0: I will return to my ship. 
+PICARD: You understand your orders? 
+GUEST0: Yes, Captain. 
+PICARD: Mister Worf, report to my Ready room. My guest is departing. 
+WORF [OC]: Aye, sir.
+
+Captain's log, supplemental. With the Phoenix in
+close formation, we are proceeding directly to Starbase two one one.
 

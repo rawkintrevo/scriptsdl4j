@@ -1,32 +1,41 @@
-PICARD RIKER SOREN LAFORGE DATA
+RIKER SOREN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlebay]
+[Shuttlecraft]
 
-LAFORGE: That's it, Commander, everything checks
-out. The energy buffer is installed and functioning. I estimate it
-should reduce the power drain to your systems by about forty percent. 
-RIKER: Any guess how long we'll have? 
-LAFORGE: Lets just say you don't want to waste any time once you get in
-there. You'll have to give him continuous readouts on energy
-consumption. I can't even predict if the drain will be at a constant
-rate. 
-SOREN: I understand. 
-LAFORGE: Then that's it. Commander, I'll monitor you as far as I can,
-but once you get inside that pocket you're on your own. 
-RIKER: We don't have any idea what condition the shuttle crew is in, so
-we'll all beam directly to Sickbay. 
-LAFORGE: I'll notify Doctor Crusher to be standing by. 
-(Soren and Riker get in the shuttlecraft) 
-LAFORGE: La Forge to Bridge. 
-PICARD [OC]: Picard here. 
-LAFORGE: We're ready to initiate shuttle pre-launch sequence.
-
-[Bridge]
-
-PICARD: Proceed, Mister Data. 
-DATA: Initiating pre-launch sequence. 
-RIKER [OC]: Request flight clearance. 
-DATA: Clearance is granted. The shuttle is under way, sir. 
-PICARD: Good hunting, Commander. 
-RIKER [OC]: Thank you, sir. See you for dinner.
+SOREN: Heading confirmed. Energy readings are
+normal, with power reserves stabilised at one hundred percent. 
+RIKER: Acknowledged. 
+SOREN: It's dead ahead, approximately fifty kilometres. 
+RIKER: Riker to Enterprise, we're taking her in. 
+(and the little craft disappears) 
+RIKER: Riker to Enterprise? Riker to Enterprise. 
+SOREN: Power reserves are down to eighty four percent. 
+RIKER: Look. (the other shuttle) Try hailing them. 
+SOREN: Calling the Taris Murn. Do you read me? 
+RIKER: Getting sensor readings. They're unconscious but they're alive.
+Stand by. I'm going to transport them over here. 
+SOREN: Power reserves at sixty eight percent and dropping. 
+(two figures start to materialise then vanish again) 
+RIKER: The null space must be affecting the annular confinement beam. 
+SOREN: We used ten megajoules with that attempt. We're down to thirty
+four percent of reserves. 
+RIKER: We can give it one more try. More than that, we won't have
+enough power to get ourselves out of here. 
+(this time the two bodies solidify) 
+SOREN: They need medical attention quickly. 
+RIKER: Okay. Stand by to transport to the Enterprise. Here we go. 
+(but that doesn't work) 
+RIKER: Energy consumption? 
+SOREN: We're down to nine percent. We don't have enough to get back. 
+RIKER: If we just sit here, we'll lose all of our systems within an
+hour, including life support. Okay, I'm rerouting the propulsion
+system to the transporter. Re-channel the navigation systems. Let's
+transfer every microjoule of energy we've got. Sensors, life support.
+This might give us one last shot. 
+SOREN: But if we use an energy shift of that size, it'll overload the
+phase compensators. The shuttle 
+RIKER: Will explode. But if we stay here, we're dead anyway. Maximum
+energy levels, five seconds. See you in a minute. 
+(KaBOOM)
 

@@ -1,53 +1,5 @@
-RIKER LAFORGE WORF PICARD DATA GRAHAM SUSANNA
-
-[Bridge]
-
-GRAHAM: (the lady at helm) Entering the Tarchannen
-system, sir. 
-PICARD: Slow to impulse power. Mister Worf? 
-WORF: Long range sensors holding on the shuttlecraft, bearing zero one
-zero, mark two seven one. 
-PICARD: Hail the vessel. 
-WORF: Lieutenant Hickman does not respond, sir. 
-PICARD: Put a repeating message on all subspace channels. Order the
-Lieutenant to come about and stand to. Make it a priority one
-communiqu. 
-WORF: Still no response, sir. 
-GRAHAM: The craft is now within visual range. 
-PICARD: On screen. 
-DATA: The shuttle's acceleration is increasing. Its trajectory is
-moving directly into the planet's atmosphere. He will reach an
-atmospheric interface at an altitude of two hundred and ten kilometres.
-
-RIKER: If he stays at that speed, he'll self-destruct. 
-DATA: That is correct, Commander. 
-PICARD: How soon, Mister Data? 
-DATA: Fifty three seconds, sir. 
-PICARD: Options? 
-GRAHAM: He's out of transporter range. 
-LAFORGE: He's still too far away to get a positive lock with the
-tractor beam, Captain. 
-PICARD: Open a channel. 
-WORF: Open. 
-PICARD: Lieutenant Hickman, listen carefully. This is Captain Picard of
-the Enterprise. You are in danger. You must slow your rate of approach.
-
-DATA: The shuttle is approaching the outer thermosphere, Captain. 
-RIKER: He's panicking. 
-DATA: At current rate of acceleration, the shuttle will be destroyed in
-twenty eight seconds. 
-DATA: Sixteen seconds to impact. 
-PICARD: Lieutenant Hickman, you must do what I tell you. Reduce your
-velocity and bring your craft to a positive pitch of twenty degrees,
-now. 
-DATA: The shuttle's entering the lower ionosphere, sir. 
-(bang) 
-WORF: Captain, sensors detect two more Federation shuttlecraft on the
-planet surface. No life signs. 
-PICARD: Number One, prepare your away team. 
-RIKER: Worf, Data, Geordi. 
-SUSANNA: I'd like to volunteer to join you, sir. 
-RIKER: Commander.
+SUSANNA RIKER DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Tarchannen]
 

@@ -1,60 +1,48 @@
-LWAXANA TROI MAQUES
+LWAXANA TROI CRUSHER RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Turbolift]
+[Ten Forward]
 
-(there is a crewman in the turbolift) 
-TROI: Deck eight. 
-LWAXANA [OC]: But you'll do exactly what you want. Just like always. 
-TROI: Mother, stop it. 
-(the door opens) 
-TROI: Are you coming? 
-(Lwaxana is crying. Troi gently leads her out) 
-[Corridor]
+TROI: I was all set for another round of arguing
+when all of a sudden she just fell apart. 
+RIKER: She's under a lot of stress. She's preparing the Cairn to meet
+with the Federation Council. 
+TROI: It's more than that. I'm been sensing very erratic emotions from
+her. Even the clothes she's wearing are unusual. They're so subdued. 
+RIKER: Maybe you just need to sit and talk with her. 
+(Riker puts his hand on Troi's) 
+LWAXANA: Commander! Take your hands off her. 
+RIKER: Mrs Troi. 
+LWAXANA: Don't you Mrs Troi me. 
+TROI: Mother! 
+LWAXANA: Why don't you leave her alone? If it weren't for you she'd be
+married by now. 
+TROI: That's enough! 
+LWAXANA: Now I am warning you. Stay away from my daughter! 
+TROI: You're coming with me. 
+[Sickbay]
 
-TROI: What's wrong? 
-LWAXANA: You are so precious to me. You're all I've got. If something
-happened to you I don't know what I'd do. 
-TROI: Nothing's going to happen to me. 
-LWAXANA: You'd better go. 
-TROI: My first appointment isn't for a few minutes. Why don't we talk
-for a while? 
-LWAXANA: No, I'm fine. I'm just tired from working with the Cairn. It's
-making me emotional. 
-TROI: Are you sure? 
-LWAXANA: Go on I'll see you later. Go on.
-
-[Troi's office]
-
-TROI: Maques. 
-MAQUES: I must to apologise for yesterday. 
-TROI: You don't have to. 
-MAQUES: My words, they were confused. 
-TROI: It wasn't your fault. Please. (they sit) My mother misled you. 
-MAQUES: Not in everything. She has an image of you in her mind. She
-shared it with me. You are even more beautiful. The way my people
-communicate, it is direct. Nothing is hidden. 
-TROI: Yes? 
-MAQUES: Your mother is the first to learn our telepathy. 
-TROI: You mean you've never had telepathy with someone who wasn't
-Cairn? 
-MAQUES: No. To communicate with her is very different. 
-TROI: In what way? 
-MAQUES: Always there is a part of her that. Um. A part of her that is
-dark. 
-TROI: Dark? 
-MAQUES: A part of her that can not be seen. Do you understand? 
-TROI: I'm not sure. Have you ask my mother about this? 
-MAQUES: She called it. A moment. Privacy. 
-TROI: Of course. You said among the Cairn, nothing is hidden. We value
-honesty, but we don't always share everything we're thinking and
-feeling. 
-MAQUES: This is privacy? 
-TROI: Yes. 
-MAQUES: It is normal? 
-TROI: For us, yes. 
-MAQUES: If this is your way, I am relieved. 
-TROI: It is our way. 
-MAQUES: I will leave now. 
-TROI: I'm glad you stopped by. 
-MAQUES: I am glad to have stopped also.
+LWAXANA: I don't know what got into me. Please,
+tell Will how sorry I am. 
+CRUSHER: You're fine, but your psilosynine levels are a little low. 
+LWAXANA: Psilo-what? 
+TROI: It's a neurotransmitter involved in telepathy. 
+CRUSHER: It's been depleted by your work with the Cairn. You're going
+to have to try to avoid telepathic communication for a while. 
+LWAXANA: I can't. 
+CRUSHER: Why? 
+LWAXANA: We only have three days left and the Cairn have so much to
+learn. 
+CRUSHER: Lwaxana, I'm sorry, but you're going to have to take some time
+and rest. 
+TROI: Maybe I can help with the Cairn. 
+LWAXANA: No, you're only half Betazoid, dear. And you have no
+experience with their form of telepathy. 
+TROI: Then I won't use telepathy. We'll work verbally. 
+LWAXANA: I suppose we could do that. And if they don't understand
+something I'll explain it to them telepathically. 
+TROI: No, you'll work verbally too. The point is for you to get some
+rest, mother. Besides, it'll do them good to have to figure things out
+with words. 
+LWAXANA: I suppose you're right.
 

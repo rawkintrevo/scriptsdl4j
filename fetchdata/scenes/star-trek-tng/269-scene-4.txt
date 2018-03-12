@@ -1,26 +1,5 @@
-ERIC TROI DATA LAFORGE RIKER
-
-[Classroom]
-
-TROI: (to a child) That's nice. Data, this is
-amazing. How did you come up with this? 
-(Data has made a half-face mask with a compass rose motif on the
-forehead) 
-DATA: I followed your advice, Counsellor. I used my imagination. 
-TROI: That's an understatement. 
-DATA: For some reason, as I was shaping the clay, the image of the mask
-was exceptionally clear in my mind. The design seemed to flow quite
-naturally. 
-TROI: Data, have you been in my quarters? 
-DATA: No, Counsellor. 
-TROI: Somebody left an object in my room. Some kind of artefact, and it
-has something very similar to this. And you don't know anything about
-it? 
-DATA: I do not. 
-ERIC: Excuse me, Counsellor. Can you help me with my terminal? It's not
-working right. 
-(the screen shows the mask and alien glyphs) 
-DATA: Perhaps we should investigate this matter further.
+RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 

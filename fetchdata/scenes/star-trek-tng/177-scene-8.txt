@@ -1,37 +1,32 @@
-LAFORGE WORF PICARD WESLEY COMPUTER DATA
-
-[Bridge]
-
-PICARD [OC]: Commander Data, do you hear me? I
-repeat. Data, do you hear 
-(Data cuts off the comm.) 
-DATA: Computer. Recognise Data, Lieutenant Commander. Alpha One
-clearance. 
-COMPUTER: Priority clearance recognition Alpha One. 
-DATA: Maintain minimum auxiliary power and disengage subspace
-communications. 
-COMPUTER: Acknowledged.
+PICARD COMPUTER DATA WORF OBRIEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
-WESLEY: He is on the Bridge, sir. 
-PICARD: Mister La Forge, prepare for saucer separation. 
-WESLEY: Sir, we're at Warp nine three. 
-PICARD: I am aware of the risks, Ensign. When the umbilical splits, we
-should regain primary control, do you agree? 
-LAFORGE: Yes, sir. 
-PICARD: The saucer module should fall out of warp in two minutes. Be
-prepared to sweep back. Pull it in with a tractor beam. 
-WORF: Aye, sir. 
-PICARD: Initiate auto sequence.
+O'BRIEN: Tried to make it to a transporter room
+now. 
+PICARD: Mister Worf, I want security teams along the main passageways
+and in every transporter
+room. And see if the computer would be good enough to give you the
+precise stun setting to disable Mister Data. 
+WORF: Yes, sir. 
+PICARD: Computer, estimate the time from this location to Starbase four
+one six at warp nine. 
+COMPUTER: Inquiries regarding command functions are no longer accepted
+from your present location.
 
 [Bridge]
 
-DATA: (doing a perfect imitation) Computer,
-recognise Picard, Jean-Luc. Alpha Two clearance. 
-COMPUTER: Priority clearance recognition, Alpha Two. 
-DATA: Cancel separation sequence. 
-COMPUTER: Sequence cancelled. 
-DATA: Isolate all remaining command functions and accept related orders
-and inquiries from main Bridge only.
+DATA: (imitating Picard) Computer, establish a
+security code for access to all functions previously transferred to
+Bridge. 
+COMPUTER: Enter code. 
+DATA: One seven three four six seven three two one four seven six
+Charlie three two seven eight nine seven seven seven six four three
+Tango seven three two Victor seven three one one seven eight eight
+eight seven three two four seven six seven eight nine seven six four
+three seven six. Lock. 
+COMPUTER: Security code intact for all specified inquiries and orders. 
+DATA: Computer, initiate cascade sequence, accepting instructions from
+Commander Data en route. (enters turbolift) Now.
 

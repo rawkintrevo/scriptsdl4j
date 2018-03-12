@@ -1,146 +1,94 @@
-RIKER LAFORGE WORF PICARD PRESSMAN CRUSHER DATA
-
-[Sickbay]
-
-(Riker is in a martial arts robe) 
-CRUSHER: What's wrong? 
-RIKER: I think I busted a rib. 
-CRUSHER: (to patient) Excuse me. What were you doing? 
-RIKER: I was doing bat'leth moves with Mister Worf. I jabbed when I
-should've blocked. He caught me right in the side. It's a good thing we
-were using sticks instead of the real blades. 
-CRUSHER: It's broken all right. Give him ten cc's of terakine for the
-pain. 
-RIKER: I can't believe how stupid I was. 
-CRUSHER: You both must have got a little carried away, that's all. 
-RIKER: No, it was my fault. I got distracted at a crucial moment. 
-CRUSHER: It can happen to anyone. 
-RIKER: I knew what I was supposed to do and I didn't do it. If those
-had real bat'leths I might be dead right now. 
-CRUSHER: There, all better. Will, it's all right. You made a mistake.
-No harm done. You'll be better next time. 
-RIKER: Yeah, maybe.
-
-[Bridge]
-
-DATA: Scan of grid one five seven is complete. I am
-moving to grid one five eight. 
-WORF: The Romulan warship is still searching grid two seven zero. 
-RIKER: They're sure spending a lot of time over there. I wonder if they
-
-LAFORGE: Commander, I think we might have just struck paydirt. There's
-a subspace resonance signature coming from that asteroid. From the
-frequency variances, it looks like the pattern from a Federation warp
-core. 
-RIKER: Captain Picard to the Bridge. Take us to within ten kilometres
-of asteroid gamma six zero one. 
-(Picard and Pressman enter) 
-RIKER: Geordi's found something. 
-LAFORGE: There's a subspace resonance signature coming from that
-asteroid, sir. It could be the warp core of the Pegasus. 
-PRESSMAN: I think he's right. I recognise some of the variance
-patterns. 
-PICARD: Put the asteroid on the main viewscreen. 
-DATA: I have confirmed Geordi's readings. The resonance signature is
-originating from somewhere beneath the asteroid's surface. 
-PRESSMAN: Beneath the surface? How's that possible? 
-DATA: This asteroid contains several deep chasms large enough for a
-starship to enter. It is possible the Pegasus drifted into the
-asteroid's gravitational field and was pulled down into one of the
-fissures. 
-WORF: Sir, the Romulan warbird has altered course once again. They are
-heading toward our position. 
-RIKER: They probably want to see what we're so interested in over here.
-
-PICARD: Mister Data, how long will it take to determine the exact
-location of the Pegasus? 
-DATA: At least another six hours, sir. 
-PRESSMAN: That's too long. If the Romulans start searching the
-asteroid, they could find the ship before we do. 
-RIKER: I recommend we destroy the asteroid. It would take most of our
-photon torpedoes, but it would preclude any possibility of the Pegasus
-falling into Romulan hands. 
-PRESSMAN: Our top priority is to salvage the ship, Commander. I'll
-consider destroying it only as a last resort. 
-RIKER: Yes, sir. 
-PRESSMAN: Captain, could you give me a third alternative? 
-PICARD: Mister Data, would it possible to saturate the asteroid with
-verteron particles that could mask the resonance signature and prevent
-the Romulans from detecting it? 
-DATA: In order for the deception to succeed, it would have to appear to
-be a natural phenomenon. Verteron particles are artificial in nature. 
-LAFORGE: Wait a minute. We could blanket the asteroid with high levels
-of ionising radiation. There's so much of it in the system already, the
-Romulans won't know the difference. 
-PICARD: Mister Data? 
-DATA: Theoretically, sir, it should work. 
-RIKER: If we do this, we have to do it fast the Romulans will be within
-sensor range in less than a minute. 
-PICARD: Make it so, Mister Data. 
-DATA: Aye, sir. Initiating ionisation field pulse. 
-PICARD: When he's finished we'll have to move away and make it look
-like we've scanned the asteroid but haven't find anything. 
-RIKER: Lay in a course for the next search grid. Stand by to engage. 
-PICARD: If it works, the Romulans won't find anything and we can return
-later. If it doesn't 
-PRESSMAN: If it doesn't work, we'll have handed them the Pegasus. 
-DATA: Ionisation pulse complete. 
-PICARD: Helm, one quarter impulse. Engage. 
-DATA: The Romulans are initiating a tachyon scan of the asteroid. They
-have switched to their lateral sensor array. Beginning another scan. 
-RIKER: They're certainly being thorough. 
-DATA: The warbird has completed its sensor sweep. 
-PRESSMAN: If they found the resonance signature, they should be sending
-away teams any second. 
-DATA: They are moving out. 
-PICARD: Mister Data, we must convince the Romulans that we're still
-looking for the Pegasus. I want you to continue scanning this system. 
-DATA: Yes, sir. 
-PICARD: I want to be back at this asteroid at oh eight hundred hours
-tomorrow. Plan your search pattern accordingly. 
-RIKER: Aye, sir. 
-PICARD: Admiral, would you care to join me for some late dinner? 
-PRESSMAN: Please excuse me, Captain, but I think I'd better turn in
-early. 
-PICARD: You have the Bridge, Number One. Oh, and will you bring the
-scan analysis to my quarters when you're off watch? 
-RIKER: Aye, sir. 
-(Picard leaves) 
-RIKER: Initiate search of grid one six three. 
-DATA: Beginning sensor sweeps. 
-PRESSMAN: Commander, I want to see you in the Captain's Ready room. 
-RIKER: Mister Data, you have the Bridge. 
-DATA: Aye, sir.
+GUEST0 GUEST1 RIKER WORF PICARD PRESSMAN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 
-PRESSMAN: What the hell is the matter with you?
-Destroy the Pegasus before we've even taken a look at it? 
-RIKER: I thought it was more important that the Romulans 
-PRESSMAN: Well, you were wrong! We have a chance here to change the
-balance of power in this quadrant, but we can't very well do that if we
-destroy the Pegasus, now can we? 
-RIKER: No, sir. 
-PRESSMAN: It hasn't been easy for you I'm sure, keeping your Captain
-and friends in the dark like this. 
-RIKER: I haven't enjoyed it, if that's what you mean. 
-PRESSMAN: I hope you understand that it's necessary. 
-RIKER: I understand that you think it's necessary. 
-PRESSMAN: You have changed. 
-RIKER: Changed? 
-PRESSMAN: Something the Captain and I were talking about. To be honest
-I'm glad to see this kind of change in you, Will. State your opinion
-and stand by it. It's a far cry from the young man who used to sit at
-my helm and worry about pressing the wrong button. 
-RIKER: A lot of things can change in twelve years, Admiral. 
-PRESSMAN: Yes, they can. But it's important that a man changes the
-right things in his life, not his sense of duty, not his sense of
-loyalty. 
-RIKER: I'd like to think that I haven't changed those things, sir. 
-PRESSMAN: I would like to think that too. Because those things say more
-about a man than the rank on his collar or the
-uniform he wears. They define him. Twelve years ago, a lot of older and
-more seasoned officers turned away from their duty, but you stood up
-for what was right. I'm sorry, Will. I know the kind of man you are. I
-know that I can count on you again.
+GUEST0 [on monitor]: Captain, Starfleet places
+the highest priority on the success of this mission. Your request for a
+delay is denied. 
+PICARD: Margaret, something's very wrong here. Do you know what's going
+on? 
+GUEST0 [on monitor]: I know that the Chief of Starfleet Intelligence
+herself is watching this one, Jean-Luc. So you'd be well advised to
+follow Pressman's orders and leave it at that. Starfleet out. 
+WORF [OC]: Worf to Captain Picard. We are approaching asteroid gamma
+six zero one, sir. 
+PICARD: On my way.
+
+[Bridge]
+
+PICARD: Mister Worf, where are the Romulans? 
+WORF: They are out of sensor range on the far side of the system. 
+PICARD: Take us to within fifteen kilometres of the asteroid and hold
+that position. 
+WORF: Aye, sir. 
+PICARD: Mister Data, report. 
+DATA: For the past several hours, I have been scanning the area where
+we detected the resonance signature of the Pegasus. From the strength
+and polarity of the signature, it would appear that most of the warp
+core is still intact. 
+PRESSMAN: If we're lucky, the entire engineering section could be down
+there. 
+RIKER: But how do we get to it? I wouldn't want to try to transport
+through that much solid rock. 
+PICARD: Agreed. What about a shuttle? We could send it down through one
+of these fissures. 
+DATA: I would recommend against it, sir. There may be gravimetric or
+magnetic fluctuations inside the asteroid which would overpower the
+engines of a shuttlecraft. 
+PRESSMAN: Sounds like the best solution is to take the Enterprise in. 
+RIKER: Into the asteroid? 
+PRESSMAN: That's right. Put this fissure on the main viewer. This chasm
+is large enough for us to manoeuvre in. Besides, if we ever hope to
+salvage the Pegasus, we're going to need a starship to do it. 
+PICARD: Mister Data? 
+DATA: It is theoretically possible, sir, but I am unaware of any prior
+situations where a starship was taken so deeply inside a planetary
+body. There may be unforeseen difficulties. 
+PICARD: Admiral, I don't think we can risk 
+PRESSMAN: I've made my decision. Prepare to take the Enterprise in,
+Captain. That's an order. 
+PICARD: Mister Data, will you please note in the ship's log that this
+action is being taken over my explicit objections. 
+DATA: It is so noted, sir. 
+PICARD: Yellow Alert. 
+RIKER: Shields up. Inertial dampers at maximum. 
+PICARD: Ensign Gates, plot a course into the chasm, manoeuvring
+thrusters only. 
+GUEST1: Course plotted, sir. 
+PICARD: Take us in. 
+(Enterprise gently navigates the tunnel) 
+DATA: We are now two kilometres beneath the surface. 
+(shake) 
+WORF: Captain, we are encountering shifts in the magnetic field
+density. 
+PICARD: Admiral, if is passage narrows to less than five hundred
+metres, I will abort the mission. You can charge me with
+insubordination if you wish, but I'm not going to risk the Enterprise
+for a salvage operation. 
+WORF: Captain, I am reading a large resonance signature directly ahead.
+
+(NCC53847 is sticking out of the rock) 
+PRESSMAN: Pegasus. 
+RIKER: What the hell happened? 
+DATA: Sensors show that the ship is still intact. However, sixty five
+percent of it is contained within the asteroid. 
+RIKER: It looks if half the ship materialised inside solid rock. 
+DATA: Yes, sir. I do not understand how this could have happened. 
+PRESSMAN: Let's keep the speculation to a minimum. We have to begin the
+salvage operation. The equipment we need was in main Engineering. Can
+you scan that section of the Pegasus? 
+DATA: The starboard bulkhead of main Engineering is contained within
+the rock face, but most of its compartment is still intact. 
+WORF: There is a hull breach in that section. 
+PICARD: If we begin a power transfer, can we restore life support
+systems to that compartment? 
+DATA: I believe so, sir. The breach can be temporarily sealed by
+extending our shields. 
+PRESSMAN: See to it. Once you've restored life support, Commander Riker
+and I will beam directly into Engineering. 
+PICARD: Admiral, I would like to send down a complete away team 
+PRESSMAN: There's some very sensitive equipment over there. I don't
+want anyone else near it. 
+PICARD: Yes, sir.
 

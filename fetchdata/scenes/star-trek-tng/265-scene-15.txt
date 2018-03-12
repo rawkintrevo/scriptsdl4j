@@ -1,57 +1,47 @@
-NIKOLAI LAFORGE WORF PICARD CRUSHER DATA
+PICARD DATA LAFORGE GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Bridge]
+
+DATA: We are in synchronous orbit above the beam
+down site, sir. 
+PICARD: Good. Mister La Forge, how much longer before we can transport
+the Boraalans? 
+LAFORGE [OC]: A few more hours, Captain, but we've got some problems
+here. 
 [Engineering]
 
-WORF [OC]: In a pool of water, the road ahead will
-be filled with good fortune. 
-LAFORGE: Hang in there, Worf. Give me just a second. There. That should
-do it. 
-[Holodeck Cavern]
+LAFORGE: I don't think the holodeck's going to last
+that long. We've had materialisation errors and resolution failures all
+over the place, and it's getting worse. The simulation could fall apart
+any minute. 
+[Bridge]
 
-(the pool stops flickering) 
-NIKOLAI: You see? Our journey is already blessed. The road ahead is
-long. Let us have a meal together, then we'll make preparations to
-leave. 
-(the people disperse) 
-NIKOLAI: Worf, very good work. Apparently we don't make such a bad team
-after all. 
-WORF: We are not a team. I am here because Captain Picard ordered me
-here. 
-NIKOLAI: Worf, don't we both share the same goal? Aren't we both trying
-to make this plan work? 
-WORF: Only because you forced us into it. 
-NIKOLAI: I'm not ashamed of what I did. I'm not sorry I saved their
-lives. 
-WORF: You have not changed. You still expect people to solve the
-problems you create. 
-NIKOLAI: I'm not here to work out the issues of our childhood. I'm here
-to save a people who I care about. And if that upsets you, then so be
-it.
+PICARD: We'll have the transporter room standing
+by. But we may have to transport the Boraalans whether you're ready or
+not. Please keep Mister Worf apprised. 
+LAFORGE [OC]: Aye, sir. 
+PICARD: You have the Bridge, Number One. We still have one more problem
+to worry about. 
+[Vorin's quarters]
 
-[Stellar cartography]
-
-DATA: These are the two planets which best match
-our search criteria. Draygo Four features an unusually large temperate
-zone. However, it is within three light years of Cardassian space. 
-CRUSHER: There are constant border disputes in that sector. 
-DATA: The alternative is Vacca Six. It is located in the Cabral sector.
-
-CRUSHER: That's pretty isolated. 
-DATA: It offers a less hospitable climate than the Boraalans are
-accustomed to. However, it would still appear to be the better choice.
-Do you disagree, Doctor? 
-CRUSHER: No, Data, you're right. It's just that the enormity of what
-we're doing is overwhelming. We are deciding the future of a species. 
-DATA: It is a formidable responsibility. 
-CRUSHER: There are so many questions we don't have answers to. What if
-the climate is so different that it affects them in a way that we can't
-anticipate? How do we even know they'll be able to survive? And if they
-do, how will their society evolve and what impact will it have on the
-Vaccan system? We have no idea what this decision will mean to their
-future. 
-DATA: Doctor, I do not believe we can offer any guarantees. We can
-simply make the best choice we have at the moment. 
-CRUSHER: All right, Data. Vacca Six it is. 
-DATA: Data to Bridge. 
-PICARD [OC]: Picard here. 
-DATA: We have located a new home for the Boraalans, sir. 
+GUEST4: Yes. 
+PICARD: We have arrived at the planet that I told you about. Have you
+made a decision? 
+GUEST4: I believe I would like to go back to my people. 
+PICARD: I see. What do you intend to tell them? 
+GUEST4: I don't know. 
+PICARD: If you tell them the truth, what will happen? Will they believe
+you? 
+GUEST4: I'm not sure. It is a fantastic story. 
+PICARD: Perhaps they will think that you have had an hallucination, or
+that you're insane. 
+GUEST4: I don't think I would like to live my life knowing what I know
+and being regarded as a madman. 
+PICARD: On the other hand, they may believe your fantastic story. They
+would learn about alien worlds, starships. 
+GUEST4: That would be disastrous. It would destroy everything they
+believed in. I can't tell them the truth, but I don't think I can live
+with a secret. 
+PICARD: Then stay here. Make a future for yourself with us. 
+GUEST4: I need some time. Please. 

@@ -1,31 +1,31 @@
-PICARD RIKER
+GUEST1 PICARD COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Ready room]
 
-RIKER: We'll be coming into orbit of Vulcan in less
-than an hour, Captain. 
-PICARD: We should tell Sarek's wife of our plans. 
-RIKER: Already been taken care of. She's transporting over at oh seven
-hundred. 
-PICARD: And Sarek?
-RIKER: She says he's too ill to make the trip. 
-PICARD: The man is dying. And it's my honour to tell him that his son
-may have betrayed the Federation.
-RIKER: How well do you know Spock? 
-PICARD: I met him once. What I know of him comes from history books,
-and of course my mind meld with his father. 
-RIKER: That must cover a lot of ground. 
-PICARD: Not as much as you'd imagine. Sarek and Spock. Well, sometimes,
-fathers and sons. 
-RIKER: Understood.
-PICARD: Oh, one other thing. Take a look at this. Turned up during an
-intelligence sweep. 
-(Picard hands over a PADD) 
-RIKER: Metal fragments. 
-PICARD: What do you make of it?
-RIKER: Possibly disassembled components, identified as Vulcan,
-recovered from a downed Ferengi vessel? 
-PICARD: They were found in crates marked Medical Supplies.
-RIKER: Contraband. 
-PICARD: It's been sent to Vulcan for identification. Starfleet have
-requested that we lend a hand. 
+GUEST1: I apologise, Captain, for the mystery,
+but we must attempt to contain the information I'm about to reveal to
+you at least as long as possible. 
+PICARD: I must admit you've piqued my curiosity, Admiral.
+GUEST1: Three weeks ago, one of our most celebrated Ambassadors, an
+advisor to Federation leaders for generations, disappeared. He left no
+word of his destination. Two days ago, intelligence reports placed him
+on Romulus and I assure you it was an unauthorised visit. Computer,
+initiate linkage between this terminal and starbase computer system
+alpha two nine.
+COMPUTER: Linkage complete.
+PICARD: A defection?
+GUEST1: If it is, the damage to Federation security would be
+immeasurable. Taken on Romulus, by long range scanner. Computer,
+enhance image in section four delta. 
+(and there on LCARS 40275 are the unmistakable craggy features of a
+certain former Science Officer of the Enterprise)
+
+Captain's log, stardate 45236.4. As I study the
+intelligence reports on Ambassador Spock's disappearance, I cannot help
+but
+feel a deeper, more personal concern about this mission, for I know
+this man through his father. It was barely a year ago
+that I shared a mind meld with the Vulcan, Sarek. Now we must meet
+again as I attempt to find an explanation for his son's actions.
+

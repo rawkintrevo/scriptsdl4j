@@ -1,75 +1,58 @@
-PICARD RIKER CRUSHER DATA NELLA
+PICARD RIKER CRUSHER NELLA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Captain, we'll be arriving at the Borgolis
-Nebula in three hours. 
-PICARD: Yes. I understand it has unusual radioactive emissions, and I'm
-sure that Stellar Sciences will find it a most interesting study. 
-RIKER: Commander Daren has already requested extra time on the main
-sensor array. 
-PICARD: Well, you have the Bridge, Number One. 
-DATA: Captain, I would like to remind you of our concert this evening
-in Ten Forward. We will perform Chopin's Trio in G Minor. 
-PICARD: I'll be there.
+PICARD: Number One, my fencing partner's cancelled
+for this afternoon. I was wondering if you wanted to join me? 
+RIKER: Fencing? I'm really not very good. 
+PICARD: It doesn't matter so as long as you enjoy it. 
+RIKER: Why not? 
+PICARD: Good. Excellent. Fourteen hundred hours, then.
 
-[Picard's quarters]
+[Sickbay]
 
-(a shared meal) 
-PICARD: And so the upshot is that we'll be close enough for you to slip
-away for a few days and see Wesley. 
-CRUSHER: Oh, that's wonderful. Thank you, Jean-Luc. This is delicious. What is it? 
-PICARD: It's an herbal tea blend. I, er, found it in the replicator
-files. Have you met any of the new crewmembers who came aboard at
-Starbase two eighteen? 
-CRUSHER: In fact, I have a new nurse, Beck. He's an obstetrics
-specialist. 
-PICARD: I met the new head of Stellar Sciences last night. Lieutenant
-Commander Daren. 
-CRUSHER: Yes. Nella Daren. She came into Sickbay for her physical last
-week. I like her. Very forthright. 
-PICARD: Did you know it is now possible to predict the configuration of
-a star system which won't be formed for another two million years? 
-CRUSHER: Really? No, I didn't. 
-PICARD: It's really quite intriguing. The whole thing is made possible
-by a complex mathematical construct based on fractal particle motion.
-But that's only the foundation. The modeling itself is done by
-gravimetric wave input. 
+CRUSHER: You have a mild strain. 
+NELLA: I've been playing the piano a lot. I guess the Captain and I
+overdid it a little last night. 
+CRUSHER: The Captain? 
+NELLA: Yes, he plays a kind of flute. A Ressikan, I think he said. 
+CRUSHER: Yes, but I didn't know he played duets. 
+NELLA: He never did before. He seemed to enjoy it. He's actually quite
+promising. 
 CRUSHER: I see. 
-PICARD: Well, I know this is all pretty dry stuff. Stellar cartography
-isn't everybody's cup of tea. 
-CRUSHER: I'm sure it's really quite fascinating. 
-PICARD: You know, we'd should be getting along to Ten Forward. We're
-going to be late for the concert.
+NELLA: Tell me, have you known him long? 
+CRUSHER: Yes, a very long time. 
+NELLA: He seems somewhat isolated. 
+CRUSHER: I'd say he's a very private person, but not isolated. There,
+that should help. 
+NELLA: That feels much better. Thank you. 
+CRUSHER: Good. 
+NELLA: I was afraid I might have to cancel. 
+CRUSHER: Another duet?
 
-[Ten Forward]
+[Jefferies tube]
 
-(the raised area in front of the windows is the
-stage. Data and a cellist enter, then the pianist, Nella. Troi picks up
-Picard's emotions during the performance) 
-(afterwards, at the bar) PICARD: Thank you. 
-NELLA: Well done, Mister Data. Well done. 
-PICARD: Commander, that was a remarkable performance. 
-CRUSHER: You are very talented. 
-NELLA: Thank you. 
-DATA: I noticed that the applause this evening exceeded average decibel
-levels. 
-NELLA: I guess that means they enjoyed themselves. 
-PICARD: I think that much was obvious. 
-DATA: Excuse me. I have not yet congratulated Ensign Cheney. 
-CRUSHER: I'll go with you. 
-PICARD: Commander, you must have been playing since you were young. I
-played the piano for a while when I was small, but I didn't put in the
-practice you must have. 
-NELLA: Practising was never my problem. In fact, my parents had to make
-me go out and play. 
-PICARD: I wanted to ask, during the second arpeggio in the first
-movement, I noticed that you played an F minor chord instead of a
-diminished D. 
-NELLA: You're a musician. What's your instrument? We should play some
-time. 
-PICARD: No, no, no, I'm just an amateur. But your choice in that
-arpeggio was delightful. Not at all what one would expect. 
-NELLA: Well, Captain, now that I'm on your ship, maybe you should start
-expecting the unexpected.
+(Picard and Nella are both in casual clothes, going
+up the ladders) 
+NELLA: Keep climbing. 
+PICARD: Where are we going? 
+NELLA: We're almost there. 
+PICARD: I don't see why we couldn't just practice in my quarters. 
+(they sit at an intersection) 
+NELLA: Do you know where we are? 
+PICARD: Yes, this is the fourth intersect in Jefferies tube twenty
+five. 
+NELLA: No, this is the most acoustically perfect spot on the ship. 
+(she starts up the Moonlight Sonata on her keyboard) 
+NELLA: The intersection acts as a resonance chamber. 
+PICARD: How did you find it? 
+NELLA: A little exploring. 
+PICARD: You mean to say you climbed through every tube on the ship? 
+NELLA: Well, not every one. Try it. See how it sounds. 
+(he plays what seems like a variation of the Skye Boat song) 
+NELLA: That's beautiful. What is it? 
+PICARD: It's an old folk melody. 
+NELLA: I've never heard you play with such feeling. 
+(she plays the tune and he joins in)
 

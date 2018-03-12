@@ -1,41 +1,33 @@
-PICARD TORIN GOWRON KOROTH KAHLESS
+DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Holodeck Temple]
 
-GOWRON: What kind of medical analysis have you
-made? Do you have any theories about his true origin? 
-PICARD: We haven't done any analysis. 
-GOWRON: What kind of fools do you have working for you, Picard? The
-imposter's been aboard for nearly a day. 
-PICARD: If you wanted to run tests on Kahless, you should have sent a
-Klingon ship for him. 
-GOWRON: And have him begin spreading his poisonous lies through a ship
-of loyal Klingons? Never. 
-PICARD: If he really is an imposter then you have nothing to worry
-about. 
-GOWRON: Kahless has been dead for a thousand years, but the idea of
-Kahless is still alive. Have you ever fought an idea, Picard? It has no
-weapon to destroy, no body to kill. The idea of Kahless' return must be
-stopped here, now, or it will travel through the Empire like a wave and
-leave nothing but destruction behind.
-
-[Kahless' quarters]
-
-PICARD: So Gowron has come on board in order to
-test your claim. 
-KOROTH: Gowron knows that his days are nearly over. Now he comes
-crawling aboard with some kind of test. 
-TORIN: We do not have to prove anything to Gowron. 
-KAHLESS: What is this test? 
-PICARD: He has brought a knife with him, a knife is was supposed to be
-stained with the blood of Kahless. 
-TORIN: Gowron has brought the Knife of Kirom? No one is permitted to
-remove it from the sacred vault. 
-KOROTH: Gowron does not care about what is sacred. 
-PICARD: He wants to run a genetic analysis on a sample of the blood and
-on you. That should tell us if there is a biological match. Now if you
-agree to the test, I will make the Enterprise facilities available to
-ensure that it is conducted impartially. 
-KAHLESS: (looking at Worf) Perhaps it is time to settle the doubts of
-those who still do not believe. I will allow this test.
+(some Klingons are kneeling in front of Kahless'
+throne and chanting) 
+DATA: They have been sitting here for three hours seventeen minutes.
+They refuse to transport back to the ship with the rest of Gowron's
+men. They insisted on waiting here until they see Kahless again. Their
+faith appears to be unaffected by his inability to defeat Gowron. They
+still believe. 
+WORF: Then they are fools. 
+DATA: Does that mean you no longer believe this is the real Kahless? 
+WORF: Yes. 
+DATA: I am curious. Do you still think the real Kahless will return
+someday? Or has this experience only deepened the spiritual crisis
+which originally sent you to Boreth? 
+WORF: I do not know. 
+DATA: I understand your dilemma. I once had what could be considered a
+crisis of the spirit. 
+WORF: You? 
+DATA: Yes. The Starfleet officers who first activated me on Omicron
+Theta told me I was an android, nothing more than a sophisticated
+machine with human form. However I realised that if I were simply a
+machine, I could never be anything else. I could never grow beyond my
+programming. I found that difficult to accept, so I chose to believe
+that I was a person, that I had the potential to be more than a
+collection of circuits and subprocessors. It is a belief which I still
+hold. 
+WORF: How did you come to your decision? 
+DATA: I made a leap of faith.
 

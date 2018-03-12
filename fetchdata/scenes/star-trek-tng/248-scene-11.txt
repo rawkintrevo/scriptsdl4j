@@ -1,93 +1,38 @@
-TPAN WORF PICARD KURAK REYGA CHRISTOPHER OGAWA CRUSHER
+PICARD CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
- [Science lab]
+[Corridor]
 
-CRUSHER [OC]: And that made what I had to do next
-even harder. 
-CRUSHER: I'm sure you all understand that in light of what happened, I
-think it would be inappropriate to continue further testing. Perhaps if
-Doctor Reyga has perfected his metaphasic technology, we can try again.
-
-REYGA: Doctor Crusher, please, if I could have a little more time to
-investigate I know I could find what went wrong. 
-CHRISTOPHER: But that won't bring back Jo'Bril, will it? 
-T'PAN: I do not believe the shield will ever work. Its very concept is
-flawed. 
-REYGA: Just one more test. 
-KURAK: Whom do you propose we sacrifice next? 
-REYGA: I will pilot the shuttle myself. 
-CRUSHER: I'm sorry. As Chief Medical Officer I'm responsible for the
-health and safety of all the people aboard. I will not authorise any
-further tests. 
-REYGA: Very well. But I will prove myself. 
-CRUSHER [OC]: I couldn't help but admire his tenacity. He just wasn't
-going to accept defeat. And I hoped he would prove himself. But that
-was the last time I saw him alive.
-(later, Reyga is lying flat out on the floor. Security are present) 
-CRUSHER [OC]: We'd gone to Science Lab four when the ship's sensors
-registered a sizable plasma surge there. 
-CRUSHER: Look at this. A plasma infuser. It's completely discharged.
-The blast must have killed him instantly. 
-WORF: Perhaps he could not live with the failure of his invention and
-took his own life. 
-CRUSHER: Or perhaps someone just wanted it to look that way. Isn't it
-odd that he could hold on so tightly to the infuser when it was
-discharged. The normal reflex would have been to drop it. 
-WORF: The plasma shock could have affected his nervous system. He may
-have reacted by gripping tighter. 
-CRUSHER: I'll know for certain when I do the autopsy. 
-WORF: Is your examination complete, Doctor? 
-CRUSHER: For now. Please have his body taken to the morgue. 
-WORF: Very well. 
-CRUSHER [OC]: I remembered his passion and commitment, and his
-determination to prove himself, and I was sure that this man had not
-taken his own life. If anyone could understand that, I knew it would be
-Captain Picard. 
-[Ready room]
-
-CRUSHER: Jean-Luc, I was with him right before he
-died. He was not suicidal. 
-PICARD: But by your own admission, Reyga was a difficult man to
-understand. Isn't it possible that he was simply masking his feelings? 
-CRUSHER: I don't think so. He was disappointed at the failure of his
-device and certainly he was upset at Jo'Bril's death, but I never got
-the sense that he was ready to end his own life. And if that's true,
-then someone else killed him. 
-PICARD: Do you have any evidence of that? 
-CRUSHER: Not yet. But when I finished the autopsy, I hope I'll have it.
-
-PICARD: Beverly. I'm afraid there will be no autopsy. The family has
-already been contacted. They insist that the body must not be touched
-until they perform the Ferengi death ritual. 
-CRUSHER: But there's a question as to the circumstances of his death. 
-PICARD: To the family that's irrelevant. 
-CRUSHER: Let me speak with them. 
-PICARD: Please believe me, they're adamant. We are scheduled to
-rendezvous with a Ferengi ship in seventeen hours. They will pick up
-Reyga's body then. I'm sorry, there will be no autopsy. 
-CRUSHER: Jean-Luc, I cannot just drop this. Don't you see? There may
-have been a murder. 
-PICARD: Then you will have to find evidence some way other than an
-autopsy.
+CRUSHER [OC]: I was beginning to find out that
+investigating a murder was a little more perilous than I'd thought. And
+for everything I'd been though, I didn't have any more insight than I
+did before I started.
 
 [Morgue]
 
-OGAWA: I don't understand, Doctor. Isn't it pretty
-clear that Reyga died from a plasma discharge? 
-CRUSHER: It's won't be clear until after an autopsy. As far as I know,
-he could have been poisoned and someone put the plasma infuser in his
-hand after he died. 
-OGAWA: You think he was murdered? 
-CRUSHER: I'm not discounting that possibility. The point is, without a
-complete autopsy, there's no way of knowing for certain. 
-OGAWA: Why won't the Ferengi allow it? 
-CRUSHER: It has to do with their death rituals. The body can't be
-violated before it's buried. Apparently the family is more concerned
-about ritual than finding out the truth about how he died. I just can't
-get the information I need from a tricorder scan. Suspects. If Reyga
-didn't kill himself. someone else did. So who are the possible
-suspects? 
-OGAWA: Whoever had something to gain from his death. 
-CRUSHER: And the only ones to fit that category are the other
-scientists.
+CRUSHER [OC]: Which brought me back to Reyga's
+body. Because the more I thought about it, the more it seemed that the
+answers had to be there. DNA traces, tissue anomalies, a wealth of
+forensic clues that could shed some light on the mystery. So I made the
+decision. 
+(and Reyga's body is slid out of the chamber)
 
+[Picard's quarters]
+
+PICARD: Come. Beverly. 
+CRUSHER: Jean-Luc, I want to tell you something that you need to know,
+but you're not going to like it. I did an autopsy on Doctor Reyga. 
+PICARD: What did you find? 
+CRUSHER: Nothing. I'm sorry. I know I shouldn't have done it. 
+PICARD: You most certainly should not. I made it clear to you that the
+family would not allow it. Not only have you disobeyed my orders, but
+you've interfered in the burial rituals of another culture. You've put
+both of us in a very difficult position. The family will have to be
+notified. I don't doubt that they will react strongly. If the Ferengi
+government becomes involved, as I'm certain they will, this could have
+very significant repercussions. I'm not sure how much I can protect
+you. 
+CRUSHER: You don't have to, Jean-Luc. I knew what I was doing and I'm
+prepared to accept the consequences. 
+CRUSHER [OC]: I could tell that he was terribly disappointed in me, and
+that was almost the hardest part of all. 

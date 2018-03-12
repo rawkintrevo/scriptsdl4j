@@ -1,70 +1,42 @@
-RIKER CONDUCTOR CREWMAN WORF PICARD RUSTIC GANGSTER ENGINEER DATA LAFORGE
+PICARD RIKER LAFORGE GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Bridge]
 
-DATA: Commander, the holodeck appears to be in
-operation. 
-RIKER: I thought you shut down the entire system. 
-DATA: I did, but it has reactivated itself and it will not disengage. 
-WORF: Which programme is running? 
-DATA: Several different programs are running simultaneously. 
-RIKER: This should be interesting. 
-[Holodeck- train]
+RIKER: I don't know how or why, sir, but warp power
+appears to be back to normal levels. 
+PICARD: What's our heading? 
+RIKER: We appear to be on a course for Tambor Beta six. It's a white
+dwarf star. 
+[Holodeck - Engine room]
 
-(a knight in armour is cutting a newspaper, a
-rustic is standing, two 1920's women and a man are working on a jigsaw,
-a gunslinger takes a piece out of his pocket and adds it to the jigsaw)
+GUEST0: Keep it steady. Put your back into it.
+That's the ticket. 
+[Bridge]
 
-RIKER: You weren't kidding, Mister Data. 
-DATA: No, sir. I estimate that this scene consists of portions of seven
-distinct holodeck programs. 
-RIKER: See if you can access the circuits that have been affected by
-the nodes. 
-(an American train conductor enters) 
-CONDUCTOR: Tickets! Tickets please. Please have your tickets ready.
-Thank you, sir. Thank you, madam. Thank you. Thank you, sir. Tickets
-please. 
-RUSTIC: You know, I've never even been away from home. Now I'm going
-all the way to Vertiform City! 
-CONDUCTOR: Very nice, sir. Enjoy your trip. Tickets please. Tickets.
-Thank you sir. 
-(The conductor clips one of the knight's string of paper dolls) 
-CONDUCTOR: Tickets please. Tickets please. 
-DATA: Commander. I have located a large concentration of nodes behind
-this wall. They appear to be connected directly to the holodeck's main
-power coupling. 
-RIKER: All right, go ahead and depolarise the entire power grid. 
-DATA: The power grid is located beneath this deck, sir. 
-CONDUCTOR: Get away from there. Would you gentlemen care to show me
-your tickets? 
-RIKER: I believe we left our tickets in our compartments. Mister Worf,
-I told you to bring the tickets. 
-WORF: I forgot. 
-CONDUCTOR: I don't think you folks belong on this train. 
-ENGINEER: Hold it! You leave these people alone. They're only trying to
-help. 
-CONDUCTOR: You go back to the engine. This doesn't concern you. 
-ENGINEER: They're all trying to hijack the train. 
-RUSTIC: Hey, if you're the Engineer, who's doing the drivin'? 
-(a gangster shoots the Engineer in the back) 
-GANGSTER: I am.
+RIKER: The ship is using a modified tractor beam to
+collect vertion particles from the star. 
+PICARD: Vertion particles. Vertiform City. That's what the ship was
+looking for. 
+(shudder) 
+RIKER: The particles are being routed through the transporter system
+into cargo bay five. 
+PICARD: Geordi, what's going on? 
+LAFORGE [OC]: The object is absorbing
 
-[Engineering]
+[Cargo bay]
 
-(a console explodes in front of Geordi, throwing
-him backwards) 
-CREWMAN: Easy, sir, easy. I've got you.
-LAFORGE: I'm all right, thanks. It looks like the navigational relay's
-overloaded. 
-[Holodeck train]
+LAFORGE: Vertion particles. It's growing even
+faster than before. Commander, I'm picking up internal energy this
+thing. 
+[Bridge]
 
-(the conductor pulls the cord and the train
-lurches. So does the ship) 
-[Engineering]
+RIKER: What do you mean? 
+LAFORGE [OC]: I mean it's generating its own energy. I'm picking up
+coherent emissions 
+[Cargo bay]
 
-PICARD [OC]: Geordi, what's going on? We just went
-into warp. 
-LAFORGE: We've lost engine and helm control again, Captain, but this
-time, they're completely burned out. I don't know if we can stop the
-ship.
-
+LAFORGE: Matter conversion. It's incredible. Wait a
+minute. Wait a minute, something's wrong. We've got power fluctuations.
+Vertion absorption rate is dropping. What's happening to the particle
+beam? 

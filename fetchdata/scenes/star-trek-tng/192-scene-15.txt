@@ -1,42 +1,41 @@
-COMPUTER OGAWA CRUSHER LAFORGE HICKMAN
+PICARD RIKER DATA GUEST3 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Bridge]
 
-OGAWA: Sorry to disturb you, Doctor. 
-CRUSHER: That's all right. What's happened? 
-OGAWA: I thought you should see this. 
-(Alyssa shines a torch on Susanna) 
-CRUSHER: Her skin is simulating light. A radiant reaction. Some sort of
-mimetic ability? 
-OGAWA: That's not all. Her body temperature is dropping. 
-CRUSHER: It's as if she's generating a disruptive field. I can barely
-get any readings off her now. What's her rate of transformation? 
-OGAWA: It's increasing. 
-CRUSHER: That's not possible. It should have been inhibited by the
-T-cell stimulator. Unless. If there's a foreign body inside her that's
-producing these changes, something like a viral crche. 
-OGAWA: A very small one if our scans haven't found it. 
-CRUSHER: I want a full genetic analysis. We're going to examine any
-abnormality we find no matter how insignificant it seems.
-
+WORF: I do not read any life signs on the surface. 
+PICARD: Our sensor array is useless. We must find some other way of
+locating him. 
+DATA: Captain, if we can get close enough to Geordi, we can read his
+absorption spectrum with an ultraviolet light. 
+RIKER: Can you modify an emergency beacon to operate on UV? 
+DATA: Yes, sir. 
+PICARD: Make it so. Number One, as soon as Data is ready, I want you to
+lead an away team. 
+RIKER: Aye, sir. 
 [Engineering]
 
-HICKMAN [on monitor]: One to transport. 
-LAFORGE: Computer, delete the audio. 
-LAFORGE: Wait a minute. Freeze visual. Whose shadow is that? 
-COMPUTER: Please restate question. 
-LAFORGE: Computer, the shadow currently displayed in section B three,
-what is its source? 
-COMPUTER: Unknown. 
-LAFORGE: Come on, it's got to belong to somebody. Computer, replay a
-visual of the last time index. No audio, and slow to fifty percent.
-Okay, Brevelle's behind the camera ,Susanna and I head off in that
-direction. Mendez moves off that way. Freeze visual. Now, magnify four
-times, and spectrally enhance those shadows. (there's the other shadow
-in the background) Computer, do you have sufficient data to compile a
-holographic simulation of this visual record? 
-COMPUTER: A simulation would be limited to areas scanned by the visual
-recording device. 
-LAFORGE: Good, fine. Scan the entire record and then recreate it on
-holodeck three.
+RIKER: How long, Data? 
+DATA: I must replace the emitter module and reconnect the power supply.
+It will take approximately two minutes to complete the modification,
+sir. 
+GUEST3 [OC]: Hedrick to Commander Riker. 
+RIKER: Go ahead. 
+GUEST3 [OC]: I've been able to determine La Forge's transport
+coordinates. He beamed down next to the Aries shuttle. 
+RIKER: Acknowledged. He's on foot, couldn't have gotten too far. Let's
+assume a radius of ten kilometres. 
+WORF: That still leaves a search area of more than three hundred square
+kilometres. 
+RIKER: We've got to narrow that down. What's happening with the
+enhanced sensor arrays? 
+WORF: All scans are still negative. 
+RIKER: We've got to find a way to track him. What about the
+high-resolution EM scans? 
+WORF: We are adjusting sensors to read Commander La Forge's absorption
+spectrum, but it will take several hours. 
+RIKER: Geordi doesn't have several hours. 
+DATA: I have completed modifications, Commander. 
+RIKER: Excellent. Doctor Crusher, meet us in Transporter room six
+immediately.
 

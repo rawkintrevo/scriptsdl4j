@@ -1,70 +1,59 @@
-KURN RIKER WOMAN WORF PICARD LURSA MOVAR TORAL DATA BETOR
+ALL GOWRON WORF PICARD RIKER GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Duras home]
+[Great hall]
 
-(the sisters have Romulan visitors) 
-LURSA: Our allies on the Council backed Toral's claim. It's in Picard's
-hands, now. 
-MOVAR: Excellent. Everything is proceeding as scheduled. 
-TORAL: Why not just kill Picard? 
-B'ETOR: Fool! Do we want the Federation as our enemy? 
-TORAL: No. 
-(and from the shadows, that familiar voice again) 
-WOMAN: At least, not yet. But when the time is right we will deal with
-the Federation and Captain Picard.
+(Picard places the Chancellor's cloak on Gowron's
+shoulders) 
+K'TAL: Receive now the loyalty of the Council and of the Empire. 
+ALL: Qapla! 
+GOWRON: naDev ghoS. 
+(Worf and Kurn step forward) 
+GOWRON: You both fought as warriors. You have proved your hearts are
+Klingon. 
+(he draws a dagger, and Worf grips its blade firmly) 
+GOWRON: I return your family honour. I give you back that which was
+wrongfully taken from you. Let your name be spoken once again. You are
+Worf, son of Mogh.
 
-[Worf's quarters]
+[Observation lounge]
 
-KURN [on monitor]: I have met with the other
-squadron commanders here. Three will join us, one will not. That gives
-us enough strength to control seven key sectors. 
-WORF: Do you know the strength of our enemies? 
-KURN [on monitor]: They have at least seven squadrons, but most of the
-fleet has not decided which banner to follow. 
-WORF: Gowron is nearly out of options. Soon he will have no choice 
-KURN [on monitor]: I will return soon to the home world. We shall meet
-then.
+GOWRON: The Duras family is gathering a large force
+near Beta Thoridar. As per the terms of the Treaty of Alliance, I now
+formally request your assistance in fighting these enemies of the
+Empire. 
+RIKER: These enemies are Klingons. 
+GOWRON: By right and tradition, I am the sole leader. All who oppose me
+are traitors. 
+PICARD: I understand your position, but I', sure you're aware that the
+Federation cannot interfere in what is, by definition, an internal
+Klingon affair. 
+GOWRON: You arbitrated the Rite of Succession. You are already
+involved. 
+PICARD: My duties in that regard are finished. 
+WORF: Captain, we must intervene. The Duras family is corrupt and
+hungry for power with no sense of honour or loyalty. They represent a
+grave threat to the security of the Federation. Captain, you and I know
+that they have conspired with Romulans in the past. If they should be
+victors in this war, they will surely form a new Klingon-Romulan
+alliance. That would represent a fundamental shift of power in this
+quadrant. Starfleet must support Gowron. It is in the interests of both
+the Federation and the Empire. I beg you, support us in our cause. 
+PICARD: Mister Worf, I don't have to lecture you on the principle of
+non interference. As Starfleet officers, we have all sworn an oath to
+uphold that principle whatever our personal feelings. I'm sorry. I must
+refuse your request. 
+(Worf starts to follow Gowron out of the room) 
+PICARD: Mister Worf. I'm afraid I must recall you to duty. The
+Enterprise will be leaving this sector immediately. 
+WORF: Captain, I respectfully request that I be allowed to take an
+extended leave of absence. 
+PICARD: Mister Worf, your responsibilities as a Starfleet officer are
+incompatible with remaining on board a Klingon ship during a time of
+war. 
+WORF: Captain. 
+PICARD: I order you to return to duty at once. 
+WORF: Then I resign my commission as a Starfleet officer. 
+(Worf puts his comm. badge on the table)
+GOWRON: I will await you aboard the Bortas.
 
-[Bridge]
-
-DATA: Do you also require the original logs
-recorded during the attack, Lieutenant? 
-WORF: Everything we have on the Khitomer massacre. 
-DATA: We can provide you with our analysis of the communications
-between the Khitomer outpost and the Romulan ships. However, for a
-complete record you will have to contact Starbase twenty four 
-PICARD: Mister Worf. Have you cancelled your leave? 
-WORF: No, sir. 
-PICARD: Lieutenant, would you join me in my Ready room?
-
-[Ready room]
-
-PICARD: Mister Worf, you're using our files on the
-Khitomer massacre as evidence against Duras' father? 
-WORF: Yes, sir. 
-PICARD: Do you not see an inherent conflict of interest here? 
-WORF: Sir, those Federation records will help me prove that my father
-was falsely accused of treason. 
-PICARD: You are using your position as a Starfleet officer to affect
-political change on your planet. There could not be a worse compromise
-of our fundamental principles. 
-WORF: Do not tie my hands now. I must be able to prove my father's
-innocence. Those Federation records can do that. 
-PICARD: Mister Worf. Here I am lecturing you on a conflict of interest
-while I'm desperately trying to avoid one of my own. Do you think I
-wish to allow the Duras family to solidify their hold on the Council?
-Do you think I cannot see for myself the implications for the
-Federation? Good Lord, Duras tried to have me killed! All of my
-instincts, my training, my very being as a Starfleet officer are at
-odds with my responsibilities as Arbiter of the Klingon High Council.
-We walk the same tightrope between two worlds, you and I. We must try
-our very best to keep those two worlds separate, or we shall certainly
-fall. 
-WORF: Yes, sir. 
-PICARD: I will make the Khitomer massacre files available to anyone who
-wants them. To the High Council, to the Duras family, to you. Anyone. 
-WORF: Thank you, sir. 
-PICARD: Mister Worf, this is as far as I can go. 
-(Worf leaves) 
-RIKER [OC]: Riker to Picard. 
-PICARD: Yes, Number One. 

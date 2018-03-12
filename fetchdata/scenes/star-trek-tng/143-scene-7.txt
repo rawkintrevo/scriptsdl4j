@@ -1,118 +1,47 @@
-RIKER LAFORGE WORF PICARD GREBNEDLOG WESLEY HELM DATA
+RIKER LAFORGE PICARD GREBNEDLOG WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
-
-(The Sahkarov is lined up with the bay doors) 
-WESLEY: Shuttle number two is ready for departure. 
-DATA [OC]: The Enterprise is at impulse speed. You are cleared for take
-off. 
-(Picard is clearly an advocate of the old adage of not keeping a dog
-and barking yourself. Wesley flies the shuttle out) 
 [Bridge]
 
-RIKER: Data, wasn't the Captain looking forward to
-this mission to the Epsilon Pulsar Cluster? 
-DATA: So he said. 
-RIKER: Then what would make him change his mind? Why would he leave the
-ship now? 
-WORF: Commander, receiving a mayday on all frequencies. 
-RIKER: Source? 
-WORF: Rhomboid Dronegar Sector zero zero six 
-RIKER: Detail? 
-WORF: Ship. Unidentified. Distress. Nothing more. 
-RIKER: Set course for Rhomboid Dronegar zero zero six, warp seven. 
-DATA: Sir, Rhomboid Dronegar sector would put us at considerable
-distance from Captain Picard. 
-RIKER: I know, Data. I know. 
-(later) 
-DATA: Entering Rhomboid Dronegar Sector zero zero six. 
-WORF: I have a ship on target path. 
-RIKER: Slow to impulse speed. 
-HELM: Aye, sir. 
-RIKER: Viewer. 
-WORF: Deploy shields, sir? 
-RIKER: Hold fast. Data? 
-DATA: Basic early design. Capable of sub-light travel only. 
-WORF: Sir, we are being hailed. 
+LAFORGE [OC]: I have a problem. 
 RIKER: On screen. 
-RIKER: I am First Officer William Riker of the USS Enterprise. We're
-responding to your distress signal. 
-GREBNEDLOG [on viewscreen]: (not looking at the screen, grunts his
-acknowledgement) 
-RIKER: What is your problem? 
-GREBNEDLOG [on viewscreen]: We are far from home. 
-(The bushy eyebrows rise at forty five degrees towards the middle of
-the forehead, creating a sad look) 
-RIKER: Aren't we all. But you sent out a Mayday? 
-GREBNEDLOG [on viewscreen]: (grunt) 
-RIKER: Do you need help? 
-GREBNEDLOG [on viewscreen]: We are Pakleds. Our ship is the Mondor. It
-is broken. 
-(La Forge enters) 
-GREBNEDLOG [on viewscreen]: We are far from home. We need help. 
-LAFORGE: Let me guess. Their rubber band broke, right? 
-DATA: Sensors indicate engineering problems. They're experiencing total
-guidance system failure, with less than twenty four hours' reserve
-power. 
-LAFORGE: Maybe I can help. 
-RIKER: What brings you so far from home? 
-GREBNEDLOG [on viewscreen]: We look for things. 
-RIKER: What were you looking for? 
-GREBNEDLOG [on viewscreen]: Things we need. 
-RIKER: Can you be more specific? 
-GREBNEDLOG [on viewscreen]: Things that make us go. We need help. 
-RIKER: What is the nature of your mission? 
-GREBNEDLOG [on viewscreen]: We look for things. 
-RIKER: Did you hear an echo? 
-LAFORGE: Commander, from the looks of their ship, I could have them up
-and running in no time. 
-RIKER: You sure? 
-LAFORGE: Yeah, no problem. 
-RIKER: Very well. Our Chief Engineer will beam over to help you. Close.
+LAFORGE [on viewscreen]: It looks like this is going to take a little
+bit longer than I anticipated.
 
-WORF: Commander? Do we truly need to send our Chief Engineer over to
-them? 
-RIKER: Obviously they need our help. 
-WORF: Why do we not simply give them the information they need to make
-their own repairs? 
-RIKER: Do you honestly get the impression they could handle our
-technical specifications? 
-WORF: We do not know anything about them. 
-RIKER: Acknowledged, Mister Worf. We have an obligation to render aid.
-Report to the transporter Room with all necessary gear. 
-LAFORGE: Aye, sir. 
-(Geordi leaves) 
-WORF: We need more information. 
-RIKER: Do you have anything else on them? 
-DATA: They are a relatively benign species. 
-RIKER: Don't they seem a little slow? 
-DATA: They may merely have poorly developed language skills. 
-WORF: What about weapons? 
-DATA: Scanners shows limited armaments. 
-RIKER: I think we can relax, Mister Worf. They can't even move their
-ship without our help. We certainly have them outmanned and outgunned. 
 [Shuttlecraft]
 
-WESLEY: ETA thirteen thirty hours, sir. It's not
-exactly warp speed. 
-PICARD: More like a late twenty-second century interplanetary journey. 
-WESLEY: Sir? 
-PICARD: You should read more history, Ensign. 
-WESLEY: Yes, sir. 
-PICARD: Complete waste of time. 
-WESLEY: Pardon? 
-PICARD: I shouldn't be taking this trip at all. I should be back on
-board the Enterprise. 
-WESLEY: Why are you coming with me to Starbase Five One Five, sir? 
-PICARD: Well, it's certainly not my idea. I'm sorry, Ensign, I didn't
-mean to take it out on you. I just hate the prospect of another damned
-cardiac replacement. 
-WESLEY: Cardiac replacement? I didn't know. 
-PICARD: Well, now you do. 
-WESLEY: A parthenogenetic implant? 
-PICARD: What else would it be? My heart was injured and a replacement
-was necessary. That would have been it, except that the replacement is
-faulty. 
-WESLEY: Why would anyone use a faulty replacement? 
-PICARD: Just pilot the shuttle, Ensign.
+WESLEY: I guess you would have preferred Commander
+Riker as a travelling companion. 
+PICARD: What? 
+WESLEY: It's okay. You're not too comfortable with me. I understand. 
+PICARD: Ensign. Wesley, that's not true. You're a fine young man. 
+WESLEY: You don't have to say that, sir. It's pretty obvious how you
+feel. 
+PICARD: Is it? How so? 
+WESLEY: Everyone knows. You don't like kids. That's too bad. You'd have
+made a good father. 
+PICARD: Thank you. 
+(Picard takes his book to a rear seat) 
+WESLEY: Didn't you ever wish you had kids of your own? 
+PICARD: Wishing for a thing does not make it so.
 
+[Bridge]
+
+(The Bridge crew are watching the activity, or lack
+of it, on the Pakled ship) 
+RIKER: We send him over there for one set of repairs, now they need him
+for more. 
+DATA: Apparently, their ship is apparently quite fragile. 
+RIKER: This is Riker on the Enterprise. 
+LAFORGE [on viewscreen]: Almost got it, Commander. 
+GREBNEDLOG [on viewscreen]: We look for things. 
+RIKER: Apparently your ship is in need of more than minor repair. 
+GREBNEDLOG [on viewscreen]: Things to make it go. 
+RIKER: We will use our tractor beam to tow you to the nearest base. 
+GREBNEDLOG [on viewscreen]: He can make it go. 
+RIKER: Yes, but we need our Chief Engineer back on board our ship. 
+(The Pakled lights come back on) 
+GREBNEDLOG [on viewscreen]: He is smart. 
+LAFORGE [on viewscreen]: All done, Commander. 
+RIKER: Prepare to beam over. 
+LAFORGE: Yes, sir. 

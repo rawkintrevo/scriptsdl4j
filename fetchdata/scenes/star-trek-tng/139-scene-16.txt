@@ -1,118 +1,38 @@
-RIKER LAFORGE WORF PICARD PULASKI DATA
+RIKER OBRIEN LAFORGE WORF PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Turbolift]
+
+PICARD: Bridge. 
+(Pulaski and O'Brien dash into the shuttlebay. She scans the other
+Picard, then leaves. No dialogue required) 
+[Bridge]
+
+PICARD: Number One, we're wasting our energy trying
+to escape. It only weakens us. Helm, set a course for the center of the
+vortex. Mister La Forge, on my command, I want all the power you can
+muster. 
+LAFORGE: Yes, sir. 
+RIKER: We're going in? 
+PICARD: Yes. 
+DATA: Course set, sir. 
+PICARD: Now everyone hold their position. No matter what. Engage. 
+(The Enterprise turns and heads down the tunnel towards the light.
+There's some shaking. In the Shuttlebay, the other Picard and his
+shuttle disappear before O'Brien's eyes. Then they are in clear space
+again) ibi
+O'BRIEN [OC]: Captain Picard. 
 [Shuttlebay two]
 
-LAFORGE: All right, Data. I think I've got it now.
-That ought to give you something. Making this power adjustment is very
-tricky. By all rights, this connection should blow all the shuttle's
-circuits. 
-DATA: Perhaps you had better step out of the way. 
-LAFORGE: All right, but remember, you're not indestructible yourself,
-you know. 
-DATA: Increase the power. 
-LAFORGE: Powering up. 
-DATA: Adjust the invert two percent positive. 
-LAFORGE: Two percent positive. It's the right decision, but it's having
-the opposite effect. 
-DATA: Yes. 
-LAFORGE: I don't understand. I can't think of anything that would cause
-the circuit to change so radically. 
-DATA: Adjust the invert two percent negative. 
-LAFORGE: Okay. Two percent negative. That's it. It shouldn't work, but
-it does. Hey, Data. Take a look at the stardate. 42679.5. Captain. 
-PICARD [OC]: Go ahead. 
-LAFORGE: Captain, we've been able to reactivate the shuttle, and the
-on-board clock indicates that the shuttle is 
-[Sickbay]
+O'BRIEN: This is Shuttlebay two. The other Picard
+and the shuttle are gone. 
+PICARD [OC]: Explain. 
+O'BRIEN: They just vanished. 
+[Bridge]
 
-LAFORGE [OC]: Six hours in front of us. Captain, do
-you read me? If the shuttle's from six hours into the future, then so
-is the other Captain Picard.
-
-Captain's log, supplemental. Part of the mystery
-has been solved. The reason there are two number five shuttlecrafts is
-because one of them is from the future. Six hours, to be exact. And so,
-presumably, is the facsimile of me.
-
-[Sickbay]
-
-PICARD: Try to wake him, again. 
-(Pulaski gives the injection, and the second Picard opens his eyes. He
-seems in pain) 
-PICARD: No! 
-PULASKI: It's a only a sedative. 
-PICARD: I know what it is. Don't sedate him. Let him be. Please. Let
-him to remain conscious. 
-PULASKI: I have never seen anything like this. Are you all right? 
-PICARD: I'm fine, Doctor. Save your ministrations for your patient. I
-want a staff meeting in five minutes. Doctor, I assume you will want to
-remain here. 
-PULASKI: Yes, I will monitor the conference from here. 
-PICARD: Keep me informed of any changes, no matter how small.
-
-Captain's log, supplemental. I've been informed
-that Mister Data has recovered the logs from the duplicate
-shuttlecraft. I am more than apprehensive to play back a log which will
-not be recorded for several hours. 
-[Observation lounge]
-
-LAFORGE: Captain, we've retrieved all we are going
-to get from the shuttle logs, including the last visual records.
-Everything before that is just a jumble. 
-PICARD: Show me. 
-LAFORGE: The distortion is because we had to use a phase inverter to
-retrieve the logs. The quality will improve slightly. 
-(We see Riker standing in the shuttlebay as the craft takes off. There
-is a wormhole effect, and a bolt of energy hits Enterprise, knocking
-her against the tunnel side, and she blows up) 
-DATA: According to the shuttle log, the Enterprise was destroyed three
-hours nineteen minutes from now. 
-LAFORGE: Captain, we have a portion of the last log entry. It's audio
-only. 
-PICARD [OC]: Captain's personal log, supplemental. I have just
-witnessed the total destruction of the USS Enterprise with a loss of
-all hands, save one. Me. 
-LAFORGE: All attempts to obtain further information from the shuttle
-have failed. 
-RIKER: Well, at least now we have something to go on. 
-LAFORGE: I just don't understand how you could have ended up in a
-shuttlecraft while the Enterprise was being destroyed. 
-WORF: Nor I. The last thing you would do is leave the Bridge of the
-Enterprise during an emergency. 
-PICARD: Yes. All right, let's proceed on the premise that what we have
-just seen happened, and that in less than four hours from now, the
-Enterprise will be destroyed, and somehow, although this is
-unfathomable, I and I alone escape. Discussion. 
-RIKER: Our destination is the Endicor system. We're due to arrive in
-three days. The charts show nothing of consequence, certainly nothing
-to threaten the Enterprise, between here and there. 
-WORF: Sensors indicated no other vessels, Federation or otherwise, in
-this area. 
-PICARD: Data? 
-DATA: I have nothing to offer. There is not enough information upon
-which to base a hypothesis. 
-LAFORGE: Well, the shuttle apparently came from somewhere up ahead, so
-Rather than continuing on this course, maybe we should stop here and
-let whatever is out there come to us. 
-RIKER: We may already be too late. 
-LAFORGE: What are you saying? That stopping, turning right or left, or
-even reversing our course, would be pointless? 
-RIKER: When we brought the shuttle and the other Picard on board, we
-committed to a sequence of events which may be unalterable. 
-PICARD: Yes, this is not a rock on the trail which once seen can easily
-be avoided. This is much more complex. 
-WORF: There is the theory of the moebius. A twist in the fabric of
-space where time becomes a loop from which there is no escape. 
-LAFORGE: So, when we reach that point, whatever happened will happen
-again. The Enterprise will be destroyed, the other Picard will be sent
-back to meet with us and we do it all over again. Sounds like someone's
-idea of hell to me. 
-RIKER: Well, I know this much. We can't avoid the future. 
-PICARD: Agreed. So let's continue on course. Somewhere out there
-something will happen. A decision will be made during the course of
-which, I will be separated from the Enterprise. At the time, the
-decision will seem to be correct, but it won't be. We have to
-anticipate and not make, not make the same mistake once. Something is
-waiting for us out there. Let's try and determine what it is, as
-quickly as possible.
+PICARD: What's our position? 
+DATA: We are back on course to Endicor. 
+RIKER: Stand down from Red Alert. 
+WORF: All decks have reported in. No damage, no casualties. 
+PICARD: You have the Bridge, Number One.
 

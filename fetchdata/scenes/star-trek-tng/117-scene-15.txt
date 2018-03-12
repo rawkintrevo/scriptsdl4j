@@ -1,51 +1,38 @@
-DATA LAFORGE BENSEN
+RIKER LAFORGE WORF TASHA PICARD CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Control room]
+[Bridge]
 
-DATA [OC]: Geordi, this is intriguing. I have seen
-malfunctions 
-[Hydraulics room]
+RIKER: Their range of influence appears to be
+concentrated in the Medical Lab, Captain. 
+TASHA: All non-essential personnel have been moved to the most distant
+areas of the ship, sir. 
+PICARD: Data, any analysis of those bolts of light it emits? 
+DATA: That seems to be it's method of reprogramming, Captain. Each bolt
+of light consists of negatively and positively charged ions. A series
+of programme instructions, as it were. It seems to have a quicker
+rapport with our computers than we have. 
+WORF: What do you expect? It is computer. 
+PICARD: Have we disabled the Medical Lab computer console? 
+RIKER: Aye, sir. As soon as Data determined the microbrain's method of
+operation. 
+LAFORGE: Captain, picking up a decrease in infra-red intensity. 
+WORF: Maybe the life-form has reached its energy level. 
+CRUSHER: Or maybe that's not the end of it. With single-celled life
+forms, at least organic ones, cell division is preceded by a resting
+state. 
+RIKER: The calm before the storm? 
+PICARD: Medical Lab on main viewer. Let's use this calm. 
+DATA: It does seem dormant, Captain. 
+PICARD: Tasha, set coordinates to beam it back where it came from. 
+TASHA: Coordinates set, sir. 
+PICARD: Energise. 
+(They see the transporter effect try to take hold and then be repulsed)
 
-DATA: But this is almost as if the laser drill
-seemed to operate itself with a will 
-[Control room]
-
-DATA [OC]: Separate from it's control console. 
-BENSEN: I can't explain it. 
-[Hydraulics room]
-
-DATA: The laser blasts seemed to end when the
-yelling stopped. 
-[Control room]
-
-BENSEN: Maybe Arthur stopped it, only not in time. 
-[Hydraulics room]
-
-DATA: Not possible. 
-[Control room]
-
-LAFORGE: Then what are you suggesting? 
-[Hydraulics room]
-
-DATA: Uncertain. Geordi, please return power to the
-control console in this room. I wish to reactivate the
-programme. 
-[Control room]
-
-LAFORGE: You got it. 
-[Hydraulics room]
-
-(The laser powers up, turns, and fires a shot into
-a tunnel cut in the wall. Then it does the same in the opposite wall) 
-DATA: I am running the base drilling programme. 
-(The little red light focuses on the back of Data's neck and the doors
-slam shut. Data turns and dodges the deadly beams)
-
-[Control room]
-
-DATA [OC]: Geordi, servos off. 
-BENSEN: They are off. 
-LAFORGE: Data, what's happening? 
-DATA [OC]: Too much to explain. 
-(Benson and La Forge run to the Hydraulics room door) 
-LAFORGE: Can you open that? La Forge to Enterprise. We have a problem. 
+LAFORGE: Transporter power being redirected, sir. We are unable to
+affect it. 
+PICARD: Life form or not, intelligent or not , the safety of this ship
+and everyone aboard her is my primary responsibility. Data, evacuate
+all the air from the Medical Lab. I want a vacuum there. 
+DATA: Environmental systems fail to respond to command, Captain. It
+appears the microbrain has successfully interfaced with our computers. 

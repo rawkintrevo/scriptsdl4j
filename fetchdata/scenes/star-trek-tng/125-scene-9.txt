@@ -1,62 +1,49 @@
-RIKER LAFORGE WORF PICARD COMPUTER CRUSHER DATA
+PICARD RIKER REMMICK QUINN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Starfleet Transporter room]
 
-PICARD: Doctor. 
-CRUSHER: I understand the Horatio was in orbit around Dytallix. Did you
-see Walker? 
-PICARD: No. 
-CRUSHER: Oh. I would have loved to have seen him. 
-PICARD: It wasn't possible, Doctor. 
-WORF: Captain, I am picking up an unusual disturbance in a nearby
-quadrant. 
-LAFORGE: Confirmed, sir. Sector sixty three. 
-PICARD: Specify. What kind of disturbance? 
-WORF: Hard to say at this distance, sir. 
-RIKER: I guess the trip Pacifica will have to wait. 
-PICARD: Let's investigate. Maintain speed. Alter course accordingly. 
-LAFORGE: Aye, sir. Changing course to three five one mark four. 
-(After a quick trip) 
-LAFORGE: Approaching sector sixty three, sir. 
-PICARD: Slow to impulse. 
-LAFORGE: Aye, sir. Going to impulse power, now. 
-WORF: Sensors beginning to pick up small objects, sir. 
-PICARD: On screen. 
-(The objects are radiating out from a single location) 
-RIKER: It doesn't look natural. 
-PICARD: Agreed. Enlarge and identify. 
-WORF: It looks like debris. From a space vessel of some kind. 
-RIKER: It could be one of those ships that was orbiting Dytallix. 
-LAFORGE: We are in close proximity to that planet. 
-PICARD: Identifying marks, Mister Worf? 
-WORF: Nothing so far. Sensors not detecting any bodies in the flotsam,
-but from the amount of wreckage. I'm sorry sir. It can only be the
-Horatio. From the looks of it, she's been totally destroyed.
+(Quinn has a case with him, that contains a living
+creature similar to the Tau Ceti thing from Wrath of
+Khan) 
+REMMICK: Are you ready to beam up to the Enterprise, sir? 
+QUINN: Yes, Commander, quite ready. Energise, Mister Remmick. 
+[Transporter room]
 
-Captain's personal log, stardate 41776.1. The
-apparent death of Walker Keel has had a powerful impact on me. I now
-believe there may be a cancer growing within the ranks of Starfleet. As
-a result, I have alerted my Executive Officer to the suspicions voiced
-by Keel and the others.
+PICARD: Welcome aboard, Greg. 
+QUINN: Good to see you. 
+PICARD: You remember Commander Riker. 
+QUINN: Hello again, Commander. 
+PICARD: I must say, you're looking remarkably well. 
+QUINN: Never felt better in my life. 
+PICARD: When you were here last, you were saying that you were feeling
+tired. 
+QUINN: Tired of life I was, but not anymore. I'm ready for new
+challenges now. What about another look at this ship?
 
-[Observation lounge]
+[Corridor]
 
-RIKER: There's no proof of anything. 
-PICARD: The last time I saw Admiral Quinn he tried to warn me about a
-subversion within the Federation. Then Walker tried, and he's dead. 
-RIKER: Subversion? Personally, I don't believe this conspiracy theory.
-
-[Ready room]
-
-(Information is still flashing in front of Data's
-eyes) 
-DATA: Startling. Quite extraordinary, in fact. 
-COMPUTER: Directions unclear. Please repeat request. 
-DATA: That was not a request. I was simply talking to myself. A human
-idiosyncrasy, triggered by fascination with a particular set of facts.
-Or sometimes brought about by senility. Or used as a means of weighing
-information before reaching a conclusion. Or, as a 
-COMPUTER: Thank you, sir. I comprehend. Please specify how you would
-like to proceed, sir. 
-DATA: Please continue with record scan. Intriguing.
-
+PICARD: Remember what you told me back at Relva
+Seven, About the threat that you perceived to the very fabric of the
+Federation? 
+QUINN: Is that why you're here? Because of what I said? 
+PICARD: It's one of the reasons, yes. 
+QUINN: But Jean-Luc, you took me far too literally. I was only
+referring to the problems involved in assimilating new races into the
+Federation. It's an ongoing, tumultuous process which can cause stress
+and strain on every aspect of our alliance. 
+PICARD: I'm sorry, I must have misunderstood. 
+QUINN: It's not for you to apologise. If I led you up the garden path,
+I humbly ask your forgiveness. 
+PICARD: Of course. 
+QUINN: Now, gentlemen, you have a dinner to attend to, while I would
+like to go and freshen up before I look around a little bit more. 
+RIKER: We've arranged your usual accommodation, sir. 
+QUINN: That's outstanding. 
+PICARD: Yes, I should be getting down to the planet. Commander Riker
+will be available here to show you anything that you want to see. 
+QUINN: It's really not necessary. 
+PICARD: I insist. (to Riker) When you've finished showing the Admiral
+anything that he needs, you can join me down on Earth. 
+QUINN: I may want to stay a while, Jean-Luc. 
+PICARD: Of course. Stay as long as you wish. (Quinn goes on) No. 

@@ -1,152 +1,61 @@
-RIKER LAFORGE WORF PICARD PRESSMAN CRUSHER DATA
+PICARD RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Picard's quarters]
 
-(this area of space is strewn with rocky debris) 
-PICARD: As a matter of fact, I never met Will until he reported on
-board at Farpoint Station. 
-PRESSMAN: You chose your first officer without ever meeting him? 
-PICARD: I was looking through the records of about fifty candidates and
-Will's was much like all the others, filled with lots of dry statistics
-and glowing letters of recommendation that tell you nothing. I was
-about to put it aside and look at another file and then something
-caught my eye. There was an incident on Altair Three when Will was
-First Officer of the Hood. He refused to let Captain DeSoto beam down
-during a crisis. He disobeyed a direct order and he risked a general
-court martial because he thought he was right. When I read that, I knew
-that I had found my Number One. 
-PRESSMAN: You wanted someone with a history of disobedience? 
-PICARD: I wanted someone who would stand up to me. Someone who was more
-concerned with the safety of the ship and accomplishing the mission
-than with how something looked on his record. To me, that's one of the
-marks of a good officer. 
-PRESSMAN: Frankly, I've always felt it was more important for an
-officer to trust his captain's judgment. In a crisis, there's no time
-for explanations. Orders have to be obeyed without question or lives
-may be lost. 
-PICARD: I am aware of that, Admiral. 
-PRESSMAN: Of course you are. I guess this mission has brought up some
-old ghosts for me. You know what it's like to lose a ship. You're
-always wondering if there was something else you should have done,
-something you missed. 
-PICARD: Admiral, the record regarding the loss of the Pegasus is a bit
-vague from the moment just before you abandoned ship. Is there anything
-that you can add to the official account? 
-PRESSMAN: I'm afraid not. But I can tell you this. Twelve years ago, I
-needed an officer that I could count on in a crisis. Someone who would
-support and obey my decisions without question. Someone who was willing
-to trust my judgment. And that someone was Will Riker. Without his
-loyalty, none of us would have survived.
-
-[Sickbay]
-
-(Riker is in a martial arts robe) 
-CRUSHER: What's wrong? 
-RIKER: I think I busted a rib. 
-CRUSHER: (to patient) Excuse me. What were you doing? 
-RIKER: I was doing bat'leth moves with Mister Worf. I jabbed when I
-should've blocked. He caught me right in the side. It's a good thing we
-were using sticks instead of the real blades. 
-CRUSHER: It's broken all right. Give him ten cc's of terakine for the
-pain. 
-RIKER: I can't believe how stupid I was. 
-CRUSHER: You both must have got a little carried away, that's all. 
-RIKER: No, it was my fault. I got distracted at a crucial moment. 
-CRUSHER: It can happen to anyone. 
-RIKER: I knew what I was supposed to do and I didn't do it. If those
-had real bat'leths I might be dead right now. 
-CRUSHER: There, all better. Will, it's all right. You made a mistake.
-No harm done. You'll be better next time. 
-RIKER: Yeah, maybe.
-
-[Bridge]
-
-DATA: Scan of grid one five seven is complete. I am
-moving to grid one five eight. 
-WORF: The Romulan warship is still searching grid two seven zero. 
-RIKER: They're sure spending a lot of time over there. I wonder if they
-
-LAFORGE: Commander, I think we might have just struck paydirt. There's
-a subspace resonance signature coming from that asteroid. From the
-frequency variances, it looks like the pattern from a Federation warp
-core. 
-RIKER: Captain Picard to the Bridge. Take us to within ten kilometres
-of asteroid gamma six zero one. 
-(Picard and Pressman enter) 
-RIKER: Geordi's found something. 
-LAFORGE: There's a subspace resonance signature coming from that
-asteroid, sir. It could be the warp core of the Pegasus. 
-PRESSMAN: I think he's right. I recognise some of the variance
-patterns. 
-PICARD: Put the asteroid on the main viewscreen. 
-DATA: I have confirmed Geordi's readings. The resonance signature is
-originating from somewhere beneath the asteroid's surface. 
-PRESSMAN: Beneath the surface? How's that possible? 
-DATA: This asteroid contains several deep chasms large enough for a
-starship to enter. It is possible the Pegasus drifted into the
-asteroid's gravitational field and was pulled down into one of the
-fissures. 
-WORF: Sir, the Romulan warbird has altered course once again. They are
-heading toward our position. 
-RIKER: They probably want to see what we're so interested in over here.
-
-PICARD: Mister Data, how long will it take to determine the exact
-location of the Pegasus? 
-DATA: At least another six hours, sir. 
-PRESSMAN: That's too long. If the Romulans start searching the
-asteroid, they could find the ship before we do. 
-RIKER: I recommend we destroy the asteroid. It would take most of our
-photon torpedoes, but it would preclude any possibility of the Pegasus
-falling into Romulan hands. 
-PRESSMAN: Our top priority is to salvage the ship, Commander. I'll
-consider destroying it only as a last resort. 
-RIKER: Yes, sir. 
-PRESSMAN: Captain, could you give me a third alternative? 
-PICARD: Mister Data, would it possible to saturate the asteroid with
-verteron particles that could mask the resonance signature and prevent
-the Romulans from detecting it? 
-DATA: In order for the deception to succeed, it would have to appear to
-be a natural phenomenon. Verteron particles are artificial in nature. 
-LAFORGE: Wait a minute. We could blanket the asteroid with high levels
-of ionising radiation. There's so much of it in the system already, the
-Romulans won't know the difference. 
-PICARD: Mister Data? 
-DATA: Theoretically, sir, it should work. 
-RIKER: If we do this, we have to do it fast the Romulans will be within
-sensor range in less than a minute. 
-PICARD: Make it so, Mister Data. 
-DATA: Aye, sir. Initiating ionisation field pulse. 
-PICARD: When he's finished we'll have to move away and make it look
-like we've scanned the asteroid but haven't find anything. 
-RIKER: Lay in a course for the next search grid. Stand by to engage. 
-PICARD: If it works, the Romulans won't find anything and we can return
-later. If it doesn't 
-PRESSMAN: If it doesn't work, we'll have handed them the Pegasus. 
-DATA: Ionisation pulse complete. 
-PICARD: Helm, one quarter impulse. Engage. 
-DATA: The Romulans are initiating a tachyon scan of the asteroid. They
-have switched to their lateral sensor array. Beginning another scan. 
-RIKER: They're certainly being thorough. 
-DATA: The warbird has completed its sensor sweep. 
-PRESSMAN: If they found the resonance signature, they should be sending
-away teams any second. 
-DATA: They are moving out. 
-PICARD: Mister Data, we must convince the Romulans that we're still
-looking for the Pegasus. I want you to continue scanning this system. 
-DATA: Yes, sir. 
-PICARD: I want to be back at this asteroid at oh eight hundred hours
-tomorrow. Plan your search pattern accordingly. 
-RIKER: Aye, sir. 
-PICARD: Admiral, would you care to join me for some late dinner? 
-PRESSMAN: Please excuse me, Captain, but I think I'd better turn in
-early. 
-PICARD: You have the Bridge, Number One. Oh, and will you bring the
-scan analysis to my quarters when you're off watch? 
-RIKER: Aye, sir. 
-(Picard leaves) 
-RIKER: Initiate search of grid one six three. 
-DATA: Beginning sensor sweeps. 
-PRESSMAN: Commander, I want to see you in the Captain's Ready room. 
-RIKER: Mister Data, you have the Bridge. 
-DATA: Aye, sir.
+PICARD: Come. 
+RIKER: The scan analysis you asked for. 
+PICARD: Thank you. 
+RIKER: Is there something else, sir? 
+PICARD: Yes, there is. (reading) Judge Advocate General's Report.
+Stardate 36764. Subject, inquiry into mutiny aboard USS Pegasus. Based
+on testimony from Captain Pressman and other surviving officers, the
+Judge Advocate believes there is sufficient evidence to conclude that
+certain members of the crew did mutiny against the captain just prior
+to the destruction of the Pegasus. Mutiny on a Federation starship?
+That's shocking. It's unthinkable. And yet you've never mentioned it. 
+RIKER: No, sir. 
+PICARD: You know, it wasn't easy to get this record. I had to pull in
+quite a few favours at Starfleet just to get a look at it. It seems
+that it was classified by Starfleet Intelligence. So, not only was the
+Pegasus carrying sensitive equipment which
+must be allowed to fall into Romulan hands, not only was there a
+mysterious explosion which seemed to destroy the ship but didn't, but
+it seems there was a mutiny on board. Now, I've read the official
+report of the inquiry on that mutiny, but I want to know your version
+of what happened. 
+RIKER: I was on the Bridge. The ship was at yellow alert. We were
+running some tests on the engines. Something went wrong. There was an
+explosion in Engineering. Heavy casualties. In the midst of this
+crisis, the First Officer, the Chief of Engineering and most of Bridge
+crew mutinied against Captain Pressman. 
+PICARD: Why? 
+RIKER: They thought he was jeopardising the ship. 
+PICARD: And you? 
+RIKER: I was seven months out of the Academy, my head still ringing
+with words like duty and honour. When they turned on him, I thought
+they were a bunch of self-serving, disloyal officers, so I grabbed a
+phaser and defended my captain. Two or three others joined us, but it
+was clear by then that the mutineers had most of the crew behind them.
+We felt a need to get off the ship. There was a running firefight all
+the way to the escape pod. About five minutes after we left the ship
+there was an explosion. 
+PICARD: The Judge Advocate also believes that the surviving officers
+are deliberately withholding vital information from this inquiry.
+Further investigation is recommended. Will, there was no further
+investigation. This report was classified and then it was quietly
+buried. Why? 
+RIKER: Sir, may I suggest you take this up with Admiral 
+PICARD: I'm taking this up with you, Will! The Judge Advocate thought
+you were participating in a conspiracy to cover up the truth. Now, what
+the hell is going on here, Will? Why did that mutiny happen? Why is
+Pressman so determined to find your ship twelve years later? 
+RIKER: I've said all I can. I am under direct orders from Admiral
+Pressman not to discuss this, sir. 
+PICARD: Very well. He's an admiral, I'm a captain. I cannot force you
+to disobey his orders. Therefore I will have to remain in the dark on
+this mission. And I will just have to trust that you will not let
+Pressman put this ship at unnecessary risk. And if I find that that
+trust has been misplaced, then I will have to re-evaluate the command
+structure of this ship. Dismissed.
 

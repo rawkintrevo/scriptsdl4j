@@ -1,88 +1,35 @@
-DESEVE TROI WORF TORETH PICARD RIKER ALIEN MCKNIGHT DATA NVEK PILOT
+TROI TORETH
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Warbird bridge]
+[Warbird ward room]
 
-TORETH: What is the configuration? 
-PILOT: It appears to be a freighter, Commander. 
-TROI: Hail them. 
-TORETH: Visual. 
-ALIEN [on viewscreen]: Commander. We are glad to see you. We are
-prepared to transfer your cargo as agreed. 
-TORETH: With whom do you have this agreement? 
-ALIEN [on viewscreen]: Our arrangements were made with Major Rakal. You
-may rest assured your cargo will be taken safely to its destination. We
-will transmit coordinates for you to beam it aboard. 
-TROI: (softly) He's lying. They have no intention of keeping their
-word. 
-N'VEK: Are you certain? 
-TROI: Yes. 
-(N'Vek fires at the freighter - KaBOOM) 
-TORETH: Why did you destroy that vessel? 
-N'VEK: I beg forgiveness, Commander, but Major Rakal ordered me to
-fire. 
-PILOT: The Corvallen freighter has been completely destroyed,
-Commander. There are no survivors. 
-TORETH: I demand an explanation. 
-TROI: How many people were on that ship? 
-PILOT: Approximately eighteen people, sir. 
-TORETH: I don't care if there were eighteen or eight hundred. On this
-ship, I give the command to fire, Major. You have no right. 
-TROI: (pointing to her insignia) This gives me the right. 
-TORETH: Even you, eventually, will have to answer to someone. You will
-be held accountable. 
-TROI: I have been given broad discretionary powers. Subcommander N'Vek
-acted under my authority, the authority of the Tal Shiar. I assure you
-this action will not be questioned. 
-TORETH: I will nonetheless make an entry in my log that I am not
-responsible for those eighteen lives and that I deplore their loss. 
-TROI: Do what you feel is necessary. In the meantime, we must protect
-ourselves. Engage the cloaking device. 
-(the ship cloaks) 
-TORETH: And what are my orders now, Major? 
-TROI: Hold position and wait.
+TROI: You will plot a course for the Draken System.
 
-[Bridge]
-
-DATA: There is no sign of the freighter, sir. We
-are the only ship in the area. 
-PICARD: Ensign, verify our position. 
-MCKNIGHT: We're holding at the coordinates specified by Ensign DeSeve,
-sir. 
-RIKER: Anything on long range sensors? 
-DATA: Sensors indicate no other ships within three light years. 
-RIKER: Could this have been a hoax? 
-PICARD: It's one possibility. Mister Worf, bring Ensign DeSeve to my
-Ready room. 
-WORF: Aye, sir.
-
-[Ready room]
-
-PICARD: Ensign DeSeve, you promised me a freighter
-with an important cargo. The only thing here is empty space. Do you
-have an explanation? 
-DESEVE: I don't understand. 
-WORF: Captain, he has deceived us. 
-DESEVE: No. I was told the ship would be at these coordinates. 
-PICARD: You said that the message came directly from Ambassador Spock. 
-DESEVE: Yes. Well, not exactly. 
-PICARD: What does that mean? 
-DESEVE: Someone else relayed the message to me, but he said Spock spoke
-directly to him. I trust the man who spoke to me. He would not have
-lied. 
-WORF: Was he a Romulan? 
-DESEVE: Yes. He's a member of the underground a dissident. He risks his
-life to work with those who want a different future for Romulus. 
-WORF: Captain, he could be leading us into a trap. 
-DESEVE: No, that is not so. 
-PICARD: It would be risky to set a trap here, so close to Federation
-space. But the fact remains, here we are, there is no freighter. Did
-your contact tell you anything else that might be helpful? 
-DESEVE: The freighter is an old Antares class vessel with limited speed
-and range. It couldn't have taken on its cargo more than a day ago
-which means it must be within fifteen light years of here. 
-PICARD: Why didn't you mention this earlier? 
-DESEVE: It didn't seem necessary. And on Romulus you learn not to
-volunteer information. It's a hard habit to break. 
-PICARD: Well, maybe now would be a good time to start. Follow me,
-gentlemen.
+TORETH: You can't be serious. 
+TROI: Draken Four was the freighter's destination. I ordered the
+freighter destroyed because I recognised the Captain, a known
+Federation spy. Now we must deliver the cargo ourselves. 
+TORETH: We must? 
+TROI: I do not intend to explain myself to you. You will set a course. 
+TORETH: In order to reach Draken, we will have to travel through
+Federation space for nearly twenty hours. 
+TROI: That is not a problem. 
+TORETH: Contrary to the propaganda that your superiors would have us
+believe, Starfleet is neither weak nor foolish. The chances of us
+reaching Draken undetected are not good. 
+TROI: We will be cloaked. 
+TORETH: The cloaking device does not always make us invulnerable, and
+you would know that if you had spent any time at all in the field. The
+Federation has littered it's borders with subspace listening posts,
+with gravitic sensors. They may even have a tachyon detection grid in
+operation, in which case they will know that we're there. If we are
+discovered in Federation territory, it will be interpreted as an act of
+war. 
+TROI: The Tal Shiar has obtained access codes for the sensor nets. I
+will provide them if necessary. 
+TORETH: That will be no guarantee that we will escape undetected. 
+TROI: Your cowardice does not befit a Romulan soldier. 
+TORETH: People blame the military for the wars that we are asked to
+fight, but I think it is your kind, Major, that will be the death of us
+all.
 

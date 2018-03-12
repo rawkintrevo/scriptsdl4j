@@ -1,88 +1,32 @@
-RIKER CONDUCTOR LAFORGE WORF RUSTIC GANGSTER CREWMAN DATA ENGINEER
+GUEST3 TROI WORF GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Holodeck - train]
 
-LAFORGE: We found these nodes in several systems
-around the ship. At some level or another, they're all connected. 
-DATA: These nodes were linking the sensors to our warp control and
-defensive systems. We believe this is why the ship jumped to warp. 
-LAFORGE: When the sensors detected danger, the defensive systems
-reacted to the threat and activated the warp engines to protect us. 
-RIKER: Where did these nodes come from? 
-DATA: It is possible that the magnascopic storm we recently experienced
-had an unexpected effect on the ship's systems. 
-LAFORGE: Wherever they come from, they seem to be multiplying. 
-DATA: As they increase, it will become progressively more difficult to
-control the ship. 
-RIKER: What do you propose we do? 
-LAFORGE: Well, getting rid of them isn't going to be so easy. When we
-attempted to examine the circuitry of one of the nodes, it generated a
-force field to keep us out. 
-RIKER: Whatever's going on. our first priority is getting back control
-of the ship. 
-DATA: Agreed. All of the nodal connections intersect in holodeck three.
-It appears to be a focal point of some kind. 
-LAFORGE: We might be able to find a way to use the holodeck circuitry
-to disable the nodes permanently. 
-RIKER: All right. Let's do it.
 
-[Corridor]
+GUEST0: You don't belong on this train. 
+WORF: Three tickets for Vertiform City. 
+GUEST0: Guess I was wrong about you folks. Welcome aboard. 
+(the lights dim) 
+WORF: What was that? 
+GUEST0: We've been having some problems. The engine is running out
+of steam. I hope we make it to Vertiform City on time. 
+TROI: Is there anything we can do to help? 
+GUEST0: Well, I could use a pair of strong arms in the engine room.
+Might help us get back on schedule. 
+TROI: Why don't you go with him, Worf? We'll see what we can do here. 
+(Worf and the conductor leave) 
+GUEST3: Excuse me. Are we going to get there okay? 
+TROI: Of course. You needn't worry about a thing. So, tell me
+everything you know about Vertiform City. 
+GUEST3: Well, they got this restaurant there where you can eat all you
+want, any time. It's the best food around. 
+[Holodeck - Engine room]
 
-DATA: Commander, the holodeck appears to be in
-operation. 
-RIKER: I thought you shut down the entire system. 
-DATA: I did, but it has reactivated itself and it will not disengage. 
-WORF: Which programme is running? 
-DATA: Several different programs are running simultaneously. 
-RIKER: This should be interesting. 
-[Holodeck- train]
+(coal fired of course, like the TOS blooper) 
+GUEST0: There's the coal and there's the boiler. I'm much obliged
+for your help. 
+(Worf starts stoking) 
+GUEST0: Well done, sir. I think this'll make a difference, all
+right.
 
-(a knight in armour is cutting a newspaper, a
-rustic is standing, two 1920's women and a man are working on a jigsaw,
-a gunslinger takes a piece out of his pocket and adds it to the jigsaw)
-
-RIKER: You weren't kidding, Mister Data. 
-DATA: No, sir. I estimate that this scene consists of portions of seven
-distinct holodeck programs. 
-RIKER: See if you can access the circuits that have been affected by
-the nodes. 
-(an American train conductor enters) 
-CONDUCTOR: Tickets! Tickets please. Please have your tickets ready.
-Thank you, sir. Thank you, madam. Thank you. Thank you, sir. Tickets
-please. 
-RUSTIC: You know, I've never even been away from home. Now I'm going
-all the way to Vertiform City! 
-CONDUCTOR: Very nice, sir. Enjoy your trip. Tickets please. Tickets.
-Thank you sir. 
-(The conductor clips one of the knight's string of paper dolls) 
-CONDUCTOR: Tickets please. Tickets please. 
-DATA: Commander. I have located a large concentration of nodes behind
-this wall. They appear to be connected directly to the holodeck's main
-power coupling. 
-RIKER: All right, go ahead and depolarise the entire power grid. 
-DATA: The power grid is located beneath this deck, sir. 
-CONDUCTOR: Get away from there. Would you gentlemen care to show me
-your tickets? 
-RIKER: I believe we left our tickets in our compartments. Mister Worf,
-I told you to bring the tickets. 
-WORF: I forgot. 
-CONDUCTOR: I don't think you folks belong on this train. 
-ENGINEER: Hold it! You leave these people alone. They're only trying to
-help. 
-CONDUCTOR: You go back to the engine. This doesn't concern you. 
-ENGINEER: They're all trying to hijack the train. 
-RUSTIC: Hey, if you're the Engineer, who's doing the drivin'? 
-(a gangster shoots the Engineer in the back) 
-GANGSTER: I am.
-
-[Engineering]
-
-(a console explodes in front of Geordi, throwing
-him backwards) 
-CREWMAN: Easy, sir, easy. I've got you.
-LAFORGE: I'm all right, thanks. It looks like the navigational relay's
-overloaded. 
-[Holodeck train]
-
-(the conductor pulls the cord and the train
-lurches. So does the ship) 

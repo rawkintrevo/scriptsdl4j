@@ -1,43 +1,37 @@
-RIKER BEREL TAVA NILREM
+NURSE GUEST2 GUEST6
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Riker's hospital room]
+  [Medical
+Facility]
 
-(later, Riker is a bed, being seen by the Senior
-Registrar or equivalent) 
-RIKER: What happened? 
-BEREL: You're in the crisis room at the Sikla Medical Facility. You've
-had a severe injury, but you're going to be all right. 
-RIKER: I was caught in the riots when the police moved in. It's the
-last thing I remember. 
-BEREL: Can you tell us your name? 
-RIKER: Rivas. Rivas Jakara. 
-BEREL: Rivas Jakara? Where do you live? 
-RIKER: In the Marta community on the southern continent. 
-TAVA: You're a long way from home. Do you have any members of your
-family we should notify? 
-RIKER: No, I have no family. I can't stay here. I have to get back. 
-BEREL: You're in no condition to leave yet. There are several unusual
-things about your case, Mister Jakara. Your cranial lobes, for
-instance, they seem to be surgical implants. 
-RIKER: I had cosmetic surgery to correct a genetic birth defect. 
-BEREL: And these? (his hands) Another birth defect? 
-RIKER: Yes, isn't that something? My father's were the same way. 
-NILREM: You want us to believe that all your abnormalities are
-inherited genetic traits? 
-RIKER: I understand your confusion. My personal physician is much more
-familiar with these genetic irregularities. To be honest, I would much
-feel better back home under her care. 
-BEREL: Why don't I talk to her about that. What's her name? 
-RIKER: Crusher. Actually, I'm not sure you'll be able to reach her. 
-BEREL: Why not? 
-RIKER: She's taking a sabbatical. 
-BEREL: Well, we'll do the best we can for you. Oh, there was one other
-thing. We found this curious-looking device in your clothes. What is
-it? 
-(it's a phaser) 
-RIKER: It's just a toy. I was taking home as a present. 
-BEREL: I thought you didn't have any family. 
-RIKER: It's for a neighbour's child. Was there anything else found? I
-had one piece of jewelry, a metal pin. 
-BEREL: No, I'm sorry, this was all we found.
+(an emergency is being rushed in on a trolley) 
+NURSE: Watch the door. Careful, he may have suffered cranial damage. 
+GUEST6: Move him onto the diagnostic pad. 
+NURSE: Right. 
+GUEST6: Slowly. 
+NURSE: Right, here we go. 
+(the patient is lifted onto a bed) 
+GUEST6: Slowly. That's good. 
+NURSE: All right. Careful. 
+(the patient is hooked up to monitors) 
+GUEST2: Readings? 
+NURSE: They're fluctuating, sir.
+GUEST2: He took a severe blow. Possible trauma to the telencephalon. 
+GUEST6: Start fifteen octares of quadroline. We'll need a complete
+del-scan series. 
+GUEST2: I can't find his cardial organ. 
+GUEST6: What do you mean? I'm reading a steady circulation. 
+GUEST2: There it is. Up here. 
+GUEST6: In his digestive tract? 
+GUEST2: Ever seen anything like this? 
+(Tava, a female doctor, palpates the chest) 
+GUEST6: He's missing three costal struts on one side and four on the
+other. 
+GUEST2: You think that's something? Look at this 
+(holds up a foot) 
+GUEST2: He has digits on his terminus. 
+(Tava removes the mittens to reveal the patient has fingers, unlike his
+alien doctors) 
+GUEST6: What are you? 
+(he is Riker, made to look like one of them)
 

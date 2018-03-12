@@ -1,31 +1,53 @@
-WESLEY CRUSHER OBRIEN COMPUTER PICARD
+PICARD RIKER CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Sickbay]
 
-CRUSHER: Chief, this examination should only take a
-few minutes. 
-O'BRIEN: But I feel fine. 
-CRUSHER: Sit down. 
-O'BRIEN: Doctor, it's no use checking my eyesight. I didn't see your
-friend. 
-CRUSHER: I'll be a little more comprehensive than that, Chief. Doctor
-Crusher to Doctor Hill. Respond, please. Doctor Selar, your present
-location? Computer, current whereabouts of Doctors Hill and Selar. 
-COMPUTER: There is no Doctor Hill or Doctor Selar aboard the
-Enterprise.
+(There's a flashing light, then a strong wind
+starts sucking Beverly towards a funnel. She holds onto a doorway arch
+as bits of paper go flying past. Then it all stops)
 
-[Ready room]
+[Observation lounge]
 
-CRUSHER: Doctors Hill and Selar, and four other
-members of my medical staff have all vanished. All record of their ever
-having been on the Enterprise has been excised from the computer's
-memory. 
-PICARD: Did they come aboard with Doctor Quaice? 
-CRUSHER: No. They've been on board for months. But my two duty nurses
-don't remember them. Their families don't even remember them. 
-PICARD: As O'Brien didn't remember Doctor Quaice. 
-CRUSHER: I checked O'Brien thoroughly. I found no physiological
-abnormalities. 
-WESLEY [OC]: Crusher to Captain Picard. 
-PICARD: Go ahead, Ensign. 
-WESLEY [OC]: I'm in Engineering, sir. 
+LAFORGE: I've had a team in Sickbay for two hours.
+We've run the mass spectrometer on all particulates. We've scanned the
+EM spectrum in case there was a wave guide somehow leaking radiation.
+We've even crawled in the life support ductwork. Captain, I don't know
+what this vortex was that Doctor Crusher saw. 
+CRUSHER: I didn't just see it. I felt it. I barely escaped from it. 
+LAFORGE: Well, there's nothing there now. And no sign there ever was. 
+PICARD: Is there any possible connection with Mister Crusher's
+experiment? Could this warp bubble be floating around the ship perhaps?
+
+LAFORGE: No, sir. That bubble was definitely contained in Engineering.
+There's no way it could possibly have affected anything up on deck
+twelve. 
+(Data enters) 
+DATA: Sir, I have completed level one computer diagnostics. There are
+no malfunctions. 
+RIKER: Any other ships respond to our queries, Data? 
+DATA: The Wellington is the only Federation vessel in this sector. It
+reports normal operations. A Ferengi ship within communications range
+also reports nothing unusual. 
+CRUSHER: Are all members of the crew accounted for? 
+DATA: Yes, Doctor. 
+CRUSHER: How many are there? 
+DATA: There are one hundred and fourteen people on the Enterprise. 
+CRUSHER: What? 
+DATA: That is the exact number there should be. 
+CRUSHER: There are now over nine hundred missing. Deck after deck of
+this ship is deserted now. How do you account for all the empty rooms?
+If there are supposed to be only a hundred and fourteen people on
+board, why all the extra space? 
+DATA: Transportation of colonists, diplomatic missions, emergency
+evacuations. 
+PICARD: Thank you, Mister Data. Have security confine all nonessential
+personnel to their quarters. Computer, go to Red Alert. 
+(Riker leaves) 
+CRUSHER: I'd like Lieutenant Worf to programme onboard sensors to
+monitor all personnel. If we can catch the exact moment someone
+disappears 
+PICARD: I'm sorry, whom did you say? 
+CRUSHER: Worf. Chief of Security. The big guy who never smiles? The
+Klingon!
+

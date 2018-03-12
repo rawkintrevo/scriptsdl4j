@@ -1,67 +1,53 @@
-TROI LAFORGE WORF RIKER PULASKI DATA
+WESLEY RIKER GUEST2 LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
-
-
-LAFORGE:
-So you're going
-to beat him? 
-RIKER:
-Nope. 
-LAFORGE: Well, then it's going to be a close one. 
-RIKER: No. 
-LAFORGE: But you have got a chance? 
-RIKER: Nah. 
-LAFORGE: Are you going to bother to show up? 
-RIKER: Sure, Kolrami is the best ever at Strategema. Just to get to
-play him is a privilege. 
-LAFORGE: Other aside from your being privileged, is there anything else
-I can look forward to? 
-RIKER: Nope. 
-LAFORGE: This is going to be exciting.
+[Hathaway
+Bridge]
 
 
-[Ten
-Forward]
+WORF:
+With my knowledge of the Enterprise's security override, we may be able
+to convince the sensors that an enemy ship is approaching. Their
+instruments would lie to them.
+RIKER: If you can pull that off, Mister Worf, it might just give us the
+edge we're looking for. 
+GUEST2: (a lady officer) But what about the viewscreen? 
+WORF: If I am successful, the computer will project a false image of
+the enemy ship on the main viewscreen. 
+RIKER: So unless someone runs to a window and looks out 
+GUEST2: They're going to fall for it.
 
-(Troi
-putting the finger
-controls on Kolrami, while Worf is Riker's second. They
-are staring at each other
-across a board which will project a
-vertical game board)
-PULASKI:
-Against an opponent of approximate skill, Strategema can last
-well over one thousand moves. 
-LAFORGE: I wouldn't bet on us being here that long. 
-WORF: I have wagered heavily in the ship's pool that you will take him
-past the sixth plateau. 
-RIKER: And if I don't? 
-WORF: I will be irritated. 
-DATA: Forever curious, this urge to compete. 
-PULASKI: It's a human response. That inborn craving to gauge your
-capabilities through conflict. 
-DATA: Doctor, there are other ways to challenge oneself. 
-PULASKI: Perhaps, but they all lack a certain thrill. 
-TROI: Data, humans sometimes find it helpful to have an outsider set
-the standard by which they're judged. 
-DATA: To avoid deceiving oneself. 
-PULASKI: Maybe you should challenge Kolrami to Strategema. 
-DATA: Why, Doctor? 
-PULASKI: Because when someone is that smug, you occasionally have to
-deflate them just a little. 
-LAFORGE: Yeah, Data, I'd like to see your neural flex tear him down a
-peg. 
-DATA: To what end? 
-WORF: Computer. Actuation positions for Strategema. Ready? Begin. 
-LAFORGE: Come on, Commander, come on now. 
-TROI: Will. 
-LAFORGE: You can do it. You can get him. Come on, Commander. Come on,
-you got him, you got him, watch out. Here you go. 
-(And the score at the top of the board reads - Riker 023, Kolrami 100) 
-PULASKI: That's it? 
-RIKER: I'm afraid so. 
-PULASKI: But but you only made twenty-three moves. 
-RIKER: Yes. Congratulations.
-<
+
+[Hathaway
+Engineering]
+
+
+(We
+are
+looking out from the warp core.)
+WESLEY: The lining's still smooth. We should to be able to do something
+with these dilithium fragments we scavenged. 
+LAFORGE: Sure, the system is functional. But without antimatter, what
+difference does it make? 
+WESLEY: Geordi, I have to return to the Enterprise. 
+LAFORGE: Wes, we've only got thirty two hours. 
+WESLEY: This is important. 
+LAFORGE: And this isn't?
+
+
+[Hathaway
+Bridge]
+
+
+WORF:
+Attempt the routing bypass here. If it works, they will be surprised.
+GUEST2: Where am I going to get the opticable? 
+(Worf reaches up and pulls down a handful of fibreoptics) 
+WORF: Anywhere. 
+WESLEY: Captain? I left an experiment running back on the Enterprise.
+May I go back and shut it down? 
+RIKER: It's that important? 
+WESLEY: It has to be monitored. And it is my final grade in plasma
+physics.
+
 

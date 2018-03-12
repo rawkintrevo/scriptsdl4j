@@ -1,44 +1,54 @@
-RIKER WORF PICARD TROI MACET DATA
-
-[Bridge]
-
-PICARD: There will be three Cardassians
-transporting aboard. Their Captain, Gul Macet and two of his aides. My
-intention is to be as open as possible with them, allow them to share
-in our search for the Phoenix. 
-WORF: Sir, it is necessary to assign them a security detail. 
-PICARD: They're our guests, Mister Worf. I don't want them to feel like
-prisoners. 
-RIKER: I tend to agree with Mister Worf, Captain. I think we should
-limit their access while they're on board. They don't need to have the
-run of the ship. 
-WORF: At least allow me to post guards in some of the sensitive areas
-of the ship. 
-PICARD: Very well, let's limit their access. But you instruct your
-people they are guests. 
-WORF: Aye, sir. 
-PICARD: Counsellor, I want you to stay as close to the crew as
-possible. Some of them may feel uncomfortable with Cardassians on
-board. I don't want any incidents. 
-TROI: Yes, Captain. 
-PICARD: Mister Data, is there anyone else on board who served
-previously with Captain Benjamin Maxwell? 
-DATA: Accessing. Chief O'Brien served under his command aboard the
-Rutledge, sir. 
-PICARD: Indeed. Number One, will you and the Counsellor meet our guests
-in Transporter room three? And inform Chief O'Brien I will be calling
-on him. 
-RIKER: Yes, sir.
+RIKER OBRIEN LAFORGE WORF PICARD GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
 (Three Cardassians arrive and look around) 
 RIKER: Welcome to the Enterprise. I'm First Officer William Riker,
 Counsellor Deanna Troi. 
-MACET: I am Gul Macet. My aides, Glinn Daro, Glinn Telle. 
+GUEST2: I am Gul Macet. My aides, Glinn Daro, Glinn Telle. 
 RIKER: This is our Transporter Chief, Mister O'Brien. Shall we? 
 (Troi gives O'Brien a concerned look) 
 Captain's Log, supplemental. We have entered
 Cardassian territory, and are proceeding on our quest to locate the
 Phoenix.
+
+[Observation lounge]
+
+(the Cardassians have removed their 'helmets') 
+LAFORGE: And with long range sensors, we've been scanning a radius of
+ten light years. We can effectively scan one sector in a day. 
+RIKER: We're scanning Sector twenty one five oh five now. There's still
+no sign of the Phoenix. 
+GUEST2: In fact, you have no assurance that the ship is still in Sector
+twenty one five oh five. 
+RIKER: In fact, we have no idea where it is. We thought the last known
+coordinates were a reasonably good place to start. 
+GUEST2: Captain Picard, you can understand that we are sceptical. Do you
+expect us to believe that you are using every means at your disposal to
+track down one of your own? 
+PICARD: Of course you are concerned, Gul Macet. It is precisely because
+of that fact that I have included you in every aspect of our effort.
+You're present with my staff. You're hearing reports as I hear them,
+nothing edited, nothing withheld. 
+GUEST2: Very well. 
+PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I
+thought that he might be able to provide some insights.
+Mister O'Brien, I understand that Captain Maxwell lost his family
+during a raid on an outpost. 
+O'BRIEN: More like sabotage, sir. It was on Setlik Three. A squad of
+Cardassian militia made a sneak raid on an outpost, wiped out close to
+a hundred civilians. 
+GUEST2: Then it's revenge he's after. 
+O'BRIEN: That's not what I meant. 
+GUEST2: Maxwell is taking retribution for his own loss. 
+O'BRIEN: Captain Maxwell would never 
+PICARD: Gentlemen, please, let's not indulge in speculation. Can we
+confine our discussion to facts? Now, Mister O'Brien 
+WORF [OC]: Worf to Captain Picard. 
+PICARD: Go ahead, Mister Worf. 
+WORF [OC]: Long range sensors have located the Phoenix. 
+PICARD: Gul Macet, will you join me on the Bridge? 
+(O'Brien and the aides leave by a different door. note - Daro is pale,
+Telle is dark)
 

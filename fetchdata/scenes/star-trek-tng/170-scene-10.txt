@@ -1,133 +1,53 @@
-RIKER LAFORGE VARRIA PICARD FAJO DATA
+RIKER LAFORGE WORF PICARD WESLEY COMPUTER CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Fajo's den]
+[Bridge]
 
-VARRIA: Kivas wishes you to wear this set of
-clothes, and to sit in your chair. 
-DATA: I have no reason to accede to Mister Fajo's wishes. 
-VARRIA: He will give you reasons if you force him to. 
-DATA: Mister Fajo is deluding himself if he believes he can keep me
-here. The Enterprise is certain to find me. 
-VARRIA: They're not even looking for you. They think you're destroyed.
-Your shuttle blew up. A hytritium explosion. 
-DATA: They will scan the debris and discover I was not aboard. 
-VARRIA: They'll find exactly what they thought they'd find. Traces of
-your component elements. We put them aboard the shuttle in just the
-right proportions. 
-DATA: Clearly, Mister Fajo has no moral difficulty with my imprisonment
-here. 
-VARRIA: Mister Fajo has no moral difficulties at all. 
-DATA: Do you? 
-VARRIA: Clever, android. Is it part of your programme to seek out
-vulnerabilities in your enemies? 
-DATA: Yes. Are you my enemy? 
-VARRIA: I obey Fajo. And so does everyone on this ship. 
-DATA: Why? 
-VARRIA: You are a curious thing, aren't you? 
-DATA: Do you object to the question? 
-VARRIA: Kivas finds a way to get what he wants from his people. His
-rewards for loyalty are lavish. His punishments for disloyalty are
-equally lavish. You won't find anyone here on this ship to help you
-escape. Face it, android. He has you. 
-DATA: It appears he has us both.
+WESLEY: Now entering the Beta Agni system, sir. 
+RIKER: Take us to half impulse, Mister Crusher. 
+LAFORGE [OC]: La Forge to bridge. 
+PICARD: Go ahead, Commander. 
+LAFORGE [OC]: Captain. 
+[Engineering]
 
-[Ready room]
+LAFORGE: A class two probe has been loaded with the
+hytritium compound and is ready to launch. 
+[Bridge]
 
-LAFORGE: The reason I can't find anything is that
-there's nothing there to find. I've run this analysis dozens of times
-over and there's just no indication of any malfunction. 
-RIKER: No possible explanation at all? 
-LAFORGE: Yeah, there's one, but I don't believe it. Pilot error. 
-PICARD: I know it's hard to accept, but even the best 
-LAFORGE: Captain, it's not only hard to accept, with Data it's
-impossible. I mean, I can't even begin to calculate the odds. If Data
-were here, we could ask him. 
-PICARD: What are you suggesting, Lieutenant? 
-LAFORGE: I don't know, sir. It just doesn't make sense, and I like
-things to make sense, that's all. 
-RIKER: Geordi, maybe if you get a little rest and came at this thing
-fresh. 
-LAFORGE: A little rest isn't going to change the computer analysis,
-Commander. 
-PICARD: I'm sure you have done a complete investigation, and if you
-wish to continue it, of course you have my support. But we shall be
-reaching the Beta Agni system shortly, and I expect you to be rested. 
-LAFORGE: I understand, sir. 
-PICARD: Dismissed. Geordi, I understand how much we want, even need, to
-explain an accident like this. Sometimes there just aren't any
-explanations. 
-(La Forge leaves) 
-RIKER: For an android with no feelings, he sure managed to evoke them
-in others. 
-PICARD: We must select an officer to replace Data at Ops.
-Recommendations? 
-RIKER: Worf would be my first choice, sir. 
-PICARD: Mine as well. Make it so. 
-(Picard opens the copy of Shakespeare that has been returned to him at
-Data's bookmark. It's
-Hamlet, Act 1, Scene 2) 
-PICARD: (reading) 
-He was a man, taken for all in all. I shall not look upon his like
-again. 
-[Fajo's den]
+WESLEY: Now approaching Beta Agni Two, sir. 
+PICARD: Mister Crusher, put us into close orbit. Mister Data, scan. My
+apologies, Mister Worf. Scan the colony's subsurface water. 
+WORF: Scanning. Tricyanate contamination confirmed. Levels approaching
+forty two parts per million. 
+RIKER: Area affected? 
+WORF: Thirty square kilometres. 
+PICARD: Any indication of the source? 
+WORF: Highest concentration eight kilometres west of the colony. 
+RIKER: Adjust target coordinates. 
+WESLEY: Aye, sir. 
+LAFORGE [OC]: La Forge to bridge. 
+[Engineering]
 
-(Data is feeding the lapling when Fajo enters) 
-FAJO: You are still wearing that uniform. Why? 
-DATA: I am a Starfleet officer. 
-FAJO: You are not in Starfleet any longer. It's time you adjusted your
-programme
-to accept reality. 
-DATA: Even if I chose to do so, it is doubtful that my programming
-could be sufficiently altered to accede to your wishes. 
-FAJO: Oh? 
-DATA: I have been designed with a fundamental respect for life in all
-its forms and a strong inhibition against causing harm to living
-beings. 
-FAJO: What a marvellous contradiction. A military pacifist. Tell me,
-whose dreadful decision was it to enlist you in Starfleet to begin
-with? 
-DATA: My skills seemed appropriate 
-FAJO: Data, Data, Data. Big mistake. A grievous error. You belong in
-Starfleet about as much as I belong in a verbal contract. Tell me, have
-you killed yet? 
-DATA: No, but I am programmed with the ability to use deadly force in
-the cause of defense. 
-FAJO: Shame on you. Shame on you. How neatly you rationalise your
-capabilities. How can you just casually accept your role in murder? 
-DATA: I would not participate in murder. Perhaps you misunderstand. 
-FAJO: Can't you see how much better it will be for you right here? The
-intellectual rewards alone. Our personal exploration of the
-galaxy. I am at war with no one. I am your liberator. 
-DATA: You are a fine debater, sir. It is a pity you have used your
-verbal gifts for mere hucksterism and the advancement of your own
-greed. 
-FAJO: Perhaps. Perhaps you would not judge me so harshly if you knew of
-my desperate youth, wasted, wasted on the streets of Zimballia. 
-DATA: Your past does not excuse unethical or immoral behaviour, sir. 
-FAJO: Well, it doesn't matter. It isn't true anyway. My father was
-quite wealthy, actually. He was a thief. Data, why don't you put on
-these lovely new clothes and sit on the chair. 
-DATA: I must decline. 
-FAJO: You are going to be much more of a challenge than I had first
-thought. (goes to replicator) Finoplak, one hundred denkirs. (A vial of
-liquid appears) Now, Data, in the meantime, here is something for your
-logic circuits to analyse. 
-(Fajo thrown the liquid onto Data's uniform, which begins to smoke and
-dissolve) 
-FAJO: Oh, don't worry. The solvent won't harm your, your skin. But in
-seconds it will completely dissolve that uniform. Personally, I'd be
-delighted to see you go around naked. I assume you have no modesty.
-But, then, I guess that decency is the rule of your Starfleet training.
-In any case, Data, why don't you make a decision about which
-alternative you dislike the least. Make a decision by dinnertime
-tonight. I have invited a guest to meet you, and I expect you to be as
-entertaining with him as you have been with me.
+LAFORGE: According to these figures, the eighty one
+kilos 
+[Bridge]
 
-[Geordi's quarters]
-
-(Rest is not coming easily. Dreams are intervening)
-
-DATA [OC]: Proceeding with departure. Enterprise shuttlebay two,
-prepare for docking. Level one precautions remain in effect. 
-LAFORGE: I did miss something.
+LAFORGE [OC]: Of hytritium should be enough to
+neutralise the contamination. 
+WESLEY: Now approaching target coordinates. 
+PICARD: Launch probe.
+WORF: Probe on target. Hytritium entering water table. Disbursement
+slightly faster than expected. Sir, something unusual. 
+PICARD: Specify. 
+WORF: I'm getting concentrated tricyanate readings of seventy grams per
+cubic centimetre at the source coordinates. Much higher than would
+normally occur. 
+PICARD: Computer, report on geologic instability on Beta Agni Two. 
+COMPUTER: No significant geological activity has been recorded on Beta
+Agni Two since the settlement of the Federation colony. 
+PICARD: Number One, perhaps you'd better take an away team down and
+have a closer look. 
+RIKER: Yes, sir. Doctor Crusher, join me in Transporter room three. 
+CRUSHER [OC]: On my way. 
+RIKER: Mister Worf?
 

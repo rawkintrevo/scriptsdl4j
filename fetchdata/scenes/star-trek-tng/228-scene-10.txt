@@ -1,41 +1,52 @@
-OBRIEN LAFORGE PICARD HAYES DATA BARCLAY
+TROI LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Jefferies tube]
 
-HAYES [on monitor]: The Ferengi are claiming two of
-their freighters were destroyed by a Cardassian warship in your sector.
+LAFORGE: Reg? 
+BARCLAY: Yes, sir? 
+LAFORGE: You okay? 
+BARCLAY: I'm just fine, sir. 
+LAFORGE: You look a little pale. 
+BARCLAY: I do? 
+LAFORGE: Look, Reg, it's been a long couple of days. Why don't you get
+some rest. We've got everything under control here. 
+BARCLAY: I think I'll do that, sir. Thank you.
 
-PICARD: Is there any evidence to support this? 
-HAYES [on monitor]: Although I'm loathe to believe the Ferengi about
-anything, there was evidence of Cardassian weapons. If the Cardassians
-also attacked the Yosemite, it could indicate a large scale movement
-into this sector. 
-PICARD: I have an away team on board the ship. The initial report
-indicates there was an explosion on board, but we're not sure if it was
-from an attack. 
-HAYES [on monitor]: How soon until you know? 
-PICARD: A few hours. If it looks like Cardassians, I'll contact you
-immediately. 
-HAYES [on monitor]: Very well. 
-(transmission ends) 
-DATA [OC]: Bridge to Captain Picard. 
-PICARD: Go ahead, Mister Data. 
-DATA [OC]: The away team is returning to the Enterprise, sir. 
-PICARD: Acknowledged. Have Commander Riker come to my Ready room as
-soon as he's on board. 
-DATA [OC]: Aye, sir.
+[Engineering]
 
-[Transporter room]
+LAFORGE: La Forge to Counsellor Troi. 
+TROI [OC]: Go ahead, Commander. 
+LAFORGE: Counsellor, do you have a minute?
 
-(Riker leaves) 
-LAFORGE [OC]: La Forge to Transporter room three. I'm ready to go. 
-O'BRIEN: Stand by, Commander.
+[Corridor]
 
-[USS Yosemite]
+TROI: Lieutenant Barclay, I've been calling you,
+why haven't you responded? Reg, what are you doing? 
+BARCLAY: I'm walking. 
+(so briskly that Troi almost has to run to keep up) 
+TROI: I can see that. Where are you going? 
+BARCLAY: Nowhere. I just don't get to these decks very often. Look,
+there's Stellar Cartography. I thought that was deck eleven. 
+TROI: Mister Barclay. 
+BARCLAY: I was I was having trouble sleeping and I'm trying to wear
+myself out. It is a perfectly normal thing to be doing, isn't it? 
+TROI: Commander La Forge said you seemed a little nervous this morning.
 
-(Geordi is beamed away) 
-BARCLAY: Barclay to Enterprise. One to beam back. 
-O'BRIEN [OC]: Stand by, sir. 
-(We join Reg in the transporter experience, including a maggot thing
-that bites his arm)
+BARCLAY: I'm always nervous. Everybody knows that. 
+TROI: He also mentioned that you said you saw something in the
+transporter beam. 
+BARCLAY: Well I was wrong. They checked the transporter and there
+wasn't. I mean, there was nothing there. I imagined the whole thing. 
+TROI: You don't sound very convinced of that. 
+BARCLAY: Listen, Counsellor, I really appreciate your concern in this
+matter but I really wish you wouldn't continue this conversation. I'm
+really perfectly fine. 
+TROI: Mister Barclay, you're exhausted and highly agitated, and I
+cannot allow a member of this crew to endanger himself and others. I
+think 
+BARCLAY: I'm not endangering anyone else and I wish you would 
+TROI: I think it would be in your best interest to take a leave of
+absence. Reg, I'm temporarily relieving you of duty. 
+BARCLAY: Fine, fine. Do what you have to do, Counsellor.
 

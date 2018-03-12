@@ -1,91 +1,45 @@
-RIKER MCDOWELL WORF PICARD BROSSMER VAREL MIROK DATA
+RO DATA GUEST1 LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Romulan Engineering]
+[Engineering]
 
-BROSSMER [OC]: We've lost them, sir. 
-[Bridge]
-
-BROSSMER [OC]: I've done all I can, sir. I'm afraid
-they're gone. 
-PICARD: Mister Data, begin a level one diagnostic. All transporter
-systems offline until further notice. Could they have materialised
-somewhere else? 
-DATA: Negative, Captain. Sensors are unable to locate them anywhere
-within transporter range. 
-PICARD: Counsellor? 
-(Troi shakes her head) 
-RIKER [OC]: Riker to Enterprise. 
-PICARD: Go ahead, Number One.
-
-[Romulan Engineering]
-
-RIKER: Captain, we're still looking at a core
-breach unless we can fashion a new graviton generator. 
-[Bridge]
-
-RIKER [OC]: I need replacement personnel, sir. 
-PICARD: Mister Data, you may continue the diagnostic of the transporter
-systems at another time. Take a shuttlecraft and two more engineers
-down to the Romulan ship. 
-DATA: Aye, sir. 
-PICARD: Mister McDowell, alert the main shuttlebay to have all
-available ships and pilots standing by in case we need them. 
-MCDOWELL: Aye, sir. 
-PICARD: Ensign, lay in a course away from the Romulan vessel. Engage at
-warp one if you detect any sign it's going to explode.
-
-[Romulan Engineering]
-
-MIROK: Pressure in the containment chamber has
-increased fifteen melakols in the last two minutes. 
-RIKER: What can we do to stop the overload? 
-MIROK: Most of the conduits were damaged during the explosion. I can't
-even access the central computer. 
-WORF: Commander. Emergency bulkheads have sealed this section off from
-the rest of the ship. There is no way to gain access to the main Bridge
-or control centres. 
-RIKER: Survivors? 
-WORF: Readings indicate at least seventy three Romulans are still
-alive. 
-VAREL: Seventy three. 
-(an alarm sounds) 
-MIROK: The pressure has jumped two hundred melakols! 
-VAREL: I've lost control of the containment chamber. 
-MIROK: It's going to implode. 
-RIKER: We'll need to dump the entire engine core. Do you have an
-auto-eject system? 
-MIROK: Yes, but it's not functioning. I'll have to do it manually. 
-RIKER: Mister Worf, you two seal the chamber. 
-VAREL: Implosion will occur in one minute five seconds. 
-RIKER: Enterprise, we need to jettison the entire engine core. You'll
-need to extend the shields once it clears the hull. 
-PICARD [OC]: Understood, Number One. We'll stand by for your signal. 
-(Worf and Varel have got to the manual latches and undone them) 
-WORF: We must get the doors closed. 
-(but Worf can't move the debris jamming them open) 
-WORF: Commander! 
-RIKER: Time? 
-VAREL: Thirty seconds. 
-(the three men finally shift the girder and start to pull the doors
-shut) 
-MIROK: I'm ready, Commander. 
-RIKER: Stay there! Eject the chamber on my order! 
-DATA: Excuse me, sir. 
-(Data takes over and pulls the doors shut) 
-MIROK: Implosion in five seconds) 
-RIKER: Now. 
-(everything shakes as the core is ejected) 
-RIKER: Enterprise, extend shields! 
-(KaBOOM) 
-RIKER: Well, we're still here. 
-MIROK: Yes.
-
-[Bridge]
-
-RIKER [OC]: We'll have a complete power survey done
-within the hour. We'll probably have to supply them with energy for
-life support, and they'll need a new engine core to get home. 
-PICARD: Understood, Commander. Keep us informed of your efforts. Picard
-out. I'll be in Sickbay. 
-MCDOWELL: Aye, sir.
+RO: The muon feedback wave's not showing up on any
+of the engine displays. 
+LAFORGE: The Romulans must be hiding it in a sensor return signal.
+Unless someone runs a level three diagnostic, they'd never detect it.
+There must be a way to warn them before the ship goes to warp. 
+DATA: This is puzzling. Three more chroniton fields have formed aboard
+the Enterprise in the last hour. 
+LAFORGE: There's no reason why the interphase device would be producing
+new fields aboard this ship. 
+DATA: We should begin decontamination immediately. Run an internal
+sensor sweep for locations of all chroniton fields on the Enterprise. 
+GUEST1: Aye, sir. The following areas are showing contamination.
+Sickbay, Transporter room three, main Bridge, Captain's Ready room,
+shuttlebay two, and main Engineering. 
+LAFORGE: Ro, look at this. 
+DATA: I do not understand how these new fields have formed. No
+transporter beam has been active in any of those areas. I cannot see
+that they have anything in common. 
+LAFORGE: Oh, yes they do. 
+DATA: In fact, they seem to be appearing at random. 
+LAFORGE: No, they're not. We were in every one of those locations.
+Somehow we're leaving chroniton footprints behind us. 
+DATA: Can you narrow the focus of the scan to pinpoint the locations? 
+GUEST1: Not with the internal sensors, Commander. 
+DATA: Go to science station two on the main Bridge. Use a lateral
+sensor array to get a more precise reading. I will modify an anyon
+emitter to eliminate the fields once they've been isolated. 
+LAFORGE: Why don't you go with her and see what the lateral sensors
+turn up. I'll stay here with Data. 
+RO: Right. 
+(Data is scanning with a tricorder, then spraying) 
+LAFORGE: Well that's interesting. You're reading chroniton readings in
+here, but not from me? There's a field in this wall? Why? Data, I came
+through this wall. I walked right through it when I came in here. When
+the phased matter in my body passed through the wall, it must've
+disrupted the wall's molecular structure producing a chroniton field.
+Data, I'm right here that's me you're reading. Watch. 
+(Geordi walks through the 'pool table' and Data detects the field) 
+LAFORGE: Come on, it's me. You see?
 

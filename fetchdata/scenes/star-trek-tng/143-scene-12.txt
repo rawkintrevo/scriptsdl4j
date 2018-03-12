@@ -1,41 +1,43 @@
-PICARD RIKER WESLEY LAFORGE REGINOD
+TROI PICARD RIKER PULASKI GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Starbase 515 Operating Theatre]
 
-PICARD: Van Doren's technique has been perfected to
-two point four percent. 
-WESLEY: Sir? 
-PICARD: The cardiac replacement procedure. It has a very low mortality
-rate. Two point four percent. 
-WESLEY: Those are pretty good odds. 
-PICARD: Just not overly thrilled at the prospect of having my innards
-becoming the subject of Starfleet gossip. 
-WESLEY: Of course not, sir. Why didn't you just have Doctor Pulaski
-perform the operation? I'm sure you could've trusted her to keep it
-quiet. 
-PICARD: Let's say I have personal reasons and leave it at that, shall
-we?
+(Surgical scrubs are now red. Presumably to hide
+the blood.) 
+GUEST1: Don't worry about a thing, Captain. We've done this a hundred
+times, and we're ready when you are. 
+PICARD: Just get on with it, Doctor. I've got work to do. 
+GUEST1: Activate Sterile Field. Neural callipers. 
+(the electronic anaesthesia is applied) 
+GUEST1: This will be a secondary cardiac procedure with mid-line entry
+and excision of the early model unit. I anticipate no complications, as
+the patient has had positive primary results and exhibits extraordinary
+physical condition. We'll all be home in time for dinner. Tissue
+mitigator.
 
-[Pakled ship]
+[Observation lounge]
 
-LAFORGE: The power needs to be rerouted through
-this venturi chamber before it can be channelled to the engine's coils.
-
-REGINOD: It is broken. 
-LAFORGE: Yeah, but not for long. See, we are going to reconfigure these
-separators, here and over here. 
-RIKER [OC]: Lieutenant La Forge, this is Commander Riker. Come in. 
-LAFORGE: Yes, Commander. Go ahead.
-
-[Bridge]
-
-RIKER: Are you all right? 
-LAFORGE [on viewscreen]: Sure. Why do you ask? 
-RIKER: Counsellor Troi has expressed misgivings about your absence from
-the Enterprise. 
-LAFORGE [on viewscreen]: I don't think there's anything to worry about.
-
-RIKER: Understood. As soon as you complete the repairs, I want you back
-here. 
-LAFORGE [on viewscreen]: Yes, sir, I should be done here momentarily.
+DATA: There's limited information available on
+Pakled culture, but the eclectic range of their equipment suggests
+their technology was borrowed from others. 
+TROI: And now they have become militant. 
+DATA: So it would seem. 
+RIKER: Rationale? 
+TROI: They are unwilling to wait for the timely evolution of their
+species' intellectual capacity. They want instant knowledge, instant
+power and gratification. 
+PULASKI: The more they get, the more they want. 
+RIKER: And the more aggressive and dangerous they become. I think it's
+time we set some limits. 
+DATA: To what effect, sir? We are faced with an impossible conundrum. 
+RIKER: Suppose we turn their impatience and greed against them? 
+PULASKI: But how? 
+RIKER: Perhaps Geordi should give them something they want. Something
+important. Then we simply create the right moment for him to take it
+away, and get him the hell out of there. 
+TROI: Would you be suggesting a ruse of some sort? 
+RIKER: I would. 
+PULASKI: But what if we fail? What'll happen to Geordi then? 
+RIKER: We have no other choice. We have to try.
 

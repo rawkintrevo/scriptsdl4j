@@ -1,38 +1,54 @@
-RIKER LAFORGE BARRON LIKO OGAWA CRUSHER DATA
+TROI NURIA RIKER LIKO GUEST1 MAN DATA OJI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Duck blind]
+[Outside the hall]
 
-(Crusher revives Barron) BARRON: Keep work. Palmer.
+MAN: Where? 
+TROI: Over there. 
+[Assembly hall]
 
-CRUSHER: It's all right. It's all right. 
-DATA: The hologram generator is now functioning, sir. 
-RIKER: All we need now is power. 
-LAFORGE: Almost there. 
-[Hillside]
+RIKER: That knot won't hold. If I may? 
+GUEST1: Please do. 
+RIKER: You need a knot that'll tighten under pressure. Let me show you.
 
-(Liko and Oji have climbed up to investigate the
-flashes, and can see the duckblind quite clearly now) 
-LIKO: You wait here, Oji. 
-(Liko climbs right up to the window and looks inside) 
-[Duck blind]
+[Path]
 
-CRUSHER: Enterprise, beam Martinez and his patient
-directly to Sickbay. 
-DATA: Commander. 
-(Liko touches the metal frame and gets a shock. He falls from the cliff
-face) 
-[Hillside]
+OJI: Father, the sun's reaching its zenith. If I
+don't go to measure 
+LIKO: Go.
 
-RIKER: Doctor, be careful. 
-CRUSHER: I've got to get down there. 
-(Oji hides and watches as Crusher runs down to Liko, scans him then
-makes her decision) 
-CRUSHER: Crusher to Enterprise. Medical emergency. Two to beam directly
-to Sickbay. 
-OGAWA [OC]: Aye, Doctor. 
-(Oji sees the strange woman and her father vanish) 
-[Duck blind]
+[Assembly hall]
 
-LAFORGE: That should do it. 
-(It does. Oji sees the window disappear and be replaced by the cliff
-face. Curious, she investigates) 
+(Riker is gagging the bound Fento) 
+RIKER: Forgive me, friend, but the stranger must be set free. 
+[Outside the hall]
+
+OJI: Riker? 
+RIKER: Riker to Enterprise. Lock on and prepare to beam us directly to
+Sickbay, but hang on for my signal. 
+DATA [OC]: Acknowledged, Commander. 
+OJI: Riker, stop!
+
+[Path]
+
+(The adults hear her calling) 
+NURIA: Oji? 
+OJI [OC]: It's Riker, he's taking Palmer! 
+NURIA: Hali. Yuri, don't let her escape.
+(Riker rounds a rock outcrop out of line of Hali's bow, and hides) 
+RIKER: I'm clear. Energise!
+
+[Sickbay]
+
+RIKER: Data, has Counsellor Troi beamed up? 
+DATA [OC]: Negative, Commander. Sensors show she's in the midst of a
+group of Mintakans. 
+RIKER: Damn.
+
+[Assembly hall]
+
+(Fento is untied) 
+NURIA: He is all right. Hali, find Riker and Palmer. 
+LIKO: Why did you and Riker take Palmer from us? 
+TROI: We did not take Palmer.
+

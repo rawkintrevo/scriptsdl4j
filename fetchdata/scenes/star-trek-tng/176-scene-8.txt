@@ -1,54 +1,35 @@
-PICARD JONO
+PICARD RIKER GUEST5 DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Guest quarters]
+[Bridge]
 
-(Jono is still keening) 
-PICARD: Jono! Jono, why do you make that noise? 
-JONO: It is the custom of my people when we are in distress. 
-PICARD: Is it not also the custom of your people to listen to the
-wishes of their Captain? 
-JONO: Yes. 
-PICARD: Then, as Captain of the starship Enterprise, I ask you not to
-make that sound. 
-JONO: Yes, sir. 
-PICARD: Good. Well, now that's cleared up, let's, er, let's, er, let's
-get acquainted, shall we? What do you think of your room? I know it's a
-little sterile. But if there's anything you'd like? Pictures, perhaps,
-or games. 
-JONO: This is a cage. I am still your captive. 
-PICARD: Oh, no, not at all. I thought you'd be comfortable here. 
-JONO: Are you going to return me to my Captain? 
-PICARD: We will rendezvous with the warship Q'Maire at oh seven forty
-hours. We will transfer the Talarians to Captain Endar. 
-JONO: Including me? 
-PICARD: We'll discuss your situation with Captain Endar. 
-JONO: I don't like this place. 
-PICARD: We could find some other quarters. 
-JONO: I've always lived with my Captain. 
-PICARD: Ah. Yes, well, that wouldn't work here.
+PICARD: Status, Mister Data? 
+DATA: Q'Maire at station, holding steady at bearing zero one three,
+mark zero one five. Distance five oh six kilometres. 
+PICARD: Are its weapons systems active? 
+DATA: Negative, sir. 
+WORF: Captain Endar requests an open channel, sir. 
+PICARD: On screen. 
+GUEST5: I am Captain Endar of the warship Q'Maire. To whom am I
+speaking? 
+PICARD: Captain Jean-Luc Picard of the Federation Starship Enterprise.
+We have rescued four crew members from your observation craft. They
+have received medical attention. The are ready for transport. 
+GUEST5: Your actions are duly noted. We will forward coordinates for
+immediate transport. 
+RIKER: You're welcome, I'm sure. 
+PICARD: One moment, Captain. We've also discovered a human among your
+crew. 
+GUEST5: Jono. 
+PICARD: Actually, his name is Jeremiah, Jeremiah Rossa. 
+GUEST5: What is his condition? Is he injured? 
+PICARD: He was not wounded in the mishap, but as a representative of
+the Federation, I require an explanation. Why has this child been held
+in your custody for so many years? 
+GUEST5: No explanation is warranted, Captain. He is my son.
 
-[Picard's quarters]
+Captain's log, supplemental. Captain Endar's claim
+that Jeremiah Rossa is his son is clearly unacceptable. However, to
+avoid escalating tensions, I have invited the Talarian leader to come
+aboard the Enterprise so that we may address the issue face to face.
 
-PICARD: Well, I'm sure you'll see there's nothing
-here to appeal to a young person. 
-(Jono picks up an ornate dagger in a scabbard from the desk) 
-PICARD: Put that down, please. 
-JONO: It's Klingon. 
-PICARD: Yes. Would you put it back where you got it. 
-(Jono wrenches a sextant from it's display stand, then puts it back) 
-PICARD: Well. Here we are, eh, Jono? 
-PICARD: I notice you haven't taken off your gloves. 
-JONO: Not here. 
-PICARD: Why not? 
-JONO: So that I don't have to touch an alien. 
-PICARD: Jono, your Captain, Endar, has he ever hurt you? Inflicted
-pain? 
-JONO: Pain is not a consideration. 
-PICARD: Then he has? 
-JONO: I did not say that. Don't you understand? Pain is not what
-matters. Passing the tests is everything. 
-PICARD: Is that what they are? Tests of pain? 
-JONO: You understand nothing. 
-PICARD: It's true, I don't fully understand Talarians. But you are not
-Talarian. 
-JONO: I will not listen to this. I will not listen to your lies. 

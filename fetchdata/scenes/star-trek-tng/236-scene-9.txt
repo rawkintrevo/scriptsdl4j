@@ -1,54 +1,33 @@
-JELLICO TROI LAFORGE RIKER
+PICARD RIKER JELLICO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 
-(Jellico is arranging a sculpture or something when
-the doorbell rings) 
-JELLICO: Yes? 
-TROI: May I speak with you, Captain? 
-JELLICO: Deanna. Come in, come in. 
-(there are some child's drawings on his desk.) 
-JELLICO: The latest masterpieces from my son. It's an elephant. I
-think. 
-TROI: Definitely an elephant. 
-JELLICO: I'm glad you're here. I'd like to go over the duty roster with
-you. 
-TROI: I'd be happy to. But first, I'd like to talk about how the change
-in command is affecting the crew. 
-JELLICO: I've noticed some resistance. 
-TROI: I wouldn't call it resistance. More like uncertainty. Most of
-them had served under Captain Picard for several years. They knew him,
-they knew what he expected. Now they're being asked to adjust to a new
-captain and a new way of doing things, and they're uncertain how to
-react. 
-JELLICO: I see your point. This all could be very unsettling to them. 
-TROI: And to you. Perhaps everyone just needs some time. Time for you
-to get to know and trust the crew, and time for them to understand how
-you want things done. 
-JELLICO: I'm glad you brought this to my attention, Deanna.
-Unfortunately, I don't have time for a honeymoon with the crew. You've
-clearly given this a lot of thought, so I'd like you to take charge of
-the morale situation. Please see to it that they make the adjustment to
-the new routine quickly and easily. I have a meeting with the new
-Security Chief in five minutes, so the duty roster will have to wait.
-Thank you, Counsellor. By the way. I prefer a certain formality on the
-Bridge. I'd appreciate it if you wore standard uniform when you're on
-duty. 
-TROI: Of course, sir.
-
-[Corridor]
-
-LAFORGE: Commander, he's asked me to completely
-reroute half the power systems on the ship, change every duty roster,
-realign the warp coils in two days, and now he's transferred a third of
-my department to Security. 
-RIKER: If it makes you feel any better, you're not alone. Captain
-Jellico has made major changes in every department on the ship. 
-LAFORGE: Yeah, well, I don't mind making changes and I don't mind hard
-work, but the man isn't giving me the time I need to do the work.
-Someone's got to get him to listen to reason. 
-RIKER: It's not going to be me. He's made that abundantly clear. 
-LAFORGE: Well then, can I make a suggestion? Talk to Captain Picard.
-Maybe he can do something. We just need a little time. 
-RIKER: All right.
+PICARD: My orders are to maintain radio silence
+until we've completed the mission. 
+JELLICO: Well the Enterprise will be monitoring your channel just in
+case you do need to transmit a signal. 
+RIKER [OC]: Bridge to Captain Jellico. We've arrived at the shuttle
+departure coordinates. 
+JELLICO: Did you launch the probe I requested? 
+RIKER [OC]: Yes, sir. I wasn't aware you wanted to be informed. 
+JELLICO: Thank you. Jellico out. I can see why he's still only a first
+officer. 
+PICARD: Captain, I would just like you to know that Commander Riker is 
+JELLICO: I've read your reports, Jean-Luc. I know you think highly of
+him. 
+PICARD: It's not just my opinion. He's been decorated by Starfleet
+Command five times. He's been offered his own ship more than once. I
+think if you just gave him a chance, you'd find him an outstanding
+officer. 
+JELLICO: Jean-Luc, let's be candid for a moment. The Cardassians aren't
+going to listen to reason, and the Federation isn't going to give in to
+their demands. And the chances are you won't be coming back from this
+mission of yours. I want this ship ready for action and I don't have
+time to give Will Riker or anyone else a chance. And forgive me for
+being blunt, but the Enterprise is mine now. Well, here's hoping you
+beat the odds. Good hunting. 
+PICARD: Thank you. 
+JELLICO: Jean-Luc. I believe this is yours. 
+(and Shakespeare leaves the room)
 

@@ -1,64 +1,59 @@
-RIKER DOKACHIN LAFORGE WORF PICARD KVADA
+GUEST7 WOMAN PICARD ROMULAN DATA GUEST2 MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Klingon Bridge]
+[Romulan street]
 
-K'VADA: Captain. We've monitored a subspace message
-that might interest you.
-(Picard reads the PADD) 
-PICARD: Sarek is dead.
+DATA: This is definitely the street on which the
+intelligence scan of Spock and Pardek was taken, sir. Adjusting for the
+optical distortions, I am able to verify the architectural features.
+PICARD: Where were they standing? Data, you're moving about in a very,
+well, android way.
+DATA: I am sorry, Captain. I will be more careful.
+PICARD: Don't call me Captain.
+DATA: I understand, sir. I have found the place where they were
+standing. 
+PICARD: Where?
+DATA: It is here, at this doorway. A legal intercessor's office. The
+name is similar to Pardek's. It would appear to be one of his relatives.
+(Picard knocks, then tries the handle) 
+PICARD: He's not open for business yet. 
+DATA: Nonetheless, I recommend we keep this location under observation.
+I have clearly determined
+Pardek's routine. On days when the Senate is not in session, he
+invariably comes to this section after the median hour.
+PICARD: Very well. Let's sample the local cuisine, shall we?
 
-[Bridge]
+[Cafe]
 
-WORF: Commander, sensors detect a ship approaching
-at warp speed.
-RIKER: Identification?
-WORF: Negative. No transponder signal, no subspace marker. 
-LAFORGE: Sounds like they don't want to be identified.
-WORF: The ship is coming out of warp, sir. 
-RIKER: On screen.
-LAFORGE: Sensors indicate a combat vessel, origin undetermined, heavily
-armed. Mass and density suggest that it's fully loaded with
-cargo. I'd say from these internal scans, a good deal of that cargo is
-weaponry.
-WORF: The ship is entering sector twelve delta four 
-DOKACHIN: He's taking the position assigned to the Tripoli. The
-coordinates are identical.
-LAFORGE: Commander, readings indicate surface to ship transport has
-begun.
-RIKER: Mister La Forge, bring the engines back online and restore all
-systems to normal.
-LAFORGE: Aye, sir.
-WORF: He's powering up engines, turning to starboard.
-RIKER: Open a channel.
-WORF: Open.
-RIKER: This is Commander William Riker of the USS Enterprise. Identify
-yourself. I repeat, you have entered a Federation depot. Identify
-yourself.
-WORF: Sir, the ship is locking phasers.
-RIKER: Shields up. Red alert.
-LAFORGE: That ship easily matches our armament, Commander.
-WORF: It's coming about.
-RIKER: If you do not respond to our hails, we will take that as
-evidence of hostile action.
-WORF: There is an energy build up in their phaser banks. Sir, they're
-activating weapons. 
-(thump) 
-WORF: Forward shields down to seventy two percent.
-RIKER: Boost power to the shields. 
-LAFORGE: Aye, sir.
-RIKER: Mister Worf, lock onto their weapon systems only and prepare to
-fire. 
-(Enterprise takes more hits) 
-WORF: Forward shields down to sixty eight percent, aft shields forty
-percent.
-RIKER: On my mark, point seven five burst. We just want to get their
-attention.
-WORF: Ready, sir.
-RIKER: Fire.
-WORF: Their forward shields are damaged, sir. 
-LAFORGE: We destroyed one of their phaser arrays. Looks like collateral
-damage in the cargo area. Commander, I'm picking up massive power
-fluctuations, internal explosions. With all the armament that ship is
-carrying, it's going to blow. 
-(KaBOOM. Geordi was right)
-
+(an old woman brings two bowls to their table, no
+chairs) 
+PICARD: Do you happen to know what time the intercessor's office across
+the way opens?
+WOMAN: Why do you want to know?
+PICARD: I need his services. He was recommended.
+WOMAN: I haven't seen you here before.
+DATA: We are here for the day, from the city of Rateg.
+WOMAN: Rateg? I don't think so.
+DATA: Why do you say that?
+WOMAN: You don't sound like you're from Rateg.
+DATA: It is a misconception that all Rategs speak with a particular
+inflection. In fact, there are twelve different 
+PICARD: We come from several kilometres outside the city.
+WOMAN: Or perhaps you come from the security forces to watch the
+intercessor's office. Is he in trouble?
+PICARD: You're mistaken, madam. 
+WOMAN: Doesn't matter to me. I don't know when he opens. Eat your soup,
+courtesy of a loyal establishment. Jolan tru.
+(from the look on Picard's face, the soup is horrible) 
+PICARD: I don't think we can stay here too long.
+DATA: We may not have to. Direct your view to the far corner, sir. 
+MAN: Very good, Senator. 
+GUEST7: Senator, we seem to be having some problems 
+DATA: Is that not Pardek?
+PICARD: I believe it is. 
+DATA: Perhaps you should appear to enjoy your soup, sir.
+GUEST2: (to lady) I'll take care of that. Come. 
+(Picard and Data follow Pardek, and are stopped by two armed soldiers) 
+ROMULAN 1: Do not move.
+PICARD: What? You've made a mistake.
+ROMULAN 1: Quiet. Come with us. 

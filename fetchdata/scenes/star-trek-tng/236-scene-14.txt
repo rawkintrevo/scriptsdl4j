@@ -1,60 +1,40 @@
-SOLOK CRUSHER WORF PICARD
+TROI WORF JELLICO RIKER PICARD CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Torman bar]
+[Bridge]
 
-(Picard is directed to the person he is looking
-for.) 
-SOLOK: If he doesn't pay up, I know three large Ferengi who will not be
-so forgiving. 
-(As our trio stand around, the person the little Ferengi was talking to
-leaves in a hurry) 
-SOLOK: I didn't do it. 
-PICARD: I'm not accusing you of anything. 
-SOLOK: What do you want then? 
-PICARD: We're looking for DaiMon Solok. 
-SOLOK: Why? 
-PICARD: I have a business proposition to discuss. 
-SOLOK: Solok is a very busy, very important man. He isn't here. (Worf
-sits him down again) But I could relay a message. 
-PICARD: Good. Please, will you tell DaiMon Solok that we're interested
-in transportation to Celtris Three. 
-SOLOK: That's a Cardassian planet. 
-PICARD: Now, we understand that DaiMon Solok runs cargo there from time
-to time. 
-SOLOK: Solok is no smuggler. 
-PICARD: Yes, but if Solok were to go to Celtris Three for legitimate
-reasons, we would be interested in quietly booking passage for the
-journey. 
-SOLOK: I don't think he would be interested in dealing with Federation
-spies. 
-CRUSHER: You know, I heard that Solok was quite a man. 
-SOLOK: Why, yes, he is an extraordinary man. 
-CRUSHER: That's why we came here, because only Solok could help us. I
-guess there's some things even Solok can't do. It's too bad. (stroking
-Solok's lob) Because if he could, I would be very, very 
-SOLOK: Yes? 
-CRUSHER: Grateful. 
-SOLOK: (quivering with excitement) When do you want to leave?
+DATA: Captain on the Bridge. 
+JELLICO: Let him stew for a few minutes, then go in and tell him you've
+convinced me to meet with him one more time. Tell him I'm a loose
+cannon and that he needs to be more reasonable because I'm such an
+unreasonable man. Lemec will want to bring his own aides on board.
+Pretend to be worried that I'll object, and then give grudging
+permission for two aides, no more. Understood? 
+TROI: Yes, sir. 
+RIKER: Aye, sir. 
+(Jellico goes into his Ready room) 
+RIKER: Well, I'll say this for him. He's sure of himself. 
+TROI: No, he's not.
+
+[Precipice bottom]
+
+PICARD: The installation should be about three
+hundred metres this way. 
+CRUSHER: I don't suppose we'll be able to find another way to get back
+up there. 
+WORF: I doubt it. 
+CRUSHER: That's what I thought.
 
 [Caverns]
 
-PICARD: Beverly, make sure that your tricorder is
-keeping a precise map of the route. We could very easily get lost in
-here. 
-CRUSHER: Right. I'm picking up some subspace signals, but I can't seem
-to get a lock on them. 
-PICARD: That's typical of theta-band emissions. You have to compress
-the detection band width in order to determine the fix. The source
-emission is five hundred metres east of here. And seven hundred metres
-below. 
-(something flies overhead) 
-PICARD: It's all right. They're called lynars, a kind of Celtrine bat.
-They're harmless. 
-WORF: Bats? 
-CRUSHER: You're not afraid of bats, are you, Worf? 
-WORF: Of course not.
-
-First Officer's log, supplemental. We have
-rendezvoused with the Cardassian ship Reklar to begin diplomatic talks
-designed to ease tensions along the border.
+(the wonderfully flat passageway leads them to a
+dead end) 
+PICARD: There's a lava tube beyond here that runs for seventy five
+metres, then it connects with another chamber. We need to get through
+here. This tube opens up beyond this crack. We could widen the opening,
+then we should be able to crawl through. Mister Worf. 
+WORF: A phaser set to level sixteen should suffice. 
+PICARD: Make it so. 
+(Worf melts the rock face away) 
+PICARD: Well done, Mister Worf.
 

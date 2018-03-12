@@ -1,38 +1,31 @@
-ARGYLE KOSINSKI TRAVELLER TROI RIKER
+PICARD RIKER DATA CHIEF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Bridge]
 
-RIKER: Welcome aboard, Mister Kosinski. I'm the
-First Officer, Commander William Riker, and this is 
-KOSINSKI: Where is the Captain, please? 
-RIKER: He is engaged in other duties, sir. 
-KOSINSKI: A ship's engines should be a concern of the ship's Captain. 
-RIKER: They are, sir. Which is why they have made the First Officer
-directly responsible for an engine's condition
-and performance. Guided, of course, by one of our Chief Engineers,
-Lieutenant Commander Argyle in this case. 
-ARGYLE: A pleasure, sir. I appreciated receiving the specs. 
-KOSINSKI: To which you have no end of questions? 
-ARGYLE: Aye, I have. 
-RIKER: And you, sir, are listed as 
-TRAVELLER: As Mister Kosinski's assistant. My actual name is
-unpronounceable by humans. 
-RIKER: You're from Tau Alpha C. That's very distant. 
-KOSINSKI: All approved and described in the Starfleet communications.
-Now, I would like to set up in the Engine Room immediately. 
-RIKER: I'll have our Chief Engineer show you to his Engine Room. 
-KOSINSKI: No need. I know my way around starships. 
-(He barges between Riker and Argyle and out into the corridor, followed
-by his assistant, then Argyle) 
-RIKER: One thing that Kosinski isn't hiding, his bad disposition. 
-TROI: Agreed. Also, he's arrogant, overbearing, self-important, and
-very sure of himself and his ability. 
-RIKER: And the other one, his assistant? 
-TROI: He's the puzzle. With most life forms I can usually feel
-something. I may not be able to understand or interpret it, but I feel
-something, if only a presence. With him, nothing. Empty space. It's as
-though he isn't even here. Something about this concerns me. I don't
-know what, I can't point out a reason yet. 
-RIKER: Stay concerned, please. The safety of the Enterprise may be
-entrusted to these two.
-
+PICARD: I don't understand your concern, Number
+One. They're not authorised to make any alterations in our engines, and
+according to Starfleet's report, they will simply test different ways
+of entering warp speed and different intermix formulas. What's the harm
+in that? 
+RIKER: It's the specs that Kosinski sent us. In my opinion, sir,
+they're gibberish. 
+PICARD: Gibberish? 
+RIKER: Mister Data, would you explain? 
+DATA: Sir, we put Mister Kosinski's specs into the computer and ran a
+controlled test on them. There was no improvement in engine
+performance. 
+PICARD: Then how do you explain Starfleet's report that the same tests
+on the USS Ajax and on the Fearless over there, resulted in a
+measurable increase in propulsion. 
+RIKER: Our engines are new, sir. Top condition. The tests on those
+older ships may have simply been to straighten out some engine
+inefficiency. 
+CHIEF [OC]: Bridge from Transporter Chief. Two from USS Fearless are
+ready to beam over. 
+PICARD: Stand by for Commander Riker, Chief. He's on his way. 
+CHIEF [OC]: Aye, sir, 
+PICARD: Since you're concerned about these tests. 
+RIKER: Yes, sir. Captain, if I may, I'll ask Counsellor Troi to look
+these visitors over. 
+PICARD: Very good. 

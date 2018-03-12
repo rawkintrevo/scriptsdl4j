@@ -1,69 +1,39 @@
-RIKER LAFORGE PICARD PERRIN MENDROSSEN SAREK WESLEY CRUSHER DATA
+DATA OBRIEN GUEST1 LAFORGE CREWMAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Conference room]
+[Bridge]
 
-WESLEY: The temperature in the tank is now one
-hundred fifty degrees Celsius. 
-LAFORGE: Okay, lock it off. 
-WESLEY: Is that it? Can I get out of here now? 
-LAFORGE: What's your hurry? You don't really think something's going to
-happen with Suzanne Dumont, do you? 
-WESLEY: At least I'm not spending the night with a good book like some
-people. 
-LAFORGE: What's that supposed to mean? 
-WESLEY: Just what it sounds like. 
-LAFORGE: Let me tell you something. You'd get more action out of a good
-book than you'll ever see on this date, I'll guarantee it. She's not
-going to waste her time on someone like you. 
-WESLEY: Someone like me? 
-LAFORGE: She's way out of your league. 
-WESLEY: Since when did you become an expert on women? 
-LAFORGE: Compared to you, every male on this ship is an expert on
-women. 
-WESLEY: Well at least I don't have to find my women on the holodeck! 
-LAFORGE: What did you say? 
-WESLEY: You heard me! 
-LAFORGE: Yeah, I heard you. Just what do you think is going to stop 
-RIKER: Something wrong? I asked a question. 
-LAFORGE: No, sir. Nothing wrong here. 
-WESLEY: May I be excused, Commander? 
-(Wesley storms out) 
-RIKER: Anything you'd like to talk about, Geordi? 
-LAFORGE: No, sir.
+GUEST1: This is your command centre. 
+DATA: Yes. It is normally occupied by Captain Picard, Commander Riker,
+and Counsellor Troi. 
+GUEST1: Counsellor Troi is a Betazoid? 
+DATA: Half-Betazoid. Her father was human. 
+GUEST1: Then she is not a true telepath? 
+DATA: Her skills are empathic in nature. She is able to sense the
+emotions of other beings. 
+GUEST1: What is Captain Picard's background in diplomacy? 
+DATA: Extensive. The Captain's first diplomatic contact dates back to 
+GUEST1: And what of his knowledge of the Legarans? Would he be able to
+conduct negotiations with them should the need arise? 
+DATA: Do you foresee such a circumstance occurring? Is Ambassador Sarek
+unable to 
+GUEST1: Forgive me. I was merely exploring various possible
+permutations of our mission. Your tour of the Bridge has been most
+informative.
 
-[Ship's theatre] 
-(The band is tuning up, and the audience is
-arriving) 
-PICARD: I noticed that Lieutenant Worf put Ensign D'Amato on report for
-insubordination. 
-RIKER: D'Amato's been an exemplary officer. 
-PICARD: Indeed he has. Would you look into it, Number One. 
-RIKER: Of course. 
-(Picard sits next to Beverly) 
-PICARD: Good evening. 
-CRUSHER: Good evening. 
-PICARD: I assume the work is progressing on the conference room? 
-RIKER: Yes, I checked in with Wesley and Geordi a few hours ago. There
-was a moment when I actually thought that the two of them were going to
-hit one each other. 
-(Sarek and his party arrive. Everyone stands) 
-PICARD: Ambassador Sarek, Perrin, on behalf of the entire crew,
-welcome. 
-SAREK: It was my wife's suggestion that we attend. It seemed an ideal
-diversion. Perrin can be quite logical, when she so chooses. 
-MENDROSSEN: It seems that the Ambassador had more free time than I
-anticipated. 
-PICARD: Commander Data will be our featured soloist this evening. 
-DATA: I have been programmed to reproduce the individual musical styles
-of over three hundred concert violinists, including Heifetz, Menuhin,
-Grak-tay and Tataglia. Do you have a preference? 
-PERRIN: Tataglia would be lovely. 
-DATA: I hope you find the performance pleasing. 
-PERRIN: I look forward to it. 
-PICARD: At your convenience, Mister Data. Please. 
-(The Ambassador's party sit in front of Picard. The lights dim and the
-string quartet plays. Later, they get to sad, emotional piece. Deanna
-notices Sakkath watching Sarek intently. A single tear rolls down
-Sarek's cheek. Perrin gently wipes it away, and the party leave
-quietly)
+[Ten Forward]
+
+(Three men in science blue sit at a table that
+O'Brien and a friend are walking to) 
+O'BRIEN: Excuse me, we were sitting here. 
+CREWMAN: Well we're sitting here now. 
+O'BRIEN: Come on, fella. This is our table. 
+CREWMAN: Really? Funny, I don't see your name on it. 
+O'BRIEN: Didn't your mother teach you manners? 
+(They square up to each other) 
+LAFORGE: Hey, hey guys. Is there some kind of problem here? 
+O'BRIEN: There seems to be a question of who's table this is. 
+LAFORGE: There are plenty of other tables, right? 
+O'BRIEN: I suppose you're right. 
+LAFORGE: Why don't I get everyone another round of drinks? All right?
 

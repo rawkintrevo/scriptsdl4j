@@ -1,49 +1,62 @@
-DATA LAFORGE
+JULIANA DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Ten Forward]
 
-LAFORGE: Data, I'm almost finished reconfiguring
-the phaser banks. We should be able to start drilling in about an hour.
+JULIANA: I still can't believe I'm seeing you like
+this again, after all these years. 
+DATA: Doctor, I have no memory of you. 
+JULIANA: Oh, there's a reason for that. We wiped your processors after
+we finished refining your programming. Why don't you tell me what you
+do remember, and then I'll fill in the gaps. 
+DATA: My memory record begins when I was activated by the Starfleet
+officers on the Omicron Theta outpost. 
+JULIANA: After the attack of the Crystalline Entity. 
+DATA: Yes. All of the inhabitants of the colony were killed. However, I
+discovered that my memory banks contained the contents of their
+journals and logs. 
+JULIANA: We hoped their experiences would be useful. After your
+childhood, we figured you could use all the help you could get. 
+DATA: My childhood? 
+JULIANA: That's what I called it. You were like a baby, at first. A
+hundred kilogram baby, but still. You had trouble learning your motor
+skills, learning how to process sensory information. And of course
+Noonian was never satisfied. He kept tinkering, trying to make you as
+human as possible. 
+DATA: So you wiped my memory processors after this childhood. 
+JULIANA: Then we deactivated you and programmed you with the colonists'
+logs. We had planned to reactivate you, but we never got the chance.
+That's when the Crystalline Entity attacked. We had to leave quickly.
+We wanted to take you with us, but there was only room for two in the
+escape pod. 
+DATA: Doctor, I have scanned the journals of the colonists. There is
+only one Juliana mentioned in them. Her last name was O'Donnell. 
+JULIANA: That's me. 
+DATA: But there was no mention that my father was married to you. 
+JULIANA: Because of my mother. She thought that Noonian was an
+eccentric scientist who was too old for me. We decided to marry
+secretly to give her a chance to get used to our being together. We
+slipped away to Mavala Four and got married there. A Klingon and a
+Corvallan trader were our witnesses. It wasn't exactly the wedding I'd
+hoped for. Somehow Noonian had a way of making even the oddest things
+seem romantic. 
+DATA: My father did have an unusual way of looking at things. 
+JULIANA: How would you know that? 
+DATA: I encountered him once in the Terlina system. 
+JULIANA: That's where we went to after we left the outpost. I had no
+idea that you'd even met him. 
+DATA: It was shortly before his death. 
+JULIANA: He's dead? 
+DATA: Yes. 
+JULIANA: I had no idea it would hit me this hard. We didn't exactly
+part on the best of terms. 
+DATA: What do you mean? 
+JULIANA: I realised he loved his work as much as he loved me. Maybe
+more. There we were, stuck on this planet in the middle of the jungle
+with no one else to talk to. No life. It just wasn't enough. That's why
+I left. That was all a very, very long time ago. The important thing is
+that we're here now together. And I do want to get to know you. 
+DATA: This has been an interesting encounter, and an altogether
+unexpected one. I would like to corroborate your story before we
+proceed further. Excuse me, Doctor.
 
-DATA: Inform me when you are ready. 
-LAFORGE: What is it you're doing over there? 
-DATA: I am attempting to ascertain whether Doctor Tainer's story is
-true. 
-LAFORGE: Don't you believe her? 
-DATA: I neither believe nor doubt. I am simply attempting to verify her
-assertions. 
-LAFORGE: Well, what have you turned up so far? 
-DATA: The Registrar's Office on Mavala Four cannot confirm whether
-Doctor Soong was married there. Apparently many of the documents were
-lost when the government was overthrown. 
-LAFORGE: What's that you're looking at? 
-DATA: I am checking passenger manifests to see if they went to Mavala
-during the period in question. O'Donnell, Juliana. Soong, Noonian. They
-were both passengers on a transport which travelled from Omicron Theta
-to Mavala and returned four days later. 
-LAFORGE: That sure fits with her story. 
-DATA: Still, the fact that they went to Mavala does not prove they were
-married there. 
-LAFORGE: You know, Data, it almost seems to me like you're trying to
-prove that Doctor Tainer wasn't telling the truth. 
-DATA: Not at all. I am merely unable to reconcile her story with the
-fact that my father never mentioned her to me. 
-LAFORGE: Well, she did leave him. Maybe she broke his heart. Maybe he
-just didn't want to talk about her. Let me ask you this. Doctor Soong
-created an emotion chip. Didn't Lore tell you that chip also contained
-memories, memories Soong wanted you to have? 
-DATA: Yes. It is possible that those are memories of my childhood. And
-of Mrs Soong. 
-LAFORGE: When you think about it, why would she want to lie? Why would
-anybody want to pretend to be your mother? 
-DATA: I can think of no motive for such a pretense. 
-LAFORGE: And I can understand that this might all be a little
-disconcerting for you, Data. It came out of the blue, and it doesn't
-fit into your logical processors. 
-DATA: That is true. 
-LAFORGE: But that's life, Data. Part of being human is learning how to
-deal with the unexpected. To risk new experiences even when they don't
-fit into your preconceptions. 
-DATA: I admit I am finding it difficult to accept the possibility of a
-past about which I know nothing. But it is also true that I am curious
-to learn more about it. 

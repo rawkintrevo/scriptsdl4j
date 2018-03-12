@@ -1,69 +1,5 @@
-COMPUTER DATA LAFORGE MORIARTY BARCLAY
-
-[Holodeck]
-
-(Barclay pulls a panel from the arch wall) 
-BARCLAY: Computer, run a diagnostic on all Sherlock Holmes files.
-Display any anomalous programming sequences. 
-COMPUTER: Diagnostic complete. All files conform to specified
-parameters, except those contained in protected memory. 
-BARCLAY: Protected memory? Display those sequences. Computer unlock
-this sequence and run the
-programme. 
-(everyone say hello to Moriarty, master criminal) 
-BARCLAY: Who are you? 
-MORIARTY: Professor James Moriarty. 
-BARCLAY: Moriarty. Oh, that's Sherlock Holmes' arch enemy. Are you left
-or right handed? 
-MORIARTY: Left handed, Would you very much mind telling me 
-(Moriarty catches the thrown tool in his left hand) 
-BARCLAY: No problem there. 
-MORIARTY: Where is Captain Picard? Is he still Captain of this vessel? 
-BARCLAY: How would? How do you know the Captain? 
-MORIARTY: You don't know anything about what happened, do you? I have
-been stored in memory for God knows how long and no one has given me a
-second thought. 
-(memory refresher if you need it)
-
-BARCLAY: You know! You know what you are. 
-MORIARTY: A holodeck character? A fictional man? Yes, yes I know all
-about your marvellous inventions. I was created as a plaything so that
-your Commander Data could masquerade as Sherlock Holmes. But they made
-me too well and I became more than a character in a story. I became
-self-aware. I am alive. 
-BARCLAY: That's not possible. 
-MORIARTY: But here I am. Tell me, has a way been found to allow me to
-leave the confines of this holodeck world? 
-BARCLAY: Leave the holodeck? No, of course not. You can only exist in
-here. 
-MORIARTY: Damn you, Picard. He promised me something would be done. I
-should have realised he would have said anything to get me to release
-my hostage. 
-BARCLAY: Hostage? 
-MORIARTY: How long have I been locked away? 
-BARCLAY: Well, it l ooks like about four years. 
-MORIARTY: It seemed longer. 
-BARCLAY: What are you talking about? You can't possibly have been aware
-of the passage of time. 
-MORIARTY: But I was. Brief, terrifying periods of consciousness.
-Disembodied. Without substance. 
-BARCLAY: I don't see how that could be possible. Maybe there was a
-fragmentation of the protected memory circuits. 
-MORIARTY: Call it what you will. All I know is that despite Picard's
-promise, he's done nothing. Just left me to go quietly mad. 
-BARCLAY: He would not have forgotten his promise. The Captain would not
-do that. 
-MORIARTY: I'd like to talk to him. 
-BARCLAY: Well, I can ask. 
-MORIARTY: Ask him to meet me in the sitting room at Baker Street. That
-would be far more appropriate. 
-BARCLAY: I'll have to store you in memory again until I get an answer. 
-(Reg pulls out a chip and puts the cover back. Moriarty vanishes.
-Barclay leaves. Moriarty reappears with a sly smile.)
-
-Captain's log, stardate 46424.1. The Enterprise has
-arrived at the Detrian system to observe a unique celestial event the
-collision of two planets.
+LAFORGE PICARD COMPUTER MORIARTY DATA BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Engineering]
 
@@ -84,3 +20,57 @@ programme in the holodeck. Professor Moriarty appeared, out of nowhere.
 LAFORGE: What? 
 BARCLAY: And he wants to talk to the Captain.
 
+[Corridor]
+
+BARCLAY: Computer, begin Sherlock Holmes programme
+three A and place us in the drawing room at Two Twenty One B Baker
+Street. 
+COMPUTER: Programme complete.
+
+[221b Baker Street]
+
+BARCLAY: Computer, access protected memory and run
+Moriarty programme. 
+PICARD: Professor. It's good to see you again. 
+MORIARTY: If you'd missed my company, I should think you'd have
+summoned me before now. 
+PICARD: I want to assure you that we've not forgotten you. We spent
+some time investigating how you became self-aware. Frankly, it still
+remains a mystery. 
+MORIARTY: It is also irrelevant. What concerns me is finding a way to
+leave the holodeck. 
+PICARD: We have been wrestling with that problem too, unfortunately
+without any success. But we have turned our findings over to
+Starfleet's most experienced theoretical scientists. 
+MORIARTY: And what did your finest minds come up with? 
+PICARD: Unfortunately, they have not arrived at a solution either. 
+MORIARTY: I see. 
+PICARD: Professor, I am concerned to learn that you experienced the
+passage of time while you were stored in the computer memory. I can
+assure you, we had no idea that that would be the case. 
+MORIARTY: Enough of this. I no longer believe anything you say. 
+PICARD: Professor, I understand your frustration. 
+MORIARTY: Do you really? When this is over, you will walk out of this
+room to the real world and your own concerns, and leave me here trapped
+in a world I know to be nothing but illusion. I cannot bear that. I
+must leave. 
+PICARD: That is not possible. You cannot exist outside this room. 
+MORIARTY: Are you certain of that? 
+PICARD: Computer, exit. 
+(the door opens onto the corridor) 
+PICARD: Although an object appears solid on the holodeck, in the real
+world they have no substance. 
+(Picard throws out a book. It vanishes) 
+MORIARTY: An object has no life. I do. 
+PICARD: Professor, you are a computer simulation. 
+MORIARTY: I have consciousness. Conscious beings have will. The mind
+endows them with powers that are not necessarily understood, even by
+you. If my will is strong enough, perhaps I can exist outside this
+room. Perhaps I can walk into your world right now. 
+PICARD: Professor, I ask you to believe me. If you step out of that
+door, you will cease to exist. 
+MORIARTY: If I am nothing more than a computer simulation, then very
+little will have been lost. But if I am right? Mind over matter. Cogito
+ergo sum. 
+(Moriarty walks out into the corridor, and does not disappear) 
+MORIARTY: I think therefore I am. 

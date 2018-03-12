@@ -1,32 +1,45 @@
-RIKER JAKE LAFORGE WORF TASHA PICARD REMMICK
+PICARD REMMICK GUEST0 WESLEY COMPUTER QUINN GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Admiral's Quarters]
 
-RIKER: With this new extricator, sir, we can
-eliminate three more bulky machines from cargo space. 
-PICARD: That's excellent, Number One. 
-TASHA: Captain, there's an unauthorised entry in main Shuttlebay. 
-REMMICK: Unauthorised? 
-PICARD: Who is it, Lieutenant? 
-TASHA: Computer reads the ID number of Jake Kurland. Bridge to main
-Shuttlebay. Mister Kurland, this is Lieutenant Yar. Respond. 
-REMMICK: Isn't the area secured? 
-RIKER: Not now, Remmick. He's going to take this out, Captain. 
-TASHA: I'm locking off the bay launch doors, Captain. 
-WORF: Too late. He's using the flight emergency override 
-LAFORGE: Smart kid. 
-REMMICK: Kid? 
-TASHA: He's launching. 
-PICARD: On viewer. lieutenant Yar, open channel. Enterprise to
-shuttlecraft. Mister Kurland, this is Captain Picard. Mister Kurland. 
-JAKE [OC]: Captain, I'm going to Beltane Nine
+PICARD: Admiral, if it is me you're investigating,
+ask me directly what it is you want to know. And please tell me exactly
+what is going on. 
+QUINN: I need a little more time, Jean-Luc. 
+PICARD: How much time? I won't tolerate my crew being harassed any
+longer. 
+QUINN: Remmick's full report is almost ready. 
+PICARD: I want to be here when he presents it. 
+QUINN: That has always been my intention. Commander Remmick, report to
+Admiral Quinn. 
+REMMICK [OC]: On my way, sir. 
+PICARD: This has been a strain on our friendship. 
+QUINN: I know. Believe me, Jean Luc, I regret that, but it has been
+necessary.
 
-[Shuttlecraft]
+[Classroom]
 
-JAKE: To sign onto a freighter. Tell my father I'm
-sorry. 
-[Bridge]
+(The dynamics relationships test is on the screens,
+and there are a lot of beeps going on) 
+GUEST0: I can't get it. 
+WESLEY: Yes, you can. Don't fight it. Relax into it and let it come by
+itself. 
+GUEST0: No, it's going too fast. Wesley, I can't do it. 
+(Wesley turns from his own screen to look at Mordock's) 
+WESLEY: Yes you can. You've got your rotation factor. Just put in your
+vector coordinates. 
+(Mordock finishes first, Wesley second. The Vulcan finished too.) 
+COMPUTER: Time elapsed. 
+(Chang enters.) 
+GUEST4: Congratulations, Mordock. That was the second fastest time ever
+recorded on this test. You all did well. 
+GUEST0: No, it should not have been that way. Mister Crusher helped
+me. 
+GUEST4: Yes. I know. An interesting choice, Mister Crusher. Especially
+considering how close you and Mister Mordock are in overall score. You
+all have an hour to prepare for your last test. 
+WESLEY: The psych test, sir? 
+GUEST4: We prefer to think of it as a psychological evaluation based on
+reactions to various individual problems, but psych test will do.
 
-PICARD: You can tell him yourself, in person. Bring
-that ship back at once. 
-JAKE [OC]: No. 

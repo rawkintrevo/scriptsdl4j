@@ -1,33 +1,42 @@
-RIKER DATA WORF
+RIKER OBRIEN LAFORGE WORF PICARD GUEST1 DATHON
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WORF [OC]: Electron concentration seven point nine
-five. Particle gradient, four over seven. We are two hundred and fifty
-kilometres from the planet's surface. 
-DATA: Commander, the shuttle has reached the E region of the planet's
-ionosphere. 
-RIKER: How long can we maintain communication? 
-DATA: The scattering layer induced by the Tamarians is concentrated in
-the upper D region. The shuttle will reach that area in approximately
-two minutes. 
-RIKER: The Tamarian ship? 
-DATA: Unchanged, sir. They appear to be making no attempt to stop us. 
-RIKER: Maybe we called their bluff. Status, Mister Worf. 
-WORF [OC]: Navigational, life-support, propulsion normal. 
-[Shuttlecraft]
+RIKER: I don't want to hear that, Commander. 
+[Engineering]
 
-WORF: Onboard systems do not appear to be disrupted
-by the field, but I can barely read you, Commander. 
-RIKER [OC]: Acknowledged. Maintain 
+LAFORGE: Lefler, what's the resonance frequency? 
+GUEST1: Point three four over standard. 
+LAFORGE: I want a resolution of point five three at the very least.
+Commander, I'll need about two more minutes. 
 [Bridge]
 
-RIKER: Communications as long as conditions permit.
+LAFORGE [OC]: But there's a good chance this isn't
+going to work. 
+WORF: If it fails 
+RIKER: I know. We will have tipped our hand to the Tamarians. But it's
+a chance we have to take. 
+WORF: Agreed. 
+RIKER: La Forge. Proceed. 
+LAFORGE [OC]: We're on it. La Forge out. 
+RIKER: Riker to transporter room one.
 
-DATA: Commander. I am reading a power surge in the Tamarian plasma
-reactor. 
-RIKER: Lieutenant Worf! Evasive manoeuvre sequence delta! 
-[Shuttlecraft]
+[Transporter room]
 
-RIKER [OC]: Manoeuvre sequence delta.
+O'BRIEN: O'Brien here, Commander. 
+RIKER [OC]: Stand by, Mister O'Brien.
+
+[Planet surface]
+
+(a big something appears and disappears near them) 
+DATHON: Mirab, his sails unfurled? 
+PICARD: Come on. 
+DATHON: Shaka. When the walls fell. 
+(then the creature is behind them, and vanishes again) 
+DATHON: Shaka, when the walls fell. 
+PICARD: Shaka. You said that before. When I couldn't build a fire. Is
+that a failure? An inability to do something? 
+DATHON: Darmok and Jalad 
+PICARD: At Tanagra. I remember the words but I don't understand.
 

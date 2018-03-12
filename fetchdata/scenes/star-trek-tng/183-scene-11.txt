@@ -1,67 +1,57 @@
-PICARD DIRGO WESLEY
+RIKER LAFORGE WORF PICARD WESLEY COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cavern]
+[Bridge]
 
-(they emerge from tunnels into a lit cavern with a
-fountain in the middle) 
-DIRGO: I knew there had to be water. 
-(but he is stopped by a forcefield) 
-PICARD: Mister Crusher what was that? 
-WESLEY: It seems to be some kind of tightly confined annular force
-field, sir. 
-PICARD: Put there to protect the water. 
-WESLEY: Yes. There has to be a way to deactivate it, sir. 
-DIRGO: We can, with our phasers. 
-PICARD: Mister Dirgo, I think it would be wiser 
-(Dirgo fires at the forcefield) 
-WESLEY: Captain, the EM reading. The power level's really spiking now. 
-DIRGO: I think it's working. 
-PICARD: Dirgo! 
-(some things rush into the cavern, rather like the seraphim from
-Raiders of the Lost Ark) 
-PICARD: Stop firing! 
-(one of the things takes the weapon from Dirgo. Rocks are coming loose)
+COMPUTER: Warning. Radiation levels at three
+hundred millirads per minute and rising. Lethal exposure in one minute.
 
-PICARD: Wesley! 
-(Picard pushes Wesley aside then gets buried under falling rocks
-himself)
-
+LAFORGE: Ready, Commander. I'll be rotating the output of the auxiliary
+reactors, but it should still give us the power we need. 
+RIKER: Proceed, Mister La Forge. 
+LAFORGE: Increasing to three quarters impulse. 
+DATA: Shearing force is at one hundred three metric tons. Tractor beam
+is stable. 
+LAFORGE: Full impulse. 
+DATA: Tractor beam is holding. 
+COMPUTER: Warning. Lethal radiation exposure in thirty seconds. 
+WORF: We are within visual range of the asteroid belt. 
+RIKER: On screen. 
+COMPUTER: Warning. Lethal radiation exposure in fifteen seconds. 
+RIKER: Prepare to cut the barge loose. 
+COMPUTER: Warning. Lethal radiation exposure in ten seconds. 
+DATA: We have cleared the asteroids, sir. 
+RIKER: Let it go. 
 [Cave]
 
-(later, after they've dug him out again and moved
-him to a small side cave) 
-WESLEY: Apply pressure to that wound. (scans Picard) This is the worst
-break. 
-DIRGO: What was that thing? 
-WESLEY: Keep the pressure constant. 
-PICARD: Ensign, how bad is it? 
-WESLEY: Your right leg is broken. You have a fracture in your left arm.
-And you took a blow to the head. But we're getting the bleeding under
-control. 
-PICARD: Well done. I'm going to be fine. I just need to get my breath. 
-DIRGO: Are you telling the truth? 
-WESLEY: What truth? 
-DIRGO: He's bleeding inside. I've seen it before. He's never going to
-survive. 
-WESLEY: You don't know what you're talking about. 
-(pours alcohol on the cuts) 
-DIRGO: You're wasting your time. Will you save that dresci for us. 
-PICARD: Mister Dirgo, I would appreciate it if you didn't bury me
-before I'm gone. 
-(Dirgo storms off) 
-PICARD: The trouble is, he could be right. 
-WESLEY: No, he's not, sir. You're going to be fine. 
-PICARD: Wesley, you are going to have to keep a rein on Dirgo. He's
-wilful and stubborn. That's dangerous. 
-WESLEY: You'll handle him, sir. 
-PICARD: Wesley, listen to me. I have no feeling in my right leg. My
-vision is blurred. I'm going to get worse, not better. I'm not going to
-be able to help you. Now, you are going to have to stand up to Dirgo on
-your own. 
-WESLEY: Yes, sir. 
-PICARD: Hey. Good man. 
-First Officer's log, stardate 44307.6. Radiation
-levels on the Enterprise continue to rise. The ventilation system has
-started pumping hyronalin into our air supply to counteract the
-effects.
+PICARD: Cold. 
+WESLEY: When the sun went down, the temperature really dropped. This
+should help. 
+(Wesley heats rocks with a phaser) 
+PICARD: Good. Thank you. I'm not much good to you, Wesley. 
+WESLEY: Sir, Dirgo is dead. I should've tried harder to stop him, but
+he. Captain! Captain Picard! Sir, stay with me. 
+PICARD: I'm trying. 
+WESLEY: Sir, do you remember when we took the shuttlecraft to Starbase
+five one five? I was dreading it. Six hours alone with you. But it
+didn't turn out the way that I thought. You opened up to me. I kind of
+got to know you. 
+PICARD: Wesley, it's my fault that you're here. I shouldn't have asked
+you. 
+WESLEY: Sir, I'm honoured you wanted me along. 
+PICARD: I was selfish. I thought I wouldn't see you again. I'm sorry. 
+WESLEY: Sir, in the past three years I've lived more than most people
+do in a lifetime. I think I'm very lucky. no matter what happens. How
+many people get to serve with Jean-Luc Picard? Sir, you don't know
+this. No one knows this, because I never told anyone. All of the things
+I've worked for, school, my science projects, getting into the Academy,
+I've done it all because I want you to be proud of me. If there is one
+thing that I've learned from you, it's that you don't quit. And I'm not
+going to quit now. I've seen you think yourself out of worse problems
+than this, and I'm going to think us out of this. You're not going to
+die. I'm not going to let you die. I'll get to the water and I'll keep
+you alive until they find us. I promise.
+
+First Officer's log, supplemental. The Enterprise
+is returning to the last known location of the missing shuttlecraft.
 

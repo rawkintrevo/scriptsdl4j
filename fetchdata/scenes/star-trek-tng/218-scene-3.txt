@@ -1,31 +1,6 @@
-CRUSHER LAFORGE
+TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
-
-LAFORGE: At first I thought the catwalk was
-spinning. As it turns out, it was me. Luckily Ensign Fletcher was there
-to grab me. It's a long way down to the bottom of the warp core. 
-CRUSHER: You have all the symptoms of an inner ear infection. That
-would explain the dizziness and the headaches. But there's no physical
-evidence. My guess is you've been working too hard. 
-LAFORGE: I have been putting a lot of extra hours on this Typhon
-Expanse project. 
-CRUSHER: I'll give you twenty cc's of vertazine. That should clear up
-the dizziness. But finding time to relax is up to you. 
-LAFORGE: What? What is it? 
-CRUSHER: Geordi, have you had these symptoms before? 
-LAFORGE: No. 
-CRUSHER: You're sure? 
-LAFORGE: Yeah, I'm positive. Why? 
-CRUSHER: It's funny. I feel like we've discussed this before, and I
-remember giving you a hypospray for dizziness. 
-LAFORGE: I've never had these symptoms before today, so you must be
-thinking about another patient. 
-CRUSHER: No. I'm sure it was you. Well, try to get some rest, and try
-to stay away from high places for a few days, just in case. 
-LAFORGE: Thanks, Doc. 
-CRUSHER: Goodnight. 
-LAFORGE: Goodnight. 
 [Crusher's quarters]
 
 (Beverly is dead-heading a plant and sipping on a
@@ -34,3 +9,37 @@ the glass. Once she's settled down, she starts hearing lots voices all
 jumbled up. As she reaches to put on the lights again, she knocks over
 the glass, and it breaks)
 
+[Observation lounge]
+
+LAFORGE: As you can see, the Typhon Expanse is
+huge. If we want to chart the most remote star system, we'll have to
+launch a probe within the next few hours. 
+RIKER: Fine. What about the luminosity studies? 
+LAFORGE: That may pose a problem. 
+PICARD: How so? 
+LAFORGE: The flux spectrometers are still down for re-alignment. 
+RIKER: I thought they were supposed to be back online yesterday. 
+LAFORGE: They were, until the stellar dynamics lab decided they needed
+to install new modules. 
+DATA: I recommend we use a gravitron polarimeter. It will perform a
+similar function. 
+PICARD: Make it so, Mister Data. 
+CRUSHER: Captain, I have something I'd like to report. 
+PICARD: Yes, Doctor? 
+CRUSHER: I heard voices in my room last night. I was alone, so at first
+I thought I was imagining things. But this morning, ten other people
+reported hearing them at the same time I did. 
+TROI: What were the voices saying? 
+CRUSHER: I couldn't make them out. 
+RIKER: Data, did the sensors pick up anything unusual last night? 
+DATA: No anomalous readings were reported. 
+RIKER: When we're through here, re-check the sensor logs. 
+DATA: Aye, sir. 
+PICARD: Counsellor? 
+TROI: I sensed nothing unusual last night. 
+LAFORGE: Maybe it's a problem with the comm. system. 
+WORF [OC]: Bridge to Captain Picard. 
+PICARD: Go ahead. 
+WORF [OC]: We are getting unusual readings twenty thousand kilometres
+off the starboard bow. 
+PICARD: On our way. 

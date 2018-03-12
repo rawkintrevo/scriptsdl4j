@@ -1,87 +1,45 @@
-RIKER ISHARA WORF HAYNE PICARD TROI CRUSHER DATA
+RIKER WOMAN ISHARA PICARD GUEST3 OBRIEN GUEST4 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-RIKER: According to Hayne, the Coalition and the
-Alliance raid each other for supplies, much of it non-essential. 
-PICARD: Why? 
-WORF: A battle exercise. 
-RIKER: Their defences apparently prevent deep strikes into each other's
-territory. Minor skirmishes are all that's left. 
-PICARD: Coalition. Alliance. It all sounds so reasonable, but what
-you've described is the behaviour of urban street thugs. We certainly
-won't trade weapons for crewmen. How do you suggest we deal with them? 
-RIKER: We have to tell them something. 
-WORF: No promises, no denials. 
-PICARD: For now, Hayne's Coalition is our only safe access to the
-colony. We'll keep the door open, see where it leads us. 
-WORF: Captain. Transmission coming in from Turkana Four, on a secure
-channel. 
-PICARD: On screen. 
-HAYNE [on viewscreen]: Hello, Enterprise. Commander Riker, would you
-introduce me to your Captain? 
-PICARD: I'm Captain Jean-Luc Picard. 
-HAYNE [on viewscreen]: I have someone here you might like to meet. This
-is Ishara. Ishara Yar. 
-ISHARA [on viewscreen]: Tasha was my sister. 
-HAYNE [on viewscreen]: There's an old saying, Captain. The enemy of my
-enemy is my friend. I've decided it's in my best interest to help you
-get your crewmen back. 
-PICARD: With nothing from us in return? 
-HAYNE [on viewscreen]: You could be forced into paying my adversary a
-ransom in weapons. I'll do anything I can to avoid that possibility. 
-PICARD: What do you propose? 
-HAYNE [on viewscreen]: Ishara will be our liaison. 
-ISHARA [on viewscreen]: I know Alliance territory. I can help you with
-a rescue plan. 
-PICARD: One moment. 
-WORF: Mute. 
-PICARD: Reactions? 
-WORF: I do not trust him. 
-RIKER: She could be a fake. We told him a member of our crew was from
-the colony. 
-CRUSHER: All Hayne had to do was search through their database had on
-Starfleet to come up with Tasha's name. 
-PICARD: Counsellor? 
-TROI: He's deceiving us, and he's clearly hoping to manipulate us. As
-for the identity of the young woman, I can't really tell. 
-PICARD: Neverthe less, this is an option we cannot neglect. We'll
-continue on other fronts as they present themselves. For now, let's see
-what she has to say. 
-WORF: Open. 
-PICARD: I have decided to accept your proposal. 
-HAYNE [on viewscreen]: Thank you. Good luck.
+ISHARA: You have Tasha's DNA on file? 
+CRUSHER: The ship's computer does. There's always some differentiation
+between sonomic chromosomes, but not enough to affect results. It
+should take me a few hours to run the sonomic comparison. 
+(Crusher leaves) 
+ISHARA: That wasn't too bad. So, all that's left of my sister is a file
+in a computer. 
+DATA: Tasha exists in our memories as well. 
+ISHARA: How did she die? 
+DATA: Lieutenant Yar was killed on Vagra Two by a malevolent entity. 
+ISHARA: In battle? 
+DATA: No. She was killed as a demonstration of the creature's power,
+without provocation. 
+ISHARA: That's not how I intend to die. 
+(Riker enters) 
+RIKER: The Captain approves. You're with us.
 
+[Level 3C, 547]
+
+(The shuttlepod is under guard) 
+RIKER: Enterprise, we're in position. 
 [Transporter room]
 
-DATA: Welcome to the Enterprise, Ishara. I am
-Commander Data. 
-ISHARA: You're not human. 
-DATA: I am an android. 
-ISHARA: Built for fighting? 
-DATA: On what do you base that assumption? 
-ISHARA: A cybernetic device serving on a starship. 
-DATA: The Enterprise is not a ship of war. It is a ship of exploration.
+PICARD [OC]: Mister O'Brien, energise. 
+O'BRIEN: Aye, Captain. 
+[Tunnel]
 
-ISHARA: The first thing to do is help you map the colony. This is a
-general grid of the tunnel system. I can fill in the specific details
-from memory. 
-DATA: My orders are to escort you to the Observation Lounge. Please
-come with me.
+(Ishara is beamed into a tunnel and immediately the
+alarms go off.) 
+[Level 3C, 547]
 
-[Corridor]
-
-DATA: Your sister never spoke of you. 
-ISHARA: That's not surprising. 
-DATA: It is surprising to me. Tasha and I spent much time together. We
-had a considerable number of conversations. 
-ISHARA: Did she talk at all about the colony? 
-DATA: Only to say that she was lucky to have escaped. 
-ISHARA: It wasn't luck. It was cowardice. 
-DATA: Cowardice is a term that I have never heard applied to Tasha. 
-ISHARA: Is something wrong? 
-DATA: No. It is just that for a moment, the expression on your face
-reminded me of her. 
-ISHARA: It's been fifteen years. I don't even remember what she looked
-like.
-
+(The people guarding the shuttlepod start to move
+off, leaving just two behind) 
+GUEST3: They're at level two. 
+GUEST4: Tunnel sixteen. 
+GUEST3: Come on. 
+WOMAN: Josh, you're with us. 
+GUEST3: Spread out. 
+(Riker and Worf take out the remaining two guards, then Geordi gets to
+work) 

@@ -1,59 +1,38 @@
-RIKER KWAN LAFORGE WORF PICARD COMPUTER NARA DATA
+TROI GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-  [Bridge]
+[Crusher's office]
 
-DATA: We are losing containment in the starboard
-nacelle tube. 
-PICARD: Try to get more power to the field coils. 
-DATA: Aye, sir. 
-PICARD: Mister La Forge.
-
-[Engineering]
-
-PICARD [OC]: Report. 
-LAFORGE: I can't shut down the plasma injectors. Somebody's locked out
-the controls.
-
-[Bridge]
-
-DATA: The plasma venting system has engaged.
-
-[Jefferies tube]
-
-(climbing ladders) 
-WORF: Two more decks. 
-RIKER: Riker to Bridge. We've almost reached the nacelle tube. 
-PICARD [OC]: Acknowledged.
-
-[Bridge]
-
-PICARD: Release the exterior hull plate. We may
-have to jettison the core. 
-DATA: Aye, sir. 
-[Nacelle control]
-
-(there is a man poised to jump into the plasma) 
-RIKER: What happened? 
-NARA: (alien woman) He locked out the controls. Before we knew what was
-happening, he stepped up onto the walkway. 
-RIKER: (to Worf) See if you can help shut down the plasma flow. 
-NARA: I'm afraid if we try to get any closer, he will jump through the
-forcefield. 
-RIKER: Dan, it's me. It's Will Riker. I was here yesterday, remember? 
-KWAN: (alien man) I didn't want to do it. But I saw them. And they
-laughed at me. They laughed. 
-(Riker is on the walkway) 
-RIKER: Whatever happened, we can talk about it. I want to help. 
-KWAN: Stay away! 
-RIKER: I just want to see your face, that's all. So we can talk. 
-KWAN: I know what I have to do. 
-RIKER: Dan, no! 
-WORF: I have unlocked the controls. 
-COMPUTER: Shutdown procedure initiated. 
-NARA: There's still plasma in the injector. It'll take time to vent
-off. 
-RIKER: Tell me what happened. Maybe I can help. 
-KWAN: I know what I have to do. 
-(and he jumps into the plasma stream. Riker hits the bulkhead in anger
-and frustration and despair)
+GUEST0: I can't believe he's really gone. I keep
+thinking he's going to show up and tell me there's been some kind of
+terrible misunderstanding. 
+TROI: I thought you might like to know that in his personal logs, Dan
+talked about you a great deal. He loved you very much. 
+GUEST0: If that's true, then how could he leave me like this? 
+TROI: That's what I'm trying to find out. I know it's hard to talk
+right now, but it would be very helpful if you could tell me a few
+things about him. When was the last time you saw him? 
+GUEST0: Two nights ago. We were planning our next shore leave
+together. 
+TROI: Did he mention anything that had happened recently, anything that
+might have upset him? 
+GUEST0: No, not really. He did say something about work, about
+Lieutenant Nara, but it wasn't anything serious. 
+TROI: Nara. She's his superior officer in the nacelle tube? 
+GUEST0: Yes. Dan sensed that she, well, that she felt threatened by
+him. That she thought he was after her position. 
+TROI: Was he prone to mood swings or depression? 
+GUEST0: No, but he was very sensitive to other people's moods. He
+used to look at me and know exactly what I was feeling. I always loved
+that about him. 
+TROI: Well, Napeans are partially empathic. He may have inherited some
+of his mother's abilities. 
+GUEST0: He used to tease me that when I met her, I wouldn't be able
+to get away with anything. Dan and I knew each other for over two
+years, but we didn't get together until a few months ago. We took it
+slow. We thought we had all the time in the world. Something must have
+happened to him, Counsellor. Something terrible, because it's not like
+Dan to take his own life. 
+TROI: I understand. 
+GUEST0: Please, find out what it was.
 

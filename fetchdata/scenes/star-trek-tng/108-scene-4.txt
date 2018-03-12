@@ -1,49 +1,29 @@
-LAFORGE WORF TASHA PICARD GEORDI CRUSHER DATA
+TASHA PICARD RIKER LAFORGE GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sensor Maintenance]
+[Ready room]
 
-(Geordi and Worf are checking the screens in the
-small room) 
-LAFORGE: So, Worf, why the interest in this? It's just routine
-maintenance on the sensor assemblies. 
-WORF: Simple, Geordi. Our Captain wants his junior officers to learn,
-learn, learn. 
-LAFORGE: Not just the junior ones. Okay, you hold this relay offline
-while I adjust these sensor circuits. 
-TASHA [OC]: Security to Sensor Maintenance. 
-LAFORGE: Lieutenant La Forge here.
+LAFORGE: He was just monitoring the sensor console
+when he jerked as though something hit him. What my sensors showed was
+a glow, just for a second. I can't explain it. 
+PICARD: Could your Visor device have malfunctioned? 
+LAFORGE: I doubt it, sir. It seemed what I was seeing was something
+real.
 
-[Bridge]
+[Antican quarters]
 
-TASHA: We're making a close sensor pass on an
-unusual object, Geordi. Any problems? 
-GEORDI [OC]: Not at all, Lieutenant. All equipment on line and
-functioning. 
-TASHA: Sensors ready, sir. 
-PICARD: Life form reading? 
-DATA: No life form reading, sir. 
-PICARD: Begin the pass. 
-(The Enterprise approaches the blue cloud) 
-DATA: Sir, it is changing shape. 
-PICARD: Any readings of matter there? 
-DATA: Negative, Captain. Energy only. 
-(The Enterprise enters the cloud)
-
-[Sensor Maintenance]
-
-(Worf goes over to a wall panel, and puts his pen
-device on it. Blue energy goes up his arm and he cries out. Then he is
-flung back to the floor) 
-LAFORGE: Worf! La Forge to Sickbay. We havd a medical emergency in
-sensor maintenance. I repeat, this is a medical emergency. 
-(after the titles, Crusher and a medic dash in) 
-CRUSHER: What happened? 
-LAFORGE: I don't know. He got hit by some sensor feedback, maybe. 
-(Worf suddenly wakes up and starts fighting the medic. Geordi lies
-across him so Crusher can inject him) 
-LAFORGE: You got it, Doc? 
-CRUSHER: I got it. Lieutenant Worf, can you hear what I'm saying? Let's
-get him up. 
-GEORDI: Okay. Come on, big guy. On your feet. Here we go. That's it. 
-CRUSHER: (to medic) Are you okay?
+(The Anticans have long white eyebrows, and white
+facial hair, and have sharp teeth like a mongoose) 
+TASHA: Sorry to call you, sir. Not strictly security. It's about the
+dietary requirements of the Antican delegates. 
+RIKER: I thought that had been taken care of in advance, Tasha. 
+TASHA: So did we, sir. Their live animals were beamed aboard. We were
+going to preserve the meat for them, but they say we must bring it to
+them alive. 
+RIKER: Then do so. Lieutenant Yar was confused. We no longer enslave
+animals for food purposes. 
+GUEST0: But we have seen humans eat meat. 
+RIKER: You've seen something as fresh and tasty as meat, but
+inorganically materialised out of patterns used by our transporters. 
+GUEST0: This is sickening. It's barbaric.
 

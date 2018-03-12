@@ -1,42 +1,103 @@
-RIKER LAFORGE WORF TASHA PICARD TJON
+RIKER TASHA PICARD TJON GUEST3 WESLEY GUEST0 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Sickbay]
+
+(T'Jon and Romas pounce on the device) 
+CRUSHER: Can I help? 
+T'JON: No. 
+(T'Jon puts a hypo onto the device and sets it going) 
+GUEST3: Hurry up! 
+(T'Jon injects Romas, then himself. Their shakes vanish and they become
+very, very calm and relaxed. Totally blissed out, in fact, man) 
+CRUSHER: You're feeling better? 
+T'JON: Yes, thank you. I'm fine now.
+
+[Ready room]
+
+PICARD: Come. 
+(Beverly enters, face like thunder) 
+PICARD: Doctor. 
+CRUSHER: I may not know felicium's full effect on Ornarian physiology,
+but I know how to interpret physical reactions. 
+PICARD: Are the Ornarans recovering? 
+CRUSHER: T'Jon and Romas are feeling fine. In fact, too fine.
+Felicium's a narcotic. 
+PICARD: Then T'Jon, and Romas, indeed everyone on their world? 
+CRUSHER: Is a drug addict.
 
 [Bridge]
 
-WORF: Sir, the hull temperature of the freighter is
-passing three thousand degrees. 
-PICARD: What's the hold up, Number One?
-
-[Transporter room]
-
-RIKER: We're establishing the link right now. 
-T'JON [OC]: We're ready. 
-TASHA: Then all six of you, get on the transporter platform. On my
-signal, energise. I've got their initial transporter
-signal. Interlock complete. Energise on my mark. Four, three, two, one,
-energise. 
-(A big barrel arrives, no people) 
-PICARD [OC]: Number One, did you get them off? 
-RIKER: No, sir. They stayed in the freighter
-
-[Bridge]
-
-RIKER: But they beamed over their cargo. 
-PICARD: Cargo? Are those people crazy? What could possibly be so
-important? 
-WORF: Sir, the freighter is disintegrating. 
-PICARD: Their lives are in danger and they're beaming over cargo?
-Number One, I don't understand these people. 
-LAFORGE: Captain, the freighter's hull temperature is approaching
-critical. 
-[Transporter room]
-
-RIKER: Unbelievable. 
-PICARD [OC]: We're losing the freighter. Got to beam those people over
-now. 
-RIKER: Clear the cargo. Beam it to a hold. 
-TASHA: Aye, sir. 
-RIKER: Freighter Sanction, this is the Enterprise, Get to your
-transporter pad and. No, forget about that. Lock on to any life form
-you can find and get them over now. 
-TASHA: Trying, sir.
+RIKER: I think you'll find it's a fascinating tale
+that we've come across here, Captain. 
+PICARD: You've piqued my interest, Number One. Please continue. 
+RIKER: Data, what have we got? 
+DATA: Beginning several thousand years ago, the two worlds took
+different paths. Ornara became technologically sophisticated, Brekka
+did not. Then two hundred years ago, Ornara was stricken by a
+devastating plague. 
+RIKER: Their advanced technology could provide no solution. 
+DATA: Somehow, and there is limited information on this point, the cure
+was found in a plant indigenous to only Brekka, and which resisted all
+attempts at cultivation on Ornara. 
+RIKER: In any case, a trading situation developed which still exists. 
+CRUSHER: A nice arrangement for the Brekkians. 
+RIKER: And for the Ornarans. Without the medicine, they would all die. 
+CRUSHER: No they wouldn't. Despite what the Ornarans have been saying,
+it's not a medicine. It was a medicine, but it cured the plague two
+hundred years ago. The plague is irrelevant now. It doesn't exist. 
+RIKER: Then why are they so desperate for the felicium? 
+CRUSHER: It's an addiction. The physical and psychological need is very
+real. 
+PICARD: Thank you. 
+CRUSHER: What are you going to do? 
+PICARD: Based on what we know so far, there's nothing I can do. 
+CRUSHER: You don't think drug addiction and exploitation is sufficient
+cause to do something? 
+PICARD: This situation has existed for a very long time. These two
+societies are intertwined in a symbiotic relationship. 
+CRUSHER: With one society profiting at the expense of the other. 
+PICARD: That's how you see it. 
+CRUSHER: I can synthesise a non-addictive substitute which will ease
+their withdrawal symptoms. 
+PICARD: No, I can't do that either. 
+CRUSHER: You can't let them have the felicium. 
+PICARD: Why? Because it offends against our sensibilities? It is not
+our mission to impose Federation or Earth values on any others in the
+galaxy. 
+CRUSHER: Well in this case, Captain, I disagree, one hundred percent. 
+TASHA: Captain, I'm receiving a call from Ornara. The signal is ragged,
+but I think I can put it on the viewscreen. 
+PICARD: Do it. 
+GUEST0 [on viewscreen]: I'm Margan. Are my people on board your ship? 
+PICARD: Some of them, yes. 
+GUEST0 [on viewscreen]: May I speak to them? 
+PICARD: Yes. Lieutenant Yar, have the Ornarans brought in. No, wait, I
+don't want them to have access to the Bridge. We will contact you in a
+few minutes. (end transmission) I will continue this in the guest
+quarters. Commander, Doctor. 
+(Picard, Riker and Crusher leave) 
+WESLEY: Data, I can understand how this could happen to the Ornarans.
+What I can't understand is why anyone would voluntarily become
+dependent on a chemical. 
+DATA: Voluntary addiction to drugs is a recurrent theme in many
+cultures. 
+TASHA: Wesley, no one wants to become dependent. That happens later. 
+WESLEY: But it does happen. So why do people start? 
+TASHA: On my home planet, there was so much poverty and violence, that
+for some the only escape was through drugs. 
+WESLEY: How can a chemical substance can provide an escape. 
+TASHA: It doesn't, but it makes you think it does. You have to
+understand, drugs can make you feel good. They make you feel on top of
+the world. You're happy, sure of yourself, in control. 
+WESLEY: But it's artificial. 
+TASHA: It doesn't feel artificial until the drug wears off. Then you
+pay the price. Before you know it, you're taking the drug not to feel
+good, but to keep from feeling bad. 
+WESLEY: And that's the trap? 
+TASHA: All you care about is getting your next dosage. Nothing else
+matters. 
+WESLEY: I guess I just don't understand. 
+TASHA: Wesley, I hope you never do. 
+PICARD [OC]: Lieutenant Yar, we're ready in the guest quarters.
 

@@ -1,28 +1,38 @@
-PICARD DATA BARCLAY
+PICARD RIKER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Data's quarters]
+[Bridge]
 
-BARCLAY: Me? 
-DATA: It is possible that it will take several days for Captain Picard
-and me to complete our mission. I would prefer to have a human present
-to supervise the birthing process. 
-BARCLAY: Well, I'd be honoured. 
-DATA: I have noticed that you are the only other member of the crew
-whom Spot seems to like. 
-BARCLAY: Really? That's hard to believe. You're such a sweet little
-kitty. 
-DATA: She is to you. However, there have been several injuries to other
-members of the crew who have attempted to care for her. 
-BARCLAY: So, has she picked a place? 
-DATA: A place? 
-BARCLAY: Cats usually like to pick a specific location to give birth.
-It's usually dark and secluded, and I believe this is it. 
-(Barclay drops Spot down behind a chair) 
-BARCLAY: I'm curious, sir. Who's the father? 
-DATA: I am not certain. Spot has escaped from my quarters on several
-occasions and there are twelve male felines on board. I intend to run a
-full DNA analysis on the kittens once they 
-PICARD [OC]: Picard to Data. Report to Shuttlebay two. 
-DATA: On my way, sir. Goodbye, Spot. I believe you are in good hands. 
-BARCLAY: You have nothing to worry about, sir.
+WORF: The next test will involve the new photon
+torpedoes. The explosive yield has been increased by eleven percent and
+I have enhanced the targeting system for increased accuracy. 
+PICARD: Sounds fascinating, Mister Worf. Please proceed. 
+WORF: Setting targeting coordinates zero zero five mark three one
+seven, spread pattern delta nine four. Torpedoes armed and loaded, sir.
+
+PICARD: Fire when ready. 
+(only two of the three find their targets in the asteroid belt) 
+RIKER: Worf? 
+WORF: One of the torpedoes has veered off course. It appears to be a
+malfunction in the guidance system. 
+PICARD: Abort and destroy. 
+WORF: The torpedo is not responding. Subspace detonator will not
+engage. 
+RIKER: Lock on phasers. 
+WORF: The torpedo is out of range. 
+RIKER: Even for your newly improved phasers? 
+PICARD: Maintain a sensor lock on the torpedo, Mister Worf. We'll have
+to go after it. 
+DATA: That would be inadvisable, sir. The asteroid field is unusually
+dense. The Enterprise is too large to safely navigate through it. 
+PICARD: Then I'll take a shuttlecraft and retrieve it. Mister Data,
+you're with me. 
+RIKER: Captain, the shuttle pilot who's on duty is Lieutenant Hayes. 
+PICARD: I happen to be a reasonably qualified pilot, Number One.
+Besides, these tests hardly require the Captain's personal attention. 
+RIKER: Understood. Enjoy yourself. 
+PICARD: Mister Worf, I think that you should consider analysing your
+new guidance system. 
+DATA: Captain, I will need a few minutes to attend to a personal
+matter.
 

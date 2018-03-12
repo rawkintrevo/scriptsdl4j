@@ -1,65 +1,32 @@
-BOOTHBY PICARD DATA LAFORGE
+WESLEY GUEST4 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Academy gardens]
+[Academy hearing room]
 
-(Boothby is trying to pull grass out of the middle
-of a shrub) 
-BOOTHBY: These weeds keep popping up in the pittosporum. Poor plants
-don't have a chance to grow. 
-PICARD: You could use a good herbicide instead of pulling the weeds
-with your bare hands. 
-BOOTHBY: And you could explore space on a holodeck instead of a
-starship. 
-PICARD: Boothby, tell me some more about Nova Squadron. 
-BOOTHBY: Not going well, is it. 
-PICARD: No, it isn't. 
-BOOTHBY: Do you remember the parrises squares tournament of 'twenty
-four? 
-PICARD: The final game against Minsk. 
-BOOTHBY: It took me three weeks to repair the grounds after the
-celebration. 
-PICARD: We had a lot to celebrate. Our team wasn't supposed to win. We
-were very proud of them. 
-BOOTHBY: Well the cadets today are just as proud of the Nova Squadron.
-The celebration they held after Nova won the Rigel Cup made 'twenty
-four look like a dinner party. To the other cadets, the members of that
-team are gods, and that's a hard image to live up to. But Nick Locarno,
-he watches out for them. He keeps them together. Nick is what makes
-that team special. He's their coach, surrogate father and best friend
-all in one. A natural leader. The members of that team love him. If he
-asks them to do something, they do it, even if it means going right
-over a cliff.
-
-[Engineering]
-
-(Picard and Crusher enter) 
-PICARD: Report. 
-LAFORGE: Nothing conclusive. We do know that the collision occurred
-about four seconds after the satellite images were recorded, but we
-still don't know how the ships got into the new formation or why the
-crash occurred. 
-DATA: We unsuccessfully tried fifty three different computational
-models in an effort to simulate the movements of the Nova Squadron just
-prior to the crash. 
-LAFORGE: There're just too many variables to take into consideration.
-Speed, attitude, course. 
-PICARD: Did Wesley's flight recorder indicate that there was anything
-unusual about the ship or the way it was operating? 
-LAFORGE: The starboard power flow was fluctuating. 
-DATA: However it was well within operational limits. 
-LAFORGE: Fluidic pressure in the landing struts was low, but I don't
-know what difference that would make. 
-DATA: We did find that Wesley opened his coolant interlock just before
-beginning the manoeuvre around Titan. 
-LAFORGE: That is a bit unusual. Normally the interlock is closed unless
-you're performing a check on the engine coolant levels. But there's no
-evidence Wesley was performing that sort of check. 
-PICARD: Filling the primary coolant tanks requires an open interlock
-but that can only be performed in a maintenance bay. Is there any other
-reason for opening the valve? 
-LAFORGE: It's the first step in purging the plasma exhaust. 
-DATA: That procedure would be extremely hazardous while the ship was in
-flight. 
-LAFORGE: Yeah, the engine would probably ignite the plasma. 
-PICARD: Ignite the plasma. That's exactly what they were trying to do.
+GUEST4: Captain Satelk and I have gone over your
+testimony and the physical evidence from the crash. Your statements
+cannot be reconciled with the data collected from the NavCon satellite.
+Your unwillingness to offer any explanation for this contradiction is
+disappointing, and raises suspicion. We cannot escape the conclusion
+that either the data is faulty in some way, or you have lied to us.
+However suspicion is not proof and I have no proof that you have lied
+to this inquiry. Therefore, if no further evidence is presented, I have
+no choice but to close this investigation. For filing an inaccurate
+flight plan, and for allowing Cadet Albert to fly when you knew he was
+having difficulties, I am ordering a formal reprimand placed on each of
+your permanent records. I am also revoking your flight privileges. This
+inquiry is closed. 
+WESLEY: Sir. I would like to add something to my testimony. 
+GUEST4: Proceed, Mister Crusher. 
+WESLEY: Yesterday I testified that the crash occurred following a
+Yeager loop. That is not entirely true. We performed a loop, and
+afterwards broke formation and attempted a Kolvoord Starburst. We knew
+it was prohibited. We knew it was dangerous, but we wanted to do
+something spectacular for the commencement demonstration. We pushed
+Josh into it and he wasn't ready. We thought we could do it. We thought
+we could do anything. We were wrong, and Josh died. Josh didn't let us
+down, sir. It wasn't his fault. 
+GUEST4: Mister Locarno, you are the leader of Nova Squadron. Do you have
+anything to say? Mister Locarno? 
+GUEST1: No, sir.
 

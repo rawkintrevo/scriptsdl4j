@@ -1,61 +1,50 @@
-PICARD MARIE RENE
+GUEST1 OBRIEN WORF GUEST3 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Road]
+[Transporter room]
 
-(Picard walks down a tree lined road in the
-sunlight and breeze) 
-PICARD: All right, whoever you are, I can hear you. 
-(A boy comes out from behind the bushes) 
-PICARD: Oh, good lord, a highwayman. 
-RENE: A what? 
-PICARD: A highwayman. It's a robber who attacks travellers, but none
-have been reported in this vicinity for centuries. 
-RENE: But I'm not a robber. 
-PICARD: I am much relieved, sir. 
-(They walk together) 
-RENE: I know who you are. 
-PICARD: Then, you have the advantage. 
-RENE: You're my nephew, Jean-Luc. From the starship Enterprise. 
-PICARD: Then you must be my uncle Rene. 
-RENE: I'm not your uncle. It's the other way around. 
-PICARD: Too bad. I rather enjoyed the idea. 
-RENE: Why have you been away so long? 
-PICARD: Well, Starfleet keeps me very busy. 
-RENE: Father says you don't like it here. 
-PICARD: I'm sure you misunderstood. 
-RENE: No, I didn't. He said so. 
-PICARD: Well, Robert and I, we. Perhaps it's time to change all that. 
-RENE: You know, you don't seem so arrow. Arrow. You know. 
-PICARD: Arrogant? 
-RENE: Yes, arrogant. You don't seem that way to me. What does it mean
-anyway, arrogant son of a 
-PICARD: Let's talk about that later, shall we? 
-(Rene runs into a courtyard. There are big oak casks in an arcade) 
-RENE: Mummy! He's here! Mummy, he's here! 
-MARIE: Jean-Luc! 
-PICARD: Marie. 
-MARIE: It is so good to finally meet you. 
-PICARD: For me, too. 
-MARIE: How are you feeling? 
-PICARD: Oh, I'm fine. 
-MARIE: Well, Robert and I are delighted that you've come to stay with
-us. 
-PICARD: I was, I was thinking I, I might be imposing. I could very
-easily stay in the village. 
-MARIE: I wouldn't hear of it. It's your home and it will always be your
-home. Do things look that different? 
-(Mock Tudor Nouveau, with first floor protruding over the ground floor,
-tall brick chimney stacks) 
-PICARD: No. In fact, it's amazing how little it has changed. Everything
-is exactly as I remember it. The house, the hills, every tree, every
-bush seems untouched by the passage of time. 
-MARIE: Robert's worked hard to keep it that way. It's very important to
-him. 
-PICARD: As it was to our father. 
-RENE: Someday I'm going to be a starship captain. 
-PICARD: You look exactly like Robert when he was your age. I half
-expect to see myself as a boy come running out that door to play. 
-MARIE: Robert can't wait to see you. 
-PICARD: Rene already told me. Where is he? 
-MARIE: As usual, with his vines.
+WORF: They still have not signalled? 
+O'BRIEN: No sir. 
+WORF: My mother is never on time. It is so human of her. 
+O'BRIEN: Well, you know women. 
+WORF: I am not looking forward to this. I wish they would come so it
+would begin and end sooner. 
+O'BRIEN: I know what you mean, Lieutenant. 
+WORF: Unlikely. 
+O'BRIEN: Last time my old man was on board I found him chasing Nurse
+Stanton around a biobed in Sickbay. 
+WORF: I am not concerned about my father chasing nurses. 
+O'BRIEN: Yeah, but it's always something with parents, isn't it. 
+GUEST3 [OC]: Enterprise, this is Earth Station Bobruisk. Two to
+transport aboard. 
+O'BRIEN: Energising. 
+(A big, stocky silver-haired man, and a mature woman with lots of brown
+hair appear) 
+WORF: Mother. Father. 
+GUEST2: Worf! 
+GUEST1: You look good, son. Put on a little weight, huh? 
+WORF: No. 
+GUEST1: Sure you have. Looks good on you. Still working out with those
+Holodeck monsters, I bet. 
+WORF: Let me take you to 
+GUEST1: Always good to meet another Chief Petty Officer. Sergey
+Rozhenko, formerly of the USS Intrepid. 
+(shakes hands) 
+O'BRIEN: Miles Edward O'Brien, sir. Good to meet you. 
+GUEST1: Don't call me sir. I used to work for a living. 
+GUEST2: He's joking. The proudest day of his life was when Worf earned
+his commission. 
+GUEST1: Can you imagine an old enlisted man like me raising a boy to be
+an officer? 
+GUEST2: Come on, Sergey. There's plenty of time to chat with the boys.
+Your father has been so looking forward to this. 
+GUEST1: Yes, I want to see everything. The whole ship. At home I have
+all the specs and diagrams of the Galaxy-class starships. 
+WORF: We are in the midst of a repair. I cannot give you a complete
+tour. 
+GUEST1: I'm sure if you asked the Captain 
+GUEST2: You agreed not to embarrass him. Besides, we have come to see
+Worf, not the ship. 
+GUEST1: Fine. Fine. Okay. 
+GUEST2: Your hair's a little longer, isn't it, Worf?
 

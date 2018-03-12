@@ -1,62 +1,43 @@
-VENDOR BELL PICARD MCNARY WHALEN DATA
+TROI LAFORGE GUEST10 PICARD GUEST7 RIKER WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Outside Holodeck]
 
-(In trench coat and fedora, Picard looks the part) 
-PICARD: Ready for San Francisco, Mister Whalen? 
-WHALEN: More than ready, sir. 
-PICARD: Well, if it's anything like the last time, I'm sure you won't
-be disappointed 
-DATA: Request permission to accompany you, sir. I am totally versed in
-the genre of the period. 
-PICARD: Well, shall we?
+LAFORGE: LaForge to Bridge. 
+RIKER [OC]: Riker here. 
+LAFORGE: I can't find the Captain, sir. 
+RIKER [OC]: I told you, he's in the holodeck.
+LAFORGE: I'm at the holodeck. Something's gone wrong.
+RIKER [OC]: What are you saying? 
+LAFORGE: I can't communicate with him, I can't access the programme,
+and I can't open the doors.
 
-[Street]
+Enterprise log, supplemental. First Officer
+reporting. Due to an unknown breakdown in the holodeck, we are unable
+to contact the Captain.
 
-(It has been raining, the tarmac glistens and cars
-sound their horns) 
-VENDOR: Extra! Extra! Read all about it. 
-(The group cross the street to the news stand) 
-VENDOR: Hey Dix. How's tricks? 
-PICARD: Oh, she's fine, fine. 
-WHALEN: He actually thinks you're Dixon Hill. 
-PICARD: Say Mac, I would like to buy a newspaper too, but I don't have
-any money. 
-VENDOR: You catch me next time, Dix. 
-PICARD: Thank you. (reads) Hitler on the move. Roosevelt presses
-Congress for British aid. DiMaggio streak reaches thirty seven? 
-DATA: DiMaggio, sir. Jolting Joe, the Yankee clipper. 
-WHALEN: Baseball, sir. It was a national obsession at the time. 
-DATA: The streak they refer to will eventually reach fifty six games.
-And be snapped by a pair of journeyman hurlers for the Cleveland
-Indians. 
-VENDOR: Cleveland? Ha! They got no pitchers! They ain't never got no
-pitchers. What are you, nuts or something? 
-DATA: The record will stand until the year 2026, when a shortstop for
-the London Kings 
-VENDOR: Hey Dix, what gives with this guy? He's not from around here,
-is he. 
-PICARD: No he's not. He's er, he's from South America. 
-VENDOR: Yeah. He's got a nice tan. 
-(Picard reads the inside headline - Wealthy Socialite Murdered. Police
-have several leads in brutal slaying of Mrs. Arthur Clinton Bradley) 
-PICARD: I should have listened to her. She told me someone was trying
-to kill her. 
-WHALEN: Captain, she's a page from a book. That's all she ever was. 
-BELL: Well, well, look what the cat dragged in. 
-DATA: Cat? 
-BELL: Where the hell did he come from? 
-VENDOR: South America. Can't you tell? 
-BELL: Wherever you're from, while you're in my town, keep your nose
-clean. Well, tough guy, this time you've really done it. Your goose is
-cooked but good. 
-MCNARY: I'm sorry about this, Dix. 
-BELL: Don't apologise to him. Where were you last night between ten and
-midnight? 
-PICARD: That would be a bit hard to explain. 
-BELL: Yeah? Well you'll have plenty of time to come up with something.
-You're going downtown. 
-PICARD: What for? 
-BELL: For the murder of Jessica Bradley. We found this in her purse.
-(the business card)
+[Bridge]
+
+RIKER: Tasha, take over. I'm going to holodeck
+three. 
+WESLEY: Commander? I've studied all the technical manuals on the
+holodecks, sir. I think I can be of some help down there. 
+RIKER: Geordi's well equipped to deal with the situation, Wes. Right
+now, your duty's here on the Bridge.
+TROI: Will. His mother's missing too. 
+RIKER: Come on, Wesley. 
+[Interrogation room]
+
+GUEST10: And you say you never met her before she came
+to hire you. 
+PICARD: I've already told you that twice. 
+GUEST10: Yeah? Well you're going to have to tell me again. 
+PICARD: Look fellas, this is no longer amusing. 
+GUEST7: Easy, Dan! 
+GUEST10: You think you're tough, Hill, but you're nothing! 
+(Bell leaves) 
+GUEST7: Don't take him too seriously, Dix. His old lady's been giving
+him a hard time. You know how it is. 
+PICARD: Actually, I do need to get out of here. 
+GUEST7: I'll see what I can do.
 

@@ -1,74 +1,32 @@
-WOMAN PICARD NERAL SPOCK ROMULAN PARDEK
+PICARD SPOCK
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Romulan office]
+[Romulan cavern]
 
-NERAL: Enter.
-PARDEK: Proconsul?
-NERAL: Yes. Pardek, come in. 
-PARDEK: Ambassador Spock of Vulcan. 
-SPOCK: Proconsul.
-NERAL: Please. I've never liked titles since I was a lowly Uhlan in the
-Romulan guard. I am Neral. How is it again, Pardek's tried to show me.
-(they swap hand gestures) 
-SPOCK: I am honoured.
-NERAL: Good.
-PARDEK: Permit me to withdraw.
-NERAL: Will we see you and your wife tomorrow at the state dinner?
-PARDEK: We're looking forward to it.
-(Pardek leaves) 
-NERAL: It's been years since old Pardek's been invited to an official
-function. He's far too attached to the common man for most peoples'
-comfort.
-SPOCK: That is their loss. I have found Pardek to have a unique insight
-into many issues.
-NERAL: Let me tell you something, Spock. We're going to start something
-here, you and I, that will redraw the face of the quadrant.
-SPOCK: Are you prepared to support reunification?
-NERAL: I believe it must eventually come. Our two worlds need each
-other.
-SPOCK: Forgive me, I did not expect to hear a Romulan Proconsul speak
-like a member of your underground.
-NERAL: I want you to know exactly where I stand.
-SPOCK: And do you believe that you can gain the support of your full
-Senate?
-NERAL: Things are not what they once were in the Senate. The old
-leaders have lost the respect of the people. Involvement in the Klingon
-War, endless confrontations with the Federation, they're tired of it.
-Times are changing, and leaders who refuse to change with them will no
-longer be leaders. Spock, I am prepared to publicly endorse the opening
-of talks between our peoples. What do you think the Vulcan people think
-of that?
-SPOCK: They will be cautious. There are generations of distrust to
-overcome.
-NERAL: But surely with a man of your influence leading the way?
-WOMAN [OC]: Proconsul, the Senate has been recalled into session.
-NERAL: Very well. Can we meet again tomorrow?
-SPOCK: As you wish.
-NERAL: Good. Jolan tru, Spock. Oh. Live long and prosper.
-
-[Romulan caves]
-
-ROMULAN 1: It's everything we could have hoped for.
-
-SPOCK: It is more than we could have hoped for.
-PARDEK: But if Neral is ready to publicly endorse reunification. 
-PICARD: It's hard to believe that he could rise to the rank of Senate
-Proconsul without the support of the Romulan traditionalists.
-PARDEK: That may be true.
-PICARD: Then how can he turn his back on them so easily? How can he
-endorse reunification when it's considered subversive?
-ROMULAN 1: Because he's not afraid of them. He knows that we'll support
-him. 
-SPOCK: Captain Picard is correct. It is not logical for the Proconsul
-to support reunification at this time.
-WOMAN 2: Why would Neral lie?
-PICARD: Perhaps because he's hoping to expose members of your movement.
-
-WOMAN 2: No, this is our chance for acceptance. Finally to be heard.
-ROMULAN 1: I believe it's the Federation that fears an alliance between
-Romulus and Vulcan.
-PICARD: That is not true. 
-SPOCK: I came here to determine the potential for reunification. In
-spite of what has occurred, I intend to continue with my efforts. I
-intend to meet with the Proconsul as planned.
+PICARD: You let their emotion sway you. 
+SPOCK: On the contrary, I am pursuing the most logical course.
+PICARD: You are as sceptical as I am. Is it logical to ignore your own
+good sense?
+SPOCK: I fear the influence of Sarek has coloured your attitudes,
+Captain, toward reunification and perhaps toward me.
+PICARD: That is the second time you have accused me of speaking with
+another man's voice. It's true he will always be a part of me. His
+experiences, his spirit. But I speak with my own voice, not his.
+SPOCK: Curious that I should hear him so clearly now that he is dead.
+It is possible that I have brought my argument with Sarek to you,
+Captain. If so, I apologise.
+PICARD: Is it so important that you to win one last argument?
+SPOCK: No, it is not. But it is true that I will miss the arguments.
+They were, finally, all that we had.
+PICARD: But your fight with Sarek is over, Spock, and you have none
+with me.
+SPOCK: I always had a different vision than my father. The ability to
+see beyond pure logic. He considered it weak, but I have discovered it
+to be a source of extraordinary strength. Sarek would have seen this
+mission of reunification as a fool's errand, but somehow I think it is
+not. Logic cannot explain why, I know that I must pursue this. 
+PICARD: Even if it leads you into a Romulan trap. 
+SPOCK: If the Romulans do have an ulterior motive, it is in the
+interests of all concerned that we determine what it is. So, I will
+play the role that they would have me play.
 

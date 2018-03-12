@@ -1,32 +1,33 @@
-KYLE WORF ALEXANDER
+PICARD CRUSHER KYLE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Ready room]
 
-WORF: Did you enjoy going to school on Earth? 
-ALEXANDER: Yes. 
-WORF: Did you like your teachers? 
-ALEXANDER: Yes. 
-WORF: Good. I understand you lived in my old room. 
-ALEXANDER: Ah ha. 
-WORF: Good.
-
-[Mrs. Kyle's office]
-
-KYLE: Come in. Lieutenant Worf. Very nice to see
-you again. And you must be Alexander. I hear you'll be coming to school
-with us for a while? Well, we're very excited to have you with us. I
-know the other boys and girls will be happy to have a new classmate.
-First I need to get a little information from you. Let's start with
-your name. Alexander Rozhenko. That's a tough one. Maybe you can help
-me with that. Could you spell your last name for me? 
-(but Alexander is too busy looking around the room) 
-WORF: Alexander. The teacher asked you a question. 
-KYLE: It doesn't matter. I think I can figure it out. Date of birth? 
-(Worf doesn't know) 
-ALEXANDER: The forty third day of Maktag, stardate 43205. 
-WORF: Yes. Yes, of course. 
-KYLE: I'll get the rest of his personal records from the school on
-Earth, and, oh, one last question. How long will he be staying aboard
-ship? 
-WORF: It has not been decided.
+PICARD: Come. Mister Worf, I thought our meeting
+was scheduled for eleven hundred hours. 
+WORF: I apologise for being late, Captain. I was detained in school. I
+was enrolling my son in class. 
+PICARD: I see. Well, Mister Worf, as you're aware, several new security
+officers will be transferring to the Enterprise next week and I would
+like to discuss. 
+KYLE [OC]: Kyle to Lieutenant Worf. 
+WORF: Worf here. 
+KYLE [OC]: I'm sorry to bother you again, Lieutenant, but I forgot to
+mention that we need to arrange for a series of placement examinations
+for Alexander. If you could tell me when 
+WORF: This is not a good time. I will contact you shortly, Miss Kyle.
+Sorry, Captain. 
+PICARD: I would like to discuss with you the specific areas of ship's
+security that I would like 
+CRUSHER [OC]: Sickbay to Worf. 
+WORF: Yes, Doctor? 
+CRUSHER [OC]: I need to schedule a physical examination for Alexander.
+I also need his complete medical records from Earth and the medical
+records of his 
+WORF: I would rather discuss this at a later time. 
+CRUSHER [OC]: There's no rush. Crusher out. 
+PICARD: Mister Worf. You are not the first officer on this ship to have
+a new family member. Take care of your son. The security matters can
+wait. 
+WORF: Thank you, Captain.
 

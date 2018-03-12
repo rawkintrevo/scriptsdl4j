@@ -1,4 +1,5 @@
-RIKER LAFORGE PICARD COMPUTER DATA QUINTEROS
+RIKER LAFORGE PICARD COMPUTER DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -16,18 +17,18 @@ PICARD: Thank you, Number One. Well done. And well done all.
 COMPUTER: Starbase maintenance approaching airlock
 five. 
 (The airlock door opens) 
-QUINTEROS: Commander Quinteros. Request permission to come aboard. 
+GUEST0: Commander Quinteros. Request permission to come aboard. 
 PICARD: Granted. Welcome. 
-QUINTEROS: Captain. 
+GUEST0: Captain. 
 PICARD: Commander Riker. 
 (The group head down the corridor, including a pair of 'mirror image'
 small humanoids) 
-QUINTEROS: Commander. You're late. We expected you a week ago. 
+GUEST0: Commander. You're late. We expected you a week ago. 
 RIKER: We were unexpectedly delayed at Omicron Pascal. 
-QUINTEROS: Is there anything specific you wish to report, or that we
+GUEST0: Is there anything specific you wish to report, or that we
 should be aware of? 
 PICARD: No. We are very pleased with the operation of the Enterprise. 
-QUINTEROS: I knew you would be - I was in charge of the team which put
+GUEST0: I knew you would be - I was in charge of the team which put
 her together. 
 RIKER: And are these gentlemen the Bynars?
 

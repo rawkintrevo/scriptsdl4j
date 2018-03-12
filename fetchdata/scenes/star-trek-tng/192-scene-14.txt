@@ -1,53 +1,44 @@
-LAFORGE COMPUTER HICKMAN OGAWA CRUSHER DATA SUSANNA
+RIKER WORF PICARD COMPUTER CRUSHER DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Bridge]
 
-HICKMAN [on monitor]: One to transport. 
-SUSANNA [on monitor]: I want to make another sweep of the perimeter. La
-Forge, you start at building four. Mendez and Brevelle begin at two.
-I'll take five. 
-(and the log ends) 
-LAFORGE: All right, computer. Analyse audio elements from time index
-fourteen four seven to fifteen five eight. List all anomalies. 
-COMPUTER: No audio anomalies present. 
-LAFORGE: Any subspace projections, z-particle emissions,
-interferometric frequencies? 
-COMPUTER: No subspace projections present. No z-particle emissions
-present. No interferometric patterns present. 
-LAFORGE: Damn. 
-DATA: Geordi. May I inquire how your investigation is proceeding? 
-LAFORGE: It's not. 
-DATA: Have you attempted an audio analysis? 
-LAFORGE: Yes, Data. And a spectrographic analysis, and a screen for
-ionising radiation. I even ran an enhancement for micro-seismic
-disturbances. I've tried it all, okay? I'm sorry, Data. 
-DATA: There is no need for an apology. Perhaps if you indulged in a
-brief rest period, you would be able to approach this problem with a
-fresh point of view. 
-LAFORGE: Yeah, you're probably right, Data, but I've got to keep
-scanning these records while I can. 
-DATA: May I can assist you? 
-LAFORGE: If I knew what I was looking for. Rally, Data, I think it's
-just a matter of me going over it, maybe finding something I forgot.
-I'll let you know if I come across anything, all right? All right,
-computer, one more time.
-
+DATA: I am showing no transporter activity. 
+WORF: All shuttles are secure. 
+RIKER: Negative. There's no indication that he's left the ship. 
+PICARD: Computer, what was the last known location of Commander La
+Forge? 
+COMPUTER: Holodeck three. 
+(Riker and Worf leave) 
+CRUSHER [OC]: Captain, if Geordi has transformed, he may be virtually a
+chameleon. 
 [Sickbay]
 
-OGAWA: Sorry to disturb you, Doctor. 
-CRUSHER: That's all right. What's happened? 
-OGAWA: I thought you should see this. 
-(Alyssa shines a torch on Susanna) 
-CRUSHER: Her skin is simulating light. A radiant reaction. Some sort of
-mimetic ability? 
-OGAWA: That's not all. Her body temperature is dropping. 
-CRUSHER: It's as if she's generating a disruptive field. I can barely
-get any readings off her now. What's her rate of transformation? 
-OGAWA: It's increasing. 
-CRUSHER: That's not possible. It should have been inhibited by the
-T-cell stimulator. Unless. If there's a foreign body inside her that's
-producing these changes, something like a viral crche. 
-OGAWA: A very small one if our scans haven't found it. 
-CRUSHER: I want a full genetic analysis. We're going to examine any
-abnormality we find no matter how insignificant it seems.
+CRUSHER: The skin develops mimetic capabilities. He
+may still be on board, but undetectable to our sensors.
 
+[Holodeck - Tarchannen]
+
+(Worf, Riker and two security guards enter) 
+WORF: You search the structure. I will take the perimeter. 
+(Worf walks around the buildings and comes back with a uniform) 
+WORF: Commander. 
+RIKER: Geordi's uniform.
+
+[Transporter room]
+
+(the door opens, and a transparent blur rushes in) 
+GUEST3: Security. We have an intruder in transporter room six. Argh. 
+(the blur operates the controls)
+
+[Bridge]
+
+DATA: Captain, the security lockout on Transporter
+room six has been broken. 
+PICARD: Re-engage now. 
+DATA: I cannot, sir. The transporter cycle has already begun.
+
+Captain's log, stardate 44668.1. Doctor Crusher's
+research indicates that we have less than an hour before Commander La
+Forge's transformation becomes irreversible. However, all attempts to
+locate him on the surface have failed. 

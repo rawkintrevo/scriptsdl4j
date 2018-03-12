@@ -1,50 +1,26 @@
-PICARD DATA LAFORGE BENSEN
+PICARD RIKER GUEST3 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Control room]
-
-DATA [OC]: Separate from it's control console. 
-BENSEN: I can't explain it. 
-[Hydraulics room]
-
-DATA: The laser blasts seemed to end when the
-yelling stopped. 
-[Control room]
-
-BENSEN: Maybe Arthur stopped it, only not in time. 
-[Hydraulics room]
-
-DATA: Not possible. 
-[Control room]
-
-LAFORGE: Then what are you suggesting? 
-[Hydraulics room]
-
-DATA: Uncertain. Geordi, please return power to the
-control console in this room. I wish to reactivate the
-programme. 
-[Control room]
-
-LAFORGE: You got it. 
-[Hydraulics room]
-
-(The laser powers up, turns, and fires a shot into
-a tunnel cut in the wall. Then it does the same in the opposite wall) 
-DATA: I am running the base drilling programme. 
-(The little red light focuses on the back of Data's neck and the doors
-slam shut. Data turns and dodges the deadly beams)
-
-[Control room]
-
-DATA [OC]: Geordi, servos off. 
-BENSEN: They are off. 
-LAFORGE: Data, what's happening? 
-DATA [OC]: Too much to explain. 
-(Benson and La Forge run to the Hydraulics room door) 
-LAFORGE: Can you open that? La Forge to Enterprise. We have a problem. 
 [Bridge]
 
-PICARD: Be specific. 
-[Control room]
+(This time, after the bright light, the bell jar
+breaks and a crystalline structure stands there, free) 
+RIKER: If this keeps up, it will tear up the Enterprise. 
+PICARD: What can you determine, Mister La Forge? 
+DATA: Captain, our sensors indicate that the microbrain expends a
+tremendous amount of energy during its reproductive cycle. Yet there is
+no discernible power drain on our own systems. 
+PICARD: Then what is feeding the damn thing? 
+LAFORGE: We found traces of cadmium salts. Now, cadmium is a conduit
+for converting infra-red into electricity. 
+PICARD: Meaning? 
+DATA: Meaning the microbrains might be photoelectric. 
+PICARD: Kill the lights in the medical lab, Mister La Forge. Let's see
+if darkness will neutralise it. 
+LAFORGE: Sorry, sir, it still has control of the computer. We can't do
+it by remote. 
+PICARD: Number One, light. 
+GUEST3: The life form must have evolved at that narrow layer where the
+light got through the sand to the water. Drop the water a centimetre
+below the light penetration level, and they starve.
 
-LAFORGE: Data's in the hydraulics room alone, and
-we're hearing laser blasts. 

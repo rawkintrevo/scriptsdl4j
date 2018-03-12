@@ -1,64 +1,40 @@
-RIKER LANEL TAVA DURKEN MIRASTA KROLA BEREL NURSE VOICE NILREM
+RIKER GUEST6 PICARD GUEST3 CRUSHER GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Medical Facility Corridor]
+[Riker's hospital room]
 
-(an undetermined length of time later) 
-LANEL: Something's happened to him. I think he's dead. Go on, get some
-help. 
-(the guard runs off, and she beckons Riker out of the room) 
-LANEL: Okay. No, that way. 
-RIKER: Thanks. 
-LANEL: Will I ever see you again? 
-RIKER: I'll call you the next time I pass through your star system. 
-(Riker heads off down the corridor, but gets spotted) 
-NILREM: Stop him! Somebody stop him! 
-NURSE: Hold it. 
-VOICE [OC]: He's escaping! The alien's escaping! 
-(Riker knocks out a guard who swings at him with a club, then a second,
-but he is finally brought down and kicked while he is on the floor) 
-BEREL: Stop it! All of you! Stop it now! Have you all lost your minds? 
-TAVA: They've aggravated the injury to his renal organ. He's bleeding
-internally. 
-BEREL: Get him into a surgical cubicle. And call Central Security. This
-has gone too far.
-
-[Durken's office]
-
-DURKEN: Their leader, Picard, has made it clear
-that how we proceed is entirely our own decision. 
-KROLA: You cannot possibly be suggesting surrender, Chancellor. 
-MIRASTA: They are not hostile. 
-KROLA: Mirasta, you are incredibly naive. Can you be so enraptured with
-the notion of space travellers that you are blind to the threat they
-represent? 
-DURKEN: I have seen their vessel, Krola. If they chose to be hostile, I
-do not think we would be standing here now. 
-KROLA: Why should they use force when we are ready to lay down in fear.
-
-DURKEN: I do not lay down in fear, to them or to you, Krola. 
-KROLA: Chancellor, I mean no disrespect, but I have repeatedly warned
-you about your policies, taking us so quickly where we had no business
-going in the first place. New philosophies, new economics, new
-technologies. There are many people who still
-value our traditional way of life and I for one am willing to die to
-defend it. 
-MIRASTA: Open your eyes, Krola. We are part of a greater community. We
-cannot ignore it. 
-KROLA: You would ignore them as they infiltrate and spy on us. 
-DURKEN: What are you saying, Krola? 
-KROLA: We have captured one of their spies. 
-MIRASTA: Chancellor, he is Captain Picard's first officer, Commander
-Riker. 
-DURKEN: You knew about this, Mirasta? 
-MIRASTA: He has been missing for two days. I told Captain Picard not to
-discuss this because I was afraid this is exactly what would happen. 
-DURKEN: What else do you know, Mirasta? Everything! 
-MIRASTA: They have been on our planet, observing, for several years. 
-KROLA: Years! Imagine what they have done. Influenced our young,
-stirred up dissent. 
-MIRASTA: They were collecting information. 
-DURKEN: Where is this Commander Riker now? 
-KROLA: He's in the Sikla Medical facility. He's recovering from
-surgery. He suffered head injuries in an escape attempt. He will
-recover consciousness in a few hours.
-
+GUEST3: You have lied since the moment of your
+capture and I believe you are lying now, Commander. 
+RIKER: No. We're here on a mission of peace. 
+GUEST3: Such noble creatures. Why do peaceful people develop such lethal
+weapons? Or do you still insist it's just a toy? 
+(Krola fires the phaser at an instrument stand) 
+GUEST3: An interesting toy, to be sure. 
+RIKER: It's only used for defence. 
+GUEST3: Perhaps, like many conquerors, you believe your goals to be
+benevolent. I cannot. For however you would describe your intentions,
+you still represent the end to my way of life. I cannot permit that to
+occur. Eventually, Durken would choose to welcome your people with arms
+open and eyes closed. I must force him down another path. 
+(he puts the phaser in Riker's hand) 
+GUEST3: When they find us, I will be dead, killed by your weapon. The
+lines will be drawn. A peaceful accord will no longer be an option. 
+RIKER: No. 
+GUEST3: For my people. 
+(and the weapon goes off) 
+(Tava and Nilrem enter) 
+GUEST6: What happened? 
+GUEST2: He shot him. The alien shot Krola. 
+(Tava gets on the emergency phone) 
+GUEST6: Get me three octares of adrulmine, high frequency EM charge unit
+now! 
+GUEST2: I have a circulation pattern. It's very weak. We have to get
+him on vital buffers right now 
+(Crusher, Worf and a medic beam in)
+CRUSHER: I'm a physician, don't be frightened. I need to know what
+happened. Are you doctors? 
+GUEST6: Yes. He shot him. 
+GUEST2: With that thing. 
+CRUSHER: Crusher to Picard. 
+PICARD [OC]: Go ahead, Doctor. 
+CRUSHER: Commander Riker is near death. 

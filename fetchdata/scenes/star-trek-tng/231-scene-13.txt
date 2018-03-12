@@ -1,84 +1,63 @@
-RIKER LAFORGE CREWMAN MOT WORF CRUSHER DATA
+TROI LAFORGE WORF PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Riker's quarters]
-
-(Riker drinks his prescription toddy, and lies
-down) 
 [Corridor]
 
-CREWMAN: Commander. 
-LAFORGE: Gordon. 
-(Geordi rings a doorbell)
+(outside quarters 09-1947, Lt Hagler) 
+CRUSHER: Computer, emergency entry, Chief Medical Officer Beverly
+Crusher. 
+(Hagler falls out into her arms) 
+CRUSHER: Crusher to Sickbay. Get a plasma infusion unit to deck seven,
+section nineteen. 
+(Picard and Riker arrive) 
+CRUSHER: His blood is turning into a liquid polymer.
 
-[Riker's quarters]
+[Observation lounge]
 
-RIKER: Who is it? 
-LAFORGE [OC]: It's La Forge. 
-RIKER: Come in. LAFORGE: Good morning. 
-RIKER: Morning? I just went to bed. 
-LAFORGE: Commander, it's oh seven hundred hours.
-
-[Barber shop]
-
-MOT: She said, if they're not squirming, we won't
-eat 'em! 
-(Worf enters) 
-MOT: Ah, Mister Worf, my good Klingon. Sir, welcome. What a pleasure it
-is to have you with us again so soon. So, Lieutenant, haircut today?
-Trim your beard? 
-WORF: I would like my hair trimmed. 
-MOT: Ah. A trim, of course. 
-WORF: Not like last time. 
-MOT: Oh no, just a little off the top. I took way too much off last
-time. I was just telling my colleague, Mister Setti, how thick and
-luxuriant Klingon hair is. It's such a pleasure to cut. Sometimes I get
-carried away. All those away missions, the wind and dry air, the
-elements really are harsh on the hair. I'd like to suggest that you
-start using a conditioning agent. 
-(Worf sees the scissors and grabs Mot's arm) 
-MOT: I promise, not too much off the top. 
-(Worf leaves)
-
-[Cargo bay]
-
-(Geordi is up a ladder, looking inside a panel) 
-LAFORGE: Just before the grid alarm sounded, we were running warp power
-through this junction. Somehow, it must've tripped the internal
-scanners. 
-RIKER: And it showed up as an EPS explosion? 
-LAFORGE: Yes, but the question is, why? I've made modifications to the
-sensors before but nothing like this has ever happened. 
-(He comes down the ladder) 
-RIKER: We can't waste time chasing down sensor ghosts. We should
-probably keep the whole array offline until we can get take a closer
-look. 
-LAFORGE: (yawns) Excuse me. 
-RIKER: I know the feeling. The past few nights, it seems like as soon
-as my head hits the pillow, it's time to get up in the morning. 
-LAFORGE: I'm sure we could all use a little shore leave after this
-survey's completed. 
-RIKER: Definitely. Keep me posted? 
-LAFORGE: Yeah. Data, I'm wondering if you could give me a hand. I need
-to run a structural integrity scan. I want to make sure that none of
-the conduit was 
-(Geordi sways) 
-DATA: What is it? 
-LAFORGE: This is the second time today that my visor's just cut out
-like that. 
-DATA: Are you all right, Geordi? 
-LAFORGE: I don't know. I just had a very weird feeling. Maybe I should
-go to Sickbay. 
-DATA: I will run the integrity scan. 
-LAFORGE: Thanks, Data.
-
-[Sickbay]
-
-CRUSHER: This is curious. There's a slight
-bacterial infection around your neural inputs. It was probably
-interrupting the data stream. 
-LAFORGE: An infection? From what? 
-CRUSHER: It doesn't match any bacterial strains on record. I'm going to
-have to sterilise the area. But I need to run a resonance tissue scan
-to search for any signs of additional infection. Come over here. Sit
-down. Now, come forward. Now, you're going to need to hold very still.
+LAFORGE: We've set up a containment field in cargo
+bay four, but the rupture just keeps expanding. I'd say we've got
+another five or six hours before it breaches the hull. 
+PICARD: Can we still beam the affected sections out into space? 
+DATA: No, sir. The spatial rupture is creating severe nucleonic
+interference. It is impossible to obtain a positive lock on the
+bulkheads. 
+PICARD: Has your analysis suggested any way in which we might seal this
+rupture? 
+LAFORGE: We think we can close the rupture by neutralising the tetryon
+emissions with a coherent graviton pulse. But we'd have to do that at
+the source. 
+RIKER: How do we find the source? 
+LAFORGE: Good question. The emissions are coming from a tertiary
+subspace domain, but subspace has an infinite number of domains. It's
+like a huge honeycomb with an endless number of cells. We need to
+isolate the exact cell that these emissions are coming from. 
+PICARD: If someone homed onto the subspace signals created by our
+modified signal array, could we do the same to them? Track the tetryon
+emissions to their universe? 
+DATA: Tetryon particles have a random momentum. Our sensors cannot
+track them, sir. 
+WORF: Perhaps we could construct a homing device. Something that our
+sensors could track. 
+LAFORGE: That's a good idea, but there's no way to get that device to
+the source. 
+RIKER: Yes, there is. Give it to me. They've taken me for the last few
+nights. If I'm right, the same thing'll happen tonight. 
+LAFORGE: If you had a homing device, we could track it to your location
+in subspace. And as soon as they send you back to the ship, we could
+transmit the graviton pulse and neutralise the tetryon emissions. 
+TROI: If they send him back. Ensign Rager still hasn't been returned. 
+RIKER: They're going to take me whether I want to go or not. 
+PICARD: Well, we could wait as long as possible for you to be returned,
+Number One, but when the spatial ruptures begin to threaten the ship,
+then we would have to transmit that graviton pulse. 
+RIKER: Understood. 
+PICARD: Perhaps there's a way that we could give you an advantage. A
+way of keeping you conscious after they have taken you. Doctor, can you
+develop some counter-agent to the neuro-sedative that they have been
+giving the crew? 
+CRUSHER: I could give you a neuro-stimulant, but the dosage would have
+to be rather high
+to counteract the effects. It could be risky. 
+RIKER: I'm willing to take that risk. 
+PICARD: Make it so. Mister La Forge, begin work on that homing device.
 

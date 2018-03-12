@@ -1,29 +1,56 @@
-PICARD RIKER LAFORGE
+PICARD RIKER CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Shuttlecraft]
 
-LAFORGE: Commander, he's asked me to completely
-reroute half the power systems on the ship, change every duty roster,
-realign the warp coils in two days, and now he's transferred a third of
-my department to Security. 
-RIKER: If it makes you feel any better, you're not alone. Captain
-Jellico has made major changes in every department on the ship. 
-LAFORGE: Yeah, well, I don't mind making changes and I don't mind hard
-work, but the man isn't giving me the time I need to do the work.
-Someone's got to get him to listen to reason. 
-RIKER: It's not going to be me. He's made that abundantly clear. 
-LAFORGE: Well then, can I make a suggestion? Talk to Captain Picard.
-Maybe he can do something. We just need a little time. 
-RIKER: All right.
-
-[Picard's quarters]
-
-(Picard staggers home weary and worn out from a
-hard day on the holodeck. Just as he manages to sit down the doorbell
-rings.) 
-PICARD: Come. 
-RIKER: Are you all right, sir? 
-PICARD: Yes, I am. The last time I had to train like this was for the
-Academy marathon, but I'm managing. What can I do for you? 
-RIKER: It's nothing urgent. I'm sorry I bothered you. Good night.
+WORF: Shuttlecraft Feynman to Enterprise. We have
+cleared the shuttlebay. 
+RIKER [OC]: Acknowledged, Feynman. Good luck. 
+PICARD: Thank you, Enterprise. Well, now that we're under way, I can
+tell you about our mission. Starfleet Intelligence believes the
+Cardassians are developing a metagenic weapon. 
+CRUSHER: Oh my God. 
+WORF: I am not familiar with metagenics. 
+CRUSHER: They're genetically engineered viruses that are designed to
+destroy entire ecosystems. When metagenic toxins are released into a
+planet's atmosphere, they immediately begin to mutate. They seek out
+and destroy all forms of DNA they encounter. In a few days, everything
+is dead. 
+PICARD: In a month, the metagenic agent itself breaks down and
+dissipates completely, leaving every city, every road, every piece of
+equipment perfectly intact. 
+WORF: Leaving the planet safe to be conquered. Wouldn't using such a
+weapon pose as great a risk to the attacker as to the target? 
+CRUSHER: That's why metagenics and other biological weapons were
+outlawed years ago. Even the Romulans have abided with those
+agreements. 
+PICARD: Starfleet Intelligence believes that the Cardassians are
+developing a new delivery system, one that would protect them from
+accidental exposure to the toxin. They believe that the Cardassians are
+testing a way of launching dormant metagenic material on a subspace
+carrier wave. 
+CRUSHER: So they could activate the toxins after the launch, thereby
+preventing any accidental exposure. 
+PICARD: And because the subspace wave would appear simply as background
+radiation, no one would realise what was happening until it was too
+late. Now, for the past few weeks, theta-band subspace emissions have
+been detected coming from Celtris Three. Those emissions may indicate
+that a metagenic delivery system in operation. 
+WORF: What do we know about Celtris Three? 
+PICARD: Very little. It was thought to be uninhabited until these
+emissions were detected. Starfleet believes that the Cardassians may
+have a secret research lab located somewhere below the planet surface.
+Our orders are to penetrate this Celtris Three installation and
+determine if the Cardassians are actually building a metagenic weapon. 
+CRUSHER: And if they are? 
+PICARD: Destroy it. At any cost. When I was on the Stargazer, we
+conducted extensive tests using theta band carrier waves. One of the
+reasons I was selected for this mission is my familiarity with the
+methods used for generating them. Mister Worf, your presence here is
+obvious. Doctor, your job will be to locate and destroy any biotoxins
+we may find. 
+WORF: Celtris Three is in Cardassian space. How will we get there
+undetected? 
+PICARD: I know a way of acquiring some discreet transport. Mister Worf,
+set a course for Torman Five.
 

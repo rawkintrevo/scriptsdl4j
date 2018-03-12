@@ -1,50 +1,40 @@
-PICARD RIKER JEREMY TROI WESLEY
+RIKER PICARD TROI WESLEY CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD [OC]: And young Jeremy Aster. 
-RIKER: I understand. Riker out. 
-WESLEY: He had to do the same thing for me. 
-RIKER: Do you know Jeremy well? 
-WESLEY: But I know this is going to be like for him. 
-RIKER: That's part of life in Starfleet, Wesley. 
-WESLEY: I know. They're very careful to prepare us for anything, but
-still 
-RIKER: I know. 
-WESLEY: How do you get used to it? Telling them? 
-RIKER: You hope you never do.
+PICARD: Location? 
+RIKER: Two kilometres north of the away team's beam-down point. 
+PICARD: Indeed? Full scan. 
+DATA: Inconclusive, Captain. 
+TROI: Sir, I', sensing a presence on the planet. Very vague. 
+PICARD: Life form? 
+TROI: I can't be sure. The emotions of the crew are particularly strong
+right now. It's difficult to filter them out. 
+PICARD: Data, scan analysis on main viewer. 
+(Something looks as if it is streaming off the planet) 
+[Crusher's office]
 
-[Worf's quarters]
-
-(Worf extinguishes a candle with a dagger blade)
-
-[Turbolift]
-
-TROI: I sense the weight of this duty on you,
-Captain. 
-PICARD: I really wonder. Halt. I've always believed that carrying
-children on a starship is a very questionable policy.
-Serving on a starship means accepting certain risks, certain dangers.
-Did Jeremy Aster make that choice? 
-TROI: Death and loss are an integral part of life everywhere. Leaving
-him on Earth would not have protected him. 
-PICARD: No, but Earth isn't likely to be ordered to the Neutral Zone,
-or to repel a Romulan attack, It was my command which sent his mother
-to her death. She understood her mission and my duty. Will he? 
-TROI: In time, and with help. Wesley Crusher does. He does. And so will
-Jeremy. 
-PICARD: Resume.
-
-[Teacher's office]
-
-PICARD: Jeremy, I have some bad news. There has
-been an accident. Your mother has died. 
-JEREMY: How, sir? 
-PICARD: An explosive device at the mission site. She died instantly. 
-JEREMY: I understand. 
-TROI: Jeremy, I know your mother loved you very much. 
-PICARD: I'm told that your father is also dead. 
-JEREMY: Yes, sir. He died five years ago from a Rushton infection. I'm
-all alone now, sir. 
-PICARD: Jeremy, on the starship Enterprise, no one is alone. No one.
+WESLEY: Hi. 
+CRUSHER: Hi. Troi stopped by a little while ago. She was wondering if
+you might be willing to talk to Jeremy Aster at some point. 
+WESLEY: Me? What for? 
+CRUSHER: About your Dad. 
+WESLEY: What am I going to tell him? 
+CRUSHER: It would help him to talk with someone who's been through
+this. We had each other, Wes. He doesn't have anyone to lean on right
+now. And he might be more comfortable talking to someone who's not much
+older than he is. 
+WESLEY: Okay, I'll think about it. 
+CRUSHER: Okay. 
+WESLEY: Do you ever think about him, Mom? 
+CRUSHER: Your father? Sure I do. 
+WESLEY: Sometimes I can't even remember what his face looks like. It
+scares me. 
+CRUSHER: It happens to all of us, Wes. Sometimes I can't get his face
+out of my mind. 
+WESLEY: Today, today it's like I can see it all as clearly as if it
+were yesterday. I can remember the way Dad looked when he hugged me
+goodbye. Captain Picard's eyes when he came to tell us 
+(Beverly reaches for her son. They're both close to tears)
 

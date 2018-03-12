@@ -1,119 +1,57 @@
-TROI OBRIEN LAFORGE SHELBY PICARD RIKER WESLEY DATA
+RIKER LAFORGE WORF SHELBY PICARD COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shelby's quarters]
+[Engineering]
 
-SHELBY: I don't know exactly what I'm looking for,
-but we've tested the sections of the Enterprise's hull that were
-damaged by the Borg. There were some unusual magnetic resonance traces.
+LAFORGE: The shields are being probed. I'm
+modulating nutation. 
+[Bridge]
 
-RIKER: A Borg footprint? 
-SHELBY: That's my theory. I'll see if it holds up tomorrow. I've
-reviewed your personnel. I'll be assigning Mister La Forge and Mister
-Data to accompany me on the away team. 
-RIKER: I've already assigned them to the away team. And I'll be with
-you as well, Commander. 
-SHELBY: Of course. I appreciate any assistance you can offer. Tell me,
-Commander. Is serving aboard the Enterprise as extraordinary an
-experience as I've heard? 
-RIKER: Every bit. 
-SHELBY: Good. Because I intend to convince Captain Picard I'm the right
-choice for the job. 
-RIKER: Job? Which job? 
-SHELBY: Yours, of course. I'm sorry. I heard that you were leaving. 
-RIKER: If I were, I'm sure you'll be the first to know. Poker's at
-seventeen hundred hours in my quarters. Deck eight.
+WORF: Captain, the Borg are attempting to lock on
+to us with their tractor beam. 
+PICARD: Load torpedo bays. Arm phasers. lock coordinates on the source
+of the tractor beam. 
+RIKER: Shield status? 
+DATA: Holding, sir. 
+SHELBY: The nutation modulation has them confused. 
+RIKER: They have the ability to analyse and adapt, Commander. 
+(The ship shakes)
 
-[Riker's quarters]
+[Engineering]
 
-(Troi is dealing five card stud) 
-WESLEY: Got another king in the hole, Data? 
-DATA: I am afraid I cannot answer that Wesley. And as you are a
-newcomer to the game, may I say it is inappropriate for you to ask. I
-will buy another card, Counsellor. 
-TROI: No help there. 
-LAFORGE: Fold. Again. 
-TROI: Three jacks looking back for the handsome young ensign. (Shelby)
-Pair of deuces stands. (Riker) Flush, possible straight flush. Your
-bet, Mister Crusher. 
-WESLEY: I'm in for ten. 
-SHELBY: Call. 
-RIKER: Now it's time for the long pants. There's your ten, and one
-hundred. 
-LAFORGE: He's got the straight flush, folks. 
-DATA: Not necessarily. Commander Riker may be bluffing, Wesley. 
-WESLEY: I don't think so. Fold. 
-LAFORGE: With three jacks? What, are you kidding? Wesley, you may get
-straight A's in school, but there's a lot you need to learn about
-poker. 
-SHELBY: Well, I've only got two pair, but I've got to see your hole
-card. I'll call. 
-(against the four hearts, Riker turns over the two of spades) 
-LAFORGE: You got him.
+LAFORGE: Shield modulation has failed. They've
+locked on. 
+[Bridge]
 
-[Transporter room]
+WORF: Shields are being drained. Ninety percent.
+Eighty. 
+[Engineering]
 
-RIKER: Mister Data and our guest appear to be
-tardy. 
-O'BRIEN: Sir, Commander Shelby and Data beamed down to the planet
-surface an hour ago. 
-RIKER: On whose authority? 
-O'BRIEN: On hers, sir.
+LAFORGE: Trying to recalibrate nutation. Damn. 
+[Bridge]
 
-[Planet surface]
+WORF: Shields have failed. 
+PICARD: Fire all weapons.
 
-SHELBY: Morning. Early bird gets the worm, eh?
-We've had some interesting results. 
-RIKER: Commander Shelby. Walk with me, Commander. 
-DATA: Early bird? I believe Commander Shelby erred. There is no
-evidence of avifaunal or crawling vermicular lifeforms on Jouret Four. 
-LAFORGE: That's not what she meant, Data, but you're right. She erred. 
-SHELBY: I'm sorry, but I woke up early and I saw that a weather system
-was moving in it. It could have affected the soil readings. 
-RIKER: So without any regard to the risk of coming down alone 
-SHELBY: Really, Commander, if we ran into the Borg here, two extra
-bodies wouldn't've made a hell of a difference, now would they? We had
-three hours before the storm front hit, less than two hours now. Data
-was available. I took him. We came. I don't see your problem. 
-RIKER: My problem, Commander, is I expect to be notified before there's
-a change in my orders. 
-SHELBY: Noted for future reference. Do you wish to hear my report, sir?
+[Engineering]
 
-RIKER: Go ahead. 
-SHELBY: The soil contains the same magnetic resonance traces That's our
-footprint. There's no doubt any more. It is the Borg.
+LAFORGE: Their subspace field is intact. New phaser
+frequencies had no impact. 
+[Bridge]
 
-Captain's log, stardate 43993.5. With confirmation
-of the Borg's presence in Federation space, Admiral Hanson has returned
-to Starbase three two four to discuss strategy with Starfleet Command.
-Lieutenant Commander Shelby remains on board to continue tactical
-preparations.
+RIKER: Reverse engines. 
+LAFORGE [OC]: Full reverse. 
+[Engineering]
 
-[Ready room]
+LAFORGE: We're not moving. 
+[Bridge]
 
-RIKER: I've also ordered a standing Yellow Alert.
-All Federation and allied outposts have been warned. Ops will continue
-to monitor long range sensors. I've assigned Data, La Forge and Mister
-Crusher to work with Commander Shelby. 
-PICARD: Good. You've covered all the bases. What's your impression of
-Shelby? 
-RIKER: She knows her stuff. 
-PICARD: She has your full confidence? 
-RIKER: Well, I think she needs supervision. She takes the initiative a
-little too easily. Sometimes with risks. 
-PICARD: Sounds a little like a young lieutenant commander I once
-recruited as a first officer. 
-RIKER: Perhaps. 
-PICARD: Will, what the hell are you still doing here? 
-RIKER: Sir? 
-PICARD: You've been offered the Melbourne. 
-RIKER: I've decided not to pursue that commission at this time. 
-PICARD: She's a fine ship, Will. 
-RIKER: Yes, but she's not the Enterprise. With all due respect, sir,
-you need me. Particularly now. 
-PICARD: Indeed? Starfleet needs good captains, particularly now.
-Reconsider your decision. 
-RIKER: Are you telling me to leave, Captain? 
-PICARD: I'm asking you to look at your career objectively. Will, you're
-ready to work without a net. You're ready to take command. And, you
-know, the Enterprise will go along just fine without you.
+PICARD: Fire at will. 
+WORF: Launching torpedoes. Phaser spread continuing. 
+DATA: Still no damage to the Borg vessel, sir. 
+(The Borg weapon cuts through the Enterprise like a hot knife through
+butter, almost.) 
+COMPUTER: Warning. Outer hull breach.
+WORF: They're cutting into the hull. Engineering section. 
+RIKER: Geordi, evacuate Engineering.
 

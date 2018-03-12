@@ -1,34 +1,44 @@
-PICARD RIKER DATA WORF
+TROI CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ten Forward]
 
-DATA: Initiate shuttle preflight sequence. 
-RIKER [OC]: Preflight underway. Counting to clearance. 
-DATA: Shuttle has cleared the bay door. 
-WORF: Commander Riker, you will be out of shield range in five seconds.
+TROI: May I join you? 
+CRUSHER: You know, Deanna, the first man I ever loved unconditionally
+was named Stefan. He was a soccer player, and I would watch him as he
+would race down the field and I thought my heart would stop because he
+was so beautiful. We married and had three children. Twin boys, Andrew
+and Alexander, and then later a little girl, Jennifer. Stefan became an
+artist, very famous. He created huge, breathtaking, metal sculptures.
+He came to adore me as much as I worshipped him. In my daydreams at
+least. Stefan was eleven and I was eight. He never even knew I existed.
+Oh, Deanna, I loved Odan. I'm sure of it. I had no doubts, no fears,
+but what it was I loved? His eyes? His hands? His mouth? They're gone.
+If that was all it was, I should mourn him and go on. But it was more
+than that. I felt completely free with him. Unguarded. At ease with
+myself. There were so many things that made him special to me. Where
+are they? Are they still here, alive in Will Riker? I look at Will and
+I see someone I've known for years. A kind of brother. But inside, is
+he really Odan? Help me, please. 
+TROI: What do your feelings tell you? 
+CRUSHER: I feel his pull. It's very powerful. I wish he'd never come on
+this ship. 
+TROI: Don't wish that, Beverly. You can't be open to love if you don't
+risk pain. 
+CRUSHER: I don't care. I'd give anything not to feel the way I do now.
+He's here, isn't he? 
+TROI: Look at him. 
+CRUSHER: I don't want to look at him. Talk to me. Just keep talking to
+me. 
+TROI: The first man I ever loved was my father. He was strong and tall.
+He carried me when the ground was muddy. He chased away the monsters
+that hid under my bed at night. And he sang to me, and kept me safe.
+And he went away. What I wouldn't give to hear those songs again. To
+feel his arms protect me. I never will, but I can still feel his warmth
+and his love as though he were here with me. If you can feel those
+things from the man we know as Will Riker, accept them. Accept the
+love.
 
-RIKER [OC]: Acknowledged
-
-[Shuttlecraft]
-
-RIKER: Lieutenant. We'll be entering the upper
-ionosphere in two minutes and twenty seconds. 
-[Bridge]
-
-WORF: Sir, an unidentified ship is emerging from
-the limb of the moon. 
-PICARD: Hail the vessel. 
-RIKER [OC]: I have visual contact. I don't recognise it. 
-WORF: It claims to be an escort vessel from the Beta moon. 
-PICARD: There was no mention of an escort. Request a security clearance
-code. 
-WORF: They do not answer, sir. 
-PICARD: Commander Riker, prepare to return to the shuttlebay. 
-RIKER [OC]: Acknowledged. 
-WORF: Captain, they are loading its phaser banks. 
-[Shuttlecraft]
-
-RIKER: Increasing power to the shields. 
-(the ship starts taking pot-shots at them. at least one hits them) 
-RIKER: Coming about. 
-(Odan is thrown out of his seat and the shuttle is damaged) 
+Captain's log, stardate 44823.8. Representatives of
+the two moons of Peliar Zel have agreed to come on board to meet the
+new Ambassador Odan. 

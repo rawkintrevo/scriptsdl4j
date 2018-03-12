@@ -1,57 +1,46 @@
-PICARD RIKER DATA TROI
+RIKER WORF PICARD COMPUTER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Standard orbit, Ensign. 
-DATA: Ruah Four is a class-M planet. Sixty seven percent of its surface
-is covered with water. Its landmass contains multiple animal species,
-including a genus of proto-hominids. 
-PICARD: Scan for earthworks or monuments that might indicate a previous
-civilisation. 
-DATA: There is nothing to indicate former occupancy by even a primitive
-culture, sir. 
-PICARD: Then what was the foremost archaeologist in the Federation
-doing here? He left the Enterprise in a Vulcan ship for Deep Space
-Four, and then an Al-Leyan transport to Caere, and then the shuttle to
-Indri Eight. Mister Data, what do we know about Indri Eight? 
-DATA: The Indri system was first identified by Federation vessels
-nearly sixty years ago. The eighth planet is L-class. It is covered by
-deciduous vegetation, unexplored, with no apparent evidence of
-civilisations, either present or past. The planet possesses no animal
-life whatsoever. 
-PICARD: Number One, we'll proceed to Indri Eight. 
-RIKER: With all due respect, sir, we've already run into one dead end.
-Indri Eight doesn't seem much more promising. And we're late for the
-conference on Atalia Seven. 
-PICARD: I'm aware of the Federation's timetable, Number One. Professor
-Galen visited here a few days ago. And he was on his way to Indri Eight
-when he was killed. There's some connection between these two planets.
-I'm going to find it. 
-RIKER: Aye, sir. Ensign, lay in a course for Indri Eight, warp seven.
+WORF: We are about to enter the Indri system, sir. 
+RIKER: Riker to Picard. We are approaching Indri Eight. 
+PICARD [OC]: On my way. 
+DATA: Sensors are picking up severe atmospheric fluctuations on the
+planet. 
+RIKER: Assume a high orbit. 
+PICARD: On screen, Mister Worf. 
+(a pretty blue green planet is turning a nasty orange-brown) 
+WORF: Some kind of plasma reaction is consuming the lower atmosphere. 
+PICARD: Can we stop it? 
+WORF: No, sir. The reaction is global. 
+DATA: All life on the planet is being destroyed, sir. 
+RIKER: Why would anyone want to destroy all the life on an uninhabited,
+neutral planet with no strategic importance whatsoever? 
+PICARD: All the life. Perhaps the Professor's number blocks had
+something to do with organic matter. 
+DATA: If we narrow the search parameters to the biological database, it
+might increase the chances of the computer finding a match. 
+PICARD: I'll be in the lab.
 
-[Ready room]
+[Laboratory]
 
-(Picard is shuffling the number blocks on his desk
-monitor) 
-PICARD: Come. 
-TROI: How's it going? 
-PICARD: I thought if I stared at these number blocks long enough then I
-would begin to see some kind of pattern. So far, nothing. 
-TROI: I meant, how's it going with you? 
-PICARD: If I had gone with him. 
-TROI: Captain, you can't start thinking like that. You didn't abandon
-him. You chose not to abandon a life-long career. It was the right
-decision, and in no way responsible for his death. 
-PICARD: I realise that. 
-TROI: I know how much the Professor meant to you and how much you want
-to find out what happened, but staring at these numbers isn't going to
-bring him back. The conference on Atalia Seven has been scheduled for
-six months. Starfleet is relying on your mediation efforts to 
-PICARD: Counsellor, this is not simply a case of me taking the
-Enterprise and its crew on some wild goose chase to purge myself of
-guilt and remorse. I will not let Galen's death to be in vain. Now, if
-that means inconveniencing a few squabbling delegates for a few days,
-then so be it. I will take the full responsibility. 
-(and he goes back to staring at numbers) 
-TROI: Captain.
+COMPUTER: Pattern match found. 
+CRUSHER: Specify. 
+COMPUTER: The number blocks are mathematical representations of
+fragments of deoxyribonucleic acid strands. 
+PICARD: DNA fragments? 
+CRUSHER: Each from a different lifeform from nineteen different worlds.
 
+PICARD: The planets that these fragments are from are scattered across
+the quadrant. No wonder it took the Professor so long to collect them.
+But why? 
+CRUSHER: Wait a minute. These fragments all seem to have similar
+protein configurations. They may be chemically compatible. 
+PICARD: But how can that be possible? They're different species from
+different planets. There should be no compatibility at all. 
+CRUSHER: I know, but look at the base pair combinations, they're
+uniform. If I'm right. Computer, connect the DNA fragments according to
+protein link compatibility. 
+PICARD: What is it? 
+CRUSHER: I have no idea. 

@@ -1,77 +1,52 @@
-RIKER WORF SHELBY PICARD WESLEY GUINAN DATA
+RIKER OBRIEN LAFORGE WORF SHELBY GUEST0 WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Battle bridge]
 
-RIKER: (to the empty chair) What would you do?
-(doorbell) 
-RIKER: Come.
-GUINAN: May I speak to you, Captain?
-RIKER: Actually, Guinan, I 
-GUINAN: You know, Picard and I used to talk every now and again, when
-one of us needed to. I guess I'm just used to having the Captain's ear.
-
-(She sits in Picard's chair) 
-RIKER: What's on your mind?
-GUINAN: I've heard a lot of people talking down in Ten Forward. They
-expect to be dead in the next day or so. They trust you. They like you.
-But they don't believe anyone can save them.
-RIKER: I'm not sure anyone can.
-GUINAN: When a man is convinced he's going to die tomorrow, he'll
-probably find a way to make it happen. The only one who can turn is
-around is you. 
-RIKER: I'll do the best I can.
-GUINAN: You're going have to do something you don't want to do. You
-have to let go of Picard.
-RIKER: Maybe you haven't heard. I tried to kill him yesterday.
-GUINAN: You tried to kill whatever that is on the Borg ship. Not
-Picard. Picard is still here with us in this room. If he had died, it
-would be easier. But he didn't They took him from us a piece at a time.
-Did he ever tell you why we're so close?
-RIKER: No.
-GUINAN: Well, then let me just our relationship is beyond friendship,
-beyond family. And I will let him go. And you must do the same. There
-can only be one Captain.
-RIKER: It's not that simple. This was his crew. He wrote the book on
-this ship. 
-GUINAN: And the Borg know everything he knows. It's time to throw that
-book away. You must let him go, Riker. It's the only way to beat him.
-The only way to save him. And that is now you chair. Captain. 
-(Riker sits) 
-WESLEY: We're approaching the Wolf system, Captain.
-RIKER: On my way.
-
-[Bridge]
-
-RIKER: Slow to impulse. Take us to the battle
-coordinates, Mister Crusher. Yellow alert. 
-WORF: Sensors are picking up several vessels, Captain. 
-RIKER: The fleet?
-DATA: No active subspace fields. Negligible power readings. 
-RIKER: Life signs? 
-DATA: Negative, sir.
-WORF: Visual contact.
-RIKER: On screen.
-(Fragments of starships, some with flashes of fires still burning) 
-SHELBY: The Tolstoy, the Kyushu, the Melbourne. 
-(Riker bows his head briefly for the crew that might have been his) 
-WORF: Sir, sensors are picking up unusually strong eddy currents,
-bearing two zero zero, mark two one one.
-RIKER: Data, analysis? 
-DATA: It could indicate the course of the Borg ship, sir. 
-RIKER: Ensign Crusher, set in a course that follows those currents.
-Commander Shelby, prepare to initiate your plan to separate the saucer
-section when we find the Borg.
-SHELBY: Sir. I must remind you that Captain Picard was briefed on that
-plan. The Borg will be prepared for it 
-RIKER: I'm aware of that, Commander. In fact, I'm counting on it.
-SHELBY: Crusher, Cartaino, Gleason. Report to the Battle Bridge. 
-RIKER: Mister Data, Mister Worf? I have a special mission for you.
+DATA [OC]: Onto the Borg ship from here, sir 
+RIKER: Proceed.
 
 [Borg ship]
 
-(The Borg ship drops out of warp. A fully Borgified
-Picard looks at the Enterprise approaching) 
-RIKER [on viewscreen]: Locutus of Borg, this is Captain William T.
-Riker of the USS Enterprise.
-PICARD: You may speak.
+(Worf and Data materialise, and head towards Picard
+the Borg. They each shoot two drones before Worf goes hand to hand with
+Picard. Data shoots a third drone) 
+WORF: Data! 
+(Borg Picard is easily as strong as Worf. Data does something to the
+back of Picard's neck to knock him out, then all three beam back aboard
+the shuttlecraft)
 
+[Shuttlecraft]
+
+WORF: Mission accomplished. We have him. 
+DATA: Firing shuttle thrusters. 
+(The shuttlecraft goes back out through the Borg shield)
+
+[Battle bridge]
+
+WESLEY: They're clear of the Borg field, sir. 
+RIKER: Beam them out of there, Mister O'Brien.
+
+[Transporter room]
+
+O'BRIEN: Locked in 
+(The Borg destroy the shuttlecraft) 
+O'BRIEN: Transport successful, sir.
+
+[Bridge]
+
+(Both sections of the Enterprise, and the Borg
+ship, hang quietly together in space) 
+SHELBY: Captain, we've sustained damage to the impulse drive. 
+[Battle bridge]
+
+SHELBY [OC]: The saucer section is disabled. 
+GUEST0: Reading subspace field fluctuations from the Borg ship. Looks
+like they're getting ready to increase power. 
+RIKER: Stand by, Mister La Forge. 
+LAFORGE [OC]: Aye, sir. 
+WESLEY: The saucer section's a sitting duck. 
+RIKER: Prepare to draw their fire. 
+WESLEY: Captain, the Borg ship is moving away. It's resuming its course
+to Earth, sir. 
+RIKER: Rendezvous with the saucer section. Lay in a course of pursuit. 

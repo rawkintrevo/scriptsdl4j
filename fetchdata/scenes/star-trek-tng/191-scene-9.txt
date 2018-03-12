@@ -1,48 +1,30 @@
-TROI OBRIEN HAGAN KEIKO GILLESPIE
+PICARD DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Riker's quarters]
 
-TROI [OC]: I'm here. Can you hear me? Tell me about
-the voices you hear. 
-HAGAN [OC]: Bright. Bright out there. 
-TROI [OC]: I don't understand. Bright what? Tell me more. 
-[O'Brien's quarters]
+(a very twitchy Riker gets into bed, barely shuts
+his eyes and then rips the sheets back to reveal snakes around his
+legs. He leaps out of bed again, and of course there is nothing there)
 
-(Miles is pacing when Keiko enters) 
-KEIKO: Boy, what a day this was. I'm doing an isozyme study on some
-populations of Cardilia but they're turning out to have these really
-weird polymorphisms. What a headache! 
-O'BRIEN: Is that why you're late? 
-KEIKO: Oh, no, I had a conference with Doctor Balthus. She wants to do
-a study on the laticifer ontogeny of the Kaladian Thorn Flower, but I
-don't have time to oversee another project. 
-O'BRIEN: Was Tom Corbin there? 
-KEIKO: What? 
-O'BRIEN: Tom Corbin from the science lab. Remember him? 
-KEIKO: Of course I remember him, but 
-O'BRIEN: You use any excuse you can to pay him a visit. 
-KEIKO: Miles, what are you saying? 
-O'BRIEN: I think you know exactly what I'm saying. 
-KEIKO: If I didn't know better, I'd say you were jealous. 
-O'BRIEN: Do you take me for a fool?
+[Ready room]
 
-[Ten Forward]
+DATA: Commander La Forge and I have come up with a
+potential solution to our predicament. Perhaps the modifications used
+to increase firepower against the Borg could be effective here. 
+PICARD: Channelling power to the main, er, deflector dish. 
+DATA: Yes, sir. I believe that within six hours we could generate a
+concentrated burst of energy which might disrupt the Tyken's rift. 
+PICARD: Very well. Proceed. Mister Data? 
+DATA: Yes, sir? 
+PICARD: It appears that I am not immune to the strange forces that are
+at work on this ship. 
+DATA: Yes, sir. 
+PICARD: It's a terrifying prospect to lose control of one's mind. When
+I was young, I remember watching my grandfather deteriorate from a
+powerful, intelligent figure to a frail wisp of a man, who could barely
+make his own way home. Mister Data, it is my responsibility somehow to
+see that this ship is guided to safety. I will need to rely on you from
+now on. We may need to count on you for our very survival. 
+DATA: I will do my best, sir.
 
-GILLESPIE: Hello, Chief. Having coffee? 
-O'BRIEN: No, I'm drinking too much coffee. 
-GILLESPIE: I'm surprised to see you here at this hour. 
-O'BRIEN: Why's that? 
-GILLESPIE: You're not out of the honeymoon yet. Usually newlyweds can't
-keep their hands off each other. 
-O'BRIEN: She has work to do. She heads up the plant biology lab, you
-know. 
-GILLESPIE: Any strange things going on down there? 
-O'BRIEN: Like what? 
-GILLESPIE: I've been hearing things. Kenicki in Engineering told me he
-saw a man in an old Starfleet uniform riding the lift near the engine
-core. When the lift got to the top, there was no one on it. 
-O'BRIEN: Ghost stories. 
-GILLESPIE: There's more, there's lots more. There are strange things
-happening on this ship, O'Brien. 
-O'BRIEN: I'm surprised at you, Gillespie. A Starfleet officer. I have
-more things to worry about than shades and spirits. 

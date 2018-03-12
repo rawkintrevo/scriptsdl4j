@@ -1,89 +1,64 @@
-LAL WORF PICARD GUINAN CRUSHER DATA HAFTEL
-
-[Crusher's office]
-
-DATA: Doctor? I require your advice as a successful
-parent. 
-CRUSHER: Well, thank you, Data. I'd like to think I was. Well, please
-sit down. How's Lal? 
-DATA: Lal is realising she is not the same as other children. 
-CRUSHER: Is it lonely for her? 
-DATA: She does not feel the emotion of loneliness, but she can observe
-how isolated she is from the others. She wishes to be more like them. I
-do not know how to help her. Lal is passing into sentience. It is
-perhaps the most difficult stage of her development. 
-CRUSHER: When Wesley was growing up, he was an extraordinarily bright
-boy, but he had a hard time making friends. I think the other children
-were a little intimidated by him. 
-DATA: That is precisely what happened to Lal in school. How did you
-help him? 
-CRUSHER: Well, first I went back to my own childhood and remembered how
-painful it was for me. Because I remember a time when I wasn't very
-popular either. And when I told that to Wesley, it made him feel a
-little better. He knew I understood what he was going through. 
-DATA: I have not told Lal how difficult it was for me to assimilate. I
-did not wish it to discourage her. Perhaps this was an error of
-judgement. 
-CRUSHER: You didn't have any one experienced to help you through
-sentience. She at least has you. Just help her realise that she's not
-alone, and be there to nurture her when she needs love and attention. 
-DATA: I can give her attention, Doctor. But I am incapable of giving
-her love. 
-(Data leaves) 
-CRUSHER: Now why do I find that so hard to believe?
-
-[Picard's quarters]
-
-(Picard is in bed, resting) 
-WORF [OC]: Captain, incoming signal. Starfleet priority one. Admiral
-Haftel. 
-PICARD: On my monitor, Lieutenant. Admiral. 
-HAFTEL [on monitor]: Captain Picard, I hope I didn't disturb you. 
-PICARD: Not at all. 
-HAFTEL [on monitor]: I have discussed my concerns with Starfleet
-Command. You are to hold your position until I join you. Then I shall
-personally review the android's development. 
-PICARD: Understood. 
-HAFTEL [on monitor]: I should advise you, Captain, that if I'm not
-satisfied with what I see, I am empowered to take the android back with
-me. Haftel out.
-
-Captain's log, supplemental. We are holding
-position pending the arrival of Admiral Haftel from Starfleet Research.
-Commander Data is completing his final neural transfers to the android
-he has named Lal, which I have learned, in the language Hindi means
-beloved.
+LAL PICARD GUINAN DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ten Forward]
 
-GUINAN: Hello, Data. 
-DATA: Guinan. 
-(He steers Lal away from the interesting people and onto a bar stool) 
-GUINAN: Lal, how are you? 
-LAL: I am functioning within normal. I am fine, thank you. 
-GUINAN: Good. 
-DATA: Guinan, Lal needs to observe human behaviour. 
-GUINAN: She's in the right place for it. 
-DATA: And for this opportunity, she is willing to provide services to
-assist you. 
-LAL: Father says I would learn a great deal from working with someone
-as old as you. 
-GUINAN: You're hired. The most important part about working some place
-like this is the art listening. I have some expertise, so I shall teach
-you. 
-DATA: That would be most beneficial. 
-LAL: I've been programmed with a listing of fourteen hundred and twelve
-known beverages. 
-GUINAN: What did you say? 
-LAL: I've been programmed with a listing of fourteen hundred 
-GUINAN: I've? 
-DATA: You have used a verbal contraction. 
-GUINAN: You said I've instead of I have. 
-DATA: It is a skill my programme has never mastered. 
-LAL: Then I will desist. 
-DATA: No. You have exceeded my abilities. I do not object, but I do not
-understand how this has
-occurred. 
-PICARD [OC]: Picard to Commander Data. Please report to my Ready room. 
-DATA: Aye, sir.
+GUEST1: This is your idea of appropriate guidance? 
+DATA: It is an opportunity for her to observe human behaviour and more
+importantly, for her to interact with her crewmates. 
+GUEST1: She is capable of running over sixty trillion calculations per
+second, and you have her working as a cocktail waitress. 
+PICARD: Admiral, she is under the strict guidance of a woman in whom I
+have absolute trust. Ten Forward is the centre of the ship's social
+activity. Everyone on board comes here. 
+GUEST1: I'm not convinced the sort of behaviour she observes here will
+be a positive influence. 
+GUINAN: Most people when they come here behave themselves. If they
+don't, I ask them to leave. 
+PICARD: Admiral Haftel, Guinan. She runs Ten Forward. How is Lal doing?
+
+GUINAN: She spills a few drinks every now and then, but she's learning.
+
+GUEST1: I want the android out of here. 
+GUINAN: Now, Admiral, you've been in one or two bars in your time. 
+GUEST1: Have her report to me immediately for an interview.
+
+[Observation lounge]
+
+GUEST1: Well, Lal, I've been looking forward to
+meeting you. 
+LAL: Why? 
+GUEST1: You're very important to us at Starfleet Research. We have got
+quite a facility at Galor Four. I want like to show it to you. 
+PICARD: In fact, the Admiral is fact suggesting you be moved to Galor
+Four, Lal. 
+LAL: Have I done something wrong? 
+GUEST1: Oh, no, of course not. We just want to broaden your experience.
+There's only so much you can learn on a starship. I'm sure you'll agree
+to that. 
+LAL: Yes, I'll agree. 
+GUEST1: Good. 
+LAL: Thus, the natural conclusion would be when I have learned all
+there is to learn aboard the starship, I would relocate to Galor Four. 
+GUEST1: That is not the natural conclusion here. 
+LAL: I believe it is. 
+PICARD: You see, Lal, the Admiral is concerned that you need more
+guidance than your father can provide here on the Enterprise. 
+GUEST1: Yes. Don't misunderstand me, I have great respect for your
+father. 
+LAL: You do not speak with respect. 
+GUEST1: She seems very adversarial. 
+LAL: I'm merely stating a fact, Admiral. 
+GUEST1: I don't think your father has taught you selective judgment in
+the verbalisation of your own thoughts. That is a skill we will help
+you develop. 
+LAL: My father is already helping me, sir. 
+GUEST1: The question is, has he helped you enough? 
+LAL: Are you asking me, sir? 
+GUEST1: No, I didn't mean to ask any 
+PICARD: Why don't we, Admiral? In all these discussions, no one has
+ever mentioned her wishes. She's a free, sentient being. What are your
+wishes, Lal? 
+LAL: I wish to remain here, Captain Picard. 
+PICARD: Thank you, Lal. You're excused.
 

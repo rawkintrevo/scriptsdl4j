@@ -1,94 +1,36 @@
-TROI GRAVES LAFORGE WORF PICARD KAREEN SELAR RIKER DATA
+PICARD TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Ready room]
 
-(Selar, Troi, a clean-shaven Data and Worf are the
-away team) 
-RIKER: Phaser on stun, Mister Worf. We don't know what's going on down
-there. There's no need to take any chances. 
-WORF: Agreed, sir. 
-LAFORGE: Now remember, this is a near warp transport, so the effects
-may be a little unusual. 
-TROI: What do you mean? 
-RIKER: You'll see, Counsellor. Energise. 
-TROI: Now wait a minute. I don't understand 
-[Living room]
+DATA: I am sorry, sir. Perhaps it was my admiration
+for Grandpa that got the best of me. 
+PICARD: Grandpa? 
+DATA: That is the way I think of him, sir. My only living relative, no
+longer living. 
+PICARD: Data. 
+DATA: I was only trying to carry out his wishes. I just wanted to keep
+my promise to him. 
+PICARD: I know that, Data. Look, I realise you've been studying the
+human equation with great alacrity, but perhaps you've been working at
+it too much. Don't try so hard to be human. Just be yourself. All
+right? 
+DATA: Yes, sir. I will work on staying within myself. 
+PICARD: Grand. You're dismissed, Mister Data. 
+DATA: Thank you, sir. 
+(Data leaves, ogles a crewwoman, and enters the turbolift whistling 'If
+I Only Had A Heart')
 
-RIKER: You do now. 
-TROI: This might sound crazy, but for a moment I thought I was stuck in
-that wall. 
-WORF: For a moment, you were. 
-DATA: Data to Enterprise. 
-PICARD [OC]: I read you, Commander. Go ahead. 
-DATA: We are inside Graves' home. 
-[Bridge]
+Captain's personal log. Although Commander Data has
+assured me that his odd behaviour will return to normal, I can't help
+thinking that something went wrong during his visit to Gravesworld.
 
-DATA [OC]: All is quiet so far. Of course, no one
-knew we were coming. 
-PICARD: Use caution, but protect Graves' health 
-[Living room]
+[Corridor]
 
-PICARD [OC]: At all costs. 
-DATA: Understood, sir. I suggest we look around to see if anybody is
-home. 
-WORF: No need, Commander. 
-KAREEN: You heard me. Thank God. I'm Kareen Brianon, Doctor Graves'
-assistant. 
-TROI: We're from a ship called the Enterprise. We monitored your
-distress call but then you never acknowledged our response. 
-KAREEN: I'm sorry, I couldn't take the chance. 
-TROI: Chance? What chance? 
-(A door opens and a crotchety old man enters) 
-GRAVES: The chance that I might find out someone was coming. Kareen
-knew full well that I would not be pleased, to put it mildly. 
-KAREEN: I had no choice. I refuse to stand by and watch you
-deteriorate. 
-SELAR: (a Vulcan lady played by Susie Plaxton) What symptoms have you
-noticed? 
-KAREEN: He has pain, shortness of breath, irritability. 
-GRAVES: Ridiculous! I'm as healthy as a Rigelian ox! 
-KAREEN: He's not himself, believe me. His temper is completely out of
-control. 
-GRAVES: Nonsense! 
-KAREEN: Ira! 
-SELAR: I am a doctor. Lieutenant Selar. 
-GRAVES: No offense, but I don't want you touching me in any way. It's
-no secret that I don't like people much, and I like doctors even less. 
-TROI: That's funny, I thought most doctors were people. 
-GRAVES: Then you're wrong. Ask any patient. Although I will admit, for
-a doctor you're not a bad looking woman. Well, well, well, what have we
-got here? Another lovely specimen of womanhood. 
-TROI: I thought you didn't like people. 
-GRAVES: Women aren't people. They're women. (he kisses her hand) 
-TROI: I'm Deanna Troi. It's an honour to meet you, Doctor Graves. 
-GRAVES: Yes, of course it is. This is one of the truly great moments of
-your life. 
-KAREEN: Excuse me, sir. Are you a Romulan? 
-WORF: Hardly. 
-GRAVES: He's a Klingon, Kareen. Kareen has lived here since her father
-died when she was very young. Her only knowledge of unhuman races comes
-from me. Klingons and Romulans don't look much alike, Kareen, even
-though they act much alike. 
-WORF: Must I stand here and be insulted? 
-GRAVES: No insult intended, Mister Klingon. You see, Doctor, there's
-nothing wrong with my hearing. My, my, my, my. 
-DATA: Lieutenant Commander Data 
-GRAVES: Shhh! Absolutely no aesthetic value whatsoever. Looks like
-Soong's work. 
-(Selar is examining Graves behind his back) 
-DATA: Quite correct, sir! Did you know Doctor Soong? 
-GRAVES: Know him?! I taught him everything he knows. You could say that
-I was the father of his work. Which kind of makes me your grandfather,
-doesn't it sonny? Damn doctors! Always sneaking up on one. Attacking
-from the rear. Go on, gorgeous. Spit it out. Whatever the hell it is, I
-can take it. 
-SELAR: I've checked twice to make certain. You have Darnay's disease.
-I'm sorry, Doctor Graves. It's in it's final stage. 
-KAREEN: Can't you do something for him? 
-SELAR: In all cases, Darnay's is terminal. 
-Captain's log, Stardate 42437.7. We've successfully
-repaired the stricken liner, Constantinople. Forty six of her people
-suffered injuries, mostly minor. They have been treated and supplied
-with the proper medicines. Our task complete, we are heading back to
-Gravesworld with great dispatch.
-
+TROI: I'm still concerned, Captain. I've never seen
+him act like this. 
+PICARD: Could it be that grandfather analogy that Graves planted in his
+head?. Data is an orphan in a manner of speaking. Is it possible that
+the loss of Graves might have affected him? Touched him on some
+emotional level we didn't know he possessed? 
+TROI: I hope you're right. I hope that's all it is. 

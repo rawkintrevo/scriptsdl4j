@@ -1,39 +1,47 @@
-TROI WORF CREWMAN PICARD RIKER GALEN CRUSHER DATA
+LAFORGE WORF PICARD GUEST2 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
-
-DATA: At our present speed, we will arrive at the
-Atalia system in thirty seven hours. 
-TROI: Captain, I'm going for a walk in the arboretum. I wouldn't mind
-some company. 
-WORF: Captain, a distress call from Professor Galen's shuttle. On
-screen. 
-GALEN [on viewscreen]: Enterprise! I'm being boarded. 
-WORF: Transmission has been blocked. 
-DATA: I have located the shuttle. It is under attack. 
-PICARD: Take us out of warp. On screen. 
-WORF: A Yridian destroyer. 
-RIKER: Battle stations. 
-WORF: Aye, sir. 
-DATA: Professor Galen is still inside his vessel, sir. His vital signs
-are barely registering. 
-PICARD: Get him out of there. 
-WORF: The shuttle is enveloped by a tractor beam. The transporter
-cannot penetrate it. 
-RIKER: Hail the Yridians. 
-WORF: They are not responding. 
-(the Enterprise rocks under weapons fire) 
-PICARD: Return phaser fire. Disable their offensive systems. 
-(but instead, the big ship goes KaBOOM!) 
-RIKER: Worf! 
-WORF: I don't understand, Commander. The phaser blast was not powerful
-enough to destroy the ship. 
-PICARD: Transporter Room One, lock on to Professor Galen and transport
-him directly to Sickbay. 
-CREWMAN [OC]: Aye, sir. 
 [Sickbay]
 
 CRUSHER: He took a disruptor hit point blank. There
 is nothing I can do. 
 (the life-signs monitor starts to flat-line) 
-GALEN: Jean-Luc, I was too harsh. 
+GUEST2: Jean-Luc, I was too harsh. 
+[Observation lounge]
+
+LAFORGE: I'd say at least three Yridians boarded
+the Professor's shuttle. 
+PICARD: What did they want? 
+LAFORGE: I'm not sure, but it looks like they were trying to download
+something from his computer. 
+DATA: When he was attacked, Professor Galen began to protect certain
+files in his computer memory. 
+LAFORGE: We were able to partially reconstruct the shuttle's computers,
+so at least we have some of those files. We found nineteen different
+blocks of numbers like this one. 
+(five digit groups in white, orange and pink) 
+PICARD: What do they mean? 
+DATA: They could mean anything. Unless we can narrow the parameters of
+the search, it would be almost impossible for the computer to identify
+the pattern with any accuracy. 
+LAFORGE: We tried every decryption key on record in case Professor
+Galen was using some kind of code. We still can't make heads or tails
+of them. 
+WORF: Were the Yridians able to get these number blocks? 
+LAFORGE: At least some of them. It's impossible to say know many. 
+PICARD: Apparently, the Yridians knew more about the Professor's work
+than we do. They may have known what these numbers mean. 
+LAFORGE: If they did, that information died with them. 
+PICARD: Not necessarily. The Yridians are information dealers. They may
+have been delivering the number blocks to someone else. Did they send a
+signal before they were destroyed? 
+WORF: No, sir. We detected no transmissions. 
+LAFORGE: And there were no other vessels in the vicinity. 
+PICARD: Did the shuttle's flight logs show where Galen had been before
+coming to the Enterprise? 
+DATA: Yes, sir. The logs indicate Professor Galen visited an unexplored
+star system, Ruah Four. 
+PICARD: What's the distance from our present position? 
+DATA: Four days at warp six, sir. 
+PICARD: The conference can wait. Set a course for the Ruah system.
+

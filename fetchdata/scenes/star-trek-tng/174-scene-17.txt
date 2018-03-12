@@ -1,66 +1,35 @@
-RIKER LAFORGE WORF SHELBY PICARD WESLEY BORG DATA
+TROI LAFORGE WORF SHELBY RIKER WESLEY GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Ready room]
+
+RIKER: I strongly recommend redeploying all
+available defences to protect sector zero zero one, Admiral. 
+GUEST0 [on monitor]: We're moving to intercept at Wolf three five nine.
+We'll make our stand there. How much longer can you maintain pursuit? 
+RIKER: Twenty two minutes if they stay at current speed. If we can't
+bring them out of warp, we'll do as much damage as we can before we
+have to disengage. 
+GUEST0 [on monitor]: Picard? 
+RIKER: Nothing yet, sir.
+
+[Borg ship]
+
+WORF: In here. 
+(Data gently pulls a drawer out of a wall. But there's no body in it) 
+SHELBY: Shelby to Enterprise. 
 [Bridge]
 
-WORF: Sir, reading unidentified vessel just
-entering sensor range. Bearing two one zero mark one five one. 
-PICARD: Hail them, Mister Worf. 
-WORF: No response, sir. 
-PICARD: Move to intercept. 
-WESLEY: Aye, sir. 
-WORF: Sir, the vessel has already changed course to intercept us.
-Approaching at warp nine point three. Entering visual range. 
-PICARD: On screen. Magnify. 
-(It's a nasty dark cube) 
-PICARD: Mister Worf, dispatch a subspace message to Admiral Hanson. We
-have engaged the Borg. 
-WORF: Captain, you are being hailed. 
-PICARD: I am? 
-WORF: Yes, Captain. By name. 
-RIKER: Data, is it the same ship we faced at J two five? 
-DATA: Uncertain, Commander, but the dimensions are precisely the same. 
-PICARD: On screen. I am Jean Luc 
-(The viewscreen just shows the inside of the cube. The voice is made up
-of many speaking as one) 
-BORG [OC]: Jean Luc Picard, captain of the Starship Enterprise,
-registry NCC 1701D, you will lower shields and prepare to transport
-yourself aboard our vessel. If you do not cooperate, we will destroy
-your ship. 
-PICARD: You have committed acts of aggression against the United
-Federation of Planets. If you do not withdraw immediately 
-BORG: You will surrender yourself or we will destroy your ship. Your
-defensive capabilities are unable to withstand us. 
-(mute) 
-RIKER: What the hell do they want with you? 
-SHELBY: I thought they weren't interested in human life forms, only our
-technology. 
-PICARD: Their priorities seem to have changed. Open. 
-WORF: Channel open. 
-PICARD: We have developed new defence capabilities since our last
-meeting and we are prepared to use them if you do not withdraw from
-Federation space. 
-LAFORGE [OC]: Captain. 
-[Engineering]
-
-LAFORGE: The shields are being probed. I'm
-modulating nutation. 
-[Bridge]
-
-WORF: Captain, the Borg are attempting to lock on
-to us with their tractor beam. 
-PICARD: Load torpedo bays. Arm phasers. lock coordinates on the source
-of the tractor beam. 
-RIKER: Shield status? 
-DATA: Holding, sir. 
-SHELBY: The nutation modulation has them confused. 
-RIKER: They have the ability to analyse and adapt, Commander. 
-(The ship shakes)
-
-[Engineering]
-
-LAFORGE: Shield modulation has failed. They've
-locked on. 
-[Bridge]
-
-WORF: Shields are being drained. Ninety percent.
-Eighty. 
+RIKER: Go ahead. 
+SHELBY [OC]: We've found the Captain's uniform and his communicator.
+We're resuming our search. 
+(La Forge and Wesley enter) 
+RIKER: Stand by, Commander. 
+WESLEY: We're in business. 
+LAFORGE: It'll burn out the main deflector, but it'll be one hell of a
+bang. 
+RIKER: Radiation danger? 
+WESLEY: We're going to have to evacuate the entire forward half of the
+secondary hull and the lower three decks of the saucer. 
+TROI: I'll see to that. 
+RIKER: Commander Shelby 

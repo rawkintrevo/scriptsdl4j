@@ -1,73 +1,39 @@
-PICARD SCOTT LAFORGE
+RIKER LAFORGE PICARD SCOTT GUEST1 DATA RAGER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[NCC1701 Bridge]
+[Bridge]
 
-(Complete with sound effect, they did a great job
-of recreating it for us. The viewscreen has the ubiquitous orange
-planet on it. Scott goes to his old station and pours a drink.) 
-SCOTT: Here's to you, lads. 
-PICARD: I hope I'm not interrupting. I was just coming off duty and I
-wanted to see how you were doing. 
-SCOTT: Not at all, not at all. Have a drink with me, Captain. 
-PICARD: Thank you. 
-SCOTT: I don't know what it is, exactly, but I would be real careful.
-It's real 
-(Picard knocks it back in one) 
-PICARD: Aldebaran whiskey. Who do you think gave it to Guinan? 
-SCOTT: Ah. 
-PICARD: Constitution class. 
-SCOTT: Aye. You're familiar with them? 
-PICARD: There's one in the Fleet museum, but then of course, this is
-your Enterprise? 
-SCOTT: I actually served on two. This was the first. She was also the
-first ship I ever served on as Chief Engineer. You know, I served
-aboard eleven ships. Freighters, cruisers, starships, but this is the
-only one I think of. The only one I miss. 
-PICARD: The first ship I ever served aboard as Captain was called the
-Stargazer. It was an overworked, underpowered vessel, always on the
-verge of flying apart at the seams. In every measurable sense, my
-Enterprise is far superior. But there are times when I would give
-almost anything to command the Stargazer again. 
-SCOTT: It's like the first time you fall in love. You don't ever love a
-woman quite like that again. Well, to the Enterprise and the Stargazer.
-Old girlfriends we'll never meet again. 
-PICARD: What do you think of the Enterprise D? 
-SCOTT: She's a beauty, with a good crew. 
-PICARD: But? 
-SCOTT: But. When I was here, I could tell you the speed that we were
-traveling by the feel of the deckplates. But on your ship, I feel like
-I'm just in the way. 
-PICARD: Seventy five years is a long time. If you would care to study
-some technical schematics or 
-SCOTT: I'm not eighteen. I can't start out like a raw cadet. No, there
-comes a time when a man finds that he can't fall in love again. He
-knows that it's time to stop. I don't belong on your ship. I belong on
-this one. This was my home. This is where I had a purpose. But it's not
-real. It's just a computer generated fantasy. And I'm just an old man
-who's trying to hide in it. Computer, shut this bloody thing off. It's
-time I acted my age.
+DATA: We will enter the sun's photosphere in three
+minutes. 
+PICARD: Manoeuvring thrusters? 
+RIKER: I've got thirty percent power. It won't be enough to stop us. 
+PICARD: No, but it may be enough to turn us into orbit, hold our
+distance from the photosphere. Ensign, port thrusters ahead full,
+starboard thrusters back full. 
+DATA: Our flight path is changing. Right ten point seven degrees, sir.
+Insufficient to clear the photosphere. 
+RIKER: Lieutenant Bartel, divert all power from auxiliary relay systems
+to the manoeuvring thrusters. 
+GUEST1 [OC]: Aye, sir. 
+RAGER: We're in orbit, Captain. Our altitude is one hundred fifty
+thousand kilometres. 
+RIKER: I'll see about getting main power back online. 
+PICARD: Very well. Mister Data, begin a scan of the interior surface
+for life forms. I want to know who brought us in here and why. 
+DATA: Aye, sir.
 
-[Ready room]
+[Jenolen]
 
-PICARD: Come. 
-(Geordi enters) 
-PICARD: Mister La Forge, I understand that before the Jenolen crashed,
-it had conducted an extensive survey of the Dyson sphere. Have we been
-able to access any of those records? 
-LAFORGE: We did try to download their memory core, but it was pretty
-heavily damaged in the crash. We actually haven't been able to get much
-out of it. 
-PICARD: Perhaps Captain Scott could be of use in accessing that
-material. 
-LAFORGE: It's possible. He does know those systems better than any of
-us. I'll have Lieutenant Bartel beam down with him. 
-PICARD: Mister La Forge, I would like you to accompany Captain Scott. 
-LAFORGE: Me, sir? 
-PICARD: Yes. Look, this is not an order, it's a request and it's one
-which you must feel perfectly free to decline. You see, one of the most
-important things in a person's life is to feel useful. Now, Mister
-Scott is a Starfleet officer and I would like him to feel useful again.
-
-LAFORGE: I'll go with him, sir. 
-PICARD: Thank you.
+LAFORGE: I can't find them anywhere in orbit. 
+SCOTT: They could've crashed into the sphere like the Jenolen. 
+LAFORGE: No, we'd be picking up background radiation if they'd gone
+down. 
+SCOTT: There's another possibility. They could be inside the sphere. 
+LAFORGE: Maybe. Whatever happened, we've got to find them. If we can
+get these engines back online, we could track them with their impulse
+ion trail. 
+SCOTT: Are ye daft? The main drive assembly's shot, the inducers are
+melted, and the power couplings are wrecked. We'd need a week just to
+get started. But we don't have a week, so there's no sense in crying
+about it. Come on, We'll see what we can do with your power converter.
 

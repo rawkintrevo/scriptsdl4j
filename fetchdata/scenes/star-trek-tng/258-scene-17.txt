@@ -1,45 +1,30 @@
-RIKER LAFORGE WORF PICARD DATA NAKAMURA
+PICARD CRUSHER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Sickbay]
 
-WORF: Captain, incoming message from Admiral
-Nakamura. 
-PICARD: On screen. 
-PICARD: Admiral. 
-NAKAMURA [on viewscreen]: Captain. We were expecting you this morning.
-Is there a problem? 
-PICARD: Actually, we have been experiencing a few minor difficulties
-with our new warp core, but my Chief Engineer assures me that we will
-be under way within the hour. 
-NAKAMURA [on viewscreen]: You're not trying to avoid this particular
-engagement, are you, Picard? 
-PICARD: No, no, certainly not. I'm really looking forward to it. 
-NAKAMURA [on viewscreen]: Good. I'll expect you soon. Nakamura out. 
-RIKER: I think he's on to you, sir. 
-LAFORGE [OC]: La Forge to Bridge. 
-PICARD: Go ahead, Geordi.
+(the creatures disappear under the blue light) 
+CRUSHER: It's working, Captain. 
+[Holodeck]
+
+Captain's log, supplemental. The creatures
+infesting the Enterprise have been completely eliminated. We believe
+the infestation originated within the warp core we obtained on Starbase
+eighty four.
 
 [Engineering]
 
-LAFORGE: We've just started it up, Captain. All
-systems are holding steady. 
-[Bridge]
-
-LAFORGE [OC]: Ready when you are, sir. 
-PICARD: Ensign Gates, set a course and engage. 
-(this time they start to go, and then stop) 
-[Engineering]
-
-PICARD [OC]: Engineering, report. 
-DATA: The warp field has collapsed, sir. 
-LAFORGE: It looks like we've blown the entire power converter, Captain.
-Impulse engines are down too. We're not going anywhere. But I know just
-how to fix this. Give me two, three hours, tops. 
-LAFORGE: Now what?
-
-[Bridge]
-
-RIKER: Talk about going nowhere fast. 
-PICARD: Mister Worf, open a channel to Starbase two nineteen. Advise
-Admiral Nakamura I'll be a little later than I thought. 
-WORF: Aye, sir. 
+LAFORGE: This conduit was manufactured on Thanatos
+Seven using a new interphasic fusion process. We think it was that
+process which attracted the organisms to the conduit where they lay
+dormant until we activated the warp core. That's also why we couldn't
+get the core online. The creatures were disrupting the plasma flow. 
+PICARD: How long before we have warp power again? 
+LAFORGE: Well, we're going to have to manufacture a new conduit. That's
+at least six hours work. 
+PICARD: Six hour? The banquet will be completely over by then. That's
+very unfortunate. 
+LAFORGE: I can try and speed things up a bit. 
+PICARD: No, no, no. I wouldn't want to sacrifice the safety of the
+ship. 
+LAFORGE: Understood, sir. 

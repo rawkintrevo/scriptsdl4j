@@ -1,53 +1,40 @@
-RIKER LAFORGE ARDRIAN PICARD GOSHEVEN DATA
+RIKER DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Bridge]
 
-(A test object is beamed out successfully, but
-returns as a molten blob. Riker enters) 
-RIKER: Gentlemen, how's it coming? What the hell is that? 
-LAFORGE: Our first attempt. 
-RIKER: Keep at it. We need those transporters. 
-[Main square]
+(Picard and Troi are zapped back onto the Bridge in
+mid sentence) 
+RIKER: I take it the Sheliak just hung up on us again.
 
-(It is evening) 
-GOSHEVEN: You see this? Do you have any idea what it is, or what it
-means? 
-DATA: It is water. A substance composed of two atoms of hydrogen 
-GOSHEVEN: It's not water. It's blood and it's sweat. It's the result of
-a ninety years of combined effort. This isn't a town. It's a monument
-to every man, woman, and child who's lived and died on Tau Cygna Five. 
-ARD'RIAN: Gosheven, you're talking nonsense. 
-GOSHEVEN: Am I? My grandfather is buried on that mountain. He died in a
-rock slide surveying the route for this aqueduct. This colony exists
-because of his sacrifice, and the sacrifice of thousands of others. No,
-we're not leaving. 
-DATA: The Sheliak will not accept humans on their planet, And they will
-not hesitate to use force to remove you. 
-GOSHEVEN: We will not be bullied off our land. Not by you, and not by
-the Sheliak. 
-(Gosheven walks away) 
-ARD'RIAN: Stubborn and irrational. Now what do we do? 
-DATA: Are his sentiments typical of the colonists? 
-ARD'RIAN: I hope not. 
-DATA: If I can convince enough people of the necessity of leaving 
-ARD'RIAN: Don't you mean, if we can convince? 
-[Ready room]
+[Ard'rian's home]
 
-PICARD: Come. 
-RIKER: Yes, sir? 
-PICARD: Three weeks. Starfleet is profuse in their apologies, but it
-will still be three weeks until the arrival of a colony transport ship
-equipped with dedicated personnel shuttles. 
-RIKER: We can't wait three weeks. 
-PICARD: Then the Sheliak must agree to extend our deadline. They plan
-to settle Tau Cygna Five two days from now. 
-RIKER: One of their ships must already be en route. 
-PICARD: We're going to intercept that ship. 
-RIKER: The Sheliak may interpret that as a hostile act. 
-PICARD: A risk we have to take.
+(Data suddenly sits up) 
+ARD'RIAN: I was afraid your neural pathways were scrambled beyond
+repair. 
+DATA: I am equipped with diagnostic circuits and am able to correct
+many malfunctions. 
+ARD'RIAN: I'm not surprised at Gosheven's behaviour. But Kentor and the
+others, they said they were with us. I guess words don't mean very
+much. 
+DATA: Perhaps that is a part of our difficulty. Words are all we have
+been using. Humans seem to take much stronger notice of actions. I
+require a phaser. 
+ARD'RIAN: What's a phaser? 
+DATA: A type of weapon. Unfortunately it does not function in the
+presence of hyperonic radiation. I will have to be innovative.
 
-[Observation lounge]
+[Shuttlecraft]
 
-RIKER: The Enterprise is going to try to intercept
-the Sheliak colony ship. Your job well, you know what your job is. 
-DATA [OC]: Commander. 
+(Data removes a small circuit board from his right
+forearm) 
+DATA: Hyperonic radiation randomises phaser beams. But I believe I can
+improvise a servocircuit which will compensate by continuously
+recollimating the output. 
+ARD'RIAN: You're using your own neural subprocessors to build a smarter
+phaser. 
+DATA: Essentially correct. Get word to Gosheven. Tell him I am coming
+to the pumping station. Tell him I am going to destroy the aqueduct. 
+ARD'RIAN: He'll try to stop you. 
+DATA: I sincerely hope so.
+

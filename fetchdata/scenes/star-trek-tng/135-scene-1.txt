@@ -1,51 +1,57 @@
-PICARD PHILLIPA NAKAMURA
+PULASKI RIKER OBRIEN DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Starbase 173]
+[Data's quarters]
 
-(Enterprise is docked at a space station. You can
-see her from the window) 
-(Picard is relaxing in the coffee lounge when he sees a woman at the
-top of the stairs) 
-PICARD: My God. (He walks over to her) Phillipa Louvois. And back in
-uniform. It's been ten years, but seeing you again like this makes it
-seem like fifty. If we weren't around all these people, do you know
-what I would like to do? 
-PHILLIPA: Bust a chair across my teeth? 
-PICARD: After that. 
-PHILLIPA: Ain't love wonderful. 
-(They sit together at a table) 
-PICARD: So, what are you doing out here? 
-PHILLIPA: I am in charge of the Twenty third Sector JAG office. We're
-brand new. I have no staff but one terrified little Ensign. Hopefully
-we can make some good law out here. 
-PICARD: Anything is possible. So you came back to Starfleet. 
-PHILLIPA: Still the most exciting and worthwhile place to be. 
-PICARD: You had no reason to leave. 
-PHILLIPA: They forced me out. 
-PICARD: No. That was your own damn stubborn pride. 
-PHILLIPA: When I prosecuted you in the Stargazer court martial, I was
-doing my job. 
-PICARD: Oh, you did more than your job. You enjoyed it. 
-PHILLIPA: Not true! A court martial is standard procedure when a ship
-is lost. I was doing my duty as an officer of the Judge Advocate
-General. 
-PICARD: You always enjoyed the adversarial process more than arriving
-at the truth. Well, I hope you've learned a little wisdom along the
-way. 
-PHILLIPA: You know, I never thought I would say this, but it's good to
-see you again. It brings a sense of order and stability to my universe
-to know that you're still a pompous ass. And a damn sexy man. 
-NAKAMURA: Captain Picard?
-PHILLIPA: Admiral. 
-NAKAMURA: Captain Louvois. You're acquainted with Captain Picard? 
-PHILLIPA: Oh, yes. We're old friends. Excuse me. Picard, call me. You
-can buy me dinner. 
-(Phillipa exits) 
-NAKAMURA: Captain, it's good to see you again. 
-PICARD: Admiral. 
-NAKAMURA: May I present Commander Bruce Maddox. 
-PICARD: Commander. 
-NAKAMURA: He has an interesting proposal for you, but that can wait for
-a while. I'm eager to see the Enterprise. 
-PICARD: Yes, sir. This way.
+(Pulaski, La Forge, Data (wearing a dealer's shade)
+O'Brien and Riker are sitting down for an evening's entertainment) 
+O'BRIEN: Hold it, that's my chair. My luck is always lousy unless I
+start on the dealer's right. 
+DATA: That would seem to be superstition. 
+O'BRIEN: Bitter experience has taught me it's a fundamental truth. 
+RIKER: Okay, the game is five card stud, nothing wild. Ante up. 
+DATA: This game is exceedingly simple. With only fifty two cards,
+twenty one of which I will see, and four other players, there are a
+limited number of winning combinations. 
+LAFORGE: There's more to this than just the cards, Data. 
+DATA: Of course. The bets will indicate of the relative strength of
+each hand. 
+O'BRIEN: Time to pluck a pigeon. 
+(Kate starts the betting) 
+PULASKI: Five. 
+LAFORGE: I'm in. 
+DATA: I too. 
+RIKER: Call. 
+(The first lot of face up cards are dealt) 
+RIKER: A seven, and a six, and the ace. 
+DATA: I bet ten. 
+O'BRIEN: See that. 
+RIKER: Call. 
+PULASKI: Fold. 
+LAFORGE: Yeah, me too. I'm out. 
+(Another deal. Riker is showing the ten, Jack and five of hearts. Data
+has two Queens and an Ace) 
+DATA: I bet five. 
+O'BRIEN: Same.
+RIKER: Your five. And five. 
+(Data sees the bet) 
+O'BRIEN: Too rich for me. 
+(Final card) 
+RIKER: No help. 
+(He gives himself the four of hearts. Ooo's all round) 
+DATA: I bet ten. 
+RIKER: Your ten and ten. 
+(We discover that Data has a third Queen. He looks at Riker) 
+DATA: Is that what is known as a poker face? 
+RIKER: Are you playing or not? 
+DATA: I fold. 
+(Riker's hole card was the two of spades. Busted) 
+DATA: You had nothing! 
+LAFORGE: He bluffed you, Data. 
+DATA: It makes very little sense to bet when you cannot win. 
+RIKER: But I did win. I was betting that you wouldn't call. 
+DATA: How could you tell? 
+PULASKI: Instinct, Data, instinct. The game is seven card high/low with
+a buy on the last card. And just to make it more interesting, the man
+with the axe takes all.
 

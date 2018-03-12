@@ -1,79 +1,39 @@
-BARTEL WAITER DATA LAFORGE SCOTT
+PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Ready room]
 
-LAFORGE: Adjust the frequency stabilisation on the
-main deflector dish. It's out of synch with the aft sensors. 
-SCOTT: Laddie, you need to phase-lock the warp fields within three
-percent or they'll become unstable. 
-LAFORGE: What? 
-SCOTT: Well look here. The warp field is 
-(the computer rejects his commands) 
-LAFORGE: We use a multiphase auto-containment field now. It's meant to
-operate above three percent. 
-SCOTT: Oh. Well, that would make the difference. 
-BARTEL: We can re start the engines in ten minutes, Commander. 
-LAFORGE: Thank you, Lieutenant. 
-SCOTT: I remember a time when the old Enterprise was spiralling in
-toward  Psi two
-thousand. 
-LAFORGE: Thank you. 
-SCOTT: The Captain wanted to try a cold start of the warp engines. I
-told him that without a proper phase lock it would take at least thirty
-minutes You canna change the laws of physics, I told him, but he
-wouldn't believe me, so I had to come up with a new engine start-up
-routine. Do you know that your dilithium crystals are going to
-fracture? 
-LAFORGE: We recomposite the crystals while they're still inside the
-articulation frame. Look, Mister Scott, I'd love to explain everything
-to you, but the Captain wants this spectrographic analysis done by
-thirteen hundred hours. 
-SCOTT: Do you mind a little advice? Starfleet captains are like
-children. They want everything right now and they want it their way,
-but the secret is to give them only what they need, not what they want.
+PICARD: Come. 
+(Geordi enters) 
+PICARD: Mister La Forge, I understand that before the Jenolen crashed,
+it had conducted an extensive survey of the Dyson sphere. Have we been
+able to access any of those records? 
+LAFORGE: We did try to download their memory core, but it was pretty
+heavily damaged in the crash. We actually haven't been able to get much
+out of it. 
+PICARD: Perhaps Captain Scott could be of use in accessing that
+material. 
+LAFORGE: It's possible. He does know those systems better than any of
+us. I'll have Lieutenant Bartel beam down with him. 
+PICARD: Mister La Forge, I would like you to accompany Captain Scott. 
+LAFORGE: Me, sir? 
+PICARD: Yes. Look, this is not an order, it's a request and it's one
+which you must feel perfectly free to decline. You see, one of the most
+important things in a person's life is to feel useful. Now, Mister
+Scott is a Starfleet officer and I would like him to feel useful again.
 
-LAFORGE: Yeah, well I told the Captain I'd have this analysis done in
-an hour. 
-SCOTT: How long will it really take? 
-LAFORGE: An hour. 
-SCOTT: You didn't tell him how long it would really take, did you? 
-LAFORGE: Of course I did. 
-SCOTT: Oh, laddie, you've got a lot to learn if you want people to
-think of you as a miracle worker. Now listen 
-LAFORGE: Captain Scott. I've tried to be patient, I've tried to be
-polite. But I've got a job to do here, and quite frankly, you're in the
-way. 
-SCOTT: I was driving starships while your great-grandfather was still
-in diapers. I'd think you'd be a little grateful for a some help. I'll
-leave ye to work, Mister La Forge.
+LAFORGE: I'll go with him, sir. 
+PICARD: Thank you.
 
-[Ten Forward]
+[Bridge]
 
-WAITER: May I help you, sir? 
-SCOTT: Aye, lad. Scotch, neat. 
-WAITER: There you go, sir. 
-SCOTT: Thank you. 
-(takes a drink) 
-SCOTT: What in blazes is this? 
-WAITER: Didn't you order Scotch? 
-SCOTT: Laddie, I was drinking Scotch a hundred years before you were
-born and I can tell you that whatever this is, it is definitely not
-Scotch. 
-DATA: I believe I may be of some assistance. Captain Scott is unaware
-of the existence of synthehol. 
-SCOTT: Synthehol? 
-DATA: Yes, sir. It is an alcohol substitute now being served aboard
-starships. It simulates the appearance, taste and smell of alcohol, but
-the intoxicating affects can be easily dismissed. 
-SCOTT: You're not quite human, are you? 
-DATA: No, sir. I am an android. Lieutenant Commander Data. 
-SCOTT: Synthetic Scotch, synthetic commanders. 
-DATA: I believe Guinan does keep a limited supply of non-syntheholic
-products. Perhaps one of them would be to your liking. 
-(Data goes behind the bar and comes out with a bottle) 
-SCOTT: What is it? 
-DATA: It is (looks at bottle) It is (sniffs contents) 
-It is
-green. 
-(Scott drinks) 
-SCOTT: Ah! 
+DATA: Commander, I believe I have found something
+on the sphere which could be a communications device. There's an
+antenna array approximately four hundred thousand kilometres south of
+our present position. It is emitting low intensity subspace signals. 
+RIKER: Can you open a channel? 
+DATA: No, sir, not from our present orbit. The array is currently
+directed away from us. 
+RIKER: Ensign, prepare to put us in orbit above those coordinates.
+Captain Picard to the Bridge, please.
+

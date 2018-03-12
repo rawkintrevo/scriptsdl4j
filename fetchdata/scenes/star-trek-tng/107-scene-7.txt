@@ -1,143 +1,59 @@
-RIKER LAFORGE TASHA PICARD TROI TARR DATA
+RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Transporter room]
 
-(A couple of kids are playing by the Enterprise
-tableau) 
-RIKER: Matthew! Pola! You know this area is off limits. Come on, come
-on. (they scurry out as Picard enters) Boys will be boys, Captain. 
-PICARD: Lieutenant, have you launched the probe? 
-LAFORGE: Aye, sir. We should getting those readings soon. 
-PICARD: Well, if we're not holding the Ferengi and they're not holding
-us, who the hell is? 
-LAFORGE: The probe will give us some of those answers, sir. 
-(Data has found a Chinese finger puzzle that the children have left
-behind) 
-PICARD: Data, you were going to show us something. 
-DATA: As requested, Captain, library computer information on this
-planet. It has been charted only from long range scans. It is Class M,
-but shows no indications of life forms, sentient or otherwise. However,
-you may find this of interest. Resolving it into our language. 
-(a holographic display over the table of the Tkon Empire data entry) 
-DATA: The centre of a huge space federation, a population of trillions.
+DATA: With this power drain, we may have trouble
+communicating with the Enterprise, sir. 
+RIKER: Understood. Anything else? 
+DATA: Due to this forcefield, there is presently no way to beam us
+back, sir. 
+LAFORGE: You had to ask. 
+RIKER: Understood. Energise.
 
-PICARD: Trillions? I've never heard the word Tkon before. 
-DATA: Understandable. It has been extinct six hundred thousand of our
-(his forefingers are stuck in the puzzle) of our years. These
-planets were once outposts of that empire. 
-PICARD: Data, what are you doing? 
-DATA: Apologies, Captain. I seem to have reached an odd functional
-impasse. I am stuck. 
-PICARD: Then get unstuck and continue with the briefing. 
-DATA: Yes, sir. That is what I am trying to do, sir, but the solution
-eludes me. 
-LAFORGE: My hero. 
-(Picard reaches across, pushes his fingers together and removes the
-puzzle) 
-PICARD: Continue, Commander. 
-DATA: Intriguing. It describes the Empire as being highly advanced and
-powerful, and capable of actually moving stars. 
-RIKER: Stars whose planets are their defence system? 
-DATA: Correct, sir. Outposts. The planet below was possibly one of
-them. 
-TASHA [OC]: Excuse the interruption, Captain, but this may be worth it.
-We're now receiving a signal from the probe. 
-PICARD: We'll take it here. 
-(The display changes to the planet with streams of energy heading out
-to both ships) 
-LAFORGE: Incredible! 
-RIKER: There's our mysterious something, Captain. It is a forcefield of
-some kind. 
-PICARD: Reaching up from the planet surface. Amazing power. Data, what
-does the legend say about the end of the Tkon Empire? 
-DATA: Their sun went supernova, sir. 
-PICARD: Could this planet have escaped that? 
-DATA: This planet may have been the most distant outpost, sir, but it
-shows no life form readings. 
-PICARD: We should take a look at it, Number One. Stand by with an away
-team. 
-RIKER: And if the Ferengi also realise the forcefield emanates from the
-planet, sir? 
-PICARD: That's a complication. Maybe we should ask them to join us in
-this. 
-LAFORGE: Team up with the Ferengi, sir? 
-PICARD: We've been ordered to learn all we can about them. Do you know
-a better way? 
-LAFORGE: Data. 
-(Geordi throws the finger puzzle to him)
+[Planet surface]
 
-Captain's log, supplemental. In orbit of a
-mysterious planet, whose unexplained forcefield has seized us with a
-power almost beyond imagination. If there is a solution to this, it
-almost certainly will involve cooperation from the Ferengi. 
-[Bridge] 
-TASHA: Ship's power drain is critical, Captain. I
-must now shut down our shields to maintain life support systems. 
-PICARD: Understood. Open hailing frequencies. 
-TASHA: Hailing frequencies open, sir. 
-PICARD: Ferengi vessel from Enterprise, come in. 
-TARR [on viewscreen]: Your alien images again shock us. 
-PICARD: With regard to the surrender, DaiMon Tarr. The facts are
-somewhat different. 
-TARR [on viewscreen]: Our own probe has already shown us your trickery,
-human. We withdraw our surrender. 
-PICARD: Agreed. Perhaps you would agree to a more productive
-relationship? 
-TARR [on viewscreen]: I prefer a more profitable one, human. 
-DATA: Yankee trader. 
-TARR [on viewscreen]: Explain what means yankee traders? 
-LAFORGE: He heard that. 
-PICARD: He recognises your interest in profit. Or is that an incorrect
-assumption? 
-TARR [on viewscreen]: We seek only what is equitable. What do you seek?
-Why did you begin by attacking us? 
-PICARD: We did not attack you. We gave chase in order to recover a
-Federation-owned energy device which 
-TARR [on viewscreen]: Which we know is ours. Your barbarous Federation
-placed it on one of our planets! 
-PICARD: On the contrary, Gamma Tauri Four is recognised by all
-civilised members of 
-TARR [on viewscreen]: The Ferengi are not uncivilised, human! Are you
-suggesting otherwise? 
-PICARD: All I'm saying is that you removed something which clearly did
-not belong to you. 
-TARR [on viewscreen]: Are you now calling us thieves?! 
-PICARD: On the contrary, I have no wish to discuss issues of property
-or of territory, when our mutual problem remains. Like it or not, we
-are both trapped by this energy draining forcefield from the planet. 
-TARR [on viewscreen]: On that matter there can be no argument. 
-PICARD: I would like to propose a swap. 
-TARR [on viewscreen]: And what is a swap? 
-PICARD: It's a trade, an exchange. 
-TARR [on viewscreen]: Yes, trade, human. What do you offer? 
-PICARD: We will tell you what we know about the planet, and in trade,
-you will give us your information. 
-TARR [on viewscreen]: Ridiculous. How will we know you will not
-withhold information? 
-PICARD: We must trust each other, Tarr. 
-TARR [on viewscreen]: Amusing, human. Trust each other? 
-PICARD: I propose that we test this relationship by cooperating in a
-joint exploration of the planet surface. 
-TARR [on viewscreen]: And what profit is in this, Picard Captain? 
-PICARD: The profit, DaiMon Tarr, of saving all our lives. 
-TARR [on viewscreen]: We will agree, no doubt foolishly. But you are
-warned that any further trickery on your part will be met with no
-mercy. 
-PICARD: Agreed. If you care to join us, we have a well-proven
-transporter device 
-TARR [on viewscreen]: We have a matter-energy device of our own. We
-will beam a science team of three to whatever
-co-ordinates you propose. 
-PICARD: Excellent. We will transmit the information shortly. Enterprise
-out. 
-TASHA: Hailing frequencies off. 
-PICARD: I would log that agreement as promising, at least. 
-RIKER: I wonder, Captain. I'm not usually one for distrust at first
-sight, but this may be an exception. 
-DATA: Especially in view of the fact the image he transmitted, sir, was
-somehow distorted. 
-TROI: I sensed the same thing, Captain. He's hiding something. 
-RIKER: With this power drain we can't delay. Now, I'd like some
-additional help in case we run into trouble. Can you spare Worf? 
-PICARD: Take him. And be careful, Number One.
+(It's a barren place with interesting crystalline
+structures here and there, and lightning flashes almost continuously.
+Riker appears alone) 
+RIKER: Tasha? Data? Geordi? Worf? Anybody?! 
+(He goes searching for the others) 
+RIKER: Data? 
+(He finds him standing on one of the crystalline outcrops) 
+RIKER: What are you doing up there? 
+DATA: Most intriguing, sir. I assume a problem of inaccurately
+transmitted programme
+coordinates due to the force field around the ship, sir. Are we alone,
+sir? 
+RIKER: Unfortunately. Let's find the others. What do you make of these?
+
+DATA: Crystalline. Mostly inert. Nothing to write home about. 
+RIKER: Excuse me? 
+DATA: Slang, sir. I did use it correctly, did I not? 
+RIKER: They've got to be around here somewhere. 
+(They carry on searching) 
+RIKER: What's that? 
+DATA: What? 
+RIKER: That! Geordi! 
+(Geordi is hanging upside down from the only tree in the area) 
+RIKER: Are you conscious? 
+LAFORGE: Do I look conscious? 
+RIKER: What are you doing? 
+LAFORGE: I'm resting, sir. My foot's stuck. Up there. I materialized
+upside down above the planet surface. 
+DATA: Tricorder's useless, sir. Communication's gone too. Fortunately
+you did not break any 
+LAFORGE: Data, who's that? 
+(The Ferengis are watching them. Little crouching men with whips in
+their hands) 
+RIKER: Who are you? 
+(The Ferengi let fly energy bolts from their whips, knocking the three
+men out. Actually, it takes two jolts to knock out Riker)
+
+Captain's log, supplemental. It is now six hours
+since our away team beamed down to the planet surface. On the
+Enterprise, our condition is rapidly worsening. Ordinarily, with
+reserve power alone, we could maintain life support for several months.
+But the force holding has closed down all engines and is draining our
+reserve power too.
 

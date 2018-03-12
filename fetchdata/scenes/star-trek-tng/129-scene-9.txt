@@ -1,92 +1,107 @@
-BOTH LESTRADE DATA LAFORGE
+TROI LAFORGE WORF PICARD RIKER COMPUTER MORIARTY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Alleyway]
+[Warehouse]
 
-DATA: Hear that? What do those footfalls tell you,
-Watson? 
-LAFORGE: That we're on the right track. 
-DATA: More particularly, that our opposition does indeed consist of two
-men, and that one of them is carrying the bound and gagged Doctor
-Pulaski. 
-LAFORGE: Now, you know all this because you read it in a Holmes story,
-right? 
-DATA: Not at all. Because we do not hear the doctor's footfalls, we
-must assume that she is being carried. And since we do not hear her
-cries for help, we know that she is gagged. Further both sets of
-footfalls are heavy and masculine. One man seems to shuffle and stumble
-in an irregular pattern. Since the ground is level, we must conclude
-that Doctor Pulaski is struggling against one of her captor,
-sporadically knocking him off stride. Deduction, pure and simple. well,
-not that simple. 
-BOTH: Footfalls. 
-(And off they run again) 
-DATA: There they are again, Watson. I dare say we have caught up rather
-nicely with our quarry. 
-(But it is a dead end) 
-DATA: There should be a doorway. 
-LAFORGE: Yeah. Come on. 
-(They retrace their steps and meet the Inspector) 
-LESTRADE: Holmes! Thank God you're here. 
+LAFORGE: Data, wait! Data! 
+MORIARTY: Why does it frighten you, Holmes?
+
 [Street]
 
-(A crowd is gathered around a body) 
-LESTRADE: Make way, please, make way. Make way for Sherlock Holmes.
-It's murder, Holmes, murder most foul. 
-LAFORGE: Well, Holmes, what do you say, man? 
-DATA: There is nothing here of relevance. I do not see how this
-connects with the disappearance of the Doctor. 
-LESTRADE: Doctor? Doctor Watson is right here, Holmes. 
-DATA: Doctor Kate Pulaski. But do not concern yourself, Inspector. You
-have enough on your mind. 
-LESTRADE: She was with you? 
-LAFORGE: Inspector, perhaps I can be of assistance. As I take note of
-this dead man, I deduce that he was strangled.
-You see, the finger marks on his throat indicate the cause of death,
-and, as there are signs of struggle, it's quite obvious that his
-murderer was a stranger who attacked him from behind. 
-LESTRADE: Is that correct, Holmes? 
-DATA: No. Look at his shoes. He's more a convict, released today from
-Dartmoor prison. (Pentonville more like, my dear Holmes)
-He spent the day in a tavern consuming large quantities of gin with his
-killer, who followed him to this spot and waited over there until the
-victim slipped into a drunken stupor. Then, out of fear, motivated only
-by self-protection, strangled him. There is your killer, Inspector. 
-(Data points at an old woman) 
-LESTRADE: Seize her. 
-DATA: And when you check, I believe you will find that this poor soul
-is the victim's common-law wife, who has been dreading the release of
-this a vile and abusive man. 
-LAFORGE: Holmes, the poor woman hardly has the strength to strangle a
-man this size. 
-DATA: Not with her hands, no. But with this. (a beaded shawl) When used
-as a garrote, these beads will leave marks quite similar to
-fingerprints. And, my dear Watson, you will note from the victim's
-throat, the marks are too evenly spaced to be have been made by human
-hands. 
-LESTRADE: Astounding, Holmes. 
-DATA: Not really, Inspector. And now, for strictly personal reasons, I
-must leave. Come, Watson. This murder does not connect with our case. 
-LESTRADE: Come along. Hurry it up. Come on. 
-(Data and Geordi leave the crime scene) 
-LAFORGE: Data, wait. If this murder isn't connected to the
-disappearance of Doctor Pulaski, then the computer is running an
-independent
-programme. 
-DATA: Yes. 
-LAFORGE: Why? 
-DATA: I do not know, and that is what puzzles me. 
-LAFORGE: Then you don't know what's going to happen next? 
-DATA: No. 
-LAFORGE: That's what I want to hear. Where to now? 
-DATA: We will find Doctor Pulaski in here. 
-LAFORGE: How do you know that? 
-DATA: It is the only obvious choice. 
-(And where he saw Moriarty go in) 
-LAFORGE: Why is the obvious choice all of a sudden the right one? I
-mean, isn't this a game of misdirection? 
-DATA: Not any more. He wants us to find him. 
-LAFORGE: Who does? 
-DATA: The master criminal. The man Holmes could only defeat at the cost
-of his own life at Reichenbach Falls. Our adversary, my dear Watson, is
-none other than Professor Moriarty himself. 
-LAFORGE: Now this is getting interesting. 
+LAFORGE: Data. Data, will you please tell me what's
+going on? 
+DATA: Computer, exit! 
+[Corridor]
+
+DATA: Computer, execute complete shutdown of the
+Holodeck. 
+COMPUTER: Access denied. 
+DATA: Explain. 
+COMPUTER: Override protocol has been initiated. 
+[Street]
+
+LAFORGE: It's still running. The programme didn't
+shut down. 
+DATA: We must see the Captain. 
+[Corridor]
+
+LAFORGE: Data, wait. What is it? What's on that
+paper? And why can't we shut down the holodeck? Data. 
+DATA: This. 
+LAFORGE: This is impossible. How can a character from 1890's London
+draw a picture of the Enterprise? Who's got control of the computer? 
+DATA: He does. Moriarty. 
+LAFORGE: That is impossible? I don't understand. 
+DATA: Nor do I. 
+LAFORGE: Data, wait. What about the doctor? Is she all right in there? 
+DATA: No. She is in grave danger.
+
+[Observation Lounge]
+
+PICARD: Computer, why wasn't the holodeck programme
+terminated? 
+COMPUTER: The override protocol has been initiated. 
+PICARD: On whose authority? 
+COMPUTER: Lieutenant Geordi La Forge. 
+LAFORGE: Me? 
+PICARD: All right, tell me from the beginning exactly what happened. 
+LAFORGE: Well, Doctor Pulaski and I had a discussion about whether Data
+could solve an original Holmes-type mystery. 
+PICARD: Which you asked the computer to provide. 
+LAFORGE: Yes, with a worthy opponent. 
+PICARD: Worthy of Holmes? 
+(watch the penny drop) 
+LAFORGE: Oh, my God. I asked for a Holmes-type mystery with an opponent
+capable of defeating Data. That got to be it. 
+PICARD: Merde. 
+LAFORGE: Captain, I'm sorry. 
+PICARD: I understand, Lieutenant. 
+DATA: Captain, this character, Moriarty, he called for the arch. 
+PICARD: So, he has access to the computer. 
+DATA: And perhaps our library files as well, sir. That level of
+information would be necessary in order to create a true adversary for
+me. 
+PICARD: Theorise, Data. What are his limits? 
+DATA: He is still a fictional character, sir, originally programmed
+with nineteenth century knowledge. 
+RIKER: Which now has access to twenty fourth century knowledge. 
+PICARD: What does he need to begin making use of that? 
+DATA: Only time, sir. 
+WORF: Sir, I can lead a security team to sweep the holodeck, find the
+Doctor, and bring her out. 
+DATA: Captain, I believe that would place the Doctor at risk. It is
+probable our mortality failsafe has been overridden. 
+PICARD: Computer, where is Doctor Pulaski. 
+COMPUTER: Doctor Pulaski is on holodeck two. 
+PICARD: And her vital signs? 
+COMPUTER: Strong and stable. 
+RIKER: Captain, recommend we try to destroy the hologram generations
+themselves. Is that possible, Geordi? 
+LAFORGE: Using wave guides, I could split a particle stream out of the
+matter/antimatter chamber and route it down through existing conduit
+into the holodeck. If accelerated to sufficient velocity that would
+quite literally wash away all present holographic constructs. The
+London buildings, the streets, the people, all gone including Moriarty.
+
+PICARD: Doctor Pulaski? 
+RIKER: The particle beam will tear apart human flesh as well. 
+TROI: Captain, I'm sensing something from the holodeck. It's as if a
+unifying force or a single consciousness is trying to bring it all into
+focus. 
+DATA: There can be only one explanation. In programming Moriarty to
+defeat me, not Holmes, he had to be able to acquire something which I
+possess. 
+PICARD: Exactly what? 
+DATA: Consciousness, sir. Without it he could not defeat me. 
+(The ship jerks suddenly from side to side) 
+PICARD: Computer, what happened? 
+COMPUTER: Attitude and stabilisation control of the Enterprise was
+momentarily transferred to holodeck two. 
+PICARD: Data, I think it best that you and I should return to the
+holodeck. 
+DATA: I will change into my uniform, sir. 
+PICARD: No. I will change into some appropriate costume. Uniforms might
+pose questions I'd rather he didn't ask. It seems that he feeds on
+knowledge. Well, let's not give your nemesis any more information than
+we have to.
+

@@ -1,93 +1,53 @@
-CRUSHER LAFORGE PICARD WESLEY COMPUTER JOHN DATA
-
-[Crushers' quarters]
-
-(After dinner) 
-CRUSHER: I've run every test and scan on him that I can think of, and
-yet there's no physiological evidence to indicate that he would possess
-such powers. But then, there's so much about John that's a mystery. 
-WESLEY: You know, I really like him. 
-CRUSHER: He does have a certain charm doesn't he? The entire medical
-staff has commented on it. 
-WESLEY: You seem a little taken with him yourself. 
-CRUSHER: He has a strength and serenity that I find very attractive.
-And yet he's vulnerable. I guess I find him intriguing. 
-WESLEY: Seems like there's a little more to it than that. 
-CRUSHER: Is this your way of asking me if I'm getting romantically
-involved with him? 
-WESLEY: You said it, I didn't. 
-CRUSHER: My feelings toward him aren't romantic exactly. I mean, I know
-that the doctor-patient relationship can sometimes create a false sense
-of intimacy, but this is different. There's an almost spiritual
-connection. I guess I'm not making any sense, am I? 
-WESLEY: I think I understand.
+TROI LAFORGE WORF PICARD RIKER DATA GUEST3 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-LAFORGE: Data, I was thinking about the storage
-capsule last night and I was wondering, what if we've been going about
-this thing the wrong way? We've been trying to analyse its mechanical
-properties. What if it is a biochemical storage medium? 
-DATA: Are you suggesting that it employs memory RNA like an organic
-cell? 
-LAFORGE: Well, it does contain quantities of nucleic acids. 
-DATA: Perhaps the information sequences are encoded in the molecular
-patterns themselves. 
-LAFORGE: Computer, scan the storage capsule. Analyse molecular
-sequences on nucleic acid chains. 
-(and on the science station screen appears -) 
-LAFORGE: Well. what do you know. A navigational chart. 
-DATA: It appears that your hypothesis was correct, Geordi. 
-LAFORGE: I knew it. Captain? 
-PICARD: Found something? 
-DATA: We have determined that the storage cube from John Doe's escape
-pod contains navigational information. 
-PICARD: Can you match these stars to our charts? 
-DATA: Computer, run transformational matrix calculations. Match
-navigational referents to known stars in this sector. 
-COMPUTER: Information on this sector is incomplete. No correlation. 
-LAFORGE: I'm not giving up yet. Not after coming so close to cracking
-this thing. You know, that might be flight path information from John's
-ship, but without a frame of reference, I can't determine its origin
-points. 
-DATA: Computer, assume those paths are course corrections and derive
-gravitational values for stellar objects near those flight paths. 
-DATA: Most of these are ordinary G-type stars. This would appear to be
-a neutron star, possibly a pulsar. 
-LAFORGE: Which means that this might be a rotational time reference. 
-DATA: Computer, assume these symbols are pulsars. Translate associated
-values into standard temporal notations. Computer, is there a pulsar
-with a rotational period of one point five two four four seconds within
-sensor range? 
-COMPUTER: Affirmative. 
-LAFORGE: Bingo! Now, Computer, overlay navigational chart using
-referenced pulsars and project a flight path back to it's origin. 
-COMPUTER: Flight path originated at bearing zero zero three, mark zero
-one five. Distance, two point three parsecs. 
-LAFORGE: That's it, Captain. That's where John Doe came from. 
-DATA: That bearing is almost directly along our planned course, sir. 
-PICARD: Good. Then we can continue our mission without significant
-interruption.
+LAFORGE: John, I really want to thank you. 
+GUEST3: For what? 
+LAFORGE: I don't know how, or even why, but down on the planet you gave
+me something. A new confidence. 
+GUEST3: I doubt I can take credit for that. Perhaps I only helped you
+find something you already had. 
+DATA: Captain, on screen. Alien vessel approaching at half impulse,
+sir. Heading zero five one mark one one four. 
+PICARD: Raise shields. Slow to one third impulse power. Bring us to one
+zero three mark zero two five. Mister Worf, hail the alien vessel. 
+WORF: They continue to ignore our hails, sir. 
+DATA: They are scanning us, Captain. 
+WORF: They are answering our hail, Captain. 
+PICARD: On screen. 
+GUEST3: Sunad. 
+(mute) 
+PICARD: You know him? 
+GUEST3: Yes. I don't know how, but he's dangerous. 
+(resume) 
+GUEST2 [on viewscreen]: I am Commander Sunad of Zalkon. You are
+trespassing into our space and you are holding a Zalkonian citizen. 
+PICARD: I'm Captain Jean-Luc Picard of the United Federation of
+Planets. We do not intend transgression of 
+GUEST2 [on viewscreen]: You will return him to us immediately. 
+PICARD: Sunad, this individual is a guest aboard our ship. We found him
+dying in a shipwreck. We returned him to health. 
+GUEST2 [on viewscreen]: Then you aided a criminal. He is one of four
+escaped prisoners. We eliminated the other three. We thought this one
+dead as well. Return him so we may complete our task. 
+PICARD: Of what is he accused? 
+GUEST2 [on viewscreen]: He is a disruptive influence. He spreads lies.
+He encourages dissent. He disturbs the natural order of our society. 
+PICARD: In what way? 
+GUEST2 [on viewscreen]: It is not your concern. I will give you two
+hours to comply. 
+(transmission ends) 
+RIKER: Tactical analysis. 
+WORF: The Zalkonian ship has a formidable armament. Their weaponry is
+comparable to ours. 
+LAFORGE: They're as fast and probably just as manoeuvrable. 
+PICARD: Counsellor, do they mean to carry out their threat? 
+TROI: I believe so. Sunad's hatred for John was evident but there's
+something else. The Zalkonians are afraid of John. 
+PICARD: Commander Riker, Counsellor, Doctor. John, I want you to join
+us. Mister Data, you have the Bridge. Mister Worf stay at Tactical.
+Counter any moves the Zalkonian makes. 
+WORF: Aye, sir.
 
-[Sickbay - room four]
-
-JOHN: Home? 
-PICARD: Yes. Using the information we found in your escape pod, we may
-be able to return you to your people. 
-JOHN: I cannot go back. 
-PICARD: Why is that? 
-JOHN: You must not take me home, Captain. 
-CRUSHER: John, your memory, has it returned? 
-JOHN: All I know is that we came out here to escape. 
-PICARD: Escape? 
-CRUSHER: There were others with you? 
-JOHN: Yes, I was not alone. But what happened to the others, or what we
-were escaping from, I cannot remember. But I do know you must not take
-me back. Not yet. 
-PICARD: We will not arrive in your star system for at least three
-weeks. That will give us plenty of time to discuss this further. 
-CRUSHER: Hopefully, by then you will have regained more of your memory.
-
-JOHN: You're right, of course, Captain. I apologise for my outburst. 
-PICARD: It's understandable. 
-(Picard and Beverly leave, and John has another golden glow moment) 

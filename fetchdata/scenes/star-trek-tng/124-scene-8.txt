@@ -1,111 +1,53 @@
-PICARD RIKER CRUSHER DATA JENICE
+PICARD RIKER DATA WORF GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Observation lounge]
 
-(A woman and a shaking man materialise on the
-floor) 
-CRUSHER: I'll help. Easy. Easy. 
-(She and a male nurse get Paul onto a bed) 
-CRUSHER: I've got his legs. How long has he been like this? 
-JENICE: Several hours at least. He was in his lab, so I can't be sure. 
-CRUSHER: I need to do some tests. 
-(Picard, Riker and Data enter) 
-PICARD: Er, I, er. 
-JENICE: Jean-Luc. I thought the voice sounded familiar. 
-PICARD: Hello. 
-JENICE: I should have known. Who else would have charged to my rescue? 
-PICARD: This is my First Officer, Commander William Riker. Lieutenant
-Commander Data. This is Jenice Manheim. 
-RIKER: A pleasure, Mrs. Manheim. 
-JENICE: Thank you. 
-PICARD: I have a number of questions for you. 
-JENICE: I hope I can be of some help. 
-PICARD: Why don't we sit down?
-
-[Doctor's office]
-
-PICARD: You said there were only two of you left.
-What happened to the rest of the crew? 
-JENICE: They were working in the second lab. Something happened there a
-few weeks ago. They were all killed. It was a terrible accident. I
-don't know exactly what happened. So many brilliant, wonderful minds,
-just gone. 
-DATA: Do you know the nature of Doctor Manheim's work? 
-JENICE: Paul's always been interested in time. He's never believed that
-it was immutable, any more than space is immutable. Over the last
-decade, he came to believe that we reside in one of infinite
-dimensions, and what holds us here is the constancy of time. Change
-that and it would be what he called opening the window to those other
-dimensions. 
-RIKER: Which begins to explain what happened. 
-JENICE: Have you been experiencing something up here? 
-PICARD: Yes. What is emanating here is having repercussions light years
-away, maybe even further. 
-JENICE: That would explain his anxiety. I had no idea it had gone so
-far beyond Vandor. 
-RIKER: Why this place? Why Vandor? 
-JENICE: All I can tell you about that is Paul and the rest of the team
-searched for two years to find it. Vandor's exactly what they needed. A
-planetoid around a binary star. 
-DATA: Because of the dense gravity of the pulsar. 
-PICARD: Did your husband ever attempt to define these dimensions, give
-you an idea of what he expected? 
-JENICE: No. But he did say that he was very close to proving his
-theories. And then the accident. 
-PICARD: Did he anticipate that these experiments might be dangerous? 
-JENICE: I didn't think so. Now, in retrospect, he probably did. That
-would explain all the unusual precautions he began taking, even before
-the accident. The force field, the elaborate security system. Every
-time he started a new experiment, he insisted that I stay in what he
-said called a protected room.
-PICARD: Ah, and that's why you weren't affected. 
-JENICE: Jean-Luc, he would never knowingly do anything to hurt anyone. 
-PICARD: Yes, I believe that. 
-JENICE: But as he saw his goal getting closer, seeming possible, he
-became more and more obsessive. Maybe that clouded his judgement. This
-is not how I imagined seeing you again. 
-PICARD: Nor I you. 
-JENICE: You've done well. A great starship in the far reaches of the
-galaxy. It's everything you'd hoped. 
-PICARD: Not exactly. Nothing works just as you hope. If you can't tell
-us any more, I need to send a team down to the lab. 
-JENICE: You can't. It's protected. One of the other scientists made
-sure no one could get in. 
-CRUSHER: Excuse me. 
-JENICE: Is he worse? 
-CRUSHER: He's resting. But I'd like you to undergo some tests as well.
-My nurse will start them. 
-JENICE: Thank you for your kindness, Doctor. 
-(Jenice kisses Picard's cheek and leave) 
-PICARD: She's an old friend. 
-CRUSHER: I gathered that. It's her husband I'm more concerned with at
-the moment. 
-PICARD: What's the prognosis? 
-CRUSHER: I believe he's dying. His neurochemistry's been affected, but
-I don't know how or why. I've never encountered anything like it
-before. 
-RIKER: How long does he have? 
-CRUSHER: Maybe a couple of days. It's hard to predict. All I can do is
-maintain him or attempt to maintain him until I find out what's causing
-the damage. 
-PICARD: Can we talk to him? 
-CRUSHER: Not now. Not yet. 
-[Turbolift]
-
-(Picard, Data and Riker are about to enter) 
-DATA: Incidentally, Captain, the effects of the time distortions are
-now being felt in the Ilecom system. 
-(They enter) 
-PICARD: Bridge. In the past decade, Manheim has turned some vague
-theories into a practical application. 
-RIKER: Yes, but without his help, I'm not sure we'll be able to pose
-any intelligent questions, let alone come up with any solutions. 
-(The turbolift door opens, and Picard, Data and Riker are about to
-enter) 
-DATA: Incidentally, Captain, the effects of the time distortions are
-now being felt in the Ilecom system. 
-PICARD: It's us before we stepped into the turbolift. 
-PICARD 2: It's happening again. 
-DATA 2: I feel no disorientation. 
-DATA: Nor do I. 
-(The doors close) 
+DATA: If what the Professor has given me is
+accurate, it is possible to repair the damage. But it must be perfectly
+timed to coincide with another time distortion episode.
+RIKER: Can we predict the timing? 
+DATA: I believe so, sir. 
+PICARD: We have to. If we don't seal that hole, this other dimension
+he's opened will rip into the fabric of the galaxy. Reality as we
+perceive it will not be the same. Lieutenant Worf. 
+WORF: Yes, sir? 
+PICARD: I want those codes that Manheim gave Mister Data rechecked and
+then checked again. No one is beaming down to Vandor unless we can be
+reasonably sure they can get through. 
+WORF: Aye, sir. 
+(The door opens) 
+GUEST5: I'm sorry for intruding. I was told I'd find you here. 
+PICARD: You're not intruding. We're just finished. Come in. Thank you. 
+(Riker, Data and Worf leave) 
+GUEST5: I knew you wouldn't come to me. 
+PICARD: No, not under these circumstances. 
+GUEST5: We have unfinished business. 
+PICARD: Yes, we do. 
+GUEST5: Why didn't you come to meet me that last day in Paris? 
+PICARD: I was afraid. 
+GUEST5: Oh, I didn't want this. 
+PICARD: What? 
+GUEST5: The truth. 
+PICARD: Oh, you want me to lie? 
+GUEST5: Of course. A nice, soft, painless lie. 
+PICARD: Oh, I got the days confused. I thought it was Tuesday when it
+was Wednesday. I went to the Cafe Moulin instead of the Cafe des
+Artistes. 
+GUEST5: Ah, that's better. It was raining and you couldn't find a cab.
+I waited all day. And it was raining. It rained the rest of the week. I
+went to Starfleet headquarters looking for you, but you'd already
+shipped out. So, come on, Jean-Luc. Let's hear the truth. 
+PICARD: It was fear. Fear of seeing you, losing my resolve. Fear of
+staying, losing myself. Fear that neither of these choices was right,
+and that, and that either would have 
+GUEST5: For a long time, not a day went by when I didn't look up into
+the sky, and wonder. 
+PICARD: Each time that I returned to Earth, my thoughts were filled
+with you. 
+GUEST5: I've thought a lot about this over the years, and perhaps
+you're leaving out your greatest fear. The real reason you left. 
+PICARD: Which was? 
+GUEST5: That life with me would have somehow made you ordinary. 
+PICARD: You're wonderful. And am I that transparent? 
+GUEST5: Only to me. 

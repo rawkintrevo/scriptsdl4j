@@ -1,51 +1,46 @@
-PICARD DATA JENNA
+RIKER LAFORGE WORF PICARD MCKNIGHT DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Jenna's quarters]
+[Shuttle]
 
-(Data rings the doorbell. He is bearing flowers) 
-JENNA: They're lovely. Come in. What are they? 
-DATA: A variety of crystilia. Their fragrance is an evolutionary
-response to the acrid nature of the atmosphere on Telemarius Four. 
-JENNA: You silver-tongued devil. Why don't I find a place to put these.
-Which won't be that easy. Ah. 
-(she takes some old flowers out of a vase and puts the new ones in
-their place) 
-DATA: It seems your quarters have reverted to their earlier state of
-disorder. 
-JENNA: I know. I'm hopeless. There. (on the table) They're beautiful,
-Data. It's really sweet of you. 
-DATA: Commander Riker suggested this particular flower. He said it had
-worked for him in the past. 
-(Data holds out his arms for an embrace) 
-JENNA: You didn't talk to the entire ship about us. 
-DATA: No. In actuality, less than one percent of the Enterprise crew
-was involved. It was necessary to balance theory with
-experiential referents. Both are required for a programme of this
-nature. Computer, decrease illumination level by one third standard
-lux. 
-(he clears the sofa then puts out an arm. She is meant to snuggle into
-it) 
-JENNA: This is all part of a programme? 
-DATA: Yes. One which I have just created for romantic relationships. 
-JENNA: So I'm just a small variable in one of your new computational
-environments? 
-DATA: You are much more than that, Jenna. I have written a subroutine
-specifically for you. A
-programme within the programme.
-I have devoted a considerable share of my internal resources to its
-development. 
-JENNA: Data, that's the nicest thing anybody's ever said to me. 
-(he finally manages to pull her in for a kiss)
-
+PICARD: I'm re-routing the secondary deuterium
+supply. Switching to manual control. 
 [Bridge]
 
-PICARD: Estimated time of arrival, Mister Data? 
-DATA: We will reach the class M planet in approximately eleven hours,
-sir. 
-PICARD: You have the Bridge, Number One.
+DATA: Transceiver signal is down forty two percent.
+Navigational inputs are not registering. 
+RIKER: We've lost our link, Captain. 
+[Shuttle]
+ 
+PICARD: You'll have to make course changes manually
+until we re-establish the connection. 
+[Bridge]
 
-[Ready room]
+RIKER: Understood. Mister Data, get us back online.
+Geordi, try boosting the power to the LU bands. McKnight, increase the
+distance between the Enterprise and the shuttle. We're going to need
+some more room to make manual adjustments. 
+[Shuttle]
 
-(the desk monitor is lying under the desk, in
-pieces) 
-PICARD: Picard to Lieutenant Worf. 
+PICARD: New heading two nine nine mark one eight. 
+MCKNIGHT [OC]: Yes, sir, I've got it. Course corrected. 
+PICARD: Enterprise, hard starboard! 
+MCKNIGHT [OC]: Aye, sir. 
+[Bridge]
+
+WORF: Deformation impact on deck fifteen, science
+section. 
+RIKER: Damage? 
+WORF: Reports coming in. Minimal damage. 
+[Shuttle]
+
+PICARD: Mister La Forge, I am still having
+difficulty controlling the shuttlecraft. 
+LAFORGE: Aye, sir.
+
+[Engineering]
+
+LAFORGE: Your krellide storage cells are losing
+their charge. Maintaining manual control is going to become
+increasingly difficult.
+

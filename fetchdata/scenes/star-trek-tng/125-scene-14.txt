@@ -1,48 +1,42 @@
-PICARD RIKER REMMICK QUINN
+PICARD REMMICK DATA WORF CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Starfleet Transporter room]
+[Ante room]
 
-(Quinn has a case with him, that contains a living
-creature similar to the Tau Ceti thing from Wrath of
-Khan) 
-REMMICK: Are you ready to beam up to the Enterprise, sir? 
-QUINN: Yes, Commander, quite ready. Energise, Mister Remmick. 
-[Transporter room]
+CRUSHER [OC]: Look for this, Captain. I believe it
+will be visible on anyone who has been compromised. 
+PICARD: Any idea what it is or where it comes from? 
+CRUSHER [OC]: Negative. 
+[Sickbay]
 
-PICARD: Welcome aboard, Greg. 
-QUINN: Good to see you. 
-PICARD: You remember Commander Riker. 
-QUINN: Hello again, Commander. 
-PICARD: I must say, you're looking remarkably well. 
-QUINN: Never felt better in my life. 
-PICARD: When you were here last, you were saying that you were feeling
-tired. 
-QUINN: Tired of life I was, but not anymore. I'm ready for new
-challenges now. What about another look at this ship?
+CRUSHER: I've never seen anything like it before. 
+DATA [OC]: Lieutenant Worf, if the situation is under control, please
+report to the Bridge. 
+WORF: Doctor? 
+CRUSHER: It's okay. He won't be waking up for a long time. 
+[Ante room]
 
-[Corridor]
+PICARD: Continue, Doctor. 
+CRUSHER [OC]: By the placement of the tendrils 
+[Sickbay]
 
-PICARD: Remember what you told me back at Relva
-Seven, About the threat that you perceived to the very fabric of the
-Federation? 
-QUINN: Is that why you're here? Because of what I said? 
-PICARD: It's one of the reasons, yes. 
-QUINN: But Jean-Luc, you took me far too literally. I was only
-referring to the problems involved in assimilating new races into the
-Federation. It's an ongoing, tumultuous process which can cause stress
-and strain on every aspect of our alliance. 
-PICARD: I'm sorry, I must have misunderstood. 
-QUINN: It's not for you to apologise. If I led you up the garden path,
-I humbly ask your forgiveness. 
-PICARD: Of course. 
-QUINN: Now, gentlemen, you have a dinner to attend to, while I would
-like to go and freshen up before I look around a little bit more. 
-RIKER: We've arranged your usual accommodation, sir. 
-QUINN: That's outstanding. 
-PICARD: Yes, I should be getting down to the planet. Commander Riker
-will be available here to show you anything that you want to see. 
-QUINN: It's really not necessary. 
-PICARD: I insist. (to Riker) When you've finished showing the Admiral
-anything that he needs, you can join me down on Earth. 
-QUINN: I may want to stay a while, Jean-Luc. 
-PICARD: Of course. Stay as long as you wish. (Quinn goes on) No. 
+CRUSHER: The parasite appears to stimulate the
+victim's adrenal glands, generate great strength 
+[Ante room]
+
+CRUSHER [OC]: And resistance to the 
+PICARD: Never mind the details. Can you remove it? 
+CRUSHER [OC]: I don't think so. 
+[Sickbay]
+
+CRUSHER: Not without killing the patient. Captain. 
+[Ante room]
+
+CRUSHER [OC]: You must set your phaser on kill.
+Stun has little effect. 
+PICARD: Doctor, one does not beam down to Starfleet Headquarters armed.
+
+REMMICK: Your food is getting cold, Captain. 
+PICARD: I'm going in to dinner now, Doctor. Tell Commander Riker to
+join me as soon as he's ready. Picard out.
+

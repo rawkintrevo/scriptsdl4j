@@ -1,49 +1,30 @@
-ALL WORF DIVOK KOROTH TORIN KAHLESS
+PICARD GOWRON
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Temple]
+[Transporter room]
 
-(Kahless and the group march in, and Kahless picks
-up the bat'leth from the throne) 
-KOROTH: What are you doing? Who are you? 
-DIVOK: It is Kahless. 
-KAHLESS: I have returned. You doubt me. Who here knows the story of how
-this sword was forged? 
-TORIN: No one knows. It is not written in the sacred texts. 
-KAHLESS: I went into the mountains, all the way to the volcano at
-Kri'stak. There I cut off a lock of my hair and thrust it into the
-river of molten rock which poured from the summit. The hair began to
-burn. Then I plunged it into the lake of Lusor and twisted it into this
-sword. And after I used it to kill the tyrant Molor I gave it a name.
-Bat'leth. The sword of honour. 
-KOROTH: You know. The story of the sword is known only to the High
-Clerics. It was never written down, so that if he returned, we could be
-sure it was Kahless. 
-KAHLESS: I have returned because there is a great need in my people.
-They fight among themselves in petty wars and corrupt the glory of the
-Klingon spirit. They have lost their way. But it is not too late. I
-have returned and I will lead my people again. 
-(Koroth kneels) 
-KOROTH: Vorcha doh baghk, Kahless! 
-ALL: (kneeling) Vorcha doh baghk, Kahless! Vorcha doh baghk, Kahless!
-(all, that is, except for Worf)
+PICARD: Welcome aboard, Gowron. 
+GOWRON: Where is he, Picard? 
+PICARD: I assume that you're referring to Kahless. 
+GOWRON: I am referring to the filthy pahtk who is using his name. 
+PICARD: Well, the person in question is in his quarters at the moment. 
+GOWRON: What have you learned about him so far? 
+[Corridor]
 
-[Worf's chambers]
-
-KAHLESS: What is it you are doing? 
-WORF: I was getting my tricorder. 
-KAHLESS: Tricorder? Is it a weapon? 
-WORF: No, no. It is a tool. I intended to use it to see 
-KAHLESS: To see if I was real. Proceed. Use your tricorder. Well? 
-WORF: You are Klingon. 
-KAHLESS: What else could I be? 
-WORF: There are many possibilities. A shape shifter, a holographic
-projection. 
-KAHLESS: So, you are a sceptic, Worf. I like that. 
-WORF: How do you know my name? 
-KAHLESS: We have met before. I appeared to you in a vision in the caves
-of No'Mat. You were just a child then. I told you that you would do
-something that no Klingon had ever done before. You still do not
-believe it is me, do you Worf? 
-WORF: I want to believe. 
-KAHLESS: That is a beginning.
+GOWRON: What kind of medical analysis have you
+made? Do you have any theories about his true origin? 
+PICARD: We haven't done any analysis. 
+GOWRON: What kind of fools do you have working for you, Picard? The
+imposter's been aboard for nearly a day. 
+PICARD: If you wanted to run tests on Kahless, you should have sent a
+Klingon ship for him. 
+GOWRON: And have him begin spreading his poisonous lies through a ship
+of loyal Klingons? Never. 
+PICARD: If he really is an imposter then you have nothing to worry
+about. 
+GOWRON: Kahless has been dead for a thousand years, but the idea of
+Kahless is still alive. Have you ever fought an idea, Picard? It has no
+weapon to destroy, no body to kill. The idea of Kahless' return must be
+stopped here, now, or it will travel through the Empire like a wave and
+leave nothing but destruction behind.
 

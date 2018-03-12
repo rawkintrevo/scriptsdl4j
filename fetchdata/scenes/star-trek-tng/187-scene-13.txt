@@ -1,38 +1,71 @@
-PICARD TROI LAFORGE WORF ARDRA
-
-[Picard's quarters]
-
-(Picard has fallen asleep with a book. He is woken
-by a strong breeze and sees Ardra standing there in a negligee. He's
-not wearing much more himself.) 
-PICARD: Picard to Bridge. Intruder alert. Picard to Bridge. 
-ARDRA: Oh, I've arranged for a bit of privacy. 
-(Picard gets up and walks to the door, but it doesn't open) 
-ARDRA: Just the two of us. 
-PICARD: This is becoming very tiresome. 
-ARDRA: Oh, come now, Picard. You know you find me tantalising. Give in
-to your desires. 
-PICARD: You know, there's nothing about you I find tantalising. On the
-contrary, I find you obvious and vulgar. 
-ARDRA: Easily fixed. (Victorian clothing) I can be your ideal woman,
-Picard. Prim and proper. And chaste, until I succumb to your charms. Or
-would your fantasies turn more toward a professional woman, one perhaps
-who wears a Starfleet uniform? Perhaps I could even be 
-TROI: Someone close at hand and yet unattainable. I can do anything for
-you, Captain. Anything you could ever imagine. 
-ARDRA: I could give you a night that would light fire in your dreams
-until you die and you would reject me? 
-PICARD: Oh, yes. 
-ARDRA: You shall regret that. 
-PICARD: I think not. 
-ARDRA: Oh, but you will. 
-(and Picard vanishes)
+PICARD DATA LAFORGE GUEST4 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Science station]
 
-LAFORGE: Captain Picard? Captain, I wasn't
-expecting you here. 
-PICARD: Neither was I. 
-LAFORGE: La Forge to Enterprise. 
-WORF [OC]: Go ahead. 
-LAFORGE: Worf, Captain Picard is here. 
+DATA: I cannot locate the Enterprise anywhere
+within one light year of the planet, sir. 
+PICARD: I don't believe Ardra is capable of transporting the Enterprise
+a light year away. Keep hailing them, Mister Data. Repeat on all
+frequencies. 
+LAFORGE: Hey, I think we've found something here. There's a sudden jump
+in Z-particle readings just about the time the Enterprise disappeared. 
+PICARD: Where did it originate? 
+GUEST4: It was too brief to pinpoint. 
+LAFORGE: But it could suggest a hidden power source. 
+PICARD: Gentlemen, we need to find that source if we are to defeat this
+woman. 
+LAFORGE: Well, if you can get her to perform a few more magic tricks
+like that one, we just might be able to track it down. 
+(Ardra appears) 
+GUEST2: So, I trust you have a bit more respect for me now. 
+PICARD: What have you done with my ship? 
+GUEST2: I've done nothing with your ship. My ship is safely in my
+possession. 
+PICARD: I do not recognise your claim on the Enterprise. Nor on this
+world, for that matter. In accordance with Ventaxian legal precedent, I
+call for an arbitration. 
+GUEST2: An arbitration? There's nothing here to arbitrate. 
+PICARD: Oh, but there is. You're a fraud, madame, and I intend to prove
+that you could not have affected the changes that took place on this
+planet. 
+GUEST2: Do you not believe what you see with your own eyes? Your ship is
+gone, Captain. 
+PICARD: An illusion. Magicians have been making things of all sorts
+disappear for ages. 
+GUEST2: You underestimate me. But then, most people do, until it's too
+late. 
+PICARD: If you are who you say you are, then you have nothing to lose. 
+GUEST2: I also have nothing to gain. I already have possession of this
+planet and your ship. 
+PICARD: I am prepared to offer an added incentive. If you win, I'll
+take you to the ruins of Ligillium. 
+GUEST2: The Zaterl Emerald? You know where it is? 
+PICARD: Yes, I do. 
+GUEST2: Oh, you are too clever. But I have enough jewels. If you wish
+this foolish arbitration, I will choose my own prize. 
+PICARD: And what would that be? 
+GUEST2: You. By all rights, your body is already mine, but I want more.
+I want your heart, your mind, your soul, and I want you to give them to
+me without resistance, of your own free will. So, do you still wish to
+pursue this most dangerous game? 
+PICARD: I agree to your terms. 
+GUEST2: Oh, Picard, I will enjoy you morning, noon and night. 
+PICARD: But we must agree to an arbiter. 
+GUEST2: Very well. I choose Mister Data. Any objections? 
+PICARD: But Mister Data is a member of my crew. 
+GUEST2: Of my crew. And he's an android. He is incapable of deceit or
+bias. He has no feelings to get in the way of his judgment. 
+DATA: Ardra, before he responds, may I have a word in private with
+Captain Picard? 
+(she nods, and they cross the room) 
+DATA: Sir, I request you reject me as arbitrator. 
+PICARD: Why? 
+DATA: Ardra is right. If I am chosen, I will perform my duties without
+bias or sentiment. I cannot guarantee I will deliver a verdict in your
+favour. 
+PICARD: Data, where else on this planet can I find someone she cannot
+intimidate? 
+DATA: Sir, I will have to follow the rules of conduct for a Ventaxian
+jurist. 
+PICARD: I understand. You'll make a fine judge. 

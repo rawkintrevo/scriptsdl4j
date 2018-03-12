@@ -1,36 +1,45 @@
-RIKER LAFORGE PICARD CRUSHER DATA ZAHEVA
+GUEST1 TROI OBRIEN GUEST3 LAFORGE KEIKO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
  [Brittain Bridge]
 
-LAFORGE: All the engines check out perfectly,
-Commander. Once we get them started, the Brittain can get back to
-Starbase under her own power. 
-RIKER: Let's give it a try. 
-LAFORGE: Pre-heating injectors. Data, fuel flow? 
-DATA: Matter valves are open and operating. Magnetic containment of
-antimatter pods is constant. 
-LAFORGE: Okay, open injectors. 
-DATA: Injectors open. There is no engine activity at all, sir. 
-RIKER: What's wrong? 
-LAFORGE: Nothing's wrong. I don't understand it.
+LAFORGE: I'm going to try re-calibrating the field
+generators. I still don't see why we can't get the engines started. It
+just doesn't make any sense. 
+GUEST1: Someone's still here. 
+LAFORGE: What did you say, Ensign? 
+GUEST1: Can't you hear it? There's someone still alive on the ship! I
+heard, I mean, I thought I heard something. 
+LAFORGE: The ship was searched thoroughly. There's nobody left on
+board. 
+GUEST1: Sorry, sir. My mistake. 
+LAFORGE: Don't worry about it. There were thirty four people were found
+dead on this ship. That's enough to make anybody uneasy. 
+GUEST1: Thank you, sir.
 
-[Ready room]
+[Sickbay]
 
-PICARD: Come. 
-CRUSHER: I've been studying the autopsy reports. The conclusion is
-appalling. There was no outside source, no alien presence. All thirty
-four of them appear to have killed each other. 
-PICARD: What could have caused such an event? Drugs? A virus? Poison? 
-CRUSHER: Toxicological tests showed no unusual substances in their
-systems, and they all appear to be in good health. But for whatever
-reason, they seemed to turn against each other, using phasers and
-knives and bare hands. I'd like you to see this, Captain. It's from the
-logs of the Brittain. Captain Zaheva's mental condition deteriorated
-steadily once they'd became stranded. She began talking of plots and
-mutinies. This was the last entry log, made after they had been adrift
-for over three weeks. 
-ZAHEVA [on monitor]: First Officer Brink and his men were behind it.
-They got to the engines. They don't work anymore. Had to eliminate
-Brink. the ship is out of, out of, we're running out. Too dangerous!
-Out of Brink! And his men!
+TROI [OC]: I'm here. Can you hear me? Tell me about
+the voices you hear. 
+GUEST3 [OC]: Bright. Bright out there. 
+TROI [OC]: I don't understand. Bright what? Tell me more. 
+[O'Brien's quarters]
+
+(Miles is pacing when Keiko enters) 
+KEIKO: Boy, what a day this was. I'm doing an isozyme study on some
+populations of Cardilia but they're turning out to have these really
+weird polymorphisms. What a headache! 
+O'BRIEN: Is that why you're late? 
+KEIKO: Oh, no, I had a conference with Doctor Balthus. She wants to do
+a study on the laticifer ontogeny of the Kaladian Thorn Flower, but I
+don't have time to oversee another project. 
+O'BRIEN: Was Tom Corbin there? 
+KEIKO: What? 
+O'BRIEN: Tom Corbin from the science lab. Remember him? 
+KEIKO: Of course I remember him, but 
+O'BRIEN: You use any excuse you can to pay him a visit. 
+KEIKO: Miles, what are you saying? 
+O'BRIEN: I think you know exactly what I'm saying. 
+KEIKO: If I didn't know better, I'd say you were jealous. 
+O'BRIEN: Do you take me for a fool?
 

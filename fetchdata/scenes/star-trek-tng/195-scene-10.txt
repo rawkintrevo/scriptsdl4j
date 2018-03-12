@@ -1,143 +1,29 @@
-TARSES WORF JDAN PICARD SABIN SATIE CRUSHER
-
-[Interrogation room]
-
-WORF: I have tracked the movements of every person
-who has left the Enterprise since you have been here. I traced one
-Tarkanian diplomat as far as the Cruces system where he disappeared and
-has not been seen since. 
-J'DAN: That proves nothing. 
-WORF: A hyposyringe was discovered in your quarters. 
-J'DAN: I take injections. Everyone knows that. 
-WORF: But your injections do not include an optical chip reader. This
-device has but one function, to transform computer information into
-biological sequences. 
-J'DAN: The blood of all Klingons has become water. Since the Federation
-alliance we have turned into a nation of mewling babies. Romulans are
-strong. They are worthy allies. They do not turn Klingons into
-weaklings like you. 
-SATIE: Lieutenant, how did you damage the dilithium chamber? 
-J'DAN: I had nothing to do with that 
-SATIE: You mean it was sheer coincidence that it was sabotaged after
-you gave the plans for the design to the Romulans? 
-J'DAN: I do not know. I had nothing to do with it. 
-SATIE: You've admitted your crime. Why lie now? 
-J'DAN: I am not lying. 
-PICARD: Mister Worf, you may have him confined. 
-(Worf and J'Dan leave) 
-SATIE: Sabin? 
-SABIN: I believe he's telling the truth. He admits stealing the files
-but not sabotaging the dilithium chamber. I get no sense that he's
-lying. 
-PICARD: But if you're right, someone else may be involved. 
-SATIE: I think, Captain, you have a bigger problem on your ship than
-one Klingon exchange officer. 
-[Satie's quarters]
-
-(the Admiral is serving tea, I think) 
-SATIE: I've seen this before. The spectre of conspiracy on a starship
-is a frightening one. 
-PICARD: I can scarcely believe it myself, but I am so grateful for your
-presence, Admiral. If anyone in Starfleet can help us, it's you. 
-SATIE: Captain, I find myself changing my mind about you. 
-PICARD: In what way? 
-SATIE: When Starfleet ordered me here, it was with the express command
-that we work together on this problem as equals. My father taught me to
-avoid partnerships. Most of them are woefully lop-sided. 
-PICARD: That sounds like Judge Aaron Satie. 
-SATIE: You knew my father? 
-PICARD: Only from his writings. His judgments were required reading at
-the Academy. 
-SATIE: He was an extraordinary man. Every night at the dinner table he
-would pose a question for debate. My big brothers and I would wrangle
-it around, from one side and the other. Father would referee, and he
-kept a stopwatch on us so we'd have to learn brevity. But he wouldn't
-let us leave until he thought we'd completely explored the issue. 
-PICARD: I'm willing to wager that you trounced your brothers during
-those debates. 
-SATIE: More than once. Father loved it when I nailed one of them with
-some subtle point of logic. All that I am, I owe to him. He was a
-giant. 
-PICARD: You must miss him very much. 
-SATIE: Captain, I always preferred working alone. That way, if
-something goes wrong, I don't have to go far for the cause. I resented
-you being assigned to me, but I was wrong. We're going to be quite a
-team.
+PICARD GUEST2 WORF SATIE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Observation lounge]
 
-WORF: J'Dan did not make friends easily. There are
-not many to question. 
-SABIN: You've done a thorough job, Lieutenant. 
-WORF: I am strongly motivated in this matter. 
-SABIN: Yes, I can see that. I don't mind telling you I'm surprised.
-Frankly, when I first heard about your father. 
-WORF: My father? 
-SABIN: Yes. There are some who believe he betrayed your people to the
-Romulans. 
-WORF: What he did or did not do is no one's concern but my own 
-SABIN: Of course. I only meant before I saw you in action, I naturally
-considered you a possible security risk. But I want you to know you
-have the Admiral's and my complete confidence. You have nothing to
-prove to us. 
-WORF: If there is a conspiracy on board, I promise you I will find it. 
-SABIN: Good. You know the ship, you know the personnel, you know
-exactly what we're up against. We're counting on you, Lieutenant. 
-WORF: I will arrange for the interviews to begin.
-
-[Interrogation room]
-
-SATIE: And how often did Lieutenant J'Dan come in
-for his injections? 
-CRUSHER: About once a week. 
-SATIE: Did you administer them yourself? 
-CRUSHER: No. 
-SATIE: Then who did? 
-CRUSHER: I had one of my assistants do that. 
-SABIN: Did you ever hear him say anything? Anything that may have
-seemed innocent at the time that might now shed some light on this
-investigation? 
-CRUSHER: No, nothing. In fact, he rarely spoke at all. 
-PICARD: Thank you, Doctor Crusher, we appreciate your time. You are
-excused now. Mister Worf, will you bring in the next person? 
-(Crusher leaves and a young man enters) 
-PICARD: Please sit down, Mister Tarses. For the record, will you tell
-us your name and position? 
-TARSES: Simon Tarses, Crewman First Class, medical technician. 
-PICARD: I assure you this is an informal inquiry. We are not accusing
-you of anything. However, if you would like counsel, it can be provided
-for you. 
-TARSES: No, sir. I have nothing to hide. 
-PICARD: Tell me, how long have you held your appointment onboard this
-vessel? 
-TARSES: Since Stardate 43587. 
-SATIE: Mister Tarses, your records state that you were born on Mars
-Colony. 
-TARSES: That's right. 
-SATIE: Then you are human? 
-TARSES: Largely. My paternal grandfather was Vulcan. 
-SATIE: Yes, I see that. Tell me, what is your relationship with the
-Klingon, J'Dan? 
-TARSES: Er, he, I mean, there's no relationship. He just came in for
-his injections. 
-SATIE: Did you give him those injections? 
-TARSES: Sometimes. There were several of us. Actually, I might have
-done it twice. 
-SABIN: Did he ever make any comments that might, in retrospect, be
-suspicious? 
-TARSES: Not really. He hardly ever talked. 
-SATIE: Did you ever see him outside Sickbay? 
-TARSES: Once or twice in Ten Forward, with a group of people, but I
-never had a conversation with him. 
-SATIE: Thank you, Mister Tarses. I don't think there's need for more.
-Captain? 
-PICARD: You're excused, crewman. 
-(Tarses leaves) 
-PICARD: Mister Worf? 
-SABIN: Wait. He's lying. He's desperately frightened. He's covering
+GUEST2: An accident? I find that hard to believe. 
+PICARD: If my crew say there was no sabotage, then you can be sure
+there was none. 
+SATIE: Let us keep our perspective, gentlemen. Just because there was
+no sabotage doesn't mean there isn't a conspiracy on this ship. We do
+have a confessed spy. 
+GUEST2: And he had confederates. 
+PICARD: Do we know that for sure? 
+SATIE: Of course he did. Do you think J'Dan could have come on board
+the flagship of the Federation and accomplished what he did without
+help from within? 
+PICARD: I agree it would be difficult, but not impossible. 
+WORF: We should continue to investigate Tarses. He was hiding
 something. 
-PICARD: It's clear that he's frightened, but that's hardly an
-indication 
-SABIN: It's more than that. He wasn't truthful. He's covering a lie.
-One so big it's overwhelming him. I think we've found the man.
+GUEST2: Captain Picard Lieutenant Worf and I have been working well
+together. I suggest we continue, if for no other purpose than to
+determine Tarses' innocence. 
+PICARD: Now, please! Let me remind you he is innocent until he is
+proved guilty. 
+SATIE: Of course he is. What Sabin is saying is that he and Lieutenant
+Worf would like to establish his innocence unequivocally, for his own
+sake. 
+PICARD: Very well. But let us put this to rest as quickly as possible.
 

@@ -1,29 +1,5 @@
-PICARD RIKER DATA LAFORGE WORF
-
-[Outpost]
-
-(Worf, Data, Riker and a female security officer
-arrive to find the crew of the outpost are slumped over their consoles)
-
-WORF: These wounds were caused by a forced plasma beam, similar to a
-Ferengi hand phaser. 
-RIKER: This seems brutal even for the Ferengi. Any sign of survivors? 
-DATA: Electromagnetic interference is still making it difficult to get
-a precise reading. 
-RIKER: How many people were assigned to this outpost? 
-WORF: Two hundred and seventy four. 
-RIKER: All right. we're going to need to do a room to room search.
-Worf, you and Corelki start searching the north wing. You and I will
-take the south. 
-WORF: Aye, sir. 
-(Data tries to open a door) 
-DATA: The mechanism appears to be jammed, sir. 
-RIKER: There's not much damage. It doesn't look like they were
-interested in the station, just the people. 
-DATA: I have bypassed the primary system. 
-(the door opens to reveal - a Borg! after the titles the shooting
-starts. Data takes out the first Borg and at least three more turn up,
-pinning down our heroes)
+LAFORGE PICARD ENSIGN GUEST6 GUEST7 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -32,3 +8,27 @@ PICARD: Evasive manoeuvres, Ensign! Return fire.
 LAFORGE: Shields down to eighty percent. Compensating with auxiliary
 power.
 
+[Outpost]
+
+(one Borg goes hand-to-hand with Data, and is
+knocked out. Riker manages to take down another) 
+GUEST6: You have killed Torsus. I will make you suffer for this. 
+GUEST7: Biological organism, Klingon. Biological organism, human. 
+(A Borg kills Corelki, Worf kills him. Another Borg grabs Data by the
+throat and Data does likewise, throttling him) 
+DATA: (angry) Stop it! Stop! Stop! Stop! Stop! Stop! 
+GUEST7: Artificial lifeform. Starfleet rank, Lieutenant Commander. Name,
+Data. 
+(the Borg are beamed away and their ship starts to leave)
+
+[Bridge]
+
+LAFORGE: Captain, the alien ship is breaking orbit.
+
+PICARD: Plot an intercept course, Ensign. Fire torpedoes. 
+(but they go to warp just before the torpedoes arrive) 
+LAFORGE: They're gone, sir. Our sensors indicate there was some kind of
+subspace distortion just before they disappeared. I'll have to study
+these readings before I can get more specific than that. 
+PICARD: Take us back to Ohniaka Three. 
+ENSIGN: Aye, sir. 

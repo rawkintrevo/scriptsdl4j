@@ -1,43 +1,5 @@
-PICARD VASH CRUSHER RIKER CREWMAN
-
-[Picard's quarters]
-
-(guess what happened between the kiss and
-breakfast) 
-PICARD: I had no idea you were a member of the Archaeology Council. You
-are a member, aren't you? 
-VASH: More or less. 
-PICARD: Why did you come to Tagus Three? 
-VASH: To see you, of course. 
-PICARD: Is that the only reason? 
-VASH: Isn't it enough? 
-PICARD: I wish I could believe you. 
-VASH: I really have missed you, Jean-Luc. 
-(doorbell) 
-PICARD: Excuse me. 
-(he goes to the door) 
-CRUSHER: I'm sorry I'm late. Oh. Excuse me. I didn't realise you had
-company. 
-PICARD: That's all right. Er, allow me to introduce you. This is
-Beverly, Doctor Beverly, Doctor Beverly Crusher. This is Vash. She's a
-friend of mine from the Archaeology Council. 
-CRUSHER: I didn't mean to interrupt. The Captain and I often share
-morning tea together. 
-VASH: Yes, I know. Jean-Luc has told me all about you. 
-CRUSHER: Really? When was that? 
-VASH: On Risa, where we met. 
-CRUSHER: I see. That must have been during your vacation last year. 
-PICARD: No. Yes. Yes. 
-CRUSHER: Well, I'm surprised he never mentioned you. 
-VASH: So am I. Doctor, are you busy? 
-CRUSHER: Not at the moment. 
-VASH: I was wondering, I would love to see some more of this marvellous
-ship. 
-CRUSHER: I would be delighted to show it to you. 
-PICARD: I, er 
-CRUSHER: That is, if it's all right with you, Jean-Luc. 
-PICARD: Of course. 
-VASH: Don't worry, I promise to behave myself.
+VASH CRUSHER RIKER CREWMAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ten Forward]
 

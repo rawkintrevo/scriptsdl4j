@@ -1,42 +1,19 @@
-RIKER CRUSHER DATA LAFORGE SHIPLEY
+GUEST1 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
-
-RIKER: I have no problem getting to sleep. Then I
-think I'm sleeping all night. When I wake up, I feel exhausted. 
-CRUSHER: How long has this been going on? 
-RIKER: Two, three days. Do you have to hold that thing that close? I'm
-sorry. I've been on edge all day. 
-CRUSHER: Well. other than some muscle tension in your neck, I don't see
-anything physically wrong with you. Have you been having bad dreams? 
-RIKER: Not that I can remember. 
-CRUSHER: This could be the result of lack of REM sleep. 
-RIKER: What do you recommend? 
-(she programs a PADD) 
-CRUSHER: Drink this before going to bed. 
-RIKER: What is it? 
-CRUSHER: A recipe for a warm milk toddy. 
-RIKER: A hot milk toddy? You're kidding. 
-CRUSHER: The heat activates amino acids in the lactose, making it a
-natural sedative. Besides, this is a recipe of the Captain's Aunt
-Adelle. It's delicious. 
-RIKER: Well. at this point, I'll try anything. 
-CRUSHER: And listen, if it still bothers you tomorrow, come and see me
-and I'll run further tests. 
-RIKER: Thanks. 
 [Engineering]
 
 LAFORGE: Everything's in place. Warp grid couplers,
 subspace field taps. All right, let's do it. Lieutenant Shipley,
 initiate warp power transfer. 
-SHIPLEY: Aye sir. Verifying sensor calibration. EPS mains holding
+GUEST1: Aye sir. Verifying sensor calibration. EPS mains holding
 stable. Sensor array online. 
 LAFORGE: Come on, work. 
 DATA: Geordi, active scanner output has increased by twenty six
 percent. 
 LAFORGE: Inform Astrophysics that the new La Forge sensor array is
 online and awaiting major scientific discoveries. 
-SHIPLEY: Yes, sir. 
+GUEST1: Yes, sir. 
 DATA: Geordi, may I make a personal inquiry? It concerns my poetry
 reading. 
 LAFORGE: Sure, Data. What is it? 

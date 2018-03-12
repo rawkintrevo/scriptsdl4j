@@ -1,90 +1,46 @@
-PICARD MACET DATA WORF OBRIEN
+PICARD GUEST2 DATA WORF GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-(a tactical display is on the viewscreen, with ship
-designations) 
-PICARD: The pursuing ship is the Phoenix. 
-MACET: And the other? 
-DATA: It appears it be a Cardassian supply ship. 
-MACET: How would you know that? 
-PICARD: We are able to make that determination. 
-MACET: You can read our transponder codes. 
-PICARD: The important thing at the moment is that one of your ships may
-be in jeopardy. Mister Worf, has there been any answer to our
-communication? 
-WORF: No, Captain. 
-PICARD: Put out a repeating message on all subspace channels, priority
-one communiqu. Break off your pursuit immediately. 
-WORF: Aye, sir. 
-PICARD: Gul Macet, you see we are doing everything in our power to
-reach the Phoenix. 
-MACET: Yes, and accomplishing nothing, I'm sorry to say. Can you show
-me the location of our other ships? 
-PICARD: Mister Data. 
-MACET: There, you see? We have a warship which could intercept the
-Phoenix before it's too late. If you will give us the transponder
-frequency. Or are you going to stand there while our ship is destroyed,
-Captain? 
-PICARD: Mister Worf, has there been any response to our hails? 
-WORF: No, Captain. 
-PICARD: Very well. Mister Worf, relay the prefix codes of the Phoenix
-to the Cardassian warship. 
-WORF: Sir, they will be able to dismantle its shields. The Phoenix will
-not have a chance. 
-PICARD: I cannot allow Maxwell to ambush that supply ship. Mister Worf,
-now. 
-WORF: Yes, Captain. 
-(a brief pause later) 
-DATA: Sir, the Cardassian warship is moving on the Phoenix. 
-PICARD: Mister Data, overlay weapon ranges of the two ships. 
-DATA: The warship is three hundred thousand kilometres from the
-Phoenix. It is opening fire. The Phoenix has taken a direct
-hit. The Phoenix is beginning evasive manoeuvres. It has positioned
-itself outside the weapons range of the opposing ship.
-The Phoenix has powered up both phasers and photon torpedoes. The
-Phoenix is firing photon torpedoes. 
-(and one of the lights on the screen goes out) 
-MACET: He has destroyed our warship. 
-PICARD: Does the supply ship have any weapons? 
-MACET: Very limited. Certainly not enough to defeat a Nebula class
-starship. 
-DATA: Sir, the Phoenix is firing on the 
-(another light goes out) 
-MACET: The warship carried a crew of six hundred, the supply ship,
-fifty. 
-PICARD: Mister Data estimated time to intercept with the Phoenix. 
-DATA: At our present speed of warp four, sixteen hours, forty four
-minutes. 
-PICARD: Ensign, increase to warp nine.
+(Worf hauls Telle onto the Bridge) 
+GUEST3: I will protest this, Klingon! 
+PICARD: Lieutenant? 
+WORF: He was found at a computer station on deck thirty five,
+attempting to access information on our weapon systems. 
+GUEST3: A lie, Gul Macet. I was studying the terminal interface systems.
+They're more efficient than ours. I have no idea what was in the files.
 
-[Transporter room]
+GUEST2: What business did you have going near one of their computers? 
+GUEST3: But, Gul Macet, I meant nothing. There was no harm done. 
+GUEST2: Go to your quarters. You are confined there for the duration of
+this expedition. 
+GUEST3: As you wish, sir. 
+PICARD: Mister Worf, please accompany him. 
+WORF: Gladly, Captain. 
+(Worf and Telle leave) 
+GUEST2: Captain, may we speak in private? 
+PICARD: You have the Bridge, Number One.
 
-O'BRIEN: Captain. 
-PICARD: Chief. I wanted to talk to you. 
-O'BRIEN: Anything I can do, sir, you know that. 
-PICARD: Ben Maxwell. He must be quite a man. 
-O'BRIEN: He's a rare one, all right. I count myself lucky, sir. I've
-served with the two finest Captains in Starfleet. 
-PICARD: From your knowledge of the man, what has gone wrong? 
-O'BRIEN: There's a reason for what he's doing. Those Cardassians were
-up to something, I'm sure of it. 
-PICARD: When his family was killed, how did he take it? 
-O'BRIEN: I'd say he took it well. Oh, I know he was broken up inside,
-who wouldn't be? But you'd never know it to see him. He never missed a
-minute's duty, always had a smile, a joke. 
-PICARD: I see. 
-O'BRIEN: He would never retaliate out of vengeance, no matter what that
-Cardassian says. They're up to something, sir. They're the ones you
-should be investigating, not Captain Maxwell. 
-PICARD: You don't care for the Cardassians? 
-O'BRIEN: I like them fine. It's just, well, I know them. You learn to
-watch your back when you're around those people. 
-PICARD: Ben Maxwell has just sent more than six hundred of them to
-their deaths. 
-O'BRIEN: I don't know what to say, sir, but he must have had his
-reasons. 
-PICARD: I think when one has been angry for a very long time, one gets
-used to it. And it becomes comfortable, like old leather. And, finally,
-it becomes so familiar that one can't ever remember feeling any other
-way. Thank you, Chief. 
+[Ready room]
+
+GUEST2: I deeply regret what my aide has done,
+Captain. You have my word he will be disciplined upon my return. 
+PICARD: You may take whatever action against him you feel is
+appropriate. I consider the matter closed. 
+GUEST2: I'm not sure I would be so generous in your place, Captain.
+Thank you. 
+PICARD: If there is to be a lasting peace, Gul Macet, neither you nor I
+must allow any one man to undermine our efforts. 
+GUEST2: There are those who crave war, who need it. I am not one of
+them, Captain, and I'm beginning to see that neither are you. We have
+had our full measure. The lasting peace begins here, with the two of
+us. 
+DATA [OC]: Bridge to Captain. 
+PICARD: Picard here. 
+DATA [OC]: We have located the Phoenix, sir. We will intercept it in
+twenty two minutes.
+
+Captain's log, stardate 44431.7. We have
+established communication with Captain Maxwell, and he has agreed to
+come on board. 

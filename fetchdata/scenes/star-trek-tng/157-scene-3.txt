@@ -1,42 +1,15 @@
-TROI MAROUK PICARD RIKER WESLEY DATA
-
-[Observation lounge]
-
-(Marouk is a dignified middle-aged woman) 
-PICARD: Their raids have made this sector unsafe. They've ransacked our
-research facilities, our trade routes have been disrupted. 
-MAROUK: The Gatherers are elusive. We've only managed to capture a
-handful of them. But with the Starfleet's help 
-PICARD: Hunting them down is not what I am proposing. 
-MAROUK: Reconciliation with the Gatherers is impossible. It's been
-tried. Every time we've offered amnesty, they've rejected it. 
-TROI: When was the last attempt made? 
-MAROUK: Eighteen years ago. 
-PICARD: Eighteen years? 
-MAROUK: For almost a century now, they've been parasites, moving from
-star system to star system, living on what they could find or steal. 
-PICARD: They're still your people. 
-MAROUK: No. Captain, you have to understand our history. A hundred
-years ago, before the Gatherers split off from our culture, we were a
-savage, violent race. Clans battled clans. Bloody, vengeful feuds that
-lasted for generations. But we overcame those ways, all except for the
-Gatherers. 
-TROI: After a century of wandering, they may be ready to come home. 
-PICARD: Despite your progress, you are a divided society, and so it
-will remain until the Gatherers return to Acamar. 
-MAROUK: The attempt may be futile. 
-PICARD: But there is so much to gain and there is so little to lose by
-the effort. The problem affects us all. It cannot be ignored.
+RIKER GUEST3 PICARD GUEST5 WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
 PICARD: Sovereign Marouk, welcome to the Bridge. 
-MAROUK: Thank you, Captain. 
+GUEST3: Thank you, Captain. 
 PICARD: How soon will you be ready to leave Acamar? 
-MAROUK: I am ready now, Captain. I need only bring aboard two more
+GUEST3: I am ready now, Captain. I need only bring aboard two more
 servants. 
 RIKER: I'll see to that, and to your accommodations. 
-MAROUK: I have reason to believe there is a Gatherer encampment
+GUEST3: I have reason to believe there is a Gatherer encampment
 somewhere in the Hromi Cluster. 
 PICARD: Mister Data? 
 DATA: The Federation has charted but not explored several class M
@@ -44,4 +17,37 @@ planets in that area. Any one of these planets might well serve as a
 base. 
 PICARD: Mister Crusher, set course for the Hromi Cluster. 
 WESLEY: Aye, sir.
+
+[Marouk's quarters]
+
+GUEST3: A fine ship, Commander. 
+RIKER: We're all very proud of her. 
+GUEST3: Yuta, a light meal in twenty minutes. 
+GUEST5: (a young woman) May I be shown the kitchen, Commander? 
+RIKER: You're the chef? 
+GUEST5: Yes. I'll prepare all meals for the Sovereign and her servants. 
+RIKER: We can provide you with a kitchen, but it won't really be
+necessary. These food dispensers can synthesise anything that you may
+been. I'll show you. Sovereign, may I offer you a drink? 
+GUEST3: Yes, thank you. Cold water. 
+RIKER: Computer, a glass of water, five degrees. 
+GUEST5: Please. 
+(She takes the glass and sips it)
+RIKER: You're also the food taster? 
+GUEST5: That's part of the cook's duty. 
+(She takes the drink to Marouk) 
+GUEST5: I'm sure the Sovereign will wish to sample many of the cuisines
+your ship has to offer, but there are
+some Acamarian dishes that she will insist upon. 
+RIKER: I will arrange for a technician to help programme your recipes
+into the computer. Of course, I'll have to try some of them. What's
+your specialty? 
+GUEST5: I have none. 
+RIKER: Don't be modest. You can't tell me you haven't come up with a
+few culinary delights. 
+GUEST5: There is a spiced parthas dish. 
+RIKER: Parthas? 
+GUEST5: A green vegetable with fleshy roots. 
+RIKER: Parthas a la Yuta. I look forward to tasting it. Sovereign.
+Chef.
 

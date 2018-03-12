@@ -1,77 +1,41 @@
-TROI OBRIEN LAFORGE WORF TASHA PICARD CHILTON CRUSHER DATA
+PICARD GUEST2 CRUSHER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Future - USS Pasteur Bridge]
 
-(Captained by Beverly Picard) 
-CRUSHER: (to Data and Geordi) Well, this is a page from the past. I
-never thought I'd see either of you on a starship again. 
-LAFORGE: Hello, Doctor. 
-CRUSHER: Geordi. 
-DATA: Doctor. 
-CRUSHER: Data. 
-(then she goes to Picard and they can't decide whether to shake or hug)
+PICARD: On screen! On screen! Let's see it! 
+(just a starfield) 
+DATA: As you can see, sir, there's nothing there. 
+(a little later) 
+DATA: Still nothing, Captain. I've conducted a full sensor sweep out to
+one light year from the Pasteur. No temporal anomalies, no particle
+fluctuations, nothing. 
+PICARD: I don't understand. It was here in the other two time periods.
+Why isn't it here now? 
+WORF: Captain. I have been monitoring Klingon communication channels.
+Several warships have been dispatched to this sector to search for a
+renegade Federation vessel. 
+PICARD: You're not thinking about leaving? 
+CRUSHER: There's nothing here, Jean-Luc. 
+PICARD: There should be! There has to be! Data, is there some other way
+to scan for a temporal disturbance? Something that isn't covered in a
+normal sensor sweep. 
+DATA: There are several methods of detecting temporal disturbances, but
+we're limited by the equipment on the Pasteur. 
+CRUSHER: We should head back to Federation territory. 
+DATA: However, it may be possible to modify the main deflector to emit
+an inverse tachyon pulse, which could scan beyond the subspace barrier.
 
-PICARD: Let's just choose one. 
-CRUSHER: All right. 
-(they hug) 
-PICARD: So, did you get my message? 
-CRUSHER: Yes. Jean-Luc, crossing into Klingon territory. It's absurd.
-But then I never could say no to you. 
-PICARD: Oh. So that's why you married me. 
-CRUSHER: Well now, the first order of business is to get clearance to
-cross the Klingon border. 
-LAFORGE: Agreed. What about Worf? 
-PICARD: Yes, that's it. Worf. Yes, that's the answer. Worf will help us.
-LAFORGE: Data, isn't Worf still a member of the Klingon High Council? 
-DATA: I'm not sure. Information on the Klingon political structure is
-hard to come by these days. However, at last report Worf was governor
-of H'atoria, a small Klingon colony near the border.
-CHILTON: Captain Picard? 
-PICARD + CRUSHER: Yes? 
-CHILTON: Captain, McKinley Station is signalling. They want to know
-when we'll be docking. 
-CRUSHER: Tell McKinley we've been called away on a priority mission. 
-CHILTON: Aye, sir. 
-PICARD: So, you kept the name. 
-CRUSHER: I've prepared quarters for you on deck five. You might want to
-get some rest. 
-PICARD: No, I'm fine. I don't need rest. 
-CRUSHER: Nell, please escort the Ambassador to his quarters. 
-PICARD: Look, you are treating me as if I am an invalid. I do have a
-few years left in me yet. I do not want to be led around, and I do not
-want to be patronised. 
-CRUSHER: You're right. I'm sorry. 
-PICARD: Now, I'll go and get some rest. 
-(Picard leaves) 
-CRUSHER: How long since his last neurological scan? 
-LAFORGE: I'm not sure, but I wouldn't try suggesting it. He says he's
-not taking any more damn tests. 
-CRUSHER: Do you really think he's moving through time? (silence) I'm
-not sure I do either. But he's Jean-Luc Picard and if he wants to go on
-one more mission, that's what we're going to do. 
-[Future - Pasteur turbolift]
-
-PICARD: We'll find the anomaly. I know we will. 
-(and steps out into)
-
-[Past - Bridge]
-
-PICARD: Report. 
-O'BRIEN: We're nearing the coordinates you gave me, sir. 
-PICARD: Is there anything unusual in the vicinity, Mister Data? 
-DATA: How would you define unusual, sir? Every region of space has its
-own unique properties that cannot be found anywhere else. 
-PICARD: There should be a barrier of some sort nearby. A large plasma
-field, highly disruptive. 
-DATA: Nothing, sir. 
-PICARD: This is the right time, the right place. He should be here now.
-
-O'BRIEN: Who, sir? 
-PICARD: Q! We're here! This has gone on long enough! Counsellor, do you
-sense an alien presence? 
-TROI: No, sir. 
-WORF: What is a Q? 
-TASHA: It's a letter of the alphabet, as far as I know. 
-PICARD: I don't understand. This is not the way it's supposed to
-happen. Maintain this position. I'll be in my Ready room.
+PICARD: That's it. Make it so. 
+CRUSHER: Wait a minute. Data, how long would this take? 
+DATA: To make the modifications and search the entire Devron system
+will take approximately fourteen hours. 
+CRUSHER: All right. Data, begin to modify the tachyon pulse. Ensign
+Chilton, lay in a course back to the Federation. We'll stay here for
+six more hours, and if we haven't found anything we're heading back,
+maximum warp. 
+GUEST2: Aye, sir. 
+PICARD: But six more hours may not be enough. We have to stay here
+until we find it, no matter how long it takes. 
+CRUSHER: Carry out my orders. May I see you a moment?
 

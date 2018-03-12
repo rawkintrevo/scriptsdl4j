@@ -1,31 +1,5 @@
-WORF NAUSICAAN PICARD Q COREY MARTA DATA
-
-[Bonestell Facility casino]
-
-PICARD: I think you'll like serving on board the
-Ajax. I hear that Captain Narth is an excellent officer. 
-COREY: So I hear. 
-PICARD: Well, here's to the class of 'twenty seven. 
-(three Nausicaans enter) 
-NAUSICAAN: Play dom-jot, human. Give you a better chance. Give you a
-bigger stick maybe. 
-PICARD: I don't think we're interested. 
-NAUSICAAN 1: They are undari. Cowards. 
-COREY: What did you say? 
-NAUSICAAN: Coward. Like all Starfleet you talk and you talk, but you
-have no guramba. 
-COREY: Why don't we find out. 
-PICARD: Don't be a fool, Corey. Look, there are plenty of other people
-to play dom-jot with. Now just go about your business. 
-NAUSICAAN: Maybe I play with her. Give her good time. 
-(Corey is about to hit the Nausicaan when Picard pushes him over) 
-NAUSICAAN: Orcho lok resnik. Starfleet. 
-PICARD: I'm sorry, Corey. He was reaching for a weapon. 
-COREY: I don't know who you are any more, but you're not my friend. 
-MARTA: Goodbye, Johnny. 
-(Corey and Marta leave) 
-Q: Congratulations, mon capitaine. You did it. 
-WORF [OC]: Can I help you?
+Q PICARD DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -44,4 +18,21 @@ DATA: Are you feeling all right?
 PICARD: Who's the captain of this ship? 
 DATA: Captain Thomas Halloway. Perhaps I should escort you to Sickbay. 
 PICARD: No. I can find my own way there. Thank you, Commander.
+
+[Doctor's office]
+
+PICARD: Beverly, something's happened to me. I'm
+not sure 
+Q: (German accent) Vell, vell, vell. Vhat seems to be de trouble,
+Lieutenant Picard? 
+PICARD: Q, what have you done? 
+Q: I've done exactly as I promised. I've returned you to the present. 
+PICARD: But this is not the present I remember. You said nothing would
+change. 
+Q: Nothing has changed, Jean-Luc, except for you. But then again,
+that's what you wanted, wasn't it? To change the man you were in your
+youth? Well, you did it. This is the man you are today. And You should
+be happy. You have a real heart beating in your chest, and you get to
+live out the rest of your life in safety, running tests, making
+analyses, and carrying reports to your superiors.
 

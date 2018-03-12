@@ -1,64 +1,40 @@
-RIKER ARMUS TASHA PICARD CRUSHER DATA
+WESLEY ARMUS WORF COMPUTER PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-PICARD: Is it a life form, Data? 
-DATA [OC]: Again, insufficient information, sir. 
-PICARD: Theorise.
-
+WORF: Set the computer. When the energy level
+reaches two point six point two zero five, automatically beam up Troi
+and Prieto. We'll do a parallel transport on the Captain. 
+WESLEY: Yes, sir. 
 [Planet surface]
 
-DATA: It is possible. 
-(The oil slick ripples, and speaks) 
-ARMUS: Very good, tin man. 
-
+PICARD: You say you are true evil? Shall I tell you
+what true evil is? It is to submit to you. It is when we surrender our
+freedom, our dignity, instead of defying you. 
+ARMUS: I will kill you, and those in there. 
+PICARD: But you will still be here. In this place. For ever. Alone.
+Immortal. 
 [Bridge]
 
-PICARD: What is it, Number One? What are you
-seeing? 
+COMPUTER: (male) Stand by for parallel transport. 
+WORF: The energy level has dropped to two point six point three. 
 [Planet surface]
 
-(As a vaguely humanoid shape rises wet and
-glistening from the slick) 
-RIKER: Trouble.
-
-Captain's log, supplemental. While on a mission to
-rescue survivors from an unexplained shuttle crash, the away team has
-encountered a strange creature which seems able to assume different
-forms, including one which resembles humanoid.
-
+PICARD: That's your real fear. Never to die. Never
+again to be united with those who left you here. 
 [Bridge]
 
-PICARD: Easy, Number One. Let's find out what it is
-we're dealing with. 
-RIKER [OC]: Agreed, Captain. 
-PICARD: Number One, I don't believe that the location of the crash and
-the proximity of the creature is a coincidence. 
+WORF: Energy field is two point six. Computer
+beginning transport.
 
 [Planet surface]
 
-RIKER: I am Commander William Riker of the USS
-Enterprise. 
-ARMUS: I am Armus. Why are you here? 
-RIKER: We mean you no harm. We have injured crewmen in the
-shuttlecraft. We need to get to them. May we pass? 
-ARMUS: You haven't given me a good enough reason. 
-RIKER: Preserving life, all life, is very important to us. 
-ARMUS: Why? 
-RIKER: We believe everything in the universe has a right to exist. 
-ARMUS: An interesting notion which I do not share. You may now leave,
-if you wish. 
-TASHA: We're not going without our shuttle crew. 
-ARMUS: I warn you. 
-TASHA: Enough! We have people who need attention. We won't hurt you,
-but we must help them. 
-(Armus lets lose a bolt of energy which sends Tasha flying a long way.
-Riker and Data's phasers have no effect on Armus)
-PICARD [OC]: Number One! 
-RIKER: The creature attacked us. Lieutenant Yar is down. 
-DATA: It seems to feed on our phaser energy. 
-RIKER: We had no effect on it. 
-(Armus sinks back into the slick) 
-PICARD: What's Lieutenant Yar's condition? Doctor Crusher, report! 
-CRUSHER: She's dead.
+PICARD: I'm not taking you anywhere. 
+(Armus screams with rage as Picard is beamed away) 
+Captain's log, stardate 41602.1. The shuttlecraft
+has been destroyed to prevent any possibility of Armus leaving the
+planet. Vagra Two will be declared off limits. But the damage has been
+done. One of the saddest duties I've ever had to perform is now ahead
+of me.
 

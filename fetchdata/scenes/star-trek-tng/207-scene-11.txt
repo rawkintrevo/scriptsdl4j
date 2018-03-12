@@ -1,59 +1,32 @@
-OMAG RIKER WORF PICARD AMARIE SPOCK DATA
+DATA TROI ENSIGN RIKER PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Klingon quarters]
+[Bridge]
 
-(Data is back to his android self when Spock and
-Picard enter) 
-PICARD: Have you had any success, Mister Data?
-DATA: Negative, Captain. The Romulan Information net employs a
-progressive encryption lock. I have been unable to penetrate their
-security measures.
-SPOCK: May I assist you, Commander? I have had some experience in these
-matters.
-DATA: By all means, Ambassador.
-SPOCK: The Romulans have incorporated a forty three part cipher key
-into their entry sequence. 
-DATA: Yes, sir, the twenty ninth is the only one I cannot bypass. 
-PICARD: I think I'll take this opportunity to remove my ears. 
-(Picard leaves) 
-SPOCK: He intrigues me, this Picard.
-DATA: In what manner, sir?
-SPOCK: Remarkably analytical and dispassionate, for a human. I
-understand why my father chose to mind-meld with him. There's almost a
-Vulcan quality to the man.
-DATA: Interesting. I have not considered that. And Captain Picard has
-been a role model in my quest to be more human.
-SPOCK: More human?
-DATA: Yes, Ambassador.
-SPOCK: Fascinating. You have an efficient intellect, superior physical
-skills and no emotional impediments. There are Vulcans who aspire all
-their lives to achieve what you've been given by design.
-DATA: You are half human. 
-SPOCK: Yes.
-DATA: Yet you have chosen a Vulcan way of life. 
-SPOCK: I have.
-DATA: In effect, you have abandoned what I have sought all my life.
-SPOCK: I believe I have isolated the twenty ninth cipher access code. I
-shall attempt to access the Proconsul's files.
-DATA: Ambassador Spock, may I ask a personal question?
-SPOCK: Please.
-DATA: As you examine your life, do you find you have missed your
-humanity?
-SPOCK: I have no regrets.
-DATA: No regrets. That is a human expression.
-SPOCK: Yes. Fascinating.
+RIKER: As soon as I heard this Barolian ship was at
+the Galorndon Core, I started to think Romulans. 
+PICARD [on viewscreen]: And the Romulans are suddenly very interested
+in bonding with the Vulcans. Spock has been meeting with the new Senate
+Proconsul about reunification. 
+RIKER: Reunification?
+PICARD [on viewscreen]: The Proconsul says that he is prepared to
+endorse peace talks. 
+RIKER: And Spock?
+PICARD [on viewscreen]: The Ambassador is sceptical, but he cares a
+great deal about reunification. As long as there's a chance of success,
+he's prepared to pursue it.
+TROI: I'm afraid I don't see how a stolen Vulcan ship fits into all
+this. 
+PICARD [on viewscreen]: Neither do I, Counsellor. How soon can you be
+at Galorndon Core, Number One?
+RIKER: A little over eight hours.
+PICARD [on viewscreen]: Well, this may prove to be a wild goose chase,
+but I don't see that we have any other choice, do you?
+RIKER: Agreed.
+DATA: We are losing our Romulan carrier wave, sir. 
+PICARD [on viewscreen]: We'll advise you further as soon as you reach
+your destination, Number One. Picard out.
+(transmission ends)
+RIKER: Ensign, set a course to Galorndon Core. Take us to warp eight. 
+ENSIGN: Aye, sir.
 
-[Piano bar]
-
-WORF: Do you know any Klingon opera?
-AMARIE: I don't get a lot of requests for it.
-WORF: Surely, you must know at least one theme from Aktuh and Maylota.
-AMARIE: I may be a little rusty. 
-(with a pounding discord, she starts to sing an aria, and Worf joins
-in. A fat Ferengi enters with a tall thin female on each arm) 
-OMAG: What is that dreadful noise? It sounds like a Bardakian pronghorn
-moose. You know what I want to hear.
-AMARIE: Yes, yes, I know. 
-WORF: Worf to Enterprise. 
-RIKER [OC]: Go ahead. 
-WORF: A fat Ferengi 

@@ -1,44 +1,25 @@
-PICARD RIKER DATA MADDOX
+PICARD RIKER DATA GUEST1 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Bridge]
 
-PICARD: All right, explain this procedure. 
-MADDOX: Ever since I first saw Data at the entrance evaluation at the
-Starfleet Academy, I've wanted to understand it. I became a student of
-the works of Doctor Noonien Soong, Data's creator, and I've tried to
-continue his work. I believe I am very close to the breakthrough that
-will enable me to duplicate Doctor Soong's work and replicate this. But
-as a first step I must disassemble and study it. Data is going to be my
-guide. 
-PICARD: Data? 
-DATA: It sounds intriguing. 
-RIKER: How will you proceed? 
-MADDOX: I will run a full diagnostic on Data, evaluating the condition
-of its current software. I will then dump its core memory into the
-starbase mainframe computer and begin a detailed analysis of its
-construction. 
-DATA: You've constructed a positronic brain? 
-MADDOX: Yes. 
-DATA: Have you determined how the electron resistance across the neural
-filaments is to be resolved? 
-MADDOX: Not precisely. 
-DATA: That would seem to be a necessary first step. 
-MADDOX: I am confident that I will find the answer once I examine the
-filament links in your anterior cortex. 
-DATA: But if the answer is not forthcoming, your model will not
-function. 
-MADDOX: I do not anticipate any problems. 
-RIKER: You seem a little vague on the specifics. 
-PICARD: What are the risks to Commander Data? 
-MADDOX: Negligible. 
-DATA: Captain, I believe his basic research lacks the specifics
-necessary to support an experiment of this magnitude. 
-PICARD: Commander Data is a valued member of my Bridge crew. Based on
-what I've heard, I cannot allow Commander Data to submit himself to
-this experiment. 
-MADDOX: I was afraid this might be your attitude, Captain. Here are
-Starfleet's transfer orders separating Commander Data from the
-Enterprise, and reassigning it to Starbase one seventy three under my
-command. Data, I will see you in my office tomorrow at zero nine
-hundred hours. 
-
+RIKER: Admiral on the Bridge. 
+PICARD: I was a little surprised at the decision to put a base in force
+so close to the Neutral Zone. 
+GUEST1: As you know, we've had disturbing news from both sides of the
+zone. We're here to respond when needed. And it won't hurt to have the
+Romulans know that we're nearby. Well, Captain, I want to thank you for
+this opportunity. For five hundred years every ship that has borne the
+name of the Enterprise has been a legend. This one is no different. 
+GUEST2: Admiral. 
+GUEST1: Oh yes, Captain. Commander Maddox is here to do some work on
+your android. Please take care of him. 
+(Nakamura leaves) 
+GUEST2: How have you been, Data? 
+DATA: My condition does not alter with the passage of time, Commander. 
+PICARD: The two of you are acquainted? 
+GUEST2: Yes, I evaluated Data when it first applied to the Academy. 
+DATA: And was the sole member of the committee to oppose my entrance on
+the grounds that I was not a sentient being. 
+PICARD: What exactly will this work entail? 
+GUEST2: I am going to disassemble Data. 

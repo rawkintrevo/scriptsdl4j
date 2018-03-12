@@ -1,64 +1,63 @@
-TASHA PICARD GARRETT GUINAN CASTILLO CREWWOMAN CRUSHER
+TASHA PICARD GUINAN GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Transporter room]
 
-CREWWOMAN [OC]: Lieutenant Barrett to
-communications. 
-TASHA: She was the first Galaxy Class warship built by the Federation.
-Forty two decks. Capable of transporting over six thousand troops. 
-CASTILLO: How long have you been on board? 
-TASHA: Four years. Straight out of the Academy. I was lucky to get the
-Enterprise. 
-CASTILLO: Yeah, me too. I mean, my Enterprise.
+GUEST0: One to beam to the Enterprise-C. We keep
+saying goodbye, don't we? 
+TASHA: I wish there was more time. 
+GUEST0: More time. I think we have all the time we can handle as it
+is. 
+(They have a passionate kiss) 
+GUEST0: Lieutenant.
 
-[Sickbay]
+[Ten Forward]
 
-CREWWOMAN [OC]: Triage team to main shuttlebay. 
-GARRETT: Lieutenant, how's the ship? 
-CASTILLO: We've restored minimal shields and the forward phaser banks.
-Still no photon launchers or warp drive. 
-GARRETT: Concentrate on the weapon systems. From what Captain Picard
-told me, the Federation can use all the help it can get. 
-TASHA: And soon. Our sensors have picked up Klingon warships in this
-sector, Captain. 
-GARRETT: Why wasn't I informed, Mister Castillo? 
-CASTILLO: Captain, you shouldn't 
-GARRETT: As senior officer, I want you to be my liaison to the
-Enterprise-D. Coordinate with Tactical. 
-TASHA: That's me, Captain. 
-CRUSHER: Where do you think you're going? 
-GARRETT: I'm resuming my duties, Doctor. 
-CRUSHER: Captain, you need at least another twenty four hours. 
-GARRETT: Nonsense. Doctors always over-protect their patients. 
-CRUSHER: And captains always push themselves too hard. 
-GARRETT: Doctor, my ship and crew need me now. Twenty four hours might
-as well be twenty four years.
+GUINAN: Can I get you something, Tasha? 
+TASHA: Guinan, I have to know something. What happens to me in the
+other time line? 
+GUINAN: I don't have alternate biographies of the crew. As I said to
+the captain, it's just a feeling. 
+TASHA: But there's something more when you look at me, isn't there? I
+can see it in your eyes, Guinan. We've known each other too long. 
+GUINAN: We weren't meant to know each other at all. At least, that's
+what I sense when I look at you. Tasha, you're not supposed to be here.
 
-[War room]
+TASHA: Where am I supposed to be? 
+GUINAN: Dead. 
+TASHA: Do you know how? 
+GUINAN: No. But I do know it was an empty death. A death without
+purpose.
 
-PICARD: I need more. 
-GUINAN: There is no more. I wish there were. I wish I could prove it.
-But I can't. 
-PICARD: Then I can't ask them to go back. 
-GUINAN: You've got to. 
-PICARD: Guinan, they will die moments after they return. How can I ask
-them to sacrifice themselves based solely on your intuition? 
-GUINAN: I don't know. But I do know that this is a mistake. Every fibre
-in my being says this is a mistake. I can't explain it to myself so I
-can't explain it to you. I only know that I'm right. 
-PICARD: Who is to say that this history is any less proper than the
-other? 
-GUINAN: I suppose I am. 
-PICARD: Not good enough, damn it. Not good enough. I will not ask them
-to die. 
-GUINAN: Forty billion people have already died. This war's not supposed
-to be happening. You've got to send those people back to correct this. 
-PICARD: And what is to guarantee that if they go back they will
-succeed? Every instinct tells me this is wrong, it is dangerous, it is
-futile. 
-GUINAN: We've known each other a long time. You have never known me to
-impose myself on anyone or take a stance based on trivial or whimsical
-perceptions. This time line must not be allowed to continue. Now, I've
-told you what you must do. You have only your trust in me to help you
-decide to do it.
+[Ready room]
+
+PICARD: Come. Yes, Lieutenant? 
+TASHA: Captain, I request a transfer to the Enterprise-C. 
+PICARD: For what reason? 
+TASHA: They need someone at Tactical. 
+PICARD: We need you here. 
+TASHA: I'm not supposed to be here, sir. 
+PICARD: Sit down, Lieutenant. What did she say to you? 
+TASHA: I don't belong here, sir. I'm supposed to be dead. 
+PICARD: She felt it necessary to reveal that to you? 
+TASHA: I felt it was necessary. 
+PICARD: I see. You realise that it is very possible the Enterprise-C
+will fail. We will continue in this time line in which case your life,
+hopefully, will continue for a long while. 
+TASHA: I know how important it is that they don't fail, Captain. That's
+why I'm requesting this transfer. 
+PICARD: You don't belong on that ship, Lieutenant. 
+TASHA: No, Captain Garrett belongs on that ship. But she's dead. And I
+think there's a certain logic in this request. 
+PICARD: There's no logic in this at all. Whether they succeed or not,
+the Enterprise-C will be destroyed. 
+TASHA: But Captain, at least with someone at Tactical, they will have a
+chance to defend themselves well. It may be a matter of seconds or
+minutes, but those could be the minutes that change history. Guinan
+says I died a senseless death in the other time line. I didn't like the
+sound of that, Captain. I've always known the risks that come with a
+Starfleet uniform. If I'm to die in one, I'd like my death to count for
+something. 
+PICARD: Lieutenant. Permission granted. 
+TASHA: Thank you, sir.
 

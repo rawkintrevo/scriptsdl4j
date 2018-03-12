@@ -1,95 +1,55 @@
-LKOR RIKER LAFORGE WORF PICARD TOQ GIRAL BAEL
+ALL WORF GUEST5 GUEST3 BAEL GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Compound]
+[Meeting hall]
 
-(Worf does his martial art routine) 
-BA'EL: What are you doing? 
-WORF: This is the mok'bara. The form clears the mind and centres the
-body. 
-(Ba'el tries to copy him) 
-WORF: No. Like this. First you must learn to breathe. Stand tall. As
-tall as you can. Now, take a wider stance. 
-TOQ: You must stop. 
-(Worf throws the boy over his shoulder) 
-WORF: These forms are the basis for Klingon combat. You would be wise
-to learn them. I will teach you. Join us. 
-TOQ: We'll see what L'Kor thinks of this. 
-[Ba'el's family's quarters]
+(At the communal evening meal) 
+GUEST0: Aren't you hungry, L'Kor? Or are you upset because your
+prisoner has not returned? 
+L'KOR: I should not have sent the boy with him. If he has been hurt 
+GUEST0: Don't worry, my friend. They'll come back. After all, a warrior
+keeps his word. Isn't that so? 
+BA'EL: Father if I wanted to visit Romulus, or the Klingon Home world,
+would I be allowed to go? 
+(Toq enters carrying a dead quadruped, skinned and gutted) 
+GUEST5: Ka'la! Tonight, we eat well. 
+GUEST0: Get that off my table. 
+GUEST5: You do not kill an animal unless you intend to eat it. 
+GUEST0: Get rid of it. 
+GUEST5: I intend to, Tokath. But not until it's cooked. Today I learned
+the ritual hunt. But that is not all I learned. I discovered that
+warrior's blood runs in my veins. I do not know how or why, but we have
+forgotten ourselves. Our stories are not told, our songs are not sung.
+Tonight, as we came home, we sang a song of victory. A song known only
+to me as a lullaby. But it is a warrior's song. Bagh Da tuHmoh. Fire
+streaks the heavens. ChojaH Duh rHo. Battle has begun. Bagh Da tuHmoh.
+ChojaH Duh rHo. ylja'Qo' ylja'Qo' ylja'Qo. 
+(others join in and I cannot be bothered to try and transcribe it all.)
 
-BA'EL: Mother? She's not here. Come in. This is
-what I wanted to show you. 
-(She opens a chest. It contains Klingon armour amongst other items) 
-BA'EL: I don't know why, but I'm not supposed to look at these things.
-They're Klingon, aren't they? 
-WORF: Yes. 
-BA'EL: I thought you might be able to tell me about them. 
-WORF: This is a warrior's armour. And this is a d'k tahg. (a knife) It
-should not be allowed to rust like this. 
-(Ba'el has taken a necklace) 
-BA'EL: Isn't it beautiful? 
-WORF: That is a jinaq. It is given to a daughter who has come of age,
-old enough to take a mate. 
-GI'RAL: Ba'el! 
-BA'EL: Mother. 
-GI'RAL: Take that off at once. 
-WORF: Why is she forbidden to know what these things are? 
-GI'RAL: They are not needed here. Go!
-
-[Compound]
-
-(night, around the fire, and a group of teenagers
-are spellbound by Worf's narration) 
-WORF: Kahless held his father's lifeless body in his arms. He could not
-believe what his brother had done. Then his brother threw their
-father's sword into the sea, saying, if he could not possess it,
-neither would Kahless. That was the last time the brothers would speak.
-
-BA'EL: What happened to the sword? 
-WORF: Kahless looked into the sea and wept, for the sword is all he had
-left of his father. The ocean filled with his tears and flooded beyond
-the shore. 
-TOQ: That is impossible! 
-WORF: For you, perhaps. Not Kahless. He was a great warrior. 
-TOQ: You're making it up. 
-WORF: No. These are our stories. They tell us who we are. 
-L'KOR: It is late. It is time to sleep. 
-(the youngsters and L'Kor leave) 
-BA'EL: Worf. You never answered my question. Did Kahless ever find his
-father's sword? 
-WORF: Yes. He found it. 
-BA'EL: The stories that you tell, are they true? 
-WORF: I have studied them all of my life, and find new truths in them
-every time. 
-BA'EL: This Kahless, did he ever take a mate? 
-WORF: That is another story. 
-BA'EL: Tell me. 
-(Worf strokes her hair, and discovers that she has pointed ears) 
-WORF: You are Romulan. 
-BA'EL: Tokath is my father. I thought you knew that. 
-WORF: How could your mother mate with a Romulan? 
-BA'EL: Why shouldn't she? 
-WORF: It is an obscenity. 
-BA'EL: What are you saying? They love each other. 
-WORF: Romulans are treacherous, deceitful. They are without honour. 
-BA'EL: My father is a good man. He is kind, and generous. There is
-nothing dishonourable about him. 
-WORF: He took part in a cowardly attack at Khitomer. Thousands of
-Klingons were massacred, many of them women and children. 
-BA'EL: I don't know what you're talking about. My father came here to
-escape the wars. He would never kill anybody. 
-WORF: Ask him. Ask your mother. Tell them you want to know the truth.
-
-[Bridge]
-
-(at the science station) 
-PICARD: What is it, Number One? 
-RIKER: We've just received the Yridian's flight plan from Deep Space
-Nine. 
-LAFORGE: He gets around. He's been to three different systems in this
-past week. He could have left Worf at any of them. 
-PICARD: Are any of these systems near Romulan space? 
-LAFORGE: Two of them. The Nequencia and the Carraya systems. 
-(Echevarria system is too far away to be considered) 
-PICARD: Let's head for the closer one. 
-RIKER: Aye, sir.
+GUEST0: Ba'el. 
+ALL: Ylja'Qo ylja'Qo! ylja'Qo!! 
+(later, when the rest of the people have left) 
+GUEST0: Well, Worf, you've had quite an effect on the young people. 
+WORF: I have done nothing more than show them what they are. 
+GUEST0: No. You have shown them what you want them to be. Tell me this.
+Do you know of any place, any time in history, when Klingons and
+Romulans have lived together in peace? We have despised each other,
+fought each other, for centuries. Except here, on this remote planet,
+Romulans and Klingons live together in harmony. No government, no
+leader, has ever done what I have done here. 
+WORF: And what about Toq? I saw what happened to him when he caught the
+scent of his prey on the wind. For the first time in his life, he felt
+powerful, and that is what he has been denied living here. And that is
+what you have tried to take away from him. Now you may be content to
+sit here in the jungle and wither to old age, but Toq and the others
+have tasted what it is to feel truly alive, and they will not give that
+up now. 
+GUEST0: Enough of this. We could talk all night and not convince each
+other. I offer you a choice. Live with us as one of us 
+WORF: Or? 
+GUEST0: Or I will have you put to death. 
+WORF: Then that is what you will have to do. 
+GUEST0: Worf, consider this carefully. 
+WORF: That death will be honourable. The young people will see what it
+is to die as a Klingon.
 

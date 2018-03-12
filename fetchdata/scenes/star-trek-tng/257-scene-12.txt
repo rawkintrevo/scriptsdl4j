@@ -1,49 +1,47 @@
-RIKER VEKOR PICARD KORAL BARAN CRUSHER
-
-[Shuttlebay]
-
-(Koral is the tallest Klingon in the galaxy,
-standing head and shoulders above the shuttlecraft hatch, let alone
-Worf) 
-CRUSHER: Hello. I'm Doctor Crusher, and this is Lieutenant Worf. We're
-here to conduct a health and safety inspection of your ship. 
-KORAL: Health and safety inspection? 
-CRUSHER: That's right. You know, radiation leaks, biochemical
-contamination, other health hazards. Excuse me. 
-(Crusher goes inside the shuttlecraft) 
-CRUSHER: Well, no radiation so far. I'm sure you're glad to hear that.
-Right.
+GUEST2 PICARD TALLERA NARIK BARAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Mercenary Bridge]
 
-VEKOR: There's an incoming message. It's from the
-Klingon shuttle. It was sent approximately fifteen minutes ago. He's at
-the rendezvous coordinates but he's been detained by the Enterprise.
-That's all there is. He's stopped transmitting. 
-BARAN: The Enterprise. 
-PICARD: How could they have found out about the rendezvous, Commander? 
-BARAN: Quiet! All that matters now is that the Enterprise has the
-second artefact in their possession. We don't have a choice. We'll have
-to board the Enterprise and take the artefact. 
-PICARD: Do you have any idea how many security officers there are on
-board a ship like that? 
-BARAN: No, I don't. But he does. 
-RIKER: I could get us on the Enterprise. I can find the artefact. 
-PICARD: Oh, yes, very convenient. We beam you back aboard your old ship
-and we have to take a risk that you won't change your mind and betray
-us. 
-RIKER: I have saved your life twice already, Galen. I would think you'd
-begin to show some gratitude by now. 
-BARAN: Galen, if you're so worried about Riker, then you can go on the
-raiding party and watch him. 
-PICARD: Agreed. 
-BARAN: Draw weapons and equipment for a raiding party of five. 
-(Picard leaves) 
-BARAN: If you're thinking of betraying us to your friends on the
-Enterprise, you might remember that I still have the ability to kill
-you at the first sign of trouble. 
-RIKER: I haven't forgotten. 
-BARAN: I have an additional task for you, one that will prove your
-loyalty. This raid is an opportunity to get rid of Galen. Once you've
-found that artefact, kill him.
+BARAN: Set course three one zero mark two one five,
+warp six. 
+(the four raiders walk in) 
+BARAN: Where is it? 
+(Picard throws the stone to Baran) 
+PICARD: I have something else for you, Baran. 
+(Picard punches Baran) 
+PICARD: Tell him what happened, Narik. 
+NARIK: Riker turned on us. He tried to kill Galen before we beamed
+back. 
+PICARD: He might have killed all of us. And I believe he was acting
+under direct orders, Baran. You betrayed us. This has gone far enough.
+I think it is time that we had a new commander. Someone who will lead
+us to those profits that we've been promised. 
+BARAN: Oh, really? And who would that be, Galen? You? He's plotted this
+all along, opposed me at every turn, endangered all of us by refusing
+to follow his orders. 
+PICARD: Follow your orders? The orders of a small man trying to fill a
+role too big for him. I say it's time for a change. Who's with me? 
+(everyone, by the looks of it) 
+PICARD: It's over, Baran. 
+BARAN: Not quite. As long as I have this, I'm still Captain of this
+ship. 
+PICARD: You can't kill all of us. You need us to run the ship more than
+we need you to command it. 
+BARAN: I don't have to kill you all. Just you, Galen. 
+(Baran presses the button, then collapses in agony and dies) 
+TALLERA: What happened? 
+PICARD: I switched the transponder codes. Given his feelings about me,
+it seemed a sensible thing to do. 
+TALLERA: Baran was nothing. We have a mission to complete and the crew
+needs a leader. 
+(Picard shoots the control device) 
+PICARD: There'll be no more punishment on this ship. Now, do your
+duties and I'll see to it that we complete our mission and get our
+payment. 
+TALLERA: Remove that. 
+GUEST2: Orders? 
+PICARD: Maintain our present course and speed for now. I'm going to
+find out when and where we're supposed to deliver our cargo. 
+GUEST2: Aye, Captain.
 

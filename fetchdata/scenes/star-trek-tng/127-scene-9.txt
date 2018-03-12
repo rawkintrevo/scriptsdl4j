@@ -1,67 +1,48 @@
-RIKER LAFORGE WORF PICARD WESLEY SICKBAY CREWMAN DATA
-
-[Engineering]
-
-LAFORGE: No, I show nothing here, Data.
+GUEST4 TROI GUEST5 GUEST0 PICARD PULASKI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-RIKER: Problem, Commander? 
-DATA: Possibility, sir. An unexplained power fluctuation. 
-RIKER: Let me know if it reoccurs. 
-DATA: Aye, sir.
+PICARD: Picard. 
+PULASKI [OC]: I just wanted you to know what risks we're about to take.
 
-[Corridor]
+PICARD: Go on. 
+[Pulaski's office]
 
-(The light pops up through the floor, hides from
-them follow a couple of crew, and goes up into crew quarters. It seems
-to examine one man asleep, then passes through a bulkhead, goes
-underneath the sheets and into Deanna Troi, who wakes up panting)
+PULASKI: If the most innocuous specimen on the
+manifest list gets loose, 
+[Bridge]
 
-Captain's log, Stardate 42073.1. There has been an
-outbreak of an unclassified plasma plague in the Rachelis system. We
-are on an emergency run to collect specimens of the deadly plague and
-transport them to Science Station Tango Sierra, where hopefully an
-antidote can be produced.
+PULASKI [OC]: It will destroy all life on the
+Enterprise in a matter of hours. 
+PICARD: I understand, Doctor. Do you have a recommendation? 
+[Pulaski's office]
 
-[Cargo deck five]
-
-LAFORGE: How's it going? 
-CREWMAN: Finished. Just waiting to insert the modules.
+PULASKI: Considering how desperately this is
+needed, no, I don't. I just wanted you to know what we were carrying. 
+PICARD [OC]: Thank you.
 
 [Bridge]
 
-PICARD: Number One. 
-RIKER: Lieutenant La Forge says we will be able to engage the warp
-drive within the hour. 
-PICARD: Grand. Mister Data, when we have a complete list of all the
-specimens we will be carrying, I want you and Doctor er, 
-DATA: Pulaski, sir. 
-PICARD: Doctor Pulaski. I want you to go through them. 
-DATA: Aye, sir. 
-PICARD: By the way, where is our new doctor? Has she reported in? 
-RIKER: Not yet. 
-PICARD: Sickbay, this is the captain. 
-SICKBAY: Sickbay, aye. 
-PICARD: Is Doctor Pulaski there? 
-SICKBAY [OC]: Er, no, sir. The Doctor is in Ten forward. 
-PICARD: Thank you. 
-SICKBAY [OC]: Aye, sir. 
-PICARD: A few hours on board and already she's found Ten forward. 
-RIKER: I'll go get her. 
-PICARD: No. I'll go. 
-WORF: (nice new heavy baldric) Not the best way to meet your new
-Captain.
+PICARD: Commander Data, if you have completed your
+review, you are needed in transporter room three. 
+[Pulaski's office]
 
-[Turbolift]
+DATA: Aye, sir. Excuse me, Doctor. 
+PULASKI: That's all right. Da(h)ta. Data. Whatever. 
+[Children's play area]
 
-(Wesley has come out of the lift and gone straight
-back in with Picard) 
-PICARD: Deck ten, forward station one. 
-WESLEY: Hello, Captain. 
-PICARD: Ensign. I'm sorry this mission will delay your reunion with
-your mother. 
-WESLEY: That's all right. That will give me the time to finish some
-projects I have to do. It's going to be hard leaving the Enterprise. 
-PICARD: Mixed feelings for all of us. It's always difficult leaving any
-ship, just as it was for your mother 
+(some children are cuddling puppies) 
+TROI: Ian? Ian! 
+MISS GLADSTONE: He's a very tactile child. He wants to touch and feel
+everything. 
+TROI: It's time to go, sweetheart. 
+MISS GLADSTONE: Unbelievable. I think he's actually grown since you
+dropped him off. 
+GUEST5: (getting on for Troi's shoulder height) I like it here, Mommy. 
+TROI: I thought you would. Say thank you to Miss Gladstone for having
+you, and let's go get something to eat. 
+GUEST5: Thank you. 
+GUEST4: Bye. 
+TROI: Thank you.
+

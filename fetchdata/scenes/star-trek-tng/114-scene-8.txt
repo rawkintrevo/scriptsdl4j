@@ -1,68 +1,35 @@
-RIKER LAFORGE PICARD ARGYLE CRUSHER DATA
+RIKER WORF TASHA PICARD CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Laboratory]
+[Bridge]
 
-(A mass of people are working on putting the pieces
-together, while Data looks on) 
-CRUSHER: Signal from the Captain. They need you at the debriefing.
-DATA: I've been most anxious to hear the Chief Engineer's opinion,
-Mister Argyle. Do you believe he can be made to function?
-ARGYLE: It appears to include all the components in your body. Not that
-we fully understand your construction either.
-CRUSHER: We have our top specialists working on its construction,
-Mister Data.
-ARGYLE: Just one thing. Without disassembling you, of course, if we
-should need more
-CRUSHER: If we should need to compare this with the way you're put
-together? 
-(Data nods)
-
-[Observation Lounge]
-
-PICARD: Bringing it up here was the right thing to
-do, Number One. We were just saying, Data, that if your duplicate
-functions, it might answer a lot of questions.
-RIKER: Does it appear to have all your parts?
-DATA: Completely, sir.
-LAFORGE: Will we know how to turn it on?
-PICARD: All right, all right. Legitimate questions about any of this
-need not be asked apologetically. You feel uncomfortable about aspects
-of your duplicate, Data. We feel uncomfortable too, and for no logical
-reason. If it feels awkward to be reminded that Data is a machine, just
-remember that we are merely a different variety of machine. In our
-case, electrochemical in nature. Let's begin to handle this as we would
-do anything else.
-LAFORGE: Agreed, Captain.
-PICARD: Let's begin with you, Data.
-DATA: Well, sir, a good starting point may be, why was I given human
-form?
-LAFORGE: Well, to make it easier for humans to relate to you. Had to
-be. But your designer may have had something else to prove as well.
-PICARD: That human-shaped robots need not be clumsy or limited. You
-certainly operate as well as we do, Data 
-DATA: Better in some ways, sir. 
-RIKER: You might want to have a look at this, Captain. Could be a link
-to the disappearance of the colonists. It was displayed in the lab, no
-doubt by proud parents. It could be just a child's imagination, but
-several children did similar drawings.
-CRUSHER [OC]: Doctor Crusher to Captain. At this point, sir, we very
-much need Mister Data's help.
-PICARD: He's on his way, Doctor.
-
-[Laboratory]
-
-(While technobabbnle goes on over the new android,
-Data is talking quietly with Crusher) 
-DATA: Press your fingers there, Doctor. (the small of his back) There.
-It operates almost as a switch.
-CRUSHER: And these small projections?
-DATA: An android alarm clock. Is that amusing? They time how long I
-remain unconscious.
-ARGYLE: Are you certain about us using these heating devices, Data?
-DATA: I will feel nothing at all.
-ARGYLE: Marvellous. It should all be a lot simpler once we can see how
-your circuitry's connected.
-CRUSHER: I won't mention it to anyone. You have my word.
-DATA: If you had an off switch Doctor, would you not keep it secret?
-CRUSHER: I guess I would.
+TASHA: But how did Data escape that thing? Or Lore?
+RIKER: Lore had been disassembled. He explained it as jealousy from the
+colonists. And Data wasn't yet alive at that time.
+PICARD: Which explains why Data could be left outside in no danger from
+that creature. Whatever happened to the colonists, he would be found by
+the first Starfleet crew that responded to the signal he transmitted.
+TASHA: By which Doctor Soong left proof behind that his experiment did
+work.
+RIKER: Captain, how believable do you find that crystal thing?
+PICARD: With so little of even our galaxy explored, I find it at least
+possible.
+TASHA: Data, are you expecting Lore to come up here? He left your
+quarters some time ago.
+DATA: To go?
+TASHA: My turbo-sensors say he went to deck four. Worf?
+WORF: Where he examined some micro-miniature work tools, and some fine
+grind quadratanium ?
+DATA: Which is used in our construction. That particular compound is no
+more suspicious, sir, than a human looking for an antiseptic or an
+ointment. Nevertheless, I should check it out.
+CRUSHER: You're watching everything he does, Data? Is that the act of a
+brother?
+PICARD: It's the act of a Starfleet officer obeying his Captain, Doctor.
+(Data leaves) 
+TASHA: Captain? Speaking strictly as Security Chief, how much can you
+trust Data now?
+PICARD: I trust him completely. But everyone should also realise that
+that was a necessary and legitimate security question.
+TASHA: Thank you, sir.
 

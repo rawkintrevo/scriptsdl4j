@@ -1,24 +1,25 @@
-RIKER LAFORGE PICARD WESLEY DIRGO ALLENBY DATA
+RIKER LAFORGE PICARD WESLEY GUEST1 ALLENBY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Shuttlebay]
 
 LAFORGE: You know, I've noticed here that your
 manoeuvring thrusters are rigged in a configuration I've never seen
 before. 
-DIRGO: It's my own modification. It's more efficient. You can study it
+GUEST1: It's my own modification. It's more efficient. You can study it
 if you want to. 
 (say Hi! to Nick Tate, aka Eagle pilot Carter from Space 1999) 
 (Picard and Wesley enter) 
 LAFORGE: Excuse me, Captain. I've run safety and operational
 inspections, Captain. Everything checks out all right, but I won't make
 any claims as to its comfort. 
-DIRGO: Captain Picard. Captain Dirgo of the shuttlecraft Nenebek. 
+GUEST1: Captain Picard. Captain Dirgo of the shuttlecraft Nenebek. 
 PICARD: Ah, Captain. It's good to meet you. 
 WESLEY: Captain? Of a mining shuttle? 
-DIRGO: Yes, Ensign, Captain. My ship isn't pretty, she isn't big, but
+GUEST1: Yes, Ensign, Captain. My ship isn't pretty, she isn't big, but
 we've logged almost ten thousand hours together. 
 PICARD: Oh, yes. She seems a very sturdy craft. 
-DIRGO: We should go. Captain, will you take Ops? 
+GUEST1: We should go. Captain, will you take Ops? 
 PICARD: I'll let Ensign Crusher perform that task. I have to study up
 on Regalian law.
 

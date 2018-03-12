@@ -1,42 +1,33 @@
-TROI DATA RIKER WORF
-
-[Troi's office]
-
-TROI: I think you should be careful. This isn't
-just some experiment you're running, Data. Jenna is a living, breathing
-person with needs and feelings that have to be considered. 
-DATA: Then you do not believe I should pursue this any further. 
-TROI: I didn't say that. I just want you to be aware that this is
-unlike any other more casual relationship that you've attempted. 
-DATA: I have studied much human literature on the subject of love and
-romantic liaisons. There are many role models for me to emulate. 
-TROI: Ultimately, Jenna will care for you for what you are, not what
-you imitate out of a book. 
-DATA: My programming may be inadequate to the task. 
-TROI: We're all more than the sum of our parts, Data. You'll have to be
-more than the sum of your programming.
+RIKER LAFORGE WORF PICARD GUEST0 MCKNIGHT DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
-WORF: Klingons do not pursue relationships. They
-conquer that which they desire. However, Lieutenant D'Sora serves under
-my command. If she were mistreated, I would be very displeased, sir. 
-DATA: I understand.
+RIKER: A complete sensor scan of the planet and
+three survey probes turned up no surprises. No signs of life, nothing
+out of the ordinary. 
+WORF: Seven more unusual incidents have been reported. No casualties or
+damage. 
+DATA: We can only state that a subspace effect seems to exist within
+this nebula. After I have made further analysis, I may be able to
+adjust the ship's sensors to locate and identify the anomaly. 
+RIKER: The ship is at risk as long as we're sitting here. We could
+continue the investigation outside the nebula. 
+PICARD: Agreed. Ensign McKnight, plot the most direct course, ahead
+warp one. 
+MCKNIGHT: Aye, air. 
+PICARD: Engage. 
+DATA: Captain. 
+(energy travels across science one) 
+WORF: Captain! Explosive decompression on deck thirty seven. 
+RIKER: Bridge to La Forge. Damage report.
 
-[Observation lounge]
+[Engineering]
 
-RIKER: I think you should pursue it. First of all,
-she's a beautiful woman. She seems to be crazy about you. 
-DATA: Jenna has clearly demonstrated how she feels about me, but I am
-not capable of returning those feelings. 
-RIKER: Data, when you get involved with another person, there are
-always risks of disappointment, of getting hurt. 
-DATA: I cannot be hurt. But she can. 
-RIKER: Jenna knows that and she has obviously decided to take the
-chance. Data, when it really works between two people, it's not like
-anything you've ever experienced. The rewards are far beyond simple
-friendship. 
-DATA: How far, sir? 
-RIKER: That's what I'm hoping you're going to find out. 
-DATA: Thank you, Commander.
-
+LAFORGE: We're showing damage between decks. We
+haven't localised it yet. 
+(energy travels across a wall panel and throws a crewman to the floor) 
+LAFORGE: Thorne, are you all right? 
+GUEST0: Yes, sir. 
+LAFORGE: La Forge to Bridge. A cryogenic control conduit just blew out
+on us. 

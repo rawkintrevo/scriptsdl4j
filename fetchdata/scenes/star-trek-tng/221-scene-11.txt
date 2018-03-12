@@ -1,57 +1,51 @@
-RIKER LAFORGE WORF PICARD LENOR BRIAM COMPUTER QOL
+PICARD KAMALA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Ready room]
 
-RIKER: Mister Worf, escort our Ferengi guests to
-quarters. Not too close to mine. 
-WORF: Understood.
+KAMALA: Perhaps the ambassador is right. Perhaps I
+should remain in my quarters. 
+PICARD: I have confidence in the self-control of my crew, Kamala, but
+there are guests and civilians on board. 
+KAMALA: I understand. I will volunteer to stay in my quarters under one
+condition. That you will visit me. There it is again. 
+PICARD: What? 
+KAMALA: The wall you put between us. 
+PICARD: Kamala, you are one day away from an arranged mating. Why would
+you want me to visit you in your quarters? 
+KAMALA: I said a visit. I didn't ask you to make love to me. 
+(she picks up one of his artefacts and sits in his chair) 
+KAMALA: Ventanan thimble. Early Lapeongical period, isn't it? 
+PICARD: Yes, it is. 
+KAMALA: Have you seen the Ventanan woven art recovered from the fourth
+colony dig? 
+PICARD: Woven art? Recovered intact? 
+KAMALA: They say the colours are remarkably vibrant for their age. 
+PICARD: I've read about them for years, but they were so delicate no
+one expected to find any preserved. How do you know about them? 
+KAMALA: I stay informed on a wide variety of subjects. After all, one
+never knows when the conversation might turn to Ventanan archeology or
+to the dark woman of raven brows and mournful eyes in Shakespeare's
+sonnets. Or to the gardens of Les Eyries near the village where you
+grew up. 
+PICARD: Your empathic powers told you all this about me? 
+KAMALA: Not quite that much. Mister Data helped a little. 
+PICARD: I see. 
+KAMALA: My empathic powers can only sense a man of deep passion, and
+conviction. So controlled. So disciplined. I am simply curious to know
+what lies beneath. 
+PICARD: Nothing. Nothing lies beneath. I'm really quite dull. I fall
+asleep each night with an old book in my hands. 
+KAMALA: When a metamorph finds you interesting, do not take it lightly.
 
-[Corridor]
+PICARD: Oh, I'm not taking it lightly. I'm just trying to be as dull as
+possible. 
+KAMALA: Will you visit me? 
+PICARD: It would be inappropriate. 
+KAMALA: Is that a yes or a no? 
+PICARD: I'm sorry. 
+KAMALA: Even the walls of Jericho fell, Captain. 
+PICARD: Why are you doing this, Kamala? 
+KAMALA: There can be only one reason. Because some part of you wants me
+to.
 
-WORF: Unless you can arrange your own transport,
-you will have to remain on the Enterprise until we complete our
-mission. 
-QOL: That will not be a problem. 
-LENOR: We are in no hurry. 
-QOL: We look forward to enjoying the comforts of your fine ship. 
-
-[Ferengi quarters]
-
-QOL: Quite acceptable. Not what we're used to, you
-understand, but it will do. 
-LENOR: Perhaps your captain would care to invite us to join him for
-dinner this evening? 
-WORF: The captain dines alone. 
-(Worf leaves) 
-QOL: A pity. That was too easy.
-
-[Corridor]
-
-LAFORGE: We've been working from your drawings,
-Ambassador. I hope we're in the ballpark. 
-BRIAM: Ball park? 
-PICARD: That's an old human expression. Mister LaForge hopes that we've
-got close to achieving what you wanted. 
-LAFORGE: Computer, run holodeck programme Krios One. 
-COMPUTER: Enter when ready. 
-[Holodeck - Temple]
-
-(stonework, a raised altar platform, a central
-chandelier) 
-BRIAM: Astonishing. It is the ancient Temple of Akadar. It is this
-temple that bonds Krios and Valt, gentlemen. Two brothers ruled a vast
-empire from this site until they were torn apart by their love for an
-extraordinary woman. This is where the wars began. And this is where
-they shall end.
-
-[Cargo bay]
-
-(Qol sneaks in to view the giant golden glowing egg
-supported by three golden beams of light.)
-
-[Holodeck - Temple]
-
-BRIAM: There are some details to be added, of
-course. 
-PICARD: Commander La Forge will be entirely at your disposal,
-Ambassador. 

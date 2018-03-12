@@ -1,4 +1,5 @@
-RIKER PICARD PERRIN SAKKATH MENDROSSEN SAREK
+RIKER PICARD PERRIN GUEST1 GUEST0 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Corridor]
 
@@ -21,43 +22,43 @@ incalculable.
 
 (O'Brien beams in two men, a tall Vulcan and a
 stockier human) 
-MENDROSSEN: Ah Captain Picard. I am Ki Mendrossen, the ambassador's
+GUEST0: Ah Captain Picard. I am Ki Mendrossen, the ambassador's
 chief of staff. This is Sakkath, his personal assistant. 
 PICARD: Has the ambassador been delayed? 
-MENDROSSEN: He will be joining us momentarily. But first we must
+GUEST0: He will be joining us momentarily. But first we must
 discuss some matters of the utmost delicacy. 
 PICARD: Please go ahead. 
-MENDROSSEN: To be frank, Captain, the ambassador is not a young man. He
+GUEST0: To be frank, Captain, the ambassador is not a young man. He
 tires easily. 
-SAKKATH: He's going to need a lot of rest to prepare himself for the
+GUEST1: He's going to need a lot of rest to prepare himself for the
 difficult job that awaits him. 
-MENDROSSEN: Which is why it is imperative that he be allowed to
+GUEST0: Which is why it is imperative that he be allowed to
 conserve his strength. I must request that you dispense with any formal
 activities normally associated with a visitor of his rank. 
 RIKER: We had planned a ship's concert this evening. 
 PICARD: I believe the Ambassador is extremely fond of Mozart. 
-MENDROSSEN: I'm afraid it would be impossible for him to attend. Upon
+GUEST0: I'm afraid it would be impossible for him to attend. Upon
 his arrival he will be taken directly to his quarters where he will
 remain in seclusion until we reach Legara Four. 
 PICARD: You have my assurance that the Ambassador will not be disturbed
 during the voyage. 
-MENDROSSEN: That's all we ask. Well, now that's settled, the Ambassador
+GUEST0: That's all we ask. Well, now that's settled, the Ambassador
 is waiting. 
 (Sarek and Perrin are beamed aboard) 
 PICARD: Welcome aboard the Enterprise, Ambassador Sarek. 
-SAREK: We come to serve. 
+GUEST2: We come to serve. 
 PICARD: Your service honours us. 
-SAREK: Allow me to present she who is my wife. 
+GUEST2: Allow me to present she who is my wife. 
 PICARD: Mrs. Sarek. 
 PERRIN: Please call me Perrin, Captain. 
 PICARD: This is my first officer, Commander William Riker. 
 PERRIN: Captain, would you be so kind as to show us to our quarters? 
-SAREK: I prefer to view the conference room first. 
-MENDROSSEN: Ambassador, I'm sure Sakkath and I can handle all the
+GUEST2: I prefer to view the conference room first. 
+GUEST0: Ambassador, I'm sure Sakkath and I can handle all the
 necessary details. 
-SAREK: I will examine it for myself. 
+GUEST2: I will examine it for myself. 
 PERRIN: Perhaps it would be best if we settled in first. 
-SAREK: They worry about my health, Captain. Too much. You will take me
+GUEST2: They worry about my health, Captain. Too much. You will take me
 to the conference room, please. 
 RIKER: If you'll follow me, sir.
 

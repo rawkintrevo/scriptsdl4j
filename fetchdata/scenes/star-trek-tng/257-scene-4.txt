@@ -1,49 +1,47 @@
-RIKER PICARD TALLERA COMPUTER BARAN NARIK
+RIKER TALLERA BARAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Mercenary Bridge]
+[Baran's quarters]
 
-(at another planet) 
-NARIK: I'm taking the engines offline. 
-BARAN: How long will it take to repair our battle damage? 
-NARIK: It will take at least five hours to replace the antimatter
-containment unit. 
-BARAN: You have three hours, Narik. One minute beyond that and you'll
-answer for it with your life. I suppose I should thank you. None of us
-would be alive if it weren't for you. 
-RIKER: You're welcome. 
-PICARD: What's wrong, Commander? You having second thoughts about
-betraying your comrades? Because that's what you've done, betrayed
-them. Betrayed them in order to save yourself. You used to be just a
-second rate officer, now you're a traitor and a coward. How does that
-feel? 
-(Riker punches Picard) 
-RIKER: I don't know. How did that feel? 
-BARAN: That's enough. Galen, go down to the cargo hold and check out
-those artefacts. Move.
+TALLERA [OC]: One of the artefacts. 
+BARAN: Good. Bring it to me immediately. Don't let anyone get near it. 
+TALLERA [OC]: Understood. Tallera out. 
+RIKER: That sounds like good news. 
+BARAN: Very. It means we've completed half of what promises to be a
+very profitable mission. And even better than that, I'm almost ready to
+get rid of your friend Galen. 
+RIKER: Really? 
+BARAN: There's one more artefact to find. Once Galen confirms that it's
+genuine, his usefulness on this ship will come to a very sudden end. 
+RIKER: I can't say I'm sorry to hear that. 
+BARAN: Galen might be a loud mouthed fool, but sometimes he's quite
+perceptive. His observations about you, for instance. 
+RIKER: Oh? 
+BARAN: After what you did on Calder Two, I doubt if you have much of a
+future in Starfleet. 
+RIKER: Yes, I must say I've come to the same conclusion. 
+BARAN: Well, assuming that you were not my prisoner, what would you do
+now? 
+RIKER: I guess I'd start looking for a new career. There must be a
+place where someone with fifteen years of Starfleet technical knowledge
+would be useful. You wouldn't happen to know a place like that? 
+BARAN: Well, possibly. However, there's one thing that I have learned
+on this ship, and that's to be cautious and never to blindly embrace
+what might appear to be good fortune. And right now, you're a rather
+large stroke of good luck. 
+RIKER: I haven't exactly sworn my undying allegiance to you either,
+Baran. For instance, I'd like to know a little bit more about the job. 
+BARAN: Such as? 
+RIKER: Such as what you meant by a very profitable mission. 
+BARAN: Well, it's enough to know right now that your share will ensure
+a very wealthy and long life far from the Federation. 
+RIKER: Sounds promising. 
+BARAN: It is, only you're going to have to earn it. And you can start
+by putting aside your dislike for Galen and becoming his friend. 
+RIKER: Why? 
+BARAN: Galen has allies on this ship. They could cause trouble if I
+decide to kill him. I want you to find out from him who they are. 
+RIKER: Okay. 
+BARAN: One more thing, Riker. When the time comes, I want you to kill
+Galen.
 
-[Mercenary Cargo hold]
-
-(Tallera enters) 
-PICARD: You can tell Baran that I'm working as fast as I can. What? 
-TALLERA: I'm trying to decide if you're incredibly stupid or incredibly
-smart. Why didn't you continue to fire on the Enterprise when their
-shields dropped? 
-PICARD: You were there. The disruptors lost power. Computer, reset for
-diagnostic of new sample. Begin scan. 
-TALLERA: I've watched you handle the weapon systems before. You know
-exactly how to bypass a problem like that.
-And why do you continue to argue with Riker? It should be obvious that
-by alienating Riker you also alienate Baran, and yet you continue to do
-so. Why? 
-COMPUTER: Scan complete. Terikon profile negative. 
-PICARD: Computer, reset diagnostic for new sample and begin scan. Look
-this isn't a Romulan labour camp. I don't have to answer your
-questions. And I don't give a damn what you think. 
-COMPUTER: Scan complete. Terikon profile positive. Ninety eight percent
-probability of match. 
-PICARD: Well, whatever it is we're looking for, it seems we've found
-it. 
-TALLERA: Tallera to Captain. 
-BARAN [OC]: Yes, what is it? 
-TALLERA: I'm in the cargo hold. Galen's made a positive Terikon match
-on 

@@ -1,51 +1,43 @@
-PICARD TROI PERRIN RIKER
+WESLEY PERRIN RIKER LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Guest quarters - bedroom]
 
-RIKER: The way Mendrossen described him, I expected
-to see a frail old man. 
-PICARD: I hope I'm that frail when I'm two hundred and two years old.
-But his aides did seem to be a little overprotective, didn't they? 
-RIKER: From what I could see, the Ambassador doesn't need to be
-protected from anything. 
-PICARD: Well, we'll respect Mister Mendrossen's request and allow
-Ambassador Sarek his privacy. I suppose they were foolish and vain, my
-expectations of this voyage. Sharing his thoughts, memories, his unique
-understanding of the history he's made. 
-TROI: Does this mean you're going to cancel the concert this evening? 
-PICARD: No, the concert will ahead as scheduled. But it's a pity that
-the guest of honour will be absent. 
-RIKER: For all we know, the Ambassador might enjoy an evening's
-entertainment 
-TROI: Why not ask his wife if she'd like to attend? 
-PICARD: That's an excellent idea, Counsellor. You have the Bridge,
-Number One.
+PERRIN: You are still unable to meditate? 
+GUEST2: It is of no importance. 
+PERRIN: It has eluded you for many weeks. 
+GUEST2: I said it is of no importance. 
+PERRIN: You know I am right. 
+GUEST2: My wife, you will leave me now. I require solitude.
 
-[Guest quarters]
+[Conference room]
 
-PERRIN: Come in. 
-PICARD: I hope I'm not intruding. 
-PERRIN: Not at all, Captain, but Sarek is in meditation at the moment. 
-PICARD: Actually, I came to see you. 
-PERRIN: Well, how nice. I so rarely get visitors of my own. Usually
-everyone wants to see the Ambassador. 
-PICARD: I find that hard to believe. Thank you. 
-(They sit) 
-PERRIN: These quarters are quite comfortable. The Ambassador and I were
-very pleased when we heard that the negotiations were going to take
-place aboard the flagship of the Federation. 
-PICARD: The honour is ours. 
-PERRIN: My husband has taken an interest in your career. He finds it to
-be satisfactory. 
-PICARD: My word! High praise from a Vulcan. 
-PERRIN: Some people who expect an emotional response often find Vulcans
-quite cold when they are merely being 
-PICARD: Logical. 
-PERRIN: Exactly. 
-PICARD: I came to invite you, and your husband if he is available, to a
-Mozart recital this evening. 
-PERRIN: What a tempting offer. I doubt that the Ambassador will be able
-to attend, but I will make it a point to ask him. 
-PICARD: Well, then I hope to see you tonight. 
-PERRIN: As do I.
+WESLEY: The temperature in the tank is now one
+hundred fifty degrees Celsius. 
+LAFORGE: Okay, lock it off. 
+WESLEY: Is that it? Can I get out of here now? 
+LAFORGE: What's your hurry? You don't really think something's going to
+happen with Suzanne Dumont, do you? 
+WESLEY: At least I'm not spending the night with a good book like some
+people. 
+LAFORGE: What's that supposed to mean? 
+WESLEY: Just what it sounds like. 
+LAFORGE: Let me tell you something. You'd get more action out of a good
+book than you'll ever see on this date, I'll guarantee it. She's not
+going to waste her time on someone like you. 
+WESLEY: Someone like me? 
+LAFORGE: She's way out of your league. 
+WESLEY: Since when did you become an expert on women? 
+LAFORGE: Compared to you, every male on this ship is an expert on
+women. 
+WESLEY: Well at least I don't have to find my women on the holodeck! 
+LAFORGE: What did you say? 
+WESLEY: You heard me! 
+LAFORGE: Yeah, I heard you. Just what do you think is going to stop 
+RIKER: Something wrong? I asked a question. 
+LAFORGE: No, sir. Nothing wrong here. 
+WESLEY: May I be excused, Commander? 
+(Wesley storms out) 
+RIKER: Anything you'd like to talk about, Geordi? 
+LAFORGE: No, sir.
 

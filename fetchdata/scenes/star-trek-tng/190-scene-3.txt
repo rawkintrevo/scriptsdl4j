@@ -1,42 +1,42 @@
-CREWWOMAN LEAH LAFORGE
+RIKER LAFORGE WORF PICARD LEAH DATA RAGER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Transporter room]
+[Bridge]
 
-CREWWOMAN: Doctor Brahms is ready to transport,
-sir. 
-LAFORGE: Okay, bring her over. 
-(Leah beams in) 
-LAFORGE: Hi. I mean, welcome aboard, Doctor Brahms. I'm Lieutenant
-Commander Geordi La Forge, Chief Engineer. 
-LEAH: La Forge. So you're the one who's fouled up my engine designs. 
-(and stalks past him straight out of the room)
-
+DATA: Commander, I am picking up some unusual
+readings from the Alpha Omicron system. At this range, all I am able to
+discern
+is that it is an asymmetrical field of intense energy. 
+RIKER: What type of radiation signature? 
+DATA: Unknown, sir. The Alpha Omicron system is yet to be charted. I
+recommend we take this opportunity for further research. 
+RIKER: Well, we're way ahead of schedule. Alter course for Alpha
+Omicron. 
 [Engineering]
 
-(Leah is getting the full tour) 
-LEAH: The matter-antimatter ratio has been changed. The mixture isn't
-as rich as regulations dictate. 
-LAFORGE: Experience has shown me that too high a ratio diminishes
-efficiency. I worked with the mixture until I got the right balance. 
-LEAH: The magnetic plasma transfer to the warp field generators doesn't
-correspond to the recommended specs. 
-LAFORGE: Right. Again, I adjusted the flow. Sometimes things happen a
-little differently here is space than they do on the drawing board. 
-LEAH: Is that a criticism, Commander? 
-LAFORGE: No, of course not. It's just a well known fact. There's theory
-and there's application. They don't always jibe. 
-LEAH: You've charted a completely new swap-out schedule for main
-components replacement. 
-LAFORGE: You bet. I found the Starfleet estimates for the MTBF units to
-be unrealistic. I simply determined my own schedule based on
-observation and experience. 
-LEAH: Is that going to be your only defence, Commander, that same tired
-rhetoric? Out here in the field we learn things you designers couldn't
-possibly understand. 
-LAFORGE: In the first place, Doctor, I'm not aware of needing any
-defence. And in the second place, if you're determined to be. 
-CREWWOMAN [OC]: Doctor Brahms, you have an incoming message on
-subspace. 
-LEAH: I'd like to hear this message privately. 
-LAFORGE: In my office. Be my guest. 
-LEAH: Thank you. 
+LAFORGE: Doctor Brahms, there's no reason for us to
+argue. We're on the same side here. 
+LEAH: I'm aware of that. 
+LAFORGE: So, why don't I take you on a little tour, show you the
+adjustments I've made, why I think they work and we can begin pulling
+together on this? Okay. Then why not start with the dilithium chamber.
+Okay? 
+LEAH: Okay. 
+[Bridge]
+
+DATA: The anomaly is orbiting the seventh planet,
+sir. It is a mass of plasma energy contained within discrete boundaries
+by an outer covering of silicates, actinides, and carbonaceous
+chondrites. 
+PICARD: On screen. Magnify. Is it a ship? 
+WORF: It does not conform to any known design. 
+RIKER: Any records of similar phenomena in Starfleet listings? 
+DATA: None, sir. This has never been seen before. 
+PICARD: Ensign Rager, ahead one quarter impulse. 
+RAGER: Aye, sir. 
+PICARD: Put us in orbit of the seventh planet. Keep us at a relative
+distance of ten kilometres from the object. 
+RIKER: Alert science stations to standby. Tell them to coordinate all
+efforts with Commander Data. 
+WORF: Aye, sir.
+

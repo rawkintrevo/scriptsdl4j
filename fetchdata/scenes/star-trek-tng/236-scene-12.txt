@@ -1,85 +1,50 @@
-PICARD RIKER CRUSHER WORF JELLICO
+RIKER WORF PICARD TROI JELLICO CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Caverns]
+
+PICARD: Beverly, make sure that your tricorder is
+keeping a precise map of the route. We could very easily get lost in
+here. 
+CRUSHER: Right. I'm picking up some subspace signals, but I can't seem
+to get a lock on them. 
+PICARD: That's typical of theta-band emissions. You have to compress
+the detection band width in order to determine the fix. The source
+emission is five hundred metres east of here. And seven hundred metres
+below. 
+(something flies overhead) 
+PICARD: It's all right. They're called lynars, a kind of Celtrine bat.
+They're harmless. 
+WORF: Bats? 
+CRUSHER: You're not afraid of bats, are you, Worf? 
+WORF: Of course not.
+
+First Officer's log, supplemental. We have
+rendezvoused with the Cardassian ship Reklar to begin diplomatic talks
+designed to ease tensions along the border.
+
+[Bridge]
+
+RIKER: Gul Lemec has arrived. He's waiting for you
+in the Observation Lounge. 
+JELLICO: Very good. I'll be in my Ready room.
 
 [Ready room]
 
-PICARD: My orders are to maintain radio silence
-until we've completed the mission. 
-JELLICO: Well the Enterprise will be monitoring your channel just in
-case you do need to transmit a signal. 
-RIKER [OC]: Bridge to Captain Jellico. We've arrived at the shuttle
-departure coordinates. 
-JELLICO: Did you launch the probe I requested? 
-RIKER [OC]: Yes, sir. I wasn't aware you wanted to be informed. 
-JELLICO: Thank you. Jellico out. I can see why he's still only a first
-officer. 
-PICARD: Captain, I would just like you to know that Commander Riker is 
-JELLICO: I've read your reports, Jean-Luc. I know you think highly of
-him. 
-PICARD: It's not just my opinion. He's been decorated by Starfleet
-Command five times. He's been offered his own ship more than once. I
-think if you just gave him a chance, you'd find him an outstanding
-officer. 
-JELLICO: Jean-Luc, let's be candid for a moment. The Cardassians aren't
-going to listen to reason, and the Federation isn't going to give in to
-their demands. And the chances are you won't be coming back from this
-mission of yours. I want this ship ready for action and I don't have
-time to give Will Riker or anyone else a chance. And forgive me for
-being blunt, but the Enterprise is mine now. Well, here's hoping you
-beat the odds. Good hunting. 
-PICARD: Thank you. 
-JELLICO: Jean-Luc. I believe this is yours. 
-(and Shakespeare leaves the room)
-
-[Shuttlecraft]
-
-WORF: Shuttlecraft Feynman to Enterprise. We have
-cleared the shuttlebay. 
-RIKER [OC]: Acknowledged, Feynman. Good luck. 
-PICARD: Thank you, Enterprise. Well, now that we're under way, I can
-tell you about our mission. Starfleet Intelligence believes the
-Cardassians are developing a metagenic weapon. 
-CRUSHER: Oh my God. 
-WORF: I am not familiar with metagenics. 
-CRUSHER: They're genetically engineered viruses that are designed to
-destroy entire ecosystems. When metagenic toxins are released into a
-planet's atmosphere, they immediately begin to mutate. They seek out
-and destroy all forms of DNA they encounter. In a few days, everything
-is dead. 
-PICARD: In a month, the metagenic agent itself breaks down and
-dissipates completely, leaving every city, every road, every piece of
-equipment perfectly intact. 
-WORF: Leaving the planet safe to be conquered. Wouldn't using such a
-weapon pose as great a risk to the attacker as to the target? 
-CRUSHER: That's why metagenics and other biological weapons were
-outlawed years ago. Even the Romulans have abided with those
-agreements. 
-PICARD: Starfleet Intelligence believes that the Cardassians are
-developing a new delivery system, one that would protect them from
-accidental exposure to the toxin. They believe that the Cardassians are
-testing a way of launching dormant metagenic material on a subspace
-carrier wave. 
-CRUSHER: So they could activate the toxins after the launch, thereby
-preventing any accidental exposure. 
-PICARD: And because the subspace wave would appear simply as background
-radiation, no one would realise what was happening until it was too
-late. Now, for the past few weeks, theta-band subspace emissions have
-been detected coming from Celtris Three. Those emissions may indicate
-that a metagenic delivery system in operation. 
-WORF: What do we know about Celtris Three? 
-PICARD: Very little. It was thought to be uninhabited until these
-emissions were detected. Starfleet believes that the Cardassians may
-have a secret research lab located somewhere below the planet surface.
-Our orders are to penetrate this Celtris Three installation and
-determine if the Cardassians are actually building a metagenic weapon. 
-CRUSHER: And if they are? 
-PICARD: Destroy it. At any cost. When I was on the Stargazer, we
-conducted extensive tests using theta band carrier waves. One of the
-reasons I was selected for this mission is my familiarity with the
-methods used for generating them. Mister Worf, your presence here is
-obvious. Doctor, your job will be to locate and destroy any biotoxins
-we may find. 
-WORF: Celtris Three is in Cardassian space. How will we get there
-undetected? 
-PICARD: I know a way of acquiring some discreet transport. Mister Worf,
-set a course for Torman Five.
+(the wall behind the desk is now decorated with
+frames pictures from his son) 
+JELLICO: Yes? 
+TROI: Captain, I think there's been a slight miscommunication. Did you
+want to meet with Gul Lemec in here? 
+JELLICO: No. The Observation Lounge is appropriate. 
+TROI: I see. 
+JELLICO: Lemec is a Cardassian, and Cardassians are like timber wolves,
+predators, bold in large numbers cautious by themselves, and with an
+instinctive need to establish a dominant position in any social
+gathering. 
+TROI: So you're trying to establish a dominant position by making him
+wait for you. The trouble with wolves is that sometimes the fight for
+dominance, one of them ends up dead. 
+JELLICO: In that case, the trick is to be the wolf that's still
+standing at the end.
 

@@ -1,66 +1,47 @@
-BASHIR DATA SHREK WORF
+GUEST0 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Medical lab]
+[Engineering]
 
-(a young, eager, intense Doctor in engrossed in
-what he is doing) 
-DATA: Excuse me. Do you have authorisation to work in this area? 
-BASHIR: Come in, come in. I need a hand with this field generator. See
-if you can boost the power output to sixty five percent. 
-DATA: I am sorry, but use of sickbay equipment is limited to ship's
-medical personnel. 
-BASHIR: Ah. Doctor Julian Bashir, Chief Medical officer, Deep Space
-Nine. And you are Commander? 
-DATA: Data. 
-BASHIR: Commander Data. The synthetic lifeform. 
-DATA: Yes. 
-BASHIR: It's an honour to meet you, sir. I've heard so much about you.
-You must have a fascinating perspective into biocybernetic research.
-I'd be delighted if we could discuss the subject sometime. 
-DATA: I would be happy to do so. However, I must ask you to stop your
-experiment. 
-BASHIR: Ah, yes. I realise I should have asked before using your
-sickbay, but it would've taken me days to analyse this device with the
-computer I have on Deep Space Nine. 
-DATA: What type of device is this? 
-BASHIR: It was discovered in the Gamma Quadrant. I think it must be
-some sort of medical instrument. 
-DATA: It appears to employ plasma inputs. 
-BASHIR: I'm hoping it's a medical scanner. I wanted to use your
-computer to find out how it works. 
-DATA: I suggest we take it to Engineering and run a complete
-circuit-pathway diagnostic. 
-BASHIR: Splendid. I must admit, Commander I didn't think you'd be so
-personable.
-
-[Replimat]
-
-(a very wrinkled alien with the voice of the modern
-Zephram Cochrane approaches Worf while he is still eating the dodgy
-pasta) 
-SHREK: Klingon. You are Starfleet Klingon. 
-WORF: I am Lieutenant Worf. 
-SHREK: Worf. Son of Mogh. 
-WORF: What of it? 
-SHREK: I am Jaglom Shrek, a man with information to sell. 
-WORF: You have no information I could use. 
-SHREK: I would not be so sure. It is about your father, Mogh. 
-WORF: My father died twenty five years ago at Khitomer. 
-SHREK: That is what you believe. What if I tell you he is still alive? 
-[Somewhere dark and private]
-
-WORF: My father is dead. 
-SHREK: No, he's not. I know where he is. 
-WORF: How is that possible? 
-SHREK: I expect to be paid for my information. Perhaps we could
-negotiate an exchange. The location of your father, for 
-WORF: Tell me what you know. 
-SHREK: Not all of the Klingons at Khitomer were killed during the
-massacre. Many were captured by the Romulans and placed in a prison
-camp on a remote planet. Your father was among them. 
-WORF: Where is this planet? 
-SHREK: Not far from here. I could give you the location, for a price. 
-WORF: A Klingon would rather die than be taken prisoner. I should kill
-you for spreading lies about my family. My father was killed defending
-Khitomer.
-
+DATA: If we transfer twenty megajoules of energy
+from the dilithium chamber into the plasma inputs, it should be
+sufficient to activate the device. 
+LAFORGE: It's worth a try. You two can begin by connecting the coil to
+the chamber. I'll configure the energy transfer. 
+GUEST0: Right. Data, can I ask you a personal question? 
+DATA: Certainly. 
+GUEST0: Does your hair grow? 
+DATA: I can control the rate of my follicle replenishment. However, I
+have not yet had a reason to modify the length of my hair. Why do you
+ask? 
+GUEST0: Just curious. 
+DATA: Power conduits are ready. Is something wrong, Doctor? 
+GUEST0: You're breathing. 
+DATA: Yes. I do have a functional respiration system. However, its
+purpose is to maintain thermal control of my internal systems. I am, in
+fact, capable of functioning for extended periods in a vacuum. 
+GUEST0: And you have a pulse. 
+DATA: My circulatory system not only produces bio-chemical lubricants,
+it regulates micro-hydraulic power. Most people are interested in my
+extraordinary abilities. How fast I can compute, my memory capacity,
+how long I will live. No one has ever asked me if my hair will grow, or
+noticed that I can breathe. 
+GUEST0: Your creator went to a lot of trouble to make you seem human. I
+find that fascinating. 
+LAFORGE: Okay, I think we're ready to begin the transfer. 
+DATA: Power connections are complete. 
+GUEST0: I'll monitor the coil's transfer rate. Will you keep an eye on
+the transient power response? 
+DATA: Of course. We are ready, Geordi. 
+LAFORGE: Okay. Initiating energy transfer. 
+(an orange light appears between the two sections of the device)
+GUEST0: Power levels are holding steady. 
+DATA: Transient response is normal. 
+GUEST0: Hold on. I'm picking up a power surge. Reduce the transfer
+rate. 
+LAFORGE: Reducing rate by twenty percent. 
+(a crackle of energy lances out and hits Data. He falls back, rigid) 
+LAFORGE: What happened? 
+GUEST0: The power connections blew. It sent out some kind of plasma
+shock. 
+LAFORGE: His synaptic energy is dropping. 

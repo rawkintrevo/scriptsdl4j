@@ -1,41 +1,41 @@
-RIKER LAFORGE CREWMAN PICARD STUBBS WESLEY DATA
+PICARD RIKER DATA TROI STUBBS
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Observation lounge]
 
-(Wesley dashes in and takes his seat) 
-RIKER: Ensign, our position. 
-WESLEY: Approaching one million kilometres from the neutron star, sir. 
-RIKER: Slow to one third impulse power. 
-STUBBS: (wearing the C24 equivalent of corduroy) Spectacular, isn't it,
-my young friend? 
-WESLEY: Yes sir. 
-STUBBS: Over and over again, the intense gravitational pull of the
-little neutron star sucks up the star material from the red giant, and
-it builds up on the surface until it explodes, every one hundred and
-ninety six years. Like clockwork. And it is but eighteen hours away. 
-DATA: Eighteen hours, seven minutes, and ten seconds, Doctor. 
-STUBBS: The interstellar counterpart to Earth's Old Faithful. The only
-predictable burst of energy in the universe that can accomplish our
-goal. 
-(Picard enters) 
-PICARD: Doctor Stubbs, if you would like to make one final inspection
-of the unit. 
-STUBBS: Captain, I've been inspecting the Egg for the last twenty
-years. You may lay it when ready. 
-PICARD: Begin launch sequence. 
-RIKER: Shuttlebay two, stand-by to launch the Egg. 
-[Shuttlebay]
-
-CREWMAN: Standing by, Commander. 
-[Bridge]
-
-DATA: Five minutes to launch site. 
-(There's a sudden jolt. Stubbs gets thrown against a bulkhead) 
-PICARD: Stabilise. 
-WESLEY: The ship isn't responding, sir. 
-PICARD: Engineering. 
-[Engineering]
-
-PICARD [OC]: Report, Mister La Forge. 
-LAFORGE: Checking for failure of inertial dampeners. Instruments say
-they're working 
+PICARD: The fact of the matter is, we are dealing
+with a potential breakdown of the main computer. 
+RIKER: That's hard to accept. 
+DATA: The system automatically provides for self-correction, Captain.
+There has not been a systems-wide technological failure on a starship
+in seventy nine years. 
+TROI: Excuse me, Captain, but Doctor Stubbs is waiting outside. 
+(Stubbs has walked in) 
+STUBBS: Captain, I'm sure you have everything under control. I'd just
+like to know what's going on. 
+PICARD: Of course, Doctor. Sit down. Counsellor. Commander La Forge is
+attempting repairs even as we speak. 
+STUBBS: Attempting. That doesn't sound particularly reassuring. 
+PICARD: Doctor, if at all possible, we will continue this mission as
+planned. 
+STUBBS: Captain, if we miss our chance now, we don't get another for
+two centuries. There will be many questions asked by Starfleet if the
+Enterprise fails in its duty 
+PICARD: Nevertheless, my first and foremost consideration will be to
+ensure the safety of this ship and its crew. 
+STUBBS: Ensure the safety, Captain? Or are you really talking about
+playing it safe? 
+PICARD: My dear Doctor, in our current position, when that star
+explodes, you'll get to watch your experiment from the inside out. 
+STUBBS: I would rather die than leave. 
+PICARD: I don't believe you speak for the majority of the crew. 
+TROI: Doctor Stubbs, I know how much this means to you. 
+STUBBS: My dear Counsellor, no insult intended but please turn off your
+beam into my soul. I will share the feelings I wish to share. Well, if
+we do not leave in time, so be it. It's one sure way into the record
+books, eh? 
+(Stubbs leaves, hands in pockets) 
+TROI: His nonchalance is studied and practised. 
+PICARD: Even my sensory perception picked that up. 
+TROI: He's put his entire self-worth on the line with this experiment.
+He is telling the truth when he says he'd rather die than leave. 

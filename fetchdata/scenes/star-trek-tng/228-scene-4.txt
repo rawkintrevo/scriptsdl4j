@@ -1,50 +1,5 @@
-TROI LAFORGE WORF RIKER CRUSHER BARCLAY
-
-[Troi's office]
-
-(Barclay is pacing, upset) 
-TROI: Reg, you were faced with a difficult transport. Anyone would have
-been apprehensive in that situation. 
-BARCLAY: Tell that to Commander La Forge and the rest of the away team.
-
-TROI: I'm sure they understand. As soon as you feel up to it, you can
-probably still join them. 
-BARCLAY: No! 
-TROI: Reg, is there something you're not telling me? 
-BARCLAY: Actually, this isn't the first time I've been apprehensive.
-Every single time that I tried to do it, I had a certain feeling. I
-guess you could call it mortal terror. 
-TROI: Why have you kept it a secret? 
-BARCLAY: Why? Because my career in Starfleet would be over, that's why.
-
-TROI: I doubt that. 
-BARCLAY: I've always managed to avoid it somehow. You wouldn't believe
-how many hours that I've logged in shuttlecraft. I mean, The idea of
-being deconstructed, molecule by molecule. It's more than I can stand.
-Even when I was a child, I always had a dreadful fear that if ever I
-was dematerialised that I would never come back again whole. I know it
-sounds crazy, but 
-TROI: It's not crazy about it. You are being taken apart molecule by
-molecule. Reg, you're not the first person to have anxiety about
-transporting. We can desensitise you to this type of fear. It's a slow
-and gradual process, but it works. 
-BARCLAY: It does? How? 
-TROI: Well, you might first try a relaxation technique, like plexing. 
-BARCLAY: Plexing? 
-TROI: Yes, it's a Betazoid method. The next time you feel nervous about
-transporting, you stimulate a neural pressure point, like this. 
-(Troi taps behind her right ear) 
-TROI: There's a nerve cluster just behind the carotid artery. It
-stimulates the part of the brain that releases natural endorphins. 
-BARCLAY: Plexing. Sounds easy enough. 
-(Troi guides Barclay's fingers to the right place) 
-TROI: Here. There. 
-BARCLAY: You know, I feel better already. I think I can do this. 
-TROI: There's no need to rush. 
-BARCLAY: No, no. We talked about confronting my fears. The best way out
-is through. You said that once, remember? 
-TROI: I suppose I did. 
-BARCLAY: I'm going to beam over there. I can do it.
+RIKER OBRIEN LAFORGE WORF CRUSHER BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [USS Yosemite Bridge]
 
@@ -63,3 +18,35 @@ LAFORGE: How is that possible? The transporter is still functioning.
 RIKER: Could they have beamed an explosive device aboard? 
 CRUSHER: Commander Riker? Could you come here, please. 
 RIKER: Excuse me. 
+[USS Yosemite]
+
+(just down the corridor) 
+CRUSHER: Lieutenant Joshua Kelly. He was the ship's engineer. 
+RIKER: How did he die? 
+CRUSHER: He has second and third degree burns over most of his body,
+but I don't think they were the cause of his death. I'm like to take
+him back to do an autopsy.
+
+[Transporter room]
+
+O'BRIEN: You're sure about this, sir? 
+BARCLAY: Sure. Please proceed. 
+O'BRIEN: It'll only take a minute. It should be a smooth ride over. 
+BARCLAY: Good. Good. 
+O'BRIEN: I know how you feel about this, sir. 
+BARCLAY: You're afraid of transporting, too? 
+O'BRIEN: No. Arachnids. Sickening, crawly little things, don't you
+think? All those legs. 
+BARCLAY: Spiders? They've never bothered me. 
+O'BRIEN: A few years back, I was called in to re-route an emitter array
+at a Starbase on Zayra Four. Turns out the entire system was infested
+with Talarian hook spiders. You ever seen a Talarian hook spider? Their
+legs are half a metre long. Well, I had a choice. Do I walk away and
+let the emitter blow itself to hell, or do I crawl in the Jeffries tube
+with twenty hook spiders? 
+BARCLAY: What happened? 
+O'BRIEN: It was the hardest thing I ever did, but I got through it.
+After that, I was never quite as afraid of spiders. 
+BARCLAY: Thanks. 
+O'BRIEN: Energising.
+

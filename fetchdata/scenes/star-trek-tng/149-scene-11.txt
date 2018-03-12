@@ -1,66 +1,70 @@
-PICARD DATA SHELIAK WORF ARDRIAN
+ALL LAFORGE GUEST3 PICARD WESLEY GUEST0 GUEST1 DATA GUEST4
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Transporter room]
 
-WORF: No response. 
-PICARD: Try them again. Boost the signal strength. 
-WORF: Sheliak Corporate. This is the starship Enterprise. Respond
-please. 
-(A vaguely humanoid blob appears, looking like lumps of mud) 
-SHELIAK [on viewscreen]: Conversation is neither required nor desired. 
-PICARD: Conversation is necessary if we are to find a solution to our
-mutual problem. 
-SHELIAK [on viewscreen]: Our involvement in Federation illegality is
-not indicated. 
-PICARD: Both parties are involved, sir. 
-SHELIAK [on viewscreen]: Remove the humans from the Tau Cygna system.
-Three Earth days remain. 
-PICARD: Let us negotiate in good faith. 
-SHELIAK [on viewscreen]: Negotiate to what purpose? The treaty is
-signed. 
-PICARD: There is a thriving colony on that planet. Rather than uproot
-these people, may I offer a compromise? 
-SHELIAK [on viewscreen]: Denied. 
-PICARD: Why? 
-SHELIAK [on viewscreen]: The law is paramount. We are entitled. 
-PICARD: This is not a law. It is a treaty. It is designed to smooth
-relations between peoples. Not to act as a strait 
-(Transmission ends) 
-PICARD: Jacket.
+(another test object comes back almost intact, but
+if it were a person, they'd still be dead. Picard enters) 
+PICARD: Now, are we progressing, Mister La Forge? 
+LAFORGE: About like you'd expect, sir. 
+PICARD: Splendid. Splendid. Carry on. 
+(Picard leaves) 
+WESLEY: He wants the impossible. 
+LAFORGE: That's the short definition of Captain.
 
-[Ard'rian's home]
+[Main square]
 
-ARD'RIAN: You really think we'll have to leave Tau
-Cygna Five? 
-DATA: The possibility does exist, yet Gosheven seems unwilling to
-prepare for it. Why? 
-ARD'RIAN: Maybe because you're an android. I don't think Gosheven likes
-the idea of machines ordering him around. 
-DATA: I am not ordering him to do anything. I am merely trying to
-persuade him that his people should prepare to evacuate. Do you believe
-my suggested course of action should be followed? 
-ARD'RIAN: Of course. 
-DATA: In spite of the fact that I am an android? 
-ARD'RIAN: Because of that fact. I don't have any silly prejudice
-against computers. I like them. Not that any computer we have is half
-as sophisticated as you are. 
-(Data looks around) 
-DATA: No, I would say not. 
-ARD'RIAN: People can be selfish, irrational, stubborn, malicious, you
-name it. But computers don't have those failings. 
-DATA: And you conclude because of this that I am impartial. Hence, you
-accept my recommendations? Yet Gosheven does not. 
-PICARD [OC]: Picard to Commander Data. 
-DATA: Data here. 
-PICARD [OC]: The Sheliak won't bargain. 
-DATA: Understood, sir. 
-[Bridge]
+(A crowd is gathering under the street lights) 
+GUEST1: You've all heard of the android Starfleet sent here, and
+you've been discussing why he's come.
+I've called this meeting to replace misinformation with cold, hard
+fact. 
+DATA: I wish to speak. 
+GUEST1: No. Leave now. 
+DATA: Do you consider your position so weak that it cannot withstand
+debate? 
+GUEST0: Let him talk. 
+DATA: You know of the Sheliak threat. Starfleet wishes to evacuate you
+for your own protection. Yet Gosheven has decided otherwise. That is
+his right, And I will not waste time trying to reverse that decision. I
+admire your conviction in the face of certain defeat. Though doomed,
+your effort will be valiant. And when you die, you will die for land
+and honour. Your children will understand that they are dying for a
+worthy cause. Long after the battle is over, their courage will be
+remembered and extolled. 
+ARD'RIAN: Remembered by who? 
+DATA: Yes, that is true. There will be no one left alive to remember. 
+GUEST1: (applauding) A valiant try, android, but what a low opinion
+you must have of us. 
+DATA: I was simply attempting to describe your inevitable destruction
+in a manner that would have an emotional effect. 
+GUEST0: And he describes it pretty damned well. 
+GUEST1: Are you ready to follow this machine? Give up without a
+fight? He says we're going to lose, but I think that's just his
+cowardice talking! 
+GUEST4: What if he's right and you're wrong? Shouldn't we consider that
+possibility? 
+GUEST1: This colony exists because generations gave their lives for
+it. Many people died before we found a way to adapt to the radiation.
+And many more died bringing water to the desert. My grandfather 
+ARD'RIAN: Is buried on that mountain. Well, who'll be left to bury you?
 
-PICARD: I'm contacting Starfleet to arrange
-transport. Get those people prepared to evacuation. We may have to move
-quickly. 
-[Ard'rian's home]
-
-DATA: Aye, sir. We must speak to Gosheven
-immediately.
+GUEST1: Have you considered what this evacuation means? Everything we
+have, we abandon. Everything that we have
+built turns into dust. Everything that we have accomplished means
+nothing. Well, I say no. You elected me your leader. Follow me now. I
+don't think our chances are as hopeless as he says. And I'm willing to
+stake our lives on it. Any objections? Good, because here we stand. 
+ALL: Aye, We stand with you. 
+(The men slap Gosheven on the back, the women look worried) 
+DATA: Then here you die. 
+(after the crowd has broken up) 
+GUEST0: Mister Data, I just want you to know that Gosheven doesn't
+speak for all of us. I see no reason to die needlessly. 
+DATA: And you? 
+GUEST4: I'm not sure. Gosheven's done well for us, but I'd like to hear
+more of what you have to say. 
+GUEST0: There are many others that feel the same way but they're very
+uneasy about confronting Gosheven. 
+ARD'RIAN: Get them together and we'll meet at my house.
 

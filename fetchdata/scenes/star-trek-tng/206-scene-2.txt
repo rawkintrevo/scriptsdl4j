@@ -1,4 +1,5 @@
-PICARD RIKER DATA LAFORGE ROBIN
+PICARD RIKER DATA LAFORGE GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Bridge]
 
@@ -40,13 +41,13 @@ RIKER: Of course.
 LAFORGE: Her work around here's been so sensational, I've decided to
 make her a mission specialist. 
 RIKER: Congratulations. 
-ROBIN: Thank you, sir. 
+GUEST1: Thank you, sir. 
 RIKER: Okay, specialist, what's our sensor status? 
-ROBIN: We're increasing the available bandwidth so more science teams
+GUEST1: We're increasing the available bandwidth so more science teams
 can use the sensors at once. We figured out a way to do it by
 multiplexing the array. 
 RIKER: Can we have that done before we arrive? 
-ROBIN: Yes, sir. You can count on it. 
+GUEST1: Yes, sir. You can count on it. 
 RIKER: Keep it up, Lefler. 
 (Lefler leaves them) 
 RIKER: Geordi, I brought something back from Risa that you have got to

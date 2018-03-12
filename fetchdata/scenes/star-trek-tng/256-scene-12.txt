@@ -1,57 +1,47 @@
-TROI GIUSTI DATA LAFORGE WORF
+PICARD RIKER BARAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge] 
-LAFORGE [OC]: We've got one casualty and Commander
-Riker has been taken captive. 
-[Ruins]
+[Riker's room]
 
-WORF: Sir, the mercenaries have beamed away. They
-must have a base or a ship nearby. Can the sensors locate anything?
+PICARD: We don't have much time. It's good to see
+you, Will. I didn't expect to meet you here. 
+RIKER: I was looking to find the people who killed you on the surface.
+A witness said they saw you vaporised. 
+PICARD: These mercenaries use weapons that can activate their
+transporter. It gives them the opportunity to beam things quickly, just
+by firing at them. That's what they did to me. 
+RIKER: I don't understand any of this. Who are these people? What are
+you doing involved with them? 
+PICARD: The site that I wanted to study had been raided. A lot of the
+artefacts had been stolen. The site had been practically destroyed. I
+wanted to find out who was responsible. I tracked them to that bar on
+Dessica Two. I must have asked too many questions. They captured me.
+They wanted to find out how much I knew about their operation. 
+RIKER: And then you became part of their crew? 
+PICARD: I convinced them I was a smuggler, and that my name was Galen.
+I offered to help them appraise the artefacts that they had stolen.
+Will, these aren't common thieves. They are stealing Romulan artefacts
+from archaeological sites throughout this sector. Baran has me
+analysing each one if them for a particular particle signature. Will,
+they are looking for a specific artefact. 
+RIKER: Why? 
+PICARD: That's what we have to find out. Baran is the key. I think that
+he knows more about what we're really looking for than anyone else on
+this ship. I want you to get close to him. Try and get his confidence. 
+RIKER: That's why you set up the engine failure, because you knew that
+I'd be able to fix it. 
+PICARD: He also believes that you're a less than perfect Starfleet
+officer. Will, I want you to play into that role. Baran and I, well, he
+doesn't care very much for me, but he has to tolerate me because he
+needs my help with these artefacts. But if you and I become enemies,
+then there's a better chance of you and he becoming friends. 
+RIKER: All right. I'll do what I can. 
+(Baran enters, Picard hits Riker) 
+BARAN: What are you doing here? 
+PICARD: Getting some answers, because you can't get him to talk. 
+(Baran punishes Picard) 
+BARAN: No one conducts an interrogation on this ship without my
+permission. Is that understood? 
+(Picard walks to the door, keeping eye contact with Baran all the time,
+and kicks Riker for good measure)
 
-[Bridge]
-
-GIUSTI: Commander, we're picking up a vessel
-leaving orbit. 
-DATA: Why was it not detected earlier? 
-GIUSTI: They could have been using the planet as a shield. Sir, they
-are powering up their weapon systems. 
-DATA: Raise shields. Red alert. 
-(the little ship strafes the Enterprise as it passes) 
-DATA: Damage report. 
-GIUSTI: Minor hit on the port deflector. No damage. They're running,
-sir. Their speed is warp eight point seven and holding. I think they're
-at their maximum. 
-DATA: Take us to warp nine and pursue. Lock phasers on target. 
-GIUSTI: Sir, we should be within phaser range in twenty three seconds.
-Switching to long-range scanners. Commander, the sensor image of that
-ship is extremely weak. It's fading. The ship doesn't register on the
-long-range sensors. I'm sorry, sir. We've lost them. 
-DATA: Increase the sensor field bandwidth. Patch in the lateral sensor
-arrays. 
-GIUSTI: It's no good, the signal's gone. It just disappeared. 
-DATA: Plot a course and take us back to Barradas Three. Notify the away
-team to prepare for transport. 
-GIUSTI: Aye, sir. 
-[Observation lounge]
-
-DATA: Starfleet Intelligence confirms that a ship
-matching this configuration has been linked to raids on several other
-planets in this sector. For the short time it was within our visual
-range, we were able to take sensor readings of the mercenary vessel. It
-appears to be encased in an energy absorbing material. Although we can
-see the ship, this energy sheath renders it virtually undetectable to
-our long range sensors. 
-TROI: There must be some way we can track it. 
-LAFORGE: Data, I know this is a long shot, but if I remodulate the long
-range sensor array, I might be able to make it sensitive enough to
-detect the ship. 
-DATA: Without a full compositional analysis of the energy sheath, the
-chances of finding the correct remodulation sequence are remote. 
-WORF: Sir, they have taken Commander Riker. We must do something. We
-cannot just sit here. 
-DATA: On the contrary, Lieutenant. That is precisely what we must do.
-Since there are no viable alternatives, we will return to the surface
-and attempt to determine what these mercenaries are doing on this
-planet. An investigation might reveal some indication of their purpose.
-Please notify me when you have assembled your search teams. Dismissed. 
-(Data sits back and steeples his fingers) 

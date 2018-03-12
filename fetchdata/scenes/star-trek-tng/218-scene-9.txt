@@ -1,32 +1,38 @@
-PICARD CRUSHER
+CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Crusher's quarters]
 
-(Beverly is about to dead-head a plant, when she
-stops. She sips her night-cap, sits on the bed and gives the glass a
-quizzical look. Then she sets it down, turns out the lights and lies
-down. The voices start up. Reaching for the lights, she knocks over the
-glass, and the voices stop) 
-CRUSHER: Crusher to Captain Picard. 
-PICARD [OC]: Yes, Doctor? 
-CRUSHER: Do you have a minute, Jean-Luc?
+(This time, Beverly isn't dressed for bed. She
+carefully puts her glass down on another table out of harm's way. As
+soon as she turns out the lights, the voices start and she grabs her
+tricorder to record them.) 
+CRUSHER: Crusher to Commander La Forge. 
+LAFORGE [OC]: La Forge here. 
+CRUSHER: Geordi, I just heard what sounded like voices in my room, but
+no one else is here. 
+LAFORGE [OC]: Sensors just picked up something strange, too. We're
+checking it out. 
+CRUSHER: I'm on my way. 
+(She grabs her lab coat and it knocks the glass of the table. Some
+things just have to happen.) 
+[Engineering]
 
-[Ready room]
-
-PICARD: My Aunt Adele cured a lot of sleepless
-nights with this steamed milk. 
-CRUSHER: Thank you. Mmm, nutmeg. 
-PICARD: Whenever I get insomnia, I try to perfect the recipe. 
-CRUSHER: It was the eeriest feeling. When the glass broke, it triggered
-the sensation even more intensely that I'd done it all before. 
-PICARD: You know, earlier, I was reading this book, and I had the
-distinct feeling I'd read certain paragraphs before. But I assumed I'd
-read the book years ago and I'd forgotten. 
-CRUSHER: I've had this feeling for hours. And then the voices. 
-PICARD: Well, it could be nothing more than the result of a sleepless
-night. But let's be sure. Have Data and Geordi run a shipwide
-diagnostic, concentrating on the time and place you heard the voices,
-and we'll discuss the results tomorrow at seven hundred hours. 
-CRUSHER: Thank you. For everything. 
-PICARD: Thank Aunt Adele.
+LAFORGE: Looks like you managed to record six point
+two seconds worth. Let's see if we can filter the signal and clear it
+up a little bit. 
+CRUSHER: Then I wasn't just hearing things? 
+DATA: The sound itself appears to have been real. However the acoustic
+energy does not correspond to any ship's system, nor to any voice
+communications sent at the time you heard it. 
+CRUSHER: Then where did the sound come from? 
+LAFORGE: You heard the voices at the same time our localised subspace
+scan picked up a dekyon field distortion. The two may be related. Let's
+give another listen. 
+DATA: Computer, perform a narrow bandwidth analysis. Eliminate all
+non-vocal waveform components. 
+CRUSHER: Can we isolate the voices? Find out what they're saying? 
+DATA: Computer, continuous playback please. There are approximately one
+thousand voices overlapping. The voices are those of the Enterprise
+crew. Our voices.
 

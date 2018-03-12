@@ -1,125 +1,47 @@
-TROI LAFORGE WORF TASHA PICARD TJON VOICES WESLEY RIKER DATA
+TROI LAFORGE TASHA PICARD TJON GUEST4 RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Corridor]
+
+RIKER: I have never seen humanoids with that power.
+
+TASHA: Neither have I. I wonder how it evolved? 
+RIKER: I wonder if the strong magnetic field of their sun might have
+something to do with it. 
+TASHA: Could be. I wonder how much power our guests can produce? 
+RIKER: Or if they need to recharge? 
+TASHA: That's an interesting ability. The question is, how do I defend
+against it? 
+RIKER: You think our visitors pose a threat? 
+TASHA: I don't know. But if they do, I'd better be ready for it. 
+RIKER: Precisely, Lieutenant. 
+[Observation Lounge]
+
+T'JON: We have to resolve this soon. There isn't
+much time. 
+GUEST4: What can you offer? 
+T'JON: Everything we had went down with the Sanction. 
+GUEST4: Then it's going to be difficult to accommodate you.
 
 [Bridge]
 
-PICARD: Status report. 
-WORF: All systems operational, sir. 
-TROI: Captain, the level of tension on the ship is mounting. 
-PICARD: Understandable. Mister Data? 
-DATA: If we are to investigate, sir, we must get closer. 
-PICARD: Mister La Forge, move us in closer. This is the Captain. We
-will be pushing the shields to the limit, but we are getting a
-splendid view of this phenomenon. 
-WORF: Captain, I have intercepted what appears to be a distress signal.
-
-PICARD: Let me hear it. 
-T'JON [OC]: This is T'Jon. I am on the Ornaran freighter (garbled). We
-have a serious problem here. Can't seem to fix it. We need help. 
-DATA: The transmission is coming from a freighter in orbit around the
-fourth planet in the system. However, the receiving station is on the
-third planet. 
-PICARD: Open hailing frequencies. 
-TASHA: Hailing frequencies open. 
-PICARD: Unidentified freighter, this is the USS Enterprise. May we be
-of assistance? 
-T'JON [on viewscreen]: (a very poor image) Whoever you are, yes! I'm
-having trouble navigating. We can't maintain a steady course. Please
-help us if you can. 
-PICARD: Can't you enhance the frequency? 
-TASHA: Too much interference. 
-PICARD: Set course to intersect with the freighter. Warp two. 
+LAFORGE: Solar flares are increasing in magnitude,
+Captain. Shields are shaky, but they're holding. 
+PICARD: Maintain. 
+(Riker and Tasha enter) 
+PICARD: How are our rather quarrelsome guests? 
+TASHA: They're waiting for you in the observation lounge, sir. 
+PICARD: Data, what information can you give us about the inhabitants of
+this system? 
+DATA: Not very much, sir. The only recorded contact with the Delos
+system was over two hundred years ago. A scout ship reported two
+inhabited planets, one of which was on the verge of acquiring space
+travel. 
+LAFORGE: Odd that in two centuries neither civilisation advanced much
+further. 
+TROI: Sir, I find it strange that none of our visitors feels much
+remorse about the two freighter passengers who perished. Yet that
+barrel of cargo is a source of great anxiety to them. 
+PICARD: Yes. Let's pay a call, get some answers. Number One, Mister
+Data. Mister La Forge, you have the Bridge. 
 LAFORGE: Aye, sir. 
-PICARD: Maintain Yellow Alert. 
-T'JON [on viewscreen]: I can't control the helm any longer. I'm losing
-orbit. We're heading into the atmosphere. Please, do something. We're
-going to burn up. We haven't much time. 
-WORF: It is a freighter, very old. 
-DATA: Captain, our sensors are being severely affected by the sun
-flares. 
-PICARD: Helm, take us in as close as possible to the freighter's orbit.
-
-LAFORGE: Moving in, sir. 
-DATA: There are six life forms aboard the freighter, sir. 
-WORF: Captain, the freighter's orbit is decaying. 
-PICARD: How long before it loses integrity? 
-WORF: A matter of minutes. 
-PICARD: Unidentified freighter, this is the USS Enterprise. 
-T'JON [OC]: Enterprise, this is the Ornaran freighter Sanction. 
-PICARD: Put this on the main viewer. 
-TASHA: The visual transmission is still breaking up. 
-PICARD: Freighter Sanction, this is the Enterprise. What is your
-situation? 
-VOICES [on viewscreen]: Not so good. Helm isn't working right. What is
-the problem? 
-PICARD: This is the Enterprise. With all this interference it is
-difficult to copy your transmission. If you all talk at once it is
-almost impossible. Now, please say again. What is your situation? 
-T'JON [on viewscreen]: I am T'Jon, Captain of the Sanction. 
-PICARD: At last. How can we help? 
-T'JON [on viewscreen]: We have lost, I don't know, something. I am no
-longer able to maintain this orbit, nor am I able to use the main
-thrusters. It's all, you know, dead, I guess. It's all shut down? 
-PICARD: Well, that is a little vague. What is the computer analysis? 
-T'JON [on viewscreen]: Well, the computer's not working very well. 
-PICARD: Data, can you tap into their computer and clarify the
-situation? 
-DATA: I will attempt it, sir. 
-TASHA: Captain, the tractor beam is available, if you want it. 
-RIKER: At least we can pull them out of orbit before they enter the
-atmosphere. 
-PICARD: Freighter, we're going to lock on the tractor beam and pull you
-out of orbit. 
-T'JON [on viewscreen]: Hey, that's, that's great. 
-WORF: Captain, the freighter's orbit continues to deteriorate. 
-TASHA: The solar flares are interfering with the tractor beam, Captain.
-I can't lock on. 
-PICARD: Captain T'Jon, we are unable to attach our tractor beam because
-of the intense solar activity. 
-T'JON [on viewscreen]: I understand. Thanks for trying. 
-DATA: Sir, I have determined what is malfunctioning on the freighter. 
-PICARD: Captain, we have analysed your problem. 
-T'JON [on viewscreen]: Great. 
-PICARD: Data. 
-DATA: Your ship's design uses an electromagnetic coil to constrict the
-exhaust flow. That coil is misaligned. 
-T'JON [on viewscreen]: Really? 
-PICARD: Do you have the necessary tools to realign the coil? 
-T'JON [on viewscreen]: I don't think so. 
-LAFORGE: I believe, Captain, we can provide them with a temporary
-substitute. Our ship's stores contain a coil of the proper type. 
-RIKER: Can we beam one over? 
-TASHA: Yes. 
-PICARD: Captain, we're beaming over a replacement coil. 
-T'JON [on viewscreen]: That's great. And that'll fix us up? 
-PICARD: Yes, once it's installed. 
-T'JON [on viewscreen]: Right. And how do we do that? 
-PICARD: What is the matter with these people? How can he be Captain of
-that vessel and not understand its simplest function? 
-PICARD: Captain, how long have you been in command of this freighter? 
-T'JON [on viewscreen]: Seven years. This is my twenty-sixth voyage to
-Brekka. 
-PICARD: And you don't know how to align a control coil? 
-T'JON [on viewscreen]: It's never come up. 
-RIKER: Can anyone else over there do it? 
-T'JON [on viewscreen]: Hold on. I'll ask. Sorry. Nobody here knows
-anything about it. 
-RIKER: I'd better get over with a team. 
-TASHA: Captain, I strongly recommend against anyone from this ship
-beaming over. The solar interference is too great. 
-WORF: The freighter has entered the planet's atmosphere. Disintegration
-is imminent. 
-RIKER: We're running out of options. 
-PICARD: Let's get them off there. T'Jon, stand by to beam over. 
-T'JON [on viewscreen]: If you think that's best. 
-PICARD: Unless you have any other options, yes, I think that's best. 
-T'JON [on viewscreen]: Whatever you say.
-
-[Transporter room]
-
-(Blue is playing on the transporter controls) 
-TASHA: I can't maintain a positive lock.
-
-[Bridge]
-
-WESLEY: Unusual E-M burst, sir. Readings off scale.
-

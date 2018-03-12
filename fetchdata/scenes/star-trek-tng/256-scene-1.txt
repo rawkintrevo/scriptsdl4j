@@ -1,35 +1,91 @@
-RIKER TROI
+TROI GUEST0 WORF RIKER GUEST4 CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Riker's quarters]
+  [Cantina]
 
-RIKER: Come. 
-TROI: How are you doing? 
-RIKER: I'm all right. 
-TROI: The crew's pretty shaken up. I'm arranging a memorial. I think
-you should be the one to deliver the eulogy. 
-RIKER: I think you'd be better at something like that. Or Beverly. She
-knew him the longest. 
-TROI: I know it's not going to be easy, but I think it's important that
-we face up to what's happened. You're in command now. The crew's
-looking to you for guidance. 
-RIKER: You don't understand. I can't give the eulogy because I won't be
-at the service. 
-TROI: A memorial service helps to give everyone a sense of completion.
-Helps them begin the healing process. 
-RIKER: That's exactly the point. I don't want to heal. 
-TROI: Will. 
-RIKER: I've an open wound, right here. It hurts like hell. I don't want
-it to get better, and I don't want to pretend that everything's all
-right. 
-TROI: I know you're angry. 
-RIKER: You're damn right! And I intend to stay angry until I find
-whoever's responsible for the Captain's death. 
-TROI: That's pretty selfish of you. Do you think you're the only one in
-pain? Do you think you have the monopoly on loss? Well, let me tell you
-something. We're all hurting, and we're all angry. And whether you like
-it or not, you have a responsibility to this crew, and you can't just
-indulge your personal desire for revenge. 
-RIKER: That is enough, Counsellor. Deanna. I'm sorry. This is not about
-revenge. This is about justice. The Captain died in a bar fight for
-nothing. Somebody has to answer for that. Then I can mourn.
+(straight out of Star Wars episode 4, and everyone
+is in casual clothes) 
+GUEST0: (very hairy) So, tell me, why is it so important that you
+find this man? 
+TROI: We had business dealings. He owes me money. 
+GUEST0: If we had business dealings, I can tell you that I wouldn't
+disappear. 
+TROI: Maybe we can discuss that possibility. But first, I have to find
+him, collect the money I'm owed. 
+GUEST0: I'll be closing in a few hours. Perhaps we can discuss this
+more privately. 
+TROI: If I don't find him, I'm going to have to move on. Are you sure
+you haven't seen him? 
+GUEST0: Human, about two metres tall, smooth-headed. No. I don't
+remember anyone like that. 
+TROI: You're lying. 
+GUEST0: And you're a Betazoid. I thought so. Listen, people who come
+in here, they count on a certain amount of anonymity. And if I were to
+start answering questions about them, even to a very beautiful woman,
+well, I wouldn't be in business very long. And being a businesswoman,
+I'm sure you understand. 
+(and he goes off to serve another customer while at the other end of
+the bar) 
+RIKER: Great story. I'll remember it next time I'm in a knife fight. 
+(walks over to Worf) 
+RIKER: Any luck? 
+WORF: I think the one over there knows something. 
+WORF: He would not admit to having seen the Captain, but he said that
+anyone who visited the ruins of Nafir would probably come here
+eventually. I suspect he knows more. 
+RIKER: Let's go. 
+WORF: Commander, I told 
+RIKER: My friend tells me you know about the man we're looking for. 
+GUEST4: The only reason I'm talking to you is that I have a sister,
+too. 
+WORF: I explained to him that we are looking for a man who impregnated
+your sister. 
+RIKER: So you can imagine how much this means to me. 
+GUEST4: Family honour is important. If someone had defiled my sister I
+would do anything, pay anything, to find the one responsible. 
+RIKER: And how much might anything be? 
+GUEST4: As much as five bars of gold-pressed latinum. 
+GUEST0: I think you've had a little too much to drink. You'd better
+leave. On your way, Yranac. 
+(the bartender gets a phaser jabbed into his cheekbone) 
+CRUSHER: I'm sorry, but I think he wants to stay. Sit down. 
+RIKER: This is my sister. She's angry. She's got a vicious temper. I
+wouldn't cross her. 
+GUEST0: You say one word and you're a dead man. 
+GUEST4: Perhaps there's an element of risk here that I did not fully
+appreciate. 
+WORF: And how much more latinum will it take to offset this risk? 
+GUEST4: This isn't about latinum. As a man with a sister, a sister with
+a temper, I can sympathise with you, but, how did you come here? Do you
+have a ship in orbit? 
+RIKER: Yes. 
+GUEST4: Then take me with you. You can drop me anywhere. 
+RIKER: Agreed. Now talk. 
+GUEST4: The man you're looking for was here several weeks ago. There
+was a group of aliens sitting at this table. He was asking them
+questions. 
+WORF: Who were these aliens? 
+GUEST4: I don't know, but they looked dangerous. They attacked him. He
+managed to incapacitate three of them before he was knocked down. He
+was thrown against that wall and fell there. 
+(Crusher scans it with her tricorder) 
+CRUSHER: I'm picking up some Starfleet fibre traces and human cellular
+debris. 
+RIKER: Can you establish a DNA reading? 
+CRUSHER: There's something strange here. The cell structures are badly
+distorted. It's as if they've been exposed to some kind of high-energy
+field. 
+WORF: A weapon discharge? 
+CRUSHER: It could be. I'm picking up some faint traces of
+microcrystalline damage in the floor material, but I'm not familiar
+with the pattern I'm getting. 
+GUEST4: Who are you people? 
+RIKER: You didn't say anything about a weapon. 
+GUEST4: I hadn't finished yet. You'll like this. The man got what was
+coming to him. When they knocked him down, one of them took out a
+weapon and fired. He was vaporised. 
+TROI: He's telling the truth.
 
+Acting Captain's log, stardate 47135.2. Doctor
+Crusher has positively identified Captain Picard's DNA. There's no
+doubt now that he's dead. 

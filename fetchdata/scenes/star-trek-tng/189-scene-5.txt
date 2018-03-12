@@ -1,43 +1,11 @@
-PICARD MIRASTA TROI
-
-[Mirasta's lab]
-
-(Mirasta is punching buttons when two figures beam
-in) 
-PICARD: Mirasta Yale? 
-MIRASTA: Yes. 
-TROI: Please, don't be alarmed at our appearance. 
-PICARD: My name is Jean-Luc Picard. This is my associate Deanna Troi. 
-MIRASTA: What are you? 
-TROI: We've come with some important information. 
-MIRASTA: About what? 
-PICARD: About space. About the universe you are preparing to enter. 
-TROI: We come from a federation of planets. Captain Picard is from a
-planet called Earth, which is over two thousand light years from here.
-I'm from another planet called Betazed. 
-PICARD: We've been monitoring your progress toward warp-drive
-capability. When a society reaches your level of technology and is
-clearly about to initiate warp travel, we feel the time is right for
-first contact. We prefer meeting like this, rather than a random
-confrontation in deep space. 
-TROI: We've come to you first because you're a leader in the scientific
-community. Scientists generally accept our arrival more easily than
-others. 
-PICARD: We almost always encounter shock and fear on this sort of
-mission. We hope that you will help us facilitate our introduction. 
-MIRASTA: Is this a joke? Did Lupo and the others from the lab put you
-up to this? 
-PICARD: It's certainly no joke. As you can see, we are physically quite
-different from Malcorians. And, with your permission, I'm prepared to
-prove it to you. 
-MIRASTA: I would like that. 
-PICARD: Picard to Enterprise. Three to beam up.
+PICARD GUEST0 TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ten Forward]
 
 (Mirasta is enthralled by the view of her world
 from above) 
-MIRASTA: It's everything I've ever dreamed of. When I was a child, my
+GUEST0: It's everything I've ever dreamed of. When I was a child, my
 parents would take me to the
 planetarium and we would sit in the dark and it was as if I was on a
 spaceship, on my way to another world to meet people on other planets.
@@ -48,17 +16,17 @@ first contact.
 TROI: One of the things we monitor are your broadcast signals, your
 journalism, your music, your humour. Try to better understand you as a
 people. 
-MIRASTA: I hate to think how you would judge us based on our popular
+GUEST0: I hate to think how you would judge us based on our popular
 music and entertainment. 
 PICARD: Indeed, we do get an incomplete picture, which is why we also
 do surface reconnaissance. 
-MIRASTA: You've had people on our planet? 
+GUEST0: You've had people on our planet? 
 TROI: For several years. 
 PICARD: These are specialists, highly trained observation teams,
 superficially identical to yourselves and therefore able to blend
 naturally into your society. You see, we have discovered that the most
 hazardous aspect of these missions is a lack of sufficient information 
-MIRASTA: You don't have to explain. I understand, although not
+GUEST0: You don't have to explain. I understand, although not
 everybody on my planet would. They
 would think you were trying to infiltrate our society. 
 PICARD: There is a difficulty here, one that has forced us to
@@ -67,22 +35,22 @@ Officer, Commander William Riker. He was down on the planet surface,
 coordinating with the observation team the final details of contact. He
 disappeared. My people have made enquiries but they've not been able to
 locate him. If there is anything you can help 
-MIRASTA: Of course. Where was Riker's last known location? 
+GUEST0: Of course. Where was Riker's last known location? 
 TROI: The capital city. He was under the name of Rivas Jakara, a
 tourist from the Marta community. 
-MIRASTA: We must find him before someone realises what he really is. If
+GUEST0: We must find him before someone realises what he really is. If
 this gets out prematurely, it could seriously complicate matters. Our
 ideology is based on the assumption that the Malcorian is a supreme
 lifeform, and our world is the centre of the universe. Your arrival
 will change our entire understanding of life, and some will not want it
 to change. 
 PICARD: What about Durken? 
-MIRASTA: Durken. He will be open-minded, but cautious. I strongly
+GUEST0: Durken. He will be open-minded, but cautious. I strongly
 suggest that you do not discuss your surveillance teams with him. At
 least not right away. 
 PICARD: But with the disappearance of Commander Riker, wouldn't it be
 prudent 
-MIRASTA: Captain Picard, I must ask you to trust me on this. If you
+GUEST0: Captain Picard, I must ask you to trust me on this. If you
 tell the Chancellor about Commander Riker, you will undermine
 everything that you hope to accomplish here. Durken will assign Krola,
 our Minister of Security, to find him. Krola has his own political

@@ -1,4 +1,5 @@
-PICARD TROI DATA RIKER NECHAYEV
+PICARD TROI DATA RIKER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Ready room]
 
@@ -6,39 +7,39 @@ PICARD: Come.
 (Riker enters with a small blonde woman) 
 RIKER: May I present Captain Jean-Luc Picard. 
 PICARD: Admiral, welcome aboard. 
-NECHAYEV: Thank you. That'll be all, Commander. 
+GUEST1: Thank you. That'll be all, Commander. 
 (Riker leaves) 
 PICARD: Can I get you some coffee? Tea? 
-NECHAYEV: Thank you, no, Captain. I'm afraid there's no time for the
+GUEST1: Thank you, no, Captain. I'm afraid there's no time for the
 usual pleasantries. I'm here to relieve you of command of the
 Enterprise. 
 (and on that bombshell we're straight into the opening titles) 
 [Observation lounge]
 
-NECHAYEV: The Cardassian forces which were recently
+GUEST1: The Cardassian forces which were recently
 withdrawn from the Bajoran sector, have been redeployed along the
 Federation border. They have mobilised three divisions of ground troops
 and their subspace communications have been increased by fifty percent.
 We believe that they're preparing for an incursion into Federation
 space. 
 RIKER: Are the Cardassians ready for a war? 
-NECHAYEV: I didn't say war, Commander, I said incursion. Our
+GUEST1: I didn't say war, Commander, I said incursion. Our
 intelligence reports suggests that they'll try to seize one of the
 disputed systems along the border. We think they're gambling that the
 Federation won't actually go to war over one system. 
 TROI: Will we? 
-NECHAYEV: I hope we won't need to make that decision. We have decided
+GUEST1: I hope we won't need to make that decision. We have decided
 to send the Enterprise to meet with the Cardassian representative and
 open talks. We're hoping that the presence of the Federation flagship
 on the border will send a message to their leadership about just how
 seriously we view the situation. 
 RIKER: Where's Captain Picard? 
-NECHAYEV: The Captain, your Chief Medical Officer, and Security Chief
+GUEST1: The Captain, your Chief Medical Officer, and Security Chief
 have been reassigned. That's all I can tell you for now. Do any of you
 know Edward Jellico? 
 DATA: He is the commanding officer of the Cairo. 
 RIKER: I've heard of him. I don't know that any of us have 
-NECHAYEV: I'm giving him command of the Enterprise this afternoon.
+GUEST1: I'm giving him command of the Enterprise this afternoon.
 Captain Jellico helped to negotiate the original armistice two years
 ago and I believe he's the most qualified person to lead this mission.
 The change of command will take place at thirteen hundred hours. Thank
@@ -47,7 +48,7 @@ you.
 RIKER: Admiral, with all due respect, it's not necessary to give
 Captain Jellico command of the Enterprise just to conduct a
 negotiation. 
-NECHAYEV: I disagree. The Enterprise will be in a dangerous situation
+GUEST1: I disagree. The Enterprise will be in a dangerous situation
 and I want someone on the Bridge who has a great deal of experience
 with the Cardassians. No offence, Commander, but that's not you.
 

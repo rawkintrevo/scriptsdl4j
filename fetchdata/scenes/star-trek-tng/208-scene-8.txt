@@ -1,43 +1,106 @@
-PICARD RIKER KVADA LAFORGE WORF
+TROI GUEST0 LAFORGE WORF RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cargo bay]
+[Bridge]
 
-LAFORGE: What we seem to have here is a
-navigational deflector array. Or at least what's left of one.
-RIKER: Why would anyone want a Vulcan shield array? 
-LAFORGE: Beats me, Commander. Every question we answer here seems to
-bring up two more.
-PICARD: You're certain this is Vulcan? 
-LAFORGE: Yes, sir. Metallurgical analysis confirmed that and by running
-a molecular pattern trace, we were actually able to identify the ship
-as T'Pau. It was decommissioned years ago and sent to the surplus depot
-at Qualor Two. As far as anybody knows it's still there.
-WORF [OC]: Worf to Captain Picard. 
-PICARD: Yes, Lieutenant?
-WORF [OC]: A Klingon vessel is decloaking off our port bow. Compliments
-of Gowron.
-PICARD: Mister Worf, will you convey my gratitude to the Captain and
-advise him that Mister Data and I will be transporting over shortly.
-WORF [OC]: Aye, sir.
-RIKER: I'd like to take the Enterprise to Qualor Two, sir. See what's
-out there.
-PICARD: Agreed. Thank you, Mister La Forge.
-
-[Klingon Bridge]
-
-K'VADA: I know my duty, Captain. When I am given
-orders, I follow them, but I do not like secrets. I want to know why we
-are going on this mission.
-PICARD: I'm sorry. It's a classified matter.
-K'VADA: You're going after the defector, aren't you?
-PICARD: Defector? 
-K'VADA: Do you think information like that stays a secret? Ambassador
-Spock has gone to Romulus and you are going after him.
-PICARD: Captain, your orders are to take us to a set of co-ordinates
-near Romulus and to bring us back, and that is all I am prepared to
-discuss.
-K'VADA: If we are discovered by the Romulans it means death for us all.
-PICARD: I realise that.
-K'VADA: Hechu' ghoS. Very well, Captain. We have set a course for
-Romulus.
+WORF: I have made contact, Commander.
+RIKER: On screen. I'm Commander William Riker from the Federation
+Starship Enterprise.
+GUEST0 [on viewscreen]: Klim Dokachin, Quartermaster, Surplus Depot
+Zed One Five.
+RIKER: I need some information about a Vulcan ship, the T'Pau. It was
+sent to you a few years ago.
+GUEST0 [on viewscreen]: Did you arrange an appointment? 
+RIKER: An appointment? No.
+GUEST0 [on viewscreen]: Then I will be unable to help you. You may
+communicate with scheduling.
+(transmission ends) 
+RIKER: Who does he think he is?
+TROI: The Quartermaster of the supply yard, with information you need.
+RIKER: Right. Mister Worf re-establish communication.
+WORF: Aye, sir.
+RIKER: Mister Dokaychin? 
+GUEST0 [on viewscreen]: Dokachin. Klim Dokachin.
+RIKER: Mister Dokachin, the information I need involves a matter of
+major importance to the Federation. I'll need access to your logs, your
+files. My people can do the work.
+GUEST0 [on viewscreen]: I don't allow outsiders into my computer
+system..
+RIKER: All right, one of your people can do the work.
+GUEST0 [on viewscreen]: I wish I had the people to spare. but I don't.
+RIKER: Well, sir what would you suggest?
+GUEST0 [on viewscreen]: I don't know. Contact me when you reach orbit.
+(transmission ends) 
+RIKER: I don't believe this.
+TROI: He's king of his particular hill, Commander. You'll have to treat
+him that way.
+RIKER: Counsellor, this feels like a perfect job for you.
+(later, Enterprise sails into the spaceship graveyard of the supply
+depot, and avid fans play spot the old model ship) 
+RIKER: Thank you for coming on board, Mister Dokachin.
+GUEST0: Quite a ship you have.
+RIKER: We've tied into your computers, if you'd like to access the
+files.
+GUEST0: I don't usually see them in such good condition. By the time
+they get to me, they're always falling apart.
+TROI: Mister Dokachin, we must find this ship and you're the only one
+who can help us.
+GUEST0: Who are you?
+TROI: Deanna Troi, Ship's Counsellor.
+GUEST0: He probably figures that we don't get to see a lot of
+handsome women out this way and someone like you might get a little
+more cooperation from me. He's probably right. What was the name of
+that ship? The T'Pau? (goes to science station) The T'Pau. Vulcan
+registry. There. Logged in stardate 41334.
+LAFORGE: Where's the ship now?
+GUEST0: Docked. Section eighteen gamma twelve. Do you want me to take
+you there?
+RIKER: I'd appreciate it.
+GUEST0: Helmsman, lay in a heading one four one by two zero eight.
+Ahead slow, two hundred kph. I suppose this is your first visit to a
+junkyard, isn't it? You'd be surprised at some of the things I find on
+board these ships. I once found a fourteen foot Caldorian eel on board
+a freighter, in someone's locker.
+TROI: Are you serious?
+GUEST0: If you have time, I'll show it to you. I still have it.
+Nursed her back to health. 
+WORF: We are approaching the designated coordinates, Commander.
+RIKER: On screen.
+(empty space) 
+GUEST0: What? Where is it? What happened to it? These are the correct
+coordinates.
+RIKER: The T'Pau is missing?
+GUEST0: The T'Pau is missing.
+RIKER: How could a ship disappear from your depot?
+GUEST0: I'm not accustomed to losing things, Commander. I will find
+your ship for you. I have the T'Pau cross-referenced in four different
+directories. 
+LAFORGE: When it was brought here was it stripped of material,
+armament, sensors?
+GUEST0: Of course.
+LAFORGE: Can you tell us what happened to its navigational deflector?
+GUEST0: It was routed to the Tripoli, a holding vessel on the outer
+rim of the shipyard.
+RIKER: It's not there any more. What's left of that deflector is laid
+out on the floor of our cargo bay.
+GUEST0: How can that be?
+RIKER: Perhaps we should to pay a visit to the Tripoli. 
+(another short but slow journey) 
+GUEST0: In all the time that the Zakdorn have operated this depot,
+nothing has ever been lost. Never. 
+WORF: Approaching the coordinates of the Tripoli, sir.
+RIKER: On screen.
+(more empty space) 
+GUEST0: I do not understand this. This is not possible. We beam goods
+to the Tripoli on a regular schedule. There was
+a shipment yesterday. Another is set for today. It must be there.
+RIKER: When is today's transport?
+GUEST0: Just over two hours from now. A shipment of deuterium storage
+tanks.
+RIKER: Ensign, align the Enterprise so we appear to be one of the
+abandoned ships. Mister La Forge, when we're in position, shut down the
+engines and all systems except sensors and life support.
+LAFORGE: Aye, sir.
+RIKER: I've a feeling somebody's going to be here to receive those
+storage tanks. I'd be very interested to know who that is.
 

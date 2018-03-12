@@ -1,34 +1,36 @@
-PEEPLES TROI VOICE LAFORGE
+RIKER LAFORGE PICARD GUEST4 DATA RAGER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Nightmare]
+[Bridge]
 
-(Deanna is walking through a green fog, then she
-starts flying. Ahead are two lights, one large, one smaller) 
-VOICE: Eyes in the dark. One moon. 
-TROI: Where are you? I'm coming. Where are you? 
-VOICE: Eyes in the dark. One moon. Eyes in the dark. One moon circles.
-See the eyes in the dark. One moon. 
-TROI: Where are you? 
-(then she wakes up, gasping for air)
+PICARD: Ensign, manoeuvre us into tractor beam
+range. 
+RAGER: Aye, sir. 
+DATA: Is there a problem, Ensign? 
+RAGER: I can't seem to remember how to enter the coordinates, sir. 
+RIKER: Ensign Lin. 
+DATA: Ready now, Captain. 
+PICARD: Report to Sickbay, Ensign Rager. 
+PICARD: Ready tractor beam, Mister Worf. 
+DATA: Captain, thrusters are losing power. 
+PICARD: Impulse engines. Ahead, minimum power. 
+GUEST4: Impulse engines are not responding, sir. 
+RIKER: Geordi, what's going on down there? 
+LAFORGE [OC]: I don't know, sir. Nothing's responding. 
+PICARD: Go to warp engines, factor one. Engage. 
+LAFORGE [OC]: Captain 
+[Engineering]
 
-Captain's log, stardate 44635.8. Four days have
-passed, but we have made little progress in solving the mystery of the
-Brittain. I have decided we should return to Starbase two twenty, and
-to that end, Commander La Forge is rigging the Brittain for towing.
+LAFORGE: We don't have warp drive either. 
+[Bridge]
 
- [Brittain Bridge]
+PICARD: We have no functional propulsion systems? 
+DATA: No, sir. Apparently we do not. 
+GUEST4: We're adrift. 
+RIKER: Just like the Brittain.
 
-LAFORGE: I'm going to try re-calibrating the field
-generators. I still don't see why we can't get the engines started. It
-just doesn't make any sense. 
-PEEPLES: Someone's still here. 
-LAFORGE: What did you say, Ensign? 
-PEEPLES: Can't you hear it? There's someone still alive on the ship! I
-heard, I mean, I thought I heard something. 
-LAFORGE: The ship was searched thoroughly. There's nobody left on
-board. 
-PEEPLES: Sorry, sir. My mistake. 
-LAFORGE: Don't worry about it. There were thirty four people were found
-dead on this ship. That's enough to make anybody uneasy. 
-PEEPLES: Thank you, sir.
+Captain's log, stardate 44639.9. The Enterprise has
+now been adrift for a total of ten days. We have sent subspace distress
+calls, but because of our distant location, we cannot expect a response
+for at least another two weeks.
 

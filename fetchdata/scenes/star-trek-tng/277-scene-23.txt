@@ -1,128 +1,28 @@
-TROI LAFORGE CREWMAN PICARD RIKER Q CRUSHER DATA
+PICARD OGAWA CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Courtroom]
+[Sickbay]
 
-(but instead of the Ready room he walks into the
-courtroom from Encounter at Farpoint wearing his season 7 uniform) 
-Q: Mon capitane. I thought you'd never get here. 
-PICARD: Q. I knew it. What's going on? 
-Q: It's Judge Q to you. And isn't it obvious what's going on? 
-PICARD: The last time that I stood here was seven years ago. 
-Q: Seven years ago. How little do you mortals understand time. Must you
-be so linear, Jean-Luc? 
-PICARD: You accused me of being the representative of a barbarous
-species. 
-Q: I believe my exact words were a dangerous, savage, child race. 
-PICARD: We demonstrated to you that mankind had become peaceful and
-benevolent. You agreed and you let us go on our way.
-Now why am I standing here again? 
-Q: Oh, you'd like me to connect the dots for you, lead you from A to B
-to C so your puny mind can comprehend.
-How boring. They'd be so much more entertained if you tried to figure
-it out. I'll answer any ten questions that call for a yes or a no.
-Well? 
-PICARD: Are you putting mankind on trial again? 
-Q: No. 
-PICARD: Is there any connection between the trial seven years ago and
-whatever's going on now? 
-Q: I'd have to say yes. 
-PICARD: The spatial anomaly in the Neutral Zone, is it related to
-what's happening? 
-Q: Most definitely yes. 
-PICARD: Is it part of a Romulan plot, a ploy to start a war? 
-Q: No and no. Five down. 
-PICARD: That's only four. 
-Q: Is it a Romulan plot? Is it a ploy to start a war? Those are
-separate questions. 
-PICARD: Did you create the anomaly? 
-Q: No, no, no. You're going to be so surprised when you realise where
-it came from, if you ever figure it out. 
-PICARD: Are you responsible for my shifting through time? 
-Q: I'll answer that question if you promise you won't tell anyone. (in
-Picard's ear) Yes. 
-PICARD: Why? 
-Q: Sorry. That's not a yes or no question. You forfeit the rest of your
-questions. I expected as much. You're such a limited creature. A
-perfect example of why we made our decision. The trial never ended,
-Captain. We never reached a verdict. But now we have. You're guilty. 
-PICARD: Guilty of what? 
-Q: Of being inferior. Seven years ago I said we'd be watching you, and
-we have been, hoping that your ape-like race would demonstrate some
-growth, give some indication that your minds have room for expansion.
-But what have we seen instead? You worrying about Commander Riker's
-career, listening to Counsellor Troi's pedantic psychobabble, indulging
-Data in his witless exploration of humanity. 
-PICARD: We've journeyed to countless new worlds, we've contacted new
-species, we have expanded our understanding of the universe. 
-Q: In your own paltry, limited way. You have no idea how far you still
-have to go. But instead of using the last seven years to change and to
-grow, you have squandered them. 
-PICARD: We are what we are, and we're doing the best we can. It is not
-for you to set the standards by which we should be judged. 
-Q: Oh, but it is, and we have. Time may be eternal, Captain, but our
-patience is not. It's time to put an end to your trek through the
-stars, make room for other more worthy species. 
-PICARD: You're going to deny us travel through space? 
-Q: You obtuse piece of flotsam. You are to be denied existence.
-Humanity's fate has been sealed. You will be destroyed. 
-PICARD: Q, I do not believe that even you are capable of such an act. 
-Q: I? There you go again, always blaming me for everything. Well this
-time I'm not your enemy. I'm not the one that causes the annihilation
-of mankind. You are. 
-PICARD: Me? 
-Q: That's right. You're doing it right now. You did it before and
-you'll do it again. 
-PICARD: What sort of meaningless doubletalk is this? 
-Q: He doesn't understand. I have only myself to blame, I suppose. I
-believed in you. I thought you had potential. But apparently I was
-wrong. May whatever god you believe in have mercy on your soul. This
-court stands adjourned.
-
-[Bridge]
-
-PICARD: Commander, assemble the senior staff and go
-to Red alert. We have a bigger problem than I thought. 
-RIKER: Red alert!
-
-[Observation lounge]
-
-LAFORGE: I don't believe him. This has to be
-another one of Q's games. He's probably listening to us right now,
-getting a big laugh out of watching us jump through his hoops. 
-PICARD: Normally I would agree with you, but this time I feel that
-somehow it is different. There was a deadly earnestness about him. I
-think he's serious. Which means that in some fashion, I am going to be
-the cause of the destruction of humanity. 
-CRUSHER: But didn't Q say you already had caused it? 
-TROI: And that you were causing it now? 
-DATA: Given the fact that there is an apparent discontinuity between
-the three time periods the Captain has
-visited, Q's statement may be accurate, if confusing. 
-PICARD: So what am I going to do? Lock myself in a room in all three
-different time periods? 
-RIKER: Captain, maybe not acting is what causes the destruction of
-mankind. What if you were needed on the Bridge at a key moment, and you
-weren't there? 
-TROI: I don't think we can start second guessing ourselves. I think we
-have to proceed normally and deal with each situation as it occurs. 
-PICARD: Agreed. I've been thinking about my conversation with Q. He
-admitted that he was responsible for my shifting through time. Now it
-occurred to me that he might be giving me a chance somehow to save
-humanity. 
-RIKER: What makes you say that? 
-PICARD: Well, he's always had a certain fascination with humanity, with
-myself in particular. I think he has more than a passing interest in
-what happens to me. 
-DATA: That is true. Q's interest in you has always been very similar to
-that of a master and his beloved pet. That was only an analogy,
-Captain. 
-PICARD: If I weren't travelling through time I would never have
-realized that the anomaly in the Neutral Zone appeared there in the
-past as well. Assuming that's an important piece of a larger puzzle, my
-ability to shift through time may be the key to understanding what's
-going on. 
-CREWMAN [OC]: Captain Picard. 
-PICARD: Go ahead. 
-CREWMAN [OC]: We're approaching the Neutral Zone, Captain. 
-PICARD: We're on our way.
-
+CRUSHER: This is amazing. The DNA in his optic
+nerves is regenerating. Geordi, it's as if you're growing new eyes. 
+PICARD: How is this possible? 
+CRUSHER: It shouldn't be possible at all. There's no medical
+explanation for spontaneous regeneration of an organ. 
+OGAWA: Doctor we've just gotten reports from two crewmembers who say
+they have old scars which are healing themselves. 
+DATA: Captain, I believe I have a partial explanation. I have completed
+my analysis of the anomaly. It appears to be a multi-phasic temporal
+convergence in the space-time continuum. 
+CRUSHER: In English, Data. 
+DATA: It is, in essence, an eruption of anti-time. 
+PICARD: Anti-time? 
+DATA: A relatively new concept in temporal mechanics. The relationship
+between anti-time and normal time is analogous to the relationship
+between antimatter and normal matter. 
+PICARD: So if time and anti-time were to collide 
+DATA: They would annihilate one other, causing a rupture in space. I
+believe this is what happened in the Devron system. The rupture may be
+sending out waves of temporal energy which are disrupting the normal
+flow of time. 
+PICARD: Data, what could have caused this collision of time and
+anti-time? 

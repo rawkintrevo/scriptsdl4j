@@ -1,36 +1,34 @@
-TIMICIN LWAXANA DATA LAFORGE
+TROI LAFORGE WORF PICARD RIKER TIMICIN LWAXANA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
+[Lwaxana's quarters]
+
+(Lwaxana is deciding which outrageous dress to
+wear) 
+TROI: Mother, how much 
+LWAXANA [OC]: Little one, why do you refuse to use telepathy even when
+we are alone? 
+TROI: We're not alone, Mother. Now how much longer is this going to
+take? You've been selecting for twenty minutes. 
+LWAXANA [OC]: I am a woman dressing for a man. Something you might try
+now and then, dear. I wonder if Timicin likes green. 
+TROI: That's not very telepathic of you. 
+LWAXANA: Oh, I tried telepathy on him. He's the wrong species. Right
+species for everything else, though. You might try that once in a
+while, too. 
+TROI: You know, you're not just incorrigible, you're insatiable.
+
+[Bridge]
+
+WORF: I have completed long range scans. There are
+no other life forms are present in this system. 
+RIKER: Spacecraft? 
+WORF: None within sensor range. 
+PICARD: Picard to Engineering. 
 [Engineering]
 
-(Timicin is with Data and Geordi) 
-TIMICIN: If you look at the next simulation you'll see that we need the
-temperature to stabilise at two hundred twenty million before there's a
-secondary or tertiary reaction. 
-(Lwaxana enters, with Mister Homn in tow) 
-LWAXANA: Enough is enough. Rescue is at hand. Doctor Timicin, would you
-clear all this mess from the table, please? 
-LAFORGE: This mess, Mrs Troi 
-LWAXANA: Now, now, now, you boys have been shut up in here for hours.
-Now, if you don't eat something, you're going to get sick, and who's
-that going to help? I've made some perfectly marvellous Mantickian
-pate. Mister Homn will lay it out for us. Mister Homn is my valet. He
-doesn't say much. 
-LAFORGE: How can he? 
-DATA: It is true that the intellectual efficiency of high order beings
-does diminish proportionately with the deprivation of nutritious fuel
-or 
-LAFORGE: All right, all right. Don't you start. 
-TIMICIN: Mrs Troi, you're a wise woman. I'm sure we could use a
-respite. 
-LWAXANA: These two call me Mrs Troi. You call me Lwaxana. Mister Homn?
-Spread it.
-
-[Turbolift]
-
-LWAXANA: So, knowing that my daughter's starship
-would be passing fairly close to Betazed again, I manoeuvred a ride and
-here I am. Deck eight. 
-TIMICIN: I also have a grown daughter. She has a small son of her own. 
-LWAXANA: Then you're married. 
-TIMICIN: My wife died quite some years ago.
+PICARD [OC]: Mister La Forge, the system is clear. 
+LAFORGE: Final pre-launch diagnostic, level five. 
+TIMICIN: All systems verified. 
+LAFORGE: We're ready here when you are, Captain.
 

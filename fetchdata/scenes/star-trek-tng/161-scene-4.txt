@@ -1,38 +1,41 @@
-RIKER LAFORGE WORF PICARD Q DATA
+Q WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Turbolift]
 
-LAFORGE [OC]: An ant pushing a tricycle. A slim
-chance at best. 
-RIKER: Given a choice between slim and none, I'll take slim any day. 
-PICARD: Make it so. 
-RIKER: Lieutenant Worf, contact all ships in this sector to rendezvous
-and join us in relief efforts. 
-PICARD: We'll keep you informed of our progress. Picard out. 
-(The tiny tractor beam is sent out against the huge moon) 
-RIKER: Can you give us any more, Geordi? 
-LAFORGE [OC]: Not without burning out the tractor beam emitter. The
-circuits are already beyond the thermal limit. 
-DATA: Delta vee is ninety two metres per second. The mass is too great.
-We are having an effect but it is negligible. 
-(A high-pitched noise penetrates the Bridge) 
-RIKER: What is that? 
-DATA: Unable to identify source. 
-[Engineering]
+Q: It was a mistake. I never should have picked
+human. I knew it the minute I said it. To think of the future in this
+shell. Forced to cover myself with fabric because of some outdated
+human morality. To say nothing of being too hot or too cold,
+growing feeble with age, losing my hair, catching a disease, being
+ticklish, sneezing, having an itch, a pimple, bad breath. Having to
+bathe. 
+WORF: Too bad.
 
-LAFORGE: Impulse engines passing safety limits.
-We're seconds 
-[Bridge]
+[Corridor]
 
-LAFORGE [OC]: From automatic shutdown. 
-PICARD: Reduce engine power. Tractor beam off. 
-RIKER: Lieutenant Worf, what the hell do the sensors say? 
-WORF: The sound is not registering, Commander. 
-(There is a bright flash, and a naked Q is suspended in mid air, lying
-on his side, with modesty maintained by the camera angle) 
-PICARD: Q! 
-Q: Red alert. 
-Captain's log, supplemental. We are no closer to
-finding a solution to the deteriorating orbit of the Bre'el Four moon,
-but with the arrival of Q, we now have a good idea of the cause.
+Q: Klingon. I should have said Klingon. In my heart
+of hearts, I am a Klingon, Worf. 
+(Q puts his hand on Worf's shoulder and quickly removes it) 
+Q: Sorry. So you understand I could never survive in confinement. I
+mean, this is cruel and unusual punishment.
+The universe has been my back yard. As a fellow Klingon, if you would
+speak to the Captain on my behalf, I would be eternally grateful. which
+doesn't mean as much as it used to, I admit. 
+WORF: Be quiet! Or disappear back where you came from. 
+Q: I can't disappear any more than you could win a beauty contest. 
+[Brig]
 
+Q: If I ask a very simple question, do you think
+you might be able to answer it without it troubling your intellect too
+much? (He enters the cell) 
+Q: Ready? Here goes. Would I permit you to lock me away if I still had
+all my powers? 
+WORF: You have fooled us too often, Q. 
+Q: Perspicacity incarnate. Please don't feel compelled now to tell me
+the story of the boy who cried Worf. 
+WORF: Computer, activate force field. 
+Q: I demand to be let out of here, immediately. Do you hear me? You
+will deactivate this cell immediately! Romulan! 
+(Worf leaves) 
+Q: I should have said Romulan, that Klingon goat! 

@@ -1,64 +1,14 @@
-RIKER PALMER TROI WORF
-
-[Lt Riker's quarters]
-
-(The Lieutenant is in a fresh gold uniform, and
-finishing a meal when the doorbell rings) 
-RIKER 2: Come in. 
-TROI: Hello, Will. 
-(He sweeps her off her feet, literally, and kisses her) 
-RIKER 2: Imzadi. 
-TROI: Will. 
-RIKER 2: I never thought I'd see you again. 
-TROI: We need to talk. 
-RIKER 2: You're on board because of him. 
-TROI: No. Commander Riker and I are friends. Close friends, but nothing
-more. Why don't we sit down? Do you remember the last time we saw each
-other? 
-RIKER 2: Like yesterday. The Janaran Falls on Betazed. 
-TROI: It was the day before you started your tour on the Potemkin. 
-RIKER 2: And we were going to meet on Risa, six weeks later. 
-TROI: We never did. 
-RIKER 2: I know. 
-TROI: No, what I mean is, Commander Riker and I never did. You see, he
-earned a promotion very quickly. 
-RIKER 2: I know that too. 'For exceptional valour during the evacuation
-of the research station on Nervala Four'. I looked at his service
-record. 
-TROI: He chose to make his career a priority. There wasn't much time
-for anything else. We kept in touch but we didn't see each other again
-until we were both posted to the Enterprise two years later. By then
-our feelings for each other had changed. We've served together for six
-years. Things never went back to the way they used to be. 
-RIKER 2: I had a lot of time on my hands when I was down on that
-station. There were days I felt so alone I thought I might lose my
-mind. Do you know how I made it through? I thought if I hung on for
-more day, they'd rescue me. Maybe I'd see you again. I guess things
-don't always work out the way you expect them to. 
-TROI: I know this isn't what you were hoping for, but that doesn't mean
-you can't make a future for yourself. 
-RIKER 2: Thanks. 
-TROI: Captain Picard wanted me to find out if you'd be willing to help
-us retrieve the station's database. 
-RIKER 2: I reconfigured that computer so many times they probably can't
-make heads or tails of it. I'd be happy to help. 
-TROI: Do you feel up to it? 
-RIKER 2: Absolutely. 
-TROI: Good. I'll tell the Captain. Well, I have to go. 
-RIKER 2: Deanna. I know it's been a long time since we've been
-together, and I know your feelings have changed. Mine haven't. I can't
-just give up. I'd like to be with you again. 
-TROI: Goodnight, Will. 
-(that loud cracking noise is the sound of a breaking heart)
+RIKER GUEST1 DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Transporter room]
 
 (everyone say Hi! to Doctor Mae Jemison, genuine
 astronaut) 
-PALMER: Phase distortion is dropping. The second transport window opens
+GUEST1: Phase distortion is dropping. The second transport window opens
 in forty two seconds. 
 RIKER: How long will we have, Lieutenant? 
-PALMER: Thirty six minutes, sir. 
+GUEST1: Thirty six minutes, sir. 
 WORF: We are losing time. Lieutenant Riker should be here. 
 RIKER: Computer, locate Lieutenant 
 (he dashes in) 
@@ -67,4 +17,49 @@ WORF: You were supposed to report here at eight hundred hours.
 RIKER 2: I'm sorry, I was 
 RIKER: I guess it's been a while since you've had to punch a clock.
 Let's go. Energise.
+
+[Research station]
+
+RIKER 2: I've shut down most of the consoles to
+save power. I re-routed just about everything through here. 
+RIKER: Check out the primary EPS system. See if you can get some power
+to the rest of these consoles. 
+RIKER 2: I shunted the database to the main core underneath the
+station. 
+RIKER: Can we access it from here? 
+RIKER 2: There's been a lot of seismic activity over the years. If the
+servo-links were damaged we may not be able to. I'll try to tap into
+the command pathways. You see if you can access and disable the file
+server. 
+(Riker 2 goes under a console while Number One sits on a chair) 
+RIKER: You know, I've been thinking we should probably let Dad know
+what happened. 
+RIKER 2: I'm sure he'll be thrilled to know there are two of us now. 
+RIKER: Actually, he and I have been able to patch a few things up. 
+RIKER 2: I've been able to get by for a long time without seeing him.
+I'm not about to start now. What made you contact him? 
+RIKER: I didn't. He came on board the Enterprise to brief me when I was
+offered the Aries. 
+RIKER 2: What did he say when you turned down your own command? 
+RIKER: He couldn't understand why I did it. 
+RIKER 2: For once he and I agree on something. 
+WORF: The primary EPS coupling is fused. The entire unit will have to
+be replaced. 
+RIKER 2: I've accessed the command pathways. The interlink pathways are
+functioning now. 
+RIKER: See if that did the trick. No, it's not working. 
+RIKER 2: The servo-link must be damaged. We're going to have to go
+under the station and access the core directly. 
+DATA: We have less than three minutes left. 
+RIKER 2: I'll stay here. I'll be finished by the time the third window
+opens. 
+RIKER: It's too dangerous. Our scans show the caverns are unstable. 
+RIKER 2: I've been down there dozens of times. I know my way around. 
+RIKER: We'll come back during the third window, We'll bring a new EPS
+coupling and try to access the core from another console up here. Riker
+to Enterprise. 
+LAFORGE [OC]: La Forge here. 
+RIKER: We're ready to beam out. 
+RIKER 2: You go ahead. I'll be finished by the time you get back. 
+RIKER: Hold it! I gave you an order, Lieutenant.
 

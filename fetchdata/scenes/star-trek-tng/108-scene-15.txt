@@ -1,51 +1,36 @@
-ANTICAN RIKER WORF TASHA PICARD SINGH
+GUEST0 TROI OBRIEN LAFORGE GUEST2 RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Corridor]
 
-PICARD: And you are telling me there are no
-explanations for these malfunctions? 
-RIKER: At least, sir, all the department heads have reported the damage
-repaired. 
-PICARD: That was not my question, Number One. What caused the
-malfunctions? 
-SINGH: I believe it was a rampant electronic short that jumped from
-system to system, sir. But the only thing is, er 
-PICARD: Yes, Mister Singh? 
-SINGH: That shouldn't be possible. The affected systems don't generally
-interact with each other. And where they do, it wasn't an interlink
-that was malfunctioning. 
-PICARD: Have you spoken with Chief Engineer Argyle about this problem? 
-SINGH: With all the Engineering staff, sir. They're just as puzzled. 
-PICARD: Well, I'm not satisfied. I want an explanation of this by the
-time we reach Parliament. 
-SINGH: But, sir. 
-PICARD: By the time we reach Parliament, Mister Singh.
+GUEST0: I demand to see the Captain. 
+O'BRIEN: (as a security guard) Stop! Return to your quarters. 
+GUEST2: What is that doing on our deck? 
+GUEST0: I demand to know why this starship has changed its course! 
+O'BRIEN: Please, return to your quarters, delegates!
 
-[Antican quarters]
+[Riker's quarters]
 
-RIKER: These weapons were taken from two of your
-people who were loitering out of sight in the vicinity of the Selay
-delegation quarters. Would you care to explain, sir? 
-ANTICAN: These are not weapons, First Officer. They are tools. We use
-these to dispatch the animals we consume. 
-TASHA: Your food supply is not on the same deck as the Selay
-delegation, sir. 
-RIKER: And you have to admit that these could kill. 
-ANTICAN: I admit some of my people are impulsive. and we all have
-reason to hate the Selay. 
-TASHA: They appear to have the same feelings about you, sir. 
-ANTICAN: The nature of politics. 
-RIKER: Nevertheless, Chief Delegate, you're on notice that all of your
-weapons, no matter what their basic function, are being confiscated.
-Violence will not be tolerated on the Enterprise. 
-ANTICAN: Of course not. And if any does occur, let me assure you it
-will not be we Anticans who start it. 
-TASHA: Thank you, sir. 
-(Riker and Tasha leave) 
-ANTICAN: But we will finish it.
+(A model of NCC1701 shuttlecraft is in the corner) 
+DATA: A mere change of direction hardly justifies mutiny. 
+CRUSHER: Exactly what do you believe you're sensing from him? 
+TROI: It's just a feeling that he's, well, that he's closed part of his
+mind to me. I just feel that the Captain has become, perhaps dangerous.
 
-[Bridge]
+RIKER: If he's dangerous. If. 
+LAFORGE: Then he'd have to be relieved of command. Which you could do,
+Doctor, but it's beaucoup trouble if you're wrong. 
+DATA: And at the moment it is all pure speculation. He has done nothing
+to subject the Enterprise to danger. 
+CRUSHER: I'd need a medical log citing clear evidence of incapacity.
+You could do it without that problem. 
+RIKER: Only if all command officers agreed it vital to do so. But he
+has not been showing any overt unusual behaviour. 
+TROI: Ultimately, I believe he will. 
+CRUSHER: As second in command, it's still in your corner. I'll order
+medical and psychiatric exams. You'll have to back me up somehow.
 
-WORF: Sir, warp power is fading. 
-PICARD: Picard to Engineering. 
+First Officer's log, supplemental. After meeting
+with the senior officers, Doctor Crusher and I decided to approach the
+Captain regarding his recent behaviour.
 

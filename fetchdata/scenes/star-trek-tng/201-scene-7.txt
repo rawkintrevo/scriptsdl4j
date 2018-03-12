@@ -1,47 +1,25 @@
-KURN GOWRON KULGE WORF TORAL SELA LURSA MOVAR BETOR
+DATA GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Duras' home]
+[Sutherland Bridge]
 
-B'ETOR: The Romulan convoy is late. We need those
-supplies. 
-SELA: (formerly known as Woman) Gowron has suffered another loss in the
-Mempa system. His forces will not threaten you in that region for some
-time. 
-B'ETOR: But if Gowron 
-SELA: The convoy will arrive in due course. 
-(Lursa enters) 
-LURSA: The Federation fleet has left Starbase two thirty four. They've
-set course for Klingon territory. 
-MOVAR: How many? 
-LURSA: At least twenty starships. 
-SELA: Who's commanding this fleet? 
-LURSA: Picard. 
-TORAL: What does it mean? Is the Federation going to enter the war?
-Should we attack them before they get here? 
-SELA: Silence the child, or send him away. Movar, I want you to return
-to Romulus immediately. Have all available ships
-rendezvous at these coordinates in two days. 
-MOVAR: Yes, Commander. 
-LURSA: Twenty ships aren't enough to wage a war. Starfleet must be
-bluffing. 
-SELA: Perhaps. 
-[Great Hall]
-
-KURN: Our forces in the Mempa sector are now in
-full retreat. They will need to regroup near Beta Lankal. 
-GOWRON: We destroyed their supply bases in that sector three weeks ago.
-How can they continue to fight? 
-KURN: They must be getting help. 
-KULGE: Maybe they have better leaders. I say you have failed as our
-leader, Gowron. 
-(and he draws his dagger) 
-WORF: There is no time for this! We must make plans before those forces
-reach Beta Lankal! How can we oppose the Duras when
-we continue to fight among ourselves? 
-KURN: Gowron must answer a challenge to his authority. 
-WORF: Stop it! Do we to fall upon ourselves like a pack of Ferengi? The
-enemy is the Duras. We are at war! 
-(Worf steps between the fighters and Gowron takes the opportunity to
-kill Kulge) 
-GOWRON: Now the war can continue.
+GUEST1: We've arrived at the designated
+coordinates, Captain. 
+DATA: All stop. Notify the flagship that we have assumed station. 
+GUEST1: Starboard power coupling has overloaded. We've got a radiation
+leak on decks ten through twelve. 
+DATA: Why are the backups not functioning? 
+GUEST1: There wasn't enough time to test all the backups before we left
+the yard. Terry, I want you down in Engineering working on a new
+coupling. 
+DATA: You have taken the phaser and torpedo control units offline. 
+GUEST1: Keith, you and I will start bringing the radiation 
+DATA: Mister Hobson, it is inappropriate for you to determine a course
+of action without consulting the commanding officer. 
+GUEST1: I was trying to safeguard the lives of people on those decks,
+but you're right. Belay those orders, everyone.
+Phasers and torpedoes are back online. What should we do, sir? 
+DATA: You will take the phasers and torpedo units offline and begin
+repairs of the starboard power coupling. 
+GUEST1: Thank you, sir. You heard the Captain, everyone.
 

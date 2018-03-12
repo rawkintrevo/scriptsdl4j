@@ -1,45 +1,44 @@
-RIKER JAKE LAFORGE WORF TASHA PICARD REMMICK DATA
+JAKE PICARD GUEST0 WESLEY GUEST1 GUEST4 GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Shuttlecraft]
+[Classroom]
 
-JAKE: To sign onto a freighter. Tell my father I'm
-sorry. 
-[Bridge]
+GUEST4: I'm proud of all of you. You've done a
+superb job. Each of you would make a fine Starfleet officer. It's
+unfair that only one candidate from Relva will attend the Academy this
+year, and a loss to the Federation if the rest of you do not return to
+test again. Mister Mordock will be the candidate. His results were
+slightly higher than Mister Crusher's. Congratulations, Mister Mordock.
+You're the first Benzite in Starfleet. 
+GUEST0: Thank you, sir, but it's not right. It shouldn't be me. Wesley
+lost points because he helped me. He should not be punished for his
+generosity. 
+GUEST4: He wasn't. He lost time, but it wasn't only that. Candidates,
+thank you. And good luck. 
+(Chang leaves) 
+GUEST0: I am sorry, Wesley. 
+WESLEY: It's okay. You deserved to win. Besides, you would have done
+the same thing for me. 
+GUEST0: Yes. I believe I would. 
+T'SHANIK: Congratulations. 
+GUEST3: Well, personally, I hate losing. So you'd better be ready next
+year, Wesley. I won't be easy to beat.
 
-PICARD: You can tell him yourself, in person. Bring
-that ship back at once. 
-JAKE [OC]: No. 
-[Shuttlecraft]
+[Corridor]
 
-JAKE: I can't face him. I'm leaving. (alarm sounds)
+(Picard is in dress uniform when he meets an
+embarrassed Jake) 
+PICARD: Mister Kurland! 
+JAKE: Yes, sir. 
+PICARD: Are you feeling better? 
+JAKE: Yes, sir, Look, I'm sorry I damaged the shuttle, Captain. But
+Mister Riker says I can work on fixing it as part of my discipline
+training. 
+PICARD: Good idea. I hope you learned that running away solves nothing.
 
-[Bridge]
-
-LAFORGE: Captain, he's unbalanced the dilithium
-reaction. 
-[Shuttlecraft]
-
-JAKE: I've lost power! 
-[Bridge]
-
-RIKER: All he's got left are his manoeuvring jets,
-Captain. 
-LAFORGE: At this trajectory, he'll enter the atmosphere and burn up at
-two hundred kilometres. 
-PICARD: Probable impact? 
-DATA: Atmospheric entry seventy eight seconds. 
-PICARD: Options? 
-WORF: Tractor beam? 
-RIKER: Not possible. He's too far away for a positive lock. 
-TASHA: He's out of transporter range. 
-REMMICK: Captain, you are completely responsible for that boy's life. 
-PICARD: Mister Remmick, either get out of my way and keep quiet, or I
-will have you removed from the Bridge. Viewer on shuttle cockpit. 
-TASHA: Visual on main viewer. 
-PICARD: Mister Kurland. 
-JAKE [on viewscreen]: I can't get the engine started. What am I going
-to do? I'm going to crash. 
-RIKER: He needs another fifty seconds for the core to cool down before
-it can restart. 
-PICARD: Stay calm, Jake. We'll get you back.
-
+JAKE: Yes, sir. And I am sorry I messed up. 
+PICARD: At least you kept your wits about you out there. Don't forget
+that. 
+JAKE: No, sir. And thank you. Thank you for saving my life. 
+PICARD: That's my job, young man. 
+JAKE: Yes, sir. 

@@ -1,43 +1,42 @@
-PICARD RIKER ODAN WORF
+RIKER CRUSHER COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Crusher's quarters]
 
-WORF: Sir, an unidentified ship is emerging from
-the limb of the moon. 
-PICARD: Hail the vessel. 
-RIKER [OC]: I have visual contact. I don't recognise it. 
-WORF: It claims to be an escort vessel from the Beta moon. 
-PICARD: There was no mention of an escort. Request a security clearance
-code. 
-WORF: They do not answer, sir. 
-PICARD: Commander Riker, prepare to return to the shuttlebay. 
-RIKER [OC]: Acknowledged. 
-WORF: Captain, they are loading its phaser banks. 
-[Shuttlecraft]
+CRUSHER: Lemon tea.
 
-RIKER: Increasing power to the shields. 
-(the ship starts taking pot-shots at them. at least one hits them) 
-RIKER: Coming about. 
-(Odan is thrown out of his seat and the shuttle is damaged) 
-[Bridge]
+[Odan's quarters]
 
-PICARD: Engage tractor beam. Report, Number One. 
-RIKER [OC]: We've lost port thrusters 
-[Shuttlecraft]
+RIKER: Computer, location of Doctor Beverly
+Crusher. 
+COMPUTER: Doctor Crusher is in her quarters. 
+RIKER: Can you make balso tonic? 
+COMPUTER: There is no formula on record. Please supply a molecular
+structure. 
+RIKER: Never mind. 
+(Beverly stares at the red rose, then makes a decision) 
+RIKER: Come in. 
+CRUSHER: I thought I should see how you were doing. If you needed
+another hypospray? 
+RIKER: I don't think so. The symptoms haven't returned. 
+CRUSHER: Oh. Well, that's good. 
+RIKER: Yes. 
+CRUSHER: Tomorrow's an important day. Do you feel ready for it? 
+RIKER: I'll be fine. I've been preparing. 
+CRUSHER: That's good. 
+RIKER: Yes. 
+CRUSHER: I'll check your vital signs in the morning before the
+representatives get here. 
+RIKER: I don't want them knowing I'm taking any medication. 
+CRUSHER: Maybe you could schedule a series of breaks. 
+RIKER: That's good. 
+CRUSHER: Yes. 
+RIKER: Beverly, I want you. If you're going to leave, you'd better go
+right now. 
+CRUSHER: I'm not leaving.
 
-RIKER: And both backup stabilisers. I'm losing
-control. 
-PICARD [OC]: We're bringing you in. 
-(the tractor beam grabs them and the other ship veers off) 
-RIKER: Captain, the shuttle hull has been weakened. We're breaking up.
-You can't tow us. You'd better beam us directly on board. 
-ODAN: No, don't do it. 
-RIKER: I can't stabilise the shuttle. 
-ODAN: If you transport me, it will kill me. Please. 
-PICARD [OC]: Number One we're ready to beam you aboard. 
-RIKER: Belay that order, Captain. I'll bring her in manually. 
-[Bridge]
-
-RIKER [OC]: Advise Doctor Crusher we have a medical
-emergency.
+Captain's log, stardate 44824.4. Governor Leka and
+the representatives of the two moons are ready to transport on board.
+We have learned that they each have troops massed and are ready for
+combat if this final effort at peace is not successful.
 

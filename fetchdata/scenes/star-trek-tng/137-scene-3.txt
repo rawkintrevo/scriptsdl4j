@@ -1,36 +1,40 @@
-PICARD COMPUTER VARLEY
+PICARD TROI DATA RIKER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Ready room]
+[Observation lounge]
 
-PICARD: Computer, access Captain Donald Varley's
-personal log. Search parameter. Locate entries containing words Romulan
-and or Iconia. 
-COMPUTER: Working. 
-VARLEY [on monitor]: Personal log. It was kind of Doctor Ramsey to
-allow me to carry away my own little piece of legend from the
-archaeological dig at Denius Three. My engineers have examined it, but
-are completely baffled by its technology. What was its purpose? I'm
-like a caveman confronted by a tricorder. I'm certain this device is
-Iconian, but how far had it travelled before it was abandoned on this
-alien world? (Second entry) Personal log. A galactic Rosetta stone. The
-starfields on the artefact were unintelligible until I took into
-account two hundred millennia of stellar drift. After that it was easy
-to pinpoint Iconia. (Third entry) My First Officer is questioning the
-wisdom of my order to violate the Neutral Zone, but I am convinced that
-I have taken the only proper course. Should this advanced technology
-fall into the hands of the Romulans, we might as well dock our ships
-and defend ourselves with sticks. (Fourth entry) Personal log. We've
-been spotted by a Romulan cruiser, but after playing hide and seek
-through several solar systems, I think I've managed to elude them.
-(Fifth entry) The Iconian probe scan. Was it an attempt at
-communication? If only I knew what we were dealing with here.
-(Sixth entry) Personal log. I'm unable to send an away team to the
-surface of Iconia, nor can I scan the energy source on the planet
-because of these maddening system failures. It's infuriating to be
-stopped at the threshold of a dream by one's own ship. We're leaving
-orbit to rendezvous with Picard. If his people can't help us repair the
-Yamato, I must convince him to continue this exploration. The future
-wellbeing of the Federation may well depend upon it. 
-COMPUTER: No further entries conforming to search parameters. 
-(Picard goes to the Bridge, but the door doesn't open for him at first
-go) 
+(Geordi is doing a presentation at the wall
+monitor, using a schematic of the Yamato) 
+LAFORGE: Sensor recordings reveal that what we witnessed was an
+uncontrolled and catastrophic matter-antimatter mix. The magnetic seals
+between the chambers collapsed and 
+PICARD: Wait. Wait. That's not possible. 
+LAFORGE: Yes, sir, it is, but a highly improbable series of events has
+to take place for such a result to occur. 
+PICARD: Explain. 
+LAFORGE: Okay. In the event of a breach of seal integrity there's an
+emergency release system which dumps the antimatter.
+DATA: Apparently such a dump began, was then halted, and the
+containment seals were dropped. There was still sufficient antimatter
+present to lead to an explosion. 
+PICARD: And so there is no evidence that a weapon was used? 
+DATA: No, sir. None. 
+LAFORGE: However it happened, the Yamato did it to herself. 
+PICARD: Theorise. What could have caused such a catastrophic
+malfunction? 
+LAFORGE: I think Captain Varley may have been right. There may be a
+design flaw. 
+RIKER: In a Galaxy Class starship? 
+LAFORGE: Yes, sir. It's the most sophisticated piece of machinery ever
+built. Something could have been overlooked. 
+PICARD: Knowing where the flaw is located, can you isolate the problem
+and solve it? 
+LAFORGE: We're already working on it, sir. 
+PICARD: Pull any personnel you can use. 
+(The men leave) 
+TROI: If we have established that the Romulans were not responsible for
+the destruction of the Yamato, would it not be prudent to withdraw? 
+PICARD: If it is a design flaw, we're better to stay where we are and
+give Geordi time to work on it. Or what happened to the Yamato could
+happen to us.
+

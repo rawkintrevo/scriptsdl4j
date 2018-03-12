@@ -1,76 +1,39 @@
-PICARD JELLICO MADRED LAFORGE
+PICARD GUEST2 GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Interrogation room]
 
-(Madred is having an egg for his meal) 
-MADRED: Oh, you're awake. Have something to eat. I insist. Boiled
-taspar egg. It's a delicacy I'm happy to share with you. 
-(Madred gives Picard a knife to slice the top off the very large egg,
-but this one isn't boiled. The contents are still alive and moving.
-Picard downs it in one) 
-MADRED: Wonderful. Wonderful. I like you, human. Most people become ill
-at the sight of live taspar. I remember the first time I ate a live
-taspar. I was six years old and living on the streets of Lakat. There
-was a band of children, four, five, six years old, some even smaller,
-desperately trying to survive. We were thin, scrawny little animals,
-constantly hungry, always cold. We slept together in doorways, like
-packs of wild gettles, for warmth. Once, I found a nest. Taspars had
-mated and built a nest in the eave of a burnt-out building and I found
-three eggs in it. It was like finding treasure. I cracked one open on
-the spot and ate it, very much as you just did. I planned to save the
-other two. They would keep me alive for another week. But of
-course, an older boy saw them and wanted them, and he got them. But he
-had to break my arm to do it. 
-PICARD: Must be rewarding to you to repay others for all those years of
-misery. 
-MADRED: What do you mean? 
-PICARD: Torture has never been a reliable means of extracting
-information. It is ultimately self-defeating as a means of control. One
-wonders that it's still practiced. 
-MADRED: I fail to see where this analysis is leading. 
-PICARD: Whenever I look at you now, I won't see a powerful Cardassian
-warrior. I will see a six year old boy who is powerless to protect
-himself. 
-MADRED: Be quiet. 
-PICARD: In spite of all you've done to me, I find you a pitiable man. 
-MADRED: Picard, stop it, or I will turn this on and leave you here in
-agony all night. 
-PICARD: Ah! You called me Picard. 
-MADRED: What are the Federation's defence plans for Minos Korva? 
-PICARD: There are four lights. 
-(Madred uses the agoniser.) 
-MADRED: There are five lights. How many do you see now? 
-PICARD: (in agony) You are six years old. Weak and helpless. You cannot
-hurt me. 
-MADRED: How many? 
-PICARD: Sur le pont d'Avignon, on y danse
-
-[Shuttlebay]
-
-JELLICO: How are we doing? 
-LAFORGE: We're almost done, sir. I've shielded the engine nacelles and
-the transporter system so they won't be affected by the particle flux
-from the nebula. 
-JELLICO: Good. 
-[Shuttlecraft]
-
-JELLICO: Been awhile since I flew one of these.
-You're a pilot yourself, aren't you Geordi? 
-LAFORGE: Yes, sir. 
-JELLICO: I began my career as a shuttle pilot, on the Jovian run.
-Jupiter to Saturn and back once a day, every day. 
-LAFORGE: Is that right? I was on that run myself for a while. 
-JELLICO: Then you must've done Titan's Turn. 
-LAFORGE: Oh, yeah. You set a course directly for Titan, hold it until
-you're just brushing the atmosphere, throw the helm hard over and whip
-around the moon at point seven c. 
-JELLICO: And pray like hell nobody saw you. 
-LAFORGE: You know, this trip into the nebula's going to need someone
-who can do Titan's Turn in their sleep. These mines need to be laid
-within two kilometres of the Cardassian ships. But the particle flux
-from the nebula will blind all the sensors except for this proximity
-detector. You're going to need one heck of a pilot to pull that off. 
-JELLICO: Is that you? 
-LAFORGE: I could do it, but truthfully, the man you want is Commander
-Riker. He's the best there is.
+(Picard has been left alone with the agoniser
+control pad. He starts to smash it against the desk as Madred enters.) 
+GUEST1: That won't help. I have many more. 
+PICARD: Still, it felt good. 
+GUEST1: Enjoy your good feelings while you can. There may not be many
+more of them. I've just received word. There's been a battle. The
+Enterprise is burning in space. The invasion of Minos Korva has been
+successful. 
+PICARD: I don't believe you. 
+GUEST1: There's no need for any further information from you. Our
+troops were successful in spite of your refusal to help me. You might
+have saved yourself a great deal of torment by yielding at the
+beginning. 
+PICARD: I want to see neutral representative. 
+GUEST1: There is no such person. The word will be that you perished
+with your crew. No one will ever know that you are here with us, as you
+will be for a long, long time. You do, however, have a choice. You can
+live out your life in misery, held here, subject to my whims, or you
+can live in comfort with good food and warm clothing, women as you
+desire them, allowed to pursue your studies of philosophy and history.
+I would enjoy debating with you. You have a keen mind. It's up to you.
+A life of ease, of reflection and intellectual challenge, or this. 
+PICARD: What must I do? 
+GUEST1: Nothing, really. Tell me how many lights you see. How many? How
+many lights? This is your last chance. The guards are coming. Don't be
+a stubborn fool. How many? 
+(Gul Lemec enters) 
+GUEST2: You told me he would be ready to go. 
+GUEST1: We had some unfinished business. 
+GUEST2: Get him cleaned up. A ship is waiting to take him back to the
+Enterprise. Captain Picard, if you'll go with the guards, they'll take
+care of you. 
+PICARD: There are four lights!
 

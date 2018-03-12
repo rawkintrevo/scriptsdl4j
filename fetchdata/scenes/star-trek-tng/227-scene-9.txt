@@ -1,71 +1,37 @@
-RIKER LAFORGE REPORTER PICARD POLICEMAN CLEMENS DATA
-
-[Infirmary street]
-
-REPORTER: Thanks for your help, officer. 
-POLICEMAN: Now, be sure you put in the part about me spotting that
-phony policeman. 
-REPORTER: Yes, sir. 
-CLEMENS: Hello, son. 
-REPORTER: Mister Clemens. What brings you here? 
-CLEMENS: Writer's curiosity. I heard that two people vanished into thin
-air in this Infirmary. 
-REPORTER: One of the patients said that, yes, sir, but the police deny
-it. 
-CLEMENS: I bet they do. 
-REPORTER: They say a band of outlaws set off an explosion in the
-hospital and then escaped. 
-CLEMENS: Well, what did these outlaws look like? 
-REPORTER: The carriage they escaped in was driven by an albino. 
-CLEMENS: Oh. Mister Data. 
-REPORTER: You know him? 
-CLEMENS: You bet I do. You say there were others with him? 
-REPORTER: Yes, at least a dozen. 
-CLEMENS: His accomplices. They've come from the future. My God, it's an
-invasion. 
-(he hails a cab) 
-REPORTER: An invasion from the future? Mister Clemens, what can you
-tell me about this? Do you have any proof? 
-CLEMENS: When's your deadline, boy? 
-REPORTER: Five o'clock, sir. 
-CLEMENS: I'll meet you at your paper at four thirty with a story that
-will make your career. 
-REPORTER: Thanks, Mister Clemens 
-CLEMENS: Take me to the Presidio, driver, and don't spare the whip.
+PICARD GUINAN RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Cavern]
 
-RIKER: The triolic levels are as high as they were
-on Devidia Two. There's no indication of a control mechanism. 
-LAFORGE: I'm not so sure. My visor is picking up crystalline fractures.
-These cavern walls have undergone some kind of selective molecular
-polarisation. In fact, if I'm right this whole cavern has been
-configured to focus the space-time distortion. Just like a lens.
-Captain, we think we might be on to something. The cavern itself seems
-to be acting as a focusing mechanism. I'm willing to bet it's the same
-at their habitat back on Devidia Two. 
-PICARD: If we can get back there and destroy that site, it might put an
-end to their time travelling. 
-RIKER: We have the ophidian. 
-LAFORGE: Truthfully, I don't know that we can get back. The aliens use
-triolic energy as a power source. The energy our phasers generates
-might not be entirely compatible. 
-PICARD: We have no choice but to try. 
-CLEMENS: An event I would most certainly enjoy witnessing. However, I
-will regretfully waive that opportunity for the
-privilege of taking you all in to the authorities. 
-DATA: Mister Clemens, it is imperative that we continue our mission. 
-CLEMENS: Mister Data, I have listened to your stories and your excuses
-and your evasions, and I will listen no longer. It is my moral duty to
-protect mankind from whatever devious plan you have in mind. Now, move
-along. I suspect that even time travellers are vulnerable to the Colt
-forty five. Now, let's go. I made a young fellow a promise and I don't
-want to be late. 
-(the two aliens appear and the male grabs the cane from Troi. Data
-tackles him and gets it back. The cane activates, the woman disappears,
-there's a flash, everyone is thrown to the floor and Data's head comes
-adrift. The time portal is open. The male runs through it) 
-PICARD: Follow him! 
-(Riker, Geordi, Crusher, Troi do so, then Clemens as Picard checks on
-Guinan. The portal closes.)
+(Guinan is just coming round) 
+PICARD: Gently. Don't sit up too quickly. 
+GUINAN: Where'd everybody go? 
+PICARD: I hope they're all safely back on the Enterprise by now. 
+GUINAN: But you're still here. 
+PICARD: You were hurt. I had to make sure you were all right. 
+GUINAN: And so you stayed for that? 
+PICARD: I didn't want anything to happen to you. You're far too
+important to me. 
+GUINAN: You know an awful lot about me. 
+PICARD: Believe me, in the future the tables will be turned. 
+GUINAN: So we become friends? 
+PICARD: It goes far beyond friendship. 
+GUINAN: Oh, but I'll have to wait almost five hundred years, and when
+we meet I won't be able to tell you about this, will I? 
+PICARD: No. Because for me, none of this will have happened yet. 
+GUINAN: What's that? 
+(Data's head) 
+PICARD: That's history fulfilling itself.
+
+[Ten Forward]
+
+GUINAN: History has to fulfill itself. Even Picard
+knew that. 
+RIKER: You were there in the cavern. You know what happened. What am I
+supposed to do? 
+GUINAN: If I told you what happened in that cavern, it would affect any
+decision you'd make now. I can't do that. I won't. 
+RIKER: Not telling me might affect my decision. Did you think of that?
+We're talking about Jean-Luc Picard. I can't sit around and hope it all
+works out. I've got to do something.
 

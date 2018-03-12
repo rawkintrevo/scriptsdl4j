@@ -1,36 +1,29 @@
-DATA LAFORGE SUSANNA
+LAFORGE SUSANNA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Engineering]
 
-(science station LCARS 40274)
-DATA: During microscopic examination of the torn uniform, I discovered
-these alien skin cells. 
-SUSANNA: Source? 
-DATA: Undetermined. 
-LAFORGE: Without something else to cross-reference, it would take us
-weeks to try and identify them. 
-DATA: Fortunately, we have more evidence. We were able to determine
-that these footprints found near the shuttle were not made by any known
-Tarchannen life form. 
-SUSANNA: If we're pursuing a theory that somehow unknown aliens are
-involved, I think I should tell you that we didn't find tracks like
-that during the original investigation. 
-DATA: The planet is subject to frequent sandstorms. Footprints might
-have been obliterated prior to your arrival. Doctor Crusher and I will
-begin to search the medical database in an attempt to match these with
-some known life form.
-
-[Turbolift]
-
-SUSANNA: Aliens or no aliens, why would our people
-start returning after five years, to be abducted? 
-LAFORGE: Some sort of compulsion like a post-hypnotic command? 
-SUSANNA: Something that happened while we were down there the first
-time? 
-LAFORGE: We can go back to the mission record, construct a log of
-everyone's movements. 
-SUSANNA: Look for some commonality, something we all touched. Maybe a
-plant, or the sand. 
-LAFORGE: Or even something we ingested. It could even be in the air
-itself.
+(Geordi is watching the sensor log, and Susanna is
+increasingly jumpy) 
+LAFORGE: Freeze visuals. 
+SUSANNA: We're wasting our time. 
+LAFORGE: That's not how you felt before. It was your idea to look for
+some sort of commonality. 
+SUSANNA: Yeah, well, I was wrong. We're not going to find anything this
+way. We should go back to the planet. It's all down
+there. Everything we need to know. 
+LAFORGE: That's just not an option. At least, not until Captain Picard
+says it is. Computer, resume. 
+SUSANNA: I can't look at that anymore. It hurts my eyes. I can't think.
+My brain feels like it's wrapped up in a blanket. 
+LAFORGE: Take a break, all right? I'll work on this. 
+SUSANNA: I don't need a break. I need to get off the ship. 
+LAFORGE: Susanna, why don't we go and see Doctor Crusher? 
+SUSANNA: Forget Crusher and forget your logs. Tarchannen's down there,
+Geordi. It's waiting for us. That's where we should go. 
+LAFORGE: Susanna, you can't leave. Susanna. Susanna! 
+SUSANNA: Geordi! 
+(She has a sort of fit and falls to the floor. There are strange veins
+showing on the back of her neck and the three middle fingers of each hand are fusing
+together)
 

@@ -1,89 +1,49 @@
-DESEVE TROI TORETH PICARD RIKER DATA NVEK PILOT
-
-[Warbird ward room]
-
-TROI: You will plot a course for the Draken System.
-
-TORETH: You can't be serious. 
-TROI: Draken Four was the freighter's destination. I ordered the
-freighter destroyed because I recognised the Captain, a known
-Federation spy. Now we must deliver the cargo ourselves. 
-TORETH: We must? 
-TROI: I do not intend to explain myself to you. You will set a course. 
-TORETH: In order to reach Draken, we will have to travel through
-Federation space for nearly twenty hours. 
-TROI: That is not a problem. 
-TORETH: Contrary to the propaganda that your superiors would have us
-believe, Starfleet is neither weak nor foolish. The chances of us
-reaching Draken undetected are not good. 
-TROI: We will be cloaked. 
-TORETH: The cloaking device does not always make us invulnerable, and
-you would know that if you had spent any time at all in the field. The
-Federation has littered it's borders with subspace listening posts,
-with gravitic sensors. They may even have a tachyon detection grid in
-operation, in which case they will know that we're there. If we are
-discovered in Federation territory, it will be interpreted as an act of
-war. 
-TROI: The Tal Shiar has obtained access codes for the sensor nets. I
-will provide them if necessary. 
-TORETH: That will be no guarantee that we will escape undetected. 
-TROI: Your cowardice does not befit a Romulan soldier. 
-TORETH: People blame the military for the wars that we are asked to
-fight, but I think it is your kind, Major, that will be the death of us
-all.
+GUEST0 RIKER TORETH PICARD TROI MCKNIGHT DATA NVEK GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Warbird bridge]
 
-TORETH: Plot a course for the Draken System. 
-PILOT: Course plotted, sir. 
-TORETH: Prepare for warp. 
-PILOT: Commander, sensors are picking up a vessel. Our cloaking device
-is still engaged. They have not detected us. 
-TORETH: Activate viewscreen. Enlarge. 
-PILOT: It is the Enterprise, Commander. 
-TORETH: Well, Major, it appears your suspicions about that freighter
-were correct after all. The Federation has come in search of its spies.
-Status. 
-PILOT: They are scanning the debris of the freighter. Shield levels are
-normal. Weapon systems are not active. They are not prepared for
-battle, sir. 
-TORETH: They weren't expecting to find us here, and I see no reason to
-alter that perception. The radiation from the debris field could make
-our cloak detectable if we engage warp engines. Proceed at manoeuvring
-speed. 
-TROI: One moment, Commander. We should hold our position until the
-Enterprise has left the area. We cannot risk detection. 
-TORETH: Even if we are detected, they cannot track us once we go to
-warp. 
-TROI: We have not established their intentions. 
-TORETH: Their intentions are obvious, Major, and are of no concern to
-us. Proceed on course, manoeuvring engines only. Go to warp when we're
-clear of the debris field. 
-PILOT: Yes, Commander. We should clear the field in twenty seven
-minutes. 
-TROI: You will keep me informed of our progress. 
-(Troi leaves) 
-N'VEK: It is not wise to challenge the Tal Shiar, Commander. 
-TORETH: I will not let her tell me how to run my ship.
+GUEST2: Commander, the Enterprise is underway. 
+TORETH: Good. What is their course? 
+GUEST2: They're heading for us, sir. 
+TORETH: What? 
+GUEST2: They appear to be on an intercept course. 
+TORETH: What is the status of our cloaking device? Is there a
+malfunction of any kind? 
+GUEST2: Cloaking device functioning correctly, sir. All shipboard
+emissions within normal range. 
+TORETH: Maintain full sensor scans. 
+N'VEK: Commander. The Enterprise may simply be engaged in search
+operations. 
+TORETH: Perhaps.
 
 [Bridge]
 
-DATA: It appears to be the remains of a ship. My
-analysis indicates that it was an Antares class freighter. 
-DESEVE: That's the ship we were supposed to meet. 
-PICARD: Could there have had some sort of malfunction? A reactor core
-breach? 
-DATA: I do not believe so, sir. That would not be consistent with the
-debris pattern. However, sensors indicate extremely high levels of
-residual antiprotons. 
-RIKER: Romulan disruptor fire. 
-DATA: Correct. Based on the antiproton decay, I would estimate the
-incident occurred within the last four point three hours. 
-PICARD: Then the Romulans could still be in the vicinity. 
-RIKER: Red alert. Shields at maximum. 
-PICARD: Whatever that freighter was carrying, they certainly didn't
-want it to reach us. Are you sure you don't know what it was? 
-DESEVE: No, sir. I swear it. 
-PICARD: All we have here are questions. Mister Data, continue with your
-scan.
+PICARD: Where is it now, Mister Data? 
+DATA: It has disappeared once again, sir. I believe it may have been
+coming to a halt. 
+PICARD: Stop engines. 
+MCKNIGHT: Aye, sir. 
+RIKER: If this is a Romulan ship, will it stay in position until we
+leave? 
+GUEST0: I don't think so, sir. A Romulan Commander's instinct would be
+to attack.
+
+[Warbird bridge]
+
+TORETH: Engage manoeuvring engines, forward zero
+point one. Take us directly under their hull. 
+GUEST2: Yes, Commander. 
+TROI: What are you doing? 
+TORETH: It seems that the Enterprise can track us even though we are
+cloaked. I intend to find out whether they can or cannot. N'Vek, ready
+attack procedure. 
+N'VEK: Sir, disruptors are standing by. Ready to disengage cloak. 
+TROI: We cannot risk an engagement here. 
+TORETH: Considering the nature of our mission, I would have preferred
+to have avoided it as well. But I see no other alternative. 
+TROI: What do you intend to do? 
+TORETH: We will pass as close as we possibly can. If they do have the
+ability to track us, they will move to avoid a collision. If they do, I
+will destroy them.
 

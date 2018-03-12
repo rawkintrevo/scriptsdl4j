@@ -1,71 +1,40 @@
-PICARD TROI CRUSHER MAQUES
+TROI GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Sickbay]
+[Nursery]
 
-CRUSHER: She's not responding to cortical
-stimulation. I'm not sure what else I can do. 
-TROI: I don't understand. She was fine just yesterday. 
-CRUSHER: It's so strange. It's almost as if her brain has shut itself
-down. 
-PICARD: Is there a physiological cause? 
-CRUSHER: I'm running a subneural scan. As far as I can see there's no
-tissue damage, no neurochemical imbalance, no sign of infection,
-nothing. 
-PICARD: Yet her neural activity is practically non-existent. 
-CRUSHER: The only exception is in the paracortex. Activity there is
-almost off the scale. 
-TROI: The paracortex is the Betazoid telepathic lobe. She communicated
-with Maques telepathically just before she fell. 
-PICARD: Might there be some side effect of Cairn telepathy of which
-we're unaware? 
-CRUSHER: It's a possibility. 
-PICARD: I think it's time that you and I had a talk with Maques.
-
-[Maques' quarters]
-
-MAQUES: I am very apologetic for what has happened
-to your mother. 
-PICARD: Maques, is it possible that your telepathic communications with
-Mrs Troi harmed her in some way? 
-MAQUES: No. I tried to explain before. Bad thoughts, they hurt her. 
-TROI: What thoughts? Take your time. 
-MAQUES: Inside her, the dark place. 
-TROI: I don't understand. 
-MAQUES: She is, what are the words? I don't have the words. 
-(So he sends Troi the pictures instead, and Troi puts her hands over
-her ears) 
-PICARD: Counsellor? Stop it! 
-TROI: It's all right. I'm fine. He was just trying to communicate with
-me telepathically. 
-MAQUES: Do you understand now? 
-TROI: I'm not sure. 
-[Crusher's office]
-
-TROI: He communicated so much to me that at first
-it was just a jumble of images. 
-CRUSHER: Have you been able to sort any of it out? 
-TROI: I think so. During his telepathic contact with my mother, Maques
-sensed what he calls a dark place. He tried to tell me about it before,
-in my office, and I misunderstood. I thought he was talking about
-thoughts my mother was keeping private, but what he meant was that
-there was something happening in her met conscious mind. 
-CRUSHER: Metaconscious? 
-TROI: It's a part of the Betazoid psyche. It's a kind of filtering
-mechanism that protects us from psychic trauma. 
-PICARD: Is Maques suggesting that your mother's metaconscious has been
-somehow damaged? 
-TROI: He feels that whatever is wrong with her is centred there. If
-he's right it may mean that she's suffered some kind of trauma that her
-metaconscious just can't tolerate. 
-CRUSHER: Has your mother mentioned anything that happened to her
-lately, something that might have been traumatic for her? 
-TROI: No. Nothing. 
-CRUSHER: Maques could be wrong about this. There's still a chance that
-a subneural scan might be able to pinpoint an physiological cause for
-your mother's condition, something that I might be able to treat. The
-results won't be in until morning. Maybe we should all try and get some
-rest. 
-TROI: I'd like to stay here with her. I'm going to try to contact her
-telepathically. 
-CRUSHER: All right.
+(there's sunshine and foliage outside the windows,
+toys in the room, and a man in a movie-style uniform) 
+GUEST3: Deanna. 
+TROI: Daddy? 
+GUEST3: Look at you. You've become a beautiful woman 
+TROI: Don't do this. 
+GUEST3: I'm sorry I had to go away when you were so little. I didn't want
+to. 
+TROI: You're not my father. You're part of my mother's mind. What is
+this place? 
+GUEST3: This is our house near Lake El'nar on Betazed. We used to live
+here. Deanna, let's not waste this chance. I want to hear everything
+about you. 
+TROI: Did I live here? 
+GUEST3: For a while when you were a baby. You were such a beautiful baby.
+Your mother and I loved you so much. 
+TROI: I don't remember these toys. 
+GUEST3: I bet you don't remember me singing you to sleep at night either,
+but I did. 
+TROI: I do remember. I always felt safe when you sang to me. 
+GUEST3: There was one song you always asked me to sing. You couldn't fall
+asleep unless you heard it. 
+TROI: Down in the valley. 
+GUEST3: Yes. (sings) Down in the valley, valley so low. Hang your head
+over, hear the wind blow. 
+TROI: No, you're just trying to keep me here. Keep me from finding
+something. 
+GUEST3: Your mother doesn't want to see you, Deanna. 
+TROI: I have to help her. 
+GUEST3: If you want to help her, leave. Let her have peace. 
+TROI: She called out to me. She does want me to help. 
+GUEST3: Stay with me, just a little while. Deanna, it's been so long.
+We'll never have this chance again. 
+TROI: Goodbye, Daddy.
 

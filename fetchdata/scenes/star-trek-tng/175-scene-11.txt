@@ -1,40 +1,27 @@
-PICARD RIKER OBRIEN DATA GLEASON
+RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Borg ship]
+[Bridge]
 
-(The Borg ship drops out of warp. A fully Borgified
-Picard looks at the Enterprise approaching) 
-RIKER [on viewscreen]: Locutus of Borg, this is Captain William T.
-Riker of the USS Enterprise.
-PICARD: You may speak.
-
-[Battle bridge]
-
-RIKER: We wish to end the hostilities.
-PICARD [on viewscreen]: Then you must unconditionally surrender.
-RIKER: We are prepared to meet to discuss your terms.
-PICARD [on viewscreen]: It is unlikely you are prepared to discuss
-terms. It is more likely that this is an attempt at deception.
-RIKER: Come now, Locutus. If Picard's knowledge and experience is part
-of you, then you know I've never lied to him. You should also
-implicitly trust me, is that not so?
-PICARD [on viewscreen]: Picard implicitly trusted you.
-RIKER: Then trust me now. Meet to discuss terms.
-PICARD [on viewscreen]: Discussion is irrelevant. There are no terms.
-You will disarm all your weapons and escort us to Sector zero zero one
-where we will begin assimilating your culture and technology.
-(mute) 
-RIKER: Mister Gleason, can you pinpoint the source of the Borg
-transmission?
-GLEASON: I can put you within thirty meters of it, sir. 
-RIKER: O'Brien, report.
-
-[Transporter room]
-
-O'BRIEN: The Borg have adapted their
-electromagnetic field to prevent main transporter functions, sir. 
-RIKER [OC]: As expected. Mister Data, Mister Worf, proceed as we
-discussed. 
-DATA: Aye, Captain. 
-(They switch on devices on their arms)
+DATA: Using multimodal reflection sorting, I have
+been able to detect a complex series of subspace signals between
+Locutus and the Borg ship. 
+CRUSHER: That's how they're controlling him? 
+DATA: It is not just a matter of control, Doctor. The signals are
+interactive across a subspace domain similar to that of a Transporter
+beam. I would
+hypothesise that these frequencies form the basis of the Borg's
+collective consciousness.
+RIKER: Can't we block them?
+DATA: Possibly. But as you may recall on several occasions, we have
+witnessed the Borg removing key circuits from injured comrades, no
+doubt separating them from the group consciousness.
+RIKER: The injured Borg immediately self-destructed.
+DATA: That is correct, sir.
+CRUSHER: Cutting the link to Locutus might be fatal to the Captain.
+RIKER: We have to find a way to reach him. We must know what he knows 
+CRUSHER: Without these interactive signals, it would only be a matter
+of microsurgery. I could do it. But as long as those Borg implants are
+functioning, there's no way I can separate the man from the machine.
+DATA: Then perhaps there is a way I can access the machine, Doctor.
 

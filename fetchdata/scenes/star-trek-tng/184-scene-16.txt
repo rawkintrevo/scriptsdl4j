@@ -1,63 +1,45 @@
-TROI LAFORGE PICARD RIKER DATA CRUSHER ALLENBY
-
-[Sickbay]
-
-CRUSHER: Lie down, breathe deeply and stay calm.
-I'm getting calls from all over the ship. I'll be there as quickly as I
-can.
-
-[Bridge]
-
-ALLENBY: New heading confirmed. Zero two five mark
-two seven three. Speed is holding at one tenth impulse. 
-RIKER: Whatever's pulling us sure isn't in a hurry. 
-PICARD: Picard to La Forge. 
-LAFORGE [OC]: Go ahead, Captain. 
-PICARD: If your engines are functioning we'll attempt to break free.
-
-[Engineering]
-
-LAFORGE: Everything down here seems normal enough,
-sir, but I suggest we take it a bit slower this time.
-
-[Bridge]
-
-PICARD: Ensign, bring us around ninety degrees to
-starboard. 
-ALLENBY: New course laid in at ninety degrees to starboard. 
-PICARD: One quarter impulse, engage. 
-ALLENBY: Aye, sir. Nothing, Captain. Speed and course are unaffected. 
-PICARD: One half impulse. 
-ALLENBY: No change. 
-PICARD: Full impulse. Rotate heading in five degree increments. 
-ALLENBY: Aye, sir. 
-(the ship shakes) 
-RIKER: La Forge? 
-[Engineering]
-
-LAFORGE: There's nothing wrong down here. The
-engines are fine.
-
-[Bridge]
-
-DATA: Integrity field stress exceeding eighty two
-million kilodynes. Recommend immediate shutdown, sir. 
-PICARD: Make it so, Ensign. 
-ALLENBY: All engines down. We're still being pulled. Same heading, same
-speed.
+PICARD TROI GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Troi's office]
 
-CRUSHER: I got here as quickly as I could. I've got
-a Sickbay filled with headaches. How are you? 
-TROI: Well, when I first called you I was feeling intense pain. Now
-it's gone, but I'm feeling a bit foggy. 
-CRUSHER: I'd like to take you to Sickbay and run an inner nuncial
-series. Can you walk? 
-RIKER [OC]: All senior staff report to the Observation Lounge. 
-CRUSHER: Are you up to that? 
-TROI: I think so. 
-(then she gets a look of horror on her face) 
-CRUSHER: What is it? 
-TROI: Nothing. Nothing, I'm fine.
+(Deanna is packing PADDs into a case) 
+TROI: Come in. Janet. Oh, I'm sorry, I meant to cancel your appointment
+today. Actually, I'm resigning as Ship's Counsellor. 
+GUEST0: Why? 
+TROI: I think it was fairly clear during your last appointment. It was
+obviously non productive. I couldn't sense what you were feeling. 
+GUEST0: Deanna, you were right about me. I had to go back and look at
+what I was doing, see why I was trying to convince myself and you that
+I was a new woman. You made me realise I was doing exactly the same
+thing to myself as I was before. Trying to hide from the pain. Maybe
+you couldn't sense what I was feeling, but you helped.
+
+[Ready room]
+
+PICARD: Come. 
+TROI: You wanted to see me, Captain? 
+PICARD: Yes, Counsellor. Sit down, please. Our situation has become
+critical. The cluster remains completely unresponsive. We have not been
+able to alter its course toward the cosmic string fragment. 
+TROI: How much time do we have? 
+PICARD: Less than five hours. Which is why I have called you. 
+TROI: Sir? 
+PICARD: All that remains is the possibility of communication. There
+might be some way that we can warn them of their impending destruction.
+
+TROI: I thought Data had already tried to establish communications
+through the universal translator. 
+PICARD: He has tried every technical means at our disposal to reach
+them. 
+TROI: I wish I knew how to help, Captain, but under the circumstances 
+PICARD: If there is a psychology to these creatures, we must discover
+it. If there is an explanation for their behaviour, we must know what
+it is. Even in your current condition, you are the most qualified
+person aboard this ship to assist. Data is in Observation attempting to
+formulate a strategy. I want you to join him. Deanna, we need you.
+
+Captain's log, supplemental. If our speed and
+course remain unchanged, in one hour the Enterprise will be torn apart
+by the gravitational forces of the cosmic string fragment.
 

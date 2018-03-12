@@ -1,49 +1,28 @@
-TROI WORF PICARD RIKER TIMICIN LWAXANA DATA
+TIMICIN LWAXANA DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Observation lounge]
+[Engineering]
 
-TIMICIN: Of course, the basic theories of helium
-fusion enhancement have been discussed for over a century, but there's
-been no practical method of application until now. 
-DATA: The modifications that you have made to the torpedo's guidance
-systems are remarkable, Doctor. 
-TIMICIN: Well, we'll see. They still have to be proved. But now at
-least it's possible. I'd never dared hope for such a perfect match with
-our own sun. 
-PICARD: My only regret is that it took us three years to find a
-suitable sun after you had first contacted us. 
-TIMICIN: We're not used to dealing with other worlds. We're not used to
-asking for anything from others. Your offer of help has given us a
-possible means of survival. It has taken forty years of my life to
-develop the programming that will control your photon torpedoes. It has
-been my life. Thank you for this opportunity. My only wish has been to
-find a way to revive our sun before I die.
-
-[Bridge]
-
-WORF: Mrs Troi, I must protest your unauthorised
-presence on the Bridge. 
-LWAXANA: What does that little one do, Mister Woof? 
-WORF: Please, Madame! That is a torpedo launch initiator, and, it is
-Worf, Madame, not Woof. 
-(Deanna, Riker and Timicin enter) 
-LWAXANA: Oh. Ah, there you are, dear. Where've you been? I've been
-waiting for you. 
-(Lwaxana walks straight past Deanna to Timicin) 
-LWAXANA: So nice to see you again so soon. 
-TIMICIN: Mrs Troi. 
-TROI: Mother, what did you want? 
-LWAXANA: What? 
-TROI: You were waiting for me. 
-LWAXANA: Oh yes, dear, of course I was. You really must let me do
-something to relieve the tedium of all this work, work, work. 
-TIMICIN: I'm afraid I'm expected in Engineering. I'm really terribly
-sorry. 
-RIKER: Mrs Troi, I have to ask you to clear the Bridge, please. 
-LWAXANA: I don't see why. There are lots of other people here. 
-TROI: Mother. Please. 
-LWAXANA: Well, don't you worry. We'll just have our little chat later. 
-(Lwaxana leaves) 
-TIMICIN: I'd never have thought her old enough to be your mother. She
-is so vibrant.
+(Timicin is with Data and Geordi) 
+TIMICIN: If you look at the next simulation you'll see that we need the
+temperature to stabilise at two hundred twenty million before there's a
+secondary or tertiary reaction. 
+(Lwaxana enters, with Mister Homn in tow) 
+LWAXANA: Enough is enough. Rescue is at hand. Doctor Timicin, would you
+clear all this mess from the table, please? 
+LAFORGE: This mess, Mrs Troi 
+LWAXANA: Now, now, now, you boys have been shut up in here for hours.
+Now, if you don't eat something, you're going to get sick, and who's
+that going to help? I've made some perfectly marvellous Mantickian
+pate. Mister Homn will lay it out for us. Mister Homn is my valet. He
+doesn't say much. 
+LAFORGE: How can he? 
+DATA: It is true that the intellectual efficiency of high order beings
+does diminish proportionately with the deprivation of nutritious fuel
+or 
+LAFORGE: All right, all right. Don't you start. 
+TIMICIN: Mrs Troi, you're a wise woman. I'm sure we could use a
+respite. 
+LWAXANA: These two call me Mrs Troi. You call me Lwaxana. Mister Homn?
+Spread it.
 

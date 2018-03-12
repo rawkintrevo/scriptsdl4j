@@ -1,53 +1,54 @@
-RIKER AQUIEL WORF LAFORGE
+PICARD RIKER CRUSHER WORF COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Sickbay]
 
-AQUIEL: How much longer do you think the
-investigation will take? 
-LAFORGE: Three, maybe four days. It's tough to tell. 
-AQUIEL: I know I'm a suspect in the murder, but let me ask you
-something. You've watched my logs. You know me better than anyone here.
-Do I seem like the kind of person who could murder someone? 
-LAFORGE: No, you don't. 
-AQUIEL: I don't think I realised how much I needed to hear that. 
-LAFORGE: Look, Aquiel, it's been a rough couple of days. I think you
-need some sleep. 
-AQUIEL: You called me complicated. You're right. I don't make friends
-easily. Oumriel. 
-(she strokes his face and goes into her quarters) 
-LAFORGE: Oumriel. 
-[Aquiel's shuttlecraft]
-
-(Worf finds a phaser) 
-WORF: Commander. It is set to kill.
-
-[Guest quarters]
-
-RIKER: We found this type two phaser in your
-shuttlecraft. It was taken from the weapons locker on the station. 
-AQUIEL: I told you I don't remember what happened. Maybe I did make to
-the weapons locker. 
-RIKER: It was set to level ten. Standard procedure requires that all
-phasers are set on level one when they're in storage. 
-WORF: That means that someone deliberately changed the setting. And
-then there is the matter of your conflict with Lieutenant Rocha. 
-AQUIEL: Rocha and I had our disagreements but that does not mean I
-would kill him. 
-RIKER: Have you been able to remember anything that happened after he
-attacked you? 
-AQUIEL: No. Nothing. I suppose maybe in self-defence I 
-RIKER: Doctor Crusher tells me that in order to inflict the kind of
-molecular damage found in Rocha's remains, it would take a sustained
-phaser discharge of at least thirty to forty seconds. That doesn't
-sound like self-defence to me. 
-LAFORGE: Now wait a minute. We haven't even established this phaser is
-the murder weapon yet. And even at level ten I don't see how it could
-have done the damage the medical evidence says it did. A phase
-disruptor like a Klingon weapon, maybe. 
-RIKER: Look, we're not here to make accusations. We're trying to find
-out what happened. Commander Morag is due here in two hours. Let's see
-what he has to say. 
-LAFORGE: Fine. In the meantime I'd like to go back to the station and
-see if I can access Rocha's personal logs again. 
-RIKER: Good idea.
+CRUSHER: It's an exact reproduction of my hand,
+right down to the DNA structure. 
+PICARD: Doctor, you said that this was formed from the organic matter
+found in the
+deck plates. 
+CRUSHER: When I infused the matter with a resonance frequency burst, it
+activated its DNA. Then it touched my hand and it began to mimic my
+cellular structure. 
+PICARD: Doctor, what exactly is this? 
+CRUSHER: This is going to sound very farfetched, but have you ever
+heard of a coalescent organism? 
+PICARD: No. 
+CRUSHER: They're rare microscopic lifeforms which need to absorb other
+organisms in order to survive. Now, that in itself isn't so unusual,
+but coalescents become the organisms they've absorbed, right down to
+the cellular level. 
+WORF: Do you think this is what happened with your hand? 
+CRUSHER: There've been reports that these organisms can exist on a
+larger scale. Certainly, what happened to my hand seems to support that
+theory. 
+RIKER: So you think that Rocha was killed by one of these organisms? 
+CRUSHER: It's possible that something happened to him before he
+reported for duty on the relay station. 
+WORF: I do not understand. 
+CRUSHER: I've checked the records. Before he was posted to the relay
+station, Rocha served on an outpost in the Triona System. That is a
+remote sector. Maybe he was absorbed by a coalescent during that
+mission. 
+RIKER: So what boarded the station could have been an organism that
+looked and acted like Lieutenant Rocha? 
+WORF: How often do they have to change bodies? 
+CRUSHER: The microscopic organisms have a cycle of no more than five to
+ten seconds. We can only assume a larger, more complex coalescent would
+have a cycle of days, even weeks. 
+PICARD: Doctor, if what you're saying is true, then Rocha attacked
+Lieutenant Uhnari to find a new body. 
+CRUSHER: Right. 
+RIKER: That means Uhnari is a coalescent. 
+WORF: There was one other person on the station. Morag. It is possible
+he was the one who was absorbed. 
+PICARD: Computer, locate Commander Morag and Lieutenant Uhnari. 
+COMPUTER: Commander Morag is in his quarters. Lieutenant Uhnari is not
+aboard the Enterprise. 
+WORF: Where did she go? 
+COMPUTER: Lieutenant Uhnari transported to Relay Station forty seven at
+eighteen thirty hours. 
+RIKER: You get Morag. I'm going to the station. 
+WORF: Aye, sir.
 

@@ -1,88 +1,50 @@
-FARALLON KELSO DATA LAFORGE
+FARALLON DATA LAFORGE COMPUTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Particle fountain laboratory]
+[Data's quarters]
 
-LAFORGE: We're fine, Data. The power grid is fully
-restored. 
-(the exocomp returns) 
-LAFORGE: The malfunction seems to have been repaired and operations
-over here at the station are all back to normal. 
-[Bridge]
+DATA: Computer perform a level one diagnostic of
+the exocomp's command module. 
+COMPUTER: The command pathways are functioning normally. 
+DATA: How can that be, if the interface circuitry is burned out? 
+COMPUTER: The interface circuitry has been repaired. 
+DATA: Curious. Computer, access the exocomp's sensor logs. Confirm that
+there was a failure of the interface circuitry within the last twelve
+hours. 
+COMPUTER: Confirmed. Interface failure occurred at eleven hundred fifty
+hours today, when the exocomp produced a power surge which burned out
+the linkage. 
+DATA: How and when was it repaired? 
+COMPUTER: The exocomp activated a self-repair programme at thirteen
+hundred forty hours. 
+DATA: Why would the exocomp burn out its own interface circuitry and
+repair it two hours later? 
+COMPUTER: Unknown.
 
-DATA: How were you able to accomplish the repair so
-quickly?
+[Ten Forward]
 
-[Particle fountain laboratory]
-
-LAFORGE: You know, I'm not exactly sure.
-
-Captain's log, stardate 46315.2. Repairs to the
-particle fountain seem to have succeeded and it is now functioning
-smoothly. Doctor Farallon is coming aboard to demonstrate the device
-that carried out the repairs. 
-[Transporter room]
-
-DATA: Energise. 
-KELSO: Aye, sir. 
-(La Forge, Farallon and an exocomp are beamed aboard) 
-DATA: Welcome to the Enterprise, Doctor. I am Lieutenant Commander
-Data. 
-FARALLON: Mister Data, I was hoping I'd have a chance to meet you. I've
-done extensive studies of your positronic network. 
-DATA: And I have studied your design for the particle fountain. I find
-the concept to be highly innovative. 
-FARALLON: Thank you. 
-DATA: I am curious how you were able to repair the power grid so
-quickly. 
-FARALLON: This should make it clear, Commander. 
-LAFORGE: Why don't we set up in Engineering. 
-FARALLON: Is it true that your computational speed is limited only by
-the physical separation of your positronic links? 
-DATA: Actually, that is no longer the case. I have recently converted
-my interlink sequencer to asynchronous operation, which removed the
-performance constraint. 
-LAFORGE: Doctor, this way please. 
-FARALLON: I see. But how did you resolve the signal fragmentation? 
-(as they head out into the corridor) 
-DATA: The interlink sequencer is now bi-directional. It compensates for
-the asynchronous mode distortion arising from the resonant field. 
-FARALLON: Yes. That's fascinating. Does the sequencer require any
-buffering system to eliminate interference?
-
-[Engineering]
-
-FARALLON: We've been using devices like this on
-Tyrus Seven for years. The basic unit is a common industrial servo
-mechanism. A few years ago I started tinkering with one. This is the
-result. 
-LAFORGE: Boridium power converter. Axionic chip network. It's very
-impressive. In terms of sheer computational speed, this little guy
-might be able to compete with you, Data. 
-FARALLON: Oh, the exocomps don't come close to Data's sophistication. 
-DATA: Exocomps? 
-FARALLON: That's what I call them. Let's say you had an anti-matter
-flow converter that was fluctuating. How would you repair it? 
-DATA: The correct procedure would be to adjust the converter. 
-FARALLON: With what? 
-DATA: A mode stabiliser. 
-FARALLON: Okay. Let me input the problem into the exocomp. A
-fluctuating anti-matter flow converter. Now, let's see what happens. 
-(the little machine materialises a tool to use) 
-LAFORGE: A mode stabilizer. Very nice. 
-DATA: You have incorporated a micro-replication system into the device
-in order to fashion tools. 
-FARALLON: It's more than that. I designed the exocomps to be problem
-solvers. Whenever they perform a task they've never done before, the
-micro-replicator creates new circuit pathways within the unit's memory.
-
-DATA: So in a sense, they are learning. 
-FARALLON: Exactly. The more situations they encounter, the more circuit
-pathways they build. They become better tools as they work. 
-LAFORGE: It's impressive technology, that's for sure. Once it's out of
-the experimental stage, there'll be plenty of applications. 
-FARALLON: Commander, I'm hoping the experimental stage is over. When
-are we supposed to brief Captain Picard on the status of the particle
-fountain? 
-LAFORGE: At sixteen hundred hours. 
-FARALLON: Good. I'll have a proposal to make.
+LAFORGE: Here you are. I thought you'd be hard at
+work by now. 
+FARALLON: I wanted a quiet cup of tea before I went back. Gathering
+strength, I guess. 
+LAFORGE: I've come to tell you I've assigned two engineering teams to
+work on the particle fountain. 
+FARALLON: Thank you, Commander. I'm grateful. 
+LAFORGE: You know, I really want you to know that I do admire the work
+that you've done. And I'm sorry the exocomps aren't working out. 
+FARALLON: You were right. I'm trying to move too fast. I guess I lack
+that conservative streak most scientists have. I always seem to be out
+there on the edge, taking chances. 
+LAFORGE: You know, I'll bet you were the kind of little girl who was
+always climbing one branch higher than the other kids. 
+FARALLON: Anything to get to the top of the tree. 
+LAFORGE: And I bet you never fell. 
+FARALLON: Oh, no I fell all the time. Usually breaking a bone in the
+process. I just never let it stop me. 
+LAFORGE: Well, if it comes down to sheer determination, I know you'll
+get this particle fountain built. 
+FARALLON: You're right about that, Commander. I've spent the last six
+years of my life on this project. It's the first thought I have when I
+wake up, and the last before I go to bed. Whatever it takes to prove
+this technology, I'll do it.
 

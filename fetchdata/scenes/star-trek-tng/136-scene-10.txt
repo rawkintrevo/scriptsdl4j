@@ -1,88 +1,76 @@
-TROI LAFORGE WORF PICARD SALIA RIKER WESLEY DATA ANYA
+WORF PICARD SALIA PULASKI WESLEY ANYA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
-
-PICARD: We're accommodating you in quarters
-normally reserved for Starfleet admiralty. I'm sure you'll find them
-quite comfortable. 
-(Wesley exits a turbolift as the party passes. The universe stands
-still as Salia smiles at him, then turns back to speak) 
-SALIA: That's a superconducting magnet, isn't it? 
-WESLEY: Yes It's an SCM model. How did you know that? 
-SALIA: Study, for the last sixteen years it is all I could 
-ANYA: Please, Salia, walk ahead with me. 
-SALIA: Better be careful. Those can rip the iron right out of your
-blood cells. 
-(The party moves on, minus Riker) 
-WESLEY: Commander, who is she? 
-RIKER: I think she's a governess. 
-WESLEY: No! The girl. 
-RIKER: I don't know if she'll have time for you, Wes. She's destined to
-rule an entire world.
-
-[Wesley's quarters]
-
-(Wesley is preening in front of a full length
-mirror) 
-WESLEY: Come in. 
-DATA: You wanted to see me? 
-WESLEY: Yes. Data, the girl who came on board. 
-DATA: Salia of Daled Four. 
-WESLEY: Who is she? 
-DATA: Little is known. She was born on Daled Four. Her parents were
-from opposite sides in a civil war which has lasted for centuries. They
-both died shortly after her birth. A Federation ship brought her and
-her governess to Klavdia Three so that she could be raised in a neutral
-environment. 
-WESLEY: And now she's returning? 
-DATA: It is hoped she will unite the factions and bring peace. 
-LAFORGE [OC]: Ensign Crusher, report. Are you all right? 
-WESLEY: Geordi? Yeah, I'm fine. I just 
-LAFORGE [OC]: Wes, we're waiting for that magnet. 
-WESLEY: I'm on my way. 
-[Bridge]
-
-RIKER: Captain, we've broken orbit and laid in a
-course for Daled Four. We will remain on impulse power until Lieutenant
-La Forge completes his adjustments. 
-PICARD: Mister Worf, have our passenger's accommodations met with their
-approval? 
-WORF: I doubt if anything ever meets with that woman's approval, sir. 
-TROI: Captain, I'm concerned our new passengers. Their emotions do not
-fit who they are and what they're doing. 
-PICARD: Are you suggesting they're not who they say they are? 
-TROI: Actually no, it's more like they're not what they say they are. 
-PICARD: Picard to Salia's quarters. 
-SALIA [OC]: Yes? 
-PICARD: May we turn on the viewer? 
-SALIA [OC]: Yes, of course.
-PICARD: Are your quarters satisfactory? 
-SALIA [on viewscreen]: Yes, very. Tell me, Captain, who was the young
-man I met before? 
 [Salia's quarters]
 
-PICARD [on monitor]: That was Ensign Wesley
-Crusher. 
-(Anya enters) 
-SALIA: Thank you for checking on us, Captain. I only hope our quarters
-on Daled Four will be this luxurious. 
-PICARD [on monitor]: Please feel free to contact me at any time. Picard
-out.
+WESLEY: Really, it's quite simple. You just tell
+the computer what you want and it prepares it for you. 
+SALIA: Oh. What should I order? 
+WESLEY: I don't know. what do you like? 
+SALIA: I'd like something sweet. 
+WESLEY: I know. Computer, Thalian chocolate mousse. 
+(Salia samples it with her finger) 
+SALIA: It's a wonderful sensation. 
+WESLEY: On Thalos Seven they age the beans four hundred years. 
+SALIA: You've been there? 
+WESLEY: It's one of my favourite places. 
+SALIA: It must be fun to visit a planet like that. 
+WESLEY: It's the best part of being on the Enterprise. 
+SALIA: I've studied about some of them, but to see them, that would be
+wonderful. Tell me about some of the other
+places you've been. 
+WESLEY: Oh, there's too many. 
+SALIA: The only world I've known is Klavdia Three. 
+WESLEY: It's about time we changed that. 
+SALIA: How? 
+WESLEY: Come with me.
 
-[Bridge]
+[Sickbay]
 
-TROI: What I sensed before hasn't changed. 
-DATA: What puzzles me, Captain, is how she is expected to bring peace
-to Daled Four. Its inhabitants have been fighting throughout their
-recorded history. 
-PICARD: What do we know about the cause of these wars? 
-DATA: Only that it is the difference between night and day. 
-RIKER: Data, you used a colloquialism. 
-DATA: Did I? What I meant, sir, is that Daled Four rotates only once
-per revolution. Therefore one side is constantly dark, and the other
-side constantly light. One might surmise that the two hemispheres have
-developed disparate cultures, which is a major cause of most wars. 
-PICARD: This child is supposed to bring them together. 
-RIKER: She seems too delicate for such a task. 
-WORF: Do not be fooled by her looks. The body is just a shell.
+(Worf and Anya enter) 
+PULASKI: I'll be with you in a moment. 
+ANYA: What's wrong with him? 
+PULASKI: Andronesian encephalitis. 
+ANYA: That disease is contagious. 
+PULASKI: Very unlikely. Our air filtering system can handle 
+ANYA: But there is a chance. 
+PULASKI: If you mean mathematically, yes, the probability is not zero. 
+ANYA: I cannot rely on your primitive technologies. Kill the patient! 
+PULASKI: What? 
+ANYA: Destroy the patient. Immediately! 
+PULASKI: Now, you calm down. 
+ANYA: If you won't take action, then I will! 
+(She morphs into a big nasty version of the furry creature she was with
+Salia) 
+PULASKI: Security to Sickbay! Hurry! 
+(Worf wrestles with the creature which is larger than himself, as
+Picard and guards arrive) 
+PICARD: Wait! Hold your fire. 
+(Anya returns to humanoid shape) 
+PICARD: Worf! 
+PULASKI: What is she? Keep her away! 
+ANYA: Do not interfere! 
+PULASKI: She wants to kill Hennesey! 
+ANYA: His disease threatens Salia. 
+PULASKI: Captain, there is no chance of contagion. 
+PICARD: The situation is under control. 
+ANYA: That's not good enough! 
+PICARD: Well, it will have to be. 
+ANYA: Your powers are infinitesimal compared to mine. 
+PICARD: Yes, that may be, but you will obey my orders. You are to
+remain in your quarters and in your present form for the rest of this
+voyage. Is that clear? 
+ANYA: Very. 
+PICARD: Keep her under guard. 
+WORF: Aye, sir. 
+(Anya stalks out) 
+WORF: Wait for me. What kind of creature is she? 
+PICARD: I've never seen anything like her. 
+PULASKI: There is mention in the galactic zoological catalogue of a
+species called allasomorph, which is supposed to possess the power to
+alter their molecular structure into other life forms. 
+WORF: Such a creature would make a perfect protector. 
+PICARD: I want a Security team stationed outside Sickbay, Mister Worf. 
+WORF: Aye, sir. Captain, what if Anya transforms? 
+PICARD: Improvise.
 

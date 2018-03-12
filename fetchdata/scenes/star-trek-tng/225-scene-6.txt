@@ -1,109 +1,43 @@
-RIKER WORF PICARD ELINE ENSIGN CRUSHER DATA BATAI
-
-[Living room]
-
-(its late when the doorbell chimes) 
-ELINE: Thank goodness. I've had people out trying to find you
-everywhere. Why did you worry us like that? Are you hungry? 
-PICARD: Hungry, thirsty, exhausted. I suppose that proves this is not a
-dream, doesn't it? 
-ELINE: You think this, your life, is a dream? 
-PICARD: This is not my life. I know that much. 
-ELINE: I've kept something hot for you. Where did you go? 
-PICARD: I walked. For hours. 
-ELINE: And you're just out of bed. 
-(she hands him a plate of soup) 
-PICARD: It's delicious. 
-ELINE: You always say that. 
-PICARD: Would you try to answer some questions for me, no matter how
-strange they may seem to you? 
-ELINE: Of course. 
-PICARD: Are there other planets in this star system? Do you visit other
-systems? All right. Do you have a communication system here? How do you
-send messages to other communities, to other places? 
-ELINE: The usual way, by voice-transit conductor. Do you want to send a
-message? 
-PICARD: Yes. When can that be arranged? 
-ELINE: Tomorrow. Don't you want to ask about us? 
-PICARD: Of course. Anything you can tell me will be helpful. We're, er,
-um, married? 
-ELINE: Three years ago. The happiest day of my life was the day we got
-married. 
-PICARD: And what do I do here in Ressik? 
-ELINE: You're the best iron weaver in the community. At least I think
-so. You prefer playing the flute, of course. 
-PICARD: The flute? 
-ELINE: Yes. 
-(she fetches him a penny whistle decorated with a tassel) 
-PICARD: And when did I learn to play it? 
-ELINE: I'm afraid you never did, dear, but you keep trying. 
-(he gives it a trial blow) 
-PICARD: I see what you mean. Well, thank you for the soup. Thank you
-for your help. Tomorrow, will you help me send a message? 
-ELINE: Of course. Will you come to bed? 
-PICARD: Oh, I'll sleep here. 
-ELINE: Kamin, please come with me. 
-PICARD: I've been sick. I'll be tossing and turning. It wouldn't be
-fair to you. 
-ELINE: Let me be the judge of that. 
-(as she leans forward he sees a pendant on a necklace - it is the same
-design as probe that the Enterprise encountered) PICARD: Where did you
-get this? 
-ELINE: Kamin, this is the first gift you ever gave me.
-
-[Bridge]
-
-RIKER: Riker to Sickbay. The Captain's hurt. 
-(Beverly is scanning Picard) 
-CRUSHER: Pulse and blood pressure are normal I'm getting hyperactive
-fibrogenic activity. This is odd. 
-RIKER: What is it? 
-CRUSHER: There's no evidence of any injury or trauma. Vital signs are
-normal, but neurotransmitter production is off the scale. What's going
-on? 
-RIKER: That probe is doing something to him. Anything yet, Data? 
-DATA: No, sir. The particle emission is most unusual. I am unable to
-block it. 
-WORF: We should destroy the probe. Phasers are armed and ready. 
-CRUSHER: I don't think that's wise. Not until we know exactly what it's
-doing to him. 
-RIKER: Agreed. Stand down phasers, Mister Worf. In the meantime, take
-us out of range. Ensign. Thrusters only, one hundred kph nice and easy 
-ENSIGN: Aye, sir. 
-RIKER: Data? 
-DATA: The probe is moving with us, sir, holding relative position. 
-CRUSHER: It's connected itself to him, like a tether.
+PICARD GUEST4 ELINE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Courtyard]
 
-ELINE: You've been dreaming of that starship of
-yours again, haven't you? 
-PICARD: I'm just charting progress of the course of the sun. It might
-give a clue to the cause of this drought. 
-ELINE: I think you're still trying to figure out where you are. Where
-that ship of yours is. How to get back to that life. 
-PICARD: The memory is five years old now, but it's still inside me. 
-ELINE: Was your life there so much better than this? So much more
-gratifying, so much more fulfilling, that you cling to it with such
-stubbornness? 
-PICARD: Eline. 
-ELINE: It must have been extraordinary. But never in all of the stories
-you've told me have you mentioned anyone who loved you as I do. 
-PICARD: It was real. It was as real as this is. And you can't expect me
-to forget a lifetime spent there. 
-ELINE: Yes, I can. I've been patient, Kamin. For five years I've shared
-you with that other life. I've listened, I've tried to understand, and
-I have waited. When do I get you back? 
-PICARD: I know. I know. It has been hard on you. 
-ELINE: When will you let go? When will you start living this life? When
-will we start a family? 
-BATAI: Kamin, Eline, good morning. 
-PICARD: Good morning, Batai. 
-BATAI: Are you ready? The Administrator's already arrived. 
-PICARD: Yes. Will you come along? 
-ELINE: No, thank you. You do very well on your own. 
-BATAI: She always was strong-minded, even when she was a child. 
-PICARD: It's not her fault. These past few years have been very
-difficult for her. 
-BATAI: And for you, I think.
+(Frere Jacques drifts through the evening air) 
+GUEST4: You've been brooding behind that flute all evening. 
+PICARD: I'm not brooding. I'm immersed in my music. 
+GUEST4: Music. 
+PICARD: I find that it helps me think, but the real surprise is I enjoy
+it so much. 
+GUEST4: No, the real surprise is that you may actually be improving. 
+ELINE: Batai? 
+GUEST4: Yes, ma'am. 
+ELINE: Go home. 
+GUEST4: Yes, ma'am. Goodnight, Kamin. 
+PICARD: Goodnight, my friend. 
+ELINE: Go carefully, Batai. 
+(Batai leaves) 
+ELINE: Don't forget these. (picks up his shoes) I won't put them away
+for you again. 
+PICARD: Yes, ma'am. 
+ELINE: I've done nothing but nag all day. I'm sorry. 
+PICARD: No, I'm the one who's sorry. Everything you said this morning
+was absolutely correct. I feel that I have given you so little and you
+have given me so much. 
+ELINE: No. You're a good man. A wonderful husband. I didn't mean 
+PICARD: No, not such a wonderful husband. I spend my spare time
+charting the stars. I disappear for days at a time exploring the
+countryside. My life is very much as it was. Old habits. 
+ELINE: You're gentle and kind. You never once raised your voice to me. 
+PICARD: I'd like to ask your permission to build something. 
+ELINE: Kamin, you've built your telescope, your laboratory. You don't
+need my permission for something new. 
+PICARD: In this case, I think I do. 
+ELINE: What is it? 
+PICARD: A nursery. 
+ELINE: Really? Really? 
+PICARD: Unless, of course, if you would prefer a porch. It would
+certainly be easier to build. I could make a start on it right away. 
+ELINE: No. 
+(They embrace and kiss)
 

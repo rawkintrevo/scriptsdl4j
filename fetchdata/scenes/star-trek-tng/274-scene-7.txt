@@ -1,43 +1,5 @@
-PICARD CRUSHER DATA LAFORGE BIRTA
-
-[Bridge]
-
-LAFORGE: We managed to shut down the probe's power
-systems so we could beam it aboard. It's not going to be easy to figure
-out where this thing came from. 
-DATA: Bok took the precaution of encrypting the probe's navigational
-systems so that we would be unable to decipher its flight path. 
-LAFORGE: We ran an analysis of the probe's hull. From the energy
-signatures and particle deposits we found, it looks like it travelled
-through a dichromic nebula, was exposed to an intensive gravimetric
-distortion, and passed within one light year of a class four pulsar. 
-DATA: Those phenomena are relatively common. We would need to identify
-at least one of them specifically in order to postulate a flight path. 
-PICARD: Understood. 
-DATA: Captain, incoming message from DaiMon Birta. 
-PICARD: Put it on screen. Thank you for taking the time to talk to us,
-DaiMon. 
-BIRTA [on viewscreen]: I understand you have a problem. 
-PICARD: Yes, it concerns DaiMon Bok. 
-BIRTA [on viewscreen]: Bok is no DaiMon. He was relieved of command six
-years ago. He was unstable, dangerous. We had to confine him to Rog
-Prison. 
-PICARD: But he's no longer there? 
-BIRTA [on viewscreen]: He was able to buy himself out about two years
-ago. 
-PICARD: I see. Do you know his whereabouts now? 
-BIRTA [on viewscreen]: I understand he was seen in the Dorias cluster
-not too long ago. 
-PICARD: But that cluster consists of more than twenty star systems. 
-BIRTA [on viewscreen]: You don't have to thank me, Captain. 
-(transmission ends) 
-LAFORGE: Believe it or not, Captain, that might've given us the fix we
-needed. There's a nebula in the Dorias cluster that matches the same
-particle signature we found on the probe. 
-DATA: There is a class four pulsar three light years from the nebula.
-My calculations indicate the probe was launched in the Xendi Kabu
-system. 
-PICARD: Plot a course. Take us out of orbit.
+PICARD TROI CRUSHER GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Crusher's office]
 
@@ -54,4 +16,31 @@ sense is that he's a very independent young man. Perhaps it would be
 best if I left him alone. Let him come to me if he wants to. 
 CRUSHER: Maybe you're right. But I think you should consider this. Are
 you doing the best thing for Jason or what's easiest for you?
+
+[Jason's quarters]
+
+(doorbell) 
+GUEST1: Yeah? 
+TROI: Hello, Jason. I'm Deanna Troi, Ship's Counsellor. 
+GUEST1: Come in. Did Captain Picard ask you to come talk to me? 
+TROI: No, I just thought I'd come and see how you were doing. A lot's
+happened in the last few hours. I thought you might like to talk about
+it. 
+GUEST1: I'll be all right. People have wanted to kill me before. 
+TROI: But you've never met your father before. 
+GUEST1: And I have to admit I never thought I would. 
+TROI: It must be somewhat overwhelming. 
+GUEST1: I'm a little shaky. 
+TROI: Well, that's only natural. 
+GUEST1: But you know what? I feel better already just talking to you. 
+TROI: So, how did you feel about the Captain, about your father? 
+GUEST1: He's okay. A little stiff. But where are you from? 
+TROI: I was born on Betazed. 
+GUEST1: Do all the women there have eyes like yours? 
+TROI: Look Jason, I came here to talk to you because I'm the Ship's
+Counsellor. If you don't want to talk to me in that way, then I think I
+should go. 
+GUEST1: Fine. 
+TROI: You're welcome to make an appointment to come by my office. 
+GUEST1: Maybe I'll do just that.
 

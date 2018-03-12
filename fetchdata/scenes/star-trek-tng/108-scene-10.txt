@@ -1,60 +1,39 @@
-LAFORGE PICARD WESLEY SINGH CRUSHER DATA
+PICARD GUEST3 CRUSHER WORF WESLEY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Bridge]
+[Engineering]
 
-(At a rear science station) 
-PICARD: Obviously you feel it's something we should look at more
-carefully. 
-DATA: A mystery is only a mystery as long as it remains uninvestigated,
-sir. 
-PICARD: I love a mystery, Data, but this one will have to to wait until
-we deliver the delegates to their peace conference on Parliament. Time
-and tide, Lieutenant La Forge. Go to warp eight. 
-LAFORGE: Warp eight, sir. 
+(Wesley is at an auxiliary console) 
+WESLEY: How about here, Mister Singh? If the control network breaks at
+this point 
+GUEST3: It bleeds warp engine commands off into dead ends. Excellent. I
+believe I can handle it from here, Mister Crusher. 
+WESLEY: But, sir 
+GUEST3: You are scheduled for class work now. Sorry. 
+WESLEY: Yes, sir. But I don't learn nearly this much in school. 
+GUEST3: I tend to agree, but the captain's orders on this are very
+clear.
+
 [Crusher's quarters]
 
-WESLEY: Him Mom. You're back early. 
-CRUSHER: Yes. 
-(She looks at the computer monitor he's studying) 
-WESLEY: Physical sciences class. We're studying Doctor Channing's
-theory on dilithium crystals. 
-CRUSHER: Tell me about it. 
-WESLEY: Really? You never seemed that interested in warp theory before.
-Doctor Channing thinks it's possible to force dilithium into even more
-useful crystals. If as shown here, matter and antimatter could be
-aligned even more efficiently 
-CRUSHER: Would that affect navigation? 
-WESLEY: This is engineering, not helm control. 
-CRUSHER: Oh yes, the helm's located on the Bridge. 
-(Beverly leaves) 
-WESLEY: Mom, is something wrong? 
-[Bridge]
+CRUSHER: Hi. Solve any new problems today? 
+WESLEY: I was starting to, maybe. Mister Singh sent me off to class. 
+CRUSHER: Wes, you're only an acting ensign. You've got to let the
+commissioned officers do some of the work. 
+WESLEY: Mom, I've learned a more than they understand. For example, the
+Channing's dilithium crystals theory I was telling you about? 
+CRUSHER: When were you telling me about that? 
+WESLEY: This morning. Don't you remember? 
+CRUSHER: Honestly, I don't remember. 
+[Engineering]
 
-(Beverly tiptoes to Geordi's station) 
-CRUSHER: This is the helm. 
-LAFORGE: Unless there have been some changes I don't know about. 
-PICARD: Doctor Crusher? 
-CRUSHER: You will wish to know Lieutenant Worf is much improved. Ready
-to return to duty. 
-PICARD: What was the diagnosis? 
-CRUSHER: A temporary mental aberration. 
-PICARD: Doctor, when such a diagnosis concerns a bridge officer, I
-expect a better explanation. 
-CRUSHER: Then I will first have to run some crosschecks on the library
-computer. Klingons are so unusual in their reactions, aren't they? 
-PICARD: Use Science Station two, Doctor. 
-(That's next to where Data is working) 
-DATA: Intriguing, Doctor. What does helm control have to do with
-medical crosschecks? 
-(Unseen by him, the blue energy leaves Beverly and enters the computer.
-She is disoriented) 
-CRUSHER: Why am I? 
-DATA: Is something wrong, Doctor? 
-PICARD: Doctor, are you all right? 
-CRUSHER: Yes. Yes. I'll do my work in my office. That's where I should
-be. 
-PICARD: Do you want someone to accompany you? 
-(Beverly shakes her head and enters the turbolift) 
-DATA: Captain? There is a malfunction in this station. I cannot bring
-any information up on it. Science two does not function either, sir. 
-SINGH [OC]: Engineering to Captain Picard. 
+(Singh taps at a console, then the blue energy zaps
+into his body and throws him onto the floor. Worf finds him) 
+WORF: Engineering to Captain Picard. Security alert. 
+PICARD [OC]: Picard. 
+WORF: Lieutenant Worf, sir. I just found Mister Singh. He's dead.
+
+Captain's log, stardate 41249.4. I've ordered an
+immediate investigation into the death of Assistant Chief Engineer
+Singh. We continue to run on impulse power.
+

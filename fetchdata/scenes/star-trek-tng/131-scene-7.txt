@@ -1,38 +1,35 @@
-TROI LAFORGE WORF PICARD RIKER PULASKI DATA
+PICARD RIKER GUEST2 WORF DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
-
-PICARD [OC]: Transport. This may be a little
-tricky. I would like you to handle it.
-LAFORGE: Yes, Captain. 
-[Bridge]
-
-LAFORGE [OC]: I'm on my way. 
-PICARD: Assemble an away team, Number One. Include whoever the Doctor
-requires to assist. 
-PULASKI: Excuse me sir, but there may be hundreds on the Constantinople
-that require emergency attention. I should be there to supervise. 
-PICARD: All right, who will replace you? 
-PULASKI: Lieutenant Selar. She has my complete confidence. 
-RIKER: Worf, let's go. 
-[Transporter room]
-
-(Selar, Troi, a clean-shaven Data and Worf are the
-away team) 
-RIKER: Phaser on stun, Mister Worf. We don't know what's going on down
-there. There's no need to take any chances. 
-WORF: Agreed, sir. 
-LAFORGE: Now remember, this is a near warp transport, so the effects
-may be a little unusual. 
-TROI: What do you mean? 
-RIKER: You'll see, Counsellor. Energise. 
-TROI: Now wait a minute. I don't understand 
 [Living room]
 
-RIKER: You do now. 
-TROI: This might sound crazy, but for a moment I thought I was stuck in
-that wall. 
-WORF: For a moment, you were. 
-DATA: Data to Enterprise. 
-PICARD [OC]: I read you, Commander. Go ahead. 
-DATA: We are inside Graves' home. 
+PICARD [OC]: Captain to away team. We're standing
+by. 
+GUEST2: I do not wish to interrupt Data and the Doctor. They seem to
+have developed a genuine rapport. But the Enterprise has reached it's
+orbit and I'd like to transport Graves to the ship as soon as possible.
+
+(Data enters) 
+DATA: That will not be necessary, Doctor. He is gone. 
+WORF: Gone? 
+DATA: It happened just a few moments ago, in my arms. Ira Graves is
+dead.
+
+Captain's log, supplemental. I leave Gravesworld
+with an empty feeling and the knowledge that our mission was
+unsuccessful. Whatever scientific secrets Ira Graves was about to
+unlock have been lost forever. Our immediate priority is to reach the
+nearest starbase so that Graves' assistant can get on with her life.
+
+[Ready room]
+
+RIKER: Why didn't you contact Doctor Selar when you
+saw that he was beginning to go? 
+DATA: To do so would have been pointless. All things must pass. May I
+go now, sir? 
+PICARD: Yes, of course. 
+DATA: We will try to honour him in the manner in which he specified,
+will we not, sir? 
+PICARD: I said we would, Data. 
+DATA: I am glad, sir. It was his dying wish. 
+(Data leaves) 

@@ -1,99 +1,42 @@
-TROI NEIL KIROS PICARD KELSEY RIKER POMET SATLER CRUSHER DATA
+PICARD KELSEY GUEST7 GUEST6
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Engineering]
+[Corridor]
 
-SATLER: (a human male) Reduce the plasma pressure
-to zero point six percent nominal. 
-POMET: (an alien male) Zero point six. 
-SATLER: How does the conduit look? 
-POMET: It's clear. 
-SATLER: All right. The main plasma flow has been shunted to the aft
-conduit. We're ready here. 
-NEIL: Okay. That should do it. I think. 
-KELSEY: (did I mention she's a redhead?) Be sure, Neil. 
-NEIL: Yes. Yes, that does it. All right. Transfer five hundred
-milligrams from the reserve system to the engine core. 
-(Satler does it) 
-NEIL: Perfect. 
-KELSEY: Adequate. Disable the containment overrides and get the
-interlocks off the magnetic seal. Pomet, prepare the transport
-assembly. Keep watching the power flow. It might 
-(Picard is brought in.) 
-KELSEY: Keep working. Where did he come from? 
-KIROS: I found him on deck seven. 
-KELSEY: Who are you? 
-PICARD: My name is Mot. I'm the barber. 
-KELSEY: The barber? What the hell are you doing here? Everyone was
-supposed to be evacuated to the surface. 
-PICARD: Yes, I know. But I wanted to go riding, but I didn't have my
-saddle, so I went back to get it and 
-KELSEY: Your saddle? 
-PICARD: Yes, that's right. It's on deck seven. I left it in the
-corridor. And then the power went out and I got lost 
-KELSEY: All right, all right, shut up. Shut up! Any sign of Devor? 
-KIROS: No. 
-KELSEY: Satler. Get down here and keep an eye on our barber. All right,
-go see if you can find Devor. Make sure nothing's wrong. 
-(Kiros leaves) 
-SATLER: Sit down. 
-PICARD: All right. Just don't point that thing at me. 
-SATLER: Just do what I tell you, and you won't have to worry. 
-KELSEY: How long until you're ready? 
-POMET: Forty, maybe fifty minutes. 
-KELSEY: The baryon sweep hits this compartment in thirty minutes. 
-POMET: The field diverter will protect us. 
-KELSEY: It's not us I'm worried about, it's that storage unit. I want
-the trilithium resin in there and secured before the sweep gets here. I
-don't want to take any chances. 
-POMET: Understood.
+(The sweep is halfway through the saucer section) 
+(Picard shoots Pomet in the leg, and he passes out. Picard is just
+getting his weapon when ) 
+GUEST6: Hold it. Put your weapon down. Kelsey, this is Kiros. I'm on
+deck ten. 
+[Jefferies tube]
 
-[Arkaria base]
+GUEST6 [OC]: I have Mott. 
+KELSEY: Is he alive? 
+GUEST6 [OC]: Yes. 
+KELSEY: Good. Meet us at intersection forty one. 
+GUEST6 [OC]: Understood.
 
-(Hutch is covered in a purple curtain) 
-TROI: They haven't tried to communicate with the outside. 
-RIKER: No demands, no political statements, no theft. They must want
-something. 
-TROI: Orton is not as calm as he looks. He's very agitated and nervous,
-as if something's gone wrong. 
-DATA: It is possible that Geordi upset their timetable when he saw the
-hidden weapons. 
-RIKER: Orton may be improvising. Maybe he didn't plan to take us
-hostage so early and now he doesn't know what to do. 
-DATA: If they do not have a plan for this contingency, we may have the
-initiative. 
-RIKER: Maybe, but we need to figure out how to use it. How is he? 
-CRUSHER: There's no permanent damage. I've adjusted the optical
-transducer in his visor to block some of the pain receptors in his
-brain. It's only partially effective. I need to get him to a medical
-facility. 
-RIKER: I doubt if they'll agree to that. But maybe if we tell them
-Geordi's dying, they would give us access to a medical kit. We might be
-able to use some of the tools to make a weapon. 
-DATA: Perhaps we can use the visor as a weapon. If the optical
-transducer were modified, we might be able to generate a hypersonic
-pulse. 
-CRUSHER: A hypersonic pulse would overload the audio receptors of
-everyone in the room. It would cause immediate unconsciousness. 
-RIKER: Can you make the adjustments on the visor by yourself? It'll
-look suspicious if you're both working on it. 
-CRUSHER: I'll try. I might need Geordi to help me through some of it. 
-RIKER: All right. Be as casual as you can. Let us know when you're
-ready.
+[Corridor]
 
-[Engineering]
+GUEST6: This way. Move.
 
-POMET: Ready. 
-KELSEY: Begin draining the trilithium at one hundred milligrams per
-minute. 
-(Picard gets the laser out of his belt and plugs it into a power socket
-behind his back. An alarm goes off as a vent blows.) 
-KELSEY: Neil, what's going on? Neil, get over here. Put that down. 
-(Picard knocks over Satler) 
-NEIL: Don't worry, I've got it. I'll be right there. 
-(Picard does something to the inducer then dashes out of Engineering as
-the blast door comes down. He climbs the ladder of a Jefferies tube.
-Satler chases him. Picard opens a bulkhead to see the baryon sweep
-heading towards them. A few minutes later, Satler comes to the same
-bulkhead, now shut. Picard's jacket is on the deckplate. He lifts it to
-see an open panel, then the sweep comes through the bulkhead.)
+[Jefferies tube]
 
+KELSEY: Give me the trilithium. 
+GUEST7: How much farther do we have to go? 
+KELSEY: Not far. With all the modifications you've made to this unit,
+are we going to have any troubles removing the trilithium? 
+GUEST7: No. Just remove the control rod, drain the unit. There shouldn't
+be any problem. 
+KELSEY: That's all I wanted to know. 
+(we can assume she kills Neil) 
+[Corridor]
+
+KELSEY: Well, not as clever as you thought. Where's
+Pomet? 
+GUEST6: He shot him with some kind of an arrow. 
+PICARD: He's not dead. 
+KELSEY: Well, he will be soon. The sweep's nearly here. We don't have
+time to go back for him. 
+GUEST6: What about Neil? 
+KELSEY: The sweep got him. Let's go. 

@@ -1,60 +1,42 @@
-RIKER VOICE TAVA BEREL NURSE LANEL NILREM
+GUEST0 GUEST1 GUEST5 GUEST3 RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
 [Riker's hospital room]
 
-(Riker is out of bed and looking for a way out when
-a woman enters) 
-LANEL: There are guards out there. You'll never escape that way. I'm
-not afraid of you. 
-RIKER: Good. Because there's nothing to be afraid of. 
-LANEL: We shouldn't fear the unknown. We should embrace it. 
-RIKER: Can you help me get out of here? 
-LANEL: Are you really an alien? It's all right to tell me. 
-RIKER: No, I'm not an alien. 
-LANEL: I don't believe you. You are an alien. 
-RIKER: I really have to leave. 
-LANEL: I could divert the guard's attention. You might stand a chance
-if you took the service exit down the hallway to the right. 
-RIKER: To the right? Fine, let's do it. 
-LANEL: Why should I? 
-RIKER: Well, you know why. I don't belong here. I have to get back on
-my ship, in space. 
-LANEL: I believe you. 
-RIKER: Now, will you help me? 
-LANEL: If you make love to me. 
-RIKER: What? 
-LANEL: I've always wanted to make love with an alien. 
-RIKER: Listen, Miss 
-LANEL: Lanel. 
-RIKER: Lanel, I really have to get going. All the other aliens are
-waiting for me. 
-LANEL: Oh, it's not so much to ask, and then I'll help you escape. 
-RIKER: It's not that easy. There are differences in the way that my
-people make love. 
-LANEL: I can't wait to learn. 
-(she takes of her spectacles) 
-RIKER: But it's 
-LANEL: It's your only way out of here, my alien.
+GUEST5: Yes I understand. 
+(he puts the telephone down) 
+GUEST5: I have been relieved of my duties, as I'm sure you already know.
+You are Acting Director of the facility, Nilrem. 
+(Berel leaves) 
+GUEST3: Revive him. 
+(Nilrem prepares the injection, and Mirasta leaves too. Nilrem checks
+the various monitors) 
+GUEST3: Leave us. 
+(Nilrem leaves) 
+GUEST3: I am Minister Krola of Internal Security. You are Riker, an
+alien. Yes, we know. 
+RIKER: Please bring my people here. 
+GUEST3: In time. In time. But first I need to ask you some questions.
 
-[Medical Facility Corridor]
+[Durken's office]
 
-(an undetermined length of time later) 
-LANEL: Something's happened to him. I think he's dead. Go on, get some
-help. 
-(the guard runs off, and she beckons Riker out of the room) 
-LANEL: Okay. No, that way. 
-RIKER: Thanks. 
-LANEL: Will I ever see you again? 
-RIKER: I'll call you the next time I pass through your star system. 
-(Riker heads off down the corridor, but gets spotted) 
-NILREM: Stop him! Somebody stop him! 
-NURSE: Hold it. 
-VOICE [OC]: He's escaping! The alien's escaping! 
-(Riker knocks out a guard who swings at him with a club, then a second,
-but he is finally brought down and kicked while he is on the floor) 
-BEREL: Stop it! All of you! Stop it now! Have you all lost your minds? 
-TAVA: They've aggravated the injury to his renal organ. He's bleeding
-internally. 
-BEREL: Get him into a surgical cubicle. And call Central Security. This
-has gone too far.
+GUEST0: Thank you for seeing me. 
+GUEST1: If I did not depend so much on your expertise in space matters,
+I would have asked for your resignation. 
+GUEST0: I felt I was acting in the best interests of our people,
+Chancellor. 
+GUEST1: When you are selected to occupy this office, then you will have
+the privilege of deciding the best interests of our people. Picard I
+can excuse, but you, Mirasta, you should have trusted me. 
+GUEST0: Chancellor, we must release Riker to Picard Any hope for a
+relationship with these people depends on it. 
+GUEST1: I can't afford to be the idealist you are, Mirasta. 
+GUEST0: Riker 
+GUEST1: I am prepared to release Riker after we have interrogated him. 
+GUEST0: Are you prepared for him to die, Chancellor? His injuries are
+extremely serious. A mob at the medical facility almost killed him.
+Krola has ordered drugs to be used to revive him for questioning, drugs
+that in his condition would be dangerous for him. Without medical aid
+from his ship, I believe that Riker will not survive the day. You must
+tell Picard where he is.
 

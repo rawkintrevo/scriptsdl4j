@@ -1,110 +1,32 @@
-RIKER ISABELLA LAFORGE WORF PICARD CLARA SUTTER DATA
+GUINAN TROI SUTTER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Corridor]
+[Ten Forward]
 
-(Isabella appears) 
-CLARA: Why do you keep disappearing like that? 
-ISABELLA: The grown-ups don't believe I'm real. When they're around, I
-have to be invisible. Wait here. 
-(Isabella disappears)
-
-[Engineering]
-
-DATA: The drag coefficient continues to increase.
-Our velocity has fallen by twelve percent. Velocity is increasing.
-Ship's speed has stabilised at one quarter impulse. 
-LAFORGE: That's great, Data. What'd you do? 
-DATA: I did nothing. The problem seems to have corrected itself.
-
-[Corridor]
-
-(Isabella appears) 
-CLARA: Where did you go? 
-ISABELLA: There was something I had to do.
-
-[Observation lounge]
-
-LAFORGE: I don't have an explanation, Captain. We
-seemed to hit something, then we started losing speed. So far as we can
-tell, there's nothing out there to hit. 
-RIKER: Could some kind of damping field have caused us to lose
-velocity? 
-DATA: We have simulated several such fields, but were unable to
-reproduce the same drag coefficient. 
-LAFORGE: And we still don't know why the problem suddenly corrected
-itself. 
-PICARD: It seems we're looking a unique phenomenon. One that hasn't
-been recorded before. 
-LAFORGE: The question is, do we stay here and check it out? 
-RIKER: Might be dangerous. 
-DATA: Since we have only experienced the phenomenon once, it is
-impossible to estimate the risks. 
-LAFORGE: Captain, I'd like to stay here for a little bit, collect some
-samples of the gaseous matter, see what it tells us. 
-PICARD: Agreed. Collect your samples, Mister La Forge. We'll proceed
-with caution. Dismissed.
-
-[Corridor]
-
-ISABELLA: What's in here? 
-CLARA: That's the door to the cargo bay. We can't go in there. 
-ISABELLA: Let's go someplace with a lot of people. 
-CLARA: Okay. Isabella, why are you so serious lately? 
-ISABELLA: What do you mean? 
-CLARA: You haven't even smiled once today. 
-(Isabella attempts a smile, and feels her face to find out what it's
-like) 
-CLARA: You're my best friend, Isabella. 
-ISABELLA: Why? 
-CLARA: I don't know. Because we do things together and we trade
-secrets. 
-ISABELLA: Does everybody have a best friend? 
-CLARA: If they're lucky. Before I had you, I didn't have one. 
-ISABELLA: Why not? 
-CLARA: Every time I made friends with someone, my daddy's job would
-change and we'd move to a new ship. It takes time to make a best
-friend. 
-ISABELLA: How long? 
-CLARA: It depends. With you, not very long. You always listened to me,
-even when I was sad. 
-ISABELLA: Clara, I'm glad we're best friends. 
-CLARA: Race you. 
-ISABELLA: Okay. 
-CLARA: Ready, set, go! 
-(and they run around the corner straight into -) 
-WORF: This area is not designated for children. Are you lost? Where are
-you supposed to be? 
-CLARA: We were only playing. We're sorry. 
-WORF: Return to your quarters, and we will forget this incident. 
-CLARA: Thank you. Come on. 
-(Clara takes Isabella's hand and they go back around the corner. Once
-Worf is gone, they return and run on )
-
-[Engineering]
-
-LAFORGE: Okay, I've configured the magnetic coil to
-collect samples of gaseous matter from the nebula. Go ahead and
-activate the beam emitter. 
-SUTTER: I'm setting the fractionater to a continuous cycle. 
-LAFORGE: We'll take samples from eight random sections. That ought to
-give us a reliable measure. 
-SUTTER: Commander, I understand that you had a parent who was in
-Starfleet. 
-LAFORGE: Two of them, as a matter of fact. My father was an
-exozoologist, my mother a Command officer. 
-SUTTER: They must have been posted to a lot of different assignments. 
-LAFORGE: That's putting it mildly. They were always on the move. Some
-of the time together, sometimes separately. I never knew whether or not
-I was going to be stationed with my father while he studied
-invertebrates in the Modean system or on some outpost near the Neutral
-Zone with my mom. 
-SUTTER: Was that hard on you? 
-LAFORGE: I don't remember it that way. 
-SUTTER: It must have been disruptive if you didn't stay in one place
-long enough to make friends. 
-LAFORGE: Well, I suppose there were aspects of my childhood that were
-less than ideal, but to me it was just one long adventure. Children are
-a lot stronger than you think. As long as they know you love them, they
-can handle just about anything life throws at them, you know. 
-SUTTER: Thanks, Commander.
-
+GUINAN: Is something wrong with the cake? 
+TROI: Excuse me? 
+GUINAN: Well, I see you sitting here with a piece of untouched
+chocolate cake in front of you. I assume something's wrong with the
+cake or something's bothering you. 
+TROI: I'm sure the cake is fine. I've just been thinking. 
+GUINAN: Let me guess. About the little girl with the imaginary friend? 
+TROI: I'm wondering if I'm doing the right thing. 
+GUINAN: How so? 
+TROI: Well, I know the best thing to do is to gradually wean her away
+from her fantasy, and she did make some new friends today and had a
+good time. 
+GUINAN: But? 
+TROI: But I can't help feeling that I'm taking something from her.
+Something precious. A part of her childhood she'll never have again. 
+GUINAN: Well, I'm not sure about that. I was just telling Clara about
+my imaginary friend. 
+TROI: You have an imaginary friend? 
+GUINAN: A Tarkassian razor beast. It protected me. I knew as long as
+that razorbeast was around, nothing could hurt me. You know, over the
+years his body kind of faded away but the idea stayed. And I just don't
+seem to talk to him as often as I used to. 
+TROI: You still talk to it? 
+GUINAN: Oh, yeah, when I'm afraid or I get confused or a little scared.
+I just don't think you should have to give up an imaginary friend. 
+SUTTER [OC]: Ensign Sutter to Counsellor Troi. 
+TROI: Go ahead, Ensign. 

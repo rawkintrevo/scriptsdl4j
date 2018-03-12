@@ -1,129 +1,29 @@
-RIKER LAFORGE WORF PICARD FRANCINE EDOUARD JENICE CRUSHER DATA GABRIELLE
+PICARD RIKER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
 
-[Cafe des Artistes]
-
-(Picard is greeted by the head waiter) 
-EDOUARD: Monsieur, welcome to the Cafe des Artistes. Is this your first
-time in Paris? 
-PICARD: No. 
-EDOUARD: This way. 
-PICARD: That table. 
-EDOUARD: Mais oui, bien sur, monsieur. We are here to please you. 
-(Picard gazes from the balcony towards le Tour d'Eiffel, and the
-otherwise future city-scape) 
-PICARD: I've been away far too long. 
-EDOUARD: Some wine, some cheese? 
-PICARD: I'm not very hungry. I really came for the view. 
-EDOUARD: Perhaps what you hunger for is not on the menu. 
-PICARD: Perhaps not. It was many years ago, I had a rendezvous. I was
-to meet someone. Someone here, at this very table. 
-EDOUARD: Your young lady, she did not come? 
-PICARD: Actually, I don't know. I always imagined that she did. 
-EDOUARD: You, however, did not. Ah. Well, trust Edouard. I will bring
-something very special, just for you. 
-(Two young women are talking at the next table) 
-FRANCINE: Let's go. We've waited long enough. 
-GABRIELLE: Fine. You go. I'll stay a little longer.
-FRANCINE: He's not coming, Gabrielle. 
-GABRIELLE: No, after last night, I know he will. I just know. 
-FRANCINE: Then he would be here. You are making a fool out of yourself,
-and I will not watch. 
-(Francine walks away) 
-GABRIELLE: Do we know each other? 
-PICARD: No. 
-GABRIELLE: The way you look at me, do I remind you of someone? 
-PICARD: No. Yes, you do, somewhat. 
-GABRIELLE: He's not coming. Why? What did I do to drive him away? 
-PICARD: Maybe you did nothing. Maybe he had no choice. Maybe he was
-afraid. 
-GABRIELLE: Of what? Of me? 
-PICARD: Oh, of being connected, rooted. Perhaps if he's as young as you
-are, he doesn't know yet exactly what he wants to do. Maybe. Enough of
-this self-indulgence. Exit. 
-[Bridge]
-
-RIKER: Captain, we've received communication from
-the freighter Lalo, as well as from a farming colony on Coltar Four.
-Both described the same time distortion. The Captain of the Lalo
-described it a hiccup. 
-PICARD: Hiccup? 
-DATA: Actually sir, that may be an incorrect analogy. 
-PICARD: How so, Data? 
-DATA: A hiccup is a spasmodic inhalation with closure of the glottis.
-accompanied by a peculiar sound. If we were to continue this analogy to
-a body function, what occurred would be best represented by a 
-PICARD: That's enough, Data. Have you been able to learn more specifics
-about the Manheim project? 
-DATA: All I have found sir, is what you already know. Manheim was
-concentrating on time gravity experiments when he left. 
-LAFORGE: Captain, we've reached the coordinates specified. There's
-nothing here. 
-WORF: I'm receiving new coordinates. It's a relay signal. Same source
-as the first one. 
-LAFORGE: What are they, Worf? 
-WORF: Six six four point eight by one three two three point seven by
-four nine four nine point nine. 
-LAFORGE: Very remote area, sir. It's in the middle of the Vandor
-system, a binary star system. Main star's a B class giant, the
-companion star's a pulsar. 
-PICARD: Set course for the new coordinates, Mister La Forge. 
-LAFORGE: Aye, sir. 
-RIKER: Why is he making it this difficult to find him? 
-PICARD: Hopefully he'll tell us, Number One. 
-(Later) 
-LAFORGE: We have reached the coordinates, Captain. 
-DATA: Sensors indicate it is Vandor Four, a planetoid in elliptical
-orbit around the binary system. 
-PICARD: Standard orbit, Mister La Forge. 
-LAFORGE: Aye, sir. 
-PICARD: Give me a visual. 
-WORF: Viewscreen on. There's a small forcefield on the planet. Latitude
-twenty degrees, nine minutes north. Longitude forty degrees, two
-minutes east of the present terminator. 
-PICARD: Penetrable? 
-DATA: No, sir. 
-PICARD: Open hailing frequencies. 
-WORF: Hailing frequencies open, sir. 
-PICARD: This is Captain. This is the Captain of the USS Enterprise
-responding to your signal for help. 
-JENICE [OC]: Enterprise, thank you for hearing us. Where are you? 
-PICARD: We're in orbit around Vandor now. 
-JENICE [OC]: Then you can help me. I don't know what to do. It's only
-the two of us left. He's having convulsions. Please. 
-PICARD: Can you lock on to her coordinates? 
-LAFORGE: No, sir. The forcefield is preventing any kind of contact
-other than audio. 
-PICARD: There is a force field at your location. 
-JENICE [OC]: Yes. I know. 
-PICARD: Good. But it is preventing us from helping you. Now, you must
-find some way to shut it down. 
-JENICE [OC]: I'll try. 
-WORF: Force field is off. 
-PICARD: Good. Lock onto their coordinates. Beam them up directly to
-Sickbay. Doctor Crusher, prepare for a Medical Emergency. Two to beam
-directly up to Sickbay. 
-CRUSHER [OC]: We'll be ready, Captain. 
-PICARD: That's where I'll be. Number One. Mister Data.
-
-[Sickbay]
-
-(A woman and a shaking man materialise on the
-floor) 
-CRUSHER: I'll help. Easy. Easy. 
-(She and a male nurse get Paul onto a bed) 
-CRUSHER: I've got his legs. How long has he been like this? 
-JENICE: Several hours at least. He was in his lab, so I can't be sure. 
-CRUSHER: I need to do some tests. 
-(Picard, Riker and Data enter) 
-PICARD: Er, I, er. 
-JENICE: Jean-Luc. I thought the voice sounded familiar. 
-PICARD: Hello. 
-JENICE: I should have known. Who else would have charged to my rescue? 
-PICARD: This is my First Officer, Commander William Riker. Lieutenant
-Commander Data. This is Jenice Manheim. 
-RIKER: A pleasure, Mrs. Manheim. 
-JENICE: Thank you. 
-PICARD: I have a number of questions for you. 
-JENICE: I hope I can be of some help. 
-PICARD: Why don't we sit down?
-
+[Ready room] 
+PICARD: What have you learned? 
+DATA: We have completed a scan of the planet surface. 
+RIKER: We've discovered the second lab is on the far side of the
+planet, completely destroyed. Unable to determine what caused it.
+Otherwise, very little to clarify the situation. 
+DATA: Our sensors show an immense volume of energy emanating deep
+within the planet, and concentrated near Manheim's remaining
+laboratory. 
+PICARD: How is the energy being used. 
+RIKER: No idea. 
+PICARD: What's it's source? 
+DATA: I cannot be sure, sir, but I believe Manheim has developed a
+method for harnessing energy from the pulsar. 
+RIKER: It comes down to this, Captain. We've learned everything we can
+from here, and we are no closer to understanding it than we were twelve
+hours ago. Manheim is unable to help us, but hopefully, having been a
+good scientist, he kept notes. 
+DATA: I would need to study Manheim's records. 
+RIKER: And in order to do that we're going to have to go down there. 
+PICARD: What about the defence system Mrs. Manheim spoke of? 
+RIKER: It may have been connected to the main system, and when she
+lowered the shield she may have turned that off as well. If not, we'll
+deal with it as best we can. 
+PICARD: Prepare your team. 
+RIKER: Aye, sir. 
