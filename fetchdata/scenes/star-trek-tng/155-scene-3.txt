@@ -1,0 +1,58 @@
+PICARD RIKER CRUSHER GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Corridor]
+
+RIKER: The Romulan craft is a total loss. There's
+nothing there to salvage unless you want to use tweezers. 
+PICARD: No sign of others? 
+RIKER: You couldn't see two metres in front of yourself down there. 
+PICARD: It certainly is the last place one would expect Romulan
+encroachment. On the other hand, Galorndon Core
+would provide ideal cover for an opening move of a new offensive. 
+RIKER: I doubt if they were there for the climate.
+
+[Pit]
+
+(Geordi has spotted some medal ore in the wall of
+the pit. He makes a groove in the mud, puts the nodules in it then uses
+his phaser to melt them into a dagger shape)
+
+[Sickbay]
+
+(Crusher is operating on the injured Romulan) 
+CRUSHER: We thought it would be like working on Vulcans, but there are
+subtle differences. Too many of them. 
+PICARD: Can you treat him? 
+CRUSHER: He has cell damage to vital areas. He's going to need a
+transfusion of compatible ribosomes in order to recover.
+I'm setting up a schedule to test every member of the crew. 
+PICARD: We can't use the replicator? 
+CRUSHER: The molecules are too complex. 
+RIKER: Will he survive? 
+CRUSHER: I can't answer that yet. 
+RIKER: Well let me put it another way. Will he survive long enough to
+tell us what he was doing here? 
+PICARD: Doctor, it's an important consideration. 
+CRUSHER: I can bring him around for a few minutes. But there is one
+serious complication. His brainwaves indicate early neural-pathway
+degeneration. 
+RIKER: Head injury? 
+CRUSHER: There's no obvious cranial trauma. I'm guessing his exposure
+to the magnetic fields on the surface was slowly breaking down his
+synaptic connections. 
+RIKER: Will it affect Geordi the same way? 
+(She nods, then injects the Romulan) 
+CRUSHER: He'll be conscious for a minute or two. 
+RIKER: You are on board the Federation Starship Enterprise. We're
+treating your injuries. How long were you down on Galorndon Core? Do
+you understand me? 
+GUEST0: I will not answer questions. 
+RIKER: We need to know if there are other survivors on the surface. 
+GUEST0: I am alone. I will not answer any questions. 
+RIKER: Do you have a mother ship who should be advised of your
+condition? 
+(He passes out again)
+PICARD: The only answer he wants to give is that he was alone. 
+RIKER: Which suggests that he wasn't.
+

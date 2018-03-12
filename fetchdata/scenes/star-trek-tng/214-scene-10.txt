@@ -1,0 +1,48 @@
+RIKER RO TROI
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Corridor]
+
+(using a PADD as a map) 
+RIKER: These are your quarters. 
+TROI: Thanks for your help. Come in for a minute?
+
+[Troi's quarters]
+
+RIKER: Recognise anything? 
+TROI: It's like it belongs to someone else. Nothing feels right. This
+room, this ship, most of all this war we're fighting. 
+RIKER: I don't imagine war ever feels right. 
+TROI: I suppose that's true. 
+RIKER: What is it? 
+TROI: That same feeling. You seem familiar. You're the only thing that
+does. 
+RIKER: Can you remember anything specific about us? 
+TROI: I don't know. It's more like remembering an emotion. Feelings
+that you're somehow associated with. 
+RIKER: I hope they're good feelings. 
+TROI: Yes, they are. This entire situation is a little unnerving. 
+RIKER: It's been a long day. We've all been through a lot. 
+TROI: We certainly have. 
+(she gives him a peck on the cheek) 
+RIKER: I'll see you tomorrow. Goodnight.
+
+[Riker's quarters]
+
+(someone is in casual clothes, reading a book) 
+RO: Hi. 
+RIKER: I know I didn't get the wrong room. 
+RO: I just didn't like the way my quarters were decorated. Besides, I
+have this funny feeling that maybe I spend most of my off hours here. 
+RIKER: Really? 
+RO: For all we know, you and I could be married. 
+RIKER: For all we know, you and I could hate each other. 
+RO: Sort of exciting, isn't it? We just don't know. 
+RIKER: We might regret this. 
+RO: Regret what? Aren't you being a little presumptuous? Like I said, I
+just didn't like the way my quarters were decorated. 
+RIKER: Maybe we should switch quarters. 
+RO: Maybe we should stay right here and see what happens. 
+RIKER: What if I snore in my sleep? 
+RO: What makes you think you're going to get any sleep?
+

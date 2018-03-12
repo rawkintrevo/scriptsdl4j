@@ -1,0 +1,42 @@
+TROI WORF PICARD RIKER GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+DATA: Captain, sensors report the USS Hood is
+closing on an intercept course at high warp. 
+PICARD: That's odd. We weren't notified of a rendezvous. 
+RIKER: They seem to be in an awful hurry. 
+WORF: Sir, we are being hailed on a secured channel by Captain DeSoto. 
+PICARD: On screen. 
+GUEST0 [on viewscreen]: Sorry to sneak up on you like that, Jean Luc 
+PICARD: Robert, why didn't you inform us? 
+GUEST0 [on viewscreen]: Out here, you never know who's listening. Keeps
+you on your toes, anyway. Hey, Will. Will, you getting soft on that
+luxury liner? 
+PICARD: So, old friend. How are you? 
+GUEST0 [on viewscreen]: Well, you know, they send you Galaxy Class boys
+out here to the far reaches. Me, I'm just hauling my butt back and
+forth between starbases. 
+PICARD: But not today. 
+GUEST0 [on viewscreen]: No, not today. Starfleet's got new orders for
+you. This is top priority. They need the fastest ship in the fleet and
+the best people. That is you. 
+PICARD: If time is so important, why didn't they transmit the orders by
+subspace? 
+GUEST0 [on viewscreen]: They're worried about Romulan eavesdropping on
+this one. And we've got a passenger for you. Hard to send by subspace. 
+PICARD: What sort of passenger? 
+GUEST0 [on viewscreen]: Mission specialist. He'll bring your orders
+aboard with him. His name is Tam Elbrun. 
+RIKER: As in Tam Elbrun of the Ghorusda disaster? 
+GUEST0 [on viewscreen]: The same. What can I say? Your orders are to
+cooperate fully with him. Best of luck, folks. Hood out. 
+DATA: Sir, the Hood is slowing to impulse. 
+PICARD: Mister Data, come with me. 
+TROI: Captain, let me come with you to greet Tam. 
+PICARD: You know him? 
+TROI: I do. He was at the university on Betazed when I studied
+psychology there. 
+PICARD: Oh, I see. He was a colleague of yours. 
+TROI: No. He was a patient 

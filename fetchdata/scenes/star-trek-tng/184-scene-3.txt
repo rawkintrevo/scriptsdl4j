@@ -1,0 +1,40 @@
+PICARD RIKER ALLENBY WORF DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+DATA: An aggregate field of plane-polarised objects
+has just appeared. And disappeared. 
+RIKER: Recommend we run a diagnostic on the forward sensor array. We
+don't want a ghost tailing us all the way to T'lli Beta. 
+WORF: I'm not convinced it is a ghost. There may be something there,
+Commander. 
+PICARD: Ensign Allenby, full stop. 
+ALLENBY: Aye, sir. 
+PICARD: Let's investigate both possibilities. 
+(meanwhile, a suffering Troi finally passes out)
+
+Captain's log, stardate 44356.9. Sensor diagnostics
+have been completed and indicate that all systems are normal. There
+remains no explanation for the images which appeared in our path.
+
+[Bridge]
+
+DATA: I have completed another full scan of the
+area, sir. There is no further indication of the anomaly. 
+PICARD: Ensign, prepare to resume course to T'lli Beta. Mister Data,
+what velocity would put us back on schedule? 
+DATA: A resumption of our present course at warp six will place us in
+the T'lli Beta system in six days, thirteen hours, forty seven minutes.
+
+RIKER: What, no seconds? 
+DATA: I have discovered, sir, a certain level of impatience when I
+calculate a lengthy time interval to the nearest second. However, if
+you wish 
+RIKER: No, no. Minutes is fine. 
+PICARD: Stand ready at warp six, Ensign. 
+ALLENBY: Aye, sir. 
+PICARD: Engage. 
+(there's a jolt, and red alert comes on) 
+RIKER: Riker to Engineering. Geordi, what the hell happened?
+

@@ -1,0 +1,34 @@
+PICARD TROI LAFORGE WORF RIKER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+(there's nowhere to sit now) 
+PICARD: Any progress, Mister La Forge? 
+LAFORGE: I think I've found the archive's transformation programme. 
+PICARD: Will it accept the symbol for Masaka's temple? 
+LAFORGE: I think so. I've isolated the program's input pathways.
+They're keyed to accept symbols. If I input this one, it should
+initiate the transformation process. 
+RIKER: And create the temple? 
+LAFORGE: I hope so. If this is the wrong symbol, it might turn the
+Enterprise into a big chunk of rock. No way to know for sure. 
+TROI: The question is, can we trust a personality from an alien archive
+that seems bent on taking us over? 
+PICARD: Ihat risked his life to show me that symbol, and Masaka killed
+him for doing it. I think we have to risk it.
+
+[Corridor]
+
+WORF: Captain. The entire deck has been cleared of
+personnel. We may proceed. 
+PICARD: Commander Riker, we're ready. 
+RIKER [OC]: Understood. 
+[Bridge]
+
+RIKER: Initiate transformation. 
+LAFORGE: Inputting the symbol now. 
+[Corridor]
+
+(and it changes into)
+

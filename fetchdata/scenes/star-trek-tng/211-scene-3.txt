@@ -1,0 +1,51 @@
+PICARD RIKER GUEST0 DATA CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Transporter room]
+
+PICARD [OC]: To him and transport directly to
+Sickbay? 
+GUEST0: I'll try, Captain, but there's a lot of shielding to pull
+him through.
+
+[Bridge]
+
+PICARD: Acknowledged. Picard to Crusher. 
+[Sickbay]
+
+CRUSHER: Sickbay here, Captain. 
+PICARD [OC]: Prepare for emergency transport. 
+CRUSHER: Yes, sir. 
+[Bridge]
+
+CRUSHER [OC]: Crusher out. 
+PICARD: Picard to Commander Riker.
+
+[Vico]
+
+PICARD [OC]: Is the boy ready, Number One? 
+RIKER: Ready, sir. 
+PICARD [OC]: It's your signal. 
+RIKER: Aye, Captain. It's going to be okay. Here we go. Energise.
+
+[Transporter room]
+
+PICARD [OC]: Ensign, do we have him? 
+GUEST0: The lock is holding. I just can't resolve the matter
+stream, not with all that victurium alloy in the way.
+
+[Vico]
+
+GUEST0 [OC]: Commander Riker. You'll have to
+get him out into the corridor. 
+DATA: I could move the beam, sir. However, it may initiate the collapse
+of the surrounding supports. I recommend you and Geordi return to the
+ship. 
+RIKER: Agreed. La Forge. 
+[Transporter room]
+
+(Riker and La Forge are beamed in) 
+GUEST0: I'm locked onto Commander Data and the boy, sir. I'll
+energise as soon as they've cleared the bulkheads. 
+RIKER: Whenever you're ready, Data. 
+DATA [OC]: Yes, sir. 

@@ -1,0 +1,47 @@
+RIKER LAFORGE WORF PICARD GUEST2 WESLEY DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Hathaway
+Bridge]
+
+
+WORF:
+Computers report heavy
+damage to Enterprise.
+WESLEY: They're moving off, sir. Why not go after them? 
+RIKER: Because they're not through coming after us. Wesley, Geordi,
+prepare to warp jump. 
+LAFORGE: There are no guarantees here, sir. 
+RIKER: There never are, Lieutenant. I'm going to trust your expertise.
+Secure your stations. Stand by for my signal.
+
+
+[Bridge]
+
+
+PICARD:
+Ready photon torpedoes.
+GUEST3: Captain, sensors picking up a Ferengi warship closing at warp
+five. 
+PICARD: Did you input that new code? 
+GUEST3: Aye, sir. 
+PICARD: Mister Worf, I didn't give you enough credit. Continue the
+simulation. 
+(And they are hit with a real weapons blast) 
+PICARD: Divert all power to shields! 
+DATA: Sever modified beams. 
+PICARD: Stay between the Ferengi and the Hathaway. 
+DATA: Engage phasers and target. 
+PICARD: Fire when ready. 
+
+[Hathaway
+Bridge]
+
+
+GUEST2:
+That's no ghost attacking
+the Enterprise. That's real.
+WORF: We must assist, sir. 
+RIKER: With what? We have no offensive weapons.
+
+

@@ -1,0 +1,29 @@
+GUEST1 DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Transporter room]
+
+GUEST1: I didn't have any warning that something
+would go wrong, sir. Suddenly their patterns just weren't there. 
+DATA: I believe the cause of the accident may be related to the
+explosion on the Romulan ship. 
+LAFORGE: Really? 
+GUEST1: But that happened before we even arrived. 
+DATA: In all likelihood, the explosion damaged the Romulan cloaking
+device, causing it to discharge chroniton particles.
+I am detecting a chroniton field in here. 
+LAFORGE: A chroniton field? 
+GUEST1: If the particles were produced on the Romulan ship, why are
+you detecting them here? 
+LAFORGE: The transporter beam. 
+DATA: I suspect they travelled through the transporter beam. That may
+have been the cause of Geordi and Ro's death.
+I will go to the Romulan ship. Perhaps I can discover the source of the
+emissions. 
+GUEST1: Commander, are these chronitons dangerous? 
+DATA: They pose no danger to humans. However, some of the ship's
+systems may be affected by prolonged exposure. When I return I will
+devise a method to eradicate them. 
+LAFORGE: La Forge to Ensign Ro. (then realises the comm. system doesn't
+work for them)
+

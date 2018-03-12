@@ -1,0 +1,35 @@
+RIKER LAFORGE WORF PICARD WESLEY COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+PICARD: Intense magnetic fields have a disruptive
+effect on electrical systems. Therefore we can expect communications
+interruptions, as well as potential temporary loss of other systems. As
+a precaution, we are now going to Yellow Alert. Stay sharp, everyone.
+
+[Engineering]
+
+COMPUTER: Attention all decks. Yellow Alert. 
+DATA [OC]: Engineering, this is Lieutenant Commander Data. Bring all
+systems online and direct full power to the shields.
+
+[Bridge]
+
+DATA: All sections secure, sir. 
+PICARD: Lieutenant La Forge? 
+LAFORGE: Course is set, Captain. 
+PICARD: Half impulse. 
+LAFORGE: Aye, sir, one half impulse. 
+PICARD: On main viewer. Mask out the photosphere. Magnify. Quadrant one
+seven, magnification factor twelve. 
+RIKER: I've never seen anything like this before. The violence of these
+eruptions is awesome. 
+DATA: Captain, I'm reading an unusual number of sunspots and eruptive
+prominences, sir. The magnetic field is extremely irregular. 
+WESLEY: Captain, deflectors are being hit by a huge burst of X-rays. 
+(The science station lights up with blue static and he steps away) 
+WESLEY: Wow! Look. Captain, my console seems to be overloading. 
+WORF: The X-ray burst is disrupting systems, Captain. I'm adjusting
+deflectors to compensate.
+

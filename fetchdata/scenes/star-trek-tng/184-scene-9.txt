@@ -1,0 +1,36 @@
+PICARD TROI DATA RIKER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Observation lounge]
+
+DATA: The probe's point of view reveals that the
+objects exist entirely in two dimensions, on a single plane. 
+LAFORGE: They have length and width, but not height. Virtually flat. 
+DATA: That is why the ship's forward sensors did not detect them
+initially. We were looking at them along their edge. There was no
+surface to read. I will illustrate. 
+(the image of Enterprise rotates, and the things are on a line with the
+plane of the main saucer) 
+PICARD: Are they a lifeform? 
+DATA: The movement pattern within the cluster is not a naturally
+occurring phenomenon in the Newtonian sense. They appear to be alive. 
+RIKER: Can you explain why they're pulling us along with them? 
+LAFORGE: Somehow, they're able to polarise the graviton field as they
+move about. We're caught in the wake. 
+RIKER: How do we get out of it? 
+LAFORGE: Best idea for now is to try a controlled overload of the warp
+drive. Jump directly to warp six. The laws of a three-dimensional
+universe say it should work. Don't know about a two-dimensional
+universe though. 
+PICARD: Fascinating. So many questions. How can a two-dimensional
+entity have access to a three-dimensional universe? And are they aware
+of us? Number One, if we can put off the T'lli Betans, I would like to
+investigate this further as soon as we're free of the graviton field. 
+LAFORGE: It's a shame we can't tell if they're sentient. 
+TROI: What do you mean by that? I'm doing the best that I can. 
+PICARD: No one suggested otherwise, Counsellor. Mister Data, try to
+isolate any signal patterns from the cluster. Perhaps there'll be a
+basis for communication. Mister La Forge, we'll attempt your warp jump
+as soon as you're prepared. That'll be all. Counsellor 
+(but she's already out of the door)
+

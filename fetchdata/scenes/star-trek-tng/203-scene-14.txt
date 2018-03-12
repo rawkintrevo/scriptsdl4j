@@ -1,0 +1,50 @@
+RIKER WORF GUEST0 PICARD RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+PICARD: Ensign Ro, set a course, bearing one eight
+seven mark one zero two, one quarter impulse. 
+RO: Aye, sir. 
+RIKER: He's ordered us to withdraw? 
+WORF: The Cardassians are moving toward the Bajoran vessel, Captain. 
+PICARD: Hold present course. 
+WORF: The Bajoran ship has been destroyed. 
+DATA: Subspace signal coming from Starfleet, Captain. Admiral Kennelly.
+
+PICARD: On screen. 
+DATA: It is on a secure channel, sir. In your ready room? 
+PICARD: No. Here. On screen. 
+GUEST0 [on viewscreen]: Report. 
+PICARD: The Cardassians have destroyed the Bajoran ship, Admiral. 
+GUEST0 [on viewscreen]: All hands lost? 
+PICARD: No, sir. 
+GUEST0 [on viewscreen]: Survivors? 
+PICARD: No, sir. No one was on board. 
+GUEST0 [on viewscreen]: What are you talking about? 
+PICARD: The ship was controlled from the ground. Communication was
+handled through a subspace relay on board the vessel. 
+GUEST0 [on viewscreen]: This was your idea, Picard? 
+PICARD: Actually, no. It was Ensign Ro's idea but I fully endorsed it.
+I suspected that something like this might occur. 
+GUEST0 [on viewscreen]: They're terrorists, damn it. Why in the hell
+would you want to protect them? 
+PICARD: Admiral, I am more concerned with protecting the honour and
+integrity of Starfleet. 
+GUEST0 [on viewscreen]: Do you know how many of our people they
+killed on Solarion Four? 
+PICARD: The Bajorans did not attack Solarion Four. 
+GUEST0 [on viewscreen]: Who told you that? Orta? 
+PICARD: Yes. 
+GUEST0 [on viewscreen]: And you believed him? 
+PICARD: Admiral, Orta's ships are old and obsolete. They don't even
+have warp capabilities. They couldn't have reached another star system,
+let alone attacked one. 
+GUEST0 [on viewscreen]: But then who's responsible? 
+PICARD: I would suggest you ask your friend the Cardassian liaison,
+Admiral. The only explanation I can think of is that the Cardassians
+staged it. 
+GUEST0 [on viewscreen]: The Cardassians? Why? 
+PICARD: Perhaps they were hoping to find someone in Starfleet like you,
+Admiral, naive enough to solve their Bajoran problem for them.
+

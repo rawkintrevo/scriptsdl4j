@@ -1,0 +1,43 @@
+PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Batris Corridor]
+
+RIKER: Sir, I hate to break this up, but 
+[Bridge]
+
+PICARD: Oh, yes, of course, Number One. Proceed. 
+[Batris Corridor]
+
+RIKER: Let's go. 
+(As they move on, a conduit falls. This ship is ready to fall apart) 
+DATA: I am detecting high levels of deuterium gas, probably from the
+leakage in the drive system. 
+RIKER: Toxic? 
+DATA: Not as yet, sir. The life signs are emanating from the far side
+of Engineering. 
+RIKER: What's the safest way around? 
+DATA: All routes are equally dangerous, sir. 
+LAFORGE: Well, what's the least dangerous route, Data? 
+DATA: There is no significant difference. 
+RIKER: Steady on. 
+LAFORGE: Commander Riker! Commander. 
+RIKER: Yes, Geordi. 
+LAFORGE: There's a fissure developing in the bulkhead. The skin of the
+ship is losing its integrity. 
+RIKER: Where is it? I can't see it. 
+LAFORGE: Right there.
+
+[Bridge]
+
+PICARD: Geordi, step closer. It looks to me like a
+spectrograph indicating metal fatigue. 
+[Batris Corridor]
+
+PICARD [OC]: Is that how you interpret it? 
+LAFORGE: Very good, Captain. Exactly right. 
+RIKER: How long before this hull ruptures? 
+LAFORGE: It's impossible to be exact. I'd say five minutes. Probably
+less. 
+RIKER: Let's go.
+

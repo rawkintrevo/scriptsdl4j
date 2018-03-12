@@ -1,0 +1,38 @@
+PULASKI PICARD COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Shuttlebay]
+
+(Shuttlecraft Sakharov is being prepped for launch)
+
+DATA: You sent for me, Doctor? 
+PULASKI: I did, Commander. I assume that you're qualified to pilot this
+shuttlecraft. 
+DATA: Certainly. I took advanced training in the operation of auxiliary
+space vessels at Starfleet Academy, where I
+received 
+PULASKI: A more than passing grade, no doubt. Please, come aboard. We
+don't have much time. 
+COMPUTER: Shuttlebay three force field activated. 
+[Shuttlecraft]
+
+DATA: You're certain the Captain approved this,
+Doctor? 
+PULASKI: You'll take us a few hundred metres away from the Enterprise
+and hold position. 
+DATA: Begin shuttlecraft launch sequence.
+
+[Bridge]
+
+PICARD: Good luck, Doctor. 
+[Shuttlecraft]
+
+DATA: We are in position, Doctor. 
+PULASKI: It's the only way to prove they're harmless. 
+DATA: And if they are not? 
+PULASKI: I hate to keep reminding you, but you are a machine. You'll be
+perfectly safe. 
+DATA: That is by no means certain, Doctor, but I was referring to you. 
+PULASKI: Medical research is sometimes a risky business. It's all part
+of being human. Shall we proceed? 
+DATA: Ready to transport. 

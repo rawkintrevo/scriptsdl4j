@@ -1,0 +1,42 @@
+TROI DATA RIKER LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Troi's office]
+
+TROI: Come in. 
+RIKER: I don't have a psychology degree, but if you'd like to talk? 
+TROI: You know what the worst part of this is? And I've seen it happen
+to so many patients. 
+RIKER: What? 
+TROI: The way other people change. How they start to treat you
+differently. They walk on eggshells around you. Sometimes they avoid
+you altogether. Sometimes they become overbearing, reach out a helping
+hand to the blind woman. 
+RIKER: I'm sorry if I 
+TROI: I will not be treated that way! 
+RIKER: Hey! Imzadi. 
+TROI: Oh, please. 
+RIKER: Deanna, I've never seen you quite so scared. 
+TROI: I'm fine. If I get better, I get better. If I don't, I'll adapt.
+Life goes on. 
+RIKER: Deanna. 
+TROI: I really have to finish this. I have some appointments this
+afternoon.
+
+[Engineering]
+
+DATA: Probe launch successful. Telemetry
+transmissions are being received. 
+LAFORGE: Okay, let's see what we've got. Nothing unusual here. The same
+reading as the ship sensors. 
+DATA: Expanding analysis parameters. Including Bayesian functions,
+broad EM and subspace spectrum polling. 
+LAFORGE: No change. 
+DATA: I am adding virtual particle trajectories. 
+(now the image has things moving in it) 
+LAFORGE: Whoa. What is that? 
+DATA: Unknown. I am attempting to analyse motion pattern. Results still
+inconclusive. 
+LAFORGE: Last time I saw anything that looked like that, I was
+skin-diving off the coral reefs at Bracas Five.
+

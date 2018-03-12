@@ -1,0 +1,30 @@
+PICARD RIKER DATA WORF FELTON
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+DATA: Sir, as we move deeper into the nebula,
+sensors indicate that the levels of helium and trionium are continuing
+to rise. 
+PICARD: Is it something that the shields can't handle? 
+DATA: No, sir. We are well within tolerance levels. 
+(the ship shakes and the lights flicker) 
+PICARD: Mister Data? 
+DATA: Shields have registered an impact. 
+PICARD: But the sensors show nothing out there, right? 
+DATA: There is no indication of anything near the ship. 
+WORF: Forward velocity is dropping, Captain. Down by point four
+percent. 
+PICARD: Can we go to warp speed? 
+DATA: Until we determine the cause of the drag coefficient, I would not
+recommend it, sir. 
+WORF: Forward velocity down by one point one percent. 
+PICARD: Ensign, increase power to the impulse engines. 
+FELTON: Aye, sir. Impulse engines now at full power. 
+WORF: We are no longer losing speed. Forward velocity is holding
+steady. 
+DATA: The drag coefficient is still present, but it has stabilised. 
+PICARD: Bridge to Commander Riker. Check with Mister La Forge. See if
+he found anything in the matter sample from the nebula. 
+RIKER [OC]: On my way, sir.
+

@@ -1,0 +1,45 @@
+PICARD RIKER MCKNIGHT DATA OBRIEN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Shuttle]
+
+PICARD: Estimated distance to the nebula's
+perimeter? 
+DATA [OC]: Four point seven million kilometres, sir. 
+PICARD: Is there a way to transfer the microfusion thrusters so I can
+get a power boost? 
+DATA [OC]: Possibly. If you augment the thruster sequencing so that the
+inertial dampening fields 
+PICARD: Bearing two seven, make that two eight five, mark two five
+five!
+
+[Bridge]
+
+DATA: Commander, the shuttle is out of control. 
+RIKER: Mister O'Brien do you have the Captain's signal? 
+O'BRIEN [OC]: I'm having trouble locking on, sir.
+DATA: Sir, the shuttle's inertial dampeners have failed. It is breaking
+up. 
+RIKER: Let's get him out of there. 
+[Shuttle]
+
+(suffering under multiple g-force) 
+PICARD: Now would be a good time, Mister O'Brien. 
+[Bridge]
+
+(the shuttle goes boom!) 
+RIKER: Did we get him back? 
+O'BRIEN [OC]: Aye, sir, we got him. 
+PICARD [OC]: I'm a little dizzy, Number One, but none the worse. I'm on
+my way. 
+RIKER: Acknowledged, sir. 
+DATA: Commander, we are nearing the perimeter. One million kilometres
+away. 
+RIKER: All right, let's make a run for it. 
+MCKNIGHT: Aye, sir. 
+(they rush away from big blue. Picard enters) 
+RIKER: We're clear of the nebula, sir. 
+PICARD: Ensign, plot a course for Starbase two sixty, warp two. 
+MCKNIGHT: Aye, sir. 
+PICARD: Engage.
+

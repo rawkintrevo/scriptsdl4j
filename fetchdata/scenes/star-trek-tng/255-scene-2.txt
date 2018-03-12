@@ -1,0 +1,39 @@
+RIKER CRUSHER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Jefferies tube]
+
+LAFORGE: Something's wrong. Can't get my left leg
+to work.
+
+[Laboratory]
+
+RIKER: What is it? 
+CRUSHER: The probe is designed to respond to any movement Geordi
+intends to make. When his brain sends a message to move his leg, the
+interface should move the probe instead. 
+DATA: Apparently the tactile sensors are too low. I will increase the
+input. 
+[Jefferies tube]
+
+LAFORGE: There it goes. I'm on my way down.
+
+[Laboratory]
+
+RIKER: Why the body suit? 
+DATA: It provides tactile sensations so that Geordi can feel he's in
+the same environment as the probe. 
+(Geordi is 'walking' past a panel and sees the probe as his reflection.
+He leans forward to examine it) 
+CRUSHER: Geordi, what's wrong? 
+LAFORGE: Nothing. I'm seeing my reflection in a panel. 
+[Engineering]
+
+LAFORGE: I forgot what a handsome guy I am.
+
+Captain's log, stardate 47215.5. We are responding
+to a distress call from the science vessel Raman, which is apparently
+trapped inside the turbulent atmosphere of an unusual gas giant planet.
+We will use an experimental interface probe in our attempt to rescue
+it.
+

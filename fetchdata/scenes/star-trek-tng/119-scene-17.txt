@@ -1,0 +1,63 @@
+WESLEY GUEST4 COMPUTER GUEST0 MAN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Relva 7 Corridor]
+
+(Wesley is sitting nervously on a bench when Chang
+comes out of a room) 
+GUEST4: Mister Mordock will be finished with his psych test momentarily.
+
+(The door to room 101 opens, Mordock is shaking) 
+WESLEY: Mordock? Are you all right? 
+GUEST0: I will be. 
+GUEST4: Mister Crusher. You're next. Good luck.
+
+[Room 101]
+
+(A small room with bare walls and a single chair in
+the middle) 
+WESLEY: I'm here. I'm ready. (nothing) Maybe they forgot. Breathe. Got
+to remember to breathe. 
+(The sound of an explosion outside. Wesley goes to investigate)
+
+[Corridor]
+
+(There's a series of bangs, and the sound of a
+voice calling out) 
+COMPUTER: Evacuate immediately. Sixty five seconds to seal off. 
+WESLEY: Somebody help! There's something's wrong in the Environmental
+lab! 
+MAN [OC]: Help! 
+(Wesley opens the door)
+
+[Environmental Maintenance Laboratory]
+
+(There's steam from ruptured pipes) 
+MAN: Help! We're trapped. I can't move. Please, help me. 
+(Wesley sees him pinned under a piece of pipe) 
+MAN: We're going to die in here! 
+(There's a second man cowering in the corner) 
+MAN: The liquid hydrogen's going to blow! The shut off valve ruptured.
+Hurry up! My legs are crushed. You've got to help me! 
+(Wesley goes to lift the debris, and calls to the uninjured man in the
+corner) 
+WESLEY: Give me a hand with this! 
+MAN 2: We're going to die! 
+WESLEY: Help me! 
+MAN 2: I can't! It's too late! 
+COMPUTER: Thirty seconds to seal off. 
+(Wesley gets the pipe off the injured man) 
+WESLEY: Come on! 
+MAN: If we don't get out of here fast, they'll seal us in to contain
+the explosion. 
+WESLEY: (dragging the casualty) Come on, you're not hurt. 
+MAN 2: I can't go through that! 
+WESLEY: Yes, you can. You've got to. 
+COMPUTER: Twenty seconds to seal off. 
+WESLEY: Come on! I can't carry you both! You're not hurt. 
+COMPUTER: Ten seconds to seal off. 
+WESLEY: Come on! 
+MAN 2: It's too late. 
+(The doors are closing as Wesley drags the casualty out) 
+WESLEY: I'm sorry.
+

@@ -1,0 +1,71 @@
+TROI GUEST2 DATA KEIKO
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Arboretum]
+
+KEIKO: What? 
+DATA: I believe you made an incorrect analysis of the facts at hand. 
+KEIKO: What do you mean? 
+DATA: You do not seem happy. 
+KEIKO: Well 
+DATA: Your decision was based on the assumption that cancelling the
+wedding would bring you happiness. This has proved to be incorrect. 
+KEIKO: Data, it's not that simple. 
+DATA: Since your action did not produce the desired results, the only
+advisable solution should be to re-examine your decision making
+process, and look for errors. 
+KEIKO: I knew what I was doing. It's my decision. 
+DATA: That fact is not in dispute. However, you may have acted with
+undue haste and in doing so, unintentionally hurt Chief O'Brien's
+feelings. 
+KEIKO: I did what I had to! Why are you doing this? I thought you were
+my friend. 
+DATA: I am your friend. 
+KEIKO: Then leave me alone. 
+DATA: If I have offended. 
+KEIKO: Just leave me alone. 
+DATA [OC]: It is clear that I need guidance to resolve this situation.
+Counsellor Troi's advice should be useful.
+
+[Troi's office]
+
+DATA [OC]: In many ways, Deanna Troi is the friend
+that I understand the least. Her life and her duties are predicated on
+her understanding and perception of emotions. Since I have none, no
+doubt she finds me as much of a mystery as I find her. 
+DATA: Chief O'Brien talks to me. Keiko talks to you. Why do they not
+talk to each other? 
+TROI: That's a good question, Data. I wish I had a good answer for you.
+Perhaps when they're ready, they will. 
+DATA: Many aspects of this situation are puzzling to me. I have been
+studying various texts on the subject of marriage, but I have not found
+a suitable guide. 
+TROI: A suitable guide for what? 
+DATA: In an effort to be helpful, I am attempting to calculate the
+variables involved in a successful marriage. 
+TROI: Good luck. 
+DATA: There are many opinions. On Galvin Five, a marriage is considered
+successful only if children are produced within a year of the wedding.
+Andorian marriages require groups of four people unless 
+TROI: Data, would you like my advice on how to help them? Don't. This
+is something they have to work out for themselves. 
+DATA: But I am their friend. Should I not stand with them in a time of
+difficulty? 
+TROI: There are many ways to help a friend, and sometimes the best way
+is to leave them alone. 
+DATA: Do you believe it to be the right decision for them to marry? 
+TROI: I don't know. They're very much in love, but sometimes that isn't
+enough. Marriage is an agreement to share who you are with someone
+else. To spend your lives together. To grow old together. 
+DATA: To grow old together? That is an integral component of marriage? 
+TROI: Usually. Why do you ask? 
+DATA: Although I am an android, I have not excluded the possibility
+that I, too, may someday marry. 
+TROI: Data, I had no idea you'd thought about getting married. 
+DATA: I believe I have much to offer a potential mate. However, we
+cannot grow old together because I will not grow old. 
+TROI: Data, you do have a lot to offer. 
+T'PEL [OC]: Commander Data, this is Ambassador T'Pel. Please report to
+my quarters. 
+DATA: Acknowledged.
+

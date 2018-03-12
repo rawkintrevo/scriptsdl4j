@@ -1,0 +1,68 @@
+RIKER LAFORGE WORF PICARD CRUSHER DATA GUEST5
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+RIKER: Captain, we've received communication from
+the freighter Lalo, as well as from a farming colony on Coltar Four.
+Both described the same time distortion. The Captain of the Lalo
+described it a hiccup. 
+PICARD: Hiccup? 
+DATA: Actually sir, that may be an incorrect analogy. 
+PICARD: How so, Data? 
+DATA: A hiccup is a spasmodic inhalation with closure of the glottis.
+accompanied by a peculiar sound. If we were to continue this analogy to
+a body function, what occurred would be best represented by a 
+PICARD: That's enough, Data. Have you been able to learn more specifics
+about the Manheim project? 
+DATA: All I have found sir, is what you already know. Manheim was
+concentrating on time gravity experiments when he left. 
+LAFORGE: Captain, we've reached the coordinates specified. There's
+nothing here. 
+WORF: I'm receiving new coordinates. It's a relay signal. Same source
+as the first one. 
+LAFORGE: What are they, Worf? 
+WORF: Six six four point eight by one three two three point seven by
+four nine four nine point nine. 
+LAFORGE: Very remote area, sir. It's in the middle of the Vandor
+system, a binary star system. Main star's a B class giant, the
+companion star's a pulsar. 
+PICARD: Set course for the new coordinates, Mister La Forge. 
+LAFORGE: Aye, sir. 
+RIKER: Why is he making it this difficult to find him? 
+PICARD: Hopefully he'll tell us, Number One. 
+(Later) 
+LAFORGE: We have reached the coordinates, Captain. 
+DATA: Sensors indicate it is Vandor Four, a planetoid in elliptical
+orbit around the binary system. 
+PICARD: Standard orbit, Mister La Forge. 
+LAFORGE: Aye, sir. 
+PICARD: Give me a visual. 
+WORF: Viewscreen on. There's a small forcefield on the planet. Latitude
+twenty degrees, nine minutes north. Longitude forty degrees, two
+minutes east of the present terminator. 
+PICARD: Penetrable? 
+DATA: No, sir. 
+PICARD: Open hailing frequencies. 
+WORF: Hailing frequencies open, sir. 
+PICARD: This is Captain. This is the Captain of the USS Enterprise
+responding to your signal for help. 
+GUEST5 [OC]: Enterprise, thank you for hearing us. Where are you? 
+PICARD: We're in orbit around Vandor now. 
+GUEST5 [OC]: Then you can help me. I don't know what to do. It's only
+the two of us left. He's having convulsions. Please. 
+PICARD: Can you lock on to her coordinates? 
+LAFORGE: No, sir. The forcefield is preventing any kind of contact
+other than audio. 
+PICARD: There is a force field at your location. 
+GUEST5 [OC]: Yes. I know. 
+PICARD: Good. But it is preventing us from helping you. Now, you must
+find some way to shut it down. 
+GUEST5 [OC]: I'll try. 
+WORF: Force field is off. 
+PICARD: Good. Lock onto their coordinates. Beam them up directly to
+Sickbay. Doctor Crusher, prepare for a Medical Emergency. Two to beam
+directly up to Sickbay. 
+CRUSHER [OC]: We'll be ready, Captain. 
+PICARD: That's where I'll be. Number One. Mister Data.
+

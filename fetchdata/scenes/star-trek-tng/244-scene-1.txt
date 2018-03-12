@@ -1,0 +1,32 @@
+TROI CREWMAN PICARD RIKER CREWWOMAN CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Corridor]
+
+CREWWOMAN [OC]: Attention personnel on decks
+fourteen and fifteen. Your transporter
+room assignment has been changed. Report to transporter room three. 
+TROI: Captain. We're still behind schedule on decks seven and eight.
+Shall I tell Arkaria Base there'll be a delay? 
+PICARD: No. Open up the transporters in Cargo bay two and divert
+everyone from deck seven to there. That should put it back on track. 
+TROI: Right. 
+CREWMAN [OC]: All beta shift Engineering personnel are requested to
+report to main Engineering prior to disembarking. 
+CRUSHER: Captain. Arkaria Base does not have the medical storage units
+I have requested. I have seven living tissue samples that won't survive
+the baryon sweep anymore than you or I would. I've tried to reason with
+them, but 
+PICARD: All right, all right. Have Commander LaForge transport a stasis
+unit from the astrophysics lab. You should be able to convert it to
+store tissue samples. 
+CRUSHER: Thank you, Captain. 
+CREWWOMAN [OC]: All science personnel. Please check in with your
+section chief for station-side duty assignments. 
+RIKER: Captain. (comes out of turbolift) I was just heading for deck
+seven. I've put the auto-shutdown sequence on hold until we get back on
+schedule. 
+PICARD: Oh, I think we can resume the sequence. Counsellor Troi is
+taking care of the situation on deck seven. 
+RIKER: Aye, sir.
+

@@ -1,0 +1,44 @@
+RIKER LAFORGE WORF COMPUTER CREWWOMAN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+(working at the rear science stations) 
+WORF: I cannot understand the patterns. 
+LAFORGE: Neither can I. 
+DATA: Please show me the spectral analysis magnification twelve K. 
+COMPUTER: Silicon. Germanium. 
+DATA: Transistor material. 
+COMPUTER: Gallium arsenide. 
+LAFORGE: Emits light when charged. 
+COMPUTER: Cadmium selenide sulfide. 
+DATA: Emits charge when lit. 
+COMPUTER: Water, impurities, sodium salts. 
+WORF: Conductor. But is it alive?! 
+COMPUTER: Probability positive. 
+WORF: I wasn't asking you. 
+CREWWOMAN [OC]: Engineering to Bridge. 
+RIKER: This is Commander Riker, go ahead. 
+[Engineering]
+
+CREWWOMAN: The backup on the lab seal is
+fluctuating, sir. I think you should come down here. 
+[Bridge]
+
+RIKER: On my way. Data, you've got the Bridge.
+Inform the Captain.
+
+[Engineering]
+
+RIKER: Status, Ensign? 
+CREWWOMAN: The quarantine seal is getting weaker. Every time I try to
+redirect backup it goes somewhere else. I think I've. No, it's locked
+three people in a turbolift and two more in the programmers' rest room.
+
+RIKER: If that reading is right, there is no seal. Give me lab interior
+image. 
+CREWWOMAN: Yes, sir. 
+RIKER: Magnify. 
+(The bell jar flares again, and the light gets brighter and pulses more
+quickly) 
+RIKER: Picard, this is Riker. 

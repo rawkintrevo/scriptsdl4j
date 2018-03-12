@@ -1,0 +1,34 @@
+PICARD RIKER GUEST5 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Romulan Engineering]
+
+GUEST5: We're ready, Commander. 
+RIKER: Riker to Enterprise. Begin power transfer. 
+(a beam comes from the Enterprise and the light come back on) 
+GUEST5: The power flow is consistent at four hundred kolems. No
+fluctuations in frequency. The main power grid is online. 
+PICARD [OC]: Picard to Riker. 
+RIKER: Riker here. Power transfer appears stable at this end, Captain. 
+PICARD [OC]: Good.
+
+[Bridge]
+
+PICARD: What is the status of the engine
+replacement? 
+RIKER [OC]: Engineering is modifying one of our subspace resonators to
+act as a new engine core. It won't do more than warp two, but it'll get
+them home. 
+PICARD: Very well. 
+DATA: Captain. The diagnostic of the transporter system shows an
+anomalous energy fluctuation. I will need to inspect the imaging
+scanner in transporter room three. 
+PICARD: By all means. 
+DATA: Captain? I have a personal favour to ask. I considered Commander
+La Forge to be my best friend. I believe it is my responsibility to
+plan and conduct the memorial service. May I have your permission to do
+so? 
+PICARD: Permission granted. Make whatever arrangements you think are
+appropriate. 
+DATA: Thank you, sir.
+

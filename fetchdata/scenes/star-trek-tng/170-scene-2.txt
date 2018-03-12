@@ -1,0 +1,51 @@
+RIKER LAFORGE WORF PICARD WESLEY GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+RIKER: Why didn't the containment field hold? 
+LAFORGE: Unknown, Commander. 
+PICARD: Hail the Jovis. I want to speak with Kivas Fajo. 
+WORF: Sir, Mister Fajo is hailing us. 
+PICARD: On viewer. 
+GUEST1 [on viewscreen]: Captain Picard, what happened? 
+PICARD: It's unclear. We're running a full analysis. 
+GUEST1 [on viewscreen]: We detected no malfunctions before the explosion.
+Everything seemed to be running as smoothly as the other flights. Were
+you able to save the pilot? 
+PICARD: No. 
+GUEST1 [on viewscreen]: I'm sorry. 
+PICARD: Mister Fajo, I would like to analyse your sensor readings of
+the explosion. 
+GUEST1 [on viewscreen]: Compared to the Enterprise's, our sensors are
+rather primitive. I doubt they contain any information that your
+sensors overlooked. 
+PICARD: Perhaps, but I don't want to leave any avenue unexplored. 
+GUEST1 [on viewscreen]: I understand. We'll transmit the information. 
+WORF: Link established. Receiving. 
+GUEST1 [on viewscreen]: Can we be of any further assistance? 
+PICARD: How much hytritium did we manage to bring on board? 
+RIKER: Eighty one kilos. 
+LAFORGE: That will barely allow us to complete our mission, Captain,
+but it leaves us no margin for error. 
+PICARD: Mister Fajo, I realise we have acquired your complete supply of
+hytritium. Do you know where we could obtain some more? 
+GUEST1 [on viewscreen]: That may be difficult. The only source I know is
+in the Sigma Erani system. 
+RIKER: Three weeks away, sir. 
+GUEST1 [on viewscreen]: And I can't guarantee they'll have any. For
+obvious reasons, no one wants to keep it around. In fact, even I may
+stop selling it. It's just too dangerous. 
+RIKER: I guess we're fortunate you had any at all, sir. 
+WORF: Captain, transfer of information complete. 
+PICARD: Mister Fajo, thank you for your help. 
+(transmission ends) 
+PICARD: Mister Crusher, set a course for the Beta Agni Two system, warp
+six. 
+WESLEY: Aye, sir. 
+RIKER: The Grissom is near the Sigma Erani system. I'll alert them to
+stand by in case we need more hytritium. 
+PICARD: Thank you, Number One. 
+WESLEY: Course laid in, sir. 
+PICARD: Engage.
+

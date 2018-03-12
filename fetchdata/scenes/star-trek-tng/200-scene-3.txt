@@ -1,0 +1,45 @@
+PICARD RIKER DATA GOWRON WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+PICARD: Mister Worf, would you escort our guest to
+the transporter room? 
+(Worf and Gowron enter the turbolift) 
+PICARD: Begin monitoring Romulan activity along the Neutral Zone,
+Mister Data. Have the outpost stations send us their tactical reports. 
+DATA: Aye, sir. 
+PICARD: The Duras family are preparing to move against Gowron. 
+RIKER: Backed by Romulans? 
+PICARD: I don't know. But there is too much history between the Duras
+and the Romulans to discount the possibility.
+
+[Transporter room]
+
+WORF: Dismissed. 
+(the transporter technician leaves) 
+WORF: I would speak with you. 
+GOWRON: I do not hear the words of traitors. 
+WORF: I am not a traitor. 
+GOWRON: You admitted your guilt before the Council. 
+WORF: I accepted discommendation to protect the Empire. 
+GOWRON: Protect it? How? 
+WORF: It was Duras' father who betrayed our people to the Romulans at
+Khitomer, not mine. 
+GOWRON: Duras? There is proof of this? 
+WORF: There is. 
+GOWRON: Why would you accept dishonour to protect Duras? 
+WORF: His family was too powerful. To expose him would have split the
+Empire. Instead, the Council chose to blame my father. 
+GOWRON: The Council knew? 
+WORF: I believe you to be a man of honour, Gowron. I ask you, restore
+my family name. 
+GOWRON: Worf, you killed Duras. I consider that no small favour. But
+what you ask is impossible. 
+WORF: But after your installation 
+GOWRON: The grasp of Duras reaches out from the grave. Much of the
+Council is still loyal to his family. I must have the Council's support
+to survive. I cannot expose their treachery. You chose to accept this
+disgrace for the good of the Empire. Now you must live with your
+decision, like a Klingon.
+

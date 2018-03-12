@@ -1,0 +1,36 @@
+PICARD TROI DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Runabout cockpit]
+
+DATA [OC]: Further energy emissions. 
+PICARD: When time resumed, did you observe any activity in the engine
+room that might 
+[Romulan Engineering]
+
+PICARD [OC]: Suggest what the Romulans were doing? 
+DATA: They may have been attempting to eject their engine core. 
+TROI: I thought I heard one of the Engineers say something about a
+power transfer. Something about an energy feedback. 
+LAFORGE: Yes, Captain. It looks to me like they were trying to stop
+whatever was happening here. 
+PICARD [OC]: Mister La Forge 
+[Runabout living section]
+
+PICARD: From where you are, can you determine
+what's happening on the Romulan Bridge? 
+[Romulan Engineering]
+
+LAFORGE: I think so, Captain. Wait. Something's not
+right here. Data, was this man always standing right here. 
+(the Romulan grabs Geordi, there's an energy flash and they both fall.
+Geordi is convulsing) 
+TROI: He's in neural shock, 
+DATA: We must get him to the runabout. 
+TROI: There isn't time. He's dying. 
+(she takes Geordi's armband off) 
+TROI: At least this way, he'll be alive in the other time frame. We
+might have a chance to save him later. Is the Romulan still alive? 
+DATA: Yes, but I am getting unusual readings from his bioscan. I am not
+sure he is a Romulan.
+

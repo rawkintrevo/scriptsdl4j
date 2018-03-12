@@ -1,0 +1,46 @@
+RIKER WORF PICARD GUEST3 GUEST0 CREWWOMAN GUEST5 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+DATA: The Ferengi report their containment field is
+collapsing. 
+WORF: Within visual range, Captain. 
+PICARD: On screen. 
+DATA: Their reactor core is unstable, Captain. 
+PICARD: How many on board? 
+DATA: Two, sir. 
+RIKER: Bridge to transporter room three. Boost your output and lock on
+to the two Ferengi on board the shuttle. 
+[Transporter room]
+
+RIKER [OC]: We may need to attempt a long range
+transport. 
+CREWWOMAN: Standing by. 
+[Bridge]
+
+(there's an explosion on the shuttle) 
+PICARD: Energise. 
+(KaBOOM)
+
+[Transporter room]
+
+GUEST0: Got them, sir. 
+(one of whom - Lenor - is Max Grodenchik, practising to play Quark's
+idiot brother, Rom)
+
+[Bridge]
+
+RIKER: Mister Worf, escort our Ferengi guests to
+quarters. Not too close to mine. 
+WORF: Understood.
+
+[Corridor]
+
+WORF: Unless you can arrange your own transport,
+you will have to remain on the Enterprise until we complete our
+mission. 
+GUEST5: That will not be a problem. 
+GUEST3: We are in no hurry. 
+GUEST5: We look forward to enjoying the comforts of your fine ship. 
+

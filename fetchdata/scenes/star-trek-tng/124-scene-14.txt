@@ -1,0 +1,34 @@
+GUEST2 TROI COMPUTER GUEST5 PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Outside Holodeck]
+
+(Troi and Jenice step out of the turbolift next to
+the holodeck door) 
+TROI: Computer, this is Counsellor Troi. Request access. 
+COMPUTER: Do you wish to terminate the current programme? 
+TROI: No, continue the programme. 
+COMPUTER: Enter when ready. 
+TROI: The Captain is waiting for you inside. 
+[Cafe des Artistes]
+
+GUEST5: How is this possible? It's Paris.
+Unbelievable. 
+GUEST2: Madame, this way. The Captain is waiting for you. 
+(The wine is on ice) 
+GUEST5: This is so real. 
+GUEST2: Bien sur. Pourquoi pas? 
+GUEST5: Jean-Luc, don't tell me how you did it. I don't care. It's
+perfect. It's as if we were really there. 
+PICARD: I wanted to say goodbye properly this time. I shall always
+picture you here. 
+(They toast each other) 
+GUEST5: I expect you to always come charging to my rescue. 
+PICARD: I'll do my best. 
+GUEST5: Goodbye, Jean-Luc. Be well. 
+PICARD: And you. 
+GUEST5: Thank you for Paris. 
+(She walks away, but) 
+GUEST5: Well, so much for my dramatically romantic exit. 
+(The door appears and opens)
+

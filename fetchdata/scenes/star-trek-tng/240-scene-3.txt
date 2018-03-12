@@ -1,0 +1,60 @@
+GUEST0 PICARD RIKER CRUSHER WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Corridor]
+
+WORF: The man acted dishonourably. He is a traitor.
+
+CRUSHER: He risked his life to get here. He spent two weeks alone in a
+scout ship. 
+WORF: That does not excuse his original actions. 
+[Transporter room]
+
+CRUSHER: Well, maybe he finally realised he made a
+mistake. 
+RIKER: It's twenty years too late. Energise. 
+(a man in a Romulan uniform is beamed in) 
+RIKER: Ensign DeSeve, by order of Starfleet Command I am placing you
+under arrest for treason. 
+GUEST0: I understand. 
+RIKER: After Doctor Crusher declares you medically fit, you will be
+confined to your quarters until a court martial can be convened. Find
+some civilian clothes. I don't want to see you in that uniform. 
+GUEST0: Yes, sir. Commander, I must speak with Captain Picard. 
+RIKER: He's a busy man. 
+GUEST0: Please, it's important. Urgent. 
+RIKER: I'll tell him.
+
+[DeSeve's quarters]
+
+GUEST0: Commander. 
+PICARD: At ease. It's Captain, actually. 
+GUEST0: Of course. I'm sorry, sir. 
+PICARD: You said it was important that I see you. 
+GUEST0: Yes, Captain. I have a message from Ambassador Spock. He said
+it involves further cowboy diplomacy. He said you would understand.
+There's a Corvallen freighter arriving in the Kaleb sector in the next
+twelve hours. Spock wants you to rendezvous with that ship, bring its
+cargo back to Federation space. 
+PICARD: What kind of cargo? 
+GUEST0: He said it was important to the future of the Romulans and the
+Federation. 
+PICARD: You have returned in order to give me this message? 
+GUEST0: Partly. 
+PICARD: In order to know whether Ambassador Spock's message is being
+delivered accurately, I need to understand something about the
+messenger. 
+GUEST0: I was ready to come back. Romulus had lost its appeal. 
+PICARD: Yet at one time you found something very appealing about it. 
+GUEST0: The Romulans are very moral, Captain. They have an absolute
+certainty about what is right and what is wrong, who is a friend and
+who is an enemy, a strict moral compass which provides them with a
+clarity of purpose. At one time I found their sense of purpose, their
+passion and commitment, to be very compelling. 
+PICARD: But not any more? 
+GUEST0: As I've grown older, I realise that clarity of purpose is a
+more ambiguous matter than I had thought in my youth. 
+PICARD: Commander Riker, set course for the Kaleb sector, warp factor
+eight. 
+RIKER [OC]: Aye-aye, sir.
+

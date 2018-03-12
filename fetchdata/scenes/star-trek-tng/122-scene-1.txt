@@ -1,0 +1,45 @@
+RIKER LAFORGE WORF TASHA PICARD GUEST1 GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+WORF: Routine deep sensor probe indicates no
+obstacles or vessels within a range of three light years. 
+TASHA: Confirm. 
+WORF: The martial arts competition is in three days. Are you prepared? 
+TASHA: I will be if you'll meet me on the holodeck later. I need your
+help on the Mishiama wrist-lock and break. If it works on you, I can
+use it on anyone. 
+WORF: A valid assumption. Who is your first competitor? 
+TASHA: Science Officer Swenson. 
+WORF: You will defeat him easily. 
+TASHA: I'm more concerned with Lieutenant Minnerly's kick boxing. 
+WORF: You are favoured in the ship's pool. 
+TASHA: You bet on me? 
+WORF: A sure thing. 
+LAFORGE: Captain, estimated rendezvous with the shuttle in one hour and
+ten minutes. 
+PICARD: Thank you, Lieutenant. 
+LAFORGE: Aye, sir. 
+PICARD: It'll be good to have Counsellor Troi back, won't it, Number
+One? 
+RIKER: It certainly will. 
+WORF: Sir, I'm receiving an emergency transmission from the shuttle. 
+PICARD: On main viewer. 
+TASHA: I can't, sir. We're receiving audio only. 
+PICARD: Open the frequency. 
+TASHA: Aye, sir. 
+GUEST1 [OC]: What a jolt! 
+RIKER: Position report. 
+GUEST1 [OC]: Sir, I have an onboard systems failure. You'll have to
+tell me where I am. 
+LAFORGE: I read your coordinates at three seven zero point two three
+six. Confirm. 
+GUEST1 [OC]: I can't confirm. My instruments are haywire. 
+PICARD: Lieutenant Prieto, is Counsellor Troi all right? 
+GUEST1 [OC]: Yes, sir. Just a little shaken. We're being buffeted a
+bit. Losing more power! My flight control computer's fried. 
+PICARD: Main Engineering. 
+GUEST2 [OC]: Lieutenant Commander Leland T. Lynch here, sir. 
+PICARD: How long before we can return to warp power? 
+

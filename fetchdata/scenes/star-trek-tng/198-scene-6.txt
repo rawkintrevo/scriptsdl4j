@@ -1,0 +1,61 @@
+RIKER LAFORGE WORF KELL PICARD TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Shuttlebay]
+
+(Geordi is unloading shuttle Onizuka) 
+DATA: Welcome back, Geordi. 
+LAFORGE: Data! 
+DATA: How was the seminar? 
+LAFORGE: Very informative. I'll tell you all about it.
+
+[Corridor]
+
+DATA: It is fortunate we were able to coordinate
+your return on the Teldarian cruiser. 
+LAFORGE: Yeah, when I heard the Enterprise had been ordered to the
+Krios system, I thought I might be forced to endure another couple of
+weeks on Risa. 
+DATA: I am sorry to hear you did not enjoy yourself. 
+LAFORGE: I was joking. 
+DATA: Joking? Ah. Forced to endure Risa. Your actual intent was to
+emphasise that you did enjoy yourself. Yes, I see how that could be
+considered quite amusing. 
+LAFORGE: I missed you, Data. 
+[Bridge]
+
+PICARD: Commander La Forge. 
+LAFORGE: Permission to come aboard, sir. 
+PICARD: Granted. Welcome back. 
+LAFORGE: Thank you, sir. 
+PICARD: Commander La Forge is my Chief Engineer. 
+KELL: Commander. 
+PICARD: He's has been attending a seminar on artificial intelligence on
+Risa. 
+RIKER: I'm glad we got you back, Geordi. We're going to need your help
+on this. 
+LAFORGE: Data tells me that the Federation has been accused of aiding
+Kriosian rebels. 
+PICARD: We're to be presented with evidence today. We'll need your help
+in analysing it. 
+LAFORGE: Anything I can do. 
+(walking to the turbolift) 
+TROI: You had a good time. 
+LAFORGE: Does it show? 
+TROI: You're more relaxed than I've ever seen you. 
+(Geordi and Troi enter the turbolift) 
+WORF: Captain, Governor Vagh has signalled he is ready to meet with
+you. 
+PICARD: Very well. Advise him that we will transport sown to the
+surface immediately. Ambassador. 
+(Picard and Kell leave) 
+DATA: Commander Riker. 
+RIKER: What is it, Data? 
+DATA: Our sensors have detected a brief energy fluctuation in the
+E-band. 
+RIKER: E-band? That's unusual. What's the source? 
+DATA: Unknown, sir. E-band emissions are difficult to localise. 
+RIKER: Collapsing protostars sometimes emit E-band bursts. 
+DATA: Yes, sir. However, there are no protostars in this sector. 
+RIKER: You'd better run a complete scan. Keep me posted. 
+DATA: Yes, sir. 

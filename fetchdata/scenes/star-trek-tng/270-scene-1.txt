@@ -1,0 +1,60 @@
+RIKER GUEST3 LAFORGE WORF PICARD COMPUTER GUEST4 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+  [Bridge]
+
+DATA: We are losing containment in the starboard
+nacelle tube. 
+PICARD: Try to get more power to the field coils. 
+DATA: Aye, sir. 
+PICARD: Mister La Forge.
+
+[Engineering]
+
+PICARD [OC]: Report. 
+LAFORGE: I can't shut down the plasma injectors. Somebody's locked out
+the controls.
+
+[Bridge]
+
+DATA: The plasma venting system has engaged.
+
+[Jefferies tube]
+
+(climbing ladders) 
+WORF: Two more decks. 
+RIKER: Riker to Bridge. We've almost reached the nacelle tube. 
+PICARD [OC]: Acknowledged.
+
+[Bridge]
+
+PICARD: Release the exterior hull plate. We may
+have to jettison the core. 
+DATA: Aye, sir. 
+[Nacelle control]
+
+(there is a man poised to jump into the plasma) 
+RIKER: What happened? 
+GUEST4: (alien woman) He locked out the controls. Before we knew what was
+happening, he stepped up onto the walkway. 
+RIKER: (to Worf) See if you can help shut down the plasma flow. 
+GUEST4: I'm afraid if we try to get any closer, he will jump through the
+forcefield. 
+RIKER: Dan, it's me. It's Will Riker. I was here yesterday, remember? 
+GUEST3: (alien man) I didn't want to do it. But I saw them. And they
+laughed at me. They laughed. 
+(Riker is on the walkway) 
+RIKER: Whatever happened, we can talk about it. I want to help. 
+GUEST3: Stay away! 
+RIKER: I just want to see your face, that's all. So we can talk. 
+GUEST3: I know what I have to do. 
+RIKER: Dan, no! 
+WORF: I have unlocked the controls. 
+COMPUTER: Shutdown procedure initiated. 
+GUEST4: There's still plasma in the injector. It'll take time to vent
+off. 
+RIKER: Tell me what happened. Maybe I can help. 
+GUEST3: I know what I have to do. 
+(and he jumps into the plasma stream. Riker hits the bulkhead in anger
+and frustration and despair)
+

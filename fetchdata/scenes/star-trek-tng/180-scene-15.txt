@@ -1,0 +1,44 @@
+GUEST2 DATA CRUSHER ISHARA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+DATA: Ishara. 
+ISHARA: Thank you, Data. 
+DATA: You are welcome. Doctor Crusher is expecting you in Sickbay. 
+ISHARA: It's all so different. 
+DATA: To what are you referring? 
+ISHARA: On the colony, nobody does anything for anyone else unless they
+have something to gain from it. 
+DATA: But I do have something to gain from it. Your continued presence
+on this ship. Is something wrong? 
+ISHARA: I have to tell Hayne and the others. I owe it to them. Guess I
+ought to get it over with. 
+DATA: If you desire privacy, you may use the Observation lounge. 
+ISHARA: That would probably make things a little easier. 
+(she gives Data a little kiss on the cheek) 
+
+[Observation lounge]
+
+GUEST2 [on monitor]: Report. 
+ISHARA: It's working.
+
+Captain's log, stardate 44225.3. Doctor Crusher has
+successfully removed Ishara's magnetic implant, enabling the young
+woman to guide
+our rescue attempt. Without my intending it, she has virtually become
+an active member of the crew.
+
+[Sickbay]
+
+CRUSHER: Cardiovascular functions normal.
+Metabolism, immunity, all other vital signs excellent. How do you feel?
+
+ISHARA: Better than I've ever felt. (to Data) Thanks for staying with
+me. 
+CRUSHER: You might want to keep this. It's been with you a long time. 
+(Beverly hands her the implant, and leaves.) 
+ISHARA: You keep it, Data, so you won't forget me. 
+DATA: Have you reconsidered your decision to stay with us? 
+ISHARA: No. Just in case something goes wrong down there.
+

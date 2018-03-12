@@ -1,0 +1,47 @@
+LAFORGE GUEST0 MEDIC GREBNEDLOG GUEST1 REGINOD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Pakled ship]
+
+GREBNEDLOG: You are smart. 
+LAFORGE: Not smart enough. I'm still here. 
+GREBNEDLOG: Make us strong. 
+LAFORGE: I thought you wanted me to help you go. Why don't we work on
+that guidance system, okay? 
+GREBNEDLOG: Make us strong, or die.
+
+[Starbase 515 Operating Theatre]
+
+GUEST1: It's not working. Something's wrong. The
+metabolation occlusions aren't holding. Damn it! I can't stop the
+heterocyclic declination. Fuse. 
+(laser beams fire down) 
+GUEST1: Again! We need a biomolecular physiologist in here. This man
+is dying. 
+MEDIC: Right away, sir.
+
+[Pakled armoury]
+
+LAFORGE: You've got to be kidding. 
+GREBNEDLOG: Make us strong. 
+LAFORGE: Come on. There's not enough juice in these to blow up a
+passing asteroid. 
+GREBNEDLOG: Do it. Make us strong. 
+LAFORGE: I suppose we could increase the anti-matter charges. 
+REGINOD: Yes. We like power. 
+LAFORGE: Yeah. 
+GREBNEDLOG: Do not try to trick us. We can tell.
+
+[Starbase 515 Operating Theatre]
+
+(The specialist has been dragged in from the golf
+course) 
+GUEST0: Metabolation? 
+GUEST1: Negative. 
+GUEST0: Heterocyclics? 
+GUEST1: Failing. And capillary integrity too unpredictable to attempt
+a resect. 
+GUEST0: You're unwilling to make the attempt?? 
+GUEST1: I'm not qualified. 
+GUEST0: I know someone who is.
+

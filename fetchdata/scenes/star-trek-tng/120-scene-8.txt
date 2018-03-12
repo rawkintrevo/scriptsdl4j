@@ -1,0 +1,32 @@
+KORRIS WORF PICARD GUEST0 NURSE CRUSHER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Guest Quarters]
+
+KORRIS: Sit, friend. Let us eat. 
+GUEST0: (to replicator) O'Mat gri tea and piviots. (a tray with a
+bottle and food arrives) 
+KORRIS: I did not know there were Klingons serving on human Starfleet
+vessels. 
+WORF: As far as I know, I am the only one. 
+KORRIS: Tell me, what it is like for the hunter to lie down with the
+prey? Have they tamed you, or have you always been docile? 
+GUEST0: Does it make you gentle? Has it filled your heart with peace? 
+KORRIS: Do glorious battles no longer inspire your dreams? 
+WORF: Why do you mock me? Why do you wish to anger me? 
+KORRIS: Only to see if it is still possible. 
+WORF: It is.
+
+[Sickbay]
+
+NURSE: Doctor! I think you'd better come and look
+at this. The Klingon's condition is worsening. 
+CRUSHER: He's convulsing. Get the hypospray. 
+[Guest Quarters]
+
+(The guests are finishing their meal) 
+PICARD [OC]: Commander Korris, this is Captain Picard. 
+KORRIS: Yes, Captain. 
+PICARD [OC]: I am sorry to report your comrade's injuries are beyond
+our medical abilities.
+

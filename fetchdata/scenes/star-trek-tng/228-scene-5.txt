@@ -1,0 +1,45 @@
+RIKER LAFORGE PICARD GUEST0 DATA BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[USS Yosemite Bridge]
+
+LAFORGE: Reg. Welcome aboard. You ready to work? 
+BARCLAY: Yes, sir. 
+LAFORGE: Good. Why don't you start by downloading the ship's science
+logs over there. 
+BARCLAY: Aye, sir. 
+RIKER: Still four members of the crew unaccounted for. Did you come up
+with anything? 
+LAFORGE: I don't know how these fit in, but I found them all around the
+transporter platform. 
+RIKER: What are they? 
+LAFORGE: They look like pieces of a standard sample container. 
+RIKER: Take them back to the ship, analyze them there. Mister Barclay.
+Glad you could join us. 
+BARCLAY: Me too, sir.
+
+[Ready room]
+
+GUEST0 [on monitor]: The Ferengi are claiming two of
+their freighters were destroyed by a Cardassian warship in your sector.
+
+PICARD: Is there any evidence to support this? 
+GUEST0 [on monitor]: Although I'm loathe to believe the Ferengi about
+anything, there was evidence of Cardassian weapons. If the Cardassians
+also attacked the Yosemite, it could indicate a large scale movement
+into this sector. 
+PICARD: I have an away team on board the ship. The initial report
+indicates there was an explosion on board, but we're not sure if it was
+from an attack. 
+GUEST0 [on monitor]: How soon until you know? 
+PICARD: A few hours. If it looks like Cardassians, I'll contact you
+immediately. 
+GUEST0 [on monitor]: Very well. 
+(transmission ends) 
+DATA [OC]: Bridge to Captain Picard. 
+PICARD: Go ahead, Mister Data. 
+DATA [OC]: The away team is returning to the Enterprise, sir. 
+PICARD: Acknowledged. Have Commander Riker come to my Ready room as
+soon as he's on board. 
+DATA [OC]: Aye, sir.
+

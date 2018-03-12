@@ -1,0 +1,40 @@
+RIKER LAFORGE CREWMAN PICARD STUBBS DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+RIKER: Manual restart sequence. 
+LAFORGE: Manual restart successful. Impulse engine functions all appear
+normal. 
+PICARD: Proceed. 
+RIKER: Shuttlebay two, open hangar door. 
+CREWMAN [OC]: Aye, sir. 
+[Shuttlebay]
+
+CREWMAN: Door did not respond. 
+[Bridge]
+
+CREWMAN [OC]: Repeating sequence. 
+(Then loud music comes over the ship's speakers) 
+PICARD: What in heaven's name? 
+DATA: It is 'Stars and Stripes Forever'. sir, by John Phillip Sousa, a
+popular American composer of band music in the early twentieth century.
+
+PICARD: Yes, yes, I know that. 
+RIKER: Computer, shut off the music! 
+DATA: The music is on all communications channels, sir. 
+RIKER: Weapons. power, communications. We're being stripped one system
+at a time. 
+PICARD: Shut off the power to the Bridge. 
+(The lights go out, and the music stops) 
+PICARD: Commander La Forge, can you get us out of this star system
+safely? 
+STUBBS: No! 
+RIKER: Not now, Doctor. 
+LAFORGE: I'll try, Captain. I don't want to overload the engines. 
+PICARD: Do it gently. But do it. 
+RIKER: We'll circuit in auxiliary power to the Bridge. Somehow we'll
+silence Sousa if he decides to play an encore. 
+PICARD: The priority is to find out who or what is doing this. Number
+One, the Bridge, such as it is, is yours.
+

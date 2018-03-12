@@ -1,0 +1,29 @@
+RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+LAFORGE: We found these nodes in several systems
+around the ship. At some level or another, they're all connected. 
+DATA: These nodes were linking the sensors to our warp control and
+defensive systems. We believe this is why the ship jumped to warp. 
+LAFORGE: When the sensors detected danger, the defensive systems
+reacted to the threat and activated the warp engines to protect us. 
+RIKER: Where did these nodes come from? 
+DATA: It is possible that the magnascopic storm we recently experienced
+had an unexpected effect on the ship's systems. 
+LAFORGE: Wherever they come from, they seem to be multiplying. 
+DATA: As they increase, it will become progressively more difficult to
+control the ship. 
+RIKER: What do you propose we do? 
+LAFORGE: Well, getting rid of them isn't going to be so easy. When we
+attempted to examine the circuitry of one of the nodes, it generated a
+force field to keep us out. 
+RIKER: Whatever's going on. our first priority is getting back control
+of the ship. 
+DATA: Agreed. All of the nodal connections intersect in holodeck three.
+It appears to be a focal point of some kind. 
+LAFORGE: We might be able to find a way to use the holodeck circuitry
+to disable the nodes permanently. 
+RIKER: All right. Let's do it.
+

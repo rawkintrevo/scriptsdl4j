@@ -1,0 +1,49 @@
+GUEST0 DATA LAFORGE BARCLAY
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+  [221b
+Baker Street]
+
+(Sherlock 'Data' Holmes and Doctor 'Geordi' Watson
+are expounding the solution
+to a mystery) 
+DATA: it was then that I began to suspect that your brother did not die
+by his own hand.
+That he was, in fact, murdered. 
+GUEST0: (looking and sounding remarkably like Terry Jones) Murdered?
+Huh. Good Lord! 
+LAFORGE: But, Holmes! The vial of poison found in his hand. 
+DATA: That was the first clue, Watson. The vial contained strychnine,
+which as you well know induces violent muscular spasms. It is difficult
+to imagine that someone in the throes of so gruesome a death could have
+held on to so delicate a container without shattering it. 
+LAFORGE: You don't mean? 
+DATA: Exactly! The vial was placed in his hand after he died. 
+LAFORGE: Then what was the cause of death? 
+DATA: The cigar, of course. 
+GUEST0: Cigar? 
+DATA: Upon closer inspection of the room where your brother was found,
+I discovered a fresh burn mark on the carpet. Further
+analysis of the ash revealed that the cigar was laced with strychnine. 
+GUEST0: This is utter nonsense. What about the suicide note? It was
+written in my dear brother's own hand. 
+DATA: With practice, handwriting can be forged. It takes a trained eye
+to notice certain discrepancies. For example, whether someone is right
+or left handed! 
+(Data throws a box of matches to the gentleman, who catches it in his
+right hand.) 
+DATA: Your brother was right handed! The alleged suicide note was
+written by a left handed individual such as yourself! 
+LAFORGE: Er, Data, it's in his right hand. 
+DATA: Curious. There seems to be a problem in the holodeck's spatial
+orientation systems. 
+GUEST0: London's greatest detective? 
+(he throws the matches back, laughing) 
+LAFORGE: Freeze programme. La Forge to Barclay. 
+BARCLAY [OC]: Barclay here. 
+LAFORGE: Reg, something went wrong with the holodeck programme again. 
+BARCLAY [OC]: Oh, I'm sorry. I'll look into it right away. 
+LAFORGE: Thanks, Reg. We should get back to Engineering, Data.
+Computer, end programme
+and save.
+

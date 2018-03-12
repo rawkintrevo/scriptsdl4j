@@ -1,0 +1,29 @@
+GUEST1 RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+(at the aft stations) 
+RIKER: Riker to Engineering. What's your estimate on the engines,
+Geordi? 
+LAFORGE [OC]: I need another hour, Commander. I still have to replace
+three power couplings. 
+RIKER: Understood. 
+DATA: Sir, sensors are coming back online. 
+RIKER: Good. Begin a sensor sweep for the soliton wave. 
+DATA: Aye, sir. The wave is continuing on course for the Lemma Two
+colony. It is bearing zero two zero, mark three two nine. 
+RIKER: Open a channel back here to Doctor Ja'Dar. 
+DATA: Sir, the wave has increased in velocity to warp four point one. 
+RIKER: Doctor, we've located the soliton wave. It's still on a course
+for Lemma Two. However its velocity has increased to warp four point
+one. 
+JA'DAR [on monitor]: Have you checked the frequency resonance of the
+subspace 
+DATA: Sir, the energy level of the wave has increased by a factor of
+twelve. At this rate, it will have increased by a factor of two hundred
+by the time it reaches Lemma Two. 
+RIKER: Will they still be able to dissipate the wave? 
+JA'DAR [on monitor]: Commander, at that energy level, the wave will not
+only destroy the colony, it'll take most of the planet with it.
+

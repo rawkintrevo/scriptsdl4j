@@ -1,0 +1,125 @@
+TROI LAFORGE WORF PICARD RIKER COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+RIKER: Report. 
+WORF: We are picking up a distress call on long range sensors. It is
+Romulan, sir. 
+RIKER: Romulan? 
+WORF: They claim they have suffered a complete engine failure. Power
+levels are dropping. Life support is failing. It could be a trick. 
+RIKER: How long before we rendezvous with Captain Picard? 
+WORF: Approximately thirteen hours. 
+RIKER: Lay in a course for the Romulan ship. Let's put up shields and
+go to Red Alert. I want to be ready for anything. 
+WORF: Aye, sir. 
+Captain's log, stardate 46944.2. Commander Data,
+Mister La Forge, Counsellor Troi and I are en route to the Enterprise,
+after attending a three day conference on the psychological effects of
+long-term deep-space assignments.
+
+[Runabout cockpit]
+
+DATA: Computer activate automatic helm control. 
+COMPUTER: Helm control activated.
+
+[Runabout living section]
+
+(Data joins the others for a meal. The runabout is
+huge, there is even a
+corridor between the cockpit and this area) 
+TROI: I was just leaving the reception when this Ktarian walks up to me
+and says, (slightly Irish) hello, Diane. I understand you're an empath.
+I'm a very sensitive man myself. I'm doing a thesis on interspecies
+mating rituals. Would you care to join me in some empirical research? 
+LAFORGE: That's a very good impression of Doctor Mizan. 
+TROI: How did you know? 
+LAFORGE: He's notorious, but he really is an expert on interspecies
+mating practices. 
+DATA: Did you help him with his research, Counsellor? 
+TROI: Absolutely not. 
+DATA: I thought it was a topic you were interested in. 
+LAFORGE: How did you enjoy the rest of the conference, Counsellor? 
+TROI: To be honest, I was bored. I spent most of my time at Professor
+Wagner's phylobiology seminar. I thought the idea of the seminar was
+that we would all participate, bring different points of views to the
+discussion. He gathered two hundred scientists from all over the
+Federation, and all he did was put us to sleep. 
+DATA: I have a memory record of the entire lecture, Counsellor. I can
+repeat the portions you missed, if you 
+TROI: No, thank you, Data. 
+PICARD: Well, it was little better at the physiognomy workshop. Doctor
+Vassbinder gave an hour long dissertation on the ionisation effect of
+warp nacelles before he realised that the topic was supposed to be
+psychology. 
+LAFORGE: Why didn't anybody tell him? 
+PICARD: There was no opportunity. There was no pause. (mock Teutonic)
+He just kept talking in one long, incredibly unbroken sentence, moving
+from topic to topic so that no one had a chance to interrupt. It was
+really quite hypnotic. 
+LAFORGE: Well, I had a great time. The warp-energy symposium was
+fascinating. I actually had an opportunity to touch a plasma field. 
+TROI: Really? What was it like? 
+LAFORGE: It was incredible. I could feel the plasma moving up my arm.
+It was warm and, oh, there was this amazing tingling sensation that 
+(Troi sees that everyone else has stopped in mid-whatever) 
+TROI: Captain? Data? 
+LAFORGE: Moved through my chest. It was incredible. It was like taking
+a bath in pure energy. 
+DATA: It was not painful? 
+LAFORGE: Oh, no. Counsellor? Is there something wrong? 
+TROI: I'm not sure. 
+(after the opening titles) 
+LAFORGE: Well, our bioscans check out. There are no physiological
+anomalies. If something did happen, it didn't leave any biological
+traces. 
+PICARD: How long did it appear to you that we were frozen? 
+TROI: I don't know. Four, maybe five seconds. You just stopped and then
+started again. I can't explain it. 
+DATA: My memory record does not indicate a pause or disruption during
+that time period. My internal chronometer and the ship's computer are
+both perfectly synchronised. There does not appear to be a temporal
+discrepancy. 
+LAFORGE: Data, let's run a ship-wide diagnostic. Maybe we missed
+something. 
+(Data and La Forge leave) 
+PICARD: Let's go through all this again. You were sitting there. The
+rest of us were here. Describe the exact moment when we appeared to
+freeze. 
+TROI: Well, Geordi was talking about what it felt like to touch the
+plasma field and you were taking a sip of tea. 
+PICARD: Did you sense something from any of us at that time? Any
+unusual emotion? 
+TROI: Not a thing. I was empathically aware of you right up to the
+moment you froze, and then it all stopped. (plexes) The past few days
+have been exhausting. Maybe it was my imagination. There were moments
+in that lecture hall when I thought time was standing still there, too.
+
+PICARD: Or there is another possibility, Counsellor. This could be
+nothing more than simple 
+(Troi has a start. Picard is now next to her waving a hand in front of
+her face) 
+PICARD: Are you all right, Counsellor? 
+TROI: What happened? 
+DATA: You were motionless for three minutes eleven seconds. 
+PICARD: It appears to be the same effect that you described in us. Do
+you remember anything? 
+TROI: No. One second I was talking to you, and the next you were all
+standing around me. 
+LAFORGE: Wait a second. This is weird. 
+TROI: What is it? 
+LAFORGE: I had the tricorder run a comparison between the bioscan I
+took of you earlier and the one I took just now. In the time between
+the two scans, you should have aged twenty three minutes, but according
+to your cellular decay levels you've only aged twenty minutes. 
+PICARD: How do you account for this discrepancy? 
+LAFORGE: I don't know, sir. It's as if for Counsellor Troi, for three
+minutes time just stopped. 
+PICARD: Mister Data, contact the Enterprise. Tell Commander Riker to
+meet us at the rendezvous point as soon as possible. Have him scan the
+region for temporal anomalies. 
+DATA: Aye, sir. 
+LAFORGE: I'll check the sensor logs, see if I can find anything. 
+DATA [OC]: Captain, may I see you?
+

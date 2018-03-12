@@ -1,0 +1,36 @@
+PICARD GUEST7 GUEST8 SPOCK ROMULAN DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Klingon bridge]
+
+DATA: Captain, the Romulan subspace logs identify a
+transmission from the Romulan surface to a Barolian ship near Galorndon
+Core twelve hours ago.
+K'VADA: Galorndon Core is along the Barolian trade route. They trade a
+great deal with the Romulans. It's probably just routine. 
+DATA: This would not appear to be routine. I was able to trace the
+source of the transmission. It incorporates the code prefix of Romulan
+intelligence.
+PICARD: Can you access it?
+DATA: It is a short sequence of numbers. One four zero zero. 
+PICARD: Nothing more?
+DATA: No, sir.
+
+[Romulan street]
+
+D'TAN: Spock! I've been looking for you. 
+SPOCK: I have been meeting with the Proconsul. 
+D'TAN: Does he still speak of reunification?
+SPOCK: He speaks of nothing else.
+
+[Cafe]
+
+D'TAN: Have you ever seen these?
+(odd shapes small blocks) 
+SPOCK: The syllabic nucleus of the Vulcan language. 
+D'TAN: They were my toys when I was small. 
+SPOCK: Your parents wanted you to learn to understand Vulcan?
+D'TAN: Yes, as did their parents before them, to prepare us for the day
+when we would live again with our Vulcan cousins.
+ROMULAN 1: Your friends from the Federation have returned. They need to
+see you immediately. I've told Pardek. He'll meet you at the cave. 

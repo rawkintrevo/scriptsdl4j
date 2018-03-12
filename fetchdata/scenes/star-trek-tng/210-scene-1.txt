@@ -1,0 +1,34 @@
+GUEST0 CREWWOMAN DATA LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+LAFORGE: Data! Data, isn't this exciting? We are
+going to witness a moment in history. 
+DATA: Every nanosecond in this continuum is a moment in history, once
+it has elapsed. 
+LAFORGE: No, no, no, no. I mean, we're going to see something that
+people will talk about for years. I mean, think about it. No more bulky
+warp engines or nacelles. A ship just generates a Soliton wave and then
+rides it through space like a surfboard. This is going to be like being
+there to watch Chuck Yeager break the sound barrier, or Zephram
+Cochrane engage the first warp drive. 
+DATA: It should be interesting. 
+WORF: Very exciting. 
+LAFORGE: I'm talking to the wrong crowd. Donaldson! Donaldson, you're
+an engineer. 
+(moves out of shot) 
+CREWWOMAN [OC]: Lieutenant Worf, you have a subspace communication from
+the transport ship Milan. 
+WORF: Transfer the signal to this station. 
+GUEST0 [on monitor]: Hello, Worf. 
+WORF: Mother. 
+GUEST0 [on monitor]: I hope you don't mind us dropping in on you like
+this, but when I heard the Enterprise was to be in this sector, we took
+the first transport and here we are. 
+WORF: Is father with you? 
+GUEST0 [on monitor]: No, but I brought Alexander with me. I thought the
+two of you would like a chance to visit. 
+WORF: Very well. I will make arrangements for you to come aboard. 
+GUEST0 [on monitor]: Good.
+

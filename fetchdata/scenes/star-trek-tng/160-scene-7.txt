@@ -1,0 +1,49 @@
+GUEST1 RIKER CRUSHER FINN
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Infirmary]
+
+(The whole place is a very big cavern, with
+lighting, and people working. Finn hands Beverly her tricorder and
+takes her behind a glass wall to the infirmary area) 
+CRUSHER: I need some instruments from my ship in order to diagnose
+this. 
+FINN: You think if I allow you to contact your ship, they will
+transport the instruments? 
+CRUSHER: When I inform the Captain how serious the situation is, I'm
+sure he'll agree. I've told you, Finn, the Federation is not allied
+with Rutians. We're here on an errand of mercy. 
+FINN: And since the Federation does not wish to take sides, they will
+send the supplies that you need. 
+CRUSHER: Absolutely. 
+FINN: I've anticipated your needs. 
+(A boy comes in carrying boxes) 
+CRUSHER: These are Federation supplies. The ones we had delivered to
+the medical dispensary. 
+FINN: I heard.
+
+[Alexana's office]
+
+RIKER: You mean to tell me all these people belong
+to the Ansata? 
+GUEST1: No, not really. We suspect the organisation itself only to
+consist of some two hundred members. There are over five thousand names
+on this list, citizens we know to be sympathetic to their cause. They
+pass along weaponry and information, march in pro-Ansata
+demonstrations, participate in general strikes or the occasional riot. 
+RIKER: How did this ever get started? 
+GUEST1: Seventy years ago we denied them independence. That gave them
+a noble cause. Now it's just an excuse for more violence. 
+RIKER: You hate them as much as they hate you. 
+GUEST1: Believe it or not, I always considered myself moderate. 
+RIKER: What changed your mind? 
+GUEST1: Being stationed here for six months, watching the body count
+grow. The three assassination attempts on my life. 
+RIKER: Well, that'll change your point of view. 
+GUEST1: The event that really opened my eyes took place only a few
+days after my arrival. A terrorist bomb destroyed a shuttlebus. Sixty
+schoolchildren. There were no survivors. The Ansata claimed that it was
+a mistake, that their intended target was a police transport. As if
+that made everything all right. That day I vowed that I would put an
+end to terrorism in this city. And I will.
+

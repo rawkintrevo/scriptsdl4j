@@ -1,0 +1,56 @@
+GUEST3 TROI PICARD RIKER CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Brig]
+
+TROI: I've learned you are a soldier. 
+GUEST3: I was a soldier. 
+TROI: Why were you put in prison? 
+GUEST3: Obviously, because I am a threat to society. 
+TROI: There's no police record. What did you do? 
+GUEST3: Everything they asked me to do. That's why I became such a
+threat. 
+TROI: I don't understand. 
+GUEST3: Why are you bothering to try, Counsellor? 
+TROI: Because I want to help, if I can. 
+GUEST3: Unlock the door. 
+TROI: You are a non-violent man, yet you committed acts of excessive
+violence. 
+GUEST3: You can learn to do it if you have to. 
+TROI: Did you have to? 
+GUEST3: It was war. 
+TROI: So it started with the war? 
+GUEST3: It started the day I volunteered, Counsellor. The day I began
+training. The day I met my first instructor. And he also called himself
+a counsellor.
+
+[Observation lounge]
+
+TROI: Roga Danar was an idealistic young man who
+answered his people's call to service. He joined the military to fight
+for the Angosian way of life. What he didn't realise was that by doing
+so he would have to give up that way of life for ever. He's not the
+same man who left home to go to war. He's been through intense
+psychological manipulation and biochemical modifications. 
+CRUSHER: At Troi's request I examined him. His cell structure has been
+significantly altered. They used a
+combination of cryptobiolin, triclenidil, macrospentol and a few things
+I can't even recognise. 
+RIKER: Was he a prisoner of war? Who did this to him? 
+TROI: His own government. He's been programmed to be the perfect
+soldier. He can be absolutely normal, but when
+a danger is perceived, the programming clicks in and takes over.
+Memory, strength, intelligence, reflexes, all become
+enhanced. He's conditioned to survive at any cost. 
+CRUSHER: One of the new substances in his cellular structure even
+shields electrical impulses. 
+DATA: Perhaps that would explain why our sensors did not detect him. 
+PICARD: Why was he assigned to the Lunar Five facility? 
+TROI: He committed no crime. He says he was ordered there with others
+like him. When the first soldiers returned to
+Angosia, they had trouble. The rules changed too quickly. A lost temper
+could result in murder. 
+DATA: Counsellor, did no one try to adjust their programming? 
+TROI: They were just exiled to Lunar Five. 
+PICARD: Lunar Five, an orbiting gulag.
+

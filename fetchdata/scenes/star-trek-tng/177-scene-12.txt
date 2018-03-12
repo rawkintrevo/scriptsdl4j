@@ -1,0 +1,32 @@
+PICARD RIKER CRUSHER LAFORGE WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Observation lounge]
+
+WORF: We have control of sensors, life support and
+auxiliary power, Captain. Nothing more. 
+PICARD: The code, Mister La Forge? 
+LAFORGE: We can't even locate the file address. At least that would
+tell us how many digits we're talking about. Not that it would really
+help. 
+PICARD: I want something that will really help. 
+CRUSHER: And quickly too. Willie Potts has twenty four hours, thirty
+six tops. If it goes much longer than that, the only thing left for
+Starbase
+four one six will be to do a postmortem. 
+RIKER: Geordi, if the computer's programmed to allow Data to transport
+down, it would figure that it would allow him to beam back up. Right? 
+LAFORGE: It would figure. 
+RIKER: And Data would have left a trace imprint when he beamed down? 
+LAFORGE: Sure. Everyone does. 
+RIKER: So what would be involved in pulling that trace and finding a
+way to make the computer think someone else is Data? Maybe a few
+someone
+else's? 
+LAFORGE: We'd have to access the transport controller, reset it to a
+testing mode, convince it that it's back in school accepting simulated
+inputs. That's not going to be easy without the main computer. But I
+suppose we could network a few tricorders together. 
+PICARD: Try, Mister La Forge. 
+LAFORGE: Yes, sir.
+

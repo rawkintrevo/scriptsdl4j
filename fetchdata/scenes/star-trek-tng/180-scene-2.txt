@@ -1,0 +1,56 @@
+RIKER OBRIEN WORF PICARD GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+DATA: We will be entering the Turkana system in
+eleven minutes, Captain. 
+PICARD: Engine status. 
+DATA: Stable. But we have maintained warp factor nine for longer than
+is recommended, sir. 
+WORF: Subspace message from the Arcos. Their transmitter is failing,
+sir. Audio only. 
+PICARD: Let's hear it. 
+TAN TSU [OC]: Enterprise, this is Tan Tsu, Arcos engineer. Estimate
+five minutes till warp drive containment breach.
+Make that three minutes. Thanks for trying, Enterprise. 
+PICARD: Ensign, warp nine point three. How much time? 
+DATA: Seven minutes and fifteen seconds will bring us within
+transporter range, Captain. 
+PICARD: Nine point six. 
+[Transporter room]
+
+PICARD [OC]:: Mister O'Brien, prepare to lock onto
+the two crewmen. 
+O'BRIEN: Aye, Captain. 
+[Bridge]
+
+DATA: We are now entering the Turkana system, sir. 
+PICARD: Slow to impulse. 
+DATA: Visual contact. 
+RIKER: Get them out of there, O'Brien. 
+(There's a bright flash on the viewscreen) 
+RIKER: Status, O'Brien? 
+O'BRIEN [OC]: There's nothing to lock onto, Commander. 
+DATA: I am reading an ion trail characteristic of a freighter escape
+pod. 
+WORF: Unable to establish contact. 
+PICARD: It could have been damaged by the explosion. They may have been
+able to maintain orbit. 
+RIKER: Let's hope they stay clear of the colony. 
+DATA: That is exactly where the ion trail is leading, Commander. 
+PICARD: Hail the colony. 
+WORF: I've been trying to, Captain. No response. 
+RIKER: They haven't been able to maintain reliable communications since
+their government fell apart. 
+DATA: The last Federation vessel to make contact was the Potemkin, six
+years ago. They were warned that anyone transporting down to the colony
+would be killed. 
+PICARD: Number One, ready an away team.
+
+Captain's log, supplemental. We are in orbit above
+Turkana Four, an Earth colony that severed relations with the
+Federation nearly fifteen years ago. I am concerned about sending an
+away team, but if we are to discover the fate of the two missing
+Federation crewmen, I see no alternative.
+

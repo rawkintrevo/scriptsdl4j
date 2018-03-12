@@ -1,0 +1,24 @@
+DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Corridor]
+
+DATA: It is perplexing to me that the Ullians'
+ability to retrieve memory is so highly prized. If an event were
+important enough to be recovered, why would it have been forgotten? 
+LAFORGE: It's not quite the same for us as it is for you, Data. You
+record every second of every moment of your life. 
+DATA: That is correct. 
+LAFORGE: And then if you want to recall any one of those moments, you
+just access the proper memory circuit. 
+DATA: My understanding of the human brain suggests that the process is
+the same for you. Each memory is encoded in chains of molecules. If you
+want to retrieve it, you simply access the proper RNA sequence. 
+LAFORGE: Yeah, that's true. 
+DATA: Then in what way is it different? 
+LAFORGE: Sometimes there are memories we just can't access at the spur
+of the moment. For instance, I have no recollection of how I spent my
+last birthday. Birthdays are important occasions, and you would think
+that I'd remember how I spent the day, but right now I can't even
+remember where I was.
+

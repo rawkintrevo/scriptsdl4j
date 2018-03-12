@@ -1,0 +1,120 @@
+RIKER LAFORGE WORF TASHA PICARD TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+RIKER: There she is. 
+PICARD: Enlarge. What is their course?
+LAFORGE: They are now angling through that solar system, Captain. 
+PICARD: Identify. 
+DATA: Listed as Delphi Ardu, sir. Eleven planets, unexplored.
+RIKER: Stay with them, La Forge.
+LAFORGE: Aye, sir. 
+TASHA: Sensors read a power surge from their last manoeuvre, Captain.
+LAFORGE: They are dropping to subwarp speed.
+PICARD: Reduce to impulse power.
+TASHA: Sensor record fluctuations in the energy readings from it,
+Captain.
+DATA: Possibility, a malfunction in their engines, sir. 
+LAFORGE: Breaks my heart.
+WORF: In visual range, Captain.
+PICARD: Fully enlarge.
+(The Ferengi ship is nicely curved) 
+LAFORGE: Hello, stranger.
+PICARD: Very impressive design.
+RIKER: Anything on that design, Data?
+DATA: Nothing specific, sir. As you know, Ferengi technology is
+estimated to be generally equal to our own. 
+PICARD: But that does not mean identical, however. 
+DATA: Correct, sir. We are no doubt advanced in some areas, they in
+others. 
+LAFORGE: Showing another power surge, sir. 
+WORF: They are firing on us. 
+PICARD: Damage report? 
+TASHA: Shields holding. 
+DATA: Mostly electromagnetic, sir. Fusion generator and batteries down
+by thirty percent. 
+LAFORGE: Our impulse engines are surging now. 
+WORF: They're firing again. 
+(A bright, bright flash on the viewscreen) 
+TASHA: Deflector shield power weakening, Captain. Phasers ready. Photon
+torpedoes ready. 
+RIKER: Do we return their fire, sir? 
+PICARD: Negative, Number One. They're just reacting to our close
+pursuit. Fall back a bit but stay with them. 
+DATA: They are slowing too, sir.
+TASHA: They may be turning to fight. 
+PICARD: Open hailing freq. (puzzled) Why are we gaining on them? Don't
+anticipate. 
+LAFORGE: I'm not, sir. Something's wrong.
+DATA: Sir, something is dragging us forward. 
+PICARD: I read that, too. Lieutenant Yar, what do your sensors show? 
+TASHA: Not certain, sir. I'm getting very confusing readings. 
+DATA: Captain, this shouldn't be. Our ship's power systems are failing.
+
+TASHA: Deflector shield failing. Phasers going inoperative, Captain. 
+LAFORGE: Captain, something is completely immobilising us. 
+WORF: Immobilised by the damn Ferengi. 
+PICARD: We need more information. What the hell are they are using? 
+RIKER: Obviously we've underestimated their technology, Captain.
+PICARD: Considerably. It appears the Ferengi have us right where they
+want us. In their sights. Are you searching all frequencies? Any sign
+of any kind of messages? 
+WORF: Negative, sir. 
+PICARD: Weapons report, Lieutenant. 
+TASHA: I have phasers and torpedoes armed, but I show insufficient
+power to fire them. 
+PICARD: Engineering, give me status on power recovery. Engineering,
+come in. Why aren't they answering? La Forge. 
+LAFORGE: Sir. 
+PICARD: Get me a full report from Engineering. 
+LAFORGE: Aye, sir. 
+(La Forge leaves) 
+RIKER: It's impossible they could be draining all power from all
+systems. 
+PICARD: Counsellor? 
+TROI: I'm sensing nothing from them Captain. Which could mean they can
+shield their thoughts and emotions from others. 
+PICARD: It still makes it our move. 
+TROI: Sir, they may know as little about us as we do about them. 
+RIKER: Except that they know they've got us in deep trouble. 
+PICARD: If so, the question becomes how will they use that knowledge?
+Data, do you have any information touching this on any file? 
+DATA: None, sir. Only hearsay and third hand reports, most of which
+conflict. 
+RIKER: Which reports do not conflict? 
+DATA: That the Ferengi are, well, the best description may be traders. 
+PICARD: What kind of traders? 
+DATA: A comparison modern scholars have drawn from Earth history likens
+the Ferengi to the ocean-going Yankee traders of eighteenth and
+nineteenth century America, sir. 
+RIKER: From the history of my forebears. Yankee traders. 
+DATA: Who in this case sail the galaxy in search of mercantile and
+territorial opportunity. 
+RIKER: And are those scholars saying the Ferengi may not unlike us? 
+DATA: Hardly, sir. I believe this analogy refers to the worst quality
+of capitalists. The Ferengi are believed to conduct their affairs of
+commerce on the ancient principle caveat emptor. Let the buyer beware. 
+RIKER: Yankee traders. I like the sound of that. 
+DATA: Well, sir, I doubt they wear red, white and blue, or look
+anything like Uncle Sam. 
+PICARD: Engineering? Join La Forge down below in Engineering, Number
+One. 
+RIKER: Aye, sir. 
+PICARD: Without warp capacity, we're just a floating target. 
+WORF: Uncle who? 
+TASHA: What have bright, primary colours got to do with it? 
+PICARD: I understand the allusion. Colours representing countries at a
+time when they competed with each other. Red, white and blue for the
+United States. Whereas the French more properly used the
+same colours in the order of blue, white and red. 
+DATA: And the German nation red, black and gold. The Italians green,
+white and red. The British 
+PICARD: That's enough, Data. 
+DATA: It was you who 
+PICARD: We're discussing the Ferengi. I wish I had some clue as to what
+they will do next. 
+DATA: Given what is now happening to our ship, sir, their weapons could
+be vastly superior to ours. 
+PICARD: Yes, Data, that is a natural assumption. Engineering?
+

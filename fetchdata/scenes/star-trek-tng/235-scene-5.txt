@@ -1,0 +1,40 @@
+FARALLON DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+FARALLON: We've been using devices like this on
+Tyrus Seven for years. The basic unit is a common industrial servo
+mechanism. A few years ago I started tinkering with one. This is the
+result. 
+LAFORGE: Boridium power converter. Axionic chip network. It's very
+impressive. In terms of sheer computational speed, this little guy
+might be able to compete with you, Data. 
+FARALLON: Oh, the exocomps don't come close to Data's sophistication. 
+DATA: Exocomps? 
+FARALLON: That's what I call them. Let's say you had an anti-matter
+flow converter that was fluctuating. How would you repair it? 
+DATA: The correct procedure would be to adjust the converter. 
+FARALLON: With what? 
+DATA: A mode stabiliser. 
+FARALLON: Okay. Let me input the problem into the exocomp. A
+fluctuating anti-matter flow converter. Now, let's see what happens. 
+(the little machine materialises a tool to use) 
+LAFORGE: A mode stabilizer. Very nice. 
+DATA: You have incorporated a micro-replication system into the device
+in order to fashion tools. 
+FARALLON: It's more than that. I designed the exocomps to be problem
+solvers. Whenever they perform a task they've never done before, the
+micro-replicator creates new circuit pathways within the unit's memory.
+
+DATA: So in a sense, they are learning. 
+FARALLON: Exactly. The more situations they encounter, the more circuit
+pathways they build. They become better tools as they work. 
+LAFORGE: It's impressive technology, that's for sure. Once it's out of
+the experimental stage, there'll be plenty of applications. 
+FARALLON: Commander, I'm hoping the experimental stage is over. When
+are we supposed to brief Captain Picard on the status of the particle
+fountain? 
+LAFORGE: At sixteen hundred hours. 
+FARALLON: Good. I'll have a proposal to make.
+

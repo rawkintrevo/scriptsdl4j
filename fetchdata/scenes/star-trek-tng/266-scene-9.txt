@@ -1,0 +1,33 @@
+PICARD RIKER DATA GUEST0 WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Turbolift]
+
+GUEST0: You know, Captain, I moved to this colony
+because it was a recreation of Scotland, but I must admit it's getting
+to be a little too realistic. 
+(he sneezes) 
+[Bridge]
+
+(there is low-lying mist on the deck) 
+PICARD: What the hell is going on? 
+DATA: There appears to be a condensed suspension of water vapour,
+approximately one degree Celsius. 
+PICARD: Fog. 
+RIKER: It just sort of rolled in on us, sir. 
+WORF: There has been a malfunction in the ship's environmental control.
+
+RIKER: We've traced the problem to the power transfer beam. There's
+some sort of feedback coming from one of the colony's weather
+substations. 
+GUEST0: Another power fluctuation? 
+WORF: Captain, the temperature in Ten Forward has dropped to below
+freezing and deck thirteen has lost gravity. 
+PICARD: Mister Data, disengage the power transfer. 
+DATA: I am unable to terminate the connection, sir. A feedback loop has
+formed in the transfer beam. I will have to go to the substation and
+attempt to correct the problem from there. 
+PICARD: Make it so. 
+(Data leaves) 
+PICARD: In the meantime, I think I'll go get my jacket.
+

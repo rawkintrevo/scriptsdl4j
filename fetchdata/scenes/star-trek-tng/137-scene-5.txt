@@ -1,0 +1,39 @@
+RIKER LAFORGE WORF PICARD WESLEY DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+(Data is at a rear computer station) 
+PICARD: Mister Data, there's a reference in Captain Varley's personal
+log to a probe that scanned the Yamato. 
+DATA: Aye, sir. We have a visual record. 
+PICARD: Put it on main viewer. 
+RIKER: What the devil is that? 
+(A blue globe sends out energy tendrils to the Yamato) 
+PICARD: Have you seen anything like that before? 
+DATA: No, sir. It appears to be a scanner. Possibly a transmitter. 
+RIKER: Transmitting what? 
+DATA: Unknown, sir. 
+PICARD: Engineering. 
+[Engineering]
+
+LAFORGE: La Forge. 
+PICARD [OC]: What progress on the matter-antimatter scan? 
+LAFORGE: Everything continues to check out. I'm starting an analysis on
+the magnetic coils. 
+[Bridge]
+
+PICARD: When the Yamato was probed, where was she? 
+DATA: In orbit around a planet at coordinates two two seven mark three
+five nine, sir. 
+PICARD: ETA at warp factor eight? 
+DATA: Twelve hours sixteen minutes, sir. 
+WORF: Sir, that would put us substantially close to the Romulan side of
+the Neutral Zone. 
+PICARD: That can't be helped. Ensign, lay in a course. Warp factor
+eight. 
+WESLEY: Aye, sir. 
+PICARD: We're going to assume the Yamato's mission. 
+RIKER: And risk a war? 
+PICARD: Perhaps prevent one.
+

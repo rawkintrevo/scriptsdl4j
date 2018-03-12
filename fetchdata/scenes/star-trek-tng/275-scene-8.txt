@@ -1,0 +1,37 @@
+RIKER GUEST0 LAFORGE CREWMAN PICARD GUEST1 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+(a console explodes in front of Geordi, throwing
+him backwards) 
+CREWMAN: Easy, sir, easy. I've got you.
+LAFORGE: I'm all right, thanks. It looks like the navigational relay's
+overloaded. 
+[Holodeck train]
+
+(the conductor pulls the cord and the train
+lurches. So does the ship) 
+[Engineering]
+
+PICARD [OC]: Geordi, what's going on? We just went
+into warp. 
+LAFORGE: We've lost engine and helm control again, Captain, but this
+time, they're completely burned out. I don't know if we can stop the
+ship.
+
+[Holodeck- train]
+
+DATA: I believe we have changed direction. 
+GUEST0: Now we're on the right track. Ladies and gentlemen, we are
+on our way! 
+(cheers all round and the gangster takes a house brick from the
+engineer's overalls) 
+GUEST1: I was right. He was trying to make off with my brick. 
+GUEST0: You take good care of that. We can't afford to lose it. Now,
+are you people going to leave or are we going to have to throw you off
+the train? 
+DATA: Commander. According to my tricorder, the holodeck safeties have
+been disengaged. His weapon could be lethal. 
+RIKER: All right, let's get out of here.
+

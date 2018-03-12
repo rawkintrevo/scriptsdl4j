@@ -1,0 +1,47 @@
+PICARD RIKER DATA LAFORGE RAGER
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+RIKER: Ensign Rager, cartography needs a better
+position to study cluster FGC thirteen. Bring us about, heading one
+twenty three mark four. 
+RAGER: Aye sir. Helm won't lock to those coordinates, sir. 
+RIKER: First time navigating through a globular cluster, Ensign? You
+have got to compensate for gravimetric interference before 
+(Riker sits at helm and stares at the edge of the console) 
+RAGER: Is there something wrong, sir? 
+RIKER: No. I don't know. Put us back on our original heading, Ensign.
+
+[Cargo bay]
+
+(Geordi is muttering at a console) 
+LAFORGE: Don't tell me. This can't be right. Data, come here and take a
+look at this, would you? I think we have another sensor glitch. 
+DATA: Sensors are functioning normally. They are detecting a subspace
+particle emission originating from within this room. 
+LAFORGE: From within this room? That's impossible. 
+DATA: The emission is emanating from this direction. Geordi. 
+(something is going on at the panel Geordi was examining earlier) 
+(a little later, Picard is there) 
+DATA: The structure of the bulkhead has been altered on a subatomic
+level. The metal itself is in a state of quasi-molecular flux. 
+PICARD: What's causing it? 
+LAFORGE: This is where it gets a little wild, Captain. Behind that
+panel is a junction we were using to transfer
+warp power to the sensor array. We're reading a subspace particle
+stream emanating from that junction. 
+DATA: It appears to be composed of spatially inverted tetryon
+particles. We believe they are emanating from a tertiary subspace
+manifold. 
+PICARD: But I thought that tetryons were unstable in normal space. 
+LAFORGE: We don't understand it either, sir. Something from that deep
+in subspace shouldn't be able to exist in our universe. But there it
+is. 
+PICARD: Does it pose a danger to the ship? 
+LAFORGE: Not unless it spreads. If it does, we can beam the bulkhead
+into space and erect a forcefield in its place. 
+PICARD: Well, keep that option ready. In the meantime, proceed with the
+analysis. 
+LAFORGE: Aye, sir.
+

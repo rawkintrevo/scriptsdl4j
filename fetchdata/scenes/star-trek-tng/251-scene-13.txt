@@ -1,0 +1,55 @@
+TROI PICARD ENSIGN GUEST0 COMPUTER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+DATA [OC]: I have reached Engineering, Captain.
+Standing by. 
+PICARD: Acknowledged. Counsellor, are you in position?
+
+[Sickbay]
+
+TROI: Ready, Captain.
+
+[Bridge]
+
+PICARD: All right, Mister Data. 
+[Engineering]
+
+DATA: Initiating tricorder emissions. 
+(he taps commands into his current tricorder and)
+
+[Warbird Engineering]
+
+(there's a bright flash) 
+[Sickbay]
+
+(the disrupter beam shrinks back into the weapon,
+and Troi breathes a sigh of relief)
+
+[Engineering]
+
+DATA: Captain. 
+PICARD [OC]: Go ahead, Mister Data. 
+DATA: The warp core breach has been reversed, sir. 
+[Bridge]
+
+PICARD: Be ready to stop the power transfer, Mister
+Data. 
+DATA [OC]: Aye, sir. 
+[Engineering]
+
+GUEST0 2: You must stop! 
+(she touches him and they fall to the floor. time moves forward and
+Data recovers) 
+COMPUTER: Specified energy systems have been initialised. The power
+transfer can now be engaged. 
+DATA: Do not initiate that power transfer. 
+ENSIGN: I'm sorry, sir. I already have. 
+DATA: We must shut it down. 
+ENSIGN: The transfer beam is at saturation, sir. It can't be
+disengaged. 
+DATA: Computer, place a level three containment field around the warp
+core. 
+COMPUTER: Containment field activated.
+

@@ -1,0 +1,59 @@
+PICARD TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Data's
+quarters]
+
+
+DATA:
+Come in, please.
+PICARD: Commander, I require your presence on the Bridge. 
+DATA: Captain, with all due respect, perhaps it would be better if you
+choose another to serve as your First Officer. 
+PICARD: Data, you are my First Officer. 
+DATA: I have not been able to isolate the problem, sir. I might make a
+mistake. 
+PICARD: Yes, you might. But that does not alter your duty to me and to
+this ship. Now, do you know how to formulate a premise? 
+DATA: Yes, sir. 
+PICARD: Then formulate this one. How do I deal Riker and the Hathaway?
+I will await your answer on the Bridge. 
+And, Commander, it is possible to commit no mistakes and still lose.
+That is not a weakness. That is life. 
+DATA: I believe I understand, sir. 
+PICARD: And Data, will you leave your hesitation and self-doubt here in
+your quarters.
+
+
+[Observation
+lounge]
+
+
+DATA:
+I
+have several examples of Commander Riker's battle technique. At the
+Academy, he calculated a sensory blind spot on a Tholian vessel and hid
+within it during a battle simulation. And as a lieutenant aboard the
+Potemkin, his solution to a crisis was to shut down all power, and hang
+over a planet's magnetic poles, thus confusing his opponent's sensors. 
+TROI: And from these specifics, what general conclusion can you
+extrapolate? 
+DATA: Only twenty-one percent of the time does he rely upon traditional
+tactics. So, the Captain must be prepared
+for unusual cunning. Counsellor, Commander Riker will assume we have
+made this analysis, and knowing that we know his methods, he will alter
+them. But, knowing that we know that he knows that we know, he might
+choose to return to his usual pattern. 
+TROI: Wait, wait. You're over-analysing, Data. One cannot deny human
+nature. What kind of a man is Commander Riker? 
+DATA: A fighter? 
+TROI: Yes. 
+DATA: The weaker his position, the more aggressive will be his posture.
+
+TROI: And he won't give up. 
+DATA: Then despite whatever options he is given, he must be 
+TROI: The man that he is. Exactly. 
+DATA: Is that a failing in humans? 
+TROI: You'll have to decide that for yourself.
+
+

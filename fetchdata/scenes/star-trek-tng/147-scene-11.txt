@@ -1,0 +1,33 @@
+TROI DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Data's
+quarters]
+
+
+DATA:
+Come in, please.
+TROI: Data. 
+DATA: Counsellor. Is something wrong? 
+TROI: That was going to be my question. 
+DATA: With my repository of knowledge, I expected to perform better
+against a humanoid life form. 
+TROI: You know, some of our greatest advances have come from analysing
+failure. While it can be ego-bruising 
+DATA: But Counsellor, I do not have an ego. 
+TROI: Yes. Well, a loss can be disheartening. 
+DATA: But Counsellor, I do not have a 
+TROI: Data. You can handle defeat in two ways. You can lose confidence,
+or you can learn from your mistakes. 
+DATA: That is what troubles me. I made no mistakes. I have conducted a
+diagnostic check of all of my programs. I am cross-checking with the
+ship's computer. 
+TROI: Is that all necessary? 
+DATA: I believe so. I have proven to be vulnerable. At the present
+time, my deductions should be treated with scepticism. 
+TROI: That is why you haven't been on the Bridge. 
+DATA: Yes. The Captain would be ill advised to rely upon my judgement. 
+TROI: I think you're really over-reacting. I'm sure you're all right. 
+DATA: I, however, am not sure.
+
+

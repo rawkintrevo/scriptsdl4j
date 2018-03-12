@@ -1,0 +1,45 @@
+PICARD RIKER DATA GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Observation lounge]
+
+PICARD: All right, explain this procedure. 
+GUEST2: Ever since I first saw Data at the entrance evaluation at the
+Starfleet Academy, I've wanted to understand it. I became a student of
+the works of Doctor Noonien Soong, Data's creator, and I've tried to
+continue his work. I believe I am very close to the breakthrough that
+will enable me to duplicate Doctor Soong's work and replicate this. But
+as a first step I must disassemble and study it. Data is going to be my
+guide. 
+PICARD: Data? 
+DATA: It sounds intriguing. 
+RIKER: How will you proceed? 
+GUEST2: I will run a full diagnostic on Data, evaluating the condition
+of its current software. I will then dump its core memory into the
+starbase mainframe computer and begin a detailed analysis of its
+construction. 
+DATA: You've constructed a positronic brain? 
+GUEST2: Yes. 
+DATA: Have you determined how the electron resistance across the neural
+filaments is to be resolved? 
+GUEST2: Not precisely. 
+DATA: That would seem to be a necessary first step. 
+GUEST2: I am confident that I will find the answer once I examine the
+filament links in your anterior cortex. 
+DATA: But if the answer is not forthcoming, your model will not
+function. 
+GUEST2: I do not anticipate any problems. 
+RIKER: You seem a little vague on the specifics. 
+PICARD: What are the risks to Commander Data? 
+GUEST2: Negligible. 
+DATA: Captain, I believe his basic research lacks the specifics
+necessary to support an experiment of this magnitude. 
+PICARD: Commander Data is a valued member of my Bridge crew. Based on
+what I've heard, I cannot allow Commander Data to submit himself to
+this experiment. 
+GUEST2: I was afraid this might be your attitude, Captain. Here are
+Starfleet's transfer orders separating Commander Data from the
+Enterprise, and reassigning it to Starbase one seventy three under my
+command. Data, I will see you in my office tomorrow at zero nine
+hundred hours. 
+

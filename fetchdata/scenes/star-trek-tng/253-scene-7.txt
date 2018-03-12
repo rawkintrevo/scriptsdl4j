@@ -1,0 +1,34 @@
+LORE GUEST6 GUEST3 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Borg hall]
+
+LORE: (to Borg) Now, thank you. There you are,
+brother. 
+DATA: Here is the visor. May I ask why you wanted it? 
+LORE: I thought it might look good on me. What do you think? Maybe we
+should work on your sense of humour, brother. Actually, I was thinking
+La Forge's implants might make him an ideal test subject for my
+experiment. 
+DATA: All the Borg you have experimented on so far have suffered
+extensive brain damage. 
+LORE: Using the humans to perfect the procedure will allow us to
+prevent any further Borg deaths. 
+DATA: I understand. 
+LORE: Good. What is it? 
+GUEST3: This Borg disconnected himself from the others. He would not
+let me hear his thoughts. 
+LORE: I've asked you to stay linked to Crosis at all times. You know
+that, don't you? 
+GUEST6: Yes. 
+LORE: I know this must be difficult for you. I know how uncertain you
+must feel. All of these sensations are new and they can be frightening.
+Isn't that right? 
+GUEST6: Yes. I have doubts. 
+LORE: Of course you do. It's only natural. No one is going to blame you
+for that. But in order to lose those doubts, to keep you from fear and
+confusion away, I need you to remain linked with the others so that
+their strength and their confidence can help you. I need you, Goval. I
+need you to help me build a future for the Borg. I can't do it without
+you. Will you help me? 
+GUEST6: Yes. I will. 

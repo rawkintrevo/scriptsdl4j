@@ -1,0 +1,53 @@
+PICARD RIKER CRUSHER DATA WORF
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Transporter room]
+
+DATA: There is nothing wrong with the transporter.
+I have run a complete diagnostic of all the targeting components. 
+RIKER: Then what happened to the Captain and Doctor Crusher? 
+WORF: Commander. The Transporter sensor log shows an unusual
+concentration of antigraviton particles in the emitter coil. 
+DATA: A concentration of antigraviton particles suggests a tractor
+beam. It might have deflected the transporter beam to a different set
+of coordinates. 
+RIKER: Is there a way to locate those coordinates? 
+DATA: The tractor beam originated somewhere in the Prytt Alliance. 
+WORF: Why does the Prytt want Captain Picard and Doctor Crusher? 
+RIKER: I don't know. And it's not going to be easy to find out. The
+Prytt have consistently refused all outside contact. We're going to
+have to work through the Kes. Contact Ambassador Mauric. Tell him I
+want a meeting right now. 
+WORF: Aye, sir.
+
+[Cell]
+
+(Picard is testing the bars on the window very
+carefully) 
+PICARD: What? 
+CRUSHER: What? 
+PICARD: You're staring at me. 
+CRUSHER: I was just thinking about how to get out of here. 
+PICARD: There may be a structural flaw that would allow us to escape. 
+CRUSHER: Right. 
+PICARD: Beverly, the important thing during any confinement is to think
+positively and not give up hope. There is a way out of every box, there
+is a solution to every puzzle. It's just a matter of finding it. 
+(the guard puts a covered plate on the floor and backs out. Picard
+fails to stop the door closing again) 
+PICARD: Damn. 
+CRUSHER: Well, at least this means we won't starve to death. 
+PICARD: It means they plan on keeping us here for a while. 
+CRUSHER: I'm beginning to think negatively, Jean-Luc. 
+(she takes the cover off the plate) 
+CRUSHER: My tricorder! 
+PICARD: Does it work? 
+CRUSHER: Yes. Except something's been added to the main directory. 
+PICARD: It's a map. 
+CRUSHER: An escape route. That guard must be working for the Kes. 
+PICARD: Possibly. Or it could be part of a very carefully laid trap. 
+CRUSHER: If you ask me, I'd like to take my chances out there. 
+PICARD: Agreed. Is there a way to open the cell door? 
+CRUSHER: Yes, the code's been entered. 
+(the door opens, there's no one around, and off they go)
+

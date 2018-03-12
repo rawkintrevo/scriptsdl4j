@@ -1,0 +1,55 @@
+RIKER MACDUFF WORF PICARD TROI RO DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+WORF: Captain, we have crossed the Lysian border. 
+PICARD: Take us out of warp, Ensign. Go to three quarters impulse. 
+RO: Yes, sir. 
+PICARD: Mister Worf, maintain a continuous sensor sweep. 
+WORF: Aye, sir. 
+MACDUFF: How long till we reach their central command? 
+DATA: At our current speed, approximately thirty seven hours. 
+WORF: Captain, I am picking up a vessel directly ahead. 
+PICARD: Can you identify it, Mister Data? 
+DATA: The ship matches the Starfleet description of a Lysian destroyer.
+A short range attack vessel with disruptor style weapons, and a
+standard crew of fifty three. 
+WORF: Within visual range. 
+PICARD: On screen. 
+(it's just like the first ship they encountered) 
+WORF: The destroyer is increasing its speed. They are moving to
+intercept. 
+PICARD: Evasive manoeuvre sequence delta. 
+RO: Yes, sir. 
+WORF: They are matching our manoeuvres. 
+MACDUFF: Activating phaser arrays. Ready to fire, sir. 
+PICARD: Stand by. 
+MACDUFF: Captain, our orders were to destroy all Lysian warships. 
+PICARD: I'm aware of that, Commander. Tactical analysis, Mister Data. 
+DATA: The destroyer has minimal shields. Their disruptor capacity
+appears to be only two point one megajoules. 
+RIKER: They're no match for the Enterprise. 
+DATA: Captain, the destroyer is hailing us. 
+PICARD: Open a channel. 
+MACDUFF: No! Their new weapon. Whatever it was that erased out our
+computers and our memories, maybe this is how they do it, over
+communication channels. 
+DATA: It is conceivable, sir. 
+TROI: It's also possible that they just want to talk to us. I think we
+should respond. 
+WORF: Captain, the ship is hailing us again. 
+MACDUFF: If you're wrong, it could mean our destruction. We can't take
+the risk, Captain. 
+DATA: The Lysians have stopped transmitting, Captain. They are powering
+up their disruptors. They have locked onto us, sir. 
+RIKER: Full shields. 
+WORF: Shields up. 
+MACDUFF: Captain? 
+PICARD: Return fire. 
+(KaBOOM) 
+WORF: The ship has been destroyed. 
+PICARD: Maintain this course, Ensign. Three quarters impulse. 
+RO: Yes, sir. 
+MACDUFF: Well done, Captain.
+

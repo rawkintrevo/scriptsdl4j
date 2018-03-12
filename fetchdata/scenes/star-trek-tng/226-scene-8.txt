@@ -1,0 +1,40 @@
+PICARD RIKER DATA LAFORGE
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+DATA: Manipulate the synchronic distortion. 
+LAFORGE [OC]: Maybe. If we were to create a contained subspace force
+field. 
+[Devidia cavern]
+
+LAFORGE: But to get a point zero zero four
+variance, we'd need an incredibly sensitive phase discriminator, Data.
+I don't think we've got one that would come close. 
+DATA [OC]: Yes, we do. 
+[Bridge]
+
+DATA: It is built into my positronic decompiler. It
+will be necessary for me to join the away team, sir. 
+PICARD: (hesitation) Proceed, Mister Data.
+
+[Devidia cavern]
+
+RIKER: Mister Data. 
+DATA: Sir. 
+LAFORGE: Let me give you a hand with that, Data. 
+(Geordi works with a device Data has brought) 
+DATA: Once I have adjusted the forcefield, I will no longer be visible,
+Commander. I have taken steps, however, to ensure that you will still
+be able to hear me. If you would assist me in a test of the comm.
+system. My voice will be transmitted on a delay correlated to the phase
+adjustment. That should allow me to maintain verbal contact. 
+RIKER: Will we be able to talk to you? 
+DATA: No, sir. That will not be possible. 
+LAFORGE: The subspace field has been established. You're set to go,
+Data. 
+DATA: Adjusting the synchronic distortion. Point zero zero one. Point
+zero zero two. (fades out) Point zero zero three. Point zero zero four.
+
+DATA [OC]: I have made visual contact. There are lifeforms here.
+

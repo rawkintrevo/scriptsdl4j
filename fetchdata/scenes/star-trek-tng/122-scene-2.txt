@@ -1,0 +1,38 @@
+TROI LAFORGE PICARD GUEST1 GUEST2 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+GUEST2: Captain, I'm in the middle of realigning the
+dilithium crystals. 
+PICARD [OC]: There is an emergency. We need warp drive. How long? 
+GUEST2: Twenty minutes. Maybe more. 
+[Bridge]
+
+PICARD: We don't have it, Mister Lynch. 
+GUEST2 [OC]: I'll align it by hand.
+PICARD: Whatever it takes. 
+GUEST2 [OC]: Aye, sir. 
+LAFORGE: Shuttle, this is the Enterprise. Your coordinates now read two
+three seven point one zero one. Ben, you're dangerously close to a
+planet. 
+GUEST1 [OC]: I can see it. 
+DATA: The planet is Vagra Two, sir, in the Zed Lapis sector.
+Uninhabited. 
+PICARD: Lieutenant, report! 
+TROI [OC]: This is Counsellor Troi. I'll relay, sir. The pilot is busy.
+We've lost most of our impulse power. 
+PICARD: Engineering, status report. 
+[Engineering]
+
+GUEST2: Working on it, Captain. Three minutes. 
+[Bridge]
+
+GUEST2 [OC]: But there are no guarantees. 
+GUEST1 [OC]: Captain, we're out of control. We're caught in the
+planet's gravity. 
+Captain's log, supplemental. We've lost all contact
+with shuttlecraft thirteen, and can only assume they've crash-landed on
+Vagra Two.
+Meanwhile, main Engineering is trying to return us to warp power.
+

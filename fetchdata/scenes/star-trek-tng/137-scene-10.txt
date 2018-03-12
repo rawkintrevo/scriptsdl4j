@@ -1,0 +1,36 @@
+PULASKI MEDIC DATA LAFORGE GUEST1
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Sickbay]
+
+(Kate is chewing out a medic as the lights go up
+and down) 
+PULASKI: The biobeds aren't working? The ship is falling apart! I've
+had thirty-five emergency calls scattered across twelve decks. My
+trauma teams are being run ragged trying to respond. Biobeds! 
+MEDIC: Doctor Pulaski. 
+PULASKI: Yes. 
+MEDIC: I've got a problem here. The knitter isn't working. 
+PULASKI: Try a splint. 
+MEDIC: Doctor? 
+PULASKI: Splint. It's a very ancient concept. You take two flat pieces
+of wood or plastic, a bandage. The broken limb is kept immobile. 
+GUEST1: That's crazy, that's not practicing medicine. 
+PULASKI: Oh yes, it is. It's a time honoured way to practice medicine,
+with your head and your heart and your hands. So jump to it.
+
+[Engineering]
+
+LAFORGE: Damn! 
+DATA: Try a bypass on the shield control interface. 
+LAFORGE: No go. Let me see if I can directly access the master
+programme. 
+(Electricity leaps into Geordi when he touches the panel. Data throws
+him clear - across the room) 
+LAFORGE: Data? 
+DATA: Yes? 
+LAFORGE: What happened? 
+DATA: Any answer would be mere speculation. This is yet another example
+of how our actions have random results. 
+LAFORGE: Thanks, Data. I noticed.
+

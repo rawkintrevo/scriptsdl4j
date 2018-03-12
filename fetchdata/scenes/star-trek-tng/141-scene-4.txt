@@ -1,0 +1,48 @@
+WESLEY RIKER DATA WORF PICARD
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+RIKER [OC]: Report to the Observation Lounge.
+
+[Observation lounge]
+
+(Wesley enters) 
+RIKER: Wesley, I've assigned you the command of the planetary mineral
+surveys. 
+WESLEY: Sir? Thank you, sir. 
+RIKER: You may not thank me once you see how much work it entails.
+Assemble a team, and take a look at the records on the Drema quadrant.
+There's a mystery here. We've got to solve it. 
+WESLEY: Yes, sir. A team, sir? 
+PICARD: Ensign, this is a serious responsibility. 
+WESLEY: I know, sir. 
+PICARD: These officers are here to assist you. Not judge, help you. You
+should make use of them. They are a valuable resource. And by the way,
+I respect an officer who is prepared to admit ignorance and ask a
+question, rather than one who out of pride will blunder blindly
+forward. 
+WESLEY: I understand, sir. 
+RIKER: Ensign. You're dismissed. 
+WESLEY: I'll try not to disappoint you.
+
+[Bridge]
+
+(Data is working at a rear station. There are
+components and tools scattered on the floor) 
+WORF: Is this part of your regular duties? 
+DATA: No, it is a personal project. I have reset the sensors to scan
+for frequencies outside their usual range. 
+WORF: Such as? 
+DATA: The dips and peaks of the galaxy's magnetic field, organic
+molecules in nebular clouds, energetic cosmic rays. 
+WORF: Interesting. Would these scans also detect artificial
+transmissions as well as naturally occurring signals? 
+DATA: Of course. 
+WORF: Good. 
+DATA: Those signals are very faint and difficult to distinguish from
+background noise. That is why I am boosting the power. 
+(Worf knocks over a circuit board with his foot) 
+DATA: I will be removing that equipment to my quarters. 
+WORF: Good.
+

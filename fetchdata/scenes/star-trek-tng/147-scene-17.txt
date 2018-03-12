@@ -1,0 +1,85 @@
+RIKER KOLRAMI PICARD GUEST1 GUEST0 DATA GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+
+PICARD:
+Where are my
+weapons?
+GUEST3: Unavailable, sir! We cannot disengage the modified beams. The
+connections have been fused. 
+KOLRAMI: We must retreat! 
+PICARD: Unacceptable! 
+DATA: The Ferengi have broken off their attack. Drop shields. Transport
+the away team aboard. 
+GUEST3: Transporter functions gone, sir. 
+DATA: Shields reduced to one fifth intensity. 
+KOLRAMI: Use their moment of indecision to escape! 
+PICARD: I have forty crewmembers on board the Hathaway. 
+KOLRAMI: Who should be sacrificed to save a thousand! Acceptable
+tactical losses, considering the circumstances. 
+PICARD: Not to me! Notify Starfleet. Priority. Hail the Ferengi on my
+command. Formulate alternatives. 
+KOLRAMI: As the Starfleet observer I am ordering you to withdraw! 
+PICARD: I am the Captain of this vessel! Your order is nullified!
+Ferengi on main viewscreen. 
+(The familiar sight of Armin Shimmerman in Ferengi makeup greets us) 
+PICARD: I am Jean-Luc Picard, of the Federation Starship, USS
+Enterprise. Why have you attacked my vessel? 
+GUEST1 [on viewscreen]: Why was your ship combative with another
+Federation vessel of lesser design? Why do you now protect your former
+target? What is its value to you? 
+GUEST0 [on viewscreen]: Our probes indicate you were aware of our
+approach, yet took no action. 
+GUEST1 [on viewscreen]: Your answers will dictate our response. 
+PICARD: We have refrained from launching a counter-attack in the hope
+that this can be resolved this peacefully. 
+GUEST1 [on viewscreen]: Our probes indicate that you are crippled, and
+the ship you protect has no weaponry, no light speed drive, and only a
+scarce crew. 
+GUEST0 [on viewscreen]: This makes no sense to us. Unless it
+contains something very valuable. 
+GUEST1 [on viewscreen]: I am Bractor, leader of the Ferengi attack
+vessel Kreechta. I shall have the secret of the other Federation ship.
+Surrender it to me, and I will allow your Enterprise to leave unharmed.
+You have ten of your minutes. 
+GUEST3: Sir, they're massing a surge of power. We're being scanned.
+They've locked on. 
+PICARD: Data? 
+DATA: Our shields will not withstand another assault. 
+KOLRAMI: Then there are no options. Retreat or die.
+
+
+Captain's
+log, supplemental. Due
+to a miscalculation on my part, Enterprise
+has been subjected a
+surprise attack by the Ferengi. I
+find myself with little time
+to decide the fate of forty of
+my crew stranded aboard the
+derelict Hathaway.
+
+PICARD:
+I am open to
+suggestions.
+GUEST3: Captain, we are now capable of launching a limited number of
+photon torpedoes. 
+KOLRAMI: I've already given you my advice, Captain. The Hathaway is
+expendable. 
+GUEST3: Commander Riker is hailing, sir. 
+PICARD: On screen. Number One, have you been monitoring communications?
+
+RIKER [on viewscreen]: And Kolrami's right. You've got to save the
+Enterprise. 
+PICARD: That would leave you defenceless. 
+RIKER: When Bractor closes in, we'll hit our warp drive and take our
+chances. 
+PICARD: Your what? 
+RIKER: We have a limited, two-second warp capability. 
+KOLRAMI: Impossible! That ship was rendered warp inactive. 
+PICARD: I told you he was the best. I'd like to hear about this, Number
+One, later. Right now I have to work something out with Mister Data.
+
+

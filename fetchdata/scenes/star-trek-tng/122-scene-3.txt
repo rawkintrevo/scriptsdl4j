@@ -1,0 +1,50 @@
+RIKER LAFORGE WORF PICARD COMPUTER GUEST2 CRUSHER DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+GUEST2: Forget the final check. Initiate start-up
+sequence. 
+COMPUTER: Beginning check list. 
+GUEST2: Override. We are going directly to start-up. 
+COMPUTER: That procedure is not recommended. 
+GUEST2: Understood. Now. Prime matter-antimatter injectors. Set ratio at
+twenty-five to one 
+COMPUTER: Ratio set. 
+GUEST2: Power engine core. Inject reactants. 
+[Bridge]
+
+GUEST2 [OC]: Leland T. Lynch here, Captain. We now
+have minimum warp drive. 
+LAFORGE: Course plotted and set for Vagra Two. 
+PICARD: Warp eight. 
+GUEST2 [OC]: I said minimum warp drive, Captain. 
+PICARD: You heard the order, Mister Lynch. Make it so. 
+GUEST2 [OC]: Yes, sir. 
+(later) 
+LAFORGE: Approaching Vagra Two, Captain. 
+DATA: Strange, sir. There's no emergency signal from the shuttle as
+yet. 
+PICARD: What is this place, Mister Data? 
+DATA: There is little information in the library computer other than
+the fact of its existence. Our sensor show no signs of life forms,
+virtually no vegetation. 
+RIKER: Atmosphere? 
+DATA: Minimum for our needs, sir. 
+PICARD: Standard orbit. 
+LAFORGE: Aye, sir. Standard orbit. 
+WORF: I've located the shuttle. 
+PICARD: Life signs? 
+WORF: Not yet, sir. Still probing. It appears to be buried under a lot
+of debris. I may have something, sir. Faint life signs. Very faint. 
+RIKER: How many? 
+WORF: There's no way of telling from here. 
+PICARD: Data, can we beam up the injured? 
+DATA: No, sir. Our sensors are not fully penetrating whatever the
+debris is. 
+PICARD: That's very unusual. 
+DATA: Yes, sir. I cannot explain. 
+PICARD: Number One, prepare your away team. 
+RIKER: Right away. Data, Yar. 
+PICARD: Doctor Crusher, have you been monitoring all this? 
+CRUSHER [OC]: Yes. I'll meet the away team in transporter room four. 

@@ -1,0 +1,52 @@
+LAFORGE GUEST2 NURSE CRUSHER DATA GUEST0
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Weather control station]
+
+DATA: I have analysed the control module in the
+primary weather control grid. It appears the station is experiencing a
+system wide power failure. 
+LAFORGE: This is impossible. The back up systems should have 
+(an alarm sounds and they spot Ned underneath a console) 
+DATA: Excuse me, sir. You are dismantling the primary power conduit. I
+must ask you to stop. 
+GUEST2: No! (Data pulls him out) Get away from me! You dinna understand.
+He's trying
+to kill us all.
+(green energy leaps out at Ned and throws him across the room) 
+DATA: He is dead. 
+(later, others have gathered) 
+LAFORGE: From what I can tell, he was trying to shut down the entire
+weather control system. He was pulling out the primary plasma conduit.
+That's probably what caused the plasma discharge that killed him. 
+GUEST0: I knew Ned Quint. He was an honest man. He mostly kept to
+himself. I don't know why he'd try something like that. 
+LAFORGE: It's going to take us some time to get the system back online.
+I'd say we need another day at least. 
+DATA: In the meantime, Governor, you should expect the weather problems
+to continue. 
+CRUSHER: I think you'd better take a look at this. 
+(Beverly is by Ned's body) 
+CRUSHER: Data, you said there was a plasma discharge from the console
+when Quint was killed. 
+DATA: That is correct. 
+CRUSHER: Well, that wasn't what killed him. I'm detecting an anomalous
+energy residual throughout his body, right down to the cellular level.
+Whatever it is, it wasn't the result of a plasma discharge. 
+(Data scans the corpse) 
+LAFORGE: Anything? 
+DATA: I cannot identify the energy residual. However, it appears to
+have the same anaphasic signature as the power fluctuations we observed
+from the weather control system. 
+LAFORGE: Then it's possible that whatever caused the weather
+malfunctions also killed Quint. 
+DATA: It is possible. 
+LAFORGE: We should scan the colony for any energy readings that match
+this anaphasic signature. 
+CRUSHER: Governor, with your permission, I'd like to take the body back
+to the ship to run further tests. 
+GUEST0: Of course, Doctor. 
+CRUSHER: Ensign, ask Doctor Selar run a biospectral analysis. 
+NURSE: Yes, Doctor. 
+GUEST0: You're not going to run the tests yourself? 
+CRUSHER: No. I have some things I need to attend to. 

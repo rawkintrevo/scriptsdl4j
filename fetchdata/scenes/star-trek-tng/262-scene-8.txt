@@ -1,0 +1,32 @@
+RIKER JULIANA DATA LAFORGE GUEST2
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Engineering]
+
+DATA: We are within four kilometres of the magma
+pocket. 
+(the ship starts shaking) 
+LAFORGE: We're picking up feedback pulses along the particle beam. 
+JULIANA: We must have hit a pocket of magnesite ore. I'll try to adjust
+the phaser harmonics to compensate. 
+RIKER [OC]: Data, we're going to have to terminate the beam if this
+keeps up. 
+DATA: If we do, we will have to begin a new shaft at a suitable
+location. 
+JULIANA: There is no other suitable location. Just give me a few more
+seconds. 
+LAFORGE: Doctor, it's going to take longer than that to match the 
+(the shaking stops) 
+LAFORGE: You did it. 
+JULIANA: It was just luck I hit the right frequency. All right, we're
+less than two kilometres away from the target site. Stand by to
+terminate the beam. 
+LAFORGE: We've broken through. 
+JULIANA: Now. 
+DATA: I am detecting no signs of 
+[Bridge]
+
+DATA [OC]: Instability. 
+GUEST2: Commander, may I suggest we set up the infusion unit in the first
+magma pocket and give this one a chance to cool. 
+RIKER: Data 

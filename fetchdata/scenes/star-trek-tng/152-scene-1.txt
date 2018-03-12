@@ -1,0 +1,35 @@
+TROI LAFORGE WORF PICARD RIKER GUEST0 DATA
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Bridge]
+
+PICARD: Mister La Forge, report. 
+LAFORGE: We've finished replicating the parts they'll need, but what I
+don't understand is why a three man station would need a reactor
+capable of producing four point two gigawatts. 
+RIKER: Enough to power a small phaser bank, a subspace relay station,
+or 
+LAFORGE: A hologram generator. Oh, a duck blind. Right. They're
+anthropologists. 
+PICARD: Who are studying an extended family of Mintakans at close range
+from a camouflaged observation post. 
+TROI: According to Doctor Barron's preliminary reports, the Mintakans
+are proto-Vulcan humanoids at the Bronze Age level. Quite peaceful and
+highly rational. 
+PICARD: Which is not surprising, considering how closely their
+evolution parallels Vulcan. 
+WORF: Captain, incoming transmission from Mintaka Three. 
+PICARD: Thank you, Lieutenant. On screen. 
+(a dodgy image with lots of interference lines) 
+GUEST0 [on viewscreen]: Barron to Enterprise. Our temporary repairs
+have failed. The reactor is now inoperative. 
+PICARD: Do you have battery backup? 
+GUEST0 [on viewscreen]: Three hours at best. 
+DATA: Captain, if we increase to warp seven we can be there in twenty
+three minutes. 
+PICARD: Make it so. We're on our way. 
+(They see a big explosion on the screen. One man escapes through the
+now-exposed observation window on to the planet surface proper) 
+WORF: We've lost contact, sir. 
+PICARD: Increase to warp nine.
+

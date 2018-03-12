@@ -1,0 +1,56 @@
+RIKER DATA LAFORGE WORF GUEST3
+0.034020 0.012584 0.004692 0.000000 0.022988 0.003482 0.000000 0.000000 0.009104 0.000000 0.005424 0.005693 0.000000 0.054289 0.000000 0.023082 0.005544 0.000000 0.000000 0.000000 0.000000 0.023515 0.000000 0.000000 0.000266 0.000000 0.000000 0.111863 0.000000 0.000000 0.000000 0.004898 0.000000 0.000000 0.065267 0.000000 0.023883 0.000000 0.000000 0.000000 0.000000 0.013122 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.008574 0.000000 0.000000 0.016293 0.000000
+
+[Barber shop]
+
+GUEST3: She said, if they're not squirming, we won't
+eat 'em! 
+(Worf enters) 
+GUEST3: Ah, Mister Worf, my good Klingon. Sir, welcome. What a pleasure it
+is to have you with us again so soon. So, Lieutenant, haircut today?
+Trim your beard? 
+WORF: I would like my hair trimmed. 
+GUEST3: Ah. A trim, of course. 
+WORF: Not like last time. 
+GUEST3: Oh no, just a little off the top. I took way too much off last
+time. I was just telling my colleague, Mister Setti, how thick and
+luxuriant Klingon hair is. It's such a pleasure to cut. Sometimes I get
+carried away. All those away missions, the wind and dry air, the
+elements really are harsh on the hair. I'd like to suggest that you
+start using a conditioning agent. 
+(Worf sees the scissors and grabs Mot's arm) 
+GUEST3: I promise, not too much off the top. 
+(Worf leaves)
+
+[Cargo bay]
+
+(Geordi is up a ladder, looking inside a panel) 
+LAFORGE: Just before the grid alarm sounded, we were running warp power
+through this junction. Somehow, it must've tripped the internal
+scanners. 
+RIKER: And it showed up as an EPS explosion? 
+LAFORGE: Yes, but the question is, why? I've made modifications to the
+sensors before but nothing like this has ever happened. 
+(He comes down the ladder) 
+RIKER: We can't waste time chasing down sensor ghosts. We should
+probably keep the whole array offline until we can get take a closer
+look. 
+LAFORGE: (yawns) Excuse me. 
+RIKER: I know the feeling. The past few nights, it seems like as soon
+as my head hits the pillow, it's time to get up in the morning. 
+LAFORGE: I'm sure we could all use a little shore leave after this
+survey's completed. 
+RIKER: Definitely. Keep me posted? 
+LAFORGE: Yeah. Data, I'm wondering if you could give me a hand. I need
+to run a structural integrity scan. I want to make sure that none of
+the conduit was 
+(Geordi sways) 
+DATA: What is it? 
+LAFORGE: This is the second time today that my visor's just cut out
+like that. 
+DATA: Are you all right, Geordi? 
+LAFORGE: I don't know. I just had a very weird feeling. Maybe I should
+go to Sickbay. 
+DATA: I will run the integrity scan. 
+LAFORGE: Thanks, Data.
+
