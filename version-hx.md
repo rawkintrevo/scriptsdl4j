@@ -426,3 +426,12 @@ val rng = new Random(12345)
 # v22a
 
 - updated topics to .51 and .49 respectively
+- seeing more "shields" "phasers" "Romulan" etc- but at the cost of worse output wrt grammer/spelling. 
+
+# v22b 
+- wasn't including topics in output...
+
+# v23
+
+- word2vec: [some basic understanding of Star Trek](http://bionlp-www.utu.fi/wv_demo/) Set to google news and try typing in `Romulan` `Klingon` `Captain_Picard`
+- we'll use google 300 for word2vec (will try training our own soon or possible just skip to though-vectors)

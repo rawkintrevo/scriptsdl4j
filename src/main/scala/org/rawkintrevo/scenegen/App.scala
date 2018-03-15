@@ -238,6 +238,9 @@ object App {
         for (a <- _initActors) {
           nextInput.putScalar(Array[Int](s, iter.validCharacters.length + iter.actorToIdxMap(a)), 1.0f)
         }
+        for (t_i <- _initTopics.indices) {
+          nextInput.putScalar(Array[Int](s, iter.validCharacters.length + iter.validActors.length + t_i), _initTopics(t_i))
+        }
         sb(s).append(iter.convertIndexToCharacter(sampledCharacterIdx)) //Add sampled character to StringBuilder (human readable output)
       }
       output = net.rnnTimeStep(nextInput) //Do one time step of forward pass

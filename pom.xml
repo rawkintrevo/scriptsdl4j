@@ -24,7 +24,7 @@
     <nd4j.version>0.9.1</nd4j.version>
     <cuda.version>8.0</cuda.version>
     <dl4j.version>${nd4j.version}</dl4j.version>
-    <mainClass>org.rawkintrevo.scenegen.App</mainClass>
+    <mainClass>org.rawkintrevo.word2vec.App</mainClass>
   </properties>
 
   <!--<repositories>-->
