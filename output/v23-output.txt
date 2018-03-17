@@ -1,16 +1,16 @@
-14:56:36.775 [main] DEBUG o.d.ui.play.PlayUIServer - Loaded UI module via service loader: class org.deeplearning4j.arbiter.ui.module.ArbiterModule
-14:56:36.999 [main] DEBUG play.api.libs.CryptoConfigParser - Generated dev mode secret aea584dabc0c92ba91f99d5e5f07313b for app at jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf
-14:56:37.004 [main] WARN  application - application.conf @ jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf: 355: parsers.text.maxLength is deprecated, use play.http.parser.maxMemoryBuffer instead
-14:56:37.281 [main] DEBUG p.a.l.concurrent.ActorSystemProvider - Starting application default Akka system: application
-14:56:37.350 [main] INFO  play.api.Play - Application started (Dev)
-14:56:37.528 [main] INFO  play.core.server.NettyServer - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
-14:56:37.528 [main] INFO  o.d.ui.play.PlayUIServer - DL4J UI Server started at http://localhost:9000
-14:56:37.529 [Thread-1] DEBUG o.d.ui.play.PlayUIServer - PlayUIServer.StatsEventRouterRunnable started
-14:56:37.532 [main] INFO  o.d.ui.play.PlayUIServer - StatsStorage instance attached to UI: InMemoryStatsStorage(uid=ca59c61f)
+09:59:41.619 [main] DEBUG o.d.ui.play.PlayUIServer - Loaded UI module via service loader: class org.deeplearning4j.arbiter.ui.module.ArbiterModule
+09:59:41.797 [main] DEBUG play.api.libs.CryptoConfigParser - Generated dev mode secret aea584dabc0c92ba91f99d5e5f07313b for app at jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf
+09:59:41.800 [main] WARN  application - application.conf @ jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/application.conf: 355: parsers.text.maxLength is deprecated, use play.http.parser.maxMemoryBuffer instead
+09:59:41.976 [main] DEBUG p.a.l.concurrent.ActorSystemProvider - Starting application default Akka system: application
+09:59:42.023 [main] INFO  play.api.Play - Application started (Dev)
+09:59:42.277 [main] INFO  play.core.server.NettyServer - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+09:59:42.277 [main] INFO  o.d.ui.play.PlayUIServer - DL4J UI Server started at http://localhost:9000
+09:59:42.313 [Thread-1] DEBUG o.d.ui.play.PlayUIServer - PlayUIServer.StatsEventRouterRunnable started
+09:59:42.316 [main] INFO  o.d.ui.play.PlayUIServer - StatsStorage instance attached to UI: InMemoryStatsStorage(uid=2084771f)
 loading iterator
 loading word2vec model
-14:56:37.579 [main] INFO  org.nd4j.linalg.factory.Nd4jBackend - Loaded [JCublasBackend] backend
-14:56:37.606 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+09:59:42.353 [main] INFO  org.nd4j.linalg.factory.Nd4jBackend - Loaded [JCublasBackend] backend
+09:59:42.398 [main] DEBUG org.reflections.Reflections - going to scan these urls:
 file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
 file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
 file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar
@@ -25,7 +25,7 @@ file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar
 file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar
 file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
 file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar
-14:56:37.653 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+09:59:42.428 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
 org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
 either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
 	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
@@ -43,76 +43,185 @@ either use fromURL(final URL url, final List<UrlType> urlTypes) or use the stati
 	at org.deeplearning4j.models.embeddings.inmemory.InMemoryLookupTable.<init>(InMemoryLookupTable.java:62) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
 	at org.deeplearning4j.models.embeddings.loader.WordVectorSerializer.readWord2VecModel(WordVectorSerializer.java:2314) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
 	at org.deeplearning4j.models.embeddings.loader.WordVectorSerializer.readWord2VecModel(WordVectorSerializer.java:2266) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
-	at org.rawkintrevo.word2vec.WordIterator.<init>(WordIterator.scala:86) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
-	at org.rawkintrevo.word2vec.App$.getIterator(App.scala:172) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
-	at org.rawkintrevo.word2vec.App$.main(App.scala:84) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.word2vec.WordIterator2.<init>(WordIterator2.scala:67) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.word2vec.App$.getIterator(App.scala:194) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.word2vec.App$.main(App.scala:98) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
 	at org.rawkintrevo.word2vec.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
-14:56:37.858 [main] INFO  org.reflections.Reflections - Reflections took 251 ms to scan 13 urls, producing 58720 keys and 63034 values 
-14:56:38.978 [main] INFO  org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for NativeOps: 32
-14:56:39.360 [application-akka.actor.default-dispatcher-4] DEBUG org.reflections.Reflections - going to scan these urls:
+09:59:42.539 [main] INFO  org.reflections.Reflections - Reflections took 141 ms to scan 13 urls, producing 58725 keys and 63044 values 
+09:59:43.316 [main] INFO  org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for NativeOps: 32
+09:59:43.684 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.686 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.686 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.687 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.687 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.688 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.688 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.688 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.689 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.689 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.690 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.690 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.690 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.691 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.691 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.692 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.692 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.692 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.693 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.693 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.694 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.694 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.695 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.695 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.696 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.696 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.697 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.697 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.698 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.698 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.698 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.699 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
+09:59:43.701 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [40] to device [0], out of [1] devices...
+09:59:43.701 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [41] to device [0], out of [1] devices...
+09:59:43.701 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [42] to device [0], out of [1] devices...
+09:59:43.701 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [43] to device [0], out of [1] devices...
+09:59:43.702 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [44] to device [0], out of [1] devices...
+09:59:43.702 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [45] to device [0], out of [1] devices...
+09:59:43.703 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
+09:59:43.861 [main] INFO  org.reflections.Reflections - Reflections took 158 ms to scan 1 urls, producing 31 keys and 227 values 
+09:59:43.950 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Backend used: [CUDA]; OS: [Linux]
+09:59:43.950 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Cores: [8]; Memory: [7.0GB];
+09:59:43.950 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Blas vendor: [CUBLAS]
+09:59:43.950 [main] INFO  o.n.l.j.o.e.CudaExecutioner - Device name: [GeForce GTX 1060 6GB]; CC: [6.1]; Total/free memory: [6371475456]
+09:59:44.041 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 5
+09:59:44.089 [main] DEBUG o.d.m.e.loader.WordVectorSerializer - Trying simplified model restoration...
+09:59:44.090 [main] DEBUG o.d.m.e.loader.WordVectorSerializer - Trying CSV model restoration...
+09:59:44.104 [main] DEBUG o.d.m.e.loader.WordVectorSerializer - Skipping first line
+09:59:44.110 [main] DEBUG o.d.m.e.loader.WordVectorSerializer - Trying binary model restoration...
+09:59:44.891 [application-akka.actor.default-dispatcher-2] DEBUG org.reflections.Reflections - going to scan these urls:
 jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/dl4j_i18n/
-14:56:39.546 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.549 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.550 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.550 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.551 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.552 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.552 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.553 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.554 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.555 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.555 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.556 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.557 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.559 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.560 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.561 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.561 [application-akka.actor.default-dispatcher-4] INFO  org.reflections.Reflections - Reflections took 201 ms to scan 1 urls, producing 55870 keys and 59845 values 
-14:56:39.561 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.562 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.565 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.568 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.570 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.571 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.572 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.573 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.574 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.575 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.576 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.577 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.578 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.579 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.580 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.581 [main] DEBUG o.n.j.a.c.impl.BasicContextPool - Creating new stream for thread: [1], device: [0]...
-14:56:39.587 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [40] to device [0], out of [1] devices...
-14:56:39.587 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [41] to device [0], out of [1] devices...
-14:56:39.603 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [42] to device [0], out of [1] devices...
-14:56:39.615 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [43] to device [0], out of [1] devices...
-14:56:39.624 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [44] to device [0], out of [1] devices...
-14:56:39.627 [application-akka.actor.default-dispatcher-4] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Indian/Kerguelen
-14:56:39.627 [main] DEBUG o.n.j.c.CudaAffinityManager - Manually mapping thread [45] to device [0], out of [1] devices...
-14:56:39.627 [application-akka.actor.default-dispatcher-4] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Asia/Aden
-14:56:39.627 [application-akka.actor.default-dispatcher-4] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Europe/Copenhagen
-14:56:39.636 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+09:59:45.134 [application-akka.actor.default-dispatcher-2] INFO  org.reflections.Reflections - Reflections took 242 ms to scan 1 urls, producing 55875 keys and 59850 values 
+09:59:45.222 [application-akka.actor.default-dispatcher-2] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Indian/Kerguelen
+09:59:45.222 [application-akka.actor.default-dispatcher-2] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Asia/Aden
+09:59:45.222 [application-akka.actor.default-dispatcher-2] DEBUG o.deeplearning4j.ui.i18n.DefaultI18N - Error parsing UI I18N content file; skipping: org/joda/time/tz/data/Europe/Copenhagen
+09:59:45.243 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 2
+09:59:45.247 [main] INFO  o.d.m.e.loader.WordVectorSerializer - Projected memory use for model: [3.35 GB]
+09:59:45.266 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 0
+09:59:45.271 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 4
+09:59:45.275 [main] DEBUG org.reflections.Reflections - going to scan these urls:
 jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
-14:56:39.875 [main] INFO  org.reflections.Reflections - Reflections took 239 ms to scan 1 urls, producing 31 keys and 227 values 
-14:56:39.961 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Backend used: [CUDA]; OS: [Linux]
-14:56:39.961 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Cores: [8]; Memory: [7.0GB];
-14:56:39.961 [main] INFO  o.n.l.a.o.e.DefaultOpExecutioner - Blas vendor: [CUBLAS]
-14:56:39.961 [main] INFO  o.n.l.j.o.e.CudaExecutioner - Device name: [GeForce GTX 1060 6GB]; CC: [6.1]; Total/free memory: [6371475456]
-14:56:40.052 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 0
-14:56:40.095 [main] DEBUG o.d.m.e.loader.WordVectorSerializer - Trying simplified model restoration...
-14:56:40.097 [main] DEBUG o.d.m.e.loader.WordVectorSerializer - Trying CSV model restoration...
-14:56:40.109 [main] DEBUG o.d.m.e.loader.WordVectorSerializer - Skipping first line
-14:56:40.115 [main] DEBUG o.d.m.e.loader.WordVectorSerializer - Trying binary model restoration...
-14:56:41.207 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 1
-14:56:41.246 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 4
-14:56:41.254 [main] INFO  o.d.m.e.loader.WordVectorSerializer - Projected memory use for model: [3.35 GB]
-14:56:41.270 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 3
-14:56:41.272 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 5
-14:56:41.278 [main] DEBUG org.reflections.Reflections - going to scan these urls:
-jar:file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar!/
-14:56:41.509 [main] INFO  org.reflections.Reflections - Reflections took 231 ms to scan 1 urls, producing 416 keys and 1637 values 
-14:56:41.519 [main] INFO  org.nd4j.nativeblas.Nd4jBlas - Number of threads used for BLAS: 0
-14:56:41.528 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 2
-14:56:42.533 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [3600000000]
+09:59:45.563 [main] INFO  org.reflections.Reflections - Reflections took 287 ms to scan 1 urls, producing 416 keys and 1637 values 
+09:59:45.570 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 1
+09:59:45.581 [main] INFO  org.nd4j.nativeblas.Nd4jBlas - Number of threads used for BLAS: 0
+09:59:45.593 [main] DEBUG o.n.j.handler.impl.CudaZeroHandler - Creating bucketID: 3
+09:59:46.543 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [3600000000]
+word2vec model loaded
+loaded 300 items, building network
+10:13:20.804 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/rawkintrevo/gits/scriptsdl4j/target/scripts-dl4j-0.1-SNAPSHOT-shaded.jar
+file:/home/rawkintrevo/gits/scriptsdl4j/target/
+file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so
+10:13:25.447 [main] WARN  org.reflections.Reflections - could not create Vfs.Dir from url. ignoring the exception and continuing
+org.reflections.ReflectionsException: could not create Vfs.Dir from url, no matching UrlType was found [file:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/libatk-wrapper.so]
+either use fromURL(final URL url, final List<UrlType> urlTypes) or use the static setDefaultURLTypes(final List<UrlType> urlTypes) or addDefaultURLTypes(UrlType urlType) with your specialized UrlType.
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:109) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.vfs.Vfs.fromURL(Vfs.java:91) ~[scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:237) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.scan(Reflections.java:204) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.reflections.Reflections.<init>(Reflections.java:129) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.registerSubtypes(NeuralNetConfiguration.java:466) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.configureMapper(NeuralNetConfiguration.java:421) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.initMapper(NeuralNetConfiguration.java:394) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration.<clinit>(NeuralNetConfiguration.java:123) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$Builder.build(NeuralNetConfiguration.java:1223) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.deeplearning4j.nn.conf.NeuralNetConfiguration$ListBuilder.build(NeuralNetConfiguration.java:279) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.word2vec.App$.main(App.scala:125) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+	at org.rawkintrevo.word2vec.App.main(App.scala) [scripts-dl4j-0.1-SNAPSHOT-shaded.jar:na]
+10:13:25.447 [main] INFO  org.reflections.Reflections - Reflections took 4642 ms to scan 2 urls, producing 3979 keys and 22893 values 
+10:13:25.479 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+10:13:25.479 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+10:13:25.479 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+10:13:25.479 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+10:13:25.479 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+10:13:25.482 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ReshapeVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+10:13:25.482 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.modelimport.keras.preprocessors.TensorFlowCnnToFeedForwardPreProcessor as subtype of org.deeplearning4j.nn.conf.InputPreProcessor
+10:13:25.482 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.ShiftVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+10:13:25.483 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.graph.PoolHelperVertex as subtype of org.deeplearning4j.nn.conf.graph.GraphVertex
+10:13:25.483 [main] DEBUG o.d.nn.conf.NeuralNetConfiguration - Registering class for JSON serialization: org.deeplearning4j.nn.conf.layers.CenterLossOutputLayer as subtype of org.deeplearning4j.nn.conf.layers.Layer
+configuration set...
+10:13:25.505 [main] INFO  o.d.nn.multilayer.MultiLayerNetwork - Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+10:13:31.090 [main] DEBUG o.d.nn.layers.recurrent.LSTM - CudnnLSTMHelper successfully initialized
+10:13:31.103 [main] DEBUG o.d.nn.layers.recurrent.LSTM - CudnnLSTMHelper successfully initialized
+network created, intializing
+network initialized
+StatsListener initialized
+summary statistics on inputs:
+input layer size: 300
+Number of parameters in layer 0: 219648
+Number of parameters in layer 1: 131584
+Number of parameters in layer 2: 38700
+Total number of network parameters: 389932
+starting training
+loading dataset
+reading lines
+lines read, creating tokens
+tokens created
+starting while loop
+0
+1
+dataset loaded, fitting network
+10:13:50.895 [main] WARN  o.d.nn.layers.BaseCudnnHelper - Cannot allocate 646993920 bytes of device memory (CUDA error = 2), proceeding with host memory
+10:13:53.869 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:14:05.194 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:14:08.142 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:14:11.143 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:14:15.108 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:14:18.404 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:14:21.585 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:14:25.020 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:14:28.610 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:14:37.612 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:14:40.726 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:14:44.671 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:14:47.638 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [32349696]
+10:14:50.462 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [32349696]
+10:14:53.768 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:14:56.674 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:14:59.058 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:15:02.061 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:15:07.778 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:15:10.670 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:15:14.775 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:15:17.288 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:15:19.842 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:15:22.415 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:15:28.016 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:15:33.161 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [129398784]
+10:15:37.824 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:15:40.962 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:15:44.512 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [303278400]
+10:15:58.201 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [32349696]
+10:16:03.410 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [32349696]
+10:16:06.134 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [32349696]
+10:16:08.751 [main] WARN  o.n.j.handler.impl.CudaZeroHandler - Out of [DEVICE] memory, host memory will be used instead: deviceId: [0], requested bytes: [32349696]
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007f871f60f885, pid=26954, tid=0x00007f87558b6700
+#
+# JRE version: OpenJDK Runtime Environment (8.0_151-b12) (build 1.8.0_151-8u151-b12-0ubuntu0.17.10.2-b12)
+# Java VM: OpenJDK 64-Bit Server VM (25.151-b12 mixed mode linux-amd64 compressed oops)
+# Problematic frame:
+# C  [libcuda.so.1+0x1af885]
+#
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# An error report file with more information is saved as:
+# /home/rawkintrevo/gits/scriptsdl4j/target/hs_err_pid26954.log
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#

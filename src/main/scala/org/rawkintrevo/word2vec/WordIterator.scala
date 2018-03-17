@@ -11,6 +11,8 @@ import java.nio.file.Files
 import java.util
 import java.util.{Collections, Random}
 
+import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer
+import org.deeplearning4j.models.embeddings.wordvectors.WordVectors
 import org.deeplearning4j.models.word2vec.VocabWord
 import org.deeplearning4j.models.word2vec.wordstore.VocabCache
 import org.deeplearning4j.text.sentenceiterator.BasicLineIterator
@@ -19,8 +21,11 @@ import org.deeplearning4j.text.tokenization.tokenizerfactory.DefaultTokenizerFac
 import org.deeplearning4j.text.tokenization.tokenizerfactory.TokenizerFactory
 import org.deeplearning4j.text.tokenization.tokenizer.preprocessor.CommonPreprocessor
 import org.nd4j.linalg.api.ndarray.INDArray
+import org.nd4j.linalg.indexing.{INDArrayIndex, NDArrayIndex}
 
 import scala.collection.JavaConverters._
+
+
 
 /** A simple DataSetIterator for use in the GravesLSTMCharModellingExample.
   * Given a text file and a few options, generate feature vectors and labels for training,
@@ -55,7 +60,6 @@ object WordIterator {
 
 /**
   * @param textFilePath     Path to text file to use for generating samples
-  * @param textFileEncoding Encoding of the text file. Can try Charset.defaultCharset()
   * @param miniBatchSize    Number of examples per mini-batch
   * @param exampleLength    Number of characters in each input/output vector
   * @param rng              Random number generator, for repeatability if required
@@ -64,7 +68,6 @@ object WordIterator {
 @throws[IOException]
 class WordIterator(
                         val textFilePath: String,
-                        val textFileEncoding: Charset,
                         var miniBatchSize: Int, //Size of each minibatch (number of examples)
                         var exampleLength: Int, //Length of each example/minibatch (number of characters)
 //                        var validCharacters: Array[Char], //Valid characters
@@ -77,61 +80,80 @@ class WordIterator(
   if (miniBatchSize <= 0)
     throw new IllegalArgumentException("Invalid miniBatchSize (must be >0)")
 
-  import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer
-  import org.deeplearning4j.models.word2vec.Word2Vec
 
-  val word2vecModel: Word2Vec = {
+
+  //Offsets for which script in allChars to be used in minibatch
+  private val exampleStartOffsets: util.LinkedList[Integer] = new util.LinkedList[Integer]
+
+  val word2vecModel: WordVectors = {
     println("loading word2vec model")
     val gModel = new File("/home/rawkintrevo/gits/scriptsdl4j/data/GoogleNews-vectors-negative300.bin.gz")
-    val w2v = WordVectorSerializer.readWord2VecModel(gModel)
+    val w2v = WordVectorSerializer.loadStaticModel(gModel)
     println("word2vec model loaded")
     w2v
   }
 
 
 
-  def getRandomWord(): String = {
-    val vocab =word2vecModel.getVocab
+  def getRandomWord: String = {
+    val vocab =word2vecModel.vocab()
     vocab.wordAtIndex(rng.nextInt(vocab.numWords()))
   }
 
-  val t: TokenizerFactory = new DefaultTokenizerFactory
-  //Offsets for which script in allChars to be used in minibatch
-  private val exampleStartOffsets: util.LinkedList[Integer] = new util.LinkedList[Integer]
+  def convertINDArrayToWord(v: INDArray): String =
+    word2vecModel.wordsNearest(v, 1).iterator().next()
 
-  //  initializeOffsets()
+  val t: TokenizerFactory = new DefaultTokenizerFactory
+
+  val maxTokens: Int = {
+    val textFileEncoding = Charset.forName("UTF-8")
+    // Line, Word, Vector
+    val lineIter = new BasicLineIterator(textFilePath)
+    println(s"attempting to load wordVecSeqs")
+    t.setTokenPreProcessor(new CommonPreprocessor())
+    var maxTokens = 0
+    while (lineIter.hasNext) {
+      val thisLine = lineIter.nextSentence()
+      val theseTokens = t.create(thisLine)
+      val allTokenArray: Array[String] = theseTokens.getTokens.toArray().map(_.toString)
+      val tokenArray = allTokenArray.map(w => if (word2vecModel.hasWord(w)) w).map(_ != null)
+      maxTokens = math.max(maxTokens, tokenArray.length)
+    }
+    println(s"maxTokens: $maxTokens")
+    maxTokens
+  }
 
   def loadWordVecsFromFile(filename: String): Array[Array[Array[Double]]] = {
+    val textFileEncoding = Charset.forName("UTF-8")
     // Line, Word, Vector
     val lineIter = new BasicLineIterator(filename)
     println(s"attempting to load wordVecSeqs")
     t.setTokenPreProcessor(new CommonPreprocessor())
     val textFilePath = filename
     val lines: util.List[String] = Files.readAllLines(new File(textFilePath).toPath, textFileEncoding)
-    val maxSize: Int  = lines.size + lines.asScala.map(_.length - exampleLength).sum //add lines.size() to account for newline characters at end of each line
-    val wordVectorSeqs = Array.ofDim[Array[Double]](maxSize, exampleLength)
-
+    val maxSize: Int  = lines.size //+ lines.asScala.map(_.length - exampleLength).sum //add lines.size() to account for newline characters at end of each lin
+    val wordVectorSeqs = Array.ofDim[Array[Double]](maxSize, maxTokens)
     var lineIdx: Int = 0
-
     while (lineIter.hasNext) {
       val thisLine = lineIter.nextSentence()
       val theseTokens = t.create(thisLine)
-      var wordIdx = 0
       val allTokenArray: Array[String] = theseTokens.getTokens.toArray().map(_.toString)
-      val tokenArray = allTokenArray.map(w => if (word2vecModel.hasWord(w)) w )
-      if (tokenArray.length > exampleLength) {
-        for (i <- 0 until math.max(tokenArray.length - exampleLength, 1)) {
-          for (thisToken <- tokenArray.slice(i, i + exampleLength)){
-            val thisVector: Array[Double] = word2vecModel.getWordVector(thisToken.toString)
-            wordVectorSeqs(lineIdx)(wordIdx) = thisVector
-            wordIdx += 1
-          }
-          lineIdx += 1
+      val tokenArray = allTokenArray.map(w => if (word2vecModel.hasWord(w)) w ).map(_!= null)
+
+      for (i <- 0 until tokenArray.length) {
+        var wordIdx = 0
+        for (thisToken <- tokenArray){
+          val thisVector: Array[Double] = word2vecModel.getWordVector(thisToken.toString)
+          wordVectorSeqs(lineIdx)(wordIdx) = thisVector
+          wordIdx += 1
         }
+        lineIdx += 1
       }
     }
-    println(s"loaded ${wordVectorSeqs.length} wordVecSeqs")
-    wordVectorSeqs
+
+    val finalWordVectorSeqs = wordVectorSeqs.filter(_ != null)
+    println(s"loaded ${finalWordVectorSeqs.length} wordVecSeqs")
+    finalWordVectorSeqs
   }
 
   val wordVecSeqs: Array[Array[Array[Double]]] = {
@@ -139,59 +161,15 @@ class WordIterator(
     loadWordVecsFromFile(textFilePath)
   }
 
-//
-//  def loadAllFileChars(directory: String): Array[Array[Char]] = {
-//    def getListOfFiles(dir: String):List[String] = {
-//      val d = new File(dir)
-//      if (d.exists && d.isDirectory) {
-//        d.listFiles.filter(_.isFile).toList.map(_.toString)
-//      } else {
-//        List[String]()
-//      }
-//    }
-//
-//    val allFiles = getListOfFiles(directory)
-//    val allChars = new Array[Array[Char]](allFiles.length)
-//    for (i <- 0 until allFiles.length) {
-//      allChars(i) = loadCharsFromFile(allFiles(i))
-//    }
-//    allChars
-//  }
-//
-//  private val allChars: Array[Array[Char]] = loadAllFileChars(textFilePath)
 
   initializeOffsets()
 
-//  def convertIndexToCharacter(idx: Int): Char =
-//    validCharacters(idx)
-//
-    def convertINDArrayToWord(v: INDArray): String =
-      word2vecModel.wordsNearest(v, 1).iterator().next()
-
-//  def convertCharacterToIndex(c: Char): Int =
-//    charToIdxMap(c)
-//
-//  def getRandomCharacter: Char =
-//    validCharacters((rng.nextDouble * validCharacters.length).toInt)
-
   def hasNext: Boolean =
     exampleStartOffsets.size > 0
-  //    cursorPos < allChars.length
+
 
   def next: DataSet =
     next(miniBatchSize)
-
-//  val allActorsTextFilePath = "/home/rawkintrevo/gits/scriptsdl4j/fetchdata/scripts/tng-all-chars.txt"
-//  val validActors: Array[String] = Files.readAllLines(new File(allActorsTextFilePath).toPath, textFileEncoding)
-//    .toArray()
-//    .map(_.toString)
-//
-//
-//  val actorToIdxMap: Map[String, Int] =
-//    validActors.indices.map({ i => (validActors(i), i)}).toMap
-//
-//  val nTopics: Int = Files.readAllLines(new File("/home/rawkintrevo/gits/scriptsdl4j/fetchdata/scripts/topics.txt").toPath, textFileEncoding).size()
-
 
   def next(num: Int): DataSet = {
     if (exampleStartOffsets.size == 0) throw new NoSuchElementException
@@ -200,13 +178,15 @@ class WordIterator(
     //Allocate space:
     //Note the order here:
     // dimension 0 = number of examples in minibatch
-    // dimension 1 = size of each vector (i.e., number of characters)
+    // dimension 1 = size of each vector (i.e., number of tokens)
     // dimension 2 = length of each time series/example
     //Why 'f' order here? See http://deeplearning4j.org/usingrnns.html#data section "Alternative: Implementing a custom DataSetIterator"
     val dim1 = wordVecSeqs(0)(0).length
-    val input = Nd4j.create(Array[Int](currMinibatchSize, dim1, exampleLength), 'f')
-    val labels = Nd4j.create(Array[Int](currMinibatchSize, dim1, exampleLength), 'f')
+    val input = Nd4j.create(Array[Int](currMinibatchSize, dim1, maxTokens), 'f')
+    val labels = Nd4j.create(Array[Int](currMinibatchSize, dim1, maxTokens), 'f')
 
+    val featuresMask = Nd4j.zeros(currMinibatchSize, maxTokens)
+    val labelsMask = Nd4j.zeros(currMinibatchSize, maxTokens)
 //    val input = Nd4j.create(Array[Int](currMinibatchSize, validCharacters.length + validActors.length + nTopics, exampleLength), 'f')
 //    val labels = Nd4j.create(Array[Int](currMinibatchSize, validCharacters.length, exampleLength), 'f')
 
@@ -220,32 +200,30 @@ class WordIterator(
 //      val headerLines = 2
 //      val scriptData: Array[Char] = sceneLines.slice(headerLines, sceneLines.length).mkString("\n").toCharArray
 //      var currCharIdx = charToIdxMap(scriptData(0))
-
+      println(s"startIdx: $startIdx")
+      println(s"wordVecSeqs(startIdx): ${wordVecSeqs(startIdx)}")
       var currWordVec = Nd4j.create(wordVecSeqs(startIdx)(0))
       //Current input
 //      var c: Int = 0
-      for (j <- 1 until exampleLength) {
+      for (j <- 1 until maxTokens) {
 //        val nextCharIdx = charToIdxMap(scriptData(j)) //Next character to predict
-        val nextWordVec = Nd4j.create(wordVecSeqs(startIdx)(j))
-//        input.putScalar(Array[Int](i, currCharIdx, c), 1.0)
+        if (wordVecSeqs(startIdx).length > j) {
+          val nextWordVec = Nd4j.create(wordVecSeqs(startIdx)(j))
+          input.put(Array[Int](i, j), currWordVec)
+          labels.put(Array[Int](i, j), nextWordVec)
+          currWordVec = nextWordVec
+          featuresMask.put(i, j, 1)
+          labelsMask.put(i, j, 1)
 
-        input.put(Array[Int](i, j), currWordVec)
-//        for (a <- actors) {
-//          if (actorToIdxMap.contains(a)) {
-//            input.putScalar(Array[Int](i, validCharacters.length + actorToIdxMap(a), c), 1.0)
-//          } else {input.putScalar(Array[Int](i, validCharacters.length + actorToIdxMap("GUEST0"), c), 1.0) } // a lazy hack bc occasionally there is a "GUEST" or "P" or "T" and I can't figure out where this is coming from
-//        }
-//        for (t_i <- topics.indices) {
-//          input.putScalar(Array[Int](i, validCharacters.length + validActors.length + t_i, c), topics(t_i))
-//        }
-//        labels.putScalar(Array[Int](i, nextCharIdx, c), 1.0)
-        labels.put(Array[Int](i,j), nextWordVec)
-//        currCharIdx = nextCharIdx
-        currWordVec = nextWordVec
-//        c += 1
+        } else {
+          input.put(Array[Int](i,j), Nd4j.zeros(currWordVec.columns()))
+          labels.put(Array[Int](i,j), Nd4j.zeros(currWordVec.columns()))
+          featuresMask.put(i, j, 0)
+          labelsMask.put(i, j, 0)
+        }
       }
     }
-    new DataSet(input, labels)
+    new DataSet(input, labels, featuresMask,labelsMask)
   }
 
   def totalExamples: Int =
@@ -268,7 +246,7 @@ class WordIterator(
   private def initializeOffsets(): Unit = {
     // Randomly Select Indexes from wordVecSeqs
     // This uses ALL examples for each epoch (which is def of an epoch)
-    for (i <- 0 until wordVecSeqs.length){
+    for (i <- wordVecSeqs.indices){
       exampleStartOffsets.add(i)
     }
     Collections.shuffle(exampleStartOffsets, rng)
