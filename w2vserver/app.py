@@ -18,9 +18,9 @@ def vec2word():
 @app.route('/word2vec/<word>')
 def word2vec(word):
     if word in model:
-        return jsonify({"vec" : model[word].tolist()})
+        return jsonify({"vec" : model[word].tolist(), "foundResult": [1]})
     else:
-        return False
+        return jsonify({"foundResult" : [0]})
 
 
 if __name__ == '__main__':

@@ -435,3 +435,37 @@ val rng = new Random(12345)
 
 - word2vec: [some basic understanding of Star Trek](http://bionlp-www.utu.fi/wv_demo/) Set to google news and try typing in `Romulan` `Klingon` `Captain_Picard`
 - we'll use google 300 for word2vec (will try training our own soon or possible just skip to though-vectors)
+- built applet server for encoding / decoding word2vec (if done in dl4j model tries to use CUDA which eats up all the CUDA)
+
+
+```scala
+val lstmLayerSize = 512    //Number of units in each LSTM layer
+    val miniBatchSize = 512 // doesn't matter right now- each cycle is a full epoch
+    val exampleLength = 12       // minimum length of a "sentance"
+    val tbpttLength = 4         //Length for truncated backpropagation through time. i.e., do parameter updates ever 50 characters
+    val numEpochs = 1000        //Total number of training epochs
+    val generateSamplesEveryNMinibatches = 500   //How frequently to generate samples from the network? 1000 characters / 50 tbptt length: 20 parameter updates per minibatch
+    val nSamplesToGenerate = 1                  //Number of samples to generate after each training epoch
+    val nWordsToSample = 8               //Length of each sample to generate
+//    val generationActors = Array("LAFORGE", "DATA", "TROI", "RIKER")
+//    val generationTopics: Array[Float] = new Array[Float](60)
+//    generationTopics(19) = 0.51.toFloat // Romulans
+//    generationTopics(23) = 0.49.toFloat // Battle
+    val generationInitialization = "captain"         //Optional character initialization; a random word is used if null
+    val learningRate = 0.001
+...
+     .layer(0, new LSTM.Builder().nIn(iter.inputColumns).nOut(lstmLayerSize)  // GravesLSTM doesn't support CuDNN - for gpus should use just lstm
+            .activation(Activation.TANH).build())                                   // see https://deeplearning4j.org/quickref
+          .layer(1, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
+            .activation(Activation.TANH).build())
+    ////      .layer(2, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
+    //        .activation(Activation.TANH).build())
+          .layer(2, new RnnOutputLayer.Builder(LossFunction.MCXENT)
+            .activation(Activation.SOFTMAX)
+            .nIn(lstmLayerSize).nOut(nOut).build())
+```
+
+# v24
+
+- updater changed to ADAM
+

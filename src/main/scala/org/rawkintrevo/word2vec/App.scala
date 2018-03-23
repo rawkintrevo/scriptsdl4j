@@ -26,6 +26,7 @@ import org.deeplearning4j.text.tokenization.tokenizer.preprocessor.CommonPreproc
 import org.deeplearning4j.text.tokenization.tokenizerfactory.{DefaultTokenizerFactory, TokenizerFactory}
 import org.nd4j.linalg.api.ndarray.INDArray
 import org.nd4j.linalg.indexing.{INDArrayIndex, NDArrayIndex}
+import scala.collection.JavaConverters._
 
 import scala.collection.mutable
 
@@ -59,26 +60,26 @@ import scala.collection.JavaConverters._
 object App {
 
   val rng = new Random(12345)
-  val exampleLength = 5       // minimum length of a "sentance"
+
 
   @throws[Exception]
   def main(args: Array[String]) {
-    val lstmLayerSize = 128    //Number of units in each LSTM layer
-    val miniBatchSize = 8 // doesn't matter right now- each cycle is a full epoch
-
+    val lstmLayerSize = 2048    //Number of units in each LSTM layer
+    val miniBatchSize = 32
+    val exampleLength = 12       // minimum length of a "sentance"
     val tbpttLength = 4         //Length for truncated backpropagation through time. i.e., do parameter updates ever 50 characters
     val numEpochs = 1000        //Total number of training epochs
-    val generateSamplesEveryNMinibatches = 1   //How frequently to generate samples from the network? 1000 characters / 50 tbptt length: 20 parameter updates per minibatch
+    val generateSamplesEveryNMinibatches = 5   //How frequently to generate samples from the network? 1000 characters / 50 tbptt length: 20 parameter updates per minibatch
     val nSamplesToGenerate = 1                  //Number of samples to generate after each training epoch
     val nWordsToSample = 8               //Length of each sample to generate
 //    val generationActors = Array("LAFORGE", "DATA", "TROI", "RIKER")
 //    val generationTopics: Array[Float] = new Array[Float](60)
 //    generationTopics(19) = 0.51.toFloat // Romulans
 //    generationTopics(23) = 0.49.toFloat // Battle
-    val generationInitialization = "Captain"         //Optional character initialization; a random character is used if null
-    val learningRate = 0.01
+    val generationInitialization = "captain"         //Optional character initialization; a random word is used if null
+    val learningRate = 0.001
     // Above is Used to 'prime' the LSTM with a character sequence to continue/complete.
-    // Initialization characters must all be in CharacterIterator.getMinimalCharacterSet() by default
+
 
 
     val uiServer = UIServer.getInstance
@@ -89,15 +90,18 @@ object App {
     //Attach the StatsStorage instance to the UI: this allows the contents of the StatsStorage to be visualized
     uiServer.attach(statsStorage)
 
-    //Then add the StatsListener to collect this information from the network, as it trains
-    // replaced by WebUI
-
     //Get a DataSetIterator that handles vectorization of text into something we can use to train
     // our GravesLSTM network.
     println("loading iterator")
     val iter = getIterator(miniBatchSize, exampleLength)
     val nOut = iter.totalOutcomes
     println("loaded " + nOut + " items, building network")
+    println(iter.word2idxMap.size)
+    println(iter.idx2wordMap.size)
+    val vecTest = iter.word2vec("Starfleet")
+    println(s"vecTest shape: ${vecTest.shape().mkString(",")}")
+    val vecTest2 = iter.vec2word(vecTest)
+    println(s"found word: $vecTest2")
 
     //Set up network configuration:
     val conf: MultiLayerConfiguration = new NeuralNetConfiguration.Builder()
@@ -107,38 +111,36 @@ object App {
       .learningRate(learningRate)
       .seed(12345)
       .regularization(true)
-      .l2(0.001)
+      .l2(0.01)
       .weightInit(WeightInit.XAVIER)
-      .updater(Updater.RMSPROP)
+      .updater(Updater.ADAM)
       .list()
       .layer(0, new LSTM.Builder().nIn(iter.inputColumns).nOut(lstmLayerSize)  // GravesLSTM doesn't support CuDNN - for gpus should use just lstm
         .activation(Activation.TANH).build())                                   // see https://deeplearning4j.org/quickref
       .layer(1, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
         .activation(Activation.TANH).build())
-//      .layer(2, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
+////      .layer(2, new LSTM.Builder().nIn(lstmLayerSize).nOut(lstmLayerSize)
 //        .activation(Activation.TANH).build())
       .layer(2, new RnnOutputLayer.Builder(LossFunction.MCXENT)
-        .activation(Activation.SOFTMAX)  //MCXENT + softmax for classification
+        .activation(Activation.SOFTMAX)
         .nIn(lstmLayerSize).nOut(nOut).build())
       .backpropType(BackpropType.TruncatedBPTT).tBPTTForwardLength(tbpttLength).tBPTTBackwardLength(tbpttLength)
       .pretrain(false).backprop(true)
       .build()
 
-    println("configuration set...")
+
     val net = new MultiLayerNetwork(conf)
     net.setListeners(new ScoreIterationListener(1))
-    println("network created, intializing")
+
     net.init()
-    println("network initialized")
+
     net.setListeners(new StatsListener(statsStorage))
     // surf to http://localhost:9000/train
 
-    println("StatsListener initialized")
+
 
     val layers = net.getLayers
     var totalNumParams = 0
-    println("summary statistics on inputs:")
-    println("input layer size: " + iter.inputColumns)
     for (i <- layers.indices) {
       val nParams = layers(i).numParams
       println("Number of parameters in layer " + i + ": " + nParams)
@@ -147,34 +149,46 @@ object App {
     println("Total number of network parameters: " + totalNumParams)
 
     //Do training, and then generate and print samples from network
-    var miniBatchNumber = 0
-    println("starting training")
+
+
     for (i <- 0 until numEpochs) {
-//      while (iter.hasNext) {
-        println("loading dataset")
+      var miniBatchNumber = 0
+      while (iter.hasNext) {
         val ds = iter.next
 
-        println("dataset loaded, fitting network")
+        val features = ds.getFeatures
+        val labels = ds.getLabels
+        //        println(s"features.shape: ${features.shape().mkString(",")}")
+        //        println(s"labels.shape: ${labels.shape().mkString(",")}")
+        //        //        for (i <- 0 until features.shape()(0)){
+        //        //          for (j <- 0 until features.shape()(1)) {
+        //        //            val featureVec = features.get(NDArrayIndex.point(i), NDArrayIndex.all, NDArrayIndex.point(j))
+        //        //            val labelVec = features.get(NDArrayIndex.point(i), NDArrayIndex.all, NDArrayIndex.point(j))
+        //        //            println(s"vec2word feature $j : ${iter.vec2word(featureVec)}")
+        //        //            println(s"vec2word label   $j : ${iter.vec2word(labelVec)}")
+        //        //          }
+        //        //        }
         net.fit(ds)
-        println("network fit")
-        miniBatchNumber += 1
+
         if (miniBatchNumber % generateSamplesEveryNMinibatches == 0) {
           println(s"miniBatchNumber : $miniBatchNumber")
           println("--------------------")
           println("Sampling characters from network given initialization \"" +
             (if (Option(generationInitialization).isEmpty) "" else generationInitialization) + "\"")
-          val samples = sampleWordsFromNetwork(generationInitialization,
+          val samples: Array[String] = sampleWordsFromNetwork(generationInitialization,
             net, iter, rng, nWordsToSample, nSamplesToGenerate)
           for (j <- samples.indices) {
             println("----- Sample " + j + " -----")
             println(samples(j))
             println()
           }
+          println("Completed mini-batch " + miniBatchNumber + " samples of size " + iter.totalExamples + "x" + exampleLength + " words")
         }
-        println("Completed Epoch" + i + " samples of size " + iter.totalExamples + "x" + exampleLength + " characters")
+        miniBatchNumber += 1
       }
-//      iter.reset() //Reset iterator for another epoch
-//    }
+      println(s"Completed Epoch ${i}")
+      iter.reset() //Reset iterator for another epoch
+    }
     println("\n\nExample complete")
   }
 
@@ -225,39 +239,46 @@ object App {
       String.valueOf(iter.getRandomWord)
     } else _initialization
     //Create input for initialization
-    val tokens = iter.t.create(_initialization).getTokens
-    val tokensFiltered = new util.ArrayList[String]
+    val tokens = iter.t.create(_initialization).getTokens.asScala
+    val initializationInput = Nd4j.create(Array[Int](1, iter.vectorSize, tokens.length), 'f')
+    val vectors = Nd4j.zeros(tokens.length, iter.inputColumns)
+    for (j <- tokens.indices) {
 
-    import scala.collection.JavaConverters._
-    for (t <- tokens.asScala) {
-      if (iter.wordVectors.hasWord(t)) tokensFiltered.add(t)
+      vectors.putRow(1, iter.word2vec(tokens(j)))
     }
 
-    val seqLength = Math.min(tokensFiltered.size, iter.maxLength)
-    val initializationInput = Nd4j.create(Array[Int](1, iter.vectorSize, iter.maxLength), 'f')
-    val vectors: INDArray = iter.wordVectors.getWordVectors(tokens.subList(0, seqLength)).transpose
+
     // Put wordvectors into features array at the following indices:
     // 1) Document (i)
     // 2) All vector elements which is equal to NDArrayIndex.interval(0, vectorSize)
     // 3) All elements between 0 and the length of the current sequence
-    initializationInput.put(Array[INDArrayIndex](NDArrayIndex.point(0), NDArrayIndex.all, NDArrayIndex.interval(0, seqLength)), vectors)
+    initializationInput.put(Array[INDArrayIndex](NDArrayIndex.point(0), NDArrayIndex.all, NDArrayIndex.interval(0, tokens.length)), vectors)
+
+    println(s"recovered word: ${iter.vec2word(initializationInput.getRow(0))}")
+
 //
 //    //Sample from network (and feed samples back into input) one character at a time (for all samples)
 //    //Sampling is done in parallel here
     net.rnnClearPreviousState()
-    var output: INDArray = net.rnnTimeStep(initializationInput)
-    output = output.tensorAlongDimension(output.size(2) - 1, 1, 0) //Gets the last time step output
+    var output: INDArray = net.rnnTimeStep(iter.word2vec(_initialization))//initializationInput)
 
+    //output = output.tensorAlongDimension(output.size(2) - 1, 1, 0) //Gets the last time step output
 
     val outString = new Array[String](wordToSample)
 
     for (i <- 0 until wordToSample) {
-      outString(i) = iter.convertINDArrayToWord(output)
-      val nextInput = Nd4j.create(iter.word2vecModel.getWordVector(outString(i)))
-      output = net.rnnTimeStep(nextInput) //Do one time step of forward pass
+      val outputProbDistribution = new Array[Double](iter.totalOutcomes)
+
+      for (j <- outputProbDistribution.indices) {
+        outputProbDistribution(j) = output.getDouble(0, j)
+      }
+      val sampledCharacterIdx = sampleFromDistribution(outputProbDistribution, rng)
+      outString(i) = iter.idx2wordMap(sampledCharacterIdx) //iter.vec2word(output.get(NDArrayIndex.point(0), NDArrayIndex.all(), NDArrayIndex.point(0)))
+      output = iter.word2vec(iter.idx2wordMap(sampledCharacterIdx))
+      output = net.rnnTimeStep(output) //Do one time step of forward pass
     }
 
-    outString
+    Array(outString.mkString(" "))
   }
 
   /**

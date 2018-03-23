@@ -48,7 +48,6 @@
       <version>${scala.version}</version>
     </dependency>
 
-
     <!-- DL4j Core Stuff -->
     <dependency>
       <groupId>org.nd4j</groupId>

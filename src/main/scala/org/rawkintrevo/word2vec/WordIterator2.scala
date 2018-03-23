@@ -17,9 +17,11 @@ import java.io.IOException
 import java.nio.charset.Charset
 import java.nio.file.Files
 import java.util
-import java.util.{NoSuchElementException, Random}
+import java.util.{NoSuchElementException, Random, Collections}
 import scala.collection.JavaConversions._
+import scala.util.parsing.json._
 import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer
+
 
 import scala.collection.JavaConversions._
 
@@ -39,6 +41,7 @@ import scala.collection.JavaConversions._
 
   * @param batchSize      Size of each minibatch for training
   * @param truncateLength If reviews exceed
+  * @param rng            Random Number Generator
 
   */
 @throws[IOException]
@@ -47,33 +50,16 @@ class WordIterator2(val textFilePath: String,
                     val truncateLength: Int,
                     val rng: Random) extends DataSetIterator {
 
-    var vectorSize: Int = _
-//  val p = new File(FilenameUtils.concat(dataDirectory, "aclImdb/" + (if (train) "train"
-//  else "test") + "/pos/") + "/")
-//  val n = new File(FilenameUtils.concat(dataDirectory, "aclImdb/" + (if (train) "train"
-//  else "test") + "/neg/") + "/")
-//  positiveFiles = p.listFiles
-//  negativeFiles = n.listFiles
+  var vectorSize: Int = 300
   var cursor: Int = 0
   val t: TokenizerFactory = new DefaultTokenizerFactory
   t.setTokenPreProcessor(new CommonPreprocessor)
 
   val miniBatchOffsets: util.LinkedList[Integer] = new util.LinkedList[Integer]
 
-  val wordVectors: WordVectors = {
-    println("loading word2vec model")
-    val gModel = new File("/home/rawkintrevo/gits/scriptsdl4j/data/GoogleNews-vectors-negative300.bin.gz")
-//    val w2v = WordVectorSerializer.loadStaticModel(gModel)
-    val w2v = WordVectorSerializer.readWord2VecModel(gModel)
-    println("word2vec model loaded")
+  initOffsets()
 
-    vectorSize = w2v.getWordVector(w2v.vocab.wordAtIndex(0)).length
-    w2v
-  }
-
-  val word2vecModel = wordVectors
   override def next(num: Int): DataSet = {
-//    if (cursor >= positiveFiles.length + negativeFiles.length) throw new NoSuchElementException
     try
       nextDataSet(num)
     catch {
@@ -81,65 +67,102 @@ class WordIterator2(val textFilePath: String,
         throw new RuntimeException(e)
     }
   }
+
   var maxLength = 0
+
+  var word2idxMap : Map[String, Int] = _
+  var idx2wordMap : Map[Int, String] = _
+
+  def loadOutputVocab(): Unit = {
+    val textFileEncoding = Charset.forName("UTF-8")
+    var lines: util.List[String] = Files.readAllLines(new File(textFilePath).toPath, textFileEncoding)
+    val allTokens = scala.collection.mutable.ArrayBuffer.empty[String]
+    for (s <- lines) { // this is just to prove that small batches work (then rewire to create random small batches)
+      val tokens = t.create(s).getTokens
+      for (t <- tokens) allTokens += t
+    }
+    val allUniqueTokens = allTokens.distinct.toArray
+    word2idxMap = allUniqueTokens.indices.map(i => (allUniqueTokens(i), i)).toMap[String, Int]
+    idx2wordMap = allUniqueTokens.indices.map(i => (i, allUniqueTokens(i))).toMap[Int, String]
+  }
+
+  loadOutputVocab()
 
   @throws[IOException]
   private def nextDataSet(num: Int) = {
-    val currMinibatchSize: Int = Math.min(num, miniBatchOffsets.size)
+
     val textFileEncoding = Charset.forName("UTF-8")
-    //First: load reviews to String. Alternate positive and negative reviews
-    println("reading lines")
-    val lines: util.List[String] = Files.readAllLines(new File(textFilePath).toPath, textFileEncoding)
+    val startIdx = miniBatchOffsets.removeFirst()
+    var lines: util.List[String] = Files.readAllLines(new File(textFilePath).toPath, textFileEncoding)
+
+    val currMinibatchSize: Int = Math.min(batchSize, lines.length - startIdx)
+    lines = lines.slice(startIdx, startIdx + currMinibatchSize)
     //Second: tokenize reviews and filter out unknown words
     val allTokens = new util.ArrayList[util.List[String]](lines.size)
-
-    println("lines read, creating tokens")
-
     for (s <- lines) { // this is just to prove that small batches work (then rewire to create random small batches)
       val tokens = t.create(s).getTokens
       val tokensFiltered = new util.ArrayList[String]
-
-      for (t <- tokens) {
-        if (wordVectors.hasWord(t)) tokensFiltered.add(t)
-      }
+      for (t <- tokens) tokensFiltered.add(t)
       allTokens.add(tokensFiltered)
       maxLength = Math.max(maxLength, tokensFiltered.size)
     }
     //If longest review exceeds 'truncateLength': only take the first 'truncateLength' words
     maxLength = math.min(maxLength, truncateLength)
-    println(s"tokens created")
+
     //Create data for training
-    //Here: we have reviews.size() examples of varying lengths
+
+    var i = 0
     val features = Nd4j.create(Array[Int](lines.size, vectorSize, maxLength), 'f')
-    val labels = Nd4j.create(Array[Int](lines.size, vectorSize, maxLength), 'f')
-    //Two labels: positive or negative
-    //Because we are dealing with reviews of different lengths and only one output at the final time step: use padding arrays
-    //Mask arrays contain 1 if data is present at that time step for that example, or 0 if data is just padding
+    val labels = Nd4j.create(Array[Int](lines.size, word2idxMap.size, maxLength), 'f')
+
+
     val featuresMask = Nd4j.zeros(lines.size, maxLength)
     val labelsMask = Nd4j.zeros(lines.size, maxLength)
-    var i = 0
-    println("starting while loop")
-    while ( { i < 2}) {//lines.size }) {
-      println(i)
+
+    while ( { i < lines.size }) {
 
       val tokens = allTokens.get(i)
       if (tokens.length > 1) {
         // Get the truncated sequence length of document (i)
         val seqLength = Math.min(tokens.size, maxLength)
         // Get all wordvectors for the current document and transpose them to fit the 2nd and 3rd feature shape
-        val vectors: INDArray = wordVectors.getWordVectors(tokens.subList(0, seqLength)).transpose
+        val vectors = Nd4j.zeros(seqLength, inputColumns)
+        for (j <- 0 until seqLength) {
+//          println(s"token: ${tokens(j)}")
+          vectors.put(Array[INDArrayIndex](NDArrayIndex.point(j)), word2vec(tokens(j)))
+//          println(s"vec2word: ${vec2word(vectors.get(NDArrayIndex.point(j)))}")
+        }
+
+
+//        for (j <- 0 until seqLength -1 ){
+//          println(s"vec2word label $j : ${vec2word(labs.get(NDArrayIndex.point(j)))}")
+//
+//        }
+
         // Put wordvectors into features array at the following indices:
         // 1) Document (i)
         // 2) All vector elements which is equal to NDArrayIndex.interval(0, vectorSize)
         // 3) All elements between 0 and the length of the current sequence
-        features.put(Array[INDArrayIndex](NDArrayIndex.point(i), NDArrayIndex.all, NDArrayIndex.interval(0, seqLength)), vectors)
-
+//        println(s"vectors.shape: ${vectors.shape.mkString(",")}")
+//        println(s"features.shape: ${features.shape.mkString(",")}")
+        features.put(Array[INDArrayIndex](NDArrayIndex.point(i), NDArrayIndex.all, NDArrayIndex.interval(0, seqLength)), vectors.transpose())
         // Assign "1" to each position where a feature is present, that is, in the interval of [0, seqLength)
         featuresMask.put(Array[INDArrayIndex](NDArrayIndex.point(i), NDArrayIndex.interval(0, seqLength)), 1)
+//        println(s"featureMask: ${featuresMask.get(NDArrayIndex.point(i))}")
 
-        val labs = wordVectors.getWordVectors(tokens.subList(1, seqLength)).transpose
-        labels.put(Array[INDArrayIndex](NDArrayIndex.point(i), NDArrayIndex.all, NDArrayIndex.interval(0, seqLength - 1)), labs)
+        for (t <- 0 until seqLength){
 
+          val wordIdx = word2idxMap(tokens(t))
+          labels.putScalar(Array[Int](i, wordIdx, t), 1.0)
+        }
+//        labels.put(Array[INDArrayIndex](NDArrayIndex.point(i), NDArrayIndex.all, NDArrayIndex.interval(0, seqLength - 1)), labs.transpose())
+//        for (j <- 0 until seqLength -1 ){
+//          val featureVec = features.get(NDArrayIndex.point(i), NDArrayIndex.all, NDArrayIndex.point(j))
+//          println(s"feature shape: ${featureVec.shape().mkString(",")}")
+//          println(s"vec2word feature2 $j : ${vec2word(featureVec)}")
+//          println(s"featureVec input: ${labs.get(NDArrayIndex.point(j)).toString}")
+//          println(s"featureVec recovered: ${featureVec.toString}")
+//        }
         labelsMask.put(Array[INDArrayIndex](NDArrayIndex.point(i), NDArrayIndex.interval(0, seqLength - 1)), 1)
       }
 
@@ -150,17 +173,16 @@ class WordIterator2(val textFilePath: String,
 
   override def totalExamples: Int ={
     val textFileEncoding = Charset.forName("UTF-8")
-    //First: load reviews to String. Alternate positive and negative reviews
-    val reviews: util.List[String] = Files.readAllLines(new File(textFilePath).toPath, textFileEncoding)
-    reviews.size()
+    val lines: util.List[String] = Files.readAllLines(new File(textFilePath).toPath, textFileEncoding)
+    lines.size()
   }
 
   override def inputColumns: Int = vectorSize
 
-  override def totalOutcomes: Int = vectorSize
+  override def totalOutcomes: Int = idx2wordMap.size
 
   override def reset(): Unit = {
-    cursor = 0
+    initOffsets()
   }
 
   override def resetSupported = true
@@ -187,48 +209,74 @@ class WordIterator2(val textFilePath: String,
 
   override def getPreProcessor = throw new UnsupportedOperationException("Not implemented")
 
-  /** Convenience method for loading review to String */
-//  @throws[IOException]
-//  def loadReviewToString(index: Int): String = {
-//    "foo"
-//  }
 
-  /**
-    * Used post training to convert a String to a features INDArray that can be passed to the network output method
-    *
-    * @param reviewContents Contents of the review to vectorize
-    * @param maxLength      Maximum length (if review is longer than this: truncate to maxLength). Use Integer.MAX_VALUE to not nruncate
-    * @return Features array for the given input String
-    */
-  def loadFeaturesFromString(reviewContents: String, maxLength: Int): INDArray = {
-    val tokens = t.create(reviewContents).getTokens
-    val tokensFiltered = new util.ArrayList[String]
-    import scala.collection.JavaConversions._
-    for (t <- tokens) {
-      if (wordVectors.hasWord(t)) tokensFiltered.add(t)
-    }
-    val outputLength = Math.max(maxLength, tokensFiltered.size)
-    val features = Nd4j.create(1, vectorSize, outputLength)
-    var j = 0
-    while ( {
-      j < tokens.size && j < maxLength
-    }) {
-      val token = tokens.get(j)
-      val vector = wordVectors.getWordVectorMatrix(token)
-      features.put(Array[INDArrayIndex](NDArrayIndex.point(0), NDArrayIndex.all, NDArrayIndex.point(j)), vector)
+  /*********************************************************************************************************************
+    * Custom Shit Starts here
+    * **************************************************************************************************************/
 
-      {
-        j += 1; j - 1
-      }
+  def initOffsets(): Unit = {
+    for (i <- 0 until totalExamples by batchSize) {
+      miniBatchOffsets.add(i)
     }
-    features
+    Collections.shuffle(miniBatchOffsets, rng)
   }
 
-  def convertINDArrayToWord(v: INDArray): String =
-    word2vecModel.wordsNearest(v, 1).iterator().next()
+  def word2vec(word: String): INDArray = {
+    if (word.trim() == ""){
+      return Nd4j.zeros(300)
+    }
+    val url = s"http://localhost:9001/word2vec/${word.trim()}"
+    val result = scala.io.Source.fromURL(url).mkString
+    val parsed : Option[Any] = JSON.parseFull(result)
+    parsed match {
+      case Some(m: Map[String, List[Double]]) => {
+        if (m("foundResult")(0) == 1) return Nd4j.create(m("vec").toArray)
+        else {
+//          println(s"Word '$word' doesn't exist")
+          return Nd4j.zeros(300)
+        }
+      }
+      case _ => {
+        println("this is wierd...")
+        Nd4j.zeros(300)
+      }
+    }
+  }
 
+  def vec2word(vec: INDArray): String = {
+    var vec2: INDArray = Nd4j.zeros(300)
+    if (vec.shape()(0) == 300) {
+      vec2 = vec
+    } else {
+      vec2 = vec.transpose()
+    }
+    val myArray = new Array[Double](300)
+    for (i <- 0 until 300) {
+      myArray(i) = vec2.getDouble(i,0)
+    }
+
+    val params = (0 until 300).map(i => s"a$i=${myArray(i)}").mkString("&")
+    val url = s"http://localhost:9001/vec2word?$params"
+    val result = scala.io.Source.fromURL(url).mkString
+    val parsed : Option[Any] = JSON.parseFull(result)
+    parsed match {
+      case Some(m: Map[String, String]) => m("word")
+      case _ =>  ""
+    }
+  }
+  /*
+
+    * @return
+    */
   def getRandomWord: String = {
-    val vocab =word2vecModel.vocab()
-    vocab.wordAtIndex(rng.nextInt(vocab.numWords()))
+    val randArray = Seq.fill(300)(rng.nextFloat)
+    val params = (0 until 300).map(i => s"a$i=${randArray(i)}").mkString("&")
+    val url = s"http://localhost:9001/vec2word?$params"
+    val result = scala.io.Source.fromURL(url).mkString
+    val parsed : Option[Any] = JSON.parseFull(result)
+    parsed match {
+      case Some(m: Map[String, String]) => m("word")
+      case None =>  ""
+    }
   }
 }
